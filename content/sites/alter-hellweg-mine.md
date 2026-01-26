@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/400px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/800px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/1200px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/1920px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg/1920px-Ausschnitt_Gedenktafel_Zeche_Alter_Hellweg.jpg
+---
 
 ## Overview
 

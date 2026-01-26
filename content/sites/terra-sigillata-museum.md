@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/400px-Terra_Sigillata_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/800px-Terra_Sigillata_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/1200px-Terra_Sigillata_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/1920px-Terra_Sigillata_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Terra_Sigillata_Museum.jpg/1920px-Terra_Sigillata_Museum.jpg
+---
 
 ## Overview
 

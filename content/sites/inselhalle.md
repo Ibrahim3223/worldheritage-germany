@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/400px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/800px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/1200px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/1920px-Inselhalle_Lindau_(IMG_20220429_143216).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Inselhalle_Lindau_(IMG_20220429_143216).jpg/1920px-Inselhalle_Lindau_(IMG_20220429_143216).jpg
+---
 
 ## Overview
 

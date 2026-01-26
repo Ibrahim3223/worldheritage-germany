@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/400px-Ingolstadt_Münster_2012-04_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/800px-Ingolstadt_Münster_2012-04_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1200px-Ingolstadt_Münster_2012-04_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1920px-Ingolstadt_Münster_2012-04_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ingolstadt_Münster_2012-04_(cropped).jpg/1920px-Ingolstadt_Münster_2012-04_(cropped).jpg
+---
 
 ## Overview
 

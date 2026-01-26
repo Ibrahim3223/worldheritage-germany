@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/400px-Münzenberg_Ansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/800px-Münzenberg_Ansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/1200px-Münzenberg_Ansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/1920px-Münzenberg_Ansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Münzenberg_Ansicht.JPG/1920px-Münzenberg_Ansicht.JPG
+---
 
 ## Overview
 

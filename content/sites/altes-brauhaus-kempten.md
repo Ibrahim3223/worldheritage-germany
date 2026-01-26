@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/400px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/800px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/1200px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/1920px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg/1920px-Altes_Brauhaus_Kempten_20032016_(Foto_Hilarmont)_(1).jpg
+---
 
 ## Overview
 

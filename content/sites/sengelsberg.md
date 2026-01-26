@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20131226_150029_Sengelsberg.jpg/400px-20131226_150029_Sengelsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20131226_150029_Sengelsberg.jpg/800px-20131226_150029_Sengelsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20131226_150029_Sengelsberg.jpg/1200px-20131226_150029_Sengelsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20131226_150029_Sengelsberg.jpg/1920px-20131226_150029_Sengelsberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20131226_150029_Sengelsberg.jpg/1920px-20131226_150029_Sengelsberg.jpg
+---
 
 ## Overview
 

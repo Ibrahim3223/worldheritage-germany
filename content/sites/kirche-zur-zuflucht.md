@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/400px-Rockenau-kathkirch-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/800px-Rockenau-kathkirch-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/1200px-Rockenau-kathkirch-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/1920px-Rockenau-kathkirch-web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rockenau-kathkirch-web.jpg/1920px-Rockenau-kathkirch-web.jpg
+---
 
 ## Overview
 

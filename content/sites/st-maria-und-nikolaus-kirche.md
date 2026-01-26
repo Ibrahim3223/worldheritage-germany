@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/400px-ChurchSteenfelde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/800px-ChurchSteenfelde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/1200px-ChurchSteenfelde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/1920px-ChurchSteenfelde.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChurchSteenfelde.JPG/1920px-ChurchSteenfelde.JPG
+---
 
 ## Overview
 

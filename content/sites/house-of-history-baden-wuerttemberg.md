@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/400px-Stuttgart-haus-der-geschichte-bw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/800px-Stuttgart-haus-der-geschichte-bw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1200px-Stuttgart-haus-der-geschichte-bw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1920px-Stuttgart-haus-der-geschichte-bw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1920px-Stuttgart-haus-der-geschichte-bw.jpg
+---
 
 ## Overview
 

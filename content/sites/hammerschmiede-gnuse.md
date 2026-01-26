@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/400px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/800px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/1200px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/1920px-Vlotho-Denkmal-102-2013-06-29-0437.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vlotho-Denkmal-102-2013-06-29-0437.jpg/1920px-Vlotho-Denkmal-102-2013-06-29-0437.jpg
+---
 
 ## Overview
 

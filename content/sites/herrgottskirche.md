@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/400px-Creglingen,_Herrgottskirche_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/800px-Creglingen,_Herrgottskirche_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1200px-Creglingen,_Herrgottskirche_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1920px-Creglingen,_Herrgottskirche_001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1920px-Creglingen,_Herrgottskirche_001.JPG
+---
 
 ## Overview
 

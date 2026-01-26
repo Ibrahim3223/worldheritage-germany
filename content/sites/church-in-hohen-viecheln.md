@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/400px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/800px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1200px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1920px-Hohen_Viecheln_Kirche_2008-11-13p.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1920px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
+---
 
 ## Overview
 

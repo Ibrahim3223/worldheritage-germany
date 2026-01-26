@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ziegelmuseum_Front.png/400px-Ziegelmuseum_Front.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ziegelmuseum_Front.png/800px-Ziegelmuseum_Front.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ziegelmuseum_Front.png/1200px-Ziegelmuseum_Front.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ziegelmuseum_Front.png/1920px-Ziegelmuseum_Front.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ziegelmuseum_Front.png/1920px-Ziegelmuseum_Front.png
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/400px-Theater_in_Haehnelstraße,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/800px-Theater_in_Haehnelstraße,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/1200px-Theater_in_Haehnelstraße,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/1920px-Theater_in_Haehnelstraße,_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theater_in_Haehnelstraße,_Leipzig.jpg/1920px-Theater_in_Haehnelstraße,_Leipzig.jpg
+---
 
 ## Overview
 

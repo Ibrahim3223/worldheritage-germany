@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Juist,_Strand_--_2014_--_3601.jpg/400px-Juist,_Strand_--_2014_--_3601.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Juist,_Strand_--_2014_--_3601.jpg/800px-Juist,_Strand_--_2014_--_3601.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Juist,_Strand_--_2014_--_3601.jpg/1200px-Juist,_Strand_--_2014_--_3601.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Juist,_Strand_--_2014_--_3601.jpg/1920px-Juist,_Strand_--_2014_--_3601.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Juist,_Strand_--_2014_--_3601.jpg/1920px-Juist,_Strand_--_2014_--_3601.jpg
+---
 
 ## Overview
 

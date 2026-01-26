@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/400px-Maria_am_Wasser_in_Hosterwitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/800px-Maria_am_Wasser_in_Hosterwitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/1200px-Maria_am_Wasser_in_Hosterwitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/1920px-Maria_am_Wasser_in_Hosterwitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Maria_am_Wasser_in_Hosterwitz.jpg/1920px-Maria_am_Wasser_in_Hosterwitz.jpg
+---
 
 ## Overview
 

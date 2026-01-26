@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/400px-Bungsberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/800px-Bungsberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1200px-Bungsberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1920px-Bungsberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1920px-Bungsberg.JPG
+---
 
 ## Overview
 

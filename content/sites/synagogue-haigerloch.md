@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/400px-Haigerloch_Synagoge531.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/800px-Haigerloch_Synagoge531.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/1200px-Haigerloch_Synagoge531.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/1920px-Haigerloch_Synagoge531.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haigerloch_Synagoge531.JPG/1920px-Haigerloch_Synagoge531.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Eutiner_Witwenpalais.JPG/400px-Eutiner_Witwenpalais.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Eutiner_Witwenpalais.JPG/800px-Eutiner_Witwenpalais.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Eutiner_Witwenpalais.JPG/1200px-Eutiner_Witwenpalais.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Eutiner_Witwenpalais.JPG/1920px-Eutiner_Witwenpalais.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Eutiner_Witwenpalais.JPG/1920px-Eutiner_Witwenpalais.JPG
+---
 
 ## Overview
 

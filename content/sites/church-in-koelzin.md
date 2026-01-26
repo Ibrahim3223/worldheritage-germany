@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/400px-Kölzin-Kirche-Westgiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/800px-Kölzin-Kirche-Westgiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1200px-Kölzin-Kirche-Westgiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1920px-Kölzin-Kirche-Westgiebel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1920px-Kölzin-Kirche-Westgiebel.JPG
+---
 
 ## Overview
 

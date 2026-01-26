@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/400px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/800px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1200px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1920px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1920px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
+---
 
 ## Overview
 

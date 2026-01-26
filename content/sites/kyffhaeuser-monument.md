@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg/400px-Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg/800px-Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg/1200px-Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg/1920px-Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg/1920px-Kyffhäuserdenkmal_20210914_HOF05972_RAW-Export_20220415002107corr_Kopie.jpg
+---
 
 ## Overview
 

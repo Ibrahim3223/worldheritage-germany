@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/400px-Wendischer_Turm_100.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/800px-Wendischer_Turm_100.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/1200px-Wendischer_Turm_100.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/1920px-Wendischer_Turm_100.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wendischer_Turm_100.JPG/1920px-Wendischer_Turm_100.JPG
+---
 
 ## Overview
 

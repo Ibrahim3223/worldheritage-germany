@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/400px-Panorama_Kloster_Saarn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/800px-Panorama_Kloster_Saarn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/1200px-Panorama_Kloster_Saarn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/1920px-Panorama_Kloster_Saarn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Panorama_Kloster_Saarn.jpg/1920px-Panorama_Kloster_Saarn.jpg
+---
 
 ## Overview
 

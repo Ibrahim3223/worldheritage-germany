@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/400px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/800px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/1200px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/1920px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg/1920px-Weidenbach,_Triesdorfer_Straße_8_20170824_010.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/400px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/800px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/1200px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/1920px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg/1920px-2013-03-16_Drachenfelsstraße_9,_Königswinter_IMG_4160.jpg
+---
 
 ## Overview
 

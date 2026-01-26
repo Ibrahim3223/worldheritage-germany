@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/400px-WAK_Bischofroda_009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/800px-WAK_Bischofroda_009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/1200px-WAK_Bischofroda_009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/1920px-WAK_Bischofroda_009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/WAK_Bischofroda_009.jpg/1920px-WAK_Bischofroda_009.jpg
+---
 
 ## Overview
 

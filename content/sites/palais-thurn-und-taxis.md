@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/201702_palais_thurn_und_taxis_ffm_07.jpg/400px-201702_palais_thurn_und_taxis_ffm_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/201702_palais_thurn_und_taxis_ffm_07.jpg/800px-201702_palais_thurn_und_taxis_ffm_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/201702_palais_thurn_und_taxis_ffm_07.jpg/1200px-201702_palais_thurn_und_taxis_ffm_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/201702_palais_thurn_und_taxis_ffm_07.jpg/1920px-201702_palais_thurn_und_taxis_ffm_07.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/201702_palais_thurn_und_taxis_ffm_07.jpg/1920px-201702_palais_thurn_und_taxis_ffm_07.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/050628-elbtal-vom-luisenhof.jpg/400px-050628-elbtal-vom-luisenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/050628-elbtal-vom-luisenhof.jpg/800px-050628-elbtal-vom-luisenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/050628-elbtal-vom-luisenhof.jpg/1200px-050628-elbtal-vom-luisenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/050628-elbtal-vom-luisenhof.jpg/1920px-050628-elbtal-vom-luisenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/050628-elbtal-vom-luisenhof.jpg/1920px-050628-elbtal-vom-luisenhof.jpg
+---
 
 ## Overview
 

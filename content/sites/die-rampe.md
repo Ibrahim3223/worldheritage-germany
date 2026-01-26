@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/400px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/800px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/1200px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/1920px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg/1920px-Die_Rampe,_Mahnmal,_Detail,_Kassel,_E_R_Nele.jpg
+---
 
 ## Overview
 

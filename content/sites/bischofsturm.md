@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/400px-Bischofsturm_wall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/800px-Bischofsturm_wall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1200px-Bischofsturm_wall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1920px-Bischofsturm_wall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1920px-Bischofsturm_wall.jpg
+---
 
 ## Overview
 

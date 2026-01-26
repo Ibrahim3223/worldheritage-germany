@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/400px-Käthe-Kollwitz-Museum_Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/800px-Käthe-Kollwitz-Museum_Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1200px-Käthe-Kollwitz-Museum_Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1920px-Käthe-Kollwitz-Museum_Köln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1920px-Käthe-Kollwitz-Museum_Köln.jpg
+---
 
 ## Overview
 

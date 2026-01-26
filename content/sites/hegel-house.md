@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/400px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/800px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1200px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1920px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1920px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
+---
 
 ## Overview
 

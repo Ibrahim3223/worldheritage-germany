@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/400px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/800px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/1200px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/1920px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg/1920px-Notzing_Dreifaltigkeitskapelle_bjs100404-03.jpg
+---
 
 ## Overview
 

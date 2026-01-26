@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ArsTECNICA_Eingang.jpg/400px-ArsTECNICA_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ArsTECNICA_Eingang.jpg/800px-ArsTECNICA_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ArsTECNICA_Eingang.jpg/1200px-ArsTECNICA_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ArsTECNICA_Eingang.jpg/1920px-ArsTECNICA_Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ArsTECNICA_Eingang.jpg/1920px-ArsTECNICA_Eingang.jpg
+---
 
 ## Overview
 

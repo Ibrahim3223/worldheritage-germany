@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/400px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/800px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/1200px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/1920px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg/1920px-Agnes-Miegel-Haus_Bad_Nenndorf_IMG_6791_retouched.jpg
+---
 
 ## Overview
 

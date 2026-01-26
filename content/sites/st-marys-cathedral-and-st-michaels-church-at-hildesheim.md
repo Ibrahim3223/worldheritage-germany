@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/400px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/800px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/1200px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/1920px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg/1920px-St_Mary's_Cathedral_and_St_Michael's_Church_at_Hildesheim.jpg
+---
 
 ## Overview
 

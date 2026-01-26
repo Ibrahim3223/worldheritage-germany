@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/400px-Karmeliterkirche_Mainz_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/800px-Karmeliterkirche_Mainz_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1200px-Karmeliterkirche_Mainz_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1920px-Karmeliterkirche_Mainz_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Karmeliterkirche_Mainz_01.jpg/1920px-Karmeliterkirche_Mainz_01.jpg
+---
 
 ## Overview
 

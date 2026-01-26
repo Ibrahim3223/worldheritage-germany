@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/400px-Hallburg,_Gesamtanlage,_Volkach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/800px-Hallburg,_Gesamtanlage,_Volkach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/1200px-Hallburg,_Gesamtanlage,_Volkach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/1920px-Hallburg,_Gesamtanlage,_Volkach.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hallburg,_Gesamtanlage,_Volkach.JPG/1920px-Hallburg,_Gesamtanlage,_Volkach.JPG
+---
 
 ## Overview
 

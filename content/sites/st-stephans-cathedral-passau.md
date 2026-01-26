@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/400px-Passauer_Dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/800px-Passauer_Dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/1200px-Passauer_Dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/1920px-Passauer_Dom.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Passauer_Dom.jpg/1920px-Passauer_Dom.jpg
+---
 
 ## Overview
 

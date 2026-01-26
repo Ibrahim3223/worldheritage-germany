@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/400px-GaibachKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/800px-GaibachKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/1200px-GaibachKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/1920px-GaibachKirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GaibachKirche.JPG/1920px-GaibachKirche.JPG
+---
 
 ## Overview
 

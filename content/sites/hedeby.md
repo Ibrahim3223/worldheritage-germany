@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/400px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/800px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1200px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1920px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1920px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
+---
 
 ## Overview
 

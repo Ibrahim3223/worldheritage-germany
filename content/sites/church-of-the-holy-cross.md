@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/400px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/800px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/1200px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/1920px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg/1920px-LEV-Rheindorf_Heilig-Kreuz-Kirche.jpg
+---
 
 ## Overview
 

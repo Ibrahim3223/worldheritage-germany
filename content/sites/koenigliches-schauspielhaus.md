@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/400px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/800px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/1200px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/1920px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg/1920px-Bundesarchiv_Bild_170-230,_Potsdam,_Schauspielhaus.jpg
+---
 
 ## Overview
 

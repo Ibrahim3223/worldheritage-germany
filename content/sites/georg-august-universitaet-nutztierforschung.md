@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/400px-Georg-August-Universität-_Nutztierforschung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/800px-Georg-August-Universität-_Nutztierforschung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/1200px-Georg-August-Universität-_Nutztierforschung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/1920px-Georg-August-Universität-_Nutztierforschung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Georg-August-Universität-_Nutztierforschung.jpg/1920px-Georg-August-Universität-_Nutztierforschung.jpg
+---
 
 ## Overview
 

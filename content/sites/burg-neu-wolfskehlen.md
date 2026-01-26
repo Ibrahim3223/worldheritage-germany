@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/400px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/800px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/1200px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/1920px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnetometer_prospektion_burg_neu-wolfskehlen_2.png/1920px-Magnetometer_prospektion_burg_neu-wolfskehlen_2.png
+---
 
 ## Overview
 

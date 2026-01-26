@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/400px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/800px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/1200px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/1920px-Rostock_asv2018-05_img44_Nikolaikirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rostock_asv2018-05_img44_Nikolaikirche.jpg/1920px-Rostock_asv2018-05_img44_Nikolaikirche.jpg
+---
 
 ## Overview
 

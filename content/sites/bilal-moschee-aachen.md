@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/400px-Bilal-Moschee,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/800px-Bilal-Moschee,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1200px-Bilal-Moschee,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1920px-Bilal-Moschee,_Aachen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1920px-Bilal-Moschee,_Aachen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/400px-Eickelberg_Kirche_2009-07-16_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/800px-Eickelberg_Kirche_2009-07-16_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1200px-Eickelberg_Kirche_2009-07-16_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1920px-Eickelberg_Kirche_2009-07-16_005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1920px-Eickelberg_Kirche_2009-07-16_005.jpg
+---
 
 ## Overview
 

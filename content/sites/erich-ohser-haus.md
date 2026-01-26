@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/400px-Erich-Ohser-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/800px-Erich-Ohser-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/1200px-Erich-Ohser-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/1920px-Erich-Ohser-Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Erich-Ohser-Haus.jpg/1920px-Erich-Ohser-Haus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/400px-Fernmeldeturm_Heidelberg_15042013_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/800px-Fernmeldeturm_Heidelberg_15042013_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/1200px-Fernmeldeturm_Heidelberg_15042013_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/1920px-Fernmeldeturm_Heidelberg_15042013_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fernmeldeturm_Heidelberg_15042013_1.JPG/1920px-Fernmeldeturm_Heidelberg_15042013_1.JPG
+---
 
 ## Overview
 

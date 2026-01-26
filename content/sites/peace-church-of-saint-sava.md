@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/400px-Friedenskirche_(Gesundbrunnen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/800px-Friedenskirche_(Gesundbrunnen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/1200px-Friedenskirche_(Gesundbrunnen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/1920px-Friedenskirche_(Gesundbrunnen).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Friedenskirche_(Gesundbrunnen).jpg/1920px-Friedenskirche_(Gesundbrunnen).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/400px-Ziegenkopf_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/800px-Ziegenkopf_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/1200px-Ziegenkopf_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/1920px-Ziegenkopf_003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ziegenkopf_003.jpg/1920px-Ziegenkopf_003.jpg
+---
 
 ## Overview
 

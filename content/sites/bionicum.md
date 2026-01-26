@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/400px-Bionicum_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/800px-Bionicum_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/1200px-Bionicum_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/1920px-Bionicum_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bionicum_01.JPG/1920px-Bionicum_01.JPG
+---
 
 ## Overview
 

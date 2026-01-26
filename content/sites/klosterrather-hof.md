@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/400px-Aachen,_Klosterrather_Hof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/800px-Aachen,_Klosterrather_Hof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/1200px-Aachen,_Klosterrather_Hof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/1920px-Aachen,_Klosterrather_Hof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen,_Klosterrather_Hof.jpg/1920px-Aachen,_Klosterrather_Hof.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kapelle_Wahlsdorf_2008_Aussenansicht.jpg/400px-Kapelle_Wahlsdorf_2008_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kapelle_Wahlsdorf_2008_Aussenansicht.jpg/800px-Kapelle_Wahlsdorf_2008_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kapelle_Wahlsdorf_2008_Aussenansicht.jpg/1200px-Kapelle_Wahlsdorf_2008_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kapelle_Wahlsdorf_2008_Aussenansicht.jpg/1920px-Kapelle_Wahlsdorf_2008_Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kapelle_Wahlsdorf_2008_Aussenansicht.jpg/1920px-Kapelle_Wahlsdorf_2008_Aussenansicht.jpg
+---
 
 ## Overview
 

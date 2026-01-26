@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/400px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/800px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/1200px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/1920px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilig_Kruiskerk_(Rheingauer_Dom).jpg/1920px-Heilig_Kruiskerk_(Rheingauer_Dom).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/400px-Dreifältigkeitskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/800px-Dreifältigkeitskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/1200px-Dreifältigkeitskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/1920px-Dreifältigkeitskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreifältigkeitskapelle.jpg/1920px-Dreifältigkeitskapelle.jpg
+---
 
 ## Overview
 

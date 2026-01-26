@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg/400px-Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg/800px-Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg/1200px-Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg/1920px-Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg/1920px-Churfürst_Johann_Friedrich_der_Großmütige,_Denkmal,_Jena_DDR_Aug_1989.jpg
+---
 
 ## Overview
 

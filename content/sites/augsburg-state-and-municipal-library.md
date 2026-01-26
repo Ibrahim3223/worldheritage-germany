@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/400px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/800px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1200px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1920px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1920px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
+---
 
 ## Overview
 

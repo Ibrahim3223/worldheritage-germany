@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/400px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/800px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/1200px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/1920px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg/1920px-Deserteursdenkmal_(Hamburg-Neustadt).1.ajb.jpg
+---
 
 ## Overview
 

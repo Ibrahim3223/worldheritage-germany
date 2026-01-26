@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/400px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/800px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/1200px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/1920px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bahnhof_Postbauer-Heng_Gleisansicht.jpg/1920px-Bahnhof_Postbauer-Heng_Gleisansicht.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/400px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/800px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/1200px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/1920px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg/1920px-Bahnhof_Pirna_(freigestellt_aus_FileːBahnhofstraße_Pirna_43800820701).jpg
+---
 
 ## Overview
 

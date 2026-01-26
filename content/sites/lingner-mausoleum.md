@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/400px-Lingner_Mausoleum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/800px-Lingner_Mausoleum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/1200px-Lingner_Mausoleum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/1920px-Lingner_Mausoleum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lingner_Mausoleum.JPG/1920px-Lingner_Mausoleum.JPG
+---
 
 ## Overview
 

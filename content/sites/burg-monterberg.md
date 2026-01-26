@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/400px-Monterberg_Braun_Hogenberg_1575.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/800px-Monterberg_Braun_Hogenberg_1575.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/1200px-Monterberg_Braun_Hogenberg_1575.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/1920px-Monterberg_Braun_Hogenberg_1575.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Monterberg_Braun_Hogenberg_1575.jpg/1920px-Monterberg_Braun_Hogenberg_1575.jpg
+---
 
 ## Overview 
 

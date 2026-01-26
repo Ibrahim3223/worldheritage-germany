@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Falkenberg-Bohnsdorf.JPG/400px-Falkenberg-Bohnsdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Falkenberg-Bohnsdorf.JPG/800px-Falkenberg-Bohnsdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Falkenberg-Bohnsdorf.JPG/1200px-Falkenberg-Bohnsdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Falkenberg-Bohnsdorf.JPG/1920px-Falkenberg-Bohnsdorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Falkenberg-Bohnsdorf.JPG/1920px-Falkenberg-Bohnsdorf.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/400px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/800px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/1200px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/1920px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eyüp-Sultan-Moschee_(Emden)_msu.jpg/1920px-Eyüp-Sultan-Moschee_(Emden)_msu.jpg
+---
 
 ## Overview
 

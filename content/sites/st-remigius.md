@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beeden_St._Remigius_01.JPG/400px-Beeden_St._Remigius_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beeden_St._Remigius_01.JPG/800px-Beeden_St._Remigius_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beeden_St._Remigius_01.JPG/1200px-Beeden_St._Remigius_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beeden_St._Remigius_01.JPG/1920px-Beeden_St._Remigius_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beeden_St._Remigius_01.JPG/1920px-Beeden_St._Remigius_01.JPG
+---
 
 ## Overview
 

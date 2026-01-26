@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/400px-SoestBrunnen-IMG_0783.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/800px-SoestBrunnen-IMG_0783.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/1200px-SoestBrunnen-IMG_0783.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/1920px-SoestBrunnen-IMG_0783.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SoestBrunnen-IMG_0783.JPG/1920px-SoestBrunnen-IMG_0783.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/400px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/800px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/1200px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/1920px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg/1920px-Mühle_Paula_in_Steinhude_(Wunstorf)_IMG_6604.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/400px-Zionskirche_Worpswede_South.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/800px-Zionskirche_Worpswede_South.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/1200px-Zionskirche_Worpswede_South.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/1920px-Zionskirche_Worpswede_South.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zionskirche_Worpswede_South.JPG/1920px-Zionskirche_Worpswede_South.JPG
+---
 
 ## Overview
 

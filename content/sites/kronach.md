@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/400px-KC_DB.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/800px-KC_DB.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/1200px-KC_DB.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/1920px-KC_DB.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/KC_DB.JPG/1920px-KC_DB.JPG
+---
 
 ## Overview
 

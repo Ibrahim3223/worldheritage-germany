@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/400px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/800px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/1200px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/1920px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg/1920px-Rundbogenbrücke_VII_Haselbach_2020-05-16_9.jpg
+---
 
 ## Overview
 

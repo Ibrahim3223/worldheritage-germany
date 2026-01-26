@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/400px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/800px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/1200px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/1920px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg/1920px-Würzburg_-_Frankfurter_Straße_87_Sieboldmuseum.jpg
+---
 
 ## Overview
 

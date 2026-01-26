@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/400px-Buhla_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/800px-Buhla_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/1200px-Buhla_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/1920px-Buhla_Herrenhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Buhla_Herrenhaus.JPG/1920px-Buhla_Herrenhaus.JPG
+---
 
 ## Overview
 

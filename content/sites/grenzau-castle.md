@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/400px-Grenzau_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/800px-Grenzau_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1200px-Grenzau_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1920px-Grenzau_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1920px-Grenzau_Burg.jpg
+---
 
 ## Overview
 

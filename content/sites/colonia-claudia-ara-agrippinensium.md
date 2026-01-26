@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/400px-Roman_Cologne,_reconstruction.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/800px-Roman_Cologne,_reconstruction.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1200px-Roman_Cologne,_reconstruction.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1920px-Roman_Cologne,_reconstruction.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1920px-Roman_Cologne,_reconstruction.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/400px-Burg_Hardegsen_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/800px-Burg_Hardegsen_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1200px-Burg_Hardegsen_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1920px-Burg_Hardegsen_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1920px-Burg_Hardegsen_3.jpg
+---
 
 ## Overview
 

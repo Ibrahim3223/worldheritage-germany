@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/400px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/800px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/1200px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/1920px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Egestorff-Schule_und_Humboldtschule_Hannover.jpg/1920px-Egestorff-Schule_und_Humboldtschule_Hannover.jpg
+---
 
 ## Overview
 

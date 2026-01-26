@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/400px-Husum_Kirchlein_am_Meer_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/800px-Husum_Kirchlein_am_Meer_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1200px-Husum_Kirchlein_am_Meer_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1920px-Husum_Kirchlein_am_Meer_aussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Husum_Kirchlein_am_Meer_aussen.jpg/1920px-Husum_Kirchlein_am_Meer_aussen.jpg
+---
 
 ## Overview
 

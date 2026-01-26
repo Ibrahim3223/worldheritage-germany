@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/400px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/800px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1200px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1920px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1920px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
+---
 
 ## Overview
 

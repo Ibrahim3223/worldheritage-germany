@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/400px-Lauenstein_Burg_9302266-Pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/800px-Lauenstein_Burg_9302266-Pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1200px-Lauenstein_Burg_9302266-Pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1920px-Lauenstein_Burg_9302266-Pano.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1920px-Lauenstein_Burg_9302266-Pano.jpg
+---
 
 ## Overview
 

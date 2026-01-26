@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/400px-Neuendorf_Kirche_1S.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/800px-Neuendorf_Kirche_1S.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/1200px-Neuendorf_Kirche_1S.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/1920px-Neuendorf_Kirche_1S.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Neuendorf_Kirche_1S.jpg/1920px-Neuendorf_Kirche_1S.jpg
+---
 
 ## Overview
 

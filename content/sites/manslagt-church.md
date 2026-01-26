@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchManslagt.JPG/400px-ChurchManslagt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchManslagt.JPG/800px-ChurchManslagt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchManslagt.JPG/1200px-ChurchManslagt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchManslagt.JPG/1920px-ChurchManslagt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchManslagt.JPG/1920px-ChurchManslagt.JPG
+---
 
 ## Overview
 

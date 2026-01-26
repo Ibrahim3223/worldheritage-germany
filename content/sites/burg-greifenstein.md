@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/400px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/800px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/1200px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/1920px-Burg.Greifenstein.Thüringen.Außenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg.Greifenstein.Thüringen.Außenansicht.jpg/1920px-Burg.Greifenstein.Thüringen.Außenansicht.jpg
+---
 
 ## Overview
 

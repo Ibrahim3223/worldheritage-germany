@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/400px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/800px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1200px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1920px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1920px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
+---
 
 ## Overview
 

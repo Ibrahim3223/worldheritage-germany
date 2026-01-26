@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/400px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/800px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/1200px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/1920px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg/1920px-Kapuzinerkirche_Eichstätt_-Hl_Grab.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/400px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/800px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/1200px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/1920px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg/1920px-Düsseldorf,_Königliches_Gymnasium_an_der_Alleestraße_um_1890.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/400px-Konstanz_Bodenseeufer_Untere_Güll.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/800px-Konstanz_Bodenseeufer_Untere_Güll.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/1200px-Konstanz_Bodenseeufer_Untere_Güll.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/1920px-Konstanz_Bodenseeufer_Untere_Güll.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Konstanz_Bodenseeufer_Untere_Güll.JPG/1920px-Konstanz_Bodenseeufer_Untere_Güll.JPG
+---
 
 ## Overview
 

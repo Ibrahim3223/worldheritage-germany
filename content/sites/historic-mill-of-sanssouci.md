@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/400px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/800px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1200px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1920px-20150524_Historic_Mill_of_Sanssouci_7483.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1920px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
+---
 
 ## Overview
 

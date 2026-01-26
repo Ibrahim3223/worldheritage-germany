@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/400px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/800px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/1200px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/1920px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg/1920px-20060519050DR_Dresden-Neustadt_Palaisplatz_Weißes_Tor.jpg
+---
 
 ## Overview
 

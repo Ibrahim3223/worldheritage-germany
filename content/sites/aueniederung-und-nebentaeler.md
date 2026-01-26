@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/400px-Aueniederung_bei_Harsefeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/800px-Aueniederung_bei_Harsefeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/1200px-Aueniederung_bei_Harsefeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/1920px-Aueniederung_bei_Harsefeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aueniederung_bei_Harsefeld.jpg/1920px-Aueniederung_bei_Harsefeld.jpg
+---
 
 ## Overview
 

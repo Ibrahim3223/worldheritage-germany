@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/400px-Бад_Киссинген._Руская_церковь.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/800px-Бад_Киссинген._Руская_церковь.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/1200px-Бад_Киссинген._Руская_церковь.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/1920px-Бад_Киссинген._Руская_церковь.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Бад_Киссинген._Руская_церковь.jpg/1920px-Бад_Киссинген._Руская_церковь.jpg
+---
 
 ## Overview
 

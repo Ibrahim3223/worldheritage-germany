@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stuckmuseum_(Freiburg)_3298.jpg/400px-Stuckmuseum_(Freiburg)_3298.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stuckmuseum_(Freiburg)_3298.jpg/800px-Stuckmuseum_(Freiburg)_3298.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stuckmuseum_(Freiburg)_3298.jpg/1200px-Stuckmuseum_(Freiburg)_3298.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stuckmuseum_(Freiburg)_3298.jpg/1920px-Stuckmuseum_(Freiburg)_3298.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stuckmuseum_(Freiburg)_3298.jpg/1920px-Stuckmuseum_(Freiburg)_3298.jpg
+---
 
 ## Overview
 

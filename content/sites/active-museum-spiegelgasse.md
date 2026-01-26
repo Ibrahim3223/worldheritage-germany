@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MK7189_Spiegelgasse_9.jpg/400px-MK7189_Spiegelgasse_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MK7189_Spiegelgasse_9.jpg/800px-MK7189_Spiegelgasse_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MK7189_Spiegelgasse_9.jpg/1200px-MK7189_Spiegelgasse_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MK7189_Spiegelgasse_9.jpg/1920px-MK7189_Spiegelgasse_9.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MK7189_Spiegelgasse_9.jpg/1920px-MK7189_Spiegelgasse_9.jpg
+---
 
 ## Overview
 

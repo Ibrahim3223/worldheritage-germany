@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flachstal_Weite.jpg/400px-Flachstal_Weite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flachstal_Weite.jpg/800px-Flachstal_Weite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flachstal_Weite.jpg/1200px-Flachstal_Weite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flachstal_Weite.jpg/1920px-Flachstal_Weite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flachstal_Weite.jpg/1920px-Flachstal_Weite.jpg
+---
 
 ## Overview
 

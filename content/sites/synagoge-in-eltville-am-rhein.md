@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/400px-Eltville_ehemalige_Synagoge2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/800px-Eltville_ehemalige_Synagoge2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/1200px-Eltville_ehemalige_Synagoge2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/1920px-Eltville_ehemalige_Synagoge2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Eltville_ehemalige_Synagoge2.JPG/1920px-Eltville_ehemalige_Synagoge2.JPG
+---
 
 ## Overview
 

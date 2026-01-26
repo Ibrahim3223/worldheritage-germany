@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/400px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/800px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/1200px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/1920px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg/1920px-Traben-Trarbach_Brückentor_BW_2019-06-23_14-59-09.jpg
+---
 
 ## Overview
 

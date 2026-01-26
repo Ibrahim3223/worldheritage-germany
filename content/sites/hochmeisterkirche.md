@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/400px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/800px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1200px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1920px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1920px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
+---
 
 ## Overview
 

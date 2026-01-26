@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/400px-Gutenberg-Museum_Mainz_585-vh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/800px-Gutenberg-Museum_Mainz_585-vh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1200px-Gutenberg-Museum_Mainz_585-vh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1920px-Gutenberg-Museum_Mainz_585-vh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1920px-Gutenberg-Museum_Mainz_585-vh.jpg
+---
 
 ## Overview
 

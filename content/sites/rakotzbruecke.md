@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/400px-Rakotzbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/800px-Rakotzbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1200px-Rakotzbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1920px-Rakotzbrücke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1920px-Rakotzbrücke.jpg
+---
 
 ## Overview
 

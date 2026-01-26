@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/400px-Beberbach-Humme-Niederung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/800px-Beberbach-Humme-Niederung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/1200px-Beberbach-Humme-Niederung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/1920px-Beberbach-Humme-Niederung.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beberbach-Humme-Niederung.JPG/1920px-Beberbach-Humme-Niederung.JPG
+---
 
 ## Overview
 

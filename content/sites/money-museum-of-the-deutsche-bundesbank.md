@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt,_Geldmuseum,_Eingang.JPG/400px-Frankfurt,_Geldmuseum,_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt,_Geldmuseum,_Eingang.JPG/800px-Frankfurt,_Geldmuseum,_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt,_Geldmuseum,_Eingang.JPG/1200px-Frankfurt,_Geldmuseum,_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt,_Geldmuseum,_Eingang.JPG/1920px-Frankfurt,_Geldmuseum,_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt,_Geldmuseum,_Eingang.JPG/1920px-Frankfurt,_Geldmuseum,_Eingang.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/400px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/800px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/1200px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/1920px-Schloss_Deichmannsaue,_Rüngsdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Schloss_Deichmannsaue,_Rüngsdorf.jpg/1920px-Schloss_Deichmannsaue,_Rüngsdorf.jpg
+---
 
 ## Overview
 

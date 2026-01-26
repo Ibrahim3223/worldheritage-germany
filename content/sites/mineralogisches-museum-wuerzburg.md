@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/400px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/800px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/1200px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/1920px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG/1920px-Geographiegebäude_-_Julius-Maximilians-Universität_Würzburg_-_DSC02872.JPG
+---
 
 ## Overview
 

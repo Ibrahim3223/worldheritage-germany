@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/400px-Herrenhaus_Louisenlund.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/800px-Herrenhaus_Louisenlund.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/1200px-Herrenhaus_Louisenlund.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/1920px-Herrenhaus_Louisenlund.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Herrenhaus_Louisenlund.JPG/1920px-Herrenhaus_Louisenlund.JPG
+---
 
 ## Overview
 

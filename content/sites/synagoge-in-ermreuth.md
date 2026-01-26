@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/400px-Ermreuth-Synagoge.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/800px-Ermreuth-Synagoge.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/1200px-Ermreuth-Synagoge.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/1920px-Ermreuth-Synagoge.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ermreuth-Synagoge.jpeg/1920px-Ermreuth-Synagoge.jpeg
+---
 
 ## Overview
 

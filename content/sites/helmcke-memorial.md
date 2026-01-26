@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg/400px-Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg/800px-Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg/1200px-Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg/1920px-Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg/1920px-Johann_Gerhard_Helmcke-Denkmal_im_Georgengarten_(Hannover)_IMG_1233.jpg
+---
 
 ## Overview
 

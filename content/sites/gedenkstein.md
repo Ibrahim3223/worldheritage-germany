@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/400px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/800px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/1200px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/1920px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg/1920px-Zoller-Gedenkstein_(Bad_Kissingen)_–_20140928-011.jpg
+---
 
 ## Overview
 

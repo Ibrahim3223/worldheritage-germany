@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/400px-Kaiserstein_Münchingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/800px-Kaiserstein_Münchingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/1200px-Kaiserstein_Münchingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/1920px-Kaiserstein_Münchingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserstein_Münchingen.jpg/1920px-Kaiserstein_Münchingen.jpg
+---
 
 ## Overview
 

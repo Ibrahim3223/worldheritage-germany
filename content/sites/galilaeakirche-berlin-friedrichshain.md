@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/400px-Galiläakirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/800px-Galiläakirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1200px-Galiläakirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1920px-Galiläakirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1920px-Galiläakirche.JPG
+---
 
 ## Overview
 

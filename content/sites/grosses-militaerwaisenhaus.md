@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/400px-Potsdam_Großes_Militärwaisenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/800px-Potsdam_Großes_Militärwaisenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1200px-Potsdam_Großes_Militärwaisenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1920px-Potsdam_Großes_Militärwaisenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1920px-Potsdam_Großes_Militärwaisenhaus.jpg
+---
 
 # Großes Militärwaisenhaus: A Historical Architectural Ensemble in Potsdam
 

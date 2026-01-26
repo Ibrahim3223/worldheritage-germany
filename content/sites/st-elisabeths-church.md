@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/400px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/800px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1200px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1920px-Marburg_asv2022-02_img25_Elisabethkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1920px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
+---
 
 ## Overview
 

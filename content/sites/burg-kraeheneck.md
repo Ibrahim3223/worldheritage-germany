@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/400px-Burg_Kräheneck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/800px-Burg_Kräheneck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/1200px-Burg_Kräheneck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/1920px-Burg_Kräheneck.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Kräheneck.JPG/1920px-Burg_Kräheneck.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/400px-0704-Windmuehle-Straupitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/800px-0704-Windmuehle-Straupitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/1200px-0704-Windmuehle-Straupitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/1920px-0704-Windmuehle-Straupitz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/0704-Windmuehle-Straupitz.JPG/1920px-0704-Windmuehle-Straupitz.JPG
+---
 
 ## Overview
 

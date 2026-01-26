@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/400px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/800px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/1200px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/1920px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg/1920px-Berlin,_Mitte,_Zietenplatz,_Denkmal_General_Winterfeldt.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/400px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/800px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/1200px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/1920px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg/1920px-Eingang_Naturhistorischen_Museums_Schloss_Bertholdsburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/400px-Exposeeum_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/800px-Exposeeum_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/1200px-Exposeeum_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/1920px-Exposeeum_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Exposeeum_Hannover.jpg/1920px-Exposeeum_Hannover.jpg
+---
 
 ## Overview
 

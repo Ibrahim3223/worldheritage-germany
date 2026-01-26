@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/400px-ChurchBingum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/800px-ChurchBingum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1200px-ChurchBingum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1920px-ChurchBingum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ChurchBingum.jpg/1920px-ChurchBingum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/400px-Castle_Mylau_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/800px-Castle_Mylau_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/1200px-Castle_Mylau_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/1920px-Castle_Mylau_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Castle_Mylau_(aka).jpg/1920px-Castle_Mylau_(aka).jpg
+---
 
 ## Overview
 

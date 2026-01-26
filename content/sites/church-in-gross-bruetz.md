@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/400px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/800px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1200px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1920px-Gross_Bruetz_Kirche_2008-11-13_005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1920px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
+---
 
 ## Overview
 

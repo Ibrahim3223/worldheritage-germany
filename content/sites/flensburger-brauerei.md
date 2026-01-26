@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/400px-Flensborg_Bryggeri.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/800px-Flensborg_Bryggeri.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1200px-Flensborg_Bryggeri.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1920px-Flensborg_Bryggeri.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1920px-Flensborg_Bryggeri.JPG
+---
 
 ## Overview
 

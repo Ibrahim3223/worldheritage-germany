@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/400px-MIK_Ludwigsburg_2013-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/800px-MIK_Ludwigsburg_2013-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/1200px-MIK_Ludwigsburg_2013-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/1920px-MIK_Ludwigsburg_2013-05.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/MIK_Ludwigsburg_2013-05.jpg/1920px-MIK_Ludwigsburg_2013-05.jpg
+---
 
 ## Overview
 

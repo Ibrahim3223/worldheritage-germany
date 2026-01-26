@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/400px-Farrenpoint.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/800px-Farrenpoint.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/1200px-Farrenpoint.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/1920px-Farrenpoint.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Farrenpoint.jpg/1920px-Farrenpoint.jpg
+---
 
 ## Overview
 

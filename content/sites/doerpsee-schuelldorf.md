@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dörpsee_Schülldorf_1.JPG/400px-Dörpsee_Schülldorf_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dörpsee_Schülldorf_1.JPG/800px-Dörpsee_Schülldorf_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dörpsee_Schülldorf_1.JPG/1200px-Dörpsee_Schülldorf_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dörpsee_Schülldorf_1.JPG/1920px-Dörpsee_Schülldorf_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dörpsee_Schülldorf_1.JPG/1920px-Dörpsee_Schülldorf_1.JPG
+---
 
 ## Overview
 

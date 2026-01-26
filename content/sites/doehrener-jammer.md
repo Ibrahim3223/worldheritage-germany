@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/400px-Döhrener_Jammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/800px-Döhrener_Jammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/1200px-Döhrener_Jammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/1920px-Döhrener_Jammer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Döhrener_Jammer.jpg/1920px-Döhrener_Jammer.jpg
+---
 
 ## Overview
 

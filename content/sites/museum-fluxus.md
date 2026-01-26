@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/400px-Museumfluxus_außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/800px-Museumfluxus_außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/1200px-Museumfluxus_außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/1920px-Museumfluxus_außenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Museumfluxus_außenansicht.jpg/1920px-Museumfluxus_außenansicht.jpg
+---
 
 ## Overview
 

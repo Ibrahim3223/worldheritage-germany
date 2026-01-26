@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/400px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/800px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/1200px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/1920px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG/1920px-Niederrieden_Kapelle_zum_Heiland_in_der_Wies_01.JPG
+---
 
 ## Overview
 

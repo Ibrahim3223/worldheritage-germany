@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/400px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/800px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/1200px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/1920px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG/1920px-Leipzig_Gedenkstätte_ehemalige_Große_Synagoge_von_NO.JPG
+---
 
 ## Overview
 

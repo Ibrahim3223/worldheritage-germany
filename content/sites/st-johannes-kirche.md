@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/400px-Wusterhusen_Johanneskirche_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/800px-Wusterhusen_Johanneskirche_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/1200px-Wusterhusen_Johanneskirche_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/1920px-Wusterhusen_Johanneskirche_Westseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wusterhusen_Johanneskirche_Westseite.jpg/1920px-Wusterhusen_Johanneskirche_Westseite.jpg
+---
 
 ## Overview
 

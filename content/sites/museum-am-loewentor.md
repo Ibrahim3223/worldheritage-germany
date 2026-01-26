@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/400px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/800px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/1200px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/1920px-Stuttgart-Museum_am_Löwentor-Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stuttgart-Museum_am_Löwentor-Eingang.jpg/1920px-Stuttgart-Museum_am_Löwentor-Eingang.jpg
+---
 
 ## Overview
 

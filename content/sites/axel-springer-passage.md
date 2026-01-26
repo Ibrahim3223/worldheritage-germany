@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/400px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/800px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/1200px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/1920px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg/1920px-Berlin-Kreuzberg_Axel-Springer-Passage_Haupteingang.jpg
+---
 
 ## Overview
 

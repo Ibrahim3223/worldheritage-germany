@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/400px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/800px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/1200px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/1920px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg/1920px-Friedrich_Prinz_von_Anhalt-Dessau,Gedenkstein_am_Weinberghaus_im_Kühnauer_Park.jpg
+---
 
 ## Overview
 

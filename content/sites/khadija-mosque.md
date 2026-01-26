@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/400px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/800px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/1200px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/1920px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg/1920px-Khadija-Moschee,_Berlin,_Germany_-_20110603.jpg
+---
 
 ## Overview
 

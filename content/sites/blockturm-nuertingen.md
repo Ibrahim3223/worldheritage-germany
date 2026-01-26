@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/400px-Nürtingen-Blockturm-4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/800px-Nürtingen-Blockturm-4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/1200px-Nürtingen-Blockturm-4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/1920px-Nürtingen-Blockturm-4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nürtingen-Blockturm-4.jpg/1920px-Nürtingen-Blockturm-4.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/400px-Am_Großen_Renzeler_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/800px-Am_Großen_Renzeler_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/1200px-Am_Großen_Renzeler_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/1920px-Am_Großen_Renzeler_Moor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Am_Großen_Renzeler_Moor.jpg/1920px-Am_Großen_Renzeler_Moor.jpg
+---
 
 ## Overview
 

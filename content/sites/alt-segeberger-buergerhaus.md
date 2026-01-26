@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/400px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/800px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/1200px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/1920px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Museum_Alt-Segeberger_Bürgerhaus_2013.jpg/1920px-Museum_Alt-Segeberger_Bürgerhaus_2013.jpg
+---
 
 ## Overview
 

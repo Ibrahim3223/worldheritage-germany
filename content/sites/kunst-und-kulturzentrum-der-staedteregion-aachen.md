@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/400px-Monschau,_CN-019,_2011-08-31.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/800px-Monschau,_CN-019,_2011-08-31.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/1200px-Monschau,_CN-019,_2011-08-31.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/1920px-Monschau,_CN-019,_2011-08-31.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Monschau,_CN-019,_2011-08-31.JPG/1920px-Monschau,_CN-019,_2011-08-31.JPG
+---
 
 ## Overview
 

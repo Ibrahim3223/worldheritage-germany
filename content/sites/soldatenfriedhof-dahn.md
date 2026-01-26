@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/400px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/800px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/1200px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/1920px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg/1920px-Kreuz_Soldatenfriedhof_Dahn_-_geo.hlipp.de_-_33604.jpg
+---
 
 ## Overview
 

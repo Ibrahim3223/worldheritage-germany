@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ostersoder_Muehle.jpg/400px-Ostersoder_Muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ostersoder_Muehle.jpg/800px-Ostersoder_Muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ostersoder_Muehle.jpg/1200px-Ostersoder_Muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ostersoder_Muehle.jpg/1920px-Ostersoder_Muehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ostersoder_Muehle.jpg/1920px-Ostersoder_Muehle.jpg
+---
 
 ## Overview
 

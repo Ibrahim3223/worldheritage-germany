@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/400px-Alte_Mühle_34_Mühlengebäude4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/800px-Alte_Mühle_34_Mühlengebäude4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/1200px-Alte_Mühle_34_Mühlengebäude4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/1920px-Alte_Mühle_34_Mühlengebäude4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Alte_Mühle_34_Mühlengebäude4.JPG/1920px-Alte_Mühle_34_Mühlengebäude4.JPG
+---
 
 ## Overview
 

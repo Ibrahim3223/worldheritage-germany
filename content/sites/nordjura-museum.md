@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/400px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/800px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/1200px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/1920px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weismain,_Kirchplatz,_7,_9,_11-001.jpg/1920px-Weismain,_Kirchplatz,_7,_9,_11-001.jpg
+---
 
 ## Overview
 

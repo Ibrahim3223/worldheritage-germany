@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/400px-Mueumfrankschweiz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/800px-Mueumfrankschweiz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/1200px-Mueumfrankschweiz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/1920px-Mueumfrankschweiz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mueumfrankschweiz.jpg/1920px-Mueumfrankschweiz.jpg
+---
 
 ## Overview
 

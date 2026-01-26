@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/400px-Chapel_of_Volzendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/800px-Chapel_of_Volzendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/1200px-Chapel_of_Volzendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/1920px-Chapel_of_Volzendorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chapel_of_Volzendorf.jpg/1920px-Chapel_of_Volzendorf.jpg
+---
 
 ## Overview
 

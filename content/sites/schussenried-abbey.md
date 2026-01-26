@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/400px-Schussenried_Klosteransicht_1721.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/800px-Schussenried_Klosteransicht_1721.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/1200px-Schussenried_Klosteransicht_1721.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/1920px-Schussenried_Klosteransicht_1721.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schussenried_Klosteransicht_1721.jpg/1920px-Schussenried_Klosteransicht_1721.jpg
+---
 
 ## Overview
 

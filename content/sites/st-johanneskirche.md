@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/400px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/800px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/1200px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/1920px-NB-St.-Johanneskirche-02-06-2008-057b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NB-St.-Johanneskirche-02-06-2008-057b.jpg/1920px-NB-St.-Johanneskirche-02-06-2008-057b.jpg
+---
 
 ## Overview
 

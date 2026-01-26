@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/400px-Funkturm_rottenbuch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/800px-Funkturm_rottenbuch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/1200px-Funkturm_rottenbuch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/1920px-Funkturm_rottenbuch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Funkturm_rottenbuch.jpg/1920px-Funkturm_rottenbuch.jpg
+---
 
 ## Overview
 

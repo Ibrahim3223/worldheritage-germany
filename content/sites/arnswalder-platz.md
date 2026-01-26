@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/400px-Arnswalder-platz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/800px-Arnswalder-platz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/1200px-Arnswalder-platz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/1920px-Arnswalder-platz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arnswalder-platz.jpg/1920px-Arnswalder-platz.jpg
+---
 
 ## Overview
 

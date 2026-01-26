@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/400px-Wollheim_Memorial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/800px-Wollheim_Memorial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/1200px-Wollheim_Memorial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/1920px-Wollheim_Memorial.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wollheim_Memorial.jpg/1920px-Wollheim_Memorial.jpg
+---
 
 ## Overview
 

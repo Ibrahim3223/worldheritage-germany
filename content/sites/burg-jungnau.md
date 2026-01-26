@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/400px-Jungnau-Kirche-und-Bergfried.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/800px-Jungnau-Kirche-und-Bergfried.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/1200px-Jungnau-Kirche-und-Bergfried.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/1920px-Jungnau-Kirche-und-Bergfried.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jungnau-Kirche-und-Bergfried.JPG/1920px-Jungnau-Kirche-und-Bergfried.JPG
+---
 
 ## Overview
 

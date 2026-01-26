@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/400px-Mausoleum_kassebruch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/800px-Mausoleum_kassebruch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/1200px-Mausoleum_kassebruch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/1920px-Mausoleum_kassebruch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mausoleum_kassebruch.jpg/1920px-Mausoleum_kassebruch.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/400px-Schulmuseum_Katterbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/800px-Schulmuseum_Katterbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/1200px-Schulmuseum_Katterbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/1920px-Schulmuseum_Katterbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schulmuseum_Katterbach.jpg/1920px-Schulmuseum_Katterbach.jpg
+---
 
 ## Overview
 

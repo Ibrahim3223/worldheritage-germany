@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/400px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/800px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/1200px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/1920px-Deutsches_Schloss-_und_Beschlägemuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Deutsches_Schloss-_und_Beschlägemuseum.jpg/1920px-Deutsches_Schloss-_und_Beschlägemuseum.jpg
+---
 
 ## Overview
 

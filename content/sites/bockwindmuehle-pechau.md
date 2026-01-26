@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/400px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/800px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/1200px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/1920px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bockwindmühle,_Magdeburg-Pechau,_2006.jpg/1920px-Bockwindmühle,_Magdeburg-Pechau,_2006.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/400px-ChurchResterhafe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/800px-ChurchResterhafe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/1200px-ChurchResterhafe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/1920px-ChurchResterhafe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchResterhafe.jpg/1920px-ChurchResterhafe.jpg
+---
 
 ## Overview
 

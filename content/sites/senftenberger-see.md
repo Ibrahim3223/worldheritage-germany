@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/400px-Senftenberg_See_lub_2023-08-24_img07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/800px-Senftenberg_See_lub_2023-08-24_img07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/1200px-Senftenberg_See_lub_2023-08-24_img07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/1920px-Senftenberg_See_lub_2023-08-24_img07.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Senftenberg_See_lub_2023-08-24_img07.jpg/1920px-Senftenberg_See_lub_2023-08-24_img07.jpg
+---
 
 ## Overview
 

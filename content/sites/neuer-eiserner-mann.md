@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/400px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/800px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/1200px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/1920px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg/1920px-Neuer_Eiserner_Mann_-_Kleve_-_Stephan_Balkenhol_(7787-89).jpg
+---
 
 ## Overview
 

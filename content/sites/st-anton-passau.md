@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/400px-Pfarrkirche_St._Anton,_Passau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/800px-Pfarrkirche_St._Anton,_Passau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1200px-Pfarrkirche_St._Anton,_Passau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1920px-Pfarrkirche_St._Anton,_Passau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1920px-Pfarrkirche_St._Anton,_Passau.jpg
+---
 
 ## Overview
 

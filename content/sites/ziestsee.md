@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ziestsee_in_Bindow.jpg/400px-Ziestsee_in_Bindow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ziestsee_in_Bindow.jpg/800px-Ziestsee_in_Bindow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ziestsee_in_Bindow.jpg/1200px-Ziestsee_in_Bindow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ziestsee_in_Bindow.jpg/1920px-Ziestsee_in_Bindow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ziestsee_in_Bindow.jpg/1920px-Ziestsee_in_Bindow.jpg
+---
 
 ## Overview
 

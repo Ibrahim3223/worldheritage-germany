@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alte_Bückeburg_Wallböschung_Wohnhaus.jpg/400px-Alte_Bückeburg_Wallböschung_Wohnhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alte_Bückeburg_Wallböschung_Wohnhaus.jpg/800px-Alte_Bückeburg_Wallböschung_Wohnhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alte_Bückeburg_Wallböschung_Wohnhaus.jpg/1200px-Alte_Bückeburg_Wallböschung_Wohnhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alte_Bückeburg_Wallböschung_Wohnhaus.jpg/1920px-Alte_Bückeburg_Wallböschung_Wohnhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Alte_Bückeburg_Wallböschung_Wohnhaus.jpg/1920px-Alte_Bückeburg_Wallböschung_Wohnhaus.jpg
+---
 
 ## Overview
 

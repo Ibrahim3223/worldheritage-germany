@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/400px-NKV_Haus2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/800px-NKV_Haus2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/1200px-NKV_Haus2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/1920px-NKV_Haus2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NKV_Haus2.jpg/1920px-NKV_Haus2.jpg
+---
 
 ## Overview
 

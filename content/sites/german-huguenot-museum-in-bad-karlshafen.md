@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/400px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/800px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1200px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1920px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1920px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
+---
 
 ## Overview
 

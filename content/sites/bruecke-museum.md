@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/400px-Brücke_Museum_April_2025-7835.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/800px-Brücke_Museum_April_2025-7835.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/1200px-Brücke_Museum_April_2025-7835.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/1920px-Brücke_Museum_April_2025-7835.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brücke_Museum_April_2025-7835.jpg/1920px-Brücke_Museum_April_2025-7835.jpg
+---
 
 ## Overview
 

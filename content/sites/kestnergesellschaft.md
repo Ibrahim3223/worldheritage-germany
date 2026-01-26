@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/400px-Kestner_Gesellschaft.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/800px-Kestner_Gesellschaft.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/1200px-Kestner_Gesellschaft.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/1920px-Kestner_Gesellschaft.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kestner_Gesellschaft.jpeg/1920px-Kestner_Gesellschaft.jpeg
+---
 
 ## Overview
 

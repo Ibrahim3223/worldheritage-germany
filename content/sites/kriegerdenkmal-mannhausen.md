@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/400px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/800px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/1200px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/1920px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG/1920px-Calvörde-Mannhausen_Kriegerdenkmal_1870_1871.JPG
+---
 
 ## Overview
 

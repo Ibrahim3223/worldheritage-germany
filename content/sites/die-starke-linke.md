@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wuppertal_-_Die_starke_Linke_01_ies.jpg/400px-Wuppertal_-_Die_starke_Linke_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wuppertal_-_Die_starke_Linke_01_ies.jpg/800px-Wuppertal_-_Die_starke_Linke_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wuppertal_-_Die_starke_Linke_01_ies.jpg/1200px-Wuppertal_-_Die_starke_Linke_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wuppertal_-_Die_starke_Linke_01_ies.jpg/1920px-Wuppertal_-_Die_starke_Linke_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wuppertal_-_Die_starke_Linke_01_ies.jpg/1920px-Wuppertal_-_Die_starke_Linke_01_ies.jpg
+---
 
 ## Overview
 

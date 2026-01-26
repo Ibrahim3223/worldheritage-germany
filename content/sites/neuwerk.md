@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/400px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/800px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/1200px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/1920px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/11-09-04-fotoflug-nordsee-by-RalfR-001.jpg/1920px-11-09-04-fotoflug-nordsee-by-RalfR-001.jpg
+---
 
 ## Overview
 

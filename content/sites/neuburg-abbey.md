@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abtei_Neuburg.jpg/400px-Abtei_Neuburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abtei_Neuburg.jpg/800px-Abtei_Neuburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abtei_Neuburg.jpg/1200px-Abtei_Neuburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abtei_Neuburg.jpg/1920px-Abtei_Neuburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abtei_Neuburg.jpg/1920px-Abtei_Neuburg.jpg
+---
 
 ## Overview
 

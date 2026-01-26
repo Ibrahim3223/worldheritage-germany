@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Innsbrucker_Platz.JPG/400px-Innsbrucker_Platz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Innsbrucker_Platz.JPG/800px-Innsbrucker_Platz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Innsbrucker_Platz.JPG/1200px-Innsbrucker_Platz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Innsbrucker_Platz.JPG/1920px-Innsbrucker_Platz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Innsbrucker_Platz.JPG/1920px-Innsbrucker_Platz.JPG
+---
 
 ## Overview
 

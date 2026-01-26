@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/400px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/800px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/1200px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/1920px-Thüringer_Kloßmuseum_Heichelheim_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Thüringer_Kloßmuseum_Heichelheim_1.jpg/1920px-Thüringer_Kloßmuseum_Heichelheim_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/400px-Munkbrarup_St._Laurentiuskirche_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/800px-Munkbrarup_St._Laurentiuskirche_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/1200px-Munkbrarup_St._Laurentiuskirche_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/1920px-Munkbrarup_St._Laurentiuskirche_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Munkbrarup_St._Laurentiuskirche_03.JPG/1920px-Munkbrarup_St._Laurentiuskirche_03.JPG
+---
 
 ## Overview
 

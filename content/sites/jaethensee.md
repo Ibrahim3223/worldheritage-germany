@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/400px-Jäthensee.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/800px-Jäthensee.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/1200px-Jäthensee.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/1920px-Jäthensee.nnw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jäthensee.nnw.jpg/1920px-Jäthensee.nnw.jpg
+---
 
 ## Overview
 

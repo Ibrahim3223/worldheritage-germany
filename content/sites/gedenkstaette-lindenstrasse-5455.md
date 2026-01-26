@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/400px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/800px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/1200px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/1920px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/100_Jahre_Frauenwahlrecht_Potsdam-8.jpg/1920px-100_Jahre_Frauenwahlrecht_Potsdam-8.jpg
+---
 
 ## Overview
 

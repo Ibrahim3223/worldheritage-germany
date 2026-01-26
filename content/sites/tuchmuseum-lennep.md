@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/400px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/800px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/1200px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/1920px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg/1920px-Remscheid_Lennep_-_Tuchmuseum_02_ies.jpg
+---
 
 ## Overview
 

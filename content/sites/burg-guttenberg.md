@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/400px-Burg-guttenberg-2008-5b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/800px-Burg-guttenberg-2008-5b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/1200px-Burg-guttenberg-2008-5b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/1920px-Burg-guttenberg-2008-5b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/1920px-Burg-guttenberg-2008-5b.jpg
+---
 
 ## Overview
 

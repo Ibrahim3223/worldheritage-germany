@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg/400px-D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg/800px-D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg/1200px-D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg/1920px-D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg/1920px-D-BW-Baindt_-_Naturschutzgebiet_'Annaberg'.jpg
+---
 
 ## Overview
 

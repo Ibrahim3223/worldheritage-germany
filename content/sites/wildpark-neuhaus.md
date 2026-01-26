@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/400px-Wildpark_Haus_Solling_Besucherzentrum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/800px-Wildpark_Haus_Solling_Besucherzentrum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/1200px-Wildpark_Haus_Solling_Besucherzentrum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/1920px-Wildpark_Haus_Solling_Besucherzentrum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wildpark_Haus_Solling_Besucherzentrum.JPG/1920px-Wildpark_Haus_Solling_Besucherzentrum.JPG
+---
 
 ## Overview
 

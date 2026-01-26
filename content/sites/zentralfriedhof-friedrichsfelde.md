@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/400px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/800px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/1200px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/1920px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg/1920px-Zentralfriedhof_Eingangstafel_-_Berlin-Liberg_2013_-_1319-1199-120.jpg
+---
 
 ## Overview
 

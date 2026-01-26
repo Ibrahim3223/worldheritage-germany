@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/400px-Niederwelschenbach_St.AntoniusEremit144.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/800px-Niederwelschenbach_St.AntoniusEremit144.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/1200px-Niederwelschenbach_St.AntoniusEremit144.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/1920px-Niederwelschenbach_St.AntoniusEremit144.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Niederwelschenbach_St.AntoniusEremit144.JPG/1920px-Niederwelschenbach_St.AntoniusEremit144.JPG
+---
 
 ## Overview
 

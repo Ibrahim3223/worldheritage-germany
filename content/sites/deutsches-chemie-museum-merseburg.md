@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/400px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/800px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/1200px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/1920px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg/1920px-Deutsches_Chemie-Museum_Merseburg,_Eingangsbereich.jpg
+---
 
 ## Overview
 

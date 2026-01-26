@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/400px-Geisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/800px-Geisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/1200px-Geisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/1920px-Geisburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geisburg.jpg/1920px-Geisburg.jpg
+---
 
 ## Overview
 

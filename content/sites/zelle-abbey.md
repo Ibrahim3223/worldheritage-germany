@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/400px-Kloesterlein_Zelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/800px-Kloesterlein_Zelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/1200px-Kloesterlein_Zelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/1920px-Kloesterlein_Zelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kloesterlein_Zelle.jpg/1920px-Kloesterlein_Zelle.jpg
+---
 
 ## Overview
 

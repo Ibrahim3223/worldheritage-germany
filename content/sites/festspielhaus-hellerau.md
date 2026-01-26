@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/400px-Festspielhaus_Hellerau_1913.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/800px-Festspielhaus_Hellerau_1913.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1200px-Festspielhaus_Hellerau_1913.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1920px-Festspielhaus_Hellerau_1913.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1920px-Festspielhaus_Hellerau_1913.png
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/400px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/800px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/1200px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/1920px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/1920px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
+---
 
 ## Overview
 

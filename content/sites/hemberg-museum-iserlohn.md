@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iserlohn-MaerkischesGymnasium5-Bubo.jpg/400px-Iserlohn-MaerkischesGymnasium5-Bubo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iserlohn-MaerkischesGymnasium5-Bubo.jpg/800px-Iserlohn-MaerkischesGymnasium5-Bubo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iserlohn-MaerkischesGymnasium5-Bubo.jpg/1200px-Iserlohn-MaerkischesGymnasium5-Bubo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iserlohn-MaerkischesGymnasium5-Bubo.jpg/1920px-Iserlohn-MaerkischesGymnasium5-Bubo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Iserlohn-MaerkischesGymnasium5-Bubo.jpg/1920px-Iserlohn-MaerkischesGymnasium5-Bubo.jpg
+---
 
 ## Overview
 

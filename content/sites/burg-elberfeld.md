@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/400px-Burg-Elverfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/800px-Burg-Elverfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/1200px-Burg-Elverfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/1920px-Burg-Elverfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg-Elverfeld.jpg/1920px-Burg-Elverfeld.jpg
+---
 
 ## Overview
 

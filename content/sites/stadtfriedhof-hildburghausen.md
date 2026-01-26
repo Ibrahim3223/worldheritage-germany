@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/400px-HIBU_Friedhof_0e.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/800px-HIBU_Friedhof_0e.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/1200px-HIBU_Friedhof_0e.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/1920px-HIBU_Friedhof_0e.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HIBU_Friedhof_0e.jpg/1920px-HIBU_Friedhof_0e.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/400px-Siegessauele-Hakenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/800px-Siegessauele-Hakenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1200px-Siegessauele-Hakenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1920px-Siegessauele-Hakenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1920px-Siegessauele-Hakenberg.jpg
+---
 
 ## Overview
 

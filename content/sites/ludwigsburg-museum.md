@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2016-03-13_Ludwigsburg_Museum_14.jpg/400px-2016-03-13_Ludwigsburg_Museum_14.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2016-03-13_Ludwigsburg_Museum_14.jpg/800px-2016-03-13_Ludwigsburg_Museum_14.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2016-03-13_Ludwigsburg_Museum_14.jpg/1200px-2016-03-13_Ludwigsburg_Museum_14.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2016-03-13_Ludwigsburg_Museum_14.jpg/1920px-2016-03-13_Ludwigsburg_Museum_14.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2016-03-13_Ludwigsburg_Museum_14.jpg/1920px-2016-03-13_Ludwigsburg_Museum_14.jpg
+---
 
 ## Overview
 

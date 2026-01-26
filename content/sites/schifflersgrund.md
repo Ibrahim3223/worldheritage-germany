@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/400px-Grenzmuseum_schifflersgrund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/800px-Grenzmuseum_schifflersgrund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1200px-Grenzmuseum_schifflersgrund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1920px-Grenzmuseum_schifflersgrund.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1920px-Grenzmuseum_schifflersgrund.jpg
+---
 
 ## Overview
 

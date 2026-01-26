@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hamburg_Esso_buildings.jpg/400px-Hamburg_Esso_buildings.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hamburg_Esso_buildings.jpg/800px-Hamburg_Esso_buildings.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hamburg_Esso_buildings.jpg/1200px-Hamburg_Esso_buildings.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hamburg_Esso_buildings.jpg/1920px-Hamburg_Esso_buildings.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hamburg_Esso_buildings.jpg/1920px-Hamburg_Esso_buildings.jpg
+---
 
 ## Overview
 

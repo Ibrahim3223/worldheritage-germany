@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/400px-Tessin_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/800px-Tessin_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1200px-Tessin_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1920px-Tessin_Kirche_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1920px-Tessin_Kirche_1.jpg
+---
 
 ## Overview
 

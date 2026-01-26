@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/400px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/800px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/1200px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/1920px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg/1920px-Schlosskirche_in_Duesseldorf-Eller,_von_Sueden.jpg
+---
 
 ## Overview
 

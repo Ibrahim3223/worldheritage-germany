@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/400px-Dürrnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/800px-Dürrnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/1200px-Dürrnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/1920px-Dürrnberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürrnberg.jpg/1920px-Dürrnberg.jpg
+---
 
 ## Overview
 

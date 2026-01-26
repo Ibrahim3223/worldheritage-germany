@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/400px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/800px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/1200px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/1920px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg/1920px-Alperenler-Moschee_in_Rheinfelden_(Baden)_retouched.jpg
+---
 
 ## Overview
 

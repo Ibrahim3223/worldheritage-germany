@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/400px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/800px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/1200px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/1920px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/1920px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
+---
 
 ## Overview
 

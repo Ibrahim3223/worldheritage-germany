@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/400px-Kunsthalle_Recklinghausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/800px-Kunsthalle_Recklinghausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/1200px-Kunsthalle_Recklinghausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/1920px-Kunsthalle_Recklinghausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthalle_Recklinghausen.jpg/1920px-Kunsthalle_Recklinghausen.jpg
+---
 
 ## Overview
 

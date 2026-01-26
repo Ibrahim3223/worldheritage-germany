@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/400px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/800px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1200px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1920px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MatthaeusSteglitz1-Mutter_Erde_fec.jpg/1920px-MatthaeusSteglitz1-Mutter_Erde_fec.jpg
+---
 
 ## Overview
 

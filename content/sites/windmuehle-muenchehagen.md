@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/400px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/800px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/1200px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/1920px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg/1920px-Mühle_Münchehagen,_Rehburg-Loccum,_Wiesenweg_1.jpg
+---
 
 ## Overview
 

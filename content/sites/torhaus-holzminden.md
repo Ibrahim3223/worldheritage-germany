@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/400px-Holzminden_Torhaus_Oberbachstr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/800px-Holzminden_Torhaus_Oberbachstr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/1200px-Holzminden_Torhaus_Oberbachstr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/1920px-Holzminden_Torhaus_Oberbachstr.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Holzminden_Torhaus_Oberbachstr.jpg/1920px-Holzminden_Torhaus_Oberbachstr.jpg
+---
 
 ## Overview
 

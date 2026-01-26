@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Teufelsgraben_-_Aquädukt_01_(HS).jpg/400px-Teufelsgraben_-_Aquädukt_01_(HS).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Teufelsgraben_-_Aquädukt_01_(HS).jpg/800px-Teufelsgraben_-_Aquädukt_01_(HS).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Teufelsgraben_-_Aquädukt_01_(HS).jpg/1200px-Teufelsgraben_-_Aquädukt_01_(HS).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Teufelsgraben_-_Aquädukt_01_(HS).jpg/1920px-Teufelsgraben_-_Aquädukt_01_(HS).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Teufelsgraben_-_Aquädukt_01_(HS).jpg/1920px-Teufelsgraben_-_Aquädukt_01_(HS).jpg
+---
 
 ## Overview
 

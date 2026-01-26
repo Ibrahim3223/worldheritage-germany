@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/400px-Alsfeld_Märchenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/800px-Alsfeld_Märchenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/1200px-Alsfeld_Märchenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/1920px-Alsfeld_Märchenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alsfeld_Märchenhaus.jpg/1920px-Alsfeld_Märchenhaus.jpg
+---
 
 ## Overview
 

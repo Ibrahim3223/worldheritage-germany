@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/400px-Altes_Land_Apfelblüte_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/800px-Altes_Land_Apfelblüte_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/1200px-Altes_Land_Apfelblüte_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/1920px-Altes_Land_Apfelblüte_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Altes_Land_Apfelblüte_2011.jpg/1920px-Altes_Land_Apfelblüte_2011.jpg
+---
 
 ## Overview
 

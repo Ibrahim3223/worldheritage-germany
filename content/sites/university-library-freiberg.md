@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/400px-Freiberg_University_Library_December_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/800px-Freiberg_University_Library_December_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/1200px-Freiberg_University_Library_December_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/1920px-Freiberg_University_Library_December_2023.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Freiberg_University_Library_December_2023.jpg/1920px-Freiberg_University_Library_December_2023.jpg
+---
 
 ## Overview
 

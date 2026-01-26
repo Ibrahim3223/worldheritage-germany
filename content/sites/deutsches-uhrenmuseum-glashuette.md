@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/400px-Deutsches_Uhrenmuseum_Glashütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/800px-Deutsches_Uhrenmuseum_Glashütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/1200px-Deutsches_Uhrenmuseum_Glashütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/1920px-Deutsches_Uhrenmuseum_Glashütte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Deutsches_Uhrenmuseum_Glashütte.jpg/1920px-Deutsches_Uhrenmuseum_Glashütte.jpg
+---
 
 ## Overview
 

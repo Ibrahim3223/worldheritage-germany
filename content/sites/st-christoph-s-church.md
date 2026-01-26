@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/400px-MAINZ_CHRISTOFFEL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/800px-MAINZ_CHRISTOFFEL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/1200px-MAINZ_CHRISTOFFEL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/1920px-MAINZ_CHRISTOFFEL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/MAINZ_CHRISTOFFEL.jpg/1920px-MAINZ_CHRISTOFFEL.jpg
+---
 
 ## Overview
 

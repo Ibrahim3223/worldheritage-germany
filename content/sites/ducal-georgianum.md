@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/400px-Georgianum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/800px-Georgianum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1200px-Georgianum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1920px-Georgianum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1920px-Georgianum.JPG
+---
 
 ## Overview
 

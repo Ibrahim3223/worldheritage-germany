@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/400px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/800px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/1200px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/1920px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eingang_Dante_Gymnasium_Sendling_Munich.JPG/1920px-Eingang_Dante_Gymnasium_Sendling_Munich.JPG
+---
 
 ## Overview
 

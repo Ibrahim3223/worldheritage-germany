@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/400px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/800px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/1200px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/1920px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg/1920px-Vierländerin-Brunnen_auf_dem_Hopfenmarkt_in_Hamburg-Altstadt.jpg
+---
 
 ## Overview
 

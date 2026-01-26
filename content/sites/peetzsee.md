@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/400px-Peetzsee_vom_Südufer_nach_links.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/800px-Peetzsee_vom_Südufer_nach_links.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/1200px-Peetzsee_vom_Südufer_nach_links.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/1920px-Peetzsee_vom_Südufer_nach_links.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Peetzsee_vom_Südufer_nach_links.JPG/1920px-Peetzsee_vom_Südufer_nach_links.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/400px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/800px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1200px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1920px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1920px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
+---
 
 ## Overview
 

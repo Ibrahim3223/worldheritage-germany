@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/400px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/800px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/1200px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/1920px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg/1920px-Langerwehe_Denkmal-Nr._3,_Pastoratsweg_1_(1119).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Echtzer_See.jpg/400px-Echtzer_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Echtzer_See.jpg/800px-Echtzer_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Echtzer_See.jpg/1200px-Echtzer_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Echtzer_See.jpg/1920px-Echtzer_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Echtzer_See.jpg/1920px-Echtzer_See.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/400px-Worms_Portal_der_Pauluskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/800px-Worms_Portal_der_Pauluskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/1200px-Worms_Portal_der_Pauluskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/1920px-Worms_Portal_der_Pauluskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Worms_Portal_der_Pauluskirche.jpg/1920px-Worms_Portal_der_Pauluskirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/400px-Neuss,_Haus_Rottels,_2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/800px-Neuss,_Haus_Rottels,_2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/1200px-Neuss,_Haus_Rottels,_2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/1920px-Neuss,_Haus_Rottels,_2008.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Neuss,_Haus_Rottels,_2008.JPG/1920px-Neuss,_Haus_Rottels,_2008.JPG
+---
 
 ## Overview
 

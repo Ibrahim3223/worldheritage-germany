@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/400px-Burgstall_Klingenberg-2399-HDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/800px-Burgstall_Klingenberg-2399-HDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/1200px-Burgstall_Klingenberg-2399-HDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/1920px-Burgstall_Klingenberg-2399-HDR.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burgstall_Klingenberg-2399-HDR.jpg/1920px-Burgstall_Klingenberg-2399-HDR.jpg
+---
 
 ## Overview
 

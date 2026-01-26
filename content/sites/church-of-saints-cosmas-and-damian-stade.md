@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/400px-StadeStCosmaeDamiani.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/800px-StadeStCosmaeDamiani.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1200px-StadeStCosmaeDamiani.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1920px-StadeStCosmaeDamiani.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1920px-StadeStCosmaeDamiani.jpg
+---
 
 ## Overview
 

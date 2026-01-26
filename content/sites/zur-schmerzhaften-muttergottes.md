@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/400px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/800px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/1200px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/1920px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg/1920px-Reimerzhoven_im_Ahrtal_-_Kapelle_Zur_Schmerzhaften_Muttergottes_-_panoramio.jpg
+---
 
 ## Overview
 

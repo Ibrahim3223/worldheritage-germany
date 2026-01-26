@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/400px-Fußballmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/800px-Fußballmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/1200px-Fußballmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/1920px-Fußballmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fußballmuseum.JPG/1920px-Fußballmuseum.JPG
+---
 
 ## Overview
 

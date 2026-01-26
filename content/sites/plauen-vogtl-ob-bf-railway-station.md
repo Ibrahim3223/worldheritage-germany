@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/400px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/800px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/1200px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/1920px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG/1920px-Plauen,_Rathenauplatz_2_(Oberer_Bahnhof),_Empfangsgebäude_von_Süden.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bad-Boll-Bertaburg.jpg/400px-Bad-Boll-Bertaburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bad-Boll-Bertaburg.jpg/800px-Bad-Boll-Bertaburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bad-Boll-Bertaburg.jpg/1200px-Bad-Boll-Bertaburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bad-Boll-Bertaburg.jpg/1920px-Bad-Boll-Bertaburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bad-Boll-Bertaburg.jpg/1920px-Bad-Boll-Bertaburg.jpg
+---
 
 ## Overview
 

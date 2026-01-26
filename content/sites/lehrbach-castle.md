@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/400px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/800px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/1200px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/1920px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirtorf_Lehrbach_BurgLehrbach_E_a.png/1920px-Kirtorf_Lehrbach_BurgLehrbach_E_a.png
+---
 
 ## Overview
 

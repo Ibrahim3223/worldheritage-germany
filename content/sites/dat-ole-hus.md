@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/400px-Aukrug_ole-hus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/800px-Aukrug_ole-hus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1200px-Aukrug_ole-hus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1920px-Aukrug_ole-hus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1920px-Aukrug_ole-hus.JPG
+---
 
 ## Overview
 

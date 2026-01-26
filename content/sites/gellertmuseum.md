@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/400px-Hainichengellertmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/800px-Hainichengellertmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/1200px-Hainichengellertmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/1920px-Hainichengellertmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hainichengellertmuseum.jpg/1920px-Hainichengellertmuseum.jpg
+---
 
 ## Overview
 

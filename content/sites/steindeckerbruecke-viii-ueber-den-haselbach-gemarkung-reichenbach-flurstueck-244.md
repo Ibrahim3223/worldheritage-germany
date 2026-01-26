@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/400px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/800px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/1200px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/1920px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg/1920px-Steindeckerbrücke_(VIII)_Haselbach_2020-05-16_3.jpg
+---
 
 ## Overview
 

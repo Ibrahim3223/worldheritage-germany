@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/400px-WaldenbuchRitter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/800px-WaldenbuchRitter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/1200px-WaldenbuchRitter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/1920px-WaldenbuchRitter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/WaldenbuchRitter.jpg/1920px-WaldenbuchRitter.jpg
+---
 
 ## Overview
 

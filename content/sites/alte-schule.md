@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/400px-Alte_Schule_Kaditz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/800px-Alte_Schule_Kaditz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/1200px-Alte_Schule_Kaditz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/1920px-Alte_Schule_Kaditz1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alte_Schule_Kaditz1.jpg/1920px-Alte_Schule_Kaditz1.jpg
+---
 
 ## Overview
 

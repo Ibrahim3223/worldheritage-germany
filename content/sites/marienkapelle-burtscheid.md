@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/400px-Marienkapelle_Aachen-Burtscheid.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/800px-Marienkapelle_Aachen-Burtscheid.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/1200px-Marienkapelle_Aachen-Burtscheid.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/1920px-Marienkapelle_Aachen-Burtscheid.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marienkapelle_Aachen-Burtscheid.jpg/1920px-Marienkapelle_Aachen-Burtscheid.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/400px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/800px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/1200px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/1920px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Haupteingang_(Kasse)_Schlosspark_Theater.jpg/1920px-Haupteingang_(Kasse)_Schlosspark_Theater.jpg
+---
 
 ## Overview
 

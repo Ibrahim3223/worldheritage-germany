@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/400px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/800px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/1200px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/1920px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/1920px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg
+---
 
 ## Overview
 

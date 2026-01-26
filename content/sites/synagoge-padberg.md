@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/400px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/800px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/1200px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/1920px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Padberg_(Marsberg)_ehemalige_Synagoge.jpg/1920px-Padberg_(Marsberg)_ehemalige_Synagoge.jpg
+---
 
 ## Overview
 

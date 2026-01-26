@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/400px-Bf_Arnstadt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/800px-Bf_Arnstadt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1200px-Bf_Arnstadt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1920px-Bf_Arnstadt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1920px-Bf_Arnstadt.JPG
+---
 
 ## Overview
 

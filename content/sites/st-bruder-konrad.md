@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/400px-Gütersloh_-_Spexard_-_St._Konrad.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/800px-Gütersloh_-_Spexard_-_St._Konrad.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/1200px-Gütersloh_-_Spexard_-_St._Konrad.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/1920px-Gütersloh_-_Spexard_-_St._Konrad.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gütersloh_-_Spexard_-_St._Konrad.jpg/1920px-Gütersloh_-_Spexard_-_St._Konrad.jpg
+---
 
 ## Overview
 

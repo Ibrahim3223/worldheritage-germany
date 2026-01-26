@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bastauwiesen2.JPG/400px-Bastauwiesen2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bastauwiesen2.JPG/800px-Bastauwiesen2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bastauwiesen2.JPG/1200px-Bastauwiesen2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bastauwiesen2.JPG/1920px-Bastauwiesen2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bastauwiesen2.JPG/1920px-Bastauwiesen2.JPG
+---
 
 ## Overview
 Bastauwiesen, located in the serene region of Hille, Germany, stands as a prominent nature reserve that offers visitors an opportunity to connect with the natural world. This protected area is characterized by its diverse ecosystems, making it a sanctuary for various plant and animal species. The reserve plays a crucial role in preserving the local flora and fauna while also serving as a vital space for research, education, and recreation. 

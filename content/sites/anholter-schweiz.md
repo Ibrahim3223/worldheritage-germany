@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/400px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/800px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/1200px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/1920px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg/1920px-Isselburg_Anholt_-_Anholter_Schweiz_12_ies.jpg
+---
 
 ## Overview
 

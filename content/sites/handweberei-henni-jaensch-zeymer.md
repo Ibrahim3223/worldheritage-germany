@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/400px-Am_Wasser_19_Geltow_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/800px-Am_Wasser_19_Geltow_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/1200px-Am_Wasser_19_Geltow_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/1920px-Am_Wasser_19_Geltow_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Am_Wasser_19_Geltow_04.jpg/1920px-Am_Wasser_19_Geltow_04.jpg
+---
 
 ## Overview
 

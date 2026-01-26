@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/400px-Landwehr_Maisborn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/800px-Landwehr_Maisborn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/1200px-Landwehr_Maisborn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/1920px-Landwehr_Maisborn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Landwehr_Maisborn.jpg/1920px-Landwehr_Maisborn.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/400px-Hüsli_1080523_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/800px-Hüsli_1080523_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/1200px-Hüsli_1080523_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/1920px-Hüsli_1080523_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hüsli_1080523_(cropped).jpg/1920px-Hüsli_1080523_(cropped).jpg
+---
 
 ## Overview
 

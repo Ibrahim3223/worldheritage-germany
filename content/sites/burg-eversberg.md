@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/400px-Eversberg_(Meschede_-_Germany)_(7).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/800px-Eversberg_(Meschede_-_Germany)_(7).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/1200px-Eversberg_(Meschede_-_Germany)_(7).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/1920px-Eversberg_(Meschede_-_Germany)_(7).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/1920px-Eversberg_(Meschede_-_Germany)_(7).jpg
+---
 
 ## Overview
 

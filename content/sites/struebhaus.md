@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/400px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/800px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/1200px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/1920px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg/1920px-Veringenstadt_-_Strübhaus_um_1500,_Fachwerk.jpg
+---
 
 ## Overview
 

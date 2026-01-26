@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/400px-Kunsthalle_Mannheim_Eingangsportal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/800px-Kunsthalle_Mannheim_Eingangsportal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/1200px-Kunsthalle_Mannheim_Eingangsportal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/1920px-Kunsthalle_Mannheim_Eingangsportal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kunsthalle_Mannheim_Eingangsportal.jpg/1920px-Kunsthalle_Mannheim_Eingangsportal.jpg
+---
 
 ## Overview
 

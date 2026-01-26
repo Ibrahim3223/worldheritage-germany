@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/400px-Elisabeth_-_Mühle_in_Selsingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/800px-Elisabeth_-_Mühle_in_Selsingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/1200px-Elisabeth_-_Mühle_in_Selsingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/1920px-Elisabeth_-_Mühle_in_Selsingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Elisabeth_-_Mühle_in_Selsingen.jpg/1920px-Elisabeth_-_Mühle_in_Selsingen.jpg
+---
 
 ## Overview
 

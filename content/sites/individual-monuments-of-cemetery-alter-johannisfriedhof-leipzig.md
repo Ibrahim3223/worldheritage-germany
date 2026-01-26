@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/400px-Brockhaus_Gravestones.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/800px-Brockhaus_Gravestones.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1200px-Brockhaus_Gravestones.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1920px-Brockhaus_Gravestones.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1920px-Brockhaus_Gravestones.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/400px-Birkensee_im_Naturschutzgebiet.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/800px-Birkensee_im_Naturschutzgebiet.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/1200px-Birkensee_im_Naturschutzgebiet.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/1920px-Birkensee_im_Naturschutzgebiet.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Birkensee_im_Naturschutzgebiet.JPG/1920px-Birkensee_im_Naturschutzgebiet.JPG
+---
 
 ## Overview
 

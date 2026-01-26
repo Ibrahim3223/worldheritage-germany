@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/400px-Limes_Rhin.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/800px-Limes_Rhin.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/1200px-Limes_Rhin.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/1920px-Limes_Rhin.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Limes_Rhin.png/1920px-Limes_Rhin.png
+---
 
 ## Overview
 

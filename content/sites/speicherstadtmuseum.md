@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/400px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/800px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/1200px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/1920px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Am_Sandtorkai_36_Speicherstadt-Museum.jpg/1920px-Am_Sandtorkai_36_Speicherstadt-Museum.jpg
+---
 
 ## Overview
 

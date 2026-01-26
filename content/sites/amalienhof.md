@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/400px-Sulzfeld-schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/800px-Sulzfeld-schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/1200px-Sulzfeld-schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/1920px-Sulzfeld-schloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sulzfeld-schloss.jpg/1920px-Sulzfeld-schloss.jpg
+---
 
 ## Overview
 

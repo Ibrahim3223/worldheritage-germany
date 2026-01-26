@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/400px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/800px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/1200px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/1920px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg/1920px-Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg
+---
 
 ## Overview
 

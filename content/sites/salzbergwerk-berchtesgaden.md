@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/400px-Salzbergwerk-Berchtesgaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/800px-Salzbergwerk-Berchtesgaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/1200px-Salzbergwerk-Berchtesgaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/1920px-Salzbergwerk-Berchtesgaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salzbergwerk-Berchtesgaden.jpg/1920px-Salzbergwerk-Berchtesgaden.jpg
+---
 
 ## Overview
 

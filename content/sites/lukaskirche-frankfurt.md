@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/400px-Lukaskirche_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/800px-Lukaskirche_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/1200px-Lukaskirche_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/1920px-Lukaskirche_2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lukaskirche_2008.jpg/1920px-Lukaskirche_2008.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/400px-Diba_stadion_offenbach_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/800px-Diba_stadion_offenbach_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/1200px-Diba_stadion_offenbach_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/1920px-Diba_stadion_offenbach_04.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Diba_stadion_offenbach_04.JPG/1920px-Diba_stadion_offenbach_04.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/400px-Leipzig_Haus_der_Demokratie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/800px-Leipzig_Haus_der_Demokratie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/1200px-Leipzig_Haus_der_Demokratie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/1920px-Leipzig_Haus_der_Demokratie.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Leipzig_Haus_der_Demokratie.jpg/1920px-Leipzig_Haus_der_Demokratie.jpg
+---
 
 ## Overview
 

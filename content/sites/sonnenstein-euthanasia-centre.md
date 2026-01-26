@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/400px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/800px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/1200px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/1920px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/1920px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg
+---
 
 ## Overview
 

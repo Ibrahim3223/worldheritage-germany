@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/400px-Regensburg_Dom_160910.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/800px-Regensburg_Dom_160910.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/1200px-Regensburg_Dom_160910.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/1920px-Regensburg_Dom_160910.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Regensburg_Dom_160910.jpg/1920px-Regensburg_Dom_160910.jpg
+---
 
 ## Overview
 

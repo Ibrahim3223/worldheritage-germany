@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/400px-Ahlenmoor_(renaturiert).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/800px-Ahlenmoor_(renaturiert).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1200px-Ahlenmoor_(renaturiert).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1920px-Ahlenmoor_(renaturiert).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1920px-Ahlenmoor_(renaturiert).JPG
+---
 
 ## Overview
 

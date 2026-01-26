@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/400px-Nähmaschinenmuseum_Sommerfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/800px-Nähmaschinenmuseum_Sommerfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/1200px-Nähmaschinenmuseum_Sommerfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/1920px-Nähmaschinenmuseum_Sommerfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nähmaschinenmuseum_Sommerfeld.jpg/1920px-Nähmaschinenmuseum_Sommerfeld.jpg
+---
 
 ## Overview
 

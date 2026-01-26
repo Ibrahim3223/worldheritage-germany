@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/400px-Uelzen_Uhlenköper_Münze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/800px-Uelzen_Uhlenköper_Münze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/1200px-Uelzen_Uhlenköper_Münze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/1920px-Uelzen_Uhlenköper_Münze.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Uelzen_Uhlenköper_Münze.jpg/1920px-Uelzen_Uhlenköper_Münze.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/400px-Dresden-Thalia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/800px-Dresden-Thalia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/1200px-Dresden-Thalia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/1920px-Dresden-Thalia.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dresden-Thalia.jpg/1920px-Dresden-Thalia.jpg
+---
 
 ## Overview
 

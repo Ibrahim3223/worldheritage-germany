@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/400px-AlbertinumDresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/800px-AlbertinumDresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1200px-AlbertinumDresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1920px-AlbertinumDresden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1920px-AlbertinumDresden.jpg
+---
 
 ## Overview
 

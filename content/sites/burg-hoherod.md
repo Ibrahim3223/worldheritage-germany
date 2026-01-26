@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/400px-Burg_hohenrod.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/800px-Burg_hohenrod.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/1200px-Burg_hohenrod.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/1920px-Burg_hohenrod.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burg_hohenrod.jpg/1920px-Burg_hohenrod.jpg
+---
 
 ## Overview
 

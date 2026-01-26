@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/400px-Glasmuseum_Frauenau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/800px-Glasmuseum_Frauenau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1200px-Glasmuseum_Frauenau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1920px-Glasmuseum_Frauenau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1920px-Glasmuseum_Frauenau.JPG
+---
 
 ## Overview
 

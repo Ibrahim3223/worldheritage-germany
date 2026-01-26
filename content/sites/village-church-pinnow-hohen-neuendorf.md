@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/400px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/800px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/1200px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/1920px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg/1920px-Dorfkirche_Pinnow_Hohen_Neuendorf_Vorderansicht.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/400px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/800px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/1200px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/1920px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm_Belvedere_Spiegelsberge_Halberstadt.jpg/1920px-Turm_Belvedere_Spiegelsberge_Halberstadt.jpg
+---
 
 ## Overview
 

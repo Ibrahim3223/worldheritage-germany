@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/400px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/800px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/1200px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/1920px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg/1920px-Kirche_St._Mauritius_Kärlich_(von_Westen)_1976.jpg
+---
 
 ## Overview
 

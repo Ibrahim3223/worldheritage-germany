@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stoffenried_Schwaningerstraße20.jpg/400px-Stoffenried_Schwaningerstraße20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stoffenried_Schwaningerstraße20.jpg/800px-Stoffenried_Schwaningerstraße20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stoffenried_Schwaningerstraße20.jpg/1200px-Stoffenried_Schwaningerstraße20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stoffenried_Schwaningerstraße20.jpg/1920px-Stoffenried_Schwaningerstraße20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stoffenried_Schwaningerstraße20.jpg/1920px-Stoffenried_Schwaningerstraße20.jpg
+---
 
 ## Overview
 

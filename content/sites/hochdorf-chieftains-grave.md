@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/400px-Keltengrabhuegel_Hochdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/800px-Keltengrabhuegel_Hochdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/1200px-Keltengrabhuegel_Hochdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/1920px-Keltengrabhuegel_Hochdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/1920px-Keltengrabhuegel_Hochdorf.jpg
+---
 
 ## Overview
 

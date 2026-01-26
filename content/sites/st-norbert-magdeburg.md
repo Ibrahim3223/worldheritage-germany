@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/400px-Sankt-Norbert-Kirche_Magdeburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/800px-Sankt-Norbert-Kirche_Magdeburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/1200px-Sankt-Norbert-Kirche_Magdeburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/1920px-Sankt-Norbert-Kirche_Magdeburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sankt-Norbert-Kirche_Magdeburg.JPG/1920px-Sankt-Norbert-Kirche_Magdeburg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/400px-Luebberstedter_Muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/800px-Luebberstedter_Muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/1200px-Luebberstedter_Muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/1920px-Luebberstedter_Muehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luebberstedter_Muehle.jpg/1920px-Luebberstedter_Muehle.jpg
+---
 
 ## Overview
 

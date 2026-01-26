@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/400px-Orpheusdueren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/800px-Orpheusdueren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/1200px-Orpheusdueren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/1920px-Orpheusdueren.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Orpheusdueren.jpg/1920px-Orpheusdueren.jpg
+---
 
 ## Overview
 

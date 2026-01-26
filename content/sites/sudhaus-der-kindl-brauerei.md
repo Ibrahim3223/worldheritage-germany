@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/400px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/800px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/1200px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/1920px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg/1920px-Sudhaus_der_Berliner_Kindl-Brauerei_(2018).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/400px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/800px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/1200px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/1920px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/10-09-2023_Katholische_Akademie_in_Bayern_01.jpg/1920px-10-09-2023_Katholische_Akademie_in_Bayern_01.jpg
+---
 
 ## Overview
 

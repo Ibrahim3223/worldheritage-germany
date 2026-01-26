@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/400px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/800px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1200px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1920px-Hamburger-kunsthalle-alter-treppenaufgang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1920px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
+---
 
 ## Overview
 

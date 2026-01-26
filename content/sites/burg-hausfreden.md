@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/400px-Hausfreden_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/800px-Hausfreden_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/1200px-Hausfreden_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/1920px-Hausfreden_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hausfreden_Panorama.jpg/1920px-Hausfreden_Panorama.jpg
+---
 
 ## Overview
 

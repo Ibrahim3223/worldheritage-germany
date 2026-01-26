@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/400px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/800px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1200px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1920px-Unna-Koenigsborn-Christuskirche1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1920px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
+---
 
 ## Overview
 

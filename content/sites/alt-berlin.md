@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg/400px-Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg/800px-Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg/1200px-Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg/1920px-Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg/1920px-Berlin_panorama_postcard_pre_1914_Heilige-Geist-Viertel_(49960852212).jpg
+---
 
 ## Overview
 

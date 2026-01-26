@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/400px-Rathausplatz_1_(Hoym)_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/800px-Rathausplatz_1_(Hoym)_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/1200px-Rathausplatz_1_(Hoym)_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/1920px-Rathausplatz_1_(Hoym)_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rathausplatz_1_(Hoym)_04.jpg/1920px-Rathausplatz_1_(Hoym)_04.jpg
+---
 
 ## Overview
 

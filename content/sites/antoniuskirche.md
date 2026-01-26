@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg/400px-St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg/800px-St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg/1200px-St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg/1920px-St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg/1920px-St.Antonius-Kirche_in_Bispingen_IMG_0421.jpg
+---
 
 ## Overview
 

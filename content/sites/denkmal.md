@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ottobrunn_Ottosaeule-1.jpg/400px-Ottobrunn_Ottosaeule-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ottobrunn_Ottosaeule-1.jpg/800px-Ottobrunn_Ottosaeule-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ottobrunn_Ottosaeule-1.jpg/1200px-Ottobrunn_Ottosaeule-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ottobrunn_Ottosaeule-1.jpg/1920px-Ottobrunn_Ottosaeule-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ottobrunn_Ottosaeule-1.jpg/1920px-Ottobrunn_Ottosaeule-1.jpg
+---
 
 ## Overview
 

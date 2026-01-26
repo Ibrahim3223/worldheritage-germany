@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/400px-FMT_Porta_Westfalica.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/800px-FMT_Porta_Westfalica.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1200px-FMT_Porta_Westfalica.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1920px-FMT_Porta_Westfalica.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1920px-FMT_Porta_Westfalica.JPG
+---
 
 ## Overview
 

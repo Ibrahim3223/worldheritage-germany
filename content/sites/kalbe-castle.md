@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/400px-Kalbe_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/800px-Kalbe_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/1200px-Kalbe_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/1920px-Kalbe_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kalbe_Burg.jpg/1920px-Kalbe_Burg.jpg
+---
 
 ## Overview
 

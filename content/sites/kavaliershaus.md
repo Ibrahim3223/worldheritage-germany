@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Peacock_Island_Sep12_img_02.jpg/400px-Peacock_Island_Sep12_img_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Peacock_Island_Sep12_img_02.jpg/800px-Peacock_Island_Sep12_img_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Peacock_Island_Sep12_img_02.jpg/1200px-Peacock_Island_Sep12_img_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Peacock_Island_Sep12_img_02.jpg/1920px-Peacock_Island_Sep12_img_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Peacock_Island_Sep12_img_02.jpg/1920px-Peacock_Island_Sep12_img_02.jpg
+---
 
 ## Overview
 

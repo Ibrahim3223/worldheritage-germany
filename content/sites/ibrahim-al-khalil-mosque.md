@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/400px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/800px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/1200px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/1920px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg/1920px-Osnabrück_Ibrahim_Al-Khalil_Moschee.jpg
+---
 
 ## Overview
 

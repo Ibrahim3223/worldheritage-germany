@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/400px-Haus-Geschichte-WB.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/800px-Haus-Geschichte-WB.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/1200px-Haus-Geschichte-WB.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/1920px-Haus-Geschichte-WB.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Haus-Geschichte-WB.jpg/1920px-Haus-Geschichte-WB.jpg
+---
 
 ## Overview
 

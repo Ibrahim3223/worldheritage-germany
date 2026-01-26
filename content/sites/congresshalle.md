@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/400px-Kongresshalle_(2066721208).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/800px-Kongresshalle_(2066721208).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1200px-Kongresshalle_(2066721208).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1920px-Kongresshalle_(2066721208).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1920px-Kongresshalle_(2066721208).jpg
+---
 
 ## Overview
 

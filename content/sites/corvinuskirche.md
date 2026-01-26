@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Corvinuskirche_Stöcken.jpg/400px-Corvinuskirche_Stöcken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Corvinuskirche_Stöcken.jpg/800px-Corvinuskirche_Stöcken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Corvinuskirche_Stöcken.jpg/1200px-Corvinuskirche_Stöcken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Corvinuskirche_Stöcken.jpg/1920px-Corvinuskirche_Stöcken.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Corvinuskirche_Stöcken.jpg/1920px-Corvinuskirche_Stöcken.jpg
+---
 
 ## Overview
 

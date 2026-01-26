@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/400px-BrandenburgPreussenMuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/800px-BrandenburgPreussenMuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/1200px-BrandenburgPreussenMuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/1920px-BrandenburgPreussenMuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BrandenburgPreussenMuseum.jpg/1920px-BrandenburgPreussenMuseum.jpg
+---
 
 ## Overview
 

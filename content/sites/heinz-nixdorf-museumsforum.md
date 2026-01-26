@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/400px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/800px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/1200px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/1920px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/1920px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
+---
 
 ## Overview
 

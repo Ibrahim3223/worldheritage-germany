@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Loreley_2025.jpg/400px-Loreley_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Loreley_2025.jpg/800px-Loreley_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Loreley_2025.jpg/1200px-Loreley_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Loreley_2025.jpg/1920px-Loreley_2025.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Loreley_2025.jpg/1920px-Loreley_2025.jpg
+---
 
 ## Overview
 

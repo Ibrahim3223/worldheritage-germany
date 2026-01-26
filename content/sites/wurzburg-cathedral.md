@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/400px-Dom_Wuerzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/800px-Dom_Wuerzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/1200px-Dom_Wuerzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/1920px-Dom_Wuerzburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dom_Wuerzburg.jpg/1920px-Dom_Wuerzburg.jpg
+---
 
 ## Overview
 

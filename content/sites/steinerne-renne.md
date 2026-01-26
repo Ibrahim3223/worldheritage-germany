@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/400px-Steinerne_Renne_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/800px-Steinerne_Renne_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/1200px-Steinerne_Renne_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/1920px-Steinerne_Renne_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Steinerne_Renne_2014.jpg/1920px-Steinerne_Renne_2014.jpg
+---
 
 ## Overview
 

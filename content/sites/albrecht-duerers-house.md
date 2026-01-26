@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/400px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/800px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1200px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1920px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1920px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
+---
 
 ## Overview
 

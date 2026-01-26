@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/400px-Kirche_in_Vietlübbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/800px-Kirche_in_Vietlübbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/1200px-Kirche_in_Vietlübbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/1920px-Kirche_in_Vietlübbe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirche_in_Vietlübbe.jpg/1920px-Kirche_in_Vietlübbe.jpg
+---
 
 ## Overview
 

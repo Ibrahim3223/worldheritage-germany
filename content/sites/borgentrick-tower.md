@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/400px-Stadtmauer_Hannover_VHS.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/800px-Stadtmauer_Hannover_VHS.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/1200px-Stadtmauer_Hannover_VHS.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/1920px-Stadtmauer_Hannover_VHS.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Stadtmauer_Hannover_VHS.jpg/1920px-Stadtmauer_Hannover_VHS.jpg
+---
 
 ## Overview
 

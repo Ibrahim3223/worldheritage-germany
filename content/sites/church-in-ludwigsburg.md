@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/400px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/800px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/1200px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/1920px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG/1920px-Ludwigsburg_Vorpommern_Kapelle_Westgiebel.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/400px-Tegernsee_Olaf_Gulbransson_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/800px-Tegernsee_Olaf_Gulbransson_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/1200px-Tegernsee_Olaf_Gulbransson_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/1920px-Tegernsee_Olaf_Gulbransson_Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tegernsee_Olaf_Gulbransson_Museum.JPG/1920px-Tegernsee_Olaf_Gulbransson_Museum.JPG
+---
 
 ## Overview
 

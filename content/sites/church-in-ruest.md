@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/400px-Ruest_Kirche_2011-04-20_329.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/800px-Ruest_Kirche_2011-04-20_329.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/1200px-Ruest_Kirche_2011-04-20_329.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/1920px-Ruest_Kirche_2011-04-20_329.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ruest_Kirche_2011-04-20_329.JPG/1920px-Ruest_Kirche_2011-04-20_329.JPG
+---
 
 ## Overview
 

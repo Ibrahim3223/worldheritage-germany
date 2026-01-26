@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/400px-Botanischer-guetersloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/800px-Botanischer-guetersloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/1200px-Botanischer-guetersloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/1920px-Botanischer-guetersloh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Botanischer-guetersloh.jpg/1920px-Botanischer-guetersloh.jpg
+---
 
 ## Overview
 

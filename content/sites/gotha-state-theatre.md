@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/400px-Gotha_Stadttheater_Modell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/800px-Gotha_Stadttheater_Modell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/1200px-Gotha_Stadttheater_Modell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/1920px-Gotha_Stadttheater_Modell.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gotha_Stadttheater_Modell.JPG/1920px-Gotha_Stadttheater_Modell.JPG
+---
 
 ## Overview
 

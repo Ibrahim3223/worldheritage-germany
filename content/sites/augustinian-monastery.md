@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/400px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/800px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/1200px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/1920px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg/1920px-Kupferstich_-_Speyer_-_Augustinerkloster_-_Steidlin_-_um_1731.jpg
+---
 
 ## Overview
 

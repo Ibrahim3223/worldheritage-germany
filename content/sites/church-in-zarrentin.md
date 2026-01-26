@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/400px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/800px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1200px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1920px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1920px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
+---
 
 ## Overview
 

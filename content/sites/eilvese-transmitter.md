@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/400px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/800px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1200px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1920px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1920px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
+---
 
 ## Overview
 

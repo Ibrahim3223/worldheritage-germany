@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alhauser_hammer.jpeg/400px-Alhauser_hammer.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alhauser_hammer.jpeg/800px-Alhauser_hammer.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alhauser_hammer.jpeg/1200px-Alhauser_hammer.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alhauser_hammer.jpeg/1920px-Alhauser_hammer.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alhauser_hammer.jpeg/1920px-Alhauser_hammer.jpeg
+---
 
 ## Overview
 

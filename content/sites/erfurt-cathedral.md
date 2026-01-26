@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/400px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/800px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/1200px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/1920px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/1920px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
+---
 
 ## Overview
 

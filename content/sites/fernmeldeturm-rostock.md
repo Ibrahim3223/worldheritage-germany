@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/400px-Fernmeldeturm_Rostock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/800px-Fernmeldeturm_Rostock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/1200px-Fernmeldeturm_Rostock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/1920px-Fernmeldeturm_Rostock.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernmeldeturm_Rostock.jpg/1920px-Fernmeldeturm_Rostock.jpg
+---
 
 ## Overview
 

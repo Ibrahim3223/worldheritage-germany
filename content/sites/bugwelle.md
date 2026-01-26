@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/400px-Bugwelle_BHV.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/800px-Bugwelle_BHV.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/1200px-Bugwelle_BHV.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/1920px-Bugwelle_BHV.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bugwelle_BHV.JPG/1920px-Bugwelle_BHV.JPG
+---
 
 ## Overview
 

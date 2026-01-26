@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/400px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/800px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/1200px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/1920px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011-2-20_F'hain_(30)_-_AMA_fec.jpg/1920px-2011-2-20_F'hain_(30)_-_AMA_fec.jpg
+---
 
 ## Overview
 

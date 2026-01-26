@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/400px-BluetlingerHolz1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/800px-BluetlingerHolz1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/1200px-BluetlingerHolz1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/1920px-BluetlingerHolz1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BluetlingerHolz1.jpg/1920px-BluetlingerHolz1.jpg
+---
 
 ## Overview
 

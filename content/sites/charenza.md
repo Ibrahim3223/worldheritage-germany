@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/400px-Burgwall_bei_Venz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/800px-Burgwall_bei_Venz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1200px-Burgwall_bei_Venz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1920px-Burgwall_bei_Venz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1920px-Burgwall_bei_Venz.jpg
+---
 
 ## Overview
 

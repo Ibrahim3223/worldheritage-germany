@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/400px-Optimisten_dechsendorfer_weiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/800px-Optimisten_dechsendorfer_weiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/1200px-Optimisten_dechsendorfer_weiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/1920px-Optimisten_dechsendorfer_weiher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Optimisten_dechsendorfer_weiher.jpg/1920px-Optimisten_dechsendorfer_weiher.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mill_Gate_Bautzen_101.JPG/400px-Mill_Gate_Bautzen_101.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mill_Gate_Bautzen_101.JPG/800px-Mill_Gate_Bautzen_101.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mill_Gate_Bautzen_101.JPG/1200px-Mill_Gate_Bautzen_101.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mill_Gate_Bautzen_101.JPG/1920px-Mill_Gate_Bautzen_101.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mill_Gate_Bautzen_101.JPG/1920px-Mill_Gate_Bautzen_101.JPG
+---
 
 ## Overview
 

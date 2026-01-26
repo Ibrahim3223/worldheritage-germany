@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/400px-ChurchTergast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/800px-ChurchTergast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/1200px-ChurchTergast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/1920px-ChurchTergast.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ChurchTergast.JPG/1920px-ChurchTergast.JPG
+---
 
 ## Overview
 

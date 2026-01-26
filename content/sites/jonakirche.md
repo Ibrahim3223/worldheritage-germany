@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mannheim-Blumenau-Jonakirche-02.jpg/400px-Mannheim-Blumenau-Jonakirche-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mannheim-Blumenau-Jonakirche-02.jpg/800px-Mannheim-Blumenau-Jonakirche-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mannheim-Blumenau-Jonakirche-02.jpg/1200px-Mannheim-Blumenau-Jonakirche-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mannheim-Blumenau-Jonakirche-02.jpg/1920px-Mannheim-Blumenau-Jonakirche-02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mannheim-Blumenau-Jonakirche-02.jpg/1920px-Mannheim-Blumenau-Jonakirche-02.jpg
+---
 
 ## Overview
 

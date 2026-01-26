@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/400px-Bochum_Kunstmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/800px-Bochum_Kunstmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/1200px-Bochum_Kunstmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/1920px-Bochum_Kunstmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bochum_Kunstmuseum.jpg/1920px-Bochum_Kunstmuseum.jpg
+---
 
 ## Overview
 

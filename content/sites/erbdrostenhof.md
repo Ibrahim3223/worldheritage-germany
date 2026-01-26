@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/400px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/800px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1200px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1920px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1920px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
+---
 
 ## Overview
 

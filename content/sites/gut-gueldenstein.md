@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/400px-Gueldenstein_Hof-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/800px-Gueldenstein_Hof-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/1200px-Gueldenstein_Hof-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/1920px-Gueldenstein_Hof-2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueldenstein_Hof-2.JPG/1920px-Gueldenstein_Hof-2.JPG
+---
 
 ## Overview
 

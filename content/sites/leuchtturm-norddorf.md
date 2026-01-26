@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leit-_und_Quermarkenfeuer_Norddorf.jpg/400px-Leit-_und_Quermarkenfeuer_Norddorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leit-_und_Quermarkenfeuer_Norddorf.jpg/800px-Leit-_und_Quermarkenfeuer_Norddorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leit-_und_Quermarkenfeuer_Norddorf.jpg/1200px-Leit-_und_Quermarkenfeuer_Norddorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leit-_und_Quermarkenfeuer_Norddorf.jpg/1920px-Leit-_und_Quermarkenfeuer_Norddorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leit-_und_Quermarkenfeuer_Norddorf.jpg/1920px-Leit-_und_Quermarkenfeuer_Norddorf.jpg
+---
 
 ## Overview
 

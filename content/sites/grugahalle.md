@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/400px-Grugahalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/800px-Grugahalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1200px-Grugahalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1920px-Grugahalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1920px-Grugahalle.jpg
+---
 
 ## Overview
 

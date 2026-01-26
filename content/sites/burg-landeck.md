@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Landeck_ringmauer.jpg/400px-Landeck_ringmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Landeck_ringmauer.jpg/800px-Landeck_ringmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Landeck_ringmauer.jpg/1200px-Landeck_ringmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Landeck_ringmauer.jpg/1920px-Landeck_ringmauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Landeck_ringmauer.jpg/1920px-Landeck_ringmauer.jpg
+---
 
 ## Overview
 

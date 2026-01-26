@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/400px-GagelstrauchbestandBornriethmoor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/800px-GagelstrauchbestandBornriethmoor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1200px-GagelstrauchbestandBornriethmoor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1920px-GagelstrauchbestandBornriethmoor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1920px-GagelstrauchbestandBornriethmoor.JPG
+---
 
 ## Overview
 

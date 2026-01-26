@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/400px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/800px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/1200px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/1920px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg/1920px-Horst-Wessel-Denkmal_Süntel_(Bild_1).jpg
+---
 
 ## Overview
 

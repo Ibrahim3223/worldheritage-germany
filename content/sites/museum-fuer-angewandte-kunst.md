@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/400px-Gera_-_Ferbersches_Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/800px-Gera_-_Ferbersches_Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/1200px-Gera_-_Ferbersches_Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/1920px-Gera_-_Ferbersches_Haus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gera_-_Ferbersches_Haus.JPG/1920px-Gera_-_Ferbersches_Haus.JPG
+---
 
 ## Overview
 

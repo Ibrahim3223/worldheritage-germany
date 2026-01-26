@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/400px-Burgberg-heinsberg-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/800px-Burgberg-heinsberg-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/1200px-Burgberg-heinsberg-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/1920px-Burgberg-heinsberg-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burgberg-heinsberg-2.jpg/1920px-Burgberg-heinsberg-2.jpg
+---
 
 ## Overview
 

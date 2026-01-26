@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/400px-Zweiter_und_Erster_Schafalpenkopf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/800px-Zweiter_und_Erster_Schafalpenkopf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/1200px-Zweiter_und_Erster_Schafalpenkopf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/1920px-Zweiter_und_Erster_Schafalpenkopf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zweiter_und_Erster_Schafalpenkopf.JPG/1920px-Zweiter_und_Erster_Schafalpenkopf.JPG
+---
 
 ## Overview
 

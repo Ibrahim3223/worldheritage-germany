@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/400px-Schenkenschanz-Suedansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/800px-Schenkenschanz-Suedansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/1200px-Schenkenschanz-Suedansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/1920px-Schenkenschanz-Suedansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schenkenschanz-Suedansicht.jpg/1920px-Schenkenschanz-Suedansicht.jpg
+---
 
 ## Overview
 

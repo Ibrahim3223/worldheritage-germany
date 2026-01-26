@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/400px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/800px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/1200px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/1920px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG/1920px-Bamberg,_Kloster_Michelsberg,_Exterior_002.JPG
+---
 
 ## Overview
 

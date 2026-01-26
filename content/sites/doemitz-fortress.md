@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/400px-Dömitz_Festung_ReiKi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/800px-Dömitz_Festung_ReiKi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1200px-Dömitz_Festung_ReiKi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1920px-Dömitz_Festung_ReiKi.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1920px-Dömitz_Festung_ReiKi.JPG
+---
 
 ## Overview
 

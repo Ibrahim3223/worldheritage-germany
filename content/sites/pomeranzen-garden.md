@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/400px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/800px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/1200px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/1920px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg/1920px-Leonberg_-_Altstadt_-_Pomeranzengarten_-_Blick_auf_Osthälfte.jpg
+---
 
 ## Overview
 

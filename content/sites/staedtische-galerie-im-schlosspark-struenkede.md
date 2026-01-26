@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/400px-Herne_Villa_Forell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/800px-Herne_Villa_Forell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/1200px-Herne_Villa_Forell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/1920px-Herne_Villa_Forell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Herne_Villa_Forell.jpg/1920px-Herne_Villa_Forell.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/400px-Bait_ul-Ghafur_(Ginsheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/800px-Bait_ul-Ghafur_(Ginsheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/1200px-Bait_ul-Ghafur_(Ginsheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/1920px-Bait_ul-Ghafur_(Ginsheim).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/1920px-Bait_ul-Ghafur_(Ginsheim).jpg
+---
 
 ## Overview
 

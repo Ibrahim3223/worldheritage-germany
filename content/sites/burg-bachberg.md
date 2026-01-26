@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/400px-Burg_Bachberg_Preungesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/800px-Burg_Bachberg_Preungesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/1200px-Burg_Bachberg_Preungesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/1920px-Burg_Bachberg_Preungesheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Bachberg_Preungesheim.jpg/1920px-Burg_Bachberg_Preungesheim.jpg
+---
 
 ## Overview
 

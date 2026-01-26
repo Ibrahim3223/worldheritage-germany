@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/400px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/800px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1200px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/400px-Freyung_597_Landshut-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/800px-Freyung_597_Landshut-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/1200px-Freyung_597_Landshut-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/1920px-Freyung_597_Landshut-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Freyung_597_Landshut-1.jpg/1920px-Freyung_597_Landshut-1.jpg
+---
 
 ## Overview
 

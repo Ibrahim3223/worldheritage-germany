@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/400px-St_Martin_(Freiburg)_3034_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/800px-St_Martin_(Freiburg)_3034_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/1200px-St_Martin_(Freiburg)_3034_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/1920px-St_Martin_(Freiburg)_3034_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Martin_(Freiburg)_3034_(cropped).jpg/1920px-St_Martin_(Freiburg)_3034_(cropped).jpg
+---
 
 ## Overview
 

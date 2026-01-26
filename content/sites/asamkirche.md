@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/400px-St._Nepomuk_retusche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/800px-St._Nepomuk_retusche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1200px-St._Nepomuk_retusche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1920px-St._Nepomuk_retusche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1920px-St._Nepomuk_retusche.jpg
+---
 
 ## Overview
 

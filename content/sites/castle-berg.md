@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stuttgart-bad-berg-2005.jpg/400px-Stuttgart-bad-berg-2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stuttgart-bad-berg-2005.jpg/800px-Stuttgart-bad-berg-2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stuttgart-bad-berg-2005.jpg/1200px-Stuttgart-bad-berg-2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stuttgart-bad-berg-2005.jpg/1920px-Stuttgart-bad-berg-2005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stuttgart-bad-berg-2005.jpg/1920px-Stuttgart-bad-berg-2005.jpg
+---
 
 ## Overview
 

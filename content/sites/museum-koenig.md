@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/400px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/800px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/1200px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/1920px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Außenfassade_des_Museums_Koenig_in_Bonn.jpg/1920px-Außenfassade_des_Museums_Koenig_in_Bonn.jpg
+---
 
 ## Overview
 

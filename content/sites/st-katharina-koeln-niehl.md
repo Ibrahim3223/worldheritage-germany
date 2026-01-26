@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/400px-St._Katharina_(Köln-Niehl)_(02a).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/800px-St._Katharina_(Köln-Niehl)_(02a).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/1200px-St._Katharina_(Köln-Niehl)_(02a).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/1920px-St._Katharina_(Köln-Niehl)_(02a).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/St._Katharina_(Köln-Niehl)_(02a).jpg/1920px-St._Katharina_(Köln-Niehl)_(02a).jpg
+---
 
 ## Overview
 

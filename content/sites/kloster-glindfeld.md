@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/400px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/800px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/1200px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/1920px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg/1920px-Medebach-Glindfeld_Augustinerinnenkloster_Sauerland-Ost_138.jpg
+---
 
 ## Overview
 

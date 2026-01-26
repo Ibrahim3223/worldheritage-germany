@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/400px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/800px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/1200px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/1920px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg/1920px-Duisburg_Jewish_Community_Center-Zvi_Hecker.jpg
+---
 
 ## Overview
 

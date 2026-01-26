@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/400px-VersteinerterWald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/800px-VersteinerterWald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/1200px-VersteinerterWald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/1920px-VersteinerterWald.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VersteinerterWald.jpg/1920px-VersteinerterWald.jpg
+---
 
 ## Overview
 

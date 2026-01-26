@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/400px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/800px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/1200px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/1920px-Mémorial_du_mur_de_Berlin_(6330924243).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/1920px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
+---
 
 ## Overview
 

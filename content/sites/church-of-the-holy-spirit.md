@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/400px-Heiliggeistkirche_(Flensburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/800px-Heiliggeistkirche_(Flensburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/1200px-Heiliggeistkirche_(Flensburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/1920px-Heiliggeistkirche_(Flensburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heiliggeistkirche_(Flensburg).JPG/1920px-Heiliggeistkirche_(Flensburg).JPG
+---
 
 ## Overview
 

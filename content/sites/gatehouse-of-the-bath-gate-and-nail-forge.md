@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/400px-Bahnhofstraße_2_(Gräfenberg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/800px-Bahnhofstraße_2_(Gräfenberg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/1200px-Bahnhofstraße_2_(Gräfenberg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/1920px-Bahnhofstraße_2_(Gräfenberg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhofstraße_2_(Gräfenberg).JPG/1920px-Bahnhofstraße_2_(Gräfenberg).JPG
+---
 
 ## Overview
 

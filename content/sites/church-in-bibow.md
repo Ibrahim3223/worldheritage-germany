@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/400px-Bibow_Kirche_2008-08-17_003cut.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/800px-Bibow_Kirche_2008-08-17_003cut.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/1200px-Bibow_Kirche_2008-08-17_003cut.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/1920px-Bibow_Kirche_2008-08-17_003cut.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/1920px-Bibow_Kirche_2008-08-17_003cut.jpg
+---
 
 ## Overview
 

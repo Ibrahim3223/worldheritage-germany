@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/400px-Synagoge_-_Panorama,_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/800px-Synagoge_-_Panorama,_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/1200px-Synagoge_-_Panorama,_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/1920px-Synagoge_-_Panorama,_Dresden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Synagoge_-_Panorama,_Dresden.jpg/1920px-Synagoge_-_Panorama,_Dresden.jpg
+---
 
 ## Overview
 

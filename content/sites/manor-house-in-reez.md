@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/400px-Reez_Herrenhaus_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/800px-Reez_Herrenhaus_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/1200px-Reez_Herrenhaus_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/1920px-Reez_Herrenhaus_von_Norden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Reez_Herrenhaus_von_Norden.jpg/1920px-Reez_Herrenhaus_von_Norden.jpg
+---
 
 ## Overview
 

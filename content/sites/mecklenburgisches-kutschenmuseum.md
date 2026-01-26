@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/400px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/800px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/1200px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/1920px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg/1920px-Mecklenburgisches_Kutschenmuseum_Kobrow_1682.jpg
+---
 
 ## Overview
 

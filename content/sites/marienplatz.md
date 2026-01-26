@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/400px-Marienplatz_und_Rathaus_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/800px-Marienplatz_und_Rathaus_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/1200px-Marienplatz_und_Rathaus_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/1920px-Marienplatz_und_Rathaus_München.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marienplatz_und_Rathaus_München.jpg/1920px-Marienplatz_und_Rathaus_München.jpg
+---
 
 ## Overview
 

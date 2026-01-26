@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/400px-St_Ludgerus_Erler_Str_Schermbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/800px-St_Ludgerus_Erler_Str_Schermbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/1200px-St_Ludgerus_Erler_Str_Schermbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/1920px-St_Ludgerus_Erler_Str_Schermbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Ludgerus_Erler_Str_Schermbeck.jpg/1920px-St_Ludgerus_Erler_Str_Schermbeck.jpg
+---
 
 ## Overview
 

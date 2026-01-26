@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/400px-Langewiesen-heinse-geburtshaus-2013-001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/800px-Langewiesen-heinse-geburtshaus-2013-001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1200px-Langewiesen-heinse-geburtshaus-2013-001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1920px-Langewiesen-heinse-geburtshaus-2013-001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1920px-Langewiesen-heinse-geburtshaus-2013-001.JPG
+---
 
 ## Overview
 

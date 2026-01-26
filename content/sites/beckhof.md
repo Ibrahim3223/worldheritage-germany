@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sennestadt-Beckhof.jpg/400px-Sennestadt-Beckhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sennestadt-Beckhof.jpg/800px-Sennestadt-Beckhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sennestadt-Beckhof.jpg/1200px-Sennestadt-Beckhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sennestadt-Beckhof.jpg/1920px-Sennestadt-Beckhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sennestadt-Beckhof.jpg/1920px-Sennestadt-Beckhof.jpg
+---
 
 ## Overview
 

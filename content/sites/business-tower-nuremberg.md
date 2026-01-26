@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/400px-NürnbergerVersicherungTurm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/800px-NürnbergerVersicherungTurm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1200px-NürnbergerVersicherungTurm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1920px-NürnbergerVersicherungTurm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1920px-NürnbergerVersicherungTurm.jpg
+---
 
 ## Overview
 

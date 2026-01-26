@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/400px-RadebeulWeiberstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/800px-RadebeulWeiberstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/1200px-RadebeulWeiberstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/1920px-RadebeulWeiberstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/RadebeulWeiberstein.JPG/1920px-RadebeulWeiberstein.JPG
+---
 
 ## Overview
 

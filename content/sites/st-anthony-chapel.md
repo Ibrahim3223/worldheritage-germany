@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/400px-Antoniuskapelle_(Kornelimünster)_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/800px-Antoniuskapelle_(Kornelimünster)_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/1200px-Antoniuskapelle_(Kornelimünster)_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/1920px-Antoniuskapelle_(Kornelimünster)_30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antoniuskapelle_(Kornelimünster)_30.jpg/1920px-Antoniuskapelle_(Kornelimünster)_30.jpg
+---
 
 ## Overview
 

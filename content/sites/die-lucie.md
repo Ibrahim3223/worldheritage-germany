@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/400px-Lucie1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/800px-Lucie1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/1200px-Lucie1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/1920px-Lucie1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lucie1.jpg/1920px-Lucie1.jpg
+---
 
 ## Overview
 

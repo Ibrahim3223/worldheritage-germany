@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/400px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/800px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/1200px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/1920px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Düsseldorf_Hofgarten_Kriegerdenkmal.jpg/1920px-Düsseldorf_Hofgarten_Kriegerdenkmal.jpg
+---
 
 ## Overview
 

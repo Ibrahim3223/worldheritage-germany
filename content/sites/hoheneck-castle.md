@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/400px-Burg_Hoheneck_Aerial_view.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/800px-Burg_Hoheneck_Aerial_view.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1200px-Burg_Hoheneck_Aerial_view.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1920px-Burg_Hoheneck_Aerial_view.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1920px-Burg_Hoheneck_Aerial_view.jpg
+---
 
 ## Overview
 

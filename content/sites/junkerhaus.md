@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/400px-Lemgo_Museum_Junkerhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/800px-Lemgo_Museum_Junkerhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/1200px-Lemgo_Museum_Junkerhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/1920px-Lemgo_Museum_Junkerhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemgo_Museum_Junkerhaus.jpg/1920px-Lemgo_Museum_Junkerhaus.jpg
+---
 
 ## Overview
 

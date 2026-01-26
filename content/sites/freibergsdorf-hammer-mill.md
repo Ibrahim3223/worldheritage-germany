@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/400px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/800px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1200px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1920px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1920px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
+---
 
 ## Overview
 

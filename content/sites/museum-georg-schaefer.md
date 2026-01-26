@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/400px-Schweinfurt-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/800px-Schweinfurt-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/1200px-Schweinfurt-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/1920px-Schweinfurt-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schweinfurt-001.jpg/1920px-Schweinfurt-001.jpg
+---
 
 ## Overview
 

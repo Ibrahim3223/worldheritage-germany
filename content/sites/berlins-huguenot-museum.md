@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20231119_xl_1430-Hugenottenmuseum_Berlin.jpg/400px-20231119_xl_1430-Hugenottenmuseum_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20231119_xl_1430-Hugenottenmuseum_Berlin.jpg/800px-20231119_xl_1430-Hugenottenmuseum_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20231119_xl_1430-Hugenottenmuseum_Berlin.jpg/1200px-20231119_xl_1430-Hugenottenmuseum_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20231119_xl_1430-Hugenottenmuseum_Berlin.jpg/1920px-20231119_xl_1430-Hugenottenmuseum_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20231119_xl_1430-Hugenottenmuseum_Berlin.jpg/1920px-20231119_xl_1430-Hugenottenmuseum_Berlin.jpg
+---
 
 ## Overview
 

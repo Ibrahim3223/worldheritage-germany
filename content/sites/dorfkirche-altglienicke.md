@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/400px-Altglienicke_kirche-2010-09-19-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/800px-Altglienicke_kirche-2010-09-19-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/1200px-Altglienicke_kirche-2010-09-19-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/1920px-Altglienicke_kirche-2010-09-19-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Altglienicke_kirche-2010-09-19-1.jpg/1920px-Altglienicke_kirche-2010-09-19-1.jpg
+---
 
 ## Overview
 

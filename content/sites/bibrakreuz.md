@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/400px-Bibrakreuz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/800px-Bibrakreuz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/1200px-Bibrakreuz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/1920px-Bibrakreuz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bibrakreuz.jpg/1920px-Bibrakreuz.jpg
+---
 
 ## Overview
 

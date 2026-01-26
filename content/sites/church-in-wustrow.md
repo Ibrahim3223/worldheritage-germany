@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/400px-Wustrow_Kirche_0.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/800px-Wustrow_Kirche_0.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1200px-Wustrow_Kirche_0.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1920px-Wustrow_Kirche_0.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1920px-Wustrow_Kirche_0.jpg
+---
 
 ## Overview
 

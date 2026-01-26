@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/400px-Weissenburg-023.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/800px-Weissenburg-023.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/1200px-Weissenburg-023.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/1920px-Weissenburg-023.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Weissenburg-023.JPG/1920px-Weissenburg-023.JPG
+---
 
 ## Overview
 

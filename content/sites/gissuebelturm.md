@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/400px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/800px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/1200px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/1920px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lauingen_(Donau)_Stadtbefestigung_1460.JPG/1920px-Lauingen_(Donau)_Stadtbefestigung_1460.JPG
+---
 
 ## Overview
 

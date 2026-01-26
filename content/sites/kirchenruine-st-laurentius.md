@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/400px-Laurentiuskirchenruine_Münden_ganz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/800px-Laurentiuskirchenruine_Münden_ganz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/1200px-Laurentiuskirchenruine_Münden_ganz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/1920px-Laurentiuskirchenruine_Münden_ganz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Laurentiuskirchenruine_Münden_ganz.jpg/1920px-Laurentiuskirchenruine_Münden_ganz.jpg
+---
 
 ## Overview
 

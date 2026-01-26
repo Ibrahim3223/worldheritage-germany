@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/400px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/800px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/1200px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/1920px-Gutskapelle_St._Antonius_(Drasenbeck).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gutskapelle_St._Antonius_(Drasenbeck).jpg/1920px-Gutskapelle_St._Antonius_(Drasenbeck).jpg
+---
 
 ## Overview
 

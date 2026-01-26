@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/400px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/800px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/1200px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/1920px-Schillerdenkmal_in_Wiesbaden_20080406.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schillerdenkmal_in_Wiesbaden_20080406.jpg/1920px-Schillerdenkmal_in_Wiesbaden_20080406.jpg
+---
 
 ## Overview
 

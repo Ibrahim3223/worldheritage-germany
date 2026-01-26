@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/400px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/800px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/1200px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/1920px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg/1920px-Weissach_im_Tal_-_Unterweissach_-_Rathaus_2033-30-10_MTh_(03).jpg
+---
 
 ## Overview
 

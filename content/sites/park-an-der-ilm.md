@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/400px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/800px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/1200px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/1920px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg/1920px-Ilmpark_in_Weimar_-_Blick_zum_Stern.jpg
+---
 
 ## Overview 
 

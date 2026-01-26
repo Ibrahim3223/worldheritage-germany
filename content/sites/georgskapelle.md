@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/400px-RKAP1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/800px-RKAP1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/1200px-RKAP1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/1920px-RKAP1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/RKAP1.jpg/1920px-RKAP1.jpg
+---
 
 ## Overview
 

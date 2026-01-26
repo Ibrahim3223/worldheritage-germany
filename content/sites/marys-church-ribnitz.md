@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ribnitz-Damgarten_Marienkirche_(01).jpg/400px-Ribnitz-Damgarten_Marienkirche_(01).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ribnitz-Damgarten_Marienkirche_(01).jpg/800px-Ribnitz-Damgarten_Marienkirche_(01).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ribnitz-Damgarten_Marienkirche_(01).jpg/1200px-Ribnitz-Damgarten_Marienkirche_(01).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ribnitz-Damgarten_Marienkirche_(01).jpg/1920px-Ribnitz-Damgarten_Marienkirche_(01).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ribnitz-Damgarten_Marienkirche_(01).jpg/1920px-Ribnitz-Damgarten_Marienkirche_(01).jpg
+---
 
 ## Overview
 

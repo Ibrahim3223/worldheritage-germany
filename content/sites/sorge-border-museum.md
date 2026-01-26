@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/400px-BT9-Sorge_1900px.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/800px-BT9-Sorge_1900px.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/1200px-BT9-Sorge_1900px.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/1920px-BT9-Sorge_1900px.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BT9-Sorge_1900px.jpg/1920px-BT9-Sorge_1900px.jpg
+---
 
 ## Overview
 

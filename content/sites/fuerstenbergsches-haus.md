@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/400px-DD-Augustusstrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/800px-DD-Augustusstrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/1200px-DD-Augustusstrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/1920px-DD-Augustusstrasse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DD-Augustusstrasse.jpg/1920px-DD-Augustusstrasse.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/400px-DNB2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/800px-DNB2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/1200px-DNB2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/1920px-DNB2012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/1920px-DNB2012.JPG
+---
 
 ## Overview
 

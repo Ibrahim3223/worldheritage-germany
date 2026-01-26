@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/400px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/800px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/1200px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/1920px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/1920px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
+---
 
 ## Overview
 

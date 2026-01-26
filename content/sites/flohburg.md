@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/400px-NDH-Flohburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/800px-NDH-Flohburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1200px-NDH-Flohburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1920px-NDH-Flohburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1920px-NDH-Flohburg.JPG
+---
 
 ## Overview
 

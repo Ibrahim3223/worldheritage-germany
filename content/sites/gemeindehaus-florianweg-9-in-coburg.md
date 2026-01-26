@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/400px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/800px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/1200px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/1920px-Fotoaktion_Creidlitz_22._März_2009_17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fotoaktion_Creidlitz_22._März_2009_17.jpg/1920px-Fotoaktion_Creidlitz_22._März_2009_17.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/400px-Dresden-Zwinger-Courtyard.11.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/800px-Dresden-Zwinger-Courtyard.11.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1200px-Dresden-Zwinger-Courtyard.11.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1920px-Dresden-Zwinger-Courtyard.11.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1920px-Dresden-Zwinger-Courtyard.11.JPG
+---
 
 ## Overview
 

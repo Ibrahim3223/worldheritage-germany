@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/400px-Bodenmoeser1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/800px-Bodenmoeser1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/1200px-Bodenmoeser1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/1920px-Bodenmoeser1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bodenmoeser1.jpg/1920px-Bodenmoeser1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Oschatz_Aegidienkirche.jpg/400px-Oschatz_Aegidienkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Oschatz_Aegidienkirche.jpg/800px-Oschatz_Aegidienkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Oschatz_Aegidienkirche.jpg/1200px-Oschatz_Aegidienkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Oschatz_Aegidienkirche.jpg/1920px-Oschatz_Aegidienkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Oschatz_Aegidienkirche.jpg/1920px-Oschatz_Aegidienkirche.jpg
+---
 
 ## Overview
 

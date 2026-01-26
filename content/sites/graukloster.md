@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/400px-Graukloster-Schleswig.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/800px-Graukloster-Schleswig.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/1200px-Graukloster-Schleswig.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/1920px-Graukloster-Schleswig.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Graukloster-Schleswig.png/1920px-Graukloster-Schleswig.png
+---
 
 ## Overview
 

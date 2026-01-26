@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/400px-NI-Kaiserpfalz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/800px-NI-Kaiserpfalz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1200px-NI-Kaiserpfalz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1920px-NI-Kaiserpfalz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1920px-NI-Kaiserpfalz.JPG
+---
 
 ## Overview
 

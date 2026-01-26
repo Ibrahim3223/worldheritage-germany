@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/400px-Gedenktafel-Innerdeutsche_Grenze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/800px-Gedenktafel-Innerdeutsche_Grenze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/1200px-Gedenktafel-Innerdeutsche_Grenze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/1920px-Gedenktafel-Innerdeutsche_Grenze.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gedenktafel-Innerdeutsche_Grenze.jpg/1920px-Gedenktafel-Innerdeutsche_Grenze.jpg
+---
 
 ## Overview
 

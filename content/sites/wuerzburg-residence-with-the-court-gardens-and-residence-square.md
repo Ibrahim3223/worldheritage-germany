@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/400px-Würzburg_Residence_DSC_9721.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/800px-Würzburg_Residence_DSC_9721.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/1200px-Würzburg_Residence_DSC_9721.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/1920px-Würzburg_Residence_DSC_9721.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Würzburg_Residence_DSC_9721.jpg/1920px-Würzburg_Residence_DSC_9721.jpg
+---
 
 ## Overview
 

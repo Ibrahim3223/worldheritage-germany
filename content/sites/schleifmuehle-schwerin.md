@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/400px-Schleifmühle_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/800px-Schleifmühle_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/1200px-Schleifmühle_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/1920px-Schleifmühle_Schwerin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schleifmühle_Schwerin.jpg/1920px-Schleifmühle_Schwerin.jpg
+---
 
 ## Overview
 

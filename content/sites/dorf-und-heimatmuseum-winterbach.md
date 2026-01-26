@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/400px-Dorf-_und_Heimatmuseum_Winterbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/800px-Dorf-_und_Heimatmuseum_Winterbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/1200px-Dorf-_und_Heimatmuseum_Winterbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/1920px-Dorf-_und_Heimatmuseum_Winterbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dorf-_und_Heimatmuseum_Winterbach.jpg/1920px-Dorf-_und_Heimatmuseum_Winterbach.jpg
+---
 
 ## Overview
 

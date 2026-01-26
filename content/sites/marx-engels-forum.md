@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lascar_Marx-Engels-Forum_(4472409972).jpg/400px-Lascar_Marx-Engels-Forum_(4472409972).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lascar_Marx-Engels-Forum_(4472409972).jpg/800px-Lascar_Marx-Engels-Forum_(4472409972).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lascar_Marx-Engels-Forum_(4472409972).jpg/1200px-Lascar_Marx-Engels-Forum_(4472409972).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lascar_Marx-Engels-Forum_(4472409972).jpg/1920px-Lascar_Marx-Engels-Forum_(4472409972).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lascar_Marx-Engels-Forum_(4472409972).jpg/1920px-Lascar_Marx-Engels-Forum_(4472409972).jpg
+---
 
 ## Overview
 

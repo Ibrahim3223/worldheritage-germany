@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/400px-WörlitzAmaliengrotte.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/800px-WörlitzAmaliengrotte.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1200px-WörlitzAmaliengrotte.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1920px-WörlitzAmaliengrotte.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1920px-WörlitzAmaliengrotte.JPG
+---
 
 ## Overview
 

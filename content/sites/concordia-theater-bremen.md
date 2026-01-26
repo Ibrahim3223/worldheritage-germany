@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/400px-Bremen_concordia-theater_20140811_bg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/800px-Bremen_concordia-theater_20140811_bg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/1200px-Bremen_concordia-theater_20140811_bg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/1920px-Bremen_concordia-theater_20140811_bg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bremen_concordia-theater_20140811_bg.jpg/1920px-Bremen_concordia-theater_20140811_bg.jpg
+---
 
 ## Overview
 

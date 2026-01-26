@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/400px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/800px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1200px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1920px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1920px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
+---
 
 ## Overview
 

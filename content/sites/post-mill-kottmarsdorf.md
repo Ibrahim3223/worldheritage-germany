@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/400px-Windmill_Kottmarsdorf_LC0035.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/800px-Windmill_Kottmarsdorf_LC0035.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/1200px-Windmill_Kottmarsdorf_LC0035.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/1920px-Windmill_Kottmarsdorf_LC0035.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Windmill_Kottmarsdorf_LC0035.jpg/1920px-Windmill_Kottmarsdorf_LC0035.jpg
+---
 
 ## Overview
 

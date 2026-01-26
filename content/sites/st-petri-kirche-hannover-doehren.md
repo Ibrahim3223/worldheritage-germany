@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/400px-St._Petri_Kirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/800px-St._Petri_Kirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/1200px-St._Petri_Kirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/1920px-St._Petri_Kirche_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Petri_Kirche_Hannover.jpg/1920px-St._Petri_Kirche_Hannover.jpg
+---
 
 ## Overview
 

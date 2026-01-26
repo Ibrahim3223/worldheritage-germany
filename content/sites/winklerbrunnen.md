@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/400px-Bad_Soden,_Winklerbrunnen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/800px-Bad_Soden,_Winklerbrunnen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/1200px-Bad_Soden,_Winklerbrunnen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/1920px-Bad_Soden,_Winklerbrunnen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bad_Soden,_Winklerbrunnen.JPG/1920px-Bad_Soden,_Winklerbrunnen.JPG
+---
 
 ## Overview
 

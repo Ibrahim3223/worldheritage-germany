@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/400px-Hadamar,_Herzenbergkapel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/800px-Hadamar,_Herzenbergkapel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1200px-Hadamar,_Herzenbergkapel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1920px-Hadamar,_Herzenbergkapel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1920px-Hadamar,_Herzenbergkapel.jpg
+---
 
 ## Overview
 

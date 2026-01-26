@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/400px-Petrus_kirche_kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/800px-Petrus_kirche_kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/1200px-Petrus_kirche_kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/1920px-Petrus_kirche_kiel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrus_kirche_kiel.jpg/1920px-Petrus_kirche_kiel.jpg
+---
 
 ## Overview
 

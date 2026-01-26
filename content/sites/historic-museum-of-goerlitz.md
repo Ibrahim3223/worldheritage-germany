@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neißstraße_30.jpg/400px-Neißstraße_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neißstraße_30.jpg/800px-Neißstraße_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neißstraße_30.jpg/1200px-Neißstraße_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neißstraße_30.jpg/1920px-Neißstraße_30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neißstraße_30.jpg/1920px-Neißstraße_30.jpg
+---
 
 ## Overview
 

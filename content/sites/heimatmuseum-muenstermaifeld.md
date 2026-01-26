@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/400px-DE-münstermaifeld-heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/800px-DE-münstermaifeld-heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/1200px-DE-münstermaifeld-heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/1920px-DE-münstermaifeld-heimatmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DE-münstermaifeld-heimatmuseum.jpg/1920px-DE-münstermaifeld-heimatmuseum.jpg
+---
 
 ## Overview
 

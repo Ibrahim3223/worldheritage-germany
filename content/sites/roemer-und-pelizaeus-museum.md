@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/400px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/800px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/1200px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/1920px-Hildesheim_Roemer.Pelizaeus.Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hildesheim_Roemer.Pelizaeus.Museum.JPG/1920px-Hildesheim_Roemer.Pelizaeus.Museum.JPG
+---
 
 ## Overview
 

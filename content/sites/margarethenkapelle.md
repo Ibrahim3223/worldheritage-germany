@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/400px-Margarethenkapelle_Grottenherten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/800px-Margarethenkapelle_Grottenherten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/1200px-Margarethenkapelle_Grottenherten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/1920px-Margarethenkapelle_Grottenherten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Margarethenkapelle_Grottenherten.jpg/1920px-Margarethenkapelle_Grottenherten.jpg
+---
 
 ## Overview
 

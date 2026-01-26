@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/400px-WP_Äußeres_Mühlentor_1552.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/800px-WP_Äußeres_Mühlentor_1552.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/1200px-WP_Äußeres_Mühlentor_1552.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/1920px-WP_Äußeres_Mühlentor_1552.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WP_Äußeres_Mühlentor_1552.jpg/1920px-WP_Äußeres_Mühlentor_1552.jpg
+---
 
 ## Overview
 

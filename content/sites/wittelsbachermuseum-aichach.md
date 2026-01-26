@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aichach-Unteres_Tor.jpg/400px-Aichach-Unteres_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aichach-Unteres_Tor.jpg/800px-Aichach-Unteres_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aichach-Unteres_Tor.jpg/1200px-Aichach-Unteres_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aichach-Unteres_Tor.jpg/1920px-Aichach-Unteres_Tor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aichach-Unteres_Tor.jpg/1920px-Aichach-Unteres_Tor.jpg
+---
 
 ## Overview
 

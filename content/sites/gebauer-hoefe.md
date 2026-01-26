@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/400px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/800px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/1200px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/1920px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg/1920px-Gebauer_Hoefe_Berlin_-_Speicherhaus.jpg
+---
 
 ## Overview
 

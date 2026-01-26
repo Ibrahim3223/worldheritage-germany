@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bretwisch_Kirche_Südseite.jpg/400px-Bretwisch_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bretwisch_Kirche_Südseite.jpg/800px-Bretwisch_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bretwisch_Kirche_Südseite.jpg/1200px-Bretwisch_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bretwisch_Kirche_Südseite.jpg/1920px-Bretwisch_Kirche_Südseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bretwisch_Kirche_Südseite.jpg/1920px-Bretwisch_Kirche_Südseite.jpg
+---
 
 ## Overview
 

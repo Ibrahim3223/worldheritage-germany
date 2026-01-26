@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/400px-Statue_"Die_Nubierin%22_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_%22Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/800px-Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1200px-Statue_"Die_Nubierin%22_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_%22Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Statue_%22Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-Statue_"Die_Nubierin"_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
+---
 
 ## Overview
 

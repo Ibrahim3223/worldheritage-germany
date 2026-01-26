@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/400px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/800px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/1200px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/1920px-Gymnasium_Am_Kothen_Wuppertal_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gymnasium_Am_Kothen_Wuppertal_04.jpg/1920px-Gymnasium_Am_Kothen_Wuppertal_04.jpg
+---
 
 ## Overview
 

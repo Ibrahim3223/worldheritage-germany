@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/400px-Mühle_Frankenburg_Lilienthal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/800px-Mühle_Frankenburg_Lilienthal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/1200px-Mühle_Frankenburg_Lilienthal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/1920px-Mühle_Frankenburg_Lilienthal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mühle_Frankenburg_Lilienthal.JPG/1920px-Mühle_Frankenburg_Lilienthal.JPG
+---
 
 ## Overview
 

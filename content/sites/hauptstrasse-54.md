@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Großschönau_Hauptstraße_54_4.jpg/400px-Großschönau_Hauptstraße_54_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Großschönau_Hauptstraße_54_4.jpg/800px-Großschönau_Hauptstraße_54_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Großschönau_Hauptstraße_54_4.jpg/1200px-Großschönau_Hauptstraße_54_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Großschönau_Hauptstraße_54_4.jpg/1920px-Großschönau_Hauptstraße_54_4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Großschönau_Hauptstraße_54_4.jpg/1920px-Großschönau_Hauptstraße_54_4.jpg
+---
 
 ## Overview
 

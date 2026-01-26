@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/400px-ChurchWoltzeten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/800px-ChurchWoltzeten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1200px-ChurchWoltzeten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1920px-ChurchWoltzeten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1920px-ChurchWoltzeten.JPG
+---
 
 ## Overview
 

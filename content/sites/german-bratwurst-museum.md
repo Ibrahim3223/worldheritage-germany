@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/400px-Bratwurstmuseum_Mühlhausen_15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/800px-Bratwurstmuseum_Mühlhausen_15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/1200px-Bratwurstmuseum_Mühlhausen_15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/1920px-Bratwurstmuseum_Mühlhausen_15.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/1920px-Bratwurstmuseum_Mühlhausen_15.jpg
+---
 
 ## Overview
 

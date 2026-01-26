@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/400px-Stadthalle_Offenbach_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/800px-Stadthalle_Offenbach_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/1200px-Stadthalle_Offenbach_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/1920px-Stadthalle_Offenbach_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Stadthalle_Offenbach_02.jpg/1920px-Stadthalle_Offenbach_02.jpg
+---
 
 ## Overview
 

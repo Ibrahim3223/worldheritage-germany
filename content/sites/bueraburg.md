@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/400px-135_3570_Büraburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/800px-135_3570_Büraburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1200px-135_3570_Büraburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1920px-135_3570_Büraburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1920px-135_3570_Büraburg.jpg
+---
 
 ## Overview
 

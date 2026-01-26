@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Göttingen_asv2022-06_img49_Deutsches_Theater.jpg/400px-Göttingen_asv2022-06_img49_Deutsches_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Göttingen_asv2022-06_img49_Deutsches_Theater.jpg/800px-Göttingen_asv2022-06_img49_Deutsches_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Göttingen_asv2022-06_img49_Deutsches_Theater.jpg/1200px-Göttingen_asv2022-06_img49_Deutsches_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Göttingen_asv2022-06_img49_Deutsches_Theater.jpg/1920px-Göttingen_asv2022-06_img49_Deutsches_Theater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Göttingen_asv2022-06_img49_Deutsches_Theater.jpg/1920px-Göttingen_asv2022-06_img49_Deutsches_Theater.jpg
+---
 
 ## Overview
 

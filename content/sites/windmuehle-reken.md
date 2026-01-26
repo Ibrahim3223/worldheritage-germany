@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/400px-Windmühle_in_Groß-Reken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/800px-Windmühle_in_Groß-Reken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/1200px-Windmühle_in_Groß-Reken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/1920px-Windmühle_in_Groß-Reken.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Windmühle_in_Groß-Reken.JPG/1920px-Windmühle_in_Groß-Reken.JPG
+---
 
 ## Overview
 

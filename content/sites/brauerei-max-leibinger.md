@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/400px-Ravensburg_Brauerei_Leibinger.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/800px-Ravensburg_Brauerei_Leibinger.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/1200px-Ravensburg_Brauerei_Leibinger.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/1920px-Ravensburg_Brauerei_Leibinger.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ravensburg_Brauerei_Leibinger.jpg/1920px-Ravensburg_Brauerei_Leibinger.jpg
+---
 
 ## Overview
 

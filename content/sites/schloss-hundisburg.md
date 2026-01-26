@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/400px-100600_Hundisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/800px-100600_Hundisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/1200px-100600_Hundisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/1920px-100600_Hundisburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/100600_Hundisburg.jpg/1920px-100600_Hundisburg.jpg
+---
 
 ## Overview
 

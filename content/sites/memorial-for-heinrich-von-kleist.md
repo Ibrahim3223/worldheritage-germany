@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/400px-FFO_04-13_Kleist-Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/800px-FFO_04-13_Kleist-Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/1200px-FFO_04-13_Kleist-Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/1920px-FFO_04-13_Kleist-Park.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FFO_04-13_Kleist-Park.jpg/1920px-FFO_04-13_Kleist-Park.jpg
+---
 
 ## Overview
 

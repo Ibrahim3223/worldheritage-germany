@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/400px-J21_209_Weinberghaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/800px-J21_209_Weinberghaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/1200px-J21_209_Weinberghaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/1920px-J21_209_Weinberghaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/J21_209_Weinberghaus.jpg/1920px-J21_209_Weinberghaus.jpg
+---
 
 ## Overview
 

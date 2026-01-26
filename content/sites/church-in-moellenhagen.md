@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/400px-Möllenhagen_Kirche_2010-09-03_032.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/800px-Möllenhagen_Kirche_2010-09-03_032.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1200px-Möllenhagen_Kirche_2010-09-03_032.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1920px-Möllenhagen_Kirche_2010-09-03_032.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1920px-Möllenhagen_Kirche_2010-09-03_032.JPG
+---
 
 ## Overview 
 

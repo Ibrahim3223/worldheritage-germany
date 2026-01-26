@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/400px-ChurchForlitzBlaukirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/800px-ChurchForlitzBlaukirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/1200px-ChurchForlitzBlaukirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/1920px-ChurchForlitzBlaukirchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ChurchForlitzBlaukirchen.jpg/1920px-ChurchForlitzBlaukirchen.jpg
+---
 
 ## Overview
 

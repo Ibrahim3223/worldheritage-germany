@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/400px-Schrobenhausen,_urbodomo.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/800px-Schrobenhausen,_urbodomo.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/1200px-Schrobenhausen,_urbodomo.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/1920px-Schrobenhausen,_urbodomo.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schrobenhausen,_urbodomo.jpeg/1920px-Schrobenhausen,_urbodomo.jpeg
+---
 
 ## Overview
 

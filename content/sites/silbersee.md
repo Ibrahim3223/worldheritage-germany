@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/400px-Silbersee_Langenhagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/800px-Silbersee_Langenhagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/1200px-Silbersee_Langenhagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/1920px-Silbersee_Langenhagen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Silbersee_Langenhagen.jpg/1920px-Silbersee_Langenhagen.jpg
+---
 
 ## Overview
 

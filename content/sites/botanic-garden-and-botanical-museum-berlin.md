@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/400px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/800px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
+---
 
 ## Overview
 

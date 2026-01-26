@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wüstegarten_von_Osten.jpg/400px-Wüstegarten_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wüstegarten_von_Osten.jpg/800px-Wüstegarten_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wüstegarten_von_Osten.jpg/1200px-Wüstegarten_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wüstegarten_von_Osten.jpg/1920px-Wüstegarten_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wüstegarten_von_Osten.jpg/1920px-Wüstegarten_von_Osten.jpg
+---
 
 ## Overview
 

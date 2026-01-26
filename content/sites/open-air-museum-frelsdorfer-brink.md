@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frelsdorf_brink.jpg/400px-Frelsdorf_brink.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frelsdorf_brink.jpg/800px-Frelsdorf_brink.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frelsdorf_brink.jpg/1200px-Frelsdorf_brink.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frelsdorf_brink.jpg/1920px-Frelsdorf_brink.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frelsdorf_brink.jpg/1920px-Frelsdorf_brink.jpg
+---
 
 ## Overview
 

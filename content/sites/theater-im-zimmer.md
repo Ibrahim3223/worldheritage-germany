@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/400px-Hamburg.Theater_im_Zimmer.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/800px-Hamburg.Theater_im_Zimmer.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/1200px-Hamburg.Theater_im_Zimmer.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/1920px-Hamburg.Theater_im_Zimmer.wmt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamburg.Theater_im_Zimmer.wmt.jpg/1920px-Hamburg.Theater_im_Zimmer.wmt.jpg
+---
 
 ## Overview
 

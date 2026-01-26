@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/400px-Albert_Einstein_home_Berlin_100.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/800px-Albert_Einstein_home_Berlin_100.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1200px-Albert_Einstein_home_Berlin_100.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1920px-Albert_Einstein_home_Berlin_100.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1920px-Albert_Einstein_home_Berlin_100.JPG
+---
 
 ## Overview
 

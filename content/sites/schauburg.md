@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/400px-Schauburg_Karlsruhe_IMGP4634.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/800px-Schauburg_Karlsruhe_IMGP4634.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/1200px-Schauburg_Karlsruhe_IMGP4634.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/1920px-Schauburg_Karlsruhe_IMGP4634.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schauburg_Karlsruhe_IMGP4634.JPG/1920px-Schauburg_Karlsruhe_IMGP4634.JPG
+---
 
 ## Overview
 

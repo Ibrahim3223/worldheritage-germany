@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/400px-Evangelische_Stadtkirche_Rastatt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/800px-Evangelische_Stadtkirche_Rastatt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/1200px-Evangelische_Stadtkirche_Rastatt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/1920px-Evangelische_Stadtkirche_Rastatt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evangelische_Stadtkirche_Rastatt.JPG/1920px-Evangelische_Stadtkirche_Rastatt.JPG
+---
 
 ## Overview
 

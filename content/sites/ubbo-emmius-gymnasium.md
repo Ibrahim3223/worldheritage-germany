@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/400px-Ubboemmiusgymnasium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/800px-Ubboemmiusgymnasium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/1200px-Ubboemmiusgymnasium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/1920px-Ubboemmiusgymnasium.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ubboemmiusgymnasium.jpg/1920px-Ubboemmiusgymnasium.jpg
+---
 
 ## Overview
 

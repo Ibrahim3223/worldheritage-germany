@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/400px-Richelsdorf_herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/800px-Richelsdorf_herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/1200px-Richelsdorf_herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/1920px-Richelsdorf_herrenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Richelsdorf_herrenhaus.jpg/1920px-Richelsdorf_herrenhaus.jpg
+---
 
 ## Overview
 

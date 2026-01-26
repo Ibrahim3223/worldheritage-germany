@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/400px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/800px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/1200px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/1920px-Lutherstadt_Wittenberg_09-2016_photo06.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lutherstadt_Wittenberg_09-2016_photo06.jpg/1920px-Lutherstadt_Wittenberg_09-2016_photo06.jpg
+---
 
 ## Overview
 

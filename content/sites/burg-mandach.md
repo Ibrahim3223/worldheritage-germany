@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/400px-Ruine_Mandach_Burgrest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/800px-Ruine_Mandach_Burgrest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1200px-Ruine_Mandach_Burgrest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1920px-Ruine_Mandach_Burgrest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1920px-Ruine_Mandach_Burgrest.jpg
+---
 
 ## Overview
 

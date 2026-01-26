@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/400px-Brennberg,_Kloster_Frauenzell_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/800px-Brennberg,_Kloster_Frauenzell_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/1200px-Brennberg,_Kloster_Frauenzell_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/1920px-Brennberg,_Kloster_Frauenzell_001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brennberg,_Kloster_Frauenzell_001.JPG/1920px-Brennberg,_Kloster_Frauenzell_001.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/400px-Goldschmiedehaus_Ahlen.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/800px-Goldschmiedehaus_Ahlen.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/1200px-Goldschmiedehaus_Ahlen.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/1920px-Goldschmiedehaus_Ahlen.nnw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goldschmiedehaus_Ahlen.nnw.jpg/1920px-Goldschmiedehaus_Ahlen.nnw.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/400px-Weinheim,_Amtsgasse_2_20170601_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/800px-Weinheim,_Amtsgasse_2_20170601_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/1200px-Weinheim,_Amtsgasse_2_20170601_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/1920px-Weinheim,_Amtsgasse_2_20170601_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Weinheim,_Amtsgasse_2_20170601_001.jpg/1920px-Weinheim,_Amtsgasse_2_20170601_001.jpg
+---
 
 ## Overview 
 

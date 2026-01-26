@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/400px-Kapelle_Alt-Laatzen_IMG_3415.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/800px-Kapelle_Alt-Laatzen_IMG_3415.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/1200px-Kapelle_Alt-Laatzen_IMG_3415.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/1920px-Kapelle_Alt-Laatzen_IMG_3415.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kapelle_Alt-Laatzen_IMG_3415.jpg/1920px-Kapelle_Alt-Laatzen_IMG_3415.jpg
+---
 
 ## Overview
 

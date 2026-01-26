@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/400px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/800px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/1200px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/1920px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg/1920px-Hauptfriedhof_Frankfurt_Oder_2018_(17).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/400px-Grosse_Karausche_2_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/800px-Grosse_Karausche_2_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/1200px-Grosse_Karausche_2_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/1920px-Grosse_Karausche_2_Schwerin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grosse_Karausche_2_Schwerin.jpg/1920px-Grosse_Karausche_2_Schwerin.jpg
+---
 
 ## Overview
 

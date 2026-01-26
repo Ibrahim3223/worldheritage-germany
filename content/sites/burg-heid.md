@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/400px-Burg_Heid_014x.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/800px-Burg_Heid_014x.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1200px-Burg_Heid_014x.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1920px-Burg_Heid_014x.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1920px-Burg_Heid_014x.jpg
+---
 
 ## Overview
 

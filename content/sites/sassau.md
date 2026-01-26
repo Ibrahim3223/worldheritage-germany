@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/400px-Walchensee_Insel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/800px-Walchensee_Insel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/1200px-Walchensee_Insel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/1920px-Walchensee_Insel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Walchensee_Insel.jpg/1920px-Walchensee_Insel.jpg
+---
 
 ## Overview
 

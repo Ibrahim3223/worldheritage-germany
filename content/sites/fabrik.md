@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/400px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/800px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/1200px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/1920px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg/1920px-Ostheim_vor_der_Rhön,_Paulinenstraße_22,_001.jpg
+---
 
 ## Overview
 

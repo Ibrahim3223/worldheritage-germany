@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG/400px-Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG/800px-Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG/1200px-Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG/1920px-Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG/1920px-Kirche_in_Dersekow,_Ansicht_(2009-10-03).JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/400px-Konradhaus_Koblenz_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/800px-Konradhaus_Koblenz_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/1200px-Konradhaus_Koblenz_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/1920px-Konradhaus_Koblenz_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konradhaus_Koblenz_2014.jpg/1920px-Konradhaus_Koblenz_2014.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/400px-Annakirche_Aachen_(2024).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/800px-Annakirche_Aachen_(2024).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/1200px-Annakirche_Aachen_(2024).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/1920px-Annakirche_Aachen_(2024).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Annakirche_Aachen_(2024).jpg/1920px-Annakirche_Aachen_(2024).jpg
+---
 
 ## Overview
 

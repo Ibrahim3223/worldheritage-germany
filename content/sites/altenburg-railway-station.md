@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/400px-Altenburg_-_train_station_2009_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/800px-Altenburg_-_train_station_2009_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1200px-Altenburg_-_train_station_2009_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1920px-Altenburg_-_train_station_2009_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1920px-Altenburg_-_train_station_2009_(aka).jpg
+---
 
 ## Overview
 

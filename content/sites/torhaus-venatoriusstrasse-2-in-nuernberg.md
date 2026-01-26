@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/400px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/800px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/1200px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/1920px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg/1920px-D-5-64-000-2018_Kornburg,_Kirchhofmauer,_Nordseite_Nürnberg_20241124_0001.jpg
+---
 
 ## Overview
 

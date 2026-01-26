@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/400px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/800px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/1200px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/1920px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/1920px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
+---
 
 ## Overview
 

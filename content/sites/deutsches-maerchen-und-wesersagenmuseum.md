@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/400px-BadO-Denkmal-072-2012-06-21-0992.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/800px-BadO-Denkmal-072-2012-06-21-0992.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/1200px-BadO-Denkmal-072-2012-06-21-0992.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/1920px-BadO-Denkmal-072-2012-06-21-0992.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BadO-Denkmal-072-2012-06-21-0992.jpg/1920px-BadO-Denkmal-072-2012-06-21-0992.jpg
+---
 
 ## Overview
 

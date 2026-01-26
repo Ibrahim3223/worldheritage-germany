@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/400px-ST._Anna-Kapelle_Mulfingen_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/800px-ST._Anna-Kapelle_Mulfingen_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/1200px-ST._Anna-Kapelle_Mulfingen_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/1920px-ST._Anna-Kapelle_Mulfingen_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/ST._Anna-Kapelle_Mulfingen_(2).jpg/1920px-ST._Anna-Kapelle_Mulfingen_(2).jpg
+---
 
 ## Overview
 

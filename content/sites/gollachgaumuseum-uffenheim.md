@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/400px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/800px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/1200px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/1920px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gollachgaumuseum_Uffenheim_Jan_2025.jpg/1920px-Gollachgaumuseum_Uffenheim_Jan_2025.jpg
+---
 
 ## Overview
 

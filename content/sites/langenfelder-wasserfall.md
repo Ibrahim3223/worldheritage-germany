@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/400px-Langenfeld-Niedersachsen-Wasserfall.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/800px-Langenfeld-Niedersachsen-Wasserfall.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/1200px-Langenfeld-Niedersachsen-Wasserfall.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/1920px-Langenfeld-Niedersachsen-Wasserfall.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Langenfeld-Niedersachsen-Wasserfall.JPG/1920px-Langenfeld-Niedersachsen-Wasserfall.JPG
+---
 
 ## Overview
 

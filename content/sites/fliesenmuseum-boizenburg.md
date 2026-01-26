@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/400px-Boizenburg-Fliesenmuseum1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/800px-Boizenburg-Fliesenmuseum1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/1200px-Boizenburg-Fliesenmuseum1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/1920px-Boizenburg-Fliesenmuseum1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boizenburg-Fliesenmuseum1-Bubo.JPG/1920px-Boizenburg-Fliesenmuseum1-Bubo.JPG
+---
 
 ## Overview
 

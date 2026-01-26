@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/400px-Tretstein-Wasserfall,_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/800px-Tretstein-Wasserfall,_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/1200px-Tretstein-Wasserfall,_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/1920px-Tretstein-Wasserfall,_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tretstein-Wasserfall,_3.jpg/1920px-Tretstein-Wasserfall,_3.jpg
+---
 
 ## Overview
 

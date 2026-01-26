@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/400px-Altenburgwarte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/800px-Altenburgwarte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/1200px-Altenburgwarte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/1920px-Altenburgwarte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altenburgwarte.jpg/1920px-Altenburgwarte.jpg
+---
 
 ## Overview
 

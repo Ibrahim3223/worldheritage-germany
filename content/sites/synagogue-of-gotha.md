@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/400px-GOTHA_SYNAGOGUE-1918.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/800px-GOTHA_SYNAGOGUE-1918.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/1200px-GOTHA_SYNAGOGUE-1918.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/1920px-GOTHA_SYNAGOGUE-1918.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GOTHA_SYNAGOGUE-1918.jpg/1920px-GOTHA_SYNAGOGUE-1918.jpg
+---
 
 ## Overview
 

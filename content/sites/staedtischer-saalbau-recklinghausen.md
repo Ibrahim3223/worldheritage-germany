@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/400px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/800px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/1200px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/1920px-Staedtischer_Saalbau_Recklinghausen_2006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Staedtischer_Saalbau_Recklinghausen_2006.jpg/1920px-Staedtischer_Saalbau_Recklinghausen_2006.jpg
+---
 
 ## Overview
 

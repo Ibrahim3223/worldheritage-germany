@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/400px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/800px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/1200px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/1920px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg/1920px-Bad_Arolsen_-_Burghotel_Mengeringhausen.jpg
+---
 
 ## Overview
 

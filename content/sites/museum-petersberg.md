@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/400px-PetersbergMuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/800px-PetersbergMuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/1200px-PetersbergMuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/1920px-PetersbergMuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PetersbergMuseum.JPG/1920px-PetersbergMuseum.JPG
+---
 
 ## Overview
 

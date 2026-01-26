@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/400px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/800px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/1200px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/1920px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg/1920px-Schloss_Tambach_vom_Wildpark_aus_Bild_2_2025-04-27.jpg
+---
 
 ## Overview
 

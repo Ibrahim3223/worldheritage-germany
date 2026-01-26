@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/400px-Bibliothek_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/800px-Bibliothek_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/1200px-Bibliothek_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/1920px-Bibliothek_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibliothek_-_panoramio.jpg/1920px-Bibliothek_-_panoramio.jpg
+---
 
 ## Overview
 

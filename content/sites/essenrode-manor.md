@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/400px-Essenrode_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/800px-Essenrode_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1200px-Essenrode_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1920px-Essenrode_Schloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1920px-Essenrode_Schloss.jpg
+---
 
 ## Overview
 

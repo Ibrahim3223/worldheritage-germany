@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/400px-Stralsund_Lambert_Steinwich_memorial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/800px-Stralsund_Lambert_Steinwich_memorial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/1200px-Stralsund_Lambert_Steinwich_memorial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/1920px-Stralsund_Lambert_Steinwich_memorial.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Stralsund_Lambert_Steinwich_memorial.jpg/1920px-Stralsund_Lambert_Steinwich_memorial.jpg
+---
 
 ## Overview
 

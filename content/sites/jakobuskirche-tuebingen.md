@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/400px-Jakobuskirche-tuebingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/800px-Jakobuskirche-tuebingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1200px-Jakobuskirche-tuebingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1920px-Jakobuskirche-tuebingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1920px-Jakobuskirche-tuebingen.jpg
+---
 
 ## Overview
 

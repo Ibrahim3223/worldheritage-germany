@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/400px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/800px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1200px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1920px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1920px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
+---
 
 ## Overview
 

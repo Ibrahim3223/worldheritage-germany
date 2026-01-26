@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/400px-Alte_Kongresshalle_Onlinestar2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/800px-Alte_Kongresshalle_Onlinestar2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1200px-Alte_Kongresshalle_Onlinestar2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1920px-Alte_Kongresshalle_Onlinestar2008.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1920px-Alte_Kongresshalle_Onlinestar2008.JPG
+---
 
 ## Overview
 

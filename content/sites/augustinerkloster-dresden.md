@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/400px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/800px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/1200px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/1920px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg/1920px-Dresdner_Geschichtsblätter_1917_Nr._3-4_Seite_70_Grafik.jpg
+---
 
 ## Overview
 

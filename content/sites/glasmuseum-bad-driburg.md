@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/400px-Glasmuseum_Bad_Driburg_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/800px-Glasmuseum_Bad_Driburg_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/1200px-Glasmuseum_Bad_Driburg_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/1920px-Glasmuseum_Bad_Driburg_04.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glasmuseum_Bad_Driburg_04.JPG/1920px-Glasmuseum_Bad_Driburg_04.JPG
+---
 
 ## Overview
 

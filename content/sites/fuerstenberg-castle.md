@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/400px-Burg_Fürstenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/800px-Burg_Fürstenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/1200px-Burg_Fürstenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/1920px-Burg_Fürstenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg_Fürstenberg.jpg/1920px-Burg_Fürstenberg.jpg
+---
 
 ## Overview
 

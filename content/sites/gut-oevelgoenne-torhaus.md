@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hofgut_Övelgönne_-_panoramio.jpg/400px-Hofgut_Övelgönne_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hofgut_Övelgönne_-_panoramio.jpg/800px-Hofgut_Övelgönne_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hofgut_Övelgönne_-_panoramio.jpg/1200px-Hofgut_Övelgönne_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hofgut_Övelgönne_-_panoramio.jpg/1920px-Hofgut_Övelgönne_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hofgut_Övelgönne_-_panoramio.jpg/1920px-Hofgut_Övelgönne_-_panoramio.jpg
+---
 
 ## Overview
 

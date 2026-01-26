@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/400px-Evg._Kirche_Berge-.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/800px-Evg._Kirche_Berge-.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/1200px-Evg._Kirche_Berge-.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/1920px-Evg._Kirche_Berge-.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Evg._Kirche_Berge-.JPG/1920px-Evg._Kirche_Berge-.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/400px-Gymnich_Annakapelle03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/800px-Gymnich_Annakapelle03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/1200px-Gymnich_Annakapelle03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/1920px-Gymnich_Annakapelle03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/1920px-Gymnich_Annakapelle03.jpg
+---
 
 ## Overview
 

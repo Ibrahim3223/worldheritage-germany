@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/400px-Lange-Speicher_2014_(2)_FHB320.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/800px-Lange-Speicher_2014_(2)_FHB320.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/1200px-Lange-Speicher_2014_(2)_FHB320.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/1920px-Lange-Speicher_2014_(2)_FHB320.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lange-Speicher_2014_(2)_FHB320.jpg/1920px-Lange-Speicher_2014_(2)_FHB320.jpg
+---
 
 ## Overview
 

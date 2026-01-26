@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg/400px-St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg/800px-St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg/1200px-St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg/1920px-St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg/1920px-St._Philippus-Kirche_in_Isernhagen-Süd_(Hannover)_IMG_2618.jpg
+---
 
 ## Overview 
 

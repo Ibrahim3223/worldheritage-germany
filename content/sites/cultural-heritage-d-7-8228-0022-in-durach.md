@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/400px-Dengelstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/800px-Dengelstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/1200px-Dengelstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/1920px-Dengelstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dengelstein.JPG/1920px-Dengelstein.JPG
+---
 
 ## Overview
 

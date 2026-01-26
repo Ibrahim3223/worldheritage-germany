@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/400px-Tritonenbrunnen,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/800px-Tritonenbrunnen,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/1200px-Tritonenbrunnen,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/1920px-Tritonenbrunnen,_Aachen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tritonenbrunnen,_Aachen.jpg/1920px-Tritonenbrunnen,_Aachen.jpg
+---
 
 ## Overview
 

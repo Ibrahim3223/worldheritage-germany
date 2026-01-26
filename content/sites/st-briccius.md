@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/400px-Halle-Trotha_Friedhof,_Statue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/800px-Halle-Trotha_Friedhof,_Statue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/1200px-Halle-Trotha_Friedhof,_Statue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/1920px-Halle-Trotha_Friedhof,_Statue.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Halle-Trotha_Friedhof,_Statue.jpg/1920px-Halle-Trotha_Friedhof,_Statue.jpg
+---
 
 ## Overview
 

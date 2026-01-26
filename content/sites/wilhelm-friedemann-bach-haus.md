@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/400px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/800px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/1200px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/1920px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg/1920px-Neue_Klausbrücke,_im_Hintergrund_die_5_Türme_-_panoramio.jpg
+---
 
 ## Overview
 

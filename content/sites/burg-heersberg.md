@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/400px-Neuentierberg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/800px-Neuentierberg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/1200px-Neuentierberg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/1920px-Neuentierberg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Neuentierberg_1.jpg/1920px-Neuentierberg_1.jpg
+---
 
 ## Overview
 

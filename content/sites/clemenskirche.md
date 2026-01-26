@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/400px-Münster,_Clemenskirche_--_2014_--_3997.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/800px-Münster,_Clemenskirche_--_2014_--_3997.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1200px-Münster,_Clemenskirche_--_2014_--_3997.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1920px-Münster,_Clemenskirche_--_2014_--_3997.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1920px-Münster,_Clemenskirche_--_2014_--_3997.jpg
+---
 
 ## Overview
 

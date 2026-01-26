@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/400px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/800px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/1200px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/1920px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG/1920px-Kaiserdenkmal_Aachen,_Kaiserplatz_(2).JPG
+---
 
 ## Overview
 

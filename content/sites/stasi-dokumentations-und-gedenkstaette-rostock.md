@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG/400px-Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG/800px-Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG/1200px-Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG/1920px-Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG/1920px-Rostock_Gedenkstaette_U-Haft_MfS_aussen_2011-03-04.JPG
+---
 
 ## Overview
 

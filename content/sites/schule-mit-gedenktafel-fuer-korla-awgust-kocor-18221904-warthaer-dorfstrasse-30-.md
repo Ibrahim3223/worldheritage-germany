@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/400px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/800px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/1200px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/1920px-Stróža_–_Serbski_napis_při_starej_šuli.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stróža_–_Serbski_napis_při_starej_šuli.jpg/1920px-Stróža_–_Serbski_napis_při_starej_šuli.jpg
+---
 
 ## Overview
 

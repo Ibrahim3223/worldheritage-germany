@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/400px-Hl._Schutzengel_Essen-Frillendorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/800px-Hl._Schutzengel_Essen-Frillendorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/1200px-Hl._Schutzengel_Essen-Frillendorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/1920px-Hl._Schutzengel_Essen-Frillendorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hl._Schutzengel_Essen-Frillendorf.JPG/1920px-Hl._Schutzengel_Essen-Frillendorf.JPG
+---
 
 ## Overview
 

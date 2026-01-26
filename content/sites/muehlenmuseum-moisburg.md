@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/400px-Mühlenmuseum_Moisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/800px-Mühlenmuseum_Moisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/1200px-Mühlenmuseum_Moisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/1920px-Mühlenmuseum_Moisburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühlenmuseum_Moisburg.jpg/1920px-Mühlenmuseum_Moisburg.jpg
+---
 
 ## Overview
 

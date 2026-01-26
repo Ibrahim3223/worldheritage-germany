@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Teltowkanal_04_Stillgelegte_Bruecke.jpg/400px-Teltowkanal_04_Stillgelegte_Bruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Teltowkanal_04_Stillgelegte_Bruecke.jpg/800px-Teltowkanal_04_Stillgelegte_Bruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Teltowkanal_04_Stillgelegte_Bruecke.jpg/1200px-Teltowkanal_04_Stillgelegte_Bruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Teltowkanal_04_Stillgelegte_Bruecke.jpg/1920px-Teltowkanal_04_Stillgelegte_Bruecke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Teltowkanal_04_Stillgelegte_Bruecke.jpg/1920px-Teltowkanal_04_Stillgelegte_Bruecke.jpg
+---
 
 ## Overview
 

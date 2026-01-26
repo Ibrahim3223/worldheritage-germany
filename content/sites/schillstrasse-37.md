@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/400px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/800px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/1200px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Schillstraße_37,_Vorderhaus_(2012-04-06),_by_Klugschnacker_in_Wikipedia.jpg
+---
 
 ## Overview
 

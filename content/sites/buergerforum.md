@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BerlinHauptbahnhof.jpg/400px-BerlinHauptbahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BerlinHauptbahnhof.jpg/800px-BerlinHauptbahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BerlinHauptbahnhof.jpg/1200px-BerlinHauptbahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BerlinHauptbahnhof.jpg/1920px-BerlinHauptbahnhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BerlinHauptbahnhof.jpg/1920px-BerlinHauptbahnhof.jpg
+---
 
 ## Overview
 

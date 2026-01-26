@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/400px-Orthodoxs_Synagoge_Fraenkelufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/800px-Orthodoxs_Synagoge_Fraenkelufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1200px-Orthodoxs_Synagoge_Fraenkelufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1920px-Orthodoxs_Synagoge_Fraenkelufer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1920px-Orthodoxs_Synagoge_Fraenkelufer.jpg
+---
 
 ## Overview
 

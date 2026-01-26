@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/400px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/800px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/1200px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/1920px-Mannheim-Gartenstadt-Auferstehungskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/1920px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
+---
 
 ## Overview
 

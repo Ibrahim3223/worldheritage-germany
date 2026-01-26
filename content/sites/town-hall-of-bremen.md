@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/400px-Bremen_(27823097069).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/800px-Bremen_(27823097069).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/1200px-Bremen_(27823097069).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/1920px-Bremen_(27823097069).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bremen_(27823097069).jpg/1920px-Bremen_(27823097069).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/400px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/800px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/1200px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/1920px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG/1920px-Düsseldorf_Carlsplatz,_Markt_Gang_C,_Juni_2023.JPG
+---
 
 ## Overview
 

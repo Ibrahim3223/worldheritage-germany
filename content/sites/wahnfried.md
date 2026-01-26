@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/400px-Wahnfried_1_db.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/800px-Wahnfried_1_db.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/1200px-Wahnfried_1_db.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/1920px-Wahnfried_1_db.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wahnfried_1_db.jpg/1920px-Wahnfried_1_db.jpg
+---
 
 ## Overview
 

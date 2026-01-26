@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/400px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/800px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/1200px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/1920px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG/1920px-Burg_Neuhaus_-_RW_Ramschied_-Hennthaler_Landwehr_025.JPG
+---
 
 ## Overview
 

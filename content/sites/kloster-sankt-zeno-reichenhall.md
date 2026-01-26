@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg/400px-St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg/800px-St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg/1200px-St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg/1920px-St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg/1920px-St.Zeno_Reichenhall_-_Außen_1_Gesamt.jpg
+---
 
 ## Overview
 

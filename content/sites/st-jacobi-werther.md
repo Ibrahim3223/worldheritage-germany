@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/400px-Werther_(Westfalen)_Pfarrkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/800px-Werther_(Westfalen)_Pfarrkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/1200px-Werther_(Westfalen)_Pfarrkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/1920px-Werther_(Westfalen)_Pfarrkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Werther_(Westfalen)_Pfarrkirche.jpg/1920px-Werther_(Westfalen)_Pfarrkirche.jpg
+---
 
 ## Overview
 

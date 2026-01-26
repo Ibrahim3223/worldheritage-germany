@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/400px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/800px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/1200px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/1920px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg/1920px-Köln-Altstadt-Nord,_Rhein_-_Luftaufnahme-0116.jpg
+---
 
 ## Overview
 

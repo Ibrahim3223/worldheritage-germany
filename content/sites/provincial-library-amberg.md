@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg/400px-Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg/800px-Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg/1200px-Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg/1920px-Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg/1920px-Amberg_-_Staatliche_Bibliothek_(Provinzialbibliothek),_Anbau.jpg
+---
 
 ## Overview
 

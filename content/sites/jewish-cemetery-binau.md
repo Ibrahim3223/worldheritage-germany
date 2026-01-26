@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/400px-Juedischer_Friedhof_Binau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/800px-Juedischer_Friedhof_Binau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/1200px-Juedischer_Friedhof_Binau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/1920px-Juedischer_Friedhof_Binau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Juedischer_Friedhof_Binau.jpg/1920px-Juedischer_Friedhof_Binau.jpg
+---
 
 ## Overview
 

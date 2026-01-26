@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/400px-Rathausturm_untermarkt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/800px-Rathausturm_untermarkt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/1200px-Rathausturm_untermarkt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/1920px-Rathausturm_untermarkt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rathausturm_untermarkt.JPG/1920px-Rathausturm_untermarkt.JPG
+---
 
 ## Overview
 

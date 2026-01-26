@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/400px-Saarlouis_Alter_Friedhof_(8).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/800px-Saarlouis_Alter_Friedhof_(8).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/1200px-Saarlouis_Alter_Friedhof_(8).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/1920px-Saarlouis_Alter_Friedhof_(8).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Saarlouis_Alter_Friedhof_(8).jpg/1920px-Saarlouis_Alter_Friedhof_(8).jpg
+---
 
 ## Overview
 

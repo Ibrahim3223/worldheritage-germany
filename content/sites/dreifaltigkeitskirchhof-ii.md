@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/400px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/800px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1200px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1920px-Dreifaltigkeitskirchhof-Kreuzberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1920px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
+---
 
 ## Overview
 

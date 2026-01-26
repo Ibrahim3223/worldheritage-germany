@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/400px-Ngl_D_MV_Bastorf_Buk_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/800px-Ngl_D_MV_Bastorf_Buk_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1200px-Ngl_D_MV_Bastorf_Buk_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1920px-Ngl_D_MV_Bastorf_Buk_4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1920px-Ngl_D_MV_Bastorf_Buk_4.jpg
+---
 
 ## Overview
 

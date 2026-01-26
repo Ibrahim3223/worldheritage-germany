@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/400px-Bad_Buchau_Blick_von_Oggelshausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/800px-Bad_Buchau_Blick_von_Oggelshausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/1200px-Bad_Buchau_Blick_von_Oggelshausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/1920px-Bad_Buchau_Blick_von_Oggelshausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/1920px-Bad_Buchau_Blick_von_Oggelshausen.jpg
+---
 
 ## Overview
 

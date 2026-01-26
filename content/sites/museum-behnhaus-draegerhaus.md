@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/400px-Lübeck,_Deutschland,_Behnhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/800px-Lübeck,_Deutschland,_Behnhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/1200px-Lübeck,_Deutschland,_Behnhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/1920px-Lübeck,_Deutschland,_Behnhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lübeck,_Deutschland,_Behnhaus.jpg/1920px-Lübeck,_Deutschland,_Behnhaus.jpg
+---
 
 ## Overview
 

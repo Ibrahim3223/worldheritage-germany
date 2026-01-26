@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/400px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/800px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/1200px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/1920px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sieglitzer_Berg,Solitüde,Küchengebäude.jpg/1920px-Sieglitzer_Berg,Solitüde,Küchengebäude.jpg
+---
 
 ## Overview
 

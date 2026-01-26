@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/400px-Fockewindkanalvor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/800px-Fockewindkanalvor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/1200px-Fockewindkanalvor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/1920px-Fockewindkanalvor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fockewindkanalvor.jpg/1920px-Fockewindkanalvor.jpg
+---
 
 ## Overview
 

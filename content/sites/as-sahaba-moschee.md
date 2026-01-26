@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/400px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/800px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/1200px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/1920px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wedding_Torfstraße_as-Sahaba-Moschee.jpg/1920px-Wedding_Torfstraße_as-Sahaba-Moschee.jpg
+---
 
 ## Overview
 

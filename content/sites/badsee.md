@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/400px-Isny_im_Allgäu_-_Badsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/800px-Isny_im_Allgäu_-_Badsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1200px-Isny_im_Allgäu_-_Badsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1920px-Isny_im_Allgäu_-_Badsee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1920px-Isny_im_Allgäu_-_Badsee.JPG
+---
 
 ## Overview
 

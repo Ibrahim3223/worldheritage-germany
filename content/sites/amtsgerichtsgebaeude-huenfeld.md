@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/400px-Amtsgericht_Hünfeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/800px-Amtsgericht_Hünfeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/1200px-Amtsgericht_Hünfeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/1920px-Amtsgericht_Hünfeld.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amtsgericht_Hünfeld.JPG/1920px-Amtsgericht_Hünfeld.JPG
+---
 
 ## Overview
 

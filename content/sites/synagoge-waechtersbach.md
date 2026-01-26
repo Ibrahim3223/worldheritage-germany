@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wächtersbach_Synagoge_34.JPG/400px-Wächtersbach_Synagoge_34.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wächtersbach_Synagoge_34.JPG/800px-Wächtersbach_Synagoge_34.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wächtersbach_Synagoge_34.JPG/1200px-Wächtersbach_Synagoge_34.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wächtersbach_Synagoge_34.JPG/1920px-Wächtersbach_Synagoge_34.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Wächtersbach_Synagoge_34.JPG/1920px-Wächtersbach_Synagoge_34.JPG
+---
 
 ## Overview
 

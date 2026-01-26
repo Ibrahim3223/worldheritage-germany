@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/400px-Palmengartenfrankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/800px-Palmengartenfrankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/1200px-Palmengartenfrankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/1920px-Palmengartenfrankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palmengartenfrankfurt.jpg/1920px-Palmengartenfrankfurt.jpg
+---
 
 ## Overview
 

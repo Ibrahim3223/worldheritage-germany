@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/400px-Karlstein_restauriert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/800px-Karlstein_restauriert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1200px-Karlstein_restauriert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1920px-Karlstein_restauriert.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1920px-Karlstein_restauriert.JPG
+---
 
 ## Overview
 

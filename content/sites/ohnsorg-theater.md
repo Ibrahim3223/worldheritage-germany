@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg/400px-Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg/800px-Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg/1200px-Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg/1920px-Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg/1920px-Ohnsorg-Theater_mit_Statue_Heidi_Kabel.jpg
+---
 
 ## Overview
 

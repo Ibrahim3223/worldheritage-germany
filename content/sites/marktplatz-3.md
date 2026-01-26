@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/400px-Herrieden,_Marktplatz_3-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/800px-Herrieden,_Marktplatz_3-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/1200px-Herrieden,_Marktplatz_3-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/1920px-Herrieden,_Marktplatz_3-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herrieden,_Marktplatz_3-001.jpg/1920px-Herrieden,_Marktplatz_3-001.jpg
+---
 
 ## Overview
 

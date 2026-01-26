@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/400px-Hattingen_-_Birschel-Mühle_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/800px-Hattingen_-_Birschel-Mühle_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/1200px-Hattingen_-_Birschel-Mühle_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/1920px-Hattingen_-_Birschel-Mühle_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattingen_-_Birschel-Mühle_01_ies.jpg/1920px-Hattingen_-_Birschel-Mühle_01_ies.jpg
+---
 
 ## Overview
 

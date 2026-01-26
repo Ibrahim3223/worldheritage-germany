@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/400px-Ahrensdorfer_Moor_-_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/800px-Ahrensdorfer_Moor_-_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/1200px-Ahrensdorfer_Moor_-_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/1920px-Ahrensdorfer_Moor_-_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ahrensdorfer_Moor_-_03.jpg/1920px-Ahrensdorfer_Moor_-_03.jpg
+---
 
 ## Overview
 

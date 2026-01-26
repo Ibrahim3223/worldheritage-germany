@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/400px-Schloss_Gueterfelde_Suedseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/800px-Schloss_Gueterfelde_Suedseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/1200px-Schloss_Gueterfelde_Suedseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/1920px-Schloss_Gueterfelde_Suedseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Gueterfelde_Suedseite.jpg/1920px-Schloss_Gueterfelde_Suedseite.jpg
+---
 
 ## Overview
 

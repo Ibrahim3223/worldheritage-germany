@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/400px-Paulikloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/800px-Paulikloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/1200px-Paulikloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/1920px-Paulikloster.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paulikloster.jpg/1920px-Paulikloster.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/400px-Edersee_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/800px-Edersee_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/1200px-Edersee_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/1920px-Edersee_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edersee_Panorama.jpg/1920px-Edersee_Panorama.jpg
+---
 
 ## Overview
 

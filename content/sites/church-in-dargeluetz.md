@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/400px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/800px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/1200px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/1920px-Dargeluetz_Kirchturm_2010-08-21_030.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dargeluetz_Kirchturm_2010-08-21_030.JPG/1920px-Dargeluetz_Kirchturm_2010-08-21_030.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/400px-Lessing_Tiergarten_1K.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/800px-Lessing_Tiergarten_1K.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/1200px-Lessing_Tiergarten_1K.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/1920px-Lessing_Tiergarten_1K.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lessing_Tiergarten_1K.jpg/1920px-Lessing_Tiergarten_1K.jpg
+---
 
 ## Overview
 

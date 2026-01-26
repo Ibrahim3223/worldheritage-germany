@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/400px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/800px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/1200px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/1920px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG/1920px-Bad_Oldesloe_-_Gut_Altfresenburg,_Torhaus.JPG
+---
 
 ## Overview
 

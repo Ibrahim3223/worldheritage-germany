@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/400px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/800px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/1200px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/1920px-Barchfeld_Steinscher_Erbfriedhof_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Barchfeld_Steinscher_Erbfriedhof_1.jpg/1920px-Barchfeld_Steinscher_Erbfriedhof_1.jpg
+---
 
 ## Overview
 

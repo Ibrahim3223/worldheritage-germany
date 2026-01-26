@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/400px-Einbecker_Brauhaus_Hoffest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/800px-Einbecker_Brauhaus_Hoffest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1200px-Einbecker_Brauhaus_Hoffest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1920px-Einbecker_Brauhaus_Hoffest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1920px-Einbecker_Brauhaus_Hoffest.jpg
+---
 
 ## Overview
 

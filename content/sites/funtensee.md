@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/400px-Funtensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/800px-Funtensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1200px-Funtensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1920px-Funtensee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1920px-Funtensee.jpg
+---
 
 ## Overview
 

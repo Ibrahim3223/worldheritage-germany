@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/400px-Wallroda-Stausee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/800px-Wallroda-Stausee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/1200px-Wallroda-Stausee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/1920px-Wallroda-Stausee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wallroda-Stausee.jpg/1920px-Wallroda-Stausee.jpg
+---
 
 ## Overview
 

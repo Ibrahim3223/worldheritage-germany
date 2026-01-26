@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/400px-Kirche-Oldenstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/800px-Kirche-Oldenstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/1200px-Kirche-Oldenstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/1920px-Kirche-Oldenstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kirche-Oldenstadt.jpg/1920px-Kirche-Oldenstadt.jpg
+---
 
 ## Overview
 

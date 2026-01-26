@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/400px-Wohnbebauung_an_der_Dönche_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/800px-Wohnbebauung_an_der_Dönche_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/1200px-Wohnbebauung_an_der_Dönche_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/1920px-Wohnbebauung_an_der_Dönche_Kassel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wohnbebauung_an_der_Dönche_Kassel.jpg/1920px-Wohnbebauung_an_der_Dönche_Kassel.jpg
+---
 
 ## Overview
 

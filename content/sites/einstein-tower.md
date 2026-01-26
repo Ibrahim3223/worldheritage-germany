@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/400px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/800px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
+---
 
 ## Overview
 

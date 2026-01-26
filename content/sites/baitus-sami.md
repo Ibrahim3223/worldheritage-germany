@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/400px-Bait_us-Sami.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/800px-Bait_us-Sami.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1200px-Bait_us-Sami.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1920px-Bait_us-Sami.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1920px-Bait_us-Sami.jpg
+---
 
 ## Overview
 

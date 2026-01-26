@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aquädukt_am_Roten_Tor.jpg/400px-Aquädukt_am_Roten_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aquädukt_am_Roten_Tor.jpg/800px-Aquädukt_am_Roten_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aquädukt_am_Roten_Tor.jpg/1200px-Aquädukt_am_Roten_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aquädukt_am_Roten_Tor.jpg/1920px-Aquädukt_am_Roten_Tor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aquädukt_am_Roten_Tor.jpg/1920px-Aquädukt_am_Roten_Tor.jpg
+---
 
 ## Overview
 

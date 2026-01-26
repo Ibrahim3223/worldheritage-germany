@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/400px-Regensburg-steinerne-Bruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/800px-Regensburg-steinerne-Bruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/1200px-Regensburg-steinerne-Bruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/1920px-Regensburg-steinerne-Bruecke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Regensburg-steinerne-Bruecke.jpg/1920px-Regensburg-steinerne-Bruecke.jpg
+---
 
 ## Overview
 

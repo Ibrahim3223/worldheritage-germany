@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/400px-Wackenikirik2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/800px-Wackenikirik2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/1200px-Wackenikirik2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/1920px-Wackenikirik2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wackenikirik2.JPG/1920px-Wackenikirik2.JPG
+---
 
 ## Overview
 

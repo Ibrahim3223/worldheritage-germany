@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Synagoge_Neustadt_Weinstraße586.JPG/400px-Synagoge_Neustadt_Weinstraße586.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Synagoge_Neustadt_Weinstraße586.JPG/800px-Synagoge_Neustadt_Weinstraße586.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Synagoge_Neustadt_Weinstraße586.JPG/1200px-Synagoge_Neustadt_Weinstraße586.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Synagoge_Neustadt_Weinstraße586.JPG/1920px-Synagoge_Neustadt_Weinstraße586.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Synagoge_Neustadt_Weinstraße586.JPG/1920px-Synagoge_Neustadt_Weinstraße586.JPG
+---
 
 ## Overview
 

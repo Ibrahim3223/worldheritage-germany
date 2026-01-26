@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/400px-Adalbertstor.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/800px-Adalbertstor.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/1200px-Adalbertstor.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/1920px-Adalbertstor.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Adalbertstor.png/1920px-Adalbertstor.png
+---
 
 ## Overview
 

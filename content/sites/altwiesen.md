@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/400px-NSG_Altwiesen_img8888.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/800px-NSG_Altwiesen_img8888.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/1200px-NSG_Altwiesen_img8888.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/1920px-NSG_Altwiesen_img8888.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NSG_Altwiesen_img8888.JPG/1920px-NSG_Altwiesen_img8888.JPG
+---
 
 ## Overview
 

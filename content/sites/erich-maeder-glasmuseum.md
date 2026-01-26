@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/400px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/800px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/1200px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/1920px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG/1920px-Erich-Mäder-Glasmuseum_in_Delligsen-Grünenplan_02.JPG
+---
 
 ## Overview
 

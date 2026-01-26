@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norderney_Cumberland-Denkmal.jpg/400px-Norderney_Cumberland-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norderney_Cumberland-Denkmal.jpg/800px-Norderney_Cumberland-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norderney_Cumberland-Denkmal.jpg/1200px-Norderney_Cumberland-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norderney_Cumberland-Denkmal.jpg/1920px-Norderney_Cumberland-Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norderney_Cumberland-Denkmal.jpg/1920px-Norderney_Cumberland-Denkmal.jpg
+---
 
 ## Overview
 

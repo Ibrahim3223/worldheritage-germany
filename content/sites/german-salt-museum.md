@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/400px-Salzmuseum_Lüneburg_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/800px-Salzmuseum_Lüneburg_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1200px-Salzmuseum_Lüneburg_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1920px-Salzmuseum_Lüneburg_Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1920px-Salzmuseum_Lüneburg_Eingang.jpg
+---
 
 ## Overview
 

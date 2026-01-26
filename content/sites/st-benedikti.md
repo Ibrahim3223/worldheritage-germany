@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quedlinburg_asv2018-10_img34_StBenedikti.jpg/400px-Quedlinburg_asv2018-10_img34_StBenedikti.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quedlinburg_asv2018-10_img34_StBenedikti.jpg/800px-Quedlinburg_asv2018-10_img34_StBenedikti.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quedlinburg_asv2018-10_img34_StBenedikti.jpg/1200px-Quedlinburg_asv2018-10_img34_StBenedikti.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quedlinburg_asv2018-10_img34_StBenedikti.jpg/1920px-Quedlinburg_asv2018-10_img34_StBenedikti.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Quedlinburg_asv2018-10_img34_StBenedikti.jpg/1920px-Quedlinburg_asv2018-10_img34_StBenedikti.jpg
+---
 
 ## Overview
 

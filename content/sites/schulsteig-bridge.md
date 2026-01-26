@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/400px-Schulsteig-Brücke_Niederhaverbeck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/800px-Schulsteig-Brücke_Niederhaverbeck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/1200px-Schulsteig-Brücke_Niederhaverbeck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/1920px-Schulsteig-Brücke_Niederhaverbeck.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schulsteig-Brücke_Niederhaverbeck.JPG/1920px-Schulsteig-Brücke_Niederhaverbeck.JPG
+---
 
 ## Overview
 

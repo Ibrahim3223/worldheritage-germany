@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/400px-Ballhaus_Watzke_e.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/800px-Ballhaus_Watzke_e.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/1200px-Ballhaus_Watzke_e.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/1920px-Ballhaus_Watzke_e.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/1920px-Ballhaus_Watzke_e.jpg
+---
 
 ## Overview
 

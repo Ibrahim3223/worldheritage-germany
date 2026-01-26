@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/400px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/800px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/1200px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/1920px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NSG_HA_061_Bockenemer_Klärteiche_(34).jpg/1920px-NSG_HA_061_Bockenemer_Klärteiche_(34).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cossebauder_Straße_35_DD_2.JPG/400px-Cossebauder_Straße_35_DD_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cossebauder_Straße_35_DD_2.JPG/800px-Cossebauder_Straße_35_DD_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cossebauder_Straße_35_DD_2.JPG/1200px-Cossebauder_Straße_35_DD_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cossebauder_Straße_35_DD_2.JPG/1920px-Cossebauder_Straße_35_DD_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Cossebauder_Straße_35_DD_2.JPG/1920px-Cossebauder_Straße_35_DD_2.JPG
+---
 
 ## Overview
 

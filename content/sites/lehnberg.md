@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/400px-WAK_FRNSEE_LEHNHAUS.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/800px-WAK_FRNSEE_LEHNHAUS.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/1200px-WAK_FRNSEE_LEHNHAUS.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/1920px-WAK_FRNSEE_LEHNHAUS.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_FRNSEE_LEHNHAUS.jpg/1920px-WAK_FRNSEE_LEHNHAUS.jpg
+---
 
 ## Overview
 

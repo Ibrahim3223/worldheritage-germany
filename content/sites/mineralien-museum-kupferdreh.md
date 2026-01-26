@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/400px-Mineralien-Museum_Essen-Kupferdreh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/800px-Mineralien-Museum_Essen-Kupferdreh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/1200px-Mineralien-Museum_Essen-Kupferdreh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/1920px-Mineralien-Museum_Essen-Kupferdreh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mineralien-Museum_Essen-Kupferdreh.jpg/1920px-Mineralien-Museum_Essen-Kupferdreh.jpg
+---
 
 ## Overview
 

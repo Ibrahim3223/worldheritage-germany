@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/400px-Naumburgk_(Merian).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/800px-Naumburgk_(Merian).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/1200px-Naumburgk_(Merian).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/1920px-Naumburgk_(Merian).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburgk_(Merian).jpg/1920px-Naumburgk_(Merian).jpg
+---
 
 ## Overview
 

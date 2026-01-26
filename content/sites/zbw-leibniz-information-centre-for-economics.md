@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/400px-ZBW_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/800px-ZBW_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/1200px-ZBW_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/1920px-ZBW_Kiel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZBW_Kiel.jpg/1920px-ZBW_Kiel.jpg
+---
 
 ## Overview
 

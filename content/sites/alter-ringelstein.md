@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/400px-WAK_MOORGR_Alter_Ringelst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/800px-WAK_MOORGR_Alter_Ringelst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/1200px-WAK_MOORGR_Alter_Ringelst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/1920px-WAK_MOORGR_Alter_Ringelst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/WAK_MOORGR_Alter_Ringelst.jpg/1920px-WAK_MOORGR_Alter_Ringelst.jpg
+---
 
 ## Overview
 

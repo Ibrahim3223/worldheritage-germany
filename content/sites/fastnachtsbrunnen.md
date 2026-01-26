@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/400px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/800px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1200px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1920px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1920px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
+---
 
 ## Overview
 

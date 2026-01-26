@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/400px-Berlin2008-MuseumBerggruen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/800px-Berlin2008-MuseumBerggruen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1200px-Berlin2008-MuseumBerggruen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1920px-Berlin2008-MuseumBerggruen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1920px-Berlin2008-MuseumBerggruen1.JPG
+---
 
 ## Overview
 

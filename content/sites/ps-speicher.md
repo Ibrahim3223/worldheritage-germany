@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gorgeous_PS_Speicher.jpg/400px-Gorgeous_PS_Speicher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gorgeous_PS_Speicher.jpg/800px-Gorgeous_PS_Speicher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gorgeous_PS_Speicher.jpg/1200px-Gorgeous_PS_Speicher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gorgeous_PS_Speicher.jpg/1920px-Gorgeous_PS_Speicher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gorgeous_PS_Speicher.jpg/1920px-Gorgeous_PS_Speicher.jpg
+---
 
 ## Overview
 

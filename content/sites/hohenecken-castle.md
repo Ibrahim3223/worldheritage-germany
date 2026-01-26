@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/400px-Hohenecken2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/800px-Hohenecken2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1200px-Hohenecken2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1920px-Hohenecken2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1920px-Hohenecken2011.jpg
+---
 
 ## Overview
 

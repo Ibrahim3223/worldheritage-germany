@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/400px-Burgstall_Eichelberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/800px-Burgstall_Eichelberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/1200px-Burgstall_Eichelberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/1920px-Burgstall_Eichelberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burgstall_Eichelberg.JPG/1920px-Burgstall_Eichelberg.JPG
+---
 
 ## Overview
 

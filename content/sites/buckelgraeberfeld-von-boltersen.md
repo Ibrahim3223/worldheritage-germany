@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/400px-Buckelgräberfeld_von_Boltersen_p2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/800px-Buckelgräberfeld_von_Boltersen_p2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/1200px-Buckelgräberfeld_von_Boltersen_p2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/1920px-Buckelgräberfeld_von_Boltersen_p2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Buckelgräberfeld_von_Boltersen_p2.jpg/1920px-Buckelgräberfeld_von_Boltersen_p2.jpg
+---
 
 ## Overview
 

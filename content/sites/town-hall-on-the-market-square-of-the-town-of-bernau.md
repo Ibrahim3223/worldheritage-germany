@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/400px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/800px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/1200px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/1920px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg/1920px-Rathaus_Bernau_bei_Berlin_Brandenburg_Deutschland_01.jpg
+---
 
 ## Overview
 

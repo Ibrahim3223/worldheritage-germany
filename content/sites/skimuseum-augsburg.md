@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/400px-Skimuseum_Augsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/800px-Skimuseum_Augsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/1200px-Skimuseum_Augsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/1920px-Skimuseum_Augsburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Skimuseum_Augsburg.JPG/1920px-Skimuseum_Augsburg.JPG
+---
 
 ## Overview
 

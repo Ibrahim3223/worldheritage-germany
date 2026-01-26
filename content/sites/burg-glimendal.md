@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/400px-Glimendal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/800px-Glimendal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/1200px-Glimendal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/1920px-Glimendal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Glimendal.JPG/1920px-Glimendal.JPG
+---
 
 ## Overview
 

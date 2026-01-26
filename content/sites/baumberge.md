@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/400px-Baumberge_Berlin_11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/800px-Baumberge_Berlin_11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/1200px-Baumberge_Berlin_11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/1920px-Baumberge_Berlin_11.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Baumberge_Berlin_11.jpg/1920px-Baumberge_Berlin_11.jpg
+---
 
 ## Overview
 

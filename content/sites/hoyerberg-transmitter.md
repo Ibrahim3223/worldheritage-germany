@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/400px-Sender-Hoyerberg-2006-06-18.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/800px-Sender-Hoyerberg-2006-06-18.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/1200px-Sender-Hoyerberg-2006-06-18.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/1920px-Sender-Hoyerberg-2006-06-18.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sender-Hoyerberg-2006-06-18.jpg/1920px-Sender-Hoyerberg-2006-06-18.jpg
+---
 
 ## Overview
 

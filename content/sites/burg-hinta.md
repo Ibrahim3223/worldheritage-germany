@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/400px-Burg_Hinta_(Hinte)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/800px-Burg_Hinta_(Hinte)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/1200px-Burg_Hinta_(Hinte)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/1920px-Burg_Hinta_(Hinte)_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/1920px-Burg_Hinta_(Hinte)_01.JPG
+---
 
 ## Overview
 

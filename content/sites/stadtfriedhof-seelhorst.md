@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/400px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/800px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/1200px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/1920px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg/1920px-Seelhorster_Friedhof_Eingang_Hoher_Weg_Sommer.jpg
+---
 
 ## Overview
 

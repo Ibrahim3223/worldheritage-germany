@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/400px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/800px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/1200px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/1920px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg/1920px-Witten_Stollenmundloch_Zeche_Braunschweig_Südflügel.jpg
+---
 
 ## Overview
 

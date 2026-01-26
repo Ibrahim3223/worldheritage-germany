@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/400px-PvH.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/800px-PvH.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/1200px-PvH.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/1920px-PvH.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/PvH.JPG/1920px-PvH.JPG
+---
 
 ## Overview
 

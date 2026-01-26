@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/400px-Felsberg_De_Merian_Hassiae.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/800px-Felsberg_De_Merian_Hassiae.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1200px-Felsberg_De_Merian_Hassiae.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1920px-Felsberg_De_Merian_Hassiae.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1920px-Felsberg_De_Merian_Hassiae.jpg
+---
 
 ## Overview
 

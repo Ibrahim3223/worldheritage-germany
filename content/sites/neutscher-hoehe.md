@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/400px-Neutscher-Hoehe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/800px-Neutscher-Hoehe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/1200px-Neutscher-Hoehe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/1920px-Neutscher-Hoehe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Neutscher-Hoehe.jpg/1920px-Neutscher-Hoehe.jpg
+---
 
 ## Overview
 

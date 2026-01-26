@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sammlung_Prinzhorn_Ansicht_von_Westen.JPG/400px-Sammlung_Prinzhorn_Ansicht_von_Westen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sammlung_Prinzhorn_Ansicht_von_Westen.JPG/800px-Sammlung_Prinzhorn_Ansicht_von_Westen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sammlung_Prinzhorn_Ansicht_von_Westen.JPG/1200px-Sammlung_Prinzhorn_Ansicht_von_Westen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sammlung_Prinzhorn_Ansicht_von_Westen.JPG/1920px-Sammlung_Prinzhorn_Ansicht_von_Westen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sammlung_Prinzhorn_Ansicht_von_Westen.JPG/1920px-Sammlung_Prinzhorn_Ansicht_von_Westen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/400px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/800px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/1200px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/1920px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg/1920px-Landappbw_647977_1818_Burg_Neipperg_Neipperg.jpg
+---
 
 ## Overview
 

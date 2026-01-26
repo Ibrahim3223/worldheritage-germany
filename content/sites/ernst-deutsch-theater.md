@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/400px-ErnstDeutschTheatre01.SW.20040501.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/800px-ErnstDeutschTheatre01.SW.20040501.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1200px-ErnstDeutschTheatre01.SW.20040501.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1920px-ErnstDeutschTheatre01.SW.20040501.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1920px-ErnstDeutschTheatre01.SW.20040501.JPG
+---
 
 ## Overview
 

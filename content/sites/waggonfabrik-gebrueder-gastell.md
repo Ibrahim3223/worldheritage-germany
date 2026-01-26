@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Waggonfabrik.jpg/400px-Waggonfabrik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Waggonfabrik.jpg/800px-Waggonfabrik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Waggonfabrik.jpg/1200px-Waggonfabrik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Waggonfabrik.jpg/1920px-Waggonfabrik.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Waggonfabrik.jpg/1920px-Waggonfabrik.jpg
+---
 
 ## Overview
 

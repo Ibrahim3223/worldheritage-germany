@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/400px-Museum_Lüneburg@20150722_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/800px-Museum_Lüneburg@20150722_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/1200px-Museum_Lüneburg@20150722_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/1920px-Museum_Lüneburg@20150722_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Lüneburg@20150722_01.JPG/1920px-Museum_Lüneburg@20150722_01.JPG
+---
 
 ## Overview
 

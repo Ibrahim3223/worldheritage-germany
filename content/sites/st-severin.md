@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/400px-Kirche_Calle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/800px-Kirche_Calle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/1200px-Kirche_Calle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/1920px-Kirche_Calle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche_Calle.jpg/1920px-Kirche_Calle.jpg
+---
 
 ## Overview
 

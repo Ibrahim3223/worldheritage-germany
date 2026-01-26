@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/400px-Hauptbahnhof_Stuttgart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/800px-Hauptbahnhof_Stuttgart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/1200px-Hauptbahnhof_Stuttgart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/1920px-Hauptbahnhof_Stuttgart.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hauptbahnhof_Stuttgart.jpg/1920px-Hauptbahnhof_Stuttgart.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/400px-HillstettHandwerksmuseum_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/800px-HillstettHandwerksmuseum_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/1200px-HillstettHandwerksmuseum_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/1920px-HillstettHandwerksmuseum_10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HillstettHandwerksmuseum_10.jpg/1920px-HillstettHandwerksmuseum_10.jpg
+---
 
 ## Overview
 

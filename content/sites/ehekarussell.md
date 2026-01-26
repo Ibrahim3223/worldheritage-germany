@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/400px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/800px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1200px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1920px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1920px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
+---
 
 ## Overview
 

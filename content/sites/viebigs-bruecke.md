@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viebigs_Brücke_2020-05-16_2.jpg/400px-Viebigs_Brücke_2020-05-16_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viebigs_Brücke_2020-05-16_2.jpg/800px-Viebigs_Brücke_2020-05-16_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viebigs_Brücke_2020-05-16_2.jpg/1200px-Viebigs_Brücke_2020-05-16_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viebigs_Brücke_2020-05-16_2.jpg/1920px-Viebigs_Brücke_2020-05-16_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viebigs_Brücke_2020-05-16_2.jpg/1920px-Viebigs_Brücke_2020-05-16_2.jpg
+---
 
 ## Overview
 

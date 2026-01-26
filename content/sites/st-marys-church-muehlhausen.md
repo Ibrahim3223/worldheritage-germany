@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/400px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/800px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/1200px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/1920px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg/1920px-Thueringen-Muehlhausen-Kirche-St-Marien_bearbeitet.jpg
+---
 
 ## Overview
 

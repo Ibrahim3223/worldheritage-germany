@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/400px-2025-03-31-Hamburgische-Staatsoper.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/800px-2025-03-31-Hamburgische-Staatsoper.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/1200px-2025-03-31-Hamburgische-Staatsoper.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/1920px-2025-03-31-Hamburgische-Staatsoper.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/1920px-2025-03-31-Hamburgische-Staatsoper.jpg
+---
 
 ## Overview
 

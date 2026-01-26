@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/400px-Vituskapelle_Elspe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/800px-Vituskapelle_Elspe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/1200px-Vituskapelle_Elspe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/1920px-Vituskapelle_Elspe.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vituskapelle_Elspe.JPG/1920px-Vituskapelle_Elspe.JPG
+---
 
 ## Overview
 

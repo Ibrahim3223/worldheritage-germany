@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/400px-Allerheiligen_(Borsigwalde).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/800px-Allerheiligen_(Borsigwalde).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/1200px-Allerheiligen_(Borsigwalde).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/1920px-Allerheiligen_(Borsigwalde).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Allerheiligen_(Borsigwalde).JPG/1920px-Allerheiligen_(Borsigwalde).JPG
+---
 
 ## Overview
 

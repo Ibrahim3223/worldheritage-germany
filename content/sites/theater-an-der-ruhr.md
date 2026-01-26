@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg/400px-Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg/800px-Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg/1200px-Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg/1920px-Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg/1920px-Mülheim_adR_-_Akazienallee_-_Solbad_Raffelberg_-_Theater_an_der_Ruhr_04_ies.jpg
+---
 
 ## Overview
 

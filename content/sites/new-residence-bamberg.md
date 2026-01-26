@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/400px-00_3353_Bamberg_-_Neue_Residenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/800px-00_3353_Bamberg_-_Neue_Residenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/1200px-00_3353_Bamberg_-_Neue_Residenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/1920px-00_3353_Bamberg_-_Neue_Residenz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/00_3353_Bamberg_-_Neue_Residenz.jpg/1920px-00_3353_Bamberg_-_Neue_Residenz.jpg
+---
 
 ## Overview
 

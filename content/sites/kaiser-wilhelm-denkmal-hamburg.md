@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/400px-Kaiser_Wilhelm_I._Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/800px-Kaiser_Wilhelm_I._Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1200px-Kaiser_Wilhelm_I._Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1920px-Kaiser_Wilhelm_I._Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1920px-Kaiser_Wilhelm_I._Denkmal.jpg
+---
 
 ## Overview
 

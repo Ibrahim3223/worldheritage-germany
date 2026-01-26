@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-d-gerresheim.jpg/400px-Bf-d-gerresheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-d-gerresheim.jpg/800px-Bf-d-gerresheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-d-gerresheim.jpg/1200px-Bf-d-gerresheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-d-gerresheim.jpg/1920px-Bf-d-gerresheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bf-d-gerresheim.jpg/1920px-Bf-d-gerresheim.jpg
+---
 
 ## Overview
 

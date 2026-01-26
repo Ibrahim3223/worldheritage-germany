@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/400px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/800px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1200px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1920px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1920px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
+---
 
 ## Overview
 

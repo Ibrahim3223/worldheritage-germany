@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/400px-Forstbot_garten_koeln-1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/800px-Forstbot_garten_koeln-1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1200px-Forstbot_garten_koeln-1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1920px-Forstbot_garten_koeln-1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1920px-Forstbot_garten_koeln-1.JPG
+---
 
 ## Overview
 

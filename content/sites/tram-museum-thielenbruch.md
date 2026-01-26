@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/400px-Tw_1155_im_Museum_Thielenbruch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/800px-Tw_1155_im_Museum_Thielenbruch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/1200px-Tw_1155_im_Museum_Thielenbruch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/1920px-Tw_1155_im_Museum_Thielenbruch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tw_1155_im_Museum_Thielenbruch.jpg/1920px-Tw_1155_im_Museum_Thielenbruch.jpg
+---
 
 ## Overview
 

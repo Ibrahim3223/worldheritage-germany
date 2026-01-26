@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/400px-Frankenbergerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/800px-Frankenbergerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/1200px-Frankenbergerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/1920px-Frankenbergerkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frankenbergerkirche.jpg/1920px-Frankenbergerkirche.jpg
+---
 
 ## Overview
 

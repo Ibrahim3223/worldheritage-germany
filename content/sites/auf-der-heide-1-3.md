@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg/400px-Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg/800px-Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg/1200px-Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg/1920px-Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg/1920px-Gemeindeamt_Auf_der_Heide_1-3_Jonsdorf_(2).jpg
+---
 
 ## Overview
 

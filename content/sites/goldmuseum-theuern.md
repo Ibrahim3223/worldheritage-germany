@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/400px-Theuern-Goldmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/800px-Theuern-Goldmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/1200px-Theuern-Goldmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/1920px-Theuern-Goldmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Theuern-Goldmuseum.jpg/1920px-Theuern-Goldmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/400px-Hasenbergturm_stuttgart_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/800px-Hasenbergturm_stuttgart_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/1200px-Hasenbergturm_stuttgart_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/1920px-Hasenbergturm_stuttgart_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hasenbergturm_stuttgart_1.jpg/1920px-Hasenbergturm_stuttgart_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG/400px-Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG/800px-Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG/1200px-Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG/1920px-Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG/1920px-Davidstraße_Ecke_Friedrichstraße_Hamburg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eiszeitmuseum-msu-1328.jpg/400px-Eiszeitmuseum-msu-1328.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eiszeitmuseum-msu-1328.jpg/800px-Eiszeitmuseum-msu-1328.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eiszeitmuseum-msu-1328.jpg/1200px-Eiszeitmuseum-msu-1328.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eiszeitmuseum-msu-1328.jpg/1920px-Eiszeitmuseum-msu-1328.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eiszeitmuseum-msu-1328.jpg/1920px-Eiszeitmuseum-msu-1328.jpg
+---
 
 ## Overview
 

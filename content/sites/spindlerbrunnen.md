@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/400px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/800px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/1200px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/1920px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg/1920px-Berlin-Mitte_Spindlerbrunnen_am_Spittelmarkt.jpg
+---
 
 ## Overview
 

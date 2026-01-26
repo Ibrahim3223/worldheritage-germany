@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Siciliaschacht_Meggen-4.jpg/400px-Bergbaumuseum_Siciliaschacht_Meggen-4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Siciliaschacht_Meggen-4.jpg/800px-Bergbaumuseum_Siciliaschacht_Meggen-4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Siciliaschacht_Meggen-4.jpg/1200px-Bergbaumuseum_Siciliaschacht_Meggen-4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Siciliaschacht_Meggen-4.jpg/1920px-Bergbaumuseum_Siciliaschacht_Meggen-4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Siciliaschacht_Meggen-4.jpg/1920px-Bergbaumuseum_Siciliaschacht_Meggen-4.jpg
+---
 
 ## Overview
 

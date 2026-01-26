@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/400px-Grieg-Begegnungsstätte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/800px-Grieg-Begegnungsstätte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1200px-Grieg-Begegnungsstätte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1920px-Grieg-Begegnungsstätte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1920px-Grieg-Begegnungsstätte.jpg
+---
 
 ## Overview
 

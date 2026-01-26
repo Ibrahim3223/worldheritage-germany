@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/400px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/800px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/1200px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/1920px-St._Kosmas_und_Damian_(Glesch)_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St._Kosmas_und_Damian_(Glesch)_(1).jpg/1920px-St._Kosmas_und_Damian_(Glesch)_(1).jpg
+---
 
 ## Overview
 

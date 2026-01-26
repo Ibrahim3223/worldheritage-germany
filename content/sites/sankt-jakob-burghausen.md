@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/400px-Burghausen_-_Kirche_St._Jakob.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/800px-Burghausen_-_Kirche_St._Jakob.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/1200px-Burghausen_-_Kirche_St._Jakob.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/1920px-Burghausen_-_Kirche_St._Jakob.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burghausen_-_Kirche_St._Jakob.JPG/1920px-Burghausen_-_Kirche_St._Jakob.JPG
+---
 
 ## Overview
 

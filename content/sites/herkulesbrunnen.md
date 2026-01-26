@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/400px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/800px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/1200px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/1920px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herkulesbrunnen_(Worms)_-_Frontansicht.jpg/1920px-Herkulesbrunnen_(Worms)_-_Frontansicht.jpg
+---
 
 ## Overview
 

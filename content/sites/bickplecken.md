@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/400px-Bickplecken-2009-07-21-0825.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/800px-Bickplecken-2009-07-21-0825.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/1200px-Bickplecken-2009-07-21-0825.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/1920px-Bickplecken-2009-07-21-0825.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bickplecken-2009-07-21-0825.jpg/1920px-Bickplecken-2009-07-21-0825.jpg
+---
 
 ## Overview
 

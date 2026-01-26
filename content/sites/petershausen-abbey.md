@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/400px-Petershausen_1627.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/800px-Petershausen_1627.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/1200px-Petershausen_1627.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/1920px-Petershausen_1627.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Petershausen_1627.jpg/1920px-Petershausen_1627.jpg
+---
 
 ## Overview
 

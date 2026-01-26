@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/400px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/800px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1200px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1920px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1920px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
+---
 
 ## Overview
 

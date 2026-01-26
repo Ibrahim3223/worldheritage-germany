@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg.helmsmuseum.strasse.wmt.jpg/400px-Harburg.helmsmuseum.strasse.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg.helmsmuseum.strasse.wmt.jpg/800px-Harburg.helmsmuseum.strasse.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg.helmsmuseum.strasse.wmt.jpg/1200px-Harburg.helmsmuseum.strasse.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg.helmsmuseum.strasse.wmt.jpg/1920px-Harburg.helmsmuseum.strasse.wmt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg.helmsmuseum.strasse.wmt.jpg/1920px-Harburg.helmsmuseum.strasse.wmt.jpg
+---
 
 ## Overview
 

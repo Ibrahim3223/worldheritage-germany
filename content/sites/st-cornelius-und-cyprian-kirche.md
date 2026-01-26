@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/400px-St-Cornelius-und-Cyprian-Lippborg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/800px-St-Cornelius-und-Cyprian-Lippborg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/1200px-St-Cornelius-und-Cyprian-Lippborg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/1920px-St-Cornelius-und-Cyprian-Lippborg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St-Cornelius-und-Cyprian-Lippborg.jpg/1920px-St-Cornelius-und-Cyprian-Lippborg.jpg
+---
 
 ## Overview
 

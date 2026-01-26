@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/400px-Bergedorf_Wasserturm_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/800px-Bergedorf_Wasserturm_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/1200px-Bergedorf_Wasserturm_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/1920px-Bergedorf_Wasserturm_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bergedorf_Wasserturm_1.jpg/1920px-Bergedorf_Wasserturm_1.jpg
+---
 
 ## Overview
 

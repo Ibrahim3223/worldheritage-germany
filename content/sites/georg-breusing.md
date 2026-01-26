@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/400px-Sk_georg_breusing.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/800px-Sk_georg_breusing.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1200px-Sk_georg_breusing.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1920px-Sk_georg_breusing.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1920px-Sk_georg_breusing.jpg
+---
 
 ## Overview
 

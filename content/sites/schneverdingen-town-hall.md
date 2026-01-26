@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/400px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/800px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/1200px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/1920px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg/1920px-Schneverdingen_-_Schulstraße_-_Rathaus_01_ies.jpg
+---
 
 ## Overview
 

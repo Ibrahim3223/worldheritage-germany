@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/400px-Bad-herrenalb-1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/800px-Bad-herrenalb-1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/1200px-Bad-herrenalb-1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/1920px-Bad-herrenalb-1900.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bad-herrenalb-1900.jpg/1920px-Bad-herrenalb-1900.jpg
+---
 
 ## Overview
 

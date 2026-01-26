@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/400px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/800px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/1200px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/1920px-Lychen_Zenssee_2013-08-10_ama_fec.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lychen_Zenssee_2013-08-10_ama_fec.JPG/1920px-Lychen_Zenssee_2013-08-10_ama_fec.JPG
+---
 
 ## Overview
 

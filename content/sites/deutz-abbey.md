@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/400px-Alt-Heribert_Koeln-Deutz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/800px-Alt-Heribert_Koeln-Deutz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1200px-Alt-Heribert_Koeln-Deutz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1920px-Alt-Heribert_Koeln-Deutz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1920px-Alt-Heribert_Koeln-Deutz.jpg
+---
 
 ## Overview
 

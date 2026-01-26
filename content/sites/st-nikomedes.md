@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/400px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/800px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/1200px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/1920px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg/1920px-Borghorst_Kirche_Villa_Fleiter_Musikschule_Marienschule.jpg
+---
 
 ## Overview
 

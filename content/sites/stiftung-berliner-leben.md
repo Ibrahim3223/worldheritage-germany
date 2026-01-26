@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/400px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/800px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/1200px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/1920px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/20240524_xl_0714-Stiftung_Berliner_Leben.jpg/1920px-20240524_xl_0714-Stiftung_Berliner_Leben.jpg
+---
 
 ## Overview
 

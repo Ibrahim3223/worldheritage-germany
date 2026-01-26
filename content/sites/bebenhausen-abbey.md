@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/400px-Bebenhausen_Klosterkirche_von_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/800px-Bebenhausen_Klosterkirche_von_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1200px-Bebenhausen_Klosterkirche_von_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1920px-Bebenhausen_Klosterkirche_von_außen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1920px-Bebenhausen_Klosterkirche_von_außen.jpg
+---
 
 ## Overview
 

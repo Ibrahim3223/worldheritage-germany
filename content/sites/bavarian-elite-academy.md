@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/400px-Prinzregentenstraße_7_bjs200126-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/800px-Prinzregentenstraße_7_bjs200126-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1200px-Prinzregentenstraße_7_bjs200126-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1920px-Prinzregentenstraße_7_bjs200126-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1920px-Prinzregentenstraße_7_bjs200126-01.jpg
+---
 
 ## Overview
 

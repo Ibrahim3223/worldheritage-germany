@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/400px-Bayreuth_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/800px-Bayreuth_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/1200px-Bayreuth_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/1920px-Bayreuth_Rathaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bayreuth_Rathaus.JPG/1920px-Bayreuth_Rathaus.JPG
+---
 
 ## Overview
 

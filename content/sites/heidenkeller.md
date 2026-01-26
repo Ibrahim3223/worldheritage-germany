@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/400px-04_Heidenkeller.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/800px-04_Heidenkeller.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/1200px-04_Heidenkeller.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/1920px-04_Heidenkeller.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/04_Heidenkeller.JPG/1920px-04_Heidenkeller.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/400px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/800px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/1200px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/1920px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Zionskirche,_Berlin-Mitte,_151108,_ako.jpg/1920px-Zionskirche,_Berlin-Mitte,_151108,_ako.jpg
+---
 
 ## Overview
 

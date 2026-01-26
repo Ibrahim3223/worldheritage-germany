@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/400px-Grimmen_Muehlentor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/800px-Grimmen_Muehlentor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/1200px-Grimmen_Muehlentor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/1920px-Grimmen_Muehlentor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grimmen_Muehlentor.jpg/1920px-Grimmen_Muehlentor.jpg
+---
 
 ## Overview
 

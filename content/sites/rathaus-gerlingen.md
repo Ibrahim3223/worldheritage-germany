@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/400px-Rathaus_Gerlingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/800px-Rathaus_Gerlingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/1200px-Rathaus_Gerlingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/1920px-Rathaus_Gerlingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rathaus_Gerlingen.jpg/1920px-Rathaus_Gerlingen.jpg
+---
 
 ## Overview
 

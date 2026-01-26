@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/400px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/800px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/1200px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/1920px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Römerlager._Das_römische_Augsburg_in_Kisten.jpg/1920px-Römerlager._Das_römische_Augsburg_in_Kisten.jpg
+---
 
 ## Overview
 

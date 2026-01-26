@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/400px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/800px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/1200px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/1920px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg/1920px-D-5-64-000-2458_Glogauer_Straße_25,_Gemeindehaus_Nürnberg_20241221_0001.jpg
+---
 
 ## Overview
 

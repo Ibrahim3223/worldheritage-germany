@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/400px-Quedlinburg_Kirche_Mathilde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/800px-Quedlinburg_Kirche_Mathilde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/1200px-Quedlinburg_Kirche_Mathilde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/1920px-Quedlinburg_Kirche_Mathilde.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Quedlinburg_Kirche_Mathilde.JPG/1920px-Quedlinburg_Kirche_Mathilde.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/400px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/800px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/1200px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/1920px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG/1920px-Brandshagen,_Nordvorpommern,_Dorfkirche_Ansicht_2_(2008-07-29).JPG
+---
 
 ## Overview
 

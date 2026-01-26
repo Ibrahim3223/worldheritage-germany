@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg/400px-Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg/800px-Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg/1200px-Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg/1920px-Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg/1920px-Frankfurt_Am_Main-Leonhardskirche-Ansicht_vom_Mainkai-Gegenwart.jpg
+---
 
 ## Overview
 

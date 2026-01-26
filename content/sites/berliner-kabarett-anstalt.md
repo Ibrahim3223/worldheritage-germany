@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BKA_Theater_Copyright_Sven_Ihlenfeld.jpg/400px-BKA_Theater_Copyright_Sven_Ihlenfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BKA_Theater_Copyright_Sven_Ihlenfeld.jpg/800px-BKA_Theater_Copyright_Sven_Ihlenfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BKA_Theater_Copyright_Sven_Ihlenfeld.jpg/1200px-BKA_Theater_Copyright_Sven_Ihlenfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BKA_Theater_Copyright_Sven_Ihlenfeld.jpg/1920px-BKA_Theater_Copyright_Sven_Ihlenfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BKA_Theater_Copyright_Sven_Ihlenfeld.jpg/1920px-BKA_Theater_Copyright_Sven_Ihlenfeld.jpg
+---
 
 ## Overview
 

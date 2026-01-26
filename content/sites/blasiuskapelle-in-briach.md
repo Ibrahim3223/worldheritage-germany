@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/400px-Blasiuskapelle_in_Briach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/800px-Blasiuskapelle_in_Briach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/1200px-Blasiuskapelle_in_Briach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/1920px-Blasiuskapelle_in_Briach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Blasiuskapelle_in_Briach.jpg/1920px-Blasiuskapelle_in_Briach.jpg
+---
 
 ## Overview
 

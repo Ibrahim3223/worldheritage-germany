@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/400px-Große_Synagoge_Erfurt_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/800px-Große_Synagoge_Erfurt_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1200px-Große_Synagoge_Erfurt_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1920px-Große_Synagoge_Erfurt_außen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1920px-Große_Synagoge_Erfurt_außen.jpg
+---
 
 ## Overview
 

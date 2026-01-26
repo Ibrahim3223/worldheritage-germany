@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/400px-Wetzstein_-_Altvaterturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/800px-Wetzstein_-_Altvaterturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/1200px-Wetzstein_-_Altvaterturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/1920px-Wetzstein_-_Altvaterturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wetzstein_-_Altvaterturm.jpg/1920px-Wetzstein_-_Altvaterturm.jpg
+---
 
 ## Overview
 

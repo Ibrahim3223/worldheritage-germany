@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/400px-Europäische_Zentralbank_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/800px-Europäische_Zentralbank_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/1200px-Europäische_Zentralbank_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/1920px-Europäische_Zentralbank_Frankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europäische_Zentralbank_Frankfurt.jpg/1920px-Europäische_Zentralbank_Frankfurt.jpg
+---
 
 ## Overview
 

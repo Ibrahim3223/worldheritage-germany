@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kunsthalle_Bielefeld_Mai_2014_2.JPG/400px-Kunsthalle_Bielefeld_Mai_2014_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kunsthalle_Bielefeld_Mai_2014_2.JPG/800px-Kunsthalle_Bielefeld_Mai_2014_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kunsthalle_Bielefeld_Mai_2014_2.JPG/1200px-Kunsthalle_Bielefeld_Mai_2014_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kunsthalle_Bielefeld_Mai_2014_2.JPG/1920px-Kunsthalle_Bielefeld_Mai_2014_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kunsthalle_Bielefeld_Mai_2014_2.JPG/1920px-Kunsthalle_Bielefeld_Mai_2014_2.JPG
+---
 
 ## Overview
 

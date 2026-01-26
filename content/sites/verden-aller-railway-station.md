@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/400px-Bahnhof_Verden_(Aller)_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/800px-Bahnhof_Verden_(Aller)_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/1200px-Bahnhof_Verden_(Aller)_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/1920px-Bahnhof_Verden_(Aller)_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahnhof_Verden_(Aller)_2014.jpg/1920px-Bahnhof_Verden_(Aller)_2014.jpg
+---
 
 ## Overview
 

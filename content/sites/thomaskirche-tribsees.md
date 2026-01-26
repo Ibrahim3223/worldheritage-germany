@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/400px-Tribsees-Kirche-02-07-2008-223.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/800px-Tribsees-Kirche-02-07-2008-223.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/1200px-Tribsees-Kirche-02-07-2008-223.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/1920px-Tribsees-Kirche-02-07-2008-223.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tribsees-Kirche-02-07-2008-223.jpg/1920px-Tribsees-Kirche-02-07-2008-223.jpg
+---
 
 ## Overview
 

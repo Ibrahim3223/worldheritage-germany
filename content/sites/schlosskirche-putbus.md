@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/400px-Schlosskirche_Putbus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/800px-Schlosskirche_Putbus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/1200px-Schlosskirche_Putbus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/1920px-Schlosskirche_Putbus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlosskirche_Putbus.jpg/1920px-Schlosskirche_Putbus.jpg
+---
 
 ## Overview
 

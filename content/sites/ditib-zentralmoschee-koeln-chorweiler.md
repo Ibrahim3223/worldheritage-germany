@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chorweiler_Zentralmoschee_Innenansicht.jpg/400px-Chorweiler_Zentralmoschee_Innenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chorweiler_Zentralmoschee_Innenansicht.jpg/800px-Chorweiler_Zentralmoschee_Innenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chorweiler_Zentralmoschee_Innenansicht.jpg/1200px-Chorweiler_Zentralmoschee_Innenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chorweiler_Zentralmoschee_Innenansicht.jpg/1920px-Chorweiler_Zentralmoschee_Innenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chorweiler_Zentralmoschee_Innenansicht.jpg/1920px-Chorweiler_Zentralmoschee_Innenansicht.jpg
+---
 
 ## Overview
 

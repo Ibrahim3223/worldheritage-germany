@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/400px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/800px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/1200px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/1920px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG/1920px-Fernmeldeturm_Höxter_(QTH_Neuhaus_im_Solling).JPG
+---
 
 ## Overview
 

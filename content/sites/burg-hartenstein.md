@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/400px-Hartenstein_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/800px-Hartenstein_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/1200px-Hartenstein_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/1920px-Hartenstein_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hartenstein_04.jpg/1920px-Hartenstein_04.jpg
+---
 
 ## Overview
 

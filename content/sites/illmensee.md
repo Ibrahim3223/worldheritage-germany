@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/400px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/800px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/1200px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/1920px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg/1920px-Illmensee_-_Sicht_auf_Südufer,_Totholz.jpg
+---
 
 ## Overview
 

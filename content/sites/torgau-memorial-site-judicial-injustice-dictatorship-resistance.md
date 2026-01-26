@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/400px-Daueraustellung_Erinnerungsort_Torgau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/800px-Daueraustellung_Erinnerungsort_Torgau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/1200px-Daueraustellung_Erinnerungsort_Torgau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/1920px-Daueraustellung_Erinnerungsort_Torgau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Daueraustellung_Erinnerungsort_Torgau.jpg/1920px-Daueraustellung_Erinnerungsort_Torgau.jpg
+---
 
 ## Overview
 

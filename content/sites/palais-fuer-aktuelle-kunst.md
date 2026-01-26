@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/400px-Palais_Quasi_non_Possidentes.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/800px-Palais_Quasi_non_Possidentes.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/1200px-Palais_Quasi_non_Possidentes.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/1920px-Palais_Quasi_non_Possidentes.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Palais_Quasi_non_Possidentes.JPG/1920px-Palais_Quasi_non_Possidentes.JPG
+---
 
 ## Overview
 

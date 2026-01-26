@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/400px-D-Lindau-NSG_Reutiner_Bucht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/800px-D-Lindau-NSG_Reutiner_Bucht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/1200px-D-Lindau-NSG_Reutiner_Bucht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/1920px-D-Lindau-NSG_Reutiner_Bucht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-Lindau-NSG_Reutiner_Bucht.JPG/1920px-D-Lindau-NSG_Reutiner_Bucht.JPG
+---
 
 ## Overview
 

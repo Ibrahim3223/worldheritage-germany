@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/400px-Frillensee,_Inzell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/800px-Frillensee,_Inzell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/1200px-Frillensee,_Inzell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/1920px-Frillensee,_Inzell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Frillensee,_Inzell.jpg/1920px-Frillensee,_Inzell.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/400px-Bundesverwaltungsgericht_3,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/800px-Bundesverwaltungsgericht_3,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/1200px-Bundesverwaltungsgericht_3,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/1920px-Bundesverwaltungsgericht_3,_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bundesverwaltungsgericht_3,_Leipzig.jpg/1920px-Bundesverwaltungsgericht_3,_Leipzig.jpg
+---
 
 ## Overview
 

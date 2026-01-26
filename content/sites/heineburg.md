@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heineburg_Heineberg.jpg/400px-Heineburg_Heineberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heineburg_Heineberg.jpg/800px-Heineburg_Heineberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heineburg_Heineberg.jpg/1200px-Heineburg_Heineberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heineburg_Heineberg.jpg/1920px-Heineburg_Heineberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Heineburg_Heineberg.jpg/1920px-Heineburg_Heineberg.jpg
+---
 
 ## Overview
 

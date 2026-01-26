@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/400px-Adlerstein_Wuerzberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/800px-Adlerstein_Wuerzberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/1200px-Adlerstein_Wuerzberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/1920px-Adlerstein_Wuerzberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adlerstein_Wuerzberg.jpg/1920px-Adlerstein_Wuerzberg.jpg
+---
 
 ## Overview
 

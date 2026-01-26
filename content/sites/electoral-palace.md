@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/400px-Kurfürstliches_Palais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/800px-Kurfürstliches_Palais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/1200px-Kurfürstliches_Palais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/1920px-Kurfürstliches_Palais.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kurfürstliches_Palais.jpg/1920px-Kurfürstliches_Palais.jpg
+---
 
 ## Overview
 

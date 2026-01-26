@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg/400px-Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg/800px-Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg/1200px-Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg/1920px-Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg/1920px-Thuringia_Eisenach_asv2020-07_img17_Luther's_House.jpg
+---
 
 ## Overview
 

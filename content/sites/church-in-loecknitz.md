@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/400px-Löcknitz-Kirche-26-03-2010_487b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/800px-Löcknitz-Kirche-26-03-2010_487b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/1200px-Löcknitz-Kirche-26-03-2010_487b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/1920px-Löcknitz-Kirche-26-03-2010_487b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/1920px-Löcknitz-Kirche-26-03-2010_487b.jpg
+---
 
 ## Overview
 

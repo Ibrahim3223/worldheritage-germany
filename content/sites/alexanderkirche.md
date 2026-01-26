@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/400px-Oerlinghausen-Kirche01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/800px-Oerlinghausen-Kirche01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/1200px-Oerlinghausen-Kirche01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/1920px-Oerlinghausen-Kirche01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Oerlinghausen-Kirche01.jpg/1920px-Oerlinghausen-Kirche01.jpg
+---
 
 ## Overview
 

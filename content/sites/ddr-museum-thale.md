@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/400px-DDR_Museum_Thale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/800px-DDR_Museum_Thale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/1200px-DDR_Museum_Thale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/1920px-DDR_Museum_Thale.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DDR_Museum_Thale.jpg/1920px-DDR_Museum_Thale.jpg
+---
 
 ## Overview
 

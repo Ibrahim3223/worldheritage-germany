@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/400px-20201105_Selimiye_Moschee_Völklingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/800px-20201105_Selimiye_Moschee_Völklingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/1200px-20201105_Selimiye_Moschee_Völklingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/1920px-20201105_Selimiye_Moschee_Völklingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/20201105_Selimiye_Moschee_Völklingen.jpg/1920px-20201105_Selimiye_Moschee_Völklingen.jpg
+---
 
 ## Overview
 

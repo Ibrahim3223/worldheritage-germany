@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/400px-Burgrest_Granheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/800px-Burgrest_Granheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/1200px-Burgrest_Granheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/1920px-Burgrest_Granheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgrest_Granheim.jpg/1920px-Burgrest_Granheim.jpg
+---
 
 ## Overview
 

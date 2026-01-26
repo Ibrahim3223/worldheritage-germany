@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/400px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/800px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/1200px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/1920px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gelsenkirchen-Buer_Ehrenmal_(1).JPG/1920px-Gelsenkirchen-Buer_Ehrenmal_(1).JPG
+---
 
 ## Overview
 

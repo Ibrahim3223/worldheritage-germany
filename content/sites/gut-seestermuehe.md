@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/400px-Seestermuehe_Gutshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/800px-Seestermuehe_Gutshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1200px-Seestermuehe_Gutshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1920px-Seestermuehe_Gutshaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1920px-Seestermuehe_Gutshaus.jpg
+---
 
 ## Overview
 

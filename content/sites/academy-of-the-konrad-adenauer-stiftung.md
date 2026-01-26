@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/400px-Konrad-Adenauer-Stiftung,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/800px-Konrad-Adenauer-Stiftung,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/1200px-Konrad-Adenauer-Stiftung,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/1920px-Konrad-Adenauer-Stiftung,_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Konrad-Adenauer-Stiftung,_Berlin.jpg/1920px-Konrad-Adenauer-Stiftung,_Berlin.jpg
+---
 
 ## Overview
 

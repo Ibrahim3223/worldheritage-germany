@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg/400px-2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg/800px-2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg/1200px-2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg/1920px-2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg/1920px-2010-03-24_Weissensee_Antonplatz-Süd_Panorama_fec_M.A.Arnold,_Berlin.jpg
+---
 
 ## Overview
 

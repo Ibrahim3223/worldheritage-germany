@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/400px-GoethehausWeimar.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/800px-GoethehausWeimar.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/1200px-GoethehausWeimar.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/1920px-GoethehausWeimar.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/1920px-GoethehausWeimar.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/400px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/800px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1200px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1920px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1920px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
+---
 
 ## Overview
 

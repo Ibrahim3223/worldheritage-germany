@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/400px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/800px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/1200px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/1920px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg/1920px-Kunstverein_Bielefeld_(2019),_Foto_Fred_Dott.jpg
+---
 
 ## Overview
 

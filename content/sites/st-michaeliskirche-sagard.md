@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/400px-Sagard_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/800px-Sagard_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/1200px-Sagard_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/1920px-Sagard_Church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sagard_Church.jpg/1920px-Sagard_Church.jpg
+---
 
 ## Overview
 

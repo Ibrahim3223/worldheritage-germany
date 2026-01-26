@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/400px-Burg_Mecklenburg_Findling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/800px-Burg_Mecklenburg_Findling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/1200px-Burg_Mecklenburg_Findling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/1920px-Burg_Mecklenburg_Findling.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burg_Mecklenburg_Findling.jpg/1920px-Burg_Mecklenburg_Findling.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/400px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/800px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/1200px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/1920px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin-Charlottenburg_Schaubuehne_05-2014.jpg/1920px-Berlin-Charlottenburg_Schaubuehne_05-2014.jpg
+---
 
 ## Overview
 

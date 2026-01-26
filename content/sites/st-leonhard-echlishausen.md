@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/400px-Echlishausen_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/800px-Echlishausen_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/1200px-Echlishausen_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/1920px-Echlishausen_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Echlishausen_Kirche.jpg/1920px-Echlishausen_Kirche.jpg
+---
 
 ## Overview
 

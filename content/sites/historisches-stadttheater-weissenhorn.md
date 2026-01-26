@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/400px-Historisches_Stadttheater_Weißenhorn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/800px-Historisches_Stadttheater_Weißenhorn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1200px-Historisches_Stadttheater_Weißenhorn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1920px-Historisches_Stadttheater_Weißenhorn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1920px-Historisches_Stadttheater_Weißenhorn.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/400px-Rodentelgenkapelle2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/800px-Rodentelgenkapelle2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/1200px-Rodentelgenkapelle2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/1920px-Rodentelgenkapelle2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rodentelgenkapelle2.JPG/1920px-Rodentelgenkapelle2.JPG
+---
 
 ## Overview
 

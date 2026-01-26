@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/400px-Hochwanner_von_S_HQ.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/800px-Hochwanner_von_S_HQ.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/1200px-Hochwanner_von_S_HQ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/1920px-Hochwanner_von_S_HQ.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/1920px-Hochwanner_von_S_HQ.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/400px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/800px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/1200px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/1920px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg/1920px-Haiger_-_Marktplatz_2_(KD.HE_132838_1_08.2015).jpg
+---
 
 ## Overview
 

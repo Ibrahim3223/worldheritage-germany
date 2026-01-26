@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/400px-Elberfeld_Bismarckdenkmal_1898.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/800px-Elberfeld_Bismarckdenkmal_1898.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/1200px-Elberfeld_Bismarckdenkmal_1898.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/1920px-Elberfeld_Bismarckdenkmal_1898.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Elberfeld_Bismarckdenkmal_1898.jpg/1920px-Elberfeld_Bismarckdenkmal_1898.jpg
+---
 
 ## Overview
 

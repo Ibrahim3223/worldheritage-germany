@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kirche_am_Lietzensee.JPG/400px-Kirche_am_Lietzensee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kirche_am_Lietzensee.JPG/800px-Kirche_am_Lietzensee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kirche_am_Lietzensee.JPG/1200px-Kirche_am_Lietzensee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kirche_am_Lietzensee.JPG/1920px-Kirche_am_Lietzensee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kirche_am_Lietzensee.JPG/1920px-Kirche_am_Lietzensee.JPG
+---
 
 ## Overview
 

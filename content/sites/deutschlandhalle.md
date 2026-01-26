@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/400px-Deutschlandhalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/800px-Deutschlandhalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1200px-Deutschlandhalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1920px-Deutschlandhalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1920px-Deutschlandhalle.jpg
+---
 
 ## Overview
 

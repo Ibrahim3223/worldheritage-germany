@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/400px-Limmerstr08.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/800px-Limmerstr08.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/1200px-Limmerstr08.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/1920px-Limmerstr08.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Limmerstr08.JPG/1920px-Limmerstr08.JPG
+---
 
 ## Overview
 

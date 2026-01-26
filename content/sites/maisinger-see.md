@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Maisinger_See2.jpg/400px-Maisinger_See2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Maisinger_See2.jpg/800px-Maisinger_See2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Maisinger_See2.jpg/1200px-Maisinger_See2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Maisinger_See2.jpg/1920px-Maisinger_See2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Maisinger_See2.jpg/1920px-Maisinger_See2.jpg
+---
 
 ## Overview 
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/400px-Dorfkirche_Buchholz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/800px-Dorfkirche_Buchholz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/1200px-Dorfkirche_Buchholz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/1920px-Dorfkirche_Buchholz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dorfkirche_Buchholz.JPG/1920px-Dorfkirche_Buchholz.JPG
+---
 
 ## Overview
 

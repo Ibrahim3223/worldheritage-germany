@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/400px-Evangelische_Kirche_Ittenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/800px-Evangelische_Kirche_Ittenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/1200px-Evangelische_Kirche_Ittenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/1920px-Evangelische_Kirche_Ittenbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/1920px-Evangelische_Kirche_Ittenbach.jpg
+---
 
 ## Overview
 

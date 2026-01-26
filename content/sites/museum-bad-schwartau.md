@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/400px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/800px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/1200px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/1920px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG/1920px-Bad_Schwartau_-_Museum_Stadt_Bad_Schwartau.JPG
+---
 
 ## Overview
 

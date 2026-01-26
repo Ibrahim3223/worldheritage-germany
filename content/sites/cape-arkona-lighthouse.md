@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2014_Leuchtturm_Kap_Arkona_01.jpg/400px-2014_Leuchtturm_Kap_Arkona_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2014_Leuchtturm_Kap_Arkona_01.jpg/800px-2014_Leuchtturm_Kap_Arkona_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2014_Leuchtturm_Kap_Arkona_01.jpg/1200px-2014_Leuchtturm_Kap_Arkona_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2014_Leuchtturm_Kap_Arkona_01.jpg/1920px-2014_Leuchtturm_Kap_Arkona_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2014_Leuchtturm_Kap_Arkona_01.jpg/1920px-2014_Leuchtturm_Kap_Arkona_01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/400px-27,_Ruine_Lengenfeld,_Donautal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/800px-27,_Ruine_Lengenfeld,_Donautal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/1200px-27,_Ruine_Lengenfeld,_Donautal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/1920px-27,_Ruine_Lengenfeld,_Donautal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/27,_Ruine_Lengenfeld,_Donautal.JPG/1920px-27,_Ruine_Lengenfeld,_Donautal.JPG
+---
 
 ## Overview
 

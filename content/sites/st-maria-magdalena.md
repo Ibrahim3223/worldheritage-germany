@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/400px-KircheNeuenkirchenRügen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/800px-KircheNeuenkirchenRügen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/1200px-KircheNeuenkirchenRügen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/1920px-KircheNeuenkirchenRügen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KircheNeuenkirchenRügen.JPG/1920px-KircheNeuenkirchenRügen.JPG
+---
 
 ## Overview
 

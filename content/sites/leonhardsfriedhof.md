@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/400px-Leonhard_Gmünd_Gräberfeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/800px-Leonhard_Gmünd_Gräberfeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/1200px-Leonhard_Gmünd_Gräberfeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/1920px-Leonhard_Gmünd_Gräberfeld.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Leonhard_Gmünd_Gräberfeld.JPG/1920px-Leonhard_Gmünd_Gräberfeld.JPG
+---
 
 ## Overview
 

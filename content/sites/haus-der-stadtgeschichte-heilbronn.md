@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heilbronn-deutschhof-21.jpg/400px-Heilbronn-deutschhof-21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heilbronn-deutschhof-21.jpg/800px-Heilbronn-deutschhof-21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heilbronn-deutschhof-21.jpg/1200px-Heilbronn-deutschhof-21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heilbronn-deutschhof-21.jpg/1920px-Heilbronn-deutschhof-21.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heilbronn-deutschhof-21.jpg/1920px-Heilbronn-deutschhof-21.jpg
+---
 
 ## Overview
 

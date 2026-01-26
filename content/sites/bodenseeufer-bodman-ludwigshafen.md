@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/400px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/800px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/1200px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/1920px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bodman-Ludwigshafen_Naturschutzgebiet.jpg/1920px-Bodman-Ludwigshafen_Naturschutzgebiet.jpg
+---
 
 ## Overview
 

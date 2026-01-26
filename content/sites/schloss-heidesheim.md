@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/400px-Heidesheim_Schlosseingang_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/800px-Heidesheim_Schlosseingang_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/1200px-Heidesheim_Schlosseingang_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/1920px-Heidesheim_Schlosseingang_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidesheim_Schlosseingang_1.JPG/1920px-Heidesheim_Schlosseingang_1.JPG
+---
 
 ## Overview
 

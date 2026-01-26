@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/400px-Garnisonskirche_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/800px-Garnisonskirche_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1200px-Garnisonskirche_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1920px-Garnisonskirche_Kassel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1920px-Garnisonskirche_Kassel.jpg
+---
 
 ## Overview
 

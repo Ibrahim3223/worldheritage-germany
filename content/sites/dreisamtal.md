@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/400px-Dreisamtal_in_Freiburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/800px-Dreisamtal_in_Freiburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1200px-Dreisamtal_in_Freiburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1920px-Dreisamtal_in_Freiburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1920px-Dreisamtal_in_Freiburg.jpg
+---
 
 ## Overview
 

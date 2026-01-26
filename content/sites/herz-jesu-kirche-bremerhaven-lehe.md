@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/400px-Lehe_Herz-Jesu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/800px-Lehe_Herz-Jesu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/1200px-Lehe_Herz-Jesu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/1920px-Lehe_Herz-Jesu.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lehe_Herz-Jesu.jpg/1920px-Lehe_Herz-Jesu.jpg
+---
 
 ## Overview
 

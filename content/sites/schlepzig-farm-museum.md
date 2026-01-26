@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/400px-Schlepzig_Bauernmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/800px-Schlepzig_Bauernmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/1200px-Schlepzig_Bauernmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/1920px-Schlepzig_Bauernmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schlepzig_Bauernmuseum.jpg/1920px-Schlepzig_Bauernmuseum.jpg
+---
 
 ## Overview
 

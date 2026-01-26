@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/400px-Kunsthaus_tacheles.berlin.II.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/800px-Kunsthaus_tacheles.berlin.II.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/1200px-Kunsthaus_tacheles.berlin.II.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/1920px-Kunsthaus_tacheles.berlin.II.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthaus_tacheles.berlin.II.JPG/1920px-Kunsthaus_tacheles.berlin.II.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/400px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/800px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/1200px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/1920px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg/1920px-Lutherstadt_Wittenberg,Kirchplatz,Stadtpfarrkirche_St._Marien.jpg
+---
 
 ## Overview
 

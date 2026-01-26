@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/400px-Schauwerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/800px-Schauwerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/1200px-Schauwerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/1920px-Schauwerk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schauwerk.jpg/1920px-Schauwerk.jpg
+---
 
 ## Overview
 

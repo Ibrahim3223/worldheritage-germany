@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/400px-Selimiye-Moschee_Wertheim_Außen02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/800px-Selimiye-Moschee_Wertheim_Außen02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/1200px-Selimiye-Moschee_Wertheim_Außen02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/1920px-Selimiye-Moschee_Wertheim_Außen02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Selimiye-Moschee_Wertheim_Außen02.jpg/1920px-Selimiye-Moschee_Wertheim_Außen02.jpg
+---
 
 ## Overview
 

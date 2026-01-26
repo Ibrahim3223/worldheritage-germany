@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg/400px-Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg/800px-Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg/1200px-Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg/1920px-Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg/1920px-Melanchthonkirche_im_Stadtteil_Bult_(Hannover)_IMG_7064.jpg
+---
 
 ## Overview
 

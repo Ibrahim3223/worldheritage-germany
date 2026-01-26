@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/400px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/800px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/1200px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/1920px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG/1920px-Grünenbach_-_Ruine_Altlaubenberg_v_S,_Grünenbach.JPG
+---
 
 ## Overview
 

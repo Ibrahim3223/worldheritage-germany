@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/400px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/800px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/1200px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/1920px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg/1920px-Ökumenische_Kapelle_Schneckenhaus_Gottes_Gunthildis-Kapelle_bei_Suffersheim_in_Bayern.jpg
+---
 
 ## Overview
 

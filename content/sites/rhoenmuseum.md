@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/400px-Rhönmuseum.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/800px-Rhönmuseum.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/1200px-Rhönmuseum.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/1920px-Rhönmuseum.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rhönmuseum.png/1920px-Rhönmuseum.png
+---
 
 ## Overview
 

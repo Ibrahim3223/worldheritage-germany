@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/400px-Alte_Veste_f_sw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/800px-Alte_Veste_f_sw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/1200px-Alte_Veste_f_sw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/1920px-Alte_Veste_f_sw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alte_Veste_f_sw.jpg/1920px-Alte_Veste_f_sw.jpg
+---
 
 ## Overview
 

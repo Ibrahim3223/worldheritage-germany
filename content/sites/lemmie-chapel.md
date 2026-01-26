@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/400px-Lemmier_Kapelle-Rückseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/800px-Lemmier_Kapelle-Rückseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/1200px-Lemmier_Kapelle-Rückseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/1920px-Lemmier_Kapelle-Rückseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lemmier_Kapelle-Rückseite.jpg/1920px-Lemmier_Kapelle-Rückseite.jpg
+---
 
 ## Overview
 

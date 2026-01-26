@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/400px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/800px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/1200px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/1920px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg/1920px-Fritz_Koenig_Denkmal_fuer_die_Opfer_des_Olympiaattentats_1972_1995_Olympiapark-2.jpg
+---
 
 ## Overview
 

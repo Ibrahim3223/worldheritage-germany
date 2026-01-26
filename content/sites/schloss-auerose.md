@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/400px-SchlossAueroseGiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/800px-SchlossAueroseGiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/1200px-SchlossAueroseGiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/1920px-SchlossAueroseGiebel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchlossAueroseGiebel.JPG/1920px-SchlossAueroseGiebel.JPG
+---
 
 ## Overview
 

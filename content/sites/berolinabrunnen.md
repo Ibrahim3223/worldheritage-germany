@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/400px-Berolinabrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/800px-Berolinabrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/1200px-Berolinabrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/1920px-Berolinabrunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berolinabrunnen.jpg/1920px-Berolinabrunnen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/400px-Brauereigasthof_Kaiserdom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/800px-Brauereigasthof_Kaiserdom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/1200px-Brauereigasthof_Kaiserdom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/1920px-Brauereigasthof_Kaiserdom.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/1920px-Brauereigasthof_Kaiserdom.jpg
+---
 
 ## Overview
 

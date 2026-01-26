@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/400px-Herrenhaus_auf_Traventhal_ArM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/800px-Herrenhaus_auf_Traventhal_ArM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/1200px-Herrenhaus_auf_Traventhal_ArM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/1920px-Herrenhaus_auf_Traventhal_ArM.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Herrenhaus_auf_Traventhal_ArM.jpg/1920px-Herrenhaus_auf_Traventhal_ArM.jpg
+---
 
 ## Overview
 

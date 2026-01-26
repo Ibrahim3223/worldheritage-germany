@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg/400px-Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg/800px-Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg/1200px-Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg/1920px-Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg/1920px-Denkmal_der_Grauen_Busse_(Replika_Köln)-1.jpg
+---
 
 ## Overview
 

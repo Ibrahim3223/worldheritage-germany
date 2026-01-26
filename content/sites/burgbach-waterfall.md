@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/400px-Burgbachwasserfall_IMG_3048.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/800px-Burgbachwasserfall_IMG_3048.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1200px-Burgbachwasserfall_IMG_3048.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1920px-Burgbachwasserfall_IMG_3048.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1920px-Burgbachwasserfall_IMG_3048.jpg
+---
 
 ## Overview
 

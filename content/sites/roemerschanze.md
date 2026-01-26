@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grünwald_Roman_entrenchment_walls_ditch.jpg/400px-Grünwald_Roman_entrenchment_walls_ditch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grünwald_Roman_entrenchment_walls_ditch.jpg/800px-Grünwald_Roman_entrenchment_walls_ditch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grünwald_Roman_entrenchment_walls_ditch.jpg/1200px-Grünwald_Roman_entrenchment_walls_ditch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grünwald_Roman_entrenchment_walls_ditch.jpg/1920px-Grünwald_Roman_entrenchment_walls_ditch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grünwald_Roman_entrenchment_walls_ditch.jpg/1920px-Grünwald_Roman_entrenchment_walls_ditch.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Noerdlingen_sankt_georg.jpg/400px-Noerdlingen_sankt_georg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Noerdlingen_sankt_georg.jpg/800px-Noerdlingen_sankt_georg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Noerdlingen_sankt_georg.jpg/1200px-Noerdlingen_sankt_georg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Noerdlingen_sankt_georg.jpg/1920px-Noerdlingen_sankt_georg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Noerdlingen_sankt_georg.jpg/1920px-Noerdlingen_sankt_georg.jpg
+---
 
 ## Overview
 

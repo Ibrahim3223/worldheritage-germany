@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg/400px-St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg/800px-St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg/1200px-St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg/1920px-St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg/1920px-St.-Stephani-und-Bartholomaei-Kirchemsu657.jpg
+---
 
 ## Overview
 

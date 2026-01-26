@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/400px-Pergamonmuseum_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/800px-Pergamonmuseum_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/1200px-Pergamonmuseum_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/1920px-Pergamonmuseum_Front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pergamonmuseum_Front.jpg/1920px-Pergamonmuseum_Front.jpg
+---
 
 ## Overview
 

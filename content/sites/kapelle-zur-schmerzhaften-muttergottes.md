@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/400px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/800px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/1200px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/1920px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg/1920px-Zaisertshofen_Kapelle_SchmerzhMuttergottes_SW.jpg
+---
 
 ## Overview
 

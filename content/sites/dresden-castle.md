@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/400px-DD-Schloss-gp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/800px-DD-Schloss-gp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1200px-DD-Schloss-gp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1920px-DD-Schloss-gp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1920px-DD-Schloss-gp.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/400px-Planetarium_Jena_(40040).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/800px-Planetarium_Jena_(40040).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/1200px-Planetarium_Jena_(40040).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/1920px-Planetarium_Jena_(40040).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Planetarium_Jena_(40040).jpg/1920px-Planetarium_Jena_(40040).jpg
+---
 
 ## Overview
 

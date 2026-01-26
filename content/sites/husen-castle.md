@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG/400px-Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG/800px-Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG/1200px-Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG/1920px-Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG/1920px-Haus_Husen,_Dortmund,_Wohnturm,_Detail.JPG
+---
 
 ## Overview
 

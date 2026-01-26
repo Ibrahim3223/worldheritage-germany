@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/400px-Hohler_Stein_Eingangsportal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/800px-Hohler_Stein_Eingangsportal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1200px-Hohler_Stein_Eingangsportal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1920px-Hohler_Stein_Eingangsportal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1920px-Hohler_Stein_Eingangsportal.jpg
+---
 
 ## Overview
 

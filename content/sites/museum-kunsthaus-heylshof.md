@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/400px-Worms_Heylshofgarten_2005-05-27a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/800px-Worms_Heylshofgarten_2005-05-27a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/1200px-Worms_Heylshofgarten_2005-05-27a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/1920px-Worms_Heylshofgarten_2005-05-27a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/1920px-Worms_Heylshofgarten_2005-05-27a.jpg
+---
 
 ## Overview
 

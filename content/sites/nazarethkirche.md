@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/400px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/800px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/1200px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/1920px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg/1920px-Nazareth_church_Sallstrasse_Krausenstrasse_Suedstadt_Hannover_Germany.jpg
+---
 
 ## Overview
 

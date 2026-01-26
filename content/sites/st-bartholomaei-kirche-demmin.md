@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Demmin-Kirche-2011.JPG/400px-Demmin-Kirche-2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Demmin-Kirche-2011.JPG/800px-Demmin-Kirche-2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Demmin-Kirche-2011.JPG/1200px-Demmin-Kirche-2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Demmin-Kirche-2011.JPG/1920px-Demmin-Kirche-2011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Demmin-Kirche-2011.JPG/1920px-Demmin-Kirche-2011.JPG
+---
 
 ## Overview
 

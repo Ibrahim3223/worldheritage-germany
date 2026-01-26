@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/400px-Helmstedt_Brunnentheater.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/800px-Helmstedt_Brunnentheater.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/1200px-Helmstedt_Brunnentheater.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/1920px-Helmstedt_Brunnentheater.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Helmstedt_Brunnentheater.JPG/1920px-Helmstedt_Brunnentheater.JPG
+---
 
 ## Overview
 

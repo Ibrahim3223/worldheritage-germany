@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/400px-Naumburg_Ägidienkurie_Rückseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/800px-Naumburg_Ägidienkurie_Rückseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/1200px-Naumburg_Ägidienkurie_Rückseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/1920px-Naumburg_Ägidienkurie_Rückseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Naumburg_Ägidienkurie_Rückseite.JPG/1920px-Naumburg_Ägidienkurie_Rückseite.JPG
+---
 
 ## Overview
 

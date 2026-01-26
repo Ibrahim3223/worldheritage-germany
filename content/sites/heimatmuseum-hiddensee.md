@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/400px-KlosterHeimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/800px-KlosterHeimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/1200px-KlosterHeimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/1920px-KlosterHeimatmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KlosterHeimatmuseum.jpg/1920px-KlosterHeimatmuseum.jpg
+---
 
 ## Overview
 

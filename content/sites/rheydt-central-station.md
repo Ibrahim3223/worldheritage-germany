@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/400px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/800px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/1200px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/1920px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg/1920px-2017-06-02_Rheydt,_Hauptbahnhof_(01)_(freddy2001).jpg
+---
 
 ## Overview
 

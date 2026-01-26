@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/400px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/800px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1200px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1920px-Alte_Brennerei_Schwake_mit_Infotafel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1920px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
+---
 
 ## Overview
 

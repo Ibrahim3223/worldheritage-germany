@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/400px-Historisches_Museum_Dietzenbach_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/800px-Historisches_Museum_Dietzenbach_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/1200px-Historisches_Museum_Dietzenbach_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/1920px-Historisches_Museum_Dietzenbach_Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Historisches_Museum_Dietzenbach_Eingang.jpg/1920px-Historisches_Museum_Dietzenbach_Eingang.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/400px-BadIburgUhrenmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/800px-BadIburgUhrenmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/1200px-BadIburgUhrenmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/1920px-BadIburgUhrenmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BadIburgUhrenmuseum.JPG/1920px-BadIburgUhrenmuseum.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/400px-Burg_Eisenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/800px-Burg_Eisenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/1200px-Burg_Eisenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/1920px-Burg_Eisenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Eisenberg.jpg/1920px-Burg_Eisenberg.jpg
+---
 
 ## Overview
 

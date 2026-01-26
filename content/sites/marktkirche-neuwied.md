@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/400px-Ev.Kirche_Neuwied.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/800px-Ev.Kirche_Neuwied.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/1200px-Ev.Kirche_Neuwied.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/1920px-Ev.Kirche_Neuwied.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ev.Kirche_Neuwied.JPG/1920px-Ev.Kirche_Neuwied.JPG
+---
 
 ## Overview
 

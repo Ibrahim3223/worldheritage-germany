@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/400px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/800px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/1200px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/1920px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg/1920px-Biberach_Spital_Fassade_zur_Viehmarktstraße.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/400px-Kellertheater_Ffm_Eingang_Pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/800px-Kellertheater_Ffm_Eingang_Pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/1200px-Kellertheater_Ffm_Eingang_Pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/1920px-Kellertheater_Ffm_Eingang_Pano.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kellertheater_Ffm_Eingang_Pano.jpg/1920px-Kellertheater_Ffm_Eingang_Pano.jpg
+---
 
 ## Overview
 

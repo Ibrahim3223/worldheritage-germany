@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/400px-Windstärke_10_außen_a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/800px-Windstärke_10_außen_a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/1200px-Windstärke_10_außen_a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/1920px-Windstärke_10_außen_a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Windstärke_10_außen_a.jpg/1920px-Windstärke_10_außen_a.jpg
+---
 
 ## Overview
 

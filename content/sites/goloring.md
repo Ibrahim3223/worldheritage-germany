@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/400px-Goloring.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/800px-Goloring.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/1200px-Goloring.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/1920px-Goloring.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Goloring.jpg/1920px-Goloring.jpg
+---
 
 ## Overview
 

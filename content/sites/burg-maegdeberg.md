@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/400px-Ruine_Maegdeberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/800px-Ruine_Maegdeberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1200px-Ruine_Maegdeberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1920px-Ruine_Maegdeberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1920px-Ruine_Maegdeberg.JPG
+---
 
 ## Overview
 

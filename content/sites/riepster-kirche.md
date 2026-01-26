@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/400px-ChurchRiepe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/800px-ChurchRiepe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/1200px-ChurchRiepe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/1920px-ChurchRiepe.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchRiepe.JPG/1920px-ChurchRiepe.JPG
+---
 
 ## Overview
 

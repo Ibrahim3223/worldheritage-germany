@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/400px-Truemmerfrau_Hasenheide3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/800px-Truemmerfrau_Hasenheide3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/1200px-Truemmerfrau_Hasenheide3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/1920px-Truemmerfrau_Hasenheide3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Truemmerfrau_Hasenheide3.JPG/1920px-Truemmerfrau_Hasenheide3.JPG
+---
 
 ## Overview
 

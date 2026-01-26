@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/400px-Lübeck_Buddenbrookhaus_070311.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/800px-Lübeck_Buddenbrookhaus_070311.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1200px-Lübeck_Buddenbrookhaus_070311.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1920px-Lübeck_Buddenbrookhaus_070311.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1920px-Lübeck_Buddenbrookhaus_070311.jpg
+---
 
 ## Overview
 

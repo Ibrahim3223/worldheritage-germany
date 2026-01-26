@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/400px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/800px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/1200px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/1920px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/1920px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
+---
 
 ## Overview
 

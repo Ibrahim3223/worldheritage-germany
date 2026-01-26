@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/400px-Guenter-Grass-Haus_Luebeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/800px-Guenter-Grass-Haus_Luebeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1200px-Guenter-Grass-Haus_Luebeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1920px-Guenter-Grass-Haus_Luebeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1920px-Guenter-Grass-Haus_Luebeck.jpg
+---
 
 ## Overview
 

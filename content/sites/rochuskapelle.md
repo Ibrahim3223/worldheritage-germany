@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/400px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/800px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/1200px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/1920px-Bingen_Rhein_Rochuskapelle_2009_4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bingen_Rhein_Rochuskapelle_2009_4.jpg/1920px-Bingen_Rhein_Rochuskapelle_2009_4.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/400px-Hohenstein_-_Amsel-Wasserfall03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/800px-Hohenstein_-_Amsel-Wasserfall03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1200px-Hohenstein_-_Amsel-Wasserfall03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1920px-Hohenstein_-_Amsel-Wasserfall03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1920px-Hohenstein_-_Amsel-Wasserfall03.jpg
+---
 
 ## Overview
 

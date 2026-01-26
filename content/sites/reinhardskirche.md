@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg/400px-Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg/800px-Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg/1200px-Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg/1920px-Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg/1920px-Bad_Nauheim-Reinhardskirche_von_Suedwesten-20140319.jpg
+---
 
 ## Overview
 

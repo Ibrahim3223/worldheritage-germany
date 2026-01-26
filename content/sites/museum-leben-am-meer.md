@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/400px-Mühle_in_Esens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/800px-Mühle_in_Esens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/1200px-Mühle_in_Esens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/1920px-Mühle_in_Esens.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mühle_in_Esens.jpg/1920px-Mühle_in_Esens.jpg
+---
 
 ## Overview
 

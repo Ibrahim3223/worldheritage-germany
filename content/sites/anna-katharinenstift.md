@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/400px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/800px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/1200px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/1920px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg/1920px-Kirchspiel,_Anna-Katharinenstift_--_2014_--_9195_--_Ausschnitt.jpg
+---
 
 ## Overview
 

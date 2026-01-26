@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/400px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/800px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/1200px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/1920px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg/1920px-Wuppertal_-_Gymnasium_Sedanstraße_11_ies.jpg
+---
 
 ## Overview
 

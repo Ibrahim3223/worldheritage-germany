@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/400px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/800px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/1200px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/1920px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG/1920px-Textil-_u._Rennsport-Museum_Hohenstein-Ernstthal.JPG
+---
 
 ## Overview
 

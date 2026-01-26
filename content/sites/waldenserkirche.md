@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/400px-Nordhausen-kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/800px-Nordhausen-kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/1200px-Nordhausen-kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/1920px-Nordhausen-kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nordhausen-kirche.jpg/1920px-Nordhausen-kirche.jpg
+---
 
 ## Overview
 

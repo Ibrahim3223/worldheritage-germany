@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/400px-Südamerika-Wiese.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/800px-Südamerika-Wiese.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/1200px-Südamerika-Wiese.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/1920px-Südamerika-Wiese.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Südamerika-Wiese.JPG/1920px-Südamerika-Wiese.JPG
+---
 
 ## Overview
 

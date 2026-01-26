@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/400px-Bahnhof_Altona_(Einfahrt).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/800px-Bahnhof_Altona_(Einfahrt).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1200px-Bahnhof_Altona_(Einfahrt).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1920px-Bahnhof_Altona_(Einfahrt).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1920px-Bahnhof_Altona_(Einfahrt).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/400px-Flottbektal_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/800px-Flottbektal_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1200px-Flottbektal_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1920px-Flottbektal_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1920px-Flottbektal_(2).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/400px-Waltersdorf_Dorfstraße_97.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/800px-Waltersdorf_Dorfstraße_97.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/1200px-Waltersdorf_Dorfstraße_97.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/1920px-Waltersdorf_Dorfstraße_97.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Waltersdorf_Dorfstraße_97.jpg/1920px-Waltersdorf_Dorfstraße_97.jpg
+---
 
 ## Overview
 

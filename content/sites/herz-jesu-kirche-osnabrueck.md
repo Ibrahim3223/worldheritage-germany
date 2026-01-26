@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/400px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/800px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/1200px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/1920px-Osnabrück_Herz-Jesu-Kirche_NW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Osnabrück_Herz-Jesu-Kirche_NW.jpg/1920px-Osnabrück_Herz-Jesu-Kirche_NW.jpg
+---
 
 ## Overview
 

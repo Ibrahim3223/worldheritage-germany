@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/400px-Kirche-quardratisch-2018.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/800px-Kirche-quardratisch-2018.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1200px-Kirche-quardratisch-2018.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1920px-Kirche-quardratisch-2018.gif---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1920px-Kirche-quardratisch-2018.gif
+---
 
 ## Overview
 

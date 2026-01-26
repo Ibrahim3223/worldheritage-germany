@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/400px-Herzberg_Elster.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/800px-Herzberg_Elster.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/1200px-Herzberg_Elster.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/1920px-Herzberg_Elster.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herzberg_Elster.JPG/1920px-Herzberg_Elster.JPG
+---
 
 ## Overview
 

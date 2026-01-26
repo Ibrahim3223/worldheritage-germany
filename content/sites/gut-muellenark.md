@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/400px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/800px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/1200px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/1920px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg/1920px-Inden-Schophoven_Denkmal-Nr._36,_Burg_Müllenark_(714).jpg
+---
 
 ## Overview
 

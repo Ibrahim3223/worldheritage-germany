@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/400px-Börry_Landarbeitsmuseum_Überblick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/800px-Börry_Landarbeitsmuseum_Überblick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/1200px-Börry_Landarbeitsmuseum_Überblick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/1920px-Börry_Landarbeitsmuseum_Überblick.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Börry_Landarbeitsmuseum_Überblick.jpg/1920px-Börry_Landarbeitsmuseum_Überblick.jpg
+---
 
 ## Overview
 

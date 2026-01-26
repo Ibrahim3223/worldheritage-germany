@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/400px-Grumbach1627.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/800px-Grumbach1627.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1200px-Grumbach1627.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1920px-Grumbach1627.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1920px-Grumbach1627.jpeg
+---
 
 ## Overview
 

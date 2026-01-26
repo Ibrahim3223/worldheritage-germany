@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/400px-Hallohkapelle_Nordwest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/800px-Hallohkapelle_Nordwest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/1200px-Hallohkapelle_Nordwest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/1920px-Hallohkapelle_Nordwest.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hallohkapelle_Nordwest.JPG/1920px-Hallohkapelle_Nordwest.JPG
+---
 
 ## Overview
 

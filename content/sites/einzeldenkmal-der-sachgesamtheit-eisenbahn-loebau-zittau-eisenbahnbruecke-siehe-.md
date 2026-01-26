@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Herrnhut-Brücke-Bleiche.jpg/400px-Herrnhut-Brücke-Bleiche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Herrnhut-Brücke-Bleiche.jpg/800px-Herrnhut-Brücke-Bleiche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Herrnhut-Brücke-Bleiche.jpg/1200px-Herrnhut-Brücke-Bleiche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Herrnhut-Brücke-Bleiche.jpg/1920px-Herrnhut-Brücke-Bleiche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Herrnhut-Brücke-Bleiche.jpg/1920px-Herrnhut-Brücke-Bleiche.jpg
+---
 
 ## Overview
 

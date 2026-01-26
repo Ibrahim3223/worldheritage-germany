@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/400px-2012_St._Jakobus_(Gielsdorf)4a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/800px-2012_St._Jakobus_(Gielsdorf)4a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/1200px-2012_St._Jakobus_(Gielsdorf)4a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/1920px-2012_St._Jakobus_(Gielsdorf)4a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2012_St._Jakobus_(Gielsdorf)4a.jpg/1920px-2012_St._Jakobus_(Gielsdorf)4a.jpg
+---
 
 ## Overview
 

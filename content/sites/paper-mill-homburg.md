@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg/400px-Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg/800px-Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg/1200px-Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg/1920px-Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg/1920px-Gartenstraße_11_Triefenstein,_Homburg_am_Main_20180728_001.jpg
+---
 
 ## Overview
 

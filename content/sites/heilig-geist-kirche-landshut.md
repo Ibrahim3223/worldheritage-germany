@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/400px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/800px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1200px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1920px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1920px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
+---
 
 ## Overview
 

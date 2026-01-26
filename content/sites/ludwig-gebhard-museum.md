@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/400px-Bild_Museum_Gebhard_01_4c.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/800px-Bild_Museum_Gebhard_01_4c.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/1200px-Bild_Museum_Gebhard_01_4c.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/1920px-Bild_Museum_Gebhard_01_4c.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bild_Museum_Gebhard_01_4c.jpg/1920px-Bild_Museum_Gebhard_01_4c.jpg
+---
 
 ## Overview
 

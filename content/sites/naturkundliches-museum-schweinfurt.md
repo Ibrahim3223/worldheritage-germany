@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/400px-NaturkundlichesMuseumSchweinfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/800px-NaturkundlichesMuseumSchweinfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/1200px-NaturkundlichesMuseumSchweinfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/1920px-NaturkundlichesMuseumSchweinfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaturkundlichesMuseumSchweinfurt.jpg/1920px-NaturkundlichesMuseumSchweinfurt.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/400px-Kehrwiederturm_002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/800px-Kehrwiederturm_002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/1200px-Kehrwiederturm_002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/1920px-Kehrwiederturm_002.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kehrwiederturm_002.jpg/1920px-Kehrwiederturm_002.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wilde_Schneeburg_01.JPG/400px-Wilde_Schneeburg_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wilde_Schneeburg_01.JPG/800px-Wilde_Schneeburg_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wilde_Schneeburg_01.JPG/1200px-Wilde_Schneeburg_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wilde_Schneeburg_01.JPG/1920px-Wilde_Schneeburg_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wilde_Schneeburg_01.JPG/1920px-Wilde_Schneeburg_01.JPG
+---
 
 ## Overview
 

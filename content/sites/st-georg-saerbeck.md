@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/400px-Kath_Kirche_Saerbeck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/800px-Kath_Kirche_Saerbeck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/1200px-Kath_Kirche_Saerbeck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/1920px-Kath_Kirche_Saerbeck.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kath_Kirche_Saerbeck.JPG/1920px-Kath_Kirche_Saerbeck.JPG
+---
 
 ## Overview
 

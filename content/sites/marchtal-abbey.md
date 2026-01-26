@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/400px-Klosterkirche-obermarchtal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/800px-Klosterkirche-obermarchtal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/1200px-Klosterkirche-obermarchtal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/1920px-Klosterkirche-obermarchtal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Klosterkirche-obermarchtal.jpg/1920px-Klosterkirche-obermarchtal.jpg
+---
 
 ## Overview
 

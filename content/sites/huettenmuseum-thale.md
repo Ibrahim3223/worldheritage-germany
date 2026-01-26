@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/400px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/800px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/1200px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/1920px-Thale_asv2018-10_img24_Ironworks_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thale_asv2018-10_img24_Ironworks_Museum.jpg/1920px-Thale_asv2018-10_img24_Ironworks_Museum.jpg
+---
 
 ## Overview
 

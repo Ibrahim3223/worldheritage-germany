@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EingangHSVMuseum.JPG/400px-EingangHSVMuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EingangHSVMuseum.JPG/800px-EingangHSVMuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EingangHSVMuseum.JPG/1200px-EingangHSVMuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EingangHSVMuseum.JPG/1920px-EingangHSVMuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EingangHSVMuseum.JPG/1920px-EingangHSVMuseum.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/400px-SigmaringenHedingerKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/800px-SigmaringenHedingerKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/1200px-SigmaringenHedingerKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/1920px-SigmaringenHedingerKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/SigmaringenHedingerKirche.jpg/1920px-SigmaringenHedingerKirche.jpg
+---
 
 ## Overview
 

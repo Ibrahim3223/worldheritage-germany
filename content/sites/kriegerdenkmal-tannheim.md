@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/400px-Kriegerdenkmal_Tannheim-h.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/800px-Kriegerdenkmal_Tannheim-h.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/1200px-Kriegerdenkmal_Tannheim-h.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/1920px-Kriegerdenkmal_Tannheim-h.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kriegerdenkmal_Tannheim-h.jpg/1920px-Kriegerdenkmal_Tannheim-h.jpg
+---
 
 ## Overview
 

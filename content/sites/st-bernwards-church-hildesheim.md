@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/400px-Hildesheim_St._Bernward.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/800px-Hildesheim_St._Bernward.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/1200px-Hildesheim_St._Bernward.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/1920px-Hildesheim_St._Bernward.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hildesheim_St._Bernward.jpg/1920px-Hildesheim_St._Bernward.jpg
+---
 
 ## Overview
 

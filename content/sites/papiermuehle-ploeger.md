@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/400px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/800px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/1200px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/1920px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg/1920px-Schieder-Schwalenberg_-_48_-_Im_Niesetal_11_(11).jpg
+---
 
 ## Overview
 

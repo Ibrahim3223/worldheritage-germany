@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/400px-Keppgrund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/800px-Keppgrund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/1200px-Keppgrund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/1920px-Keppgrund.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Keppgrund.jpg/1920px-Keppgrund.jpg
+---
 
 ## Overview
 

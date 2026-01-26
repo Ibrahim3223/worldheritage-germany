@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/400px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/800px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/1200px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/1920px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg/1920px-Hildesheim-St-_Lamberti-Neue_Turmhaube-001-Hildesia.jpg
+---
 
 ## Overview
 

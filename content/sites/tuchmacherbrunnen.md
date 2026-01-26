@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/400px-Tuchmacherbrunnen_Cottbus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/800px-Tuchmacherbrunnen_Cottbus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/1200px-Tuchmacherbrunnen_Cottbus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/1920px-Tuchmacherbrunnen_Cottbus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tuchmacherbrunnen_Cottbus.jpg/1920px-Tuchmacherbrunnen_Cottbus.jpg
+---
 
 ## Overview
 

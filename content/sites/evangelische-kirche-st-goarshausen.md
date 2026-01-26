@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/400px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/800px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/1200px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/1920px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg/1920px-Sankt_Goarshausen_Zais-Kirche_Umfeld.jpg
+---
 
 ## Overview
 

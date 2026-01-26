@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/400px-Guebskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/800px-Guebskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/1200px-Guebskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/1920px-Guebskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guebskirche.jpg/1920px-Guebskirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/400px-Schlagsdorfkirche01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/800px-Schlagsdorfkirche01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1200px-Schlagsdorfkirche01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1920px-Schlagsdorfkirche01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1920px-Schlagsdorfkirche01.jpg
+---
 
 ## Overview
 

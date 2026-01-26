@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Wilhelmplatz,_um_1901.jpg/400px-Berlin,_Wilhelmplatz,_um_1901.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Wilhelmplatz,_um_1901.jpg/800px-Berlin,_Wilhelmplatz,_um_1901.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Wilhelmplatz,_um_1901.jpg/1200px-Berlin,_Wilhelmplatz,_um_1901.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Wilhelmplatz,_um_1901.jpg/1920px-Berlin,_Wilhelmplatz,_um_1901.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Wilhelmplatz,_um_1901.jpg/1920px-Berlin,_Wilhelmplatz,_um_1901.jpg
+---
 
 ## Overview
 

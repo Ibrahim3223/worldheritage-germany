@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/400px-Schloss_Waldeck_vom_Schiff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/800px-Schloss_Waldeck_vom_Schiff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/1200px-Schloss_Waldeck_vom_Schiff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/1920px-Schloss_Waldeck_vom_Schiff.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schloss_Waldeck_vom_Schiff.jpg/1920px-Schloss_Waldeck_vom_Schiff.jpg
+---
 
 ## Overview
 

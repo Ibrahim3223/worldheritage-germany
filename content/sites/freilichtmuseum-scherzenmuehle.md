@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/400px-Weidenberg_Scherzenmühle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/800px-Weidenberg_Scherzenmühle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/1200px-Weidenberg_Scherzenmühle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/1920px-Weidenberg_Scherzenmühle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Weidenberg_Scherzenmühle.JPG/1920px-Weidenberg_Scherzenmühle.JPG
+---
 
 ## Overview
 

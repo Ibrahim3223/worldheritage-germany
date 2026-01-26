@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/400px-Forum_am_Dom_Osnabrück_8-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/800px-Forum_am_Dom_Osnabrück_8-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/1200px-Forum_am_Dom_Osnabrück_8-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/1920px-Forum_am_Dom_Osnabrück_8-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Forum_am_Dom_Osnabrück_8-2017.jpg/1920px-Forum_am_Dom_Osnabrück_8-2017.jpg
+---
 
 ## Overview
 

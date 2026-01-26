@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/400px-Burg_Kriebstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/800px-Burg_Kriebstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/1200px-Burg_Kriebstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/1920px-Burg_Kriebstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Kriebstein.jpg/1920px-Burg_Kriebstein.jpg
+---
 
 ## Overview
 

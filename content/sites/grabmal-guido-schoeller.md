@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg/400px-Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg/800px-Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg/1200px-Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg/1920px-Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg/1920px-Düren_Denkmal-Nr._1-055h,_Kölnstraße_Evang._Friedhof_(208).jpg
+---
 
 ## Overview
 

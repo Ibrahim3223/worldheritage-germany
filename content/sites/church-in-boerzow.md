@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/400px-Boerzow_Kirche_2009-01-02_038.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/800px-Boerzow_Kirche_2009-01-02_038.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1200px-Boerzow_Kirche_2009-01-02_038.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1920px-Boerzow_Kirche_2009-01-02_038.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1920px-Boerzow_Kirche_2009-01-02_038.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/400px-Historisches_Museum_Bremerhaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/800px-Historisches_Museum_Bremerhaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1200px-Historisches_Museum_Bremerhaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1920px-Historisches_Museum_Bremerhaven.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1920px-Historisches_Museum_Bremerhaven.jpg
+---
 
 ## Overview
 

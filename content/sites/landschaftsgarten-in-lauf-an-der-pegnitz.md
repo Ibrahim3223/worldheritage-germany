@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Siebenkeesstraße_Gartenpavillon.jpg/400px-Siebenkeesstraße_Gartenpavillon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Siebenkeesstraße_Gartenpavillon.jpg/800px-Siebenkeesstraße_Gartenpavillon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Siebenkeesstraße_Gartenpavillon.jpg/1200px-Siebenkeesstraße_Gartenpavillon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Siebenkeesstraße_Gartenpavillon.jpg/1920px-Siebenkeesstraße_Gartenpavillon.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Siebenkeesstraße_Gartenpavillon.jpg/1920px-Siebenkeesstraße_Gartenpavillon.jpg
+---
 
 ## Overview
 

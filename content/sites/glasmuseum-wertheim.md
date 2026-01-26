@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/400px-Glasmuseum_Wertheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/800px-Glasmuseum_Wertheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/1200px-Glasmuseum_Wertheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/1920px-Glasmuseum_Wertheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glasmuseum_Wertheim.JPG/1920px-Glasmuseum_Wertheim.JPG
+---
 
 ## Overview
 

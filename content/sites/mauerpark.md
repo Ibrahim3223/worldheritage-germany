@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mauerpark_1979.jpg/400px-Mauerpark_1979.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mauerpark_1979.jpg/800px-Mauerpark_1979.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mauerpark_1979.jpg/1200px-Mauerpark_1979.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mauerpark_1979.jpg/1920px-Mauerpark_1979.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mauerpark_1979.jpg/1920px-Mauerpark_1979.jpg
+---
 
 ## Overview
 

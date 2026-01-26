@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/400px-Schloss_Neuburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/800px-Schloss_Neuburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/1200px-Schloss_Neuburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/1920px-Schloss_Neuburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Neuburg.jpg/1920px-Schloss_Neuburg.jpg
+---
 
 ## Overview
 

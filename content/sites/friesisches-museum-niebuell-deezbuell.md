@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/400px-Friesisches_Museum_Niebuell_Deezbuell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/800px-Friesisches_Museum_Niebuell_Deezbuell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/1200px-Friesisches_Museum_Niebuell_Deezbuell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/1920px-Friesisches_Museum_Niebuell_Deezbuell.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Friesisches_Museum_Niebuell_Deezbuell.JPG/1920px-Friesisches_Museum_Niebuell_Deezbuell.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geilenkirchen_cw.jpg/400px-Geilenkirchen_cw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geilenkirchen_cw.jpg/800px-Geilenkirchen_cw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geilenkirchen_cw.jpg/1200px-Geilenkirchen_cw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geilenkirchen_cw.jpg/1920px-Geilenkirchen_cw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Geilenkirchen_cw.jpg/1920px-Geilenkirchen_cw.jpg
+---
 
 ## Overview
 

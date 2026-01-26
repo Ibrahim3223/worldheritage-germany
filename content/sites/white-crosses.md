@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/400px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/800px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/1200px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/1920px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg/1920px-Berlin,_Spreeufer,_Gedenkkreuze_für_Maueropfer_03.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/400px-Donaustauf_in_19th_century.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/800px-Donaustauf_in_19th_century.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1200px-Donaustauf_in_19th_century.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1920px-Donaustauf_in_19th_century.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1920px-Donaustauf_in_19th_century.jpg
+---
 
 ## Overview
 

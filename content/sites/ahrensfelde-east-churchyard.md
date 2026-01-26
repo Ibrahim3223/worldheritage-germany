@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/400px-Ostkirchhof_Hauptachse_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/800px-Ostkirchhof_Hauptachse_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/1200px-Ostkirchhof_Hauptachse_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/1920px-Ostkirchhof_Hauptachse_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ostkirchhof_Hauptachse_01.jpg/1920px-Ostkirchhof_Hauptachse_01.jpg
+---
 
 ## Overview
 

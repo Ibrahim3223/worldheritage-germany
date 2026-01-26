@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/400px-Hohe_Schule_Ingolstadt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/800px-Hohe_Schule_Ingolstadt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/1200px-Hohe_Schule_Ingolstadt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/1920px-Hohe_Schule_Ingolstadt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohe_Schule_Ingolstadt.JPG/1920px-Hohe_Schule_Ingolstadt.JPG
+---
 
 ## Overview
 

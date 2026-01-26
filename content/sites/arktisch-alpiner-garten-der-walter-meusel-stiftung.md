@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/400px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/800px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1200px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1920px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1920px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
+---
 
 ## Overview
 

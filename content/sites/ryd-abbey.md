@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/GedenksteinKlosterGlbg.jpg/400px-GedenksteinKlosterGlbg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/GedenksteinKlosterGlbg.jpg/800px-GedenksteinKlosterGlbg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/GedenksteinKlosterGlbg.jpg/1200px-GedenksteinKlosterGlbg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/GedenksteinKlosterGlbg.jpg/1920px-GedenksteinKlosterGlbg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/GedenksteinKlosterGlbg.jpg/1920px-GedenksteinKlosterGlbg.jpg
+---
 
 ## Overview
 

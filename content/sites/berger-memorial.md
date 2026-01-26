@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Witten_Bergerdenkmal.jpg/400px-Witten_Bergerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Witten_Bergerdenkmal.jpg/800px-Witten_Bergerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Witten_Bergerdenkmal.jpg/1200px-Witten_Bergerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Witten_Bergerdenkmal.jpg/1920px-Witten_Bergerdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Witten_Bergerdenkmal.jpg/1920px-Witten_Bergerdenkmal.jpg
+---
 
 ## Overview
 

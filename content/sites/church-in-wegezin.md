@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/400px-Wegezin_Kirche_Nordwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/800px-Wegezin_Kirche_Nordwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/1200px-Wegezin_Kirche_Nordwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/1920px-Wegezin_Kirche_Nordwest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wegezin_Kirche_Nordwest.jpg/1920px-Wegezin_Kirche_Nordwest.jpg
+---
 
 ## Overview
 

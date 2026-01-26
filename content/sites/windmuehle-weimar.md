@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/400px-HausSauckel2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/800px-HausSauckel2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/1200px-HausSauckel2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/1920px-HausSauckel2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/HausSauckel2.jpg/1920px-HausSauckel2.jpg
+---
 
 ## Overview
 

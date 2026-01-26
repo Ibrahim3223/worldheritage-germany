@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/400px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/800px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/1200px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/1920px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg/1920px-Grafschaftsdenkmal-Jöllenbeck-Adler-a.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/400px-Steinsfurt_Lichtspielhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/800px-Steinsfurt_Lichtspielhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/1200px-Steinsfurt_Lichtspielhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/1920px-Steinsfurt_Lichtspielhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Steinsfurt_Lichtspielhaus.jpg/1920px-Steinsfurt_Lichtspielhaus.jpg
+---
 
 ## Overview
 

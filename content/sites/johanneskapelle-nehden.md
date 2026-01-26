@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/400px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/800px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/1200px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/1920px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG/1920px-Brilon,_Nehden,_Kapelle_St._Johannes,_Eingangsansicht.JPG
+---
 
 ## Overview
 

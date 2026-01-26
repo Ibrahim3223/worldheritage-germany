@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg/400px-Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg/800px-Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg/1200px-Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg/1920px-Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg/1920px-Bad_Oeynhausen_Motor-Technica-Museum_2011.jpg
+---
 
 ## Overview
 

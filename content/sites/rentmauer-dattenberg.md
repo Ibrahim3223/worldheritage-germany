@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/400px-Felssporn_Dattenberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/800px-Felssporn_Dattenberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/1200px-Felssporn_Dattenberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/1920px-Felssporn_Dattenberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Felssporn_Dattenberg.JPG/1920px-Felssporn_Dattenberg.JPG
+---
 
 ## Overview
 

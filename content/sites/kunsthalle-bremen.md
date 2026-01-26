@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bremen,_die_Kunsthalle.JPG/400px-Bremen,_die_Kunsthalle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bremen,_die_Kunsthalle.JPG/800px-Bremen,_die_Kunsthalle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bremen,_die_Kunsthalle.JPG/1200px-Bremen,_die_Kunsthalle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bremen,_die_Kunsthalle.JPG/1920px-Bremen,_die_Kunsthalle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bremen,_die_Kunsthalle.JPG/1920px-Bremen,_die_Kunsthalle.JPG
+---
 
 ## Overview
 

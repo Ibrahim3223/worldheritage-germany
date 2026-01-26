@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/400px-Grüneck_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/800px-Grüneck_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1200px-Grüneck_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1920px-Grüneck_4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1920px-Grüneck_4.jpg
+---
 
 ## Overview
 

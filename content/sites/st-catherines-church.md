@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/400px-Katharinenkirche_Lübeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/800px-Katharinenkirche_Lübeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/1200px-Katharinenkirche_Lübeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/1920px-Katharinenkirche_Lübeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Katharinenkirche_Lübeck.jpg/1920px-Katharinenkirche_Lübeck.jpg
+---
 
 ## Overview
 

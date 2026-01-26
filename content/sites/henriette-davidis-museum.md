@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/400px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/800px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/1920px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/1920px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
+---
 
 ## Overview
 

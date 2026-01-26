@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg/400px-Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg/800px-Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg/1200px-Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg/1920px-Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg/1920px-Bad_Neustadt_an_der_Saale,_Rathausgasse_4,_Amtsgericht,_001.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/400px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/800px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/1200px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/1920px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg/1920px-Fassade_Ratinger_Strasse_15_in_Duesseldorf-Altstadt,_von_Nordosten.jpg
+---
 
 ## Overview
 

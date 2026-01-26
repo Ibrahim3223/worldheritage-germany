@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/400px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/800px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/1200px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/1920px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG/1920px-Neustadt-Glewe_Marienkirche_2012-09-12_010.JPG
+---
 
 ## Overview
 

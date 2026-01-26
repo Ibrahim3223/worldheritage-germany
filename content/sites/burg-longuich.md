@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/400px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/800px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/1200px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/1920px-Longuich,_sogenannte_Alte_Burg_20130701.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Longuich,_sogenannte_Alte_Burg_20130701.jpg/1920px-Longuich,_sogenannte_Alte_Burg_20130701.jpg
+---
 
 ## Overview
 

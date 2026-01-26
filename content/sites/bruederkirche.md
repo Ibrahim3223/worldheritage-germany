@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/400px-Altenburg_Brüderkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/800px-Altenburg_Brüderkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1200px-Altenburg_Brüderkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1920px-Altenburg_Brüderkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1920px-Altenburg_Brüderkirche.JPG
+---
 
 ## Overview
 

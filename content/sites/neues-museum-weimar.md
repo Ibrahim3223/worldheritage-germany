@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/400px-Weimar,_Museum_Neues_Weimar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/800px-Weimar,_Museum_Neues_Weimar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/1200px-Weimar,_Museum_Neues_Weimar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/1920px-Weimar,_Museum_Neues_Weimar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Weimar,_Museum_Neues_Weimar.jpg/1920px-Weimar,_Museum_Neues_Weimar.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/400px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/800px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/1200px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/1920px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20220825_xl_161722360_Heimatmuseum_Schliersee.jpg/1920px-20220825_xl_161722360_Heimatmuseum_Schliersee.jpg
+---
 
 ## Overview
 

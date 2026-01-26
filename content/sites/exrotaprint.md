@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/400px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/800px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/1200px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/1920px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gesundbrunnen_Rotaprint-Fabrik-003.jpg/1920px-Gesundbrunnen_Rotaprint-Fabrik-003.jpg
+---
 
 ## Overview
 

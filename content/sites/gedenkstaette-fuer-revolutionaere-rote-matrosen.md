@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/400px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/800px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
+---
 
 ## Overview
 

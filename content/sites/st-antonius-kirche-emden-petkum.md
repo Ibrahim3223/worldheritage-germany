@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/400px-ChurchPetkum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/800px-ChurchPetkum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/1200px-ChurchPetkum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/1920px-ChurchPetkum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ChurchPetkum.JPG/1920px-ChurchPetkum.JPG
+---
 
 ## Overview
 

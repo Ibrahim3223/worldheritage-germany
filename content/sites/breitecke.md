@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/400px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/800px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/1200px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/1920px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png/1920px-Schlitz_Pford_Fraurombach_Breitecke_NR_81455_Sign_N.png
+---
 
 ## Overview
 

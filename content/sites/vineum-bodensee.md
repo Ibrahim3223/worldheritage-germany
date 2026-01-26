@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/400px-Meersburg-vorburggasse-vineum-eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/800px-Meersburg-vorburggasse-vineum-eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/1200px-Meersburg-vorburggasse-vineum-eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/1920px-Meersburg-vorburggasse-vineum-eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Meersburg-vorburggasse-vineum-eingang.JPG/1920px-Meersburg-vorburggasse-vineum-eingang.JPG
+---
 
 ## Overview
 

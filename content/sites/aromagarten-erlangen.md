@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/400px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/800px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/1200px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/1920px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG/1920px-Knobloch_Aromagarten_Foto_Eingang_m_Beschriftung_2008.06.JPG
+---
 
 ## Overview
 

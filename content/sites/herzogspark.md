@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/400px-Prebrunnturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/800px-Prebrunnturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1200px-Prebrunnturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1920px-Prebrunnturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1920px-Prebrunnturm.jpg
+---
 
 ## Overview
 

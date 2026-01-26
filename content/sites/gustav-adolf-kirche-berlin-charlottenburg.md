@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/400px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/800px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1200px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1920px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1920px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
+---
 
 ## Overview
 

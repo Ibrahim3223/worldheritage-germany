@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_Hügel_in_Essen.jpg/400px-Villa_Hügel_in_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_Hügel_in_Essen.jpg/800px-Villa_Hügel_in_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_Hügel_in_Essen.jpg/1200px-Villa_Hügel_in_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_Hügel_in_Essen.jpg/1920px-Villa_Hügel_in_Essen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Villa_Hügel_in_Essen.jpg/1920px-Villa_Hügel_in_Essen.jpg
+---
 
 ## Overview
 

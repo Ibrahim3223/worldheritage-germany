@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/400px-SchlossMesskirchRemise.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/800px-SchlossMesskirchRemise.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/1200px-SchlossMesskirchRemise.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/1920px-SchlossMesskirchRemise.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SchlossMesskirchRemise.JPG/1920px-SchlossMesskirchRemise.JPG
+---
 
 ## Overview
 

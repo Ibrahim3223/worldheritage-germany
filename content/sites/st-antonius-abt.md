@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg/400px-Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg/800px-Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg/1200px-Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg/1920px-Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg/1920px-Ammeloe,_die_katholische_Rektoratskirche_Sankt_Antonius_Abt_Dm1_foto5_2015-08-22_15.10.jpg
+---
 
 ## Overview
 

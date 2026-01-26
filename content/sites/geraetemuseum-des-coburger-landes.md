@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/400px-Ahorn-Schaeferei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/800px-Ahorn-Schaeferei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/1200px-Ahorn-Schaeferei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/1920px-Ahorn-Schaeferei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ahorn-Schaeferei.jpg/1920px-Ahorn-Schaeferei.jpg
+---
 
 ## Overview
 

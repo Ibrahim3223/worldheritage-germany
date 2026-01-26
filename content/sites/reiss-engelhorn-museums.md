@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/400px-Reiss-Museum_Mannheim_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/800px-Reiss-Museum_Mannheim_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/1200px-Reiss-Museum_Mannheim_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/1920px-Reiss-Museum_Mannheim_Portal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reiss-Museum_Mannheim_Portal.jpg/1920px-Reiss-Museum_Mannheim_Portal.jpg
+---
 
 ## Overview
 

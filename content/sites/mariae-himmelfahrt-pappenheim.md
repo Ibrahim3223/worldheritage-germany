@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/400px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/800px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/1200px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/1920px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pappenheim_Mariä_Himmelfahrt_von_oben.jpg/1920px-Pappenheim_Mariä_Himmelfahrt_von_oben.jpg
+---
 
 ## Overview
 

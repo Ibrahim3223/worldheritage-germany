@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/400px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/800px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/1200px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/1920px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg/1920px-Dortmund_Museum_Kunst_Kulturgeschichte_IMGP8282.jpg
+---
 
 ## Overview
 

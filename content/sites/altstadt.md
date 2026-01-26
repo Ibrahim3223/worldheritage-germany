@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/400px-MzKirschgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/800px-MzKirschgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/1200px-MzKirschgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/1920px-MzKirschgarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MzKirschgarten.jpg/1920px-MzKirschgarten.jpg
+---
 
 ## Overview
 

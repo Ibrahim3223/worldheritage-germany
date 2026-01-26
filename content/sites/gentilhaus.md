@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/400px-Gentilhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/800px-Gentilhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1200px-Gentilhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1920px-Gentilhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1920px-Gentilhaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/400px-Hirschdenkmal_Stolberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/800px-Hirschdenkmal_Stolberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/1200px-Hirschdenkmal_Stolberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/1920px-Hirschdenkmal_Stolberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hirschdenkmal_Stolberg.JPG/1920px-Hirschdenkmal_Stolberg.JPG
+---
 
 ## Overview
 

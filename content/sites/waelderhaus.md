@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/400px-WÄLDERHAUS_HAMBURG.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/800px-WÄLDERHAUS_HAMBURG.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/1200px-WÄLDERHAUS_HAMBURG.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/1920px-WÄLDERHAUS_HAMBURG.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WÄLDERHAUS_HAMBURG.jpg/1920px-WÄLDERHAUS_HAMBURG.jpg
+---
 
 ## Overview
 

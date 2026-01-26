@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/400px-Erlachsee_am_Morgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/800px-Erlachsee_am_Morgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/1200px-Erlachsee_am_Morgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/1920px-Erlachsee_am_Morgen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Erlachsee_am_Morgen.jpg/1920px-Erlachsee_am_Morgen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/400px-Deutsches_Haus,_Flensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/800px-Deutsches_Haus,_Flensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/1200px-Deutsches_Haus,_Flensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/1920px-Deutsches_Haus,_Flensburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Deutsches_Haus,_Flensburg.JPG/1920px-Deutsches_Haus,_Flensburg.JPG
+---
 
 ## Overview
 

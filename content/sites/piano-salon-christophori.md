@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/400px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/800px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/1200px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/1920px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg/1920px-Uferstraße_8_(Berlin-Gesundbrunnen)_Erweiterung_der_Wagenreparaturwerkstatt.jpg
+---
 
 ## Overview
 

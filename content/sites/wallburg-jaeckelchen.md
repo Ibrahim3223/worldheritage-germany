@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/400px-Jäckelchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/800px-Jäckelchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/1200px-Jäckelchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/1920px-Jäckelchen-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jäckelchen-2.jpg/1920px-Jäckelchen-2.jpg
+---
 
 ## Overview
 

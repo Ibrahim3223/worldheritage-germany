@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/400px-Glasmuseum_Passau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/800px-Glasmuseum_Passau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1200px-Glasmuseum_Passau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1920px-Glasmuseum_Passau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1920px-Glasmuseum_Passau.JPG
+---
 
 ## Overview
 

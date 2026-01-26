@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/400px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/800px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/1200px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/1920px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg/1920px-Hanau_-_Schloss_Wilhelmsbad_-_Panorama_1127-52_b.jpg
+---
 
 ## Overview
 

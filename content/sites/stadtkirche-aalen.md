@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/400px-Stadtkirche_Aalen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/800px-Stadtkirche_Aalen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/1200px-Stadtkirche_Aalen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/1920px-Stadtkirche_Aalen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stadtkirche_Aalen.jpg/1920px-Stadtkirche_Aalen.jpg
+---
 
 ## Overview
 

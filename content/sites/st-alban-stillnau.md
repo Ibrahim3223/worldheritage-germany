@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/400px-Kirche_Stillnau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/800px-Kirche_Stillnau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/1200px-Kirche_Stillnau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/1920px-Kirche_Stillnau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirche_Stillnau.jpg/1920px-Kirche_Stillnau.jpg
+---
 
 ## Overview
 

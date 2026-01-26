@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/400px-Bärendenkmal_b._Bremer_Teich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/800px-Bärendenkmal_b._Bremer_Teich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/1200px-Bärendenkmal_b._Bremer_Teich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/1920px-Bärendenkmal_b._Bremer_Teich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bärendenkmal_b._Bremer_Teich.jpg/1920px-Bärendenkmal_b._Bremer_Teich.jpg
+---
 
 ## Overview
 

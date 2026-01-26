@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/400px-Synagoge_Haldensleben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/800px-Synagoge_Haldensleben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/1200px-Synagoge_Haldensleben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/1920px-Synagoge_Haldensleben.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Synagoge_Haldensleben.JPG/1920px-Synagoge_Haldensleben.JPG
+---
 
 ## Overview
 

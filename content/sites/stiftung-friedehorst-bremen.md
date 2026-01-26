@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/400px-Stiftung-Friedehorst_Hauptzufahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/800px-Stiftung-Friedehorst_Hauptzufahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/1200px-Stiftung-Friedehorst_Hauptzufahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/1920px-Stiftung-Friedehorst_Hauptzufahrt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stiftung-Friedehorst_Hauptzufahrt.jpg/1920px-Stiftung-Friedehorst_Hauptzufahrt.jpg
+---
 
 ## Overview
 

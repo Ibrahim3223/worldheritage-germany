@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/400px-Moschee_Freimann.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/800px-Moschee_Freimann.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1200px-Moschee_Freimann.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1920px-Moschee_Freimann.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1920px-Moschee_Freimann.JPG
+---
 
 ## Overview
 

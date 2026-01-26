@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/400px-ChurchBargebur.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/800px-ChurchBargebur.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1200px-ChurchBargebur.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1920px-ChurchBargebur.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1920px-ChurchBargebur.jpg
+---
 
 ## Overview
 

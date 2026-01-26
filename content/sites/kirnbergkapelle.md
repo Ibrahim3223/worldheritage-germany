@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/400px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/800px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/1200px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/1920px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG/1920px-Antdorf_-_Kirnbergkapelle_v_N,_Alpenpanorama.JPG
+---
 
 ## Overview
 

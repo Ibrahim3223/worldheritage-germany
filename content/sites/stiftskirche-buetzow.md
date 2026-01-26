@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/400px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/800px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/1200px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/1920px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg/1920px-Bützow_Stiftskirche_02_stitchhugin_2012-04-29.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/400px-Ingolstadt_Nord_MIN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/800px-Ingolstadt_Nord_MIN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1200px-Ingolstadt_Nord_MIN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1920px-Ingolstadt_Nord_MIN.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1920px-Ingolstadt_Nord_MIN.jpg
+---
 
 ## Overview
 

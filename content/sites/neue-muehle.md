@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/400px-Neue_Mühle_Erfurt_by_Stepro.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/800px-Neue_Mühle_Erfurt_by_Stepro.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/1200px-Neue_Mühle_Erfurt_by_Stepro.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/1920px-Neue_Mühle_Erfurt_by_Stepro.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Neue_Mühle_Erfurt_by_Stepro.jpg/1920px-Neue_Mühle_Erfurt_by_Stepro.jpg
+---
 
 ## Overview
 

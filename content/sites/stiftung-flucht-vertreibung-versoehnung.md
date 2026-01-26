@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/400px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/800px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/1200px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/1920px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg/1920px-Stiftung_Flucht,_Vertreibung,_Versöhnung.jpg
+---
 
 ## Overview
 

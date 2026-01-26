@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/400px-Kapelle_Fredeburg-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/800px-Kapelle_Fredeburg-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/1200px-Kapelle_Fredeburg-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/1920px-Kapelle_Fredeburg-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kapelle_Fredeburg-3.jpg/1920px-Kapelle_Fredeburg-3.jpg
+---
 
 ## Overview
 

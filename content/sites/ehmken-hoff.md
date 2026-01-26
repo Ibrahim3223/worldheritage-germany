@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/400px-Ehmken_Hoff_5043.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/800px-Ehmken_Hoff_5043.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/1200px-Ehmken_Hoff_5043.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/1920px-Ehmken_Hoff_5043.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ehmken_Hoff_5043.jpg/1920px-Ehmken_Hoff_5043.jpg
+---
 
 ## Overview
 

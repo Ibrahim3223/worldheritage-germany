@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/400px-Darmstadtia_im_Darmstadtium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/800px-Darmstadtia_im_Darmstadtium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/1200px-Darmstadtia_im_Darmstadtium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/1920px-Darmstadtia_im_Darmstadtium.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Darmstadtia_im_Darmstadtium.jpg/1920px-Darmstadtia_im_Darmstadtium.jpg
+---
 
 ## Overview
 

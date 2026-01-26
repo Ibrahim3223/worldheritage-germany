@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/400px-IllingenBergkapelleSeite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/800px-IllingenBergkapelleSeite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/1200px-IllingenBergkapelleSeite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/1920px-IllingenBergkapelleSeite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/1920px-IllingenBergkapelleSeite.jpg
+---
 
 ## Overview
 

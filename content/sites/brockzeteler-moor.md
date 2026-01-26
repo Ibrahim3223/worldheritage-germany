@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/400px-Brockzeteler_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/800px-Brockzeteler_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/1200px-Brockzeteler_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/1920px-Brockzeteler_Moor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brockzeteler_Moor.jpg/1920px-Brockzeteler_Moor.jpg
+---
 
 ## Overview
 

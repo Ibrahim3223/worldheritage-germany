@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/400px-Elstermühle7_2012b_I2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/800px-Elstermühle7_2012b_I2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/1200px-Elstermühle7_2012b_I2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/1920px-Elstermühle7_2012b_I2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elstermühle7_2012b_I2.jpg/1920px-Elstermühle7_2012b_I2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kapelle_alexisbad.jpg/400px-Kapelle_alexisbad.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kapelle_alexisbad.jpg/800px-Kapelle_alexisbad.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kapelle_alexisbad.jpg/1200px-Kapelle_alexisbad.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kapelle_alexisbad.jpg/1920px-Kapelle_alexisbad.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kapelle_alexisbad.jpg/1920px-Kapelle_alexisbad.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg/400px-Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg/800px-Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg/1200px-Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg/1920px-Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg/1920px-Köditz_im_Spätsommer_20240908_HOF3548_RAW-Export.jpg
+---
 
 ## Overview
 

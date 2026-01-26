@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/400px-20206021_Erbach-3.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/800px-20206021_Erbach-3.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1200px-20206021_Erbach-3.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1920px-20206021_Erbach-3.tif.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1920px-20206021_Erbach-3.tif.jpg
+---
 
 ## Overview
 

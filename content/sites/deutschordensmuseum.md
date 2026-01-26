@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/400px-Deutschordensmuseum_06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/800px-Deutschordensmuseum_06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/1200px-Deutschordensmuseum_06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/1920px-Deutschordensmuseum_06.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschordensmuseum_06.JPG/1920px-Deutschordensmuseum_06.JPG
+---
 
 ## Overview
 

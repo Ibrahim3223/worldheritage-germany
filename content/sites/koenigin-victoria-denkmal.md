@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/400px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/800px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/1200px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/1920px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Königin_Victoria_Denkmal_Hochheim_am_Main.JPG/1920px-Königin_Victoria_Denkmal_Hochheim_am_Main.JPG
+---
 
 ## Overview
 

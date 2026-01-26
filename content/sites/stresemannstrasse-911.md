@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/400px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/800px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/1200px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/1920px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG/1920px-Stresemannstraße_9-11_Vorderseite_(Quedlinburg).JPG
+---
 
 ## Overview
 

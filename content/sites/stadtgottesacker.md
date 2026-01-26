@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/400px-HAL-StadtgottesackerEingTorturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/800px-HAL-StadtgottesackerEingTorturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/1200px-HAL-StadtgottesackerEingTorturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/1920px-HAL-StadtgottesackerEingTorturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HAL-StadtgottesackerEingTorturm.JPG/1920px-HAL-StadtgottesackerEingTorturm.JPG
+---
 
 ## Overview
 

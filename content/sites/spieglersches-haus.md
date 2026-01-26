@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/400px-Spieglersches_Haus_Dresden_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/800px-Spieglersches_Haus_Dresden_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/1200px-Spieglersches_Haus_Dresden_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/1920px-Spieglersches_Haus_Dresden_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Spieglersches_Haus_Dresden_2013.jpg/1920px-Spieglersches_Haus_Dresden_2013.jpg
+---
 
 ## Overview
 

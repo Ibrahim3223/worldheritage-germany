@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/400px-Mayen,_Genovevaburcht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/800px-Mayen,_Genovevaburcht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/1200px-Mayen,_Genovevaburcht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/1920px-Mayen,_Genovevaburcht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mayen,_Genovevaburcht.jpg/1920px-Mayen,_Genovevaburcht.jpg
+---
 
 ## Overview
 

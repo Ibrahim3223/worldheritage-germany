@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/400px-Bad_Säckingen_2012-08-18_Mattes.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/800px-Bad_Säckingen_2012-08-18_Mattes.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/1200px-Bad_Säckingen_2012-08-18_Mattes.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/1920px-Bad_Säckingen_2012-08-18_Mattes.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bad_Säckingen_2012-08-18_Mattes.JPG/1920px-Bad_Säckingen_2012-08-18_Mattes.JPG
+---
 
 ## Overview
 

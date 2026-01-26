@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/400px-Euenheim_St.Brictius5516.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/800px-Euenheim_St.Brictius5516.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/1200px-Euenheim_St.Brictius5516.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/1920px-Euenheim_St.Brictius5516.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Euenheim_St.Brictius5516.JPG/1920px-Euenheim_St.Brictius5516.JPG
+---
 
 ## Overview
 

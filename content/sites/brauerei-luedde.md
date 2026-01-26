@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/400px-Quedlinburg_Brauerei_Lüdde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/800px-Quedlinburg_Brauerei_Lüdde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1200px-Quedlinburg_Brauerei_Lüdde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1920px-Quedlinburg_Brauerei_Lüdde.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1920px-Quedlinburg_Brauerei_Lüdde.JPG
+---
 
 ## Overview
 

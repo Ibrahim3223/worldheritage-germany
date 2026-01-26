@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/400px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/800px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1200px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1920px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1920px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
+---
 
 ## Overview
 

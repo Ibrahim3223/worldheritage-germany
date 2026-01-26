@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/400px-Nehrener_Wasserburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/800px-Nehrener_Wasserburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/1200px-Nehrener_Wasserburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/1920px-Nehrener_Wasserburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nehrener_Wasserburg.jpg/1920px-Nehrener_Wasserburg.jpg
+---
 
 ## Overview
 

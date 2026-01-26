@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/400px-Burg-Scharfenstein_Palas_20250403_105709.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/800px-Burg-Scharfenstein_Palas_20250403_105709.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/1200px-Burg-Scharfenstein_Palas_20250403_105709.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/1920px-Burg-Scharfenstein_Palas_20250403_105709.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg-Scharfenstein_Palas_20250403_105709.jpg/1920px-Burg-Scharfenstein_Palas_20250403_105709.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/400px-Burgruine_Hauenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/800px-Burgruine_Hauenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/1200px-Burgruine_Hauenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/1920px-Burgruine_Hauenstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burgruine_Hauenstein.JPG/1920px-Burgruine_Hauenstein.JPG
+---
 
 ## Overview
 

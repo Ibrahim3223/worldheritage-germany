@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/400px-Boeckingen-pankratius2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/800px-Boeckingen-pankratius2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/1200px-Boeckingen-pankratius2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/1920px-Boeckingen-pankratius2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Boeckingen-pankratius2008.jpg/1920px-Boeckingen-pankratius2008.jpg
+---
 
 ## Overview
 

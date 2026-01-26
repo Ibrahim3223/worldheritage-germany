@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg/400px-Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg/800px-Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg/1200px-Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg/1920px-Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg/1920px-Ellingen,_Schloßstraße,_Hofgarten_20170829_-003.jpg
+---
 
 ## Overview
 

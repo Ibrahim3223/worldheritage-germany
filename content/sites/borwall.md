@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/400px-Borwall_Modell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/800px-Borwall_Modell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/1200px-Borwall_Modell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/1920px-Borwall_Modell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Borwall_Modell.jpg/1920px-Borwall_Modell.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/400px-Mühle_Breckerfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/800px-Mühle_Breckerfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/1200px-Mühle_Breckerfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/1920px-Mühle_Breckerfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mühle_Breckerfeld.jpg/1920px-Mühle_Breckerfeld.jpg
+---
 
 ## Overview
 

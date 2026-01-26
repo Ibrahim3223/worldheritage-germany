@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/400px-Hannover_-_Martin_Luther.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/800px-Hannover_-_Martin_Luther.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/1200px-Hannover_-_Martin_Luther.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/1920px-Hannover_-_Martin_Luther.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hannover_-_Martin_Luther.jpg/1920px-Hannover_-_Martin_Luther.jpg
+---
 
 ## Overview
 

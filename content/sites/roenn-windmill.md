@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/400px-Scharmbecker_Muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/800px-Scharmbecker_Muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/1200px-Scharmbecker_Muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/1920px-Scharmbecker_Muehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Scharmbecker_Muehle.jpg/1920px-Scharmbecker_Muehle.jpg
+---
 
 ## Overview
 

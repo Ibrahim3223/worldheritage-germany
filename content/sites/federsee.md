@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/400px-Federsee-2012-08.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/800px-Federsee-2012-08.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1200px-Federsee-2012-08.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1920px-Federsee-2012-08.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1920px-Federsee-2012-08.jpeg
+---
 
 ## Overview
 

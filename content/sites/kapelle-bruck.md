@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/400px-Kapelle_Bruck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/800px-Kapelle_Bruck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/1200px-Kapelle_Bruck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/1920px-Kapelle_Bruck.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kapelle_Bruck.JPG/1920px-Kapelle_Bruck.JPG
+---
 
 ## Overview
 

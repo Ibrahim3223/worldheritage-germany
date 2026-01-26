@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/400px-Letmathe-HausLetmathe1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/800px-Letmathe-HausLetmathe1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1200px-Letmathe-HausLetmathe1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1920px-Letmathe-HausLetmathe1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1920px-Letmathe-HausLetmathe1-Bubo.JPG
+---
 
 ## Overview
 

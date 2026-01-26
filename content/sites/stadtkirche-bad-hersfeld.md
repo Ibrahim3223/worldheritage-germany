@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg/400px-Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg/800px-Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg/1200px-Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg/1920px-Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg/1920px-Bad_Hersfeld,_Ev._Stadtkirche-20160425-020.jpg
+---
 
 ## Overview
 

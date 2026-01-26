@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/400px-Liebieghaus_Galerieflügel_Haupteingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/800px-Liebieghaus_Galerieflügel_Haupteingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/1200px-Liebieghaus_Galerieflügel_Haupteingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/1920px-Liebieghaus_Galerieflügel_Haupteingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Liebieghaus_Galerieflügel_Haupteingang.jpg/1920px-Liebieghaus_Galerieflügel_Haupteingang.jpg
+---
 
 ## Overview
 

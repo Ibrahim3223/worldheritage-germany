@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goeppingen_Museum_Storchen.jpg/400px-Goeppingen_Museum_Storchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goeppingen_Museum_Storchen.jpg/800px-Goeppingen_Museum_Storchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goeppingen_Museum_Storchen.jpg/1200px-Goeppingen_Museum_Storchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goeppingen_Museum_Storchen.jpg/1920px-Goeppingen_Museum_Storchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Goeppingen_Museum_Storchen.jpg/1920px-Goeppingen_Museum_Storchen.jpg
+---
 
 ## Overview
 

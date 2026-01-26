@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/400px-ZKM_Kubus_.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/800px-ZKM_Kubus_.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/1200px-ZKM_Kubus_.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/1920px-ZKM_Kubus_.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ZKM_Kubus_.jpg/1920px-ZKM_Kubus_.jpg
+---
 
 ## Overview
 

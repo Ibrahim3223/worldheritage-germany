@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/400px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/800px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/1200px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/1920px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Betonzeitschiene_Ruairí_O'Brien.tif.jpg/1920px-Betonzeitschiene_Ruairí_O'Brien.tif.jpg
+---
 
 ## Overview
 

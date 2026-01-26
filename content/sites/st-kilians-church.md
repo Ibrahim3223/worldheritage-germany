@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/400px-Heilbronn-St._Kilian-12-2019-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/800px-Heilbronn-St._Kilian-12-2019-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/1200px-Heilbronn-St._Kilian-12-2019-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/1920px-Heilbronn-St._Kilian-12-2019-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Heilbronn-St._Kilian-12-2019-gje.jpg/1920px-Heilbronn-St._Kilian-12-2019-gje.jpg
+---
 
 ## Overview
 

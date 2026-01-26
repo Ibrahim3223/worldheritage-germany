@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/400px-St._Servatius_Bornheim_20130621.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/800px-St._Servatius_Bornheim_20130621.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/1200px-St._Servatius_Bornheim_20130621.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/1920px-St._Servatius_Bornheim_20130621.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Servatius_Bornheim_20130621.jpg/1920px-St._Servatius_Bornheim_20130621.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/400px-Teterow-rostocker-tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/800px-Teterow-rostocker-tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/1200px-Teterow-rostocker-tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/1920px-Teterow-rostocker-tor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teterow-rostocker-tor.jpg/1920px-Teterow-rostocker-tor.jpg
+---
 
 ## Overview
 

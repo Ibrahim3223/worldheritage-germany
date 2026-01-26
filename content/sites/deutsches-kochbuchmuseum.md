@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/400px-Davidis_Holle_1904.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/800px-Davidis_Holle_1904.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1200px-Davidis_Holle_1904.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1920px-Davidis_Holle_1904.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1920px-Davidis_Holle_1904.jpg
+---
 
 ## Overview
 

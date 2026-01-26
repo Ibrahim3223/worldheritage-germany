@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/400px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/800px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/1200px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/1920px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG/1920px-Nonnengänse_im_Naturschutzgebiet_Asselersand.JPG
+---
 
 ## Overview
 

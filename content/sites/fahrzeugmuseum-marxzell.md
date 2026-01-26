@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/400px-140907-Marxzell-Museum-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/800px-140907-Marxzell-Museum-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/1200px-140907-Marxzell-Museum-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/1920px-140907-Marxzell-Museum-04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/140907-Marxzell-Museum-04.jpg/1920px-140907-Marxzell-Museum-04.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/400px-Burg_Vogelsang.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/800px-Burg_Vogelsang.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/1200px-Burg_Vogelsang.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/1920px-Burg_Vogelsang.PNG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Vogelsang.PNG/1920px-Burg_Vogelsang.PNG
+---
 
 ## Overview
 

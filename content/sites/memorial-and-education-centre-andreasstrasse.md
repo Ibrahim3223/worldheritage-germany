@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/400px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/800px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/1200px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/1920px-Stasi_Memorial_Andreasstraße_Erfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Stasi_Memorial_Andreasstraße_Erfurt.JPG/1920px-Stasi_Memorial_Andreasstraße_Erfurt.JPG
+---
 
 ## Overview
 

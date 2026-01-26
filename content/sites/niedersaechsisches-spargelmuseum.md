@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/400px-Spargelmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/800px-Spargelmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/1200px-Spargelmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/1920px-Spargelmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Spargelmuseum.JPG/1920px-Spargelmuseum.JPG
+---
 
 ## Overview
 

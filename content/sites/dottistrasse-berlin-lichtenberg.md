@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg/400px-2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg/800px-2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg/1200px-2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg/1920px-2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg/1920px-2010-06-29_-_Lichtenberg_-_Angela_M._Arnold_fec_-_Postamt_Dottistraße.jpg
+---
 
 ## Overview
 

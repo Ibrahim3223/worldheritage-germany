@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/400px-St_Pauli_Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/800px-St_Pauli_Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/1200px-St_Pauli_Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/1920px-St_Pauli_Theater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Pauli_Theater.jpg/1920px-St_Pauli_Theater.jpg
+---
 
 ## Overview
 

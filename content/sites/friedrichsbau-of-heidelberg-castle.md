@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/400px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/800px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/1200px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/1920px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/1920px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+---
 
 ## Overview
 

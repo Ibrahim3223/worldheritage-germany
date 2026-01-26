@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/400px-Alfi_rgb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/800px-Alfi_rgb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/1200px-Alfi_rgb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/1920px-Alfi_rgb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Alfi_rgb.jpg/1920px-Alfi_rgb.jpg
+---
 
 ## Overview
 

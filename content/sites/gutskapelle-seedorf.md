@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/400px-SeedorfKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/800px-SeedorfKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/1200px-SeedorfKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/1920px-SeedorfKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SeedorfKirche.jpg/1920px-SeedorfKirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/400px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/800px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/1200px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/1920px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg/1920px-D-5-64-000-622_Zeltnerschloss_Nürnberg_20241110_0346.jpg
+---
 
 ## Overview
 

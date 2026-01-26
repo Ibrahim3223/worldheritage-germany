@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/400px-Schlangenkapelle_040108.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/800px-Schlangenkapelle_040108.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/1200px-Schlangenkapelle_040108.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/1920px-Schlangenkapelle_040108.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schlangenkapelle_040108.JPG/1920px-Schlangenkapelle_040108.JPG
+---
 
 ## Overview
 

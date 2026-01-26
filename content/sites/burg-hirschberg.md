@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/400px-Hirschberg-Hauff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/800px-Hirschberg-Hauff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/1200px-Hirschberg-Hauff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/1920px-Hirschberg-Hauff.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hirschberg-Hauff.jpg/1920px-Hirschberg-Hauff.jpg
+---
 
 ## Overview
 

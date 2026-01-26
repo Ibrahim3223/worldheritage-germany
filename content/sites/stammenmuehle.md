@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/400px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/800px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/1200px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/1920px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg/1920px-Nettetal-Hinsbeck_Denkmal-Nr._32,_Büschen_1a_(2372).jpg
+---
 
 ## Overview
 

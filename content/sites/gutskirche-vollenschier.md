@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/400px-Gutskirche_Vollenschier2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/800px-Gutskirche_Vollenschier2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1200px-Gutskirche_Vollenschier2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1920px-Gutskirche_Vollenschier2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1920px-Gutskirche_Vollenschier2.JPG
+---
 
 ## Overview
 

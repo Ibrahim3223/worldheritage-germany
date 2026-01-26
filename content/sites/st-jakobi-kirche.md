@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg/400px-St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg/800px-St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg/1200px-St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg/1920px-St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg/1920px-St.-Jakobi-Kirche_von_1899_in_Peine_IMG_2557.jpg
+---
 
 ## Overview
 

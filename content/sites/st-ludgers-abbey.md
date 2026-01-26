@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Klostergebaeude_und_Kirche_St._Ludgeri.JPG/400px-Klostergebaeude_und_Kirche_St._Ludgeri.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Klostergebaeude_und_Kirche_St._Ludgeri.JPG/800px-Klostergebaeude_und_Kirche_St._Ludgeri.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Klostergebaeude_und_Kirche_St._Ludgeri.JPG/1200px-Klostergebaeude_und_Kirche_St._Ludgeri.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Klostergebaeude_und_Kirche_St._Ludgeri.JPG/1920px-Klostergebaeude_und_Kirche_St._Ludgeri.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Klostergebaeude_und_Kirche_St._Ludgeri.JPG/1920px-Klostergebaeude_und_Kirche_St._Ludgeri.JPG
+---
 
 ## Overview
 

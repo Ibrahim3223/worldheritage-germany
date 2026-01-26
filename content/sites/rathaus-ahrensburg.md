@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/400px-Ahrensburg_-_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/800px-Ahrensburg_-_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/1200px-Ahrensburg_-_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/1920px-Ahrensburg_-_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ahrensburg_-_Rathaus.jpg/1920px-Ahrensburg_-_Rathaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/400px-Nideggen_-_panoramio_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/800px-Nideggen_-_panoramio_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/1200px-Nideggen_-_panoramio_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/1920px-Nideggen_-_panoramio_(3).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nideggen_-_panoramio_(3).jpg/1920px-Nideggen_-_panoramio_(3).jpg
+---
 
 ## Overview
 

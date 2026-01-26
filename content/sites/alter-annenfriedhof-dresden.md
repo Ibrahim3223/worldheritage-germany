@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg/400px-Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg/800px-Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg/1200px-Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg/1920px-Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg/1920px-Gedenkstätte_Februar_1945_Alter_Annenfriedhof_Dresden.jpg
+---
 
 ## Overview
 

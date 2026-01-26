@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/400px-Breites_Moor_bei_Eschede_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/800px-Breites_Moor_bei_Eschede_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1200px-Breites_Moor_bei_Eschede_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1920px-Breites_Moor_bei_Eschede_16.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1920px-Breites_Moor_bei_Eschede_16.JPG
+---
 
 ## Overview
 

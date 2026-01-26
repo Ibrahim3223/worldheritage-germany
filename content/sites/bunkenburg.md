@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/400px-Brunkenburg_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/800px-Brunkenburg_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1200px-Brunkenburg_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1920px-Brunkenburg_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1920px-Brunkenburg_Panorama.jpg
+---
 
 ## Overview
 

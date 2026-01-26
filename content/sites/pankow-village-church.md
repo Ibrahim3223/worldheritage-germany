@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/400px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/800px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
+---
 
 ## Overview
 

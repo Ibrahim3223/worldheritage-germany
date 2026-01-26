@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/400px-"Église_Saint-Laurent_de_Kalkhorst%22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%22Église_Saint-Laurent_de_Kalkhorst".jpg/800px-"Église_Saint-Laurent_de_Kalkhorst".jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/1200px-"Église_Saint-Laurent_de_Kalkhorst%22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%22Église_Saint-Laurent_de_Kalkhorst".jpg/1920px-"Église_Saint-Laurent_de_Kalkhorst".jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%22Église_Saint-Laurent_de_Kalkhorst".jpg/1920px-"Église_Saint-Laurent_de_Kalkhorst".jpg
+---
 
 ## Overview
 

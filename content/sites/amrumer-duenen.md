@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/400px-Amrumer_Dünen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/800px-Amrumer_Dünen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1200px-Amrumer_Dünen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1920px-Amrumer_Dünen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1920px-Amrumer_Dünen.jpg
+---
 
 ## Overview
 

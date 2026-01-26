@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/400px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/800px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/1200px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/1920px-Gerresheim_Friedhof_Obere_Kapelle.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerresheim_Friedhof_Obere_Kapelle.jpeg/1920px-Gerresheim_Friedhof_Obere_Kapelle.jpeg
+---
 
 ## Overview
 

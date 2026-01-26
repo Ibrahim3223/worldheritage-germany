@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kassel_asv2022-02_img17_Neue_Galerie.jpg/400px-Kassel_asv2022-02_img17_Neue_Galerie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kassel_asv2022-02_img17_Neue_Galerie.jpg/800px-Kassel_asv2022-02_img17_Neue_Galerie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kassel_asv2022-02_img17_Neue_Galerie.jpg/1200px-Kassel_asv2022-02_img17_Neue_Galerie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kassel_asv2022-02_img17_Neue_Galerie.jpg/1920px-Kassel_asv2022-02_img17_Neue_Galerie.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kassel_asv2022-02_img17_Neue_Galerie.jpg/1920px-Kassel_asv2022-02_img17_Neue_Galerie.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messeturm_München,_2013.JPG/400px-Messeturm_München,_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messeturm_München,_2013.JPG/800px-Messeturm_München,_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messeturm_München,_2013.JPG/1200px-Messeturm_München,_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messeturm_München,_2013.JPG/1920px-Messeturm_München,_2013.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Messeturm_München,_2013.JPG/1920px-Messeturm_München,_2013.JPG
+---
 
 ## Overview
 

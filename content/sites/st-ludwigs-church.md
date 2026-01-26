@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/400px-MKr14222_Ludwigs-Kirche_(Celle).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/800px-MKr14222_Ludwigs-Kirche_(Celle).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/1200px-MKr14222_Ludwigs-Kirche_(Celle).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/1920px-MKr14222_Ludwigs-Kirche_(Celle).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MKr14222_Ludwigs-Kirche_(Celle).jpg/1920px-MKr14222_Ludwigs-Kirche_(Celle).jpg
+---
 
 ## Overview
 

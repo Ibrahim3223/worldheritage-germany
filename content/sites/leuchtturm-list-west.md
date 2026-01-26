@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/400px-Sylt@Leuchtturm_List_West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/800px-Sylt@Leuchtturm_List_West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/1200px-Sylt@Leuchtturm_List_West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/1920px-Sylt@Leuchtturm_List_West.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sylt@Leuchtturm_List_West.jpg/1920px-Sylt@Leuchtturm_List_West.jpg
+---
 
 ## Overview
 

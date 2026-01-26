@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/400px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/800px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/1200px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/1920px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/1920px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
+---
 
 ## Overview
 

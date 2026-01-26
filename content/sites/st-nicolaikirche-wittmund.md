@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/400px-Wittmund,_St._Nicolaikirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/800px-Wittmund,_St._Nicolaikirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/1200px-Wittmund,_St._Nicolaikirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/1920px-Wittmund,_St._Nicolaikirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wittmund,_St._Nicolaikirche.JPG/1920px-Wittmund,_St._Nicolaikirche.JPG
+---
 
 ## Overview
 

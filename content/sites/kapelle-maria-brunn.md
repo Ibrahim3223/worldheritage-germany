@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VredenKapelleMaria-Brunn6.JPG/400px-VredenKapelleMaria-Brunn6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VredenKapelleMaria-Brunn6.JPG/800px-VredenKapelleMaria-Brunn6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VredenKapelleMaria-Brunn6.JPG/1200px-VredenKapelleMaria-Brunn6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VredenKapelleMaria-Brunn6.JPG/1920px-VredenKapelleMaria-Brunn6.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VredenKapelleMaria-Brunn6.JPG/1920px-VredenKapelleMaria-Brunn6.JPG
+---
 
 ## Overview
 

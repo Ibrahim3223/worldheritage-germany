@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/400px-Friedensglocke_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/800px-Friedensglocke_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/1200px-Friedensglocke_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/1920px-Friedensglocke_9.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Friedensglocke_9.jpg/1920px-Friedensglocke_9.jpg
+---
 
 ## Overview
 

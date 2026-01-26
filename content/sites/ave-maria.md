@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wallfahrtskirche_Ave_Maria.jpg/400px-Wallfahrtskirche_Ave_Maria.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wallfahrtskirche_Ave_Maria.jpg/800px-Wallfahrtskirche_Ave_Maria.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wallfahrtskirche_Ave_Maria.jpg/1200px-Wallfahrtskirche_Ave_Maria.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wallfahrtskirche_Ave_Maria.jpg/1920px-Wallfahrtskirche_Ave_Maria.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Wallfahrtskirche_Ave_Maria.jpg/1920px-Wallfahrtskirche_Ave_Maria.jpg
+---
 
 ## Overview
 

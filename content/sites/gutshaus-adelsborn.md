@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/400px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/800px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/1200px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/1920px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gutshaus_Adelsborn_Sammlung_Duncker.jpg/1920px-Gutshaus_Adelsborn_Sammlung_Duncker.jpg
+---
 
 ## Overview
 

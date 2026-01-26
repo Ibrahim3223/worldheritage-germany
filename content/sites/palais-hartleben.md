@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/400px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/800px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/1200px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/1920px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg/1920px-Braunfels-Palais-Hartleben-JR-E-3101-2019-04-20.jpg
+---
 
 ## Overview
 

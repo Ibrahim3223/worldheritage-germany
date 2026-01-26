@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/400px-Fernmeldeturm-Gruenwettersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/800px-Fernmeldeturm-Gruenwettersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/1200px-Fernmeldeturm-Gruenwettersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/1920px-Fernmeldeturm-Gruenwettersbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fernmeldeturm-Gruenwettersbach.jpg/1920px-Fernmeldeturm-Gruenwettersbach.jpg
+---
 
 ## Overview
 

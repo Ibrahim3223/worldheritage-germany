@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/400px-NeckarhausenSWXII26_1842.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/800px-NeckarhausenSWXII26_1842.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/1200px-NeckarhausenSWXII26_1842.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/1920px-NeckarhausenSWXII26_1842.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/NeckarhausenSWXII26_1842.jpg/1920px-NeckarhausenSWXII26_1842.jpg
+---
 
 ## Overview
 

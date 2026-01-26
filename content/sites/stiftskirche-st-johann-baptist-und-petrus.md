@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/400px-Bonn,_Stiftskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/800px-Bonn,_Stiftskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/1200px-Bonn,_Stiftskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/1920px-Bonn,_Stiftskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bonn,_Stiftskirche.jpg/1920px-Bonn,_Stiftskirche.jpg
+---
 
 ## Overview
 

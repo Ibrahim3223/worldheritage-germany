@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/400px-Kagenow_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/800px-Kagenow_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/1200px-Kagenow_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/1920px-Kagenow_Kirche_Südseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kagenow_Kirche_Südseite.jpg/1920px-Kagenow_Kirche_Südseite.jpg
+---
 
 ## Overview
 

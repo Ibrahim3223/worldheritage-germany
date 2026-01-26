@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/400px-Kloster_Gnadental_Neuss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/800px-Kloster_Gnadental_Neuss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/1200px-Kloster_Gnadental_Neuss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/1920px-Kloster_Gnadental_Neuss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kloster_Gnadental_Neuss.jpg/1920px-Kloster_Gnadental_Neuss.jpg
+---
 
 ## Overview
 

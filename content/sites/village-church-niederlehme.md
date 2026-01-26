@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/400px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/800px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1200px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1920px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1920px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
+---
 
 ## Overview
 

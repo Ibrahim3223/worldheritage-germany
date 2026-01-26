@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/400px-Schierker_Bergkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/800px-Schierker_Bergkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1200px-Schierker_Bergkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1920px-Schierker_Bergkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1920px-Schierker_Bergkirche.JPG
+---
 
 ## Overview
 

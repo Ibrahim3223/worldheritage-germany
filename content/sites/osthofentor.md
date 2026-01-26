@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/400px-Osthofentor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/800px-Osthofentor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/1200px-Osthofentor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/1920px-Osthofentor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osthofentor.JPG/1920px-Osthofentor.JPG
+---
 
 ## Overview
 

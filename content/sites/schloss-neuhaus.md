@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/400px-Luebben_Gut_Neuhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/800px-Luebben_Gut_Neuhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/1200px-Luebben_Gut_Neuhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/1920px-Luebben_Gut_Neuhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Luebben_Gut_Neuhaus.jpg/1920px-Luebben_Gut_Neuhaus.jpg
+---
 
 ## Overview
 

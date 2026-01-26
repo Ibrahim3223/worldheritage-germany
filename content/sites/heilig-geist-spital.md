@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/400px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/800px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/1200px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/1920px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg/1920px-Berlin,_Mitte,_Spandauer_Straße,_Heilig-Geist-Kapelle_01.jpg
+---
 
 ## Overview
 

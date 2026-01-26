@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/400px-Bassum_20090501_105.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/800px-Bassum_20090501_105.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/1200px-Bassum_20090501_105.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/1920px-Bassum_20090501_105.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bassum_20090501_105.JPG/1920px-Bassum_20090501_105.JPG
+---
 
 ## Overview
 

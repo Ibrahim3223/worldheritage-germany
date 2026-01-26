@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/400px-Dueren_Dicker_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/800px-Dueren_Dicker_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/1200px-Dueren_Dicker_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/1920px-Dueren_Dicker_Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dueren_Dicker_Turm.jpg/1920px-Dueren_Dicker_Turm.jpg
+---
 
 ## Overview
 

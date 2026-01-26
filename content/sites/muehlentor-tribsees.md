@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/400px-Tribsees_Muehlentor_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/800px-Tribsees_Muehlentor_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/1200px-Tribsees_Muehlentor_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/1920px-Tribsees_Muehlentor_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tribsees_Muehlentor_1.jpg/1920px-Tribsees_Muehlentor_1.jpg
+---
 
 ## Overview
 

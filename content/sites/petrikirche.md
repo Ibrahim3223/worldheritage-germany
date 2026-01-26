@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/400px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/800px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/1200px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/1920px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg/1920px-Petrikirche_in_Kleefeld_(Hannover)_IMG_1335.jpg
+---
 
 ## Overview
 

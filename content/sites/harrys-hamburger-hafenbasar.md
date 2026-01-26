@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/HarrysHamburgerHafenbasar.jpg/400px-HarrysHamburgerHafenbasar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/HarrysHamburgerHafenbasar.jpg/800px-HarrysHamburgerHafenbasar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/HarrysHamburgerHafenbasar.jpg/1200px-HarrysHamburgerHafenbasar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/HarrysHamburgerHafenbasar.jpg/1920px-HarrysHamburgerHafenbasar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/HarrysHamburgerHafenbasar.jpg/1920px-HarrysHamburgerHafenbasar.jpg
+---
 
 ## Overview
 

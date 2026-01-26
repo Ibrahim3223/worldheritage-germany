@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/400px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/800px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/1200px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/1920px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg/1920px-St._Benediktus_in_Duesseldorf-Heerdt,_von_Suedwesten.jpg
+---
 
 ## Overview
 

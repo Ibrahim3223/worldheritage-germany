@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/400px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/800px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/1200px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/1920px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg/1920px-Andernach_-_Schlossstraße_-_Schloss+Park_Burg_Namedy_02_ies.jpg
+---
 
 ## Overview
 

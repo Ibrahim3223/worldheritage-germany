@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/400px-Berlinische_Galerie_aussen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/800px-Berlinische_Galerie_aussen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1200px-Berlinische_Galerie_aussen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1920px-Berlinische_Galerie_aussen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1920px-Berlinische_Galerie_aussen.JPG
+---
 
 ## Overview
 

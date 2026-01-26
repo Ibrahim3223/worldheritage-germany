@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/400px-Borkum_Alter_Leuchtturm_2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/800px-Borkum_Alter_Leuchtturm_2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/1200px-Borkum_Alter_Leuchtturm_2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/1920px-Borkum_Alter_Leuchtturm_2015.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Borkum_Alter_Leuchtturm_2015.jpg/1920px-Borkum_Alter_Leuchtturm_2015.jpg
+---
 
 ## Overview
 

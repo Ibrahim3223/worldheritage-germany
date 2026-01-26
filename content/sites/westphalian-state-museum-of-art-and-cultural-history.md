@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg/400px-Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg/800px-Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg/1200px-Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg/1920px-Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg/1920px-Muenster_LWL_Museum_fuer_Kunst_und_Kultur_36.jpg
+---
 
 ## Overview
 

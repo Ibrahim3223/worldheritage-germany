@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/400px-Erdholländer_in_Werdum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/800px-Erdholländer_in_Werdum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/1200px-Erdholländer_in_Werdum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/1920px-Erdholländer_in_Werdum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Erdholländer_in_Werdum.JPG/1920px-Erdholländer_in_Werdum.JPG
+---
 
 ## Overview
 

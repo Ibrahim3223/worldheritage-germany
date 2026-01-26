@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/400px-Schloss_Dobbin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/800px-Schloss_Dobbin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/1200px-Schloss_Dobbin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/1920px-Schloss_Dobbin.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schloss_Dobbin.JPG/1920px-Schloss_Dobbin.JPG
+---
 
 ## Overview
 

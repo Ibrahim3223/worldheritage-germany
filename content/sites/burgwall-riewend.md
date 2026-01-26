@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/400px-BurgwallRiewend.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/800px-BurgwallRiewend.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/1200px-BurgwallRiewend.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/1920px-BurgwallRiewend.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BurgwallRiewend.jpg/1920px-BurgwallRiewend.jpg
+---
 
 ## Overview
 

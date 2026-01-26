@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/400px-Savigny-Platz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/800px-Savigny-Platz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/1200px-Savigny-Platz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/1920px-Savigny-Platz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Savigny-Platz.jpg/1920px-Savigny-Platz.jpg
+---
 
 ## Overview
 

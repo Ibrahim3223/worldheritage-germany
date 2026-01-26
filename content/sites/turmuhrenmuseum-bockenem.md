@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/400px-Haus_des_Turmuhrenmuseums.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/800px-Haus_des_Turmuhrenmuseums.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/1200px-Haus_des_Turmuhrenmuseums.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/1920px-Haus_des_Turmuhrenmuseums.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Haus_des_Turmuhrenmuseums.jpg/1920px-Haus_des_Turmuhrenmuseums.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/400px-Danneil.Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/800px-Danneil.Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/1200px-Danneil.Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/1920px-Danneil.Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Danneil.Museum.jpg/1920px-Danneil.Museum.jpg
+---
 
 ## Overview
 

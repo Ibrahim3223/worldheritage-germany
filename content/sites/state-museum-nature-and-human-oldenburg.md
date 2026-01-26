@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/400px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/800px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/1200px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/1920px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg/1920px-Landesmuseum_Natur_und_Mensch_in_Oldenburg.jpg
+---
 
 ## Overview
 

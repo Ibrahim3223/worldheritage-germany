@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bf-d-wehrhahn.jpg/400px-Bf-d-wehrhahn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bf-d-wehrhahn.jpg/800px-Bf-d-wehrhahn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bf-d-wehrhahn.jpg/1200px-Bf-d-wehrhahn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bf-d-wehrhahn.jpg/1920px-Bf-d-wehrhahn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bf-d-wehrhahn.jpg/1920px-Bf-d-wehrhahn.jpg
+---
 
 ## Overview
 

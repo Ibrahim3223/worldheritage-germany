@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/400px-Itzehoe_NIK_1066.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/800px-Itzehoe_NIK_1066.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/1200px-Itzehoe_NIK_1066.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/1920px-Itzehoe_NIK_1066.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Itzehoe_NIK_1066.JPG/1920px-Itzehoe_NIK_1066.JPG
+---
 
 ## Overview
 

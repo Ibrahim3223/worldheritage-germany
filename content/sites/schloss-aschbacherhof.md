@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/400px-Aschacherhof2.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/800px-Aschacherhof2.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/1200px-Aschacherhof2.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/1920px-Aschacherhof2.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aschacherhof2.png/1920px-Aschacherhof2.png
+---
 
 ## Overview
 

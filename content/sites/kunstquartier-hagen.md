@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/400px-Hagener_Museumsquartier.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/800px-Hagener_Museumsquartier.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/1200px-Hagener_Museumsquartier.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/1920px-Hagener_Museumsquartier.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hagener_Museumsquartier.JPG/1920px-Hagener_Museumsquartier.JPG
+---
 
 ## Overview
 

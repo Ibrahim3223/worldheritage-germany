@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/400px-Reclam-Regalwand_(Marquardt).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/800px-Reclam-Regalwand_(Marquardt).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/1200px-Reclam-Regalwand_(Marquardt).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/1920px-Reclam-Regalwand_(Marquardt).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reclam-Regalwand_(Marquardt).JPG/1920px-Reclam-Regalwand_(Marquardt).JPG
+---
 
 ## Overview
 

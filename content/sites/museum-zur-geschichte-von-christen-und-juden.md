@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/400px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/800px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/1200px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/1920px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_zur_Geschichte_von_Christen_und_Juden.jpg/1920px-Museum_zur_Geschichte_von_Christen_und_Juden.jpg
+---
 
 ## Overview
 

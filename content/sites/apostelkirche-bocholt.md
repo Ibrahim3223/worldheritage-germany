@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/400px-Apostelkirche_(Bocholt)_autostitch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/800px-Apostelkirche_(Bocholt)_autostitch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1200px-Apostelkirche_(Bocholt)_autostitch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1920px-Apostelkirche_(Bocholt)_autostitch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1920px-Apostelkirche_(Bocholt)_autostitch.jpg
+---
 
 ## Overview
 

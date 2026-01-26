@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/400px-Vorsperre-Okertalsperre2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/800px-Vorsperre-Okertalsperre2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/1200px-Vorsperre-Okertalsperre2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/1920px-Vorsperre-Okertalsperre2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vorsperre-Okertalsperre2.JPG/1920px-Vorsperre-Okertalsperre2.JPG
+---
 
 ## Overview
 

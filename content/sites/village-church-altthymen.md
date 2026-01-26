@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/400px-Church_in_Altthymen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/800px-Church_in_Altthymen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/1200px-Church_in_Altthymen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/1920px-Church_in_Altthymen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Church_in_Altthymen1.JPG/1920px-Church_in_Altthymen1.JPG
+---
 
 ## Overview
 

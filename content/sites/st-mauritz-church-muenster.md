@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/400px-MuensterMauritzkirche2961.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/800px-MuensterMauritzkirche2961.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/1200px-MuensterMauritzkirche2961.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/1920px-MuensterMauritzkirche2961.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MuensterMauritzkirche2961.jpg/1920px-MuensterMauritzkirche2961.jpg
+---
 
 ## Overview
 

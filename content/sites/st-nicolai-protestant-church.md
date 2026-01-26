@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/400px-B_SchmiedebergStadtkirche2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/800px-B_SchmiedebergStadtkirche2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/1200px-B_SchmiedebergStadtkirche2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/1920px-B_SchmiedebergStadtkirche2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/B_SchmiedebergStadtkirche2.JPG/1920px-B_SchmiedebergStadtkirche2.JPG
+---
 
 ## Overview
 

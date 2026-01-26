@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg/400px-Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg/800px-Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg/1200px-Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg/1920px-Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg/1920px-Bielefeld_Denkmal_Am_Stadtholz_24-26.jpg
+---
 
 ## Overview
 

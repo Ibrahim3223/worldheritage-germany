@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/400px-Tucherschloss--.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/800px-Tucherschloss--.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/1200px-Tucherschloss--.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/1920px-Tucherschloss--.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tucherschloss--.jpg/1920px-Tucherschloss--.jpg
+---
 
 ## Overview
 

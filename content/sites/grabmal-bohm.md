@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/400px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/800px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/1200px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/1920px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG/1920px-Friedhof_Fredersdorf_-_Grabmal_Bohm_4.JPG
+---
 
 ## Overview 
 

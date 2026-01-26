@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/400px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/800px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/1200px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/1920px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg/1920px-Landappbw_263032_1820_Stadtkirche_St._Jakobus_Brackenheim.jpg
+---
 
 ## Overview
 

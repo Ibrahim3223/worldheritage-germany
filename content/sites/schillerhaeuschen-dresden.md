@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/400px-Schillerhäuschen_Dresden_und_Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/800px-Schillerhäuschen_Dresden_und_Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/1200px-Schillerhäuschen_Dresden_und_Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/1920px-Schillerhäuschen_Dresden_und_Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schillerhäuschen_Dresden_und_Denkmal.jpg/1920px-Schillerhäuschen_Dresden_und_Denkmal.jpg
+---
 
 ## Overview
 

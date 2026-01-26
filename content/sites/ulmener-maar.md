@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ulmenermaar01.jpg/400px-Ulmenermaar01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ulmenermaar01.jpg/800px-Ulmenermaar01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ulmenermaar01.jpg/1200px-Ulmenermaar01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ulmenermaar01.jpg/1920px-Ulmenermaar01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ulmenermaar01.jpg/1920px-Ulmenermaar01.jpg
+---
 
 ## Overview
 

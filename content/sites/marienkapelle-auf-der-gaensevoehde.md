@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/400px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/800px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/1200px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/1920px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG/1920px-Werl,_Kapelle_auf_der_Gänsevöhde_1.JPG
+---
 
 ## Overview
 

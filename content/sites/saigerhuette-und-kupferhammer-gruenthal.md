@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg/400px-20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg/800px-20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg/1200px-20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg/1920px-20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg/1920px-20030607290DR_Grünthal_(Olbernhau)_Saigerhütte.jpg
+---
 
 ## Overview
 

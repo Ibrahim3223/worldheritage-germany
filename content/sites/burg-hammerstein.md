@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burgfelsen_in_Hammerstein_(Kandern).jpg/400px-Burgfelsen_in_Hammerstein_(Kandern).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burgfelsen_in_Hammerstein_(Kandern).jpg/800px-Burgfelsen_in_Hammerstein_(Kandern).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burgfelsen_in_Hammerstein_(Kandern).jpg/1200px-Burgfelsen_in_Hammerstein_(Kandern).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burgfelsen_in_Hammerstein_(Kandern).jpg/1920px-Burgfelsen_in_Hammerstein_(Kandern).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burgfelsen_in_Hammerstein_(Kandern).jpg/1920px-Burgfelsen_in_Hammerstein_(Kandern).jpg
+---
 
 ## Overview
 

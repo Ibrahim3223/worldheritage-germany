@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/400px-WP_Atelier.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/800px-WP_Atelier.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/1200px-WP_Atelier.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/1920px-WP_Atelier.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/WP_Atelier.jpg/1920px-WP_Atelier.jpg
+---
 
 ## Overview
 

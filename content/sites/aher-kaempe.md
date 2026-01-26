@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/400px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/800px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/1200px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/1920px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg/1920px-Kulturlandschaft_im_Naturschutzgebiet_Aher_Kämpe_mit_Wiese,_Hecken_und_Bäumen.jpg
+---
 
 ## Overview
 

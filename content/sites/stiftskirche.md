@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/400px-Baden-Baden_Stiftskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/800px-Baden-Baden_Stiftskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/1200px-Baden-Baden_Stiftskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/1920px-Baden-Baden_Stiftskirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Baden-Baden_Stiftskirche.JPG/1920px-Baden-Baden_Stiftskirche.JPG
+---
 
 ## Overview
 

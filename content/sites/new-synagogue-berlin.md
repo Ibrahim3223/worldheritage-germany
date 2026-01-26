@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/400px-Berlin_Neue_Synagoge_2005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/800px-Berlin_Neue_Synagoge_2005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/1200px-Berlin_Neue_Synagoge_2005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/1920px-Berlin_Neue_Synagoge_2005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Berlin_Neue_Synagoge_2005.jpg/1920px-Berlin_Neue_Synagoge_2005.jpg
+---
 
 ## Overview
 

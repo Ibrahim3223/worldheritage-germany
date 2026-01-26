@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/400px-Hohennagold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/800px-Hohennagold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1200px-Hohennagold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1920px-Hohennagold.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1920px-Hohennagold.jpg
+---
 
 ## Overview
 

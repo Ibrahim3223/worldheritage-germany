@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/400px-Mainz_Schoppenstecher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/800px-Mainz_Schoppenstecher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/1200px-Mainz_Schoppenstecher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/1920px-Mainz_Schoppenstecher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mainz_Schoppenstecher.jpg/1920px-Mainz_Schoppenstecher.jpg
+---
 
 ## Overview
 

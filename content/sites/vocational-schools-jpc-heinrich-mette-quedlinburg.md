@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/400px-Bossestraße_3_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/800px-Bossestraße_3_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/1200px-Bossestraße_3_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/1920px-Bossestraße_3_(Quedlinburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bossestraße_3_(Quedlinburg).JPG/1920px-Bossestraße_3_(Quedlinburg).JPG
+---
 
 ## Overview
 

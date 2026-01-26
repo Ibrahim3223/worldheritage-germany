@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/400px-Halle_Marienbibliothek_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/800px-Halle_Marienbibliothek_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/1200px-Halle_Marienbibliothek_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/1920px-Halle_Marienbibliothek_außen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Halle_Marienbibliothek_außen.jpg/1920px-Halle_Marienbibliothek_außen.jpg
+---
 
 ## Overview
 

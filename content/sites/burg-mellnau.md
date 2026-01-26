@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/400px-Burg_Mellnau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/800px-Burg_Mellnau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/1200px-Burg_Mellnau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/1920px-Burg_Mellnau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Mellnau.JPG/1920px-Burg_Mellnau.JPG
+---
 
 ## Overview
 

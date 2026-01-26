@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/400px-2020_Abensberg_Hundertwasserhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/800px-2020_Abensberg_Hundertwasserhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/1200px-2020_Abensberg_Hundertwasserhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/1920px-2020_Abensberg_Hundertwasserhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2020_Abensberg_Hundertwasserhaus.jpg/1920px-2020_Abensberg_Hundertwasserhaus.jpg
+---
 
 ## Overview
 

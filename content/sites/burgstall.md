@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/400px-BurgsinnSchlossWest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/800px-BurgsinnSchlossWest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/1200px-BurgsinnSchlossWest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/1920px-BurgsinnSchlossWest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BurgsinnSchlossWest.jpg/1920px-BurgsinnSchlossWest.jpg
+---
 
 ## Overview
 

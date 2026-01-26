@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/400px-Limburg_weilheim_teck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/800px-Limburg_weilheim_teck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/1200px-Limburg_weilheim_teck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/1920px-Limburg_weilheim_teck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Limburg_weilheim_teck.jpg/1920px-Limburg_weilheim_teck.jpg
+---
 
 ## Overview
 

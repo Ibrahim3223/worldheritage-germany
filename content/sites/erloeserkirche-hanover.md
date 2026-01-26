@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/400px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/800px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/1200px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/1920px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/1920px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
+---
 
 ## Overview
 

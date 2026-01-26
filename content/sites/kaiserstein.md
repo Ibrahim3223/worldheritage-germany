@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/400px-Kaiserstein_Hemmingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/800px-Kaiserstein_Hemmingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/1200px-Kaiserstein_Hemmingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/1920px-Kaiserstein_Hemmingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kaiserstein_Hemmingen.jpg/1920px-Kaiserstein_Hemmingen.jpg
+---
 
 ## Overview
 

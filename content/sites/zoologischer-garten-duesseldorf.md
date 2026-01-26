@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/400px-Zoologischer_Garten_Duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/800px-Zoologischer_Garten_Duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/1200px-Zoologischer_Garten_Duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/1920px-Zoologischer_Garten_Duesseldorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zoologischer_Garten_Duesseldorf.jpg/1920px-Zoologischer_Garten_Duesseldorf.jpg
+---
 
 ## Overview
 

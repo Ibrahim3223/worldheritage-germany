@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/400px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/800px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/1200px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/1920px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg/1920px-Einbeck,_Benser_Straße,_Mühlgraben_der_Oberen_Mühle_20171204_001.jpg
+---
 
 ## Overview
 

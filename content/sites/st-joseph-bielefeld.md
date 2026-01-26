@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/400px-Bielefeld_-_Mitte_-_St_Josef.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/800px-Bielefeld_-_Mitte_-_St_Josef.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/1200px-Bielefeld_-_Mitte_-_St_Josef.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/1920px-Bielefeld_-_Mitte_-_St_Josef.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bielefeld_-_Mitte_-_St_Josef.jpg/1920px-Bielefeld_-_Mitte_-_St_Josef.jpg
+---
 
 ## Overview
 

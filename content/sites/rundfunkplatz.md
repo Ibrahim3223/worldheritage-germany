@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/400px-Rundfunkplatz_gesamtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/800px-Rundfunkplatz_gesamtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/1200px-Rundfunkplatz_gesamtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/1920px-Rundfunkplatz_gesamtansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rundfunkplatz_gesamtansicht.jpg/1920px-Rundfunkplatz_gesamtansicht.jpg
+---
 
 ## Overview
 

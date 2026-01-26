@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rheinsberg_Keramikmuseum_asv2024-03.jpg/400px-Rheinsberg_Keramikmuseum_asv2024-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rheinsberg_Keramikmuseum_asv2024-03.jpg/800px-Rheinsberg_Keramikmuseum_asv2024-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rheinsberg_Keramikmuseum_asv2024-03.jpg/1200px-Rheinsberg_Keramikmuseum_asv2024-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rheinsberg_Keramikmuseum_asv2024-03.jpg/1920px-Rheinsberg_Keramikmuseum_asv2024-03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rheinsberg_Keramikmuseum_asv2024-03.jpg/1920px-Rheinsberg_Keramikmuseum_asv2024-03.jpg
+---
 
 ## Overview
 

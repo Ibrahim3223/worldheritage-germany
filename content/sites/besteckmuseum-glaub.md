@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/400px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/800px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/1200px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/1920px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg/1920px-Besteckhaus_Besteckmuseum_Glaub,_Detail_Fassade_-4708.jpg
+---
 
 ## Overview
 

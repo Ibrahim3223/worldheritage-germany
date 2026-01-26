@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/400px-Elfenbeinmuseum_Erbach_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/800px-Elfenbeinmuseum_Erbach_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1200px-Elfenbeinmuseum_Erbach_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1920px-Elfenbeinmuseum_Erbach_aussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1920px-Elfenbeinmuseum_Erbach_aussen.jpg
+---
 
 ## Overview
 

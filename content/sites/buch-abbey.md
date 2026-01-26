@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/400px-Kloster_Buch_Kreuzgangbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/800px-Kloster_Buch_Kreuzgangbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/1200px-Kloster_Buch_Kreuzgangbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/1920px-Kloster_Buch_Kreuzgangbereich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kloster_Buch_Kreuzgangbereich.jpg/1920px-Kloster_Buch_Kreuzgangbereich.jpg
+---
 
 ## Overview
 

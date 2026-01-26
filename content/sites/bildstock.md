@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/400px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/800px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/1200px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/1920px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg/1920px-Kronach_-_Melchior-Otto-Platz_-_Ehrensäule_-_2014-11.jpg
+---
 
 ## Overview
 

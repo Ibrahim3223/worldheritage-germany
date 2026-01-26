@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/400px-Liebfrauenkirche_Park_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/800px-Liebfrauenkirche_Park_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/1200px-Liebfrauenkirche_Park_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/1920px-Liebfrauenkirche_Park_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liebfrauenkirche_Park_2.JPG/1920px-Liebfrauenkirche_Park_2.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/400px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/800px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/1200px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/1920px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg/1920px-Al-Nur-Moschee_Haberstraße_Berlin_mapillary1.jpg
+---
 
 ## Overview
 

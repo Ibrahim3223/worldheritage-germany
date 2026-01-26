@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/400px-Broegberner_teiche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/800px-Broegberner_teiche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/1200px-Broegberner_teiche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/1920px-Broegberner_teiche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Broegberner_teiche.jpg/1920px-Broegberner_teiche.jpg
+---
 
 ## Overview
 

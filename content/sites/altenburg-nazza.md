@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/400px-Burgstelle_Altenburg_bei_Nazza.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/800px-Burgstelle_Altenburg_bei_Nazza.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/1200px-Burgstelle_Altenburg_bei_Nazza.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/1920px-Burgstelle_Altenburg_bei_Nazza.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burgstelle_Altenburg_bei_Nazza.jpg/1920px-Burgstelle_Altenburg_bei_Nazza.jpg
+---
 
 ## Overview
 

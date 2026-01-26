@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/400px-Kirche_Dagebüll.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/800px-Kirche_Dagebüll.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/1200px-Kirche_Dagebüll.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/1920px-Kirche_Dagebüll.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Dagebüll.jpg/1920px-Kirche_Dagebüll.jpg
+---
 
 ## Overview
 

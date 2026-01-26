@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/400px-SCHALOM-Haus_haus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/800px-SCHALOM-Haus_haus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/1200px-SCHALOM-Haus_haus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/1920px-SCHALOM-Haus_haus1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SCHALOM-Haus_haus1.jpg/1920px-SCHALOM-Haus_haus1.jpg
+---
 
 ## Overview
 

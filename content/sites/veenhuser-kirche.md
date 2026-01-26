@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/400px-ChurchVeenhusen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/800px-ChurchVeenhusen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/1200px-ChurchVeenhusen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/1920px-ChurchVeenhusen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChurchVeenhusen.jpg/1920px-ChurchVeenhusen.jpg
+---
 
 ## Overview
 

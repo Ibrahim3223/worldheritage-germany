@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/400px-Evang_Kirche_Graevenwiesbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/800px-Evang_Kirche_Graevenwiesbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1200px-Evang_Kirche_Graevenwiesbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1920px-Evang_Kirche_Graevenwiesbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1920px-Evang_Kirche_Graevenwiesbach.jpg
+---
 
 ## Overview
 

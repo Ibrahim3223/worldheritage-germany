@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/18-09-19-Kassel-DJI_0096.jpg/400px-18-09-19-Kassel-DJI_0096.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/18-09-19-Kassel-DJI_0096.jpg/800px-18-09-19-Kassel-DJI_0096.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/18-09-19-Kassel-DJI_0096.jpg/1200px-18-09-19-Kassel-DJI_0096.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/18-09-19-Kassel-DJI_0096.jpg/1920px-18-09-19-Kassel-DJI_0096.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/18-09-19-Kassel-DJI_0096.jpg/1920px-18-09-19-Kassel-DJI_0096.jpg
+---
 
 ## Overview
 

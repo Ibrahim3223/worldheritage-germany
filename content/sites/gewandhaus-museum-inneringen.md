@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/400px-Gewandhaus_Museum_Inneringen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/800px-Gewandhaus_Museum_Inneringen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/1200px-Gewandhaus_Museum_Inneringen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/1920px-Gewandhaus_Museum_Inneringen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gewandhaus_Museum_Inneringen.JPG/1920px-Gewandhaus_Museum_Inneringen.JPG
+---
 
 ## Overview
 

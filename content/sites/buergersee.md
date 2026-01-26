@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/400px-Penkun_Buergersee_Karte.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/800px-Penkun_Buergersee_Karte.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/1200px-Penkun_Buergersee_Karte.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/1920px-Penkun_Buergersee_Karte.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Penkun_Buergersee_Karte.png/1920px-Penkun_Buergersee_Karte.png
+---
 
 ## Overview
 

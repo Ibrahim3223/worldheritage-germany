@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/400px-Bochum,_Glockenturm_der_Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/800px-Bochum,_Glockenturm_der_Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1200px-Bochum,_Glockenturm_der_Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1920px-Bochum,_Glockenturm_der_Christuskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1920px-Bochum,_Glockenturm_der_Christuskirche.jpg
+---
 
 ## Overview
 

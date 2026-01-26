@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/400px-Steinach-Dr.-Max-Volk-Str21.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/800px-Steinach-Dr.-Max-Volk-Str21.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/1200px-Steinach-Dr.-Max-Volk-Str21.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/1920px-Steinach-Dr.-Max-Volk-Str21.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Steinach-Dr.-Max-Volk-Str21.jpg/1920px-Steinach-Dr.-Max-Volk-Str21.jpg
+---
 
 ## Overview
 

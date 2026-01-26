@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/400px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/800px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/1200px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/1920px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg/1920px-Museumseingang_Museum_am_Schölerberg_Osnabrück.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/400px-Kassel_Karlskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/800px-Kassel_Karlskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/1200px-Kassel_Karlskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/1920px-Kassel_Karlskirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kassel_Karlskirche.JPG/1920px-Kassel_Karlskirche.JPG
+---
 
 ## Overview
 

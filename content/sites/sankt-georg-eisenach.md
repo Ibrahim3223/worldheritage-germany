@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/400px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/800px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/1200px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/1920px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Georgenkirche_von_Norden_Eisenach_20191004_010.jpg/1920px-Georgenkirche_von_Norden_Eisenach_20191004_010.jpg
+---
 
 ## Overview
 

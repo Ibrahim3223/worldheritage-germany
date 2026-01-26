@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/400px-Bienenmuseum_Weimar.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/800px-Bienenmuseum_Weimar.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1200px-Bienenmuseum_Weimar.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1920px-Bienenmuseum_Weimar.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1920px-Bienenmuseum_Weimar.JPG
+---
 
 ## Overview
 

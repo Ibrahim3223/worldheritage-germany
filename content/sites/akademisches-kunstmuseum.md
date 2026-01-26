@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/400px-20070404_bonn_akademischemuseum04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/800px-20070404_bonn_akademischemuseum04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1200px-20070404_bonn_akademischemuseum04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1920px-20070404_bonn_akademischemuseum04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1920px-20070404_bonn_akademischemuseum04.jpg
+---
 
 ## Overview
 

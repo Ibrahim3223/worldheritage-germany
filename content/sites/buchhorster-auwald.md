@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/400px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/800px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/1200px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/1920px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg/1920px-Blick_auf_den_Buchhorster_Auwald,_NSG_HA_036-Landkreis_Nienburg,_Niedersachsen.jpg
+---
 
 ## Overview
 

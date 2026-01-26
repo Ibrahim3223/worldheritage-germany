@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/400px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/800px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1200px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1920px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1920px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
+---
 
 ## Overview
 

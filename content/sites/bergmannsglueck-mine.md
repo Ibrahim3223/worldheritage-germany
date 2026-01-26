@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/400px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/800px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/1200px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/1920px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg/1920px-Bundesarchiv_B_145_Bild-F015017-0006,_Zeche_Bergmannsglück,_Gelsenkirchen-Buer.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/400px-BWGelsenkirchenBismarckSchuppen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/800px-BWGelsenkirchenBismarckSchuppen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/1200px-BWGelsenkirchenBismarckSchuppen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/1920px-BWGelsenkirchenBismarckSchuppen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BWGelsenkirchenBismarckSchuppen.jpg/1920px-BWGelsenkirchenBismarckSchuppen.jpg
+---
 
 ## Overview
 

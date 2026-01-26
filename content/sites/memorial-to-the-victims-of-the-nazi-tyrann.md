@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/400px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/800px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/1200px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/1920px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg/1920px-Platz-der-Opfer-des-Nationalsozialismus-Feb-2014.jpg
+---
 
 ## Overview
 

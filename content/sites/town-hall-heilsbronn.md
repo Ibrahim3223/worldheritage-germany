@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/400px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/800px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/1200px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/1920px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg/1920px-Rathaus_Kammereckerplatz_1_Heilsbronn_(1).jpg
+---
 
 ## Overview
 

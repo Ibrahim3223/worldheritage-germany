@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/400px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/800px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/1200px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/1920px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg/1920px-Esterwegen_-_Hinterm_Busch_-_Gedenkstätte_052_ies.jpg
+---
 
 ## Overview
 

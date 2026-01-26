@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg/400px-20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg/800px-20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg/1200px-20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg/1920px-20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg/1920px-20240317_xl_1645-Lutherdenkmal_Bad_Schandau.jpg
+---
 
 ## Overview
 

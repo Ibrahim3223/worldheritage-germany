@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg/400px-Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg/800px-Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg/1200px-Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg/1920px-Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg/1920px-Steinbachtalsperre_(Nordrhein-Westfalen)_001x.jpg
+---
 
 ## Overview
 

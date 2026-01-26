@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/400px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/800px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/1200px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/1920px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg/1920px-2009-11-01_Bahnhofsgebaeude_Siegburg_Gleisseite.jpg
+---
 
 ## Overview
 

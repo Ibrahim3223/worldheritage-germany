@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/400px-Wismar_St._Georgen_2008-06-10_059.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/800px-Wismar_St._Georgen_2008-06-10_059.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1200px-Wismar_St._Georgen_2008-06-10_059.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1920px-Wismar_St._Georgen_2008-06-10_059.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1920px-Wismar_St._Georgen_2008-06-10_059.jpg
+---
 
 ## Overview
 

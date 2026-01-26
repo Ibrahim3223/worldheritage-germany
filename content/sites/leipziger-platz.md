@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leipziger_Platz_Berlin_-_von_oben.jpg/400px-Leipziger_Platz_Berlin_-_von_oben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leipziger_Platz_Berlin_-_von_oben.jpg/800px-Leipziger_Platz_Berlin_-_von_oben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leipziger_Platz_Berlin_-_von_oben.jpg/1200px-Leipziger_Platz_Berlin_-_von_oben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leipziger_Platz_Berlin_-_von_oben.jpg/1920px-Leipziger_Platz_Berlin_-_von_oben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Leipziger_Platz_Berlin_-_von_oben.jpg/1920px-Leipziger_Platz_Berlin_-_von_oben.jpg
+---
 
 ## Overview
 

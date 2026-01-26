@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/400px-Schwieberdingen_Georgskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/800px-Schwieberdingen_Georgskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/1200px-Schwieberdingen_Georgskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/1920px-Schwieberdingen_Georgskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schwieberdingen_Georgskirche.jpg/1920px-Schwieberdingen_Georgskirche.jpg
+---
 
 ## Overview
 

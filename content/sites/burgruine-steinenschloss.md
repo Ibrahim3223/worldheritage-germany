@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/400px-Steinenschloss_mauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/800px-Steinenschloss_mauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1200px-Steinenschloss_mauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1920px-Steinenschloss_mauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1920px-Steinenschloss_mauer.jpg
+---
 
 ## Overview
 

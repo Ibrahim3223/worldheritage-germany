@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/400px-Universitätsbibliothek_Bochum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/800px-Universitätsbibliothek_Bochum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/1200px-Universitätsbibliothek_Bochum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/1920px-Universitätsbibliothek_Bochum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Universitätsbibliothek_Bochum.jpg/1920px-Universitätsbibliothek_Bochum.jpg
+---
 
 ## Overview
 

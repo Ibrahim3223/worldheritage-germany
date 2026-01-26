@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/400px-Buxtehude_Heimatmuseum_BMK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/800px-Buxtehude_Heimatmuseum_BMK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/1200px-Buxtehude_Heimatmuseum_BMK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/1920px-Buxtehude_Heimatmuseum_BMK.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Buxtehude_Heimatmuseum_BMK.jpg/1920px-Buxtehude_Heimatmuseum_BMK.jpg
+---
 
 ## Overview
 

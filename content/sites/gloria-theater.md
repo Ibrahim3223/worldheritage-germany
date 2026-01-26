@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/400px-Gloria-Theater-Koeln-Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/800px-Gloria-Theater-Koeln-Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/1200px-Gloria-Theater-Koeln-Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/1920px-Gloria-Theater-Koeln-Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/1920px-Gloria-Theater-Koeln-Aussenansicht.jpg
+---
 
 ## Overview
 

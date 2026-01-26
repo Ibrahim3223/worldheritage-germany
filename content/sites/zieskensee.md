@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zieskensee_bei_Puchow.jpg/400px-Zieskensee_bei_Puchow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zieskensee_bei_Puchow.jpg/800px-Zieskensee_bei_Puchow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zieskensee_bei_Puchow.jpg/1200px-Zieskensee_bei_Puchow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zieskensee_bei_Puchow.jpg/1920px-Zieskensee_bei_Puchow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zieskensee_bei_Puchow.jpg/1920px-Zieskensee_bei_Puchow.jpg
+---
 
 ## Overview
 

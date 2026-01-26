@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/400px-Potsdam_Jaegertor_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/800px-Potsdam_Jaegertor_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1200px-Potsdam_Jaegertor_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1920px-Potsdam_Jaegertor_07-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1920px-Potsdam_Jaegertor_07-2017.jpg
+---
 
 ## Overview
 

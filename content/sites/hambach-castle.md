@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/400px-Hambacherschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/800px-Hambacherschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1200px-Hambacherschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1920px-Hambacherschloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1920px-Hambacherschloss.jpg
+---
 
 ## Overview
 

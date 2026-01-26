@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/400px-Bürgersaalkirche_München,_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/800px-Bürgersaalkirche_München,_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/1200px-Bürgersaalkirche_München,_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/1920px-Bürgersaalkirche_München,_Außenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bürgersaalkirche_München,_Außenansicht.jpg/1920px-Bürgersaalkirche_München,_Außenansicht.jpg
+---
 
 ## Overview
 

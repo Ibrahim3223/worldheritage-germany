@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/400px-Loewenstein_Freihaus_20070407.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/800px-Loewenstein_Freihaus_20070407.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/1200px-Loewenstein_Freihaus_20070407.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/1920px-Loewenstein_Freihaus_20070407.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loewenstein_Freihaus_20070407.jpg/1920px-Loewenstein_Freihaus_20070407.jpg
+---
 
 ## Overview
 

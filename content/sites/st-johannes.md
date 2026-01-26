@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/400px-Johanneskirche_web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/800px-Johanneskirche_web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/1200px-Johanneskirche_web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/1920px-Johanneskirche_web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Johanneskirche_web.jpg/1920px-Johanneskirche_web.jpg
+---
 
 ## Overview
 

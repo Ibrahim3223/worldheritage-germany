@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/400px-HH-Altona_Volkspark_o.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/800px-HH-Altona_Volkspark_o.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1200px-HH-Altona_Volkspark_o.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1920px-HH-Altona_Volkspark_o.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1920px-HH-Altona_Volkspark_o.jpg
+---
 
 ## Overview
 

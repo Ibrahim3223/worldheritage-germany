@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Schloss_Rossewitz.jpg/400px-Schloss_Rossewitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Schloss_Rossewitz.jpg/800px-Schloss_Rossewitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Schloss_Rossewitz.jpg/1200px-Schloss_Rossewitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Schloss_Rossewitz.jpg/1920px-Schloss_Rossewitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Schloss_Rossewitz.jpg/1920px-Schloss_Rossewitz.jpg
+---
 
 ## Overview
 

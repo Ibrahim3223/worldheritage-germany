@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/400px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/800px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/1200px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/1920px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg/1920px-Worms-_Am_Rhein-_Hagendenkmal_16.6.2013.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/400px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/800px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/1200px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/1920px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/MJK33041_Viceroy's_House_(Berlinale_2017).jpg/1920px-MJK33041_Viceroy's_House_(Berlinale_2017).jpg
+---
 
 ## Overview
 

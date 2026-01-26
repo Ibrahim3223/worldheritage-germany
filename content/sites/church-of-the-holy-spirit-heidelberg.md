@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/400px-Heidelberg_20060420_021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/800px-Heidelberg_20060420_021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/1200px-Heidelberg_20060420_021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/1920px-Heidelberg_20060420_021.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heidelberg_20060420_021.jpg/1920px-Heidelberg_20060420_021.jpg
+---
 
 ## Overview
 

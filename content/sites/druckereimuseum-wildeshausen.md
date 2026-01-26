@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/400px-Druckereimuseum_Wildeshausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/800px-Druckereimuseum_Wildeshausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/1200px-Druckereimuseum_Wildeshausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/1920px-Druckereimuseum_Wildeshausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Druckereimuseum_Wildeshausen.jpg/1920px-Druckereimuseum_Wildeshausen.jpg
+---
 
 ## Overview
 

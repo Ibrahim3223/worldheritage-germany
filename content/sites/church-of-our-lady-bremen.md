@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/400px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/800px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/1200px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/1920px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg/1920px-Bremen_Liebfrauenkirche_aus_der_Hakenstr987.jpg
+---
 
 ## Overview
 

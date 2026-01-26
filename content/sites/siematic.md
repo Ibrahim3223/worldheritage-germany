@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/400px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/800px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/1200px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/1920px-August-Wilhelm-Siekmann-Forum_Löhne.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/August-Wilhelm-Siekmann-Forum_Löhne.jpg/1920px-August-Wilhelm-Siekmann-Forum_Löhne.jpg
+---
 
 ## Overview
 

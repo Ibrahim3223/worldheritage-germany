@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ChurchOchtelbur.JPG/400px-ChurchOchtelbur.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ChurchOchtelbur.JPG/800px-ChurchOchtelbur.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ChurchOchtelbur.JPG/1200px-ChurchOchtelbur.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ChurchOchtelbur.JPG/1920px-ChurchOchtelbur.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ChurchOchtelbur.JPG/1920px-ChurchOchtelbur.JPG
+---
 
 ## Overview
 

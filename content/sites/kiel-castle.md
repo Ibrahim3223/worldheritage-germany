@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/400px-Kieler_Slott_ole_un_modern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/800px-Kieler_Slott_ole_un_modern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/1200px-Kieler_Slott_ole_un_modern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/1920px-Kieler_Slott_ole_un_modern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kieler_Slott_ole_un_modern.jpg/1920px-Kieler_Slott_ole_un_modern.jpg
+---
 
 ## Overview
 

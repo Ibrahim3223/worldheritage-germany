@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/400px-Neunkirchen_Saar_Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/800px-Neunkirchen_Saar_Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/1200px-Neunkirchen_Saar_Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/1920px-Neunkirchen_Saar_Christuskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Neunkirchen_Saar_Christuskirche.jpg/1920px-Neunkirchen_Saar_Christuskirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/400px-Fg080509_10dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/800px-Fg080509_10dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1200px-Fg080509_10dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1920px-Fg080509_10dom.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1920px-Fg080509_10dom.jpg
+---
 
 ## Overview
 

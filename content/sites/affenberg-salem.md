@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/400px-Affenberg_Salem_Hauptgebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/800px-Affenberg_Salem_Hauptgebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/1200px-Affenberg_Salem_Hauptgebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/1920px-Affenberg_Salem_Hauptgebäude.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Affenberg_Salem_Hauptgebäude.JPG/1920px-Affenberg_Salem_Hauptgebäude.JPG
+---
 
 ## Overview
 

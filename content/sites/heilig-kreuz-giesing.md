@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/400px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/800px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1200px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1920px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1920px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
+---
 
 ## Overview
 

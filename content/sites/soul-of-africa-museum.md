@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/400px-Soul_of_Africa_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/800px-Soul_of_Africa_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/1200px-Soul_of_Africa_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/1920px-Soul_of_Africa_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Soul_of_Africa_Museum.jpg/1920px-Soul_of_Africa_Museum.jpg
+---
 
 ## Overview
 

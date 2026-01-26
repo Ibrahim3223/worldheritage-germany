@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/400px-AußenansichtAugust-Schärttner-Halle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/800px-AußenansichtAugust-Schärttner-Halle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/1200px-AußenansichtAugust-Schärttner-Halle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/1920px-AußenansichtAugust-Schärttner-Halle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/AußenansichtAugust-Schärttner-Halle.JPG/1920px-AußenansichtAugust-Schärttner-Halle.JPG
+---
 
 ## Overview
 

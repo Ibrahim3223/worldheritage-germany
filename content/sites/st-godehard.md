@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/400px-Godehardkirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/800px-Godehardkirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/1200px-Godehardkirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/1920px-Godehardkirche_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Godehardkirche_Hannover.jpg/1920px-Godehardkirche_Hannover.jpg
+---
 
 ## Overview
 

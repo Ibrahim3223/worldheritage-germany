@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/400px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/800px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/1200px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/1920px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg/1920px-Warendorf_-_Vohren,_Affhüppen_Kapelle.jpg
+---
 
 ## Overview
 

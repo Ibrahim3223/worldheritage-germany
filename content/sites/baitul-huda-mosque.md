@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/400px-Baitul-Huda-Moschee_Usingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/800px-Baitul-Huda-Moschee_Usingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1200px-Baitul-Huda-Moschee_Usingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1920px-Baitul-Huda-Moschee_Usingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1920px-Baitul-Huda-Moschee_Usingen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/400px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/800px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/1200px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/1920px-Ehem._Simeonkirche_Hamburg-Hamm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ehem._Simeonkirche_Hamburg-Hamm.jpg/1920px-Ehem._Simeonkirche_Hamburg-Hamm.jpg
+---
 
 ## Overview
 

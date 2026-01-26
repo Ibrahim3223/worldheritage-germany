@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/400px-Dalí_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/800px-Dalí_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/1200px-Dalí_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/1920px-Dalí_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dalí_Berlin.jpg/1920px-Dalí_Berlin.jpg
+---
 
 ## Overview
 

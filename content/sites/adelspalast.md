@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg/400px-Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg/800px-Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg/1200px-Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg/1920px-Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg/1920px-Bamberg,_Obere_Sandstraße_8,_20150911,_001.jpg
+---
 
 ## Overview
 

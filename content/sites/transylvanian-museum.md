@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/400px-Gundelsheim-schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/800px-Gundelsheim-schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/1200px-Gundelsheim-schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/1920px-Gundelsheim-schloss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gundelsheim-schloss.JPG/1920px-Gundelsheim-schloss.JPG
+---
 
 ## Overview
 

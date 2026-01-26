@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Pankratius-Guetersloh_01.jpg/400px-St-Pankratius-Guetersloh_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Pankratius-Guetersloh_01.jpg/800px-St-Pankratius-Guetersloh_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Pankratius-Guetersloh_01.jpg/1200px-St-Pankratius-Guetersloh_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Pankratius-Guetersloh_01.jpg/1920px-St-Pankratius-Guetersloh_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Pankratius-Guetersloh_01.jpg/1920px-St-Pankratius-Guetersloh_01.jpg
+---
 
 ## Overview
 

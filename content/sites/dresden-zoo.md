@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/400px-ZOO_Dresden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/800px-ZOO_Dresden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/1200px-ZOO_Dresden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/1920px-ZOO_Dresden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/1920px-ZOO_Dresden.JPG
+---
 
 ## Overview
 

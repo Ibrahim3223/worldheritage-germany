@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/400px-Greetsieler_Kirche_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/800px-Greetsieler_Kirche_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1200px-Greetsieler_Kirche_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1920px-Greetsieler_Kirche_2010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1920px-Greetsieler_Kirche_2010.jpg
+---
 
 ## Overview
 

@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/400px-Alte_Synagoge_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/800px-Alte_Synagoge_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/1200px-Alte_Synagoge_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/1920px-Alte_Synagoge_Erfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/1920px-Alte_Synagoge_Erfurt.JPG
+---
 
 ## Overview
 

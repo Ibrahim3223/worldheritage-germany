@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/400px-Wiesentäler_Textilmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/800px-Wiesentäler_Textilmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/1200px-Wiesentäler_Textilmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/1920px-Wiesentäler_Textilmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wiesentäler_Textilmuseum.JPG/1920px-Wiesentäler_Textilmuseum.JPG
+---
 
 ## Overview
 

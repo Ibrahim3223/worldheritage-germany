@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/400px-Sommertheater01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/800px-Sommertheater01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1200px-Sommertheater01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1920px-Sommertheater01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1920px-Sommertheater01.jpg
+---
 
 ## Overview
 

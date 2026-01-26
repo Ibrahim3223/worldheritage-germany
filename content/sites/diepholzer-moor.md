@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/400px-Wollgräser_des_Diepholzer_Moors.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/800px-Wollgräser_des_Diepholzer_Moors.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/1200px-Wollgräser_des_Diepholzer_Moors.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/1920px-Wollgräser_des_Diepholzer_Moors.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wollgräser_des_Diepholzer_Moors.JPG/1920px-Wollgräser_des_Diepholzer_Moors.JPG
+---
 
 ## Overview
 

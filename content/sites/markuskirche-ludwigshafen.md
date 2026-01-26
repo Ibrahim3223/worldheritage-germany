@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/400px-Ludwigshafen-Oggersheim-Markuskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/800px-Ludwigshafen-Oggersheim-Markuskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/1200px-Ludwigshafen-Oggersheim-Markuskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/1920px-Ludwigshafen-Oggersheim-Markuskirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludwigshafen-Oggersheim-Markuskirche.JPG/1920px-Ludwigshafen-Oggersheim-Markuskirche.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/400px-Kleine_Greifengasse_14_Speyer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/800px-Kleine_Greifengasse_14_Speyer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/1200px-Kleine_Greifengasse_14_Speyer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/1920px-Kleine_Greifengasse_14_Speyer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kleine_Greifengasse_14_Speyer.jpg/1920px-Kleine_Greifengasse_14_Speyer.jpg
+---
 
 ## Overview
 

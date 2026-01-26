@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/400px-TextilScheune.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/800px-TextilScheune.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/1200px-TextilScheune.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/1920px-TextilScheune.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TextilScheune.jpg/1920px-TextilScheune.jpg
+---
 
 ## Overview
 

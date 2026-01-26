@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/400px-Herten_St._Antonius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/800px-Herten_St._Antonius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/1200px-Herten_St._Antonius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/1920px-Herten_St._Antonius.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Herten_St._Antonius.jpg/1920px-Herten_St._Antonius.jpg
+---
 
 ## Overview
 

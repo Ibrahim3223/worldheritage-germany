@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/400px-Villa_Haas_Luftbild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/800px-Villa_Haas_Luftbild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/1200px-Villa_Haas_Luftbild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/1920px-Villa_Haas_Luftbild.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Villa_Haas_Luftbild.jpg/1920px-Villa_Haas_Luftbild.jpg
+---
 
 ## Overview
 

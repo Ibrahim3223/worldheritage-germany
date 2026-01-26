@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/400px-Deutsches_Schiffahrtsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/800px-Deutsches_Schiffahrtsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1200px-Deutsches_Schiffahrtsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1920px-Deutsches_Schiffahrtsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1920px-Deutsches_Schiffahrtsmuseum.jpg
+---
 
 ## Overview
 

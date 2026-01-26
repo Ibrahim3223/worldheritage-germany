@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/400px-Behrenhoff-Kirche-SW-160316-076.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/800px-Behrenhoff-Kirche-SW-160316-076.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1200px-Behrenhoff-Kirche-SW-160316-076.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1920px-Behrenhoff-Kirche-SW-160316-076.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1920px-Behrenhoff-Kirche-SW-160316-076.jpg
+---
 
 ## Overview
 

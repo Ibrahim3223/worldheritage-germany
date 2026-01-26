@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/400px-Kirche_Walsdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/800px-Kirche_Walsdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1200px-Kirche_Walsdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1920px-Kirche_Walsdorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1920px-Kirche_Walsdorf.JPG
+---
 
 ## Overview
 

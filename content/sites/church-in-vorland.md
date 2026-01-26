@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/400px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/800px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/1200px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/1920px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG/1920px-Vorland,_Kirche_-_Ansicht_auf_Chor_und_Schiff_(2008-04-20).JPG
+---
 
 ## Overview
 

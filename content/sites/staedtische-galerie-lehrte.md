@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg/400px-Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg/800px-Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg/1200px-Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg/1920px-Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg/1920px-Lehrte,_Alte_Schlosserei_1-3_2018-12-09_17.03.24_.jpg
+---
 
 ## Overview
 

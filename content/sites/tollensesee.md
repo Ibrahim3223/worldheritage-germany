@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/400px-Tollensesee-02-06-2008-202.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/800px-Tollensesee-02-06-2008-202.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/1200px-Tollensesee-02-06-2008-202.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/1920px-Tollensesee-02-06-2008-202.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tollensesee-02-06-2008-202.jpg/1920px-Tollensesee-02-06-2008-202.jpg
+---
 
 ## Overview
 

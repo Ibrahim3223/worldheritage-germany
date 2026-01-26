@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/400px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/800px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/1200px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/1920px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Das_Neue_Tor_Färbergasse.jpg/1920px-Nürnberg_Das_Neue_Tor_Färbergasse.jpg
+---
 
 ## Overview
 

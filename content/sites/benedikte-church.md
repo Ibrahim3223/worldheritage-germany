@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/400px-Benediktekirche_Hamburg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/800px-Benediktekirche_Hamburg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/1200px-Benediktekirche_Hamburg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/1920px-Benediktekirche_Hamburg_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Benediktekirche_Hamburg_01.jpg/1920px-Benediktekirche_Hamburg_01.jpg
+---
 
 ## Overview
 

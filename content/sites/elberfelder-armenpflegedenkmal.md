@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/400px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/800px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/1200px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/1920px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg/1920px-Armenpflegedenkmal_in_Wuppertal-Elberfeld.jpg
+---
 
 ## Overview
 

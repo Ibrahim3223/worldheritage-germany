@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/400px-Holzelfingen_Rathaus_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/800px-Holzelfingen_Rathaus_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/1200px-Holzelfingen_Rathaus_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/1920px-Holzelfingen_Rathaus_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Holzelfingen_Rathaus_(1).jpg/1920px-Holzelfingen_Rathaus_(1).jpg
+---
 
 ## Overview
 

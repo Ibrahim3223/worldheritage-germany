@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/400px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/800px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1200px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1920px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1920px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
+---
 
 ## Overview
 

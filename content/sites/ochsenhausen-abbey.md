@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/400px-OchsenhausenKloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/800px-OchsenhausenKloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/1200px-OchsenhausenKloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/1920px-OchsenhausenKloster.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/OchsenhausenKloster.jpg/1920px-OchsenhausenKloster.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/400px-St_Michaels_Church_Hildesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/800px-St_Michaels_Church_Hildesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/1200px-St_Michaels_Church_Hildesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/1920px-St_Michaels_Church_Hildesheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/St_Michaels_Church_Hildesheim.jpg/1920px-St_Michaels_Church_Hildesheim.jpg
+---
 
 ## Overview
 

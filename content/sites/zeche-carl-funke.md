@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/400px-Zeche_Hundsnocken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/800px-Zeche_Hundsnocken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/1200px-Zeche_Hundsnocken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/1920px-Zeche_Hundsnocken.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Zeche_Hundsnocken.JPG/1920px-Zeche_Hundsnocken.JPG
+---
 
 ## Overview
 

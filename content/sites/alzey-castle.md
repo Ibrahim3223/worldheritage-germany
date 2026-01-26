@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/400px-SchlossAlzey.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/800px-SchlossAlzey.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1200px-SchlossAlzey.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1920px-SchlossAlzey.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1920px-SchlossAlzey.jpg
+---
 
 ## Overview
 

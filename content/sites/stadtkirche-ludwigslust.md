@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/400px-Ludwigslust_Stadtkirche-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/800px-Ludwigslust_Stadtkirche-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/1200px-Ludwigslust_Stadtkirche-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/1920px-Ludwigslust_Stadtkirche-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ludwigslust_Stadtkirche-2.jpg/1920px-Ludwigslust_Stadtkirche-2.jpg
+---
 
 ## Overview
 

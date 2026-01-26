@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/400px-Communication_tower_on_the_Großer_Feldberg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/800px-Communication_tower_on_the_Großer_Feldberg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/1200px-Communication_tower_on_the_Großer_Feldberg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/1920px-Communication_tower_on_the_Großer_Feldberg_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/1920px-Communication_tower_on_the_Großer_Feldberg_01.jpg
+---
 
 ## Overview
 

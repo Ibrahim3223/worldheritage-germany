@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/400px-Adelsheim_Jakobskirche2873.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/800px-Adelsheim_Jakobskirche2873.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/1200px-Adelsheim_Jakobskirche2873.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/1920px-Adelsheim_Jakobskirche2873.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adelsheim_Jakobskirche2873.JPG/1920px-Adelsheim_Jakobskirche2873.JPG
+---
 
 ## Overview
 

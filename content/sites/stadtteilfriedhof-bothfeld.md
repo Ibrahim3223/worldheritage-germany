@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/400px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/800px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/1200px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/1920px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg/1920px-Stadtteilfriedhof_Bothfeld_Hannover_Burgwedeler_Straße_60_Kapelle_aus_Raseneisenstein.jpg
+---
 
 ## Overview
 

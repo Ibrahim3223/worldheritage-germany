@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/400px-Ellingen_Tor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/800px-Ellingen_Tor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/1200px-Ellingen_Tor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/1920px-Ellingen_Tor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/1920px-Ellingen_Tor.JPG
+---
 
 ## Overview
 

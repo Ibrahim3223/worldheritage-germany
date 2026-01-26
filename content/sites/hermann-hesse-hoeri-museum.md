@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/400px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/800px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/1200px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/1920px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg/1920px-Calw_-_Marktplatz_-_30Hermann-Hesse-Museum_03_ies.jpg
+---
 
 ## Overview
 

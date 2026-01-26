@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/400px-Millowitsch-Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/800px-Millowitsch-Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/1200px-Millowitsch-Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/1920px-Millowitsch-Theater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Millowitsch-Theater.jpg/1920px-Millowitsch-Theater.jpg
+---
 
 ## Overview
 

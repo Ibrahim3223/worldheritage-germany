@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/400px-Bandwebereimuseum_Elfringhausen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/800px-Bandwebereimuseum_Elfringhausen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/1200px-Bandwebereimuseum_Elfringhausen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/1920px-Bandwebereimuseum_Elfringhausen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/1920px-Bandwebereimuseum_Elfringhausen.JPG
+---
 
 ## Overview
 

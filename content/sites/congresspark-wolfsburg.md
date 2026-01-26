@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/400px-CongressPark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/800px-CongressPark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/1200px-CongressPark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/1920px-CongressPark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CongressPark.jpg/1920px-CongressPark.jpg
+---
 
 ## Overview
 

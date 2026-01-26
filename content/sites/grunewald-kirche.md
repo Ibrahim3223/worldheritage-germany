@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/400px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/800px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/1200px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/1920px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg/1920px-Grunewald-Kirche_Bismarckallee_10-2015_img2.jpg
+---
 
 ## Overview
 

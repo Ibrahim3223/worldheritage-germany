@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/400px-Dueren_leopold-hoesch-museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/800px-Dueren_leopold-hoesch-museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/1200px-Dueren_leopold-hoesch-museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/1920px-Dueren_leopold-hoesch-museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dueren_leopold-hoesch-museum.jpg/1920px-Dueren_leopold-hoesch-museum.jpg
+---
 
 ## Overview
 

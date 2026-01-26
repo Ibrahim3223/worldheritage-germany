@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/400px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/800px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1200px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1920px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1920px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nikolaikirche_Flensburg2007.jpg/400px-Nikolaikirche_Flensburg2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nikolaikirche_Flensburg2007.jpg/800px-Nikolaikirche_Flensburg2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nikolaikirche_Flensburg2007.jpg/1200px-Nikolaikirche_Flensburg2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nikolaikirche_Flensburg2007.jpg/1920px-Nikolaikirche_Flensburg2007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nikolaikirche_Flensburg2007.jpg/1920px-Nikolaikirche_Flensburg2007.jpg
+---
 
 ## Overview
 

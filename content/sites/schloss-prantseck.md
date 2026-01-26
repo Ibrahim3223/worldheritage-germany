@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/400px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/800px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/1200px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/1920px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg/1920px-Adalbert-Stifter-Str._6_Schloss_Prantseck_Bad-Aibling-3.jpg
+---
 
 ## Overview
 

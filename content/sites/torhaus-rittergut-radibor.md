@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg/400px-Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg/800px-Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg/1200px-Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg/1920px-Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg/1920px-Radibor_-_Dorfplatz-Am_Schloß_-_Torhaus_Schloss_Radibor_01_ies.jpg
+---
 
 ## Overview
 

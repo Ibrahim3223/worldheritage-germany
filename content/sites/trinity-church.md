@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/400px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/800px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/1200px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/1920px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Iserlohn-Dreifaltigkeitskirche1-Asio.JPG/1920px-Iserlohn-Dreifaltigkeitskirche1-Asio.JPG
+---
 
 ## Overview
 

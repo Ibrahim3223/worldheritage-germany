@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/400px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/800px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/1200px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/1920px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg/1920px-Ruhland,_Rudolf-Breitscheid-Str._4,_Amtsgebäude.jpg
+---
 
 ## Overview
 

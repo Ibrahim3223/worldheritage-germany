@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/400px-Rellingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/800px-Rellingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/1200px-Rellingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/1920px-Rellingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rellingen.JPG/1920px-Rellingen.JPG
+---
 
 ## Overview
 

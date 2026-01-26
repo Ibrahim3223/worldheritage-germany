@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/400px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/800px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/1200px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/1920px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg/1920px-Nature-reserve-bennerstedt-germany_wdpa-162371_001_2018-05-05_11-36-57.jpg
+---
 
 ## Overview
 

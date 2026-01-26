@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/400px-Heiligenhafen2010_021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/800px-Heiligenhafen2010_021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/1200px-Heiligenhafen2010_021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/1920px-Heiligenhafen2010_021.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heiligenhafen2010_021.jpg/1920px-Heiligenhafen2010_021.jpg
+---
 
 ## Overview
 

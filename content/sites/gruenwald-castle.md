@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/400px-Burg_Gruenwald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/800px-Burg_Gruenwald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1200px-Burg_Gruenwald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1920px-Burg_Gruenwald.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1920px-Burg_Gruenwald.jpg
+---
 
 ## Overview
 

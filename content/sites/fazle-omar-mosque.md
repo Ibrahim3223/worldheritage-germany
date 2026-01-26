@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/400px-FazleOmarMoschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/800px-FazleOmarMoschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1200px-FazleOmarMoschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1920px-FazleOmarMoschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1920px-FazleOmarMoschee.jpg
+---
 
 ## Overview
 

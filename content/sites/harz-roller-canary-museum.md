@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/400px-Samson_mine_Andreasberg_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/800px-Samson_mine_Andreasberg_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/1200px-Samson_mine_Andreasberg_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/1920px-Samson_mine_Andreasberg_3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samson_mine_Andreasberg_3.JPG/1920px-Samson_mine_Andreasberg_3.JPG
+---
 
 ## Overview
 

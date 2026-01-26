@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cottbus_07-2017_img28_Amtsgericht.jpg/400px-Cottbus_07-2017_img28_Amtsgericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cottbus_07-2017_img28_Amtsgericht.jpg/800px-Cottbus_07-2017_img28_Amtsgericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cottbus_07-2017_img28_Amtsgericht.jpg/1200px-Cottbus_07-2017_img28_Amtsgericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cottbus_07-2017_img28_Amtsgericht.jpg/1920px-Cottbus_07-2017_img28_Amtsgericht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cottbus_07-2017_img28_Amtsgericht.jpg/1920px-Cottbus_07-2017_img28_Amtsgericht.jpg
+---
 
 ## Overview
 

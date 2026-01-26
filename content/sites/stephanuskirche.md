@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/400px-Stephanuskirche_Muenchen_-_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/800px-Stephanuskirche_Muenchen_-_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/1200px-Stephanuskirche_Muenchen_-_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/1920px-Stephanuskirche_Muenchen_-_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stephanuskirche_Muenchen_-_2.JPG/1920px-Stephanuskirche_Muenchen_-_2.JPG
+---
 
 ## Overview
 

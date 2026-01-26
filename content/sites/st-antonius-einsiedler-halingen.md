@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/400px-Menden-Halingen-Kirche1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/800px-Menden-Halingen-Kirche1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/1200px-Menden-Halingen-Kirche1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/1920px-Menden-Halingen-Kirche1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Menden-Halingen-Kirche1-Bubo.JPG/1920px-Menden-Halingen-Kirche1-Bubo.JPG
+---
 
 ## Overview
 

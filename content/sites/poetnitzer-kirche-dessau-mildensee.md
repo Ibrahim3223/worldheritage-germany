@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/400px-Kirche-Poetnitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/800px-Kirche-Poetnitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/1200px-Kirche-Poetnitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/1920px-Kirche-Poetnitz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kirche-Poetnitz.JPG/1920px-Kirche-Poetnitz.JPG
+---
 
 ## Overview
 

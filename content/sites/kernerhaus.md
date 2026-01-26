@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/400px-Kernerhaus_in_Weinsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/800px-Kernerhaus_in_Weinsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/1200px-Kernerhaus_in_Weinsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/1920px-Kernerhaus_in_Weinsberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kernerhaus_in_Weinsberg.jpg/1920px-Kernerhaus_in_Weinsberg.jpg
+---
 
 ## Overview
 

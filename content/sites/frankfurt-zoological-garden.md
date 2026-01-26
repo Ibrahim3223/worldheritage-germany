@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/400px-Exotarium,_Zoo_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/800px-Exotarium,_Zoo_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1200px-Exotarium,_Zoo_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1920px-Exotarium,_Zoo_Frankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1920px-Exotarium,_Zoo_Frankfurt.jpg
+---
 
 ## Overview
 

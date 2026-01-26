@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/400px-Ettenheimmünster17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/800px-Ettenheimmünster17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/1200px-Ettenheimmünster17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/1920px-Ettenheimmünster17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettenheimmünster17.jpg/1920px-Ettenheimmünster17.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/400px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/800px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/1920px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/1920px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
+---
 
 ## Overview
 

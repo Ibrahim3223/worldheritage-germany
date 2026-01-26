@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/400px-Rathaus_Obermarchtal_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/800px-Rathaus_Obermarchtal_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/1200px-Rathaus_Obermarchtal_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/1920px-Rathaus_Obermarchtal_I.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rathaus_Obermarchtal_I.jpg/1920px-Rathaus_Obermarchtal_I.jpg
+---
 
 ## Overview
 

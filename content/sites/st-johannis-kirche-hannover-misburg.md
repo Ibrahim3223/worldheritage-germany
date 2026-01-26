@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/400px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/800px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/1200px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/1920px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg/1920px-St._Johannis-Kirche_in_Misburg_(Hannover)_IMG_4027.jpg
+---
 
 ## Overview
 

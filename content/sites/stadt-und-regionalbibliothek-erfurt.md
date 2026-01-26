@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg/400px-Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg/800px-Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg/1200px-Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg/1920px-Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg/1920px-Logo_der_Stadt-_und_Regionalbibliothek_Erfurt.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/400px-ChurchStrackholt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/800px-ChurchStrackholt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1200px-ChurchStrackholt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1920px-ChurchStrackholt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1920px-ChurchStrackholt.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cyriakuskapelle_Lindenberg_02.jpg/400px-Cyriakuskapelle_Lindenberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cyriakuskapelle_Lindenberg_02.jpg/800px-Cyriakuskapelle_Lindenberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cyriakuskapelle_Lindenberg_02.jpg/1200px-Cyriakuskapelle_Lindenberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cyriakuskapelle_Lindenberg_02.jpg/1920px-Cyriakuskapelle_Lindenberg_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cyriakuskapelle_Lindenberg_02.jpg/1920px-Cyriakuskapelle_Lindenberg_02.jpg
+---
 
 ## Overview
 

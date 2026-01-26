@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cyriakuskapelle.jpg/400px-Cyriakuskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cyriakuskapelle.jpg/800px-Cyriakuskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cyriakuskapelle.jpg/1200px-Cyriakuskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cyriakuskapelle.jpg/1920px-Cyriakuskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cyriakuskapelle.jpg/1920px-Cyriakuskapelle.jpg
+---
 
 ## Overview
 

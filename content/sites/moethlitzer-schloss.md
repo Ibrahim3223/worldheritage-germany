@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/400px-Gutshaus_Möthlitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/800px-Gutshaus_Möthlitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/1200px-Gutshaus_Möthlitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/1920px-Gutshaus_Möthlitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gutshaus_Möthlitz.jpg/1920px-Gutshaus_Möthlitz.jpg
+---
 
 ## Overview
 

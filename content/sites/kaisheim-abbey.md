@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
+---
 
 ## Overview
 

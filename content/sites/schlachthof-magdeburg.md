@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/400px-Schlachthof_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/800px-Schlachthof_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/1200px-Schlachthof_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/1920px-Schlachthof_Magdeburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Schlachthof_Magdeburg.jpg/1920px-Schlachthof_Magdeburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/400px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/800px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/1200px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/1920px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Laurentiuskirche_vom_Schwarzbach-Trebur.jpg/1920px-Laurentiuskirche_vom_Schwarzbach-Trebur.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/400px-Hohenlupfen,_östlicher_Burggraben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/800px-Hohenlupfen,_östlicher_Burggraben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/1200px-Hohenlupfen,_östlicher_Burggraben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/1920px-Hohenlupfen,_östlicher_Burggraben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/1920px-Hohenlupfen,_östlicher_Burggraben.jpg
+---
 
 ## Overview
 

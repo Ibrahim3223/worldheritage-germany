@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/400px-Burg_Maienfels_gesamt_20060916.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/800px-Burg_Maienfels_gesamt_20060916.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/1200px-Burg_Maienfels_gesamt_20060916.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/1920px-Burg_Maienfels_gesamt_20060916.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Maienfels_gesamt_20060916.jpg/1920px-Burg_Maienfels_gesamt_20060916.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/400px-Severeinskirche_aus_Severinstorburg_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/800px-Severeinskirche_aus_Severinstorburg_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1200px-Severeinskirche_aus_Severinstorburg_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1920px-Severeinskirche_aus_Severinstorburg_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1920px-Severeinskirche_aus_Severinstorburg_2009.jpg
+---
 
 ## Overview
 

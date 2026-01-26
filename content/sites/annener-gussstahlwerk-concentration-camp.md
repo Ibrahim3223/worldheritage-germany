@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/400px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/800px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/1200px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/1920px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg/1920px-Witten_KZ-Aussenlager_Luftbild_1945_(zugeschnitten).jpg
+---
 
 ## Overview
 

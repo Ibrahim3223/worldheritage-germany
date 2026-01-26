@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/400px-Niedermünsterkirche_Regensburg_von_Süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/800px-Niedermünsterkirche_Regensburg_von_Süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/1200px-Niedermünsterkirche_Regensburg_von_Süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/1920px-Niedermünsterkirche_Regensburg_von_Süden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Niedermünsterkirche_Regensburg_von_Süden.jpg/1920px-Niedermünsterkirche_Regensburg_von_Süden.jpg
+---
 
 ## Overview
 

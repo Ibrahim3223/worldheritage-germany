@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/400px-Burgruine_Lützelhardt_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/800px-Burgruine_Lützelhardt_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/1200px-Burgruine_Lützelhardt_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/1920px-Burgruine_Lützelhardt_(1).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burgruine_Lützelhardt_(1).JPG/1920px-Burgruine_Lützelhardt_(1).JPG
+---
 
 ## Overview
 

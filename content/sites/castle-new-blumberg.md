@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neu-Blumberg_Burgfelsen.jpg/400px-Neu-Blumberg_Burgfelsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neu-Blumberg_Burgfelsen.jpg/800px-Neu-Blumberg_Burgfelsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neu-Blumberg_Burgfelsen.jpg/1200px-Neu-Blumberg_Burgfelsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neu-Blumberg_Burgfelsen.jpg/1920px-Neu-Blumberg_Burgfelsen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neu-Blumberg_Burgfelsen.jpg/1920px-Neu-Blumberg_Burgfelsen.jpg
+---
 
 ## Overview
 

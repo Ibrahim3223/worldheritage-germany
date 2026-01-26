@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/400px-Kirchturm_Ollendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/800px-Kirchturm_Ollendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/1200px-Kirchturm_Ollendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/1920px-Kirchturm_Ollendorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirchturm_Ollendorf.jpg/1920px-Kirchturm_Ollendorf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/400px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/800px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/1200px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/1920px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/1920px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/400px-Jabelscher_See.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/800px-Jabelscher_See.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/1200px-Jabelscher_See.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/1920px-Jabelscher_See.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jabelscher_See.JPG/1920px-Jabelscher_See.JPG
+---
 
 ## Overview
 

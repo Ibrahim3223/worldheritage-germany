@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/400px-Albert-Mooren-Brunnen_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/800px-Albert-Mooren-Brunnen_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1200px-Albert-Mooren-Brunnen_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1920px-Albert-Mooren-Brunnen_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1920px-Albert-Mooren-Brunnen_5.jpg
+---
 
 ## Overview
 

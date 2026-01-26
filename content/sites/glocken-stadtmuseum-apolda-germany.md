@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/400px-Apolda_Glockenmuseum02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/800px-Apolda_Glockenmuseum02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1200px-Apolda_Glockenmuseum02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1920px-Apolda_Glockenmuseum02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1920px-Apolda_Glockenmuseum02.jpg
+---
 
 ## Overview
 

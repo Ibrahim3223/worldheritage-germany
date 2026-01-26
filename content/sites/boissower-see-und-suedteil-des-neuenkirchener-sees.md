@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/400px-Bach_vom_Boissower_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/800px-Bach_vom_Boissower_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1200px-Bach_vom_Boissower_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1920px-Bach_vom_Boissower_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1920px-Bach_vom_Boissower_See.jpg
+---
 
 ## Overview
 

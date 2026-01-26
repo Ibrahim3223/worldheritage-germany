@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/400px-Matthias_Erzberger_Gedenkstaette.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/800px-Matthias_Erzberger_Gedenkstaette.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/1200px-Matthias_Erzberger_Gedenkstaette.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/1920px-Matthias_Erzberger_Gedenkstaette.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Matthias_Erzberger_Gedenkstaette.jpg/1920px-Matthias_Erzberger_Gedenkstaette.jpg
+---
 
 ## Overview
 

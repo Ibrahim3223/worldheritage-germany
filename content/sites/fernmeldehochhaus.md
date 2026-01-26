@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/400px-Fernmeldehochhaus_Frankfurt_1995.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/800px-Fernmeldehochhaus_Frankfurt_1995.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/1200px-Fernmeldehochhaus_Frankfurt_1995.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/1920px-Fernmeldehochhaus_Frankfurt_1995.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fernmeldehochhaus_Frankfurt_1995.jpg/1920px-Fernmeldehochhaus_Frankfurt_1995.jpg
+---
 
 ## Overview
 

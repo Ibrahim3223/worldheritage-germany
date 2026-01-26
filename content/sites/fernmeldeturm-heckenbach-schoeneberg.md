@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fernmeldeturm_Heckenbach-Schöneberg.jpg/400px-Fernmeldeturm_Heckenbach-Schöneberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fernmeldeturm_Heckenbach-Schöneberg.jpg/800px-Fernmeldeturm_Heckenbach-Schöneberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fernmeldeturm_Heckenbach-Schöneberg.jpg/1200px-Fernmeldeturm_Heckenbach-Schöneberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fernmeldeturm_Heckenbach-Schöneberg.jpg/1920px-Fernmeldeturm_Heckenbach-Schöneberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fernmeldeturm_Heckenbach-Schöneberg.jpg/1920px-Fernmeldeturm_Heckenbach-Schöneberg.jpg
+---
 
 ## Overview
 

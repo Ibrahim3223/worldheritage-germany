@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-MuseumPankow1-Bubo.jpg/400px-Berlin-MuseumPankow1-Bubo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-MuseumPankow1-Bubo.jpg/800px-Berlin-MuseumPankow1-Bubo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-MuseumPankow1-Bubo.jpg/1200px-Berlin-MuseumPankow1-Bubo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-MuseumPankow1-Bubo.jpg/1920px-Berlin-MuseumPankow1-Bubo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-MuseumPankow1-Bubo.jpg/1920px-Berlin-MuseumPankow1-Bubo.jpg
+---
 
 ## Overview
 

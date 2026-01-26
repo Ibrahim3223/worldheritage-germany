@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Düsseldorf_St_Andreas_v_O.jpg/400px-Düsseldorf_St_Andreas_v_O.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Düsseldorf_St_Andreas_v_O.jpg/800px-Düsseldorf_St_Andreas_v_O.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Düsseldorf_St_Andreas_v_O.jpg/1200px-Düsseldorf_St_Andreas_v_O.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Düsseldorf_St_Andreas_v_O.jpg/1920px-Düsseldorf_St_Andreas_v_O.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Düsseldorf_St_Andreas_v_O.jpg/1920px-Düsseldorf_St_Andreas_v_O.jpg
+---
 
 ## Overview
 

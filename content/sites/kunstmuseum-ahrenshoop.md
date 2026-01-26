@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/400px-Das_Kunstmuseum_Ahrenshoop.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/800px-Das_Kunstmuseum_Ahrenshoop.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/1200px-Das_Kunstmuseum_Ahrenshoop.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/1920px-Das_Kunstmuseum_Ahrenshoop.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Das_Kunstmuseum_Ahrenshoop.jpg/1920px-Das_Kunstmuseum_Ahrenshoop.jpg
+---
 
 ## Overview
 

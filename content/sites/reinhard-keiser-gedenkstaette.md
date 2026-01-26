@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/400px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/800px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/1200px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/1920px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg/1920px-Teuchern,_the_birthplace_of_the_composer_Reinhard_Keiser.jpg
+---
 
 ## Overview
 

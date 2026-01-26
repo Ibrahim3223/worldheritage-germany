@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/400px-Hamburg_Hauptbahnhof_2009_319.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/800px-Hamburg_Hauptbahnhof_2009_319.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/1200px-Hamburg_Hauptbahnhof_2009_319.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/1920px-Hamburg_Hauptbahnhof_2009_319.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/1920px-Hamburg_Hauptbahnhof_2009_319.JPG
+---
 
 ## Overview
 

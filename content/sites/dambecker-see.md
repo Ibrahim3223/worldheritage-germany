@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/400px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/800px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/1200px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/1920px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/1920px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
+---
 
 ## Overview
 

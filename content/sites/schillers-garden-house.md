@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/400px-Schillers-Gartenhaus01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/800px-Schillers-Gartenhaus01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/1200px-Schillers-Gartenhaus01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/1920px-Schillers-Gartenhaus01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schillers-Gartenhaus01.JPG/1920px-Schillers-Gartenhaus01.JPG
+---
 
 ## Overview
 

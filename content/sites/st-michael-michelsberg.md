@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/400px-St._Michael_auf_dem_Michelsberg-0007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/800px-St._Michael_auf_dem_Michelsberg-0007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/1200px-St._Michael_auf_dem_Michelsberg-0007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/1920px-St._Michael_auf_dem_Michelsberg-0007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St._Michael_auf_dem_Michelsberg-0007.jpg/1920px-St._Michael_auf_dem_Michelsberg-0007.jpg
+---
 
 ## Overview
 

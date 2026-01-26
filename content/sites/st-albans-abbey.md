@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/400px-Mainz1631.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/800px-Mainz1631.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/1200px-Mainz1631.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/1920px-Mainz1631.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mainz1631.jpg/1920px-Mainz1631.jpg
+---
 
 ## Overview
 

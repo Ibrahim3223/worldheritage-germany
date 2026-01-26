@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/400px-Syke_Barrien_014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/800px-Syke_Barrien_014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/1200px-Syke_Barrien_014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/1920px-Syke_Barrien_014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Syke_Barrien_014.jpg/1920px-Syke_Barrien_014.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Am_Merschgraben.JPG/400px-NSG_Am_Merschgraben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Am_Merschgraben.JPG/800px-NSG_Am_Merschgraben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Am_Merschgraben.JPG/1200px-NSG_Am_Merschgraben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Am_Merschgraben.JPG/1920px-NSG_Am_Merschgraben.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Am_Merschgraben.JPG/1920px-NSG_Am_Merschgraben.JPG
+---
 
 ## Overview
 

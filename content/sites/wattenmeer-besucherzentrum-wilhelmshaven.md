@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/400px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/800px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/1200px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/1920px-8011_Wattenmeerhaus_Wilhelmshaven.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/8011_Wattenmeerhaus_Wilhelmshaven.jpg/1920px-8011_Wattenmeerhaus_Wilhelmshaven.jpg
+---
 
 ## Overview
 

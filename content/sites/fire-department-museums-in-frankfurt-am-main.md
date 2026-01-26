@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Alter_Flugplatz_Frankfurt_Main_building_03.jpg/400px-Alter_Flugplatz_Frankfurt_Main_building_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Alter_Flugplatz_Frankfurt_Main_building_03.jpg/800px-Alter_Flugplatz_Frankfurt_Main_building_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Alter_Flugplatz_Frankfurt_Main_building_03.jpg/1200px-Alter_Flugplatz_Frankfurt_Main_building_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Alter_Flugplatz_Frankfurt_Main_building_03.jpg/1920px-Alter_Flugplatz_Frankfurt_Main_building_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Alter_Flugplatz_Frankfurt_Main_building_03.jpg/1920px-Alter_Flugplatz_Frankfurt_Main_building_03.jpg
+---
 
 ## Overview
 

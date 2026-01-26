@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms-Dreifaltigkeitskirche.jpg/400px-Worms-Dreifaltigkeitskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms-Dreifaltigkeitskirche.jpg/800px-Worms-Dreifaltigkeitskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms-Dreifaltigkeitskirche.jpg/1200px-Worms-Dreifaltigkeitskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms-Dreifaltigkeitskirche.jpg/1920px-Worms-Dreifaltigkeitskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms-Dreifaltigkeitskirche.jpg/1920px-Worms-Dreifaltigkeitskirche.jpg
+---
 
 ## Overview
 

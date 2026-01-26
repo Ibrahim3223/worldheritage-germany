@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/400px-GildehauserVenn1997.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/800px-GildehauserVenn1997.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/1200px-GildehauserVenn1997.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/1920px-GildehauserVenn1997.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GildehauserVenn1997.jpg/1920px-GildehauserVenn1997.jpg
+---
 
 ## Overview
 

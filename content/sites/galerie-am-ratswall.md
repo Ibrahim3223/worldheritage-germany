@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/400px-Logo_gar.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/800px-Logo_gar.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/1200px-Logo_gar.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/1920px-Logo_gar.gif---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_gar.gif/1920px-Logo_gar.gif
+---
 
 ## Overview
 

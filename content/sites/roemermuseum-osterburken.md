@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/400px-200909161046MEZ_Osterburken_Römermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/800px-200909161046MEZ_Osterburken_Römermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/1200px-200909161046MEZ_Osterburken_Römermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/1920px-200909161046MEZ_Osterburken_Römermuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161046MEZ_Osterburken_Römermuseum.jpg/1920px-200909161046MEZ_Osterburken_Römermuseum.jpg
+---
 
 ## Overview
 

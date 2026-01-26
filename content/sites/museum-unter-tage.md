@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/400px-Museum_unter_Tage.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/800px-Museum_unter_Tage.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/1200px-Museum_unter_Tage.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/1920px-Museum_unter_Tage.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Museum_unter_Tage.jpg/1920px-Museum_unter_Tage.jpg
+---
 
 ## Overview
 

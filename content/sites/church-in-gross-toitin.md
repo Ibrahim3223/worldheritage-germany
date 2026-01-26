@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/400px-Groß_Toitin_Kirche_Südost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/800px-Groß_Toitin_Kirche_Südost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/1200px-Groß_Toitin_Kirche_Südost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/1920px-Groß_Toitin_Kirche_Südost.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Groß_Toitin_Kirche_Südost.JPG/1920px-Groß_Toitin_Kirche_Südost.JPG
+---
 
 ## Overview
 

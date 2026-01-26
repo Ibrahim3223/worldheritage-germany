@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/400px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/800px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/1200px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/1920px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg/1920px-NSG_BR_66_Barley_-_südliche_Spitze_(3).jpg
+---
 
 ## Overview
 

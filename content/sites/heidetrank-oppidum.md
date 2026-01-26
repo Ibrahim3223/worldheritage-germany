@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/400px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/800px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1200px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1920px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1920px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
+---
 
 ## Overview
 

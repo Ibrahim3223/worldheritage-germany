@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/400px-Die_Burgruine_Ettling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/800px-Die_Burgruine_Ettling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/1200px-Die_Burgruine_Ettling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/1920px-Die_Burgruine_Ettling.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Die_Burgruine_Ettling.jpg/1920px-Die_Burgruine_Ettling.jpg
+---
 
 ## Overview
 

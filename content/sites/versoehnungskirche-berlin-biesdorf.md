@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/400px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/800px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/1200px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/1920px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG/1920px-Versöhnungskirche_Biesdorf_2011-08_30_AMA_fec_(27).JPG
+---
 
 ## Overview
 

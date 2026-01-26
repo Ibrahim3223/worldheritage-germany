@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/400px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/800px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/1200px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/1920px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiki-Suenninghausen_Sankt-Vituskirche.jpg/1920px-Wiki-Suenninghausen_Sankt-Vituskirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/400px-FFO_04-13_Fernsehturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/800px-FFO_04-13_Fernsehturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1200px-FFO_04-13_Fernsehturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1920px-FFO_04-13_Fernsehturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1920px-FFO_04-13_Fernsehturm.jpg
+---
 
 ## Overview
 

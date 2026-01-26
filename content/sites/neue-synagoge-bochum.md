@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/400px-Bochumer_Synagoge,_Juni_2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/800px-Bochumer_Synagoge,_Juni_2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/1200px-Bochumer_Synagoge,_Juni_2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/1920px-Bochumer_Synagoge,_Juni_2008.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bochumer_Synagoge,_Juni_2008.JPG/1920px-Bochumer_Synagoge,_Juni_2008.JPG
+---
 
 ## Overview
 

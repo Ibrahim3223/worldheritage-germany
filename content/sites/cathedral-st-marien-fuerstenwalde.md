@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/400px-Fuerstenwalde_St_Marien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/800px-Fuerstenwalde_St_Marien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1200px-Fuerstenwalde_St_Marien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1920px-Fuerstenwalde_St_Marien.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1920px-Fuerstenwalde_St_Marien.jpg
+---
 
 ## Overview
 

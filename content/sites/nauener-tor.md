@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/400px-Potsdam_Nauener_Tor_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/800px-Potsdam_Nauener_Tor_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/1200px-Potsdam_Nauener_Tor_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/1920px-Potsdam_Nauener_Tor_07-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Potsdam_Nauener_Tor_07-2017.jpg/1920px-Potsdam_Nauener_Tor_07-2017.jpg
+---
 
 ## Overview
 

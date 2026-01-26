@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/400px-BurgLindenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/800px-BurgLindenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/1200px-BurgLindenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/1920px-BurgLindenfels.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BurgLindenfels.jpg/1920px-BurgLindenfels.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/400px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/800px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/1200px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/1920px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2020-05-01_Hannover_Haltenhoffstraße_60.jpg/1920px-2020-05-01_Hannover_Haltenhoffstraße_60.jpg
+---
 
 ## Overview
 

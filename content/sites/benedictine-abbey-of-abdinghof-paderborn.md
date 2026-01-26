@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Abdinghofkirche,_Paderborn,_Germany.jpg/400px-Abdinghofkirche,_Paderborn,_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Abdinghofkirche,_Paderborn,_Germany.jpg/800px-Abdinghofkirche,_Paderborn,_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Abdinghofkirche,_Paderborn,_Germany.jpg/1200px-Abdinghofkirche,_Paderborn,_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Abdinghofkirche,_Paderborn,_Germany.jpg/1920px-Abdinghofkirche,_Paderborn,_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Abdinghofkirche,_Paderborn,_Germany.jpg/1920px-Abdinghofkirche,_Paderborn,_Germany.jpg
+---
 
 ## Overview
 

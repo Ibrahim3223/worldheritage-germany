@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/400px-Schultenhof_Neuastenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/800px-Schultenhof_Neuastenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/1200px-Schultenhof_Neuastenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/1920px-Schultenhof_Neuastenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schultenhof_Neuastenberg.jpg/1920px-Schultenhof_Neuastenberg.jpg
+---
 
 ## Overview
 

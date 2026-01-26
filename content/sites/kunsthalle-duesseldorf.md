@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/400px-Kunsthalle_Düsseldorf-5746.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/800px-Kunsthalle_Düsseldorf-5746.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/1200px-Kunsthalle_Düsseldorf-5746.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/1920px-Kunsthalle_Düsseldorf-5746.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kunsthalle_Düsseldorf-5746.jpg/1920px-Kunsthalle_Düsseldorf-5746.jpg
+---
 
 ## Overview
 

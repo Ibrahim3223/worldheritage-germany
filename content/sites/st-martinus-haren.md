@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/400px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/800px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/1200px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/1920px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg/1920px-Haren,_die_Sankt_Martinus_Kirche_IMG_7309_2020-08-08_16.23.jpg
+---
 
 ## Overview
 

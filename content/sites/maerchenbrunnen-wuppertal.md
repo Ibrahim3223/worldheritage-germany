@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/400px-Märchenbrunnen_Wuppertal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/800px-Märchenbrunnen_Wuppertal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/1200px-Märchenbrunnen_Wuppertal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/1920px-Märchenbrunnen_Wuppertal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Märchenbrunnen_Wuppertal.jpg/1920px-Märchenbrunnen_Wuppertal.jpg
+---
 
 ## Overview
 

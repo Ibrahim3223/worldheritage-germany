@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/400px-Lange_Straße_53_Moringen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/800px-Lange_Straße_53_Moringen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/1200px-Lange_Straße_53_Moringen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/1920px-Lange_Straße_53_Moringen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lange_Straße_53_Moringen.jpg/1920px-Lange_Straße_53_Moringen.jpg
+---
 
 ## Overview
 

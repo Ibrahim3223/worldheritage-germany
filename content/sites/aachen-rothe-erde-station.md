@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/400px-Bf-ac-rotheerde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/800px-Bf-ac-rotheerde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/1200px-Bf-ac-rotheerde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/1920px-Bf-ac-rotheerde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bf-ac-rotheerde.jpg/1920px-Bf-ac-rotheerde.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/400px-Barigauer_Turm_aktuell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/800px-Barigauer_Turm_aktuell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/1200px-Barigauer_Turm_aktuell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/1920px-Barigauer_Turm_aktuell.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Barigauer_Turm_aktuell.JPG/1920px-Barigauer_Turm_aktuell.JPG
+---
 
 ## Overview
 

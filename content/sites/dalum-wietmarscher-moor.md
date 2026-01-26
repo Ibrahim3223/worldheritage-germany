@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/400px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/800px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/1200px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/1920px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg/1920px-Geeste_-_Dalum-Wiemarscher_Moor_-_Zum_Hügel_-_Aussichtshügel_01_ies.jpg
+---
 
 ## Overview
 

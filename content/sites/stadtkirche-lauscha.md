@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/400px-Lauscha-Ev-Kirche-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/800px-Lauscha-Ev-Kirche-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/1200px-Lauscha-Ev-Kirche-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/1920px-Lauscha-Ev-Kirche-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lauscha-Ev-Kirche-1.jpg/1920px-Lauscha-Ev-Kirche-1.jpg
+---
 
 ## Overview
 

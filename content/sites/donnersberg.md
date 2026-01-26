@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/400px-Donnersberg_von_Steinbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/800px-Donnersberg_von_Steinbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1200px-Donnersberg_von_Steinbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1920px-Donnersberg_von_Steinbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1920px-Donnersberg_von_Steinbach.jpg
+---
 
 ## Overview
 

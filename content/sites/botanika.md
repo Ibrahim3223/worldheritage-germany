@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/400px-Botanika_Bremen_(2014)-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/800px-Botanika_Bremen_(2014)-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/1200px-Botanika_Bremen_(2014)-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/1920px-Botanika_Bremen_(2014)-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/1920px-Botanika_Bremen_(2014)-01.jpg
+---
 
 ## Overview
 

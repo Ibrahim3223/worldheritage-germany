@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/400px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/800px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/1200px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/1920px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG/1920px-Pfarrkirche_St_Bartholomaeus_Wieblingen_2.JPG
+---
 
 ## Overview
 

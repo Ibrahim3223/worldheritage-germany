@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/400px-Friedhofskapelle-semlow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/800px-Friedhofskapelle-semlow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/1200px-Friedhofskapelle-semlow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/1920px-Friedhofskapelle-semlow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedhofskapelle-semlow.jpg/1920px-Friedhofskapelle-semlow.jpg
+---
 
 ## Overview
 

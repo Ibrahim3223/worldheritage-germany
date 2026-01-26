@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/400px-Aerial_image_of_the_Amorbach_Abbey.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/800px-Aerial_image_of_the_Amorbach_Abbey.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/1200px-Aerial_image_of_the_Amorbach_Abbey.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/1920px-Aerial_image_of_the_Amorbach_Abbey.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/1920px-Aerial_image_of_the_Amorbach_Abbey.jpg
+---
 
 ## Overview
 

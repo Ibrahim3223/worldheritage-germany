@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mannheim-jesuitenkirche.JPG/400px-Mannheim-jesuitenkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mannheim-jesuitenkirche.JPG/800px-Mannheim-jesuitenkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mannheim-jesuitenkirche.JPG/1200px-Mannheim-jesuitenkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mannheim-jesuitenkirche.JPG/1920px-Mannheim-jesuitenkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mannheim-jesuitenkirche.JPG/1920px-Mannheim-jesuitenkirche.JPG
+---
 
 ## Overview
 

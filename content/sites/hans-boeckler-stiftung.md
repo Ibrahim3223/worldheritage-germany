@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/400px-Sitz_der_Hans-Böckler-Stiftung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/800px-Sitz_der_Hans-Böckler-Stiftung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/1200px-Sitz_der_Hans-Böckler-Stiftung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/1920px-Sitz_der_Hans-Böckler-Stiftung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sitz_der_Hans-Böckler-Stiftung.jpg/1920px-Sitz_der_Hans-Böckler-Stiftung.jpg
+---
 
 ## Overview
 

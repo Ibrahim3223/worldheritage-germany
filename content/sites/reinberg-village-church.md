@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG/400px-Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG/800px-Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG/1200px-Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG/1920px-Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG/1920px-Reinberg_bei_Greifswald,_Dorfkirche_Ansicht_(2008-07-29).JPG
+---
 
 ## Overview
 

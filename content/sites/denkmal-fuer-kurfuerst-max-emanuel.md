@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/400px-Denkmal_Max_Emanuel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/800px-Denkmal_Max_Emanuel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/1200px-Denkmal_Max_Emanuel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/1920px-Denkmal_Max_Emanuel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Denkmal_Max_Emanuel.jpg/1920px-Denkmal_Max_Emanuel.jpg
+---
 
 ## Overview
 

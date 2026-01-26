@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/400px-Hamburg-Poppenbüttel,_Marktkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/800px-Hamburg-Poppenbüttel,_Marktkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1200px-Hamburg-Poppenbüttel,_Marktkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1920px-Hamburg-Poppenbüttel,_Marktkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg-Poppenbüttel,_Marktkirche.jpg/1920px-Hamburg-Poppenbüttel,_Marktkirche.jpg
+---
 
 ## Overview
 

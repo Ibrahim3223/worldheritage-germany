@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/400px-Bartholomaeuskirche_Berlin_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/800px-Bartholomaeuskirche_Berlin_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/1200px-Bartholomaeuskirche_Berlin_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/1920px-Bartholomaeuskirche_Berlin_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bartholomaeuskirche_Berlin_01.jpg/1920px-Bartholomaeuskirche_Berlin_01.jpg
+---
 
 ## Overview
 

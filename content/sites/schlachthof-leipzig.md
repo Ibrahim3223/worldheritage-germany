@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/400px-Schlachthof_Leipzig_Gleisanschluss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/800px-Schlachthof_Leipzig_Gleisanschluss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/1200px-Schlachthof_Leipzig_Gleisanschluss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/1920px-Schlachthof_Leipzig_Gleisanschluss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlachthof_Leipzig_Gleisanschluss.jpg/1920px-Schlachthof_Leipzig_Gleisanschluss.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/400px-Brueckenkopf01-DaB..jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/800px-Brueckenkopf01-DaB..jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/1200px-Brueckenkopf01-DaB..jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/1920px-Brueckenkopf01-DaB..jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/1920px-Brueckenkopf01-DaB..jpg
+---
 
 ## Overview
 

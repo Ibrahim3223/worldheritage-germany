@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/400px-Hofkapelle_Lachenbauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/800px-Hofkapelle_Lachenbauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/1200px-Hofkapelle_Lachenbauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/1920px-Hofkapelle_Lachenbauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofkapelle_Lachenbauer.jpg/1920px-Hofkapelle_Lachenbauer.jpg
+---
 
 ## Overview
 

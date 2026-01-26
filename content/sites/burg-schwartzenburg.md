@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/400px-Tor_Burg_Schwartzenburg_Dorff.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/800px-Tor_Burg_Schwartzenburg_Dorff.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/1200px-Tor_Burg_Schwartzenburg_Dorff.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/1920px-Tor_Burg_Schwartzenburg_Dorff.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tor_Burg_Schwartzenburg_Dorff.JPG/1920px-Tor_Burg_Schwartzenburg_Dorff.JPG
+---
 
 ## Overview
 

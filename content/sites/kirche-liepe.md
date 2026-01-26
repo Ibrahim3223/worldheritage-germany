@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/400px-Kirche_Liepe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/800px-Kirche_Liepe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/1200px-Kirche_Liepe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/1920px-Kirche_Liepe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kirche_Liepe.jpg/1920px-Kirche_Liepe.jpg
+---
 
 ## Overview
 

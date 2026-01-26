@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/400px-Albachten,_St._Ludgerus-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/800px-Albachten,_St._Ludgerus-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/1200px-Albachten,_St._Ludgerus-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/1920px-Albachten,_St._Ludgerus-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albachten,_St._Ludgerus-Kirche.jpg/1920px-Albachten,_St._Ludgerus-Kirche.jpg
+---
 
 ## Overview
 

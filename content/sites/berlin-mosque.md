@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/400px-Moschee_Wilmersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/800px-Moschee_Wilmersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1200px-Moschee_Wilmersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1920px-Moschee_Wilmersdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1920px-Moschee_Wilmersdorf.jpg
+---
 
 ## Overview
 

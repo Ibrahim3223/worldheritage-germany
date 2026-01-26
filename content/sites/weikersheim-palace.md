@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/400px-Schloss_und_Park_Weikersheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/800px-Schloss_und_Park_Weikersheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/1200px-Schloss_und_Park_Weikersheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/1920px-Schloss_und_Park_Weikersheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_und_Park_Weikersheim.jpg/1920px-Schloss_und_Park_Weikersheim.jpg
+---
 
 ## Overview
 

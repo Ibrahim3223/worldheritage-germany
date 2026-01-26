@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/400px-Altes_Museum_-_Betender_Knabe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/800px-Altes_Museum_-_Betender_Knabe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1200px-Altes_Museum_-_Betender_Knabe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1920px-Altes_Museum_-_Betender_Knabe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1920px-Altes_Museum_-_Betender_Knabe.jpg
+---
 
 ## Overview
 

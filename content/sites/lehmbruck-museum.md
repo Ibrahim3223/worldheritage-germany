@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/400px-Duisburg_wilh_lehmbruck_museum_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/800px-Duisburg_wilh_lehmbruck_museum_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/1200px-Duisburg_wilh_lehmbruck_museum_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/1920px-Duisburg_wilh_lehmbruck_museum_außen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Duisburg_wilh_lehmbruck_museum_außen.jpg/1920px-Duisburg_wilh_lehmbruck_museum_außen.jpg
+---
 
 ## Overview
 

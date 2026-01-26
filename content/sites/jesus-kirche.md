@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/400px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/800px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/1200px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/1920px-Jesus-Kirche_(Berlin-Kreuzberg).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jesus-Kirche_(Berlin-Kreuzberg).jpg/1920px-Jesus-Kirche_(Berlin-Kreuzberg).jpg
+---
 
 ## Overview
 

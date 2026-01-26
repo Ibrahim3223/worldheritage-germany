@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/400px-Papiermuseum_Alte_Dombach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/800px-Papiermuseum_Alte_Dombach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/1200px-Papiermuseum_Alte_Dombach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/1920px-Papiermuseum_Alte_Dombach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papiermuseum_Alte_Dombach.jpg/1920px-Papiermuseum_Alte_Dombach.jpg
+---
 
 ## Overview
 

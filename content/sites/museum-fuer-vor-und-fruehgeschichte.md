@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/400px-Museum_für_Vor-_und_Frühgeschichte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/800px-Museum_für_Vor-_und_Frühgeschichte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/1200px-Museum_für_Vor-_und_Frühgeschichte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/1920px-Museum_für_Vor-_und_Frühgeschichte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museum_für_Vor-_und_Frühgeschichte.jpg/1920px-Museum_für_Vor-_und_Frühgeschichte.jpg
+---
 
 ## Overview
 

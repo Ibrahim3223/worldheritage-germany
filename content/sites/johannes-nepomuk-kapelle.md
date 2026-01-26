@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/400px-Kapelle_am_Brückencenter-abf-.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/800px-Kapelle_am_Brückencenter-abf-.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/1200px-Kapelle_am_Brückencenter-abf-.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/1920px-Kapelle_am_Brückencenter-abf-.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kapelle_am_Brückencenter-abf-.JPG/1920px-Kapelle_am_Brückencenter-abf-.JPG
+---
 
 ## Overview
 

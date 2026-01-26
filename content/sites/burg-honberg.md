@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/400px-Burgruine_honberg_web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/800px-Burgruine_honberg_web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/1200px-Burgruine_honberg_web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/1920px-Burgruine_honberg_web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/1920px-Burgruine_honberg_web.jpg
+---
 
 ## Overview
 

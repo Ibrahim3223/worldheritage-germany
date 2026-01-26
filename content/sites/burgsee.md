@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/400px-Gottorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/800px-Gottorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/1200px-Gottorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/1920px-Gottorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gottorf.jpg/1920px-Gottorf.jpg
+---
 
 ## Overview
 

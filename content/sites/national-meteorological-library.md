@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/400px-Dt_wetterdienst-006957.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/800px-Dt_wetterdienst-006957.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/1200px-Dt_wetterdienst-006957.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/1920px-Dt_wetterdienst-006957.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dt_wetterdienst-006957.jpg/1920px-Dt_wetterdienst-006957.jpg
+---
 
 ## Overview
 

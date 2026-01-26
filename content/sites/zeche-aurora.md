@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/400px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/800px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/1200px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015020-0002,_Niederholthausen-Hattingen,_Kohlebergbau.jpg
+---
 
 ## Overview
 

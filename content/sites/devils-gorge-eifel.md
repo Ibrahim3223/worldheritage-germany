@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/400px-Teufelsschlucht-Ferschweiler01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/800px-Teufelsschlucht-Ferschweiler01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/1200px-Teufelsschlucht-Ferschweiler01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/1920px-Teufelsschlucht-Ferschweiler01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/1920px-Teufelsschlucht-Ferschweiler01.jpg
+---
 
 ## Overview 
 

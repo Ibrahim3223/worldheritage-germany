@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/400px-Trinitatiskirche_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/800px-Trinitatiskirche_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/1200px-Trinitatiskirche_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/1920px-Trinitatiskirche_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trinitatiskirche_-_panoramio.jpg/1920px-Trinitatiskirche_-_panoramio.jpg
+---
 
 ## Overview
 

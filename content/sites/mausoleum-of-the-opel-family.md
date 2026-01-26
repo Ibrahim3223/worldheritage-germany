@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/400px-Opel-mausoleum-2010-ruesselsheim-090.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/800px-Opel-mausoleum-2010-ruesselsheim-090.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/1200px-Opel-mausoleum-2010-ruesselsheim-090.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/1920px-Opel-mausoleum-2010-ruesselsheim-090.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Opel-mausoleum-2010-ruesselsheim-090.jpg/1920px-Opel-mausoleum-2010-ruesselsheim-090.jpg
+---
 
 ## Overview
 

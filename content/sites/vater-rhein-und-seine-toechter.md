@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/400px-Brunnenplastik_Vater_Rhein2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/800px-Brunnenplastik_Vater_Rhein2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/1200px-Brunnenplastik_Vater_Rhein2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/1920px-Brunnenplastik_Vater_Rhein2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brunnenplastik_Vater_Rhein2.JPG/1920px-Brunnenplastik_Vater_Rhein2.JPG
+---
 
 ## Overview
 

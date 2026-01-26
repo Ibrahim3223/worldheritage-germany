@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg/400px-Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg/800px-Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg/1200px-Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg/1920px-Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg/1920px-Ungibauerstraße_1_(Naunhof)_-_Turmuhren-Museum.jpg
+---
 
 ## Overview
 

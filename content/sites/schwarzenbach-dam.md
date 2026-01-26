@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/400px-Schwarzenbachtalsperre2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/800px-Schwarzenbachtalsperre2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/1200px-Schwarzenbachtalsperre2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/1920px-Schwarzenbachtalsperre2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schwarzenbachtalsperre2.jpg/1920px-Schwarzenbachtalsperre2.jpg
+---
 
 ## Overview
 

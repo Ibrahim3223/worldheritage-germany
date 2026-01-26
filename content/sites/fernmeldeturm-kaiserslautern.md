@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/400px-Fernmeldeturm_Dansenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/800px-Fernmeldeturm_Dansenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/1200px-Fernmeldeturm_Dansenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/1920px-Fernmeldeturm_Dansenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fernmeldeturm_Dansenberg.jpg/1920px-Fernmeldeturm_Dansenberg.jpg
+---
 
 ## Overview
 

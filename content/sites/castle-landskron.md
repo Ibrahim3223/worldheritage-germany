@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/400px-Oppenheim_Burg_Landskron.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/800px-Oppenheim_Burg_Landskron.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/1200px-Oppenheim_Burg_Landskron.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/1920px-Oppenheim_Burg_Landskron.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/1920px-Oppenheim_Burg_Landskron.JPG
+---
 
 ## Overview
 

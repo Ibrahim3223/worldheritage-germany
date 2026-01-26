@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/400px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/800px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/1200px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/1920px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wismar_Schabbellhaus_(01)_2006-09-28.JPG/1920px-Wismar_Schabbellhaus_(01)_2006-09-28.JPG
+---
 
 ## Overview
 

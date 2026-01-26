@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/400px-Tempodrom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/800px-Tempodrom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/1200px-Tempodrom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/1920px-Tempodrom.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tempodrom.jpg/1920px-Tempodrom.jpg
+---
 
 ## Overview
 

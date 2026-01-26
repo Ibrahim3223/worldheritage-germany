@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/400px-Tapetenwerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/800px-Tapetenwerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/1200px-Tapetenwerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/1920px-Tapetenwerk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tapetenwerk.jpg/1920px-Tapetenwerk.jpg
+---
 
 ## Overview
 

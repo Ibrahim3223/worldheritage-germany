@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Denning_Dt_Einheit.jpg/400px-Denning_Dt_Einheit.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Denning_Dt_Einheit.jpg/800px-Denning_Dt_Einheit.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Denning_Dt_Einheit.jpg/1200px-Denning_Dt_Einheit.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Denning_Dt_Einheit.jpg/1920px-Denning_Dt_Einheit.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Denning_Dt_Einheit.jpg/1920px-Denning_Dt_Einheit.jpg
+---
 
 ## Overview
 

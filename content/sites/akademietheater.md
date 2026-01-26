@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/400px-Akademietheater_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/800px-Akademietheater_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/1200px-Akademietheater_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/1920px-Akademietheater_Muenchen-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Akademietheater_Muenchen-1.jpg/1920px-Akademietheater_Muenchen-1.jpg
+---
 
 ## Overview
 

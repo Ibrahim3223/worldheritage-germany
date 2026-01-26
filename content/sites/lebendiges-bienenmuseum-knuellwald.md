@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/400px-Bienenmuseum_fg01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/800px-Bienenmuseum_fg01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/1200px-Bienenmuseum_fg01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/1920px-Bienenmuseum_fg01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bienenmuseum_fg01.jpg/1920px-Bienenmuseum_fg01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/400px-Kirche_Garz_(Usedom)_von_SO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/800px-Kirche_Garz_(Usedom)_von_SO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/1200px-Kirche_Garz_(Usedom)_von_SO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/1920px-Kirche_Garz_(Usedom)_von_SO.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kirche_Garz_(Usedom)_von_SO.jpg/1920px-Kirche_Garz_(Usedom)_von_SO.jpg
+---
 
 ## Overview
 

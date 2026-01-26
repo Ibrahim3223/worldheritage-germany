@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/400px-Ortskapelle_Aletshofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/800px-Ortskapelle_Aletshofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/1200px-Ortskapelle_Aletshofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/1920px-Ortskapelle_Aletshofen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ortskapelle_Aletshofen.jpg/1920px-Ortskapelle_Aletshofen.jpg
+---
 
 ## Overview
 

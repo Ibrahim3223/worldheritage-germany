@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/400px-Schwanentorbruecke_Duisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/800px-Schwanentorbruecke_Duisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/1200px-Schwanentorbruecke_Duisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/1920px-Schwanentorbruecke_Duisburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Schwanentorbruecke_Duisburg.jpg/1920px-Schwanentorbruecke_Duisburg.jpg
+---
 
 ## Overview
 

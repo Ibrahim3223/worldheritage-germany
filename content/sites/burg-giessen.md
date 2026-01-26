@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/400px-Giessen_DSCN7833.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/800px-Giessen_DSCN7833.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/1200px-Giessen_DSCN7833.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/1920px-Giessen_DSCN7833.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Giessen_DSCN7833.JPG/1920px-Giessen_DSCN7833.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/400px-Drensteinfurt_St_Pankratius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/800px-Drensteinfurt_St_Pankratius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/1200px-Drensteinfurt_St_Pankratius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/1920px-Drensteinfurt_St_Pankratius.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drensteinfurt_St_Pankratius.jpg/1920px-Drensteinfurt_St_Pankratius.jpg
+---
 
 ## Overview
 

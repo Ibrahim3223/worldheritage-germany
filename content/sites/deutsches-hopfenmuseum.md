@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/400px-Deutsches_Hopfenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/800px-Deutsches_Hopfenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/1200px-Deutsches_Hopfenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/1920px-Deutsches_Hopfenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Deutsches_Hopfenmuseum.jpg/1920px-Deutsches_Hopfenmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/400px-Kirche_eidelstedt_dorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/800px-Kirche_eidelstedt_dorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/1200px-Kirche_eidelstedt_dorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/1920px-Kirche_eidelstedt_dorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_eidelstedt_dorf.jpg/1920px-Kirche_eidelstedt_dorf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/400px-St._Pankratius-Warstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/800px-St._Pankratius-Warstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/1200px-St._Pankratius-Warstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/1920px-St._Pankratius-Warstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/St._Pankratius-Warstein.jpg/1920px-St._Pankratius-Warstein.jpg
+---
 
 ## Overview
 

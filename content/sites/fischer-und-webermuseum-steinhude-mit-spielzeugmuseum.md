@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/400px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/800px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/1200px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/1920px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fischer-_und_Webermuseum_Steinhude_Fassade.jpg/1920px-Fischer-_und_Webermuseum_Steinhude_Fassade.jpg
+---
 
 ## Overview
 

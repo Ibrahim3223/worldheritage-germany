@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/400px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/800px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1200px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1920px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1920px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
+---
 
 ## Overview
 

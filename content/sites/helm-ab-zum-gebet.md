@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/400px-EF_IR162_gesamt2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/800px-EF_IR162_gesamt2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/1200px-EF_IR162_gesamt2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/1920px-EF_IR162_gesamt2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EF_IR162_gesamt2.jpg/1920px-EF_IR162_gesamt2.jpg
+---
 
 ## Overview
 

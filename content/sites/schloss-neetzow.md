@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/400px-Neetzow_OVP_Herrenhaus_West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/800px-Neetzow_OVP_Herrenhaus_West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/1200px-Neetzow_OVP_Herrenhaus_West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/1920px-Neetzow_OVP_Herrenhaus_West.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neetzow_OVP_Herrenhaus_West.jpg/1920px-Neetzow_OVP_Herrenhaus_West.jpg
+---
 
 ## Overview
 

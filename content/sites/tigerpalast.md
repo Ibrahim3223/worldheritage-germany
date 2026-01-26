@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/400px-Tigerpalast_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/800px-Tigerpalast_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/1200px-Tigerpalast_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/1920px-Tigerpalast_Frankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tigerpalast_Frankfurt.jpg/1920px-Tigerpalast_Frankfurt.jpg
+---
 
 ## Overview
 

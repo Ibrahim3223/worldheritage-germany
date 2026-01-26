@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/400px-ChurchGandersum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/800px-ChurchGandersum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1200px-ChurchGandersum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1920px-ChurchGandersum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1920px-ChurchGandersum.JPG
+---
 
 ## Overview
 

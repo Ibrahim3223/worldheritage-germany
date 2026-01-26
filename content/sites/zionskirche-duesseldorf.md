@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/400px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/800px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/1200px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/1920px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg/1920px-Zionskirche_in_Duesseldorf-Derendorf,_von_Osten.jpg
+---
 
 ## Overview
 

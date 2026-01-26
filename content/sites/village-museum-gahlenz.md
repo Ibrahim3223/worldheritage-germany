@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/400px-Dorfmuseum_Gahlenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/800px-Dorfmuseum_Gahlenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/1200px-Dorfmuseum_Gahlenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/1920px-Dorfmuseum_Gahlenz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfmuseum_Gahlenz.jpg/1920px-Dorfmuseum_Gahlenz.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/400px-St._Cäcilia_Benrath.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/800px-St._Cäcilia_Benrath.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/1200px-St._Cäcilia_Benrath.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/1920px-St._Cäcilia_Benrath.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/St._Cäcilia_Benrath.JPG/1920px-St._Cäcilia_Benrath.JPG
+---
 
 ## Overview
 

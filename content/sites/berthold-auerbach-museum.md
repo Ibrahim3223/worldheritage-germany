@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/400px-Auerbach_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/800px-Auerbach_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1200px-Auerbach_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1920px-Auerbach_Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1920px-Auerbach_Museum.JPG
+---
 
 ## Overview
 

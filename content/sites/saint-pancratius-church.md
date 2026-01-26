@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/400px-St._Pankratius_Eslohe-Reiste.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/800px-St._Pankratius_Eslohe-Reiste.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/1200px-St._Pankratius_Eslohe-Reiste.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/1920px-St._Pankratius_Eslohe-Reiste.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/St._Pankratius_Eslohe-Reiste.JPG/1920px-St._Pankratius_Eslohe-Reiste.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/400px-Klosterkirche_Mühlberg_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/800px-Klosterkirche_Mühlberg_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/1200px-Klosterkirche_Mühlberg_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/1920px-Klosterkirche_Mühlberg_001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klosterkirche_Mühlberg_001.JPG/1920px-Klosterkirche_Mühlberg_001.JPG
+---
 
 ## Overview
 

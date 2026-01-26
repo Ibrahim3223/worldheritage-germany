@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fernmeldeturm_Landau.jpg/400px-Fernmeldeturm_Landau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fernmeldeturm_Landau.jpg/800px-Fernmeldeturm_Landau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fernmeldeturm_Landau.jpg/1200px-Fernmeldeturm_Landau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fernmeldeturm_Landau.jpg/1920px-Fernmeldeturm_Landau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fernmeldeturm_Landau.jpg/1920px-Fernmeldeturm_Landau.jpg
+---
 
 ## Overview
 

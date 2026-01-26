@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/400px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/800px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/1200px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/1920px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Museumsinsel_Berlin_Kolonnadenhof_5.jpg/1920px-Museumsinsel_Berlin_Kolonnadenhof_5.jpg
+---
 
 ## Overview
 

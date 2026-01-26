@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/400px-Uetersen_rosarium_kleinueberblick.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/800px-Uetersen_rosarium_kleinueberblick.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/1200px-Uetersen_rosarium_kleinueberblick.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/1920px-Uetersen_rosarium_kleinueberblick.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Uetersen_rosarium_kleinueberblick.JPG/1920px-Uetersen_rosarium_kleinueberblick.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/400px-Bartholomaeuskapelle_Einbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/800px-Bartholomaeuskapelle_Einbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/1200px-Bartholomaeuskapelle_Einbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/1920px-Bartholomaeuskapelle_Einbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bartholomaeuskapelle_Einbeck.jpg/1920px-Bartholomaeuskapelle_Einbeck.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/400px-Roseliushaus_-_LfD1501_-_jh15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/800px-Roseliushaus_-_LfD1501_-_jh15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/1200px-Roseliushaus_-_LfD1501_-_jh15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/1920px-Roseliushaus_-_LfD1501_-_jh15.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roseliushaus_-_LfD1501_-_jh15.jpg/1920px-Roseliushaus_-_LfD1501_-_jh15.jpg
+---
 
 ## Overview
 

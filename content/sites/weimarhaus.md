@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/400px-Weimarhaus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/800px-Weimarhaus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/1200px-Weimarhaus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/1920px-Weimarhaus1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Weimarhaus1.jpg/1920px-Weimarhaus1.jpg
+---
 
 ## Overview
 

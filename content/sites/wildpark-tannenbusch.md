@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/400px-Wildpark_Tannenbusch_Vogelkaefige.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/800px-Wildpark_Tannenbusch_Vogelkaefige.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/1200px-Wildpark_Tannenbusch_Vogelkaefige.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/1920px-Wildpark_Tannenbusch_Vogelkaefige.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wildpark_Tannenbusch_Vogelkaefige.jpg/1920px-Wildpark_Tannenbusch_Vogelkaefige.jpg
+---
 
 ## Overview
 

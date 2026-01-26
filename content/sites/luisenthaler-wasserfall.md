@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/400px-Schweina_Luisentaler_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/800px-Schweina_Luisentaler_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/1200px-Schweina_Luisentaler_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/1920px-Schweina_Luisentaler_Wasserfall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Schweina_Luisentaler_Wasserfall.jpg/1920px-Schweina_Luisentaler_Wasserfall.jpg
+---
 
 ## Overview
 

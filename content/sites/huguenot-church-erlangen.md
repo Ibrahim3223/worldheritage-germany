@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/400px-Erlangen-Hugenotten-Kirche-front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/800px-Erlangen-Hugenotten-Kirche-front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1200px-Erlangen-Hugenotten-Kirche-front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1920px-Erlangen-Hugenotten-Kirche-front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1920px-Erlangen-Hugenotten-Kirche-front.jpg
+---
 
 ## Overview
 

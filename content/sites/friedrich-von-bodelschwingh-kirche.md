@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/400px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/800px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1200px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1920px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1920px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
+---
 
 ## Overview
 

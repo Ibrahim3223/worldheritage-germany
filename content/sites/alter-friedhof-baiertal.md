@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/400px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/800px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/1200px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/1920px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aussegnungshalle_Alter_Friedhof_Baiertal.JPG/1920px-Aussegnungshalle_Alter_Friedhof_Baiertal.JPG
+---
 
 ## Overview
 

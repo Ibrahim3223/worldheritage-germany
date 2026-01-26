@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/400px-Langenberg_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/800px-Langenberg_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/1200px-Langenberg_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/1920px-Langenberg_von_Nordwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Langenberg_von_Nordwesten.jpg/1920px-Langenberg_von_Nordwesten.jpg
+---
 
 ## Overview
 

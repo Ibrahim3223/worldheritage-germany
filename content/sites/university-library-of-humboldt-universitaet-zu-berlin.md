@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grimm-Zentrum_Leseterrassen.jpg/400px-Grimm-Zentrum_Leseterrassen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grimm-Zentrum_Leseterrassen.jpg/800px-Grimm-Zentrum_Leseterrassen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grimm-Zentrum_Leseterrassen.jpg/1200px-Grimm-Zentrum_Leseterrassen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grimm-Zentrum_Leseterrassen.jpg/1920px-Grimm-Zentrum_Leseterrassen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grimm-Zentrum_Leseterrassen.jpg/1920px-Grimm-Zentrum_Leseterrassen.jpg
+---
 
 ## Overview
 

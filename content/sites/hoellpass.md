@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/400px-Hoellpass.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/800px-Hoellpass.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/1200px-Hoellpass.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/1920px-Hoellpass.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hoellpass.JPG/1920px-Hoellpass.JPG
+---
 
 ## Overview
 

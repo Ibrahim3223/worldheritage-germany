@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/400px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/800px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1200px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1920px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1920px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/400px-Sendeanlage_Bodenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/800px-Sendeanlage_Bodenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/1200px-Sendeanlage_Bodenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/1920px-Sendeanlage_Bodenheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sendeanlage_Bodenheim.jpg/1920px-Sendeanlage_Bodenheim.jpg
+---
 
 ## Overview
 

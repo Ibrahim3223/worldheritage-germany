@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/400px-Muser_Brauerei01.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/800px-Muser_Brauerei01.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/1200px-Muser_Brauerei01.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/1920px-Muser_Brauerei01.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muser_Brauerei01.jpeg/1920px-Muser_Brauerei01.jpeg
+---
 
 ## Overview
 

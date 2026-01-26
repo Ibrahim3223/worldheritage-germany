@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/400px-Burgstelle_Muehlberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/800px-Burgstelle_Muehlberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/1200px-Burgstelle_Muehlberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/1920px-Burgstelle_Muehlberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burgstelle_Muehlberg.JPG/1920px-Burgstelle_Muehlberg.JPG
+---
 
 ## Overview
 

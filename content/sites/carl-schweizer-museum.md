@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/400px-CSM_Vorderfront.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/800px-CSM_Vorderfront.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/1200px-CSM_Vorderfront.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/1920px-CSM_Vorderfront.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CSM_Vorderfront.jpg/1920px-CSM_Vorderfront.jpg
+---
 
 ## Overview
 

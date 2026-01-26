@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/400px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/800px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1200px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1920px-Herforder_Muenster_Turm_IMGP2599_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1920px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/400px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/800px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/1200px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/1920px-Graal-Müritz_Lukaskirche_Juli_2012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Graal-Müritz_Lukaskirche_Juli_2012.JPG/1920px-Graal-Müritz_Lukaskirche_Juli_2012.JPG
+---
 
 ## Overview
 

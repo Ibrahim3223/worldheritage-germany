@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/400px-Ziegeleigrube_Ennigloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/800px-Ziegeleigrube_Ennigloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/1200px-Ziegeleigrube_Ennigloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/1920px-Ziegeleigrube_Ennigloh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ziegeleigrube_Ennigloh.jpg/1920px-Ziegeleigrube_Ennigloh.jpg
+---
 
 ## Overview
 

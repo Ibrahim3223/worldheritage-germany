@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/400px-Beilstein_(Mosel)_Synagoge_166.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/800px-Beilstein_(Mosel)_Synagoge_166.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/1200px-Beilstein_(Mosel)_Synagoge_166.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/1920px-Beilstein_(Mosel)_Synagoge_166.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beilstein_(Mosel)_Synagoge_166.JPG/1920px-Beilstein_(Mosel)_Synagoge_166.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/400px-Bonifatius-Kapelle_von_Norden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/800px-Bonifatius-Kapelle_von_Norden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/1200px-Bonifatius-Kapelle_von_Norden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/1920px-Bonifatius-Kapelle_von_Norden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bonifatius-Kapelle_von_Norden.JPG/1920px-Bonifatius-Kapelle_von_Norden.JPG
+---
 
 ## Overview
 

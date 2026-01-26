@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/400px-Putbus_Uhrenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/800px-Putbus_Uhrenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/1200px-Putbus_Uhrenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/1920px-Putbus_Uhrenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Putbus_Uhrenmuseum.jpg/1920px-Putbus_Uhrenmuseum.jpg
+---
 
 ## Overview
 

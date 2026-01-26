@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/400px-Hubertuskapelle_D.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/800px-Hubertuskapelle_D.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/1200px-Hubertuskapelle_D.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/1920px-Hubertuskapelle_D.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hubertuskapelle_D.JPG/1920px-Hubertuskapelle_D.JPG
+---
 
 ## Overview
 

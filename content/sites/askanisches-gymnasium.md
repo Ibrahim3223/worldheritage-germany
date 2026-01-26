@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/400px-Askanisches_Gymnasium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/800px-Askanisches_Gymnasium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/1200px-Askanisches_Gymnasium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/1920px-Askanisches_Gymnasium.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Askanisches_Gymnasium.jpg/1920px-Askanisches_Gymnasium.jpg
+---
 
 ## Overview
 

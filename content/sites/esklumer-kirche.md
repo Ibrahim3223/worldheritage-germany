@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/400px-ChurchEsklum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/800px-ChurchEsklum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1200px-ChurchEsklum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1920px-ChurchEsklum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1920px-ChurchEsklum.JPG
+---
 
 ## Overview
 

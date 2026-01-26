@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/400px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/800px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/1200px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/1920px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/1920px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/400px-Pietakapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/800px-Pietakapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/1200px-Pietakapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/1920px-Pietakapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pietakapelle.JPG/1920px-Pietakapelle.JPG
+---
 
 ## Overview
 

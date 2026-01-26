@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/400px-Spreewaldmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/800px-Spreewaldmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/1200px-Spreewaldmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/1920px-Spreewaldmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spreewaldmuseum.JPG/1920px-Spreewaldmuseum.JPG
+---
 
 ## Overview
 

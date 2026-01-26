@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/400px-Aachen,_Theresienkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/800px-Aachen,_Theresienkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/1200px-Aachen,_Theresienkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/1920px-Aachen,_Theresienkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aachen,_Theresienkirche.jpg/1920px-Aachen,_Theresienkirche.jpg
+---
 
 ## Overview
 

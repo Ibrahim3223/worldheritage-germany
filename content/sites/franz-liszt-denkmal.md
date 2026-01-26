@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/400px-Lisztszobor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/800px-Lisztszobor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/1200px-Lisztszobor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/1920px-Lisztszobor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/1920px-Lisztszobor.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/141026-003-Seitentrakt-XL.jpg/400px-141026-003-Seitentrakt-XL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/141026-003-Seitentrakt-XL.jpg/800px-141026-003-Seitentrakt-XL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/141026-003-Seitentrakt-XL.jpg/1200px-141026-003-Seitentrakt-XL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/141026-003-Seitentrakt-XL.jpg/1920px-141026-003-Seitentrakt-XL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/141026-003-Seitentrakt-XL.jpg/1920px-141026-003-Seitentrakt-XL.jpg
+---
 
 ## Overview
 

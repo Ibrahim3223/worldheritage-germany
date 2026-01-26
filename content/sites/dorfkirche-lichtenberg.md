@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/400px-Kirche-Berlin-Lichtenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/800px-Kirche-Berlin-Lichtenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1200px-Kirche-Berlin-Lichtenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1920px-Kirche-Berlin-Lichtenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1920px-Kirche-Berlin-Lichtenberg.jpg
+---
 
 ## Overview
 

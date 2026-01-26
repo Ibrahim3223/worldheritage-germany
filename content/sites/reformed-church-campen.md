@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/400px-ChurchCampenRef.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/800px-ChurchCampenRef.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/1200px-ChurchCampenRef.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/1920px-ChurchCampenRef.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ChurchCampenRef.JPG/1920px-ChurchCampenRef.JPG
+---
 
 ## Overview
 

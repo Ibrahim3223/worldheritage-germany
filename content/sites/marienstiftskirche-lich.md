@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/400px-Marienstiftskirche_Lich_08.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/800px-Marienstiftskirche_Lich_08.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/1200px-Marienstiftskirche_Lich_08.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/1920px-Marienstiftskirche_Lich_08.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Marienstiftskirche_Lich_08.JPG/1920px-Marienstiftskirche_Lich_08.JPG
+---
 
 ## Overview
 

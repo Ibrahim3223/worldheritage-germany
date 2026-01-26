@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/400px-Hexenturm_Jülich-DSC_0004w.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/800px-Hexenturm_Jülich-DSC_0004w.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1200px-Hexenturm_Jülich-DSC_0004w.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1920px-Hexenturm_Jülich-DSC_0004w.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1920px-Hexenturm_Jülich-DSC_0004w.jpg
+---
 
 ## Overview
 

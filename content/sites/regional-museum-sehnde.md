@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Regional-Museum_Sehnde_Eingang.jpg/400px-Regional-Museum_Sehnde_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Regional-Museum_Sehnde_Eingang.jpg/800px-Regional-Museum_Sehnde_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Regional-Museum_Sehnde_Eingang.jpg/1200px-Regional-Museum_Sehnde_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Regional-Museum_Sehnde_Eingang.jpg/1920px-Regional-Museum_Sehnde_Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Regional-Museum_Sehnde_Eingang.jpg/1920px-Regional-Museum_Sehnde_Eingang.jpg
+---
 
 ## Overview
 

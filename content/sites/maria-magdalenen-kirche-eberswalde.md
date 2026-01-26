@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/400px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/800px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/1200px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/1920px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maria-magdalenen-kirche-ebw-by-RalfR.jpg/1920px-Maria-magdalenen-kirche-ebw-by-RalfR.jpg
+---
 
 ## Overview
 

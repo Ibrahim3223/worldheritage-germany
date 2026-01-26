@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/400px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/800px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/1200px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/1920px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg/1920px-Zentralkreuz_Friedhof_Ruengsdorf_Bad_Godesberg.jpg
+---
 
 ## Overview
 

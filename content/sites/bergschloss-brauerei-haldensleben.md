@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/400px-Bergschlößchen_Brauerei_Haldensleben.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/800px-Bergschlößchen_Brauerei_Haldensleben.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/1200px-Bergschlößchen_Brauerei_Haldensleben.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/1920px-Bergschlößchen_Brauerei_Haldensleben.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bergschlößchen_Brauerei_Haldensleben.JPG/1920px-Bergschlößchen_Brauerei_Haldensleben.JPG
+---
 
 ## Overview
 

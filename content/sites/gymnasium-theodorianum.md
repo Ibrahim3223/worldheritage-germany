@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/400px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/800px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
+---
 
 ## Overview
 

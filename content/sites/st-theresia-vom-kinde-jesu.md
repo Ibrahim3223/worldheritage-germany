@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/400px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/800px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/1200px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/1920px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg/1920px-St._Theresia_vom_Kinde_Jesu_in_Duesseldorf-Garath,_von_Suedwesten.jpg
+---
 
 ## Overview
 

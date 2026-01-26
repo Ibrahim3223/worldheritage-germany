@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/400px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/800px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/1200px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/1920px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg/1920px-Überlingen_-_Krummebergstraße_-_Museum_01_ies.jpg
+---
 
 ## Overview
 

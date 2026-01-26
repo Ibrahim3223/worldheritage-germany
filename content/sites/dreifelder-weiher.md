@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/400px-Dreifelder_Weiher_im_Frühling.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/800px-Dreifelder_Weiher_im_Frühling.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/1200px-Dreifelder_Weiher_im_Frühling.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/1920px-Dreifelder_Weiher_im_Frühling.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dreifelder_Weiher_im_Frühling.JPG/1920px-Dreifelder_Weiher_im_Frühling.JPG
+---
 
 ## Overview
 

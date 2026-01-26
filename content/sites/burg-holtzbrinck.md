@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/400px-Burg_Holtzbrinck_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/800px-Burg_Holtzbrinck_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1200px-Burg_Holtzbrinck_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1920px-Burg_Holtzbrinck_02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1920px-Burg_Holtzbrinck_02.JPG
+---
 
 ## Overview
 

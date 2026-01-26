@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg/400px-Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg/800px-Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg/1200px-Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg/1920px-Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg/1920px-Cottbus,_Stadtpromenade_-_geo-en.hlipp.de_-_13368.jpg
+---
 
 ## Overview
 

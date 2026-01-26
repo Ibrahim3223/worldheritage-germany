@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/400px-Tartarenturm_Magdeburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/800px-Tartarenturm_Magdeburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/1200px-Tartarenturm_Magdeburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/1920px-Tartarenturm_Magdeburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tartarenturm_Magdeburg.JPG/1920px-Tartarenturm_Magdeburg.JPG
+---
 
 ## Overview
 

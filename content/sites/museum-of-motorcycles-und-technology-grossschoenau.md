@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/400px-Hartmanundrichter.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/800px-Hartmanundrichter.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/1200px-Hartmanundrichter.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/1920px-Hartmanundrichter.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hartmanundrichter.JPG/1920px-Hartmanundrichter.JPG
+---
 
 ## Overview
 

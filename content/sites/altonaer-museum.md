@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/400px-Altonaer_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/800px-Altonaer_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1200px-Altonaer_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1920px-Altonaer_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1920px-Altonaer_Museum.jpg
+---
 
 ## Overview
 

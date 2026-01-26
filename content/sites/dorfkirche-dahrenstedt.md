@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/400px-Dahrenstedt_Dorfkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/800px-Dahrenstedt_Dorfkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1200px-Dahrenstedt_Dorfkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1920px-Dahrenstedt_Dorfkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1920px-Dahrenstedt_Dorfkirche.JPG
+---
 
 ## Overview
 

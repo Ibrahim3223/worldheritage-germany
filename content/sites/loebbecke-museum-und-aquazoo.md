@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aquazoo_Löbbecke_Museum.jpg/400px-Aquazoo_Löbbecke_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aquazoo_Löbbecke_Museum.jpg/800px-Aquazoo_Löbbecke_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aquazoo_Löbbecke_Museum.jpg/1200px-Aquazoo_Löbbecke_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aquazoo_Löbbecke_Museum.jpg/1920px-Aquazoo_Löbbecke_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aquazoo_Löbbecke_Museum.jpg/1920px-Aquazoo_Löbbecke_Museum.jpg
+---
 
 ## Overview
 

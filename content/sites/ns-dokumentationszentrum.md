@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/400px-NS-Dokumentationszentrum_München-7619.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/800px-NS-Dokumentationszentrum_München-7619.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/1200px-NS-Dokumentationszentrum_München-7619.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/1920px-NS-Dokumentationszentrum_München-7619.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NS-Dokumentationszentrum_München-7619.jpg/1920px-NS-Dokumentationszentrum_München-7619.jpg
+---
 
 ## Overview
 

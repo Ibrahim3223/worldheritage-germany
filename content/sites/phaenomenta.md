@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phänomenta_und_Nordertor,_Flensburg.jpg/400px-Phänomenta_und_Nordertor,_Flensburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phänomenta_und_Nordertor,_Flensburg.jpg/800px-Phänomenta_und_Nordertor,_Flensburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phänomenta_und_Nordertor,_Flensburg.jpg/1200px-Phänomenta_und_Nordertor,_Flensburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phänomenta_und_Nordertor,_Flensburg.jpg/1920px-Phänomenta_und_Nordertor,_Flensburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phänomenta_und_Nordertor,_Flensburg.jpg/1920px-Phänomenta_und_Nordertor,_Flensburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/400px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/800px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/1200px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/1920px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg/1920px-NSG-BW-RV-4.045_Blauensee_Süd_08.05.15-3NL.jpg
+---
 
 ## Overview
 

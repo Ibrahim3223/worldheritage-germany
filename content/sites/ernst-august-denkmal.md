@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/400px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/800px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/1200px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/1920px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/1920px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
+---
 
 ## Overview
 

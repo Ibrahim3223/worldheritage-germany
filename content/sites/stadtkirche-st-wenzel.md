@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/400px-Naumburg_stwenzel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/800px-Naumburg_stwenzel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/1200px-Naumburg_stwenzel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/1920px-Naumburg_stwenzel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naumburg_stwenzel.jpg/1920px-Naumburg_stwenzel.jpg
+---
 
 ## Overview
 

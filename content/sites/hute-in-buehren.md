@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/400px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/800px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/1200px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/1920px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg/1920px-Silvopasture,_wood_pasture_in_Bühren,_district_Göttingen_03.jpg
+---
 
 ## Overview
 

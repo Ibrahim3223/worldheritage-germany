@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/400px-Hildesheimer_Dom_2015.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/800px-Hildesheimer_Dom_2015.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1200px-Hildesheimer_Dom_2015.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1920px-Hildesheimer_Dom_2015.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1920px-Hildesheimer_Dom_2015.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/400px-Kalchstraße_29_Memmingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/800px-Kalchstraße_29_Memmingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/1200px-Kalchstraße_29_Memmingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/1920px-Kalchstraße_29_Memmingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kalchstraße_29_Memmingen.JPG/1920px-Kalchstraße_29_Memmingen.JPG
+---
 
 ## Overview
 

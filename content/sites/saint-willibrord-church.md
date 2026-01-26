@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/400px-St.-Willibrord-Kirche_(Neetze).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/800px-St.-Willibrord-Kirche_(Neetze).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/1200px-St.-Willibrord-Kirche_(Neetze).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/1920px-St.-Willibrord-Kirche_(Neetze).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/St.-Willibrord-Kirche_(Neetze).jpg/1920px-St.-Willibrord-Kirche_(Neetze).jpg
+---
 
 ## Overview
 

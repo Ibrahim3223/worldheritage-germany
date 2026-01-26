@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/400px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/800px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1200px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1920px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1920px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
+---
 
 ## Overview
 

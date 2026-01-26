@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/400px-Sankt_Leonhards-Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/800px-Sankt_Leonhards-Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/1200px-Sankt_Leonhards-Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/1920px-Sankt_Leonhards-Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sankt_Leonhards-Kapelle.jpg/1920px-Sankt_Leonhards-Kapelle.jpg
+---
 
 ## Overview
 

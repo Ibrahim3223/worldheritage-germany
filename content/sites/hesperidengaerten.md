@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hesperidengarten_2.jpg/400px-Hesperidengarten_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hesperidengarten_2.jpg/800px-Hesperidengarten_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hesperidengarten_2.jpg/1200px-Hesperidengarten_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hesperidengarten_2.jpg/1920px-Hesperidengarten_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hesperidengarten_2.jpg/1920px-Hesperidengarten_2.jpg
+---
 
 ## Overview
 

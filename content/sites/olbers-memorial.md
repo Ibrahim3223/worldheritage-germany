@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/400px-Olbers-Denkmal,_Wallanlagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/800px-Olbers-Denkmal,_Wallanlagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/1200px-Olbers-Denkmal,_Wallanlagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/1920px-Olbers-Denkmal,_Wallanlagen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Olbers-Denkmal,_Wallanlagen.jpg/1920px-Olbers-Denkmal,_Wallanlagen.jpg
+---
 
 ## Overview
 

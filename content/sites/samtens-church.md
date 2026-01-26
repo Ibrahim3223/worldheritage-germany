@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/400px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/800px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/1200px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/1920px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rügen_asv2022-08_img02_Samtens_Kirche.jpg/1920px-Rügen_asv2022-08_img02_Samtens_Kirche.jpg
+---
 
 ## Overview
 

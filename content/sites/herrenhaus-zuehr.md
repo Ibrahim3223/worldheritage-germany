@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/400px-Herrenhaus_Zühr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/800px-Herrenhaus_Zühr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/1200px-Herrenhaus_Zühr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/1920px-Herrenhaus_Zühr.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Herrenhaus_Zühr.jpg/1920px-Herrenhaus_Zühr.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/400px-Nuthe_Castle_Lindau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/800px-Nuthe_Castle_Lindau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/1200px-Nuthe_Castle_Lindau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/1920px-Nuthe_Castle_Lindau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nuthe_Castle_Lindau.JPG/1920px-Nuthe_Castle_Lindau.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/400px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/800px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/1200px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/1920px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg/1920px-Falckensteiner_Strand_im_Hintergrund_das_Ehrenmal_Laboe.jpg
+---
 
 ## Overview
 

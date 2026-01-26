@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/400px-07.08.21.Bundeskanzleramt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/800px-07.08.21.Bundeskanzleramt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1200px-07.08.21.Bundeskanzleramt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1920px-07.08.21.Bundeskanzleramt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1920px-07.08.21.Bundeskanzleramt.jpg
+---
 
 ## Overview
 

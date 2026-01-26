@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg/400px-Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg/800px-Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg/1200px-Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg/1920px-Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg/1920px-Buchenlochhoehle_-_geo.hlipp.de_-_6529.jpg
+---
 
 ## Overview
 

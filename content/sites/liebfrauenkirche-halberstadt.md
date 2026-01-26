@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/400px-Liebfrauenkirche_Halberstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/800px-Liebfrauenkirche_Halberstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1200px-Liebfrauenkirche_Halberstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1920px-Liebfrauenkirche_Halberstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Liebfrauenkirche_Halberstadt.jpg/1920px-Liebfrauenkirche_Halberstadt.jpg
+---
 
 ## Overview
 

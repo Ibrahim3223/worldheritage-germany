@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/400px-Westfalenpark-100818-16820-St-Bonifatius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/800px-Westfalenpark-100818-16820-St-Bonifatius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1200px-Westfalenpark-100818-16820-St-Bonifatius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1920px-Westfalenpark-100818-16820-St-Bonifatius.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1920px-Westfalenpark-100818-16820-St-Bonifatius.jpg
+---
 
 ## Overview
 

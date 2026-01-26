@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/400px-Westervesede_-_Holländer_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/800px-Westervesede_-_Holländer_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/1200px-Westervesede_-_Holländer_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/1920px-Westervesede_-_Holländer_Windmühle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Westervesede_-_Holländer_Windmühle.jpg/1920px-Westervesede_-_Holländer_Windmühle.jpg
+---
 
 ## Overview
 

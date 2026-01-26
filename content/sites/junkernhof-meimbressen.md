@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/400px-Junkershof_Meimbressen_(02).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/800px-Junkershof_Meimbressen_(02).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/1200px-Junkershof_Meimbressen_(02).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/1920px-Junkershof_Meimbressen_(02).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Junkershof_Meimbressen_(02).jpg/1920px-Junkershof_Meimbressen_(02).jpg
+---
 
 ## Overview
 

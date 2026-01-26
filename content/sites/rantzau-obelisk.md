@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/400px-Rantzau_Obelisk.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/800px-Rantzau_Obelisk.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/1200px-Rantzau_Obelisk.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/1920px-Rantzau_Obelisk.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rantzau_Obelisk.JPG/1920px-Rantzau_Obelisk.JPG
+---
 
 ## Overview
 

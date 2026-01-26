@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/400px-Boller_Moor_und_Lange_Lohe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/800px-Boller_Moor_und_Lange_Lohe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/1200px-Boller_Moor_und_Lange_Lohe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/1920px-Boller_Moor_und_Lange_Lohe.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Boller_Moor_und_Lange_Lohe.JPG/1920px-Boller_Moor_und_Lange_Lohe.JPG
+---
 
 ## Overview
 

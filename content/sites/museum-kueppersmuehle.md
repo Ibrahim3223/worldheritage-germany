@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/400px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/800px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/1200px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/1920px-Museum_Küppersmühle_Duisburg_-_Silos.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Museum_Küppersmühle_Duisburg_-_Silos.jpg/1920px-Museum_Küppersmühle_Duisburg_-_Silos.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/400px-Gansemarkt1726.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/800px-Gansemarkt1726.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/1200px-Gansemarkt1726.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/1920px-Gansemarkt1726.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gansemarkt1726.jpg/1920px-Gansemarkt1726.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/400px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/800px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/1200px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/1920px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/1920px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/400px-Christophorus-Kirche_Siemensstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/800px-Christophorus-Kirche_Siemensstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/1200px-Christophorus-Kirche_Siemensstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/1920px-Christophorus-Kirche_Siemensstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Christophorus-Kirche_Siemensstadt.jpg/1920px-Christophorus-Kirche_Siemensstadt.jpg
+---
 
 ## Overview
 

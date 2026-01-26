@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/400px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/800px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/1200px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/1920px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG/1920px-Kreuzberg_Askanischer_Platz_Tagesspiegel-Gebäude.JPG
+---
 
 ## Overview
 

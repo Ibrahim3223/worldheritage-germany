@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/400px-Oederanmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/800px-Oederanmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/1200px-Oederanmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/1920px-Oederanmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oederanmuseum.jpg/1920px-Oederanmuseum.jpg
+---
 
 ## Overview
 

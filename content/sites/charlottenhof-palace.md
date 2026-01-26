@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/400px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/800px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1200px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1920px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1920px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
+---
 
 ## Overview
 

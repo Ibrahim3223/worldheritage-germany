@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/400px-Wilster_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/800px-Wilster_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/1200px-Wilster_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/1920px-Wilster_Kirche_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wilster_Kirche_1.jpg/1920px-Wilster_Kirche_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/400px-BecklgMoorFläche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/800px-BecklgMoorFläche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1200px-BecklgMoorFläche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1920px-BecklgMoorFläche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1920px-BecklgMoorFläche.jpg
+---
 
 # Großes Moor bei Becklingen: A Comprehensive Guide to a Natural Sanctuary
 

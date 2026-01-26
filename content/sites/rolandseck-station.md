@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/400px-Rolandseck_Bahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/800px-Rolandseck_Bahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/1200px-Rolandseck_Bahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/1920px-Rolandseck_Bahnhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rolandseck_Bahnhof.jpg/1920px-Rolandseck_Bahnhof.jpg
+---
 
 ## Overview
 

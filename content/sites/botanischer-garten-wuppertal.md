@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/400px-Wuppertal_Hardt_0142.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/800px-Wuppertal_Hardt_0142.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1200px-Wuppertal_Hardt_0142.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1920px-Wuppertal_Hardt_0142.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1920px-Wuppertal_Hardt_0142.jpg
+---
 
 ## Overview
 

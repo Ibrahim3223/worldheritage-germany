@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/400px-Dillweißenstein_Hoheneck_Ruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/800px-Dillweißenstein_Hoheneck_Ruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/1200px-Dillweißenstein_Hoheneck_Ruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/1920px-Dillweißenstein_Hoheneck_Ruine.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dillweißenstein_Hoheneck_Ruine.jpg/1920px-Dillweißenstein_Hoheneck_Ruine.jpg
+---
 
 ## Overview
 

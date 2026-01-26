@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/400px-LeezdorfMühleHof_Ausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/800px-LeezdorfMühleHof_Ausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/1200px-LeezdorfMühleHof_Ausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/1920px-LeezdorfMühleHof_Ausschnitt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeezdorfMühleHof_Ausschnitt.jpg/1920px-LeezdorfMühleHof_Ausschnitt.jpg
+---
 
 ## Overview
 

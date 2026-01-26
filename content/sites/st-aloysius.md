@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/400px-Iserlohn-Aloysiuskirche3-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/800px-Iserlohn-Aloysiuskirche3-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/1200px-Iserlohn-Aloysiuskirche3-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/1920px-Iserlohn-Aloysiuskirche3-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Iserlohn-Aloysiuskirche3-Asio.JPG/1920px-Iserlohn-Aloysiuskirche3-Asio.JPG
+---
 
 ## Overview
 

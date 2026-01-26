@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/400px-Augsburg_tim-Museum_2010_Zugang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/800px-Augsburg_tim-Museum_2010_Zugang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/1200px-Augsburg_tim-Museum_2010_Zugang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/1920px-Augsburg_tim-Museum_2010_Zugang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/1920px-Augsburg_tim-Museum_2010_Zugang.jpg
+---
 
 ## Overview
 

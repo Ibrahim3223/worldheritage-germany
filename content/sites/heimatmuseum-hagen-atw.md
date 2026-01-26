@@ -15,7 +15,8 @@ wikidata_id: "Q76636126"
 latitude: 52.197401
 longitude: 7.978395
 images:
-  []---
+  []
+---
 
 # Heimatmuseum Hagen a.T.W.: A Cultural Journey in Germany
 

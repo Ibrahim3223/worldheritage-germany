@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/400px-Taubergiessen_fg2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/800px-Taubergiessen_fg2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/1200px-Taubergiessen_fg2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/1920px-Taubergiessen_fg2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Taubergiessen_fg2.jpg/1920px-Taubergiessen_fg2.jpg
+---
 
 ## Overview
 

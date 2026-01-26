@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/400px-Dialogmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/800px-Dialogmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/1200px-Dialogmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/1920px-Dialogmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dialogmuseum.jpg/1920px-Dialogmuseum.jpg
+---
 
 ## Overview
 

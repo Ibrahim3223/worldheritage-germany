@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/400px-Bergkirche-wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/800px-Bergkirche-wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1200px-Bergkirche-wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1920px-Bergkirche-wiesbaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bergkirche-wiesbaden.jpg/1920px-Bergkirche-wiesbaden.jpg
+---
 
 ## Overview
 

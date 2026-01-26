@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/400px-Falkenburg_Rottleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/800px-Falkenburg_Rottleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/1200px-Falkenburg_Rottleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/1920px-Falkenburg_Rottleben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Falkenburg_Rottleben.jpg/1920px-Falkenburg_Rottleben.jpg
+---
 
 ## Overview
 

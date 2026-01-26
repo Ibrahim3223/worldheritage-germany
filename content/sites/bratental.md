@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bratental_01.jpg/400px-Bratental_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bratental_01.jpg/800px-Bratental_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bratental_01.jpg/1200px-Bratental_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bratental_01.jpg/1920px-Bratental_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bratental_01.jpg/1920px-Bratental_01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/400px-Hofkapelle_Schwaldhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/800px-Hofkapelle_Schwaldhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/1200px-Hofkapelle_Schwaldhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/1920px-Hofkapelle_Schwaldhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hofkapelle_Schwaldhof.jpg/1920px-Hofkapelle_Schwaldhof.jpg
+---
 
 ## Overview
 

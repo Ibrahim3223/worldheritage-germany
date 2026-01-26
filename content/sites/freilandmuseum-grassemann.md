@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/400px-Freilandmuseum_Grassemann_2015_xy3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/800px-Freilandmuseum_Grassemann_2015_xy3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/1200px-Freilandmuseum_Grassemann_2015_xy3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/1920px-Freilandmuseum_Grassemann_2015_xy3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Freilandmuseum_Grassemann_2015_xy3.JPG/1920px-Freilandmuseum_Grassemann_2015_xy3.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/400px-Marmorpalais_mit_Vorgarten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/800px-Marmorpalais_mit_Vorgarten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1200px-Marmorpalais_mit_Vorgarten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1920px-Marmorpalais_mit_Vorgarten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1920px-Marmorpalais_mit_Vorgarten.JPG
+---
 
 ## Overview
 

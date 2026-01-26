@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/400px-Flora_Quedlinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/800px-Flora_Quedlinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/1200px-Flora_Quedlinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/1920px-Flora_Quedlinburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flora_Quedlinburg.jpg/1920px-Flora_Quedlinburg.jpg
+---
 
 ## Overview
 

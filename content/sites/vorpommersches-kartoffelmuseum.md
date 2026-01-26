@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG/400px-Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG/800px-Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG/1200px-Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG/1920px-Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG/1920px-Tribsees_Karl-Marx-Str_68_Königliche_Präparanden-Anstalt_Heimatmuseum_Vorpommersches_Kartoffelmuseum_Touristen-Information_2014-05-25_27.JPG
+---
 
 ## Overview
 

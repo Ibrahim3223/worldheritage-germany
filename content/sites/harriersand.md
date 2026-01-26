@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/400px-Harriersand-Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/800px-Harriersand-Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/1200px-Harriersand-Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/1920px-Harriersand-Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Harriersand-Panorama.jpg/1920px-Harriersand-Panorama.jpg
+---
 
 ## Overview
 

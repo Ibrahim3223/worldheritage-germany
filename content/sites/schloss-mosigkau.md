@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/400px-Schloss_Mosigkau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/800px-Schloss_Mosigkau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/1200px-Schloss_Mosigkau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/1920px-Schloss_Mosigkau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Schloss_Mosigkau.JPG/1920px-Schloss_Mosigkau.JPG
+---
 
 ## Overview
 

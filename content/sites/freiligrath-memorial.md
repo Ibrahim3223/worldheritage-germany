@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/400px-Freiligrath-Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/800px-Freiligrath-Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/1200px-Freiligrath-Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/1920px-Freiligrath-Denkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiligrath-Denkmal.JPG/1920px-Freiligrath-Denkmal.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/400px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/800px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/1200px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/1920px-D-BW_-_Aachtobel_-_Molassefelsen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/D-BW_-_Aachtobel_-_Molassefelsen.jpg/1920px-D-BW_-_Aachtobel_-_Molassefelsen.jpg
+---
 
 ## Overview
 

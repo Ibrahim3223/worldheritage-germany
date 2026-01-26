@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/400px-Burg_Gardelegen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/800px-Burg_Gardelegen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/1200px-Burg_Gardelegen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/1920px-Burg_Gardelegen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Burg_Gardelegen.jpg/1920px-Burg_Gardelegen.jpg
+---
 
 ## Overview
 

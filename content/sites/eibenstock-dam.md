@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/400px-Eibenstock_reservoir_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/800px-Eibenstock_reservoir_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1200px-Eibenstock_reservoir_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1920px-Eibenstock_reservoir_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1920px-Eibenstock_reservoir_(aka).jpg
+---
 
 ## Overview
 

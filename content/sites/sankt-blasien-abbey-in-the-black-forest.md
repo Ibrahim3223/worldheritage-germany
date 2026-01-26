@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/400px-Dom_zu_St._Blasien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/800px-Dom_zu_St._Blasien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/1200px-Dom_zu_St._Blasien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/1920px-Dom_zu_St._Blasien.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dom_zu_St._Blasien.jpg/1920px-Dom_zu_St._Blasien.jpg
+---
 
 ## Overview
 

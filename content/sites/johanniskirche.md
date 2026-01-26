@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/400px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/800px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/1200px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/1920px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG/1920px-Die_Johanniskirche,_Flensburg_(St._John's_Church,_Flensburg).JPG
+---
 
 ## Overview
 

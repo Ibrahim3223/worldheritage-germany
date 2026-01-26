@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/400px-Radebeul_Heimkehrerstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/800px-Radebeul_Heimkehrerstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/1200px-Radebeul_Heimkehrerstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/1920px-Radebeul_Heimkehrerstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Radebeul_Heimkehrerstein.jpg/1920px-Radebeul_Heimkehrerstein.jpg
+---
 
 ## Overview
 

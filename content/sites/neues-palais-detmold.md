@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/400px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/800px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/1200px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/1920px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg/1920px-Detmold_-_Hochschule-fuer-Musik_-_Panorama.jpg
+---
 
 # Neues Palais (Detmold): A Glimpse into German Royal Heritage
 

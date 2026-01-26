@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/400px-Bretten-Stadtmuseum1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/800px-Bretten-Stadtmuseum1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/1200px-Bretten-Stadtmuseum1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/1920px-Bretten-Stadtmuseum1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bretten-Stadtmuseum1-Asio.JPG/1920px-Bretten-Stadtmuseum1-Asio.JPG
+---
 
 ## Overview
 

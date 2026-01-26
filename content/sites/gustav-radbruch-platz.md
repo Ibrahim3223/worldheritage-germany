@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/400px-WP_Burgfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/800px-WP_Burgfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/1200px-WP_Burgfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/1920px-WP_Burgfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WP_Burgfeld.jpg/1920px-WP_Burgfeld.jpg
+---
 
 ## Overview
 

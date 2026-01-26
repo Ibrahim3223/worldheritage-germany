@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Winsenmuseum_Brunnen.jpg/400px-Winsenmuseum_Brunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Winsenmuseum_Brunnen.jpg/800px-Winsenmuseum_Brunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Winsenmuseum_Brunnen.jpg/1200px-Winsenmuseum_Brunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Winsenmuseum_Brunnen.jpg/1920px-Winsenmuseum_Brunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Winsenmuseum_Brunnen.jpg/1920px-Winsenmuseum_Brunnen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/400px-Flein_Sandberghalle_Neubau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/800px-Flein_Sandberghalle_Neubau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/1200px-Flein_Sandberghalle_Neubau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/1920px-Flein_Sandberghalle_Neubau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flein_Sandberghalle_Neubau.JPG/1920px-Flein_Sandberghalle_Neubau.JPG
+---
 
 ## Overview
 

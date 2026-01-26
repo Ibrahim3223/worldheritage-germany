@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/400px-ChurchVisquard.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/800px-ChurchVisquard.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/1200px-ChurchVisquard.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/1920px-ChurchVisquard.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/ChurchVisquard.jpg/1920px-ChurchVisquard.jpg
+---
 
 ## Overview
 

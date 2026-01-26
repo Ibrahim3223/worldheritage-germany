@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg/400px-Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg/800px-Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg/1200px-Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg/1920px-Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg/1920px-Synagoge_Laupheim_Landesarchiv_Baden-Wuerttemberg_Hauptstaatsarchiv_Stuttgart_EA_99-001_Bü_305_Nr._1055.jpg
+---
 
 ## Overview
 

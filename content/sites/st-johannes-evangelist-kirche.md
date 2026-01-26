@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/400px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/800px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/1200px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/1920px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg/1920px-Berlin,_Mitte,_Auguststrasse_90,_Johannes-Evangelist-Kirche.jpg
+---
 
 ## Overview
 

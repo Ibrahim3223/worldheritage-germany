@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/400px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/800px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/1200px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/1920px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/1920px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/400px-Bergwaldtheater.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/800px-Bergwaldtheater.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/1200px-Bergwaldtheater.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/1920px-Bergwaldtheater.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bergwaldtheater.JPG/1920px-Bergwaldtheater.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/400px-Fahretoft_kirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/800px-Fahretoft_kirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1200px-Fahretoft_kirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1920px-Fahretoft_kirche2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fahretoft_kirche2.jpg/1920px-Fahretoft_kirche2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/400px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/800px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/1200px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/1920px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/011104_passau-pfarrkirche-st-paul_1-480x640.jpg/1920px-011104_passau-pfarrkirche-st-paul_1-480x640.jpg
+---
 
 ## Overview
 

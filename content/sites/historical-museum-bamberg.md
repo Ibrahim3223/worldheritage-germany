@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/400px-Bamberg-Alte_Hofhaltung-Fassade.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/800px-Bamberg-Alte_Hofhaltung-Fassade.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1200px-Bamberg-Alte_Hofhaltung-Fassade.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1920px-Bamberg-Alte_Hofhaltung-Fassade.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1920px-Bamberg-Alte_Hofhaltung-Fassade.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/400px-Kapelle_Kuntzow_West.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/800px-Kapelle_Kuntzow_West.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/1200px-Kapelle_Kuntzow_West.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/1920px-Kapelle_Kuntzow_West.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kapelle_Kuntzow_West.jpg/1920px-Kapelle_Kuntzow_West.jpg
+---
 
 ## Overview
 

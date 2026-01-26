@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/400px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/800px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1920px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1920px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Martinikirche_01_1a.jpg/400px-Martinikirche_01_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Martinikirche_01_1a.jpg/800px-Martinikirche_01_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Martinikirche_01_1a.jpg/1200px-Martinikirche_01_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Martinikirche_01_1a.jpg/1920px-Martinikirche_01_1a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Martinikirche_01_1a.jpg/1920px-Martinikirche_01_1a.jpg
+---
 
 ## Overview
 

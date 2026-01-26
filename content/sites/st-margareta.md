@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/400px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/800px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/1200px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/1920px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sankt._Margareta_Koenigswinter-Stieldorf.jpg/1920px-Sankt._Margareta_Koenigswinter-Stieldorf.jpg
+---
 
 ## Overview
 

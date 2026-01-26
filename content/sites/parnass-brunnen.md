@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg/400px-1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg/800px-1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg/1200px-1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg/1920px-1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg/1920px-1727_Johann_Anton_de_Klyher_Kupferstich,_der_illuminierte_Neustädter_Markt_mit_dem_Parnaßbrunnen.jpg
+---
 
 ## Overview
 

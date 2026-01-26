@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blick_ins_Gießkannenmuseum_Gießen.jpg/400px-Blick_ins_Gießkannenmuseum_Gießen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blick_ins_Gießkannenmuseum_Gießen.jpg/800px-Blick_ins_Gießkannenmuseum_Gießen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blick_ins_Gießkannenmuseum_Gießen.jpg/1200px-Blick_ins_Gießkannenmuseum_Gießen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blick_ins_Gießkannenmuseum_Gießen.jpg/1920px-Blick_ins_Gießkannenmuseum_Gießen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blick_ins_Gießkannenmuseum_Gießen.jpg/1920px-Blick_ins_Gießkannenmuseum_Gießen.jpg
+---
 
 ## Overview
 

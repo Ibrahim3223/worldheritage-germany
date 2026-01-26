@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/400px-Kleefse_tuinen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/800px-Kleefse_tuinen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/1200px-Kleefse_tuinen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/1920px-Kleefse_tuinen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kleefse_tuinen.jpg/1920px-Kleefse_tuinen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/400px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/800px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/1200px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/1920px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg/1920px-München_-_Zentrum_für_Außergewöhnliche_Museen_(Eingangsbereich).jpg
+---
 
 ## Overview
 

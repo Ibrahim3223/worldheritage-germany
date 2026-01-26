@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/400px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/800px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/1200px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/1920px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg/1920px-Alfred_Krupp-Bronzedenkmal_Marktkirche,_Essen.jpg
+---
 
 ## Overview
 

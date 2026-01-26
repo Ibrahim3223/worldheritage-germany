@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/400px-MusikbibliothekPetersTalstrasse.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/800px-MusikbibliothekPetersTalstrasse.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/1200px-MusikbibliothekPetersTalstrasse.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/1920px-MusikbibliothekPetersTalstrasse.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MusikbibliothekPetersTalstrasse.JPG/1920px-MusikbibliothekPetersTalstrasse.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/400px-BurgLandeck2.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/800px-BurgLandeck2.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/1200px-BurgLandeck2.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/1920px-BurgLandeck2.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BurgLandeck2.png/1920px-BurgLandeck2.png
+---
 
 ## Overview
 

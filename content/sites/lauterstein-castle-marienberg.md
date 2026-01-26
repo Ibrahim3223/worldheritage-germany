@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/400px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/800px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/1200px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/1920px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg/1920px-20060924085DR_Niederlauterstein_(Marienberg)_Burgruine.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/400px-Pankow_Gaillardstr_Friedhofskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/800px-Pankow_Gaillardstr_Friedhofskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/1200px-Pankow_Gaillardstr_Friedhofskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/1920px-Pankow_Gaillardstr_Friedhofskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pankow_Gaillardstr_Friedhofskapelle.jpg/1920px-Pankow_Gaillardstr_Friedhofskapelle.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/400px-Reutlingen_Marienkirche_2012-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/800px-Reutlingen_Marienkirche_2012-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/1200px-Reutlingen_Marienkirche_2012-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/1920px-Reutlingen_Marienkirche_2012-04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Reutlingen_Marienkirche_2012-04.jpg/1920px-Reutlingen_Marienkirche_2012-04.jpg
+---
 
 ## Overview
 

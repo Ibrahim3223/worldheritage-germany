@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altes_Moor_1.JPG/400px-Altes_Moor_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altes_Moor_1.JPG/800px-Altes_Moor_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altes_Moor_1.JPG/1200px-Altes_Moor_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altes_Moor_1.JPG/1920px-Altes_Moor_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altes_Moor_1.JPG/1920px-Altes_Moor_1.JPG
+---
 
 ## Overview
 

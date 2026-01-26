@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/400px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/800px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/1200px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/1920px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG/1920px-Kirche_Langenhanshagen,_Chor_(2008-12-23).JPG
+---
 
 ## Overview
 

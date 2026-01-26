@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/400px-Eishockeymuseum_Augsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/800px-Eishockeymuseum_Augsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/1200px-Eishockeymuseum_Augsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/1920px-Eishockeymuseum_Augsburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eishockeymuseum_Augsburg.JPG/1920px-Eishockeymuseum_Augsburg.JPG
+---
 
 ## Overview
 

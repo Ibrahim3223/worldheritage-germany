@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jahn-Seckbach.jpg/400px-Jahn-Seckbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jahn-Seckbach.jpg/800px-Jahn-Seckbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jahn-Seckbach.jpg/1200px-Jahn-Seckbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jahn-Seckbach.jpg/1920px-Jahn-Seckbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jahn-Seckbach.jpg/1920px-Jahn-Seckbach.jpg
+---
 
 ## Overview
 

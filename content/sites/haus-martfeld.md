@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/400px-Tor_Haus_Martfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/800px-Tor_Haus_Martfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/1200px-Tor_Haus_Martfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/1920px-Tor_Haus_Martfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tor_Haus_Martfeld.jpg/1920px-Tor_Haus_Martfeld.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/400px-Viki-Markt.Maibaum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/800px-Viki-Markt.Maibaum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/1200px-Viki-Markt.Maibaum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/1920px-Viki-Markt.Maibaum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Viki-Markt.Maibaum.JPG/1920px-Viki-Markt.Maibaum.JPG
+---
 
 ## Overview
 

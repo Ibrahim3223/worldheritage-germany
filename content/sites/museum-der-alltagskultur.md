@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg/400px-Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg/800px-Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg/1200px-Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg/1920px-Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg/1920px-Museum_der_Alltagskultur_im_Schloss_Waldenbuch_-_panoramio_(1).jpg
+---
 
 ## Overview
 

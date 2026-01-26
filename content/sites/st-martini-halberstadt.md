@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/400px-Hbs_martinikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/800px-Hbs_martinikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/1200px-Hbs_martinikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/1920px-Hbs_martinikirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hbs_martinikirche.jpg/1920px-Hbs_martinikirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/400px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/800px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/1200px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/1920px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG/1920px-St._Maria_unter_dem_Kreuz_(Düsseldorf).JPG
+---
 
 ## Overview
 

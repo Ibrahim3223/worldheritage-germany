@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/400px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/800px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/1200px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/1920px-Burg-Stolpen_Hochschloss_20240829_150027.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg-Stolpen_Hochschloss_20240829_150027.jpg/1920px-Burg-Stolpen_Hochschloss_20240829_150027.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/400px-Sendeturm_Marburg_Lahnberge_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/800px-Sendeturm_Marburg_Lahnberge_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/1200px-Sendeturm_Marburg_Lahnberge_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/1920px-Sendeturm_Marburg_Lahnberge_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sendeturm_Marburg_Lahnberge_1.jpg/1920px-Sendeturm_Marburg_Lahnberge_1.jpg
+---
 
 ## Overview
 

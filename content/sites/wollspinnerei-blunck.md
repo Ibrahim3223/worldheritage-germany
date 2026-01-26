@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blunck_Maschine1.jpg/400px-Blunck_Maschine1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blunck_Maschine1.jpg/800px-Blunck_Maschine1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blunck_Maschine1.jpg/1200px-Blunck_Maschine1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blunck_Maschine1.jpg/1920px-Blunck_Maschine1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blunck_Maschine1.jpg/1920px-Blunck_Maschine1.jpg
+---
 
 ## Overview
 

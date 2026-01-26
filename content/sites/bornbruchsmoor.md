@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/190512_1035_NSG_Bornbruchsmoor.jpg/400px-190512_1035_NSG_Bornbruchsmoor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/190512_1035_NSG_Bornbruchsmoor.jpg/800px-190512_1035_NSG_Bornbruchsmoor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/190512_1035_NSG_Bornbruchsmoor.jpg/1200px-190512_1035_NSG_Bornbruchsmoor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/190512_1035_NSG_Bornbruchsmoor.jpg/1920px-190512_1035_NSG_Bornbruchsmoor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/190512_1035_NSG_Bornbruchsmoor.jpg/1920px-190512_1035_NSG_Bornbruchsmoor.jpg
+---
 
 ## Overview
 

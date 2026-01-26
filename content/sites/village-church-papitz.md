@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/400px-Papitz_Dorfkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/800px-Papitz_Dorfkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/1200px-Papitz_Dorfkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/1920px-Papitz_Dorfkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papitz_Dorfkirche.JPG/1920px-Papitz_Dorfkirche.JPG
+---
 
 ## Overview
 

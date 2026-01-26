@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/400px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/800px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/1200px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/1920px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bad_Säckingen_St_Fridolinsmünster_Portal.jpg/1920px-Bad_Säckingen_St_Fridolinsmünster_Portal.jpg
+---
 
 ## Overview
 

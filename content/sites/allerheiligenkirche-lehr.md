@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/400px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/800px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/1200px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/1920px-Allerheiligenkirche_Lehr_Aussenansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Allerheiligenkirche_Lehr_Aussenansicht.JPG/1920px-Allerheiligenkirche_Lehr_Aussenansicht.JPG
+---
 
 ## Overview
 

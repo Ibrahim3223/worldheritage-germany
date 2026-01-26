@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/400px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/800px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/1200px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/1920px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schloss_Johannisberg_(Aschaffenburg)_II.jpg/1920px-Schloss_Johannisberg_(Aschaffenburg)_II.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/400px-St_agnes_koeln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/800px-St_agnes_koeln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/1200px-St_agnes_koeln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/1920px-St_agnes_koeln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/St_agnes_koeln.jpg/1920px-St_agnes_koeln.jpg
+---
 
 ## Overview
 

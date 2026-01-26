@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/400px-Ballenstedt_Allee_37.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/800px-Ballenstedt_Allee_37.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/1200px-Ballenstedt_Allee_37.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/1920px-Ballenstedt_Allee_37.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ballenstedt_Allee_37.JPG/1920px-Ballenstedt_Allee_37.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/400px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/800px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1200px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1920px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg/1920px-Kirche_Zarnekow_Karlsburg_Vorpommern_-_03.jpg
+---
 
 ## Overview
 

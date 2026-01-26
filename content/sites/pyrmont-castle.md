@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/400px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/800px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/1200px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/1920px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG/1920px-Castle_Pyrmont_-_Roes_-_Rheinland-Pfalz_-_Germany_03.JPG
+---
 
 ## Overview
 

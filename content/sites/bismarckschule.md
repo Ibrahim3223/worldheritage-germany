@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/400px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/800px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1200px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1920px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1920px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
+---
 
 ## Overview
 

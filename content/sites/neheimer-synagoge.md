@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/400px-Neheimer_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/800px-Neheimer_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/1200px-Neheimer_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/1920px-Neheimer_Synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Neheimer_Synagoge.jpg/1920px-Neheimer_Synagoge.jpg
+---
 
 ## Overview
 

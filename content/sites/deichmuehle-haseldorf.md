@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/400px-Haseldorf_Deichmühle_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/800px-Haseldorf_Deichmühle_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/1200px-Haseldorf_Deichmühle_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/1920px-Haseldorf_Deichmühle_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Haseldorf_Deichmühle_2.jpg/1920px-Haseldorf_Deichmühle_2.jpg
+---
 
 ## Overview
 

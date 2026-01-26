@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/400px-Brenig_002x,_St._Evergislus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/800px-Brenig_002x,_St._Evergislus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/1200px-Brenig_002x,_St._Evergislus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/1920px-Brenig_002x,_St._Evergislus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brenig_002x,_St._Evergislus.jpg/1920px-Brenig_002x,_St._Evergislus.jpg
+---
 
 ## Overview
 

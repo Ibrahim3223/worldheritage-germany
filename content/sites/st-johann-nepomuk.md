@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/400px-St._Johann_Nepomuk_(Boos)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/800px-St._Johann_Nepomuk_(Boos)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/1200px-St._Johann_Nepomuk_(Boos)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/1920px-St._Johann_Nepomuk_(Boos)_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Johann_Nepomuk_(Boos)_01.JPG/1920px-St._Johann_Nepomuk_(Boos)_01.JPG
+---
 
 ## Overview
 

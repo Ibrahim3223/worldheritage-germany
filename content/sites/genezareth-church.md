@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/400px-Genezarethkirche_Cafe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/800px-Genezarethkirche_Cafe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1200px-Genezarethkirche_Cafe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1920px-Genezarethkirche_Cafe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1920px-Genezarethkirche_Cafe.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/400px-Travemünde.Columbia-Hotel.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/800px-Travemünde.Columbia-Hotel.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/1200px-Travemünde.Columbia-Hotel.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/1920px-Travemünde.Columbia-Hotel.wmt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Travemünde.Columbia-Hotel.wmt.jpg/1920px-Travemünde.Columbia-Hotel.wmt.jpg
+---
 
 ## Overview
 

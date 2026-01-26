@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dirmstein-02.JPG/400px-Dirmstein-02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dirmstein-02.JPG/800px-Dirmstein-02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dirmstein-02.JPG/1200px-Dirmstein-02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dirmstein-02.JPG/1920px-Dirmstein-02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dirmstein-02.JPG/1920px-Dirmstein-02.JPG
+---
 
 ## Overview
 

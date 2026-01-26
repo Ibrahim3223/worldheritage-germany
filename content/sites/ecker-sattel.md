@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/400px-Ecker_Sattel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/800px-Ecker_Sattel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/1200px-Ecker_Sattel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/1920px-Ecker_Sattel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ecker_Sattel.jpg/1920px-Ecker_Sattel.jpg
+---
 
 ## Overview
 

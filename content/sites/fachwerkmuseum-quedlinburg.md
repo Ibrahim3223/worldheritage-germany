@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wordgasse_ständerhaus_qlb.JPG/400px-Wordgasse_ständerhaus_qlb.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wordgasse_ständerhaus_qlb.JPG/800px-Wordgasse_ständerhaus_qlb.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wordgasse_ständerhaus_qlb.JPG/1200px-Wordgasse_ständerhaus_qlb.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wordgasse_ständerhaus_qlb.JPG/1920px-Wordgasse_ständerhaus_qlb.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wordgasse_ständerhaus_qlb.JPG/1920px-Wordgasse_ständerhaus_qlb.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2010-06-06-lueneburg-by-RalfR-13.jpg/400px-2010-06-06-lueneburg-by-RalfR-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2010-06-06-lueneburg-by-RalfR-13.jpg/800px-2010-06-06-lueneburg-by-RalfR-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2010-06-06-lueneburg-by-RalfR-13.jpg/1200px-2010-06-06-lueneburg-by-RalfR-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2010-06-06-lueneburg-by-RalfR-13.jpg/1920px-2010-06-06-lueneburg-by-RalfR-13.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2010-06-06-lueneburg-by-RalfR-13.jpg/1920px-2010-06-06-lueneburg-by-RalfR-13.jpg
+---
 
 ## Overview
 

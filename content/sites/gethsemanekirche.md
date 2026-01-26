@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/400px-Gethsemanekirche_Frankfurt_am_Main.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/800px-Gethsemanekirche_Frankfurt_am_Main.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/1200px-Gethsemanekirche_Frankfurt_am_Main.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/1920px-Gethsemanekirche_Frankfurt_am_Main.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gethsemanekirche_Frankfurt_am_Main.jpg/1920px-Gethsemanekirche_Frankfurt_am_Main.jpg
+---
 
 ## Overview
 

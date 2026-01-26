@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/400px-Ata-Moschee_(Flörsheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/800px-Ata-Moschee_(Flörsheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/1200px-Ata-Moschee_(Flörsheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/1920px-Ata-Moschee_(Flörsheim).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ata-Moschee_(Flörsheim).jpg/1920px-Ata-Moschee_(Flörsheim).jpg
+---
 
 ## Overview
 

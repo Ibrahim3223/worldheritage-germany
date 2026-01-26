@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/400px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/800px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/1200px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/1920px-Michaelis_Kirche_Raßnitz_Weßmar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Michaelis_Kirche_Raßnitz_Weßmar.jpg/1920px-Michaelis_Kirche_Raßnitz_Weßmar.jpg
+---
 
 ## Overview
 

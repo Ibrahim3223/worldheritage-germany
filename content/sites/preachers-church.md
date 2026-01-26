@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/400px-Predigerkirche_erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/800px-Predigerkirche_erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/1200px-Predigerkirche_erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/1920px-Predigerkirche_erfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Predigerkirche_erfurt.JPG/1920px-Predigerkirche_erfurt.JPG
+---
 
 ## Overview
 

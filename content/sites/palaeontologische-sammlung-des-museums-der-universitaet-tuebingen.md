@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plateosaurus_Skelett_1.jpg/400px-Plateosaurus_Skelett_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plateosaurus_Skelett_1.jpg/800px-Plateosaurus_Skelett_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plateosaurus_Skelett_1.jpg/1200px-Plateosaurus_Skelett_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plateosaurus_Skelett_1.jpg/1920px-Plateosaurus_Skelett_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plateosaurus_Skelett_1.jpg/1920px-Plateosaurus_Skelett_1.jpg
+---
 
 ## Overview
 

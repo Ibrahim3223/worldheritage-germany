@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/400px-Minden_WAGO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/800px-Minden_WAGO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/1200px-Minden_WAGO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/1920px-Minden_WAGO.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Minden_WAGO.jpg/1920px-Minden_WAGO.jpg
+---
 
 ## Overview
 

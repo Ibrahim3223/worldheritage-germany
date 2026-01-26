@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/400px-Moschee_in_Stood.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/800px-Moschee_in_Stood.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/1200px-Moschee_in_Stood.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/1920px-Moschee_in_Stood.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Moschee_in_Stood.jpg/1920px-Moschee_in_Stood.jpg
+---
 
 ## Overview
 

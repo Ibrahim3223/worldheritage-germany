@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/120916-Steglitz-Glockenturm_Patmoskirche.JPG/400px-120916-Steglitz-Glockenturm_Patmoskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/120916-Steglitz-Glockenturm_Patmoskirche.JPG/800px-120916-Steglitz-Glockenturm_Patmoskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/120916-Steglitz-Glockenturm_Patmoskirche.JPG/1200px-120916-Steglitz-Glockenturm_Patmoskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/120916-Steglitz-Glockenturm_Patmoskirche.JPG/1920px-120916-Steglitz-Glockenturm_Patmoskirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/120916-Steglitz-Glockenturm_Patmoskirche.JPG/1920px-120916-Steglitz-Glockenturm_Patmoskirche.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/400px-Packhof_Frankfurt_Oder_20141213_004.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/800px-Packhof_Frankfurt_Oder_20141213_004.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/1200px-Packhof_Frankfurt_Oder_20141213_004.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/1920px-Packhof_Frankfurt_Oder_20141213_004.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Packhof_Frankfurt_Oder_20141213_004.JPG/1920px-Packhof_Frankfurt_Oder_20141213_004.JPG
+---
 
 ## Overview
 

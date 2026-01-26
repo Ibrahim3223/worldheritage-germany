@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/400px-Sibyllenloch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/800px-Sibyllenloch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/1200px-Sibyllenloch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/1920px-Sibyllenloch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sibyllenloch.jpg/1920px-Sibyllenloch.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/400px-Nobistor_Altona_1880.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/800px-Nobistor_Altona_1880.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/1200px-Nobistor_Altona_1880.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/1920px-Nobistor_Altona_1880.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nobistor_Altona_1880.jpg/1920px-Nobistor_Altona_1880.jpg
+---
 
 ## Overview
 

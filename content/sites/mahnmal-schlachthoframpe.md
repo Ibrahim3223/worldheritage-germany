@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/400px-Wiesbaden_029.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/800px-Wiesbaden_029.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/1200px-Wiesbaden_029.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/1920px-Wiesbaden_029.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiesbaden_029.JPG/1920px-Wiesbaden_029.JPG
+---
 
 ## Overview
 

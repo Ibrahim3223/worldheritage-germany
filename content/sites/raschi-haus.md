@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/400px-Raschi-Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/800px-Raschi-Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/1200px-Raschi-Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/1920px-Raschi-Haus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/1920px-Raschi-Haus.JPG
+---
 
 ## Overview
 

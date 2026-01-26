@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/400px-Arenadueren1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/800px-Arenadueren1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/1200px-Arenadueren1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/1920px-Arenadueren1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Arenadueren1.jpg/1920px-Arenadueren1.jpg
+---
 
 ## Overview
 

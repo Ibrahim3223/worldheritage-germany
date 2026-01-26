@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/400px-Uetersen_Kirchenstr_7.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/800px-Uetersen_Kirchenstr_7.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/1200px-Uetersen_Kirchenstr_7.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/1920px-Uetersen_Kirchenstr_7.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Uetersen_Kirchenstr_7.jpg/1920px-Uetersen_Kirchenstr_7.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/400px-Horb_Synagogue_(8528802629).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/800px-Horb_Synagogue_(8528802629).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1200px-Horb_Synagogue_(8528802629).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1920px-Horb_Synagogue_(8528802629).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1920px-Horb_Synagogue_(8528802629).jpg
+---
 
 ## Overview
 

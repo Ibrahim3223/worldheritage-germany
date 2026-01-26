@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/400px-Görlitz_St._Peter_und_Paul_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/800px-Görlitz_St._Peter_und_Paul_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/1200px-Görlitz_St._Peter_und_Paul_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/1920px-Görlitz_St._Peter_und_Paul_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Görlitz_St._Peter_und_Paul_01.jpg/1920px-Görlitz_St._Peter_und_Paul_01.jpg
+---
 
 ## Overview
 

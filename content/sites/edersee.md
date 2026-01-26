@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/400px-Edersee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/800px-Edersee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/1200px-Edersee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/1920px-Edersee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Edersee.JPG/1920px-Edersee.JPG
+---
 
 ## Overview
 

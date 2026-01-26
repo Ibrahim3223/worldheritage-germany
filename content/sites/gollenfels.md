@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/400px-Gollenfels_main_building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/800px-Gollenfels_main_building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1200px-Gollenfels_main_building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1920px-Gollenfels_main_building.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1920px-Gollenfels_main_building.jpg
+---
 
 ## Overview
 

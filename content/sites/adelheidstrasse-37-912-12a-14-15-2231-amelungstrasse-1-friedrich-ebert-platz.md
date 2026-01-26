@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adelheidstraße_(Quedlinburg).JPG/400px-Adelheidstraße_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adelheidstraße_(Quedlinburg).JPG/800px-Adelheidstraße_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adelheidstraße_(Quedlinburg).JPG/1200px-Adelheidstraße_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adelheidstraße_(Quedlinburg).JPG/1920px-Adelheidstraße_(Quedlinburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adelheidstraße_(Quedlinburg).JPG/1920px-Adelheidstraße_(Quedlinburg).JPG
+---
 
 ## Overview
 

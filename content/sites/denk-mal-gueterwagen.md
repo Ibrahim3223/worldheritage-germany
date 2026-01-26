@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/400px-Hamburg.GS-Winterhude.Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/800px-Hamburg.GS-Winterhude.Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1200px-Hamburg.GS-Winterhude.Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1920px-Hamburg.GS-Winterhude.Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1920px-Hamburg.GS-Winterhude.Denkmal.jpg
+---
 
 ## Overview
 

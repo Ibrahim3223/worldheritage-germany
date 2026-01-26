@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Spitzberg_Panorama.jpg/400px-Spitzberg_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Spitzberg_Panorama.jpg/800px-Spitzberg_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Spitzberg_Panorama.jpg/1200px-Spitzberg_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Spitzberg_Panorama.jpg/1920px-Spitzberg_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Spitzberg_Panorama.jpg/1920px-Spitzberg_Panorama.jpg
+---
 
 ## Overview
 

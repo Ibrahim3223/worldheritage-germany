@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg/400px-Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg/800px-Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg/1200px-Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg/1920px-Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg/1920px-Rheinberg,_Orsoy,_Evangelische_Kirche,_2014-09_CN-01.jpg
+---
 
 ## Overview
 

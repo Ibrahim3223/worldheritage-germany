@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marburg_Portal_Landgraf-Philipp-Straße_4.JPG/400px-Marburg_Portal_Landgraf-Philipp-Straße_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marburg_Portal_Landgraf-Philipp-Straße_4.JPG/800px-Marburg_Portal_Landgraf-Philipp-Straße_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marburg_Portal_Landgraf-Philipp-Straße_4.JPG/1200px-Marburg_Portal_Landgraf-Philipp-Straße_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marburg_Portal_Landgraf-Philipp-Straße_4.JPG/1920px-Marburg_Portal_Landgraf-Philipp-Straße_4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marburg_Portal_Landgraf-Philipp-Straße_4.JPG/1920px-Marburg_Portal_Landgraf-Philipp-Straße_4.JPG
+---
 
 ## Overview
 

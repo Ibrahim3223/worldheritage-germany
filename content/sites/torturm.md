@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/400px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/800px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/1200px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/1920px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Neubrunn,_Hauptstraße_53,_Torturm-002.jpg/1920px-Neubrunn,_Hauptstraße_53,_Torturm-002.jpg
+---
 
 ## Overview
 

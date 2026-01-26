@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/400px-NSG-Blutwiese_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/800px-NSG-Blutwiese_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/1200px-NSG-Blutwiese_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/1920px-NSG-Blutwiese_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NSG-Blutwiese_01.jpg/1920px-NSG-Blutwiese_01.jpg
+---
 
 ## Overview
 

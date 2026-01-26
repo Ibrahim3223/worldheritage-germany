@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/400px-RheingauerGebückWolfsrück3Bäume.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/800px-RheingauerGebückWolfsrück3Bäume.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/1200px-RheingauerGebückWolfsrück3Bäume.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/1920px-RheingauerGebückWolfsrück3Bäume.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RheingauerGebückWolfsrück3Bäume.JPG/1920px-RheingauerGebückWolfsrück3Bäume.JPG
+---
 
 ## Overview
 

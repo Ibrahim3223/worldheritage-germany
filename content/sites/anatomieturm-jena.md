@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/400px-Anatomy_Tower.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/800px-Anatomy_Tower.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/1200px-Anatomy_Tower.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/1920px-Anatomy_Tower.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anatomy_Tower.jpg/1920px-Anatomy_Tower.jpg
+---
 
 ## Overview
 

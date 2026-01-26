@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/400px-St-Augustinus-Kirche-Stopfenheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/800px-St-Augustinus-Kirche-Stopfenheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/1200px-St-Augustinus-Kirche-Stopfenheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/1920px-St-Augustinus-Kirche-Stopfenheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St-Augustinus-Kirche-Stopfenheim.JPG/1920px-St-Augustinus-Kirche-Stopfenheim.JPG
+---
 
 ## Overview
 

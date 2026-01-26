@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/400px-Glashuettenmuseum_001_Museum_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/800px-Glashuettenmuseum_001_Museum_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1200px-Glashuettenmuseum_001_Museum_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1920px-Glashuettenmuseum_001_Museum_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1920px-Glashuettenmuseum_001_Museum_2009.jpg
+---
 
 ## Overview
 

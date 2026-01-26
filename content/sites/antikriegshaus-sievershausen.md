@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/400px-Antikriegshaus_Sievershausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/800px-Antikriegshaus_Sievershausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1200px-Antikriegshaus_Sievershausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1920px-Antikriegshaus_Sievershausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1920px-Antikriegshaus_Sievershausen.jpg
+---
 
 ## Overview
 

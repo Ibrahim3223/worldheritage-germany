@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/400px-Friedersdorf_Barockkirche_im_Herbst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/800px-Friedersdorf_Barockkirche_im_Herbst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/1200px-Friedersdorf_Barockkirche_im_Herbst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/1920px-Friedersdorf_Barockkirche_im_Herbst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedersdorf_Barockkirche_im_Herbst.jpg/1920px-Friedersdorf_Barockkirche_im_Herbst.jpg
+---
 
 ## Overview
 

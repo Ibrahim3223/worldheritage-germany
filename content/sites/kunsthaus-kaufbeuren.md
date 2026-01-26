@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/400px-Kaufbeuren,_Kunsthaus_(4).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/800px-Kaufbeuren,_Kunsthaus_(4).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/1200px-Kaufbeuren,_Kunsthaus_(4).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/1920px-Kaufbeuren,_Kunsthaus_(4).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kaufbeuren,_Kunsthaus_(4).JPG/1920px-Kaufbeuren,_Kunsthaus_(4).JPG
+---
 
 ## Overview
 

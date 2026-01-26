@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_schoeneberg_letteverein.jpg/400px-Berlin_schoeneberg_letteverein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_schoeneberg_letteverein.jpg/800px-Berlin_schoeneberg_letteverein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_schoeneberg_letteverein.jpg/1200px-Berlin_schoeneberg_letteverein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_schoeneberg_letteverein.jpg/1920px-Berlin_schoeneberg_letteverein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_schoeneberg_letteverein.jpg/1920px-Berlin_schoeneberg_letteverein.jpg
+---
 
 ## Overview
 

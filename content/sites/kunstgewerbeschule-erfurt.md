@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/400px-Hügelschule_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/800px-Hügelschule_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/1200px-Hügelschule_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/1920px-Hügelschule_Erfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hügelschule_Erfurt.JPG/1920px-Hügelschule_Erfurt.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/400px-Ernich_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/800px-Ernich_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/1200px-Ernich_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/1920px-Ernich_2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ernich_2008.jpg/1920px-Ernich_2008.jpg
+---
 
 ## Overview
 

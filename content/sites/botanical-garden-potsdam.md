@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/400px-ParadiesgartenTeich_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/800px-ParadiesgartenTeich_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1200px-ParadiesgartenTeich_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1920px-ParadiesgartenTeich_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1920px-ParadiesgartenTeich_2.JPG
+---
 
 ## Overview
 

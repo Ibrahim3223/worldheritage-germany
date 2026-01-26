@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/400px-Lindenau-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/800px-Lindenau-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/1200px-Lindenau-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/1920px-Lindenau-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lindenau-Museum.jpg/1920px-Lindenau-Museum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/400px-St-Joh-Baptist-Salbke2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/800px-St-Joh-Baptist-Salbke2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/1200px-St-Joh-Baptist-Salbke2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/1920px-St-Joh-Baptist-Salbke2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/St-Joh-Baptist-Salbke2.JPG/1920px-St-Joh-Baptist-Salbke2.JPG
+---
 
 ## Overview
 

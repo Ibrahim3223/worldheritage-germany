@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/400px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/800px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/1200px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/1920px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/1920px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
+---
 
 ## Overview
 

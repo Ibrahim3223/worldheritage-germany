@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/400px-AC_BR_Kreislauf_des_Geldes_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/800px-AC_BR_Kreislauf_des_Geldes_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/1200px-AC_BR_Kreislauf_des_Geldes_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/1920px-AC_BR_Kreislauf_des_Geldes_2024.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BR_Kreislauf_des_Geldes_2024.jpg/1920px-AC_BR_Kreislauf_des_Geldes_2024.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/400px-Kessin_Grapzow_Kirche_Nordwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/800px-Kessin_Grapzow_Kirche_Nordwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/1200px-Kessin_Grapzow_Kirche_Nordwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/1920px-Kessin_Grapzow_Kirche_Nordwest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kessin_Grapzow_Kirche_Nordwest.jpg/1920px-Kessin_Grapzow_Kirche_Nordwest.jpg
+---
 
 ## Overview
 

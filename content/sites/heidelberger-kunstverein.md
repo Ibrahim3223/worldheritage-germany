@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/400px-Kunstverein_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/800px-Kunstverein_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1200px-Kunstverein_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1920px-Kunstverein_Heidelberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1920px-Kunstverein_Heidelberg.jpg
+---
 
 ## Overview
 

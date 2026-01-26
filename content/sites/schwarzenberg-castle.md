@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/400px-Burgfried_Schloss_Schwarzenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/800px-Burgfried_Schloss_Schwarzenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/1200px-Burgfried_Schloss_Schwarzenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/1920px-Burgfried_Schloss_Schwarzenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgfried_Schloss_Schwarzenberg.jpg/1920px-Burgfried_Schloss_Schwarzenberg.jpg
+---
 
 ## Overview
 

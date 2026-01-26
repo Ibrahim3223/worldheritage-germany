@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/400px-Lutherdenkmal_Erfurt2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/800px-Lutherdenkmal_Erfurt2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/1200px-Lutherdenkmal_Erfurt2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/1920px-Lutherdenkmal_Erfurt2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lutherdenkmal_Erfurt2.JPG/1920px-Lutherdenkmal_Erfurt2.JPG
+---
 
 ## Overview
 

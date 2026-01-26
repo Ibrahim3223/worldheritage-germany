@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/400px-Heimatmuseum_BoemNl_Vorschau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/800px-Heimatmuseum_BoemNl_Vorschau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/1200px-Heimatmuseum_BoemNl_Vorschau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/1920px-Heimatmuseum_BoemNl_Vorschau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Heimatmuseum_BoemNl_Vorschau.jpg/1920px-Heimatmuseum_BoemNl_Vorschau.jpg
+---
 
 ## Overview
 

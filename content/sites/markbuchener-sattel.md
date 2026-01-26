@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/400px-Markbuchener.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/800px-Markbuchener.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/1200px-Markbuchener.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/1920px-Markbuchener.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Markbuchener.jpg/1920px-Markbuchener.jpg
+---
 
 ## Overview
 

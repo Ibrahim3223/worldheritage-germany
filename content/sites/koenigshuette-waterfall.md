@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/400px-KoenigshuetteWasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/800px-KoenigshuetteWasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/1200px-KoenigshuetteWasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/1920px-KoenigshuetteWasserfall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/KoenigshuetteWasserfall.jpg/1920px-KoenigshuetteWasserfall.jpg
+---
 
 ## Overview
 

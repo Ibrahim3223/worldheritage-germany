@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg/400px-Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg/800px-Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg/1200px-Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg/1920px-Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg/1920px-Eberswalde-Finow-Ehemaliges-Rathaus-Dorfstr.9.jpg
+---
 
 ## Overview
 

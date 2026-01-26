@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/400px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/800px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/1200px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/1920px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg/1920px-Lünen_Baudenkmal_05_Freiherr-vom-Stein-Gymnasium_-_Friedenstrasse_12_9309.jpg
+---
 
 ## Overview
 

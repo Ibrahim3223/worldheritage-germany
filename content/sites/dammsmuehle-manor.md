@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/400px-Dammsmühle2_(1994).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/800px-Dammsmühle2_(1994).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/1200px-Dammsmühle2_(1994).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/1920px-Dammsmühle2_(1994).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dammsmühle2_(1994).JPG/1920px-Dammsmühle2_(1994).JPG
+---
 
 ## Overview
 

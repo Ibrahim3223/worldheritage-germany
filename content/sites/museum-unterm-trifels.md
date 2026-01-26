@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/400px-Museum_unterm_Trifels.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/800px-Museum_unterm_Trifels.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/1200px-Museum_unterm_Trifels.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/1920px-Museum_unterm_Trifels.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_unterm_Trifels.JPG/1920px-Museum_unterm_Trifels.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/400px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/800px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/1200px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/1920px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG/1920px-2012_09_09_Kiekeberg_gr_Lokomobilwalze_DSCI8852_kp.JPG
+---
 
 ## Overview
 

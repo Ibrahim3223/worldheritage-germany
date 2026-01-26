@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/400px-Hadamar_-_Fohlenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/800px-Hadamar_-_Fohlenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1200px-Hadamar_-_Fohlenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1920px-Hadamar_-_Fohlenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1920px-Hadamar_-_Fohlenhof.jpg
+---
 
 ## Overview
 

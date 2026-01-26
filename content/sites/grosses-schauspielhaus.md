@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/400px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/800px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1200px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1920px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1920px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
+---
 
 ## Overview
 

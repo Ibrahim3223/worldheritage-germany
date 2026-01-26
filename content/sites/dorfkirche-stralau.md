@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/400px-Stralauer_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/800px-Stralauer_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1200px-Stralauer_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1920px-Stralauer_Dorfkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1920px-Stralauer_Dorfkirche.jpg
+---
 
 ## Overview
 

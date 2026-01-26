@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/400px-Tempzin_Kloster_2009-04-16_050.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/800px-Tempzin_Kloster_2009-04-16_050.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/1200px-Tempzin_Kloster_2009-04-16_050.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/1920px-Tempzin_Kloster_2009-04-16_050.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tempzin_Kloster_2009-04-16_050.jpg/1920px-Tempzin_Kloster_2009-04-16_050.jpg
+---
 
 ## Overview
 

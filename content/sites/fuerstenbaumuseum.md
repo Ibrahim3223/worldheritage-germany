@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/400px-Wü_MarienbergFüBauMuseumA.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/800px-Wü_MarienbergFüBauMuseumA.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/1200px-Wü_MarienbergFüBauMuseumA.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/1920px-Wü_MarienbergFüBauMuseumA.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wü_MarienbergFüBauMuseumA.jpg/1920px-Wü_MarienbergFüBauMuseumA.jpg
+---
 
 ## Overview
 

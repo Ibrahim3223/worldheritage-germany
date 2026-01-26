@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/400px-Baerenfels_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/800px-Baerenfels_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1200px-Baerenfels_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1920px-Baerenfels_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1920px-Baerenfels_01.jpg
+---
 
 ## Overview
 

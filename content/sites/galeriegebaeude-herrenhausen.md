@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/400px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/800px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/1200px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/1920px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg/1920px-Hannover-Herrenhausen-Großer-Garten-Galeriegebäude-Panorama.jpg
+---
 
 ## Overview
 

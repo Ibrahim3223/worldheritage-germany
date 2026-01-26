@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/400px-Staufenberg_De_Merian_Hassiae.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/800px-Staufenberg_De_Merian_Hassiae.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1200px-Staufenberg_De_Merian_Hassiae.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1920px-Staufenberg_De_Merian_Hassiae.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1920px-Staufenberg_De_Merian_Hassiae.jpg
+---
 
 ## Overview
 

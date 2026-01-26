@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/400px-Altshausen_Annakapelle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/800px-Altshausen_Annakapelle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/1200px-Altshausen_Annakapelle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/1920px-Altshausen_Annakapelle_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Altshausen_Annakapelle_1.jpg/1920px-Altshausen_Annakapelle_1.jpg
+---
 
 ## Overview
 

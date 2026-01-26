@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herschdorf-Denkmal.jpg/400px-Herschdorf-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herschdorf-Denkmal.jpg/800px-Herschdorf-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herschdorf-Denkmal.jpg/1200px-Herschdorf-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herschdorf-Denkmal.jpg/1920px-Herschdorf-Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Herschdorf-Denkmal.jpg/1920px-Herschdorf-Denkmal.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/400px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/800px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/1200px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/1920px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Neues_Rathaus_der_Stadt_Wiesbaden.jpg/1920px-Neues_Rathaus_der_Stadt_Wiesbaden.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/400px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/800px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1200px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1920px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1920px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
+---
 
 ## Overview
 

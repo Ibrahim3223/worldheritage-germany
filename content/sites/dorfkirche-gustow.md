@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/400px-Gustow_kirche_imgp7751.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/800px-Gustow_kirche_imgp7751.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1200px-Gustow_kirche_imgp7751.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1920px-Gustow_kirche_imgp7751.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1920px-Gustow_kirche_imgp7751.jpg
+---
 
 ## Overview
 

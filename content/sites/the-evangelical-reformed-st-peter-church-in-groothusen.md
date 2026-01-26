@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/400px-Groothusener_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/800px-Groothusener_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/1200px-Groothusener_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/1920px-Groothusener_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Groothusener_Kirche.jpg/1920px-Groothusener_Kirche.jpg
+---
 
 ## Overview
 

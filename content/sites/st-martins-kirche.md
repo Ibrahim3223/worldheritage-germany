@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/400px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/800px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/1200px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/1920px-Remels,_kerk_foto5_2010-05-15_13.23.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Remels,_kerk_foto5_2010-05-15_13.23.JPG/1920px-Remels,_kerk_foto5_2010-05-15_13.23.JPG
+---
 
 ## Overview
 

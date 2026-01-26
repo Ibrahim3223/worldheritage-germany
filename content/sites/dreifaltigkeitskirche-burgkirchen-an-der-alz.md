@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/400px-Dreifaltigkeitskirche_Burgkirchen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/800px-Dreifaltigkeitskirche_Burgkirchen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/1200px-Dreifaltigkeitskirche_Burgkirchen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/1920px-Dreifaltigkeitskirche_Burgkirchen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dreifaltigkeitskirche_Burgkirchen.JPG/1920px-Dreifaltigkeitskirche_Burgkirchen.JPG
+---
 
 ## Overview
 

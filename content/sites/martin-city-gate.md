@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Martins_Tor.JPG/400px-Martins_Tor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Martins_Tor.JPG/800px-Martins_Tor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Martins_Tor.JPG/1200px-Martins_Tor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Martins_Tor.JPG/1920px-Martins_Tor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Martins_Tor.JPG/1920px-Martins_Tor.JPG
+---
 
 ## Overview
 

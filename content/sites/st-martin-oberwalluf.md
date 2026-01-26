@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20120203_StMartinOberwalluf.JPG/400px-20120203_StMartinOberwalluf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20120203_StMartinOberwalluf.JPG/800px-20120203_StMartinOberwalluf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20120203_StMartinOberwalluf.JPG/1200px-20120203_StMartinOberwalluf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20120203_StMartinOberwalluf.JPG/1920px-20120203_StMartinOberwalluf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20120203_StMartinOberwalluf.JPG/1920px-20120203_StMartinOberwalluf.JPG
+---
 
 ## Overview
 

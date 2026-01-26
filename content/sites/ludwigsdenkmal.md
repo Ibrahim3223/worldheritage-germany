@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/400px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/800px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/1200px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/1920px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg/1920px-Worms-_Ludwigsdenkmal-_von_Ludwigsplatz_aus_4.3.2010.jpg
+---
 
 ## Overview
 

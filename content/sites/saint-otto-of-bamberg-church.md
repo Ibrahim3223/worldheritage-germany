@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/400px-Ottobrunn_St._Otto_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/800px-Ottobrunn_St._Otto_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/1200px-Ottobrunn_St._Otto_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/1920px-Ottobrunn_St._Otto_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ottobrunn_St._Otto_von_Osten.jpg/1920px-Ottobrunn_St._Otto_von_Osten.jpg
+---
 
 ## Overview
 

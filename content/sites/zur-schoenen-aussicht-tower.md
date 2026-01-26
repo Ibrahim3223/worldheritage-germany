@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/400px-Aussichtsturm_im_Heide-Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/800px-Aussichtsturm_im_Heide-Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/1200px-Aussichtsturm_im_Heide-Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/1920px-Aussichtsturm_im_Heide-Park.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aussichtsturm_im_Heide-Park.jpg/1920px-Aussichtsturm_im_Heide-Park.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/400px-ChurchNendorp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/800px-ChurchNendorp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1200px-ChurchNendorp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1920px-ChurchNendorp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchNendorp.jpg/1920px-ChurchNendorp.jpg
+---
 
 ## Overview
 

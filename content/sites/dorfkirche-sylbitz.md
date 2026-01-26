@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/400px-SylbitzKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/800px-SylbitzKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/1200px-SylbitzKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/1920px-SylbitzKirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/1920px-SylbitzKirche.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/400px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/800px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1200px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1920px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1920px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
+---
 
 ## Overview
 

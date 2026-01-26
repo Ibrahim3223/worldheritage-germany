@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/400px-Lighthouse_Darsser_Ort.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/800px-Lighthouse_Darsser_Ort.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/1200px-Lighthouse_Darsser_Ort.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/1920px-Lighthouse_Darsser_Ort.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Lighthouse_Darsser_Ort.jpg/1920px-Lighthouse_Darsser_Ort.jpg
+---
 
 ## Overview
 

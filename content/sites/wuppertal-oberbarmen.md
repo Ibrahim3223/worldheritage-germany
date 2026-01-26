@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/400px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/800px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/1200px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/1920px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg/1920px-Wuppertal_-_Bahnhof_Oberbarmen_04_ies.jpg
+---
 
 ## Overview
 

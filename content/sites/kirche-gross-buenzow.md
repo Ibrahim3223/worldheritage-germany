@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/400px-Groß_Bünzow_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/800px-Groß_Bünzow_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/1200px-Groß_Bünzow_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/1920px-Groß_Bünzow_Kirche_Südseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Groß_Bünzow_Kirche_Südseite.jpg/1920px-Groß_Bünzow_Kirche_Südseite.jpg
+---
 
 ## Overview
 

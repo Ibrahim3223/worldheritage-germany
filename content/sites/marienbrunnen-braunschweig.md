@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG/400px-Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG/800px-Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG/1200px-Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG/1920px-Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG/1920px-Braunschweig_Brunswick_Marienbrunnen_von_Süden_(2007).JPG
+---
 
 ## Overview
 

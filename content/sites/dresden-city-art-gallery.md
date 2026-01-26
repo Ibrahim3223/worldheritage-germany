@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/400px-Landhausstr.5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/800px-Landhausstr.5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1200px-Landhausstr.5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1920px-Landhausstr.5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1920px-Landhausstr.5.jpg
+---
 
 ## Overview
 

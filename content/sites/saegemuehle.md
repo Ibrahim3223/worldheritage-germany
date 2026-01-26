@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/400px-Steinwiesen-Teichmuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/800px-Steinwiesen-Teichmuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/1200px-Steinwiesen-Teichmuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/1920px-Steinwiesen-Teichmuehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinwiesen-Teichmuehle.jpg/1920px-Steinwiesen-Teichmuehle.jpg
+---
 
 ## Overview
 

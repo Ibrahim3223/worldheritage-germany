@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/400px-Osnabrück_Synagoge_2010_b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/800px-Osnabrück_Synagoge_2010_b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/1200px-Osnabrück_Synagoge_2010_b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/1920px-Osnabrück_Synagoge_2010_b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Osnabrück_Synagoge_2010_b.jpg/1920px-Osnabrück_Synagoge_2010_b.jpg
+---
 
 ## Overview
 

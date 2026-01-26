@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/400px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/800px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/1200px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/1920px-Museum_fuer_Moderne_Kunst_Portalseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Museum_fuer_Moderne_Kunst_Portalseite.jpg/1920px-Museum_fuer_Moderne_Kunst_Portalseite.jpg
+---
 
 ## Overview
 

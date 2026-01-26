@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/400px-Daetz-Centrum1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/800px-Daetz-Centrum1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/1200px-Daetz-Centrum1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/1920px-Daetz-Centrum1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Daetz-Centrum1.jpg/1920px-Daetz-Centrum1.jpg
+---
 
 ## Overview
 

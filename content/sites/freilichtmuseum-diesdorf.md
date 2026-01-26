@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/400px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/800px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/1200px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/1920px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg/1920px-Hallenhaus_im_Freilichtmuseum_Diesdorf.jpg
+---
 
 ## Overview
 

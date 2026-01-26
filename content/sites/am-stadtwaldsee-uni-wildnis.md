@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/400px-Uni-Wildnis-3729.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/800px-Uni-Wildnis-3729.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/1200px-Uni-Wildnis-3729.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/1920px-Uni-Wildnis-3729.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Uni-Wildnis-3729.jpg/1920px-Uni-Wildnis-3729.jpg
+---
 
 ## Overview
 

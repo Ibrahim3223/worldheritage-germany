@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/400px-Beilstein_mosel_burg_metternich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/800px-Beilstein_mosel_burg_metternich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/1200px-Beilstein_mosel_burg_metternich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/1920px-Beilstein_mosel_burg_metternich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beilstein_mosel_burg_metternich.jpg/1920px-Beilstein_mosel_burg_metternich.jpg
+---
 
 ## Overview
 

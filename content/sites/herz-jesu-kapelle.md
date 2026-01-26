@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/400px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/800px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/1200px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/1920px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Heiligendamm_Waldkapelle_2010-05-17_043.jpg/1920px-Heiligendamm_Waldkapelle_2010-05-17_043.jpg
+---
 
 ## Overview
 

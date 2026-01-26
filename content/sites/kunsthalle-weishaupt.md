@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/400px-Kunsthalle_Weishaupt_Frontseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/800px-Kunsthalle_Weishaupt_Frontseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/1200px-Kunsthalle_Weishaupt_Frontseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/1920px-Kunsthalle_Weishaupt_Frontseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kunsthalle_Weishaupt_Frontseite.jpg/1920px-Kunsthalle_Weishaupt_Frontseite.jpg
+---
 
 ## Overview
 

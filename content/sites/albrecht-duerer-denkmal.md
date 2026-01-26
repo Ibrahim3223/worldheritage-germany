@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/400px-Nuernberg-duererstadtbild-v-sso.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/800px-Nuernberg-duererstadtbild-v-sso.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1200px-Nuernberg-duererstadtbild-v-sso.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1920px-Nuernberg-duererstadtbild-v-sso.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1920px-Nuernberg-duererstadtbild-v-sso.jpg
+---
 
 ## Overview
 

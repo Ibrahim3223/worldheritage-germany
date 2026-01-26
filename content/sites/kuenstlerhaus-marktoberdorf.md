@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/400px-Künstlerhaus_Marktoberdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/800px-Künstlerhaus_Marktoberdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/1200px-Künstlerhaus_Marktoberdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/1920px-Künstlerhaus_Marktoberdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Künstlerhaus_Marktoberdorf.jpg/1920px-Künstlerhaus_Marktoberdorf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/400px-20110818Stiftskirche_St_Arnual02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/800px-20110818Stiftskirche_St_Arnual02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/1200px-20110818Stiftskirche_St_Arnual02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/1920px-20110818Stiftskirche_St_Arnual02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/20110818Stiftskirche_St_Arnual02.jpg/1920px-20110818Stiftskirche_St_Arnual02.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/400px-Iris-Jörg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/800px-Iris-Jörg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/1200px-Iris-Jörg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/1920px-Iris-Jörg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iris-Jörg.jpg/1920px-Iris-Jörg.jpg
+---
 
 ## Overview
 

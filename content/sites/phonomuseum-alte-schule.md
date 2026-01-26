@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/400px-Phonomuseum_Alte_Schule_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/800px-Phonomuseum_Alte_Schule_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/1200px-Phonomuseum_Alte_Schule_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/1920px-Phonomuseum_Alte_Schule_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Phonomuseum_Alte_Schule_2014.jpg/1920px-Phonomuseum_Alte_Schule_2014.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/400px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/800px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/1200px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/1920px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Church_Saint_Marys_Hainholz_Hanover_Germany.jpg/1920px-Church_Saint_Marys_Hainholz_Hanover_Germany.jpg
+---
 
 ## Overview
 

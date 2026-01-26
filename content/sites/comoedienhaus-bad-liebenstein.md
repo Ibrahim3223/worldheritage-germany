@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BadLiebenstein-Theater.jpg/400px-BadLiebenstein-Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BadLiebenstein-Theater.jpg/800px-BadLiebenstein-Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BadLiebenstein-Theater.jpg/1200px-BadLiebenstein-Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BadLiebenstein-Theater.jpg/1920px-BadLiebenstein-Theater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BadLiebenstein-Theater.jpg/1920px-BadLiebenstein-Theater.jpg
+---
 
 ## Overview
 

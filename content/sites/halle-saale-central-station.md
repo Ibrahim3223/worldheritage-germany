@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/400px-Hbf_Halle_(Saale).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/800px-Hbf_Halle_(Saale).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1200px-Hbf_Halle_(Saale).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1920px-Hbf_Halle_(Saale).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1920px-Hbf_Halle_(Saale).jpg
+---
 
 ## Overview
 

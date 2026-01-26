@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/400px-Abtei_Brauweiler_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/800px-Abtei_Brauweiler_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1200px-Abtei_Brauweiler_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1920px-Abtei_Brauweiler_Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1920px-Abtei_Brauweiler_Aussenansicht.jpg
+---
 
 ## Overview
 

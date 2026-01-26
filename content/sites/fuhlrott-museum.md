@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/400px-Fuhlrott-Museum_0001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/800px-Fuhlrott-Museum_0001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/1200px-Fuhlrott-Museum_0001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/1920px-Fuhlrott-Museum_0001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fuhlrott-Museum_0001.jpg/1920px-Fuhlrott-Museum_0001.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtturm_in_Westerheversand.jpg/400px-Leuchtturm_in_Westerheversand.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtturm_in_Westerheversand.jpg/800px-Leuchtturm_in_Westerheversand.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtturm_in_Westerheversand.jpg/1200px-Leuchtturm_in_Westerheversand.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtturm_in_Westerheversand.jpg/1920px-Leuchtturm_in_Westerheversand.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Leuchtturm_in_Westerheversand.jpg/1920px-Leuchtturm_in_Westerheversand.jpg
+---
 
 ## Overview
 

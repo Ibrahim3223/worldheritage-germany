@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg/400px-Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg/800px-Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg/1200px-Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg/1920px-Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg/1920px-Museum_of_Urban_and_Contemporary_Art_Muenchen-1.jpg
+---
 
 ## Overview
 

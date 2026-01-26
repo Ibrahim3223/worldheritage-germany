@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Selkefall_bei_Alexisbad.JPG/400px-Selkefall_bei_Alexisbad.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Selkefall_bei_Alexisbad.JPG/800px-Selkefall_bei_Alexisbad.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Selkefall_bei_Alexisbad.JPG/1200px-Selkefall_bei_Alexisbad.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Selkefall_bei_Alexisbad.JPG/1920px-Selkefall_bei_Alexisbad.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Selkefall_bei_Alexisbad.JPG/1920px-Selkefall_bei_Alexisbad.JPG
+---
 
 ## Overview
 

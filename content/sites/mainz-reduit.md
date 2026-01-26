@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/400px-Reduit-Kastel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/800px-Reduit-Kastel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/1200px-Reduit-Kastel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/1920px-Reduit-Kastel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Reduit-Kastel.jpg/1920px-Reduit-Kastel.jpg
+---
 
 ## Overview
 

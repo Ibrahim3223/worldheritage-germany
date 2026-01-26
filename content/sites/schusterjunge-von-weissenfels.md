@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weissenfels_-_Schusterjunge.JPG/400px-Weissenfels_-_Schusterjunge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weissenfels_-_Schusterjunge.JPG/800px-Weissenfels_-_Schusterjunge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weissenfels_-_Schusterjunge.JPG/1200px-Weissenfels_-_Schusterjunge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weissenfels_-_Schusterjunge.JPG/1920px-Weissenfels_-_Schusterjunge.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Weissenfels_-_Schusterjunge.JPG/1920px-Weissenfels_-_Schusterjunge.JPG
+---
 
 ## Overview
 

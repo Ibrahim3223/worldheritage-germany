@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/400px-Denkershaeuser_Teich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/800px-Denkershaeuser_Teich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/1200px-Denkershaeuser_Teich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/1920px-Denkershaeuser_Teich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Denkershaeuser_Teich.jpg/1920px-Denkershaeuser_Teich.jpg
+---
 
 ## Overview
 

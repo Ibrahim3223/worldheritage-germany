@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/400px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/800px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/1200px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/1920px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg/1920px-Herz-Jesu-Kirche_in_Duesseldorf-Derendorf,_von_Sueden.jpg
+---
 
 ## Overview
 

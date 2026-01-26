@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/400px-Harsewinkel_-_NSG_Am_Sundern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/800px-Harsewinkel_-_NSG_Am_Sundern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/1200px-Harsewinkel_-_NSG_Am_Sundern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/1920px-Harsewinkel_-_NSG_Am_Sundern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harsewinkel_-_NSG_Am_Sundern.jpg/1920px-Harsewinkel_-_NSG_Am_Sundern.jpg
+---
 
 ## Overview
 

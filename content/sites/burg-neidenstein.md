@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/400px-Neidenstein-veste-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/800px-Neidenstein-veste-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/1200px-Neidenstein-veste-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/1920px-Neidenstein-veste-web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Neidenstein-veste-web.jpg/1920px-Neidenstein-veste-web.jpg
+---
 
 ## Overview
 

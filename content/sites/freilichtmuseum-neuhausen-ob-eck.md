@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/400px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/800px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/1200px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/1920px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg/1920px-D-BW-Neuhausen_ob_Eck_-_Freilichtmuseum_-_Gasthaus_Ochsen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/400px-Wittmund,_Ardorf,_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/800px-Wittmund,_Ardorf,_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1200px-Wittmund,_Ardorf,_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1920px-Wittmund,_Ardorf,_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1920px-Wittmund,_Ardorf,_Kirche.jpg
+---
 
 ## Overview
 

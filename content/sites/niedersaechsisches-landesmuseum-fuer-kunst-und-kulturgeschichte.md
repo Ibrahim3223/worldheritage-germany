@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/400px-Landesmuseum_Oldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/800px-Landesmuseum_Oldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/1200px-Landesmuseum_Oldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/1920px-Landesmuseum_Oldenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Landesmuseum_Oldenburg.jpg/1920px-Landesmuseum_Oldenburg.jpg
+---
 
 ## Overview
 

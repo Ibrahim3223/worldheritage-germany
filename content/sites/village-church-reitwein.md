@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dorfkirche_Reitwein_2014_013.JPG/400px-Dorfkirche_Reitwein_2014_013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dorfkirche_Reitwein_2014_013.JPG/800px-Dorfkirche_Reitwein_2014_013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dorfkirche_Reitwein_2014_013.JPG/1200px-Dorfkirche_Reitwein_2014_013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dorfkirche_Reitwein_2014_013.JPG/1920px-Dorfkirche_Reitwein_2014_013.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dorfkirche_Reitwein_2014_013.JPG/1920px-Dorfkirche_Reitwein_2014_013.JPG
+---
 
 ## Overview
 

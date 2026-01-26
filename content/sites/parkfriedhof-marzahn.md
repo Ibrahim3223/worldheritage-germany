@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/400px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/800px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/1200px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/1920px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG/1920px-Parkfriedhof_Wiesenburger_Weg_110329_Marzahn_AMA_fec_(6).JPG
+---
 
 ## Overview
 

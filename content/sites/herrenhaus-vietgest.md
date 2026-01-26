@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/400px-Vietgest_manor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/800px-Vietgest_manor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/1200px-Vietgest_manor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/1920px-Vietgest_manor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietgest_manor.jpg/1920px-Vietgest_manor.jpg
+---
 
 ## Overview
 

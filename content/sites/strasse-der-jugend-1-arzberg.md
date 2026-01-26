@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/400px-Arzberg_Schule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/800px-Arzberg_Schule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/1200px-Arzberg_Schule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/1920px-Arzberg_Schule.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arzberg_Schule.jpg/1920px-Arzberg_Schule.jpg
+---
 
 ## Overview
 

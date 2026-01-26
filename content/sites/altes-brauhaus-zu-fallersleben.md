@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/400px-Brauhaus_Fallersleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/800px-Brauhaus_Fallersleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/1200px-Brauhaus_Fallersleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/1920px-Brauhaus_Fallersleben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brauhaus_Fallersleben.jpg/1920px-Brauhaus_Fallersleben.jpg
+---
 
 ## Overview
 

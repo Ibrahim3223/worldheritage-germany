@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/400px-Bahnhof_(Bautzen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/800px-Bahnhof_(Bautzen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/1200px-Bahnhof_(Bautzen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/1920px-Bahnhof_(Bautzen).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bahnhof_(Bautzen).jpg/1920px-Bahnhof_(Bautzen).jpg
+---
 
 ## Overview
 

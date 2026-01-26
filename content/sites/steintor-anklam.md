@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/400px-Steintor_Anklam.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/800px-Steintor_Anklam.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/1200px-Steintor_Anklam.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/1920px-Steintor_Anklam.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Steintor_Anklam.JPG/1920px-Steintor_Anklam.JPG
+---
 
 ## Overview
 

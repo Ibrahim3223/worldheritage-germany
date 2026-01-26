@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/400px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/800px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/1200px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/1920px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg/1920px-Züssow_Zwölf-Apostel-Kirche_Suedwestansicht.jpg
+---
 
 ## Overview
 

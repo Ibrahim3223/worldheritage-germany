@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/400px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/800px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1200px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1920px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1920px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
+---
 
 ## Overview
 

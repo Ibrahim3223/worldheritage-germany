@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/400px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/800px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/1200px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/1920px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/1920px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
+---
 
 ## Overview
 

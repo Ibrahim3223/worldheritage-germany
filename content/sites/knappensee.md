@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/400px-Knappensee_Groß_Särchen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/800px-Knappensee_Groß_Särchen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/1200px-Knappensee_Groß_Särchen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/1920px-Knappensee_Groß_Särchen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Knappensee_Groß_Särchen.JPG/1920px-Knappensee_Groß_Särchen.JPG
+---
 
 ## Overview
 

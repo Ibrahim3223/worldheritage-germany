@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/400px-Altstädter_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/800px-Altstädter_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1200px-Altstädter_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1920px-Altstädter_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1920px-Altstädter_Rathaus.jpg
+---
 
 ## Overview
 

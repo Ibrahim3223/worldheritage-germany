@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/400px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/800px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/1200px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/1920px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marienmünster_-_2016-10-15_-_Abtei_(38).jpg/1920px-Marienmünster_-_2016-10-15_-_Abtei_(38).jpg
+---
 
 ## Overview
 

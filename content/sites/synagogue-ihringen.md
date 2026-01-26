@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ihringen_Synagoge986.JPG/400px-Ihringen_Synagoge986.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ihringen_Synagoge986.JPG/800px-Ihringen_Synagoge986.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ihringen_Synagoge986.JPG/1200px-Ihringen_Synagoge986.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ihringen_Synagoge986.JPG/1920px-Ihringen_Synagoge986.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ihringen_Synagoge986.JPG/1920px-Ihringen_Synagoge986.JPG
+---
 
 ## Overview
 

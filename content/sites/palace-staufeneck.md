@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/400px-Palace_Staufeneck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/800px-Palace_Staufeneck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/1200px-Palace_Staufeneck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/1920px-Palace_Staufeneck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palace_Staufeneck.jpg/1920px-Palace_Staufeneck.jpg
+---
 
 ## Overview
 

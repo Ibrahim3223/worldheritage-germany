@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Möweninsel.png/400px-Möweninsel.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Möweninsel.png/800px-Möweninsel.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Möweninsel.png/1200px-Möweninsel.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Möweninsel.png/1920px-Möweninsel.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Möweninsel.png/1920px-Möweninsel.png
+---
 
 ## Overview
 

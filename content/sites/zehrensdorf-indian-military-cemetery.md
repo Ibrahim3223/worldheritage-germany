@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/400px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/800px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/1200px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/1920px-Zehrendorf_Kriegsgräberfriedhof_10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zehrendorf_Kriegsgräberfriedhof_10.jpg/1920px-Zehrendorf_Kriegsgräberfriedhof_10.jpg
+---
 
 ## Overview
 

@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/400px-Danewerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/800px-Danewerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/1200px-Danewerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/1920px-Danewerk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/1920px-Danewerk.jpg
+---
 
 ## Overview
 

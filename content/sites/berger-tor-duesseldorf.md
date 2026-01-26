@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg/400px-Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg/800px-Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg/1200px-Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg/1920px-Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg/1920px-Berger_Tor_in_Düsseldorf_erbaut_im_Jahre_1620,_Abbruch_1895.jpg
+---
 
 ## Overview
 

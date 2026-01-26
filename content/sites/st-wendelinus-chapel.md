@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/400px-Weisenbach-Wendelinuskapelle-01-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/800px-Weisenbach-Wendelinuskapelle-01-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/1200px-Weisenbach-Wendelinuskapelle-01-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/1920px-Weisenbach-Wendelinuskapelle-01-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Weisenbach-Wendelinuskapelle-01-gje.jpg/1920px-Weisenbach-Wendelinuskapelle-01-gje.jpg
+---
 
 ## Overview
 

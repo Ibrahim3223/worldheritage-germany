@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/400px-Deutsches_Museum_Bonn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/800px-Deutsches_Museum_Bonn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1200px-Deutsches_Museum_Bonn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1920px-Deutsches_Museum_Bonn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1920px-Deutsches_Museum_Bonn.jpg
+---
 
 ## Overview
 

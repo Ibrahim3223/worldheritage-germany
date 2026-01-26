@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/400px-Synagoge_Bielefeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/800px-Synagoge_Bielefeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1200px-Synagoge_Bielefeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1920px-Synagoge_Bielefeld.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1920px-Synagoge_Bielefeld.JPG
+---
 
 ## Overview
 

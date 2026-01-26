@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/400px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/800px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/1200px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/1920px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg/1920px-Altenbeken_-_2017-03-11_-_Eggemuseum_(04).jpg
+---
 
 ## Overview
 

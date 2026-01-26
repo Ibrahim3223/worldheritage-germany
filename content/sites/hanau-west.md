@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/400px-Bf_HU_West1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/800px-Bf_HU_West1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/1200px-Bf_HU_West1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/1920px-Bf_HU_West1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bf_HU_West1.jpg/1920px-Bf_HU_West1.jpg
+---
 
 ## Overview
 

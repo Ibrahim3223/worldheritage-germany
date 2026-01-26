@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/400px-St._Konrad_und_Elisabeth_(Freiburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/800px-St._Konrad_und_Elisabeth_(Freiburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1200px-St._Konrad_und_Elisabeth_(Freiburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1920px-St._Konrad_und_Elisabeth_(Freiburg).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1920px-St._Konrad_und_Elisabeth_(Freiburg).jpg
+---
 
 ## Overview
 

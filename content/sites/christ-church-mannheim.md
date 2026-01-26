@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/400px-ChristusKircheMAfront.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/800px-ChristusKircheMAfront.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1200px-ChristusKircheMAfront.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1920px-ChristusKircheMAfront.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1920px-ChristusKircheMAfront.jpg
+---
 
 ## Overview
 

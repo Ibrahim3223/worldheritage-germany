@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/400px-Neue_Museumshalle_Gillbachbahn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/800px-Neue_Museumshalle_Gillbachbahn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/1200px-Neue_Museumshalle_Gillbachbahn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/1920px-Neue_Museumshalle_Gillbachbahn.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Neue_Museumshalle_Gillbachbahn.JPG/1920px-Neue_Museumshalle_Gillbachbahn.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/400px-Epprechtstein_006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/800px-Epprechtstein_006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1200px-Epprechtstein_006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1920px-Epprechtstein_006.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1920px-Epprechtstein_006.JPG
+---
 
 ## Overview
 

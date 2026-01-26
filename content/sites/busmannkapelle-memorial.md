@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/400px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/800px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1200px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1920px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1920px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/400px-Lessinghaus_Kamenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/800px-Lessinghaus_Kamenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/1200px-Lessinghaus_Kamenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/1920px-Lessinghaus_Kamenz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lessinghaus_Kamenz.jpg/1920px-Lessinghaus_Kamenz.jpg
+---
 
 ## Overview
 

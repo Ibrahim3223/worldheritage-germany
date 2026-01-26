@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/400px-Muehle_Vrouw_Johanna_Emden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/800px-Muehle_Vrouw_Johanna_Emden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1200px-Muehle_Vrouw_Johanna_Emden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1920px-Muehle_Vrouw_Johanna_Emden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1920px-Muehle_Vrouw_Johanna_Emden.jpg
+---
 
 ## Overview
 

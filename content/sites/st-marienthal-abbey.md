@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kloster_St._Marienthal.jpg/400px-Kloster_St._Marienthal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kloster_St._Marienthal.jpg/800px-Kloster_St._Marienthal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kloster_St._Marienthal.jpg/1200px-Kloster_St._Marienthal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kloster_St._Marienthal.jpg/1920px-Kloster_St._Marienthal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kloster_St._Marienthal.jpg/1920px-Kloster_St._Marienthal.jpg
+---
 
 ## Overview
 

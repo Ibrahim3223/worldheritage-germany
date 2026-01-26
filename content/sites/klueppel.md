@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/400px-Großer_und_Kleiner_Klüppel_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/800px-Großer_und_Kleiner_Klüppel_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/1200px-Großer_und_Kleiner_Klüppel_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/1920px-Großer_und_Kleiner_Klüppel_Aachen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Großer_und_Kleiner_Klüppel_Aachen.jpg/1920px-Großer_und_Kleiner_Klüppel_Aachen.jpg
+---
 
 ## Overview
 

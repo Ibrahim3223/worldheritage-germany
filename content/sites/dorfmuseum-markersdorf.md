@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/400px-Dorfmuseum_Markersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/800px-Dorfmuseum_Markersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/1200px-Dorfmuseum_Markersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/1920px-Dorfmuseum_Markersdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfmuseum_Markersdorf.jpg/1920px-Dorfmuseum_Markersdorf.jpg
+---
 
 ## Overview
 

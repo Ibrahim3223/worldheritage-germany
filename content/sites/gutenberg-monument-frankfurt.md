@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/400px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/800px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/1200px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/1920px-Frankfurt_Gutenberg-Denkmal.20140607.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Gutenberg-Denkmal.20140607.jpg/1920px-Frankfurt_Gutenberg-Denkmal.20140607.jpg
+---
 
 ## Overview
 

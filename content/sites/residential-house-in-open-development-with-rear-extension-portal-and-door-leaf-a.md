@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/400px-Sebnitz_Sachsen_Germany_46.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/800px-Sebnitz_Sachsen_Germany_46.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/1200px-Sebnitz_Sachsen_Germany_46.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/1920px-Sebnitz_Sachsen_Germany_46.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sebnitz_Sachsen_Germany_46.jpg/1920px-Sebnitz_Sachsen_Germany_46.jpg
+---
 
 ## Overview
 

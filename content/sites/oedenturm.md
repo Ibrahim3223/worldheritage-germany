@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/400px-Ödenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/800px-Ödenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/1200px-Ödenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/1920px-Ödenturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ödenturm.jpg/1920px-Ödenturm.jpg
+---
 
 ## Overview
 

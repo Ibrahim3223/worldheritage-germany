@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Denkmal_Friedrich_I._(Preußen).jpg/400px-Denkmal_Friedrich_I._(Preußen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Denkmal_Friedrich_I._(Preußen).jpg/800px-Denkmal_Friedrich_I._(Preußen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Denkmal_Friedrich_I._(Preußen).jpg/1200px-Denkmal_Friedrich_I._(Preußen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Denkmal_Friedrich_I._(Preußen).jpg/1920px-Denkmal_Friedrich_I._(Preußen).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Denkmal_Friedrich_I._(Preußen).jpg/1920px-Denkmal_Friedrich_I._(Preußen).jpg
+---
 
 ## Overview
 

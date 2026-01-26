@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/400px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/800px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/1200px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg/1920px-Stralsund,_Fährwall_19,_Hansa-Gymnasium_(2012-03-04),_by_Klugschnacker_in_Wikipedia.jpg
+---
 
 ## Overview
 

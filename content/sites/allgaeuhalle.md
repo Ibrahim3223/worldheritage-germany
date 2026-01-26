@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/400px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/800px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/1200px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/1920px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg/1920px-Allgäuhalle_Kempten_(Foto_Hilarmont)_2.jpg
+---
 
 ## Overview
 

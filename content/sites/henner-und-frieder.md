@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/400px-Henner_Frieder_Siegen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/800px-Henner_Frieder_Siegen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/1200px-Henner_Frieder_Siegen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/1920px-Henner_Frieder_Siegen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Henner_Frieder_Siegen.jpg/1920px-Henner_Frieder_Siegen.jpg
+---
 
 ## Overview
 

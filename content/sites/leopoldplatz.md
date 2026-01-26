@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin-wedding-leopoldplatz.jpg/400px-Berlin-wedding-leopoldplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin-wedding-leopoldplatz.jpg/800px-Berlin-wedding-leopoldplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin-wedding-leopoldplatz.jpg/1200px-Berlin-wedding-leopoldplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin-wedding-leopoldplatz.jpg/1920px-Berlin-wedding-leopoldplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin-wedding-leopoldplatz.jpg/1920px-Berlin-wedding-leopoldplatz.jpg
+---
 
 ## Overview
 

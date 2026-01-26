@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/400px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/800px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1200px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1920px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1920px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
+---
 
 ## Overview
 

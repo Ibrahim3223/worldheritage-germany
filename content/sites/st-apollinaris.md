@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/400px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/800px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/1200px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/1920px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg/1920px-St._Apollinaris_in_Duesseldorf-Oberbilk,_von_Westen.jpg
+---
 
 ## Overview
 

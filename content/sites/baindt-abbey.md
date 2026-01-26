@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/400px-Baindt_Kloster_Ansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/800px-Baindt_Kloster_Ansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1200px-Baindt_Kloster_Ansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1920px-Baindt_Kloster_Ansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1920px-Baindt_Kloster_Ansicht.jpg
+---
 
 ## Overview
 

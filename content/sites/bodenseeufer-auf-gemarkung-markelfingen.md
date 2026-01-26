@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/400px-Aerials_Zellersee_Mettnau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/800px-Aerials_Zellersee_Mettnau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/1200px-Aerials_Zellersee_Mettnau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/1920px-Aerials_Zellersee_Mettnau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerials_Zellersee_Mettnau.jpg/1920px-Aerials_Zellersee_Mettnau.jpg
+---
 
 ## Overview
 

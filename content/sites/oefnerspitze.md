@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/400px-Öfnerspitze_from_Muttlerkopf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/800px-Öfnerspitze_from_Muttlerkopf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/1200px-Öfnerspitze_from_Muttlerkopf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/1920px-Öfnerspitze_from_Muttlerkopf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Öfnerspitze_from_Muttlerkopf.JPG/1920px-Öfnerspitze_from_Muttlerkopf.JPG
+---
 
 ## Overview
 

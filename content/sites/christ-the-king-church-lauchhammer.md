@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/400px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/800px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1200px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1920px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1920px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
+---
 
 ## Overview
 

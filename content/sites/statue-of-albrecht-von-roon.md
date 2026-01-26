@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/400px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/800px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/1200px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/1920px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG/1920px-Berlin_Tiergarten_Denkmal_Albrecht_Graf_von_Roon.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/400px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/800px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/1200px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/1920px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG/1920px-Weg_am_Großteich_im_Teichgebiet_Guttau_Biosphärenreservat_Oberlausitzer_Heide-_und_Teichlandschaft_03.JPG
+---
 
 ## Overview
 

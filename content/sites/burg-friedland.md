@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/400px-Friedland_Niederlausitz_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/800px-Friedland_Niederlausitz_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/1200px-Friedland_Niederlausitz_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/1920px-Friedland_Niederlausitz_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Friedland_Niederlausitz_Burg.jpg/1920px-Friedland_Niederlausitz_Burg.jpg
+---
 
 ## Overview
 

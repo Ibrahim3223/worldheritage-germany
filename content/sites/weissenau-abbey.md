@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/400px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/800px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/1200px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/1920px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg/1920px-Ravensburg_Kloster_Weissenau_Konvent_von_Osten.jpg
+---
 
 ## Overview
 

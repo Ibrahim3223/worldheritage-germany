@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/400px-Rinteln_St._Sturmius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/800px-Rinteln_St._Sturmius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/1200px-Rinteln_St._Sturmius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/1920px-Rinteln_St._Sturmius.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rinteln_St._Sturmius.jpg/1920px-Rinteln_St._Sturmius.jpg
+---
 
 ## Overview
 

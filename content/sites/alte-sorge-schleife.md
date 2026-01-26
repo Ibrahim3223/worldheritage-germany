@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/400px-Alte_Sorge-Schleife_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/800px-Alte_Sorge-Schleife_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/1200px-Alte_Sorge-Schleife_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/1920px-Alte_Sorge-Schleife_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alte_Sorge-Schleife_2.JPG/1920px-Alte_Sorge-Schleife_2.JPG
+---
 
 ## Overview
 

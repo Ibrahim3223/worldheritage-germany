@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/400px-DöllnitzKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/800px-DöllnitzKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/1200px-DöllnitzKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/1920px-DöllnitzKirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/DöllnitzKirche.JPG/1920px-DöllnitzKirche.JPG
+---
 
 ## Overview
 

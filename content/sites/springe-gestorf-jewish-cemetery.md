@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/400px-Gestorf_Juedischer_Friedhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/800px-Gestorf_Juedischer_Friedhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/1200px-Gestorf_Juedischer_Friedhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/1920px-Gestorf_Juedischer_Friedhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gestorf_Juedischer_Friedhof.JPG/1920px-Gestorf_Juedischer_Friedhof.JPG
+---
 
 ## Overview
 

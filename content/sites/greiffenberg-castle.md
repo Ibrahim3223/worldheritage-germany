@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/400px-Greiffenburg_ruin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/800px-Greiffenburg_ruin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/1200px-Greiffenburg_ruin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/1920px-Greiffenburg_ruin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Greiffenburg_ruin.jpg/1920px-Greiffenburg_ruin.jpg
+---
 
 ## Overview
 

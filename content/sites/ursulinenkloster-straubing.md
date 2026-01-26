@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/400px-Straubing,_Ursulinenkirche_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/800px-Straubing,_Ursulinenkirche_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/1200px-Straubing,_Ursulinenkirche_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/1920px-Straubing,_Ursulinenkirche_001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Straubing,_Ursulinenkirche_001.JPG/1920px-Straubing,_Ursulinenkirche_001.JPG
+---
 
 ## Overview
 

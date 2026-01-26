@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/400px-15NepomukPoststrasse.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/800px-15NepomukPoststrasse.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/1200px-15NepomukPoststrasse.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/1920px-15NepomukPoststrasse.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/15NepomukPoststrasse.JPG/1920px-15NepomukPoststrasse.JPG
+---
 
 ## Overview
 

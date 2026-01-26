@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/400px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/800px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/1200px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/1920px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hamburg_-_Kreuzkirche_in_Ottensen.jpg/1920px-Hamburg_-_Kreuzkirche_in_Ottensen.jpg
+---
 
 ## Overview
 

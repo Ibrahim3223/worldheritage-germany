@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/400px-Hagen_Osthaus_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/800px-Hagen_Osthaus_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/1200px-Hagen_Osthaus_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/1920px-Hagen_Osthaus_Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hagen_Osthaus_Museum.JPG/1920px-Hagen_Osthaus_Museum.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/400px-Burg_Wissem.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/800px-Burg_Wissem.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/1200px-Burg_Wissem.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/1920px-Burg_Wissem.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Wissem.JPG/1920px-Burg_Wissem.JPG
+---
 
 ## Overview
 

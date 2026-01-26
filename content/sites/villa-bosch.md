@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/400px-Hd-schlowo-villa-bosch.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/800px-Hd-schlowo-villa-bosch.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/1200px-Hd-schlowo-villa-bosch.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/1920px-Hd-schlowo-villa-bosch.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hd-schlowo-villa-bosch.JPG/1920px-Hd-schlowo-villa-bosch.JPG
+---
 
 ## Overview
 

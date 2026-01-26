@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/400px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/800px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/1200px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/1920px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg/1920px-Clp_20240415_94_80_0422_020-7_D-DB_Hp_Dortmund-Lütgendortmund_(S-Bahn).jpg
+---
 
 ## Overview
 

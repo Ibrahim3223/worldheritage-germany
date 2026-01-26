@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostertorwall_-_Bremen_-_1822.jpg/400px-Ostertorwall_-_Bremen_-_1822.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostertorwall_-_Bremen_-_1822.jpg/800px-Ostertorwall_-_Bremen_-_1822.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostertorwall_-_Bremen_-_1822.jpg/1200px-Ostertorwall_-_Bremen_-_1822.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostertorwall_-_Bremen_-_1822.jpg/1920px-Ostertorwall_-_Bremen_-_1822.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ostertorwall_-_Bremen_-_1822.jpg/1920px-Ostertorwall_-_Bremen_-_1822.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/400px-Leipzig_Alte_Nikolaischule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/800px-Leipzig_Alte_Nikolaischule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1200px-Leipzig_Alte_Nikolaischule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg
+---
 
 ## Overview
 

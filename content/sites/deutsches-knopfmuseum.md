@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eingang_Knopfmuseum.JPG/400px-Eingang_Knopfmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eingang_Knopfmuseum.JPG/800px-Eingang_Knopfmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eingang_Knopfmuseum.JPG/1200px-Eingang_Knopfmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eingang_Knopfmuseum.JPG/1920px-Eingang_Knopfmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eingang_Knopfmuseum.JPG/1920px-Eingang_Knopfmuseum.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/400px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/800px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/1200px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/1920px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG/1920px-Kreismuseum_Bad_Liebenwerda_Juni_2015.JPG
+---
 
 ## Overview
 

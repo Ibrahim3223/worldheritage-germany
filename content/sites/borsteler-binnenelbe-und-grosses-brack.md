@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/400px-Borsteler_Binnenelbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/800px-Borsteler_Binnenelbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/1200px-Borsteler_Binnenelbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/1920px-Borsteler_Binnenelbe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Borsteler_Binnenelbe.jpg/1920px-Borsteler_Binnenelbe.jpg
+---
 
 ## Overview
 

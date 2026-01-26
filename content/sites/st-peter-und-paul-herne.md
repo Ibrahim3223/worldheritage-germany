@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/400px-Herne_church_St_Peter_und_Paul.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/800px-Herne_church_St_Peter_und_Paul.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/1200px-Herne_church_St_Peter_und_Paul.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/1920px-Herne_church_St_Peter_und_Paul.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herne_church_St_Peter_und_Paul.jpg/1920px-Herne_church_St_Peter_und_Paul.jpg
+---
 
 ## Overview
 

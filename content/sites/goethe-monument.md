@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/400px-Schaper_Goethe_1880.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/800px-Schaper_Goethe_1880.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/1200px-Schaper_Goethe_1880.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/1920px-Schaper_Goethe_1880.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schaper_Goethe_1880.jpg/1920px-Schaper_Goethe_1880.jpg
+---
 
 ## Overview
 

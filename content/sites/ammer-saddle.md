@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/400px-20090919_Hiking_the_Hochplatte_(82).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/800px-20090919_Hiking_the_Hochplatte_(82).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1200px-20090919_Hiking_the_Hochplatte_(82).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1920px-20090919_Hiking_the_Hochplatte_(82).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1920px-20090919_Hiking_the_Hochplatte_(82).JPG
+---
 
 ## Overview
 

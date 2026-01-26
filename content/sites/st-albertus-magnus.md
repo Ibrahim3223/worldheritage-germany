@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/400px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/800px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1200px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1920px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg/1920px-St._Albertus_Magnus_in_Duesseldorf-Golzheim,_von_Suedwesten.jpg
+---
 
 ## Overview
 

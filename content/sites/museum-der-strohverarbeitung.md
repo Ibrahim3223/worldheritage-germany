@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/400px-Twistringen_Strohmuseum_Küche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/800px-Twistringen_Strohmuseum_Küche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/1200px-Twistringen_Strohmuseum_Küche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/1920px-Twistringen_Strohmuseum_Küche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Twistringen_Strohmuseum_Küche.JPG/1920px-Twistringen_Strohmuseum_Küche.JPG
+---
 
 ## Overview
 

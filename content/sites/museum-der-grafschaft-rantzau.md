@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/400px-Schlossinsel_Barmstedt2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/800px-Schlossinsel_Barmstedt2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/1200px-Schlossinsel_Barmstedt2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/1920px-Schlossinsel_Barmstedt2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schlossinsel_Barmstedt2.JPG/1920px-Schlossinsel_Barmstedt2.JPG
+---
 
 ## Overview
 

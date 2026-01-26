@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/400px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/800px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/1200px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/1920px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg/1920px-2010-05-23_Kl'felde_-_AMA.B_fec_-_185_Artistenmuseum.jpg
+---
 
 ## Overview
 

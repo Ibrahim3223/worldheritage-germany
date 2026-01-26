@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ehemalige_Synagoge_Coesfeld.jpg/400px-Ehemalige_Synagoge_Coesfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ehemalige_Synagoge_Coesfeld.jpg/800px-Ehemalige_Synagoge_Coesfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ehemalige_Synagoge_Coesfeld.jpg/1200px-Ehemalige_Synagoge_Coesfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ehemalige_Synagoge_Coesfeld.jpg/1920px-Ehemalige_Synagoge_Coesfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ehemalige_Synagoge_Coesfeld.jpg/1920px-Ehemalige_Synagoge_Coesfeld.jpg
+---
 
 ## Overview
 

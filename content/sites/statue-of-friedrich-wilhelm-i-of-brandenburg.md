@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/400px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/800px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/1200px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/1920px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG/1920px-Denkmal_der_Große_Kurfürst_(Sparrenburg).JPG
+---
 
 ## Overview
 

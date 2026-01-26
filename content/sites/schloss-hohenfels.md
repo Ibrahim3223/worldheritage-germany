@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/400px-Coburg-Schloss-Hohenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/800px-Coburg-Schloss-Hohenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/1200px-Coburg-Schloss-Hohenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/1920px-Coburg-Schloss-Hohenfels.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Coburg-Schloss-Hohenfels.jpg/1920px-Coburg-Schloss-Hohenfels.jpg
+---
 
 ## Overview
 

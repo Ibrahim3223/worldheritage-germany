@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/400px-Rüsternpfuhl.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/800px-Rüsternpfuhl.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/1200px-Rüsternpfuhl.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/1920px-Rüsternpfuhl.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rüsternpfuhl.JPG/1920px-Rüsternpfuhl.JPG
+---
 
 ## Overview
 

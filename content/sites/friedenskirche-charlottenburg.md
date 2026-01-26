@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/400px-Friedenskirche_Charlottenburg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/800px-Friedenskirche_Charlottenburg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1200px-Friedenskirche_Charlottenburg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1920px-Friedenskirche_Charlottenburg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1920px-Friedenskirche_Charlottenburg_1.jpg
+---
 
 ## Overview
 

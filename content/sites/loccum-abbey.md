@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/400px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/800px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/1200px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/1920px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg/1920px-Kloster_Loccum_in_Loccum-Rehburg_IMG_6114.jpg
+---
 
 ## Overview
 

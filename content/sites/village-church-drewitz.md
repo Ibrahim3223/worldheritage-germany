@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/400px-Dorfkirche_Drewitz_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/800px-Dorfkirche_Drewitz_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/1200px-Dorfkirche_Drewitz_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/1920px-Dorfkirche_Drewitz_Turm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dorfkirche_Drewitz_Turm.JPG/1920px-Dorfkirche_Drewitz_Turm.JPG
+---
 
 ## Overview
 

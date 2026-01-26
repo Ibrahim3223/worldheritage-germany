@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2008-06_Bhf_Göbelnrod.jpg/400px-2008-06_Bhf_Göbelnrod.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2008-06_Bhf_Göbelnrod.jpg/800px-2008-06_Bhf_Göbelnrod.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2008-06_Bhf_Göbelnrod.jpg/1200px-2008-06_Bhf_Göbelnrod.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2008-06_Bhf_Göbelnrod.jpg/1920px-2008-06_Bhf_Göbelnrod.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2008-06_Bhf_Göbelnrod.jpg/1920px-2008-06_Bhf_Göbelnrod.jpg
+---
 
 ## Overview
 

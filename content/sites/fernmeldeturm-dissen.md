@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/400px-Fernmeldeturm_Dissen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/800px-Fernmeldeturm_Dissen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/1200px-Fernmeldeturm_Dissen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/1920px-Fernmeldeturm_Dissen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fernmeldeturm_Dissen.jpg/1920px-Fernmeldeturm_Dissen.jpg
+---
 
 ## Overview
 

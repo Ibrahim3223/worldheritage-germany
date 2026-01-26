@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/400px-Mennonitenkirche-Leer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/800px-Mennonitenkirche-Leer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1200px-Mennonitenkirche-Leer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1920px-Mennonitenkirche-Leer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mennonitenkirche-Leer.jpg/1920px-Mennonitenkirche-Leer.jpg
+---
 
 ## Overview
 

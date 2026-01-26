@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/400px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/800px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/1200px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/1920px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg/1920px-Anglican_Church_Zeughausmarkt_22_Nr.195_Denkmanlliste.jpg
+---
 
 ## Overview
 

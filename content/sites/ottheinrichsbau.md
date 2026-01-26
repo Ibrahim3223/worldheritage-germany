@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/400px-Schloss_Heidelberg_Ottheinrichsbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/800px-Schloss_Heidelberg_Ottheinrichsbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/1200px-Schloss_Heidelberg_Ottheinrichsbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/1920px-Schloss_Heidelberg_Ottheinrichsbau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Heidelberg_Ottheinrichsbau.JPG/1920px-Schloss_Heidelberg_Ottheinrichsbau.JPG
+---
 
 ## Overview
 

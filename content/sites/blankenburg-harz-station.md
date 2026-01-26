@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/400px-Blankenburg_Bahnhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/800px-Blankenburg_Bahnhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/1200px-Blankenburg_Bahnhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/1920px-Blankenburg_Bahnhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blankenburg_Bahnhof.JPG/1920px-Blankenburg_Bahnhof.JPG
+---
 
 ## Overview
 

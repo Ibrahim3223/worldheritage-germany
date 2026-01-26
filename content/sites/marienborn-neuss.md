@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/400px-Neuss_Marienborn_asv2024-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/800px-Neuss_Marienborn_asv2024-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/1200px-Neuss_Marienborn_asv2024-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/1920px-Neuss_Marienborn_asv2024-05.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neuss_Marienborn_asv2024-05.jpg/1920px-Neuss_Marienborn_asv2024-05.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nikolaifleet,_Hamburg.jpg/400px-Nikolaifleet,_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nikolaifleet,_Hamburg.jpg/800px-Nikolaifleet,_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nikolaifleet,_Hamburg.jpg/1200px-Nikolaifleet,_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nikolaifleet,_Hamburg.jpg/1920px-Nikolaifleet,_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nikolaifleet,_Hamburg.jpg/1920px-Nikolaifleet,_Hamburg.jpg
+---
 
 ## Overview
 

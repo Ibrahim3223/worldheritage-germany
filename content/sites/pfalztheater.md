@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/400px-Pfalztheater_panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/800px-Pfalztheater_panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/1200px-Pfalztheater_panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/1920px-Pfalztheater_panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pfalztheater_panorama.jpg/1920px-Pfalztheater_panorama.jpg
+---
 
 ## Overview
 

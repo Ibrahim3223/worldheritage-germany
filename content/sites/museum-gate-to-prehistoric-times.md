@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/400px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/800px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/1200px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/1920px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_Tor_zur_Urzeit_Aussenansicht.jpg/1920px-Museum_Tor_zur_Urzeit_Aussenansicht.jpg
+---
 
 ## Overview
 

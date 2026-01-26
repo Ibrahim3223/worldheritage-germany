@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Die_Gustavsburg_in_Jaegersburg.jpg/400px-Die_Gustavsburg_in_Jaegersburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Die_Gustavsburg_in_Jaegersburg.jpg/800px-Die_Gustavsburg_in_Jaegersburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Die_Gustavsburg_in_Jaegersburg.jpg/1200px-Die_Gustavsburg_in_Jaegersburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Die_Gustavsburg_in_Jaegersburg.jpg/1920px-Die_Gustavsburg_in_Jaegersburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Die_Gustavsburg_in_Jaegersburg.jpg/1920px-Die_Gustavsburg_in_Jaegersburg.jpg
+---
 
 ## Overview
 

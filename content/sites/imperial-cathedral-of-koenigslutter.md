@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/400px-Kaiserdom_Königslutter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/800px-Kaiserdom_Königslutter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/1200px-Kaiserdom_Königslutter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/1920px-Kaiserdom_Königslutter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/1920px-Kaiserdom_Königslutter.jpg
+---
 
 ## Overview
 

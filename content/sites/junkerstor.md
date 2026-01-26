@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/400px-Junkerstor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/800px-Junkerstor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/1200px-Junkerstor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/1920px-Junkerstor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Junkerstor.jpg/1920px-Junkerstor.jpg
+---
 
 ## Overview
 

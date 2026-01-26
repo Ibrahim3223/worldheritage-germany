@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_900.jpg
+---
 
 ## Overview
 

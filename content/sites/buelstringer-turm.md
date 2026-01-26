@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/400px-Bülstringer_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/800px-Bülstringer_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/1200px-Bülstringer_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/1920px-Bülstringer_Turm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bülstringer_Turm.JPG/1920px-Bülstringer_Turm.JPG
+---
 
 ## Overview
 

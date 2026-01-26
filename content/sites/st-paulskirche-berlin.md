@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/400px-Germany_Berlin-Mitte_St-Paulskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/800px-Germany_Berlin-Mitte_St-Paulskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/1200px-Germany_Berlin-Mitte_St-Paulskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/1920px-Germany_Berlin-Mitte_St-Paulskirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Germany_Berlin-Mitte_St-Paulskirche.JPG/1920px-Germany_Berlin-Mitte_St-Paulskirche.JPG
+---
 
 ## Overview
 

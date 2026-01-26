@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/400px-Tarnow,_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/800px-Tarnow,_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1200px-Tarnow,_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1920px-Tarnow,_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1920px-Tarnow,_Kirche.jpg
+---
 
 ## Overview
 

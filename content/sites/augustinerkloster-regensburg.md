@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/400px-Augustinerplatz_1_Regensburg_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/800px-Augustinerplatz_1_Regensburg_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/1200px-Augustinerplatz_1_Regensburg_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/1920px-Augustinerplatz_1_Regensburg_2013.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Augustinerplatz_1_Regensburg_2013.JPG/1920px-Augustinerplatz_1_Regensburg_2013.JPG
+---
 
 ## Overview
 

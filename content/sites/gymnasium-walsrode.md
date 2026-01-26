@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/400px-Gymnasium_Walsrode_HHH_25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/800px-Gymnasium_Walsrode_HHH_25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/1200px-Gymnasium_Walsrode_HHH_25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/1920px-Gymnasium_Walsrode_HHH_25.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gymnasium_Walsrode_HHH_25.jpg/1920px-Gymnasium_Walsrode_HHH_25.jpg
+---
 
 ## Overview
 

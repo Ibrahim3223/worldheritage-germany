@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/400px-Juleum_Helmstedt_Collegium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/800px-Juleum_Helmstedt_Collegium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/1200px-Juleum_Helmstedt_Collegium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/1920px-Juleum_Helmstedt_Collegium.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Juleum_Helmstedt_Collegium.jpg/1920px-Juleum_Helmstedt_Collegium.jpg
+---
 
 ## Overview
 

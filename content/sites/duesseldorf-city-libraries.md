@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Library_Lab_20180609.jpg/400px-Library_Lab_20180609.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Library_Lab_20180609.jpg/800px-Library_Lab_20180609.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Library_Lab_20180609.jpg/1200px-Library_Lab_20180609.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Library_Lab_20180609.jpg/1920px-Library_Lab_20180609.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Library_Lab_20180609.jpg/1920px-Library_Lab_20180609.jpg
+---
 
 ## Overview
 

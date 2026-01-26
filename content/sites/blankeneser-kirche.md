@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/400px-Ensemble-Evangelische-Kirche-Blankenese.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/800px-Ensemble-Evangelische-Kirche-Blankenese.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1200px-Ensemble-Evangelische-Kirche-Blankenese.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1920px-Ensemble-Evangelische-Kirche-Blankenese.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1920px-Ensemble-Evangelische-Kirche-Blankenese.jpg
+---
 
 ## Overview
 

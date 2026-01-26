@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/400px-Rauenstein-Neues-Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/800px-Rauenstein-Neues-Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/1200px-Rauenstein-Neues-Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/1920px-Rauenstein-Neues-Schloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rauenstein-Neues-Schloss.jpg/1920px-Rauenstein-Neues-Schloss.jpg
+---
 
 ## Overview
 

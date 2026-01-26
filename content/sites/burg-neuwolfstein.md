@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/400px-Neuwolfstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/800px-Neuwolfstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1200px-Neuwolfstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1920px-Neuwolfstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1920px-Neuwolfstein.JPG
+---
 
 ## Overview
 

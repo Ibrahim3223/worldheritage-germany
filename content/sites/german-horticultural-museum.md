@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/400px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/800px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1200px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1920px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1920px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
+---
 
 ## Overview 
 

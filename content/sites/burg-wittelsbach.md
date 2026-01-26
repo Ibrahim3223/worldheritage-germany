@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/400px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/800px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1200px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1920px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1920px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
+---
 
 ## Overview
 

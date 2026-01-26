@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/400px-Denkmal_Planie.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/800px-Denkmal_Planie.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/1200px-Denkmal_Planie.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/1920px-Denkmal_Planie.PNG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Denkmal_Planie.PNG/1920px-Denkmal_Planie.PNG
+---
 
 ## Overview
 

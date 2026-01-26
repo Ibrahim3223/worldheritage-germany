@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/400px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/800px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1200px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1920px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1920px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
+---
 
 ## Overview
 

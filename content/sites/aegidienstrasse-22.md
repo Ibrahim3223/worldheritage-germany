@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/400px-GeverdeshofHL.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/800px-GeverdeshofHL.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/1200px-GeverdeshofHL.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/1920px-GeverdeshofHL.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/GeverdeshofHL.JPG/1920px-GeverdeshofHL.JPG
+---
 
 ## Overview
 

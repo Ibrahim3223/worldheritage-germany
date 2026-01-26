@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/400px-Moritzkirche_1800.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/800px-Moritzkirche_1800.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1200px-Moritzkirche_1800.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1920px-Moritzkirche_1800.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Moritzkirche_1800.jpg/1920px-Moritzkirche_1800.jpg
+---
 
 ## Overview
 

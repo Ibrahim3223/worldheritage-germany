@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/400px-Staufen_mountain_germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/800px-Staufen_mountain_germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/1200px-Staufen_mountain_germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/1920px-Staufen_mountain_germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Staufen_mountain_germany.jpg/1920px-Staufen_mountain_germany.jpg
+---
 
 ## Overview
 

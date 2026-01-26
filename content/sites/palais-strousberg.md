@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/400px-Palais_Strousberg_-_Facade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/800px-Palais_Strousberg_-_Facade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/1200px-Palais_Strousberg_-_Facade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/1920px-Palais_Strousberg_-_Facade.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Palais_Strousberg_-_Facade.jpg/1920px-Palais_Strousberg_-_Facade.jpg
+---
 
 ## Overview
 

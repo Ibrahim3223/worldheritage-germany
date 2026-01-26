@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/400px-Bendlerblock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/800px-Bendlerblock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1200px-Bendlerblock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1920px-Bendlerblock.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1920px-Bendlerblock.jpg
+---
 
 ## Overview
 

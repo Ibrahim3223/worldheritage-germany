@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/400px-141115-008-Burg_Layen-XL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/800px-141115-008-Burg_Layen-XL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/1200px-141115-008-Burg_Layen-XL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/1920px-141115-008-Burg_Layen-XL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/141115-008-Burg_Layen-XL.jpg/1920px-141115-008-Burg_Layen-XL.jpg
+---
 
 ## Overview
 

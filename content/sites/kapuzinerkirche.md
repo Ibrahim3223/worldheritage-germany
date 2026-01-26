@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/400px-Brakel_Kapuzinerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/800px-Brakel_Kapuzinerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/1200px-Brakel_Kapuzinerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/1920px-Brakel_Kapuzinerkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brakel_Kapuzinerkirche.jpg/1920px-Brakel_Kapuzinerkirche.jpg
+---
 
 ## Overview
 

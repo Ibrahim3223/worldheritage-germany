@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/400px-Rudolph-Brandes-Obelisk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/800px-Rudolph-Brandes-Obelisk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/1200px-Rudolph-Brandes-Obelisk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/1920px-Rudolph-Brandes-Obelisk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rudolph-Brandes-Obelisk.jpg/1920px-Rudolph-Brandes-Obelisk.jpg
+---
 
 ## Overview
 

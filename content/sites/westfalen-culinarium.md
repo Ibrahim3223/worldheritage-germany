@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/400px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/800px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/1200px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/1920px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Käsemuseum_Nieheim_Westfalen_Culinarium.JPG/1920px-Käsemuseum_Nieheim_Westfalen_Culinarium.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/400px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/800px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/1200px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/1920px-Pfarrkirche_St._Marien_in_Bochum_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pfarrkirche_St._Marien_in_Bochum_02.jpg/1920px-Pfarrkirche_St._Marien_in_Bochum_02.jpg
+---
 
 ## Overview
 

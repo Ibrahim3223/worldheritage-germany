@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wuppertal_Wichlinghauser_Kirche.jpg/400px-Wuppertal_Wichlinghauser_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wuppertal_Wichlinghauser_Kirche.jpg/800px-Wuppertal_Wichlinghauser_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wuppertal_Wichlinghauser_Kirche.jpg/1200px-Wuppertal_Wichlinghauser_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wuppertal_Wichlinghauser_Kirche.jpg/1920px-Wuppertal_Wichlinghauser_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wuppertal_Wichlinghauser_Kirche.jpg/1920px-Wuppertal_Wichlinghauser_Kirche.jpg
+---
 
 ## Overview
 

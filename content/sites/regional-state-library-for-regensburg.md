@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/400px-Gesandtenstraße_13_Regensburg_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/800px-Gesandtenstraße_13_Regensburg_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/1200px-Gesandtenstraße_13_Regensburg_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/1920px-Gesandtenstraße_13_Regensburg_2013.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gesandtenstraße_13_Regensburg_2013.JPG/1920px-Gesandtenstraße_13_Regensburg_2013.JPG
+---
 
 ## Overview
 

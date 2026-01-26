@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/400px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/800px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/1200px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/1920px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg/1920px-Zeche_Amalie_Essen,_Verwaltungsgebäude.jpg
+---
 
 ## Overview
 

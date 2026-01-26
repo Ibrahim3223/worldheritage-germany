@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/400px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/800px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1200px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1920px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1920px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
+---
 
 ## Overview
 

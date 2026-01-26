@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/400px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/800px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/1200px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/1920px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg/1920px-Bockholter_Dose_(NSG_WE_138)_im_Frühling.jpg
+---
 
 ## Overview
 

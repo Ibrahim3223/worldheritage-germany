@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/400px-Ortenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/800px-Ortenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/1200px-Ortenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/1920px-Ortenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ortenberg.jpg/1920px-Ortenberg.jpg
+---
 
 ## Overview
 

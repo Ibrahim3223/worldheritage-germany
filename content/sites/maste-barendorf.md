@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/400px-Fabrikenanlage_Maste-Barendorf_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/800px-Fabrikenanlage_Maste-Barendorf_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/1200px-Fabrikenanlage_Maste-Barendorf_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/1920px-Fabrikenanlage_Maste-Barendorf_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fabrikenanlage_Maste-Barendorf_2011.jpg/1920px-Fabrikenanlage_Maste-Barendorf_2011.jpg
+---
 
 ## Overview
 

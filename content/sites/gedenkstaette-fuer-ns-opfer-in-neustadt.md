@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/400px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/800px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/1200px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/1920px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg/1920px-Gedenkstätte_für_NS-Opfer_in_Neustadt.jpg
+---
 
 ## Overview
 

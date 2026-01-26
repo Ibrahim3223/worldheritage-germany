@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/400px-Harzweg_(Quedlinburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/800px-Harzweg_(Quedlinburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/1200px-Harzweg_(Quedlinburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/1920px-Harzweg_(Quedlinburg).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harzweg_(Quedlinburg).jpg/1920px-Harzweg_(Quedlinburg).jpg
+---
 
 ## Overview
 

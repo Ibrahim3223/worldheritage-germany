@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/400px-Farver_Muehle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/800px-Farver_Muehle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/1200px-Farver_Muehle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/1920px-Farver_Muehle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Farver_Muehle.JPG/1920px-Farver_Muehle.JPG
+---
 
 ## Overview
 

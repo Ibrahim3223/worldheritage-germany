@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/400px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/800px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/1200px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/1920px-Heribertturm_Ehrenbreitstein_Ansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Heribertturm_Ehrenbreitstein_Ansicht.jpg/1920px-Heribertturm_Ehrenbreitstein_Ansicht.jpg
+---
 
 ## Overview
 

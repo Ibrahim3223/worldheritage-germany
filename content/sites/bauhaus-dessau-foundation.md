@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/400px-Dessau_Bauhaus_neu.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/800px-Dessau_Bauhaus_neu.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1200px-Dessau_Bauhaus_neu.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1920px-Dessau_Bauhaus_neu.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1920px-Dessau_Bauhaus_neu.JPG
+---
 
 ## Overview
 

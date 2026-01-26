@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/400px-Marienkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/800px-Marienkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1200px-Marienkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1920px-Marienkapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marienkapelle.JPG/1920px-Marienkapelle.JPG
+---
 
 ## Overview
 

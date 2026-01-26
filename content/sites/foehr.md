@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/400px-Föhr_satellite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/800px-Föhr_satellite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1200px-Föhr_satellite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1920px-Föhr_satellite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1920px-Föhr_satellite.jpg
+---
 
 ## Overview
 

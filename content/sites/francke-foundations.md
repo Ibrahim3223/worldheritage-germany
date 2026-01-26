@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_"Franckeschen_Stiftungen"_-_panoramio.jpg/400px-Die_"Franckeschen_Stiftungen%22_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_%22Franckeschen_Stiftungen"_-_panoramio.jpg/800px-Die_"Franckeschen_Stiftungen"_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_"Franckeschen_Stiftungen"_-_panoramio.jpg/1200px-Die_"Franckeschen_Stiftungen%22_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_%22Franckeschen_Stiftungen"_-_panoramio.jpg/1920px-Die_"Franckeschen_Stiftungen"_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Die_%22Franckeschen_Stiftungen"_-_panoramio.jpg/1920px-Die_"Franckeschen_Stiftungen"_-_panoramio.jpg
+---
 
 ## Overview
 

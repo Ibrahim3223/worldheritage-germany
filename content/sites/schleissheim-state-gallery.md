@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/400px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/800px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/1200px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/1920px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG/1920px-Oberschleißheim_Neues_Schloss_Innen_Große_Galerie_4.JPG
+---
 
 ## Overview
 

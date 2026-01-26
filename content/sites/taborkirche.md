@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/400px-Taborkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/800px-Taborkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/1200px-Taborkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/1920px-Taborkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Taborkirche.jpg/1920px-Taborkirche.jpg
+---
 
 ## Overview
 

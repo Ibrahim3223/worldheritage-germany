@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ingolstadt,_St_Maria_de_Victoria_002.JPG/400px-Ingolstadt,_St_Maria_de_Victoria_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ingolstadt,_St_Maria_de_Victoria_002.JPG/800px-Ingolstadt,_St_Maria_de_Victoria_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ingolstadt,_St_Maria_de_Victoria_002.JPG/1200px-Ingolstadt,_St_Maria_de_Victoria_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ingolstadt,_St_Maria_de_Victoria_002.JPG/1920px-Ingolstadt,_St_Maria_de_Victoria_002.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ingolstadt,_St_Maria_de_Victoria_002.JPG/1920px-Ingolstadt,_St_Maria_de_Victoria_002.JPG
+---
 
 ## Overview
 

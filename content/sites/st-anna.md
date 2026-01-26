@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St._Anna_(Reichau)_01.JPG/400px-St._Anna_(Reichau)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St._Anna_(Reichau)_01.JPG/800px-St._Anna_(Reichau)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St._Anna_(Reichau)_01.JPG/1200px-St._Anna_(Reichau)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St._Anna_(Reichau)_01.JPG/1920px-St._Anna_(Reichau)_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/St._Anna_(Reichau)_01.JPG/1920px-St._Anna_(Reichau)_01.JPG
+---
 
 ## Overview
 

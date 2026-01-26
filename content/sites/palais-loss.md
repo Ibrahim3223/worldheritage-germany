@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/400px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/800px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/1200px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/1920px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg/1920px-Dresden,_Palais_Loß,_Kreuzstraße_Nr._10,_vor_dem_Abbruch_1905.jpg
+---
 
 ## Overview
 

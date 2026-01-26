@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eisbären_05.09.2013_mz_12.JPG/400px-Eisbären_05.09.2013_mz_12.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eisbären_05.09.2013_mz_12.JPG/800px-Eisbären_05.09.2013_mz_12.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eisbären_05.09.2013_mz_12.JPG/1200px-Eisbären_05.09.2013_mz_12.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eisbären_05.09.2013_mz_12.JPG/1920px-Eisbären_05.09.2013_mz_12.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eisbären_05.09.2013_mz_12.JPG/1920px-Eisbären_05.09.2013_mz_12.JPG
+---
 
 ## Overview
 

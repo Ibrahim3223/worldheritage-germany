@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/400px-StAlbani_Goettingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/800px-StAlbani_Goettingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/1200px-StAlbani_Goettingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/1920px-StAlbani_Goettingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/StAlbani_Goettingen.jpg/1920px-StAlbani_Goettingen.jpg
+---
 
 ## Overview
 

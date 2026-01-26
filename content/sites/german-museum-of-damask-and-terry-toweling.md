@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/400px-Großschönau_Schenaustraße_3_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/800px-Großschönau_Schenaustraße_3_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1200px-Großschönau_Schenaustraße_3_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1920px-Großschönau_Schenaustraße_3_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1920px-Großschönau_Schenaustraße_3_2.jpg
+---
 
 ## Overview
 

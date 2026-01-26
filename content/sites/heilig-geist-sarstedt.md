@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/400px-Sarstedt_Heilig-Geist_Portalseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/800px-Sarstedt_Heilig-Geist_Portalseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1200px-Sarstedt_Heilig-Geist_Portalseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1920px-Sarstedt_Heilig-Geist_Portalseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1920px-Sarstedt_Heilig-Geist_Portalseite.jpg
+---
 
 ## Overview
 

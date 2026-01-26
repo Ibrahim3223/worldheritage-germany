@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/400px-Robert-Bosch-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/800px-Robert-Bosch-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/1200px-Robert-Bosch-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/1920px-Robert-Bosch-Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Robert-Bosch-Haus.jpg/1920px-Robert-Bosch-Haus.jpg
+---
 
 ## Overview
 

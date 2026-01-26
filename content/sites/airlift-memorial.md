@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/400px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/800px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/1200px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/1920px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG/1920px-09055091_Berlin_Tempelhof,_Platz_der_Luftbrücke_003.JPG
+---
 
 ## Overview
 

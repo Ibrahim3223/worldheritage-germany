@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/400px-Stadtkirche_Vegesack_-_Bremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/800px-Stadtkirche_Vegesack_-_Bremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/1200px-Stadtkirche_Vegesack_-_Bremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/1920px-Stadtkirche_Vegesack_-_Bremen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Stadtkirche_Vegesack_-_Bremen.jpg/1920px-Stadtkirche_Vegesack_-_Bremen.jpg
+---
 
 ## Overview
 

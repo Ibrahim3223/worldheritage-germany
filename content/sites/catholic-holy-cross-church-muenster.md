@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/400px-Muenster-Kreuzkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/800px-Muenster-Kreuzkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/1200px-Muenster-Kreuzkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/1920px-Muenster-Kreuzkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Muenster-Kreuzkirche.jpg/1920px-Muenster-Kreuzkirche.jpg
+---
 
 ## Overview
 

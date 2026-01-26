@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/400px-BS_Stadtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/800px-BS_Stadtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/1200px-BS_Stadtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/1920px-BS_Stadtansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BS_Stadtansicht.jpg/1920px-BS_Stadtansicht.jpg
+---
 
 ## Overview
 

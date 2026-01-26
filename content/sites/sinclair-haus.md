@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BHvdH_Sinclair-Haus_20110320_Pano.jpg/400px-BHvdH_Sinclair-Haus_20110320_Pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BHvdH_Sinclair-Haus_20110320_Pano.jpg/800px-BHvdH_Sinclair-Haus_20110320_Pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BHvdH_Sinclair-Haus_20110320_Pano.jpg/1200px-BHvdH_Sinclair-Haus_20110320_Pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BHvdH_Sinclair-Haus_20110320_Pano.jpg/1920px-BHvdH_Sinclair-Haus_20110320_Pano.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BHvdH_Sinclair-Haus_20110320_Pano.jpg/1920px-BHvdH_Sinclair-Haus_20110320_Pano.jpg
+---
 
 ## Overview
 

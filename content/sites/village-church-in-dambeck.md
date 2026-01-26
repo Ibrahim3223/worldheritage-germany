@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/400px-Kirche_in_Dambeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/800px-Kirche_in_Dambeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/1200px-Kirche_in_Dambeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/1920px-Kirche_in_Dambeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirche_in_Dambeck.jpg/1920px-Kirche_in_Dambeck.jpg
+---
 
 ## Overview
 

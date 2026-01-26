@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/400px-Galgen_am_Glan_Blies_Radweg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/800px-Galgen_am_Glan_Blies_Radweg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/1200px-Galgen_am_Glan_Blies_Radweg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/1920px-Galgen_am_Glan_Blies_Radweg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Galgen_am_Glan_Blies_Radweg.JPG/1920px-Galgen_am_Glan_Blies_Radweg.JPG
+---
 
 ## Overview
 

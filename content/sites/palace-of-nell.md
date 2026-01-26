@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/400px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/800px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/1200px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/1920px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg/1920px-Perl_(Mosel),_the_Baroque_park_and_the_palace_of_Nell.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/400px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/800px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/1200px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/1920px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg/1920px-Synagogue_Lemle-Moses-Klaus,_Mannheim.jpg
+---
 
 ## Overview
 

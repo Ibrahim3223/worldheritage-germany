@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/400px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/800px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/1200px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/1920px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG/1920px-Mensa-im-park-pth-sankt-georgen-frankfurt-main.JPG
+---
 
 ## Overview
 

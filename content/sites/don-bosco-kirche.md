@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/400px-Don-Bosco-Augsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/800px-Don-Bosco-Augsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1200px-Don-Bosco-Augsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1920px-Don-Bosco-Augsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1920px-Don-Bosco-Augsburg.jpg
+---
 
 ## Overview
 

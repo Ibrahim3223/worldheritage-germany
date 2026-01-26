@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg/400px-Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg/800px-Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg/1200px-Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg/1920px-Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg/1920px-Koschendorf_Friedhof_Trauerhalle_Wackerbarth_Mausoleum_02.jpg
+---
 
 ## Overview
 

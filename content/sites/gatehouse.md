@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/400px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/800px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/1200px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/1920px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg/1920px-Wirtschaftshof_(Allersberg)_Hofeinfahrt_Mitte.jpg
+---
 
 ## Overview
 

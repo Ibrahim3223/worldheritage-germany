@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/400px-Museumsschiff_Luise.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/800px-Museumsschiff_Luise.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/1200px-Museumsschiff_Luise.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/1920px-Museumsschiff_Luise.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Museumsschiff_Luise.JPG/1920px-Museumsschiff_Luise.JPG
+---
 
 ## Overview
 

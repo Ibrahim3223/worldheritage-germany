@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg/400px-Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg/800px-Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg/1200px-Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg/1920px-Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg/1920px-Heinrich-Heine-Gymnasium_in_Hamburg-Poppenbüttel_(01).jpg
+---
 
 ## Overview
 

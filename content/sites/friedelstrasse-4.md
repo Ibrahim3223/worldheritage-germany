@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hainichen_2016-08-15_sk_17.jpg/400px-Hainichen_2016-08-15_sk_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hainichen_2016-08-15_sk_17.jpg/800px-Hainichen_2016-08-15_sk_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hainichen_2016-08-15_sk_17.jpg/1200px-Hainichen_2016-08-15_sk_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hainichen_2016-08-15_sk_17.jpg/1920px-Hainichen_2016-08-15_sk_17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hainichen_2016-08-15_sk_17.jpg/1920px-Hainichen_2016-08-15_sk_17.jpg
+---
 
 ## Overview
 

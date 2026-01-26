@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/400px-Ponttor_aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/800px-Ponttor_aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/1200px-Ponttor_aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/1920px-Ponttor_aachen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ponttor_aachen.jpg/1920px-Ponttor_aachen.jpg
+---
 
 ## Overview
 

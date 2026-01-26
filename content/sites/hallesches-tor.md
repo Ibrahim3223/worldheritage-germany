@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/400px-Hallesches_Tor_1730.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/800px-Hallesches_Tor_1730.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/1200px-Hallesches_Tor_1730.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/1920px-Hallesches_Tor_1730.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/1920px-Hallesches_Tor_1730.jpg
+---
 
 ## Overview
 

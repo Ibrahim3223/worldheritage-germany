@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krefeld_kaiser_wilhelm_museum.jpg/400px-Krefeld_kaiser_wilhelm_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krefeld_kaiser_wilhelm_museum.jpg/800px-Krefeld_kaiser_wilhelm_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krefeld_kaiser_wilhelm_museum.jpg/1200px-Krefeld_kaiser_wilhelm_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krefeld_kaiser_wilhelm_museum.jpg/1920px-Krefeld_kaiser_wilhelm_museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krefeld_kaiser_wilhelm_museum.jpg/1920px-Krefeld_kaiser_wilhelm_museum.jpg
+---
 
 ## Overview
 

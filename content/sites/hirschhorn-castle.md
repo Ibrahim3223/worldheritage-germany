@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/400px-Burg_Hirschhorn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/800px-Burg_Hirschhorn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1200px-Burg_Hirschhorn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1920px-Burg_Hirschhorn.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1920px-Burg_Hirschhorn.JPG
+---
 
 ## Overview
 

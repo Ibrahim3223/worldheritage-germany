@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/400px-St_Capistran_Muenchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/800px-St_Capistran_Muenchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/1200px-St_Capistran_Muenchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/1920px-St_Capistran_Muenchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/St_Capistran_Muenchen.jpg/1920px-St_Capistran_Muenchen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/400px-Mettingen_Michaelsbrunnen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/800px-Mettingen_Michaelsbrunnen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/1200px-Mettingen_Michaelsbrunnen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/1920px-Mettingen_Michaelsbrunnen_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mettingen_Michaelsbrunnen_2.jpg/1920px-Mettingen_Michaelsbrunnen_2.jpg
+---
 
 ## Overview
 

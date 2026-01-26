@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/400px-Nustrow_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/800px-Nustrow_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/1200px-Nustrow_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/1920px-Nustrow_Herrenhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nustrow_Herrenhaus.JPG/1920px-Nustrow_Herrenhaus.JPG
+---
 
 ## Overview
 

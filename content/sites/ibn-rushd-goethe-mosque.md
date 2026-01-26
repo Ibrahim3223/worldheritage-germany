@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/400px-Johanniskirche_B-Moabit_06-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/800px-Johanniskirche_B-Moabit_06-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1200px-Johanniskirche_B-Moabit_06-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1920px-Johanniskirche_B-Moabit_06-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1920px-Johanniskirche_B-Moabit_06-2017.jpg
+---
 
 ## Overview
 

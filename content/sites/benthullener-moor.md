@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/400px-Benthullener_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/800px-Benthullener_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/1200px-Benthullener_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/1920px-Benthullener_Moor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Benthullener_Moor.jpg/1920px-Benthullener_Moor.jpg
+---
 
 ## Overview
 

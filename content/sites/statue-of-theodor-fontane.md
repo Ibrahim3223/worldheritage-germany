@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/400px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/800px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/1200px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/1920px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG/1920px-Max_Klein_-_Theodor_Fontane_-_1908_-_IMG_8361.JPG
+---
 
 ## Overview
 

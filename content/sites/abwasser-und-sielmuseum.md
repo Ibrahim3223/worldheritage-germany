@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/400px-Fundstücke_Hamburger_Stadtenwässerung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/800px-Fundstücke_Hamburger_Stadtenwässerung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/1200px-Fundstücke_Hamburger_Stadtenwässerung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/1920px-Fundstücke_Hamburger_Stadtenwässerung.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fundstücke_Hamburger_Stadtenwässerung.JPG/1920px-Fundstücke_Hamburger_Stadtenwässerung.JPG
+---
 
 ## Overview
 

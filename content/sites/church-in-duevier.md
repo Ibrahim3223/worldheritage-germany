@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/400px-Düvier_Kapelle_Süd.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/800px-Düvier_Kapelle_Süd.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/1200px-Düvier_Kapelle_Süd.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/1920px-Düvier_Kapelle_Süd.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Düvier_Kapelle_Süd.JPG/1920px-Düvier_Kapelle_Süd.JPG
+---
 
 ## Overview
 

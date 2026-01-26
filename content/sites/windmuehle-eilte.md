@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/400px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/800px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/1200px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/1920px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg/1920px-Windmühle_in_Eilte_(Ahlden_(Aller))_IMG_6253.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eisenach_-_Ärztedenkmal.jpg/400px-Eisenach_-_Ärztedenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eisenach_-_Ärztedenkmal.jpg/800px-Eisenach_-_Ärztedenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eisenach_-_Ärztedenkmal.jpg/1200px-Eisenach_-_Ärztedenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eisenach_-_Ärztedenkmal.jpg/1920px-Eisenach_-_Ärztedenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Eisenach_-_Ärztedenkmal.jpg/1920px-Eisenach_-_Ärztedenkmal.jpg
+---
 
 ## Overview
 

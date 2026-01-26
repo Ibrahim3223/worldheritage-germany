@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/400px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/800px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/1200px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/1920px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gartenanlage_Eremitage_3_in_Bayreuth.jpg/1920px-Gartenanlage_Eremitage_3_in_Bayreuth.jpg
+---
 
 ## Overview
 

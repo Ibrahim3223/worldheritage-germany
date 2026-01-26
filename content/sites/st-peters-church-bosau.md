@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/400px-Bosau_Petrikirche_N.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/800px-Bosau_Petrikirche_N.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/1200px-Bosau_Petrikirche_N.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/1920px-Bosau_Petrikirche_N.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bosau_Petrikirche_N.JPG/1920px-Bosau_Petrikirche_N.JPG
+---
 
 ## Overview
 

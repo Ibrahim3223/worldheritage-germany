@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/400px-HLRefKircheaussen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/800px-HLRefKircheaussen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/1200px-HLRefKircheaussen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/1920px-HLRefKircheaussen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HLRefKircheaussen.JPG/1920px-HLRefKircheaussen.JPG
+---
 
 ## Overview
 

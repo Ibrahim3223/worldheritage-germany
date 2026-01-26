@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/400px-Ladenburg_-_jewish_cemetery_(entry).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/800px-Ladenburg_-_jewish_cemetery_(entry).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/1200px-Ladenburg_-_jewish_cemetery_(entry).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/1920px-Ladenburg_-_jewish_cemetery_(entry).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/1920px-Ladenburg_-_jewish_cemetery_(entry).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/400px-Tellow_Thuenen_manor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/800px-Tellow_Thuenen_manor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1200px-Tellow_Thuenen_manor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1920px-Tellow_Thuenen_manor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1920px-Tellow_Thuenen_manor.jpg
+---
 
 ## Overview
 

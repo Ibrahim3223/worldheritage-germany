@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/400px-Arboretumtharandt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/800px-Arboretumtharandt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1200px-Arboretumtharandt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1920px-Arboretumtharandt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1920px-Arboretumtharandt.jpg
+---
 
 ## Overview
 

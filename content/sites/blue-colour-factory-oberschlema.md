@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Album_der_Sächsischen_Industrie_Band_2_0149.jpg/400px-Album_der_Sächsischen_Industrie_Band_2_0149.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Album_der_Sächsischen_Industrie_Band_2_0149.jpg/800px-Album_der_Sächsischen_Industrie_Band_2_0149.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Album_der_Sächsischen_Industrie_Band_2_0149.jpg/1200px-Album_der_Sächsischen_Industrie_Band_2_0149.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Album_der_Sächsischen_Industrie_Band_2_0149.jpg/1920px-Album_der_Sächsischen_Industrie_Band_2_0149.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Album_der_Sächsischen_Industrie_Band_2_0149.jpg/1920px-Album_der_Sächsischen_Industrie_Band_2_0149.jpg
+---
 
 ## Overview
 

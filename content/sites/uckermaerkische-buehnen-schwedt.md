@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/400px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/800px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/1200px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/1920px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/18-06-06-Fotoflug-Uckermark_RRK3944.jpg/1920px-18-06-06-Fotoflug-Uckermark_RRK3944.jpg
+---
 
 ## Overview
 

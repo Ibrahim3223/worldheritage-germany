@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/400px-Ahlewiesen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/800px-Ahlewiesen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/1200px-Ahlewiesen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/1920px-Ahlewiesen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ahlewiesen.jpg/1920px-Ahlewiesen.jpg
+---
 
 ## Overview
 

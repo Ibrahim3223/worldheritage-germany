@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/400px-Burg_Wolkenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/800px-Burg_Wolkenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/1200px-Burg_Wolkenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/1920px-Burg_Wolkenstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Wolkenstein.jpg/1920px-Burg_Wolkenstein.jpg
+---
 
 ## Overview
 

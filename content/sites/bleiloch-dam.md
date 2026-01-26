@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/400px-Bleiloch-Talsperre_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/800px-Bleiloch-Talsperre_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/1200px-Bleiloch-Talsperre_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/1920px-Bleiloch-Talsperre_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/1920px-Bleiloch-Talsperre_2013.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/400px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/800px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/1200px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/1920px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg/1920px-Urfeld_Dietkirchener_Hof_Herrenhaus_Rheinseite_(2).jpg
+---
 
 ## Overview
 

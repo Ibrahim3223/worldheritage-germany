@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/400px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/800px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/1200px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/1920px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg/1920px-Krippenmuseum_Bamberg_Obere_Sandstr._23.jpg
+---
 
 ## Overview
 

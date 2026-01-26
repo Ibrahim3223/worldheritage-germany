@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/400px-Pfarrkirche_Dommelstadl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/800px-Pfarrkirche_Dommelstadl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/1200px-Pfarrkirche_Dommelstadl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/1920px-Pfarrkirche_Dommelstadl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pfarrkirche_Dommelstadl.jpg/1920px-Pfarrkirche_Dommelstadl.jpg
+---
 
 ## Overview
 

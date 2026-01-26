@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/400px-BurgruineAltesSchloss-PlanHelfrecht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/800px-BurgruineAltesSchloss-PlanHelfrecht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/1200px-BurgruineAltesSchloss-PlanHelfrecht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/1920px-BurgruineAltesSchloss-PlanHelfrecht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BurgruineAltesSchloss-PlanHelfrecht.jpg/1920px-BurgruineAltesSchloss-PlanHelfrecht.jpg
+---
 
 ## Overview
 

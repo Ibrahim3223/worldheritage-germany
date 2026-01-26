@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Deutsches_Tagebucharchiv.jpg/400px-Deutsches_Tagebucharchiv.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Deutsches_Tagebucharchiv.jpg/800px-Deutsches_Tagebucharchiv.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Deutsches_Tagebucharchiv.jpg/1200px-Deutsches_Tagebucharchiv.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Deutsches_Tagebucharchiv.jpg/1920px-Deutsches_Tagebucharchiv.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Deutsches_Tagebucharchiv.jpg/1920px-Deutsches_Tagebucharchiv.jpg
+---
 
 ## Overview
 

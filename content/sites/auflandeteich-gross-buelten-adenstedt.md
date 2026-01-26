@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/400px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/800px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/1200px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/1920px-Rauhreif_am_Auflandeteich_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rauhreif_am_Auflandeteich_-_panoramio.jpg/1920px-Rauhreif_am_Auflandeteich_-_panoramio.jpg
+---
 
 ## Overview
 

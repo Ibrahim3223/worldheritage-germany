@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/400px-Witten-Ruedinghausen_EvKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/800px-Witten-Ruedinghausen_EvKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/1200px-Witten-Ruedinghausen_EvKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/1920px-Witten-Ruedinghausen_EvKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Witten-Ruedinghausen_EvKirche.jpg/1920px-Witten-Ruedinghausen_EvKirche.jpg
+---
 
 ## Overview
 

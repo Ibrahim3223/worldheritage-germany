@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/400px-Paläon_Eingangshalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/800px-Paläon_Eingangshalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/1200px-Paläon_Eingangshalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/1920px-Paläon_Eingangshalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paläon_Eingangshalle.jpg/1920px-Paläon_Eingangshalle.jpg
+---
 
 ## Overview
 

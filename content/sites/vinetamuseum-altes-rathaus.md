@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/400px-Barth-Museum-140904-032.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/800px-Barth-Museum-140904-032.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/1200px-Barth-Museum-140904-032.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/1920px-Barth-Museum-140904-032.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Barth-Museum-140904-032.JPG/1920px-Barth-Museum-140904-032.JPG
+---
 
 ## Overview
 

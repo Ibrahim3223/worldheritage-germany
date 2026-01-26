@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/400px-Fahne_vor_dem_MgK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/800px-Fahne_vor_dem_MgK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/1200px-Fahne_vor_dem_MgK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/1920px-Fahne_vor_dem_MgK.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fahne_vor_dem_MgK.jpg/1920px-Fahne_vor_dem_MgK.jpg
+---
 
 ## Overview
 

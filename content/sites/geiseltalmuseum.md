@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/400px-Geiseltalmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/800px-Geiseltalmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1200px-Geiseltalmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1920px-Geiseltalmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1920px-Geiseltalmuseum.JPG
+---
 
 ## Overview
 

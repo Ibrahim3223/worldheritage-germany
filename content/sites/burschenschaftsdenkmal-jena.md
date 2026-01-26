@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/400px-Jena_Burschenschaftsdenkmal_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/800px-Jena_Burschenschaftsdenkmal_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1200px-Jena_Burschenschaftsdenkmal_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1920px-Jena_Burschenschaftsdenkmal_1900.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1920px-Jena_Burschenschaftsdenkmal_1900.jpg
+---
 
 ## Overview
 

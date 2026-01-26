@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/400px-Eingangsseite_mit_kirchturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/800px-Eingangsseite_mit_kirchturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/1200px-Eingangsseite_mit_kirchturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/1920px-Eingangsseite_mit_kirchturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eingangsseite_mit_kirchturm.jpg/1920px-Eingangsseite_mit_kirchturm.jpg
+---
 
 ## Overview
 

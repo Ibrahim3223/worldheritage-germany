@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mara_Friton_2006.jpg/400px-Mara_Friton_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mara_Friton_2006.jpg/800px-Mara_Friton_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mara_Friton_2006.jpg/1200px-Mara_Friton_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mara_Friton_2006.jpg/1920px-Mara_Friton_2006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mara_Friton_2006.jpg/1920px-Mara_Friton_2006.jpg
+---
 
 ## Overview
 

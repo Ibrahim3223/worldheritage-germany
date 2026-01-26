@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/400px-Waldkirch_Mariä_Schmerzen_250.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/800px-Waldkirch_Mariä_Schmerzen_250.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/1200px-Waldkirch_Mariä_Schmerzen_250.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/1920px-Waldkirch_Mariä_Schmerzen_250.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Waldkirch_Mariä_Schmerzen_250.JPG/1920px-Waldkirch_Mariä_Schmerzen_250.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/400px-Deutsches_Fastnachtsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/800px-Deutsches_Fastnachtsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/1200px-Deutsches_Fastnachtsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/1920px-Deutsches_Fastnachtsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Fastnachtsmuseum.jpg/1920px-Deutsches_Fastnachtsmuseum.jpg
+---
 
 ## Overview
 

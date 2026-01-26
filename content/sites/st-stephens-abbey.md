@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/400px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/800px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/1200px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/1920px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg/1920px-2022-06-05_Kloster_St._Stephan_Augsburg_40.jpg
+---
 
 ## Overview 
 

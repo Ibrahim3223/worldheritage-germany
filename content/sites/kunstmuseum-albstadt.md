@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/400px-Kunstmuseum_Albstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/800px-Kunstmuseum_Albstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/1200px-Kunstmuseum_Albstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/1920px-Kunstmuseum_Albstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kunstmuseum_Albstadt.jpg/1920px-Kunstmuseum_Albstadt.jpg
+---
 
 ## Overview
 

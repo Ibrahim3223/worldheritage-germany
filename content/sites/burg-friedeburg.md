@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/400px-Friedeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/800px-Friedeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1200px-Friedeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1920px-Friedeburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1920px-Friedeburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/400px-Tahir-Moschee_(Koblenz).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/800px-Tahir-Moschee_(Koblenz).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/1200px-Tahir-Moschee_(Koblenz).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/1920px-Tahir-Moschee_(Koblenz).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tahir-Moschee_(Koblenz).jpg/1920px-Tahir-Moschee_(Koblenz).jpg
+---
 
 ## Overview
 

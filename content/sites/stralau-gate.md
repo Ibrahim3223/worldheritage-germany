@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/400px-ZLB-Berliner_Ansichten-Januar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/800px-ZLB-Berliner_Ansichten-Januar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/1200px-ZLB-Berliner_Ansichten-Januar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/1920px-ZLB-Berliner_Ansichten-Januar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ZLB-Berliner_Ansichten-Januar.jpg/1920px-ZLB-Berliner_Ansichten-Januar.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/400px-Plauen_Vogtlandmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/800px-Plauen_Vogtlandmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/1200px-Plauen_Vogtlandmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/1920px-Plauen_Vogtlandmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Plauen_Vogtlandmuseum.jpg/1920px-Plauen_Vogtlandmuseum.jpg
+---
 
 ## Overview
 

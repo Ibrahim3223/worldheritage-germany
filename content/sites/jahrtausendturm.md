@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/400px-Jahrtausendturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/800px-Jahrtausendturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1200px-Jahrtausendturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1920px-Jahrtausendturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1920px-Jahrtausendturm.jpg
+---
 
 ## Overview
 

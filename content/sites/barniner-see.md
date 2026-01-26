@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/400px-Barnin_Barniner_See_2009-04-16_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/800px-Barnin_Barniner_See_2009-04-16_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/1200px-Barnin_Barniner_See_2009-04-16_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/1920px-Barnin_Barniner_See_2009-04-16_004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barnin_Barniner_See_2009-04-16_004.jpg/1920px-Barnin_Barniner_See_2009-04-16_004.jpg
+---
 
 ## Overview
 

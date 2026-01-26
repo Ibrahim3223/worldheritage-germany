@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/400px-Hersbrucker-schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/800px-Hersbrucker-schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/1200px-Hersbrucker-schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/1920px-Hersbrucker-schloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hersbrucker-schloss.jpg/1920px-Hersbrucker-schloss.jpg
+---
 
 ## Overview
 

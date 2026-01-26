@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/400px-Wismar-HeiligenGeistKirche1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/800px-Wismar-HeiligenGeistKirche1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1200px-Wismar-HeiligenGeistKirche1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1920px-Wismar-HeiligenGeistKirche1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1920px-Wismar-HeiligenGeistKirche1-Bubo.JPG
+---
 
 ## Overview
 

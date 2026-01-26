@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/400px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/800px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/1200px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/1920px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf_(DerHexer)_2010-08-13_021.jpg/1920px-Düsseldorf_(DerHexer)_2010-08-13_021.jpg
+---
 
 ## Overview
 

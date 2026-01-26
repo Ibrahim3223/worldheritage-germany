@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/400px-Residenz_München_Königsbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/800px-Residenz_München_Königsbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/1200px-Residenz_München_Königsbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/1920px-Residenz_München_Königsbau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Residenz_München_Königsbau.jpg/1920px-Residenz_München_Königsbau.jpg
+---
 
 ## Overview
 

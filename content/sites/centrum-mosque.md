@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/400px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/800px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/1200px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/1920px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg/1920px-Ein_schöner_Bau,_die_Moschee_in_Rendsburg_-_panoramio.jpg
+---
 
 ## Overview
 

@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/400px-LuftbRammelsbg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/800px-LuftbRammelsbg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/1200px-LuftbRammelsbg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/1920px-LuftbRammelsbg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/LuftbRammelsbg.JPG/1920px-LuftbRammelsbg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/400px-Belvedere_Schöne_Höhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/800px-Belvedere_Schöne_Höhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1200px-Belvedere_Schöne_Höhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1920px-Belvedere_Schöne_Höhe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1920px-Belvedere_Schöne_Höhe.jpg
+---
 
 ## Overview
 

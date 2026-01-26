@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/400px-Sangerhausen_Rosarium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/800px-Sangerhausen_Rosarium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1200px-Sangerhausen_Rosarium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1920px-Sangerhausen_Rosarium.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1920px-Sangerhausen_Rosarium.JPG
+---
 
 ## Overview
 

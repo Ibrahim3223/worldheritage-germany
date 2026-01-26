@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/400px-WAK_BALI_Felsentheater1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/800px-WAK_BALI_Felsentheater1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/1200px-WAK_BALI_Felsentheater1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/1920px-WAK_BALI_Felsentheater1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/WAK_BALI_Felsentheater1.jpg/1920px-WAK_BALI_Felsentheater1.jpg
+---
 
 ## Overview
 

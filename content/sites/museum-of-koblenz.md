@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/400px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/800px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/1200px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg/1920px-Koblenz_im_Buga-Jahr_2011_-_Festung_Ehrenbreitstein_80.jpg
+---
 
 ## Overview
 

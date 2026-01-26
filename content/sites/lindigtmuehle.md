@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/400px-Lindigtmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/800px-Lindigtmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/1200px-Lindigtmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/1920px-Lindigtmühle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lindigtmühle.jpg/1920px-Lindigtmühle.jpg
+---
 
 ## Overview
 

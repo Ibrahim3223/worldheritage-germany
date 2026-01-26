@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/400px-Funck77_0043.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/800px-Funck77_0043.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/1200px-Funck77_0043.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/1920px-Funck77_0043.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Funck77_0043.JPG/1920px-Funck77_0043.JPG
+---
 
 ## Overview
 

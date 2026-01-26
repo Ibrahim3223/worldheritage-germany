@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/St.egidien.JPG/400px-St.egidien.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/St.egidien.JPG/800px-St.egidien.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/St.egidien.JPG/1200px-St.egidien.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/St.egidien.JPG/1920px-St.egidien.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/St.egidien.JPG/1920px-St.egidien.JPG
+---
 
 ## Overview
 

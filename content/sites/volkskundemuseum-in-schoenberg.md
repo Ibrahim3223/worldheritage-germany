@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_im_Koch´schen_Haus.jpg/400px-Museum_im_Koch´schen_Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_im_Koch´schen_Haus.jpg/800px-Museum_im_Koch´schen_Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_im_Koch´schen_Haus.jpg/1200px-Museum_im_Koch´schen_Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_im_Koch´schen_Haus.jpg/1920px-Museum_im_Koch´schen_Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museum_im_Koch´schen_Haus.jpg/1920px-Museum_im_Koch´schen_Haus.jpg
+---
 
 ## Overview
 

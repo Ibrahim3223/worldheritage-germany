@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/400px-Dorfkirche_Gottberg_2021_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/800px-Dorfkirche_Gottberg_2021_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/1200px-Dorfkirche_Gottberg_2021_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/1920px-Dorfkirche_Gottberg_2021_SW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dorfkirche_Gottberg_2021_SW.jpg/1920px-Dorfkirche_Gottberg_2021_SW.jpg
+---
 
 ## Overview
 

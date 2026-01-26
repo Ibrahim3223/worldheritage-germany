@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Templin_botanical_garden_lehmanngarten_02.jpg/400px-Templin_botanical_garden_lehmanngarten_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Templin_botanical_garden_lehmanngarten_02.jpg/800px-Templin_botanical_garden_lehmanngarten_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Templin_botanical_garden_lehmanngarten_02.jpg/1200px-Templin_botanical_garden_lehmanngarten_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Templin_botanical_garden_lehmanngarten_02.jpg/1920px-Templin_botanical_garden_lehmanngarten_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Templin_botanical_garden_lehmanngarten_02.jpg/1920px-Templin_botanical_garden_lehmanngarten_02.jpg
+---
 
 ## Overview
 

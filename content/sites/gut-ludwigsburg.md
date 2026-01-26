@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/400px-Herrenhaus_Gut_Ludwigsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/800px-Herrenhaus_Gut_Ludwigsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1200px-Herrenhaus_Gut_Ludwigsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1920px-Herrenhaus_Gut_Ludwigsburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1920px-Herrenhaus_Gut_Ludwigsburg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/400px-DFA_(Freising)_p01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/800px-DFA_(Freising)_p01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/1200px-DFA_(Freising)_p01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/1920px-DFA_(Freising)_p01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DFA_(Freising)_p01.jpg/1920px-DFA_(Freising)_p01.jpg
+---
 
 ## Overview
 

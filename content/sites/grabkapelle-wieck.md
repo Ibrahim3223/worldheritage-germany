@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/400px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/800px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/1200px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/1920px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg/1920px-Guetzkow_OVP_Grabkapelle_Lepel_Ostseite.jpg
+---
 
 ## Overview
 

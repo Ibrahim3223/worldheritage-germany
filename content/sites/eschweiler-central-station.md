@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/400px-Ew-hbf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/800px-Ew-hbf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/1200px-Ew-hbf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/1920px-Ew-hbf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/1920px-Ew-hbf.jpg
+---
 
 ## Overview
 

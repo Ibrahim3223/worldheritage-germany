@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/400px-HolzmadenHauff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/800px-HolzmadenHauff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/1200px-HolzmadenHauff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/1920px-HolzmadenHauff.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HolzmadenHauff.jpg/1920px-HolzmadenHauff.jpg
+---
 
 ## Overview
 

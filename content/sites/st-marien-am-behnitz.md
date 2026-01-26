@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/400px-St._Marien_am_Behnitz_Inneres.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/800px-St._Marien_am_Behnitz_Inneres.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/1200px-St._Marien_am_Behnitz_Inneres.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/1920px-St._Marien_am_Behnitz_Inneres.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/St._Marien_am_Behnitz_Inneres.jpg/1920px-St._Marien_am_Behnitz_Inneres.jpg
+---
 
 ## Overview
 

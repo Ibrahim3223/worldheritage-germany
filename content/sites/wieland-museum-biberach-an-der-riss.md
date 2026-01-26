@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/400px-Wieland-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/800px-Wieland-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/1200px-Wieland-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/1920px-Wieland-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wieland-Museum.jpg/1920px-Wieland-Museum.jpg
+---
 
 ## Overview
 

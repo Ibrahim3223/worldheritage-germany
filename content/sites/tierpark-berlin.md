@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/400px-Tierpark_Berlin_-_Main_entry.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/800px-Tierpark_Berlin_-_Main_entry.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/1200px-Tierpark_Berlin_-_Main_entry.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/1920px-Tierpark_Berlin_-_Main_entry.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tierpark_Berlin_-_Main_entry.jpg/1920px-Tierpark_Berlin_-_Main_entry.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/400px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/800px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/1200px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/1920px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/1920px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
+---
 
 ## Overview
 

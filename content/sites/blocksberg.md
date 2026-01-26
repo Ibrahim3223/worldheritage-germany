@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/400px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/800px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/1200px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/1920px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratekau_Pansdorf_Blocksberg_Suedwall.JPG/1920px-Ratekau_Pansdorf_Blocksberg_Suedwall.JPG
+---
 
 ## Overview
 

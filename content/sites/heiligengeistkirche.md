@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/400px-Hh-heiligengeistkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/800px-Hh-heiligengeistkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/1200px-Hh-heiligengeistkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/1920px-Hh-heiligengeistkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/1920px-Hh-heiligengeistkirche.jpg
+---
 
 ## Overview
 

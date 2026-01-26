@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/400px-Ludwig_Forum_Aachen_2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/800px-Ludwig_Forum_Aachen_2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/1200px-Ludwig_Forum_Aachen_2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/1920px-Ludwig_Forum_Aachen_2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ludwig_Forum_Aachen_2017.jpg/1920px-Ludwig_Forum_Aachen_2017.jpg
+---
 
 ## Overview
 

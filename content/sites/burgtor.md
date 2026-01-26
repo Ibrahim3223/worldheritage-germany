@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/400px-Burgtor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/800px-Burgtor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/1200px-Burgtor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/1920px-Burgtor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgtor.jpg/1920px-Burgtor.jpg
+---
 
 ## Overview
 

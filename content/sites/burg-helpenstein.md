@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Helpenstein_Geländemodell.jpg/400px-Burg_Helpenstein_Geländemodell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Helpenstein_Geländemodell.jpg/800px-Burg_Helpenstein_Geländemodell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Helpenstein_Geländemodell.jpg/1200px-Burg_Helpenstein_Geländemodell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Helpenstein_Geländemodell.jpg/1920px-Burg_Helpenstein_Geländemodell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Helpenstein_Geländemodell.jpg/1920px-Burg_Helpenstein_Geländemodell.jpg
+---
 
 ## Overview
 

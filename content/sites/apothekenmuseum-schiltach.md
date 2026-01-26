@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/400px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/800px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/1200px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/1920px-Schiltach_Martkplatz05_Apothekenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schiltach_Martkplatz05_Apothekenmuseum.jpg/1920px-Schiltach_Martkplatz05_Apothekenmuseum.jpg
+---
 
 ## Overview
 

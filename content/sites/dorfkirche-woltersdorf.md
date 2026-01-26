@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/400px-WoltersdorfKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/800px-WoltersdorfKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1200px-WoltersdorfKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1920px-WoltersdorfKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1920px-WoltersdorfKirche.jpg
+---
 
 ## Overview
 

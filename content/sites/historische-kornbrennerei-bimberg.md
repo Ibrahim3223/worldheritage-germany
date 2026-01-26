@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Druepplingsen-GutLenninghausen1-Bubo.JPG/400px-Druepplingsen-GutLenninghausen1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Druepplingsen-GutLenninghausen1-Bubo.JPG/800px-Druepplingsen-GutLenninghausen1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Druepplingsen-GutLenninghausen1-Bubo.JPG/1200px-Druepplingsen-GutLenninghausen1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Druepplingsen-GutLenninghausen1-Bubo.JPG/1920px-Druepplingsen-GutLenninghausen1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Druepplingsen-GutLenninghausen1-Bubo.JPG/1920px-Druepplingsen-GutLenninghausen1-Bubo.JPG
+---
 
 ## Overview
 

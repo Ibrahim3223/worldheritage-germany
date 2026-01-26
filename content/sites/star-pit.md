@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/400px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/800px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/1200px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/1920px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg/1920px-Star_Pit_-_Brunnen_von_Otto_Piene_im_Mediapark_Köln-0361.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/400px-Goldkronach_2015_xy6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/800px-Goldkronach_2015_xy6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/1200px-Goldkronach_2015_xy6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/1920px-Goldkronach_2015_xy6.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Goldkronach_2015_xy6.JPG/1920px-Goldkronach_2015_xy6.JPG
+---
 
 ## Overview
 

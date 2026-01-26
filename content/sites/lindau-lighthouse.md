@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/400px-Lindau_-_Hafen6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/800px-Lindau_-_Hafen6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/1200px-Lindau_-_Hafen6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/1920px-Lindau_-_Hafen6.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lindau_-_Hafen6.jpg/1920px-Lindau_-_Hafen6.jpg
+---
 
 ## Overview
 

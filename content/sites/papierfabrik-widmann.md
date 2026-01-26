@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/400px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/800px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/1200px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/1920px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg/1920px-Widmannsche_Papiermaschinenfabrik_Neckargartach.jpg
+---
 
 ## Overview
 

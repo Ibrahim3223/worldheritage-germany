@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/400px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/800px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/1200px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/1920px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg/1920px-Gedenkstätte_Simsonweg_(Tierg)_Sinti_und_Roma.jpg
+---
 
 ## Overview
 

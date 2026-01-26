@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Soltau,_Zionskirche_(09).jpg/400px-Soltau,_Zionskirche_(09).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Soltau,_Zionskirche_(09).jpg/800px-Soltau,_Zionskirche_(09).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Soltau,_Zionskirche_(09).jpg/1200px-Soltau,_Zionskirche_(09).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Soltau,_Zionskirche_(09).jpg/1920px-Soltau,_Zionskirche_(09).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Soltau,_Zionskirche_(09).jpg/1920px-Soltau,_Zionskirche_(09).jpg
+---
 
 ## Overview
 

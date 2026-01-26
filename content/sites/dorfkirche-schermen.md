@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/400px-Kirche_Schermen_bei_Möser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/800px-Kirche_Schermen_bei_Möser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1200px-Kirche_Schermen_bei_Möser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1920px-Kirche_Schermen_bei_Möser.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1920px-Kirche_Schermen_bei_Möser.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/400px-Ilmenau_Jakobuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/800px-Ilmenau_Jakobuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/1200px-Ilmenau_Jakobuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/1920px-Ilmenau_Jakobuskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ilmenau_Jakobuskirche.jpg/1920px-Ilmenau_Jakobuskirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/400px-Heinsener_Klippen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/800px-Heinsener_Klippen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1200px-Heinsener_Klippen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1920px-Heinsener_Klippen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1920px-Heinsener_Klippen.jpg
+---
 
 ## Overview
 

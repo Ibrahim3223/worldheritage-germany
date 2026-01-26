@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/400px-Weißenburg_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/800px-Weißenburg_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/1200px-Weißenburg_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/1920px-Weißenburg_Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weißenburg_Turm.jpg/1920px-Weißenburg_Turm.jpg
+---
 
 ## Overview
 

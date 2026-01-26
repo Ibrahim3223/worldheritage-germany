@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/400px-StadtmuseumSC_Aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/800px-StadtmuseumSC_Aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/1200px-StadtmuseumSC_Aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/1920px-StadtmuseumSC_Aussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/StadtmuseumSC_Aussen.jpg/1920px-StadtmuseumSC_Aussen.jpg
+---
 
 ## Overview
 

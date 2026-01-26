@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/400px-Hamburg_Böhmestraße_20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/800px-Hamburg_Böhmestraße_20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/1200px-Hamburg_Böhmestraße_20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/1920px-Hamburg_Böhmestraße_20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hamburg_Böhmestraße_20.jpg/1920px-Hamburg_Böhmestraße_20.jpg
+---
 
 ## Overview
 

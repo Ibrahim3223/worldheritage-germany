@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/400px-Ruine_Königswart_-_Fundamente.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/800px-Ruine_Königswart_-_Fundamente.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/1200px-Ruine_Königswart_-_Fundamente.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/1920px-Ruine_Königswart_-_Fundamente.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruine_Königswart_-_Fundamente.jpg/1920px-Ruine_Königswart_-_Fundamente.jpg
+---
 
 ## Overview
 

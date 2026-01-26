@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/400px-Universitas_Viadrina_Frankfurt_(Oder).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/800px-Universitas_Viadrina_Frankfurt_(Oder).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1200px-Universitas_Viadrina_Frankfurt_(Oder).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1920px-Universitas_Viadrina_Frankfurt_(Oder).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1920px-Universitas_Viadrina_Frankfurt_(Oder).JPG
+---
 
 ## Overview
 

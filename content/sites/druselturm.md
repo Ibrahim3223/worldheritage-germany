@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/400px-Kassel_asv2022-02_img36_Druselturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/800px-Kassel_asv2022-02_img36_Druselturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/1200px-Kassel_asv2022-02_img36_Druselturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/1920px-Kassel_asv2022-02_img36_Druselturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kassel_asv2022-02_img36_Druselturm.jpg/1920px-Kassel_asv2022-02_img36_Druselturm.jpg
+---
 
 ## Overview
 

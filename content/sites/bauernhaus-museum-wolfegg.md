@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/400px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/800px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/1200px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/1920px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg/1920px-Bauernhausmuseum_Wolfegg_-_Kornspeicher_und_Fischerhaus_(01-2).jpg
+---
 
 ## Overview
 

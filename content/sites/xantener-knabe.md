@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/400px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/800px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/1200px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/1920px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg/1920px-Bronze_Boy_of_Xanten_-_Neues_Museum_-_Berlin_-_Germany_2017_(2).jpg
+---
 
 ## Overview
 

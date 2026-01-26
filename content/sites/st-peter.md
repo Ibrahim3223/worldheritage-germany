@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/400px-Peterskirche_Leipzig_easyHDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/800px-Peterskirche_Leipzig_easyHDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/1200px-Peterskirche_Leipzig_easyHDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/1920px-Peterskirche_Leipzig_easyHDR.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peterskirche_Leipzig_easyHDR.jpg/1920px-Peterskirche_Leipzig_easyHDR.jpg
+---
 
 ## Overview
 

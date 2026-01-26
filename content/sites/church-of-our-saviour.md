@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/400px-Salvatorkirche_in_Duisburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/800px-Salvatorkirche_in_Duisburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/1200px-Salvatorkirche_in_Duisburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/1920px-Salvatorkirche_in_Duisburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Salvatorkirche_in_Duisburg.jpg/1920px-Salvatorkirche_in_Duisburg.jpg
+---
 
 ## Overview
 

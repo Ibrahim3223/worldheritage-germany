@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/400px-Bonn-Oberkassel,_St._Cäcilia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/800px-Bonn-Oberkassel,_St._Cäcilia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/1200px-Bonn-Oberkassel,_St._Cäcilia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/1920px-Bonn-Oberkassel,_St._Cäcilia.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bonn-Oberkassel,_St._Cäcilia.jpg/1920px-Bonn-Oberkassel,_St._Cäcilia.jpg
+---
 
 ## Overview
 

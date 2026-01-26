@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/400px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/800px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/1200px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/1920px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg/1920px-Leuchtfeuer_Bunthaus_am_22.09.2015,_aufgenommen_aus_Richtung_Nordwest.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/400px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/800px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/1200px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/1920px-München_Vater-Rhein-Brunnen_a_gesamt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/München_Vater-Rhein-Brunnen_a_gesamt.jpg/1920px-München_Vater-Rhein-Brunnen_a_gesamt.jpg
+---
 
 ## Overview
 

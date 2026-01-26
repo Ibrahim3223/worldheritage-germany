@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/400px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/800px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/1200px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/1920px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg/1920px-Muhr_am_See,_Rosenau_6,_Torhaus,_008.jpg
+---
 
 ## Overview
 

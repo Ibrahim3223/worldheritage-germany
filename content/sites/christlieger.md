@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/400px-Insel_Christlieger.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/800px-Insel_Christlieger.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/1200px-Insel_Christlieger.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/1920px-Insel_Christlieger.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Insel_Christlieger.jpg/1920px-Insel_Christlieger.jpg
+---
 
 ## Overview
 

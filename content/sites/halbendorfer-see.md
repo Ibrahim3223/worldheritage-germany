@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/400px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/800px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/1200px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/1920px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Halbendorfer_See_vom_Trebendorfer_Ufer.jpg/1920px-Halbendorfer_See_vom_Trebendorfer_Ufer.jpg
+---
 
 ## Overview
 

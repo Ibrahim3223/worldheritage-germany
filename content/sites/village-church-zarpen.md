@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kirche_Zarpen.jpg/400px-Kirche_Zarpen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kirche_Zarpen.jpg/800px-Kirche_Zarpen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kirche_Zarpen.jpg/1200px-Kirche_Zarpen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kirche_Zarpen.jpg/1920px-Kirche_Zarpen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kirche_Zarpen.jpg/1920px-Kirche_Zarpen.jpg
+---
 
 ## Overview
 

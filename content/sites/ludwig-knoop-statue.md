@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/400px-Ludwig_Knoop-RZ_neu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/800px-Ludwig_Knoop-RZ_neu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/1200px-Ludwig_Knoop-RZ_neu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/1920px-Ludwig_Knoop-RZ_neu.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludwig_Knoop-RZ_neu.jpg/1920px-Ludwig_Knoop-RZ_neu.jpg
+---
 
 ## Overview
 

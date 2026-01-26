@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/400px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/800px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1200px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1920px-Cottbus_07-2017_img31_Apothekenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1920px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
+---
 
 ## Overview
 

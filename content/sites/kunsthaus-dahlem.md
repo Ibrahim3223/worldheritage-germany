@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/400px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/800px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/1200px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/1920px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg/1920px-Dahlem_Käuzchensteig_Kunsthaus_Dahlem-005.jpg
+---
 
 ## Overview
 

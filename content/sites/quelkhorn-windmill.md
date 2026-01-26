@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/400px-QuelkhornerMuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/800px-QuelkhornerMuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/1200px-QuelkhornerMuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/1920px-QuelkhornerMuehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/QuelkhornerMuehle.jpg/1920px-QuelkhornerMuehle.jpg
+---
 
 ## Overview
 

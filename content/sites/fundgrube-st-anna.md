@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bergwerk_St_Anna.jpg/400px-Bergwerk_St_Anna.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bergwerk_St_Anna.jpg/800px-Bergwerk_St_Anna.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bergwerk_St_Anna.jpg/1200px-Bergwerk_St_Anna.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bergwerk_St_Anna.jpg/1920px-Bergwerk_St_Anna.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bergwerk_St_Anna.jpg/1920px-Bergwerk_St_Anna.jpg
+---
 
 ## Overview
 

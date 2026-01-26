@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/400px-Stiftskirche_Stuttgart_2015_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/800px-Stiftskirche_Stuttgart_2015_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/1200px-Stiftskirche_Stuttgart_2015_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/1920px-Stiftskirche_Stuttgart_2015_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftskirche_Stuttgart_2015_01.jpg/1920px-Stiftskirche_Stuttgart_2015_01.jpg
+---
 
 ## Overview
 

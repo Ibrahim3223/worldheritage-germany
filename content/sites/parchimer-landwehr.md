@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/400px-Parchimer_Landwehr_2009-01-23_015a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/800px-Parchimer_Landwehr_2009-01-23_015a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/1200px-Parchimer_Landwehr_2009-01-23_015a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/1920px-Parchimer_Landwehr_2009-01-23_015a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Parchimer_Landwehr_2009-01-23_015a.jpg/1920px-Parchimer_Landwehr_2009-01-23_015a.jpg
+---
 
 ## Overview
 

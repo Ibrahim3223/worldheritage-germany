@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/400px-ES_Gelbes_Haus_ShiftN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/800px-ES_Gelbes_Haus_ShiftN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/1200px-ES_Gelbes_Haus_ShiftN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/1920px-ES_Gelbes_Haus_ShiftN.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ES_Gelbes_Haus_ShiftN.jpg/1920px-ES_Gelbes_Haus_ShiftN.jpg
+---
 
 ## Overview
 

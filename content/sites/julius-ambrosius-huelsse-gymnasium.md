@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/400px-Julius-Ambrosius-Hülße-Gymnasium.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/800px-Julius-Ambrosius-Hülße-Gymnasium.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/1200px-Julius-Ambrosius-Hülße-Gymnasium.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/1920px-Julius-Ambrosius-Hülße-Gymnasium.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Julius-Ambrosius-Hülße-Gymnasium.JPG/1920px-Julius-Ambrosius-Hülße-Gymnasium.JPG
+---
 
 ## Overview
 

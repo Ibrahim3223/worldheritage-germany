@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/400px-Fh-bibo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/800px-Fh-bibo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/1200px-Fh-bibo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/1920px-Fh-bibo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fh-bibo.jpg/1920px-Fh-bibo.jpg
+---
 
 ## Overview
 

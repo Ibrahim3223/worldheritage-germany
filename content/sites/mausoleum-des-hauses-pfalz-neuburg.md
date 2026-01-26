@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/400px-GraphyArchy_-_Wikipedia_00582.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/800px-GraphyArchy_-_Wikipedia_00582.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/1200px-GraphyArchy_-_Wikipedia_00582.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/1920px-GraphyArchy_-_Wikipedia_00582.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/GraphyArchy_-_Wikipedia_00582.jpg/1920px-GraphyArchy_-_Wikipedia_00582.jpg
+---
 
 ## Overview
 

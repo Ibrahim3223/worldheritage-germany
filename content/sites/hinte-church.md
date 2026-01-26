@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/400px-Kirche_Hinte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/800px-Kirche_Hinte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/1200px-Kirche_Hinte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/1920px-Kirche_Hinte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/1920px-Kirche_Hinte.jpg
+---
 
 ## Overview
 

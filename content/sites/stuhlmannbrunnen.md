@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/400px-Hh-Stuhlmannbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/800px-Hh-Stuhlmannbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/1200px-Hh-Stuhlmannbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/1920px-Hh-Stuhlmannbrunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hh-Stuhlmannbrunnen.jpg/1920px-Hh-Stuhlmannbrunnen.jpg
+---
 
 ## Overview
 

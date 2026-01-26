@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/400px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/800px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/1200px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/1920px-Kuestenwelle_vom_Natureum_Niederelbe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kuestenwelle_vom_Natureum_Niederelbe.jpg/1920px-Kuestenwelle_vom_Natureum_Niederelbe.jpg
+---
 
 ## Overview
 

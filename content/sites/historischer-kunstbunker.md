@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/400px-Kunstbunker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/800px-Kunstbunker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1200px-Kunstbunker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1920px-Kunstbunker.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1920px-Kunstbunker.jpg
+---
 
 ## Overview
 

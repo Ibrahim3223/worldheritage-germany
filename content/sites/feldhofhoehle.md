@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Feldhofhöhle_-_Eingang.JPG/400px-Feldhofhöhle_-_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Feldhofhöhle_-_Eingang.JPG/800px-Feldhofhöhle_-_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Feldhofhöhle_-_Eingang.JPG/1200px-Feldhofhöhle_-_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Feldhofhöhle_-_Eingang.JPG/1920px-Feldhofhöhle_-_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Feldhofhöhle_-_Eingang.JPG/1920px-Feldhofhöhle_-_Eingang.JPG
+---
 
 ## Overview
 

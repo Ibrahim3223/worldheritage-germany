@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/400px-Koenig_Albert_Museum_in_Chemnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/800px-Koenig_Albert_Museum_in_Chemnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/1200px-Koenig_Albert_Museum_in_Chemnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/1920px-Koenig_Albert_Museum_in_Chemnitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Koenig_Albert_Museum_in_Chemnitz.jpg/1920px-Koenig_Albert_Museum_in_Chemnitz.jpg
+---
 
 ## Overview
 

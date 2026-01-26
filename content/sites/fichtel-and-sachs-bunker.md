@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/400px-Bunkermuseum_Schweinfurt_Logo.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/800px-Bunkermuseum_Schweinfurt_Logo.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/1200px-Bunkermuseum_Schweinfurt_Logo.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/1920px-Bunkermuseum_Schweinfurt_Logo.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bunkermuseum_Schweinfurt_Logo.png/1920px-Bunkermuseum_Schweinfurt_Logo.png
+---
 
 ## Overview
 

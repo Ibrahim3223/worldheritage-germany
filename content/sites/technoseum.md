@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/400px-Technoseum_(43470).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/800px-Technoseum_(43470).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/1200px-Technoseum_(43470).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/1920px-Technoseum_(43470).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Technoseum_(43470).jpg/1920px-Technoseum_(43470).jpg
+---
 
 ## Overview
 

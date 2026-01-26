@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/400px-Theaterhagen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/800px-Theaterhagen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/1200px-Theaterhagen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/1920px-Theaterhagen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theaterhagen.JPG/1920px-Theaterhagen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/400px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/800px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1200px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1920px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg/1920px-Frankfurt_Am_Main-Alte_Nikolaikirche-Ansicht_vom_Roemerberg-20081230.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/400px-Dresden-Dreikoenigskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/800px-Dresden-Dreikoenigskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/1200px-Dresden-Dreikoenigskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/1920px-Dresden-Dreikoenigskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-Dreikoenigskirche.jpg/1920px-Dresden-Dreikoenigskirche.jpg
+---
 
 ## Overview
 

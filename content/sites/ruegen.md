@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/400px-Satellite_Image_of_Ruegen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/800px-Satellite_Image_of_Ruegen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/1200px-Satellite_Image_of_Ruegen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/1920px-Satellite_Image_of_Ruegen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Satellite_Image_of_Ruegen.jpg/1920px-Satellite_Image_of_Ruegen.jpg
+---
 
 ## Overview
 

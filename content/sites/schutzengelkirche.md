@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/400px-Schutzengelkirche_Eichstätt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/800px-Schutzengelkirche_Eichstätt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/1200px-Schutzengelkirche_Eichstätt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/1920px-Schutzengelkirche_Eichstätt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schutzengelkirche_Eichstätt.JPG/1920px-Schutzengelkirche_Eichstätt.JPG
+---
 
 ## Overview
 

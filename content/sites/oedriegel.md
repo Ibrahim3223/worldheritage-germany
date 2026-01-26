@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ödriegel,_1.156_m.JPG/400px-Ödriegel,_1.156_m.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ödriegel,_1.156_m.JPG/800px-Ödriegel,_1.156_m.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ödriegel,_1.156_m.JPG/1200px-Ödriegel,_1.156_m.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ödriegel,_1.156_m.JPG/1920px-Ödriegel,_1.156_m.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ödriegel,_1.156_m.JPG/1920px-Ödriegel,_1.156_m.JPG
+---
 
 ## Overview
 

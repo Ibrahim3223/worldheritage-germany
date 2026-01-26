@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Restauration_zur_Milchinsel_Leipzig.jpg/400px-Restauration_zur_Milchinsel_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Restauration_zur_Milchinsel_Leipzig.jpg/800px-Restauration_zur_Milchinsel_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Restauration_zur_Milchinsel_Leipzig.jpg/1200px-Restauration_zur_Milchinsel_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Restauration_zur_Milchinsel_Leipzig.jpg/1920px-Restauration_zur_Milchinsel_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Restauration_zur_Milchinsel_Leipzig.jpg/1920px-Restauration_zur_Milchinsel_Leipzig.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/400px-Harkort’sche_Fabrik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/800px-Harkort’sche_Fabrik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1200px-Harkort’sche_Fabrik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1920px-Harkort’sche_Fabrik.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1920px-Harkort’sche_Fabrik.jpg
+---
 
 ## Overview
 

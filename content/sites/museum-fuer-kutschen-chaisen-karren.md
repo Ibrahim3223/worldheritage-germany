@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/400px-HDHFruchtkasten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/800px-HDHFruchtkasten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/1200px-HDHFruchtkasten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/1920px-HDHFruchtkasten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HDHFruchtkasten.jpg/1920px-HDHFruchtkasten.jpg
+---
 
 ## Overview
 

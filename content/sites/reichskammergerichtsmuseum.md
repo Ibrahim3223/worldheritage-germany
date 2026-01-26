@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/400px-Reichskammergerichtsmuseum_Wetzlar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/800px-Reichskammergerichtsmuseum_Wetzlar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/1200px-Reichskammergerichtsmuseum_Wetzlar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/1920px-Reichskammergerichtsmuseum_Wetzlar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichskammergerichtsmuseum_Wetzlar.jpg/1920px-Reichskammergerichtsmuseum_Wetzlar.jpg
+---
 
 ## Overview
 

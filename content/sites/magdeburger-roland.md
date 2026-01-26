@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/400px-Magdeburg_asv2022-08_img31_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/800px-Magdeburg_asv2022-08_img31_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/1200px-Magdeburg_asv2022-08_img31_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/1920px-Magdeburg_asv2022-08_img31_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Magdeburg_asv2022-08_img31_Rathaus.jpg/1920px-Magdeburg_asv2022-08_img31_Rathaus.jpg
+---
 
 ## Overview
 

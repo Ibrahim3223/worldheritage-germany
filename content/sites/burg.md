@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Altenburg_von_Süden_14-09-2003_(3).JPG/400px-Altenburg_von_Süden_14-09-2003_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Altenburg_von_Süden_14-09-2003_(3).JPG/800px-Altenburg_von_Süden_14-09-2003_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Altenburg_von_Süden_14-09-2003_(3).JPG/1200px-Altenburg_von_Süden_14-09-2003_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Altenburg_von_Süden_14-09-2003_(3).JPG/1920px-Altenburg_von_Süden_14-09-2003_(3).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Altenburg_von_Süden_14-09-2003_(3).JPG/1920px-Altenburg_von_Süden_14-09-2003_(3).JPG
+---
 
 ## Overview
 

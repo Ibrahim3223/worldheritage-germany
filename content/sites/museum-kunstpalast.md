@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/400px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/800px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/1200px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/1920px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG/1920px-Düsseldorf_Museum_Kunstpalast_15-08-2012_14-34-32.JPG
+---
 
 ## Overview
 

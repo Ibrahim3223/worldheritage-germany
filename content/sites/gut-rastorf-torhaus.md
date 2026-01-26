@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/400px-Rastorf_Gut_Torhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/800px-Rastorf_Gut_Torhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/1200px-Rastorf_Gut_Torhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/1920px-Rastorf_Gut_Torhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rastorf_Gut_Torhaus.jpg/1920px-Rastorf_Gut_Torhaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/400px-Kampa-Halle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/800px-Kampa-Halle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/1200px-Kampa-Halle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/1920px-Kampa-Halle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kampa-Halle.JPG/1920px-Kampa-Halle.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/400px-Langenstein_120306.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/800px-Langenstein_120306.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/1200px-Langenstein_120306.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/1920px-Langenstein_120306.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Langenstein_120306.jpg/1920px-Langenstein_120306.jpg
+---
 
 ## Overview
 

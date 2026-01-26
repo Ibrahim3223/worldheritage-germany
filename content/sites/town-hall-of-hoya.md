@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/400px-Hoya_047.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/800px-Hoya_047.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/1200px-Hoya_047.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/1920px-Hoya_047.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoya_047.JPG/1920px-Hoya_047.JPG
+---
 
 ## Overview
 

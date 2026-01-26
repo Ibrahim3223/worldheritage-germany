@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/400px-Silberwäsche_2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/800px-Silberwäsche_2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/1200px-Silberwäsche_2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/1920px-Silberwäsche_2007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silberwäsche_2007.jpg/1920px-Silberwäsche_2007.jpg
+---
 
 ## Overview
 

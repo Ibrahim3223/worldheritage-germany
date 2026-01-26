@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/400px-Bückeburg_Idaturm_09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/800px-Bückeburg_Idaturm_09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/1200px-Bückeburg_Idaturm_09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/1920px-Bückeburg_Idaturm_09.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bückeburg_Idaturm_09.jpg/1920px-Bückeburg_Idaturm_09.jpg
+---
 
 ## Overview
 

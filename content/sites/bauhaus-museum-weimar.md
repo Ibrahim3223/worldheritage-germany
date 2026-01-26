@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/400px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/800px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1200px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1920px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1920px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
+---
 
 ## Overview
 

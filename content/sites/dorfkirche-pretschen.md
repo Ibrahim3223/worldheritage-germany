@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/400px-Pretschen_Dorfkirche_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/800px-Pretschen_Dorfkirche_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1200px-Pretschen_Dorfkirche_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1920px-Pretschen_Dorfkirche_04.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1920px-Pretschen_Dorfkirche_04.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/400px-Archiv_Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/800px-Archiv_Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/1200px-Archiv_Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/1920px-Archiv_Park.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Archiv_Park.jpg/1920px-Archiv_Park.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/400px-Osnabrück_Haus_Gartlage.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/800px-Osnabrück_Haus_Gartlage.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/1200px-Osnabrück_Haus_Gartlage.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/1920px-Osnabrück_Haus_Gartlage.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Osnabrück_Haus_Gartlage.jpg/1920px-Osnabrück_Haus_Gartlage.jpg
+---
 
 ## Overview
 

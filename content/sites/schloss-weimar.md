@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/400px-Luftbild_Weimarer_Stadtschloss-0063.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/800px-Luftbild_Weimarer_Stadtschloss-0063.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/1200px-Luftbild_Weimarer_Stadtschloss-0063.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/1920px-Luftbild_Weimarer_Stadtschloss-0063.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Luftbild_Weimarer_Stadtschloss-0063.jpg/1920px-Luftbild_Weimarer_Stadtschloss-0063.jpg
+---
 
 ## Overview
 

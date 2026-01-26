@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bielefeld_Süsterkirche.jpg/400px-Bielefeld_Süsterkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bielefeld_Süsterkirche.jpg/800px-Bielefeld_Süsterkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bielefeld_Süsterkirche.jpg/1200px-Bielefeld_Süsterkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bielefeld_Süsterkirche.jpg/1920px-Bielefeld_Süsterkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bielefeld_Süsterkirche.jpg/1920px-Bielefeld_Süsterkirche.jpg
+---
 
 ## Overview
 

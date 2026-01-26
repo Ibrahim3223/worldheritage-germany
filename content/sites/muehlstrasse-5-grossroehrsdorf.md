@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/400px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/800px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/1200px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/1920px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG/1920px-Heimatmuseum_Großröhrsdorf_150325_IMG_6233.JPG
+---
 
 ## Overview 
 

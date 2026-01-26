@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/400px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/800px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/1200px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/1920px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg/1920px-Müglitztalbahn_(Sachgesamtheit);_Brücke_Glashütte.jpg
+---
 
 ## Overview
 

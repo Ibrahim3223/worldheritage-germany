@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/400px-Kuestenfunkstelle_Borkum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/800px-Kuestenfunkstelle_Borkum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/1200px-Kuestenfunkstelle_Borkum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/1920px-Kuestenfunkstelle_Borkum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kuestenfunkstelle_Borkum.JPG/1920px-Kuestenfunkstelle_Borkum.JPG
+---
 
 ## Overview
 

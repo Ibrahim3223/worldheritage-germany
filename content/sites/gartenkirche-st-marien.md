@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/400px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/800px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1200px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1920px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1920px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
+---
 
 ## Overview
 

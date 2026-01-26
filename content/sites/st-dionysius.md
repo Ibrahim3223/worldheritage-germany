@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/400px-Katholische_Kirche_Nordwalde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/800px-Katholische_Kirche_Nordwalde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/1200px-Katholische_Kirche_Nordwalde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/1920px-Katholische_Kirche_Nordwalde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Katholische_Kirche_Nordwalde.jpg/1920px-Katholische_Kirche_Nordwalde.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/400px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/800px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/1200px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/1920px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/1920px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
+---
 
 ## Overview
 

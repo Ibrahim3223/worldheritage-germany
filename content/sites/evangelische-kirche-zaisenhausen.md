@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/400px-Zaisenhausen_Evangelische_Kirche_215.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/800px-Zaisenhausen_Evangelische_Kirche_215.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/1200px-Zaisenhausen_Evangelische_Kirche_215.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/1920px-Zaisenhausen_Evangelische_Kirche_215.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/1920px-Zaisenhausen_Evangelische_Kirche_215.JPG
+---
 
 ## Overview
 

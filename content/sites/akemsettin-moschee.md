@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/400px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/800px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/1200px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/1920px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/IGMG_Moschee_nach_Brandanschlag_März_2018.jpg/1920px-IGMG_Moschee_nach_Brandanschlag_März_2018.jpg
+---
 
 ## Overview
 

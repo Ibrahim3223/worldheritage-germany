@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympia_München_(1972)_Eingang_Olympiahalle.JPG/400px-Olympia_München_(1972)_Eingang_Olympiahalle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympia_München_(1972)_Eingang_Olympiahalle.JPG/800px-Olympia_München_(1972)_Eingang_Olympiahalle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympia_München_(1972)_Eingang_Olympiahalle.JPG/1200px-Olympia_München_(1972)_Eingang_Olympiahalle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympia_München_(1972)_Eingang_Olympiahalle.JPG/1920px-Olympia_München_(1972)_Eingang_Olympiahalle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympia_München_(1972)_Eingang_Olympiahalle.JPG/1920px-Olympia_München_(1972)_Eingang_Olympiahalle.JPG
+---
 
 ## Overview
 

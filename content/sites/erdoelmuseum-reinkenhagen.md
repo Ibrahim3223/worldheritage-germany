@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/400px-Reinkenhagen_Erdölmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/800px-Reinkenhagen_Erdölmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/1200px-Reinkenhagen_Erdölmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/1920px-Reinkenhagen_Erdölmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Reinkenhagen_Erdölmuseum.JPG/1920px-Reinkenhagen_Erdölmuseum.JPG
+---
 
 ## Overview
 

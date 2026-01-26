@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/400px-Gessin-Kapelle2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/800px-Gessin-Kapelle2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/1200px-Gessin-Kapelle2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/1920px-Gessin-Kapelle2011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gessin-Kapelle2011.JPG/1920px-Gessin-Kapelle2011.JPG
+---
 
 ## Overview
 

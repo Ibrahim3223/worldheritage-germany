@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/400px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/800px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/1200px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/1920px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg/1920px-Rhauderfehn_Rhaude_-_Dorfstraße_-_Kirche_+_Friedhof_05_ies.jpg
+---
 
 ## Overview
 

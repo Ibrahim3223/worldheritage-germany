@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/400px-Rathaus_Orsoy.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/800px-Rathaus_Orsoy.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/1200px-Rathaus_Orsoy.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/1920px-Rathaus_Orsoy.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rathaus_Orsoy.jpg/1920px-Rathaus_Orsoy.jpg
+---
 
 ## Overview
 

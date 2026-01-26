@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/400px-Wuerttembergische_landesbibliothek_2005_05a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/800px-Wuerttembergische_landesbibliothek_2005_05a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1200px-Wuerttembergische_landesbibliothek_2005_05a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1920px-Wuerttembergische_landesbibliothek_2005_05a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wuerttembergische_landesbibliothek_2005_05a.jpg/1920px-Wuerttembergische_landesbibliothek_2005_05a.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/400px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/800px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/1200px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/1920px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg/1920px-Quedlinburg_-_Stiftskirche_St._Servatius_-_2016.jpg
+---
 
 ## Overview
 

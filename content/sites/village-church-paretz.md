@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Paretz_2017_NW.jpg/400px-Dorfkirche_Paretz_2017_NW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Paretz_2017_NW.jpg/800px-Dorfkirche_Paretz_2017_NW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Paretz_2017_NW.jpg/1200px-Dorfkirche_Paretz_2017_NW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Paretz_2017_NW.jpg/1920px-Dorfkirche_Paretz_2017_NW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dorfkirche_Paretz_2017_NW.jpg/1920px-Dorfkirche_Paretz_2017_NW.jpg
+---
 
 ## Overview
 

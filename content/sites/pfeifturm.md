@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/400px-Pfeifturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/800px-Pfeifturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/1200px-Pfeifturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/1920px-Pfeifturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pfeifturm.JPG/1920px-Pfeifturm.JPG
+---
 
 ## Overview
 

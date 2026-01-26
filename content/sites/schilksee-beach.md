@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/400px-Riesenrad_am_Strand_von_Schilksee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/800px-Riesenrad_am_Strand_von_Schilksee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/1200px-Riesenrad_am_Strand_von_Schilksee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/1920px-Riesenrad_am_Strand_von_Schilksee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Riesenrad_am_Strand_von_Schilksee.jpg/1920px-Riesenrad_am_Strand_von_Schilksee.jpg
+---
 
 ## Overview
 

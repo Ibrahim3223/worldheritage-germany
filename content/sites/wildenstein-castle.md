@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wildenstein-gedreht-geschnitten.JPG/400px-Wildenstein-gedreht-geschnitten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wildenstein-gedreht-geschnitten.JPG/800px-Wildenstein-gedreht-geschnitten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wildenstein-gedreht-geschnitten.JPG/1200px-Wildenstein-gedreht-geschnitten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wildenstein-gedreht-geschnitten.JPG/1920px-Wildenstein-gedreht-geschnitten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wildenstein-gedreht-geschnitten.JPG/1920px-Wildenstein-gedreht-geschnitten.JPG
+---
 
 ## Overview
 

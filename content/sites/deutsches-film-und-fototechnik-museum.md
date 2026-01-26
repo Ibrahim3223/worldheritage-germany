@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/400px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/800px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/1200px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/1920px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg/1920px-Deutschen_Film-_und_Fototechnik-Museum_Deidesheim.jpg
+---
 
 ## Overview
 

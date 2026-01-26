@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/400px-Freiberg_Bahnhofstrasse_28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/800px-Freiberg_Bahnhofstrasse_28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/1200px-Freiberg_Bahnhofstrasse_28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/1920px-Freiberg_Bahnhofstrasse_28.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Freiberg_Bahnhofstrasse_28.jpg/1920px-Freiberg_Bahnhofstrasse_28.jpg
+---
 
 ## Overview
 

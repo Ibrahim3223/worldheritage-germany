@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/400px-Ortskapelle_Deutldorf_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/800px-Ortskapelle_Deutldorf_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/1200px-Ortskapelle_Deutldorf_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/1920px-Ortskapelle_Deutldorf_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ortskapelle_Deutldorf_02.jpg/1920px-Ortskapelle_Deutldorf_02.jpg
+---
 
 ## Overview
 

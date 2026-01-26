@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hamburg_Dammtor_Frank_Meisler_2.jpg/400px-Hamburg_Dammtor_Frank_Meisler_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hamburg_Dammtor_Frank_Meisler_2.jpg/800px-Hamburg_Dammtor_Frank_Meisler_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hamburg_Dammtor_Frank_Meisler_2.jpg/1200px-Hamburg_Dammtor_Frank_Meisler_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hamburg_Dammtor_Frank_Meisler_2.jpg/1920px-Hamburg_Dammtor_Frank_Meisler_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hamburg_Dammtor_Frank_Meisler_2.jpg/1920px-Hamburg_Dammtor_Frank_Meisler_2.jpg
+---
 
 ## Overview
 

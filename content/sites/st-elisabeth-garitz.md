@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/400px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/800px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/1200px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/1920px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG/1920px-St.Elisabeth-Church_in_Bad_Kissingen_(Germany)_–_20120812-082.JPG
+---
 
 ## Overview
 

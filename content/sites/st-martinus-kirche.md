@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/400px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/800px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/1200px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/1920px-St._Martinus-Kirche_Etzel_(Nordseite).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St._Martinus-Kirche_Etzel_(Nordseite).JPG/1920px-St._Martinus-Kirche_Etzel_(Nordseite).JPG
+---
 
 ## Overview
 

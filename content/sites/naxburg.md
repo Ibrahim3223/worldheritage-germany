@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/400px-Auf_der_Naxburg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/800px-Auf_der_Naxburg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/1200px-Auf_der_Naxburg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/1920px-Auf_der_Naxburg_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Auf_der_Naxburg_1.JPG/1920px-Auf_der_Naxburg_1.JPG
+---
 
 ## Overview
 

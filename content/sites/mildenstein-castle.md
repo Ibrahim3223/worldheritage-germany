@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/400px-Burg_Mildenstein_an_der_Mulde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/800px-Burg_Mildenstein_an_der_Mulde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/1200px-Burg_Mildenstein_an_der_Mulde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/1920px-Burg_Mildenstein_an_der_Mulde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Mildenstein_an_der_Mulde.jpg/1920px-Burg_Mildenstein_an_der_Mulde.jpg
+---
 
 ## Overview
 

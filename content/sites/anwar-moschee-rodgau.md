@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/400px-Anwar-Moschee_Rodgau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/800px-Anwar-Moschee_Rodgau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/1200px-Anwar-Moschee_Rodgau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/1920px-Anwar-Moschee_Rodgau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anwar-Moschee_Rodgau.jpg/1920px-Anwar-Moschee_Rodgau.jpg
+---
 
 ## Overview
 

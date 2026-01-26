@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/400px-Ahrend_Orgel_Reinbek.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/800px-Ahrend_Orgel_Reinbek.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1200px-Ahrend_Orgel_Reinbek.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1920px-Ahrend_Orgel_Reinbek.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ahrend_Orgel_Reinbek.JPG/1920px-Ahrend_Orgel_Reinbek.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/400px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/800px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/1200px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/1920px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Die_Befestigung_der_Alten_Bürg_im_Norden.jpg/1920px-Die_Befestigung_der_Alten_Bürg_im_Norden.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/400px-Adenauer_Kopf_01_Bonn_20080504.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/800px-Adenauer_Kopf_01_Bonn_20080504.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/1200px-Adenauer_Kopf_01_Bonn_20080504.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/1920px-Adenauer_Kopf_01_Bonn_20080504.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Adenauer_Kopf_01_Bonn_20080504.jpg/1920px-Adenauer_Kopf_01_Bonn_20080504.jpg
+---
 
 ## Overview
 

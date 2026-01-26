@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/400px-Stadtmuseum_Siegburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/800px-Stadtmuseum_Siegburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/1200px-Stadtmuseum_Siegburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/1920px-Stadtmuseum_Siegburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Stadtmuseum_Siegburg.jpg/1920px-Stadtmuseum_Siegburg.jpg
+---
 
 ## Overview
 

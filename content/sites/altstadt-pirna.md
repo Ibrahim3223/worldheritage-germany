@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/400px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/800px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/1200px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/1920px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg/1920px-Blick_über_die_Altstadt_von_Pirna_(Panorama_of_the_historic_centre_of_Pirna)_-_geograph.org.uk_-_7781.jpg
+---
 
 ## Overview
 

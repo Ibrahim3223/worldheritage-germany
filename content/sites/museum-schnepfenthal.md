@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/400px-GTH_SCHNEPF_MUSEUM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/800px-GTH_SCHNEPF_MUSEUM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/1200px-GTH_SCHNEPF_MUSEUM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/1920px-GTH_SCHNEPF_MUSEUM.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GTH_SCHNEPF_MUSEUM.jpg/1920px-GTH_SCHNEPF_MUSEUM.jpg
+---
 
 ## Overview
 

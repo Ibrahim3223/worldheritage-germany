@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/400px-SchartauKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/800px-SchartauKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/1200px-SchartauKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/1920px-SchartauKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SchartauKirche.jpg/1920px-SchartauKirche.jpg
+---
 
 ## Overview
 

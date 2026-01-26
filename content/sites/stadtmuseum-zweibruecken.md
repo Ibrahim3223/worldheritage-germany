@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/400px-Petrihaus_Zweibrücken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/800px-Petrihaus_Zweibrücken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/1200px-Petrihaus_Zweibrücken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/1920px-Petrihaus_Zweibrücken.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Petrihaus_Zweibrücken.jpg/1920px-Petrihaus_Zweibrücken.jpg
+---
 
 ## Overview 
 

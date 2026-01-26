@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/400px-Klink_Kirche_2009-08-31_073.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/800px-Klink_Kirche_2009-08-31_073.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1200px-Klink_Kirche_2009-08-31_073.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1920px-Klink_Kirche_2009-08-31_073.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1920px-Klink_Kirche_2009-08-31_073.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/400px-Pumucklbrunnen_ORA2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/800px-Pumucklbrunnen_ORA2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/1200px-Pumucklbrunnen_ORA2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/1920px-Pumucklbrunnen_ORA2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pumucklbrunnen_ORA2.jpg/1920px-Pumucklbrunnen_ORA2.jpg
+---
 
 ## Overview
 

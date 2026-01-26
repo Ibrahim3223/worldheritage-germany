@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/400px-MünchenbernsdorfNSchloßstr.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/800px-MünchenbernsdorfNSchloßstr.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/1200px-MünchenbernsdorfNSchloßstr.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/1920px-MünchenbernsdorfNSchloßstr.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MünchenbernsdorfNSchloßstr.JPG/1920px-MünchenbernsdorfNSchloßstr.JPG
+---
 
 ## Overview
 

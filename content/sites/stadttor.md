@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/400px-Maintor_Eibelstadt_20210228_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/800px-Maintor_Eibelstadt_20210228_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/1200px-Maintor_Eibelstadt_20210228_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/1920px-Maintor_Eibelstadt_20210228_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Maintor_Eibelstadt_20210228_001.jpg/1920px-Maintor_Eibelstadt_20210228_001.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/400px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/800px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/1200px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/1920px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/19860807120AR_Annaberg-Buchholz_Annenkirche.jpg/1920px-19860807120AR_Annaberg-Buchholz_Annenkirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/400px-Schloss-fronberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/800px-Schloss-fronberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/1200px-Schloss-fronberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/1920px-Schloss-fronberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Schloss-fronberg.jpg/1920px-Schloss-fronberg.jpg
+---
 
 ## Overview
 

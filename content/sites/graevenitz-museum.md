@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/400px-Fritz_von_Graevenitz_Museum_Solitude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/800px-Fritz_von_Graevenitz_Museum_Solitude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/1200px-Fritz_von_Graevenitz_Museum_Solitude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/1920px-Fritz_von_Graevenitz_Museum_Solitude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fritz_von_Graevenitz_Museum_Solitude.jpg/1920px-Fritz_von_Graevenitz_Museum_Solitude.jpg
+---
 
 ## Overview
 

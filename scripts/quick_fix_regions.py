@@ -114,7 +114,7 @@ def main():
             new_frontmatter = update_region_in_frontmatter(frontmatter, state)
 
             # Write back
-            new_content = f"---\n{new_frontmatter}---\n{body}"
+            new_content = f"---\n{new_frontmatter}---\n\n{body}"
             file_path.write_text(new_content, encoding='utf-8')
 
             updated += 1

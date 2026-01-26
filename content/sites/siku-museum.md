@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/400px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/800px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/1200px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/1920px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG/1920px-Außenansicht_des_Siku-,_Audi-_und_Oldtimermuseums.JPG
+---
 
 ## Overview
 

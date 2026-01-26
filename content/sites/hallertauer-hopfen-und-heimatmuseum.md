@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hallertauer_Hopfen-_und_Heimatmuseum.jpg/400px-Hallertauer_Hopfen-_und_Heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hallertauer_Hopfen-_und_Heimatmuseum.jpg/800px-Hallertauer_Hopfen-_und_Heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hallertauer_Hopfen-_und_Heimatmuseum.jpg/1200px-Hallertauer_Hopfen-_und_Heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hallertauer_Hopfen-_und_Heimatmuseum.jpg/1920px-Hallertauer_Hopfen-_und_Heimatmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hallertauer_Hopfen-_und_Heimatmuseum.jpg/1920px-Hallertauer_Hopfen-_und_Heimatmuseum.jpg
+---
 
 ## Overview
 

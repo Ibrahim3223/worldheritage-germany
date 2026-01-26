@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/400px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/800px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/1200px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/1920px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg/1920px-Lüdinghausen,_Burg_Vischering_--_2013_--_0293.jpg
+---
 
 ## Overview
 

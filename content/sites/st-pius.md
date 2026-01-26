@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/400px-St_Pius_Aschaffenburg_Turm-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/800px-St_Pius_Aschaffenburg_Turm-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/1200px-St_Pius_Aschaffenburg_Turm-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/1920px-St_Pius_Aschaffenburg_Turm-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/St_Pius_Aschaffenburg_Turm-2.jpg/1920px-St_Pius_Aschaffenburg_Turm-2.jpg
+---
 
 ## Overview
 

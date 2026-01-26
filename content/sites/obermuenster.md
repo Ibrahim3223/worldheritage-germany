@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/400px-Ruine-obermuenster-regensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/800px-Ruine-obermuenster-regensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/1200px-Ruine-obermuenster-regensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/1920px-Ruine-obermuenster-regensburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ruine-obermuenster-regensburg.JPG/1920px-Ruine-obermuenster-regensburg.JPG
+---
 
 ## Overview
 

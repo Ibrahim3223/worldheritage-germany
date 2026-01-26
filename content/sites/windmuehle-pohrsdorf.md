@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/400px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/800px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/1200px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/1920px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG/1920px-WindmuehlePohrsdorfSchaukatsen270311FotosAndreKaiser.JPG
+---
 
 ## Overview
 

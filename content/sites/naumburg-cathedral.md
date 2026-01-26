@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/400px-Naumburger_Dom.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/800px-Naumburger_Dom.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1200px-Naumburger_Dom.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1920px-Naumburger_Dom.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Naumburger_Dom.JPG/1920px-Naumburger_Dom.JPG
+---
 
 ## Overview
 

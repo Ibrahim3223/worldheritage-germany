@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/400px-Běłobóh_Čornobóh.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/800px-Běłobóh_Čornobóh.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1200px-Běłobóh_Čornobóh.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1920px-Běłobóh_Čornobóh.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1920px-Běłobóh_Čornobóh.JPG
+---
 
 ## Overview
 

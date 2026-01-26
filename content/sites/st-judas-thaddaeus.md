@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/400px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/800px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/1200px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/1920px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg/1920px-St._Judas_Thaddäus,_3,_Landwehrhagen,_Staufenberg,_Landkreis_Göttingen.jpg
+---
 
 ## Overview
 

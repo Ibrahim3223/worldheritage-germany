@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trier_Turm_Jerusalem.jpg/400px-Trier_Turm_Jerusalem.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trier_Turm_Jerusalem.jpg/800px-Trier_Turm_Jerusalem.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trier_Turm_Jerusalem.jpg/1200px-Trier_Turm_Jerusalem.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trier_Turm_Jerusalem.jpg/1920px-Trier_Turm_Jerusalem.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Trier_Turm_Jerusalem.jpg/1920px-Trier_Turm_Jerusalem.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/400px-Hanau_Ehrensäule.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/800px-Hanau_Ehrensäule.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/1200px-Hanau_Ehrensäule.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/1920px-Hanau_Ehrensäule.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Ehrensäule.JPG/1920px-Hanau_Ehrensäule.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/400px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/800px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/1200px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Wiblingen_Abbey_(view_from_the_east).jpg
+---
 
 ## Overview
 

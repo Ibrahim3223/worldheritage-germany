@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/400px-Epiphaniaskirche_Bochum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/800px-Epiphaniaskirche_Bochum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/1200px-Epiphaniaskirche_Bochum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/1920px-Epiphaniaskirche_Bochum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Epiphaniaskirche_Bochum.jpg/1920px-Epiphaniaskirche_Bochum.jpg
+---
 
 ## Overview
 

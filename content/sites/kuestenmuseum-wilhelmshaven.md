@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/400px-Küstenmuseum_Wilhelmshaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/800px-Küstenmuseum_Wilhelmshaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/1200px-Küstenmuseum_Wilhelmshaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/1920px-Küstenmuseum_Wilhelmshaven.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Küstenmuseum_Wilhelmshaven.jpg/1920px-Küstenmuseum_Wilhelmshaven.jpg
+---
 
 ## Overview
 

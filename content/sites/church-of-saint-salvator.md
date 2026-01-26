@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/400px-Salvatorkirche_Munich_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/800px-Salvatorkirche_Munich_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/1200px-Salvatorkirche_Munich_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/1920px-Salvatorkirche_Munich_I.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Salvatorkirche_Munich_I.jpg/1920px-Salvatorkirche_Munich_I.jpg
+---
 
 ## Overview
 

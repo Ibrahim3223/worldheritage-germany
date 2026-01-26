@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/400px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/800px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/1200px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/1920px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG/1920px-Braunschweig_Brunswick_Staedtisches_Museum_Rueckseite_(2006).JPG
+---
 
 ## Overview
 

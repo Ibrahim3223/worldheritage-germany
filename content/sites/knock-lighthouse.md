@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/400px-VerkehrszentraleEms.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/800px-VerkehrszentraleEms.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/1200px-VerkehrszentraleEms.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/1920px-VerkehrszentraleEms.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VerkehrszentraleEms.JPG/1920px-VerkehrszentraleEms.JPG
+---
 
 ## Overview
 

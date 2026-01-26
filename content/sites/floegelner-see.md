@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_photograph_400D_2012_05_28_9095_DxO.jpg/400px-Aerial_photograph_400D_2012_05_28_9095_DxO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_photograph_400D_2012_05_28_9095_DxO.jpg/800px-Aerial_photograph_400D_2012_05_28_9095_DxO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_photograph_400D_2012_05_28_9095_DxO.jpg/1200px-Aerial_photograph_400D_2012_05_28_9095_DxO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_photograph_400D_2012_05_28_9095_DxO.jpg/1920px-Aerial_photograph_400D_2012_05_28_9095_DxO.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_photograph_400D_2012_05_28_9095_DxO.jpg/1920px-Aerial_photograph_400D_2012_05_28_9095_DxO.jpg
+---
 
 ## Overview
 

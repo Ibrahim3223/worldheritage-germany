@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/400px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/800px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/1200px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/1920px-Detmold_-_537(21)_-_Im_Hoffeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Detmold_-_537(21)_-_Im_Hoffeld.jpg/1920px-Detmold_-_537(21)_-_Im_Hoffeld.jpg
+---
 
 ## Overview
 

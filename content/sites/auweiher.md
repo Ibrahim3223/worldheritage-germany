@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/400px-D-BW-Neukirch_-_Auweiher.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/800px-D-BW-Neukirch_-_Auweiher.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/1200px-D-BW-Neukirch_-_Auweiher.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/1920px-D-BW-Neukirch_-_Auweiher.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/D-BW-Neukirch_-_Auweiher.JPG/1920px-D-BW-Neukirch_-_Auweiher.JPG
+---
 
 ## Overview
 

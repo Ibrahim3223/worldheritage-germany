@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/400px-Botanischergartendresden-juli2016_-_26.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/800px-Botanischergartendresden-juli2016_-_26.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1200px-Botanischergartendresden-juli2016_-_26.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1920px-Botanischergartendresden-juli2016_-_26.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1920px-Botanischergartendresden-juli2016_-_26.jpeg
+---
 
 ## Overview
 

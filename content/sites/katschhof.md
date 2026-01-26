@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/400px-Katschhof,_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/800px-Katschhof,_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/1200px-Katschhof,_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/1920px-Katschhof,_Aachen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Katschhof,_Aachen.jpg/1920px-Katschhof,_Aachen.jpg
+---
 
 ## Overview
 

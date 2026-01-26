@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/400px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/800px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/1200px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/1920px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg/1920px-Yavuz_Sultan_Selim_Moschee_Mannheim_2019.jpg
+---
 
 ## Overview
 

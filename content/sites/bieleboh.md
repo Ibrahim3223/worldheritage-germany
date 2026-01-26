@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/400px-Běłobóh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/800px-Běłobóh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1200px-Běłobóh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1920px-Běłobóh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1920px-Běłobóh.jpg
+---
 
 ## Overview
 

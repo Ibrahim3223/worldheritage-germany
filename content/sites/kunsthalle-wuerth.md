@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/400px-Schwaebisch_Hall_Museum_Wuerth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/800px-Schwaebisch_Hall_Museum_Wuerth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/1200px-Schwaebisch_Hall_Museum_Wuerth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/1920px-Schwaebisch_Hall_Museum_Wuerth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Schwaebisch_Hall_Museum_Wuerth.jpg/1920px-Schwaebisch_Hall_Museum_Wuerth.jpg
+---
 
 ## Overview
 

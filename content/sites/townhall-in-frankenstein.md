@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/400px-Falkenstein,_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/800px-Falkenstein,_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/1200px-Falkenstein,_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/1920px-Falkenstein,_Rathaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Falkenstein,_Rathaus.JPG/1920px-Falkenstein,_Rathaus.JPG
+---
 
 ## Overview
 

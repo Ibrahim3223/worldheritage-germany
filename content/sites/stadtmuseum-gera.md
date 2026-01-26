@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/400px-Gera,_das_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/800px-Gera,_das_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/1200px-Gera,_das_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/1920px-Gera,_das_Stadtmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gera,_das_Stadtmuseum.jpg/1920px-Gera,_das_Stadtmuseum.jpg
+---
 
 ## Overview
 

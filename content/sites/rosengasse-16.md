@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/400px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/800px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/1200px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/1920px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg/1920px-Wetzlar_(DerHexer)_WLMMH_25079_2011-09-21_01.jpg
+---
 
 ## Overview
 

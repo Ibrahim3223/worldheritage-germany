@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/400px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/800px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/1200px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/1920px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg/1920px-Düren-Berzbuir_Denkmal-Nr._3-017,_Berzbuirer_Straße_46_(397).jpg
+---
 
 ## Overview
 

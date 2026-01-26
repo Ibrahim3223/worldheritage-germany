@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/400px-Magnolie_rot.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/800px-Magnolie_rot.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/1200px-Magnolie_rot.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/1920px-Magnolie_rot.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Magnolie_rot.jpg/1920px-Magnolie_rot.jpg
+---
 
 ## Overview
 

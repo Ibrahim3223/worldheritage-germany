@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/400px-Kunstpalais_erlangen1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/800px-Kunstpalais_erlangen1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/1200px-Kunstpalais_erlangen1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/1920px-Kunstpalais_erlangen1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kunstpalais_erlangen1.jpg/1920px-Kunstpalais_erlangen1.jpg
+---
 
 ## Overview
 

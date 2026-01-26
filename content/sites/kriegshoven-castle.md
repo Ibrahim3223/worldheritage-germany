@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Kriegshoven_Sammlung_Duncker.jpg/400px-Burg_Kriegshoven_Sammlung_Duncker.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Kriegshoven_Sammlung_Duncker.jpg/800px-Burg_Kriegshoven_Sammlung_Duncker.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Kriegshoven_Sammlung_Duncker.jpg/1200px-Burg_Kriegshoven_Sammlung_Duncker.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Kriegshoven_Sammlung_Duncker.jpg/1920px-Burg_Kriegshoven_Sammlung_Duncker.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burg_Kriegshoven_Sammlung_Duncker.jpg/1920px-Burg_Kriegshoven_Sammlung_Duncker.jpg
+---
 
 ## Overview
 

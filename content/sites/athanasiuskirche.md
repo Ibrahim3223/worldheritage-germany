@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/400px-Athanasiuskirche_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/800px-Athanasiuskirche_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/1200px-Athanasiuskirche_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/1920px-Athanasiuskirche_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/1920px-Athanasiuskirche_Hannover.jpg
+---
 
 ## Overview
 

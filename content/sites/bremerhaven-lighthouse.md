@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/400px-Bremerhaven_Oberfeuer_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/800px-Bremerhaven_Oberfeuer_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1200px-Bremerhaven_Oberfeuer_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1920px-Bremerhaven_Oberfeuer_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1920px-Bremerhaven_Oberfeuer_01.jpg
+---
 
 ## Overview
 

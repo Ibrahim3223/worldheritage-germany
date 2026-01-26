@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/400px-Dorfmuseum_Wagenschwend.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/800px-Dorfmuseum_Wagenschwend.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/1200px-Dorfmuseum_Wagenschwend.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/1920px-Dorfmuseum_Wagenschwend.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfmuseum_Wagenschwend.jpg/1920px-Dorfmuseum_Wagenschwend.jpg
+---
 
 ## Overview
 

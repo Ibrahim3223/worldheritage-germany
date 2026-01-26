@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/400px-Schloss_Burgk_vom_Saaleturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/800px-Schloss_Burgk_vom_Saaleturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/1200px-Schloss_Burgk_vom_Saaleturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/1920px-Schloss_Burgk_vom_Saaleturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/1920px-Schloss_Burgk_vom_Saaleturm.jpg
+---
 
 ## Overview
 

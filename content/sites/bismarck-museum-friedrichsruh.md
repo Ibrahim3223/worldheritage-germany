@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/400px-BismarckMuseumFriedrichsruh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/800px-BismarckMuseumFriedrichsruh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1200px-BismarckMuseumFriedrichsruh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1920px-BismarckMuseumFriedrichsruh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1920px-BismarckMuseumFriedrichsruh.jpg
+---
 
 ## Overview
 

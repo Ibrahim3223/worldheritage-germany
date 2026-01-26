@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hh-blankenese-amtsgericht-20150101.jpg/400px-Hh-blankenese-amtsgericht-20150101.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hh-blankenese-amtsgericht-20150101.jpg/800px-Hh-blankenese-amtsgericht-20150101.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hh-blankenese-amtsgericht-20150101.jpg/1200px-Hh-blankenese-amtsgericht-20150101.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hh-blankenese-amtsgericht-20150101.jpg/1920px-Hh-blankenese-amtsgericht-20150101.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hh-blankenese-amtsgericht-20150101.jpg/1920px-Hh-blankenese-amtsgericht-20150101.jpg
+---
 
 ## Overview
 

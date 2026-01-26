@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/400px-Rex-kino.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/800px-Rex-kino.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/1200px-Rex-kino.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/1920px-Rex-kino.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rex-kino.jpg/1920px-Rex-kino.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/400px-Schule_Burgstr._Hamburg-Borgfelde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/800px-Schule_Burgstr._Hamburg-Borgfelde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/1200px-Schule_Burgstr._Hamburg-Borgfelde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/1920px-Schule_Burgstr._Hamburg-Borgfelde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schule_Burgstr._Hamburg-Borgfelde.jpg/1920px-Schule_Burgstr._Hamburg-Borgfelde.jpg
+---
 
 ## Overview
 

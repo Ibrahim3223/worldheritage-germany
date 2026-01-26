@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kapelle_St._Wendel_zum_Stein_2013_(2).jpg/400px-Kapelle_St._Wendel_zum_Stein_2013_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kapelle_St._Wendel_zum_Stein_2013_(2).jpg/800px-Kapelle_St._Wendel_zum_Stein_2013_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kapelle_St._Wendel_zum_Stein_2013_(2).jpg/1200px-Kapelle_St._Wendel_zum_Stein_2013_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kapelle_St._Wendel_zum_Stein_2013_(2).jpg/1920px-Kapelle_St._Wendel_zum_Stein_2013_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kapelle_St._Wendel_zum_Stein_2013_(2).jpg/1920px-Kapelle_St._Wendel_zum_Stein_2013_(2).jpg
+---
 
 ## Overview
 

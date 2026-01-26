@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/400px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/800px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/1200px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/1920px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg/1920px-Horn-Bad_Meinberg_-_2014-06-06_-_LIP-020_-_Bielsteinschlucht_(1).jpg
+---
 
 ## Overview
 

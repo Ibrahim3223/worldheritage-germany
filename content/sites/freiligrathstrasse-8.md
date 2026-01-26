@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/400px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/800px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/1200px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/1920px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg/1920px-Oybin_-_Freiligrathstraße8Rathaus_02_ies.jpg
+---
 
 ## Overview
 

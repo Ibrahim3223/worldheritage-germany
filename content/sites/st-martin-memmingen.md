@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/400px-StMartinMMvonWestenb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/800px-StMartinMMvonWestenb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/1200px-StMartinMMvonWestenb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/1920px-StMartinMMvonWestenb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/StMartinMMvonWestenb.jpg/1920px-StMartinMMvonWestenb.jpg
+---
 
 ## Overview
 

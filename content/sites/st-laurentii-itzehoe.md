@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/400px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/800px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/1200px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/1920px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg/1920px-Itzehoe_Stadtkirche_St._Laurentii_Img_6813.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/400px-Burg_Guerzenich_Codex_Welser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/800px-Burg_Guerzenich_Codex_Welser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/1200px-Burg_Guerzenich_Codex_Welser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/1920px-Burg_Guerzenich_Codex_Welser.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Guerzenich_Codex_Welser.jpg/1920px-Burg_Guerzenich_Codex_Welser.jpg
+---
 
 ## Overview
 

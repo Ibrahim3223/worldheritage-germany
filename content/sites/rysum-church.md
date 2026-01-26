@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/400px-Rysum_Church_msu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/800px-Rysum_Church_msu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/1200px-Rysum_Church_msu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/1920px-Rysum_Church_msu.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rysum_Church_msu.jpg/1920px-Rysum_Church_msu.jpg
+---
 
 ## Overview
 

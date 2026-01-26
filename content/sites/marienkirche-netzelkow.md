@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/400px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/800px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/1200px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/1920px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG/1920px-Netzelkow_St._Marien_Kirche_2010-08-06_014.JPG
+---
 
 ## Overview
 

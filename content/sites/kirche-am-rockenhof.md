@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/400px-Rock_ansicht_von_süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/800px-Rock_ansicht_von_süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1200px-Rock_ansicht_von_süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1920px-Rock_ansicht_von_süden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rock_ansicht_von_süden.jpg/1920px-Rock_ansicht_von_süden.jpg
+---
 
 ## Overview
 

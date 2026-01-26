@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/400px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/800px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/1200px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/1920px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg/1920px-D-5-64-000-1211_Löbleinstraße_10_Nürnberg_20241027_0283.jpg
+---
 
 ## Overview
 

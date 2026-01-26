@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg/400px-InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg/800px-InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg/1200px-InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg/1920px-InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg/1920px-InselReichenau_20090709_MartinSteiger_CCBYSA_001.jpg
+---
 
 ## Overview
 

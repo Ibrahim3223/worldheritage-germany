@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/400px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/800px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/1200px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/1920px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fritz-Löffler-Gymnasium_Eingangsbereich.jpg/1920px-Fritz-Löffler-Gymnasium_Eingangsbereich.jpg
+---
 
 ## Overview
 

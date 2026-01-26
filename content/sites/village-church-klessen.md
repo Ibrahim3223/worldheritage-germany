@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/400px-Kleßen_Dorfkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/800px-Kleßen_Dorfkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/1200px-Kleßen_Dorfkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/1920px-Kleßen_Dorfkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kleßen_Dorfkirche.JPG/1920px-Kleßen_Dorfkirche.JPG
+---
 
 ## Overview
 

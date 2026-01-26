@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/400px-Steinfurths_Diek_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/800px-Steinfurths_Diek_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/1200px-Steinfurths_Diek_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/1920px-Steinfurths_Diek_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steinfurths_Diek_1.jpg/1920px-Steinfurths_Diek_1.jpg
+---
 
 ## Overview
 

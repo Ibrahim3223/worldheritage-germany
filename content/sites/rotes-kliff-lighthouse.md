@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/QuermarkeRoteKliff.jpg/400px-QuermarkeRoteKliff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/QuermarkeRoteKliff.jpg/800px-QuermarkeRoteKliff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/QuermarkeRoteKliff.jpg/1200px-QuermarkeRoteKliff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/QuermarkeRoteKliff.jpg/1920px-QuermarkeRoteKliff.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/QuermarkeRoteKliff.jpg/1920px-QuermarkeRoteKliff.jpg
+---
 
 ## Overview
 

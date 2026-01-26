@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/400px-EFA_Hall_of_Fame.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/800px-EFA_Hall_of_Fame.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/1200px-EFA_Hall_of_Fame.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/1920px-EFA_Hall_of_Fame.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EFA_Hall_of_Fame.jpg/1920px-EFA_Hall_of_Fame.jpg
+---
 
 ## Overview
 

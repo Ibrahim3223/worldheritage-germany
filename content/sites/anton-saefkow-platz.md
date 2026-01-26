@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/400px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/800px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/1200px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/1920px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG/1920px-2010-04-18_A-Saefkow-Platz_631_-_fec_AMA.B.JPG
+---
 
 ## Overview
 

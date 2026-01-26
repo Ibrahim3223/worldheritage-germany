@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Katholische_Kapelle_St._Sebastian_Heister_03.jpg/400px-Katholische_Kapelle_St._Sebastian_Heister_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Katholische_Kapelle_St._Sebastian_Heister_03.jpg/800px-Katholische_Kapelle_St._Sebastian_Heister_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Katholische_Kapelle_St._Sebastian_Heister_03.jpg/1200px-Katholische_Kapelle_St._Sebastian_Heister_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Katholische_Kapelle_St._Sebastian_Heister_03.jpg/1920px-Katholische_Kapelle_St._Sebastian_Heister_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Katholische_Kapelle_St._Sebastian_Heister_03.jpg/1920px-Katholische_Kapelle_St._Sebastian_Heister_03.jpg
+---
 
 ## Overview
 

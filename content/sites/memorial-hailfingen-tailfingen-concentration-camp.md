@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/400px-Hailfingen-tailfingen_2077.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/800px-Hailfingen-tailfingen_2077.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/1200px-Hailfingen-tailfingen_2077.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/1920px-Hailfingen-tailfingen_2077.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hailfingen-tailfingen_2077.jpg/1920px-Hailfingen-tailfingen_2077.jpg
+---
 
 ## Overview
 

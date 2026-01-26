@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/400px-Schambachried_mit_Gunthildiskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/800px-Schambachried_mit_Gunthildiskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/1200px-Schambachried_mit_Gunthildiskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/1920px-Schambachried_mit_Gunthildiskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Schambachried_mit_Gunthildiskapelle.jpg/1920px-Schambachried_mit_Gunthildiskapelle.jpg
+---
 
 ## Overview
 

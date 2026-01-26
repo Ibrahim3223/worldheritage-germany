@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/400px-Accumer_Mühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/800px-Accumer_Mühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/1200px-Accumer_Mühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/1920px-Accumer_Mühle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Accumer_Mühle.jpg/1920px-Accumer_Mühle.jpg
+---
 
 ## Overview
 

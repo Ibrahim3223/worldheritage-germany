@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/400px-BS_VW_Werk_VerWGeb_P.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/800px-BS_VW_Werk_VerWGeb_P.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/1200px-BS_VW_Werk_VerWGeb_P.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/1920px-BS_VW_Werk_VerWGeb_P.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BS_VW_Werk_VerWGeb_P.JPG/1920px-BS_VW_Werk_VerWGeb_P.JPG
+---
 
 ## Overview
 

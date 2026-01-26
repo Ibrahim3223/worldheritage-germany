@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/400px-Bahnhof_Aalen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/800px-Bahnhof_Aalen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/1200px-Bahnhof_Aalen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/1920px-Bahnhof_Aalen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/1920px-Bahnhof_Aalen.jpg
+---
 
 ## Overview
 

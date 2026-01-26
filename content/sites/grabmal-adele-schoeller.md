@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/400px-Adeleschoeller.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/800px-Adeleschoeller.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/1200px-Adeleschoeller.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/1920px-Adeleschoeller.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adeleschoeller.JPG/1920px-Adeleschoeller.JPG
+---
 
 ## Overview
 

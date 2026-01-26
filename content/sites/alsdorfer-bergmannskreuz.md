@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/400px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/800px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/1200px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/1920px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg/1920px-Alsdorfer_Bergmannskreuz,_Belgenbacher_Tal_(2).jpg
+---
 
 ## Overview
 

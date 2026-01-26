@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/400px-Klinik_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/800px-Klinik_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/1200px-Klinik_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/1920px-Klinik_Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Klinik_Kapelle.jpg/1920px-Klinik_Kapelle.jpg
+---
 
 ## Overview
 

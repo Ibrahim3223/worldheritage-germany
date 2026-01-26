@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/400px-Alter_Packhof_um_1790_(var).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/800px-Alter_Packhof_um_1790_(var).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/1200px-Alter_Packhof_um_1790_(var).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/1920px-Alter_Packhof_um_1790_(var).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alter_Packhof_um_1790_(var).jpg/1920px-Alter_Packhof_um_1790_(var).jpg
+---
 
 ## Overview
 

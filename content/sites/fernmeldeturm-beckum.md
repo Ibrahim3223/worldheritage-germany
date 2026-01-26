@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/400px-FMT_Beckum2015.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/800px-FMT_Beckum2015.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/1200px-FMT_Beckum2015.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/1920px-FMT_Beckum2015.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/FMT_Beckum2015.JPG/1920px-FMT_Beckum2015.JPG
+---
 
 ## Overview
 

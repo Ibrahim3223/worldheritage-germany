@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/400px-St_Paulus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/800px-St_Paulus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/1200px-St_Paulus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/1920px-St_Paulus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St_Paulus.JPG/1920px-St_Paulus.JPG
+---
 
 ## Overview
 

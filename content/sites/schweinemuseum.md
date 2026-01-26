@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/400px-Pig_museum.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/800px-Pig_museum.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/1200px-Pig_museum.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/1920px-Pig_museum.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pig_museum.png/1920px-Pig_museum.png
+---
 
 ## Overview 
 

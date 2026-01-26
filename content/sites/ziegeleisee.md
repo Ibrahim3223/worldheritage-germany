@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/400px-Lübars_Ziegeleisee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/800px-Lübars_Ziegeleisee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/1200px-Lübars_Ziegeleisee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/1920px-Lübars_Ziegeleisee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lübars_Ziegeleisee.JPG/1920px-Lübars_Ziegeleisee.JPG
+---
 
 ## Overview
 

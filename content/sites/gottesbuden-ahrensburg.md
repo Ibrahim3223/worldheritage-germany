@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gottesbuden_Ahrensburg.JPG/400px-Gottesbuden_Ahrensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gottesbuden_Ahrensburg.JPG/800px-Gottesbuden_Ahrensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gottesbuden_Ahrensburg.JPG/1200px-Gottesbuden_Ahrensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gottesbuden_Ahrensburg.JPG/1920px-Gottesbuden_Ahrensburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gottesbuden_Ahrensburg.JPG/1920px-Gottesbuden_Ahrensburg.JPG
+---
 
 ## Overview
 

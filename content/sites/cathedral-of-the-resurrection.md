@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/400px-B-Wilmersdorf_Okt12_RussKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/800px-B-Wilmersdorf_Okt12_RussKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/1200px-B-Wilmersdorf_Okt12_RussKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/1920px-B-Wilmersdorf_Okt12_RussKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/B-Wilmersdorf_Okt12_RussKirche.jpg/1920px-B-Wilmersdorf_Okt12_RussKirche.jpg
+---
 
 ## Overview
 

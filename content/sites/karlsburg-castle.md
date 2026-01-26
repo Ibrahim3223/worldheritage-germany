@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/400px-Karlsruhe_Durlach_Karlsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/800px-Karlsruhe_Durlach_Karlsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/1200px-Karlsruhe_Durlach_Karlsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/1920px-Karlsruhe_Durlach_Karlsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Karlsruhe_Durlach_Karlsburg.jpg/1920px-Karlsruhe_Durlach_Karlsburg.jpg
+---
 
 ## Overview
 

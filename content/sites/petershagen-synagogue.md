@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/400px-Petershagen_Alte-Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/800px-Petershagen_Alte-Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/1200px-Petershagen_Alte-Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/1920px-Petershagen_Alte-Synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Petershagen_Alte-Synagoge.jpg/1920px-Petershagen_Alte-Synagoge.jpg
+---
 
 ## Overview
 

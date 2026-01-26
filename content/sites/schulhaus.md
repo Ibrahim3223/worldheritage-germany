@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2009-Kirchheim-Schule-51.jpg/400px-2009-Kirchheim-Schule-51.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2009-Kirchheim-Schule-51.jpg/800px-2009-Kirchheim-Schule-51.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2009-Kirchheim-Schule-51.jpg/1200px-2009-Kirchheim-Schule-51.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2009-Kirchheim-Schule-51.jpg/1920px-2009-Kirchheim-Schule-51.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2009-Kirchheim-Schule-51.jpg/1920px-2009-Kirchheim-Schule-51.jpg
+---
 
 ## Overview
 

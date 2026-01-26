@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/400px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/800px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1200px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1920px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1920px-Gebaeude_Flinger_Strasse_11_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
+---
 
 ## Overview
 

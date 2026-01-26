@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/400px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/800px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/1200px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/1920px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG/1920px-D-BY-Lindau_(Bodensee)-Schachen_-_Ruine_"Burg_Degelstein"_003.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/400px-EnergieVerbund_Arena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/800px-EnergieVerbund_Arena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1200px-EnergieVerbund_Arena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1920px-EnergieVerbund_Arena.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1920px-EnergieVerbund_Arena.jpg
+---
 
 ## Overview
 

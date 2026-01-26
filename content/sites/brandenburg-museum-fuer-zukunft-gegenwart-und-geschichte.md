@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/400px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/800px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/1200px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/1920px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg/1920px-Buildings_in_Potsdam_2_-_Neuer_Markt,_Kutschstall.jpg
+---
 
 ## Overview
 

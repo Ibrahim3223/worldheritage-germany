@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/400px-Schloss_Wahn_Innenhof_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/800px-Schloss_Wahn_Innenhof_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/1200px-Schloss_Wahn_Innenhof_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/1920px-Schloss_Wahn_Innenhof_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Wahn_Innenhof_2.jpg/1920px-Schloss_Wahn_Innenhof_2.jpg
+---
 
 ## Overview
 

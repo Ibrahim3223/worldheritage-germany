@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torhaus_Gut_Godderstorf_2017.png/400px-Torhaus_Gut_Godderstorf_2017.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torhaus_Gut_Godderstorf_2017.png/800px-Torhaus_Gut_Godderstorf_2017.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torhaus_Gut_Godderstorf_2017.png/1200px-Torhaus_Gut_Godderstorf_2017.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torhaus_Gut_Godderstorf_2017.png/1920px-Torhaus_Gut_Godderstorf_2017.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torhaus_Gut_Godderstorf_2017.png/1920px-Torhaus_Gut_Godderstorf_2017.png
+---
 
 ## Overview
 

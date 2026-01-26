@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/400px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/800px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1200px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1920px-Stuttgart-gedenkstaette-nordbahnhof1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1920px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
+---
 
 ## Overview
 

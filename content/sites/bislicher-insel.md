@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/400px-Bislicher_Insel_NRW_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/800px-Bislicher_Insel_NRW_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/1200px-Bislicher_Insel_NRW_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/1920px-Bislicher_Insel_NRW_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bislicher_Insel_NRW_2.jpg/1920px-Bislicher_Insel_NRW_2.jpg
+---
 
 ## Overview
 

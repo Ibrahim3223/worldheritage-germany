@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/400px-Alt_St._Antonius_Abbas_(Hau)3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/800px-Alt_St._Antonius_Abbas_(Hau)3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1200px-Alt_St._Antonius_Abbas_(Hau)3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1920px-Alt_St._Antonius_Abbas_(Hau)3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alt_St._Antonius_Abbas_(Hau)3.JPG/1920px-Alt_St._Antonius_Abbas_(Hau)3.JPG
+---
 
 ## Overview
 

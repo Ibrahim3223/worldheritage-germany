@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/400px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/800px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/1200px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/1920px-Altlandsberg_asv2022-09_img04_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Altlandsberg_asv2022-09_img04_Rathaus.jpg/1920px-Altlandsberg_asv2022-09_img04_Rathaus.jpg
+---
 
 ## Overview
 

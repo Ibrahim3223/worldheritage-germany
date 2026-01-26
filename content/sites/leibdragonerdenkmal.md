@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/400px-Karlsruhe_Leibdragonerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/800px-Karlsruhe_Leibdragonerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/1200px-Karlsruhe_Leibdragonerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/1920px-Karlsruhe_Leibdragonerdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karlsruhe_Leibdragonerdenkmal.jpg/1920px-Karlsruhe_Leibdragonerdenkmal.jpg
+---
 
 ## Overview
 

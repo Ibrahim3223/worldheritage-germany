@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burg_Bommersheim_Ringmauer.jpg/400px-Burg_Bommersheim_Ringmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burg_Bommersheim_Ringmauer.jpg/800px-Burg_Bommersheim_Ringmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burg_Bommersheim_Ringmauer.jpg/1200px-Burg_Bommersheim_Ringmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burg_Bommersheim_Ringmauer.jpg/1920px-Burg_Bommersheim_Ringmauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burg_Bommersheim_Ringmauer.jpg/1920px-Burg_Bommersheim_Ringmauer.jpg
+---
 
 ## Overview
 

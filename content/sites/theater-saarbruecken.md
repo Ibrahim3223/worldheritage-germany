@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/400px-Saarbruecken-StaatsTheater2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/800px-Saarbruecken-StaatsTheater2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/1200px-Saarbruecken-StaatsTheater2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/1920px-Saarbruecken-StaatsTheater2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Saarbruecken-StaatsTheater2.jpg/1920px-Saarbruecken-StaatsTheater2.jpg
+---
 
 ## Overview
 

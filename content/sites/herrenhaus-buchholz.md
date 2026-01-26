@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/400px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/800px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/1200px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/1920px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herrenhaus_Buchholz_bei_Nacht_2014.jpg/1920px-Herrenhaus_Buchholz_bei_Nacht_2014.jpg
+---
 
 ## Overview
 

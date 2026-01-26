@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/400px-Akademie_der_Künste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/800px-Akademie_der_Künste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1200px-Akademie_der_Künste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1920px-Akademie_der_Künste.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1920px-Akademie_der_Künste.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/400px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/800px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/1200px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/1920px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg/1920px-Schöneberg_Bülowstraße_7_Urban_Nation_2019.jpg
+---
 
 ## Overview
 

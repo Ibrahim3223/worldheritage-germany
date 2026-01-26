@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/400px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/800px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/1200px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/1920px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg/1920px-Louis_Thümling_nach_C_Dyckerhoff_-_Konstanzer_Münster_(Stahlstich_1856).jpg
+---
 
 ## Overview
 

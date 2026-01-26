@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/400px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/800px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/1200px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_Löwe_August_Gaul.jpg
+---
 
 ## Overview
 

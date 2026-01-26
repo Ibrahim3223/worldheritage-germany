@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Krankenhaus_Taubenbreite_(Quedlinburg).JPG/400px-Krankenhaus_Taubenbreite_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Krankenhaus_Taubenbreite_(Quedlinburg).JPG/800px-Krankenhaus_Taubenbreite_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Krankenhaus_Taubenbreite_(Quedlinburg).JPG/1200px-Krankenhaus_Taubenbreite_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Krankenhaus_Taubenbreite_(Quedlinburg).JPG/1920px-Krankenhaus_Taubenbreite_(Quedlinburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Krankenhaus_Taubenbreite_(Quedlinburg).JPG/1920px-Krankenhaus_Taubenbreite_(Quedlinburg).JPG
+---
 
 ## Overview
 

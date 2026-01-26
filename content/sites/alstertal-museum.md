@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/400px-Torhaus_Wellingsbüttel_2006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/800px-Torhaus_Wellingsbüttel_2006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/1200px-Torhaus_Wellingsbüttel_2006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/1920px-Torhaus_Wellingsbüttel_2006.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Torhaus_Wellingsbüttel_2006.JPG/1920px-Torhaus_Wellingsbüttel_2006.JPG
+---
 
 ## Overview
 

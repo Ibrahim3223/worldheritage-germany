@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/400px-Heinrichskamm_Domschatz_Quedlinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/800px-Heinrichskamm_Domschatz_Quedlinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1200px-Heinrichskamm_Domschatz_Quedlinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1920px-Heinrichskamm_Domschatz_Quedlinburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1920px-Heinrichskamm_Domschatz_Quedlinburg.jpg
+---
 
 ## Overview
 

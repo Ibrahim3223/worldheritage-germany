@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/400px-Badlaerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/800px-Badlaerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/1200px-Badlaerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/1920px-Badlaerkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Badlaerkirche.jpg/1920px-Badlaerkirche.jpg
+---
 
 ## Overview
 

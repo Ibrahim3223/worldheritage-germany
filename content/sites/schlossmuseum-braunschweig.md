@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/400px-ECE_Schloss_06u07_1b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/800px-ECE_Schloss_06u07_1b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1200px-ECE_Schloss_06u07_1b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1920px-ECE_Schloss_06u07_1b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1920px-ECE_Schloss_06u07_1b.jpg
+---
 
 ## Overview
 

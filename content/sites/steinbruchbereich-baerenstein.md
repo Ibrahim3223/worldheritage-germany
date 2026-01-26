@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bärenstein_Landschaft.jpg/400px-Bärenstein_Landschaft.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bärenstein_Landschaft.jpg/800px-Bärenstein_Landschaft.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bärenstein_Landschaft.jpg/1200px-Bärenstein_Landschaft.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bärenstein_Landschaft.jpg/1920px-Bärenstein_Landschaft.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bärenstein_Landschaft.jpg/1920px-Bärenstein_Landschaft.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/400px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/800px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/1200px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/1920px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg/1920px-Bremen-Blumenthal_Martin-Luther-Kirche_01.jpg
+---
 
 ## Overview
 

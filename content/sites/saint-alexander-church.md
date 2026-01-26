@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/400px-Alexanderkirche_in_Marbach_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/800px-Alexanderkirche_in_Marbach_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/1200px-Alexanderkirche_in_Marbach_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/1920px-Alexanderkirche_in_Marbach_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexanderkirche_in_Marbach_-_panoramio.jpg/1920px-Alexanderkirche_in_Marbach_-_panoramio.jpg
+---
 
 ## Overview
 

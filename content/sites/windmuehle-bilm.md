@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Windmühle_Bilm.jpg/400px-Windmühle_Bilm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Windmühle_Bilm.jpg/800px-Windmühle_Bilm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Windmühle_Bilm.jpg/1200px-Windmühle_Bilm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Windmühle_Bilm.jpg/1920px-Windmühle_Bilm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Windmühle_Bilm.jpg/1920px-Windmühle_Bilm.jpg
+---
 
 ## Overview
 

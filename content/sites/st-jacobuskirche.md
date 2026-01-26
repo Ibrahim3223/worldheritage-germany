@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/400px-05_Usedom_009_Zirchow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/800px-05_Usedom_009_Zirchow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/1200px-05_Usedom_009_Zirchow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/1920px-05_Usedom_009_Zirchow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/05_Usedom_009_Zirchow.jpg/1920px-05_Usedom_009_Zirchow.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg/400px-Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg/800px-Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg/1200px-Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg/1920px-Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg/1920px-Braunschweig_Brunswick_Geburtshaus_CF_Gauss_(1914).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/400px-AA-WS-Saal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/800px-AA-WS-Saal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/1200px-AA-WS-Saal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/1920px-AA-WS-Saal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/AA-WS-Saal.jpg/1920px-AA-WS-Saal.jpg
+---
 
 ## Overview
 

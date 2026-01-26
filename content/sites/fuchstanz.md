@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fuchstanz-2011-taunus-052.jpg/400px-Fuchstanz-2011-taunus-052.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fuchstanz-2011-taunus-052.jpg/800px-Fuchstanz-2011-taunus-052.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fuchstanz-2011-taunus-052.jpg/1200px-Fuchstanz-2011-taunus-052.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fuchstanz-2011-taunus-052.jpg/1920px-Fuchstanz-2011-taunus-052.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fuchstanz-2011-taunus-052.jpg/1920px-Fuchstanz-2011-taunus-052.jpg
+---
 
 ## Overview
 

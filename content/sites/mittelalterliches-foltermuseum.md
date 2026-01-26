@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rüdesheim_33DSC_0376_(32523365758).jpg/400px-Rüdesheim_33DSC_0376_(32523365758).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rüdesheim_33DSC_0376_(32523365758).jpg/800px-Rüdesheim_33DSC_0376_(32523365758).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rüdesheim_33DSC_0376_(32523365758).jpg/1200px-Rüdesheim_33DSC_0376_(32523365758).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rüdesheim_33DSC_0376_(32523365758).jpg/1920px-Rüdesheim_33DSC_0376_(32523365758).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rüdesheim_33DSC_0376_(32523365758).jpg/1920px-Rüdesheim_33DSC_0376_(32523365758).jpg
+---
 
 ## Overview
 

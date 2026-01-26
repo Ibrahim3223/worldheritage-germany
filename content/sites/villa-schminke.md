@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/400px-Haus_Schminke_Löbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/800px-Haus_Schminke_Löbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/1200px-Haus_Schminke_Löbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/1920px-Haus_Schminke_Löbau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Haus_Schminke_Löbau.JPG/1920px-Haus_Schminke_Löbau.JPG
+---
 
 ## Overview
 

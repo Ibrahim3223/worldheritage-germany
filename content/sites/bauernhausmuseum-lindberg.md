@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/400px-Bauernhausmuseum_Lindberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/800px-Bauernhausmuseum_Lindberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/1200px-Bauernhausmuseum_Lindberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/1920px-Bauernhausmuseum_Lindberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bauernhausmuseum_Lindberg.JPG/1920px-Bauernhausmuseum_Lindberg.JPG
+---
 
 ## Overview
 

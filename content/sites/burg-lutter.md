@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Lutter.jpg/400px-Burg_Lutter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Lutter.jpg/800px-Burg_Lutter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Lutter.jpg/1200px-Burg_Lutter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Lutter.jpg/1920px-Burg_Lutter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Lutter.jpg/1920px-Burg_Lutter.jpg
+---
 
 ## Overview
 

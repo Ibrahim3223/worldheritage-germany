@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/400px-Bonn-Forschungszentrum_Caesar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/800px-Bonn-Forschungszentrum_Caesar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1200px-Bonn-Forschungszentrum_Caesar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1920px-Bonn-Forschungszentrum_Caesar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1920px-Bonn-Forschungszentrum_Caesar.jpg
+---
 
 ## Overview
 

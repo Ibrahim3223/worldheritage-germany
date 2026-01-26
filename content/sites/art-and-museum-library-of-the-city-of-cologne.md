@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/400px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/800px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/1200px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/1920px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg/1920px-Kunst-_und_Museumsbibliothek_Köln_(9387-89).jpg
+---
 
 ## Overview
 

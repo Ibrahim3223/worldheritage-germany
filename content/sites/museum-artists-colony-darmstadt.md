@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DA-Ernst_Ludwig_Haus1.jpg/400px-DA-Ernst_Ludwig_Haus1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DA-Ernst_Ludwig_Haus1.jpg/800px-DA-Ernst_Ludwig_Haus1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DA-Ernst_Ludwig_Haus1.jpg/1200px-DA-Ernst_Ludwig_Haus1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DA-Ernst_Ludwig_Haus1.jpg/1920px-DA-Ernst_Ludwig_Haus1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DA-Ernst_Ludwig_Haus1.jpg/1920px-DA-Ernst_Ludwig_Haus1.jpg
+---
 
 ## Overview
 

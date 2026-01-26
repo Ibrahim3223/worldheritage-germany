@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/400px-Chemnitz_Amtsgericht_Miebner.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/800px-Chemnitz_Amtsgericht_Miebner.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/1200px-Chemnitz_Amtsgericht_Miebner.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/1920px-Chemnitz_Amtsgericht_Miebner.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chemnitz_Amtsgericht_Miebner.jpg/1920px-Chemnitz_Amtsgericht_Miebner.jpg
+---
 
 ## Overview
 

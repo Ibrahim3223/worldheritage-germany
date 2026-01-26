@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/400px-Fabergé_Museum_Baden-Baden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/800px-Fabergé_Museum_Baden-Baden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1200px-Fabergé_Museum_Baden-Baden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1920px-Fabergé_Museum_Baden-Baden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1920px-Fabergé_Museum_Baden-Baden.JPG
+---
 
 ## Overview
 

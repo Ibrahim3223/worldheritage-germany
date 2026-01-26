@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/400px-Am_Kliff_13.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/800px-Am_Kliff_13.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1200px-Am_Kliff_13.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1920px-Am_Kliff_13.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1920px-Am_Kliff_13.JPG
+---
 
 ## Overview
 

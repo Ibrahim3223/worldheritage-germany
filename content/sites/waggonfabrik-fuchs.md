@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/400px-OEG_Halbzug_100_4092.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/800px-OEG_Halbzug_100_4092.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/1200px-OEG_Halbzug_100_4092.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/1920px-OEG_Halbzug_100_4092.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OEG_Halbzug_100_4092.jpg/1920px-OEG_Halbzug_100_4092.jpg
+---
 
 ## Overview
 

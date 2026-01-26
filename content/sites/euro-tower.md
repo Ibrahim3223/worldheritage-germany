@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/400px-Euro-Tower.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/800px-Euro-Tower.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/1200px-Euro-Tower.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/1920px-Euro-Tower.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Euro-Tower.jpg/1920px-Euro-Tower.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/400px-Arnstadt_Schlossmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/800px-Arnstadt_Schlossmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/1200px-Arnstadt_Schlossmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/1920px-Arnstadt_Schlossmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arnstadt_Schlossmuseum.jpg/1920px-Arnstadt_Schlossmuseum.jpg
+---
 
 ## Overview
 

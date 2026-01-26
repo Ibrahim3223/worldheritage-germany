@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/400px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/800px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/1200px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/1920px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Martin_Luther_Kirche_Guetersloh_Proedous.jpg/1920px-Martin_Luther_Kirche_Guetersloh_Proedous.jpg
+---
 
 ## Overview
 

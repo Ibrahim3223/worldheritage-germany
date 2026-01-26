@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/400px-Jahn-Denkmal_in_der_Hasenheide.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/800px-Jahn-Denkmal_in_der_Hasenheide.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/1200px-Jahn-Denkmal_in_der_Hasenheide.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/1920px-Jahn-Denkmal_in_der_Hasenheide.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jahn-Denkmal_in_der_Hasenheide.jpg/1920px-Jahn-Denkmal_in_der_Hasenheide.jpg
+---
 
 ## Overview
 

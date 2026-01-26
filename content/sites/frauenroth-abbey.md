@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/400px-Frauenroth_Klosterkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/800px-Frauenroth_Klosterkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/1200px-Frauenroth_Klosterkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/1920px-Frauenroth_Klosterkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frauenroth_Klosterkirche.JPG/1920px-Frauenroth_Klosterkirche.JPG
+---
 
 ## Overview
 

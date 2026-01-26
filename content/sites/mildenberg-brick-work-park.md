@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/400px-Mildenberg_Ziegeleipark_08-13_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/800px-Mildenberg_Ziegeleipark_08-13_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/1200px-Mildenberg_Ziegeleipark_08-13_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/1920px-Mildenberg_Ziegeleipark_08-13_img1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mildenberg_Ziegeleipark_08-13_img1.jpg/1920px-Mildenberg_Ziegeleipark_08-13_img1.jpg
+---
 
 ## Overview
 

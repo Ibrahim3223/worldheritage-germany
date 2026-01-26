@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/400px-Campanile_der_Vaterunser-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/800px-Campanile_der_Vaterunser-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/1200px-Campanile_der_Vaterunser-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/1920px-Campanile_der_Vaterunser-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Campanile_der_Vaterunser-Kirche.jpg/1920px-Campanile_der_Vaterunser-Kirche.jpg
+---
 
 ## Overview
 

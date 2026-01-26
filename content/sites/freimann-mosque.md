@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/400px-Moschee_Freimann_Rückansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/800px-Moschee_Freimann_Rückansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1200px-Moschee_Freimann_Rückansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1920px-Moschee_Freimann_Rückansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1920px-Moschee_Freimann_Rückansicht.JPG
+---
 
 ## Overview
 

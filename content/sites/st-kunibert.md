@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/400px-Gymnich_St._Kunibert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/800px-Gymnich_St._Kunibert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/1200px-Gymnich_St._Kunibert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/1920px-Gymnich_St._Kunibert.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gymnich_St._Kunibert.jpg/1920px-Gymnich_St._Kunibert.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/400px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/800px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1200px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1920px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1920px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
+---
 
 ## Overview
 

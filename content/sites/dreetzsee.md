@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/400px-RK_0907_3536_Dreetzsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/800px-RK_0907_3536_Dreetzsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/1200px-RK_0907_3536_Dreetzsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/1920px-RK_0907_3536_Dreetzsee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RK_0907_3536_Dreetzsee.jpg/1920px-RK_0907_3536_Dreetzsee.jpg
+---
 
 ## Overview
 

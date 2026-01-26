@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/400px-Bekenntniskirche_Gersthofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/800px-Bekenntniskirche_Gersthofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/1200px-Bekenntniskirche_Gersthofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/1920px-Bekenntniskirche_Gersthofen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bekenntniskirche_Gersthofen.jpg/1920px-Bekenntniskirche_Gersthofen.jpg
+---
 
 ## Overview
 

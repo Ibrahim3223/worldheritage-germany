@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/400px-St_martinus_borschemich_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/800px-St_martinus_borschemich_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/1200px-St_martinus_borschemich_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/1920px-St_martinus_borschemich_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St_martinus_borschemich_1.jpg/1920px-St_martinus_borschemich_1.jpg
+---
 
 ## Overview
 

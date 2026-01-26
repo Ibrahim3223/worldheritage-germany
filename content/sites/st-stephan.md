@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/400px-Effelsberg_St._Stephan_19.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/800px-Effelsberg_St._Stephan_19.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/1200px-Effelsberg_St._Stephan_19.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/1920px-Effelsberg_St._Stephan_19.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Effelsberg_St._Stephan_19.JPG/1920px-Effelsberg_St._Stephan_19.JPG
+---
 
 ## Overview
 

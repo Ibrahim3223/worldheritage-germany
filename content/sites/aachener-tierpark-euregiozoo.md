@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/400px-Tierpark-aachen-eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/800px-Tierpark-aachen-eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1200px-Tierpark-aachen-eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1920px-Tierpark-aachen-eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1920px-Tierpark-aachen-eingang.jpg
+---
 
 ## Overview
 

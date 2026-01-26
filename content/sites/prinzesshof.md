@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/400px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/800px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/1200px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/1920px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg/1920px-Itzehoe,_Germany_-_Kreismuseum_Prinzesshof,_Rueckseite.jpg
+---
 
 ## Overview
 

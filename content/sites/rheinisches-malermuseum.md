@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/400px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/800px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/1200px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/1920px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bonn_Rheinisches_Malermuseum_2009_04_12.jpg/1920px-Bonn_Rheinisches_Malermuseum_2009_04_12.jpg
+---
 
 ## Overview
 

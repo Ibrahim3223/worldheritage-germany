@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/400px-ChurchHatzum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/800px-ChurchHatzum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/1200px-ChurchHatzum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/1920px-ChurchHatzum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ChurchHatzum.jpg/1920px-ChurchHatzum.jpg
+---
 
 ## Overview
 

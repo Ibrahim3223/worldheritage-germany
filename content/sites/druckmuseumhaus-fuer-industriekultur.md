@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/400px-DA-Druckmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/800px-DA-Druckmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/1200px-DA-Druckmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/1920px-DA-Druckmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/DA-Druckmuseum.jpg/1920px-DA-Druckmuseum.jpg
+---
 
 ## Overview
 

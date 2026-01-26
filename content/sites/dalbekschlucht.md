@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/400px-Dalbekschlucht_P1190119.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/800px-Dalbekschlucht_P1190119.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/1200px-Dalbekschlucht_P1190119.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/1920px-Dalbekschlucht_P1190119.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dalbekschlucht_P1190119.JPG/1920px-Dalbekschlucht_P1190119.JPG
+---
 
 ## Overview
 

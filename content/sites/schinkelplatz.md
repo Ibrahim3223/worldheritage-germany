@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg/400px-Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg/800px-Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg/1200px-Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg/1920px-Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg/1920px-Berlin_Aussicht_vom_Humboldt_Forum_asv2023-02_img08.jpg
+---
 
 ## Overview
 

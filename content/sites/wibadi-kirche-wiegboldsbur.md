@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/400px-ChurchWiegboldsbur.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/800px-ChurchWiegboldsbur.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/1200px-ChurchWiegboldsbur.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/1920px-ChurchWiegboldsbur.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChurchWiegboldsbur.JPG/1920px-ChurchWiegboldsbur.JPG
+---
 
 ## Overview
 

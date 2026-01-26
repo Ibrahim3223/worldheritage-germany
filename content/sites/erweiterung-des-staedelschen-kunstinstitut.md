@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/400px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/800px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/1200px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/1920px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Frankfurt_am_Main_-_Städel_Museum_(2).jpg/1920px-Frankfurt_am_Main_-_Städel_Museum_(2).jpg
+---
 
 ## Overview
 

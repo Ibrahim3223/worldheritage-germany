@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wasserkuppe_von_Süden.jpg/400px-Wasserkuppe_von_Süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wasserkuppe_von_Süden.jpg/800px-Wasserkuppe_von_Süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wasserkuppe_von_Süden.jpg/1200px-Wasserkuppe_von_Süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wasserkuppe_von_Süden.jpg/1920px-Wasserkuppe_von_Süden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wasserkuppe_von_Süden.jpg/1920px-Wasserkuppe_von_Süden.jpg
+---
 
 ## Overview
 

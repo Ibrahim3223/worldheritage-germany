@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/400px-Ehemaliger_Haupteingang_Hagenbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/800px-Ehemaliger_Haupteingang_Hagenbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/1200px-Ehemaliger_Haupteingang_Hagenbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/1920px-Ehemaliger_Haupteingang_Hagenbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehemaliger_Haupteingang_Hagenbeck.jpg/1920px-Ehemaliger_Haupteingang_Hagenbeck.jpg
+---
 
 ## Overview
 

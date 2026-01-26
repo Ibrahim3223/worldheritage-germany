@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/400px-FA_Geisenheim2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/800px-FA_Geisenheim2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/1200px-FA_Geisenheim2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/1920px-FA_Geisenheim2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/1920px-FA_Geisenheim2.jpg
+---
 
 ## Overview
 

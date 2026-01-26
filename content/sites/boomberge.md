@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/400px-Boomberge_Harsewinkel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/800px-Boomberge_Harsewinkel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1200px-Boomberge_Harsewinkel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1920px-Boomberge_Harsewinkel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1920px-Boomberge_Harsewinkel.jpg
+---
 
 ## Overview
 

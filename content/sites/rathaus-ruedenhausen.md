@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/400px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/800px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/1200px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/1920px-Marktstraße_13_Rüdenhausen_20210214_004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Marktstraße_13_Rüdenhausen_20210214_004.jpg/1920px-Marktstraße_13_Rüdenhausen_20210214_004.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bautzen_Gerberbastei_2007_1.JPG/400px-Bautzen_Gerberbastei_2007_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bautzen_Gerberbastei_2007_1.JPG/800px-Bautzen_Gerberbastei_2007_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bautzen_Gerberbastei_2007_1.JPG/1200px-Bautzen_Gerberbastei_2007_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bautzen_Gerberbastei_2007_1.JPG/1920px-Bautzen_Gerberbastei_2007_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bautzen_Gerberbastei_2007_1.JPG/1920px-Bautzen_Gerberbastei_2007_1.JPG
+---
 
 ## Overview
 

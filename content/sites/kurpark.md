@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/400px-Kurhaus_Parkseite_100Jahr_0212.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/800px-Kurhaus_Parkseite_100Jahr_0212.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/1200px-Kurhaus_Parkseite_100Jahr_0212.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/1920px-Kurhaus_Parkseite_100Jahr_0212.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kurhaus_Parkseite_100Jahr_0212.jpg/1920px-Kurhaus_Parkseite_100Jahr_0212.jpg
+---
 
 ## Overview
 

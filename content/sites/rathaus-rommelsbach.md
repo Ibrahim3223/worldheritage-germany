@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/400px-Rommelsbach_Rathaus_2025_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/800px-Rommelsbach_Rathaus_2025_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/1200px-Rommelsbach_Rathaus_2025_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/1920px-Rommelsbach_Rathaus_2025_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rommelsbach_Rathaus_2025_01.jpg/1920px-Rommelsbach_Rathaus_2025_01.jpg
+---
 
 ## Overview
 

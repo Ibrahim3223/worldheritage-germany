@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/400px-Naturschutzgebiet_Feerner_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/800px-Naturschutzgebiet_Feerner_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/1200px-Naturschutzgebiet_Feerner_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/1920px-Naturschutzgebiet_Feerner_Moor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Naturschutzgebiet_Feerner_Moor.jpg/1920px-Naturschutzgebiet_Feerner_Moor.jpg
+---
 
 ## Overview
 

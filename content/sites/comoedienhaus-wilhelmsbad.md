@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/400px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/800px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/1200px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/1920px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg/1920px-Hanau-Wilhelmsbad_-_Comoedienhaus_-_8466.jpg
+---
 
 ## Overview
 

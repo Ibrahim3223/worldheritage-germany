@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/400px-Dom_St._Marien_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/800px-Dom_St._Marien_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/1200px-Dom_St._Marien_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/1920px-Dom_St._Marien_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/1920px-Dom_St._Marien_Hamburg.jpg
+---
 
 ## Overview
 

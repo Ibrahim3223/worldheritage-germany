@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/400px-HorbSchurkenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/800px-HorbSchurkenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/1200px-HorbSchurkenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/1920px-HorbSchurkenturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/HorbSchurkenturm.jpg/1920px-HorbSchurkenturm.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/400px-Büsum_Museum_am_Meer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/800px-Büsum_Museum_am_Meer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/1200px-Büsum_Museum_am_Meer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/1920px-Büsum_Museum_am_Meer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Büsum_Museum_am_Meer.jpg/1920px-Büsum_Museum_am_Meer.jpg
+---
 
 ## Overview
 

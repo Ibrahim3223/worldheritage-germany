@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/400px-SteinheimUrmenschmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/800px-SteinheimUrmenschmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/1200px-SteinheimUrmenschmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/1920px-SteinheimUrmenschmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SteinheimUrmenschmuseum.jpg/1920px-SteinheimUrmenschmuseum.jpg
+---
 
 ## Overview
 

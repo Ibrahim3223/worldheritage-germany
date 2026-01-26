@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/400px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/800px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/1200px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/1920px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG/1920px-Kirchborgum,_kerk_foto9_2010-05-13_12.19.JPG
+---
 
 ## Overview
 

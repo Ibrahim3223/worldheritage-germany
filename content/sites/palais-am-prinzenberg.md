@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/400px-PalaisPrinzenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/800px-PalaisPrinzenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/1200px-PalaisPrinzenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/1920px-PalaisPrinzenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/PalaisPrinzenberg.jpg/1920px-PalaisPrinzenberg.jpg
+---
 
 ## Overview
 

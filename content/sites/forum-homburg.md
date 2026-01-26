@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/400px-Homburg_Saar_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/800px-Homburg_Saar_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/1200px-Homburg_Saar_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/1920px-Homburg_Saar_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Homburg_Saar_Rathaus.jpg/1920px-Homburg_Saar_Rathaus.jpg
+---
 
 ## Overview
 

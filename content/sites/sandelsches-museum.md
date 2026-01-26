@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/400px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/800px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/1200px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/1920px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg/1920px-Eingang_Sandelsches_Museum_Kirchberg_Jagst.jpg
+---
 
 ## Overview
 

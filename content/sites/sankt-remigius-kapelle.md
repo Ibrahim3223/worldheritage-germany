@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/400px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/800px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/1200px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/1920px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg/1920px-Wurmlinger_Kapelle_gesehen_von_Unterjesingen.jpg
+---
 
 ## Overview
 

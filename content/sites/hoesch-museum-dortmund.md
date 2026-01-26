@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/400px-Hoesch-Museum-IMG_1014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/800px-Hoesch-Museum-IMG_1014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/1200px-Hoesch-Museum-IMG_1014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/1920px-Hoesch-Museum-IMG_1014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hoesch-Museum-IMG_1014.JPG/1920px-Hoesch-Museum-IMG_1014.JPG
+---
 
 ## Overview
 

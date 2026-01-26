@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/400px-Kroppenstedt_Eulenturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/800px-Kroppenstedt_Eulenturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/1200px-Kroppenstedt_Eulenturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/1920px-Kroppenstedt_Eulenturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kroppenstedt_Eulenturm.JPG/1920px-Kroppenstedt_Eulenturm.JPG
+---
 
 ## Overview
 

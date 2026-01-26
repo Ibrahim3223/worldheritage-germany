@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/400px-Hochburg_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/800px-Hochburg_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1200px-Hochburg_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1920px-Hochburg_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1920px-Hochburg_Panorama.jpg
+---
 
 ## Overview
 

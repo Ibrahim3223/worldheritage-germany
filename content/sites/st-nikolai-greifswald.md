@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/400px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/800px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/1200px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/1920px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg/1920px-Greifswald_Turm-des-Doms-St.-Nikolai_August-2009_Crop.jpg
+---
 
 ## Overview
 

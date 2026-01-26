@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/400px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/800px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1200px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1920px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg/1920px-Heilige_Dreifaltigkeit_in_Duesseldorf-Derendorf,_von_Suedwesten.jpg
+---
 
 ## Overview
 

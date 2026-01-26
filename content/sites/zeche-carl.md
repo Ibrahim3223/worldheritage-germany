@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/400px-Zeche_Carl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/800px-Zeche_Carl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/1200px-Zeche_Carl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/1920px-Zeche_Carl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zeche_Carl.jpg/1920px-Zeche_Carl.jpg
+---
 
 ## Overview
 

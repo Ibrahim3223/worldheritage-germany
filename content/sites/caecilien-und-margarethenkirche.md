@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/400px-Kirche_Leerhafe_(Nordseite).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/800px-Kirche_Leerhafe_(Nordseite).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1200px-Kirche_Leerhafe_(Nordseite).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1920px-Kirche_Leerhafe_(Nordseite).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1920px-Kirche_Leerhafe_(Nordseite).JPG
+---
 
 ## Overview
 

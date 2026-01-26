@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/400px-Richard-Strauss-Brunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/800px-Richard-Strauss-Brunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/1200px-Richard-Strauss-Brunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/1920px-Richard-Strauss-Brunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Richard-Strauss-Brunnen.jpg/1920px-Richard-Strauss-Brunnen.jpg
+---
 
 ## Overview
 

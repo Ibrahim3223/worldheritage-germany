@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/400px-Stoy-Schule_Jena_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/800px-Stoy-Schule_Jena_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/1200px-Stoy-Schule_Jena_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/1920px-Stoy-Schule_Jena_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Stoy-Schule_Jena_2013.jpg/1920px-Stoy-Schule_Jena_2013.jpg
+---
 
 ## Overview
 

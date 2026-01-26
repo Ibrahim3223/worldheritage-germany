@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hechingen_heiligkreuz_2.jpg/400px-Hechingen_heiligkreuz_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hechingen_heiligkreuz_2.jpg/800px-Hechingen_heiligkreuz_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hechingen_heiligkreuz_2.jpg/1200px-Hechingen_heiligkreuz_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hechingen_heiligkreuz_2.jpg/1920px-Hechingen_heiligkreuz_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hechingen_heiligkreuz_2.jpg/1920px-Hechingen_heiligkreuz_2.jpg
+---
 
 ## Overview
 

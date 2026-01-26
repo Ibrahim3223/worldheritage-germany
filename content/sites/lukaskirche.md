@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/400px-Lukaskirche_Hannover_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/800px-Lukaskirche_Hannover_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/1200px-Lukaskirche_Hannover_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/1920px-Lukaskirche_Hannover_Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lukaskirche_Hannover_Turm.jpg/1920px-Lukaskirche_Hannover_Turm.jpg
+---
 
 ## Overview
 

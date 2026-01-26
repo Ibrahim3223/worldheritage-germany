@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/400px-München_Staatliche_Münzsammlung_I.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/800px-München_Staatliche_Münzsammlung_I.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/1200px-München_Staatliche_Münzsammlung_I.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/1920px-München_Staatliche_Münzsammlung_I.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/München_Staatliche_Münzsammlung_I.JPG/1920px-München_Staatliche_Münzsammlung_I.JPG
+---
 
 ## Overview
 

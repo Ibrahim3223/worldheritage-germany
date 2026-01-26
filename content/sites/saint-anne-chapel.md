@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/400px-Amerunger_Kapelle_von_Südosten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/800px-Amerunger_Kapelle_von_Südosten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/1200px-Amerunger_Kapelle_von_Südosten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/1920px-Amerunger_Kapelle_von_Südosten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amerunger_Kapelle_von_Südosten.JPG/1920px-Amerunger_Kapelle_von_Südosten.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/400px-Frankfurter_Dom_Eiserner_Steg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/800px-Frankfurter_Dom_Eiserner_Steg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/1200px-Frankfurter_Dom_Eiserner_Steg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/1920px-Frankfurter_Dom_Eiserner_Steg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/1920px-Frankfurter_Dom_Eiserner_Steg.jpg
+---
 
 ## Overview
 

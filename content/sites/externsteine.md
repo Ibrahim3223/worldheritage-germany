@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/400px-Externsteine_pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/800px-Externsteine_pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1200px-Externsteine_pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1920px-Externsteine_pano.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1920px-Externsteine_pano.jpg
+---
 
 ## Overview
 

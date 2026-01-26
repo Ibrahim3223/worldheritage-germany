@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg/400px-Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg/800px-Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg/1200px-Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg/1920px-Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg/1920px-Karl-Marx-Staette_Berlin-Stralau_2013_-_1272-1152-120.jpg
+---
 
 ## Overview
 

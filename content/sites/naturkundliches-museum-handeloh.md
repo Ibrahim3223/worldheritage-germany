@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/400px-Naturkundliches_Museum_Handeloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/800px-Naturkundliches_Museum_Handeloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/1200px-Naturkundliches_Museum_Handeloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/1920px-Naturkundliches_Museum_Handeloh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naturkundliches_Museum_Handeloh.jpg/1920px-Naturkundliches_Museum_Handeloh.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/400px-Hagen-Stadtmuseum1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/800px-Hagen-Stadtmuseum1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/1200px-Hagen-Stadtmuseum1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/1920px-Hagen-Stadtmuseum1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hagen-Stadtmuseum1-Bubo.JPG/1920px-Hagen-Stadtmuseum1-Bubo.JPG
+---
 
 ## Overview
 

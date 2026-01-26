@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/400px-Ludgerusdom,_Billerbeck_(00312).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/800px-Ludgerusdom,_Billerbeck_(00312).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/1200px-Ludgerusdom,_Billerbeck_(00312).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/1920px-Ludgerusdom,_Billerbeck_(00312).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ludgerusdom,_Billerbeck_(00312).jpg/1920px-Ludgerusdom,_Billerbeck_(00312).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/400px-Friedenskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/800px-Friedenskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1200px-Friedenskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1920px-Friedenskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1920px-Friedenskirche.jpg
+---
 
 ## Overview
 

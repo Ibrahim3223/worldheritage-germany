@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/400px-BotGartenBth072.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/800px-BotGartenBth072.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/1200px-BotGartenBth072.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/1920px-BotGartenBth072.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BotGartenBth072.JPG/1920px-BotGartenBth072.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/400px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/800px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/1200px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/1920px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg/1920px-Germany_Bonn_Endenich_Schumannhaus_Robert_Schumann_2009_05_31.jpg
+---
 
 ## Overview
 

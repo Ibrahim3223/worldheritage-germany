@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg/400px-Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg/800px-Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg/1200px-Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg/1920px-Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg/1920px-Steinwerder,_Hamburg,_Germany_-_panoramio_(64).jpg
+---
 
 ## Overview
 

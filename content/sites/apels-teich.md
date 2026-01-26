@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/400px-Klausheide-Apels_Teich-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/800px-Klausheide-Apels_Teich-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/1200px-Klausheide-Apels_Teich-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/1920px-Klausheide-Apels_Teich-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausheide-Apels_Teich-3.jpg/1920px-Klausheide-Apels_Teich-3.jpg
+---
 
 ## Overview
 

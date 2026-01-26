@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/400px-Tangermuende_St_Stephan.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/800px-Tangermuende_St_Stephan.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/1200px-Tangermuende_St_Stephan.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/1920px-Tangermuende_St_Stephan.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tangermuende_St_Stephan.JPG/1920px-Tangermuende_St_Stephan.JPG
+---
 
 ## Overview
 

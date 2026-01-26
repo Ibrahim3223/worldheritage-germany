@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/400px-Bad_Lippspringe_Lindenkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/800px-Bad_Lippspringe_Lindenkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/1200px-Bad_Lippspringe_Lindenkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/1920px-Bad_Lippspringe_Lindenkapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bad_Lippspringe_Lindenkapelle.jpg/1920px-Bad_Lippspringe_Lindenkapelle.jpg
+---
 
 ## Overview
 

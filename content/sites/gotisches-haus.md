@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/400px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/800px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/1200px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/1920px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG/1920px-Die_Frontseite_des_Gotischen_Hauses_im_Wörlitzer_Park.JPG
+---
 
 ## Overview
 

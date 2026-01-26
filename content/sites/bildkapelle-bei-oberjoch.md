@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/400px-Salzkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/800px-Salzkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/1200px-Salzkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/1920px-Salzkapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Salzkapelle.jpg/1920px-Salzkapelle.jpg
+---
 
 ## Overview
 

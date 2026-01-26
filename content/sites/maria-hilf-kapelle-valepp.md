@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schliersee_Valepp_Maria_Hilf.jpg/400px-Schliersee_Valepp_Maria_Hilf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schliersee_Valepp_Maria_Hilf.jpg/800px-Schliersee_Valepp_Maria_Hilf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schliersee_Valepp_Maria_Hilf.jpg/1200px-Schliersee_Valepp_Maria_Hilf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schliersee_Valepp_Maria_Hilf.jpg/1920px-Schliersee_Valepp_Maria_Hilf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Schliersee_Valepp_Maria_Hilf.jpg/1920px-Schliersee_Valepp_Maria_Hilf.jpg
+---
 
 ## Overview
 

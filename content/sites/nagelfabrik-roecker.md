@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/400px-NagelfabrikRöcker_2020-10b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/800px-NagelfabrikRöcker_2020-10b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/1200px-NagelfabrikRöcker_2020-10b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/1920px-NagelfabrikRöcker_2020-10b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NagelfabrikRöcker_2020-10b.jpg/1920px-NagelfabrikRöcker_2020-10b.jpg
+---
 
 ## Overview
 

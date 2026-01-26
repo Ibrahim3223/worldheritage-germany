@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/400px-Neue_Synagoge_Gelsenkirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/800px-Neue_Synagoge_Gelsenkirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/1200px-Neue_Synagoge_Gelsenkirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/1920px-Neue_Synagoge_Gelsenkirchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neue_Synagoge_Gelsenkirchen.jpg/1920px-Neue_Synagoge_Gelsenkirchen.jpg
+---
 
 ## Overview
 

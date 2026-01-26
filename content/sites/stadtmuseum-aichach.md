@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/400px-Stadtmuseum_Aichach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/800px-Stadtmuseum_Aichach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/1200px-Stadtmuseum_Aichach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/1920px-Stadtmuseum_Aichach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stadtmuseum_Aichach.jpg/1920px-Stadtmuseum_Aichach.jpg
+---
 
 ## Overview
 

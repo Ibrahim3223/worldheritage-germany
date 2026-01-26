@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/400px-Ford_Plant_Saarlouis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/800px-Ford_Plant_Saarlouis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/1200px-Ford_Plant_Saarlouis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/1920px-Ford_Plant_Saarlouis.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ford_Plant_Saarlouis.jpg/1920px-Ford_Plant_Saarlouis.jpg
+---
 
 ## Overview
 

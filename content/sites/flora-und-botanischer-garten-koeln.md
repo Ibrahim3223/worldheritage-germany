@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/400px-Flora_-_Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/800px-Flora_-_Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1200px-Flora_-_Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1920px-Flora_-_Köln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1920px-Flora_-_Köln.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/400px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/800px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/1200px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/1920px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schneeberg_St._Wolfgangskirche_1_(aka).jpg/1920px-Schneeberg_St._Wolfgangskirche_1_(aka).jpg
+---
 
 ## Overview
 

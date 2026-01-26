@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/400px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/800px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1200px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1920px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1920px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
+---
 
 ## Overview
 

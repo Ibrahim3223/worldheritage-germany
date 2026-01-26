@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/400px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/800px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/1200px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/1920px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG/1920px-Ukrainisch_Katholische_Kirche_Düsseldorf-Niederkassel.JPG
+---
 
 ## Overview
 

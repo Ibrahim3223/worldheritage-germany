@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/400px-Heimatstube_Gößnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/800px-Heimatstube_Gößnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/1200px-Heimatstube_Gößnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/1920px-Heimatstube_Gößnitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heimatstube_Gößnitz.jpg/1920px-Heimatstube_Gößnitz.jpg
+---
 
 ## Overview
 

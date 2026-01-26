@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/400px-AWI_Gebaeude_neben_Doppelschleuse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/800px-AWI_Gebaeude_neben_Doppelschleuse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/1200px-AWI_Gebaeude_neben_Doppelschleuse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/1920px-AWI_Gebaeude_neben_Doppelschleuse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/1920px-AWI_Gebaeude_neben_Doppelschleuse.jpg
+---
 
 ## Overview
 

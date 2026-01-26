@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/400px-Giraffe-berlin-zoo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/800px-Giraffe-berlin-zoo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1200px-Giraffe-berlin-zoo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1920px-Giraffe-berlin-zoo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1920px-Giraffe-berlin-zoo.jpg
+---
 
 ## Overview
 

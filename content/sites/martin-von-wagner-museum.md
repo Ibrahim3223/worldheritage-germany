@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/400px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/800px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/1200px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/1920px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG/1920px-Würzburg_-_Martin-von-Wagner-Museum_(Schild).JPG
+---
 
 ## Overview
 

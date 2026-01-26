@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/400px-ESA_DKM_MAERZGEF.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/800px-ESA_DKM_MAERZGEF.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/1200px-ESA_DKM_MAERZGEF.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/1920px-ESA_DKM_MAERZGEF.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ESA_DKM_MAERZGEF.jpg/1920px-ESA_DKM_MAERZGEF.jpg
+---
 
 ## Overview
 

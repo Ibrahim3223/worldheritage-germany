@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/400px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/800px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/1200px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/1920px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg/1920px-Monschau_Laufenstraße_116_-_124_Gebäude_1.jpg
+---
 
 ## Overview
 

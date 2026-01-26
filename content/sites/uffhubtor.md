@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/400px-Ober-Ingelheim-Uffhubtor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/800px-Ober-Ingelheim-Uffhubtor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/1200px-Ober-Ingelheim-Uffhubtor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/1920px-Ober-Ingelheim-Uffhubtor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ober-Ingelheim-Uffhubtor.JPG/1920px-Ober-Ingelheim-Uffhubtor.JPG
+---
 
 ## Overview
 

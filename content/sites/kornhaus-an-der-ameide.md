@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Detmold_-_091_-_Ameide_(Kornhaus).jpg/400px-Detmold_-_091_-_Ameide_(Kornhaus).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Detmold_-_091_-_Ameide_(Kornhaus).jpg/800px-Detmold_-_091_-_Ameide_(Kornhaus).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Detmold_-_091_-_Ameide_(Kornhaus).jpg/1200px-Detmold_-_091_-_Ameide_(Kornhaus).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Detmold_-_091_-_Ameide_(Kornhaus).jpg/1920px-Detmold_-_091_-_Ameide_(Kornhaus).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Detmold_-_091_-_Ameide_(Kornhaus).jpg/1920px-Detmold_-_091_-_Ameide_(Kornhaus).jpg
+---
 
 ## Overview
 

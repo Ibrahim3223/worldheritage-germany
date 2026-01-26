@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/400px-Ge_Buer_Museum_Jörres.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/800px-Ge_Buer_Museum_Jörres.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1200px-Ge_Buer_Museum_Jörres.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1920px-Ge_Buer_Museum_Jörres.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1920px-Ge_Buer_Museum_Jörres.JPG
+---
 
 ## Overview
 

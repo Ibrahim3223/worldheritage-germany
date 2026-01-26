@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/400px-Grassimuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/800px-Grassimuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1200px-Grassimuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1920px-Grassimuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1920px-Grassimuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/400px-IlsfeldBartholomaeuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/800px-IlsfeldBartholomaeuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1200px-IlsfeldBartholomaeuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1920px-IlsfeldBartholomaeuskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1920px-IlsfeldBartholomaeuskirche.jpg
+---
 
 ## Overview
 

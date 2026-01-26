@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/400px-Yarawerk_Brunsbuettel_25112012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/800px-Yarawerk_Brunsbuettel_25112012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/1200px-Yarawerk_Brunsbuettel_25112012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/1920px-Yarawerk_Brunsbuettel_25112012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yarawerk_Brunsbuettel_25112012.JPG/1920px-Yarawerk_Brunsbuettel_25112012.JPG
+---
 
 ## Overview
 

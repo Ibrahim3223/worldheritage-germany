@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/400px-Hn-aukirche-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/800px-Hn-aukirche-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/1200px-Hn-aukirche-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/1920px-Hn-aukirche-web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/1920px-Hn-aukirche-web.jpg
+---
 
 ## Overview
 

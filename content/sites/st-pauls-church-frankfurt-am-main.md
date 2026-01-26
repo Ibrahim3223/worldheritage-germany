@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/400px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/800px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/1200px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/1920px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg/1920px-Frankfurter-Paulskirche-vor-Dom-Roemer-Areal-2018-Ffm-10054.jpg
+---
 
 ## Overview
 

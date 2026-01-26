@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/400px-Augustinermuseum_Freiburg_-_DSC06509.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/800px-Augustinermuseum_Freiburg_-_DSC06509.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1200px-Augustinermuseum_Freiburg_-_DSC06509.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1920px-Augustinermuseum_Freiburg_-_DSC06509.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1920px-Augustinermuseum_Freiburg_-_DSC06509.JPG
+---
 
 ## Overview
 

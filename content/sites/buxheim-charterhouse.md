@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/400px-Klosterhof_Reichskartause_Buxheim2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/800px-Klosterhof_Reichskartause_Buxheim2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1200px-Klosterhof_Reichskartause_Buxheim2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1920px-Klosterhof_Reichskartause_Buxheim2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1920px-Klosterhof_Reichskartause_Buxheim2.JPG
+---
 
 ## Overview
 

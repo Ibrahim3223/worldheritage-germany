@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/400px-Hohenfels3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/800px-Hohenfels3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/1200px-Hohenfels3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/1920px-Hohenfels3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hohenfels3.JPG/1920px-Hohenfels3.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg/400px-Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg/800px-Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg/1200px-Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg/1920px-Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg/1920px-Ismaning_(Kapelle_des_Zacherlhofes,_Dorfstrasse_2,_13.05.11).jpg
+---
 
 ## Overview
 

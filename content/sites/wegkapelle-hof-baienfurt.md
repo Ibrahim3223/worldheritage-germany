@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Baienfurt_Hof_Kapelle.jpg/400px-Baienfurt_Hof_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Baienfurt_Hof_Kapelle.jpg/800px-Baienfurt_Hof_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Baienfurt_Hof_Kapelle.jpg/1200px-Baienfurt_Hof_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Baienfurt_Hof_Kapelle.jpg/1920px-Baienfurt_Hof_Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Baienfurt_Hof_Kapelle.jpg/1920px-Baienfurt_Hof_Kapelle.jpg
+---
 
 ## Overview
 

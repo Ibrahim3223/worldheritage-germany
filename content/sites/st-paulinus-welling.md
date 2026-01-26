@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/400px-Welling_von_SSW.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/800px-Welling_von_SSW.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/1200px-Welling_von_SSW.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/1920px-Welling_von_SSW.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Welling_von_SSW.JPG/1920px-Welling_von_SSW.JPG
+---
 
 ## Overview
 

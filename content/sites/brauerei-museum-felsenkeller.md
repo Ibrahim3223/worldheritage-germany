@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/400px-St._Vither_Straße_6-8,_Monschau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/800px-St._Vither_Straße_6-8,_Monschau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/1200px-St._Vither_Straße_6-8,_Monschau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/1920px-St._Vither_Straße_6-8,_Monschau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St._Vither_Straße_6-8,_Monschau.jpg/1920px-St._Vither_Straße_6-8,_Monschau.jpg
+---
 
 ## Overview
 

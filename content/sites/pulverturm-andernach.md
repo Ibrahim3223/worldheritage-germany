@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/400px-Pulverturm,_Andernach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/800px-Pulverturm,_Andernach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/1200px-Pulverturm,_Andernach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/1920px-Pulverturm,_Andernach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pulverturm,_Andernach.jpg/1920px-Pulverturm,_Andernach.jpg
+---
 
 ## Overview
 

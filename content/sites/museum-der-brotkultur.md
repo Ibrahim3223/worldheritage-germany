@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/400px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/800px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/1200px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/1920px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg/1920px-MBK15_Museum_aussen_Foto_Bernhard_Friese.jpg
+---
 
 ## Overview
 

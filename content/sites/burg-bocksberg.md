@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/400px-Burg_Bocksberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/800px-Burg_Bocksberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/1200px-Burg_Bocksberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/1920px-Burg_Bocksberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Bocksberg.JPG/1920px-Burg_Bocksberg.JPG
+---
 
 ## Overview
 

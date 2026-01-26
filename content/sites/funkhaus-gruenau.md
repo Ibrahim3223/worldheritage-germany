@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Funkhaus_Gruenau_2010.jpg/400px-Funkhaus_Gruenau_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Funkhaus_Gruenau_2010.jpg/800px-Funkhaus_Gruenau_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Funkhaus_Gruenau_2010.jpg/1200px-Funkhaus_Gruenau_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Funkhaus_Gruenau_2010.jpg/1920px-Funkhaus_Gruenau_2010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Funkhaus_Gruenau_2010.jpg/1920px-Funkhaus_Gruenau_2010.jpg
+---
 
 ## Overview
 

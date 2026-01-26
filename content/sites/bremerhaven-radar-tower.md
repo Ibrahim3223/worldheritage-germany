@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/400px-Radarfunkturm2-Bremerhaven.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/800px-Radarfunkturm2-Bremerhaven.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1200px-Radarfunkturm2-Bremerhaven.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1920px-Radarfunkturm2-Bremerhaven.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1920px-Radarfunkturm2-Bremerhaven.JPG
+---
 
 ## Overview
 

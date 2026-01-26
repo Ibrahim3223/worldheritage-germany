@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/400px-Heidelberg-Schloß.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/800px-Heidelberg-Schloß.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1200px-Heidelberg-Schloß.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1920px-Heidelberg-Schloß.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1920px-Heidelberg-Schloß.JPG
+---
 
 ## Overview
 

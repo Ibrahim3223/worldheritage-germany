@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/400px-Zoo_de_Karlsruhe_-_Entrée.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/800px-Zoo_de_Karlsruhe_-_Entrée.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/1200px-Zoo_de_Karlsruhe_-_Entrée.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/1920px-Zoo_de_Karlsruhe_-_Entrée.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo_de_Karlsruhe_-_Entrée.jpg/1920px-Zoo_de_Karlsruhe_-_Entrée.jpg
+---
 
 ## Overview
 

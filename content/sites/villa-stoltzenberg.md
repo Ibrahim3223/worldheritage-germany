@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/400px-Trabener_Straße_1_Berlin-Grunewald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/800px-Trabener_Straße_1_Berlin-Grunewald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/1200px-Trabener_Straße_1_Berlin-Grunewald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/1920px-Trabener_Straße_1_Berlin-Grunewald.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Trabener_Straße_1_Berlin-Grunewald.jpg/1920px-Trabener_Straße_1_Berlin-Grunewald.jpg
+---
 
 ## Overview
 

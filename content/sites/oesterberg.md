@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/400px-Oesterberg-tuebingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/800px-Oesterberg-tuebingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/1200px-Oesterberg-tuebingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/1920px-Oesterberg-tuebingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oesterberg-tuebingen.jpg/1920px-Oesterberg-tuebingen.jpg
+---
 
 ## Overview
 

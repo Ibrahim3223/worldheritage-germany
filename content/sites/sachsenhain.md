@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/400px-Sachsenhain_Halsmühlen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/800px-Sachsenhain_Halsmühlen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/1200px-Sachsenhain_Halsmühlen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/1920px-Sachsenhain_Halsmühlen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sachsenhain_Halsmühlen.jpg/1920px-Sachsenhain_Halsmühlen.jpg
+---
 
 ## Overview
 

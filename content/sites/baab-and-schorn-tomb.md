@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/400px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/800px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/1200px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/1920px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG/1920px-Dießen_Kirche_St_Georg_StGeorg-Straße_12_008_201412_038.JPG
+---
 
 ## Overview
 

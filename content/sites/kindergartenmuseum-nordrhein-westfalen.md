@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/400px-Kindergartenmuseum.2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/800px-Kindergartenmuseum.2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/1200px-Kindergartenmuseum.2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/1920px-Kindergartenmuseum.2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kindergartenmuseum.2.jpg/1920px-Kindergartenmuseum.2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sankenbach-Fall.jpg/400px-Sankenbach-Fall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sankenbach-Fall.jpg/800px-Sankenbach-Fall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sankenbach-Fall.jpg/1200px-Sankenbach-Fall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sankenbach-Fall.jpg/1920px-Sankenbach-Fall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sankenbach-Fall.jpg/1920px-Sankenbach-Fall.jpg
+---
 
 ## Overview
 

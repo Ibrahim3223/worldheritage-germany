@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/400px-Groß_Kedingshagen,_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/800px-Groß_Kedingshagen,_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/1200px-Groß_Kedingshagen,_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/1920px-Groß_Kedingshagen,_Schloss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Groß_Kedingshagen,_Schloss.JPG/1920px-Groß_Kedingshagen,_Schloss.JPG
+---
 
 ## Overview
 

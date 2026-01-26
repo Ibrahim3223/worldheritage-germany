@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/400px-Holweidebahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/800px-Holweidebahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/1200px-Holweidebahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/1920px-Holweidebahnhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Holweidebahnhof.jpg/1920px-Holweidebahnhof.jpg
+---
 
 ## Overview
 

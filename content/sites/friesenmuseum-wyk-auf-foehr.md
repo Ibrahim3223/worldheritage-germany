@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/400px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/800px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1200px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1920px-Foehr_Wyk_Panorama_Friesenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1920px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
+---
 
 ## Overview
 

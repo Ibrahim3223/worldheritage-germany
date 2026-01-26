@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/400px-Potsdam_Human_Shape-20-09-2009-54.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/800px-Potsdam_Human_Shape-20-09-2009-54.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/1200px-Potsdam_Human_Shape-20-09-2009-54.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/1920px-Potsdam_Human_Shape-20-09-2009-54.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Potsdam_Human_Shape-20-09-2009-54.jpg/1920px-Potsdam_Human_Shape-20-09-2009-54.jpg
+---
 
 ## Overview
 

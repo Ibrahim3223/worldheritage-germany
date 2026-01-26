@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/400px-Rathaus-Sandersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/800px-Rathaus-Sandersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/1200px-Rathaus-Sandersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/1920px-Rathaus-Sandersdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rathaus-Sandersdorf.jpg/1920px-Rathaus-Sandersdorf.jpg
+---
 
 ## Overview
 

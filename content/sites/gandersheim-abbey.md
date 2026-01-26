@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/400px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/800px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/1200px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/1920px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/1920px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
+---
 
 ## Overview
 

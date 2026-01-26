@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/400px-Dresden-PirnaischerPlatzVon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/800px-Dresden-PirnaischerPlatzVon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/1200px-Dresden-PirnaischerPlatzVon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/1920px-Dresden-PirnaischerPlatzVon.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dresden-PirnaischerPlatzVon.jpg/1920px-Dresden-PirnaischerPlatzVon.jpg
+---
 
 ## Overview
 

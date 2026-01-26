@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg/400px-St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg/800px-St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg/1200px-St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg/1920px-St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg/1920px-St._Johannis-Harvestehude_(Hamburg-Rotherbaum).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/400px-Hauptfriedhof_Mannheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/800px-Hauptfriedhof_Mannheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/1200px-Hauptfriedhof_Mannheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/1920px-Hauptfriedhof_Mannheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hauptfriedhof_Mannheim.JPG/1920px-Hauptfriedhof_Mannheim.JPG
+---
 
 ## Overview
 

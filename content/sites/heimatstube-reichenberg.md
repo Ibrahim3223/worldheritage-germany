@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/400px-Heimatkreis_Reichenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/800px-Heimatkreis_Reichenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/1200px-Heimatkreis_Reichenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/1920px-Heimatkreis_Reichenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Heimatkreis_Reichenberg.jpg/1920px-Heimatkreis_Reichenberg.jpg
+---
 
 ## Overview
 

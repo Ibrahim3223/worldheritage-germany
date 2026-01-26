@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/400px-Zehntscheuer_Boeblingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/800px-Zehntscheuer_Boeblingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/1200px-Zehntscheuer_Boeblingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/1920px-Zehntscheuer_Boeblingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zehntscheuer_Boeblingen.jpg/1920px-Zehntscheuer_Boeblingen.jpg
+---
 
 ## Overview
 

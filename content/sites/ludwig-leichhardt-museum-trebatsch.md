@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/400px-Leichhardt-Museum_Trebatsch_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/800px-Leichhardt-Museum_Trebatsch_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/1200px-Leichhardt-Museum_Trebatsch_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/1920px-Leichhardt-Museum_Trebatsch_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leichhardt-Museum_Trebatsch_02.jpg/1920px-Leichhardt-Museum_Trebatsch_02.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/400px-Alte_Pinakothek.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/800px-Alte_Pinakothek.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1200px-Alte_Pinakothek.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1920px-Alte_Pinakothek.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1920px-Alte_Pinakothek.JPG
+---
 
 ## Overview
 

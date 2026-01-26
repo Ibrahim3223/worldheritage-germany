@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/400px-Auferstehungskirche_Duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/800px-Auferstehungskirche_Duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/1200px-Auferstehungskirche_Duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/1920px-Auferstehungskirche_Duesseldorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Auferstehungskirche_Duesseldorf.jpg/1920px-Auferstehungskirche_Duesseldorf.jpg
+---
 
 ## Overview
 

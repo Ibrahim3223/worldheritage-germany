@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/400px-Marschiertor_Aachen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/800px-Marschiertor_Aachen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/1200px-Marschiertor_Aachen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/1920px-Marschiertor_Aachen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Marschiertor_Aachen.jpg/1920px-Marschiertor_Aachen.jpg
+---
 
 ## Overview
 

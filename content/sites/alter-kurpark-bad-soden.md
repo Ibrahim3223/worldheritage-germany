@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/400px-Bad_Soden_Taunus_Alter_Kurpark.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/800px-Bad_Soden_Taunus_Alter_Kurpark.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/1200px-Bad_Soden_Taunus_Alter_Kurpark.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/1920px-Bad_Soden_Taunus_Alter_Kurpark.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bad_Soden_Taunus_Alter_Kurpark.JPG/1920px-Bad_Soden_Taunus_Alter_Kurpark.JPG
+---
 
 ## Overview
 

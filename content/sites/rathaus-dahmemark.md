@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/400px-Dahme_Mark_Rathaus_14.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/800px-Dahme_Mark_Rathaus_14.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/1200px-Dahme_Mark_Rathaus_14.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/1920px-Dahme_Mark_Rathaus_14.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dahme_Mark_Rathaus_14.jpg/1920px-Dahme_Mark_Rathaus_14.jpg
+---
 
 ## Overview
 

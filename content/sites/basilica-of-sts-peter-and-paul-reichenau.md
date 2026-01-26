@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/400px-Niederzell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/800px-Niederzell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1200px-Niederzell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1920px-Niederzell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1920px-Niederzell.jpg
+---
 
 ## Overview
 

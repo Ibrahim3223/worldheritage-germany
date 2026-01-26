@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/400px-Kremper_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/800px-Kremper_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/1200px-Kremper_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/1920px-Kremper_Kirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kremper_Kirche.JPG/1920px-Kremper_Kirche.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/400px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/800px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/1200px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/1920px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg/1920px-Wuestenrot_Haus_Haller_Strasse_3_20100410.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/400px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/800px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/1200px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/1920px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG/1920px-Brandenburg,_Proschim,_Alte_Mühle_NIK_5960.JPG
+---
 
 ## Overview
 

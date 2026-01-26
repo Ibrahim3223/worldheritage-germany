@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/400px-Panorama_Dobergmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/800px-Panorama_Dobergmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/1200px-Panorama_Dobergmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/1920px-Panorama_Dobergmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Panorama_Dobergmuseum.jpg/1920px-Panorama_Dobergmuseum.jpg
+---
 
 ## Overview
 

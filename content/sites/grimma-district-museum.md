@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/400px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/800px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/1200px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/1920px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grimma_Steinkreuz_Hof_Heimatmuseum.jpg/1920px-Grimma_Steinkreuz_Hof_Heimatmuseum.jpg
+---
 
 ## Overview
 

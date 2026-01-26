@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/400px-GlashausWismar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/800px-GlashausWismar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/1200px-GlashausWismar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/1920px-GlashausWismar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlashausWismar.jpg/1920px-GlashausWismar.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/400px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/800px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/1200px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/1920px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dorfkirchhof_Berlin-Falkbg_106-157.JPG/1920px-Dorfkirchhof_Berlin-Falkbg_106-157.JPG
+---
 
 ## Overview
 

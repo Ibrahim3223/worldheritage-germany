@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/400px-Am_Schwedderberg_(Gernrode).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/800px-Am_Schwedderberg_(Gernrode).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/1200px-Am_Schwedderberg_(Gernrode).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/1920px-Am_Schwedderberg_(Gernrode).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Am_Schwedderberg_(Gernrode).jpg/1920px-Am_Schwedderberg_(Gernrode).jpg
+---
 
 ## Overview
 

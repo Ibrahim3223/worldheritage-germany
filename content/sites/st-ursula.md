@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/400px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/800px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/1200px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/1920px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg/1920px-St._Ursula_in_Duesseldorf-Grafenberg,_von_Norden.jpg
+---
 
 ## Overview
 

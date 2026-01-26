@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/400px-Logo_Kiumu_Donaueschingen.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/800px-Logo_Kiumu_Donaueschingen.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/1200px-Logo_Kiumu_Donaueschingen.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/1920px-Logo_Kiumu_Donaueschingen.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Kiumu_Donaueschingen.png/1920px-Logo_Kiumu_Donaueschingen.png
+---
 
 ## Overview
 

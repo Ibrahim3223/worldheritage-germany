@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/400px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/800px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/1200px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/1920px-Fredersdorf-Sammlung_Duncker_(5370363).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fredersdorf-Sammlung_Duncker_(5370363).jpg/1920px-Fredersdorf-Sammlung_Duncker_(5370363).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/400px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/800px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/1200px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/1920px-Schloss_Stolpen_(Saksen)_Germany_16.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/1920px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
+---
 
 ## Overview
 

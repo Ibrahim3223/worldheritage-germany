@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Neues_Museum_Nuernberg-1.jpg/400px-Neues_Museum_Nuernberg-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Neues_Museum_Nuernberg-1.jpg/800px-Neues_Museum_Nuernberg-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Neues_Museum_Nuernberg-1.jpg/1200px-Neues_Museum_Nuernberg-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Neues_Museum_Nuernberg-1.jpg/1920px-Neues_Museum_Nuernberg-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Neues_Museum_Nuernberg-1.jpg/1920px-Neues_Museum_Nuernberg-1.jpg
+---
 
 ## Overview
 

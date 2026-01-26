@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/400px-Haus_im_Schluh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/800px-Haus_im_Schluh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/1200px-Haus_im_Schluh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/1920px-Haus_im_Schluh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haus_im_Schluh.jpg/1920px-Haus_im_Schluh.jpg
+---
 
 ## Overview
 

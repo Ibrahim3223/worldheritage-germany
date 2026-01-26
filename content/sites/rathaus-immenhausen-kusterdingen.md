@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/400px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/800px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/1200px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/1920px-Kusterdingen_Immenhausen_Rathaus_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kusterdingen_Immenhausen_Rathaus_(1).jpg/1920px-Kusterdingen_Immenhausen_Rathaus_(1).jpg
+---
 
 ## Overview
 

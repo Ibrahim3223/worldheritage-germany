@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/400px-Katholische_Kapelle_(Dietersdorf)_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/800px-Katholische_Kapelle_(Dietersdorf)_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/1200px-Katholische_Kapelle_(Dietersdorf)_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/1920px-Katholische_Kapelle_(Dietersdorf)_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katholische_Kapelle_(Dietersdorf)_03.jpg/1920px-Katholische_Kapelle_(Dietersdorf)_03.jpg
+---
 
 ## Overview
 

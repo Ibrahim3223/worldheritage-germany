@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/400px-Tierpark-pyrmont-teich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/800px-Tierpark-pyrmont-teich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/1200px-Tierpark-pyrmont-teich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/1920px-Tierpark-pyrmont-teich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tierpark-pyrmont-teich.jpg/1920px-Tierpark-pyrmont-teich.jpg
+---
 
 ## Overview
 

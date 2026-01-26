@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/400px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/800px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/1200px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/1920px-Chemnitz-Gedenkstein_im_Stadtpark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chemnitz-Gedenkstein_im_Stadtpark.jpg/1920px-Chemnitz-Gedenkstein_im_Stadtpark.jpg
+---
 
 ## Overview
 

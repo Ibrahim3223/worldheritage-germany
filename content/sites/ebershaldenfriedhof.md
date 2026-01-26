@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/400px-Ebershaldenfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/800px-Ebershaldenfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/1200px-Ebershaldenfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/1920px-Ebershaldenfriedhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ebershaldenfriedhof.jpg/1920px-Ebershaldenfriedhof.jpg
+---
 
 ## Overview
 

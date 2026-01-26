@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burgruine_Liebau.JPG/400px-Burgruine_Liebau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burgruine_Liebau.JPG/800px-Burgruine_Liebau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burgruine_Liebau.JPG/1200px-Burgruine_Liebau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burgruine_Liebau.JPG/1920px-Burgruine_Liebau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burgruine_Liebau.JPG/1920px-Burgruine_Liebau.JPG
+---
 
 ## Overview
 

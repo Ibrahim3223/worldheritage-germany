@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/400px-Altenburg_Aussenwall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/800px-Altenburg_Aussenwall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/1200px-Altenburg_Aussenwall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/1920px-Altenburg_Aussenwall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Altenburg_Aussenwall.jpg/1920px-Altenburg_Aussenwall.jpg
+---
 
 ## Overview
 

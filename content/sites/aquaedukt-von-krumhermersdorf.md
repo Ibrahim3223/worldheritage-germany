@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/400px-Krumhermersdorf_wasserbruecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/800px-Krumhermersdorf_wasserbruecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/1200px-Krumhermersdorf_wasserbruecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/1920px-Krumhermersdorf_wasserbruecke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krumhermersdorf_wasserbruecke.jpg/1920px-Krumhermersdorf_wasserbruecke.jpg
+---
 
 ## Overview
 

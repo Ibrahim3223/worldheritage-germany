@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/400px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/800px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/1200px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Schmiedell.jpg
+---
 
 ## Overview
 

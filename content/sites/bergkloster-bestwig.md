@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/400px-Bergkloster_Bestwig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/800px-Bergkloster_Bestwig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/1200px-Bergkloster_Bestwig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/1920px-Bergkloster_Bestwig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bergkloster_Bestwig.jpg/1920px-Bergkloster_Bestwig.jpg
+---
 
 ## Overview
 

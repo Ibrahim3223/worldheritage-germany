@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/400px-Erlkoenig_Jena_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/800px-Erlkoenig_Jena_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/1200px-Erlkoenig_Jena_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/1920px-Erlkoenig_Jena_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Erlkoenig_Jena_01.jpg/1920px-Erlkoenig_Jena_01.jpg
+---
 
 ## Overview
 

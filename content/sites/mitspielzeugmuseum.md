@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/400px-Mitspielzeugmuseum_Leipzig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/800px-Mitspielzeugmuseum_Leipzig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/1200px-Mitspielzeugmuseum_Leipzig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/1920px-Mitspielzeugmuseum_Leipzig.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mitspielzeugmuseum_Leipzig.JPG/1920px-Mitspielzeugmuseum_Leipzig.JPG
+---
 
 ## Overview
 

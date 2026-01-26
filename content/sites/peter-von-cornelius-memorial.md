@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/400px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/800px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/1200px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/1920px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg/1920px-Düsseldorf,_Peter-von-Cornelius-Denkmal.jpg
+---
 
 ## Overview 
 

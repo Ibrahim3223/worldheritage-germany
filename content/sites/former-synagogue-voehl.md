@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/400px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/800px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/1200px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/1920px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vöhl-ehm._Synagoge-1-DSCF3476.jpg/1920px-Vöhl-ehm._Synagoge-1-DSCF3476.jpg
+---
 
 ## Overview
 

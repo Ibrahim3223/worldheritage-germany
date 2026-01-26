@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/400px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/800px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
+---
 
 ## Overview
 

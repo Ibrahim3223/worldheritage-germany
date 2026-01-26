@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/400px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/800px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/1200px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/1920px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg/1920px-Tübingen_St.Johannes_Evangelist_BW_2015-04-27_16-30-50.jpg
+---
 
 ## Overview
 

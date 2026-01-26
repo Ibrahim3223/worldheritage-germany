@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/400px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/800px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/1200px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/1920px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg/1920px-Museum_Wilhelm_Morgner_mit_dem_Raum_Schroth_hell_geschnitten©Gero_Sliwa_KLEIN.jpg
+---
 
 ## Overview
 

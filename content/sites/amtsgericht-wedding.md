@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/400px-Amtsgericht_Wedding.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/800px-Amtsgericht_Wedding.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/1200px-Amtsgericht_Wedding.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/1920px-Amtsgericht_Wedding.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amtsgericht_Wedding.jpg/1920px-Amtsgericht_Wedding.jpg
+---
 
 ## Overview
 

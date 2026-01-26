@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alexanderkirche_Wildeshausen_halfstraight.jpg/400px-Alexanderkirche_Wildeshausen_halfstraight.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alexanderkirche_Wildeshausen_halfstraight.jpg/800px-Alexanderkirche_Wildeshausen_halfstraight.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alexanderkirche_Wildeshausen_halfstraight.jpg/1200px-Alexanderkirche_Wildeshausen_halfstraight.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alexanderkirche_Wildeshausen_halfstraight.jpg/1920px-Alexanderkirche_Wildeshausen_halfstraight.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alexanderkirche_Wildeshausen_halfstraight.jpg/1920px-Alexanderkirche_Wildeshausen_halfstraight.jpg
+---
 
 ## Overview
 

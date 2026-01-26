@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/400px-Burg_Kreuzberg_im_Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/800px-Burg_Kreuzberg_im_Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/1200px-Burg_Kreuzberg_im_Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/1920px-Burg_Kreuzberg_im_Sommer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Kreuzberg_im_Sommer.jpg/1920px-Burg_Kreuzberg_im_Sommer.jpg
+---
 
 ## Overview
 

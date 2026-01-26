@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/400px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/800px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/1200px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/1920px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG/1920px-München_Museum_für_Abgüsse_klassischer_Bildwerke_(Gebäudefassade).JPG
+---
 
 ## Overview
 

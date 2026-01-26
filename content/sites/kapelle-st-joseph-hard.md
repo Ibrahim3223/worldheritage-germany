@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/400px-Hard_Josephskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/800px-Hard_Josephskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/1200px-Hard_Josephskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/1920px-Hard_Josephskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hard_Josephskapelle.jpg/1920px-Hard_Josephskapelle.jpg
+---
 
 ## Overview
 

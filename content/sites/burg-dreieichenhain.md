@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/400px-Dreieich_Dreieichenhain_Burg_20070823.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/800px-Dreieich_Dreieichenhain_Burg_20070823.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1200px-Dreieich_Dreieichenhain_Burg_20070823.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1920px-Dreieich_Dreieichenhain_Burg_20070823.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1920px-Dreieich_Dreieichenhain_Burg_20070823.JPG
+---
 
 ## Overview
 

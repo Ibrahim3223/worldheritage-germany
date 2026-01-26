@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/400px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/800px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/1200px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/1920px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG/1920px-2014_05_14_Hafen_Wischhafen_IMG_7252_S_P.JPG
+---
 
 ## Overview
 

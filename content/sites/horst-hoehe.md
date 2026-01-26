@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/400px-B239_Pass.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/800px-B239_Pass.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/1200px-B239_Pass.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/1920px-B239_Pass.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/B239_Pass.JPG/1920px-B239_Pass.JPG
+---
 
 ## Overview
 

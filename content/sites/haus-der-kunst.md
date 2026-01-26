@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/400px-Haus_der_Kunst_-_Munich_-_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/800px-Haus_der_Kunst_-_Munich_-_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1200px-Haus_der_Kunst_-_Munich_-_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1920px-Haus_der_Kunst_-_Munich_-_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1920px-Haus_der_Kunst_-_Munich_-_2013.jpg
+---
 
 ## Overview 
 

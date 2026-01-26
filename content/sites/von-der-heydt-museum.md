@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/400px-Wuppertal_vdheydtmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/800px-Wuppertal_vdheydtmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/1200px-Wuppertal_vdheydtmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/1920px-Wuppertal_vdheydtmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wuppertal_vdheydtmuseum.JPG/1920px-Wuppertal_vdheydtmuseum.JPG
+---
 
 ## Overview
 

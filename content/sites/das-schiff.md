@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/400px-Dasschiff_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/800px-Dasschiff_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1200px-Dasschiff_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1920px-Dasschiff_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1920px-Dasschiff_1.jpg
+---
 
 ## Overview
 

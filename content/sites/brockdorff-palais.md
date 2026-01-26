@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/400px-Brockdorffpalais_Glückstadt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/800px-Brockdorffpalais_Glückstadt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/1200px-Brockdorffpalais_Glückstadt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/1920px-Brockdorffpalais_Glückstadt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Brockdorffpalais_Glückstadt.JPG/1920px-Brockdorffpalais_Glückstadt.JPG
+---
 
 ## Overview
 

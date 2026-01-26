@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/400px-Heiligenhafen_-_Tweltenberge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/800px-Heiligenhafen_-_Tweltenberge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/1200px-Heiligenhafen_-_Tweltenberge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/1920px-Heiligenhafen_-_Tweltenberge.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Heiligenhafen_-_Tweltenberge.JPG/1920px-Heiligenhafen_-_Tweltenberge.JPG
+---
 
 ## Overview
 

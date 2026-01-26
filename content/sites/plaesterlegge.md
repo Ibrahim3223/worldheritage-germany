@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Plästerlegge_tauwetter_2010.jpg/400px-Plästerlegge_tauwetter_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Plästerlegge_tauwetter_2010.jpg/800px-Plästerlegge_tauwetter_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Plästerlegge_tauwetter_2010.jpg/1200px-Plästerlegge_tauwetter_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Plästerlegge_tauwetter_2010.jpg/1920px-Plästerlegge_tauwetter_2010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Plästerlegge_tauwetter_2010.jpg/1920px-Plästerlegge_tauwetter_2010.jpg
+---
 
 ## Overview
 

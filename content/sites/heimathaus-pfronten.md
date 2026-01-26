@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pfronten433_Kirchsteige_1.JPG/400px-Pfronten433_Kirchsteige_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pfronten433_Kirchsteige_1.JPG/800px-Pfronten433_Kirchsteige_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pfronten433_Kirchsteige_1.JPG/1200px-Pfronten433_Kirchsteige_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pfronten433_Kirchsteige_1.JPG/1920px-Pfronten433_Kirchsteige_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pfronten433_Kirchsteige_1.JPG/1920px-Pfronten433_Kirchsteige_1.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/400px-Walkenried-Zisterzienserkloster_2011_börste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/800px-Walkenried-Zisterzienserkloster_2011_börste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/1200px-Walkenried-Zisterzienserkloster_2011_börste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/1920px-Walkenried-Zisterzienserkloster_2011_börste.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Walkenried-Zisterzienserkloster_2011_börste.jpg/1920px-Walkenried-Zisterzienserkloster_2011_börste.jpg
+---
 
 ## Overview
 

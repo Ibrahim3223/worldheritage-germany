@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/400px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/800px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/1200px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/1920px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg/1920px-Kirchspiel_(Dülmen),_Haus_Empte_--_2014_--_5420.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fmt_lohbruegge_ccb.jpg/400px-Fmt_lohbruegge_ccb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fmt_lohbruegge_ccb.jpg/800px-Fmt_lohbruegge_ccb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fmt_lohbruegge_ccb.jpg/1200px-Fmt_lohbruegge_ccb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fmt_lohbruegge_ccb.jpg/1920px-Fmt_lohbruegge_ccb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fmt_lohbruegge_ccb.jpg/1920px-Fmt_lohbruegge_ccb.jpg
+---
 
 ## Overview
 

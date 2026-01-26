@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/400px-Neidenfels.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/800px-Neidenfels.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1200px-Neidenfels.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1920px-Neidenfels.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1920px-Neidenfels.JPG
+---
 
 ## Overview
 

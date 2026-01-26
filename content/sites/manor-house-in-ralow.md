@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/400px-Ralow_2017_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/800px-Ralow_2017_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/1200px-Ralow_2017_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/1920px-Ralow_2017_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ralow_2017_Osten.jpg/1920px-Ralow_2017_Osten.jpg
+---
 
 ## Overview
 

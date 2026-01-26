@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/400px-Theaterhaus_Stuttgart_Pragsattel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/800px-Theaterhaus_Stuttgart_Pragsattel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/1200px-Theaterhaus_Stuttgart_Pragsattel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/1920px-Theaterhaus_Stuttgart_Pragsattel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Theaterhaus_Stuttgart_Pragsattel.jpg/1920px-Theaterhaus_Stuttgart_Pragsattel.jpg
+---
 
 ## Overview
 

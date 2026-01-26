@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/400px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/800px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/1200px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/1920px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/IMGP0820_Ev._Kapelle_Wilhelmshof.JPG/1920px-IMGP0820_Ev._Kapelle_Wilhelmshof.JPG
+---
 
 ## Overview
 

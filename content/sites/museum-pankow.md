@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/400px-Luftbild_vom_Wasserturm_aus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/800px-Luftbild_vom_Wasserturm_aus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/1200px-Luftbild_vom_Wasserturm_aus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/1920px-Luftbild_vom_Wasserturm_aus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luftbild_vom_Wasserturm_aus.jpg/1920px-Luftbild_vom_Wasserturm_aus.jpg
+---
 
 ## Overview
 

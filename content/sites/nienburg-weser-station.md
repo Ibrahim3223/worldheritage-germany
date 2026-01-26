@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/400px-Bahnhof_Nienburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/800px-Bahnhof_Nienburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/1200px-Bahnhof_Nienburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/1920px-Bahnhof_Nienburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bahnhof_Nienburg.jpg/1920px-Bahnhof_Nienburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/400px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/800px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/1200px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/1920px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/60344Neuenkirchen_DH_Kirche_v_SSO.JPG/1920px-60344Neuenkirchen_DH_Kirche_v_SSO.JPG
+---
 
 ## Overview
 

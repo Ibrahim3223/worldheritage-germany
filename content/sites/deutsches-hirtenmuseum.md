@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/400px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/800px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/1200px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/1920px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eisenhüttlein_7_Hersbruck_20180618_001.jpg/1920px-Eisenhüttlein_7_Hersbruck_20180618_001.jpg
+---
 
 ## Overview
 

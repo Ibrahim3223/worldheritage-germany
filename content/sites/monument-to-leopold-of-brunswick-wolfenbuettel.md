@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/400px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/800px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/1200px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/1920px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg/1920px-Frankfurt_Oder_Prinz_Leupold_Denkmal_1906.jpg
+---
 
 ## Overview 
 

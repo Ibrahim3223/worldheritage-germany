@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/400px-Drachenfelsstrasse_39_Bild_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/800px-Drachenfelsstrasse_39_Bild_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/1200px-Drachenfelsstrasse_39_Bild_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/1920px-Drachenfelsstrasse_39_Bild_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drachenfelsstrasse_39_Bild_3.jpg/1920px-Drachenfelsstrasse_39_Bild_3.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/400px-Wasserburg_Bad_Vilbel_869-vd.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/800px-Wasserburg_Bad_Vilbel_869-vd.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/1200px-Wasserburg_Bad_Vilbel_869-vd.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/1920px-Wasserburg_Bad_Vilbel_869-vd.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wasserburg_Bad_Vilbel_869-vd.jpg/1920px-Wasserburg_Bad_Vilbel_869-vd.jpg
+---
 
 ## Overview
 

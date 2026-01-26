@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/400px-Andreaskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/800px-Andreaskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1200px-Andreaskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1920px-Andreaskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1920px-Andreaskirche.jpg
+---
 
 ## Overview
 

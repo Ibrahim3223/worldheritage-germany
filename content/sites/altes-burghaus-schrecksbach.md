@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altes_Burghaus_Schrecksbach_(01).jpg/400px-Altes_Burghaus_Schrecksbach_(01).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altes_Burghaus_Schrecksbach_(01).jpg/800px-Altes_Burghaus_Schrecksbach_(01).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altes_Burghaus_Schrecksbach_(01).jpg/1200px-Altes_Burghaus_Schrecksbach_(01).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altes_Burghaus_Schrecksbach_(01).jpg/1920px-Altes_Burghaus_Schrecksbach_(01).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Altes_Burghaus_Schrecksbach_(01).jpg/1920px-Altes_Burghaus_Schrecksbach_(01).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/400px-Herne_trainstation_e&n.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/800px-Herne_trainstation_e&n.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/1200px-Herne_trainstation_e&n.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/1920px-Herne_trainstation_e&n.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herne_trainstation_e&n.jpg/1920px-Herne_trainstation_e&n.jpg
+---
 
 ## Overview
 

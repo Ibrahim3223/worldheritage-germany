@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/400px-Maeulesmuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/800px-Maeulesmuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/1200px-Maeulesmuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/1920px-Maeulesmuehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maeulesmuehle.jpg/1920px-Maeulesmuehle.jpg
+---
 
 ## Overview
 

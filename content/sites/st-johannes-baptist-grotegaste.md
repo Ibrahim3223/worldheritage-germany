@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/400px-ChurchGrotegaste.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/800px-ChurchGrotegaste.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/1200px-ChurchGrotegaste.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/1920px-ChurchGrotegaste.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ChurchGrotegaste.JPG/1920px-ChurchGrotegaste.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/400px-Maschenmuseum_Tailfingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/800px-Maschenmuseum_Tailfingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/1200px-Maschenmuseum_Tailfingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/1920px-Maschenmuseum_Tailfingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Maschenmuseum_Tailfingen.JPG/1920px-Maschenmuseum_Tailfingen.JPG
+---
 
 ## Overview
 

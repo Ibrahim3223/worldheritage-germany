@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/400px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/800px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/1200px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/1920px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg/1920px-Gammelsdorf_Kath._Pfarrkirche_St._Vitus.jpg
+---
 
 ## Overview
 

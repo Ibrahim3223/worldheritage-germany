@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/400px-Potsdam-Synagoge-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/800px-Potsdam-Synagoge-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/1200px-Potsdam-Synagoge-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/1920px-Potsdam-Synagoge-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Potsdam-Synagoge-1.jpg/1920px-Potsdam-Synagoge-1.jpg
+---
 
 ## Overview
 

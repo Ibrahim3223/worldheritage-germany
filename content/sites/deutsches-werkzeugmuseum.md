@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/400px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/800px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
+---
 
 ## Overview
 

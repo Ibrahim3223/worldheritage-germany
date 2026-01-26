@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/400px-Gärtner-_und_Häckermuseum_201405131004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/800px-Gärtner-_und_Häckermuseum_201405131004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/1200px-Gärtner-_und_Häckermuseum_201405131004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/1920px-Gärtner-_und_Häckermuseum_201405131004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gärtner-_und_Häckermuseum_201405131004.jpg/1920px-Gärtner-_und_Häckermuseum_201405131004.jpg
+---
 
 ## Overview
 

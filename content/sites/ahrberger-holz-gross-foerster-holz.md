@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/400px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/800px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/1200px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/1920px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG/1920px-NSG_Ahrberger_Holz_Groß_Förster_Holz_1.JPG
+---
 
 ## Overview
 

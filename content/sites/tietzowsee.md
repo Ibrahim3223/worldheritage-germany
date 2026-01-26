@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/400px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/800px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/1200px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/1920px-2014-03-21_Tietzowsee_Campingplatz_320.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2014-03-21_Tietzowsee_Campingplatz_320.jpg/1920px-2014-03-21_Tietzowsee_Campingplatz_320.jpg
+---
 
 ## Overview
 

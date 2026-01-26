@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/400px-Ewearena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/800px-Ewearena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1200px-Ewearena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1920px-Ewearena.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1920px-Ewearena.jpg
+---
 
 ## Overview
 

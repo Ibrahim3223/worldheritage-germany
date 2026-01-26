@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/400px-St_Nikolakloster_Passau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/800px-St_Nikolakloster_Passau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/1200px-St_Nikolakloster_Passau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/1920px-St_Nikolakloster_Passau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/St_Nikolakloster_Passau.jpg/1920px-St_Nikolakloster_Passau.jpg
+---
 
 ## Overview
 

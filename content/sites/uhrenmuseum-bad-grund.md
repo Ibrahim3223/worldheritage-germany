@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/400px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/800px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/1200px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/1920px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg/1920px-Uhrenmuseum_Clausthaler_Straße_(Bad_Grund).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/400px-Burg_Luerken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/800px-Burg_Luerken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/1200px-Burg_Luerken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/1920px-Burg_Luerken.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Burg_Luerken.jpg/1920px-Burg_Luerken.jpg
+---
 
 ## Overview
 

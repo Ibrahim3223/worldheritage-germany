@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/400px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/800px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/1200px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/1920px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg/1920px-Baudenkmal_Wülfeler_Str._5_Bemerode_(Hannover)_IMG_1689.jpg
+---
 
 ## Overview 
 

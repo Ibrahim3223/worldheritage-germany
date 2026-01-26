@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/400px-Torhaus_(Schloss_Weiler).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/800px-Torhaus_(Schloss_Weiler).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/1200px-Torhaus_(Schloss_Weiler).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/1920px-Torhaus_(Schloss_Weiler).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Torhaus_(Schloss_Weiler).jpg/1920px-Torhaus_(Schloss_Weiler).jpg
+---
 
 ## Overview
 

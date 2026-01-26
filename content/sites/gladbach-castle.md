@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/400px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/800px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/1200px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/1920px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg/1920px-Vettweiß-Gladbach_Denkmal-Nr._Gla-05,_Hubertusstraße_4_(1808).jpg
+---
 
 ## Overview
 

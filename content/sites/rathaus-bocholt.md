@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/400px-Bocholt_Rathaus_Weidemann.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/800px-Bocholt_Rathaus_Weidemann.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/1200px-Bocholt_Rathaus_Weidemann.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/1920px-Bocholt_Rathaus_Weidemann.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bocholt_Rathaus_Weidemann.jpg/1920px-Bocholt_Rathaus_Weidemann.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/400px-Koeln_wallraff_richartz_mus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/800px-Koeln_wallraff_richartz_mus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/1200px-Koeln_wallraff_richartz_mus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/1920px-Koeln_wallraff_richartz_mus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Koeln_wallraff_richartz_mus.jpg/1920px-Koeln_wallraff_richartz_mus.jpg
+---
 
 ## Overview
 

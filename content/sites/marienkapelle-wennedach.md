@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/400px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/800px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/1200px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/1920px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kapelle_Ziegeleistr._(Ochsenhausen).jpg/1920px-Kapelle_Ziegeleistr._(Ochsenhausen).jpg
+---
 
 ## Overview
 

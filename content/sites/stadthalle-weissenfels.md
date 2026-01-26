@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/400px-Stadthalle_Weißenfels.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/800px-Stadthalle_Weißenfels.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/1200px-Stadthalle_Weißenfels.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/1920px-Stadthalle_Weißenfels.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stadthalle_Weißenfels.JPG/1920px-Stadthalle_Weißenfels.JPG
+---
 
 ## Overview
 

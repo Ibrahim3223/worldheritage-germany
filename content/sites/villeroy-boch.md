@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/400px-V_und_B_Drina_res.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/800px-V_und_B_Drina_res.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/1200px-V_und_B_Drina_res.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/1920px-V_und_B_Drina_res.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V_und_B_Drina_res.jpg/1920px-V_und_B_Drina_res.jpg
+---
 
 ## Overview
 

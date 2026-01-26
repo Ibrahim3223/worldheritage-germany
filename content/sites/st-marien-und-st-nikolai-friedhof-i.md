@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/400px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/800px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/1200px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/1920px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg/1920px-St.-Marien-_und_St.-Nicolai-Friedhof_Berlin_Nov.2016_-_5.jpg
+---
 
 ## Overview
 

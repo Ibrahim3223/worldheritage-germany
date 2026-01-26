@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/400px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/800px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/1200px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/1920px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wörnitzstein_Kalvarienbergkapelle_80073.JPG/1920px-Wörnitzstein_Kalvarienbergkapelle_80073.JPG
+---
 
 ## Overview
 

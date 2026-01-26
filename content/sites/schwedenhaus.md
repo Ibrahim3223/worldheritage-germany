@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/400px-Goldig-3a.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/800px-Goldig-3a.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/1200px-Goldig-3a.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/1920px-Goldig-3a.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldig-3a.JPG/1920px-Goldig-3a.JPG
+---
 
 ## Overview
 

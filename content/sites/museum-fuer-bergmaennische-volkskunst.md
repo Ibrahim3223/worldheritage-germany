@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schneeberg_-_Bortenreuther-Haus_(01-2).jpg/400px-Schneeberg_-_Bortenreuther-Haus_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schneeberg_-_Bortenreuther-Haus_(01-2).jpg/800px-Schneeberg_-_Bortenreuther-Haus_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schneeberg_-_Bortenreuther-Haus_(01-2).jpg/1200px-Schneeberg_-_Bortenreuther-Haus_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schneeberg_-_Bortenreuther-Haus_(01-2).jpg/1920px-Schneeberg_-_Bortenreuther-Haus_(01-2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schneeberg_-_Bortenreuther-Haus_(01-2).jpg/1920px-Schneeberg_-_Bortenreuther-Haus_(01-2).jpg
+---
 
 ## Overview
 

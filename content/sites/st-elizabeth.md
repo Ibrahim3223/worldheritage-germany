@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/400px-Nürnberg_St_Elisabeth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/800px-Nürnberg_St_Elisabeth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/1200px-Nürnberg_St_Elisabeth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/1920px-Nürnberg_St_Elisabeth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nürnberg_St_Elisabeth.jpg/1920px-Nürnberg_St_Elisabeth.jpg
+---
 
 ## Overview
 

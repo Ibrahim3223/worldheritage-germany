@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/400px-ChurchLoquard.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/800px-ChurchLoquard.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/1200px-ChurchLoquard.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/1920px-ChurchLoquard.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/ChurchLoquard.JPG/1920px-ChurchLoquard.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/400px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/800px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1200px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1920px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1920px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
+---
 
 ## Overview
 

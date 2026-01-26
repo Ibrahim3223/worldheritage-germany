@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BadMarienbergBasaltparkSee2.jpg/400px-BadMarienbergBasaltparkSee2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BadMarienbergBasaltparkSee2.jpg/800px-BadMarienbergBasaltparkSee2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BadMarienbergBasaltparkSee2.jpg/1200px-BadMarienbergBasaltparkSee2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BadMarienbergBasaltparkSee2.jpg/1920px-BadMarienbergBasaltparkSee2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BadMarienbergBasaltparkSee2.jpg/1920px-BadMarienbergBasaltparkSee2.jpg
+---
 
 ## Overview
 

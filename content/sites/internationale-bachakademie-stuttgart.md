@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/400px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/800px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1200px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1920px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1920px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
+---
 
 ## Overview
 

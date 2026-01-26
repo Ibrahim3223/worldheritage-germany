@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/400px-Holzschnitt-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/800px-Holzschnitt-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/1200px-Holzschnitt-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/1920px-Holzschnitt-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Holzschnitt-Museum.jpg/1920px-Holzschnitt-Museum.jpg
+---
 
 ## Overview
 

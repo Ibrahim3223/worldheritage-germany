@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/400px-Auferstehungskirche_Döhren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/800px-Auferstehungskirche_Döhren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1200px-Auferstehungskirche_Döhren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1920px-Auferstehungskirche_Döhren.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1920px-Auferstehungskirche_Döhren.jpg
+---
 
 ## Overview
 

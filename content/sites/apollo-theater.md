@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/400px-Apollo-Theater_Siegen_dima.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/800px-Apollo-Theater_Siegen_dima.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/1200px-Apollo-Theater_Siegen_dima.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/1920px-Apollo-Theater_Siegen_dima.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Apollo-Theater_Siegen_dima.JPG/1920px-Apollo-Theater_Siegen_dima.JPG
+---
 
 ## Overview
 

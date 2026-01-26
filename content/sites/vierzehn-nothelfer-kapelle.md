@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/400px-Vierzehn-Nothelfer-Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/800px-Vierzehn-Nothelfer-Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/1200px-Vierzehn-Nothelfer-Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/1920px-Vierzehn-Nothelfer-Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vierzehn-Nothelfer-Kapelle.jpg/1920px-Vierzehn-Nothelfer-Kapelle.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/400px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/800px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/1200px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/1920px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg/1920px-2010.08.22.151419_Rathaus_Sulzbach-Rosenberg.jpg
+---
 
 ## Overview
 

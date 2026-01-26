@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/400px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/800px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1200px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1920px-Teltowkanal_07_Wannsee_Heilandskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1920px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
+---
 
 ## Overview
 

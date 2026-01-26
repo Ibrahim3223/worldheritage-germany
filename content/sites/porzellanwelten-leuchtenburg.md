@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg/400px-Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg/800px-Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg/1200px-Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg/1920px-Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg/1920px-Porzellanwelten_Leuchtenburg_-_Das_Kostbare.jpg
+---
 
 ## Overview
 

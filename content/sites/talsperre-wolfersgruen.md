@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/400px-WolfersgrünerTalsperre&Stausee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/800px-WolfersgrünerTalsperre&Stausee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/1200px-WolfersgrünerTalsperre&Stausee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/1920px-WolfersgrünerTalsperre&Stausee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WolfersgrünerTalsperre&Stausee.jpg/1920px-WolfersgrünerTalsperre&Stausee.jpg
+---
 
 ## Overview
 

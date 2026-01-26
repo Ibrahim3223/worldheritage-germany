@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/400px-Bf-d-oberbilk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/800px-Bf-d-oberbilk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/1200px-Bf-d-oberbilk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/1920px-Bf-d-oberbilk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bf-d-oberbilk.jpg/1920px-Bf-d-oberbilk.jpg
+---
 
 ## Overview
 

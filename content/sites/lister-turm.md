@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/400px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/800px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/1200px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/1920px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg/1920px-Freizeitheim_Lister_Turm_(Hannover)_IMG_9791.jpg
+---
 
 ## Overview
 

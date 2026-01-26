@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/400px-MOD_-_Modeon_v_SO_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/800px-MOD_-_Modeon_v_SO_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/1200px-MOD_-_Modeon_v_SO_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/1920px-MOD_-_Modeon_v_SO_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MOD_-_Modeon_v_SO_(cropped).jpg/1920px-MOD_-_Modeon_v_SO_(cropped).jpg
+---
 
 ## Overview
 

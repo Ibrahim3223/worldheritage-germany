@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hamburg_Alte_Oberpostdirektion_008.jpg/400px-Hamburg_Alte_Oberpostdirektion_008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hamburg_Alte_Oberpostdirektion_008.jpg/800px-Hamburg_Alte_Oberpostdirektion_008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hamburg_Alte_Oberpostdirektion_008.jpg/1200px-Hamburg_Alte_Oberpostdirektion_008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hamburg_Alte_Oberpostdirektion_008.jpg/1920px-Hamburg_Alte_Oberpostdirektion_008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hamburg_Alte_Oberpostdirektion_008.jpg/1920px-Hamburg_Alte_Oberpostdirektion_008.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/400px-Rathaus_Velbert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/800px-Rathaus_Velbert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/1200px-Rathaus_Velbert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/1920px-Rathaus_Velbert.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rathaus_Velbert.JPG/1920px-Rathaus_Velbert.JPG
+---
 
 ## Overview
 

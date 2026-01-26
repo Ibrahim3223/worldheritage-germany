@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg/400px-Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg/800px-Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg/1200px-Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg/1920px-Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg/1920px-Naturschutzgebiet_Auenlandschaft_Norderelbe.jpg
+---
 
 ## Overview
 

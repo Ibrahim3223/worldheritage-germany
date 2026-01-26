@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/400px-Kunsthalle-Mainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/800px-Kunsthalle-Mainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/1200px-Kunsthalle-Mainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/1920px-Kunsthalle-Mainz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunsthalle-Mainz.jpg/1920px-Kunsthalle-Mainz.jpg
+---
 
 ## Overview
 

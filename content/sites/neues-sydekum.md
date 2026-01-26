@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/400px-Neues_Sydekum_Hann._Münden_Wehr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/800px-Neues_Sydekum_Hann._Münden_Wehr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/1200px-Neues_Sydekum_Hann._Münden_Wehr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/1920px-Neues_Sydekum_Hann._Münden_Wehr.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Neues_Sydekum_Hann._Münden_Wehr.jpg/1920px-Neues_Sydekum_Hann._Münden_Wehr.jpg
+---
 
 ## Overview
 

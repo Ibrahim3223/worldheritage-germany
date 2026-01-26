@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/400px-Comenius-Garten7.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/800px-Comenius-Garten7.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/1200px-Comenius-Garten7.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/1920px-Comenius-Garten7.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/1920px-Comenius-Garten7.JPG
+---
 
 ## Overview
 

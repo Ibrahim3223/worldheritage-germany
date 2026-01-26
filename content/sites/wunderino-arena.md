@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sparkassen_Arena_Kiel_Suedansicht.JPG/400px-Sparkassen_Arena_Kiel_Suedansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sparkassen_Arena_Kiel_Suedansicht.JPG/800px-Sparkassen_Arena_Kiel_Suedansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sparkassen_Arena_Kiel_Suedansicht.JPG/1200px-Sparkassen_Arena_Kiel_Suedansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sparkassen_Arena_Kiel_Suedansicht.JPG/1920px-Sparkassen_Arena_Kiel_Suedansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sparkassen_Arena_Kiel_Suedansicht.JPG/1920px-Sparkassen_Arena_Kiel_Suedansicht.JPG
+---
 
 ## Overview
 

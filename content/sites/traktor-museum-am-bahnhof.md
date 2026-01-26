@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/400px-Schwarzenbach_Building_2014_xy_9.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/800px-Schwarzenbach_Building_2014_xy_9.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/1200px-Schwarzenbach_Building_2014_xy_9.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/1920px-Schwarzenbach_Building_2014_xy_9.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schwarzenbach_Building_2014_xy_9.JPG/1920px-Schwarzenbach_Building_2014_xy_9.JPG
+---
 
 ## Overview
 

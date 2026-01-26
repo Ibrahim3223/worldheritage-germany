@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/400px-00_3778_Lübeck_-_Holstentor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/800px-00_3778_Lübeck_-_Holstentor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1200px-00_3778_Lübeck_-_Holstentor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1920px-00_3778_Lübeck_-_Holstentor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1920px-00_3778_Lübeck_-_Holstentor.jpg
+---
 
 ## Overview
 

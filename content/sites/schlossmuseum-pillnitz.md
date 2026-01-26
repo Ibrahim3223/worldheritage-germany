@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/400px-Pillnitz-Wasseransicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/800px-Pillnitz-Wasseransicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/1200px-Pillnitz-Wasseransicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/1920px-Pillnitz-Wasseransicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pillnitz-Wasseransicht.jpg/1920px-Pillnitz-Wasseransicht.jpg
+---
 
 ## Overview
 

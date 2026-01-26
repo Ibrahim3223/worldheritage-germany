@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/400px-Kleiner_Hermann_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/800px-Kleiner_Hermann_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/1200px-Kleiner_Hermann_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/1920px-Kleiner_Hermann_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kleiner_Hermann_(cropped).jpg/1920px-Kleiner_Hermann_(cropped).jpg
+---
 
 ## Overview
 

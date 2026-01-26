@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/400px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/800px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/1200px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/1920px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg/1920px-FT_KSTBB_2010_VS_Museum_Bruno_Rottenbach.jpg
+---
 
 ## Overview
 

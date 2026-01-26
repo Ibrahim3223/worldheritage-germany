@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/400px-Alteburg_Schotten_Eingang.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/800px-Alteburg_Schotten_Eingang.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/1200px-Alteburg_Schotten_Eingang.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/1920px-Alteburg_Schotten_Eingang.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alteburg_Schotten_Eingang.png/1920px-Alteburg_Schotten_Eingang.png
+---
 
 ## Overview
 

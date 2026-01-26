@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZM_2006-05-07.JPG/400px-DZM_2006-05-07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZM_2006-05-07.JPG/800px-DZM_2006-05-07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZM_2006-05-07.JPG/1200px-DZM_2006-05-07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZM_2006-05-07.JPG/1920px-DZM_2006-05-07.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZM_2006-05-07.JPG/1920px-DZM_2006-05-07.JPG
+---
 
 ## Overview
 

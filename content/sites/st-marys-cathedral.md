@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hamburg-090613-0203-DSC_8300-Church.jpg/400px-Hamburg-090613-0203-DSC_8300-Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hamburg-090613-0203-DSC_8300-Church.jpg/800px-Hamburg-090613-0203-DSC_8300-Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hamburg-090613-0203-DSC_8300-Church.jpg/1200px-Hamburg-090613-0203-DSC_8300-Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hamburg-090613-0203-DSC_8300-Church.jpg/1920px-Hamburg-090613-0203-DSC_8300-Church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hamburg-090613-0203-DSC_8300-Church.jpg/1920px-Hamburg-090613-0203-DSC_8300-Church.jpg
+---
 
 ## Overview
 

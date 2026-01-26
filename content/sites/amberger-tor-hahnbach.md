@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/400px-Amberger_Tor_in_Hahnbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/800px-Amberger_Tor_in_Hahnbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/1200px-Amberger_Tor_in_Hahnbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/1920px-Amberger_Tor_in_Hahnbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amberger_Tor_in_Hahnbach.jpg/1920px-Amberger_Tor_in_Hahnbach.jpg
+---
 
 ## Overview
 

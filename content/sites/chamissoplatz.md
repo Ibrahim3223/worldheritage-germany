@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/400px-Chamissoplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/800px-Chamissoplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1200px-Chamissoplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1920px-Chamissoplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1920px-Chamissoplatz.jpg
+---
 
 ## Overview
 

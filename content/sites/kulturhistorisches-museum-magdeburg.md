@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/400px-Kulturhistorisches-Museum-Magdeburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/800px-Kulturhistorisches-Museum-Magdeburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/1200px-Kulturhistorisches-Museum-Magdeburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/1920px-Kulturhistorisches-Museum-Magdeburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kulturhistorisches-Museum-Magdeburg.JPG/1920px-Kulturhistorisches-Museum-Magdeburg.JPG
+---
 
 ## Overview
 

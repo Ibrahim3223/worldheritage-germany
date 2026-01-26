@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/400px-Hildesheim_Thega_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/800px-Hildesheim_Thega_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/1200px-Hildesheim_Thega_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/1920px-Hildesheim_Thega_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hildesheim_Thega_(cropped).jpg/1920px-Hildesheim_Thega_(cropped).jpg
+---
 
 ## Overview
 

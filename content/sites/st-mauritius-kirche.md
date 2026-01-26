@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/400px-ChurchHorsten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/800px-ChurchHorsten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/1200px-ChurchHorsten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/1920px-ChurchHorsten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ChurchHorsten.JPG/1920px-ChurchHorsten.JPG
+---
 
 ## Overview
 

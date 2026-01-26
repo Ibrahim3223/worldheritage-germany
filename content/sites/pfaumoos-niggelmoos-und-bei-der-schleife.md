@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/400px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/800px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/1200px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/1920px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg/1920px-NSG-BW-RV_4.121_Pfaumoos-NWL1.jpg
+---
 
 ## Overview
 

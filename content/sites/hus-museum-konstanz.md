@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/400px-Hus_Museum_am_Schnetztor_Konstanz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/800px-Hus_Museum_am_Schnetztor_Konstanz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1200px-Hus_Museum_am_Schnetztor_Konstanz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1920px-Hus_Museum_am_Schnetztor_Konstanz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1920px-Hus_Museum_am_Schnetztor_Konstanz.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/400px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/800px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/1200px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/1920px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg/1920px-Festung_Koenigstein_asv2023-01_img21_Aussicht.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/400px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/800px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/1200px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/1920px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg/1920px-K20_-_Gebäude_der_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf-5635.jpg
+---
 
 ## Overview
 

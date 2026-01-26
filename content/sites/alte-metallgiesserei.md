@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/400px-AlteMetallgiessereiKiel-01a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/800px-AlteMetallgiessereiKiel-01a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1200px-AlteMetallgiessereiKiel-01a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1920px-AlteMetallgiessereiKiel-01a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1920px-AlteMetallgiessereiKiel-01a.jpg
+---
 
 ## Overview
 

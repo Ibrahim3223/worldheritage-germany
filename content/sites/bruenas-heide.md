@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/400px-Brünas_Heide_Heidelandschaft_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/800px-Brünas_Heide_Heidelandschaft_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/1200px-Brünas_Heide_Heidelandschaft_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/1920px-Brünas_Heide_Heidelandschaft_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Brünas_Heide_Heidelandschaft_2.jpg/1920px-Brünas_Heide_Heidelandschaft_2.jpg
+---
 
 ## Overview
 

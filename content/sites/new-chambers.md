@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/400px-Potsdam_neue_kammern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/800px-Potsdam_neue_kammern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/1200px-Potsdam_neue_kammern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/1920px-Potsdam_neue_kammern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potsdam_neue_kammern.jpg/1920px-Potsdam_neue_kammern.jpg
+---
 
 ## Overview
 

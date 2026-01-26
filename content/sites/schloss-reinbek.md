@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/400px-SchlossReinbek2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/800px-SchlossReinbek2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/1200px-SchlossReinbek2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/1920px-SchlossReinbek2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SchlossReinbek2.jpg/1920px-SchlossReinbek2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/400px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/800px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/1200px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/1920px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seepferdchenbrunnen,_Aachen-Burtscheid.jpg/1920px-Seepferdchenbrunnen,_Aachen-Burtscheid.jpg
+---
 
 ## Overview
 

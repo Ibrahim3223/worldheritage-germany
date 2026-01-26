@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/400px-Carl-Duisberg-Gymnasium.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/800px-Carl-Duisberg-Gymnasium.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/1200px-Carl-Duisberg-Gymnasium.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/1920px-Carl-Duisberg-Gymnasium.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carl-Duisberg-Gymnasium.jpg/1920px-Carl-Duisberg-Gymnasium.jpg
+---
 
 ## Overview
 

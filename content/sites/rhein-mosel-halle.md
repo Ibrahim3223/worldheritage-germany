@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/400px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/800px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/1200px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/1920px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rhein-Mosel-Halle_02_Koblenz_2013.jpg/1920px-Rhein-Mosel-Halle_02_Koblenz_2013.jpg
+---
 
 ## Overview
 

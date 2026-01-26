@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/400px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/800px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/1200px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/1920px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg/1920px-Glane,_katholische_Kirche_St._Jakobus_der_Ältere.jpg
+---
 
 ## Overview 
 

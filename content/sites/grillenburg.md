@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/400px-Grillenburg_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/800px-Grillenburg_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/1200px-Grillenburg_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/1920px-Grillenburg_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grillenburg_5.jpg/1920px-Grillenburg_5.jpg
+---
 
 ## Overview
 

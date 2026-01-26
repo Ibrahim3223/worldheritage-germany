@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/400px-Solitude_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/800px-Solitude_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/1200px-Solitude_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/1920px-Solitude_Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solitude_Eingang.jpg/1920px-Solitude_Eingang.jpg
+---
 
 ## Overview
 

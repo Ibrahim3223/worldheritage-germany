@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/400px-Kleiner_Auersberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/800px-Kleiner_Auersberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/1200px-Kleiner_Auersberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/1920px-Kleiner_Auersberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kleiner_Auersberg.JPG/1920px-Kleiner_Auersberg.JPG
+---
 
 ## Overview
 

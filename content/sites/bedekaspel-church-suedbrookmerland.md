@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/400px-ChurchBedekaspel..JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/800px-ChurchBedekaspel..JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1200px-ChurchBedekaspel..JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1920px-ChurchBedekaspel..JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1920px-ChurchBedekaspel..JPG
+---
 
 ## Overview
 

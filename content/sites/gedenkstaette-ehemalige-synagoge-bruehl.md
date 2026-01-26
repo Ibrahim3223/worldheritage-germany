@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/400px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/800px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/1200px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/1920px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG/1920px-Brühl-Gedenkstätte-am-Ort-der-Synagoge.JPG
+---
 
 ## Overview
 

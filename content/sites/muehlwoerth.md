@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/400px-Staffelsee_im_Frühling_-_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/800px-Staffelsee_im_Frühling_-_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/1200px-Staffelsee_im_Frühling_-_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/1920px-Staffelsee_im_Frühling_-_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Staffelsee_im_Frühling_-_Panorama.jpg/1920px-Staffelsee_im_Frühling_-_Panorama.jpg
+---
 
 ## Overview
 

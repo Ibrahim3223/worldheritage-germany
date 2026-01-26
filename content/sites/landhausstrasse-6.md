@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/British_Hotel_fern.jpg/400px-British_Hotel_fern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/British_Hotel_fern.jpg/800px-British_Hotel_fern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/British_Hotel_fern.jpg/1200px-British_Hotel_fern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/British_Hotel_fern.jpg/1920px-British_Hotel_fern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/British_Hotel_fern.jpg/1920px-British_Hotel_fern.jpg
+---
 
 ## Overview
 

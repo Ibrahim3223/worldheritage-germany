@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/400px-Dorfkirche_Volkenshagen_August_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/800px-Dorfkirche_Volkenshagen_August_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1200px-Dorfkirche_Volkenshagen_August_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1920px-Dorfkirche_Volkenshagen_August_2012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1920px-Dorfkirche_Volkenshagen_August_2012.JPG
+---
 
 ## Overview
 

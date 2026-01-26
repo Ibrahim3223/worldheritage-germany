@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/400px-Hasemann-Hütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/800px-Hasemann-Hütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/1200px-Hasemann-Hütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/1920px-Hasemann-Hütte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hasemann-Hütte.jpg/1920px-Hasemann-Hütte.jpg
+---
 
 ## Overview
 

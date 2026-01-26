@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/400px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/800px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/1200px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/1920px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MKr360648_Casino-Gesellschaft_Wiesbaden.jpg/1920px-MKr360648_Casino-Gesellschaft_Wiesbaden.jpg
+---
 
 ## Overview
 

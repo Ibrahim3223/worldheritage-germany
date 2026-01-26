@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/400px-Arena_Trier_1_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/800px-Arena_Trier_1_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/1200px-Arena_Trier_1_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/1920px-Arena_Trier_1_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arena_Trier_1_(cropped).jpg/1920px-Arena_Trier_1_(cropped).jpg
+---
 
 ## Overview
 

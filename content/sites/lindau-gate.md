@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lindauertor.jpg/400px-Lindauertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lindauertor.jpg/800px-Lindauertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lindauertor.jpg/1200px-Lindauertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lindauertor.jpg/1920px-Lindauertor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lindauertor.jpg/1920px-Lindauertor.jpg
+---
 
 ## Overview
 

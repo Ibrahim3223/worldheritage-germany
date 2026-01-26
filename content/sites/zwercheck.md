@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Svaroh_Zwercheck_1333_m.JPG/400px-Svaroh_Zwercheck_1333_m.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Svaroh_Zwercheck_1333_m.JPG/800px-Svaroh_Zwercheck_1333_m.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Svaroh_Zwercheck_1333_m.JPG/1200px-Svaroh_Zwercheck_1333_m.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Svaroh_Zwercheck_1333_m.JPG/1920px-Svaroh_Zwercheck_1333_m.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Svaroh_Zwercheck_1333_m.JPG/1920px-Svaroh_Zwercheck_1333_m.JPG
+---
 
 ## Overview
 

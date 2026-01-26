@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/400px-Allgäubahn03-2008_mod_timm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/800px-Allgäubahn03-2008_mod_timm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/1200px-Allgäubahn03-2008_mod_timm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/1920px-Allgäubahn03-2008_mod_timm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Allgäubahn03-2008_mod_timm.jpg/1920px-Allgäubahn03-2008_mod_timm.jpg
+---
 
 ## Overview
 

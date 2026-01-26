@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/400px-Pano_bonaflug.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/800px-Pano_bonaflug.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/1200px-Pano_bonaflug.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/1920px-Pano_bonaflug.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pano_bonaflug.jpg/1920px-Pano_bonaflug.jpg
+---
 
 ## Overview
 

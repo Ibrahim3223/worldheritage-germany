@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ostberg_von_Seedorf.JPG/400px-Ostberg_von_Seedorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ostberg_von_Seedorf.JPG/800px-Ostberg_von_Seedorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ostberg_von_Seedorf.JPG/1200px-Ostberg_von_Seedorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ostberg_von_Seedorf.JPG/1920px-Ostberg_von_Seedorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ostberg_von_Seedorf.JPG/1920px-Ostberg_von_Seedorf.JPG
+---
 
 ## Overview
 

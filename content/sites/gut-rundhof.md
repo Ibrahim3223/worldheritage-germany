@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/400px-Herrenhaus_Rundhof_(cropped).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/800px-Herrenhaus_Rundhof_(cropped).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/1200px-Herrenhaus_Rundhof_(cropped).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/1920px-Herrenhaus_Rundhof_(cropped).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/1920px-Herrenhaus_Rundhof_(cropped).JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/400px-Freitor_an_der_Zingster_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/800px-Freitor_an_der_Zingster_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/1200px-Freitor_an_der_Zingster_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/1920px-Freitor_an_der_Zingster_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Freitor_an_der_Zingster_Kirche.jpg/1920px-Freitor_an_der_Zingster_Kirche.jpg
+---
 
 ## Overview
 

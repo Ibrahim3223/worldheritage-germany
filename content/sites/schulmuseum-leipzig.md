@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schulmuseum_Leipzig.jpg/400px-Schulmuseum_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schulmuseum_Leipzig.jpg/800px-Schulmuseum_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schulmuseum_Leipzig.jpg/1200px-Schulmuseum_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schulmuseum_Leipzig.jpg/1920px-Schulmuseum_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schulmuseum_Leipzig.jpg/1920px-Schulmuseum_Leipzig.jpg
+---
 
 ## Overview
 

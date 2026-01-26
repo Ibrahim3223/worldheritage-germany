@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Holocaust_Mahnmal_Mannheim.jpg/400px-Holocaust_Mahnmal_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Holocaust_Mahnmal_Mannheim.jpg/800px-Holocaust_Mahnmal_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Holocaust_Mahnmal_Mannheim.jpg/1200px-Holocaust_Mahnmal_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Holocaust_Mahnmal_Mannheim.jpg/1920px-Holocaust_Mahnmal_Mannheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Holocaust_Mahnmal_Mannheim.jpg/1920px-Holocaust_Mahnmal_Mannheim.jpg
+---
 
 ## Overview
 

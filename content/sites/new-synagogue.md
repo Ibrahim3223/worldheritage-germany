@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/400px-Eppingen-neue-synagoge-1896.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/800px-Eppingen-neue-synagoge-1896.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1200px-Eppingen-neue-synagoge-1896.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1920px-Eppingen-neue-synagoge-1896.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1920px-Eppingen-neue-synagoge-1896.jpg
+---
 
 ## Overview
 

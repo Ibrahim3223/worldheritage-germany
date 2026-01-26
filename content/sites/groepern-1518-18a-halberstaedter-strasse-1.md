@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/400px-Gröpern_15-18a_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/800px-Gröpern_15-18a_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/1200px-Gröpern_15-18a_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/1920px-Gröpern_15-18a_(Quedlinburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gröpern_15-18a_(Quedlinburg).JPG/1920px-Gröpern_15-18a_(Quedlinburg).JPG
+---
 
 ## Overview
 

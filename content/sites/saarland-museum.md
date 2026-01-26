@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2017ModerneGalerieVierterPavillon.jpg/400px-2017ModerneGalerieVierterPavillon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2017ModerneGalerieVierterPavillon.jpg/800px-2017ModerneGalerieVierterPavillon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2017ModerneGalerieVierterPavillon.jpg/1200px-2017ModerneGalerieVierterPavillon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2017ModerneGalerieVierterPavillon.jpg/1920px-2017ModerneGalerieVierterPavillon.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2017ModerneGalerieVierterPavillon.jpg/1920px-2017ModerneGalerieVierterPavillon.jpg
+---
 
 ## Overview
 

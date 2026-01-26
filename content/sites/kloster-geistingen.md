@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/400px-Hennef_Geistingen,_Klosterstr._4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/800px-Hennef_Geistingen,_Klosterstr._4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/1200px-Hennef_Geistingen,_Klosterstr._4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/1920px-Hennef_Geistingen,_Klosterstr._4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hennef_Geistingen,_Klosterstr._4.JPG/1920px-Hennef_Geistingen,_Klosterstr._4.JPG
+---
 
 ## Overview
 

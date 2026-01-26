@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/400px-Fernmeldeturm_Hohe_Mark_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/800px-Fernmeldeturm_Hohe_Mark_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/1200px-Fernmeldeturm_Hohe_Mark_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/1920px-Fernmeldeturm_Hohe_Mark_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fernmeldeturm_Hohe_Mark_01.JPG/1920px-Fernmeldeturm_Hohe_Mark_01.JPG
+---
 
 ## Overview
 

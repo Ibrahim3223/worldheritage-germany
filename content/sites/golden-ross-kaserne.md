@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/400px-BD-Landesmuseum-20130504-IMG_1609.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/800px-BD-Landesmuseum-20130504-IMG_1609.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1200px-BD-Landesmuseum-20130504-IMG_1609.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1920px-BD-Landesmuseum-20130504-IMG_1609.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1920px-BD-Landesmuseum-20130504-IMG_1609.jpg
+---
 
 ## Overview
 

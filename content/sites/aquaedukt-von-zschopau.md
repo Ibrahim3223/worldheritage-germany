@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/400px-Aquädukt_von_Zschopau_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/800px-Aquädukt_von_Zschopau_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/1200px-Aquädukt_von_Zschopau_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/1920px-Aquädukt_von_Zschopau_Westseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aquädukt_von_Zschopau_Westseite.jpg/1920px-Aquädukt_von_Zschopau_Westseite.jpg
+---
 
 ## Overview
 

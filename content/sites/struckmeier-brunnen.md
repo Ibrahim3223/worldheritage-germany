@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/400px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/800px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/1200px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/1920px-Struckmeier_Brunnen_Hannover_Südstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Struckmeier_Brunnen_Hannover_Südstadt.jpg/1920px-Struckmeier_Brunnen_Hannover_Südstadt.jpg
+---
 
 ## Overview 
 

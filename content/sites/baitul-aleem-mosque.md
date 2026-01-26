@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/400px-Baitul_Aleem_Mosque,_Wurzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/800px-Baitul_Aleem_Mosque,_Wurzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/1200px-Baitul_Aleem_Mosque,_Wurzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/1920px-Baitul_Aleem_Mosque,_Wurzburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Baitul_Aleem_Mosque,_Wurzburg.jpg/1920px-Baitul_Aleem_Mosque,_Wurzburg.jpg
+---
 
 ## Overview
 

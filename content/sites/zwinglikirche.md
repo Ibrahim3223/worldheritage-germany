@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zwinglikirche_Berlin.jpg/400px-Zwinglikirche_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zwinglikirche_Berlin.jpg/800px-Zwinglikirche_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zwinglikirche_Berlin.jpg/1200px-Zwinglikirche_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zwinglikirche_Berlin.jpg/1920px-Zwinglikirche_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zwinglikirche_Berlin.jpg/1920px-Zwinglikirche_Berlin.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/400px-Berlin-Kulturbrauerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/800px-Berlin-Kulturbrauerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/1200px-Berlin-Kulturbrauerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/1920px-Berlin-Kulturbrauerei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Berlin-Kulturbrauerei.jpg/1920px-Berlin-Kulturbrauerei.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/400px-Korb-Moeckmuehl-Kirchblick.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/800px-Korb-Moeckmuehl-Kirchblick.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/1200px-Korb-Moeckmuehl-Kirchblick.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/1920px-Korb-Moeckmuehl-Kirchblick.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Korb-Moeckmuehl-Kirchblick.JPG/1920px-Korb-Moeckmuehl-Kirchblick.JPG
+---
 
 ## Overview
 

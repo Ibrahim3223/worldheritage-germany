@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/400px-Gefängnis_Hameln_um_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/800px-Gefängnis_Hameln_um_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1200px-Gefängnis_Hameln_um_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1920px-Gefängnis_Hameln_um_1900.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1920px-Gefängnis_Hameln_um_1900.jpg
+---
 
 ## Overview
 

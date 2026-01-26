@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/400px-Muebischweilerrgareal072019c89.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/800px-Muebischweilerrgareal072019c89.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1200px-Muebischweilerrgareal072019c89.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1920px-Muebischweilerrgareal072019c89.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1920px-Muebischweilerrgareal072019c89.jpg
+---
 
 ## Overview
 

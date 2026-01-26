@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neanderthal_Valley_3.jpg/400px-Neanderthal_Valley_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neanderthal_Valley_3.jpg/800px-Neanderthal_Valley_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neanderthal_Valley_3.jpg/1200px-Neanderthal_Valley_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neanderthal_Valley_3.jpg/1920px-Neanderthal_Valley_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neanderthal_Valley_3.jpg/1920px-Neanderthal_Valley_3.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/400px-Autobahnkapelle_Leutkirch_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/800px-Autobahnkapelle_Leutkirch_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/1200px-Autobahnkapelle_Leutkirch_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/1920px-Autobahnkapelle_Leutkirch_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Autobahnkapelle_Leutkirch_03.jpg/1920px-Autobahnkapelle_Leutkirch_03.jpg
+---
 
 ## Overview
 

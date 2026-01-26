@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Luisenstädterfriedhofberlin_-_14.jpeg/400px-Luisenstädterfriedhofberlin_-_14.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Luisenstädterfriedhofberlin_-_14.jpeg/800px-Luisenstädterfriedhofberlin_-_14.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Luisenstädterfriedhofberlin_-_14.jpeg/1200px-Luisenstädterfriedhofberlin_-_14.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Luisenstädterfriedhofberlin_-_14.jpeg/1920px-Luisenstädterfriedhofberlin_-_14.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Luisenstädterfriedhofberlin_-_14.jpeg/1920px-Luisenstädterfriedhofberlin_-_14.jpeg
+---
 
 ## Overview
 

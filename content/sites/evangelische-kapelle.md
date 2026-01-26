@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/087_ev_Kapelle_Dotzlar.jpg/400px-087_ev_Kapelle_Dotzlar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/087_ev_Kapelle_Dotzlar.jpg/800px-087_ev_Kapelle_Dotzlar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/087_ev_Kapelle_Dotzlar.jpg/1200px-087_ev_Kapelle_Dotzlar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/087_ev_Kapelle_Dotzlar.jpg/1920px-087_ev_Kapelle_Dotzlar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/087_ev_Kapelle_Dotzlar.jpg/1920px-087_ev_Kapelle_Dotzlar.jpg
+---
 
 ## Overview
 

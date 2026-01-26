@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mainz_Deutschhaus_img01.jpg/400px-Mainz_Deutschhaus_img01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mainz_Deutschhaus_img01.jpg/800px-Mainz_Deutschhaus_img01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mainz_Deutschhaus_img01.jpg/1200px-Mainz_Deutschhaus_img01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mainz_Deutschhaus_img01.jpg/1920px-Mainz_Deutschhaus_img01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mainz_Deutschhaus_img01.jpg/1920px-Mainz_Deutschhaus_img01.jpg
+---
 
 ## Overview
 

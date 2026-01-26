@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhofsgebäude_Marktredwitz.JPG/400px-Bahnhofsgebäude_Marktredwitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhofsgebäude_Marktredwitz.JPG/800px-Bahnhofsgebäude_Marktredwitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhofsgebäude_Marktredwitz.JPG/1200px-Bahnhofsgebäude_Marktredwitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhofsgebäude_Marktredwitz.JPG/1920px-Bahnhofsgebäude_Marktredwitz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhofsgebäude_Marktredwitz.JPG/1920px-Bahnhofsgebäude_Marktredwitz.JPG
+---
 
 ## Overview
 

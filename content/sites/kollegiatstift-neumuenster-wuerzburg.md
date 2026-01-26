@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/400px-Neumünster_Würzburg_facade_-_DSC02776.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/800px-Neumünster_Würzburg_facade_-_DSC02776.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/1200px-Neumünster_Würzburg_facade_-_DSC02776.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/1920px-Neumünster_Würzburg_facade_-_DSC02776.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neumünster_Würzburg_facade_-_DSC02776.JPG/1920px-Neumünster_Würzburg_facade_-_DSC02776.JPG
+---
 
 ## Overview
 

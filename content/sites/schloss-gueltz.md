@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/400px-Gueltz_Herrenhaus_Westseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/800px-Gueltz_Herrenhaus_Westseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/1200px-Gueltz_Herrenhaus_Westseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/1920px-Gueltz_Herrenhaus_Westseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gueltz_Herrenhaus_Westseite.JPG/1920px-Gueltz_Herrenhaus_Westseite.JPG
+---
 
 ## Overview
 

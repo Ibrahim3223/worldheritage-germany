@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/400px-Roggenstorf_Kirche_2012-03-15_057.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/800px-Roggenstorf_Kirche_2012-03-15_057.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1200px-Roggenstorf_Kirche_2012-03-15_057.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1920px-Roggenstorf_Kirche_2012-03-15_057.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1920px-Roggenstorf_Kirche_2012-03-15_057.JPG
+---
 
 ## Overview
 

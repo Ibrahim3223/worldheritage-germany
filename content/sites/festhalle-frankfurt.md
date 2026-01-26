@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/400px-Festhalle-ffm005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/800px-Festhalle-ffm005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1200px-Festhalle-ffm005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1920px-Festhalle-ffm005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1920px-Festhalle-ffm005.jpg
+---
 
 ## Overview
 

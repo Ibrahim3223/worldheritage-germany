@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ludwigshafen_Lutherkirche_20100918.jpg/400px-Ludwigshafen_Lutherkirche_20100918.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ludwigshafen_Lutherkirche_20100918.jpg/800px-Ludwigshafen_Lutherkirche_20100918.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ludwigshafen_Lutherkirche_20100918.jpg/1200px-Ludwigshafen_Lutherkirche_20100918.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ludwigshafen_Lutherkirche_20100918.jpg/1920px-Ludwigshafen_Lutherkirche_20100918.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ludwigshafen_Lutherkirche_20100918.jpg/1920px-Ludwigshafen_Lutherkirche_20100918.jpg
+---
 
 ## Overview
 

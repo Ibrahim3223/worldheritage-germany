@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wredowsche_zeichenschule_und_jakobskapelle.jpg/400px-Wredowsche_zeichenschule_und_jakobskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wredowsche_zeichenschule_und_jakobskapelle.jpg/800px-Wredowsche_zeichenschule_und_jakobskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wredowsche_zeichenschule_und_jakobskapelle.jpg/1200px-Wredowsche_zeichenschule_und_jakobskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wredowsche_zeichenschule_und_jakobskapelle.jpg/1920px-Wredowsche_zeichenschule_und_jakobskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wredowsche_zeichenschule_und_jakobskapelle.jpg/1920px-Wredowsche_zeichenschule_und_jakobskapelle.jpg
+---
 
 ## Overview
 

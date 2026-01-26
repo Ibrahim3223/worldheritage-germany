@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Achteckenhaus,_Potsdam.jpg/400px-Achteckenhaus,_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Achteckenhaus,_Potsdam.jpg/800px-Achteckenhaus,_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Achteckenhaus,_Potsdam.jpg/1200px-Achteckenhaus,_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Achteckenhaus,_Potsdam.jpg/1920px-Achteckenhaus,_Potsdam.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Achteckenhaus,_Potsdam.jpg/1920px-Achteckenhaus,_Potsdam.jpg
+---
 
 ## Overview
 

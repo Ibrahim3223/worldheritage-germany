@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/400px-St._Rupert_(Freilassing).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/800px-St._Rupert_(Freilassing).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/1200px-St._Rupert_(Freilassing).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/1920px-St._Rupert_(Freilassing).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Rupert_(Freilassing).jpg/1920px-St._Rupert_(Freilassing).jpg
+---
 
 ## Overview
 

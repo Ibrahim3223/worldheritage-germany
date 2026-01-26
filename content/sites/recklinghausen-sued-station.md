@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/400px-Bahnhof_Recklinghausen_Süd.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/800px-Bahnhof_Recklinghausen_Süd.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/1200px-Bahnhof_Recklinghausen_Süd.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/1920px-Bahnhof_Recklinghausen_Süd.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Recklinghausen_Süd.jpg/1920px-Bahnhof_Recklinghausen_Süd.jpg
+---
 
 ## Overview
 

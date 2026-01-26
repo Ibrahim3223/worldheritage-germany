@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/400px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/800px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1200px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1920px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg/1920px-Kamen_Kirche_Heilige_Familie_IMGP0949_wp.jpg
+---
 
 ## Overview
 

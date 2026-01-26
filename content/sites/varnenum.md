@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/400px-KornelimuensterVarnenum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/800px-KornelimuensterVarnenum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/1200px-KornelimuensterVarnenum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/1920px-KornelimuensterVarnenum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KornelimuensterVarnenum.jpg/1920px-KornelimuensterVarnenum.jpg
+---
 
 ## Overview
 

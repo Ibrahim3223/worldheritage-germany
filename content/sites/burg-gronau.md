@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/400px-Gronau_Aufriss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/800px-Gronau_Aufriss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1200px-Gronau_Aufriss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1920px-Gronau_Aufriss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1920px-Gronau_Aufriss.jpg
+---
 
 ## Overview
 

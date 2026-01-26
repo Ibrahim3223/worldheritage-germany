@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Markuskirche.Steglitz.jpg/400px-Markuskirche.Steglitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Markuskirche.Steglitz.jpg/800px-Markuskirche.Steglitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Markuskirche.Steglitz.jpg/1200px-Markuskirche.Steglitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Markuskirche.Steglitz.jpg/1920px-Markuskirche.Steglitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Markuskirche.Steglitz.jpg/1920px-Markuskirche.Steglitz.jpg
+---
 
 ## Overview
 

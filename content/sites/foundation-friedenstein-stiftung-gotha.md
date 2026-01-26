@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/400px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/800px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/1200px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/1920px-GLAM_Gotha_Friedenstein_Universum-7239.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GLAM_Gotha_Friedenstein_Universum-7239.jpg/1920px-GLAM_Gotha_Friedenstein_Universum-7239.jpg
+---
 
 ## Overview
 

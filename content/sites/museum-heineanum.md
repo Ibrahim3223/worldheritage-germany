@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/400px-20240507_xl_1035-Museum_Heineanum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/800px-20240507_xl_1035-Museum_Heineanum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/1200px-20240507_xl_1035-Museum_Heineanum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/1920px-20240507_xl_1035-Museum_Heineanum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/20240507_xl_1035-Museum_Heineanum.jpg/1920px-20240507_xl_1035-Museum_Heineanum.jpg
+---
 
 ## Overview
 

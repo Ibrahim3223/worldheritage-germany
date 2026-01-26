@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/400px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/800px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/1200px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/1920px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg/1920px-Hochheimer-bruecke-2010-kostheim-gustavsburg-033.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/400px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/800px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/1200px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/1920px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg/1920px-Library_Universitaet_Hannover_TIB_Am_Welfengarten_Nordstadt_Hannover_Germany_01.jpg
+---
 
 ## Overview
 

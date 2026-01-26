@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/400px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/800px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/1200px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/1920px-ZigarrenfabrikmuseumRoedersheimGronau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/ZigarrenfabrikmuseumRoedersheimGronau.JPG/1920px-ZigarrenfabrikmuseumRoedersheimGronau.JPG
+---
 
 ## Overview
 

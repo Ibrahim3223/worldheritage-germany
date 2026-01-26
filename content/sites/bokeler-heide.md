@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/400px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/800px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/1200px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/1920px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg/1920px-2017-02-06_Montag_06_Februar_2017_14-47_Bokeler_Heide-04049.jpg
+---
 
 ## Overview
 

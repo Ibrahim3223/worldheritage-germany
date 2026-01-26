@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/400px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/800px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/1200px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/1920px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg/1920px-Kiel,_das_Stadtmuseum_(Warleberger_Hof).jpg
+---
 
 ## Overview
 

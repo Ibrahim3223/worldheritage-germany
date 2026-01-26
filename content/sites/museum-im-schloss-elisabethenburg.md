@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/400px-Meiningen_Elisabethenburg_2012_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/800px-Meiningen_Elisabethenburg_2012_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/1200px-Meiningen_Elisabethenburg_2012_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/1920px-Meiningen_Elisabethenburg_2012_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Meiningen_Elisabethenburg_2012_1.jpg/1920px-Meiningen_Elisabethenburg_2012_1.jpg
+---
 
 ## Overview
 

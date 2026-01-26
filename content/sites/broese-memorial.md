@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/400px-Broesedenkmal_Brandenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/800px-Broesedenkmal_Brandenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/1200px-Broesedenkmal_Brandenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/1920px-Broesedenkmal_Brandenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Broesedenkmal_Brandenburg.jpg/1920px-Broesedenkmal_Brandenburg.jpg
+---
 
 ## Overview
 

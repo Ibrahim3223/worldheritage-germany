@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/400px-Sackmuseum_Nieheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/800px-Sackmuseum_Nieheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/1200px-Sackmuseum_Nieheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/1920px-Sackmuseum_Nieheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sackmuseum_Nieheim.JPG/1920px-Sackmuseum_Nieheim.JPG
+---
 
 ## Overview
 

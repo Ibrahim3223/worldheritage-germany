@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/400px-Olfen_St._Vitus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/800px-Olfen_St._Vitus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/1200px-Olfen_St._Vitus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/1920px-Olfen_St._Vitus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Olfen_St._Vitus.jpg/1920px-Olfen_St._Vitus.jpg
+---
 
 ## Overview
 

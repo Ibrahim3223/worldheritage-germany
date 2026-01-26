@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/400px-Hohenkarpfen_20.09.2005_15-30-17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/800px-Hohenkarpfen_20.09.2005_15-30-17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/1200px-Hohenkarpfen_20.09.2005_15-30-17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/1920px-Hohenkarpfen_20.09.2005_15-30-17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hohenkarpfen_20.09.2005_15-30-17.jpg/1920px-Hohenkarpfen_20.09.2005_15-30-17.jpg
+---
 
 ## Overview
 

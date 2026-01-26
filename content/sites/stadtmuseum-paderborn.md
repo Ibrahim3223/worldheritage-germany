@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/400px-Städtische_Galerie_Am_Abdinghof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/800px-Städtische_Galerie_Am_Abdinghof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/1200px-Städtische_Galerie_Am_Abdinghof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/1920px-Städtische_Galerie_Am_Abdinghof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Städtische_Galerie_Am_Abdinghof.jpg/1920px-Städtische_Galerie_Am_Abdinghof.jpg
+---
 
 ## Overview
 

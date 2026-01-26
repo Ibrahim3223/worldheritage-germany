@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/400px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/800px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/1200px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/1920px-Lichtenhainer_Wasserfall_im_Versiegen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lichtenhainer_Wasserfall_im_Versiegen.JPG/1920px-Lichtenhainer_Wasserfall_im_Versiegen.JPG
+---
 
 ## Overview
 

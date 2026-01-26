@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/400px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/800px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/1200px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/1920px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg/1920px-Dülmen,_Lorenkenturm_(Nordring)_--_2012_--_7969.jpg
+---
 
 ## Overview
 

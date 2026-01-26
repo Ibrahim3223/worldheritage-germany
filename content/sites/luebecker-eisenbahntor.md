@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/400px-WP_Eisenbahntor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/800px-WP_Eisenbahntor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/1200px-WP_Eisenbahntor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/1920px-WP_Eisenbahntor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WP_Eisenbahntor.jpg/1920px-WP_Eisenbahntor.jpg
+---
 
 ## Overview
 

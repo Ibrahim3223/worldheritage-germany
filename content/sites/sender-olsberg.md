@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Olsberg_Germany_Radio_Tower.jpg/400px-Olsberg_Germany_Radio_Tower.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Olsberg_Germany_Radio_Tower.jpg/800px-Olsberg_Germany_Radio_Tower.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Olsberg_Germany_Radio_Tower.jpg/1200px-Olsberg_Germany_Radio_Tower.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Olsberg_Germany_Radio_Tower.jpg/1920px-Olsberg_Germany_Radio_Tower.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Olsberg_Germany_Radio_Tower.jpg/1920px-Olsberg_Germany_Radio_Tower.jpg
+---
 
 ## Overview
 

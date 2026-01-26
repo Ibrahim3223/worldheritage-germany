@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Riedbergpass.jpg/400px-Riedbergpass.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Riedbergpass.jpg/800px-Riedbergpass.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Riedbergpass.jpg/1200px-Riedbergpass.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Riedbergpass.jpg/1920px-Riedbergpass.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Riedbergpass.jpg/1920px-Riedbergpass.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/400px-Fulda-abt2.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/800px-Fulda-abt2.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1200px-Fulda-abt2.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1920px-Fulda-abt2.PNG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1920px-Fulda-abt2.PNG
+---
 
 ## Overview
 

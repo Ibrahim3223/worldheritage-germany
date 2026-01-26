@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/400px-Meiningen-Bahnhof2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/800px-Meiningen-Bahnhof2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/1200px-Meiningen-Bahnhof2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/1920px-Meiningen-Bahnhof2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Meiningen-Bahnhof2.jpg/1920px-Meiningen-Bahnhof2.jpg
+---
 
 ## Overview
 

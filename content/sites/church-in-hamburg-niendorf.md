@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/400px-Niendoerp_-_Marktkark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/800px-Niendoerp_-_Marktkark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/1200px-Niendoerp_-_Marktkark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/1920px-Niendoerp_-_Marktkark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/1920px-Niendoerp_-_Marktkark.jpg
+---
 
 ## Overview
 

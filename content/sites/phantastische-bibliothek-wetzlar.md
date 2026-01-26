@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/400px-Phantastische_Bibliothek_Wetzlar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/800px-Phantastische_Bibliothek_Wetzlar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/1200px-Phantastische_Bibliothek_Wetzlar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/1920px-Phantastische_Bibliothek_Wetzlar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Phantastische_Bibliothek_Wetzlar.jpg/1920px-Phantastische_Bibliothek_Wetzlar.jpg
+---
 
 ## Overview
 

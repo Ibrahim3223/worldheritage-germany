@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/400px-Kesselberg_Bavaria_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/800px-Kesselberg_Bavaria_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/1200px-Kesselberg_Bavaria_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/1920px-Kesselberg_Bavaria_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kesselberg_Bavaria_1.jpg/1920px-Kesselberg_Bavaria_1.jpg
+---
 
 ## Overview
 

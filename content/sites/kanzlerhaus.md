@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/400px-Haus_Vredeman_de_Vries.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/800px-Haus_Vredeman_de_Vries.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/1200px-Haus_Vredeman_de_Vries.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/1920px-Haus_Vredeman_de_Vries.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Haus_Vredeman_de_Vries.jpg/1920px-Haus_Vredeman_de_Vries.jpg
+---
 
 ## Overview
 

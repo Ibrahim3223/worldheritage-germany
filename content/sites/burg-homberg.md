@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/400px-Homberg_castle_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/800px-Homberg_castle_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/1200px-Homberg_castle_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/1920px-Homberg_castle_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Homberg_castle_1.jpg/1920px-Homberg_castle_1.jpg
+---
 
 ## Overview
 

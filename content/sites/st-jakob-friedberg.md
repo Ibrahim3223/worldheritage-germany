@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/400px-St._Jakob_Friedberg_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/800px-St._Jakob_Friedberg_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/1200px-St._Jakob_Friedberg_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/1920px-St._Jakob_Friedberg_Turm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/St._Jakob_Friedberg_Turm.JPG/1920px-St._Jakob_Friedberg_Turm.JPG
+---
 
 ## Overview
 

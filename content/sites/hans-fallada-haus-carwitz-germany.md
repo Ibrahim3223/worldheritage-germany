@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/400px-Fallada-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/800px-Fallada-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/1200px-Fallada-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/1920px-Fallada-Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fallada-Haus.jpg/1920px-Fallada-Haus.jpg
+---
 
 ## Overview
 

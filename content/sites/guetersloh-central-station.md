@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/400px-Bahnhofsportal-guetersloh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/800px-Bahnhofsportal-guetersloh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/1200px-Bahnhofsportal-guetersloh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/1920px-Bahnhofsportal-guetersloh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bahnhofsportal-guetersloh.jpg/1920px-Bahnhofsportal-guetersloh.jpg
+---
 
 ## Overview
 

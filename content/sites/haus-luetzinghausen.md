@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/400px-Lützinghausen_Burg_Winter_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/800px-Lützinghausen_Burg_Winter_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/1200px-Lützinghausen_Burg_Winter_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/1920px-Lützinghausen_Burg_Winter_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lützinghausen_Burg_Winter_2.jpg/1920px-Lützinghausen_Burg_Winter_2.jpg
+---
 
 ## Overview
 

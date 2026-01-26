@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/400px-FunkturmCB.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/800px-FunkturmCB.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/1200px-FunkturmCB.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/1920px-FunkturmCB.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/FunkturmCB.JPG/1920px-FunkturmCB.JPG
+---
 
 ## Overview
 

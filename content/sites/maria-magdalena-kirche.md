@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/400px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/800px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1200px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1920px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vilmnitz,_Kirche_(2011-05-21)_2.JPG/1920px-Vilmnitz,_Kirche_(2011-05-21)_2.JPG
+---
 
 ## Overview
 

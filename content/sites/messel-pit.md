@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MesselFossilPit081310.JPG/400px-MesselFossilPit081310.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MesselFossilPit081310.JPG/800px-MesselFossilPit081310.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MesselFossilPit081310.JPG/1200px-MesselFossilPit081310.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MesselFossilPit081310.JPG/1920px-MesselFossilPit081310.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MesselFossilPit081310.JPG/1920px-MesselFossilPit081310.JPG
+---
 
 ## Overview
 

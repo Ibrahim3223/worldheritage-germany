@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/400px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/800px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/1200px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/1920px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg/1920px-Naturschutzgebiet_Bansee_bei_Hademstorf_HHH_17.jpg
+---
 
 ## Overview
 

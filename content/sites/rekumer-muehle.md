@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/400px-Rekum_Windmühle_(retuschiert).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/800px-Rekum_Windmühle_(retuschiert).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/1200px-Rekum_Windmühle_(retuschiert).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/1920px-Rekum_Windmühle_(retuschiert).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rekum_Windmühle_(retuschiert).jpg/1920px-Rekum_Windmühle_(retuschiert).jpg
+---
 
 ## Overview
 

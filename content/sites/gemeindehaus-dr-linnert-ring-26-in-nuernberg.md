@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg/400px-D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg/800px-D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg/1200px-D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg/1920px-D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg/1920px-D-5-64-000-2461_Dr.-Linnert-Ring_26_Nürnberg_20241221_0003.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/400px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/800px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/1200px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/1920px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg/1920px-Anbetungskirche_in_Duesseldorf-Hassels,_von_Norden.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/400px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/800px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/1200px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/1920px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg/1920px-Bewaldete_Binnenduebe_bei_Noer_Graudüne.jpg
+---
 
 ## Overview
 

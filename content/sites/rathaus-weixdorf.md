@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/400px-Weixdorf_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/800px-Weixdorf_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/1200px-Weixdorf_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/1920px-Weixdorf_Rathaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Weixdorf_Rathaus.JPG/1920px-Weixdorf_Rathaus.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/400px-Gutskirche_Welle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/800px-Gutskirche_Welle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/1200px-Gutskirche_Welle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/1920px-Gutskirche_Welle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gutskirche_Welle.JPG/1920px-Gutskirche_Welle.JPG
+---
 
 ## Overview
 

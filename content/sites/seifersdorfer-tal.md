@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/400px-Seifersdorfer_Tal_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/800px-Seifersdorfer_Tal_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/1200px-Seifersdorfer_Tal_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/1920px-Seifersdorfer_Tal_30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Seifersdorfer_Tal_30.jpg/1920px-Seifersdorfer_Tal_30.jpg
+---
 
 ## Overview
 

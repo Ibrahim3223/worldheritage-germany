@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/400px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/800px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/1200px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/1920px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg/1920px-Pariser_Platz_(Berlin-Mitte)_msu-1602-.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/400px-Mimbach_Christuskirche_2013-06-15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/800px-Mimbach_Christuskirche_2013-06-15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1200px-Mimbach_Christuskirche_2013-06-15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1920px-Mimbach_Christuskirche_2013-06-15.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1920px-Mimbach_Christuskirche_2013-06-15.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/400px-Dülmen_Haus_Merfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/800px-Dülmen_Haus_Merfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/1200px-Dülmen_Haus_Merfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/1920px-Dülmen_Haus_Merfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dülmen_Haus_Merfeld.jpg/1920px-Dülmen_Haus_Merfeld.jpg
+---
 
 ## Overview
 

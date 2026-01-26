@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/400px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/800px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1200px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1920px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1920px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
+---
 
 ## Overview
 

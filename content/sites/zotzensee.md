@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/400px-Zotzensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/800px-Zotzensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/1200px-Zotzensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/1920px-Zotzensee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zotzensee.jpg/1920px-Zotzensee.jpg
+---
 
 ## Overview
 

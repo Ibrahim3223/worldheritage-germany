@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/400px-Augsburg,_Donauwörther_Straße_165_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/800px-Augsburg,_Donauwörther_Straße_165_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/1200px-Augsburg,_Donauwörther_Straße_165_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/1920px-Augsburg,_Donauwörther_Straße_165_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Augsburg,_Donauwörther_Straße_165_(1).jpg/1920px-Augsburg,_Donauwörther_Straße_165_(1).jpg
+---
 
 ## Overview
 

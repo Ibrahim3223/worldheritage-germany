@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/400px-Bahnhof_Geislingen_Steige_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/800px-Bahnhof_Geislingen_Steige_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/1200px-Bahnhof_Geislingen_Steige_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/1920px-Bahnhof_Geislingen_Steige_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bahnhof_Geislingen_Steige_2011.jpg/1920px-Bahnhof_Geislingen_Steige_2011.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/400px-Rauenberg_Katholische_Kirche_20070327.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/800px-Rauenberg_Katholische_Kirche_20070327.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/1200px-Rauenberg_Katholische_Kirche_20070327.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/1920px-Rauenberg_Katholische_Kirche_20070327.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rauenberg_Katholische_Kirche_20070327.jpg/1920px-Rauenberg_Katholische_Kirche_20070327.jpg
+---
 
 ## Overview
 

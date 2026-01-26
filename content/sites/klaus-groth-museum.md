@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/400px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/800px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/1200px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/1920px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg/1920px-Museumsinsel_Lüttenheid_-_Klaus_Groth_Museum.jpg
+---
 
 ## Overview
 

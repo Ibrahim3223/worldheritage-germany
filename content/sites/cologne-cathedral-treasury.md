@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/400px-Koeln_domschatzkammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/800px-Koeln_domschatzkammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1200px-Koeln_domschatzkammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1920px-Koeln_domschatzkammer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1920px-Koeln_domschatzkammer.jpg
+---
 
 ## Overview
 

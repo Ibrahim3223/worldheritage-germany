@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/400px-Bötzow-Brauerei_1900.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/800px-Bötzow-Brauerei_1900.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/1200px-Bötzow-Brauerei_1900.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/1920px-Bötzow-Brauerei_1900.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bötzow-Brauerei_1900.jpg/1920px-Bötzow-Brauerei_1900.jpg
+---
 
 ## Overview
 

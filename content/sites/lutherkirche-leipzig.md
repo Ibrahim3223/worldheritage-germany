@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/400px-Lutherkirche_Leipzig_tone_mapping.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/800px-Lutherkirche_Leipzig_tone_mapping.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/1200px-Lutherkirche_Leipzig_tone_mapping.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/1920px-Lutherkirche_Leipzig_tone_mapping.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lutherkirche_Leipzig_tone_mapping.jpg/1920px-Lutherkirche_Leipzig_tone_mapping.jpg
+---
 
 ## Overview
 

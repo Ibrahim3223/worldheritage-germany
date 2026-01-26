@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/400px-Sommerpalais_Greiz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/800px-Sommerpalais_Greiz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/1200px-Sommerpalais_Greiz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/1920px-Sommerpalais_Greiz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sommerpalais_Greiz.JPG/1920px-Sommerpalais_Greiz.JPG
+---
 
 ## Overview
 

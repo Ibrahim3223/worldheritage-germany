@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/400px-Händelhaus_-_ILN_1859-07-18.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/800px-Händelhaus_-_ILN_1859-07-18.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1200px-Händelhaus_-_ILN_1859-07-18.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1920px-Händelhaus_-_ILN_1859-07-18.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1920px-Händelhaus_-_ILN_1859-07-18.jpg
+---
 
 ## Overview
 

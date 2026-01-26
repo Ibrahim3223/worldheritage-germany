@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/400px-Ostfriesland_msu-0411.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/800px-Ostfriesland_msu-0411.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/1200px-Ostfriesland_msu-0411.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/1920px-Ostfriesland_msu-0411.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ostfriesland_msu-0411.jpg/1920px-Ostfriesland_msu-0411.jpg
+---
 
 ## Overview
 

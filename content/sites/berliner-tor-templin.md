@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/400px-2016-09-23_Berliner_Tor_Templin_027.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/800px-2016-09-23_Berliner_Tor_Templin_027.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/1200px-2016-09-23_Berliner_Tor_Templin_027.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/1920px-2016-09-23_Berliner_Tor_Templin_027.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2016-09-23_Berliner_Tor_Templin_027.jpg/1920px-2016-09-23_Berliner_Tor_Templin_027.jpg
+---
 
 ## Overview
 

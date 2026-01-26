@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Theater_des_Westens_0648.jpg/400px-Theater_des_Westens_0648.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Theater_des_Westens_0648.jpg/800px-Theater_des_Westens_0648.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Theater_des_Westens_0648.jpg/1200px-Theater_des_Westens_0648.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Theater_des_Westens_0648.jpg/1920px-Theater_des_Westens_0648.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Theater_des_Westens_0648.jpg/1920px-Theater_des_Westens_0648.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/400px-Schwerin_Schloss_-_See_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/800px-Schwerin_Schloss_-_See_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/1200px-Schwerin_Schloss_-_See_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/1920px-Schwerin_Schloss_-_See_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwerin_Schloss_-_See_1.jpg/1920px-Schwerin_Schloss_-_See_1.jpg
+---
 
 ## Overview
 

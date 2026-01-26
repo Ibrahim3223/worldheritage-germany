@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/400px-Mallin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/800px-Mallin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1200px-Mallin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1920px-Mallin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1920px-Mallin.jpg
+---
 
 ## Overview
 

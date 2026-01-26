@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/400px-Silchermuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/800px-Silchermuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/1200px-Silchermuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/1920px-Silchermuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Silchermuseum.JPG/1920px-Silchermuseum.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/400px-Collegium_St_Hieronymi_Vorderseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/800px-Collegium_St_Hieronymi_Vorderseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/1200px-Collegium_St_Hieronymi_Vorderseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/1920px-Collegium_St_Hieronymi_Vorderseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collegium_St_Hieronymi_Vorderseite.jpg/1920px-Collegium_St_Hieronymi_Vorderseite.jpg
+---
 
 ## Overview
 

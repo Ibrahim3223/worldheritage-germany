@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/400px-Dollrott_Gutshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/800px-Dollrott_Gutshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/1200px-Dollrott_Gutshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/1920px-Dollrott_Gutshaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/1920px-Dollrott_Gutshaus.jpg
+---
 
 ## Overview
 

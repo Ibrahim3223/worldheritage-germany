@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/400px-Dynamitfabrik_kruemmel_verwaltung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/800px-Dynamitfabrik_kruemmel_verwaltung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1200px-Dynamitfabrik_kruemmel_verwaltung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1920px-Dynamitfabrik_kruemmel_verwaltung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1920px-Dynamitfabrik_kruemmel_verwaltung.jpg
+---
 
 ## Overview
 

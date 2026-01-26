@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/400px-Kirche_Warnemünde_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/800px-Kirche_Warnemünde_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/1200px-Kirche_Warnemünde_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/1920px-Kirche_Warnemünde_2016.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kirche_Warnemünde_2016.jpg/1920px-Kirche_Warnemünde_2016.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/400px-Aislingen_St._Georg_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/800px-Aislingen_St._Georg_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/1200px-Aislingen_St._Georg_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/1920px-Aislingen_St._Georg_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aislingen_St._Georg_01.JPG/1920px-Aislingen_St._Georg_01.JPG
+---
 
 ## Overview
 

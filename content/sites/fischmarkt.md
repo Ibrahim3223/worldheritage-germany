@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/400px-Fischmarkt_und_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/800px-Fischmarkt_und_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/1200px-Fischmarkt_und_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/1920px-Fischmarkt_und_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fischmarkt_und_Rathaus.jpg/1920px-Fischmarkt_und_Rathaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/400px-Cottbuser_Bahnhof_Großenhain.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/800px-Cottbuser_Bahnhof_Großenhain.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/1200px-Cottbuser_Bahnhof_Großenhain.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/1920px-Cottbuser_Bahnhof_Großenhain.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cottbuser_Bahnhof_Großenhain.JPG/1920px-Cottbuser_Bahnhof_Großenhain.JPG
+---
 
 ## Overview
 

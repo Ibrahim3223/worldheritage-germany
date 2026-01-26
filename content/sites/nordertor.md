@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/400px-Nordertor_Südseite_2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/800px-Nordertor_Südseite_2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/1200px-Nordertor_Südseite_2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/1920px-Nordertor_Südseite_2011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nordertor_Südseite_2011.JPG/1920px-Nordertor_Südseite_2011.JPG
+---
 
 ## Overview
 

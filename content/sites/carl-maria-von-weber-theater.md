@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/400px-Theater_Bernburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/800px-Theater_Bernburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/1200px-Theater_Bernburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/1920px-Theater_Bernburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Theater_Bernburg.JPG/1920px-Theater_Bernburg.JPG
+---
 
 ## Overview
 

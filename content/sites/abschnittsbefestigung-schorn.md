@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/400px-Abschnittsbefestigung_Schorn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/800px-Abschnittsbefestigung_Schorn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/1200px-Abschnittsbefestigung_Schorn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/1920px-Abschnittsbefestigung_Schorn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Abschnittsbefestigung_Schorn.jpg/1920px-Abschnittsbefestigung_Schorn.jpg
+---
 
 ## Overview
 

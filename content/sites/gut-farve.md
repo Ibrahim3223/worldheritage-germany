@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/400px-Gut-Farve.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/800px-Gut-Farve.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1200px-Gut-Farve.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1920px-Gut-Farve.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1920px-Gut-Farve.jpg
+---
 
 ## Overview
 

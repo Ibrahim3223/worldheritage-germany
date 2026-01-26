@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/400px-FrankenstudioSi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/800px-FrankenstudioSi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/1200px-FrankenstudioSi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/1920px-FrankenstudioSi.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FrankenstudioSi.JPG/1920px-FrankenstudioSi.JPG
+---
 
 ## Overview
 

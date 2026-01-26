@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg/400px-20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg/800px-20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg/1200px-20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg/1920px-20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg/1920px-20250523_xl_1122-AlpenStadtMuseum_Sonthofen_(28033).jpg
+---
 
 ## Overview
 

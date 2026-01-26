@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/400px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/800px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/1200px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/1920px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg/1920px-Landappbw_194458_1819_Altes_Rathaus_Plochingen.jpg
+---
 
 ## Overview
 

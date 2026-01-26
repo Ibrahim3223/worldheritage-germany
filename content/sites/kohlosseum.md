@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/400px-Wesselburen_eingang_kohlosseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/800px-Wesselburen_eingang_kohlosseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/1200px-Wesselburen_eingang_kohlosseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/1920px-Wesselburen_eingang_kohlosseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wesselburen_eingang_kohlosseum.jpg/1920px-Wesselburen_eingang_kohlosseum.jpg
+---
 
 ## Overview
 

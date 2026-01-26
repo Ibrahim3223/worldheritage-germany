@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg/400px-Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg/800px-Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg/1200px-Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg/1920px-Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg/1920px-Gerhart-Hauptmann-Haus_DüDo_Glockenspiel.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RÜD-140308-001.jpg/400px-RÜD-140308-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RÜD-140308-001.jpg/800px-RÜD-140308-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RÜD-140308-001.jpg/1200px-RÜD-140308-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RÜD-140308-001.jpg/1920px-RÜD-140308-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RÜD-140308-001.jpg/1920px-RÜD-140308-001.jpg
+---
 
 ## Overview
 

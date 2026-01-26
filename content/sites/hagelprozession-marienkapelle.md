@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marienkapelle90er.jpg/400px-Marienkapelle90er.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marienkapelle90er.jpg/800px-Marienkapelle90er.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marienkapelle90er.jpg/1200px-Marienkapelle90er.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marienkapelle90er.jpg/1920px-Marienkapelle90er.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marienkapelle90er.jpg/1920px-Marienkapelle90er.jpg
+---
 
 ## Overview
 

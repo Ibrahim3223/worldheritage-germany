@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG/400px-Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG/800px-Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG/1200px-Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG/1920px-Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG/1920px-Essener_Weihnachtsmarkt_2007_vom_HBF_aus.JPG
+---
 
 ## Overview
 

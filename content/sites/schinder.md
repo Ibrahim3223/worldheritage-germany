@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/400px-Schinder_von_Nordost-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/800px-Schinder_von_Nordost-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/1200px-Schinder_von_Nordost-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/1920px-Schinder_von_Nordost-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schinder_von_Nordost-1.jpg/1920px-Schinder_von_Nordost-1.jpg
+---
 
 ## Overview
 

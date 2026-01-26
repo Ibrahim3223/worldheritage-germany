@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/400px-Lehsen_Herrenhaus_2013-01-21_010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/800px-Lehsen_Herrenhaus_2013-01-21_010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/1200px-Lehsen_Herrenhaus_2013-01-21_010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/1920px-Lehsen_Herrenhaus_2013-01-21_010.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lehsen_Herrenhaus_2013-01-21_010.JPG/1920px-Lehsen_Herrenhaus_2013-01-21_010.JPG
+---
 
 ## Overview
 

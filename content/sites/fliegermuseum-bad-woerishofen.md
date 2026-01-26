@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fliegermuseum_Bad_Woerishofen.jpg/400px-Fliegermuseum_Bad_Woerishofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fliegermuseum_Bad_Woerishofen.jpg/800px-Fliegermuseum_Bad_Woerishofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fliegermuseum_Bad_Woerishofen.jpg/1200px-Fliegermuseum_Bad_Woerishofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fliegermuseum_Bad_Woerishofen.jpg/1920px-Fliegermuseum_Bad_Woerishofen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fliegermuseum_Bad_Woerishofen.jpg/1920px-Fliegermuseum_Bad_Woerishofen.jpg
+---
 
 ## Overview
 

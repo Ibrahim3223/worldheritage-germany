@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/400px-Altes_Grassimuseum_easyHDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/800px-Altes_Grassimuseum_easyHDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/1200px-Altes_Grassimuseum_easyHDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/1920px-Altes_Grassimuseum_easyHDR.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altes_Grassimuseum_easyHDR.jpg/1920px-Altes_Grassimuseum_easyHDR.jpg
+---
 
 ## Overview
 

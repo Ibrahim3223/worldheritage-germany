@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/400px-Erlöserkirche_HH-Borgfelde_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/800px-Erlöserkirche_HH-Borgfelde_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/1200px-Erlöserkirche_HH-Borgfelde_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/1920px-Erlöserkirche_HH-Borgfelde_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Erlöserkirche_HH-Borgfelde_04.jpg/1920px-Erlöserkirche_HH-Borgfelde_04.jpg
+---
 
 ## Overview
 

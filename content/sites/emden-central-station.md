@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/400px-Hauptbahnhof_emden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/800px-Hauptbahnhof_emden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1200px-Hauptbahnhof_emden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1920px-Hauptbahnhof_emden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1920px-Hauptbahnhof_emden.jpg
+---
 
 ## Overview
 

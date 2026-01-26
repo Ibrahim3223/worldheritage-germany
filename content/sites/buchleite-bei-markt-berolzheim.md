@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/400px-Marktberolzheim.buchleite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/800px-Marktberolzheim.buchleite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/1200px-Marktberolzheim.buchleite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/1920px-Marktberolzheim.buchleite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Marktberolzheim.buchleite.jpg/1920px-Marktberolzheim.buchleite.jpg
+---
 
 ## Overview
 

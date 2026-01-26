@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/St._Michael_(Attel),_2025-05-10.jpg/400px-St._Michael_(Attel),_2025-05-10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/St._Michael_(Attel),_2025-05-10.jpg/800px-St._Michael_(Attel),_2025-05-10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/St._Michael_(Attel),_2025-05-10.jpg/1200px-St._Michael_(Attel),_2025-05-10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/St._Michael_(Attel),_2025-05-10.jpg/1920px-St._Michael_(Attel),_2025-05-10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/St._Michael_(Attel),_2025-05-10.jpg/1920px-St._Michael_(Attel),_2025-05-10.jpg
+---
 
 ## Overview
 

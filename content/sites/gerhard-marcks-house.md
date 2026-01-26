@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/400px-Ostertorwache_Gerhard-Marcks-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/800px-Ostertorwache_Gerhard-Marcks-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1200px-Ostertorwache_Gerhard-Marcks-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1920px-Ostertorwache_Gerhard-Marcks-Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1920px-Ostertorwache_Gerhard-Marcks-Haus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/400px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/800px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1200px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1920px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1920px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
+---
 
 ## Overview
 

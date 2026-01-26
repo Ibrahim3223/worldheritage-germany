@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LBZB_Schulgebäude.jpg/400px-LBZB_Schulgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LBZB_Schulgebäude.jpg/800px-LBZB_Schulgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LBZB_Schulgebäude.jpg/1200px-LBZB_Schulgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LBZB_Schulgebäude.jpg/1920px-LBZB_Schulgebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LBZB_Schulgebäude.jpg/1920px-LBZB_Schulgebäude.jpg
+---
 
 ## Overview
 

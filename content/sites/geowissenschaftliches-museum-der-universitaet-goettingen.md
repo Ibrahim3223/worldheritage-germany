@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/400px-Geoscience_Museum_Göttingen_Entrance.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/800px-Geoscience_Museum_Göttingen_Entrance.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1200px-Geoscience_Museum_Göttingen_Entrance.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1920px-Geoscience_Museum_Göttingen_Entrance.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1920px-Geoscience_Museum_Göttingen_Entrance.JPG
+---
 
 ## Overview
 

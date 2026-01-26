@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/400px-Horner_Mühle_-_Bremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/800px-Horner_Mühle_-_Bremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/1200px-Horner_Mühle_-_Bremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/1920px-Horner_Mühle_-_Bremen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Horner_Mühle_-_Bremen.jpg/1920px-Horner_Mühle_-_Bremen.jpg
+---
 
 ## Overview
 

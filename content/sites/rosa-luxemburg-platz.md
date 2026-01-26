@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/400px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/800px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/1200px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/1920px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Volksbühne_am_Rosa-Luxemburg-Platz.jpg/1920px-Volksbühne_am_Rosa-Luxemburg-Platz.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/400px-Samendarre_laußnitz_2020-05-09_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/800px-Samendarre_laußnitz_2020-05-09_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/1200px-Samendarre_laußnitz_2020-05-09_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/1920px-Samendarre_laußnitz_2020-05-09_12.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Samendarre_laußnitz_2020-05-09_12.jpg/1920px-Samendarre_laußnitz_2020-05-09_12.jpg
+---
 
 ## Overview
 

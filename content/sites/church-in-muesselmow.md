@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/400px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/800px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1200px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1920px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1920px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
+---
 
 ## Overview
 

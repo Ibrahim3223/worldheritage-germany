@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/400px-Blick_auf_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/800px-Blick_auf_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/1200px-Blick_auf_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/1920px-Blick_auf_Heidelberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Blick_auf_Heidelberg.jpg/1920px-Blick_auf_Heidelberg.jpg
+---
 
 ## Overview
 

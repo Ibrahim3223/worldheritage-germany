@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/400px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/800px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/1200px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/1920px-Detmold_-_006_-_Exterstraße_8A_(2).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detmold_-_006_-_Exterstraße_8A_(2).JPG/1920px-Detmold_-_006_-_Exterstraße_8A_(2).JPG
+---
 
 ## Overview
 

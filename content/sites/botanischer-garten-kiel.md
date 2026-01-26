@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/400px-Botanischer_Garten_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/800px-Botanischer_Garten_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1200px-Botanischer_Garten_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1920px-Botanischer_Garten_Kiel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1920px-Botanischer_Garten_Kiel.jpg
+---
 
 ## Overview
 

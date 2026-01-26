@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg/400px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße%22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_%22Marthastraße".jpg/800px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg/1200px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße%22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_%22Marthastraße".jpg/1920px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_%22Marthastraße".jpg/1920px-Halle_(Saale),_Adam-Kuckhoff-Straße,_residential_complex_"Marthastraße".jpg
+---
 
 ## Overview
 

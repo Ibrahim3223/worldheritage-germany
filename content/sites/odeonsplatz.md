@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odeonsplatz_Pano.jpg/400px-Odeonsplatz_Pano.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odeonsplatz_Pano.jpg/800px-Odeonsplatz_Pano.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odeonsplatz_Pano.jpg/1200px-Odeonsplatz_Pano.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odeonsplatz_Pano.jpg/1920px-Odeonsplatz_Pano.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odeonsplatz_Pano.jpg/1920px-Odeonsplatz_Pano.jpg
+---
 
 ## Overview
 

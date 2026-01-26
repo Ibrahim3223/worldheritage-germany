@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/400px-Daberkow_Kirche_Südost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/800px-Daberkow_Kirche_Südost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/1200px-Daberkow_Kirche_Südost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/1920px-Daberkow_Kirche_Südost.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Daberkow_Kirche_Südost.JPG/1920px-Daberkow_Kirche_Südost.JPG
+---
 
 ## Overview
 

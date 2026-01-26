@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/400px-DKWCottbus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/800px-DKWCottbus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/1200px-DKWCottbus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/1920px-DKWCottbus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DKWCottbus.JPG/1920px-DKWCottbus.JPG
+---
 
 ## Overview
 

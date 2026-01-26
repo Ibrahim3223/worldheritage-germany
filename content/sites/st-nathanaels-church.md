@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grazer_Platz_Nathanaelkirche.JPG/400px-Grazer_Platz_Nathanaelkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grazer_Platz_Nathanaelkirche.JPG/800px-Grazer_Platz_Nathanaelkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grazer_Platz_Nathanaelkirche.JPG/1200px-Grazer_Platz_Nathanaelkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grazer_Platz_Nathanaelkirche.JPG/1920px-Grazer_Platz_Nathanaelkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Grazer_Platz_Nathanaelkirche.JPG/1920px-Grazer_Platz_Nathanaelkirche.JPG
+---
 
 ## Overview
 

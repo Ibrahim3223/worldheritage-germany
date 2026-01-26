@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/400px-55122-MombacherStr_56.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/800px-55122-MombacherStr_56.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/1200px-55122-MombacherStr_56.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/1920px-55122-MombacherStr_56.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/1920px-55122-MombacherStr_56.jpg
+---
 
 ## Overview
 

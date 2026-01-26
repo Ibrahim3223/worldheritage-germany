@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/400px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/800px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/1200px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/1920px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg/1920px-Holzstraße_(Werdau)_-_Eingangstor_zum_Stadt-_und_Dampfmaschinenmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/400px-Nuremberg_-_Fuerther_Tor_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/800px-Nuremberg_-_Fuerther_Tor_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/1200px-Nuremberg_-_Fuerther_Tor_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/1920px-Nuremberg_-_Fuerther_Tor_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuremberg_-_Fuerther_Tor_(aka).jpg/1920px-Nuremberg_-_Fuerther_Tor_(aka).jpg
+---
 
 ## Overview
 

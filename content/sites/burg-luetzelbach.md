@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Luetzelbach_Odenwaldkreis_Kirche.jpg/400px-Luetzelbach_Odenwaldkreis_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Luetzelbach_Odenwaldkreis_Kirche.jpg/800px-Luetzelbach_Odenwaldkreis_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Luetzelbach_Odenwaldkreis_Kirche.jpg/1200px-Luetzelbach_Odenwaldkreis_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Luetzelbach_Odenwaldkreis_Kirche.jpg/1920px-Luetzelbach_Odenwaldkreis_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Luetzelbach_Odenwaldkreis_Kirche.jpg/1920px-Luetzelbach_Odenwaldkreis_Kirche.jpg
+---
 
 ## Overview 
 

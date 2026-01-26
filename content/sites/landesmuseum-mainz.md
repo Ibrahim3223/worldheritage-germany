@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/400px-LandesmuseumMainzRoss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/800px-LandesmuseumMainzRoss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/1200px-LandesmuseumMainzRoss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/1920px-LandesmuseumMainzRoss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandesmuseumMainzRoss.jpg/1920px-LandesmuseumMainzRoss.jpg
+---
 
 ## Overview
 

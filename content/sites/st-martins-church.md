@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/400px-Landshut_altstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/800px-Landshut_altstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/1200px-Landshut_altstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/1920px-Landshut_altstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landshut_altstadt.jpg/1920px-Landshut_altstadt.jpg
+---
 
 ## Overview
 

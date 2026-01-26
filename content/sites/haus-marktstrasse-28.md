@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/400px-Groß-Bieberau_Marktstraße_28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/800px-Groß-Bieberau_Marktstraße_28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/1200px-Groß-Bieberau_Marktstraße_28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/1920px-Groß-Bieberau_Marktstraße_28.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Groß-Bieberau_Marktstraße_28.jpg/1920px-Groß-Bieberau_Marktstraße_28.jpg
+---
 
 ## Overview
 

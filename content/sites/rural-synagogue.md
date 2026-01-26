@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/400px-Roth_Synagogues.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/800px-Roth_Synagogues.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/1200px-Roth_Synagogues.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/1920px-Roth_Synagogues.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Roth_Synagogues.jpg/1920px-Roth_Synagogues.jpg
+---
 
 ## Overview
 

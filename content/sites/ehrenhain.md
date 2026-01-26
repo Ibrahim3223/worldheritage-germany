@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/400px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/800px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/1200px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/1920px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG/1920px-Bad_Schwartau_-_Riesebusch_Ehrenmal.JPG
+---
 
 ## Overview
 

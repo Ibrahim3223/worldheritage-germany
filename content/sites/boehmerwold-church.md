@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/400px-ChurchBöhmerwold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/800px-ChurchBöhmerwold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1200px-ChurchBöhmerwold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1920px-ChurchBöhmerwold.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1920px-ChurchBöhmerwold.jpg
+---
 
 ## Overview
 

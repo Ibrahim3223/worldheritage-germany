@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kloster_woerschweiler_front.jpg/400px-Kloster_woerschweiler_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kloster_woerschweiler_front.jpg/800px-Kloster_woerschweiler_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kloster_woerschweiler_front.jpg/1200px-Kloster_woerschweiler_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kloster_woerschweiler_front.jpg/1920px-Kloster_woerschweiler_front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kloster_woerschweiler_front.jpg/1920px-Kloster_woerschweiler_front.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/400px-Gigelberghalle_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/800px-Gigelberghalle_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/1200px-Gigelberghalle_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/1920px-Gigelberghalle_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gigelberghalle_(cropped).jpg/1920px-Gigelberghalle_(cropped).jpg
+---
 
 ## Overview
 

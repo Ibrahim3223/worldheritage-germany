@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/400px-Freudental-synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/800px-Freudental-synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/1200px-Freudental-synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/1920px-Freudental-synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Freudental-synagoge.jpg/1920px-Freudental-synagoge.jpg
+---
 
 ## Overview
 

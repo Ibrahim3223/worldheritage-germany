@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/400px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/800px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/1200px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/1920px-Palais_Neubrandenburg,_Südflügel_(1920).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palais_Neubrandenburg,_Südflügel_(1920).jpg/1920px-Palais_Neubrandenburg,_Südflügel_(1920).jpg
+---
 
 ## Overview
 

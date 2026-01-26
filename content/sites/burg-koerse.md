@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/400px-Burg_Körse_Geländemodell.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/800px-Burg_Körse_Geländemodell.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/1200px-Burg_Körse_Geländemodell.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/1920px-Burg_Körse_Geländemodell.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg_Körse_Geländemodell.jpg/1920px-Burg_Körse_Geländemodell.jpg
+---
 
 ## Overview
 

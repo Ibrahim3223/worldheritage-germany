@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/400px-Amtsgericht_Otterndorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/800px-Amtsgericht_Otterndorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/1200px-Amtsgericht_Otterndorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/1920px-Amtsgericht_Otterndorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Amtsgericht_Otterndorf.jpg/1920px-Amtsgericht_Otterndorf.jpg
+---
 
 ## Overview
 

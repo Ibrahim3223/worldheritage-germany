@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/400px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/800px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1200px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1920px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1920px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
+---
 
 ## Overview
 

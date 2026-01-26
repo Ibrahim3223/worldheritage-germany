@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/400px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/800px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/1200px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/1920px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dörenhagen_Kapelle_zur_hilligen_Seele.jpg/1920px-Dörenhagen_Kapelle_zur_hilligen_Seele.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/400px-ChurchGrimersum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/800px-ChurchGrimersum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1200px-ChurchGrimersum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1920px-ChurchGrimersum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1920px-ChurchGrimersum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/400px-Northeim_Kirche_kath_2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/800px-Northeim_Kirche_kath_2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/1200px-Northeim_Kirche_kath_2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/1920px-Northeim_Kirche_kath_2011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Northeim_Kirche_kath_2011.JPG/1920px-Northeim_Kirche_kath_2011.JPG
+---
 
 ## Overview
 

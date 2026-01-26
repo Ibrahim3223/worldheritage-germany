@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/400px-Gutenberg_monument.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/800px-Gutenberg_monument.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/1200px-Gutenberg_monument.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/1920px-Gutenberg_monument.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gutenberg_monument.jpg/1920px-Gutenberg_monument.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/400px-Lemberg_1015_m.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/800px-Lemberg_1015_m.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/1200px-Lemberg_1015_m.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/1920px-Lemberg_1015_m.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lemberg_1015_m.jpg/1920px-Lemberg_1015_m.jpg
+---
 
 ## Overview
 

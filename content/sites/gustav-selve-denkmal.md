@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Altena_-_Gustav-Selve-Denkmal_03_ies.jpg/400px-Altena_-_Gustav-Selve-Denkmal_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Altena_-_Gustav-Selve-Denkmal_03_ies.jpg/800px-Altena_-_Gustav-Selve-Denkmal_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Altena_-_Gustav-Selve-Denkmal_03_ies.jpg/1200px-Altena_-_Gustav-Selve-Denkmal_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Altena_-_Gustav-Selve-Denkmal_03_ies.jpg/1920px-Altena_-_Gustav-Selve-Denkmal_03_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Altena_-_Gustav-Selve-Denkmal_03_ies.jpg/1920px-Altena_-_Gustav-Selve-Denkmal_03_ies.jpg
+---
 
 ## Overview
 

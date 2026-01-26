@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/400px-Eingang_Atomkeller_Haigerloch.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/800px-Eingang_Atomkeller_Haigerloch.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/1200px-Eingang_Atomkeller_Haigerloch.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/1920px-Eingang_Atomkeller_Haigerloch.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/1920px-Eingang_Atomkeller_Haigerloch.JPG
+---
 
 ## Overview 
 

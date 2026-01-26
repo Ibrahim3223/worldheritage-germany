@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/400px-Räuchermännchenmuseum_Cranzahl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/800px-Räuchermännchenmuseum_Cranzahl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/1200px-Räuchermännchenmuseum_Cranzahl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/1920px-Räuchermännchenmuseum_Cranzahl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Räuchermännchenmuseum_Cranzahl.jpg/1920px-Räuchermännchenmuseum_Cranzahl.jpg
+---
 
 ## Overview
 

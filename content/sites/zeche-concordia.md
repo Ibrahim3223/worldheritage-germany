@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/400px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/800px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/1200px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg/1920px-Bundesarchiv_B_145_Bild-F015012-0001,_Oberhausen,_Kohlebergbau.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burgruine_Adelburg_01.jpg/400px-Burgruine_Adelburg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burgruine_Adelburg_01.jpg/800px-Burgruine_Adelburg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burgruine_Adelburg_01.jpg/1200px-Burgruine_Adelburg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burgruine_Adelburg_01.jpg/1920px-Burgruine_Adelburg_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burgruine_Adelburg_01.jpg/1920px-Burgruine_Adelburg_01.jpg
+---
 
 ## Overview
 

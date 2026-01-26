@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/400px-Rostock_Kunsthalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/800px-Rostock_Kunsthalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/1200px-Rostock_Kunsthalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/1920px-Rostock_Kunsthalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rostock_Kunsthalle.jpg/1920px-Rostock_Kunsthalle.jpg
+---
 
 ## Overview
 

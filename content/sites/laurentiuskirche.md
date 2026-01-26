@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/400px-Ansicht_composit1068x1024blau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/800px-Ansicht_composit1068x1024blau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1200px-Ansicht_composit1068x1024blau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1920px-Ansicht_composit1068x1024blau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ansicht_composit1068x1024blau.jpg/1920px-Ansicht_composit1068x1024blau.jpg
+---
 
 ## Overview
 

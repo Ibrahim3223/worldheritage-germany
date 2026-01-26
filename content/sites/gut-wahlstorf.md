@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/400px-Wahlstorf,_Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/800px-Wahlstorf,_Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1200px-Wahlstorf,_Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1920px-Wahlstorf,_Herrenhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1920px-Wahlstorf,_Herrenhaus.JPG
+---
 
 ## Overview
 

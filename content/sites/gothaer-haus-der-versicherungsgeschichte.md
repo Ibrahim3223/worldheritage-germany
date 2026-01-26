@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/400px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/800px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/1200px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/1920px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/1920px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
+---
 
 ## Overview
 

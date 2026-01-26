@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/400px-Bremen_St._Remberti-Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/800px-Bremen_St._Remberti-Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/1200px-Bremen_St._Remberti-Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/1920px-Bremen_St._Remberti-Kirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bremen_St._Remberti-Kirche.JPG/1920px-Bremen_St._Remberti-Kirche.JPG
+---
 
 ## Overview
 

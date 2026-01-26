@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/400px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/800px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/1200px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/1920px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG/1920px-Bahnhof_Frankfurt-Mainkur_Bahnsteig-mit-RE_0509.JPG
+---
 
 ## Overview
 

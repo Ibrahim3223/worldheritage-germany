@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/400px-Kartäuser_Köln5.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/800px-Kartäuser_Köln5.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/1200px-Kartäuser_Köln5.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/1920px-Kartäuser_Köln5.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartäuser_Köln5.JPG/1920px-Kartäuser_Köln5.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wuppertal_Uellendahler_Str_0010.jpg/400px-Wuppertal_Uellendahler_Str_0010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wuppertal_Uellendahler_Str_0010.jpg/800px-Wuppertal_Uellendahler_Str_0010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wuppertal_Uellendahler_Str_0010.jpg/1200px-Wuppertal_Uellendahler_Str_0010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wuppertal_Uellendahler_Str_0010.jpg/1920px-Wuppertal_Uellendahler_Str_0010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Wuppertal_Uellendahler_Str_0010.jpg/1920px-Wuppertal_Uellendahler_Str_0010.jpg
+---
 
 ## Overview
 

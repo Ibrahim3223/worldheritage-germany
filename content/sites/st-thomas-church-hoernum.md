@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/400px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/800px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/1200px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/1920px-St.Thomas-Kirche_Hörnum_2024_SW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St.Thomas-Kirche_Hörnum_2024_SW.jpg/1920px-St.Thomas-Kirche_Hörnum_2024_SW.jpg
+---
 
 ## Overview
 

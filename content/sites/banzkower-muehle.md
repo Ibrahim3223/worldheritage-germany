@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/400px-Banzkow_Windmuehle_2008-10-29.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/800px-Banzkow_Windmuehle_2008-10-29.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/1200px-Banzkow_Windmuehle_2008-10-29.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/1920px-Banzkow_Windmuehle_2008-10-29.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Banzkow_Windmuehle_2008-10-29.JPG/1920px-Banzkow_Windmuehle_2008-10-29.JPG
+---
 
 ## Overview
 

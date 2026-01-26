@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/400px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/800px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/1200px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/1920px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg/1920px-Stavenhagen-Rathaus-Marktplatz-Reuter-Literaturmuseum-2009-b.jpg
+---
 
 ## Overview
 

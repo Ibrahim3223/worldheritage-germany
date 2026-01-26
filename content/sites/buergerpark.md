@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/400px-Dudeldorf_Friedhofstor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/800px-Dudeldorf_Friedhofstor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/1200px-Dudeldorf_Friedhofstor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/1920px-Dudeldorf_Friedhofstor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dudeldorf_Friedhofstor.jpg/1920px-Dudeldorf_Friedhofstor.jpg
+---
 
 ## Overview
 

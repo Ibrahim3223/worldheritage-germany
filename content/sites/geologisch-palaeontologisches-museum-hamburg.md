@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG/400px-Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG/800px-Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG/1200px-Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG/1920px-Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG/1920px-Hamburg,_Universität_Hamburg,_Geologisch-Paläontologisches_Museum_Hamburg_NIK_1830.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/400px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/800px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/1200px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/1920px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_-_Gebrüder_Grimm_Denkmal.JPG/1920px-Hanau_-_Gebrüder_Grimm_Denkmal.JPG
+---
 
 ## Overview
 

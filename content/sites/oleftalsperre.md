@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/400px-Oleftalsperre_(13).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/800px-Oleftalsperre_(13).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/1200px-Oleftalsperre_(13).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/1920px-Oleftalsperre_(13).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oleftalsperre_(13).JPG/1920px-Oleftalsperre_(13).JPG
+---
 
 ## Overview
 

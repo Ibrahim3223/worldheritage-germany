@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg/400px-Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg/800px-Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg/1200px-Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg/1920px-Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg/1920px-Sonnensee_(Speyer),_Südostecke_und_Blick_auf_das_Nordufer.jpg
+---
 
 ## Overview
 

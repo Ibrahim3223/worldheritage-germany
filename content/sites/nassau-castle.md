@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg-Nassau-JR-G6-4572-2010-05-23.jpg/400px-Burg-Nassau-JR-G6-4572-2010-05-23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg-Nassau-JR-G6-4572-2010-05-23.jpg/800px-Burg-Nassau-JR-G6-4572-2010-05-23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg-Nassau-JR-G6-4572-2010-05-23.jpg/1200px-Burg-Nassau-JR-G6-4572-2010-05-23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg-Nassau-JR-G6-4572-2010-05-23.jpg/1920px-Burg-Nassau-JR-G6-4572-2010-05-23.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg-Nassau-JR-G6-4572-2010-05-23.jpg/1920px-Burg-Nassau-JR-G6-4572-2010-05-23.jpg
+---
 
 ## Overview
 

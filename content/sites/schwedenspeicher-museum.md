@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/400px-Schwedenspeicher_Stade1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/800px-Schwedenspeicher_Stade1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/1200px-Schwedenspeicher_Stade1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/1920px-Schwedenspeicher_Stade1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schwedenspeicher_Stade1.jpg/1920px-Schwedenspeicher_Stade1.jpg
+---
 
 ## Overview
 

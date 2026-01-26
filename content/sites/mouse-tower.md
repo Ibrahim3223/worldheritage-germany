@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/400px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/800px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/1200px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/1920px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg/1920px-Bingen_am_Rhein_-_Mouse_Tower_-_20240606013442.jpg
+---
 
 ## Overview
 

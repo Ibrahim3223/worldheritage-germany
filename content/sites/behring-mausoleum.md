@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/400px-Marburg_Behring-Mausoleum_von_S_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/800px-Marburg_Behring-Mausoleum_von_S_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/1200px-Marburg_Behring-Mausoleum_von_S_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/1920px-Marburg_Behring-Mausoleum_von_S_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marburg_Behring-Mausoleum_von_S_01.jpg/1920px-Marburg_Behring-Mausoleum_von_S_01.jpg
+---
 
 ## Overview
 

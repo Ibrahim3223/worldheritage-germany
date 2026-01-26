@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._Jakob_München,_Kirche_und_Turm.jpg/400px-St._Jakob_München,_Kirche_und_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._Jakob_München,_Kirche_und_Turm.jpg/800px-St._Jakob_München,_Kirche_und_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._Jakob_München,_Kirche_und_Turm.jpg/1200px-St._Jakob_München,_Kirche_und_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._Jakob_München,_Kirche_und_Turm.jpg/1920px-St._Jakob_München,_Kirche_und_Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/St._Jakob_München,_Kirche_und_Turm.jpg/1920px-St._Jakob_München,_Kirche_und_Turm.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/400px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/800px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/1200px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/1920px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg/1920px-Burgruine_Flossenbürg,_Ansicht_von_Süden.jpg
+---
 
 ## Overview
 

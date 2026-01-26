@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Salem_Abbey_(view_from_the_southwest).jpg
+---
 
 ## Overview
 

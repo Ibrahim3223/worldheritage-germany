@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Karte_Breitenbrunn_Breitenegg.gif/400px-Historische_Karte_Breitenbrunn_Breitenegg.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Karte_Breitenbrunn_Breitenegg.gif/800px-Historische_Karte_Breitenbrunn_Breitenegg.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Karte_Breitenbrunn_Breitenegg.gif/1200px-Historische_Karte_Breitenbrunn_Breitenegg.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Karte_Breitenbrunn_Breitenegg.gif/1920px-Historische_Karte_Breitenbrunn_Breitenegg.gif---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Karte_Breitenbrunn_Breitenegg.gif/1920px-Historische_Karte_Breitenbrunn_Breitenegg.gif
+---
 
 ## Overview
 

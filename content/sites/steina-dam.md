@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/400px-Steinatalsperre-Damm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/800px-Steinatalsperre-Damm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/1200px-Steinatalsperre-Damm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/1920px-Steinatalsperre-Damm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Steinatalsperre-Damm.jpg/1920px-Steinatalsperre-Damm.jpg
+---
 
 ## Overview
 

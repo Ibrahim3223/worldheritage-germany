@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/400px-Schlottwitz-Bahnbrücke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/800px-Schlottwitz-Bahnbrücke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/1200px-Schlottwitz-Bahnbrücke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/1920px-Schlottwitz-Bahnbrücke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schlottwitz-Bahnbrücke.jpg/1920px-Schlottwitz-Bahnbrücke.jpg
+---
 
 ## Overview
 

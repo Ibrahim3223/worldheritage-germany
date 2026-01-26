@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/400px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/800px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/1200px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/1920px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg/1920px-Weener_-_Neu-Diele_-_Windmühle_02_ies.jpg
+---
 
 ## Overview
 

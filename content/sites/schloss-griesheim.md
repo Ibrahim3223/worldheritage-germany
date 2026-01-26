@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/400px-Schloss_Griesheim_Modell.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/800px-Schloss_Griesheim_Modell.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/1200px-Schloss_Griesheim_Modell.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/1920px-Schloss_Griesheim_Modell.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Schloss_Griesheim_Modell.JPG/1920px-Schloss_Griesheim_Modell.JPG
+---
 
 ## Overview
 

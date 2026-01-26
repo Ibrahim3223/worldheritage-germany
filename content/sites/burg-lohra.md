@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/400px-Lohra_Ruine_Bergfried.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/800px-Lohra_Ruine_Bergfried.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1200px-Lohra_Ruine_Bergfried.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1920px-Lohra_Ruine_Bergfried.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1920px-Lohra_Ruine_Bergfried.JPG
+---
 
 ## Overview
 

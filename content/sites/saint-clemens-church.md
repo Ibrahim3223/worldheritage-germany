@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/400px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/800px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/1200px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/1920px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg/1920px-Amrum_st_clemens_kirche_nebel_ds_05_2009.jpg
+---
 
 ## Overview
 

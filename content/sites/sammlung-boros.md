@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/400px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/800px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/1200px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/1920px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg/1920px-Le_bunker_de_la_fondation_Boros_(Berlin)_(23504580538).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/400px-Buckauer_Tor_Foto_1899.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/800px-Buckauer_Tor_Foto_1899.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/1200px-Buckauer_Tor_Foto_1899.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/1920px-Buckauer_Tor_Foto_1899.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Buckauer_Tor_Foto_1899.jpg/1920px-Buckauer_Tor_Foto_1899.jpg
+---
 
 ## Overview
 

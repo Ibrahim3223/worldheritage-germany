@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/400px-GerbstedtSchloß2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/800px-GerbstedtSchloß2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/1200px-GerbstedtSchloß2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/1920px-GerbstedtSchloß2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/GerbstedtSchloß2.JPG/1920px-GerbstedtSchloß2.JPG
+---
 
 ## Overview
 

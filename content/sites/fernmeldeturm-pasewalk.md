@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/400px-Fernmeldeturm_Pasewalk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/800px-Fernmeldeturm_Pasewalk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/1200px-Fernmeldeturm_Pasewalk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/1920px-Fernmeldeturm_Pasewalk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fernmeldeturm_Pasewalk.jpg/1920px-Fernmeldeturm_Pasewalk.jpg
+---
 
 ## Overview
 

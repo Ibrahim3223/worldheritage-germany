@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt_Schumanntheater_1905.jpg/400px-Frankfurt_Schumanntheater_1905.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt_Schumanntheater_1905.jpg/800px-Frankfurt_Schumanntheater_1905.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt_Schumanntheater_1905.jpg/1200px-Frankfurt_Schumanntheater_1905.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt_Schumanntheater_1905.jpg/1920px-Frankfurt_Schumanntheater_1905.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt_Schumanntheater_1905.jpg/1920px-Frankfurt_Schumanntheater_1905.jpg
+---
 
 ## Overview
 

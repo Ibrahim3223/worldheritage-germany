@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/400px-Palais_d'Aix-la-Chapelle.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/800px-Palais_d'Aix-la-Chapelle.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/1200px-Palais_d'Aix-la-Chapelle.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/1920px-Palais_d'Aix-la-Chapelle.svg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palais_d'Aix-la-Chapelle.svg/1920px-Palais_d'Aix-la-Chapelle.svg.png
+---
 
 ## Overview
 

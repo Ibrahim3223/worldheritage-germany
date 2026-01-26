@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/400px-Dorfkirche_Nudow_A.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/800px-Dorfkirche_Nudow_A.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/1200px-Dorfkirche_Nudow_A.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/1920px-Dorfkirche_Nudow_A.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dorfkirche_Nudow_A.jpg/1920px-Dorfkirche_Nudow_A.jpg
+---
 
 ## Overview
 

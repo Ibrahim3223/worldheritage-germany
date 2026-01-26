@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/400px-Münster_Haus_Rüschhaus_2006_vorne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/800px-Münster_Haus_Rüschhaus_2006_vorne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1200px-Münster_Haus_Rüschhaus_2006_vorne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1920px-Münster_Haus_Rüschhaus_2006_vorne.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1920px-Münster_Haus_Rüschhaus_2006_vorne.jpg
+---
 
 ## Overview
 

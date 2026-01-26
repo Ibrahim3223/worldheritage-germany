@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg/400px-Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg/800px-Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg/1200px-Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg/1920px-Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg/1920px-Eldenaer_Straße_35_Gewerbehof_(Archiv_Grünes_Gedächtnis_und_FFBIZ,_Gebäude_Mitte)_in_Berlin-Friedrichshain.jpg
+---
 
 ## Overview
 

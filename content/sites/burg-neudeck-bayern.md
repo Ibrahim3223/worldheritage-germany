@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/400px-Schloss-Neudeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/800px-Schloss-Neudeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/1200px-Schloss-Neudeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/1920px-Schloss-Neudeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss-Neudeck.jpg/1920px-Schloss-Neudeck.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/400px-Villa_Haiss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/800px-Villa_Haiss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/1200px-Villa_Haiss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/1920px-Villa_Haiss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Villa_Haiss.jpg/1920px-Villa_Haiss.jpg
+---
 
 ## Overview
 

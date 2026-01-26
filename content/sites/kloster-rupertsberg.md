@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/400px-Kloster_Rupertsberg.gif
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/800px-Kloster_Rupertsberg.gif
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/1200px-Kloster_Rupertsberg.gif
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/1920px-Kloster_Rupertsberg.gif---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kloster_Rupertsberg.gif/1920px-Kloster_Rupertsberg.gif
+---
 
 ## Overview
 

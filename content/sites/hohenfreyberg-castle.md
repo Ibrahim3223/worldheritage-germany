@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/400px-Hohenfreyberg_bild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/800px-Hohenfreyberg_bild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1200px-Hohenfreyberg_bild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1920px-Hohenfreyberg_bild.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1920px-Hohenfreyberg_bild.jpg
+---
 
 ## Overview
 

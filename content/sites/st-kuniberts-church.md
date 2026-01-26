@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/400px-Köln_St_kunibert_vomrheinaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/800px-Köln_St_kunibert_vomrheinaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/1200px-Köln_St_kunibert_vomrheinaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/1920px-Köln_St_kunibert_vomrheinaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Köln_St_kunibert_vomrheinaus.jpg/1920px-Köln_St_kunibert_vomrheinaus.jpg
+---
 
 ## Overview
 

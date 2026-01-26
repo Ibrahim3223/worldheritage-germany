@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/400px-Ziegeleimuseum_Glindow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/800px-Ziegeleimuseum_Glindow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/1200px-Ziegeleimuseum_Glindow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/1920px-Ziegeleimuseum_Glindow.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ziegeleimuseum_Glindow.JPG/1920px-Ziegeleimuseum_Glindow.JPG
+---
 
 ## Overview
 

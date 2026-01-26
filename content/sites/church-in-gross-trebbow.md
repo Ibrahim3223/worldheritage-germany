@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/400px-Groß_Trebbow_Kirche_2013-03-02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/800px-Groß_Trebbow_Kirche_2013-03-02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1200px-Groß_Trebbow_Kirche_2013-03-02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1920px-Groß_Trebbow_Kirche_2013-03-02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1920px-Groß_Trebbow_Kirche_2013-03-02.JPG
+---
 
 ## Overview
 

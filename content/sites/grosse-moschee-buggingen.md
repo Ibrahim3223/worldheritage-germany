@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/400px-Buggingen,_Große_Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/800px-Buggingen,_Große_Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/1200px-Buggingen,_Große_Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/1920px-Buggingen,_Große_Moschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Buggingen,_Große_Moschee.jpg/1920px-Buggingen,_Große_Moschee.jpg
+---
 
 ## Overview
 

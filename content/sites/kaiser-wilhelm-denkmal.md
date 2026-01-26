@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/400px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/800px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/1200px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/1920px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg/1920px-Kaiser-Wilhelm-Denkmal_in_Duesseldorf-Stadtmitte,_von_Osten.jpg
+---
 
 ## Overview
 

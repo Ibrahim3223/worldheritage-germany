@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin-Mitte_RHdWuK_asv2023-02.jpg/400px-Berlin-Mitte_RHdWuK_asv2023-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin-Mitte_RHdWuK_asv2023-02.jpg/800px-Berlin-Mitte_RHdWuK_asv2023-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin-Mitte_RHdWuK_asv2023-02.jpg/1200px-Berlin-Mitte_RHdWuK_asv2023-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin-Mitte_RHdWuK_asv2023-02.jpg/1920px-Berlin-Mitte_RHdWuK_asv2023-02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin-Mitte_RHdWuK_asv2023-02.jpg/1920px-Berlin-Mitte_RHdWuK_asv2023-02.jpg
+---
 
 ## Overview
 

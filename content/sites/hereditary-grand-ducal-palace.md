@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/400px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/800px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1200px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1920px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1920px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
+---
 
 ## Overview
 

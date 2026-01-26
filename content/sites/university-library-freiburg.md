@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/400px-Universitätsbibliothek_Freiburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/800px-Universitätsbibliothek_Freiburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/1200px-Universitätsbibliothek_Freiburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/1920px-Universitätsbibliothek_Freiburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Universitätsbibliothek_Freiburg.jpg/1920px-Universitätsbibliothek_Freiburg.jpg
+---
 
 ## Overview
 

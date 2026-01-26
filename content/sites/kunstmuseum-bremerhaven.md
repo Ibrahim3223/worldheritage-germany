@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunstmuseum_Bremerhaven.jpg/400px-Kunstmuseum_Bremerhaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunstmuseum_Bremerhaven.jpg/800px-Kunstmuseum_Bremerhaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunstmuseum_Bremerhaven.jpg/1200px-Kunstmuseum_Bremerhaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunstmuseum_Bremerhaven.jpg/1920px-Kunstmuseum_Bremerhaven.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kunstmuseum_Bremerhaven.jpg/1920px-Kunstmuseum_Bremerhaven.jpg
+---
 
 ## Overview
 

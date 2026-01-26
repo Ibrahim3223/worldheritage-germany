@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/400px-Burg_Altmannstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/800px-Burg_Altmannstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/1200px-Burg_Altmannstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/1920px-Burg_Altmannstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burg_Altmannstein.jpg/1920px-Burg_Altmannstein.jpg
+---
 
 ## Overview
 

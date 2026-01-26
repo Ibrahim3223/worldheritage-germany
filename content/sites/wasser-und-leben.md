@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/400px-Wasser_und_Leben,_Burtscheid.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/800px-Wasser_und_Leben,_Burtscheid.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/1200px-Wasser_und_Leben,_Burtscheid.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/1920px-Wasser_und_Leben,_Burtscheid.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wasser_und_Leben,_Burtscheid.JPG/1920px-Wasser_und_Leben,_Burtscheid.JPG
+---
 
 ## Overview
 

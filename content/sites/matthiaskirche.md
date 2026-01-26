@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/400px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/800px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/1200px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/1920px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg/1920px-Matthiaskirche_Großbuchholz_(Hannover)_IMG_3223.jpg
+---
 
 ## Overview
 

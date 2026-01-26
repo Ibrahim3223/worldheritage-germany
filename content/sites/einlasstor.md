@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/400px-Am_einlass_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/800px-Am_einlass_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/1200px-Am_einlass_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/1920px-Am_einlass_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Am_einlass_01.jpg/1920px-Am_einlass_01.jpg
+---
 
 ## Overview
 

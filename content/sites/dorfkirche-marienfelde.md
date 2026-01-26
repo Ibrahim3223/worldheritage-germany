@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/400px-MarienfeldeKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/800px-MarienfeldeKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1200px-MarienfeldeKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1920px-MarienfeldeKirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1920px-MarienfeldeKirche.JPG
+---
 
 ## Overview
 

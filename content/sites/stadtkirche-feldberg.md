@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/400px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/800px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/1200px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/1920px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/1920px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
+---
 
 ## Overview
 

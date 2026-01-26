@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/400px-Emden_Neue_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/800px-Emden_Neue_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1200px-Emden_Neue_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1920px-Emden_Neue_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Emden_Neue_Kirche.jpg/1920px-Emden_Neue_Kirche.jpg
+---
 
 ## Overview
 

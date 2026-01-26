@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GUN_Rathausstr._12_2012-07-26_(63).jpg/400px-GUN_Rathausstr._12_2012-07-26_(63).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GUN_Rathausstr._12_2012-07-26_(63).jpg/800px-GUN_Rathausstr._12_2012-07-26_(63).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GUN_Rathausstr._12_2012-07-26_(63).jpg/1200px-GUN_Rathausstr._12_2012-07-26_(63).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GUN_Rathausstr._12_2012-07-26_(63).jpg/1920px-GUN_Rathausstr._12_2012-07-26_(63).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GUN_Rathausstr._12_2012-07-26_(63).jpg/1920px-GUN_Rathausstr._12_2012-07-26_(63).jpg
+---
 
 ## Overview
 

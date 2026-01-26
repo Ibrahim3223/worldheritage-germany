@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Husby-kirche-vincentus.jpg/400px-Husby-kirche-vincentus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Husby-kirche-vincentus.jpg/800px-Husby-kirche-vincentus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Husby-kirche-vincentus.jpg/1200px-Husby-kirche-vincentus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Husby-kirche-vincentus.jpg/1920px-Husby-kirche-vincentus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Husby-kirche-vincentus.jpg/1920px-Husby-kirche-vincentus.jpg
+---
 
 ## Overview
 

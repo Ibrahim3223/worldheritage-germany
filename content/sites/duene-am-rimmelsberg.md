@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
+---
 
 ## Overview
 

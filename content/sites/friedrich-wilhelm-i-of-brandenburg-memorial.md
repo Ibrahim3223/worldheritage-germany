@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/400px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/800px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/1200px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/1920px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg/1920px-Minden,_Denkmal_des_Grossen_Kurfürst_Dm242_foto7_2015-09-09_13.18.jpg
+---
 
 ## Overview
 

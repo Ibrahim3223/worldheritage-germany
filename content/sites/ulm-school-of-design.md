@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/400px-HfGUlmbuilding.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/800px-HfGUlmbuilding.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/1200px-HfGUlmbuilding.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/1920px-HfGUlmbuilding.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HfGUlmbuilding.jpg/1920px-HfGUlmbuilding.jpg
+---
 
 ## Overview
 

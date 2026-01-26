@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/400px-Schmarsow_DM_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/800px-Schmarsow_DM_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1200px-Schmarsow_DM_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1920px-Schmarsow_DM_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1920px-Schmarsow_DM_Kirche.jpg
+---
 
 ## Overview
 

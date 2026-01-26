@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/400px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/800px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/1200px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/1920px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG/1920px-Macadam-Straße_Pfingstberg_-_Erinnerungsstaette.JPG
+---
 
 ## Overview
 

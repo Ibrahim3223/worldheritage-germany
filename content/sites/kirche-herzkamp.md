@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/400px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/800px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1200px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1920px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg/1920px-Gennebreck,_evangelische_Kirche_Herzkamp_Dm9_foto4_2015-04-19_11.10.jpg
+---
 
 ## Overview
 

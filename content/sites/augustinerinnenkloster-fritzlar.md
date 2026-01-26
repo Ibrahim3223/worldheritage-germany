@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/400px-Fritzlar,_Ursulinenkloster.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/800px-Fritzlar,_Ursulinenkloster.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/1200px-Fritzlar,_Ursulinenkloster.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/1920px-Fritzlar,_Ursulinenkloster.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fritzlar,_Ursulinenkloster.JPG/1920px-Fritzlar,_Ursulinenkloster.JPG
+---
 
 ## Overview
 

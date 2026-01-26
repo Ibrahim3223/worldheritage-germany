@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/400px-083_ev._Kapelle_Beddelhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/800px-083_ev._Kapelle_Beddelhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/1200px-083_ev._Kapelle_Beddelhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/1920px-083_ev._Kapelle_Beddelhausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/083_ev._Kapelle_Beddelhausen.jpg/1920px-083_ev._Kapelle_Beddelhausen.jpg
+---
 
 ## Overview
 

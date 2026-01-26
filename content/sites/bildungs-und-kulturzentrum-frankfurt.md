@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/400px-Bikuz_Dezember_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/800px-Bikuz_Dezember_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/1200px-Bikuz_Dezember_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/1920px-Bikuz_Dezember_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bikuz_Dezember_2009.jpg/1920px-Bikuz_Dezember_2009.jpg
+---
 
 ## Overview
 

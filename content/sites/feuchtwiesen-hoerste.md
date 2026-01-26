@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/400px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/800px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/1200px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/1920px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg/1920px-Halle_(Westf)_-_Feuchtwiesen_Hörste.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/400px-Neckar_Altarm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/800px-Neckar_Altarm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1200px-Neckar_Altarm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1920px-Neckar_Altarm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1920px-Neckar_Altarm.jpg
+---
 
 ## Overview
 

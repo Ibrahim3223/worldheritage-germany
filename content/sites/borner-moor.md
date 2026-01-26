@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Borner_Moor_-_01.JPG/400px-Borner_Moor_-_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Borner_Moor_-_01.JPG/800px-Borner_Moor_-_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Borner_Moor_-_01.JPG/1200px-Borner_Moor_-_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Borner_Moor_-_01.JPG/1920px-Borner_Moor_-_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Borner_Moor_-_01.JPG/1920px-Borner_Moor_-_01.JPG
+---
 
 ## Overview
 

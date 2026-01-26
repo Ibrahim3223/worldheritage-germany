@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/400px-Bergnersreuth_2017_xy3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/800px-Bergnersreuth_2017_xy3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/1200px-Bergnersreuth_2017_xy3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/1920px-Bergnersreuth_2017_xy3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bergnersreuth_2017_xy3.jpg/1920px-Bergnersreuth_2017_xy3.jpg
+---
 
 ## Overview
 

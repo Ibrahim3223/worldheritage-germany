@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/400px-Kirche_Malchin_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/800px-Kirche_Malchin_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/1200px-Kirche_Malchin_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/1920px-Kirche_Malchin_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kirche_Malchin_03.jpg/1920px-Kirche_Malchin_03.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/400px-Kattenturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/800px-Kattenturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/1200px-Kattenturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/1920px-Kattenturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kattenturm.JPG/1920px-Kattenturm.JPG
+---
 
 ## Overview
 

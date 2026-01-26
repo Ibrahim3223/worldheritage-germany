@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/400px-Kleinfrankreich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/800px-Kleinfrankreich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/1200px-Kleinfrankreich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/1920px-Kleinfrankreich.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kleinfrankreich.JPG/1920px-Kleinfrankreich.JPG
+---
 
 ## Overview
 

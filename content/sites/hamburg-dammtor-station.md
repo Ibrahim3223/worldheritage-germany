@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/400px-Hamburg-Bahnhof_Dammtor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/800px-Hamburg-Bahnhof_Dammtor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1200px-Hamburg-Bahnhof_Dammtor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1920px-Hamburg-Bahnhof_Dammtor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1920px-Hamburg-Bahnhof_Dammtor.jpg
+---
 
 ## Overview
 

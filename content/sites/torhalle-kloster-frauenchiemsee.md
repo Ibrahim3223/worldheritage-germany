@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/400px-Frauenchiemsee_Torhalle_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/800px-Frauenchiemsee_Torhalle_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/1200px-Frauenchiemsee_Torhalle_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/1920px-Frauenchiemsee_Torhalle_Südseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Frauenchiemsee_Torhalle_Südseite.jpg/1920px-Frauenchiemsee_Torhalle_Südseite.jpg
+---
 
 ## Overview
 

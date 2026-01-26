@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg/400px-Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg/800px-Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg/1200px-Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg/1920px-Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg/1920px-Göttingen_asv2022-06_img46_Hardenberger_Hof.jpg
+---
 
 ## Overview
 

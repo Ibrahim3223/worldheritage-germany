@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/400px-WattBZ_Sahlenborg_6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/800px-WattBZ_Sahlenborg_6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/1200px-WattBZ_Sahlenborg_6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/1920px-WattBZ_Sahlenborg_6.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WattBZ_Sahlenborg_6.jpg/1920px-WattBZ_Sahlenborg_6.jpg
+---
 
 ## Overview
 

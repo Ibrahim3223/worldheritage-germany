@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/400px-Salzkotten-Dreckburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/800px-Salzkotten-Dreckburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/1200px-Salzkotten-Dreckburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/1920px-Salzkotten-Dreckburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salzkotten-Dreckburg.jpg/1920px-Salzkotten-Dreckburg.jpg
+---
 
 ## Overview
 

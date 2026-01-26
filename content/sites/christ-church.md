@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/400px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/800px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/1200px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/1920px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg/1920px-Christuskirche_in_Duesseldorf-Oberbilk,_von_Suedosten.jpg
+---
 
 ## Overview
 

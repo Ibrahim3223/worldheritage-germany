@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/400px-S-wilhelmspalais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/800px-S-wilhelmspalais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/1200px-S-wilhelmspalais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/1920px-S-wilhelmspalais.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/S-wilhelmspalais.jpg/1920px-S-wilhelmspalais.jpg
+---
 
 ## Overview
 

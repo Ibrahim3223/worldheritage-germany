@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/400px-Moor_Trave_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/800px-Moor_Trave_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/1200px-Moor_Trave_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/1920px-Moor_Trave_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Moor_Trave_1.jpg/1920px-Moor_Trave_1.jpg
+---
 
 ## Overview
 

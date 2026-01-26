@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/400px-Berger_Kirche_Westansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/800px-Berger_Kirche_Westansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/1200px-Berger_Kirche_Westansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/1920px-Berger_Kirche_Westansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Berger_Kirche_Westansicht.jpg/1920px-Berger_Kirche_Westansicht.jpg
+---
 
 ## Overview
 

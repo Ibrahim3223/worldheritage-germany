@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/400px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/800px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/1200px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/1920px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Stones_Fan_Museum,_Lüchow,_building_-_2.JPG/1920px-Stones_Fan_Museum,_Lüchow,_building_-_2.JPG
+---
 
 ## Overview
 

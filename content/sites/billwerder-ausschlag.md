@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/400px-Varendorf(63)Bergedorf_Reinbek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/800px-Varendorf(63)Bergedorf_Reinbek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/1200px-Varendorf(63)Bergedorf_Reinbek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/1920px-Varendorf(63)Bergedorf_Reinbek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Varendorf(63)Bergedorf_Reinbek.jpg/1920px-Varendorf(63)Bergedorf_Reinbek.jpg
+---
 
 ## Overview
 

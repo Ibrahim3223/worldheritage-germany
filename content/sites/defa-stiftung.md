@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_new_DEFA-Stiftung.svg/400px-Logo_new_DEFA-Stiftung.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_new_DEFA-Stiftung.svg/800px-Logo_new_DEFA-Stiftung.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_new_DEFA-Stiftung.svg/1200px-Logo_new_DEFA-Stiftung.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_new_DEFA-Stiftung.svg/1920px-Logo_new_DEFA-Stiftung.svg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_new_DEFA-Stiftung.svg/1920px-Logo_new_DEFA-Stiftung.svg.png
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/400px-Burg_Grüningen-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/800px-Burg_Grüningen-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/1200px-Burg_Grüningen-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/1920px-Burg_Grüningen-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Grüningen-3.jpg/1920px-Burg_Grüningen-3.jpg
+---
 
 ## Overview
 

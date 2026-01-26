@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/400px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/800px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1200px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1920px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1920px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
+---
 
 ## Overview
 

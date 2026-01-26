@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/400px-Mölln_Ziegelsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/800px-Mölln_Ziegelsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/1200px-Mölln_Ziegelsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/1920px-Mölln_Ziegelsee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mölln_Ziegelsee.jpg/1920px-Mölln_Ziegelsee.jpg
+---
 
 ## Overview
 

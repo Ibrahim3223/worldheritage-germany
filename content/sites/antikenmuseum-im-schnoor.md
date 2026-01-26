@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/400px-Antikenmuseum-Schnoor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/800px-Antikenmuseum-Schnoor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/1200px-Antikenmuseum-Schnoor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/1920px-Antikenmuseum-Schnoor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Antikenmuseum-Schnoor.jpg/1920px-Antikenmuseum-Schnoor.jpg
+---
 
 ## Overview
 

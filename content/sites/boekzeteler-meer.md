@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/400px-BoekzetelerUndTimmelerMeer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/800px-BoekzetelerUndTimmelerMeer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/1200px-BoekzetelerUndTimmelerMeer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/1920px-BoekzetelerUndTimmelerMeer.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BoekzetelerUndTimmelerMeer.JPG/1920px-BoekzetelerUndTimmelerMeer.JPG
+---
 
 ## Overview
 

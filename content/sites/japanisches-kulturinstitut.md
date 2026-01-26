@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/400px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/800px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1200px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1920px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1920px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
+---
 
 ## Overview
 

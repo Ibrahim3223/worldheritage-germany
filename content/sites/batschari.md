@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/400px-Erdt_Illu1914_Batschari.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/800px-Erdt_Illu1914_Batschari.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1200px-Erdt_Illu1914_Batschari.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1920px-Erdt_Illu1914_Batschari.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1920px-Erdt_Illu1914_Batschari.jpg
+---
 
 ## Overview
 

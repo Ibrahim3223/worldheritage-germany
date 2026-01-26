@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/400px-Erlöserkapelle_Mirbach-Eifel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/800px-Erlöserkapelle_Mirbach-Eifel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1200px-Erlöserkapelle_Mirbach-Eifel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1920px-Erlöserkapelle_Mirbach-Eifel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1920px-Erlöserkapelle_Mirbach-Eifel.jpg
+---
 
 ## Overview
 

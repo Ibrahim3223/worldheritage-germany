@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/400px-Blick_vom_Feldstein_nach_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/800px-Blick_vom_Feldstein_nach_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/1200px-Blick_vom_Feldstein_nach_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/1920px-Blick_vom_Feldstein_nach_Nordosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/1920px-Blick_vom_Feldstein_nach_Nordosten.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/400px-ChurchFreepsum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/800px-ChurchFreepsum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1200px-ChurchFreepsum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1920px-ChurchFreepsum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1920px-ChurchFreepsum.jpg
+---
 
 ## Overview
 

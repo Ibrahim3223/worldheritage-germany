@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/400px-Begegnungskirche_Portal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/800px-Begegnungskirche_Portal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/1200px-Begegnungskirche_Portal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/1920px-Begegnungskirche_Portal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Begegnungskirche_Portal.jpg/1920px-Begegnungskirche_Portal.jpg
+---
 
 ## Overview
 

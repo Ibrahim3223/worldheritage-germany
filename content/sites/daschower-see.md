@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/400px-Daschower_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/800px-Daschower_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/1200px-Daschower_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/1920px-Daschower_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daschower_See.jpg/1920px-Daschower_See.jpg
+---
 
 ## Overview
 

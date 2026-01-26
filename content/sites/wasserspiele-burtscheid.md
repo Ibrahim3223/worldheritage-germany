@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg/400px-Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg/800px-Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg/1200px-Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg/1920px-Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg/1920px-Aachen-Burtscheid,_Wasserspiele,_Malmedyer_Straße.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/400px-AC_BD_Jesuitenstraße_9–11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/800px-AC_BD_Jesuitenstraße_9–11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/1200px-AC_BD_Jesuitenstraße_9–11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/1920px-AC_BD_Jesuitenstraße_9–11.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AC_BD_Jesuitenstraße_9–11.jpg/1920px-AC_BD_Jesuitenstraße_9–11.jpg
+---
 
 ## Overview
 

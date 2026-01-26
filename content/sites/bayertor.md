@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/400px-Landsberg-bayertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/800px-Landsberg-bayertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/1200px-Landsberg-bayertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/1920px-Landsberg-bayertor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Landsberg-bayertor.jpg/1920px-Landsberg-bayertor.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/400px-Kunstmuseum_Walter_Augsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/800px-Kunstmuseum_Walter_Augsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/1200px-Kunstmuseum_Walter_Augsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/1920px-Kunstmuseum_Walter_Augsburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunstmuseum_Walter_Augsburg.JPG/1920px-Kunstmuseum_Walter_Augsburg.JPG
+---
 
 ## Overview
 

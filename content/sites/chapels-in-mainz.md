@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/400px-JosephskapelleMainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/800px-JosephskapelleMainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1200px-JosephskapelleMainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1920px-JosephskapelleMainz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1920px-JosephskapelleMainz.jpg
+---
 
 ## Overview
 

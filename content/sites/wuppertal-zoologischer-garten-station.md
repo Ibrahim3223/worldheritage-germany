@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/400px-Bf-w-zoo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/800px-Bf-w-zoo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/1200px-Bf-w-zoo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/1920px-Bf-w-zoo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bf-w-zoo.jpg/1920px-Bf-w-zoo.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/400px-Kunsthalle_messmer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/800px-Kunsthalle_messmer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/1200px-Kunsthalle_messmer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/1920px-Kunsthalle_messmer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunsthalle_messmer.jpg/1920px-Kunsthalle_messmer.jpg
+---
 
 ## Overview
 

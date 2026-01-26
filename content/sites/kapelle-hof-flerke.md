@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/400px-Kapelle_Hof_Flerke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/800px-Kapelle_Hof_Flerke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/1200px-Kapelle_Hof_Flerke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/1920px-Kapelle_Hof_Flerke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kapelle_Hof_Flerke.jpg/1920px-Kapelle_Hof_Flerke.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bf-d-reisholz.jpg/400px-Bf-d-reisholz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bf-d-reisholz.jpg/800px-Bf-d-reisholz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bf-d-reisholz.jpg/1200px-Bf-d-reisholz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bf-d-reisholz.jpg/1920px-Bf-d-reisholz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bf-d-reisholz.jpg/1920px-Bf-d-reisholz.jpg
+---
 
 ## Overview
 

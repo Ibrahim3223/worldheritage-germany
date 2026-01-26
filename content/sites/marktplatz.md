@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/400px-HeidelbergMarktplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/800px-HeidelbergMarktplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/1200px-HeidelbergMarktplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/1920px-HeidelbergMarktplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HeidelbergMarktplatz.jpg/1920px-HeidelbergMarktplatz.jpg
+---
 
 ## Overview
 

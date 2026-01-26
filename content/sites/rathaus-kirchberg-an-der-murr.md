@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/400px-KirchbergMurrRathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/800px-KirchbergMurrRathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/1200px-KirchbergMurrRathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/1920px-KirchbergMurrRathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KirchbergMurrRathaus.jpg/1920px-KirchbergMurrRathaus.jpg
+---
 
 ## Overview
 

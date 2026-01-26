@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/400px-Karlsruhe_KircheKarlFriedrich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/800px-Karlsruhe_KircheKarlFriedrich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/1200px-Karlsruhe_KircheKarlFriedrich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/1920px-Karlsruhe_KircheKarlFriedrich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Karlsruhe_KircheKarlFriedrich.jpg/1920px-Karlsruhe_KircheKarlFriedrich.jpg
+---
 
 ## Overview
 

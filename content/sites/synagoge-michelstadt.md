@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/400px-MichelstadtSynagogue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/800px-MichelstadtSynagogue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/1200px-MichelstadtSynagogue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/1920px-MichelstadtSynagogue.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MichelstadtSynagogue.jpg/1920px-MichelstadtSynagogue.jpg
+---
 
 ## Overview
 

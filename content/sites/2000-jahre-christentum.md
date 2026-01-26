@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/400px-2000Jahre_Christentum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/800px-2000Jahre_Christentum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/1200px-2000Jahre_Christentum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/1920px-2000Jahre_Christentum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2000Jahre_Christentum.jpg/1920px-2000Jahre_Christentum.jpg
+---
 
 ## Overview
 

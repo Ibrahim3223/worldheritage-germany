@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/400px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/800px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1200px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1920px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1920px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
+---
 
 ## Overview
 

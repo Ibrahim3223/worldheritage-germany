@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/400px-Wasmer-Palais.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/800px-Wasmer-Palais.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/1200px-Wasmer-Palais.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/1920px-Wasmer-Palais.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wasmer-Palais.JPG/1920px-Wasmer-Palais.JPG
+---
 
 ## Overview
 

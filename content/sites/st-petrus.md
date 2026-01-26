@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/400px-Osmünde_Sankt_Petrus_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/800px-Osmünde_Sankt_Petrus_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/1200px-Osmünde_Sankt_Petrus_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/1920px-Osmünde_Sankt_Petrus_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Osmünde_Sankt_Petrus_2.JPG/1920px-Osmünde_Sankt_Petrus_2.JPG
+---
 
 ## Overview
 

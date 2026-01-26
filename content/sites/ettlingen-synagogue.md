@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/400px-Ettlingen_Synagoge988.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/800px-Ettlingen_Synagoge988.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/1200px-Ettlingen_Synagoge988.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/1920px-Ettlingen_Synagoge988.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/1920px-Ettlingen_Synagoge988.JPG
+---
 
 ## Overview
 

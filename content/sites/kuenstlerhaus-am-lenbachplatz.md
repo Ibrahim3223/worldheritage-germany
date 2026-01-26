@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/400px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/800px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/1200px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/1920px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Münchner_Künstlerhaus_am_Lenbachplatz.jpg/1920px-Münchner_Künstlerhaus_am_Lenbachplatz.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/400px-Gut_Quassel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/800px-Gut_Quassel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/1200px-Gut_Quassel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/1920px-Gut_Quassel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gut_Quassel.jpg/1920px-Gut_Quassel.jpg
+---
 
 ## Overview
 

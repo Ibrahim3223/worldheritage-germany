@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_Traktorenmuseum.jpg/400px-Paderborn_Traktorenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_Traktorenmuseum.jpg/800px-Paderborn_Traktorenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_Traktorenmuseum.jpg/1200px-Paderborn_Traktorenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_Traktorenmuseum.jpg/1920px-Paderborn_Traktorenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paderborn_Traktorenmuseum.jpg/1920px-Paderborn_Traktorenmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/400px-Salzkotten_Liborius-Kapelle14907.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/800px-Salzkotten_Liborius-Kapelle14907.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/1200px-Salzkotten_Liborius-Kapelle14907.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/1920px-Salzkotten_Liborius-Kapelle14907.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salzkotten_Liborius-Kapelle14907.jpg/1920px-Salzkotten_Liborius-Kapelle14907.jpg
+---
 
 ## Overview
 

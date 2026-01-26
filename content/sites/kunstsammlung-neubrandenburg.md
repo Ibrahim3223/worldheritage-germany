@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/400px-Neubrandenburg-Kunstsammlung-01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/800px-Neubrandenburg-Kunstsammlung-01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/1200px-Neubrandenburg-Kunstsammlung-01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/1920px-Neubrandenburg-Kunstsammlung-01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neubrandenburg-Kunstsammlung-01.JPG/1920px-Neubrandenburg-Kunstsammlung-01.JPG
+---
 
 ## Overview
 

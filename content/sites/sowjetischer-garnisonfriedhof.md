@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/400px-Dresden_Sowjetischer_Friedhof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/800px-Dresden_Sowjetischer_Friedhof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/1200px-Dresden_Sowjetischer_Friedhof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/1920px-Dresden_Sowjetischer_Friedhof_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Sowjetischer_Friedhof_1.jpg/1920px-Dresden_Sowjetischer_Friedhof_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/400px-Leuchtfeuer_Heidkate_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/800px-Leuchtfeuer_Heidkate_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/1200px-Leuchtfeuer_Heidkate_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/1920px-Leuchtfeuer_Heidkate_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Leuchtfeuer_Heidkate_1.jpg/1920px-Leuchtfeuer_Heidkate_1.jpg
+---
 
 ## Overview
 

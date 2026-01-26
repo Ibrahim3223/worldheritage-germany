@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/400px-IFWeingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/800px-IFWeingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/1200px-IFWeingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/1920px-IFWeingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IFWeingang.jpg/1920px-IFWeingang.jpg
+---
 
 ## Overview
 

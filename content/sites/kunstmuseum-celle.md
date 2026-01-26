@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/400px-Celle-Kunstmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/800px-Celle-Kunstmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/1200px-Celle-Kunstmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/1920px-Celle-Kunstmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle-Kunstmuseum.jpg/1920px-Celle-Kunstmuseum.jpg
+---
 
 ## Overview
 

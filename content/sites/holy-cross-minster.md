@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/400px-Gmuend_Muenster_von_Suedwest.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/800px-Gmuend_Muenster_von_Suedwest.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/1200px-Gmuend_Muenster_von_Suedwest.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/1920px-Gmuend_Muenster_von_Suedwest.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gmuend_Muenster_von_Suedwest.jpg/1920px-Gmuend_Muenster_von_Suedwest.jpg
+---
 
 ## Overview
 

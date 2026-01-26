@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/400px-Burg-gruttenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/800px-Burg-gruttenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/1200px-Burg-gruttenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/1920px-Burg-gruttenstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg-gruttenstein.jpg/1920px-Burg-gruttenstein.jpg
+---
 
 ## Overview
 

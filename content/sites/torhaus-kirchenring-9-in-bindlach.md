@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/400px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/800px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/1200px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/1920px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bindlach,_Benk,_Kirchhofbefestigung-004.jpg/1920px-Bindlach,_Benk,_Kirchhofbefestigung-004.jpg
+---
 
 ## Overview
 

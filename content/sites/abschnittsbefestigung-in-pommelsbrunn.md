@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/400px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/800px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/1200px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/1920px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg/1920px-Abschnittsbefestigung_Hohenstädter_Felsen_001.jpg
+---
 
 ## Overview
 

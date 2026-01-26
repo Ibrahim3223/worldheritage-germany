@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bayerisches_Moor-_und_Torfmuseum_03.jpg/400px-Bayerisches_Moor-_und_Torfmuseum_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bayerisches_Moor-_und_Torfmuseum_03.jpg/800px-Bayerisches_Moor-_und_Torfmuseum_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bayerisches_Moor-_und_Torfmuseum_03.jpg/1200px-Bayerisches_Moor-_und_Torfmuseum_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bayerisches_Moor-_und_Torfmuseum_03.jpg/1920px-Bayerisches_Moor-_und_Torfmuseum_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bayerisches_Moor-_und_Torfmuseum_03.jpg/1920px-Bayerisches_Moor-_und_Torfmuseum_03.jpg
+---
 
 ## Overview
 

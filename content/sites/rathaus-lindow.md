@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/400px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/800px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/1200px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/1920px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg/1920px-Straße_des_Friedens_20_Rathaus_Lindow_Mark.jpg
+---
 
 ## Overview
 

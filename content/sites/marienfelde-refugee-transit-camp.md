@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/400px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/800px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/1200px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/1920px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg/1920px-Bundesarchiv_B_145_Bild-F005835-0004,_Marienfelde,_Flüchtlingslager.jpg
+---
 
 ## Overview
 

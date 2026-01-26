@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/400px-Lindewerra_-_Stockmacherei.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/800px-Lindewerra_-_Stockmacherei.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/1200px-Lindewerra_-_Stockmacherei.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/1920px-Lindewerra_-_Stockmacherei.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lindewerra_-_Stockmacherei.JPG/1920px-Lindewerra_-_Stockmacherei.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/400px-Waldstein_Sendeturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/800px-Waldstein_Sendeturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/1200px-Waldstein_Sendeturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/1920px-Waldstein_Sendeturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Waldstein_Sendeturm.JPG/1920px-Waldstein_Sendeturm.JPG
+---
 
 ## Overview
 

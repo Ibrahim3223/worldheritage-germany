@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/400px-Brahms5.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/800px-Brahms5.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/1200px-Brahms5.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/1920px-Brahms5.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brahms5.JPG/1920px-Brahms5.JPG
+---
 
 ## Overview
 

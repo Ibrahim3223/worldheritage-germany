@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/400px-Berlin_Tiergarten_Carillon.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/800px-Berlin_Tiergarten_Carillon.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/1200px-Berlin_Tiergarten_Carillon.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/1920px-Berlin_Tiergarten_Carillon.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/1920px-Berlin_Tiergarten_Carillon.JPG
+---
 
 ## Overview
 

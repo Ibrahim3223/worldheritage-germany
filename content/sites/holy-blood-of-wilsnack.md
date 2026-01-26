@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/400px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/800px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/1200px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/1920px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg/1920px-Prignitz_07-13_img09_Bad_Wilsnack_Kirche.jpg
+---
 
 ## Overview
 

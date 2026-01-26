@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/400px-Außenansicht_Elementarium_3.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/800px-Außenansicht_Elementarium_3.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/1200px-Außenansicht_Elementarium_3.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/1920px-Außenansicht_Elementarium_3.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Außenansicht_Elementarium_3.jpeg/1920px-Außenansicht_Elementarium_3.jpeg
+---
 
 ## Overview
 

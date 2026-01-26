@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/400px-Wallerfangen_Louisenstraße_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/800px-Wallerfangen_Louisenstraße_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/1200px-Wallerfangen_Louisenstraße_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/1920px-Wallerfangen_Louisenstraße_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wallerfangen_Louisenstraße_3.jpg/1920px-Wallerfangen_Louisenstraße_3.jpg
+---
 
 ## Overview
 

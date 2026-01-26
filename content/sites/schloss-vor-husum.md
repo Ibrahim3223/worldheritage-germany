@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/400px-Schloss_vor_Husum,_Hof_I-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/800px-Schloss_vor_Husum,_Hof_I-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/1200px-Schloss_vor_Husum,_Hof_I-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/1920px-Schloss_vor_Husum,_Hof_I-2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schloss_vor_Husum,_Hof_I-2.JPG/1920px-Schloss_vor_Husum,_Hof_I-2.JPG
+---
 
 ## Overview
 

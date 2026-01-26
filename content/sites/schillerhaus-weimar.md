@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/400px-Schiller_Weimar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/800px-Schiller_Weimar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/1200px-Schiller_Weimar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/1920px-Schiller_Weimar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schiller_Weimar.jpg/1920px-Schiller_Weimar.jpg
+---
 
 ## Overview
 

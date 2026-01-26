@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/400px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/800px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/1200px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/1920px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zons_Burg_Friedestrom_Herrenhaus_49.JPG/1920px-Zons_Burg_Friedestrom_Herrenhaus_49.JPG
+---
 
 ## Overview
 

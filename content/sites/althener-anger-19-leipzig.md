@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/400px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/800px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/1200px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/1920px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Althener_Anger_19_-_Althen_(Leipzig)_03.jpg/1920px-Althener_Anger_19_-_Althen_(Leipzig)_03.jpg
+---
 
 ## Overview
 

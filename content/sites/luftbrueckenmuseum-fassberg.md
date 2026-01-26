@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/400px-Luftbrückenmuseum_Faßberg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/800px-Luftbrückenmuseum_Faßberg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/1200px-Luftbrückenmuseum_Faßberg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/1920px-Luftbrückenmuseum_Faßberg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Luftbrückenmuseum_Faßberg_1.jpg/1920px-Luftbrückenmuseum_Faßberg_1.jpg
+---
 
 ## Overview
 

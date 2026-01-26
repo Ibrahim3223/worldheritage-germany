@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/400px-Kirche_Ziethen_Vorpommern_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/800px-Kirche_Ziethen_Vorpommern_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1200px-Kirche_Ziethen_Vorpommern_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1920px-Kirche_Ziethen_Vorpommern_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1920px-Kirche_Ziethen_Vorpommern_1.jpg
+---
 
 ## Overview
 

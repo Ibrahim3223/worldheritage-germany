@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/400px-Windmühle_Escher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/800px-Windmühle_Escher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/1200px-Windmühle_Escher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/1920px-Windmühle_Escher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Windmühle_Escher.jpg/1920px-Windmühle_Escher.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/400px-Horner_Kirche_mit_Linde_jh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/800px-Horner_Kirche_mit_Linde_jh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/1200px-Horner_Kirche_mit_Linde_jh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/1920px-Horner_Kirche_mit_Linde_jh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/1920px-Horner_Kirche_mit_Linde_jh.jpg
+---
 
 ## Overview
 

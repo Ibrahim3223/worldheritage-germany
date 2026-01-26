@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/400px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/800px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1200px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1920px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1920px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
+---
 
 ## Overview
 

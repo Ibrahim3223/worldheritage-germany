@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Schanze_bei_Klein_Zicker.JPG/400px-Schanze_bei_Klein_Zicker.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Schanze_bei_Klein_Zicker.JPG/800px-Schanze_bei_Klein_Zicker.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Schanze_bei_Klein_Zicker.JPG/1200px-Schanze_bei_Klein_Zicker.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Schanze_bei_Klein_Zicker.JPG/1920px-Schanze_bei_Klein_Zicker.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Schanze_bei_Klein_Zicker.JPG/1920px-Schanze_bei_Klein_Zicker.JPG
+---
 
 ## Overview
 

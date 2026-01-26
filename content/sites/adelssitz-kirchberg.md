@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/400px-St._Martin_(Kirchberg_an_der_Iller).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/800px-St._Martin_(Kirchberg_an_der_Iller).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1200px-St._Martin_(Kirchberg_an_der_Iller).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1920px-St._Martin_(Kirchberg_an_der_Iller).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/St._Martin_(Kirchberg_an_der_Iller).JPG/1920px-St._Martin_(Kirchberg_an_der_Iller).JPG
+---
 
 ## Overview
 

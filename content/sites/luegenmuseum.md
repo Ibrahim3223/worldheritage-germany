@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Serkowitz,_Lügenmuseum.JPG/400px-Serkowitz,_Lügenmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Serkowitz,_Lügenmuseum.JPG/800px-Serkowitz,_Lügenmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Serkowitz,_Lügenmuseum.JPG/1200px-Serkowitz,_Lügenmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Serkowitz,_Lügenmuseum.JPG/1920px-Serkowitz,_Lügenmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Serkowitz,_Lügenmuseum.JPG/1920px-Serkowitz,_Lügenmuseum.JPG
+---
 
 ## Overview
 

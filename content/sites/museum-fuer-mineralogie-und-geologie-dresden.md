@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/400px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/800px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/1200px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/1920px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg/1920px-Amethyst_in_Senckenberg-Sammlungen_Dresden_(3).jpg
+---
 
 ## Overview
 

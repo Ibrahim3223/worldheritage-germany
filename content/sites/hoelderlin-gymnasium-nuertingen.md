@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/400px-HöGy_Nürtingen_Gesamtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/800px-HöGy_Nürtingen_Gesamtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/1200px-HöGy_Nürtingen_Gesamtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/1920px-HöGy_Nürtingen_Gesamtansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/HöGy_Nürtingen_Gesamtansicht.jpg/1920px-HöGy_Nürtingen_Gesamtansicht.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wittenberg_-_Museum_im_Zeughaus.jpg/400px-Wittenberg_-_Museum_im_Zeughaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wittenberg_-_Museum_im_Zeughaus.jpg/800px-Wittenberg_-_Museum_im_Zeughaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wittenberg_-_Museum_im_Zeughaus.jpg/1200px-Wittenberg_-_Museum_im_Zeughaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wittenberg_-_Museum_im_Zeughaus.jpg/1920px-Wittenberg_-_Museum_im_Zeughaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wittenberg_-_Museum_im_Zeughaus.jpg/1920px-Wittenberg_-_Museum_im_Zeughaus.jpg
+---
 
 ## Overview
 

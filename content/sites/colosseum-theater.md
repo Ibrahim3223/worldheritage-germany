@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/400px-Colosseum_Theater_Essen_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/800px-Colosseum_Theater_Essen_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1200px-Colosseum_Theater_Essen_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1920px-Colosseum_Theater_Essen_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1920px-Colosseum_Theater_Essen_2011.jpg
+---
 
 ## Overview
 

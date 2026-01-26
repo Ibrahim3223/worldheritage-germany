@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/400px-Feld_der_Vereinten_Nationen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/800px-Feld_der_Vereinten_Nationen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/1200px-Feld_der_Vereinten_Nationen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/1920px-Feld_der_Vereinten_Nationen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Feld_der_Vereinten_Nationen.JPG/1920px-Feld_der_Vereinten_Nationen.JPG
+---
 
 ## Overview
 

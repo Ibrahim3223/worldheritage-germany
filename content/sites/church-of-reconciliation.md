@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/400px-Versoehnungskirche_Leipzig_Gohlis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/800px-Versoehnungskirche_Leipzig_Gohlis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/1200px-Versoehnungskirche_Leipzig_Gohlis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/1920px-Versoehnungskirche_Leipzig_Gohlis.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Versoehnungskirche_Leipzig_Gohlis.jpg/1920px-Versoehnungskirche_Leipzig_Gohlis.jpg
+---
 
 ## Overview
 

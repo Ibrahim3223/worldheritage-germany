@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg/400px-Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg/800px-Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg/1200px-Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg/1920px-Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg/1920px-Marzahn_Gaerten_der_Welt_08-2015_img13_Oriental_Garden.jpg
+---
 
 ## Overview
 

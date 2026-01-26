@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/400px-Waldgeschichtliches_Museum_St._Oswald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/800px-Waldgeschichtliches_Museum_St._Oswald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/1200px-Waldgeschichtliches_Museum_St._Oswald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/1920px-Waldgeschichtliches_Museum_St._Oswald.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waldgeschichtliches_Museum_St._Oswald.jpg/1920px-Waldgeschichtliches_Museum_St._Oswald.jpg
+---
 
 ## Overview
 

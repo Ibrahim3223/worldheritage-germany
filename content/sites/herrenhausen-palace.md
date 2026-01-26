@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/400px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/800px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1200px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1920px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1920px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
+---
 
 ## Overview
 

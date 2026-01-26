@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/400px-Linderhof-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/800px-Linderhof-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/1200px-Linderhof-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/1920px-Linderhof-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Linderhof-1.jpg/1920px-Linderhof-1.jpg
+---
 
 ## Overview
 

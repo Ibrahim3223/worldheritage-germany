@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/400px-Sulzburg_Synagoge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/800px-Sulzburg_Synagoge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/1200px-Sulzburg_Synagoge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/1920px-Sulzburg_Synagoge.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sulzburg_Synagoge.JPG/1920px-Sulzburg_Synagoge.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/400px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/800px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/1200px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/1920px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG/1920px-Drachenschlucht_Weg_Durch_Die_Schlucht_2.JPG
+---
 
 ## Overview
 

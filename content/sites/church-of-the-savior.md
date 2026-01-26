@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/400px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/800px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/1200px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/1920px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Berlin_Heilandskirche_Moabit_asv2021-03.jpg/1920px-Berlin_Heilandskirche_Moabit_asv2021-03.jpg
+---
 
 ## Overview
 

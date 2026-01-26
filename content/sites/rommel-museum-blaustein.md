@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/400px-Herrlingen_Villa_Lindenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/800px-Herrlingen_Villa_Lindenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/1200px-Herrlingen_Villa_Lindenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/1920px-Herrlingen_Villa_Lindenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herrlingen_Villa_Lindenhof.jpg/1920px-Herrlingen_Villa_Lindenhof.jpg
+---
 
 ## Overview
 

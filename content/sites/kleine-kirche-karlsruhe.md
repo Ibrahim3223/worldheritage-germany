@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/400px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/800px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/1200px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/1920px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg/1920px-Karlsruhe_asv2022-10_img06_Kleine_Kirche.jpg
+---
 
 ## Overview
 

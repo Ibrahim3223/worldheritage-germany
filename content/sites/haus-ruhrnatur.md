@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/400px-Haus_Ruhrnatur_Schiff.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/800px-Haus_Ruhrnatur_Schiff.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/1200px-Haus_Ruhrnatur_Schiff.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/1920px-Haus_Ruhrnatur_Schiff.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Ruhrnatur_Schiff.JPG/1920px-Haus_Ruhrnatur_Schiff.JPG
+---
 
 ## Overview
 

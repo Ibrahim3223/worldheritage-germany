@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/400px-Dithm_Landesmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/800px-Dithm_Landesmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1200px-Dithm_Landesmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1920px-Dithm_Landesmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1920px-Dithm_Landesmuseum.JPG
+---
 
 ## Overview
 

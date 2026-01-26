@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/400px-2014_06_22_Klosterruine_Limburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/800px-2014_06_22_Klosterruine_Limburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/1200px-2014_06_22_Klosterruine_Limburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/1920px-2014_06_22_Klosterruine_Limburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2014_06_22_Klosterruine_Limburg.jpg/1920px-2014_06_22_Klosterruine_Limburg.jpg
+---
 
 ## Overview
 

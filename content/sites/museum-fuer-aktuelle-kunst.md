@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/400px-Sammlung_Hurrle_(11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/800px-Sammlung_Hurrle_(11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/1200px-Sammlung_Hurrle_(11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/1920px-Sammlung_Hurrle_(11).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sammlung_Hurrle_(11).jpg/1920px-Sammlung_Hurrle_(11).jpg
+---
 
 ## Overview
 

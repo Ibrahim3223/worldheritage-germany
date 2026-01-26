@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/400px-Bad_Nenndorf_Landgrafenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/800px-Bad_Nenndorf_Landgrafenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/1200px-Bad_Nenndorf_Landgrafenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/1920px-Bad_Nenndorf_Landgrafenhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bad_Nenndorf_Landgrafenhaus.JPG/1920px-Bad_Nenndorf_Landgrafenhaus.JPG
+---
 
 ## Overview
 

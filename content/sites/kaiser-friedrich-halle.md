@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/400px-KaiserFriedrichHalle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/800px-KaiserFriedrichHalle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/1200px-KaiserFriedrichHalle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/1920px-KaiserFriedrichHalle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KaiserFriedrichHalle.JPG/1920px-KaiserFriedrichHalle.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/400px-Glaselefant.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/800px-Glaselefant.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/1200px-Glaselefant.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/1920px-Glaselefant.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Glaselefant.jpg/1920px-Glaselefant.jpg
+---
 
 ## Overview
 

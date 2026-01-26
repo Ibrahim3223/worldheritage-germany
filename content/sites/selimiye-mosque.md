@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/400px-Deggendorf_camii_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/800px-Deggendorf_camii_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/1200px-Deggendorf_camii_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/1920px-Deggendorf_camii_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Deggendorf_camii_1.jpg/1920px-Deggendorf_camii_1.jpg
+---
 
 ## Overview
 

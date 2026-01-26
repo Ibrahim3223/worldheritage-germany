@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/400px-Sterntor_Bonn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/800px-Sterntor_Bonn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/1200px-Sterntor_Bonn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/1920px-Sterntor_Bonn.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sterntor_Bonn.JPG/1920px-Sterntor_Bonn.JPG
+---
 
 ## Overview
 

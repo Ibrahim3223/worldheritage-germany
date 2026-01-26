@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/400px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/800px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/1200px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/1920px-Schloss_Freudental_Ansicht_Volutengiebel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Freudental_Ansicht_Volutengiebel.jpg/1920px-Schloss_Freudental_Ansicht_Volutengiebel.jpg
+---
 
 ## Overview
 

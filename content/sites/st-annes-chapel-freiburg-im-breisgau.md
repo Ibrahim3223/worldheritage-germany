@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Anna_Kapelle_(Freiburg)_06.jpg/400px-Anna_Kapelle_(Freiburg)_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Anna_Kapelle_(Freiburg)_06.jpg/800px-Anna_Kapelle_(Freiburg)_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Anna_Kapelle_(Freiburg)_06.jpg/1200px-Anna_Kapelle_(Freiburg)_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Anna_Kapelle_(Freiburg)_06.jpg/1920px-Anna_Kapelle_(Freiburg)_06.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Anna_Kapelle_(Freiburg)_06.jpg/1920px-Anna_Kapelle_(Freiburg)_06.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/400px-Versuchs-_und_Schaugarten_Brocken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/800px-Versuchs-_und_Schaugarten_Brocken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/1200px-Versuchs-_und_Schaugarten_Brocken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/1920px-Versuchs-_und_Schaugarten_Brocken.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Versuchs-_und_Schaugarten_Brocken.JPG/1920px-Versuchs-_und_Schaugarten_Brocken.JPG
+---
 
 ## Overview
 

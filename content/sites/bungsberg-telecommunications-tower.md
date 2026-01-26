@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/400px-Bungsberg_Fernmeldeturm_2012a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/800px-Bungsberg_Fernmeldeturm_2012a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/1200px-Bungsberg_Fernmeldeturm_2012a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/1920px-Bungsberg_Fernmeldeturm_2012a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/1920px-Bungsberg_Fernmeldeturm_2012a.jpg
+---
 
 ## Overview
 

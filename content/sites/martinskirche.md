@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/400px-Bunde_Kirche_Nordseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/800px-Bunde_Kirche_Nordseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/1200px-Bunde_Kirche_Nordseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/1920px-Bunde_Kirche_Nordseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bunde_Kirche_Nordseite.jpg/1920px-Bunde_Kirche_Nordseite.jpg
+---
 
 ## Overview
 

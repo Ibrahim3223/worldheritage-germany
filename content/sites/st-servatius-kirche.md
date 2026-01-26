@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/400px-Duderstadt_-_St._Servatius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/800px-Duderstadt_-_St._Servatius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/1200px-Duderstadt_-_St._Servatius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/1920px-Duderstadt_-_St._Servatius.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Duderstadt_-_St._Servatius.jpg/1920px-Duderstadt_-_St._Servatius.jpg
+---
 
 ## Overview
 

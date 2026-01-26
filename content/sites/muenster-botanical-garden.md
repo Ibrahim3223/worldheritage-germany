@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg/400px-Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg/800px-Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg/1200px-Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg/1920px-Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg/1920px-Aerial_image_the_garden_of_Schloss_Münster_(view_from_the_west).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/400px-Gebäude-Charlottenklinik-Stuttgart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/800px-Gebäude-Charlottenklinik-Stuttgart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/1200px-Gebäude-Charlottenklinik-Stuttgart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/1920px-Gebäude-Charlottenklinik-Stuttgart.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gebäude-Charlottenklinik-Stuttgart.jpg/1920px-Gebäude-Charlottenklinik-Stuttgart.jpg
+---
 
 ## Overview
 

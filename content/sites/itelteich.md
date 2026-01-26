@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blick_zum_Itelteich.jpg/400px-Blick_zum_Itelteich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blick_zum_Itelteich.jpg/800px-Blick_zum_Itelteich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blick_zum_Itelteich.jpg/1200px-Blick_zum_Itelteich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blick_zum_Itelteich.jpg/1920px-Blick_zum_Itelteich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blick_zum_Itelteich.jpg/1920px-Blick_zum_Itelteich.jpg
+---
 
 ## Overview
 

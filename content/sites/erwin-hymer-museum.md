@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/400px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/800px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/1200px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/1920px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/1920px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
+---
 
 ## Overview
 

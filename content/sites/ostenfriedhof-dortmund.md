@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/400px-IMG_6380-Ostfriedhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/800px-IMG_6380-Ostfriedhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/1200px-IMG_6380-Ostfriedhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/1920px-IMG_6380-Ostfriedhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IMG_6380-Ostfriedhof.JPG/1920px-IMG_6380-Ostfriedhof.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg/400px-Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg/800px-Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg/1200px-Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg/1920px-Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg/1920px-Lübeln_Rundlingsmuseum_Wendlandhof_(2).jpg
+---
 
 ## Overview
 

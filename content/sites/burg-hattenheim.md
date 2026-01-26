@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hattenheim-01.jpg/400px-Hattenheim-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hattenheim-01.jpg/800px-Hattenheim-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hattenheim-01.jpg/1200px-Hattenheim-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hattenheim-01.jpg/1920px-Hattenheim-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hattenheim-01.jpg/1920px-Hattenheim-01.jpg
+---
 
 ## Overview
 

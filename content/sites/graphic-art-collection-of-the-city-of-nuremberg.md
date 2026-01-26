@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/400px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/800px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/1200px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/1920px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg/1920px-Grafische_Sammlung_im_Eisenwerk_Nürnberg_3.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Neuenkirchener_Moor_04.JPG/400px-Naturschutzgebiet_Neuenkirchener_Moor_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Neuenkirchener_Moor_04.JPG/800px-Naturschutzgebiet_Neuenkirchener_Moor_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Neuenkirchener_Moor_04.JPG/1200px-Naturschutzgebiet_Neuenkirchener_Moor_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Neuenkirchener_Moor_04.JPG/1920px-Naturschutzgebiet_Neuenkirchener_Moor_04.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Neuenkirchener_Moor_04.JPG/1920px-Naturschutzgebiet_Neuenkirchener_Moor_04.JPG
+---
 
 ## Overview
 

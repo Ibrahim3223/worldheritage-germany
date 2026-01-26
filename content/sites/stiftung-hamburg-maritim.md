@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg/400px-Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg/800px-Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg/1200px-Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg/1920px-Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg/1920px-Kopfgebäude_Schuppen_52_A,_Kleiner_Grasbrook,_Hafen_Hamburg-9210.jpg
+---
 
 ## Overview
 

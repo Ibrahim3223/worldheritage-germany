@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/400px-Roter-Ochse2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/800px-Roter-Ochse2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/1200px-Roter-Ochse2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/1920px-Roter-Ochse2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roter-Ochse2.JPG/1920px-Roter-Ochse2.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/400px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/800px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/1200px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/1920px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg/1920px-Andreaskirche_(Berlin-Wannsee)_Vorhalle.jpg
+---
 
 ## Overview
 

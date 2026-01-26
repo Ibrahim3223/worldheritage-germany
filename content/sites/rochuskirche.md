@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/400px-Rochuskirche4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/800px-Rochuskirche4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/1200px-Rochuskirche4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/1920px-Rochuskirche4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rochuskirche4.JPG/1920px-Rochuskirche4.JPG
+---
 
 ## Overview
 

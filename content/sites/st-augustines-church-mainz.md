@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/400px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/800px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/1200px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/1920px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg/1920px-Mainz_Augustinerkirche_BW_2012-08-18_12-49-25.jpg
+---
 
 ## Overview
 

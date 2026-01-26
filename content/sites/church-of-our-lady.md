@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/400px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/800px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1200px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1920px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1920px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg
+---
 
 ## Overview
 

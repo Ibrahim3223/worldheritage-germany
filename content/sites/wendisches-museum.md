@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/400px-Wendisches_Museum-Cottbus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/800px-Wendisches_Museum-Cottbus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/1200px-Wendisches_Museum-Cottbus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/1920px-Wendisches_Museum-Cottbus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wendisches_Museum-Cottbus.JPG/1920px-Wendisches_Museum-Cottbus.JPG
+---
 
 ## Overview
 

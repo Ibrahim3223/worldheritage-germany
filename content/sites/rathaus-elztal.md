@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/400px-Rathaus_Elztal_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/800px-Rathaus_Elztal_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/1200px-Rathaus_Elztal_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/1920px-Rathaus_Elztal_2024.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rathaus_Elztal_2024.jpg/1920px-Rathaus_Elztal_2024.jpg
+---
 
 ## Overview
 

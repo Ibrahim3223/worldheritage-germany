@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Großkühnau.jpg/400px-Schloss_Großkühnau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Großkühnau.jpg/800px-Schloss_Großkühnau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Großkühnau.jpg/1200px-Schloss_Großkühnau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Großkühnau.jpg/1920px-Schloss_Großkühnau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Schloss_Großkühnau.jpg/1920px-Schloss_Großkühnau.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/400px-Det_lille_Teater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/800px-Det_lille_Teater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1200px-Det_lille_Teater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1920px-Det_lille_Teater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1920px-Det_lille_Teater.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/400px-Kirberg_-_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/800px-Kirberg_-_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1200px-Kirberg_-_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1920px-Kirberg_-_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1920px-Kirberg_-_Burg.jpg
+---
 
 ## Overview
 

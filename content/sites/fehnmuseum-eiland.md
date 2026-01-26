@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FehnmuseumEiland.JPG/400px-FehnmuseumEiland.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FehnmuseumEiland.JPG/800px-FehnmuseumEiland.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FehnmuseumEiland.JPG/1200px-FehnmuseumEiland.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FehnmuseumEiland.JPG/1920px-FehnmuseumEiland.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/FehnmuseumEiland.JPG/1920px-FehnmuseumEiland.JPG
+---
 
 ## Overview
 

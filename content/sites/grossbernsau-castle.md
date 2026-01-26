@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/400px-Burg_Großbernsau_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/800px-Burg_Großbernsau_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/1200px-Burg_Großbernsau_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/1920px-Burg_Großbernsau_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burg_Großbernsau_(2).jpg/1920px-Burg_Großbernsau_(2).jpg
+---
 
 ## Overview
 

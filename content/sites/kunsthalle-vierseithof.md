@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/400px-KunsthalleLUK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/800px-KunsthalleLUK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/1200px-KunsthalleLUK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/1920px-KunsthalleLUK.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KunsthalleLUK.jpg/1920px-KunsthalleLUK.jpg
+---
 
 ## Overview
 

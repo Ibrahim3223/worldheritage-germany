@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/400px-Sausenhofen_2012-05-11_(22-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/800px-Sausenhofen_2012-05-11_(22-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/1200px-Sausenhofen_2012-05-11_(22-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/1920px-Sausenhofen_2012-05-11_(22-2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sausenhofen_2012-05-11_(22-2).jpg/1920px-Sausenhofen_2012-05-11_(22-2).jpg
+---
 
 ## Overview
 

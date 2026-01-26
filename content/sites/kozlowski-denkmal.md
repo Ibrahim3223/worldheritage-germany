@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kozlowskidenkmal.JPG/400px-Kozlowskidenkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kozlowskidenkmal.JPG/800px-Kozlowskidenkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kozlowskidenkmal.JPG/1200px-Kozlowskidenkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kozlowskidenkmal.JPG/1920px-Kozlowskidenkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kozlowskidenkmal.JPG/1920px-Kozlowskidenkmal.JPG
+---
 
 ## Overview
 

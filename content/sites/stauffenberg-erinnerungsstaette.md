@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/400px-Stuttgart_Old_Castle_Stauffenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/800px-Stuttgart_Old_Castle_Stauffenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/1200px-Stuttgart_Old_Castle_Stauffenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/1920px-Stuttgart_Old_Castle_Stauffenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stuttgart_Old_Castle_Stauffenberg.jpg/1920px-Stuttgart_Old_Castle_Stauffenberg.jpg
+---
 
 ## Overview
 

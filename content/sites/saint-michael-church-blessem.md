@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/400px-Sankt_Michael_Blessem.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/800px-Sankt_Michael_Blessem.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/1200px-Sankt_Michael_Blessem.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/1920px-Sankt_Michael_Blessem.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt_Michael_Blessem.jpg/1920px-Sankt_Michael_Blessem.jpg
+---
 
 ## Overview
 

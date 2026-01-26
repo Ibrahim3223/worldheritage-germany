@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/400px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/800px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1200px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1920px-Groß_Eichsen_Kirche_2012-09-30_153.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1920px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
+---
 
 ## Overview
 

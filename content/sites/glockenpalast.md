@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/400px-Gifhorn,_Glockenpalast,_2.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/800px-Gifhorn,_Glockenpalast,_2.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/1200px-Gifhorn,_Glockenpalast,_2.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/1920px-Gifhorn,_Glockenpalast,_2.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gifhorn,_Glockenpalast,_2.jpeg/1920px-Gifhorn,_Glockenpalast,_2.jpeg
+---
 
 ## Overview
 

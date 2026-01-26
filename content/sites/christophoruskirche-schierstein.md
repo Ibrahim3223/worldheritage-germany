@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/400px-Schierstein_-_Christophoruskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/800px-Schierstein_-_Christophoruskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/1200px-Schierstein_-_Christophoruskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/1920px-Schierstein_-_Christophoruskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schierstein_-_Christophoruskirche.jpg/1920px-Schierstein_-_Christophoruskirche.jpg
+---
 
 ## Overview
 

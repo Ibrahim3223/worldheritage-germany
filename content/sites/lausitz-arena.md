@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/400px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/800px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/1200px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/1920px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png/1920px-Cottbus,_Sportzentrum_(Lausitz-Arena,_1_of_2).png
+---
 
 ## Overview
 

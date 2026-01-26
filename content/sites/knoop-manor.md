@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/400px-Gut_Knoop-Herrenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/800px-Gut_Knoop-Herrenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/1200px-Gut_Knoop-Herrenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/1920px-Gut_Knoop-Herrenhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gut_Knoop-Herrenhaus.JPG/1920px-Gut_Knoop-Herrenhaus.JPG
+---
 
 ## Overview
 

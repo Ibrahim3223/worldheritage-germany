@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/400px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/800px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/1200px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/1920px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg/1920px-Bad_Bevensen_Medingen_-_Klosterweg_-_Kloster_11_ies.jpg
+---
 
 ## Overview
 

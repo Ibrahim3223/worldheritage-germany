@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/400px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/800px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1200px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1920px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1920px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
+---
 
 ## Overview
 

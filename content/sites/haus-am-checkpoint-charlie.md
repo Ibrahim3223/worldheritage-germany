@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/400px-Haus_am_Checkpoint_Charlie.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/800px-Haus_am_Checkpoint_Charlie.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/1200px-Haus_am_Checkpoint_Charlie.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/1920px-Haus_am_Checkpoint_Charlie.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Haus_am_Checkpoint_Charlie.JPG/1920px-Haus_am_Checkpoint_Charlie.JPG
+---
 
 ## Overview
 

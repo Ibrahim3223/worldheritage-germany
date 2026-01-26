@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torgau,_Rosa_Luxenburg_Platz_4.JPG/400px-Torgau,_Rosa_Luxenburg_Platz_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torgau,_Rosa_Luxenburg_Platz_4.JPG/800px-Torgau,_Rosa_Luxenburg_Platz_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torgau,_Rosa_Luxenburg_Platz_4.JPG/1200px-Torgau,_Rosa_Luxenburg_Platz_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torgau,_Rosa_Luxenburg_Platz_4.JPG/1920px-Torgau,_Rosa_Luxenburg_Platz_4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torgau,_Rosa_Luxenburg_Platz_4.JPG/1920px-Torgau,_Rosa_Luxenburg_Platz_4.JPG
+---
 
 ## Overview
 

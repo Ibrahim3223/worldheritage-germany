@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/400px-Markt_(Krakow_am_See)_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/800px-Markt_(Krakow_am_See)_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/1200px-Markt_(Krakow_am_See)_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/1920px-Markt_(Krakow_am_See)_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Markt_(Krakow_am_See)_Rathaus.jpg/1920px-Markt_(Krakow_am_See)_Rathaus.jpg
+---
 
 ## Overview
 

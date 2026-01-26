@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/400px-Schloss_Allerheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/800px-Schloss_Allerheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/1200px-Schloss_Allerheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/1920px-Schloss_Allerheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Schloss_Allerheim.JPG/1920px-Schloss_Allerheim.JPG
+---
 
 ## Overview
 

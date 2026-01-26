@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/400px-GrabmalVictorundMargaretheSchoeller.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/800px-GrabmalVictorundMargaretheSchoeller.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/1200px-GrabmalVictorundMargaretheSchoeller.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/1920px-GrabmalVictorundMargaretheSchoeller.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GrabmalVictorundMargaretheSchoeller.jpg/1920px-GrabmalVictorundMargaretheSchoeller.jpg
+---
 
 ## Overview
 

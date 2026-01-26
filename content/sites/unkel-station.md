@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bahnhofsgebäude_Unkel.jpg/400px-Bahnhofsgebäude_Unkel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bahnhofsgebäude_Unkel.jpg/800px-Bahnhofsgebäude_Unkel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bahnhofsgebäude_Unkel.jpg/1200px-Bahnhofsgebäude_Unkel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bahnhofsgebäude_Unkel.jpg/1920px-Bahnhofsgebäude_Unkel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bahnhofsgebäude_Unkel.jpg/1920px-Bahnhofsgebäude_Unkel.jpg
+---
 
 ## Overview
 

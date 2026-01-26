@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/400px-Maerchenbrunnen1_Schulenburgpark.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/800px-Maerchenbrunnen1_Schulenburgpark.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/1200px-Maerchenbrunnen1_Schulenburgpark.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/1920px-Maerchenbrunnen1_Schulenburgpark.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Maerchenbrunnen1_Schulenburgpark.JPG/1920px-Maerchenbrunnen1_Schulenburgpark.JPG
+---
 
 ## Overview
 

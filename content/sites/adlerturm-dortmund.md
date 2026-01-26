@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/400px-Museum-adlerturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/800px-Museum-adlerturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1200px-Museum-adlerturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1920px-Museum-adlerturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1920px-Museum-adlerturm.jpg
+---
 
 ## Overview
 

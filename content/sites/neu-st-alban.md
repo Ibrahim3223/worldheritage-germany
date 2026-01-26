@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/400px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/800px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/1200px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/1920px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Neu_St._Alban_Südostseite,_Köln_-_9319.jpg/1920px-Neu_St._Alban_Südostseite,_Köln_-_9319.jpg
+---
 
 ## Overview
 

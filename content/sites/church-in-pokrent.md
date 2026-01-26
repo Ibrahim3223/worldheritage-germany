@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/400px-Pokrent_Kirche_2009-01-05_007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/800px-Pokrent_Kirche_2009-01-05_007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/1200px-Pokrent_Kirche_2009-01-05_007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/1920px-Pokrent_Kirche_2009-01-05_007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/1920px-Pokrent_Kirche_2009-01-05_007.jpg
+---
 
 ## Overview
 

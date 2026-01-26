@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/400px-Burg_Trausnitz_Landshut.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/800px-Burg_Trausnitz_Landshut.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/1200px-Burg_Trausnitz_Landshut.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/1920px-Burg_Trausnitz_Landshut.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Trausnitz_Landshut.jpg/1920px-Burg_Trausnitz_Landshut.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/400px-Bad_Schwartau_Georgskapelle_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/800px-Bad_Schwartau_Georgskapelle_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/1200px-Bad_Schwartau_Georgskapelle_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/1920px-Bad_Schwartau_Georgskapelle_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bad_Schwartau_Georgskapelle_01.jpg/1920px-Bad_Schwartau_Georgskapelle_01.jpg
+---
 
 ## Overview
 

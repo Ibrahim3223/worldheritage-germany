@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/400px-Pfingstkirche_Berlin_Friedrichshain.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/800px-Pfingstkirche_Berlin_Friedrichshain.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/1200px-Pfingstkirche_Berlin_Friedrichshain.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/1920px-Pfingstkirche_Berlin_Friedrichshain.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pfingstkirche_Berlin_Friedrichshain.JPG/1920px-Pfingstkirche_Berlin_Friedrichshain.JPG
+---
 
 ## Overview
 

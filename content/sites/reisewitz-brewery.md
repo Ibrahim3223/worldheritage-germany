@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WiesbadenerStr4-DD.jpg/400px-WiesbadenerStr4-DD.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WiesbadenerStr4-DD.jpg/800px-WiesbadenerStr4-DD.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WiesbadenerStr4-DD.jpg/1200px-WiesbadenerStr4-DD.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WiesbadenerStr4-DD.jpg/1920px-WiesbadenerStr4-DD.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WiesbadenerStr4-DD.jpg/1920px-WiesbadenerStr4-DD.jpg
+---
 
 ## Overview
 

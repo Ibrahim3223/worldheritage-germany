@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/400px-Rhododendronpark_Bremen_20090513_040.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/800px-Rhododendronpark_Bremen_20090513_040.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/1200px-Rhododendronpark_Bremen_20090513_040.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/1920px-Rhododendronpark_Bremen_20090513_040.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhododendronpark_Bremen_20090513_040.JPG/1920px-Rhododendronpark_Bremen_20090513_040.JPG
+---
 
 ## Overview
 

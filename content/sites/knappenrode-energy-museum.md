@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/400px-Hoyerswerda_Knappenrode_Aerial.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/800px-Hoyerswerda_Knappenrode_Aerial.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/1200px-Hoyerswerda_Knappenrode_Aerial.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/1920px-Hoyerswerda_Knappenrode_Aerial.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hoyerswerda_Knappenrode_Aerial.jpg/1920px-Hoyerswerda_Knappenrode_Aerial.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/400px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/800px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/1200px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/1920px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Clausthal-Zellerfeld_Bergwerksmuseum.jpg/1920px-Clausthal-Zellerfeld_Bergwerksmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/400px-Zugspitzmassiv-von-Almkopf-2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/800px-Zugspitzmassiv-von-Almkopf-2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1200px-Zugspitzmassiv-von-Almkopf-2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1920px-Zugspitzmassiv-von-Almkopf-2024.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1920px-Zugspitzmassiv-von-Almkopf-2024.jpg
+---
 
 ## Overview
 

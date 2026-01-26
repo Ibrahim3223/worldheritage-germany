@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/400px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/800px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/1200px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/1920px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg/1920px-Wetter_-_Haus_Hove_-_Haus_Hove_11_ies.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/400px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/800px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/1200px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/1920px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG/1920px-Juedischer_Friedhof_Ruedesheim_am_Rhein.JPG
+---
 
 ## Overview
 

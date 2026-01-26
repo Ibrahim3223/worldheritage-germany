@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/400px-MerzigFellenbergmühle2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/800px-MerzigFellenbergmühle2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1200px-MerzigFellenbergmühle2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1920px-MerzigFellenbergmühle2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1920px-MerzigFellenbergmühle2.jpg
+---
 
 ## Overview
 

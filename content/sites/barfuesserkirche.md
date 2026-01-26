@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/400px-Erfurt_Barfüßerkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/800px-Erfurt_Barfüßerkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/1200px-Erfurt_Barfüßerkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/1920px-Erfurt_Barfüßerkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erfurt_Barfüßerkirche.JPG/1920px-Erfurt_Barfüßerkirche.JPG
+---
 
 ## Overview
 

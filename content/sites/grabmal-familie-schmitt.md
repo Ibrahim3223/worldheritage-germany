@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/400px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/800px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/1200px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/1920px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg/1920px-Grabmal_R_6_a_31_Familie_Schmitt_Waldfriedhof_Darmstadt.jpg
+---
 
 ## Overview
 

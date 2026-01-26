@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg/400px-Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg/800px-Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg/1200px-Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg/1920px-Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg/1920px-Kito-Haus,_Altes_Packhaus_in_Bremen,_Alte_Hafenstraße_30.jpg
+---
 
 ## Overview
 

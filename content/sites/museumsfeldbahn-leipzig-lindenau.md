@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/400px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/800px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/1200px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/1920px-Museumsfeldbahn_Leipzig_IMG_7594.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Museumsfeldbahn_Leipzig_IMG_7594.JPG/1920px-Museumsfeldbahn_Leipzig_IMG_7594.JPG
+---
 
 ## Overview
 

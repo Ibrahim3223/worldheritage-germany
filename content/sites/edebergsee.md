@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/400px-Ploen_-_Edebergsee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/800px-Ploen_-_Edebergsee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/1200px-Ploen_-_Edebergsee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/1920px-Ploen_-_Edebergsee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ploen_-_Edebergsee.JPG/1920px-Ploen_-_Edebergsee.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg/400px-Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg/800px-Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg/1200px-Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg/1920px-Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg/1920px-Goßfelden_Otto_Ubbelohde_Haus_von_SO.jpg
+---
 
 ## Overview
 

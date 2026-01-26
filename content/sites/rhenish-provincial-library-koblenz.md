@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/400px-Rheinische_Landesbibliothek_Koblenz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/800px-Rheinische_Landesbibliothek_Koblenz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/1200px-Rheinische_Landesbibliothek_Koblenz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/1920px-Rheinische_Landesbibliothek_Koblenz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rheinische_Landesbibliothek_Koblenz.jpg/1920px-Rheinische_Landesbibliothek_Koblenz.jpg
+---
 
 ## Overview
 

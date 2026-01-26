@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/400px-AMG_-_Rekonstruktion_Römerlager.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/800px-AMG_-_Rekonstruktion_Römerlager.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/1200px-AMG_-_Rekonstruktion_Römerlager.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/1920px-AMG_-_Rekonstruktion_Römerlager.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AMG_-_Rekonstruktion_Römerlager.jpg/1920px-AMG_-_Rekonstruktion_Römerlager.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/400px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/800px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/1200px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/1920px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG/1920px-2013-05-03_Fotoflug_Nordholz_Papenburg_HP_2069.JPG
+---
 
 ## Overview
 

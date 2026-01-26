@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/400px-Deutsches_Technikmuseum_Berlin-49410.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/800px-Deutsches_Technikmuseum_Berlin-49410.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1200px-Deutsches_Technikmuseum_Berlin-49410.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1920px-Deutsches_Technikmuseum_Berlin-49410.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1920px-Deutsches_Technikmuseum_Berlin-49410.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg/400px-Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg/800px-Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg/1200px-Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg/1920px-Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg/1920px-Gut_Jersbek_(Jersbek).Torhaus.3.ajb.jpg
+---
 
 ## Overview
 

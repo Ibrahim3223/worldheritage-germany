@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/400px-Radebeul_Denkmal_Chronos_Trauernde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/800px-Radebeul_Denkmal_Chronos_Trauernde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/1200px-Radebeul_Denkmal_Chronos_Trauernde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/1920px-Radebeul_Denkmal_Chronos_Trauernde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Radebeul_Denkmal_Chronos_Trauernde.jpg/1920px-Radebeul_Denkmal_Chronos_Trauernde.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/400px-Kuppelnauturnhalle_Ravensburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/800px-Kuppelnauturnhalle_Ravensburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/1200px-Kuppelnauturnhalle_Ravensburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/1920px-Kuppelnauturnhalle_Ravensburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kuppelnauturnhalle_Ravensburg.jpg/1920px-Kuppelnauturnhalle_Ravensburg.jpg
+---
 
 ## Overview
 

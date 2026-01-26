@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/400px-Gautor-Oppenheim_innen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/800px-Gautor-Oppenheim_innen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/1200px-Gautor-Oppenheim_innen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/1920px-Gautor-Oppenheim_innen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gautor-Oppenheim_innen.jpg/1920px-Gautor-Oppenheim_innen.jpg
+---
 
 ## Overview
 

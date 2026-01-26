@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/400px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/800px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/1200px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/1920px-Monbijoupark_Berlin_Oranienburgerstraße.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Monbijoupark_Berlin_Oranienburgerstraße.JPG/1920px-Monbijoupark_Berlin_Oranienburgerstraße.JPG
+---
 
 ## Overview
 

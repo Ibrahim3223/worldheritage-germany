@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/400px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/800px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/1200px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/1920px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stuttgart-cannstatt-daimler-gewaechshaus.jpg/1920px-Stuttgart-cannstatt-daimler-gewaechshaus.jpg
+---
 
 ## Overview
 

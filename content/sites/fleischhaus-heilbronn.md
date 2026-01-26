@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/400px-Fleischhaus-hn-2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/800px-Fleischhaus-hn-2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/1200px-Fleischhaus-hn-2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/1920px-Fleischhaus-hn-2012.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fleischhaus-hn-2012.jpg/1920px-Fleischhaus-hn-2012.jpg
+---
 
 ## Overview
 

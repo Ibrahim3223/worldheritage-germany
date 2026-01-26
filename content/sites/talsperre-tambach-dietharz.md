@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/400px-Tambach-Dietharz-Stausee2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/800px-Tambach-Dietharz-Stausee2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/1200px-Tambach-Dietharz-Stausee2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/1920px-Tambach-Dietharz-Stausee2007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tambach-Dietharz-Stausee2007.jpg/1920px-Tambach-Dietharz-Stausee2007.jpg
+---
 
 ## Overview
 

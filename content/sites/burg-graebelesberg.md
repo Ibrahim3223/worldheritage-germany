@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/400px-Am_Gräbelesberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/800px-Am_Gräbelesberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/1200px-Am_Gräbelesberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/1920px-Am_Gräbelesberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Am_Gräbelesberg.jpg/1920px-Am_Gräbelesberg.jpg
+---
 
 ## Overview
 

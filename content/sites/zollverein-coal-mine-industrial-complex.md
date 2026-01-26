@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/400px-Zeche_Zollverein_abends.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/800px-Zeche_Zollverein_abends.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/1200px-Zeche_Zollverein_abends.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/1920px-Zeche_Zollverein_abends.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Zeche_Zollverein_abends.jpg/1920px-Zeche_Zollverein_abends.jpg
+---
 
 ## Overview
 

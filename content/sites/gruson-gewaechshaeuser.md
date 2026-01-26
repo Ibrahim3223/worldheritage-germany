@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/400px-Gruson-Gewächshäuser_Außen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/800px-Gruson-Gewächshäuser_Außen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1200px-Gruson-Gewächshäuser_Außen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1920px-Gruson-Gewächshäuser_Außen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1920px-Gruson-Gewächshäuser_Außen.JPG
+---
 
 ## Overview
 

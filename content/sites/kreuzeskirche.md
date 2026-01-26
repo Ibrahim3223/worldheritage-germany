@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/400px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/800px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1200px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1920px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg/1920px-NRW,_Essen,_Stadtkern_-_Kreuzes_Kirche.jpg
+---
 
 ## Overview
 

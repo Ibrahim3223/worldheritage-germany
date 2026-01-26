@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/400px-Ravensburg_Vogthaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/800px-Ravensburg_Vogthaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/1200px-Ravensburg_Vogthaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/1920px-Ravensburg_Vogthaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ravensburg_Vogthaus.jpg/1920px-Ravensburg_Vogthaus.jpg
+---
 
 ## Overview
 

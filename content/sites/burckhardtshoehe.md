@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/400px-Burckhardtshöhe_-_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/800px-Burckhardtshöhe_-_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/1200px-Burckhardtshöhe_-_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/1920px-Burckhardtshöhe_-_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burckhardtshöhe_-_01.jpg/1920px-Burckhardtshöhe_-_01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/400px-Reckenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/800px-Reckenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/1200px-Reckenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/1920px-Reckenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reckenberg.jpg/1920px-Reckenberg.jpg
+---
 
 ## Overview
 

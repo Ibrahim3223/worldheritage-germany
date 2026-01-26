@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/400px-Contwig-St_Laurentius-16-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/800px-Contwig-St_Laurentius-16-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/1200px-Contwig-St_Laurentius-16-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/1920px-Contwig-St_Laurentius-16-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Contwig-St_Laurentius-16-gje.jpg/1920px-Contwig-St_Laurentius-16-gje.jpg
+---
 
 ## Overview
 

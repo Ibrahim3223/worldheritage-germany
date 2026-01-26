@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/400px-Mahlsdorf_Dorfkirche_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/800px-Mahlsdorf_Dorfkirche_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/1200px-Mahlsdorf_Dorfkirche_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/1920px-Mahlsdorf_Dorfkirche_3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mahlsdorf_Dorfkirche_3.JPG/1920px-Mahlsdorf_Dorfkirche_3.JPG
+---
 
 ## Overview
 

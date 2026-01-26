@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/400px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/800px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/1200px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/1920px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg/1920px-Römisches_Haus_im_Park_an_der_Ilm_(Weimar).jpg
+---
 
 ## Overview
 

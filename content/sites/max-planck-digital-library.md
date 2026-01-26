@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/400px-MPDL_Niederlassung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/800px-MPDL_Niederlassung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/1200px-MPDL_Niederlassung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/1920px-MPDL_Niederlassung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MPDL_Niederlassung.jpg/1920px-MPDL_Niederlassung.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/400px-Hamburg_-_Hansa-Theater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/800px-Hamburg_-_Hansa-Theater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/1200px-Hamburg_-_Hansa-Theater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/1920px-Hamburg_-_Hansa-Theater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hamburg_-_Hansa-Theater.jpg/1920px-Hamburg_-_Hansa-Theater.jpg
+---
 
 ## Overview
 

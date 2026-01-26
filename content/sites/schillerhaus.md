@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/400px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/800px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/1200px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/1920px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg/1920px-Schillerhaus_Menckestrasse_Leipzig_2009.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/400px-Bunkermuseum-frauenwald-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/800px-Bunkermuseum-frauenwald-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/1200px-Bunkermuseum-frauenwald-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/1920px-Bunkermuseum-frauenwald-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/1920px-Bunkermuseum-frauenwald-2.jpg
+---
 
 ## Overview
 

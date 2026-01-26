@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/400px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/800px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/1200px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/1920px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Neue_Kirche_Wismar_2010_03_31_mv_068.JPG/1920px-Neue_Kirche_Wismar_2010_03_31_mv_068.JPG
+---
 
 ## Overview
 

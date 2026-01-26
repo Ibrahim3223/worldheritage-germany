@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/400px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/800px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/1200px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/1920px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg/1920px-2025-04-20_Alter_St._Nikolai-Friedhof_Hannover.jpg
+---
 
 ## Overview
 

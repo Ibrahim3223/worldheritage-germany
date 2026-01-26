@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/400px-Festung_am_Isteiner_Klotz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/800px-Festung_am_Isteiner_Klotz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1200px-Festung_am_Isteiner_Klotz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1920px-Festung_am_Isteiner_Klotz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1920px-Festung_am_Isteiner_Klotz.jpg
+---
 
 ## Overview
 

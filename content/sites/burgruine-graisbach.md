@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/400px-Burg_Graisbach_-_Philipp_Apian.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/800px-Burg_Graisbach_-_Philipp_Apian.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/1200px-Burg_Graisbach_-_Philipp_Apian.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/1920px-Burg_Graisbach_-_Philipp_Apian.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Graisbach_-_Philipp_Apian.jpg/1920px-Burg_Graisbach_-_Philipp_Apian.jpg
+---
 
 ## Overview
 

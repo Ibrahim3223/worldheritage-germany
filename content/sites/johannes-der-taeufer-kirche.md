@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/400px-Kirche_Wiesens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/800px-Kirche_Wiesens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/1200px-Kirche_Wiesens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/1920px-Kirche_Wiesens.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirche_Wiesens.jpg/1920px-Kirche_Wiesens.jpg
+---
 
 ## Overview
 

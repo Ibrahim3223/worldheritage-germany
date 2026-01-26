@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/400px-2021_Brunsbüttel_Schleusenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/800px-2021_Brunsbüttel_Schleusenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/1200px-2021_Brunsbüttel_Schleusenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/1920px-2021_Brunsbüttel_Schleusenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2021_Brunsbüttel_Schleusenmuseum.jpg/1920px-2021_Brunsbüttel_Schleusenmuseum.jpg
+---
 
 ## Overview
 

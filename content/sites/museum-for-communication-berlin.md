@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg/400px-Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg/800px-Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg/1200px-Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg/1920px-Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg/1920px-Berlin_Museum_fuer_Kommunikation_asv2019-07.jpg
+---
 
 ## Overview
 

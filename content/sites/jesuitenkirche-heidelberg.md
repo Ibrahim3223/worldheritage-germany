@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/400px-Jesuitenkirche_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/800px-Jesuitenkirche_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1200px-Jesuitenkirche_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1920px-Jesuitenkirche_Heidelberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1920px-Jesuitenkirche_Heidelberg.jpg
+---
 
 ## Overview
 

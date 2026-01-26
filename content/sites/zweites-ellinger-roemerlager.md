@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/400px-EllingenII_Luftbild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/800px-EllingenII_Luftbild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/1200px-EllingenII_Luftbild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/1920px-EllingenII_Luftbild.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EllingenII_Luftbild.jpg/1920px-EllingenII_Luftbild.jpg
+---
 
 ## Overview
 

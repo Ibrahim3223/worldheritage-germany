@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/400px-Hochbunker_Hohe_Marter.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/800px-Hochbunker_Hohe_Marter.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/1200px-Hochbunker_Hohe_Marter.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/1920px-Hochbunker_Hohe_Marter.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hochbunker_Hohe_Marter.JPG/1920px-Hochbunker_Hohe_Marter.JPG
+---
 
 ## Overview
 

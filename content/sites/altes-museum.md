@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/400px-Berlín_Staré_muzeum_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/800px-Berlín_Staré_muzeum_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1200px-Berlín_Staré_muzeum_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1920px-Berlín_Staré_muzeum_4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1920px-Berlín_Staré_muzeum_4.jpg
+---
 
 ## Overview
 

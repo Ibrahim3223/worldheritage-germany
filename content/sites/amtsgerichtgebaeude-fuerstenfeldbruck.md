@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/400px-Amtsgericht_FFB_(HDR).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/800px-Amtsgericht_FFB_(HDR).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/1200px-Amtsgericht_FFB_(HDR).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/1920px-Amtsgericht_FFB_(HDR).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amtsgericht_FFB_(HDR).jpg/1920px-Amtsgericht_FFB_(HDR).jpg
+---
 
 ## Overview
 

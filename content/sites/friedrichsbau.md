@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/400px-Friedrichsbau_Stuttgart_2013_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/800px-Friedrichsbau_Stuttgart_2013_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/1200px-Friedrichsbau_Stuttgart_2013_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/1920px-Friedrichsbau_Stuttgart_2013_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsbau_Stuttgart_2013_02.jpg/1920px-Friedrichsbau_Stuttgart_2013_02.jpg
+---
 
 ## Overview
 

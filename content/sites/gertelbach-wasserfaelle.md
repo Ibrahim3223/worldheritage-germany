@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/400px-Gertelbach-Wasserfälle_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/800px-Gertelbach-Wasserfälle_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1200px-Gertelbach-Wasserfälle_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1920px-Gertelbach-Wasserfälle_(1).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1920px-Gertelbach-Wasserfälle_(1).JPG
+---
 
 ## Overview
 

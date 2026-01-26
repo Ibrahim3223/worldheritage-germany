@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/400px-Lechmuseum_Bayern,_2024.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/800px-Lechmuseum_Bayern,_2024.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/1200px-Lechmuseum_Bayern,_2024.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/1920px-Lechmuseum_Bayern,_2024.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lechmuseum_Bayern,_2024.jpg/1920px-Lechmuseum_Bayern,_2024.jpg
+---
 
 ## Overview
 

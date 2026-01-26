@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/400px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/800px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/1200px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/1920px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg/1920px-Freiherr-vom-Stein-_Denkmal_in_Nebelin_(Prignitz).jpg
+---
 
 ## Overview
 

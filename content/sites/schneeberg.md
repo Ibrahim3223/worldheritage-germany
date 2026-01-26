@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schneeberg_Fichtelgebirge.jpg/400px-Schneeberg_Fichtelgebirge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schneeberg_Fichtelgebirge.jpg/800px-Schneeberg_Fichtelgebirge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schneeberg_Fichtelgebirge.jpg/1200px-Schneeberg_Fichtelgebirge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schneeberg_Fichtelgebirge.jpg/1920px-Schneeberg_Fichtelgebirge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schneeberg_Fichtelgebirge.jpg/1920px-Schneeberg_Fichtelgebirge.jpg
+---
 
 ## Overview
 

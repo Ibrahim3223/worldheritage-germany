@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/400px-Schweinegg_St._Rasso_GO-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/800px-Schweinegg_St._Rasso_GO-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/1200px-Schweinegg_St._Rasso_GO-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/1920px-Schweinegg_St._Rasso_GO-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schweinegg_St._Rasso_GO-2.jpg/1920px-Schweinegg_St._Rasso_GO-2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/400px-Meppen_-_Borkener_Paradies_14_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/800px-Meppen_-_Borkener_Paradies_14_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1200px-Meppen_-_Borkener_Paradies_14_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1920px-Meppen_-_Borkener_Paradies_14_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1920px-Meppen_-_Borkener_Paradies_14_ies.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/400px-Naturschutzgebiet_Bustedt_6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/800px-Naturschutzgebiet_Bustedt_6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/1200px-Naturschutzgebiet_Bustedt_6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/1920px-Naturschutzgebiet_Bustedt_6.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Naturschutzgebiet_Bustedt_6.JPG/1920px-Naturschutzgebiet_Bustedt_6.JPG
+---
 
 ## Overview
 

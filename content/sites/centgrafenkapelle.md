@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/400px-Centgrafenkapelle_Bürgstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/800px-Centgrafenkapelle_Bürgstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/1200px-Centgrafenkapelle_Bürgstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/1920px-Centgrafenkapelle_Bürgstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Centgrafenkapelle_Bürgstadt.jpg/1920px-Centgrafenkapelle_Bürgstadt.jpg
+---
 
 ## Overview
 

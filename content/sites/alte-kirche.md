@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/400px-OldChurchBorssum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/800px-OldChurchBorssum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/1200px-OldChurchBorssum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/1920px-OldChurchBorssum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/OldChurchBorssum.JPG/1920px-OldChurchBorssum.JPG
+---
 
 ## Overview
 

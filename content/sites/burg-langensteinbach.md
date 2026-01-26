@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burgruine-Langensteinbach.jpg/400px-Burgruine-Langensteinbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burgruine-Langensteinbach.jpg/800px-Burgruine-Langensteinbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burgruine-Langensteinbach.jpg/1200px-Burgruine-Langensteinbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burgruine-Langensteinbach.jpg/1920px-Burgruine-Langensteinbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burgruine-Langensteinbach.jpg/1920px-Burgruine-Langensteinbach.jpg
+---
 
 ## Overview
 

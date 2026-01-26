@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/400px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/800px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/1200px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/1920px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg/1920px-Baden-Baden_10-2015_img39_Museum_Frieder_Burda.jpg
+---
 
 ## Overview
 

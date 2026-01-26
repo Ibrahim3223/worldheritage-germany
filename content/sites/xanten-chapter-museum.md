@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg/400px-Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg/800px-Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg/1200px-Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg/1920px-Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg/1920px-Stiftsmuseum_Xanten,_Eingangsbereich_2018_-1790.jpg
+---
 
 ## Overview
 

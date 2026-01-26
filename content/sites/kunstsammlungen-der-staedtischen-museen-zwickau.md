@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/400px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/800px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/1200px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/1920px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg/1920px-19902-Zwickau-1915-Museum-Brück_&_Sohn_Kunstverlag.jpg
+---
 
 ## Overview
 

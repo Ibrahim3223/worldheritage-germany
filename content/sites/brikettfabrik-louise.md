@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/400px-Tröbitz_003,_Brikettfabrik_Louise.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/800px-Tröbitz_003,_Brikettfabrik_Louise.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/1200px-Tröbitz_003,_Brikettfabrik_Louise.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/1920px-Tröbitz_003,_Brikettfabrik_Louise.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tröbitz_003,_Brikettfabrik_Louise.JPG/1920px-Tröbitz_003,_Brikettfabrik_Louise.JPG
+---
 
 ## Overview
 

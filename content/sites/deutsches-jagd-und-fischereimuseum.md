@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/400px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/800px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/1200px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/1920px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/1920px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
+---
 
 ## Overview
 

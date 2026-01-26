@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/400px-Panorama_Gut_Bustedt_clouds.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/800px-Panorama_Gut_Bustedt_clouds.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/1200px-Panorama_Gut_Bustedt_clouds.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/1920px-Panorama_Gut_Bustedt_clouds.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panorama_Gut_Bustedt_clouds.jpg/1920px-Panorama_Gut_Bustedt_clouds.jpg
+---
 
 ## Overview
 

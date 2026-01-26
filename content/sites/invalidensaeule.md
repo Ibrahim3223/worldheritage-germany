@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin_Invalidensaeule_ZfB.jpg/400px-Berlin_Invalidensaeule_ZfB.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin_Invalidensaeule_ZfB.jpg/800px-Berlin_Invalidensaeule_ZfB.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin_Invalidensaeule_ZfB.jpg/1200px-Berlin_Invalidensaeule_ZfB.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin_Invalidensaeule_ZfB.jpg/1920px-Berlin_Invalidensaeule_ZfB.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin_Invalidensaeule_ZfB.jpg/1920px-Berlin_Invalidensaeule_ZfB.jpg
+---
 
 ## Overview
 

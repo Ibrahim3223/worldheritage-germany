@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/400px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/800px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/1200px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/1920px-Barneführer_Holz_und_Schreensmoor_-_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Barneführer_Holz_und_Schreensmoor_-_03.JPG/1920px-Barneführer_Holz_und_Schreensmoor_-_03.JPG
+---
 
 ## Overview
 

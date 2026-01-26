@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/400px-Landsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/800px-Landsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/1200px-Landsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/1920px-Landsburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Landsburg.JPG/1920px-Landsburg.JPG
+---
 
 ## Overview
 

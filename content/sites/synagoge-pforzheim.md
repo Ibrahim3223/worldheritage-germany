@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/400px-Synagogue_Pforzheim_-_exterior.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/800px-Synagogue_Pforzheim_-_exterior.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/1200px-Synagogue_Pforzheim_-_exterior.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/1920px-Synagogue_Pforzheim_-_exterior.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Synagogue_Pforzheim_-_exterior.jpg/1920px-Synagogue_Pforzheim_-_exterior.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/400px-Dessau,Großkühnau_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/800px-Dessau,Großkühnau_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1200px-Dessau,Großkühnau_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1920px-Dessau,Großkühnau_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1920px-Dessau,Großkühnau_Kirche.jpg
+---
 
 ## Overview
 

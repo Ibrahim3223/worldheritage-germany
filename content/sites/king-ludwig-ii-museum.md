@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/400px-Herrenchiemsee_NeuesSchloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/800px-Herrenchiemsee_NeuesSchloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/1200px-Herrenchiemsee_NeuesSchloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/1920px-Herrenchiemsee_NeuesSchloss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Herrenchiemsee_NeuesSchloss.JPG/1920px-Herrenchiemsee_NeuesSchloss.JPG
+---
 
 ## Overview
 

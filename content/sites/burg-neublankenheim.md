@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/400px-Neublankenheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/800px-Neublankenheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1200px-Neublankenheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1920px-Neublankenheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1920px-Neublankenheim.JPG
+---
 
 ## Overview
 

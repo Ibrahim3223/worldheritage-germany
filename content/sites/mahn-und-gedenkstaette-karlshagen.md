@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg/400px-Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg/800px-Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg/1200px-Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg/1920px-Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg/1920px-Mahn-_und_Gedenkstätte_Karlshagen_Bild1.jpg
+---
 
 ## Overview
 

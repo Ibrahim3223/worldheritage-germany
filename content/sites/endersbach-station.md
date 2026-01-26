@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/400px-Bahnhof_Endersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/800px-Bahnhof_Endersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/1200px-Bahnhof_Endersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/1920px-Bahnhof_Endersbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnhof_Endersbach.jpg/1920px-Bahnhof_Endersbach.jpg
+---
 
 ## Overview
 

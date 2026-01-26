@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/400px-Roemerpark_Koengen-2418.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/800px-Roemerpark_Koengen-2418.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/1200px-Roemerpark_Koengen-2418.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/1920px-Roemerpark_Koengen-2418.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Roemerpark_Koengen-2418.jpg/1920px-Roemerpark_Koengen-2418.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/400px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/800px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/1200px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/1920px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/1920px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/400px-New_City_Hall,_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/800px-New_City_Hall,_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/1200px-New_City_Hall,_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/1920px-New_City_Hall,_Göttingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_City_Hall,_Göttingen.jpg/1920px-New_City_Hall,_Göttingen.jpg
+---
 
 ## Overview
 

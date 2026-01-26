@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/400px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/800px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/1200px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/1920px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg/1920px-Pietà_auf_dem_Altar_der_Riederstein-Kapelle,.jpg
+---
 
 ## Overview
 

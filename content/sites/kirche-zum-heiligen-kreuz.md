@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/400px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/800px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/1200px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/1920px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kirche_zum_Heiligen_Kreuz_20161227_5.jpg/1920px-Kirche_zum_Heiligen_Kreuz_20161227_5.jpg
+---
 
 ## Overview
 

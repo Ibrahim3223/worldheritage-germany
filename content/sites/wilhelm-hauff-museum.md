@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/400px-Honau-Hauff-Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/800px-Honau-Hauff-Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/1200px-Honau-Hauff-Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/1920px-Honau-Hauff-Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Honau-Hauff-Museum.JPG/1920px-Honau-Hauff-Museum.JPG
+---
 
 ## Overview
 

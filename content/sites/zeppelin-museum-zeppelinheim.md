@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/400px-Zeppelin_museum_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/800px-Zeppelin_museum_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/1200px-Zeppelin_museum_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/1920px-Zeppelin_museum_Frankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeppelin_museum_Frankfurt.jpg/1920px-Zeppelin_museum_Frankfurt.jpg
+---
 
 ## Overview
 

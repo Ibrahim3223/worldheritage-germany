@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/400px-Freizeitbad_Oase.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/800px-Freizeitbad_Oase.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/1200px-Freizeitbad_Oase.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/1920px-Freizeitbad_Oase.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Freizeitbad_Oase.JPG/1920px-Freizeitbad_Oase.JPG
+---
 
 ## Overview
 

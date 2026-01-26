@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg/400px-Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg/800px-Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg/1200px-Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg/1920px-Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg/1920px-Fortuna_Fountain_at_Isartor_Platz_-_panoramio.jpg
+---
 
 ## Overview
 

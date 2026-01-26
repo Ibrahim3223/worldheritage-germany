@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/400px-Hertie-Stiftung.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/800px-Hertie-Stiftung.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/1200px-Hertie-Stiftung.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/1920px-Hertie-Stiftung.svg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hertie-Stiftung.svg/1920px-Hertie-Stiftung.svg.png
+---
 
 ## Overview
 

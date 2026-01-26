@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg/400px-Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg/800px-Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg/1200px-Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg/1920px-Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg/1920px-Luftbild_Schwielowsee_Caputh_Werder-Havel_Glindower-See_March_aerial_2014.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/400px-Schlosskirche_Eisenberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/800px-Schlosskirche_Eisenberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/1200px-Schlosskirche_Eisenberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/1920px-Schlosskirche_Eisenberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schlosskirche_Eisenberg.JPG/1920px-Schlosskirche_Eisenberg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/400px-FN_Schulmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/800px-FN_Schulmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/1200px-FN_Schulmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/1920px-FN_Schulmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FN_Schulmuseum.jpg/1920px-FN_Schulmuseum.jpg
+---
 
 ## Overview
 

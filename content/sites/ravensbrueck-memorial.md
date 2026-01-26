@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg/400px-Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg/800px-Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg/1200px-Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg/1920px-Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg/1920px-Bundesarchiv_Bild_183-66990-0001,_Mahn-_und_Gedenkstätte_Ravensbrück,_Teilansicht.jpg
+---
 
 ## Overview
 

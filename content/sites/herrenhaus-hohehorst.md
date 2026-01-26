@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/400px-Herrenhaus_Hohehorst_Rückansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/800px-Herrenhaus_Hohehorst_Rückansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/1200px-Herrenhaus_Hohehorst_Rückansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/1920px-Herrenhaus_Hohehorst_Rückansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Herrenhaus_Hohehorst_Rückansicht.JPG/1920px-Herrenhaus_Hohehorst_Rückansicht.JPG
+---
 
 ## Overview
 

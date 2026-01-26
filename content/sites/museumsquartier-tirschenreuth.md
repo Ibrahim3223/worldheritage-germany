@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/400px-Stadtmuseum_Tirschenreuth.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/800px-Stadtmuseum_Tirschenreuth.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/1200px-Stadtmuseum_Tirschenreuth.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/1920px-Stadtmuseum_Tirschenreuth.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stadtmuseum_Tirschenreuth.jpeg/1920px-Stadtmuseum_Tirschenreuth.jpeg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/400px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/800px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/1200px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/1920px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg/1920px-Hamburg-seewartenstrasse-brücke-ditmar-koel.jpg
+---
 
 ## Overview
 

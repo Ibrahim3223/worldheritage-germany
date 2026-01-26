@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/400px-Stiftskirche_Hechingen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/800px-Stiftskirche_Hechingen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/1200px-Stiftskirche_Hechingen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/1920px-Stiftskirche_Hechingen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stiftskirche_Hechingen1.JPG/1920px-Stiftskirche_Hechingen1.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/400px-Ev_Kirche_Dortmund_Dorstfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/800px-Ev_Kirche_Dortmund_Dorstfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1200px-Ev_Kirche_Dortmund_Dorstfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1920px-Ev_Kirche_Dortmund_Dorstfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1920px-Ev_Kirche_Dortmund_Dorstfeld.jpg
+---
 
 ## Overview
 

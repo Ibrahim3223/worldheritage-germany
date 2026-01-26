@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/400px-Nikolaikirche,_Kiel_msu2017-9142.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/800px-Nikolaikirche,_Kiel_msu2017-9142.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/1200px-Nikolaikirche,_Kiel_msu2017-9142.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/1920px-Nikolaikirche,_Kiel_msu2017-9142.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nikolaikirche,_Kiel_msu2017-9142.jpg/1920px-Nikolaikirche,_Kiel_msu2017-9142.jpg
+---
 
 ## Overview
 

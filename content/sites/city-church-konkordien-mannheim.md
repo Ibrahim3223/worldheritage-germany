@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/400px-Mannheim-Konkordienkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/800px-Mannheim-Konkordienkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/1200px-Mannheim-Konkordienkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/1920px-Mannheim-Konkordienkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/1920px-Mannheim-Konkordienkirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/400px-Dominikanerkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/800px-Dominikanerkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1200px-Dominikanerkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1920px-Dominikanerkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1920px-Dominikanerkirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/400px-Alte_Kirche_Pellworm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/800px-Alte_Kirche_Pellworm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/1200px-Alte_Kirche_Pellworm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/1920px-Alte_Kirche_Pellworm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alte_Kirche_Pellworm.jpg/1920px-Alte_Kirche_Pellworm.jpg
+---
 
 ## Overview
 

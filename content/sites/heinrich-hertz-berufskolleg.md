@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/400px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/800px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/1200px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/1920px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg/1920px-Heinrich-Hertz-Berufskolleg_in_Duesseldorf-Bilk,_von_Suedsuedwesten.jpg
+---
 
 ## Overview
 

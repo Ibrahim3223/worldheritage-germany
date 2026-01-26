@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/400px-ChurchBurhafe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/800px-ChurchBurhafe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/1200px-ChurchBurhafe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/1920px-ChurchBurhafe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ChurchBurhafe.jpg/1920px-ChurchBurhafe.jpg
+---
 
 ## Overview
 

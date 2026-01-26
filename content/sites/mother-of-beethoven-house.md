@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/400px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/800px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/1200px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/1920px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg/1920px-Mutter-Beethoven-Haus_01_Koblenz-Ehrenbreitstein_2013.jpg
+---
 
 ## Overview
 

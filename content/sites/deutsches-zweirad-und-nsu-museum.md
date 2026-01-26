@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/400px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/800px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1200px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1920px-Neckarsulm-ZweiradMuseum-Innenhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1920px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
+---
 
 ## Overview
 

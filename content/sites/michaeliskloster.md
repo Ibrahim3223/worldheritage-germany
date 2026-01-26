@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/400px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/800px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/1200px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/1920px-Rostock_asv2018-05_img51_Michaeliskloster.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rostock_asv2018-05_img51_Michaeliskloster.jpg/1920px-Rostock_asv2018-05_img51_Michaeliskloster.jpg
+---
 
 ## Overview
 

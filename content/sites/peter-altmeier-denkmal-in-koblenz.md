@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/400px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/800px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/1200px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/1920px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peter-Altmeier-Denkmal_Koblenz_2009.jpg/1920px-Peter-Altmeier-Denkmal_Koblenz_2009.jpg
+---
 
 ## Overview
 

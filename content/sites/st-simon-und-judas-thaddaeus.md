@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/400px-Otzenrath_neuKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/800px-Otzenrath_neuKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/1200px-Otzenrath_neuKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/1920px-Otzenrath_neuKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Otzenrath_neuKirche.jpg/1920px-Otzenrath_neuKirche.jpg
+---
 
 ## Overview
 

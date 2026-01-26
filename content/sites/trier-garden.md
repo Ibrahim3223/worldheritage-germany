@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/400px-Trierscher_Garten_Insel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/800px-Trierscher_Garten_Insel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/1200px-Trierscher_Garten_Insel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/1920px-Trierscher_Garten_Insel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Trierscher_Garten_Insel.jpg/1920px-Trierscher_Garten_Insel.jpg
+---
 
 ## Overview
 

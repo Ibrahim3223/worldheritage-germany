@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/400px-Wörlitz_Schloss_asv2024-06_img17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/800px-Wörlitz_Schloss_asv2024-06_img17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/1200px-Wörlitz_Schloss_asv2024-06_img17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/1920px-Wörlitz_Schloss_asv2024-06_img17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wörlitz_Schloss_asv2024-06_img17.jpg/1920px-Wörlitz_Schloss_asv2024-06_img17.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/400px-Potsdam_Stadtschloss_07-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/800px-Potsdam_Stadtschloss_07-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/1200px-Potsdam_Stadtschloss_07-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/1920px-Potsdam_Stadtschloss_07-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Potsdam_Stadtschloss_07-2017.jpg/1920px-Potsdam_Stadtschloss_07-2017.jpg
+---
 
 ## Overview
 

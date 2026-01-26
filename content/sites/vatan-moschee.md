@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/400px-Brackwede_DITIB-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/800px-Brackwede_DITIB-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/1200px-Brackwede_DITIB-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/1920px-Brackwede_DITIB-Moschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Brackwede_DITIB-Moschee.jpg/1920px-Brackwede_DITIB-Moschee.jpg
+---
 
 ## Overview
 

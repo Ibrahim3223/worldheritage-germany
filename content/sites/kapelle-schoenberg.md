@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/400px-Kapelle_Schönberg_Schrecksbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/800px-Kapelle_Schönberg_Schrecksbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/1200px-Kapelle_Schönberg_Schrecksbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/1920px-Kapelle_Schönberg_Schrecksbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kapelle_Schönberg_Schrecksbach.jpg/1920px-Kapelle_Schönberg_Schrecksbach.jpg
+---
 
 ## Overview
 

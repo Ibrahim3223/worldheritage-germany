@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/400px-Zollbahnhof_Altstadt.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/800px-Zollbahnhof_Altstadt.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/1200px-Zollbahnhof_Altstadt.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/1920px-Zollbahnhof_Altstadt.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Zollbahnhof_Altstadt.png/1920px-Zollbahnhof_Altstadt.png
+---
 
 ## Overview
 

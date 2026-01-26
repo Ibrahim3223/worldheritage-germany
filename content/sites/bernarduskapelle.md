@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/400px-Bernhardskapelle_(Vettelschoss).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/800px-Bernhardskapelle_(Vettelschoss).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/1200px-Bernhardskapelle_(Vettelschoss).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/1920px-Bernhardskapelle_(Vettelschoss).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bernhardskapelle_(Vettelschoss).jpg/1920px-Bernhardskapelle_(Vettelschoss).jpg
+---
 
 ## Overview
 

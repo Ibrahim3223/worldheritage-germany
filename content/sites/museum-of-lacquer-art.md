@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster_(Westfalen)_Museum_für_Lackkunst.jpg/400px-Münster_(Westfalen)_Museum_für_Lackkunst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster_(Westfalen)_Museum_für_Lackkunst.jpg/800px-Münster_(Westfalen)_Museum_für_Lackkunst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster_(Westfalen)_Museum_für_Lackkunst.jpg/1200px-Münster_(Westfalen)_Museum_für_Lackkunst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster_(Westfalen)_Museum_für_Lackkunst.jpg/1920px-Münster_(Westfalen)_Museum_für_Lackkunst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster_(Westfalen)_Museum_für_Lackkunst.jpg/1920px-Münster_(Westfalen)_Museum_für_Lackkunst.jpg
+---
 
 ## Overview
 

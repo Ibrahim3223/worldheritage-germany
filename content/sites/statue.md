@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/400px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/800px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/1200px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/1920px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg/1920px-Kronach_-_Andreas-Limmer-Straße_-_Nepomukstatue_2013.jpg
+---
 
 ## Overview
 

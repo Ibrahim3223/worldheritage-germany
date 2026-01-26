@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/400px-Wuerzburger_Residenz_vom_Hofgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/800px-Wuerzburger_Residenz_vom_Hofgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/1200px-Wuerzburger_Residenz_vom_Hofgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/1920px-Wuerzburger_Residenz_vom_Hofgarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Wuerzburger_Residenz_vom_Hofgarten.jpg/1920px-Wuerzburger_Residenz_vom_Hofgarten.jpg
+---
 
 ## Overview
 

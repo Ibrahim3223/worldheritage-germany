@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/400px-MuensterLotharingerChorfrauenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/800px-MuensterLotharingerChorfrauenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1200px-MuensterLotharingerChorfrauenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1920px-MuensterLotharingerChorfrauenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MuensterLotharingerChorfrauenkirche.jpg/1920px-MuensterLotharingerChorfrauenkirche.jpg
+---
 
 ## Overview
 

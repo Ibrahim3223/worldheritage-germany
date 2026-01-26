@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/400px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/800px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/1200px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/1920px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/1920px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
+---
 
 ## Overview
 

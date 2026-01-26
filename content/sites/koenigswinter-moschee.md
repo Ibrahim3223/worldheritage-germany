@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/400px-Moschee_Koenigswinter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/800px-Moschee_Koenigswinter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/1200px-Moschee_Koenigswinter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/1920px-Moschee_Koenigswinter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Moschee_Koenigswinter.jpg/1920px-Moschee_Koenigswinter.jpg
+---
 
 ## Overview
 

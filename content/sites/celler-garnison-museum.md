@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/400px-Garnison_Museum_Celle_außen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/800px-Garnison_Museum_Celle_außen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/1200px-Garnison_Museum_Celle_außen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/1920px-Garnison_Museum_Celle_außen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garnison_Museum_Celle_außen.JPG/1920px-Garnison_Museum_Celle_außen.JPG
+---
 
 ## Overview
 

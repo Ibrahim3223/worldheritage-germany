@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/400px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/800px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/1200px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/1920px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg/1920px-D-NW-MI-Lübbecke-Nettelstedt_-_Automuseum_1968-07_003.jpg
+---
 
 ## Overview
 

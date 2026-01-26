@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/400px-Peterstraße_29_Hamburg_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/800px-Peterstraße_29_Hamburg_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1200px-Peterstraße_29_Hamburg_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1920px-Peterstraße_29_Hamburg_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1920px-Peterstraße_29_Hamburg_2.JPG
+---
 
 ## Overview
 

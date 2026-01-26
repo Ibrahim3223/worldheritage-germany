@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/400px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/800px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1200px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1920px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1920px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
+---
 
 ## Overview
 

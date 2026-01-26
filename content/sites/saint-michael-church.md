@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/400px-Unterasbach_2011-10-20_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/800px-Unterasbach_2011-10-20_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/1200px-Unterasbach_2011-10-20_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/1920px-Unterasbach_2011-10-20_(3).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Unterasbach_2011-10-20_(3).JPG/1920px-Unterasbach_2011-10-20_(3).JPG
+---
 
 ## Overview
 

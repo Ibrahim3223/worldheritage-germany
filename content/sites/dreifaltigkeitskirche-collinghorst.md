@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/400px-ChurchCollinghorst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/800px-ChurchCollinghorst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/1200px-ChurchCollinghorst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/1920px-ChurchCollinghorst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ChurchCollinghorst.jpg/1920px-ChurchCollinghorst.jpg
+---
 
 ## Overview
 

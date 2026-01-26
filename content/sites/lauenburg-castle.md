@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/400px-Lauenburg_(kleine)_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/800px-Lauenburg_(kleine)_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/1200px-Lauenburg_(kleine)_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/1920px-Lauenburg_(kleine)_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lauenburg_(kleine)_02.jpg/1920px-Lauenburg_(kleine)_02.jpg
+---
 
 ## Overview
 

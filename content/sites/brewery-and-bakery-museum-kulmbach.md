@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/400px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/800px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/1200px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/1920px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG/1920px-Brauereimuseum_Kulmbach_kupferner_Sudkessel.JPG
+---
 
 ## Overview
 

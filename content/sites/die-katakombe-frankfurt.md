@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/400px-Die_Katakombe_Frankfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/800px-Die_Katakombe_Frankfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/1200px-Die_Katakombe_Frankfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/1920px-Die_Katakombe_Frankfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Die_Katakombe_Frankfurt.JPG/1920px-Die_Katakombe_Frankfurt.JPG
+---
 
 ## Overview
 

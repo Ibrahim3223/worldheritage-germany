@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/400px-ChurchHoltrop.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/800px-ChurchHoltrop.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1200px-ChurchHoltrop.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1920px-ChurchHoltrop.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1920px-ChurchHoltrop.JPG
+---
 
 ## Overview
 

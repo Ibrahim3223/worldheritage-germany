@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/400px-Leuchtturm_Nebel270.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/800px-Leuchtturm_Nebel270.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/1200px-Leuchtturm_Nebel270.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/1920px-Leuchtturm_Nebel270.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leuchtturm_Nebel270.jpg/1920px-Leuchtturm_Nebel270.jpg
+---
 
 ## Overview
 

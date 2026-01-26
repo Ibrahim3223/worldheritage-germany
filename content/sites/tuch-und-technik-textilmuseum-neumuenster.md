@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/400px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/800px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/1200px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/1920px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tuch_und_Technik_Textilmuseum_Neumünster.jpg/1920px-Tuch_und_Technik_Textilmuseum_Neumünster.jpg
+---
 
 ## Overview
 

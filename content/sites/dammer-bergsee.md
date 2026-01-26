@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/400px-Damme_lago_Bergsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/800px-Damme_lago_Bergsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/1200px-Damme_lago_Bergsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/1920px-Damme_lago_Bergsee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Damme_lago_Bergsee.jpg/1920px-Damme_lago_Bergsee.jpg
+---
 
 ## Overview
 

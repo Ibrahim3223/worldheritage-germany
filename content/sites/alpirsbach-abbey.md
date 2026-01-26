@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/400px-Alpaussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/800px-Alpaussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/1200px-Alpaussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/1920px-Alpaussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/1920px-Alpaussen.jpg
+---
 
 ## Overview
 

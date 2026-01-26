@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/400px-Torhaus_Kürbis.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/800px-Torhaus_Kürbis.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/1200px-Torhaus_Kürbis.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/1920px-Torhaus_Kürbis.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Torhaus_Kürbis.JPG/1920px-Torhaus_Kürbis.JPG
+---
 
 ## Overview
 

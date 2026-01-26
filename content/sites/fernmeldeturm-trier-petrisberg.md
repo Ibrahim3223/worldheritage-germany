@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG/400px-Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG/800px-Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG/1200px-Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG/1920px-Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG/1920px-Trier_Fernmeldeturm_BW_2013-07-08_12-32-25.JPG
+---
 
 ## Overview
 

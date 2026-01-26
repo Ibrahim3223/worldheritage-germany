@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dürckheim.jpg/400px-Dürckheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dürckheim.jpg/800px-Dürckheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dürckheim.jpg/1200px-Dürckheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dürckheim.jpg/1920px-Dürckheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dürckheim.jpg/1920px-Dürckheim.jpg
+---
 
 ## Overview
 

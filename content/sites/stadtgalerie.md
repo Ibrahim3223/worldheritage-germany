@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stadtbuecherei_Kiel-msu-2139.jpg/400px-Stadtbuecherei_Kiel-msu-2139.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stadtbuecherei_Kiel-msu-2139.jpg/800px-Stadtbuecherei_Kiel-msu-2139.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stadtbuecherei_Kiel-msu-2139.jpg/1200px-Stadtbuecherei_Kiel-msu-2139.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stadtbuecherei_Kiel-msu-2139.jpg/1920px-Stadtbuecherei_Kiel-msu-2139.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stadtbuecherei_Kiel-msu-2139.jpg/1920px-Stadtbuecherei_Kiel-msu-2139.jpg
+---
 
 ## Overview
 

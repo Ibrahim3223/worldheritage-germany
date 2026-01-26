@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/400px-Boltenmoor_-_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/800px-Boltenmoor_-_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/1200px-Boltenmoor_-_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/1920px-Boltenmoor_-_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boltenmoor_-_03.JPG/1920px-Boltenmoor_-_03.JPG
+---
 
 ## Overview
 

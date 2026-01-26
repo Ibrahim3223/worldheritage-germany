@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/400px-Kalkbrennerei-iversheim-schutzbau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/800px-Kalkbrennerei-iversheim-schutzbau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/1200px-Kalkbrennerei-iversheim-schutzbau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/1920px-Kalkbrennerei-iversheim-schutzbau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kalkbrennerei-iversheim-schutzbau.JPG/1920px-Kalkbrennerei-iversheim-schutzbau.JPG
+---
 
 ## Overview
 

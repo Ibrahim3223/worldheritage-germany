@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/400px-Burg_Arnsburg_Ruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/800px-Burg_Arnsburg_Ruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1200px-Burg_Arnsburg_Ruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1920px-Burg_Arnsburg_Ruine.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1920px-Burg_Arnsburg_Ruine.jpg
+---
 
 ## Overview
 

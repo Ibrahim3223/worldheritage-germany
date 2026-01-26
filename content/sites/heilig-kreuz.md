@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/400px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/800px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/1200px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/1920px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg/1920px-Turm_der_Heilig-Kreuz-Kirche_in_Gelsenkirchen,_von_Suedwesten.jpg
+---
 
 ## Overview
 

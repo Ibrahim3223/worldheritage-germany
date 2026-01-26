@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tuer_Stadtmuseum_Einbeck.jpg/400px-Tuer_Stadtmuseum_Einbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tuer_Stadtmuseum_Einbeck.jpg/800px-Tuer_Stadtmuseum_Einbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tuer_Stadtmuseum_Einbeck.jpg/1200px-Tuer_Stadtmuseum_Einbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tuer_Stadtmuseum_Einbeck.jpg/1920px-Tuer_Stadtmuseum_Einbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tuer_Stadtmuseum_Einbeck.jpg/1920px-Tuer_Stadtmuseum_Einbeck.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/400px-Vogelsanghalle_(2009-04-04).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/800px-Vogelsanghalle_(2009-04-04).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/1200px-Vogelsanghalle_(2009-04-04).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/1920px-Vogelsanghalle_(2009-04-04).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vogelsanghalle_(2009-04-04).JPG/1920px-Vogelsanghalle_(2009-04-04).JPG
+---
 
 ## Overview
 

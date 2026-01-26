@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/München_Schack-Galerie.JPG/400px-München_Schack-Galerie.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/München_Schack-Galerie.JPG/800px-München_Schack-Galerie.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/München_Schack-Galerie.JPG/1200px-München_Schack-Galerie.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/München_Schack-Galerie.JPG/1920px-München_Schack-Galerie.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/München_Schack-Galerie.JPG/1920px-München_Schack-Galerie.JPG
+---
 
 ## Overview
 

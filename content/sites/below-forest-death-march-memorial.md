@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/400px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/800px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/1200px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/1920px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/1920px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
+---
 
 ## Overview
 

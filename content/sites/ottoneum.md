@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/400px-Kassel_asv2022-02_img27_Ottoneum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/800px-Kassel_asv2022-02_img27_Ottoneum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/1200px-Kassel_asv2022-02_img27_Ottoneum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/1920px-Kassel_asv2022-02_img27_Ottoneum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kassel_asv2022-02_img27_Ottoneum.jpg/1920px-Kassel_asv2022-02_img27_Ottoneum.jpg
+---
 
 ## Overview
 

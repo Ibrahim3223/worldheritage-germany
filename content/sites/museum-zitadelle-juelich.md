@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/400px-Zitadelle-Pulvermagazin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/800px-Zitadelle-Pulvermagazin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/1200px-Zitadelle-Pulvermagazin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/1920px-Zitadelle-Pulvermagazin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zitadelle-Pulvermagazin.jpg/1920px-Zitadelle-Pulvermagazin.jpg
+---
 
 ## Overview
 

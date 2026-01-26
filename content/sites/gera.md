@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fischereihafen_Bremerhaven_2011_PD_06.JPG/400px-Fischereihafen_Bremerhaven_2011_PD_06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fischereihafen_Bremerhaven_2011_PD_06.JPG/800px-Fischereihafen_Bremerhaven_2011_PD_06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fischereihafen_Bremerhaven_2011_PD_06.JPG/1200px-Fischereihafen_Bremerhaven_2011_PD_06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fischereihafen_Bremerhaven_2011_PD_06.JPG/1920px-Fischereihafen_Bremerhaven_2011_PD_06.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fischereihafen_Bremerhaven_2011_PD_06.JPG/1920px-Fischereihafen_Bremerhaven_2011_PD_06.JPG
+---
 
 ## Overview
 

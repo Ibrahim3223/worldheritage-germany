@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/400px-MartinLutherKirche-St-Ingbert.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/800px-MartinLutherKirche-St-Ingbert.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/1200px-MartinLutherKirche-St-Ingbert.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/1920px-MartinLutherKirche-St-Ingbert.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MartinLutherKirche-St-Ingbert.JPG/1920px-MartinLutherKirche-St-Ingbert.JPG
+---
 
 ## Overview
 

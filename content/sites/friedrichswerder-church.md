@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/400px-Berlin_friedrichswerdersche_kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/800px-Berlin_friedrichswerdersche_kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1200px-Berlin_friedrichswerdersche_kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1920px-Berlin_friedrichswerdersche_kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1920px-Berlin_friedrichswerdersche_kirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/400px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/800px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/1200px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/1920px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg/1920px-Rote_Burg_-_Büchelmuseum_Aussenansicht.jpg
+---
 
 ## Overview
 

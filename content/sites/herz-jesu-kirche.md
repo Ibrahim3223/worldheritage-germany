@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/400px-Herz-Jesu-Kirche_1_(Münster).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/800px-Herz-Jesu-Kirche_1_(Münster).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/1200px-Herz-Jesu-Kirche_1_(Münster).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/1920px-Herz-Jesu-Kirche_1_(Münster).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Herz-Jesu-Kirche_1_(Münster).JPG/1920px-Herz-Jesu-Kirche_1_(Münster).JPG
+---
 
 ## Overview
 

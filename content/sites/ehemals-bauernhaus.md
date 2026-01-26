@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/400px-Bauernhof-Museum_Weichs-Ebersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/800px-Bauernhof-Museum_Weichs-Ebersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/1200px-Bauernhof-Museum_Weichs-Ebersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/1920px-Bauernhof-Museum_Weichs-Ebersbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bauernhof-Museum_Weichs-Ebersbach.jpg/1920px-Bauernhof-Museum_Weichs-Ebersbach.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/400px-Liebesdenkmal_(Leipzig).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/800px-Liebesdenkmal_(Leipzig).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/1200px-Liebesdenkmal_(Leipzig).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/1920px-Liebesdenkmal_(Leipzig).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Liebesdenkmal_(Leipzig).jpg/1920px-Liebesdenkmal_(Leipzig).jpg
+---
 
 ## Overview
 

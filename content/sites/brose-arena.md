@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/400px-Brose-Arena-Bamerg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/800px-Brose-Arena-Bamerg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/1200px-Brose-Arena-Bamerg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/1920px-Brose-Arena-Bamerg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/1920px-Brose-Arena-Bamerg.jpg
+---
 
 ## Overview
 

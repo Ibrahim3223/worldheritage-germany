@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/400px-Bernburg,_Eulenspiegelturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/800px-Bernburg,_Eulenspiegelturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/1200px-Bernburg,_Eulenspiegelturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/1920px-Bernburg,_Eulenspiegelturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bernburg,_Eulenspiegelturm.jpg/1920px-Bernburg,_Eulenspiegelturm.jpg
+---
 
 ## Overview
 

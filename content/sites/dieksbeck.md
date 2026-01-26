@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/400px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/800px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/1200px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/1920px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg/1920px-Dieksbach_im_Naturschutzgebiet_Dieksbeck.jpg
+---
 
 ## Overview
 

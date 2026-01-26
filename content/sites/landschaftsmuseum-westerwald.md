@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Landschaftsmuseum_Westerwald,_Eingang.JPG/400px-Landschaftsmuseum_Westerwald,_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Landschaftsmuseum_Westerwald,_Eingang.JPG/800px-Landschaftsmuseum_Westerwald,_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Landschaftsmuseum_Westerwald,_Eingang.JPG/1200px-Landschaftsmuseum_Westerwald,_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Landschaftsmuseum_Westerwald,_Eingang.JPG/1920px-Landschaftsmuseum_Westerwald,_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Landschaftsmuseum_Westerwald,_Eingang.JPG/1920px-Landschaftsmuseum_Westerwald,_Eingang.JPG
+---
 
 ## Overview
 

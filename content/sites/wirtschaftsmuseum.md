@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/400px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/800px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/1200px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/1920px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg/1920px-Ravensburg_Marktstraße22_Wirtschaftsmuseum.jpg
+---
 
 ## Overview
 

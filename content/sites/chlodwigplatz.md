@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/400px-Choldwigplatz_Dueren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/800px-Choldwigplatz_Dueren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/1200px-Choldwigplatz_Dueren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/1920px-Choldwigplatz_Dueren.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Choldwigplatz_Dueren.jpg/1920px-Choldwigplatz_Dueren.jpg
+---
 
 ## Overview
 

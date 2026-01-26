@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/400px-Borusseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/800px-Borusseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1200px-Borusseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1920px-Borusseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1920px-Borusseum.jpg
+---
 
 ## Overview
 

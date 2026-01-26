@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/400px-Studienseminar_St._Michael_Aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/800px-Studienseminar_St._Michael_Aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/1200px-Studienseminar_St._Michael_Aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/1920px-Studienseminar_St._Michael_Aussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Studienseminar_St._Michael_Aussen.jpg/1920px-Studienseminar_St._Michael_Aussen.jpg
+---
 
 ## Overview
 

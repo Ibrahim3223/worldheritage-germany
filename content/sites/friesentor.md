@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/400px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/800px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/1200px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/1920px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg/1920px-Friesentor-und-Straße-Köln-1571-nach-Arnold-Mercator.jpg
+---
 
 ## Overview
 

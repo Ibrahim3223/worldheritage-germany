@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/400px-Wildpark_Leipzig_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/800px-Wildpark_Leipzig_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/1200px-Wildpark_Leipzig_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/1920px-Wildpark_Leipzig_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_Leipzig_Eingang.JPG/1920px-Wildpark_Leipzig_Eingang.JPG
+---
 
 ## Overview
 

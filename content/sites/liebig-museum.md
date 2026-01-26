@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/400px-Liebigmuseum.01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/800px-Liebigmuseum.01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/1200px-Liebigmuseum.01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/1920px-Liebigmuseum.01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Liebigmuseum.01.jpg/1920px-Liebigmuseum.01.jpg
+---
 
 ## Overview
 

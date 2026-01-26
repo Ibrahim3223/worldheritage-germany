@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/400px-Museum_Bassermannhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/800px-Museum_Bassermannhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/1200px-Museum_Bassermannhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/1920px-Museum_Bassermannhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Museum_Bassermannhaus.jpg/1920px-Museum_Bassermannhaus.jpg
+---
 
 ## Overview
 

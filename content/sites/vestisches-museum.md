@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/400px-Recklinghausen_Vestisches_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/800px-Recklinghausen_Vestisches_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/1200px-Recklinghausen_Vestisches_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/1920px-Recklinghausen_Vestisches_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Recklinghausen_Vestisches_Museum.jpg/1920px-Recklinghausen_Vestisches_Museum.jpg
+---
 
 ## Overview
 

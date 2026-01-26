@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/400px-Neustadt_web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/800px-Neustadt_web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/1200px-Neustadt_web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/1920px-Neustadt_web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Neustadt_web.jpg/1920px-Neustadt_web.jpg
+---
 
 ## Overview
 

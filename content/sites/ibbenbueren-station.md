@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/400px-Bahnhof_Ibbenburen2007.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/800px-Bahnhof_Ibbenburen2007.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/1200px-Bahnhof_Ibbenburen2007.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/1920px-Bahnhof_Ibbenburen2007.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Ibbenburen2007.JPG/1920px-Bahnhof_Ibbenburen2007.JPG
+---
 
 ## Overview
 

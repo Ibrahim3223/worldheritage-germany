@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/400px-S-wangen-michaelskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/800px-S-wangen-michaelskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/1200px-S-wangen-michaelskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/1920px-S-wangen-michaelskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/S-wangen-michaelskirche.jpg/1920px-S-wangen-michaelskirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/400px-Rochlitz_Petrikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/800px-Rochlitz_Petrikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/1200px-Rochlitz_Petrikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/1920px-Rochlitz_Petrikirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rochlitz_Petrikirche.jpg/1920px-Rochlitz_Petrikirche.jpg
+---
 
 ## Overview
 

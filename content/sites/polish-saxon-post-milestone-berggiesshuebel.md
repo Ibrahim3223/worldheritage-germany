@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/400px-BGH_PM-Säule_(4)_2006-07-24.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/800px-BGH_PM-Säule_(4)_2006-07-24.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/1200px-BGH_PM-Säule_(4)_2006-07-24.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/1920px-BGH_PM-Säule_(4)_2006-07-24.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BGH_PM-Säule_(4)_2006-07-24.jpg/1920px-BGH_PM-Säule_(4)_2006-07-24.jpg
+---
 
 ## Overview
 

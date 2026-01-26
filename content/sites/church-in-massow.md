@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/400px-Massow_Kirche_2009-08-31_007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/800px-Massow_Kirche_2009-08-31_007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/1200px-Massow_Kirche_2009-08-31_007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/1920px-Massow_Kirche_2009-08-31_007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/1920px-Massow_Kirche_2009-08-31_007.jpg
+---
 
 ## Overview
 

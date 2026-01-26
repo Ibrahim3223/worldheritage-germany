@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg_Pulverturm_2012-07-30.jpg/400px-Weißenburg_Pulverturm_2012-07-30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg_Pulverturm_2012-07-30.jpg/800px-Weißenburg_Pulverturm_2012-07-30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg_Pulverturm_2012-07-30.jpg/1200px-Weißenburg_Pulverturm_2012-07-30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg_Pulverturm_2012-07-30.jpg/1920px-Weißenburg_Pulverturm_2012-07-30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg_Pulverturm_2012-07-30.jpg/1920px-Weißenburg_Pulverturm_2012-07-30.jpg
+---
 
 ## Overview
 

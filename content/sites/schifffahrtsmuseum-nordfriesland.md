@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Husum_Schifffahrtsmuseum.jpg/400px-Husum_Schifffahrtsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Husum_Schifffahrtsmuseum.jpg/800px-Husum_Schifffahrtsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Husum_Schifffahrtsmuseum.jpg/1200px-Husum_Schifffahrtsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Husum_Schifffahrtsmuseum.jpg/1920px-Husum_Schifffahrtsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Husum_Schifffahrtsmuseum.jpg/1920px-Husum_Schifffahrtsmuseum.jpg
+---
 
 ## Overview
 

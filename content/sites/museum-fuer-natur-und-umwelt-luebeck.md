@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/400px-MuseumfNuUHL.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/800px-MuseumfNuUHL.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/1200px-MuseumfNuUHL.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/1920px-MuseumfNuUHL.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MuseumfNuUHL.JPG/1920px-MuseumfNuUHL.JPG
+---
 
 ## Overview
 

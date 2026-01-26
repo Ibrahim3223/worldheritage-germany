@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/400px-Bahnhof_Weimar.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/800px-Bahnhof_Weimar.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/1200px-Bahnhof_Weimar.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/1920px-Bahnhof_Weimar.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bahnhof_Weimar.JPG/1920px-Bahnhof_Weimar.JPG
+---
 
 ## Overview
 

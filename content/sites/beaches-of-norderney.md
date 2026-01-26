@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/400px-Norderney,_Nordstrand_--_2016_--_4784.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/800px-Norderney,_Nordstrand_--_2016_--_4784.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/1200px-Norderney,_Nordstrand_--_2016_--_4784.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/1920px-Norderney,_Nordstrand_--_2016_--_4784.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Norderney,_Nordstrand_--_2016_--_4784.jpg/1920px-Norderney,_Nordstrand_--_2016_--_4784.jpg
+---
 
 ## Overview
 

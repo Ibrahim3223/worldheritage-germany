@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/400px-Eingang_Zoo_NK.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/800px-Eingang_Zoo_NK.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/1200px-Eingang_Zoo_NK.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/1920px-Eingang_Zoo_NK.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Eingang_Zoo_NK.JPG/1920px-Eingang_Zoo_NK.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/400px-Gedenkstätte_Berliner_Mauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/800px-Gedenkstätte_Berliner_Mauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/1200px-Gedenkstätte_Berliner_Mauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/1920px-Gedenkstätte_Berliner_Mauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/1920px-Gedenkstätte_Berliner_Mauer.jpg
+---
 
 ## Overview
 

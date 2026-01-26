@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/400px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/800px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/1200px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/1920px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg/1920px-Friedrich-Wilhelm-Weber-Museum_Alhausen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/400px-Stuttgart_AltesSchloss03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/800px-Stuttgart_AltesSchloss03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/1200px-Stuttgart_AltesSchloss03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/1920px-Stuttgart_AltesSchloss03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stuttgart_AltesSchloss03.JPG/1920px-Stuttgart_AltesSchloss03.JPG
+---
 
 ## Overview
 

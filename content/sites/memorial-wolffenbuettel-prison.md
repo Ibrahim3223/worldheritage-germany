@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/400px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/800px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/1200px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/1920px-Fassadenansicht,_GWF-Sarah_Kunte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Fassadenansicht,_GWF-Sarah_Kunte.jpg/1920px-Fassadenansicht,_GWF-Sarah_Kunte.jpg
+---
 
 ## Overview
 

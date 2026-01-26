@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/400px-Geltinger-wasserschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/800px-Geltinger-wasserschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1200px-Geltinger-wasserschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1920px-Geltinger-wasserschloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1920px-Geltinger-wasserschloss.jpg
+---
 
 ## Overview
 

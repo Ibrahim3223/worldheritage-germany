@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/400px-Wittelsbacher_Denkmal_Füssen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/800px-Wittelsbacher_Denkmal_Füssen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/1200px-Wittelsbacher_Denkmal_Füssen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/1920px-Wittelsbacher_Denkmal_Füssen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wittelsbacher_Denkmal_Füssen.JPG/1920px-Wittelsbacher_Denkmal_Füssen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/400px-Islamisches_Forum_Penzberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/800px-Islamisches_Forum_Penzberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/1200px-Islamisches_Forum_Penzberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/1920px-Islamisches_Forum_Penzberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Islamisches_Forum_Penzberg.JPG/1920px-Islamisches_Forum_Penzberg.JPG
+---
 
 ## Overview
 

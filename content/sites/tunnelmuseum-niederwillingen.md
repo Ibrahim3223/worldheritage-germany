@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tunnelmuseum_Niederwillingen.JPG/400px-Tunnelmuseum_Niederwillingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tunnelmuseum_Niederwillingen.JPG/800px-Tunnelmuseum_Niederwillingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tunnelmuseum_Niederwillingen.JPG/1200px-Tunnelmuseum_Niederwillingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tunnelmuseum_Niederwillingen.JPG/1920px-Tunnelmuseum_Niederwillingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tunnelmuseum_Niederwillingen.JPG/1920px-Tunnelmuseum_Niederwillingen.JPG
+---
 
 ## Overview
 

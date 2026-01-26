@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/400px-Ratingen_industriemuseum_cromford_spinnerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/800px-Ratingen_industriemuseum_cromford_spinnerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/1200px-Ratingen_industriemuseum_cromford_spinnerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/1920px-Ratingen_industriemuseum_cromford_spinnerei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ratingen_industriemuseum_cromford_spinnerei.jpg/1920px-Ratingen_industriemuseum_cromford_spinnerei.jpg
+---
 
 ## Overview
 

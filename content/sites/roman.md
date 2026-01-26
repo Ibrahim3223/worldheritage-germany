@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/400px-Erfurt-Fischmrkt-Herold.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/800px-Erfurt-Fischmrkt-Herold.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/1200px-Erfurt-Fischmrkt-Herold.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/1920px-Erfurt-Fischmrkt-Herold.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erfurt-Fischmrkt-Herold.jpg/1920px-Erfurt-Fischmrkt-Herold.jpg
+---
 
 ## Overview
 

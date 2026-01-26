@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg/400px-Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg/800px-Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg/1200px-Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg/1920px-Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg/1920px-Eisenhuettenstadt_asv2020-09_img12_Dokumentationszentrum.jpg
+---
 
 ## Overview
 

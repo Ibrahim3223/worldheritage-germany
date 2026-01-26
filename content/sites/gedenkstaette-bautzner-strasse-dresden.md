@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/400px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/800px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1200px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1920px-Gedenkstätte_Bautzner_Straße_Dresden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1920px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Essenwein-1884-germ-nat-museum-ausbau-sw.jpg/400px-Essenwein-1884-germ-nat-museum-ausbau-sw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Essenwein-1884-germ-nat-museum-ausbau-sw.jpg/800px-Essenwein-1884-germ-nat-museum-ausbau-sw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Essenwein-1884-germ-nat-museum-ausbau-sw.jpg/1200px-Essenwein-1884-germ-nat-museum-ausbau-sw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Essenwein-1884-germ-nat-museum-ausbau-sw.jpg/1920px-Essenwein-1884-germ-nat-museum-ausbau-sw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Essenwein-1884-germ-nat-museum-ausbau-sw.jpg/1920px-Essenwein-1884-germ-nat-museum-ausbau-sw.jpg
+---
 
 ## Overview
 

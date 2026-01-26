@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/400px-Bf-rs-hbf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/800px-Bf-rs-hbf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/1200px-Bf-rs-hbf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/1920px-Bf-rs-hbf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bf-rs-hbf.jpg/1920px-Bf-rs-hbf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/400px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/800px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/1200px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/1920px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/1920px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
+---
 
 ## Overview
 

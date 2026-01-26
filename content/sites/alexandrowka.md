@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/400px-Potsdam_Alexandrowka_02-14_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/800px-Potsdam_Alexandrowka_02-14_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1200px-Potsdam_Alexandrowka_02-14_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1920px-Potsdam_Alexandrowka_02-14_img2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1920px-Potsdam_Alexandrowka_02-14_img2.jpg
+---
 
 ## Overview
 

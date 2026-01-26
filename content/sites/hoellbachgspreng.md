@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/400px-Felswand_im_Höllbachgspreng.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/800px-Felswand_im_Höllbachgspreng.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1200px-Felswand_im_Höllbachgspreng.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1920px-Felswand_im_Höllbachgspreng.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1920px-Felswand_im_Höllbachgspreng.jpg
+---
 
 ## Overview
 

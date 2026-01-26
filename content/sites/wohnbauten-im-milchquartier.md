@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/400px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/800px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/1200px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/1920px-Bremen_mozartstr_11-12_20140928_bg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bremen_mozartstr_11-12_20140928_bg_1.jpg/1920px-Bremen_mozartstr_11-12_20140928_bg_1.jpg
+---
 
 ## Overview
 

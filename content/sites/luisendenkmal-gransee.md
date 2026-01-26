@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/400px-Gransee_Luisendenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/800px-Gransee_Luisendenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/1200px-Gransee_Luisendenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/1920px-Gransee_Luisendenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gransee_Luisendenkmal.jpg/1920px-Gransee_Luisendenkmal.jpg
+---
 
 ## Overview
 

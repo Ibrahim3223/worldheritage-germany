@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/400px-Brändbachtalsperre_1040786.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/800px-Brändbachtalsperre_1040786.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/1200px-Brändbachtalsperre_1040786.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/1920px-Brändbachtalsperre_1040786.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brändbachtalsperre_1040786.jpg/1920px-Brändbachtalsperre_1040786.jpg
+---
 
 ## Overview
 

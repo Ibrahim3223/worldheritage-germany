@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/400px-Klosterhof_2_Pirna.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/800px-Klosterhof_2_Pirna.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/1200px-Klosterhof_2_Pirna.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/1920px-Klosterhof_2_Pirna.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klosterhof_2_Pirna.JPG/1920px-Klosterhof_2_Pirna.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/400px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/800px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/1200px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/1920px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg/1920px-Münster,_Kiepenkerldenkmal_(Spiekerhof)_--_2014_--_6885.jpg
+---
 
 ## Overview
 

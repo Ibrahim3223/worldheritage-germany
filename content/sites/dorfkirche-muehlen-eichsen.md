@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/400px-Kirche_in_Mühlen_Eichsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/800px-Kirche_in_Mühlen_Eichsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1200px-Kirche_in_Mühlen_Eichsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1920px-Kirche_in_Mühlen_Eichsen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1920px-Kirche_in_Mühlen_Eichsen.jpg
+---
 
 ## Overview
 

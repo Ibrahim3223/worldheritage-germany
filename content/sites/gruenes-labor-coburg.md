@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg/400px-Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg/800px-Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg/1200px-Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg/1920px-Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg/1920px-Grünes_Labor_Coburg,_Ansicht_mit_Veste_im_Hintergrund.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/400px-(20250423)_Berlin_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/800px-(20250423)_Berlin_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/1200px-(20250423)_Berlin_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/1920px-(20250423)_Berlin_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/(20250423)_Berlin_02.jpg/1920px-(20250423)_Berlin_02.jpg
+---
 
 ## Overview
 

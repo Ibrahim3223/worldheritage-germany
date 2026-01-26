@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/400px-Mönchskirche_Mantis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/800px-Mönchskirche_Mantis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/1200px-Mönchskirche_Mantis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/1920px-Mönchskirche_Mantis.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mönchskirche_Mantis.jpg/1920px-Mönchskirche_Mantis.jpg
+---
 
 ## Overview
 

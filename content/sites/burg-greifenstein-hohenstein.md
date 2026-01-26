@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/400px-Greifenstein_014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/800px-Greifenstein_014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/1200px-Greifenstein_014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/1920px-Greifenstein_014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Greifenstein_014.JPG/1920px-Greifenstein_014.JPG
+---
 
 ## Overview
 

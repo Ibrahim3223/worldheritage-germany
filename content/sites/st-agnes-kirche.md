@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/400px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/800px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1200px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1920px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1920px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/400px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/800px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1200px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1920px-Fürstliche_Hofreitschule_-_door_to_museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1920px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
+---
 
 ## Overview
 

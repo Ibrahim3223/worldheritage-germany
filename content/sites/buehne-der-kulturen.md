@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/400px-Arkadaş_Theater,_Köln-5172.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/800px-Arkadaş_Theater,_Köln-5172.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1200px-Arkadaş_Theater,_Köln-5172.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1920px-Arkadaş_Theater,_Köln-5172.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1920px-Arkadaş_Theater,_Köln-5172.jpg
+---
 
 ## Overview
 

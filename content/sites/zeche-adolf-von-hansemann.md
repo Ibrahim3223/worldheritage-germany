@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/400px-Zeche_Hansemann_Dortmund-Mengede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/800px-Zeche_Hansemann_Dortmund-Mengede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/1200px-Zeche_Hansemann_Dortmund-Mengede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/1920px-Zeche_Hansemann_Dortmund-Mengede.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zeche_Hansemann_Dortmund-Mengede.jpg/1920px-Zeche_Hansemann_Dortmund-Mengede.jpg
+---
 
 ## Overview
 

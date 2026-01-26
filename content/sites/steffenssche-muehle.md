@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg/400px-Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg/800px-Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg/1200px-Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg/1920px-Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg/1920px-Mühlenstraße_13_(Hemmoor-Warstade).Mühle.ajb.jpg
+---
 
 ## Overview
 

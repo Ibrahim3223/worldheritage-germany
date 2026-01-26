@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/400px-Zirkelstein002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/800px-Zirkelstein002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/1200px-Zirkelstein002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/1920px-Zirkelstein002.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zirkelstein002.jpg/1920px-Zirkelstein002.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/400px-Buchenwald_Memorial.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/800px-Buchenwald_Memorial.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1200px-Buchenwald_Memorial.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1920px-Buchenwald_Memorial.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1920px-Buchenwald_Memorial.JPG
+---
 
 ## Overview
 

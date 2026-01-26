@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/400px-Thomaskirche_Dresden-Gruna.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/800px-Thomaskirche_Dresden-Gruna.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/1200px-Thomaskirche_Dresden-Gruna.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/1920px-Thomaskirche_Dresden-Gruna.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Thomaskirche_Dresden-Gruna.JPG/1920px-Thomaskirche_Dresden-Gruna.JPG
+---
 
 ## Overview
 

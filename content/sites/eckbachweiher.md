@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/400px-Eckbachweiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/800px-Eckbachweiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/1200px-Eckbachweiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/1920px-Eckbachweiher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eckbachweiher.jpg/1920px-Eckbachweiher.jpg
+---
 
 ## Overview
 

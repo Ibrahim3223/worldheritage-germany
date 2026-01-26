@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Emmauskirche_Borna.jpg/400px-Emmauskirche_Borna.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Emmauskirche_Borna.jpg/800px-Emmauskirche_Borna.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Emmauskirche_Borna.jpg/1200px-Emmauskirche_Borna.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Emmauskirche_Borna.jpg/1920px-Emmauskirche_Borna.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Emmauskirche_Borna.jpg/1920px-Emmauskirche_Borna.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/400px-Bahnhof_Schwandorf_Vorderseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/800px-Bahnhof_Schwandorf_Vorderseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/1200px-Bahnhof_Schwandorf_Vorderseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/1920px-Bahnhof_Schwandorf_Vorderseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Schwandorf_Vorderseite.jpg/1920px-Bahnhof_Schwandorf_Vorderseite.jpg
+---
 
 ## Overview
 

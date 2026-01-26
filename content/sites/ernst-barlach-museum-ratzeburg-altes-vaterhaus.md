@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/400px-Ernstbarlachmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/800px-Ernstbarlachmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/1200px-Ernstbarlachmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/1920px-Ernstbarlachmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernstbarlachmuseum.jpg/1920px-Ernstbarlachmuseum.jpg
+---
 
 ## Overview
 

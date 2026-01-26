@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Paulikirche2006_01_1a.jpg/400px-Paulikirche2006_01_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Paulikirche2006_01_1a.jpg/800px-Paulikirche2006_01_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Paulikirche2006_01_1a.jpg/1200px-Paulikirche2006_01_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Paulikirche2006_01_1a.jpg/1920px-Paulikirche2006_01_1a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Paulikirche2006_01_1a.jpg/1920px-Paulikirche2006_01_1a.jpg
+---
 
 ## Overview
 

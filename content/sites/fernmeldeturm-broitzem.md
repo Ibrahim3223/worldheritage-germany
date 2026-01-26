@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2010-03-23_Broitzem-TV-Turm.JPG/400px-2010-03-23_Broitzem-TV-Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2010-03-23_Broitzem-TV-Turm.JPG/800px-2010-03-23_Broitzem-TV-Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2010-03-23_Broitzem-TV-Turm.JPG/1200px-2010-03-23_Broitzem-TV-Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2010-03-23_Broitzem-TV-Turm.JPG/1920px-2010-03-23_Broitzem-TV-Turm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2010-03-23_Broitzem-TV-Turm.JPG/1920px-2010-03-23_Broitzem-TV-Turm.JPG
+---
 
 ## Overview
 

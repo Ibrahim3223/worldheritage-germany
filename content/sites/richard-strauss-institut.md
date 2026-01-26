@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/400px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/800px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/1200px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/1920px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG/1920px-Schnitzschulstraße_17-19_Partenkirchen_(cropped).JPG
+---
 
 ## Overview
 

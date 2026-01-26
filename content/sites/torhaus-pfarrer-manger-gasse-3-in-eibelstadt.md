@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/400px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/800px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/1200px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/1920px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg/1920px-Pfarrer-Manger-Gasse_3_Eibelstadt_20210228_001.jpg
+---
 
 ## Overview
 

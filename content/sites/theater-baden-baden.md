@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/400px-Theater_Baden-Baden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/800px-Theater_Baden-Baden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/1200px-Theater_Baden-Baden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/1920px-Theater_Baden-Baden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Theater_Baden-Baden.jpg/1920px-Theater_Baden-Baden.jpg
+---
 
 ## Overview
 

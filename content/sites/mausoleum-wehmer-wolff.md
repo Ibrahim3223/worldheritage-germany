@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/400px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/800px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/1200px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/1920px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg/1920px-Grabmal_Wehmer-Wolff_(Abt._1,_Nr._39),_1,_Stadtfriedhof_Stöcken,_Stöcken,_Hannover.jpg
+---
 
 ## Overview
 

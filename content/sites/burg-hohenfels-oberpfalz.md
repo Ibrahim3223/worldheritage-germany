@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/400px-Burgruine_Hohenfels01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/800px-Burgruine_Hohenfels01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/1200px-Burgruine_Hohenfels01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/1920px-Burgruine_Hohenfels01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Hohenfels01.JPG/1920px-Burgruine_Hohenfels01.JPG
+---
 
 ## Overview
 

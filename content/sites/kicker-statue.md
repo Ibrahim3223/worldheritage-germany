@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/400px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/800px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/1200px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/1920px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG/1920px-Kicker-Statue,_Künstler_Josef_Tabachnyk,_2014_(Kicker-Sportmagazin_in_der_Badstraße_in_Nurnberg).JPG
+---
 
 ## Overview
 

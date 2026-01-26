@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/400px-Anhäuser_Mauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/800px-Anhäuser_Mauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/1200px-Anhäuser_Mauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/1920px-Anhäuser_Mauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Anhäuser_Mauer.jpg/1920px-Anhäuser_Mauer.jpg
+---
 
 ## Overview
 

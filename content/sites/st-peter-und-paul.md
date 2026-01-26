@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Holdorf_katolika_preĝejo.jpg/400px-Holdorf_katolika_preĝejo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Holdorf_katolika_preĝejo.jpg/800px-Holdorf_katolika_preĝejo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Holdorf_katolika_preĝejo.jpg/1200px-Holdorf_katolika_preĝejo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Holdorf_katolika_preĝejo.jpg/1920px-Holdorf_katolika_preĝejo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Holdorf_katolika_preĝejo.jpg/1920px-Holdorf_katolika_preĝejo.jpg
+---
 
 ## Overview
 

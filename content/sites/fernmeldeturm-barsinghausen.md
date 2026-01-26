@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fernmeldeturm_Barsinghausen_IMG_3223.JPG/400px-Fernmeldeturm_Barsinghausen_IMG_3223.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fernmeldeturm_Barsinghausen_IMG_3223.JPG/800px-Fernmeldeturm_Barsinghausen_IMG_3223.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fernmeldeturm_Barsinghausen_IMG_3223.JPG/1200px-Fernmeldeturm_Barsinghausen_IMG_3223.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fernmeldeturm_Barsinghausen_IMG_3223.JPG/1920px-Fernmeldeturm_Barsinghausen_IMG_3223.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fernmeldeturm_Barsinghausen_IMG_3223.JPG/1920px-Fernmeldeturm_Barsinghausen_IMG_3223.JPG
+---
 
 ## Overview
 

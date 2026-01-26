@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/400px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/800px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/1200px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/1920px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg/1920px-Budapest_-_Ludwig_Múzeum_Kortárs_Művészeti_Múzeum_(28).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/400px-2020_Ruine_Karlburg_03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/800px-2020_Ruine_Karlburg_03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/1200px-2020_Ruine_Karlburg_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/1920px-2020_Ruine_Karlburg_03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2020_Ruine_Karlburg_03.jpg/1920px-2020_Ruine_Karlburg_03.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/400px-Fulda-Dom-10-2019-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/800px-Fulda-Dom-10-2019-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1200px-Fulda-Dom-10-2019-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1920px-Fulda-Dom-10-2019-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1920px-Fulda-Dom-10-2019-gje.jpg
+---
 
 ## Overview
 

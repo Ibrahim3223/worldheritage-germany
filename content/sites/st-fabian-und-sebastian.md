@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/400px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/800px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/1200px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/1920px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bad_Schwartau_-_St.Fabian-Rensefeld.JPG/1920px-Bad_Schwartau_-_St.Fabian-Rensefeld.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg/400px-Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg/800px-Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg/1200px-Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg/1920px-Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg/1920px-Evangelische_Kirche_Wilnsdorf_Oktober_2010.jpg
+---
 
 ## Overview
 

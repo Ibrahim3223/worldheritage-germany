@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/400px-Gustav-Adolf-Kirche_Meppen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/800px-Gustav-Adolf-Kirche_Meppen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1200px-Gustav-Adolf-Kirche_Meppen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1920px-Gustav-Adolf-Kirche_Meppen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1920px-Gustav-Adolf-Kirche_Meppen.jpg
+---
 
 ## Overview
 

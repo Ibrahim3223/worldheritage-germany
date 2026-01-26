@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg/400px-Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg/800px-Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg/1200px-Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg/1920px-Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg/1920px-Bochum_-_Klinikstraße_-_Lutherkirche_ex_02_ies.jpg
+---
 
 ## Overview
 

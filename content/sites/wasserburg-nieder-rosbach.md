@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/400px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/800px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/1200px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/1920px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG/1920px-Nieder-Rosbach,_Wasserburg,_Wasserseite.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seeweiher_Mengerskirchen.jpg/400px-Seeweiher_Mengerskirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seeweiher_Mengerskirchen.jpg/800px-Seeweiher_Mengerskirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seeweiher_Mengerskirchen.jpg/1200px-Seeweiher_Mengerskirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seeweiher_Mengerskirchen.jpg/1920px-Seeweiher_Mengerskirchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Seeweiher_Mengerskirchen.jpg/1920px-Seeweiher_Mengerskirchen.jpg
+---
 
 ## Overview
 

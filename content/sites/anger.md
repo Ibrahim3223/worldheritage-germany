@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/400px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/800px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/1200px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/1920px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg/1920px-Erfurt_Anger_Kaufmannskirche_Johannesstr182_Anger1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/400px-Barnstedter_Bach_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/800px-Barnstedter_Bach_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/1200px-Barnstedter_Bach_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/1920px-Barnstedter_Bach_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Barnstedter_Bach_2.JPG/1920px-Barnstedter_Bach_2.JPG
+---
 
 ## Overview
 

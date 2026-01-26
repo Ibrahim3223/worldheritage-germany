@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Burg_Labach1.jpg/400px-Alte_Burg_Labach1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Burg_Labach1.jpg/800px-Alte_Burg_Labach1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Burg_Labach1.jpg/1200px-Alte_Burg_Labach1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Burg_Labach1.jpg/1920px-Alte_Burg_Labach1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Burg_Labach1.jpg/1920px-Alte_Burg_Labach1.jpg
+---
 
 ## Overview
 

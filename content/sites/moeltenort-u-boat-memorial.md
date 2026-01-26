@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/400px-U-Boot-Ehrenmal_Möltenort_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/800px-U-Boot-Ehrenmal_Möltenort_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/1200px-U-Boot-Ehrenmal_Möltenort_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/1920px-U-Boot-Ehrenmal_Möltenort_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-Boot-Ehrenmal_Möltenort_1.jpg/1920px-U-Boot-Ehrenmal_Möltenort_1.jpg
+---
 
 ## Overview
 

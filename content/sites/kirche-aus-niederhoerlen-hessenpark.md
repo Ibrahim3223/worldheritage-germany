@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/400px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/800px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/1200px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/1920px-Hessenpark,_Kirche_aus_Niederhörlen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hessenpark,_Kirche_aus_Niederhörlen.JPG/1920px-Hessenpark,_Kirche_aus_Niederhörlen.JPG
+---
 
 ## Overview
 

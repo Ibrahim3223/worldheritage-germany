@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/400px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/800px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/1200px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/1920px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg/1920px-Pláž,_Ueckermünde,_Zemský_okres_Přední_Pomořansko-Greifswald,_Meklenbursko-Přední_Pomořansko_01.jpg
+---
 
 ## Overview
 

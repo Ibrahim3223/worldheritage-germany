@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg/400px-Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg/800px-Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg/1200px-Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg/1920px-Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg/1920px-Deutsche_Zentralbibliothek_für_Medizin,_Gebäude_14,_Uniklinik_Köln-7266.jpg
+---
 
 ## Overview
 

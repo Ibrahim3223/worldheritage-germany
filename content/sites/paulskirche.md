@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/400px-Paulskirche_(SN).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/800px-Paulskirche_(SN).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/1200px-Paulskirche_(SN).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/1920px-Paulskirche_(SN).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paulskirche_(SN).jpg/1920px-Paulskirche_(SN).jpg
+---
 
 ## Overview
 

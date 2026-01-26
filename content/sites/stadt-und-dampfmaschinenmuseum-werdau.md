@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/400px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/800px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/1200px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/1920px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg/1920px-Holzstraße_2_(Werdau)_-_Stadt-_und_Dampfmaschinenmuseum_(Frontansicht).jpg
+---
 
 ## Overview
 

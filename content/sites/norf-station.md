@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/400px-Bf-ne-norf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/800px-Bf-ne-norf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/1200px-Bf-ne-norf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/1920px-Bf-ne-norf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bf-ne-norf.jpg/1920px-Bf-ne-norf.jpg
+---
 
 ## Overview
 

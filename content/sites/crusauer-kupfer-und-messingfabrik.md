@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/400px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/800px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1200px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1920px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1920px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
+---
 
 ## Overview
 

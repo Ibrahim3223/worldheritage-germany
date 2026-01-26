@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/400px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/800px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/1200px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/1920px-Messeturm_Köln_-_Hermes_(0299-0301).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Messeturm_Köln_-_Hermes_(0299-0301).jpg/1920px-Messeturm_Köln_-_Hermes_(0299-0301).jpg
+---
 
 ## Overview
 

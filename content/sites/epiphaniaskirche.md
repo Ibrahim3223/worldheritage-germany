@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/400px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/800px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/1200px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/1920px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg/1920px-Epiphaniaskirche_im_Sahlkamp_(Hannover)_IMG_9164.jpg
+---
 
 ## Overview
 

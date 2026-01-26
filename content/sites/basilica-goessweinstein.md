@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/400px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/800px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1200px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1920px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1920px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
+---
 
 ## Overview
 

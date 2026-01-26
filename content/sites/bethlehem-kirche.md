@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/400px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/800px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/1200px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/1920px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg/1920px-Hamburg-Eimsbüttel,_Bethlehem-Kirche,_Südansicht.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/400px-Dom-_und_St._Magnifriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/800px-Dom-_und_St._Magnifriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/1200px-Dom-_und_St._Magnifriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/1920px-Dom-_und_St._Magnifriedhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dom-_und_St._Magnifriedhof.jpg/1920px-Dom-_und_St._Magnifriedhof.jpg
+---
 
 ## Overview
 

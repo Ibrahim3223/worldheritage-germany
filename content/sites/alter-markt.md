@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/400px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/800px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/1200px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/1920px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg/1920px-2022-09-07_09-11_Berlin_162_Potsdam,_St._Nikolaikirche,_Altes_Rathaus.jpg
+---
 
 ## Overview
 

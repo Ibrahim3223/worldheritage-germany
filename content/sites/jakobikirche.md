@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/400px-Dresden_Jakobikirche_1902.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/800px-Dresden_Jakobikirche_1902.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/1200px-Dresden_Jakobikirche_1902.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/1920px-Dresden_Jakobikirche_1902.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_Jakobikirche_1902.jpg/1920px-Dresden_Jakobikirche_1902.jpg
+---
 
 ## Overview
 

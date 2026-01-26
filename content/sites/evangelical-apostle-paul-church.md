@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/400px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/800px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/1200px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/1920px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg/1920px-Berlin-Schöneberg_Apostelpauluskirche_03.10.2011_16-10-55_ShiftN.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_für_ostasiatische_Kunst_(0480-82).jpg/400px-Museum_für_ostasiatische_Kunst_(0480-82).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_für_ostasiatische_Kunst_(0480-82).jpg/800px-Museum_für_ostasiatische_Kunst_(0480-82).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_für_ostasiatische_Kunst_(0480-82).jpg/1200px-Museum_für_ostasiatische_Kunst_(0480-82).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_für_ostasiatische_Kunst_(0480-82).jpg/1920px-Museum_für_ostasiatische_Kunst_(0480-82).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_für_ostasiatische_Kunst_(0480-82).jpg/1920px-Museum_für_ostasiatische_Kunst_(0480-82).jpg
+---
 
 ## Overview
 

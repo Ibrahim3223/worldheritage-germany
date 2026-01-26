@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/400px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/800px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/1200px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/1920px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg/1920px-Münster,_Am_Kanonengraben_--_2017_--_9432-3.jpg
+---
 
 ## Overview
 

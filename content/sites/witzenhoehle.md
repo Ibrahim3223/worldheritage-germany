@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/400px-Witzenhöhle_(C_7)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/800px-Witzenhöhle_(C_7)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/1200px-Witzenhöhle_(C_7)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/1920px-Witzenhöhle_(C_7)_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Witzenhöhle_(C_7)_01.jpg/1920px-Witzenhöhle_(C_7)_01.jpg
+---
 
 ## Overview
 

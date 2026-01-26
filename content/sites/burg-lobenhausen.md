@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/400px-Lobenhausen_110508.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/800px-Lobenhausen_110508.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/1200px-Lobenhausen_110508.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/1920px-Lobenhausen_110508.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lobenhausen_110508.jpg/1920px-Lobenhausen_110508.jpg
+---
 
 ## Overview
 

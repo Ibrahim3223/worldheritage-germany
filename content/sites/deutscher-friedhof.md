@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/400px-Hanau_Alter_Deutscher_Friedhof02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/800px-Hanau_Alter_Deutscher_Friedhof02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/1200px-Hanau_Alter_Deutscher_Friedhof02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/1920px-Hanau_Alter_Deutscher_Friedhof02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hanau_Alter_Deutscher_Friedhof02.jpg/1920px-Hanau_Alter_Deutscher_Friedhof02.jpg
+---
 
 ## Overview
 

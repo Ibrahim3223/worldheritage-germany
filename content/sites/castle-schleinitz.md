@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg/400px-20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg/800px-20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg/1200px-20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg/1920px-20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg/1920px-20042-Schleinitz-1916-Schloß-Brück_&_Sohn_Kunstverlag.jpg
+---
 
 ## Overview
 

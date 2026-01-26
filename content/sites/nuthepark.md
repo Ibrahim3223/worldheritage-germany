@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/400px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/800px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/1200px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/1920px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg/1920px-20221119_xl_123612688-an-der-muendung-der-nuthe-in-die-havel.jpg
+---
 
 ## Overview
 

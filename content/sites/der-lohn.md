@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/400px-NSG_Lü266_Lohn_Waldweiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/800px-NSG_Lü266_Lohn_Waldweiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/1200px-NSG_Lü266_Lohn_Waldweiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/1920px-NSG_Lü266_Lohn_Waldweiher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/NSG_Lü266_Lohn_Waldweiher.jpg/1920px-NSG_Lü266_Lohn_Waldweiher.jpg
+---
 
 ## Overview
 

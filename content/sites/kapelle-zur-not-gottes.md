@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/400px-Zur_Not_Gottes_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/800px-Zur_Not_Gottes_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/1200px-Zur_Not_Gottes_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/1920px-Zur_Not_Gottes_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zur_Not_Gottes_01.jpg/1920px-Zur_Not_Gottes_01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/400px-Gut-rattelvitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/800px-Gut-rattelvitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/1200px-Gut-rattelvitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/1920px-Gut-rattelvitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gut-rattelvitz.jpg/1920px-Gut-rattelvitz.jpg
+---
 
 ## Overview
 

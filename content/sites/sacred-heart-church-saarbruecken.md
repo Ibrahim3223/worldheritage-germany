@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/400px-Herz-Jesu-Kirche_Saarbrücken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/800px-Herz-Jesu-Kirche_Saarbrücken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/1200px-Herz-Jesu-Kirche_Saarbrücken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/1920px-Herz-Jesu-Kirche_Saarbrücken.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Herz-Jesu-Kirche_Saarbrücken.jpg/1920px-Herz-Jesu-Kirche_Saarbrücken.jpg
+---
 
 ## Overview
 

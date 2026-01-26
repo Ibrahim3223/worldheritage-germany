@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/400px-LTU_arena_panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/800px-LTU_arena_panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/1200px-LTU_arena_panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/1920px-LTU_arena_panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/LTU_arena_panorama.jpg/1920px-LTU_arena_panorama.jpg
+---
 
 ## Overview
 

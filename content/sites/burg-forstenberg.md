@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/400px-Ruine_Forstenberg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/800px-Ruine_Forstenberg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1200px-Ruine_Forstenberg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1920px-Ruine_Forstenberg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1920px-Ruine_Forstenberg.png
+---
 
 ## Overview
 

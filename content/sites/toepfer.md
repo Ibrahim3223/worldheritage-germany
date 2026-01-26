@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/400px-TöpferFelsen6.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/800px-TöpferFelsen6.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/1200px-TöpferFelsen6.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/1920px-TöpferFelsen6.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TöpferFelsen6.JPG/1920px-TöpferFelsen6.JPG
+---
 
 ## Overview
 

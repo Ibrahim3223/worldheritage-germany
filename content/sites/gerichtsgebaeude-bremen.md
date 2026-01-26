@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/400px-LandgerichtBremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/800px-LandgerichtBremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/1200px-LandgerichtBremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/1920px-LandgerichtBremen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LandgerichtBremen.jpg/1920px-LandgerichtBremen.jpg
+---
 
 ## Overview
 

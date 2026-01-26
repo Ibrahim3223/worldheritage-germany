@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/400px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/800px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/1200px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/1920px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg/1920px-Rhauderfehn_-_Rajen_-_5Museum_+_Villa_Graepel_02_ies.jpg
+---
 
 ## Overview
 

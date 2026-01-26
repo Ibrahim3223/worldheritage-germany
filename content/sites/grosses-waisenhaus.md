@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/400px-Grosses_Waisenhaus_BMV.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/800px-Grosses_Waisenhaus_BMV.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/1200px-Grosses_Waisenhaus_BMV.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/1920px-Grosses_Waisenhaus_BMV.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosses_Waisenhaus_BMV.JPG/1920px-Grosses_Waisenhaus_BMV.JPG
+---
 
 ## Overview
 

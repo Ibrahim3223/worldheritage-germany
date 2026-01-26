@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/400px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/800px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/1200px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/1920px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg/1920px-Am_Kyritzer_Tor_4_Wittstock_Dosse.jpg
+---
 
 ## Overview
 

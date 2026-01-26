@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/400px-Windmühle_Gettorf_2022CF.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/800px-Windmühle_Gettorf_2022CF.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/1200px-Windmühle_Gettorf_2022CF.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/1920px-Windmühle_Gettorf_2022CF.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Windmühle_Gettorf_2022CF.jpg/1920px-Windmühle_Gettorf_2022CF.jpg
+---
 
 ## Overview
 

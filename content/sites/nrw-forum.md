@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/400px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/800px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1200px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg/1920px-NRW-Forum_in_Duesseldorf-Pempelfort,_von_Suedwesten.jpg
+---
 
 ## Overview
 

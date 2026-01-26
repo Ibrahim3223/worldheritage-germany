@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/400px-Krieger_von_Hirschlanden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/800px-Krieger_von_Hirschlanden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/1200px-Krieger_von_Hirschlanden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/1920px-Krieger_von_Hirschlanden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/1920px-Krieger_von_Hirschlanden.jpg
+---
 
 ## Overview
 

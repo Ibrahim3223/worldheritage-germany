@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/400px-Zeppelinmuseum_Schild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/800px-Zeppelinmuseum_Schild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/1200px-Zeppelinmuseum_Schild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/1920px-Zeppelinmuseum_Schild.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeppelinmuseum_Schild.jpg/1920px-Zeppelinmuseum_Schild.jpg
+---
 
 ## Overview
 

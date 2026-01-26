@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/400px-Marl_Zechenstraße_Zeche_Brassert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/800px-Marl_Zechenstraße_Zeche_Brassert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/1200px-Marl_Zechenstraße_Zeche_Brassert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/1920px-Marl_Zechenstraße_Zeche_Brassert.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marl_Zechenstraße_Zeche_Brassert.jpg/1920px-Marl_Zechenstraße_Zeche_Brassert.jpg
+---
 
 ## Overview
 

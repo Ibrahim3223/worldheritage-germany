@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/400px-Theodor-Zink-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/800px-Theodor-Zink-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/1200px-Theodor-Zink-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/1920px-Theodor-Zink-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Theodor-Zink-Museum.jpg/1920px-Theodor-Zink-Museum.jpg
+---
 
 ## Overview
 

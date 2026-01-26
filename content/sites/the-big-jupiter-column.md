@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/400px-Stuttgart-jupitergigantensaeule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/800px-Stuttgart-jupitergigantensaeule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/1200px-Stuttgart-jupitergigantensaeule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/1920px-Stuttgart-jupitergigantensaeule.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stuttgart-jupitergigantensaeule.jpg/1920px-Stuttgart-jupitergigantensaeule.jpg
+---
 
 ## Overview
 

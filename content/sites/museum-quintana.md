@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/400px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/800px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/1200px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/1920px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Die_Tote_von_Niederpöring,_Museum_Quintana.jpg/1920px-Die_Tote_von_Niederpöring,_Museum_Quintana.jpg
+---
 
 ## Overview
 

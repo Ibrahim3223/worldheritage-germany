@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/400px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/800px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1200px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1920px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1920px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
+---
 
 ## Overview
 

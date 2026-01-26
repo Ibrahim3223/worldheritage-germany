@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/400px-SynagogendenkmalRegensburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/800px-SynagogendenkmalRegensburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/1200px-SynagogendenkmalRegensburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/1920px-SynagogendenkmalRegensburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SynagogendenkmalRegensburg.JPG/1920px-SynagogendenkmalRegensburg.JPG
+---
 
 ## Overview
 

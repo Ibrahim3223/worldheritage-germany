@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fürth_Kirchweih_2013_011.JPG/400px-Fürth_Kirchweih_2013_011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fürth_Kirchweih_2013_011.JPG/800px-Fürth_Kirchweih_2013_011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fürth_Kirchweih_2013_011.JPG/1200px-Fürth_Kirchweih_2013_011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fürth_Kirchweih_2013_011.JPG/1920px-Fürth_Kirchweih_2013_011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Fürth_Kirchweih_2013_011.JPG/1920px-Fürth_Kirchweih_2013_011.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/400px-Haus_Leck_Grebenstein_fm811562a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/800px-Haus_Leck_Grebenstein_fm811562a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/1200px-Haus_Leck_Grebenstein_fm811562a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/1920px-Haus_Leck_Grebenstein_fm811562a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haus_Leck_Grebenstein_fm811562a.jpg/1920px-Haus_Leck_Grebenstein_fm811562a.jpg
+---
 
 ## Overview
 

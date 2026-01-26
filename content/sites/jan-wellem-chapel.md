@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/400px-Jan-Wellem-Kapelle_Düsseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/800px-Jan-Wellem-Kapelle_Düsseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/1200px-Jan-Wellem-Kapelle_Düsseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/1920px-Jan-Wellem-Kapelle_Düsseldorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jan-Wellem-Kapelle_Düsseldorf.jpg/1920px-Jan-Wellem-Kapelle_Düsseldorf.jpg
+---
 
 ## Overview
 

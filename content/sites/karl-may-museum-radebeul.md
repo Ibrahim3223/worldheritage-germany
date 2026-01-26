@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/400px-Villa_Shatterhand-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/800px-Villa_Shatterhand-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/1200px-Villa_Shatterhand-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/1920px-Villa_Shatterhand-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Villa_Shatterhand-2.jpg/1920px-Villa_Shatterhand-2.jpg
+---
 
 ## Overview
 

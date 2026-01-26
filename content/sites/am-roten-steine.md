@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/400px-Am_roten_Steine_-_Innerste_22.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/800px-Am_roten_Steine_-_Innerste_22.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/1200px-Am_roten_Steine_-_Innerste_22.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/1920px-Am_roten_Steine_-_Innerste_22.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_roten_Steine_-_Innerste_22.JPG/1920px-Am_roten_Steine_-_Innerste_22.JPG
+---
 
 ## Overview
 

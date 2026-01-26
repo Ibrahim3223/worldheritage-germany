@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/400px-Burg-Habitzheim_Hofeingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/800px-Burg-Habitzheim_Hofeingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/1200px-Burg-Habitzheim_Hofeingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/1920px-Burg-Habitzheim_Hofeingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg-Habitzheim_Hofeingang.jpg/1920px-Burg-Habitzheim_Hofeingang.jpg
+---
 
 ## Overview
 

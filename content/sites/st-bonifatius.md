@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/400px-Wiesbaden_Bonifatius_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/800px-Wiesbaden_Bonifatius_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/1200px-Wiesbaden_Bonifatius_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/1920px-Wiesbaden_Bonifatius_Church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wiesbaden_Bonifatius_Church.jpg/1920px-Wiesbaden_Bonifatius_Church.jpg
+---
 
 ## Overview
 

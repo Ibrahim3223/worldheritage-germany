@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/400px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/800px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1200px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1920px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1920px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
+---
 
 ## Overview
 

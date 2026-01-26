@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/400px-Niegelssohn_Hackescher_Markt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/800px-Niegelssohn_Hackescher_Markt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1200px-Niegelssohn_Hackescher_Markt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1920px-Niegelssohn_Hackescher_Markt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1920px-Niegelssohn_Hackescher_Markt.jpg
+---
 
 ## Overview
 

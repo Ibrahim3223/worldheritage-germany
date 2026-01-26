@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/400px-Manuelshammer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/800px-Manuelshammer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/1200px-Manuelshammer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/1920px-Manuelshammer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Manuelshammer.jpg/1920px-Manuelshammer.jpg
+---
 
 ## Overview
 

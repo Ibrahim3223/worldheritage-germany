@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/400px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/800px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/1200px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/1920px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg/1920px-Rees_-_Am_Bär1-Koenraad_Bosman_03_ies.jpg
+---
 
 ## Overview
 

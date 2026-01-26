@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/400px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/800px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/1200px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/1920px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg/1920px-Bundesarchiv_Bild_183-J0904-0024-001,_Dresden,_Bibliothekswagen,_Innenansicht_(cropped).jpg
+---
 
 ## Overview
 

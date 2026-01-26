@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/400px-Kurpfälzisches_Museum_Haupteingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/800px-Kurpfälzisches_Museum_Haupteingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/1200px-Kurpfälzisches_Museum_Haupteingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/1920px-Kurpfälzisches_Museum_Haupteingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kurpfälzisches_Museum_Haupteingang.JPG/1920px-Kurpfälzisches_Museum_Haupteingang.JPG
+---
 
 ## Overview
 

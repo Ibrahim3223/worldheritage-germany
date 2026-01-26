@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/400px-InnenFraulauternerKirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/800px-InnenFraulauternerKirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/1200px-InnenFraulauternerKirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/1920px-InnenFraulauternerKirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/InnenFraulauternerKirche.JPG/1920px-InnenFraulauternerKirche.JPG
+---
 
 ## Overview
 

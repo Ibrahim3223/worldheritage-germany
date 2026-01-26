@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/400px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/800px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/1200px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/1920px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg/1920px-Produktionshalle_der_ehem._Fabrik_für_Präzisionsmechanik_und_Maschinenbau_Friedrich_Deckel.jpg
+---
 
 ## Overview
 

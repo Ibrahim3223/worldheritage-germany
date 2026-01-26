@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/400px-Aurich,_Lambertikirche_(17).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/800px-Aurich,_Lambertikirche_(17).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/1200px-Aurich,_Lambertikirche_(17).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/1920px-Aurich,_Lambertikirche_(17).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aurich,_Lambertikirche_(17).jpg/1920px-Aurich,_Lambertikirche_(17).jpg
+---
 
 ## Overview
 

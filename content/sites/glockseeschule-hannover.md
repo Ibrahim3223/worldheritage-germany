@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/400px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/800px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/1200px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/1920px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg/1920px-Glockseeschule_school_Am_Lindenhofe_Doehren_Hannover_Germany_01.jpg
+---
 
 ## Overview
 

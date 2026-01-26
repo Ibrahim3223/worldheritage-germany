@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/400px-Abtei_Mariendonk.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/800px-Abtei_Mariendonk.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/1200px-Abtei_Mariendonk.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/1920px-Abtei_Mariendonk.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Abtei_Mariendonk.JPG/1920px-Abtei_Mariendonk.JPG
+---
 
 ## Overview
 

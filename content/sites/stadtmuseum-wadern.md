@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/400px-OettingerSchloesschenWadern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/800px-OettingerSchloesschenWadern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/1200px-OettingerSchloesschenWadern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/1920px-OettingerSchloesschenWadern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OettingerSchloesschenWadern.jpg/1920px-OettingerSchloesschenWadern.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/400px-Schanz_gaiss300.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/800px-Schanz_gaiss300.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/1200px-Schanz_gaiss300.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/1920px-Schanz_gaiss300.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schanz_gaiss300.jpg/1920px-Schanz_gaiss300.jpg
+---
 
 ## Overview
 

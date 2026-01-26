@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ehrenfriedersdorf_-_Sauberg.JPG/400px-Ehrenfriedersdorf_-_Sauberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ehrenfriedersdorf_-_Sauberg.JPG/800px-Ehrenfriedersdorf_-_Sauberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ehrenfriedersdorf_-_Sauberg.JPG/1200px-Ehrenfriedersdorf_-_Sauberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ehrenfriedersdorf_-_Sauberg.JPG/1920px-Ehrenfriedersdorf_-_Sauberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ehrenfriedersdorf_-_Sauberg.JPG/1920px-Ehrenfriedersdorf_-_Sauberg.JPG
+---
 
 ## Overview
 

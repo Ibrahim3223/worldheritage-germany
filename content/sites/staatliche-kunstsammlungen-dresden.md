@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/400px-Residenzschloss_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/800px-Residenzschloss_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/1200px-Residenzschloss_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/1920px-Residenzschloss_Dresden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Residenzschloss_Dresden.jpg/1920px-Residenzschloss_Dresden.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/400px-Krugsdorf_Schloßhotel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/800px-Krugsdorf_Schloßhotel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/1200px-Krugsdorf_Schloßhotel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/1920px-Krugsdorf_Schloßhotel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Krugsdorf_Schloßhotel.jpg/1920px-Krugsdorf_Schloßhotel.jpg
+---
 
 ## Overview
 

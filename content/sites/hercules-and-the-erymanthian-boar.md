@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/400px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/800px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1200px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1920px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1920px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
+---
 
 ## Overview
 

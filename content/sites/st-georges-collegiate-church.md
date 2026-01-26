@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/400px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/800px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/1200px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/1920px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg/1920px-Stiftskirche,_Nordfassade_1909_(Gebr._Metz_26780_TSiW127).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/400px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/800px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1200px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1920px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1920px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
+---
 
 ## Overview
 

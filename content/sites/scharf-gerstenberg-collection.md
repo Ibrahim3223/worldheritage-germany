@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ls_aegypt_museum.jpg/400px-Ls_aegypt_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ls_aegypt_museum.jpg/800px-Ls_aegypt_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ls_aegypt_museum.jpg/1200px-Ls_aegypt_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ls_aegypt_museum.jpg/1920px-Ls_aegypt_museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ls_aegypt_museum.jpg/1920px-Ls_aegypt_museum.jpg
+---
 
 ## Overview
 

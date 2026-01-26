@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ZecheCaroline.JPG/400px-ZecheCaroline.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ZecheCaroline.JPG/800px-ZecheCaroline.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ZecheCaroline.JPG/1200px-ZecheCaroline.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ZecheCaroline.JPG/1920px-ZecheCaroline.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ZecheCaroline.JPG/1920px-ZecheCaroline.JPG
+---
 
 ## Overview
 

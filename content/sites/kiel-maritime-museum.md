@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schifffahrtsmuseum_Kiel_2014.jpg/400px-Schifffahrtsmuseum_Kiel_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schifffahrtsmuseum_Kiel_2014.jpg/800px-Schifffahrtsmuseum_Kiel_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schifffahrtsmuseum_Kiel_2014.jpg/1200px-Schifffahrtsmuseum_Kiel_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schifffahrtsmuseum_Kiel_2014.jpg/1920px-Schifffahrtsmuseum_Kiel_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schifffahrtsmuseum_Kiel_2014.jpg/1920px-Schifffahrtsmuseum_Kiel_2014.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/400px-Kelbra_Brauerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/800px-Kelbra_Brauerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/1200px-Kelbra_Brauerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/1920px-Kelbra_Brauerei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kelbra_Brauerei.jpg/1920px-Kelbra_Brauerei.jpg
+---
 
 ## Overview
 

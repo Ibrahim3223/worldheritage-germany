@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/400px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/800px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/1200px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/1920px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg/1920px-Hamburg.harvestehude.hauptkirche.st.nikolai.sued.wmt.jpg
+---
 
 ## Overview
 

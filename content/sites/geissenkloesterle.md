@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/400px-Geißenklösterle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/800px-Geißenklösterle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1200px-Geißenklösterle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1920px-Geißenklösterle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1920px-Geißenklösterle.jpg
+---
 
 ## Overview
 

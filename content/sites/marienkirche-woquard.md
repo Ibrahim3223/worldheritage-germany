@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/400px-Woquarder_Kirche_2010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/800px-Woquarder_Kirche_2010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/1200px-Woquarder_Kirche_2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/1920px-Woquarder_Kirche_2010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Woquarder_Kirche_2010.jpg/1920px-Woquarder_Kirche_2010.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/400px-Dorfkirche_Pessin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/800px-Dorfkirche_Pessin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/1200px-Dorfkirche_Pessin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/1920px-Dorfkirche_Pessin.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dorfkirche_Pessin.JPG/1920px-Dorfkirche_Pessin.JPG
+---
 
 ## Overview
 

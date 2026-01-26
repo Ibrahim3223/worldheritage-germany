@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/400px-Neugablonz_Gablonzer_Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/800px-Neugablonz_Gablonzer_Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/1200px-Neugablonz_Gablonzer_Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/1920px-Neugablonz_Gablonzer_Haus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neugablonz_Gablonzer_Haus.JPG/1920px-Neugablonz_Gablonzer_Haus.JPG
+---
 
 ## Overview
 

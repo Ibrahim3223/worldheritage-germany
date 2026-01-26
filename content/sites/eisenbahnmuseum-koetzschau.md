@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/400px-KötzschauBfsgeb.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/800px-KötzschauBfsgeb.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/1200px-KötzschauBfsgeb.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/1920px-KötzschauBfsgeb.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/KötzschauBfsgeb.JPG/1920px-KötzschauBfsgeb.JPG
+---
 
 ## Overview
 

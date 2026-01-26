@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/400px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/800px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/1200px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/1920px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eberstadt_Ulrichskirche_von_Osten_20080329.jpg/1920px-Eberstadt_Ulrichskirche_von_Osten_20080329.jpg
+---
 
 ## Overview
 

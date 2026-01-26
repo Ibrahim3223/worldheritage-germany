@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/400px-Auensee_Kissing.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/800px-Auensee_Kissing.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/1200px-Auensee_Kissing.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/1920px-Auensee_Kissing.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auensee_Kissing.JPG/1920px-Auensee_Kissing.JPG
+---
 
 ## Overview
 

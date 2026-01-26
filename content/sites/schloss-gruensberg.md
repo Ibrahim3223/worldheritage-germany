@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/400px-Schloss_Grünsberg_(D-5-74-112-157).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/800px-Schloss_Grünsberg_(D-5-74-112-157).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/1200px-Schloss_Grünsberg_(D-5-74-112-157).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/1920px-Schloss_Grünsberg_(D-5-74-112-157).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schloss_Grünsberg_(D-5-74-112-157).jpg/1920px-Schloss_Grünsberg_(D-5-74-112-157).jpg
+---
 
 ## Overview
 

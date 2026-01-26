@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pfersag_Wasserfall_Februar_2011.JPG/400px-Pfersag_Wasserfall_Februar_2011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pfersag_Wasserfall_Februar_2011.JPG/800px-Pfersag_Wasserfall_Februar_2011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pfersag_Wasserfall_Februar_2011.JPG/1200px-Pfersag_Wasserfall_Februar_2011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pfersag_Wasserfall_Februar_2011.JPG/1920px-Pfersag_Wasserfall_Februar_2011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pfersag_Wasserfall_Februar_2011.JPG/1920px-Pfersag_Wasserfall_Februar_2011.JPG
+---
 
 ## Overview
 

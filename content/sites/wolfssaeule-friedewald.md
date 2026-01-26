@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/400px-Wolfssaeule_friedewald_gesamt_sk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/800px-Wolfssaeule_friedewald_gesamt_sk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/1200px-Wolfssaeule_friedewald_gesamt_sk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/1920px-Wolfssaeule_friedewald_gesamt_sk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wolfssaeule_friedewald_gesamt_sk.jpg/1920px-Wolfssaeule_friedewald_gesamt_sk.jpg
+---
 
 ## Overview
 

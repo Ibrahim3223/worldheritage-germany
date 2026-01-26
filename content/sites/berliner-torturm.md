@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/400px-Burg_Berliner_Turm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/800px-Burg_Berliner_Turm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/1200px-Burg_Berliner_Turm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/1920px-Burg_Berliner_Turm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berliner_Turm.JPG/1920px-Burg_Berliner_Turm.JPG
+---
 
 ## Overview
 

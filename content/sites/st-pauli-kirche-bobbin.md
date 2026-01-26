@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/400px-BobbinChurch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/800px-BobbinChurch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/1200px-BobbinChurch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/1920px-BobbinChurch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BobbinChurch.jpg/1920px-BobbinChurch.jpg
+---
 
 ## Overview
 

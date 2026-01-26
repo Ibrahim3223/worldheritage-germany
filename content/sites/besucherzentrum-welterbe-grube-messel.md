@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/400px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/800px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/1200px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/1920px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg/1920px-Grube_Messel,_Weltnaturerbe,_Besucherzentrum_-_panoramio.jpg
+---
 
 ## Overview
 

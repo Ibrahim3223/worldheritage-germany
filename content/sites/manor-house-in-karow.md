@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karow_Herrenhaus_2011-03-29_164.JPG/400px-Karow_Herrenhaus_2011-03-29_164.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karow_Herrenhaus_2011-03-29_164.JPG/800px-Karow_Herrenhaus_2011-03-29_164.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karow_Herrenhaus_2011-03-29_164.JPG/1200px-Karow_Herrenhaus_2011-03-29_164.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karow_Herrenhaus_2011-03-29_164.JPG/1920px-Karow_Herrenhaus_2011-03-29_164.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karow_Herrenhaus_2011-03-29_164.JPG/1920px-Karow_Herrenhaus_2011-03-29_164.JPG
+---
 
 ## Overview
 

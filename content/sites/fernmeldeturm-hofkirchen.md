@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/400px-Fernmeldeturm_Hofkirchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/800px-Fernmeldeturm_Hofkirchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/1200px-Fernmeldeturm_Hofkirchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/1920px-Fernmeldeturm_Hofkirchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernmeldeturm_Hofkirchen.jpg/1920px-Fernmeldeturm_Hofkirchen.jpg
+---
 
 ## Overview
 

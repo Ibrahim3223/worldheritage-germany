@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/400px-Saint-Norbert_D-Garath.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/800px-Saint-Norbert_D-Garath.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/1200px-Saint-Norbert_D-Garath.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/1920px-Saint-Norbert_D-Garath.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saint-Norbert_D-Garath.jpg/1920px-Saint-Norbert_D-Garath.jpg
+---
 
 ## Overview
 

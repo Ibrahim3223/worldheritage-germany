@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/400px-Ernestinenschule.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/800px-Ernestinenschule.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/1200px-Ernestinenschule.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/1920px-Ernestinenschule.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ernestinenschule.JPG/1920px-Ernestinenschule.JPG
+---
 
 ## Overview
 

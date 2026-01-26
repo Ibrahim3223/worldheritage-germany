@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/400px-Bibliotheca_Bipontina.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/800px-Bibliotheca_Bipontina.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1200px-Bibliotheca_Bipontina.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1920px-Bibliotheca_Bipontina.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1920px-Bibliotheca_Bipontina.jpg
+---
 
 ## Overview
 

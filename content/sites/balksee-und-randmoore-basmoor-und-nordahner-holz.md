@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/400px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/800px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/1200px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/1920px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg/1920px-Luftaufnahmen_-Balksee_und_Randmoore-Basmoor_und_Nordahner_Holz-_2012-05-by-RaBoe-704.jpg
+---
 
 ## Overview
 

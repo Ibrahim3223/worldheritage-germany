@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/400px-Dortmund-Kruckel_Bahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/800px-Dortmund-Kruckel_Bahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/1200px-Dortmund-Kruckel_Bahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/1920px-Dortmund-Kruckel_Bahnhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dortmund-Kruckel_Bahnhof.jpg/1920px-Dortmund-Kruckel_Bahnhof.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2013-06-22_Dürrenastheide.jpg/400px-2013-06-22_Dürrenastheide.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2013-06-22_Dürrenastheide.jpg/800px-2013-06-22_Dürrenastheide.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2013-06-22_Dürrenastheide.jpg/1200px-2013-06-22_Dürrenastheide.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2013-06-22_Dürrenastheide.jpg/1920px-2013-06-22_Dürrenastheide.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2013-06-22_Dürrenastheide.jpg/1920px-2013-06-22_Dürrenastheide.jpg
+---
 
 ## Overview
 

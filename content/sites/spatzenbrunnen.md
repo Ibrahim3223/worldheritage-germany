@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/400px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/800px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/1200px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/1920px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg/1920px-Aachen,_Münsterplatz,_Möschebrunnen_--_2016_--_2727.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/400px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/800px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/1200px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/1920px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG/1920px-Ahrensboek_-_Gedenkstaette-KZ_Ahrensboek-2.JPG
+---
 
 ## Overview
 

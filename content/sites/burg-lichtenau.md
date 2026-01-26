@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/400px-Lichtenau_(Westf)_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/800px-Lichtenau_(Westf)_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/1200px-Lichtenau_(Westf)_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/1920px-Lichtenau_(Westf)_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichtenau_(Westf)_Burg.jpg/1920px-Lichtenau_(Westf)_Burg.jpg
+---
 
 ## Overview
 

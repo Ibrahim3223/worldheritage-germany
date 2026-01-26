@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/400px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/800px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1200px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1920px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1920px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
+---
 
 ## Overview
 

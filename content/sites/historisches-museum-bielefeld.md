@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/400px-Historisches_Museum_Bielefeld2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/800px-Historisches_Museum_Bielefeld2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/1200px-Historisches_Museum_Bielefeld2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/1920px-Historisches_Museum_Bielefeld2014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Historisches_Museum_Bielefeld2014.JPG/1920px-Historisches_Museum_Bielefeld2014.JPG
+---
 
 ## Overview
 

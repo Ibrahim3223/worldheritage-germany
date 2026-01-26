@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/400px-Beginenhaus_Burgstraße,_Kempten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/800px-Beginenhaus_Burgstraße,_Kempten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/1200px-Beginenhaus_Burgstraße,_Kempten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/1920px-Beginenhaus_Burgstraße,_Kempten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beginenhaus_Burgstraße,_Kempten.jpg/1920px-Beginenhaus_Burgstraße,_Kempten.jpg
+---
 
 ## Overview
 

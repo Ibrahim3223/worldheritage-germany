@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/400px-Austraße_70_Nürnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/800px-Austraße_70_Nürnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/1200px-Austraße_70_Nürnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/1920px-Austraße_70_Nürnberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Austraße_70_Nürnberg.jpg/1920px-Austraße_70_Nürnberg.jpg
+---
 
 ## Overview
 

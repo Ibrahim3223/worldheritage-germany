@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/400px-Hirschwirtscheuer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/800px-Hirschwirtscheuer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/1200px-Hirschwirtscheuer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/1920px-Hirschwirtscheuer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hirschwirtscheuer.jpg/1920px-Hirschwirtscheuer.jpg
+---
 
 ## Overview
 

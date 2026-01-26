@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/400px-Das_grosse_Hoermes_bei_Dieburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/800px-Das_grosse_Hoermes_bei_Dieburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/1200px-Das_grosse_Hoermes_bei_Dieburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/1920px-Das_grosse_Hoermes_bei_Dieburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Das_grosse_Hoermes_bei_Dieburg.jpg/1920px-Das_grosse_Hoermes_bei_Dieburg.jpg
+---
 
 ## Overview
 

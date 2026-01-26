@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/400px-Hh-thalia.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/800px-Hh-thalia.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/1200px-Hh-thalia.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/1920px-Hh-thalia.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hh-thalia.jpg/1920px-Hh-thalia.jpg
+---
 
 ## Overview
 

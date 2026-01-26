@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/400px-Ebrach,_Kloster_Ebrach_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/800px-Ebrach,_Kloster_Ebrach_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1200px-Ebrach,_Kloster_Ebrach_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1920px-Ebrach,_Kloster_Ebrach_001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1920px-Ebrach,_Kloster_Ebrach_001.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg/400px-Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg/800px-Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg/1200px-Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg/1920px-Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg/1920px-Blick_vom_Rheingrafenstein_auf_den_Fernmeldeturm_Bad_Kreuznach,_der_bei_Traisen_auf_dem_Rotenfels_steht_-_panoramio.jpg
+---
 
 ## Overview
 

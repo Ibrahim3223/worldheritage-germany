@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/400px-Kapernaumkirche_(Berlin).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/800px-Kapernaumkirche_(Berlin).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1200px-Kapernaumkirche_(Berlin).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1920px-Kapernaumkirche_(Berlin).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1920px-Kapernaumkirche_(Berlin).jpg
+---
 
 ## Overview
 

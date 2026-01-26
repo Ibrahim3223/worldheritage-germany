@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/400px-Nordhorn,_Alte_Weberei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/800px-Nordhorn,_Alte_Weberei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/1200px-Nordhorn,_Alte_Weberei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/1920px-Nordhorn,_Alte_Weberei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nordhorn,_Alte_Weberei.jpg/1920px-Nordhorn,_Alte_Weberei.jpg
+---
 
 ## Overview
 

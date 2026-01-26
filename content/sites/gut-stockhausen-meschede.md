@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Stockhausen.jpg/400px-Gut_Stockhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Stockhausen.jpg/800px-Gut_Stockhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Stockhausen.jpg/1200px-Gut_Stockhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Stockhausen.jpg/1920px-Gut_Stockhausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Stockhausen.jpg/1920px-Gut_Stockhausen.jpg
+---
 
 ## Overview
 

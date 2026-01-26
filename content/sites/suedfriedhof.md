@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/400px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/800px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/1200px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/1920px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg/1920px-Suedfriedhof_Kiel_Kapelle_msu2017-9884.jpg
+---
 
 ## Overview
 

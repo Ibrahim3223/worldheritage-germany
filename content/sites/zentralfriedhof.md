@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/400px-Zentralfriedhof_Quedlinburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/800px-Zentralfriedhof_Quedlinburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/1200px-Zentralfriedhof_Quedlinburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/1920px-Zentralfriedhof_Quedlinburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zentralfriedhof_Quedlinburg.JPG/1920px-Zentralfriedhof_Quedlinburg.JPG
+---
 
 ## Overview
 

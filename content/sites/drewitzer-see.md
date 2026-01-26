@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/400px-Alt-Schweriner-See-09-07-2008-012a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/800px-Alt-Schweriner-See-09-07-2008-012a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1200px-Alt-Schweriner-See-09-07-2008-012a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1920px-Alt-Schweriner-See-09-07-2008-012a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1920px-Alt-Schweriner-See-09-07-2008-012a.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/400px-Bremen_fallturm2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/800px-Bremen_fallturm2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/1200px-Bremen_fallturm2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/1920px-Bremen_fallturm2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bremen_fallturm2.jpg/1920px-Bremen_fallturm2.jpg
+---
 
 ## Overview
 

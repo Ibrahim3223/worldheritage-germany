@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/400px-Leuchtturm_Friedrichsort_Kiel2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/800px-Leuchtturm_Friedrichsort_Kiel2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/1200px-Leuchtturm_Friedrichsort_Kiel2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/1920px-Leuchtturm_Friedrichsort_Kiel2014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leuchtturm_Friedrichsort_Kiel2014.JPG/1920px-Leuchtturm_Friedrichsort_Kiel2014.JPG
+---
 
 ## Overview
 

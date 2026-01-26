@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/400px-Leprosenhaus_Bad_Wurzach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/800px-Leprosenhaus_Bad_Wurzach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/1200px-Leprosenhaus_Bad_Wurzach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/1920px-Leprosenhaus_Bad_Wurzach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leprosenhaus_Bad_Wurzach.jpg/1920px-Leprosenhaus_Bad_Wurzach.jpg
+---
 
 ## Overview
 

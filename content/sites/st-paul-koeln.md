@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/400px-St._Paul,_Köln-7108.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/800px-St._Paul,_Köln-7108.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/1200px-St._Paul,_Köln-7108.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/1920px-St._Paul,_Köln-7108.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/St._Paul,_Köln-7108.jpg/1920px-St._Paul,_Köln-7108.jpg
+---
 
 ## Overview
 

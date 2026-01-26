@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/400px-Wrisbergholzen_Teich_Baum_Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/800px-Wrisbergholzen_Teich_Baum_Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/1200px-Wrisbergholzen_Teich_Baum_Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/1920px-Wrisbergholzen_Teich_Baum_Sommer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wrisbergholzen_Teich_Baum_Sommer.jpg/1920px-Wrisbergholzen_Teich_Baum_Sommer.jpg
+---
 
 ## Overview
 

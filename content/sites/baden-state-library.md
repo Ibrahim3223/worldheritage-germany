@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/400px-001_BLB_016_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/800px-001_BLB_016_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/1200px-001_BLB_016_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/1920px-001_BLB_016_Fassade.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/1920px-001_BLB_016_Fassade.jpg
+---
 
 ## Overview
 

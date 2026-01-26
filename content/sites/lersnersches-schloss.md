@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/400px-Lersnersches_Schloss_Hofseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/800px-Lersnersches_Schloss_Hofseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/1200px-Lersnersches_Schloss_Hofseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/1920px-Lersnersches_Schloss_Hofseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lersnersches_Schloss_Hofseite.jpg/1920px-Lersnersches_Schloss_Hofseite.jpg
+---
 
 ## Overview
 

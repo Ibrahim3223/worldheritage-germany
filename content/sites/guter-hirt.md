@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/400px-Hildesheim_Guter_Hirt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/800px-Hildesheim_Guter_Hirt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/1200px-Hildesheim_Guter_Hirt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/1920px-Hildesheim_Guter_Hirt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hildesheim_Guter_Hirt.jpg/1920px-Hildesheim_Guter_Hirt.jpg
+---
 
 ## Overview
 

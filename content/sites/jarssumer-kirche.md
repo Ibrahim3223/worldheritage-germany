@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/400px-ChurchJarßum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/800px-ChurchJarßum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1200px-ChurchJarßum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1920px-ChurchJarßum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1920px-ChurchJarßum.JPG
+---
 
 ## Overview
 

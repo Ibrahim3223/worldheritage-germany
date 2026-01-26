@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kleiner_arbersee_insel.jpg/400px-Kleiner_arbersee_insel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kleiner_arbersee_insel.jpg/800px-Kleiner_arbersee_insel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kleiner_arbersee_insel.jpg/1200px-Kleiner_arbersee_insel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kleiner_arbersee_insel.jpg/1920px-Kleiner_arbersee_insel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kleiner_arbersee_insel.jpg/1920px-Kleiner_arbersee_insel.jpg
+---
 
 ## Overview
 

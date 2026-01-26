@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/400px-St._Annenmuseum_4_2013_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/800px-St._Annenmuseum_4_2013_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/1200px-St._Annenmuseum_4_2013_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/1920px-St._Annenmuseum_4_2013_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/St._Annenmuseum_4_2013_2.JPG/1920px-St._Annenmuseum_4_2013_2.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/400px-Lippoldsberg_Schaeferhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/800px-Lippoldsberg_Schaeferhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/1200px-Lippoldsberg_Schaeferhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/1920px-Lippoldsberg_Schaeferhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lippoldsberg_Schaeferhaus.jpg/1920px-Lippoldsberg_Schaeferhaus.jpg
+---
 
 ## Overview
 

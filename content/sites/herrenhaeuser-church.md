@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/400px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/800px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1200px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1920px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1920px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
+---
 
 ## Overview
 

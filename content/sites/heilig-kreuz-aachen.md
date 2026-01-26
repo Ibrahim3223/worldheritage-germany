@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Heilig-Kreuz-Kirche_(Aachen)_06.jpg/400px-Heilig-Kreuz-Kirche_(Aachen)_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Heilig-Kreuz-Kirche_(Aachen)_06.jpg/800px-Heilig-Kreuz-Kirche_(Aachen)_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Heilig-Kreuz-Kirche_(Aachen)_06.jpg/1200px-Heilig-Kreuz-Kirche_(Aachen)_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Heilig-Kreuz-Kirche_(Aachen)_06.jpg/1920px-Heilig-Kreuz-Kirche_(Aachen)_06.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Heilig-Kreuz-Kirche_(Aachen)_06.jpg/1920px-Heilig-Kreuz-Kirche_(Aachen)_06.jpg
+---
 
 ## Overview
 

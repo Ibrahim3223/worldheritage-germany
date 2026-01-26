@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/400px-Kirche_Gristow,_Turm_(2009-10-04).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/800px-Kirche_Gristow,_Turm_(2009-10-04).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/1200px-Kirche_Gristow,_Turm_(2009-10-04).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/1920px-Kirche_Gristow,_Turm_(2009-10-04).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kirche_Gristow,_Turm_(2009-10-04).JPG/1920px-Kirche_Gristow,_Turm_(2009-10-04).JPG
+---
 
 ## Overview
 

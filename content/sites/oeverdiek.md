@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Timmendorfer_Strand_-_Oeverdiek.JPG/400px-Timmendorfer_Strand_-_Oeverdiek.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Timmendorfer_Strand_-_Oeverdiek.JPG/800px-Timmendorfer_Strand_-_Oeverdiek.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Timmendorfer_Strand_-_Oeverdiek.JPG/1200px-Timmendorfer_Strand_-_Oeverdiek.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Timmendorfer_Strand_-_Oeverdiek.JPG/1920px-Timmendorfer_Strand_-_Oeverdiek.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Timmendorfer_Strand_-_Oeverdiek.JPG/1920px-Timmendorfer_Strand_-_Oeverdiek.JPG
+---
 
 ## Overview
 

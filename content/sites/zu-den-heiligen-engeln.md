@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/400px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/800px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/1200px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/1920px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hannover_Kirche_Zu_den_heiligen_Engeln.jpg/1920px-Hannover_Kirche_Zu_den_heiligen_Engeln.jpg
+---
 
 ## Overview
 

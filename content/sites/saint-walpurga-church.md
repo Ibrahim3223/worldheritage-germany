@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bachenau-walburgakirche1.JPG/400px-Bachenau-walburgakirche1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bachenau-walburgakirche1.JPG/800px-Bachenau-walburgakirche1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bachenau-walburgakirche1.JPG/1200px-Bachenau-walburgakirche1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bachenau-walburgakirche1.JPG/1920px-Bachenau-walburgakirche1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bachenau-walburgakirche1.JPG/1920px-Bachenau-walburgakirche1.JPG
+---
 
 ## Overview
 

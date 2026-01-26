@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/400px-Krippenmuseum_Telgte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/800px-Krippenmuseum_Telgte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/1200px-Krippenmuseum_Telgte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/1920px-Krippenmuseum_Telgte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Krippenmuseum_Telgte.jpg/1920px-Krippenmuseum_Telgte.jpg
+---
 
 ## Overview
 

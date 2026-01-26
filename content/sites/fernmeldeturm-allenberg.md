@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/400px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/800px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/1200px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/1920px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg/1920px-Brilon_Fernmeldeturm_Allenberg_FFSN-2036.jpg
+---
 
 ## Overview
 

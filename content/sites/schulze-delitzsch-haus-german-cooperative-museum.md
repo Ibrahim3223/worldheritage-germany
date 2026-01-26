@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/400px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/800px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/1200px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/1920px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png/1920px-Hermann_Schulze-Delitzsch_from_Die_Gartenlaube.png
+---
 
 ## Overview
 

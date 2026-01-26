@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/400px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/800px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/1200px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/1920px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG/1920px-DA-Wixhausen_vilaĝa_muzeo_Dorfmuseum_1.JPG
+---
 
 ## Overview
 

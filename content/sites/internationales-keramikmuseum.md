@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/400px-Wen_WaldsassenerKasten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/800px-Wen_WaldsassenerKasten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/1200px-Wen_WaldsassenerKasten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/1920px-Wen_WaldsassenerKasten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wen_WaldsassenerKasten.jpg/1920px-Wen_WaldsassenerKasten.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/400px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/800px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/1200px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/1920px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg/1920px-Glasmuseum_Immenhausen_Glashütte_Süssmuth.jpg
+---
 
 ## Overview
 

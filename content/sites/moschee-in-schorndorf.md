@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/400px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/800px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/1200px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/1920px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg/1920px-Islamische-Gemeinde-Schorndorf_2024-07-18_MTh.jpg
+---
 
 ## Overview
 

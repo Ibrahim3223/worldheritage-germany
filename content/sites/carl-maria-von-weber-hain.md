@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/400px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/800px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/1200px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/1920px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eutin_-_Carl-Maria-von-Weber-Hain.JPG/1920px-Eutin_-_Carl-Maria-von-Weber-Hain.JPG
+---
 
 ## Overview
 

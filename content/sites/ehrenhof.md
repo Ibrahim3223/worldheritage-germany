@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/400px-Pempelfort_Ehrenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/800px-Pempelfort_Ehrenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/1200px-Pempelfort_Ehrenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/1920px-Pempelfort_Ehrenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pempelfort_Ehrenhof.jpg/1920px-Pempelfort_Ehrenhof.jpg
+---
 
 ## Overview
 

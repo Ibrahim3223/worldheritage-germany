@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/400px-Kornhorst_Massower_See_2010-04-07_032.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/800px-Kornhorst_Massower_See_2010-04-07_032.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/1200px-Kornhorst_Massower_See_2010-04-07_032.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/1920px-Kornhorst_Massower_See_2010-04-07_032.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kornhorst_Massower_See_2010-04-07_032.jpg/1920px-Kornhorst_Massower_See_2010-04-07_032.jpg
+---
 
 ## Overview
 

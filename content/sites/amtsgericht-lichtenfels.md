@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/400px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/800px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/1200px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/1920px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg/1920px-Lichtenfels_Ofr_-_Kronacher_Straße_18_-_Amtsgericht.jpg
+---
 
 ## Overview
 

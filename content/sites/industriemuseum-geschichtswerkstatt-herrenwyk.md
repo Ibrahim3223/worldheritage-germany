@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/400px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/800px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/1200px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/1920px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg/1920px-Industriemuseum_Geschichtswerkstatt_Herrenwyk_ehem_Kaufhaus.jpg
+---
 
 ## Overview
 

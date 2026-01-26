@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/400px-SI_Burg_Hainchen_Suedost-Totale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/800px-SI_Burg_Hainchen_Suedost-Totale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/1200px-SI_Burg_Hainchen_Suedost-Totale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/1920px-SI_Burg_Hainchen_Suedost-Totale.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SI_Burg_Hainchen_Suedost-Totale.jpg/1920px-SI_Burg_Hainchen_Suedost-Totale.jpg
+---
 
 ## Overview
 

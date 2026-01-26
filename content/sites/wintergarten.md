@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg/400px-Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg/800px-Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg/1200px-Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg/1920px-Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg/1920px-Bundesarchiv_Bild_146-1988-035-15,_Berlin,_Wintergarten.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/400px-FKG_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/800px-FKG_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/1200px-FKG_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/1920px-FKG_Göttingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FKG_Göttingen.jpg/1920px-FKG_Göttingen.jpg
+---
 
 ## Overview
 

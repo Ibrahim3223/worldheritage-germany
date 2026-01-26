@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/400px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/800px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/1200px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/1920px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg/1920px-Niedersachsen,_Stadensen,_Naturdenkmal_ND_UE_00072.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/400px-Stadtgeschichtliches_Museum_Wolgast.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/800px-Stadtgeschichtliches_Museum_Wolgast.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/1200px-Stadtgeschichtliches_Museum_Wolgast.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/1920px-Stadtgeschichtliches_Museum_Wolgast.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stadtgeschichtliches_Museum_Wolgast.jpg/1920px-Stadtgeschichtliches_Museum_Wolgast.jpg
+---
 
 ## Overview
 

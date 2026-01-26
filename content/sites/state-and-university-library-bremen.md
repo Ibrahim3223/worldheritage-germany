@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/400px-Staats-_und_Universitätsbibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/800px-Staats-_und_Universitätsbibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/1200px-Staats-_und_Universitätsbibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/1920px-Staats-_und_Universitätsbibliothek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Staats-_und_Universitätsbibliothek.jpg/1920px-Staats-_und_Universitätsbibliothek.jpg
+---
 
 ## Overview
 

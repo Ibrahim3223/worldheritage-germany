@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pfaueninsel_Panorama.jpg/400px-Pfaueninsel_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pfaueninsel_Panorama.jpg/800px-Pfaueninsel_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pfaueninsel_Panorama.jpg/1200px-Pfaueninsel_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pfaueninsel_Panorama.jpg/1920px-Pfaueninsel_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pfaueninsel_Panorama.jpg/1920px-Pfaueninsel_Panorama.jpg
+---
 
 ## Overview
 

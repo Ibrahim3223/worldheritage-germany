@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/400px-Fleming_Geburtshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/800px-Fleming_Geburtshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/1200px-Fleming_Geburtshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/1920px-Fleming_Geburtshaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fleming_Geburtshaus.jpg/1920px-Fleming_Geburtshaus.jpg
+---
 
 ## Overview
 

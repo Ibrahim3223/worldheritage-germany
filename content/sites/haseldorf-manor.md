@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/400px-Haseldorf_Herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/800px-Haseldorf_Herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1200px-Haseldorf_Herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1920px-Haseldorf_Herrenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1920px-Haseldorf_Herrenhaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/400px-Museum_fuer_neue_Kunst.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/800px-Museum_fuer_neue_Kunst.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/1200px-Museum_fuer_neue_Kunst.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/1920px-Museum_fuer_neue_Kunst.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Museum_fuer_neue_Kunst.JPG/1920px-Museum_fuer_neue_Kunst.JPG
+---
 
 ## Overview
 

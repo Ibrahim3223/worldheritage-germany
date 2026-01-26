@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/400px-Buxheim_St._Peter_und_Paul.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/800px-Buxheim_St._Peter_und_Paul.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/1200px-Buxheim_St._Peter_und_Paul.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/1920px-Buxheim_St._Peter_und_Paul.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buxheim_St._Peter_und_Paul.jpg/1920px-Buxheim_St._Peter_und_Paul.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/400px-Karl-Liebknecht-HausSchuschke.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/800px-Karl-Liebknecht-HausSchuschke.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/1200px-Karl-Liebknecht-HausSchuschke.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/1920px-Karl-Liebknecht-HausSchuschke.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Karl-Liebknecht-HausSchuschke.JPG/1920px-Karl-Liebknecht-HausSchuschke.JPG
+---
 
 ## Overview
 

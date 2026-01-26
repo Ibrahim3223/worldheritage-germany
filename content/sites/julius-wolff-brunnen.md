@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/400px-Renatabrunnen.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/800px-Renatabrunnen.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/1200px-Renatabrunnen.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/1920px-Renatabrunnen.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Renatabrunnen.jpeg/1920px-Renatabrunnen.jpeg
+---
 
 ## Overview
 

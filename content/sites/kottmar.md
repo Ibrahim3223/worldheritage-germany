@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/400px-Hutberg_to_Kottmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/800px-Hutberg_to_Kottmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/1200px-Hutberg_to_Kottmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/1920px-Hutberg_to_Kottmar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hutberg_to_Kottmar.jpg/1920px-Hutberg_to_Kottmar.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/400px-Hans-Sachs-Denkmal_Nürnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/800px-Hans-Sachs-Denkmal_Nürnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/1200px-Hans-Sachs-Denkmal_Nürnberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/1920px-Hans-Sachs-Denkmal_Nürnberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/1920px-Hans-Sachs-Denkmal_Nürnberg.jpg
+---
 
 ## Overview
 

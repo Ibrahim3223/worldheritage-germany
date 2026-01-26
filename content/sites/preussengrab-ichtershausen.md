@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/400px-Ichtershausen_Preußengrab_2013_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/800px-Ichtershausen_Preußengrab_2013_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/1200px-Ichtershausen_Preußengrab_2013_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/1920px-Ichtershausen_Preußengrab_2013_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ichtershausen_Preußengrab_2013_2.JPG/1920px-Ichtershausen_Preußengrab_2013_2.JPG
+---
 
 ## Overview
 

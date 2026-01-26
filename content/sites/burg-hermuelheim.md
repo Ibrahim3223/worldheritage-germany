@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/400px-Huerth-Hermuelheim-Burgpark-008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/800px-Huerth-Hermuelheim-Burgpark-008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/1200px-Huerth-Hermuelheim-Burgpark-008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/1920px-Huerth-Hermuelheim-Burgpark-008.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Huerth-Hermuelheim-Burgpark-008.JPG/1920px-Huerth-Hermuelheim-Burgpark-008.JPG
+---
 
 ## Overview
 

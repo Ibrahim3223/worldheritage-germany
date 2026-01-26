@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/400px-Bork_Kirche_IMGP6071_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/800px-Bork_Kirche_IMGP6071_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/1200px-Bork_Kirche_IMGP6071_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/1920px-Bork_Kirche_IMGP6071_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bork_Kirche_IMGP6071_wp.jpg/1920px-Bork_Kirche_IMGP6071_wp.jpg
+---
 
 ## Overview
 

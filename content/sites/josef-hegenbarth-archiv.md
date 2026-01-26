@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/400px-Hegenbarth-Archiv.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/800px-Hegenbarth-Archiv.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/1200px-Hegenbarth-Archiv.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/1920px-Hegenbarth-Archiv.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hegenbarth-Archiv.JPG/1920px-Hegenbarth-Archiv.JPG
+---
 
 ## Overview
 

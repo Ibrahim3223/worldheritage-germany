@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/400px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/800px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/1200px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/1920px-Aachen_Brunnen_am_Augustinerplatz_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aachen_Brunnen_am_Augustinerplatz_3.jpg/1920px-Aachen_Brunnen_am_Augustinerplatz_3.jpg
+---
 
 ## Overview
 

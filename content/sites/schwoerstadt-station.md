@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/400px-Schwörstadt_station.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/800px-Schwörstadt_station.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/1200px-Schwörstadt_station.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/1920px-Schwörstadt_station.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schwörstadt_station.jpg/1920px-Schwörstadt_station.jpg
+---
 
 ## Overview
 

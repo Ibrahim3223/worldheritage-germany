@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/400px-Kaeseglocke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/800px-Kaeseglocke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/1200px-Kaeseglocke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/1920px-Kaeseglocke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kaeseglocke.jpg/1920px-Kaeseglocke.jpg
+---
 
 ## Overview
 

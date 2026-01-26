@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/400px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/800px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/1200px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/1920px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/1920px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
+---
 
 ## Overview
 

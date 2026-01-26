@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burghausen_Castle_Folterturm.jpg/400px-Burghausen_Castle_Folterturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burghausen_Castle_Folterturm.jpg/800px-Burghausen_Castle_Folterturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burghausen_Castle_Folterturm.jpg/1200px-Burghausen_Castle_Folterturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burghausen_Castle_Folterturm.jpg/1920px-Burghausen_Castle_Folterturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burghausen_Castle_Folterturm.jpg/1920px-Burghausen_Castle_Folterturm.jpg
+---
 
 ## Overview
 

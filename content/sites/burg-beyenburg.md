@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/400px-Ennepetal_Schemmstr_0009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/800px-Ennepetal_Schemmstr_0009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1200px-Ennepetal_Schemmstr_0009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1920px-Ennepetal_Schemmstr_0009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1920px-Ennepetal_Schemmstr_0009.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/400px-Museum_Biedermann.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/800px-Museum_Biedermann.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/1200px-Museum_Biedermann.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/1920px-Museum_Biedermann.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Museum_Biedermann.jpg/1920px-Museum_Biedermann.jpg
+---
 
 ## Overview
 

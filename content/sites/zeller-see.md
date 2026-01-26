@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/400px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/800px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/1200px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/1920px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG/1920px-Kißlegg_-_Zellersee_mit_Kirche,_Altes_Schloss.JPG
+---
 
 ## Overview
 

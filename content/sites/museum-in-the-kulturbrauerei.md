@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Museo_nel_Kulturbrauerei.jpg/400px-Museo_nel_Kulturbrauerei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Museo_nel_Kulturbrauerei.jpg/800px-Museo_nel_Kulturbrauerei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Museo_nel_Kulturbrauerei.jpg/1200px-Museo_nel_Kulturbrauerei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Museo_nel_Kulturbrauerei.jpg/1920px-Museo_nel_Kulturbrauerei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Museo_nel_Kulturbrauerei.jpg/1920px-Museo_nel_Kulturbrauerei.jpg
+---
 
 ## Overview
 

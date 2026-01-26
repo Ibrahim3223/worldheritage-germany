@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/400px-Soltauer-Salzmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/800px-Soltauer-Salzmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/1200px-Soltauer-Salzmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/1920px-Soltauer-Salzmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soltauer-Salzmuseum.jpg/1920px-Soltauer-Salzmuseum.jpg
+---
 
 ## Overview
 

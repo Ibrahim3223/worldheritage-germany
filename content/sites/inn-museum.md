@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/400px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/800px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/1200px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/1920px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG/1920px-Rosenheim_——_Inn-Museum,_Gebäude,_Außenansicht_2014.JPG
+---
 
 ## Overview
 

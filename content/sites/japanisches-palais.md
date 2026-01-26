@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/400px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/800px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1200px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1920px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1920px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
+---
 
 ## Overview
 

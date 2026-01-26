@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg/400px-Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg/800px-Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg/1200px-Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg/1920px-Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg/1920px-Zwiefalter_Klosterbraeu_Zwiefalten_I.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/400px-Reichenbach_railway_station_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/800px-Reichenbach_railway_station_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/1200px-Reichenbach_railway_station_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/1920px-Reichenbach_railway_station_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Reichenbach_railway_station_(aka).jpg/1920px-Reichenbach_railway_station_(aka).jpg
+---
 
 ## Overview
 

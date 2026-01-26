@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/400px-Burghügel_der_Ruine_Altkrenkingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/800px-Burghügel_der_Ruine_Altkrenkingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/1200px-Burghügel_der_Ruine_Altkrenkingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/1920px-Burghügel_der_Ruine_Altkrenkingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burghügel_der_Ruine_Altkrenkingen.jpg/1920px-Burghügel_der_Ruine_Altkrenkingen.jpg
+---
 
 ## Overview
 

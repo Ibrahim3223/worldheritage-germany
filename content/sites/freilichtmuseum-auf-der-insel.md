@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/400px-ItDozent_Inselhaus_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/800px-ItDozent_Inselhaus_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1200px-ItDozent_Inselhaus_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1920px-ItDozent_Inselhaus_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1920px-ItDozent_Inselhaus_1.jpg
+---
 
 ## Overview
 

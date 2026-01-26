@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/400px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/800px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/1200px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/1920px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg/1920px-Kirschbaumwasen_Murgtalsperre_02_(fcm).jpg
+---
 
 ## Overview
 

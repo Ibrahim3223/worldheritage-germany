@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/400px-Gut_Bockum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/800px-Gut_Bockum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/1200px-Gut_Bockum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/1920px-Gut_Bockum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gut_Bockum.jpg/1920px-Gut_Bockum.jpg
+---
 
 ## Overview
 

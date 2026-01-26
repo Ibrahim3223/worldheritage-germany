@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/400px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/800px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/1200px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/1920px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg/1920px-St.-Cosmas-und-Damian-Kirche_(Groß_Düngen).jpg
+---
 
 ## Overview
 

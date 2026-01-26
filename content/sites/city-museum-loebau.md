@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/400px-Loebau_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/800px-Loebau_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/1200px-Loebau_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/1920px-Loebau_Stadtmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loebau_Stadtmuseum.jpg/1920px-Loebau_Stadtmuseum.jpg
+---
 
 ## Overview
 

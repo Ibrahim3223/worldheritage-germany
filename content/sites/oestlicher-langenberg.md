@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/400px-Langenberg_Harz.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/800px-Langenberg_Harz.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/1200px-Langenberg_Harz.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/1920px-Langenberg_Harz.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Langenberg_Harz.png/1920px-Langenberg_Harz.png
+---
 
 ## Overview
 

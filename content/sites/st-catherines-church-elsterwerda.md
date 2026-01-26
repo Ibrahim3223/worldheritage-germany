@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/400px-St.Katharina_Elsterwerda1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/800px-St.Katharina_Elsterwerda1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/1200px-St.Katharina_Elsterwerda1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/1920px-St.Katharina_Elsterwerda1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.Katharina_Elsterwerda1.jpg/1920px-St.Katharina_Elsterwerda1.jpg
+---
 
 ## Overview
 

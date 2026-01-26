@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/400px-Aachen,_Stadtgarten,_NAK-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/800px-Aachen,_Stadtgarten,_NAK-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/1200px-Aachen,_Stadtgarten,_NAK-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/1920px-Aachen,_Stadtgarten,_NAK-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aachen,_Stadtgarten,_NAK-001.jpg/1920px-Aachen,_Stadtgarten,_NAK-001.jpg
+---
 
 ## Overview
 

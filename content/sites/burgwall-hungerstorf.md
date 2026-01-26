@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/400px-Burgwall_Hungerstorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/800px-Burgwall_Hungerstorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/1200px-Burgwall_Hungerstorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/1920px-Burgwall_Hungerstorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgwall_Hungerstorf.jpg/1920px-Burgwall_Hungerstorf.jpg
+---
 
 ## Overview
 

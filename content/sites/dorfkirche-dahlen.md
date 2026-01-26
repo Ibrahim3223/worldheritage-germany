@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/400px-Dahlen_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/800px-Dahlen_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1200px-Dahlen_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1920px-Dahlen_Dorfkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1920px-Dahlen_Dorfkirche.jpg
+---
 
 ## Overview
 

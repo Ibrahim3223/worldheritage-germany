@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg/400px-Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg/800px-Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg/1200px-Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg/1920px-Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg/1920px-Berlin,_Mitte,_Invalidenstrasse_43,_Museum_für_Naturkunde.jpg
+---
 
 ## Overview
 

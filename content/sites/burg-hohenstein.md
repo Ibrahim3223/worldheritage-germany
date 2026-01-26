@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg/400px-Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg/800px-Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg/1200px-Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg/1920px-Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg/1920px-Burg-Hohenstein-JR-F23-B8-2003-09-20.jpg
+---
 
 ## Overview
 

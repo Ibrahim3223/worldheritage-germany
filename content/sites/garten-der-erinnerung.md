@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg/400px-ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg/800px-ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg/1200px-ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg/1920px-ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg/1920px-ExtraSchicht_2011-07_–_Duisburg,_Innenhafen_–_CN-04.jpg
+---
 
 ## Overview
 

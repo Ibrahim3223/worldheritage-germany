@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg/400px-The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg/800px-The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg/1200px-The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg/1920px-The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg/1920px-The_reconstructed_Roman_fortlet_in_Pohl,_Limeskastell_Pohl,_Limes_Germanicus,_Germany_(8113013223).jpg
+---
 
 ## Overview
 

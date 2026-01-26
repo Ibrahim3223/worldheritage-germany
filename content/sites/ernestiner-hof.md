@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/400px-Ernestiner_Hof1_Meiningen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/800px-Ernestiner_Hof1_Meiningen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/1200px-Ernestiner_Hof1_Meiningen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/1920px-Ernestiner_Hof1_Meiningen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ernestiner_Hof1_Meiningen.jpg/1920px-Ernestiner_Hof1_Meiningen.jpg
+---
 
 ## Overview
 

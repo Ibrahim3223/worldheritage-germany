@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/400px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/800px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/1200px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/1920px-Kloster_Frenswegen_ehem_Kreuzgang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kloster_Frenswegen_ehem_Kreuzgang.jpg/1920px-Kloster_Frenswegen_ehem_Kreuzgang.jpg
+---
 
 ## Overview
 

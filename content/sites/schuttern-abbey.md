@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/400px-Schutterns_Kloster-_und_Pfarrkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/800px-Schutterns_Kloster-_und_Pfarrkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/1200px-Schutterns_Kloster-_und_Pfarrkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/1920px-Schutterns_Kloster-_und_Pfarrkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg/1920px-Schutterns_Kloster-_und_Pfarrkirche.jpg
+---
 
 ## Overview
 

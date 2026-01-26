@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/400px-Gut_Druelt_Herrenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/800px-Gut_Druelt_Herrenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/1200px-Gut_Druelt_Herrenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/1920px-Gut_Druelt_Herrenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gut_Druelt_Herrenhaus.jpg/1920px-Gut_Druelt_Herrenhaus.jpg
+---
 
 ## Overview
 

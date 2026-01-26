@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/400px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/800px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/1200px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/1920px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Konrad-Adenauer-Denkmal,_Köln-3049.jpg/1920px-Konrad-Adenauer-Denkmal,_Köln-3049.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/400px-Cathedral_(Mainz)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/800px-Cathedral_(Mainz)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/1200px-Cathedral_(Mainz)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/1920px-Cathedral_(Mainz)_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cathedral_(Mainz)_2.jpg/1920px-Cathedral_(Mainz)_2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/400px-Mordwange.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/800px-Mordwange.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/1200px-Mordwange.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/1920px-Mordwange.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mordwange.JPG/1920px-Mordwange.JPG
+---
 
 ## Overview
 

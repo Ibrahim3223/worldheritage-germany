@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kampen_Leuchtturm_2.jpg/400px-Kampen_Leuchtturm_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kampen_Leuchtturm_2.jpg/800px-Kampen_Leuchtturm_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kampen_Leuchtturm_2.jpg/1200px-Kampen_Leuchtturm_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kampen_Leuchtturm_2.jpg/1920px-Kampen_Leuchtturm_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kampen_Leuchtturm_2.jpg/1920px-Kampen_Leuchtturm_2.jpg
+---
 
 ## Overview
 

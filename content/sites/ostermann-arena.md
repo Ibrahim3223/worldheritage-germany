@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/400px-SMIDT-Arena_Feb2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/800px-SMIDT-Arena_Feb2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/1200px-SMIDT-Arena_Feb2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/1920px-SMIDT-Arena_Feb2012.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SMIDT-Arena_Feb2012.jpg/1920px-SMIDT-Arena_Feb2012.jpg
+---
 
 ## Overview
 

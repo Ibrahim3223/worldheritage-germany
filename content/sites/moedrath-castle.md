@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/400px-Haus_Mödrath.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/800px-Haus_Mödrath.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/1200px-Haus_Mödrath.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/1920px-Haus_Mödrath.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Haus_Mödrath.jpg/1920px-Haus_Mödrath.jpg
+---
 
 ## Overview
 

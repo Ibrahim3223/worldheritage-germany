@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/400px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/800px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/1200px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/1920px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG/1920px-Heiligenstedten_Esesfeldburg_Hinweisschild_April-2010_SL273799.JPG
+---
 
 ## Overview
 

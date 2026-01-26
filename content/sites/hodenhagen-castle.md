@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/400px-Feste_Hodenhagen_Fluss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/800px-Feste_Hodenhagen_Fluss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1200px-Feste_Hodenhagen_Fluss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1920px-Feste_Hodenhagen_Fluss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1920px-Feste_Hodenhagen_Fluss.jpg
+---
 
 ## Overview
 

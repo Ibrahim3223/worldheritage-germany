@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Grube_Ludwig.JPG/400px-Grube_Ludwig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Grube_Ludwig.JPG/800px-Grube_Ludwig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Grube_Ludwig.JPG/1200px-Grube_Ludwig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Grube_Ludwig.JPG/1920px-Grube_Ludwig.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Grube_Ludwig.JPG/1920px-Grube_Ludwig.JPG
+---
 
 ## Overview
 

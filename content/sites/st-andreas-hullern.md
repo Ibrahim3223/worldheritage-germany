@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/400px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/800px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/1200px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/1920px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg/1920px-Haltern_am_See,_Hullern,_St.-Andreas-Kirche_--_2014_--_3232.jpg
+---
 
 ## Overview
 

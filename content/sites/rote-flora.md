@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/400px-Rote_Flora_März_2021.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/800px-Rote_Flora_März_2021.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/1200px-Rote_Flora_März_2021.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/1920px-Rote_Flora_März_2021.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_März_2021.jpg/1920px-Rote_Flora_März_2021.jpg
+---
 
 ## Overview
 

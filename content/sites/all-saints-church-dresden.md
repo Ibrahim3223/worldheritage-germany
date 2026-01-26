@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/400px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/800px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/1200px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/1920px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg/1920px-Dresden_Anglikanische_Kirche._All_Saints_Church._Aufnahme_um_1875.jpg
+---
 
 ## Overview
 

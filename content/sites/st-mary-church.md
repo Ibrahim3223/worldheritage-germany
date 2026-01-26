@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/400px-Stendal_Marienkirche_2011-09-17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/800px-Stendal_Marienkirche_2011-09-17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/1200px-Stendal_Marienkirche_2011-09-17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/1920px-Stendal_Marienkirche_2011-09-17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Stendal_Marienkirche_2011-09-17.jpg/1920px-Stendal_Marienkirche_2011-09-17.jpg
+---
 
 ## Overview
 

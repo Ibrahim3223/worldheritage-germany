@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/400px-Konradsdorf_Kirche+Propstei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/800px-Konradsdorf_Kirche+Propstei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/1200px-Konradsdorf_Kirche+Propstei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/1920px-Konradsdorf_Kirche+Propstei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konradsdorf_Kirche+Propstei.jpg/1920px-Konradsdorf_Kirche+Propstei.jpg
+---
 
 ## Overview
 

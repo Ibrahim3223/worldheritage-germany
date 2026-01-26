@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/400px-Rennsteigmuseum_Neustadt_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/800px-Rennsteigmuseum_Neustadt_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/1200px-Rennsteigmuseum_Neustadt_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/1920px-Rennsteigmuseum_Neustadt_10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rennsteigmuseum_Neustadt_10.jpg/1920px-Rennsteigmuseum_Neustadt_10.jpg
+---
 
 ## Overview
 

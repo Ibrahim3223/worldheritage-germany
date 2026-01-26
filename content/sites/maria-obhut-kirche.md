@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/400px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/800px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/1200px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/1920px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg/1920px-Russisch-Orthodoxe_Kirche_in_Duesseldorf-Oberbilk,_von_Nordosten.jpg
+---
 
 ## Overview
 

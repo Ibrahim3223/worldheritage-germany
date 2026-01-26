@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/400px-StGeorgLübeckKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/800px-StGeorgLübeckKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/1200px-StGeorgLübeckKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/1920px-StGeorgLübeckKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/StGeorgLübeckKirche.jpg/1920px-StGeorgLübeckKirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/400px-Grassimuseum_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/800px-Grassimuseum_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1200px-Grassimuseum_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grassimuseum_Leipzig.jpg/1920px-Grassimuseum_Leipzig.jpg
+---
 
 ## Overview
 

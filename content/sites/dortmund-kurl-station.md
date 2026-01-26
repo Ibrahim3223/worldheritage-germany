@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/400px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/800px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/1200px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/1920px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg/1920px-Bahnhof_Dortmund_Kurl_Front_IMGP9245.jpg
+---
 
 ## Overview
 

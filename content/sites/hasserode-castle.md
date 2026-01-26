@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/400px-BurgHasserode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/800px-BurgHasserode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/1200px-BurgHasserode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/1920px-BurgHasserode.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BurgHasserode.jpg/1920px-BurgHasserode.jpg
+---
 
 ## Overview
 

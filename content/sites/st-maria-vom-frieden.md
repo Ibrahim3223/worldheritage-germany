@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/400px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/800px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/1200px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/1920px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG/1920px-St-Maria-vom-Frieden-Köln-008-Kirchenschiff.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/400px-Salvator_(Berlin-Schmargendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/800px-Salvator_(Berlin-Schmargendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/1200px-Salvator_(Berlin-Schmargendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/1920px-Salvator_(Berlin-Schmargendorf).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Salvator_(Berlin-Schmargendorf).jpg/1920px-Salvator_(Berlin-Schmargendorf).jpg
+---
 
 ## Overview
 

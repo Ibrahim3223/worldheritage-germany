@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/400px-Dresden_Elbterrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/800px-Dresden_Elbterrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1200px-Dresden_Elbterrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1920px-Dresden_Elbterrasse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1920px-Dresden_Elbterrasse.jpg
+---
 
 ## Overview
 

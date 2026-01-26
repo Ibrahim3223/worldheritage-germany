@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/400px-Stadt_Usedom_Anklamer_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/800px-Stadt_Usedom_Anklamer_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/1200px-Stadt_Usedom_Anklamer_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/1920px-Stadt_Usedom_Anklamer_Tor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stadt_Usedom_Anklamer_Tor.jpg/1920px-Stadt_Usedom_Anklamer_Tor.jpg
+---
 
 ## Overview
 

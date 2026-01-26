@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/400px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/800px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/1200px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/1920px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg/1920px-Bertoldstraße_17_(Freiburg_im_Breisgau)_jm61175.jpg
+---
 
 ## Overview
 

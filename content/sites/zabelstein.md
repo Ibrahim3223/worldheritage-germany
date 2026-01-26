@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/400px-Aussichtsturm_auf_dem_Zabelstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/800px-Aussichtsturm_auf_dem_Zabelstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/1200px-Aussichtsturm_auf_dem_Zabelstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/1920px-Aussichtsturm_auf_dem_Zabelstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aussichtsturm_auf_dem_Zabelstein.jpg/1920px-Aussichtsturm_auf_dem_Zabelstein.jpg
+---
 
 ## Overview 
 

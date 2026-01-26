@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/400px-Altdorf_Uni.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/800px-Altdorf_Uni.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/1200px-Altdorf_Uni.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/1920px-Altdorf_Uni.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Altdorf_Uni.jpg/1920px-Altdorf_Uni.jpg
+---
 
 ## Overview
 

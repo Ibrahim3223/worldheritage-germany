@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/400px-Burg_Königsegg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/800px-Burg_Königsegg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1200px-Burg_Königsegg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1920px-Burg_Königsegg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1920px-Burg_Königsegg.jpg
+---
 
 ## Overview
 

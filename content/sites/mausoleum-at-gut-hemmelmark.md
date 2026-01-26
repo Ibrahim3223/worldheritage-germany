@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/400px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/800px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/1200px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/1920px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg/1920px-Mausoleum_Prinz_Heinrich_in_Hemmelmark.jpg
+---
 
 ## Overview
 

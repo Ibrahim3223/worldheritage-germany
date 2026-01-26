@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/400px-Eschweiler-aue-hinten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/800px-Eschweiler-aue-hinten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/1200px-Eschweiler-aue-hinten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/1920px-Eschweiler-aue-hinten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Eschweiler-aue-hinten.jpg/1920px-Eschweiler-aue-hinten.jpg
+---
 
 ## Overview
 

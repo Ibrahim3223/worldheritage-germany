@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/400px-Historisches-Kaufhaus-Abbehausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/800px-Historisches-Kaufhaus-Abbehausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/1200px-Historisches-Kaufhaus-Abbehausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/1920px-Historisches-Kaufhaus-Abbehausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Historisches-Kaufhaus-Abbehausen.jpg/1920px-Historisches-Kaufhaus-Abbehausen.jpg
+---
 
 ## Overview
 

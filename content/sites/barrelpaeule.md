@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/400px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/800px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/1200px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/1920px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg/1920px-Halle_(Westfalen)_-_NSG_Barrelpäule_im_Winter.jpg
+---
 
 ## Overview
 

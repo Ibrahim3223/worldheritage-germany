@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/400px-Walburgiskirche_(Venne).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/800px-Walburgiskirche_(Venne).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/1200px-Walburgiskirche_(Venne).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/1920px-Walburgiskirche_(Venne).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Walburgiskirche_(Venne).jpg/1920px-Walburgiskirche_(Venne).jpg
+---
 
 ## Overview
 

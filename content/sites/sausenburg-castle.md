@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/400px-Sausenburg_Ruin_in_Spring.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/800px-Sausenburg_Ruin_in_Spring.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/1200px-Sausenburg_Ruin_in_Spring.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/1920px-Sausenburg_Ruin_in_Spring.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sausenburg_Ruin_in_Spring.JPG/1920px-Sausenburg_Ruin_in_Spring.JPG
+---
 
 ## Overview
 

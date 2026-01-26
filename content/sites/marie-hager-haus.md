@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/400px-Burg_Stargard_Marie-Hager-Haus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/800px-Burg_Stargard_Marie-Hager-Haus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/1200px-Burg_Stargard_Marie-Hager-Haus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/1920px-Burg_Stargard_Marie-Hager-Haus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Stargard_Marie-Hager-Haus.JPG/1920px-Burg_Stargard_Marie-Hager-Haus.JPG
+---
 
 ## Overview
 

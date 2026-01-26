@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ev._Kirche_Wehen.jpg/400px-Ev._Kirche_Wehen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ev._Kirche_Wehen.jpg/800px-Ev._Kirche_Wehen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ev._Kirche_Wehen.jpg/1200px-Ev._Kirche_Wehen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ev._Kirche_Wehen.jpg/1920px-Ev._Kirche_Wehen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ev._Kirche_Wehen.jpg/1920px-Ev._Kirche_Wehen.jpg
+---
 
 ## Overview
 

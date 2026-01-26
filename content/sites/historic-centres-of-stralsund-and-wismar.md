@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/400px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/800px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/1200px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/1920px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg/1920px-19-07-27-Wismar-Innenstadt-DJI_0058-Panorama-2.jpg
+---
 
 ## Overview
 

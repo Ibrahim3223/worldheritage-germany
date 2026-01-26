@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/400px-Kranenburg_-_Katharinenhof_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/800px-Kranenburg_-_Katharinenhof_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/1200px-Kranenburg_-_Katharinenhof_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/1920px-Kranenburg_-_Katharinenhof_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kranenburg_-_Katharinenhof_02_ies.jpg/1920px-Kranenburg_-_Katharinenhof_02_ies.jpg
+---
 
 ## Overview
 

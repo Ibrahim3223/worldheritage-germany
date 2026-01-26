@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/400px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/800px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/1200px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/1920px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wuppertal_Jung-Stilling-Weg_2013_130.JPG/1920px-Wuppertal_Jung-Stilling-Weg_2013_130.JPG
+---
 
 ## Overview
 

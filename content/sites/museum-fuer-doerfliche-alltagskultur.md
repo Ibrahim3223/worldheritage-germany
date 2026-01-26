@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/400px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/800px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/1200px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/1920px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG/1920px-Rubenheim_Museum_für_dörfliche_Alltagskultur_01.JPG
+---
 
 ## Overview
 

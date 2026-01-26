@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/400px-Contra_kreis_theater_bonn_eingang_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/800px-Contra_kreis_theater_bonn_eingang_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1200px-Contra_kreis_theater_bonn_eingang_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1920px-Contra_kreis_theater_bonn_eingang_2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1920px-Contra_kreis_theater_bonn_eingang_2008.jpg
+---
 
 ## Overview
 

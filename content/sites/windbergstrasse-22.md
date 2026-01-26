@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/400px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/800px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/1200px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/1920px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg/1920px-20190419180DR_Dresden-Coschütz_Rathaus_Windbergstraße_22.jpg
+---
 
 ## Overview
 

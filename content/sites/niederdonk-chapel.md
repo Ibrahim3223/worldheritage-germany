@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kapelle_Niederdonk.jpg/400px-Kapelle_Niederdonk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kapelle_Niederdonk.jpg/800px-Kapelle_Niederdonk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kapelle_Niederdonk.jpg/1200px-Kapelle_Niederdonk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kapelle_Niederdonk.jpg/1920px-Kapelle_Niederdonk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kapelle_Niederdonk.jpg/1920px-Kapelle_Niederdonk.jpg
+---
 
 ## Overview
 

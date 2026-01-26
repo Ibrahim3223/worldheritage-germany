@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/400px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/800px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1200px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1920px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1920px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+---
 
 ## Overview
 

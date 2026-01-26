@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/400px-Dokuzentrum_KZ_Belsen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/800px-Dokuzentrum_KZ_Belsen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/1200px-Dokuzentrum_KZ_Belsen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/1920px-Dokuzentrum_KZ_Belsen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dokuzentrum_KZ_Belsen.jpg/1920px-Dokuzentrum_KZ_Belsen.jpg
+---
 
 ## Overview
 

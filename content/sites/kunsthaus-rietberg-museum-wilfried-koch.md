@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/400px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/800px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/1200px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/1920px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG/1920px-Kunsthaus_Rietberg_-_Museum_Wilfried_Koch.JPG
+---
 
 ## Overview
 

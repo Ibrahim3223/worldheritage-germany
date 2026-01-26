@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/400px-Geierswaldersee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/800px-Geierswaldersee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1200px-Geierswaldersee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1920px-Geierswaldersee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1920px-Geierswaldersee.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/400px-Burg_Gröneberg_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/800px-Burg_Gröneberg_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/1200px-Burg_Gröneberg_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/1920px-Burg_Gröneberg_von_Nordwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Gröneberg_von_Nordwesten.jpg/1920px-Burg_Gröneberg_von_Nordwesten.jpg
+---
 
 ## Overview
 

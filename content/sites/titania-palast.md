@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/400px-120929-Steglitz-Titania-Palast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/800px-120929-Steglitz-Titania-Palast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/1200px-120929-Steglitz-Titania-Palast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/1920px-120929-Steglitz-Titania-Palast.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/120929-Steglitz-Titania-Palast.JPG/1920px-120929-Steglitz-Titania-Palast.JPG
+---
 
 ## Overview
 

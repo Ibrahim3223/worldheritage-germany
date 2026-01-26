@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weserrenaissance-Museum_Schloss_Brake_Building.jpg/400px-Weserrenaissance-Museum_Schloss_Brake_Building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weserrenaissance-Museum_Schloss_Brake_Building.jpg/800px-Weserrenaissance-Museum_Schloss_Brake_Building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weserrenaissance-Museum_Schloss_Brake_Building.jpg/1200px-Weserrenaissance-Museum_Schloss_Brake_Building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weserrenaissance-Museum_Schloss_Brake_Building.jpg/1920px-Weserrenaissance-Museum_Schloss_Brake_Building.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weserrenaissance-Museum_Schloss_Brake_Building.jpg/1920px-Weserrenaissance-Museum_Schloss_Brake_Building.jpg
+---
 
 ## Overview
 

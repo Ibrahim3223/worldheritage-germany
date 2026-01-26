@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/400px-Synagoge_Göllheim567.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/800px-Synagoge_Göllheim567.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/1200px-Synagoge_Göllheim567.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/1920px-Synagoge_Göllheim567.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Göllheim567.JPG/1920px-Synagoge_Göllheim567.JPG
+---
 
 ## Overview
 

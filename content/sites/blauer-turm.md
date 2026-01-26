@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/400px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/800px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/1200px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/1920px-Blauer_Turm,_Ansicht_von_NW.tif.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Blauer_Turm,_Ansicht_von_NW.tif.jpg/1920px-Blauer_Turm,_Ansicht_von_NW.tif.jpg
+---
 
 ## Overview
 

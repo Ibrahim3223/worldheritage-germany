@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/400px-Bethlehemkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/800px-Bethlehemkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1200px-Bethlehemkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1920px-Bethlehemkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1920px-Bethlehemkirche.jpg
+---
 
 ## Overview
 

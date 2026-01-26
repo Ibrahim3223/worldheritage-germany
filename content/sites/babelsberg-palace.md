@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/400px-Babelsberg,_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/800px-Babelsberg,_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/1200px-Babelsberg,_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/1920px-Babelsberg,_Schloss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg,_Schloss.JPG/1920px-Babelsberg,_Schloss.JPG
+---
 
 ## Overview
 

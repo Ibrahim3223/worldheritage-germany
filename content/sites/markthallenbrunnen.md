@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/400px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/800px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/1200px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/1920px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg/1920px-Brunnen_Karl-Liebknecht-Str_13_(Mitte)_Markthallenbrunnen_Gerhard_Thieme_1973.jpg
+---
 
 ## Overview
 

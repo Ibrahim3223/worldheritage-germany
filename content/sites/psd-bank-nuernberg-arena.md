@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/400px-Ледяная_арена.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/800px-Ледяная_арена.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/1200px-Ледяная_арена.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/1920px-Ледяная_арена.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ледяная_арена.jpg/1920px-Ледяная_арена.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/400px-Aschener_Moor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/800px-Aschener_Moor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/1200px-Aschener_Moor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/1920px-Aschener_Moor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aschener_Moor.JPG/1920px-Aschener_Moor.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg/400px-Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg/800px-Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg/1200px-Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg/1920px-Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg/1920px-Skulptur_Köllnischer_Park_(Mitte)_Herkules_im_Kampf_mit_dem_Nemëischen_Löwen&Boy_Schadow&178791.jpg
+---
 
 ## Overview
 

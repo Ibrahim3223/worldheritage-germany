@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/400px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/800px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/1200px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/1920px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg/1920px-Kapelle_in_Lutter_(Neustadt_am_Rübenberge)_IMG_0561.jpg
+---
 
 ## Overview
 

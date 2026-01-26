@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/400px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/800px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/1200px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/1920px-Schwetzingen_BW_2014-07-22_16-43-37.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schwetzingen_BW_2014-07-22_16-43-37.jpg/1920px-Schwetzingen_BW_2014-07-22_16-43-37.jpg
+---
 
 ## Overview
 

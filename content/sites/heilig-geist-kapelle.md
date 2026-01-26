@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/400px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/800px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/1200px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/1920px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg/1920px-Heilig-Geist-Kapelle_(Bad_Sooden-Allendorf).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/400px-Dausenau_-_St._Kastor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/800px-Dausenau_-_St._Kastor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/1200px-Dausenau_-_St._Kastor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/1920px-Dausenau_-_St._Kastor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dausenau_-_St._Kastor.JPG/1920px-Dausenau_-_St._Kastor.JPG
+---
 
 ## Overview
 

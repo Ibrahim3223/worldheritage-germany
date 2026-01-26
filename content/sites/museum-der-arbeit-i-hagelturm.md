@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/400px-Fährenpfortenturm-03-Tafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/800px-Fährenpfortenturm-03-Tafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/1200px-Fährenpfortenturm-03-Tafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/1920px-Fährenpfortenturm-03-Tafel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fährenpfortenturm-03-Tafel.jpg/1920px-Fährenpfortenturm-03-Tafel.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/400px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/800px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/1200px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/1920px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG/1920px-DL_NRW_VREDEN_ZWILLBROCKER_VENN_051.JPG
+---
 
 ## Overview
 

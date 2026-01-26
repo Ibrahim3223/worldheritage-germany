@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/400px-Dreifaltigkeitskirche_frontal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/800px-Dreifaltigkeitskirche_frontal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/1200px-Dreifaltigkeitskirche_frontal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/1920px-Dreifaltigkeitskirche_frontal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/1920px-Dreifaltigkeitskirche_frontal.jpg
+---
 
 ## Overview
 

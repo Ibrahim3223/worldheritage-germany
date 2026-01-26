@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/400px-Hirzbacher_Kapelle02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/800px-Hirzbacher_Kapelle02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/1200px-Hirzbacher_Kapelle02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/1920px-Hirzbacher_Kapelle02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hirzbacher_Kapelle02.jpg/1920px-Hirzbacher_Kapelle02.jpg
+---
 
 ## Overview
 

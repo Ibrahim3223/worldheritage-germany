@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/400px-Lahn-Marmor-Museum_Villmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/800px-Lahn-Marmor-Museum_Villmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/1200px-Lahn-Marmor-Museum_Villmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/1920px-Lahn-Marmor-Museum_Villmar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lahn-Marmor-Museum_Villmar.jpg/1920px-Lahn-Marmor-Museum_Villmar.jpg
+---
 
 ## Overview
 

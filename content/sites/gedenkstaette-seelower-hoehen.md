@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/400px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/800px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/1200px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/1920px-Gedenkstätte_Seelower_Höhen_2013_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstätte_Seelower_Höhen_2013_02.jpg/1920px-Gedenkstätte_Seelower_Höhen_2013_02.jpg
+---
 
 ## Overview
 

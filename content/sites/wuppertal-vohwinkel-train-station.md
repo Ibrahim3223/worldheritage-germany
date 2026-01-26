@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/400px-Wuppertal-Vohwinkel-Bahnhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/800px-Wuppertal-Vohwinkel-Bahnhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/1200px-Wuppertal-Vohwinkel-Bahnhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/1920px-Wuppertal-Vohwinkel-Bahnhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wuppertal-Vohwinkel-Bahnhof.jpg/1920px-Wuppertal-Vohwinkel-Bahnhof.jpg
+---
 
 ## Overview
 

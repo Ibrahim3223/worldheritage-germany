@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/400px-AlteWeser_1964.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/800px-AlteWeser_1964.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/1200px-AlteWeser_1964.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/1920px-AlteWeser_1964.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/1920px-AlteWeser_1964.jpg
+---
 
 ## Overview
 

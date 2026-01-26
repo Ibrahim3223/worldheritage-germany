@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/400px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/800px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/1200px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/1920px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG/1920px-Lobberich,_kasteel_foto2_2009-07-05_13.47.JPG
+---
 
 ## Overview
 

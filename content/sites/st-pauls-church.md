@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/400px-Pauluskirche_kreuznach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/800px-Pauluskirche_kreuznach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1200px-Pauluskirche_kreuznach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1920px-Pauluskirche_kreuznach.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pauluskirche_kreuznach.JPG/1920px-Pauluskirche_kreuznach.JPG
+---
 
 ## Overview
 

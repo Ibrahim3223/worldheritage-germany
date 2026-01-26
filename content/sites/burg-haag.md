@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/400px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/800px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/1200px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/1920px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg/1920px-Haag_in_Oberbayern_-_Schlossturm_mit_Wappen_und_Erkern.jpg
+---
 
 ## Overview
 

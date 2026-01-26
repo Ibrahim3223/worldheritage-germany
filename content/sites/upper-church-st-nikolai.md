@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/400px-Cottbus_St_Nikolai_16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/800px-Cottbus_St_Nikolai_16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/1200px-Cottbus_St_Nikolai_16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/1920px-Cottbus_St_Nikolai_16.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cottbus_St_Nikolai_16.jpg/1920px-Cottbus_St_Nikolai_16.jpg
+---
 
 ## Overview
 

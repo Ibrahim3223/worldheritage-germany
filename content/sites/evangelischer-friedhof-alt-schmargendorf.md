@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/400px-Friedhof_Alt-Schmargendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/800px-Friedhof_Alt-Schmargendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/1200px-Friedhof_Alt-Schmargendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/1920px-Friedhof_Alt-Schmargendorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Friedhof_Alt-Schmargendorf.jpg/1920px-Friedhof_Alt-Schmargendorf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/400px-Mainfischer-Detail.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/800px-Mainfischer-Detail.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/1200px-Mainfischer-Detail.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/1920px-Mainfischer-Detail.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mainfischer-Detail.jpg/1920px-Mainfischer-Detail.jpg
+---
 
 ## Overview
 

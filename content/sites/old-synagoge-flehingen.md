@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/400px-Flehingen_Alte_Synagoge193.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/800px-Flehingen_Alte_Synagoge193.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/1200px-Flehingen_Alte_Synagoge193.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/1920px-Flehingen_Alte_Synagoge193.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flehingen_Alte_Synagoge193.JPG/1920px-Flehingen_Alte_Synagoge193.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/400px-Frankenthal_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/800px-Frankenthal_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/1200px-Frankenthal_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/1920px-Frankenthal_BW_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Frankenthal_BW_1.jpg/1920px-Frankenthal_BW_1.jpg
+---
 
 ## Overview
 

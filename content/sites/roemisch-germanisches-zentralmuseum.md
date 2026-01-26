@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kurfuerstliches_Schloss_Mainz_s.jpg/400px-Kurfuerstliches_Schloss_Mainz_s.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kurfuerstliches_Schloss_Mainz_s.jpg/800px-Kurfuerstliches_Schloss_Mainz_s.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kurfuerstliches_Schloss_Mainz_s.jpg/1200px-Kurfuerstliches_Schloss_Mainz_s.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kurfuerstliches_Schloss_Mainz_s.jpg/1920px-Kurfuerstliches_Schloss_Mainz_s.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kurfuerstliches_Schloss_Mainz_s.jpg/1920px-Kurfuerstliches_Schloss_Mainz_s.jpg
+---
 
 ## Overview
 

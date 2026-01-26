@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/400px-Deutz_Neu_Heribert_Innenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/800px-Deutz_Neu_Heribert_Innenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/1200px-Deutz_Neu_Heribert_Innenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/1920px-Deutz_Neu_Heribert_Innenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Deutz_Neu_Heribert_Innenansicht.jpg/1920px-Deutz_Neu_Heribert_Innenansicht.jpg
+---
 
 ## Overview
 

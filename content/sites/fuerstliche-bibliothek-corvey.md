@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/400px-Fürstliche_Bibliothek_Corvey.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/800px-Fürstliche_Bibliothek_Corvey.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1200px-Fürstliche_Bibliothek_Corvey.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1920px-Fürstliche_Bibliothek_Corvey.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1920px-Fürstliche_Bibliothek_Corvey.JPG
+---
 
 ## Overview
 

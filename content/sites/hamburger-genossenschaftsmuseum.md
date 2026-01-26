@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/400px-Hamburger_Genossenschaftsmuseum.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/800px-Hamburger_Genossenschaftsmuseum.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/1200px-Hamburger_Genossenschaftsmuseum.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/1920px-Hamburger_Genossenschaftsmuseum.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburger_Genossenschaftsmuseum.jpeg/1920px-Hamburger_Genossenschaftsmuseum.jpeg
+---
 
 ## Overview
 

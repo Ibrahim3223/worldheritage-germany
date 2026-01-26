@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/400px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/800px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/1200px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/1920px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg/1920px-BEST-Sabel-Grundschule_Berlin-Mahlsdorf_892-774-(118).jpg
+---
 
 ## Overview
 

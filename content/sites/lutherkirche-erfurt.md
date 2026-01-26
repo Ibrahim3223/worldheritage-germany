@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/400px-Lutherkirche_Erfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/800px-Lutherkirche_Erfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1200px-Lutherkirche_Erfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1920px-Lutherkirche_Erfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lutherkirche_Erfurt.jpg/1920px-Lutherkirche_Erfurt.jpg
+---
 
 ## Overview
 

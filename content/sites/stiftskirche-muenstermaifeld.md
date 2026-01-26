@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/400px-2014_Stiftskirche_Münstermaifeld_(4).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/800px-2014_Stiftskirche_Münstermaifeld_(4).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/1200px-2014_Stiftskirche_Münstermaifeld_(4).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/1920px-2014_Stiftskirche_Münstermaifeld_(4).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2014_Stiftskirche_Münstermaifeld_(4).jpg/1920px-2014_Stiftskirche_Münstermaifeld_(4).jpg
+---
 
 ## Overview
 

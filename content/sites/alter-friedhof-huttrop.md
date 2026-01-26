@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/400px-Alter_Friedhof_Huttrop.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/800px-Alter_Friedhof_Huttrop.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/1200px-Alter_Friedhof_Huttrop.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/1920px-Alter_Friedhof_Huttrop.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alter_Friedhof_Huttrop.JPG/1920px-Alter_Friedhof_Huttrop.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/400px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/800px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1200px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1920px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1920px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
+---
 
 ## Overview
 

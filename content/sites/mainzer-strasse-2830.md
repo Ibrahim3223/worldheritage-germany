@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Remagen_Mainzer_Straße_28–30_2014.jpg/400px-Remagen_Mainzer_Straße_28–30_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Remagen_Mainzer_Straße_28–30_2014.jpg/800px-Remagen_Mainzer_Straße_28–30_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Remagen_Mainzer_Straße_28–30_2014.jpg/1200px-Remagen_Mainzer_Straße_28–30_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Remagen_Mainzer_Straße_28–30_2014.jpg/1920px-Remagen_Mainzer_Straße_28–30_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Remagen_Mainzer_Straße_28–30_2014.jpg/1920px-Remagen_Mainzer_Straße_28–30_2014.jpg
+---
 
 ## Overview
 

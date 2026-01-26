@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/400px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/800px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1200px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1920px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1920px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
+---
 
 ## Overview
 

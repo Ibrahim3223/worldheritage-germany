@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/400px-Rappenau-stadtkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/800px-Rappenau-stadtkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/1200px-Rappenau-stadtkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/1920px-Rappenau-stadtkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rappenau-stadtkirche.jpg/1920px-Rappenau-stadtkirche.jpg
+---
 
 ## Overview
 

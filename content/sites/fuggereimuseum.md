@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fugger_Fuggerei_wkbunkermuseum.jpg/400px-Fugger_Fuggerei_wkbunkermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fugger_Fuggerei_wkbunkermuseum.jpg/800px-Fugger_Fuggerei_wkbunkermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fugger_Fuggerei_wkbunkermuseum.jpg/1200px-Fugger_Fuggerei_wkbunkermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fugger_Fuggerei_wkbunkermuseum.jpg/1920px-Fugger_Fuggerei_wkbunkermuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fugger_Fuggerei_wkbunkermuseum.jpg/1920px-Fugger_Fuggerei_wkbunkermuseum.jpg
+---
 
 ## Overview
 

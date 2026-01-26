@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/400px-Asamkapelle_Freising.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/800px-Asamkapelle_Freising.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/1200px-Asamkapelle_Freising.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/1920px-Asamkapelle_Freising.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Asamkapelle_Freising.jpg/1920px-Asamkapelle_Freising.jpg
+---
 
 ## Overview
 

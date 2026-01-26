@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/400px-Niederalfingen_Marienburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/800px-Niederalfingen_Marienburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/1200px-Niederalfingen_Marienburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/1920px-Niederalfingen_Marienburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Niederalfingen_Marienburg.jpg/1920px-Niederalfingen_Marienburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/400px-Dreveskirchen_Kirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/800px-Dreveskirchen_Kirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/1200px-Dreveskirchen_Kirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/1920px-Dreveskirchen_Kirche_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dreveskirchen_Kirche_1.jpg/1920px-Dreveskirchen_Kirche_1.jpg
+---
 
 ## Overview
 

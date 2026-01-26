@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/400px-Schirmgasse_264.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/800px-Schirmgasse_264.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/1200px-Schirmgasse_264.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/1920px-Schirmgasse_264.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schirmgasse_264.JPG/1920px-Schirmgasse_264.JPG
+---
 
 ## Overview
 

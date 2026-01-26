@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/400px-Schwerin-Schloss-gp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/800px-Schwerin-Schloss-gp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/1200px-Schwerin-Schloss-gp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/1920px-Schwerin-Schloss-gp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Schwerin-Schloss-gp.jpg/1920px-Schwerin-Schloss-gp.jpg
+---
 
 ## Overview
 

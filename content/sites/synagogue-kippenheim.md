@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/400px-Ehemalige_Synagoge_Kippenheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/800px-Ehemalige_Synagoge_Kippenheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/1200px-Ehemalige_Synagoge_Kippenheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/1920px-Ehemalige_Synagoge_Kippenheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ehemalige_Synagoge_Kippenheim.jpg/1920px-Ehemalige_Synagoge_Kippenheim.jpg
+---
 
 ## Overview
 

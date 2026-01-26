@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/400px-Frickenhöhle_See_Siphon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/800px-Frickenhöhle_See_Siphon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/1200px-Frickenhöhle_See_Siphon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/1920px-Frickenhöhle_See_Siphon.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Frickenhöhle_See_Siphon.jpg/1920px-Frickenhöhle_See_Siphon.jpg
+---
 
 ## Overview
 

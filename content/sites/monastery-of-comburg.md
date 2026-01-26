@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Comburg_summer.jpg/400px-Comburg_summer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Comburg_summer.jpg/800px-Comburg_summer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Comburg_summer.jpg/1200px-Comburg_summer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Comburg_summer.jpg/1920px-Comburg_summer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Comburg_summer.jpg/1920px-Comburg_summer.jpg
+---
 
 ## Overview
 

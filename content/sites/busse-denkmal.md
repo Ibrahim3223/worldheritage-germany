@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bhv_andergeeste_bussedenkmal_hg.jpg/400px-Bhv_andergeeste_bussedenkmal_hg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bhv_andergeeste_bussedenkmal_hg.jpg/800px-Bhv_andergeeste_bussedenkmal_hg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bhv_andergeeste_bussedenkmal_hg.jpg/1200px-Bhv_andergeeste_bussedenkmal_hg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bhv_andergeeste_bussedenkmal_hg.jpg/1920px-Bhv_andergeeste_bussedenkmal_hg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bhv_andergeeste_bussedenkmal_hg.jpg/1920px-Bhv_andergeeste_bussedenkmal_hg.jpg
+---
 
 ## Overview
 

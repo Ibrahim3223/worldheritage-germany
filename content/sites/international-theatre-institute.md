@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/400px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/800px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1200px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1920px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1920px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
+---
 
 ## Overview
 

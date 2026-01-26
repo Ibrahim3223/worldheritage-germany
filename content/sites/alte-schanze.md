@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/400px-Schanze_Bad_Nauheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/800px-Schanze_Bad_Nauheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/1200px-Schanze_Bad_Nauheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/1920px-Schanze_Bad_Nauheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schanze_Bad_Nauheim.JPG/1920px-Schanze_Bad_Nauheim.JPG
+---
 
 ## Overview
 

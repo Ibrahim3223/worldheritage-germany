@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/400px-Gochsheim-schloss-2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/800px-Gochsheim-schloss-2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/1200px-Gochsheim-schloss-2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/1920px-Gochsheim-schloss-2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/1920px-Gochsheim-schloss-2011.jpg
+---
 
 ## Overview
 

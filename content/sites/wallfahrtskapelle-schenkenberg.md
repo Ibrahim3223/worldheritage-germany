@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/400px-Schenkenberger_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/800px-Schenkenberger_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/1200px-Schenkenberger_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/1920px-Schenkenberger_Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schenkenberger_Kapelle.jpg/1920px-Schenkenberger_Kapelle.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/400px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/800px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/1200px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/1920px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg/1920px-Maria_Hilfe_der_Christen_(Düsseldorf)_2.jpg
+---
 
 ## Overview
 

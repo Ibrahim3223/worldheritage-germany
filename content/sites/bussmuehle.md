@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/400px-11Buss-Muehle_1200.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/800px-11Buss-Muehle_1200.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/1200px-11Buss-Muehle_1200.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/1920px-11Buss-Muehle_1200.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/11Buss-Muehle_1200.jpg/1920px-11Buss-Muehle_1200.jpg
+---
 
 ## Overview
 

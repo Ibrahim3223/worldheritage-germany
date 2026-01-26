@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/400px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/800px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/1200px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/1920px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Rosa-Luxemburg-Straße_(Quedlinburg).JPG/1920px-Rosa-Luxemburg-Straße_(Quedlinburg).JPG
+---
 
 ## Overview
 

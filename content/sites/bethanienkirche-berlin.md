@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/400px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/800px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/1200px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/1920px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg/1920px-Berlin-Weissensee_Bethanienturm_from_Pistoriusplatz.jpg
+---
 
 ## Overview
 

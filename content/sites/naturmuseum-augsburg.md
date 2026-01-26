@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/400px-Augsburg_Naturmuseum_-_entry.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/800px-Augsburg_Naturmuseum_-_entry.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/1200px-Augsburg_Naturmuseum_-_entry.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/1920px-Augsburg_Naturmuseum_-_entry.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Augsburg_Naturmuseum_-_entry.jpg/1920px-Augsburg_Naturmuseum_-_entry.jpg
+---
 
 ## Overview
 

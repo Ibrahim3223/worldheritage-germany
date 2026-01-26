@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/400px-Witten_Muttental_060509_014_20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/800px-Witten_Muttental_060509_014_20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/1200px-Witten_Muttental_060509_014_20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/1920px-Witten_Muttental_060509_014_20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Witten_Muttental_060509_014_20.jpg/1920px-Witten_Muttental_060509_014_20.jpg
+---
 
 ## Overview 
 

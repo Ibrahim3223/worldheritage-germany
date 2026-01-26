@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/400px-Dueren_Stadtturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/800px-Dueren_Stadtturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/1200px-Dueren_Stadtturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/1920px-Dueren_Stadtturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dueren_Stadtturm.jpg/1920px-Dueren_Stadtturm.jpg
+---
 
 ## Overview
 

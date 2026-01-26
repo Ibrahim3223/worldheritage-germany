@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/400px-WOK_Museum_Spichernstrasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/800px-WOK_Museum_Spichernstrasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/1200px-WOK_Museum_Spichernstrasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/1920px-WOK_Museum_Spichernstrasse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WOK_Museum_Spichernstrasse.jpg/1920px-WOK_Museum_Spichernstrasse.jpg
+---
 
 ## Overview
 

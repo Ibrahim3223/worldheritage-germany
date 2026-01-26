@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/400px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/800px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/1200px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/1920px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg/1920px-Michelstadt_-_Altstadt_-_Burg_Michelstadt_-_Ansicht_über_Burggraben_von_SO.jpg
+---
 
 ## Overview
 

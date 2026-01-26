@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg/400px-Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg/800px-Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg/1200px-Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg/1920px-Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg/1920px-Schorndorf_-_Mondscheinbunnen_vor_der_Kirche.jpg
+---
 
 ## Overview
 

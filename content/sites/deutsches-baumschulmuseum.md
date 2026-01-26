@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baumschulmuseum.jpg/400px-Baumschulmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baumschulmuseum.jpg/800px-Baumschulmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baumschulmuseum.jpg/1200px-Baumschulmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baumschulmuseum.jpg/1920px-Baumschulmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baumschulmuseum.jpg/1920px-Baumschulmuseum.jpg
+---
 
 ## Overview
 

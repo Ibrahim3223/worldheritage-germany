@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/400px-Hubert_Netzer_-_Blitzeschleuderer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/800px-Hubert_Netzer_-_Blitzeschleuderer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/1200px-Hubert_Netzer_-_Blitzeschleuderer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/1920px-Hubert_Netzer_-_Blitzeschleuderer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hubert_Netzer_-_Blitzeschleuderer.jpg/1920px-Hubert_Netzer_-_Blitzeschleuderer.jpg
+---
 
 ## Overview
 

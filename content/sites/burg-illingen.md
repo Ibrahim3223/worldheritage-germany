@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/400px-BurgTurmIllingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/800px-BurgTurmIllingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/1200px-BurgTurmIllingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/1920px-BurgTurmIllingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BurgTurmIllingen.jpg/1920px-BurgTurmIllingen.jpg
+---
 
 ## Overview
 

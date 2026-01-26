@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiehl_-_Achse_Rad_Wagen_01_ies.jpg/400px-Wiehl_-_Achse_Rad_Wagen_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiehl_-_Achse_Rad_Wagen_01_ies.jpg/800px-Wiehl_-_Achse_Rad_Wagen_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiehl_-_Achse_Rad_Wagen_01_ies.jpg/1200px-Wiehl_-_Achse_Rad_Wagen_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiehl_-_Achse_Rad_Wagen_01_ies.jpg/1920px-Wiehl_-_Achse_Rad_Wagen_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiehl_-_Achse_Rad_Wagen_01_ies.jpg/1920px-Wiehl_-_Achse_Rad_Wagen_01_ies.jpg
+---
 
 ## Overview
 

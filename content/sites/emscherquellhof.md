@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/400px-Emscherquellhof_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/800px-Emscherquellhof_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/1200px-Emscherquellhof_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/1920px-Emscherquellhof_2006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emscherquellhof_2006.jpg/1920px-Emscherquellhof_2006.jpg
+---
 
 ## Overview
 

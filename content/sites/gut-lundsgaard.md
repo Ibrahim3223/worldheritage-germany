@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/400px-Gut_Lundsgaard_Haupthaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/800px-Gut_Lundsgaard_Haupthaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1200px-Gut_Lundsgaard_Haupthaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1920px-Gut_Lundsgaard_Haupthaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1920px-Gut_Lundsgaard_Haupthaus.jpg
+---
 
 ## Overview
 

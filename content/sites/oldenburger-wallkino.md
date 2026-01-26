@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/400px-Wallkino_Oldenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/800px-Wallkino_Oldenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/1200px-Wallkino_Oldenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/1920px-Wallkino_Oldenburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wallkino_Oldenburg.JPG/1920px-Wallkino_Oldenburg.JPG
+---
 
 ## Overview
 

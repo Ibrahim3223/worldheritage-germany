@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/400px-Hugenotten_Church_in_Usingen,_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/800px-Hugenotten_Church_in_Usingen,_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/1200px-Hugenotten_Church_in_Usingen,_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/1920px-Hugenotten_Church_in_Usingen,_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hugenotten_Church_in_Usingen,_Germany.jpg/1920px-Hugenotten_Church_in_Usingen,_Germany.jpg
+---
 
 ## Overview
 

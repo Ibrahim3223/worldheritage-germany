@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/400px-Wennigsen_Scharnhorstdenkmal_NE.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/800px-Wennigsen_Scharnhorstdenkmal_NE.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/1200px-Wennigsen_Scharnhorstdenkmal_NE.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/1920px-Wennigsen_Scharnhorstdenkmal_NE.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wennigsen_Scharnhorstdenkmal_NE.jpg/1920px-Wennigsen_Scharnhorstdenkmal_NE.jpg
+---
 
 ## Overview
 

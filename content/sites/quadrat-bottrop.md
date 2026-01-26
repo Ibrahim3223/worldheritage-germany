@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/400px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/800px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/1200px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/1920px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg/1920px-Bottrop_-_Im_Stadtgarten_-_Stadtgarten_-_Quadrat_06_ies.jpg
+---
 
 ## Overview
 

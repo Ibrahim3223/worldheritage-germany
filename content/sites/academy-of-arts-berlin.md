@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/400px-Akademie_der_künste_berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/800px-Akademie_der_künste_berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1200px-Akademie_der_künste_berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1920px-Akademie_der_künste_berlin.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1920px-Akademie_der_künste_berlin.JPG
+---
 
 ## Overview
 

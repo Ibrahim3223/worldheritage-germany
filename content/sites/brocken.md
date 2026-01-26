@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/400px-Brocken-Gipfelbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/800px-Brocken-Gipfelbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1200px-Brocken-Gipfelbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1920px-Brocken-Gipfelbereich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1920px-Brocken-Gipfelbereich.jpg
+---
 
 ## Overview
 

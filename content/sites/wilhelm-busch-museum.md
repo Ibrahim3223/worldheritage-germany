@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/400px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/800px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/1200px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/1920px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg/1920px-Hannover_Deutsches_Museum_für_Karikatur_und_Zeichenkunst_-_Wilhelm_Busch_2006_by-RaBoe.jpg
+---
 
 ## Overview
 

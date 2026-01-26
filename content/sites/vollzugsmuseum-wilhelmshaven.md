@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg/400px-Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg/800px-Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg/1200px-Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg/1920px-Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg/1920px-Abteilung_der_JVA_Oldenbuirg_in_Wilhelmshaven.jpg
+---
 
 ## Overview
 

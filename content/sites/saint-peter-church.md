@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/400px-Hommersum_St._Petrus_Dm24_4094.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/800px-Hommersum_St._Petrus_Dm24_4094.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/1200px-Hommersum_St._Petrus_Dm24_4094.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/1920px-Hommersum_St._Petrus_Dm24_4094.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hommersum_St._Petrus_Dm24_4094.jpg/1920px-Hommersum_St._Petrus_Dm24_4094.jpg
+---
 
 ## Overview
 

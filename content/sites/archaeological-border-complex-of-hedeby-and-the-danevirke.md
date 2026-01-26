@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/400px-Hedebyhouses006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/800px-Hedebyhouses006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/1200px-Hedebyhouses006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/1920px-Hedebyhouses006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedebyhouses006.jpg/1920px-Hedebyhouses006.jpg
+---
 
 ## Overview
 

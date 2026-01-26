@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/400px-Kunsthalle_Baden-Baden_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/800px-Kunsthalle_Baden-Baden_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/1200px-Kunsthalle_Baden-Baden_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/1920px-Kunsthalle_Baden-Baden_Fassade.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kunsthalle_Baden-Baden_Fassade.jpg/1920px-Kunsthalle_Baden-Baden_Fassade.jpg
+---
 
 ## Overview
 

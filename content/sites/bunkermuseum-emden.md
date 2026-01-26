@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/400px-HGG-Bunkermuseum-Emden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/800px-HGG-Bunkermuseum-Emden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/1200px-HGG-Bunkermuseum-Emden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/1920px-HGG-Bunkermuseum-Emden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HGG-Bunkermuseum-Emden.JPG/1920px-HGG-Bunkermuseum-Emden.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/400px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/800px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/1200px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/1920px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG/1920px-Umgebinde_Hertigswalder_Straße_14_Sebnitz_1.JPG
+---
 
 ## Overview
 

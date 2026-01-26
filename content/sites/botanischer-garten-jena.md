@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/400px-Jena_-_botanical_garden_02_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/800px-Jena_-_botanical_garden_02_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1200px-Jena_-_botanical_garden_02_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1920px-Jena_-_botanical_garden_02_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1920px-Jena_-_botanical_garden_02_(aka).jpg
+---
 
 ## Overview
 

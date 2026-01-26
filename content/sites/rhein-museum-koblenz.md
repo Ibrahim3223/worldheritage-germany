@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/400px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/800px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/1200px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/1920px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg/1920px-Rhein-Museum_Koblenz-Ehrenbreitstein_2012.jpg
+---
 
 ## Overview
 

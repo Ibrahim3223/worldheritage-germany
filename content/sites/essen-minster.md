@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/400px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/800px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1200px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1920px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1920px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
+---
 
 ## Overview
 

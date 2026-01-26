@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/400px-Marmagen_Alte_Burg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/800px-Marmagen_Alte_Burg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/1200px-Marmagen_Alte_Burg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/1920px-Marmagen_Alte_Burg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marmagen_Alte_Burg.png/1920px-Marmagen_Alte_Burg.png
+---
 
 ## Overview
 

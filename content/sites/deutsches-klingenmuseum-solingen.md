@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/400px-Deutsches-klingenmuseum-20010502.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/800px-Deutsches-klingenmuseum-20010502.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/1200px-Deutsches-klingenmuseum-20010502.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/1920px-Deutsches-klingenmuseum-20010502.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deutsches-klingenmuseum-20010502.jpg/1920px-Deutsches-klingenmuseum-20010502.jpg
+---
 
 ## Overview
 

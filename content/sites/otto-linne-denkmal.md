@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/400px-Linne_denkmal_vorne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/800px-Linne_denkmal_vorne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/1200px-Linne_denkmal_vorne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/1920px-Linne_denkmal_vorne.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Linne_denkmal_vorne.jpg/1920px-Linne_denkmal_vorne.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/400px-Pinneberg_Fahltskamp_30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/800px-Pinneberg_Fahltskamp_30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/1200px-Pinneberg_Fahltskamp_30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/1920px-Pinneberg_Fahltskamp_30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pinneberg_Fahltskamp_30.jpg/1920px-Pinneberg_Fahltskamp_30.jpg
+---
 
 ## Overview
 

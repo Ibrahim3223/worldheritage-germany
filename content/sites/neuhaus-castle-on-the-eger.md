@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgberg_Neuhaus.jpg/400px-Burgberg_Neuhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgberg_Neuhaus.jpg/800px-Burgberg_Neuhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgberg_Neuhaus.jpg/1200px-Burgberg_Neuhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgberg_Neuhaus.jpg/1920px-Burgberg_Neuhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgberg_Neuhaus.jpg/1920px-Burgberg_Neuhaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/400px-St._Otto_(Berlin-Zehlendorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/800px-St._Otto_(Berlin-Zehlendorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/1200px-St._Otto_(Berlin-Zehlendorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/1920px-St._Otto_(Berlin-Zehlendorf).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/St._Otto_(Berlin-Zehlendorf).jpg/1920px-St._Otto_(Berlin-Zehlendorf).jpg
+---
 
 ## Overview
 

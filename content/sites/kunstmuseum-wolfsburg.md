@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/400px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/800px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/1200px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/1920px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG/1920px-Kunstmuseum_Wolfsburg_Hollerplatz_A.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/400px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/800px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/1200px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/1920px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bad_Bodendorf_St._Sebastianus_Außen608.JPG/1920px-Bad_Bodendorf_St._Sebastianus_Außen608.JPG
+---
 
 ## Overview
 

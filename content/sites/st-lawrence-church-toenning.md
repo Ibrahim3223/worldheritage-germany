@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toenning_marktplatz.JPG/400px-Toenning_marktplatz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toenning_marktplatz.JPG/800px-Toenning_marktplatz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toenning_marktplatz.JPG/1200px-Toenning_marktplatz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toenning_marktplatz.JPG/1920px-Toenning_marktplatz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toenning_marktplatz.JPG/1920px-Toenning_marktplatz.JPG
+---
 
 ## Overview
 

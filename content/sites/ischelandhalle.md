@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/400px-Krollmann_Arena_Hagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/800px-Krollmann_Arena_Hagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/1200px-Krollmann_Arena_Hagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/1920px-Krollmann_Arena_Hagen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Krollmann_Arena_Hagen.jpg/1920px-Krollmann_Arena_Hagen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/400px-Dorfkirche_Reckahn_Südansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/800px-Dorfkirche_Reckahn_Südansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/1200px-Dorfkirche_Reckahn_Südansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/1920px-Dorfkirche_Reckahn_Südansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Dorfkirche_Reckahn_Südansicht.jpg/1920px-Dorfkirche_Reckahn_Südansicht.jpg
+---
 
 ## Overview
 

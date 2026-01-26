@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Westbahnhof_Jena_2014.jpg/400px-Westbahnhof_Jena_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Westbahnhof_Jena_2014.jpg/800px-Westbahnhof_Jena_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Westbahnhof_Jena_2014.jpg/1200px-Westbahnhof_Jena_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Westbahnhof_Jena_2014.jpg/1920px-Westbahnhof_Jena_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Westbahnhof_Jena_2014.jpg/1920px-Westbahnhof_Jena_2014.jpg
+---
 
 ## Overview
 

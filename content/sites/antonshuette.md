@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/400px-Antonshütte.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/800px-Antonshütte.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/1200px-Antonshütte.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/1920px-Antonshütte.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Antonshütte.jpg/1920px-Antonshütte.jpg
+---
 
 ## Overview
 

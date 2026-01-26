@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/400px-Harlesiel_Rettungsschuppen_0848.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/800px-Harlesiel_Rettungsschuppen_0848.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/1200px-Harlesiel_Rettungsschuppen_0848.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/1920px-Harlesiel_Rettungsschuppen_0848.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Harlesiel_Rettungsschuppen_0848.jpg/1920px-Harlesiel_Rettungsschuppen_0848.jpg
+---
 
 ## Overview
 

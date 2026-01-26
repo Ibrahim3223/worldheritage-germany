@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/400px-Bad-homburg-bahnhof-011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/800px-Bad-homburg-bahnhof-011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/1200px-Bad-homburg-bahnhof-011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/1920px-Bad-homburg-bahnhof-011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bad-homburg-bahnhof-011.jpg/1920px-Bad-homburg-bahnhof-011.jpg
+---
 
 ## Overview
 

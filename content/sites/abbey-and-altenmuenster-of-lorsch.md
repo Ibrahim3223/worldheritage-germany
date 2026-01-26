@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/400px-Lorsch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/800px-Lorsch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1200px-Lorsch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1920px-Lorsch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1920px-Lorsch.jpg
+---
 
 ## Overview
 

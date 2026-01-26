@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/400px-Schilling-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/800px-Schilling-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/1200px-Schilling-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/1920px-Schilling-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schilling-Museum.jpg/1920px-Schilling-Museum.jpg
+---
 
 ## Overview
 

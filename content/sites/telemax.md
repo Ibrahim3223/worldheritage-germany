@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/400px-Telemax_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/800px-Telemax_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/1200px-Telemax_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/1920px-Telemax_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Telemax_-_panoramio.jpg/1920px-Telemax_-_panoramio.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panoptikum,_April_2019.jpg/400px-Panoptikum,_April_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panoptikum,_April_2019.jpg/800px-Panoptikum,_April_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panoptikum,_April_2019.jpg/1200px-Panoptikum,_April_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panoptikum,_April_2019.jpg/1920px-Panoptikum,_April_2019.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panoptikum,_April_2019.jpg/1920px-Panoptikum,_April_2019.jpg
+---
 
 ## Overview
 

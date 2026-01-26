@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/400px-Belikow-Denkmal_Vorderseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/800px-Belikow-Denkmal_Vorderseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/1200px-Belikow-Denkmal_Vorderseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/1920px-Belikow-Denkmal_Vorderseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Belikow-Denkmal_Vorderseite.JPG/1920px-Belikow-Denkmal_Vorderseite.JPG
+---
 
 ## Overview
 

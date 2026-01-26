@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/400px-Berufsschule_Westerhüsen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/800px-Berufsschule_Westerhüsen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/1200px-Berufsschule_Westerhüsen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/1920px-Berufsschule_Westerhüsen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Berufsschule_Westerhüsen1.JPG/1920px-Berufsschule_Westerhüsen1.JPG
+---
 
 ## Overview
 

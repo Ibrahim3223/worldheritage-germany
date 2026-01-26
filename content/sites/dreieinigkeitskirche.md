@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/400px-Dreieinigkeitskirche_Zeulenronda.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/800px-Dreieinigkeitskirche_Zeulenronda.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/1200px-Dreieinigkeitskirche_Zeulenronda.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/1920px-Dreieinigkeitskirche_Zeulenronda.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dreieinigkeitskirche_Zeulenronda.JPG/1920px-Dreieinigkeitskirche_Zeulenronda.JPG
+---
 
 ## Overview
 

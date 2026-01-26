@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/400px-Schupbach_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/800px-Schupbach_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/1200px-Schupbach_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/1920px-Schupbach_Synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Schupbach_Synagoge.jpg/1920px-Schupbach_Synagoge.jpg
+---
 
 ## Overview
 

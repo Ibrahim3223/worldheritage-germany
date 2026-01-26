@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/400px-Burg_Hof_a_Regen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/800px-Burg_Hof_a_Regen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/1200px-Burg_Hof_a_Regen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/1920px-Burg_Hof_a_Regen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Hof_a_Regen.jpg/1920px-Burg_Hof_a_Regen.jpg
+---
 
 ## Overview
 

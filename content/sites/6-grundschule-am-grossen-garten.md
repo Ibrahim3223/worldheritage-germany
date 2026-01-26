@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/400px-Fotothek_df_ps_0003569_Schulen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/800px-Fotothek_df_ps_0003569_Schulen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/1200px-Fotothek_df_ps_0003569_Schulen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/1920px-Fotothek_df_ps_0003569_Schulen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fotothek_df_ps_0003569_Schulen.jpg/1920px-Fotothek_df_ps_0003569_Schulen.jpg
+---
 
 ## Overview
 

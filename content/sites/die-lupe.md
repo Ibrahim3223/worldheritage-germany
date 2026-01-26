@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/400px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/800px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/1200px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/1920px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg/1920px-Braunschweig_REGINA_FILMTHEATER_(Lupe)_(1987)_2_(52062176109).jpg
+---
 
 ## Overview
 

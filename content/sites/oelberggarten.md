@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/400px-Görlitz_Ölberggarten_Gewässer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/800px-Görlitz_Ölberggarten_Gewässer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/1200px-Görlitz_Ölberggarten_Gewässer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/1920px-Görlitz_Ölberggarten_Gewässer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Görlitz_Ölberggarten_Gewässer.jpg/1920px-Görlitz_Ölberggarten_Gewässer.jpg
+---
 
 ## Overview
 

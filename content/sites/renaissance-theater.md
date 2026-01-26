@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/400px-Renaissance-Theater_Berlin_06-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/800px-Renaissance-Theater_Berlin_06-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/1200px-Renaissance-Theater_Berlin_06-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/1920px-Renaissance-Theater_Berlin_06-2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Renaissance-Theater_Berlin_06-2014.jpg/1920px-Renaissance-Theater_Berlin_06-2014.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/400px-Bürgel_(Thüringen),_the_pottery_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/800px-Bürgel_(Thüringen),_the_pottery_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/1200px-Bürgel_(Thüringen),_the_pottery_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/1920px-Bürgel_(Thüringen),_the_pottery_museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bürgel_(Thüringen),_the_pottery_museum.jpg/1920px-Bürgel_(Thüringen),_the_pottery_museum.jpg
+---
 
 ## Overview
 

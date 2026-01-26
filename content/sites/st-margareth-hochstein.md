@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/400px-Burgstall_Hochstein_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/800px-Burgstall_Hochstein_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/1200px-Burgstall_Hochstein_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/1920px-Burgstall_Hochstein_Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burgstall_Hochstein_Kapelle.jpg/1920px-Burgstall_Hochstein_Kapelle.jpg
+---
 
 ## Overview
 

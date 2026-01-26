@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/400px-Bartow_Vorpommern_Ostgiebel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/800px-Bartow_Vorpommern_Ostgiebel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1200px-Bartow_Vorpommern_Ostgiebel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1920px-Bartow_Vorpommern_Ostgiebel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1920px-Bartow_Vorpommern_Ostgiebel.JPG
+---
 
 ## Overview
 

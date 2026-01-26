@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/400px-ORM_151016_Hauptstrasse5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/800px-ORM_151016_Hauptstrasse5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/1200px-ORM_151016_Hauptstrasse5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/1920px-ORM_151016_Hauptstrasse5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ORM_151016_Hauptstrasse5.jpg/1920px-ORM_151016_Hauptstrasse5.jpg
+---
 
 ## Overview
 

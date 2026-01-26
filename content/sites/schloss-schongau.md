@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/400px-Schongau-188-Schloss-Landratsamt-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/800px-Schongau-188-Schloss-Landratsamt-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/1200px-Schongau-188-Schloss-Landratsamt-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/1920px-Schongau-188-Schloss-Landratsamt-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schongau-188-Schloss-Landratsamt-gje.jpg/1920px-Schongau-188-Schloss-Landratsamt-gje.jpg
+---
 
 ## Overview
 

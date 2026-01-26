@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/400px-Wrangelbrunnen-Mutter_Erde_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/800px-Wrangelbrunnen-Mutter_Erde_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/1200px-Wrangelbrunnen-Mutter_Erde_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/1920px-Wrangelbrunnen-Mutter_Erde_fec.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wrangelbrunnen-Mutter_Erde_fec.jpg/1920px-Wrangelbrunnen-Mutter_Erde_fec.jpg
+---
 
 ## Overview
 

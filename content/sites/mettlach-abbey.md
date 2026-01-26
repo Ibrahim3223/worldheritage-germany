@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/400px-Mettlach_Lith_1863_resized.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/800px-Mettlach_Lith_1863_resized.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/1200px-Mettlach_Lith_1863_resized.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/1920px-Mettlach_Lith_1863_resized.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mettlach_Lith_1863_resized.jpg/1920px-Mettlach_Lith_1863_resized.jpg
+---
 
 ## Overview
 

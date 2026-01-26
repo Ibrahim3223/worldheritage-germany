@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/400px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/800px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/1200px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/1920px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg/1920px-Bietigheim_Hauptstraße_64_Städtische_Galerie.jpg
+---
 
 ## Overview
 

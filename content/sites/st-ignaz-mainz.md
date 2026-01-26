@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/400px-Ignazkirchenfassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/800px-Ignazkirchenfassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/1200px-Ignazkirchenfassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/1920px-Ignazkirchenfassade.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ignazkirchenfassade.jpg/1920px-Ignazkirchenfassade.jpg
+---
 
 ## Overview
 

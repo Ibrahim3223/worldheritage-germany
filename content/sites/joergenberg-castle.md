@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/400px-Jörgenberg-Wall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/800px-Jörgenberg-Wall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/1200px-Jörgenberg-Wall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/1920px-Jörgenberg-Wall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jörgenberg-Wall.jpg/1920px-Jörgenberg-Wall.jpg
+---
 
 ## Overview
 

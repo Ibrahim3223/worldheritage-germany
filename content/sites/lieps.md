@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/400px-Hanfwerder.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/800px-Hanfwerder.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/1200px-Hanfwerder.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/1920px-Hanfwerder.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hanfwerder.jpg/1920px-Hanfwerder.jpg
+---
 
 ## Overview
 

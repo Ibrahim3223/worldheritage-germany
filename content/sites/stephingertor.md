@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Augsburg_Steffinger_Thor_c1818.jpg/400px-Augsburg_Steffinger_Thor_c1818.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Augsburg_Steffinger_Thor_c1818.jpg/800px-Augsburg_Steffinger_Thor_c1818.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Augsburg_Steffinger_Thor_c1818.jpg/1200px-Augsburg_Steffinger_Thor_c1818.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Augsburg_Steffinger_Thor_c1818.jpg/1920px-Augsburg_Steffinger_Thor_c1818.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Augsburg_Steffinger_Thor_c1818.jpg/1920px-Augsburg_Steffinger_Thor_c1818.jpg
+---
 
 ## Overview
 

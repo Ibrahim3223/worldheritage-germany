@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/400px-PMB_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/800px-PMB_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/1200px-PMB_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/1920px-PMB_museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/PMB_museum.jpg/1920px-PMB_museum.jpg
+---
 
 ## Overview
 

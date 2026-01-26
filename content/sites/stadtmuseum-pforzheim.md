@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/400px-Stadtmuseum,_Pforzheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/800px-Stadtmuseum,_Pforzheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/1200px-Stadtmuseum,_Pforzheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/1920px-Stadtmuseum,_Pforzheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Stadtmuseum,_Pforzheim.jpg/1920px-Stadtmuseum,_Pforzheim.jpg
+---
 
 ## Overview
 

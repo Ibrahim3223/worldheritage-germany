@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/400px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/800px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/1200px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/1920px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG/1920px-Kirche_St._Matthias_Stockhausen_(Sondershausen).JPG
+---
 
 ## Overview
 

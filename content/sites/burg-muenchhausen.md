@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/400px-Burg_Muenchhausen_20070819.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/800px-Burg_Muenchhausen_20070819.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1200px-Burg_Muenchhausen_20070819.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1920px-Burg_Muenchhausen_20070819.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1920px-Burg_Muenchhausen_20070819.png
+---
 
 ## Overview
 

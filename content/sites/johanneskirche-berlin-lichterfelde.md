@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/400px-Johanneskirche_(Berlin-Lichterfelde).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/800px-Johanneskirche_(Berlin-Lichterfelde).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1200px-Johanneskirche_(Berlin-Lichterfelde).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1920px-Johanneskirche_(Berlin-Lichterfelde).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1920px-Johanneskirche_(Berlin-Lichterfelde).jpg
+---
 
 ## Overview
 

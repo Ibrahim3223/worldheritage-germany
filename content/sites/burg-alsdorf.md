@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/400px-Burg_Alsdorf_Ostansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/800px-Burg_Alsdorf_Ostansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1200px-Burg_Alsdorf_Ostansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1920px-Burg_Alsdorf_Ostansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1920px-Burg_Alsdorf_Ostansicht.jpg
+---
 
 ## Overview
 

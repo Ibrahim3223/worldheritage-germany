@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/400px-Tiefer_Georg_Stollen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/800px-Tiefer_Georg_Stollen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/1200px-Tiefer_Georg_Stollen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/1920px-Tiefer_Georg_Stollen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tiefer_Georg_Stollen.jpg/1920px-Tiefer_Georg_Stollen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/400px-Berlin_Reichstag_BW_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/800px-Berlin_Reichstag_BW_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/1200px-Berlin_Reichstag_BW_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/1920px-Berlin_Reichstag_BW_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Berlin_Reichstag_BW_1.jpg/1920px-Berlin_Reichstag_BW_1.jpg
+---
 
 ## Overview
 

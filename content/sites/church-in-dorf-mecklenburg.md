@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/400px-Kirche_Dorf_Mecklenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/800px-Kirche_Dorf_Mecklenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1200px-Kirche_Dorf_Mecklenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1920px-Kirche_Dorf_Mecklenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1920px-Kirche_Dorf_Mecklenburg.jpg
+---
 
 ## Overview
 

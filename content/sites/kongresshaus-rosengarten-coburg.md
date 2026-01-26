@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/400px-Coburg-Kongresszentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/800px-Coburg-Kongresszentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/1200px-Coburg-Kongresszentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/1920px-Coburg-Kongresszentrum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coburg-Kongresszentrum.jpg/1920px-Coburg-Kongresszentrum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/400px-Eingang_kino_achteinhalb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/800px-Eingang_kino_achteinhalb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/1200px-Eingang_kino_achteinhalb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/1920px-Eingang_kino_achteinhalb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eingang_kino_achteinhalb.jpg/1920px-Eingang_kino_achteinhalb.jpg
+---
 
 ## Overview
 

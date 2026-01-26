@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/400px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/800px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/1200px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/1920px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bruder-Klaus-Kapelle_(Binnrot)-a.jpg/1920px-Bruder-Klaus-Kapelle_(Binnrot)-a.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/400px-AchterdiekparkBremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/800px-AchterdiekparkBremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/1200px-AchterdiekparkBremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/1920px-AchterdiekparkBremen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AchterdiekparkBremen.jpg/1920px-AchterdiekparkBremen.jpg
+---
 
 ## Overview
 

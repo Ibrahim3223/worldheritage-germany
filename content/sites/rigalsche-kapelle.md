@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/400px-Rigalsche_kapelle_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/800px-Rigalsche_kapelle_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/1200px-Rigalsche_kapelle_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/1920px-Rigalsche_kapelle_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rigalsche_kapelle_wp.jpg/1920px-Rigalsche_kapelle_wp.jpg
+---
 
 ## Overview
 

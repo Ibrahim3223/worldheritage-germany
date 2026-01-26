@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/400px-Nikolaikirche_dortmund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/800px-Nikolaikirche_dortmund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/1200px-Nikolaikirche_dortmund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/1920px-Nikolaikirche_dortmund.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nikolaikirche_dortmund.jpg/1920px-Nikolaikirche_dortmund.jpg
+---
 
 ## Overview
 

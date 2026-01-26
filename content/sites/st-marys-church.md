@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/400px-Marienkirche_in_Rostock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/800px-Marienkirche_in_Rostock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/1200px-Marienkirche_in_Rostock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/1920px-Marienkirche_in_Rostock.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marienkirche_in_Rostock.jpg/1920px-Marienkirche_in_Rostock.jpg
+---
 
 ## Overview
 

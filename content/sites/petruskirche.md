@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peterskirche_Kröllwitz.jpg/400px-Peterskirche_Kröllwitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peterskirche_Kröllwitz.jpg/800px-Peterskirche_Kröllwitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peterskirche_Kröllwitz.jpg/1200px-Peterskirche_Kröllwitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peterskirche_Kröllwitz.jpg/1920px-Peterskirche_Kröllwitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peterskirche_Kröllwitz.jpg/1920px-Peterskirche_Kröllwitz.jpg
+---
 
 ## Overview
 

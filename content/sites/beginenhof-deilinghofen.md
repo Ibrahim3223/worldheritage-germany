@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/400px-Deilinghofen-Pastorat1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/800px-Deilinghofen-Pastorat1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/1200px-Deilinghofen-Pastorat1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/1920px-Deilinghofen-Pastorat1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Deilinghofen-Pastorat1-Bubo.JPG/1920px-Deilinghofen-Pastorat1-Bubo.JPG
+---
 
 ## Overview
 

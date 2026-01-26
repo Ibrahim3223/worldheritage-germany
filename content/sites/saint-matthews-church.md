@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/400px-Matthaeuskirche_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/800px-Matthaeuskirche_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/1200px-Matthaeuskirche_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/1920px-Matthaeuskirche_Muenchen-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Matthaeuskirche_Muenchen-1.jpg/1920px-Matthaeuskirche_Muenchen-1.jpg
+---
 
 # Guide to Saint Matthew's Church
 

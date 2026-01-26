@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/400px-Dammtor_Barth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/800px-Dammtor_Barth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/1200px-Dammtor_Barth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/1920px-Dammtor_Barth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dammtor_Barth.jpg/1920px-Dammtor_Barth.jpg
+---
 
 ## Overview
 

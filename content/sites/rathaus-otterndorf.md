@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/400px-Otterndorf_rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/800px-Otterndorf_rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/1200px-Otterndorf_rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/1920px-Otterndorf_rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Otterndorf_rathaus.jpg/1920px-Otterndorf_rathaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/400px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/800px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/1200px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/1920px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg/1920px-Berlin,_Neukoelln,_Lilienthalstrasse,_Johannes-Basilika.jpg
+---
 
 ## Overview
 

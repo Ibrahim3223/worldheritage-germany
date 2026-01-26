@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Küstenmuseum_Juist_Loog.JPG/400px-Küstenmuseum_Juist_Loog.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Küstenmuseum_Juist_Loog.JPG/800px-Küstenmuseum_Juist_Loog.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Küstenmuseum_Juist_Loog.JPG/1200px-Küstenmuseum_Juist_Loog.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Küstenmuseum_Juist_Loog.JPG/1920px-Küstenmuseum_Juist_Loog.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Küstenmuseum_Juist_Loog.JPG/1920px-Küstenmuseum_Juist_Loog.JPG
+---
 
 ## Overview
 

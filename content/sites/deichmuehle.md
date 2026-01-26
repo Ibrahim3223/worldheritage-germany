@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/400px-Windmuehlen_Norden-CN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/800px-Windmuehlen_Norden-CN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1200px-Windmuehlen_Norden-CN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1920px-Windmuehlen_Norden-CN.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1920px-Windmuehlen_Norden-CN.jpg
+---
 
 ## Overview
 

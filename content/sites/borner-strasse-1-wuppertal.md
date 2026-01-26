@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/400px-Wuppertal_Borner_Str_0004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/800px-Wuppertal_Borner_Str_0004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/1200px-Wuppertal_Borner_Str_0004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/1920px-Wuppertal_Borner_Str_0004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wuppertal_Borner_Str_0004.jpg/1920px-Wuppertal_Borner_Str_0004.jpg
+---
 
 ## Overview
 

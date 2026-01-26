@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/400px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/800px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/1200px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/1920px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg/1920px-Kultur_Räume_Gütersloh_(cropped)_Stadthalle.jpg
+---
 
 ## Overview
 

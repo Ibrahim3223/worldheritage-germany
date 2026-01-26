@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Naturmuseum_Lüneburg.jpg/400px-Naturmuseum_Lüneburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Naturmuseum_Lüneburg.jpg/800px-Naturmuseum_Lüneburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Naturmuseum_Lüneburg.jpg/1200px-Naturmuseum_Lüneburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Naturmuseum_Lüneburg.jpg/1920px-Naturmuseum_Lüneburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Naturmuseum_Lüneburg.jpg/1920px-Naturmuseum_Lüneburg.jpg
+---
 
 ## Overview
 

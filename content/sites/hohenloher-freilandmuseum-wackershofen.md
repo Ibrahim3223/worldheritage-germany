@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg/400px-Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg/800px-Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg/1200px-Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg/1920px-Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg/1920px-Wackershofen_Freilandmuseum_Blick_von_oben_20070530.jpg
+---
 
 ## Overview
 

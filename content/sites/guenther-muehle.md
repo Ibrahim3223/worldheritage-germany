@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/400px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/800px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/1200px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/1920px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg/1920px-Herrnhut_Neundorf_auf_dem_Eigen_Windmuehle.jpg
+---
 
 ## Overview
 

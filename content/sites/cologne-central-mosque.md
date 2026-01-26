@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/400px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/800px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1200px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1920px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1920px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg/400px-Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg/800px-Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg/1200px-Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg/1920px-Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg/1920px-Kraichtal_-_Münzesheim_-_Asiatischer_Garten_-_Teich_mit_Teehaus_von_SO.jpg
+---
 
 ## Overview
 

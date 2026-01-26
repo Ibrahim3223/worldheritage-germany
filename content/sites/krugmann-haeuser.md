@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/400px-Meinerzhagen-Krugmann1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/800px-Meinerzhagen-Krugmann1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/1200px-Meinerzhagen-Krugmann1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/1920px-Meinerzhagen-Krugmann1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Meinerzhagen-Krugmann1-Asio.JPG/1920px-Meinerzhagen-Krugmann1-Asio.JPG
+---
 
 ## Overview
 

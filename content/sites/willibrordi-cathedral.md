@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/400px-Wesel_willibrordi_dom.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/800px-Wesel_willibrordi_dom.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/1200px-Wesel_willibrordi_dom.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/1920px-Wesel_willibrordi_dom.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wesel_willibrordi_dom.jpg/1920px-Wesel_willibrordi_dom.jpg
+---
 
 ## Overview
 

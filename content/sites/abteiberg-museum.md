@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/400px-Mönchengladbach_museum_mit_skulpturengarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/800px-Mönchengladbach_museum_mit_skulpturengarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1200px-Mönchengladbach_museum_mit_skulpturengarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1920px-Mönchengladbach_museum_mit_skulpturengarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1920px-Mönchengladbach_museum_mit_skulpturengarten.jpg
+---
 
 ## Overview
 

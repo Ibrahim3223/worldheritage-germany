@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/400px-ChurchLeerCath.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/800px-ChurchLeerCath.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/1200px-ChurchLeerCath.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/1920px-ChurchLeerCath.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ChurchLeerCath.JPG/1920px-ChurchLeerCath.JPG
+---
 
 ## Overview
 

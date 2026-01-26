@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ChurchWesterhusen.jpg/400px-ChurchWesterhusen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ChurchWesterhusen.jpg/800px-ChurchWesterhusen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ChurchWesterhusen.jpg/1200px-ChurchWesterhusen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ChurchWesterhusen.jpg/1920px-ChurchWesterhusen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ChurchWesterhusen.jpg/1920px-ChurchWesterhusen.jpg
+---
 
 ## Overview
 

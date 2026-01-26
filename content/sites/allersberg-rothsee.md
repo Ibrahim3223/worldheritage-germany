@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/400px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/800px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/1200px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/1920px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Train_station_NALB_Allersberg_DE_2007-02-16.jpg/1920px-Train_station_NALB_Allersberg_DE_2007-02-16.jpg
+---
 
 ## Overview
 

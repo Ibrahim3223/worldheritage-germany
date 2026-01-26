@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/400px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/800px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/1200px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/1920px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg/1920px-Amorsbrunn,_die_Kapelle_über_der_Quelle._09.jpg
+---
 
 ## Overview
 

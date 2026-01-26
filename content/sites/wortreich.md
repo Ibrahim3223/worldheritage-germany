@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/400px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/800px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/1200px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/1920px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bucheingang_zur_wortreich-Erlebnisausstellung.jpg/1920px-Bucheingang_zur_wortreich-Erlebnisausstellung.jpg
+---
 
 ## Overview
 

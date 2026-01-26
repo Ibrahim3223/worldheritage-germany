@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/400px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/800px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/1200px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/1920px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg/1920px-Bad_Zwischenahn_-_Peterstraße_-_6_-_Schüßlerdenkmal_03_ies.jpg
+---
 
 ## Overview
 

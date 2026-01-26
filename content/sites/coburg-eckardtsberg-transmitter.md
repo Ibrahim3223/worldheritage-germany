@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/400px-Coburg-Sender-Eckardtsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/800px-Coburg-Sender-Eckardtsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/1200px-Coburg-Sender-Eckardtsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/1920px-Coburg-Sender-Eckardtsberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coburg-Sender-Eckardtsberg.jpg/1920px-Coburg-Sender-Eckardtsberg.jpg
+---
 
 ## Overview
 

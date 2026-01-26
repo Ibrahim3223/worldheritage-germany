@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/400px-München_-_Fischbrunnen_Pasing.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/800px-München_-_Fischbrunnen_Pasing.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/1200px-München_-_Fischbrunnen_Pasing.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/1920px-München_-_Fischbrunnen_Pasing.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/München_-_Fischbrunnen_Pasing.JPG/1920px-München_-_Fischbrunnen_Pasing.JPG
+---
 
 ## Overview
 

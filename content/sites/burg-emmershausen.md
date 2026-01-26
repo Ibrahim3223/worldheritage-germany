@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/400px-Evangelische_Kirche_Emmershausen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/800px-Evangelische_Kirche_Emmershausen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/1200px-Evangelische_Kirche_Emmershausen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/1920px-Evangelische_Kirche_Emmershausen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Evangelische_Kirche_Emmershausen.JPG/1920px-Evangelische_Kirche_Emmershausen.JPG
+---
 
 ## Overview
 

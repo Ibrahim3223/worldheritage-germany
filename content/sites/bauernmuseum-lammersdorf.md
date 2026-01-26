@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/400px-Bauernmuseum_Lammersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/800px-Bauernmuseum_Lammersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/1200px-Bauernmuseum_Lammersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/1920px-Bauernmuseum_Lammersdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bauernmuseum_Lammersdorf.jpg/1920px-Bauernmuseum_Lammersdorf.jpg
+---
 
 ## Overview
 

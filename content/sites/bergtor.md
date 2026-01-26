@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/400px-Bergtor.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/800px-Bergtor.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1200px-Bergtor.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1920px-Bergtor.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1920px-Bergtor.png
+---
 
 ## Overview
 

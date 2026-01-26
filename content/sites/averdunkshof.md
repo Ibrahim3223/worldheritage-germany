@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/400px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/800px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/1200px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/1920px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg/1920px-Neukirchen-Vluyn,_Averdunkshof,_2011-09_CN-01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/400px-BurgLisberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/800px-BurgLisberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1200px-BurgLisberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1920px-BurgLisberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1920px-BurgLisberg.jpg
+---
 
 ## Overview
 

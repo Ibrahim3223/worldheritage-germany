@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/400px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/800px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1200px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1920px-S-Warschauer_neue_Fußgängerbrücke-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1920px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
+---
 
 ## Overview
 

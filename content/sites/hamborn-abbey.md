@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Abtei_Hamborn2.JPG/400px-Abtei_Hamborn2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Abtei_Hamborn2.JPG/800px-Abtei_Hamborn2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Abtei_Hamborn2.JPG/1200px-Abtei_Hamborn2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Abtei_Hamborn2.JPG/1920px-Abtei_Hamborn2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Abtei_Hamborn2.JPG/1920px-Abtei_Hamborn2.JPG
+---
 
 ## Overview
 

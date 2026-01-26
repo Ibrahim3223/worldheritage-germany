@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/400px-Sayn_mit_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/800px-Sayn_mit_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/1200px-Sayn_mit_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/1920px-Sayn_mit_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sayn_mit_Burg.jpg/1920px-Sayn_mit_Burg.jpg
+---
 
 ## Overview
 

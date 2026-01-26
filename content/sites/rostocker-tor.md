@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/400px-Ribnitz_Damgarten_Rostocker_Tor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/800px-Ribnitz_Damgarten_Rostocker_Tor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/1200px-Ribnitz_Damgarten_Rostocker_Tor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/1920px-Ribnitz_Damgarten_Rostocker_Tor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ribnitz_Damgarten_Rostocker_Tor.jpg/1920px-Ribnitz_Damgarten_Rostocker_Tor.jpg
+---
 
 ## Overview
 

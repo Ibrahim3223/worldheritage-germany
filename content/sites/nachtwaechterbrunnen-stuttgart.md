@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/400px-Nachtwaechterbrunnen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/800px-Nachtwaechterbrunnen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/1200px-Nachtwaechterbrunnen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/1920px-Nachtwaechterbrunnen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nachtwaechterbrunnen1.JPG/1920px-Nachtwaechterbrunnen1.JPG
+---
 
 ## Overview
 

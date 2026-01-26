@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg/400px-Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg/800px-Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg/1200px-Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg/1920px-Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg/1920px-Gesamtansicht_aus_Südwesten_Synagoge_Weisenau.jpg
+---
 
 ## Overview 
 

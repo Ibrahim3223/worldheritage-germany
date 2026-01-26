@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/400px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/800px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/1200px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/1920px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wolfsschlucht_Baden-Baden_IMGP0154.jpg/1920px-Wolfsschlucht_Baden-Baden_IMGP0154.jpg
+---
 
 ## Overview
 

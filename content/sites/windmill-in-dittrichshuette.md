@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/400px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/800px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/1200px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/1920px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg/1920px-Dittrichshütte_An_der_Windmühle_2_Windmühle.jpg
+---
 
 ## Overview
 

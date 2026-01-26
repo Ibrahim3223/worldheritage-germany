@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/400px-Burg_Eltz_am_frühen_Morgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/800px-Burg_Eltz_am_frühen_Morgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1200px-Burg_Eltz_am_frühen_Morgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1920px-Burg_Eltz_am_frühen_Morgen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1920px-Burg_Eltz_am_frühen_Morgen.jpg
+---
 
 ## Overview
 

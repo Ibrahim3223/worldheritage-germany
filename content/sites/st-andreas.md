@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/400px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/800px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/1200px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/1920px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG/1920px-Homburg-Erbach_Katholische_Pfarrkirche_St._Andreas_02.JPG
+---
 
 ## Overview
 

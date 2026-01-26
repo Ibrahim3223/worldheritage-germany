@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ruhe-Christi-Kapelle_Hechingen.jpg/400px-Ruhe-Christi-Kapelle_Hechingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ruhe-Christi-Kapelle_Hechingen.jpg/800px-Ruhe-Christi-Kapelle_Hechingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ruhe-Christi-Kapelle_Hechingen.jpg/1200px-Ruhe-Christi-Kapelle_Hechingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ruhe-Christi-Kapelle_Hechingen.jpg/1920px-Ruhe-Christi-Kapelle_Hechingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ruhe-Christi-Kapelle_Hechingen.jpg/1920px-Ruhe-Christi-Kapelle_Hechingen.jpg
+---
 
 ## Overview
 

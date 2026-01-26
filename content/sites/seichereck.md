@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/400px-Aelpelesattel_vom_Kegelkopf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/800px-Aelpelesattel_vom_Kegelkopf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1200px-Aelpelesattel_vom_Kegelkopf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1920px-Aelpelesattel_vom_Kegelkopf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1920px-Aelpelesattel_vom_Kegelkopf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/400px-Krien_Kirche_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/800px-Krien_Kirche_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1200px-Krien_Kirche_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1920px-Krien_Kirche_Südseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1920px-Krien_Kirche_Südseite.jpg
+---
 
 ## Overview
 

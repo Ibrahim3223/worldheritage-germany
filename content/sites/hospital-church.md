@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/400px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/800px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/1200px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/1920px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png/1920px-Hospitalkirche_Hof_20220628_HOF05614_20221229000710cens.png
+---
 
 ## Overview
 

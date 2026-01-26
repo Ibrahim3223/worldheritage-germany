@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/400px-Hauptfriedhof_Ibbenbueren_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/800px-Hauptfriedhof_Ibbenbueren_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/1200px-Hauptfriedhof_Ibbenbueren_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/1920px-Hauptfriedhof_Ibbenbueren_07.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hauptfriedhof_Ibbenbueren_07.jpg/1920px-Hauptfriedhof_Ibbenbueren_07.jpg
+---
 
 ## Overview
 

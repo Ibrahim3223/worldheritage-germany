@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/400px-Münster_Erphokirche_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/800px-Münster_Erphokirche_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1200px-Münster_Erphokirche_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1920px-Münster_Erphokirche_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1920px-Münster_Erphokirche_1.jpg
+---
 
 ## Overview
 

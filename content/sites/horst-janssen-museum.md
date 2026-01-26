@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/400px-JanssenMuseumOldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/800px-JanssenMuseumOldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1200px-JanssenMuseumOldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1920px-JanssenMuseumOldenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1920px-JanssenMuseumOldenburg.jpg
+---
 
 ## Overview
 

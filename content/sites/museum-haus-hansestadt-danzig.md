@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luebeck_Engelsgrube_66.jpg/400px-Luebeck_Engelsgrube_66.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luebeck_Engelsgrube_66.jpg/800px-Luebeck_Engelsgrube_66.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luebeck_Engelsgrube_66.jpg/1200px-Luebeck_Engelsgrube_66.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luebeck_Engelsgrube_66.jpg/1920px-Luebeck_Engelsgrube_66.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luebeck_Engelsgrube_66.jpg/1920px-Luebeck_Engelsgrube_66.jpg
+---
 
 ## Overview
 

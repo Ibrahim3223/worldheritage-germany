@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/400px-Fichtelberg_-_mountain.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/800px-Fichtelberg_-_mountain.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/1200px-Fichtelberg_-_mountain.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/1920px-Fichtelberg_-_mountain.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fichtelberg_-_mountain.jpg/1920px-Fichtelberg_-_mountain.jpg
+---
 
 ## Overview
 

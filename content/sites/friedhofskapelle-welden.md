@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/400px-Welden-Friedhofskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/800px-Welden-Friedhofskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/1200px-Welden-Friedhofskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/1920px-Welden-Friedhofskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Welden-Friedhofskapelle.jpg/1920px-Welden-Friedhofskapelle.jpg
+---
 
 ## Overview
 

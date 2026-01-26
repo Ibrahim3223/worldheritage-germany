@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/400px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/800px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/1200px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/1920px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG/1920px-Ehemaliger_Platz_des_Klosters_Scharnitz_in_Klais.JPG
+---
 
 ## Overview
 

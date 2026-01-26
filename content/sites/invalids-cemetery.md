@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/400px-Invalidenfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/800px-Invalidenfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1200px-Invalidenfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1920px-Invalidenfriedhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1920px-Invalidenfriedhof.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/400px-Meisterhaus_Feininger_2004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/800px-Meisterhaus_Feininger_2004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/1200px-Meisterhaus_Feininger_2004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/1920px-Meisterhaus_Feininger_2004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Meisterhaus_Feininger_2004.jpg/1920px-Meisterhaus_Feininger_2004.jpg
+---
 
 ## Overview
 

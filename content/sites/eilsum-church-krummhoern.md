@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/400px-Eilsum_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/800px-Eilsum_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/1200px-Eilsum_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/1920px-Eilsum_Kirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/1920px-Eilsum_Kirche.JPG
+---
 
 ## Overview
 

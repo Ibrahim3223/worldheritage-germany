@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/400px-Josephi_und_Anna_Kapellen_Roding.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/800px-Josephi_und_Anna_Kapellen_Roding.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/1200px-Josephi_und_Anna_Kapellen_Roding.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/1920px-Josephi_und_Anna_Kapellen_Roding.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Josephi_und_Anna_Kapellen_Roding.JPG/1920px-Josephi_und_Anna_Kapellen_Roding.JPG
+---
 
 ## Overview
 

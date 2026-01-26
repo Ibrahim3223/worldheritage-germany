@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/400px-GeorgsmarienhütteMuseumVillaStahmer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/800px-GeorgsmarienhütteMuseumVillaStahmer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/1200px-GeorgsmarienhütteMuseumVillaStahmer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/1920px-GeorgsmarienhütteMuseumVillaStahmer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GeorgsmarienhütteMuseumVillaStahmer.jpg/1920px-GeorgsmarienhütteMuseumVillaStahmer.jpg
+---
 
 ## Overview
 

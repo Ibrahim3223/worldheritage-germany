@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/StGertrud_Uhlenhorst_Hamburg.jpg/400px-StGertrud_Uhlenhorst_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/StGertrud_Uhlenhorst_Hamburg.jpg/800px-StGertrud_Uhlenhorst_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/StGertrud_Uhlenhorst_Hamburg.jpg/1200px-StGertrud_Uhlenhorst_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/StGertrud_Uhlenhorst_Hamburg.jpg/1920px-StGertrud_Uhlenhorst_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/StGertrud_Uhlenhorst_Hamburg.jpg/1920px-StGertrud_Uhlenhorst_Hamburg.jpg
+---
 
 ## Overview
 

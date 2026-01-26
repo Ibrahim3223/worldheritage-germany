@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/400px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/800px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/1200px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/1920px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg/1920px-Leipzig_Altes_Bach-Denkmal_lub_2025-03-22.jpg
+---
 
 ## Overview
 

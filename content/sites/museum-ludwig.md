@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/400px-Museum_Ludwig_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/800px-Museum_Ludwig_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/1200px-Museum_Ludwig_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/1920px-Museum_Ludwig_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Museum_Ludwig_001.jpg/1920px-Museum_Ludwig_001.jpg
+---
 
 ## Overview
 

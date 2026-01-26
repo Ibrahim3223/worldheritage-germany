@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/400px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/800px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/1200px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/1920px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg/1920px-Statue_Unter_den_Linden_6_(Mitte)_Alexander_von_Humboldt.jpg
+---
 
 ## Overview
 

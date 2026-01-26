@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg/400px-NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg/800px-NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg/1200px-NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg/1920px-NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg/1920px-NSG-BW-FN-4.093_Altweiherwiese_Oberteuringen_02.06.2012-KL1.jpg
+---
 
 ## Overview
 

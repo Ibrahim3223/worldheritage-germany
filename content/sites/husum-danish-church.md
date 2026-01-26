@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/400px-Husum_danske_kirke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/800px-Husum_danske_kirke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/1200px-Husum_danske_kirke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/1920px-Husum_danske_kirke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Husum_danske_kirke.jpg/1920px-Husum_danske_kirke.jpg
+---
 
 ## Overview
 

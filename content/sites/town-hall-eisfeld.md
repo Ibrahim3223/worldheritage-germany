@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/400px-Eisfeld-Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/800px-Eisfeld-Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/1200px-Eisfeld-Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/1920px-Eisfeld-Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Eisfeld-Rathaus.jpg/1920px-Eisfeld-Rathaus.jpg
+---
 
 ## Overview
 

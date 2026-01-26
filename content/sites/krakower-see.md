@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/400px-KrakowerSeePanorama_ArM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/800px-KrakowerSeePanorama_ArM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/1200px-KrakowerSeePanorama_ArM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/1920px-KrakowerSeePanorama_ArM.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KrakowerSeePanorama_ArM.jpg/1920px-KrakowerSeePanorama_ArM.jpg
+---
 
 ## Overview
 

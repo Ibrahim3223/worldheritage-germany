@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/400px-BS_Petrikirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/800px-BS_Petrikirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/1200px-BS_Petrikirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/1920px-BS_Petrikirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/BS_Petrikirche.JPG/1920px-BS_Petrikirche.JPG
+---
 
 ## Overview
 

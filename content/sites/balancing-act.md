@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/400px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/800px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/1200px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/1920px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg/1920px-Berlin_Axel-Springer-Hochhaus_lub_2023-05-10_img01_Balanceakt.jpg
+---
 
 ## Overview
 

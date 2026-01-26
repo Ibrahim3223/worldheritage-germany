@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/400px-Kinzigtalsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/800px-Kinzigtalsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/1200px-Kinzigtalsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/1920px-Kinzigtalsperre.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kinzigtalsperre.jpg/1920px-Kinzigtalsperre.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/400px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/800px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/1200px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/1920px-Ortsstraße_35_(Ober-Bessingen)_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ortsstraße_35_(Ober-Bessingen)_01.JPG/1920px-Ortsstraße_35_(Ober-Bessingen)_01.JPG
+---
 
 ## Overview
 

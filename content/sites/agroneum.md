@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/400px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/800px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/1200px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/1920px-Agrarhistorisches_Museum_Alt_Schwerin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Agrarhistorisches_Museum_Alt_Schwerin.jpg/1920px-Agrarhistorisches_Museum_Alt_Schwerin.jpg
+---
 
 ## Overview
 

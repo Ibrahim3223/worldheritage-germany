@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/400px-Aachen_11-11_Bergkirche_Salvator_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/800px-Aachen_11-11_Bergkirche_Salvator_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/1200px-Aachen_11-11_Bergkirche_Salvator_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/1920px-Aachen_11-11_Bergkirche_Salvator_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aachen_11-11_Bergkirche_Salvator_02.jpg/1920px-Aachen_11-11_Bergkirche_Salvator_02.jpg
+---
 
 ## Overview
 

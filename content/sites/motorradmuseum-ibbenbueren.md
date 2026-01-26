@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/400px-Motorradmuseum-Ibbenbueren02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/800px-Motorradmuseum-Ibbenbueren02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/1200px-Motorradmuseum-Ibbenbueren02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/1920px-Motorradmuseum-Ibbenbueren02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorradmuseum-Ibbenbueren02.JPG/1920px-Motorradmuseum-Ibbenbueren02.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dhünntalsperre5.jpg/400px-Dhünntalsperre5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dhünntalsperre5.jpg/800px-Dhünntalsperre5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dhünntalsperre5.jpg/1200px-Dhünntalsperre5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dhünntalsperre5.jpg/1920px-Dhünntalsperre5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dhünntalsperre5.jpg/1920px-Dhünntalsperre5.jpg
+---
 
 ## Overview
 

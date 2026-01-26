@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/400px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/800px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/1200px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/1920px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg/1920px-Bielefeld_Kreuzstraße_20_Naturkunde-Museum_namu_Spiegelshof_2012-05-13.jpg
+---
 
 ## Overview
 

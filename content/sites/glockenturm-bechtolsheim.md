@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/400px-Glockenturm-Bechtolsheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/800px-Glockenturm-Bechtolsheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/1200px-Glockenturm-Bechtolsheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/1920px-Glockenturm-Bechtolsheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glockenturm-Bechtolsheim.JPG/1920px-Glockenturm-Bechtolsheim.JPG
+---
 
 ## Overview
 

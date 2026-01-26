@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/400px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/800px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/1200px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/1920px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG/1920px-09055109_Berlin_Tempelhof,_Mariendorfer_Damm_1-3_006.JPG
+---
 
 ## Overview
 

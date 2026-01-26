@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Grünow.jpg/400px-Grünow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Grünow.jpg/800px-Grünow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Grünow.jpg/1200px-Grünow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Grünow.jpg/1920px-Grünow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Grünow.jpg/1920px-Grünow.jpg
+---
 
 ## Overview
 

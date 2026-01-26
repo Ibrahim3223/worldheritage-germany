@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/400px-Adelshofen-Nazarius-2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/800px-Adelshofen-Nazarius-2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/1200px-Adelshofen-Nazarius-2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/1920px-Adelshofen-Nazarius-2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Adelshofen-Nazarius-2009.jpg/1920px-Adelshofen-Nazarius-2009.jpg
+---
 
 ## Overview
 

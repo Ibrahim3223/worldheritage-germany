@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG/400px-Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG/800px-Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG/1200px-Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG/1920px-Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG/1920px-Grabstein_Königin-Luise-Str_55_(Dahl)_Helmut_Gollwitzer.JPG
+---
 
 ## Overview
 

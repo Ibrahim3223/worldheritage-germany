@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/400px-Apostelkirche_leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/800px-Apostelkirche_leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/1200px-Apostelkirche_leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/1920px-Apostelkirche_leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Apostelkirche_leipzig.jpg/1920px-Apostelkirche_leipzig.jpg
+---
 
 ## Overview
 

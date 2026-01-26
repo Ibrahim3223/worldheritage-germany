@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/400px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/800px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/1200px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/1920px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg/1920px-Grünberg,_Rosengasse_8,_Ansicht_von_Südwesten-20161020-003.jpg
+---
 
 ## Overview
 

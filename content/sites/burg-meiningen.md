@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/400px-Meiningen-Schloss01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/800px-Meiningen-Schloss01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/1200px-Meiningen-Schloss01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/1920px-Meiningen-Schloss01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Meiningen-Schloss01.jpg/1920px-Meiningen-Schloss01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/400px-ChurchJenneltRef.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/800px-ChurchJenneltRef.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/1200px-ChurchJenneltRef.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/1920px-ChurchJenneltRef.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/1920px-ChurchJenneltRef.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/400px-Gundelsheim-calvarien1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/800px-Gundelsheim-calvarien1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/1200px-Gundelsheim-calvarien1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/1920px-Gundelsheim-calvarien1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gundelsheim-calvarien1.JPG/1920px-Gundelsheim-calvarien1.JPG
+---
 
 ## Overview
 

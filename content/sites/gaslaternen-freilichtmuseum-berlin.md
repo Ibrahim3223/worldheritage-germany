@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/400px-Gaslaternen-Freilichtmuseum_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/800px-Gaslaternen-Freilichtmuseum_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/1200px-Gaslaternen-Freilichtmuseum_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/1920px-Gaslaternen-Freilichtmuseum_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/1920px-Gaslaternen-Freilichtmuseum_Berlin.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/400px-2012-07_Kirche_Laubach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/800px-2012-07_Kirche_Laubach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1200px-2012-07_Kirche_Laubach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1920px-2012-07_Kirche_Laubach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1920px-2012-07_Kirche_Laubach.jpg
+---
 
 ## Overview
 

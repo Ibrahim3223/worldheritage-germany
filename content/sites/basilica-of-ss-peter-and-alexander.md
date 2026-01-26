@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/400px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/800px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/1200px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/1920px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/1920px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
+---
 
 ## Overview
 

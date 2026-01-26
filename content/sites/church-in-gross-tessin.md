@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/400px-Gross_Tessin_Kirche_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/800px-Gross_Tessin_Kirche_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1200px-Gross_Tessin_Kirche_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1920px-Gross_Tessin_Kirche_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1920px-Gross_Tessin_Kirche_3.jpg
+---
 
 ## Overview
 

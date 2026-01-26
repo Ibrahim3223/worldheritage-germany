@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/400px-Ruine_Hohenfels_Sipplingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/800px-Ruine_Hohenfels_Sipplingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/1200px-Ruine_Hohenfels_Sipplingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/1920px-Ruine_Hohenfels_Sipplingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruine_Hohenfels_Sipplingen.jpg/1920px-Ruine_Hohenfels_Sipplingen.jpg
+---
 
 ## Overview
 

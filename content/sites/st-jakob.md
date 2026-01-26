@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/400px-2010-06-09-koethen-by-RalfR-38.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/800px-2010-06-09-koethen-by-RalfR-38.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/1200px-2010-06-09-koethen-by-RalfR-38.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/1920px-2010-06-09-koethen-by-RalfR-38.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2010-06-09-koethen-by-RalfR-38.jpg/1920px-2010-06-09-koethen-by-RalfR-38.jpg
+---
 
 ## Overview
 

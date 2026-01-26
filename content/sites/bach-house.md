@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg/400px-Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg/800px-Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg/1200px-Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg/1920px-Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg/1920px-Thuringia_Eisenach_asv2020-07_img20_Bach_Museum.jpg
+---
 
 ## Overview
 

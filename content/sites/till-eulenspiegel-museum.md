@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/400px-Till-Eulenspiegel-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/800px-Till-Eulenspiegel-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/1200px-Till-Eulenspiegel-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/1920px-Till-Eulenspiegel-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Till-Eulenspiegel-Museum.jpg/1920px-Till-Eulenspiegel-Museum.jpg
+---
 
 ## Overview
 

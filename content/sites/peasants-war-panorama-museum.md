@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/400px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/800px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/1200px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/1920px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg/1920px-Südharzreise_22_–_Panorama-Museum_in_Bad_Frankenhausen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/400px-Worms_sarcophagi.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/800px-Worms_sarcophagi.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/1200px-Worms_sarcophagi.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/1920px-Worms_sarcophagi.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Worms_sarcophagi.jpg/1920px-Worms_sarcophagi.jpg
+---
 
 ## Overview
 

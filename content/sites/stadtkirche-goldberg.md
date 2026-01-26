@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Goldberg_Kirche_2008-03-26.jpg/400px-Goldberg_Kirche_2008-03-26.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Goldberg_Kirche_2008-03-26.jpg/800px-Goldberg_Kirche_2008-03-26.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Goldberg_Kirche_2008-03-26.jpg/1200px-Goldberg_Kirche_2008-03-26.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Goldberg_Kirche_2008-03-26.jpg/1920px-Goldberg_Kirche_2008-03-26.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Goldberg_Kirche_2008-03-26.jpg/1920px-Goldberg_Kirche_2008-03-26.jpg
+---
 
 ## Overview
 

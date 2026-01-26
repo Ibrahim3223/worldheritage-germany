@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/400px-Hamburg.Trude.wmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/800px-Hamburg.Trude.wmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/1200px-Hamburg.Trude.wmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/1920px-Hamburg.Trude.wmt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hamburg.Trude.wmt.jpg/1920px-Hamburg.Trude.wmt.jpg
+---
 
 ## Overview
 

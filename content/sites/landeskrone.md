@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/400px-Landeskrone.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/800px-Landeskrone.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/1200px-Landeskrone.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/1920px-Landeskrone.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landeskrone.jpg/1920px-Landeskrone.jpg
+---
 
 ## Overview
 

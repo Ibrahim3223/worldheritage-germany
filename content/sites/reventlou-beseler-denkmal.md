@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/400px-Obelisk_Schleswig_cropped.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/800px-Obelisk_Schleswig_cropped.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/1200px-Obelisk_Schleswig_cropped.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/1920px-Obelisk_Schleswig_cropped.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Obelisk_Schleswig_cropped.jpg/1920px-Obelisk_Schleswig_cropped.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/400px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/800px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/1200px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/1920px-Bodensee_Naturmuseum_Konstanz_(2011).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bodensee_Naturmuseum_Konstanz_(2011).jpg/1920px-Bodensee_Naturmuseum_Konstanz_(2011).jpg
+---
 
 ## Overview 
 

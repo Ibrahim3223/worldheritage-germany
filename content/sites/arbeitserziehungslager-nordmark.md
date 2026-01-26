@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/400px-AEL_Nordmark_Infotafel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/800px-AEL_Nordmark_Infotafel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/1200px-AEL_Nordmark_Infotafel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/1920px-AEL_Nordmark_Infotafel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AEL_Nordmark_Infotafel.jpg/1920px-AEL_Nordmark_Infotafel.jpg
+---
 
 ## Overview
 

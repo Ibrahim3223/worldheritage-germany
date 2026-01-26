@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/400px-Epiphanien-Kirche_(Berlin).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/800px-Epiphanien-Kirche_(Berlin).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1200px-Epiphanien-Kirche_(Berlin).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1920px-Epiphanien-Kirche_(Berlin).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1920px-Epiphanien-Kirche_(Berlin).jpg
+---
 
 ## Overview
 

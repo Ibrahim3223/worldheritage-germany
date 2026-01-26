@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/400px-Harrys_Depot.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/800px-Harrys_Depot.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/1200px-Harrys_Depot.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/1920px-Harrys_Depot.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Harrys_Depot.JPG/1920px-Harrys_Depot.JPG
+---
 
 ## Overview
 

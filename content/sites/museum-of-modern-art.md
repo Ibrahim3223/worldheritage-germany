@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/400px-Museum_für_neue_Kunst_Freiburg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/800px-Museum_für_neue_Kunst_Freiburg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/1200px-Museum_für_neue_Kunst_Freiburg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/1920px-Museum_für_neue_Kunst_Freiburg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Museum_für_neue_Kunst_Freiburg_1.jpg/1920px-Museum_für_neue_Kunst_Freiburg_1.jpg
+---
 
 ## Overview
 

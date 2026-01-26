@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/400px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/800px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/1200px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/1920px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG/1920px-Neuenkirchen_bei_Greifswald,_Kirche_(2008-07-29).JPG
+---
 
 ## Overview
 

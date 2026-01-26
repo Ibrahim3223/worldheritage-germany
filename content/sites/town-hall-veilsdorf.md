@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/400px-Veilsdorf-Rathaus-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/800px-Veilsdorf-Rathaus-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/1200px-Veilsdorf-Rathaus-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/1920px-Veilsdorf-Rathaus-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Veilsdorf-Rathaus-01.jpg/1920px-Veilsdorf-Rathaus-01.jpg
+---
 
 ## Overview
 

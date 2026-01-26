@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/400px-Ehsaan-Moschee_(Mannheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/800px-Ehsaan-Moschee_(Mannheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1200px-Ehsaan-Moschee_(Mannheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1920px-Ehsaan-Moschee_(Mannheim).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1920px-Ehsaan-Moschee_(Mannheim).jpg
+---
 
 ## Overview
 

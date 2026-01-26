@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/400px-Postweiher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/800px-Postweiher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/1200px-Postweiher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/1920px-Postweiher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postweiher.jpg/1920px-Postweiher.jpg
+---
 
 ## Overview 
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/400px-Münster_Lukaskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/800px-Münster_Lukaskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/1200px-Münster_Lukaskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/1920px-Münster_Lukaskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Münster_Lukaskirche.jpg/1920px-Münster_Lukaskirche.jpg
+---
 
 ## Overview
 

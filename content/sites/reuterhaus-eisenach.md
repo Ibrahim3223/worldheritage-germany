@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/400px-Eisenach_Reuterhaus_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/800px-Eisenach_Reuterhaus_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/1200px-Eisenach_Reuterhaus_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/1920px-Eisenach_Reuterhaus_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenach_Reuterhaus_2009.jpg/1920px-Eisenach_Reuterhaus_2009.jpg
+---
 
 ## Overview
 

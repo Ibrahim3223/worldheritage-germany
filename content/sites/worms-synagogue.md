@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/400px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/800px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/1200px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/1920px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg/1920px-Anbau_des_vormaligen_Frauenbethauses_der_Synagoge_Worms_(a).jpg
+---
 
 ## Overview
 

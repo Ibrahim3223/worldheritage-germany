@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/400px-Altes_Rathaus_am_Markt,_Wittlich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/800px-Altes_Rathaus_am_Markt,_Wittlich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/1200px-Altes_Rathaus_am_Markt,_Wittlich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/1920px-Altes_Rathaus_am_Markt,_Wittlich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Altes_Rathaus_am_Markt,_Wittlich.jpg/1920px-Altes_Rathaus_am_Markt,_Wittlich.jpg
+---
 
 ## Overview
 

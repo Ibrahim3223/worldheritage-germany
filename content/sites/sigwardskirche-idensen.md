@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/400px-PICT5203_Sigwardskirche_Idensen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/800px-PICT5203_Sigwardskirche_Idensen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/1200px-PICT5203_Sigwardskirche_Idensen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/1920px-PICT5203_Sigwardskirche_Idensen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PICT5203_Sigwardskirche_Idensen.JPG/1920px-PICT5203_Sigwardskirche_Idensen.JPG
+---
 
 ## Overview
 

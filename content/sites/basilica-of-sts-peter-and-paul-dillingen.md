@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/400px-Basilika_St._Peter_(Dillingen).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/800px-Basilika_St._Peter_(Dillingen).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1200px-Basilika_St._Peter_(Dillingen).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1920px-Basilika_St._Peter_(Dillingen).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Basilika_St._Peter_(Dillingen).JPG/1920px-Basilika_St._Peter_(Dillingen).JPG
+---
 
 ## Overview
 

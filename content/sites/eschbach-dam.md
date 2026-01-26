@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/400px-Eschbachtalsperre2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/800px-Eschbachtalsperre2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1200px-Eschbachtalsperre2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1920px-Eschbachtalsperre2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1920px-Eschbachtalsperre2.jpg
+---
 
 ## Overview
 

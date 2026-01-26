@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/400px-Luthers_Sterbehaus_Eisleben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/800px-Luthers_Sterbehaus_Eisleben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/1200px-Luthers_Sterbehaus_Eisleben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/1920px-Luthers_Sterbehaus_Eisleben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Luthers_Sterbehaus_Eisleben.jpg/1920px-Luthers_Sterbehaus_Eisleben.jpg
+---
 
 ## Overview
 

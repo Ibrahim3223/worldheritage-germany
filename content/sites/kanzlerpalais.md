@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ESA_Bechtholzheim.jpg/400px-ESA_Bechtholzheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ESA_Bechtholzheim.jpg/800px-ESA_Bechtholzheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ESA_Bechtholzheim.jpg/1200px-ESA_Bechtholzheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ESA_Bechtholzheim.jpg/1920px-ESA_Bechtholzheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ESA_Bechtholzheim.jpg/1920px-ESA_Bechtholzheim.jpg
+---
 
 ## Overview
 

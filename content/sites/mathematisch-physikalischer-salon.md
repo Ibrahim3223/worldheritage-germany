@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg/400px-Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg/800px-Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg/1200px-Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg/1920px-Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg/1920px-Dresden_Zwinger_Mathematisch-Physikalischer_Salon.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/400px-MichaelsbergKapelle7-Okt2007.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/800px-MichaelsbergKapelle7-Okt2007.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1200px-MichaelsbergKapelle7-Okt2007.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1920px-MichaelsbergKapelle7-Okt2007.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MichaelsbergKapelle7-Okt2007.JPG/1920px-MichaelsbergKapelle7-Okt2007.JPG
+---
 
 ## Overview
 

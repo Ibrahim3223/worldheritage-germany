@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/400px-RK_1506_30639_Bille_Reinbek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/800px-RK_1506_30639_Bille_Reinbek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/1200px-RK_1506_30639_Bille_Reinbek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/1920px-RK_1506_30639_Bille_Reinbek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RK_1506_30639_Bille_Reinbek.jpg/1920px-RK_1506_30639_Bille_Reinbek.jpg
+---
 
 ## Overview
 

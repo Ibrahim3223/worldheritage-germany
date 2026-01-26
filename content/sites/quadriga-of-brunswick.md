@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/400px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/800px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/1200px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/1920px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG/1920px-Braunschweiger_Quadriga_mit_Brunonia_(2009).JPG
+---
 
 ## Overview
 

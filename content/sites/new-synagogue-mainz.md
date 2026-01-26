@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/400px-New_Synagogue_Mainz_exterior.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/800px-New_Synagogue_Mainz_exterior.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/1200px-New_Synagogue_Mainz_exterior.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/1920px-New_Synagogue_Mainz_exterior.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/New_Synagogue_Mainz_exterior.jpg/1920px-New_Synagogue_Mainz_exterior.jpg
+---
 
 ## Overview
 

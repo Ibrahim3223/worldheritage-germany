@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg/400px-Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg/800px-Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg/1200px-Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg/1920px-Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg/1920px-Thaulow-Museum_am_Sophienblatt_2_(Ecke_Ziegelteich)_(Kiel_51.910).jpg
+---
 
 ## Overview
 

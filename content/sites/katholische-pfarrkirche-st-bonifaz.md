@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/400px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/800px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/1200px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/1920px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg/1920px-St._Bonifaz_(Weißenohe)_-_CHöltschl.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/400px-Blasiuskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/800px-Blasiuskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/1200px-Blasiuskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/1920px-Blasiuskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blasiuskapelle.jpg/1920px-Blasiuskapelle.jpg
+---
 
 ## Overview
 

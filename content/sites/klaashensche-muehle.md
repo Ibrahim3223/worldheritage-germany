@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/400px-Windmühe_schweindorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/800px-Windmühe_schweindorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/1200px-Windmühe_schweindorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/1920px-Windmühe_schweindorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Windmühe_schweindorf.jpg/1920px-Windmühe_schweindorf.jpg
+---
 
 ## Overview
 

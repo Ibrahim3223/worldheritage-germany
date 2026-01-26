@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/400px-Eselsbrunnen_Halle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/800px-Eselsbrunnen_Halle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/1200px-Eselsbrunnen_Halle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/1920px-Eselsbrunnen_Halle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eselsbrunnen_Halle.jpg/1920px-Eselsbrunnen_Halle.jpg
+---
 
 ## Overview
 

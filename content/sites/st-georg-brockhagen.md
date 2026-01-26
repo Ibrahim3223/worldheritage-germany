@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/400px-Brockhagen_Evangelische_Pfarrkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/800px-Brockhagen_Evangelische_Pfarrkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/1200px-Brockhagen_Evangelische_Pfarrkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/1920px-Brockhagen_Evangelische_Pfarrkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brockhagen_Evangelische_Pfarrkirche.jpg/1920px-Brockhagen_Evangelische_Pfarrkirche.jpg
+---
 
 ## Overview
 

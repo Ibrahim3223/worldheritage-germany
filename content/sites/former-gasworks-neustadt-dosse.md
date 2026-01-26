@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/400px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/800px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/1200px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/1920px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg/1920px-Neustadt_(Dosse)_Gaswerk_asv2024-03_img1.jpg
+---
 
 ## Overview
 

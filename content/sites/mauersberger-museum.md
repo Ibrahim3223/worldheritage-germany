@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/400px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/800px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/1200px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/1920px-Mauersberg_(Großrückerswalde),_das_Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mauersberg_(Großrückerswalde),_das_Museum.JPG/1920px-Mauersberg_(Großrückerswalde),_das_Museum.JPG
+---
 
 ## Overview
 

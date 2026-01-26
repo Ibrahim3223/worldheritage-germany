@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/400px-Muenchen-_Friedensenangel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/800px-Muenchen-_Friedensenangel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1200px-Muenchen-_Friedensenangel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1920px-Muenchen-_Friedensenangel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1920px-Muenchen-_Friedensenangel.JPG
+---
 
 ## Overview
 

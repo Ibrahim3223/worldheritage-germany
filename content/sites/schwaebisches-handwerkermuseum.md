@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Augsburg_Unteres_Brunnenmeisterhaus.jpg/400px-Augsburg_Unteres_Brunnenmeisterhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Augsburg_Unteres_Brunnenmeisterhaus.jpg/800px-Augsburg_Unteres_Brunnenmeisterhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Augsburg_Unteres_Brunnenmeisterhaus.jpg/1200px-Augsburg_Unteres_Brunnenmeisterhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Augsburg_Unteres_Brunnenmeisterhaus.jpg/1920px-Augsburg_Unteres_Brunnenmeisterhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Augsburg_Unteres_Brunnenmeisterhaus.jpg/1920px-Augsburg_Unteres_Brunnenmeisterhaus.jpg
+---
 
 ## Overview
 

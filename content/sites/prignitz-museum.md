@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/400px-Havelberg-PrignitzMuseum1-Asio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/800px-Havelberg-PrignitzMuseum1-Asio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/1200px-Havelberg-PrignitzMuseum1-Asio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/1920px-Havelberg-PrignitzMuseum1-Asio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Havelberg-PrignitzMuseum1-Asio.jpg/1920px-Havelberg-PrignitzMuseum1-Asio.jpg
+---
 
 ## Overview
 

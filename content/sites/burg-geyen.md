@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/400px-BurgGeyen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/800px-BurgGeyen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/1200px-BurgGeyen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/1920px-BurgGeyen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/BurgGeyen1.JPG/1920px-BurgGeyen1.JPG
+---
 
 ## Overview
 

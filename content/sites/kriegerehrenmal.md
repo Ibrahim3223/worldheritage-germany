@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg/400px-Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg/800px-Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg/1200px-Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg/1920px-Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg/1920px-Saarburg_-_Zaldoten-Éieremonument_zu_Saarbuerg_-_20210905163257.jpg
+---
 
 ## Overview
 

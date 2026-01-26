@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ATZE_Musiktheater.jpg/400px-ATZE_Musiktheater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ATZE_Musiktheater.jpg/800px-ATZE_Musiktheater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ATZE_Musiktheater.jpg/1200px-ATZE_Musiktheater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ATZE_Musiktheater.jpg/1920px-ATZE_Musiktheater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ATZE_Musiktheater.jpg/1920px-ATZE_Musiktheater.jpg
+---
 
 ## Overview
 

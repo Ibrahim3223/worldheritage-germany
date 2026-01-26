@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/400px-Toitenwinkel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/800px-Toitenwinkel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/1200px-Toitenwinkel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/1920px-Toitenwinkel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Toitenwinkel.JPG/1920px-Toitenwinkel.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Veleda-Höhle_westlicher_Eingang.JPG/400px-Veleda-Höhle_westlicher_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Veleda-Höhle_westlicher_Eingang.JPG/800px-Veleda-Höhle_westlicher_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Veleda-Höhle_westlicher_Eingang.JPG/1200px-Veleda-Höhle_westlicher_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Veleda-Höhle_westlicher_Eingang.JPG/1920px-Veleda-Höhle_westlicher_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Veleda-Höhle_westlicher_Eingang.JPG/1920px-Veleda-Höhle_westlicher_Eingang.JPG
+---
 
 ## Overview
 

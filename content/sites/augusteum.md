@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/400px-Augusteum_Oldenburg_20141230.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/800px-Augusteum_Oldenburg_20141230.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1200px-Augusteum_Oldenburg_20141230.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1920px-Augusteum_Oldenburg_20141230.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1920px-Augusteum_Oldenburg_20141230.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/400px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/800px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1200px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1920px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1920px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
+---
 
 ## Overview
 

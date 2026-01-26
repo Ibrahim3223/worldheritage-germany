@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Uhlbergturm.jpg/400px-Uhlbergturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Uhlbergturm.jpg/800px-Uhlbergturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Uhlbergturm.jpg/1200px-Uhlbergturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Uhlbergturm.jpg/1920px-Uhlbergturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Uhlbergturm.jpg/1920px-Uhlbergturm.jpg
+---
 
 ## Overview
 

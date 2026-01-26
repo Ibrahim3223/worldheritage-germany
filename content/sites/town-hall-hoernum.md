@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gemeindeverwaltung_Hörnum_2024_S.jpg/400px-Gemeindeverwaltung_Hörnum_2024_S.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gemeindeverwaltung_Hörnum_2024_S.jpg/800px-Gemeindeverwaltung_Hörnum_2024_S.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gemeindeverwaltung_Hörnum_2024_S.jpg/1200px-Gemeindeverwaltung_Hörnum_2024_S.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gemeindeverwaltung_Hörnum_2024_S.jpg/1920px-Gemeindeverwaltung_Hörnum_2024_S.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gemeindeverwaltung_Hörnum_2024_S.jpg/1920px-Gemeindeverwaltung_Hörnum_2024_S.jpg
+---
 
 ## Overview
 

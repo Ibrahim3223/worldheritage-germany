@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philippus-Kirche_(Berlin).jpg/400px-Philippus-Kirche_(Berlin).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philippus-Kirche_(Berlin).jpg/800px-Philippus-Kirche_(Berlin).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philippus-Kirche_(Berlin).jpg/1200px-Philippus-Kirche_(Berlin).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philippus-Kirche_(Berlin).jpg/1920px-Philippus-Kirche_(Berlin).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Philippus-Kirche_(Berlin).jpg/1920px-Philippus-Kirche_(Berlin).jpg
+---
 
 ## Overview
 

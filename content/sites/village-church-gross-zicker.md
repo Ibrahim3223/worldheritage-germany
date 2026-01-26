@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/400px-Groß_Zicker,_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/800px-Groß_Zicker,_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/1200px-Groß_Zicker,_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/1920px-Groß_Zicker,_Dorfkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Groß_Zicker,_Dorfkirche.jpg/1920px-Groß_Zicker,_Dorfkirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/400px-HeiligKreuz1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/800px-HeiligKreuz1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/1200px-HeiligKreuz1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/1920px-HeiligKreuz1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/HeiligKreuz1.JPG/1920px-HeiligKreuz1.JPG
+---
 
 ## Overview
 

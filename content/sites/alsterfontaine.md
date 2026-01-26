@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Binnenalster_Panorama.jpg/400px-Binnenalster_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Binnenalster_Panorama.jpg/800px-Binnenalster_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Binnenalster_Panorama.jpg/1200px-Binnenalster_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Binnenalster_Panorama.jpg/1920px-Binnenalster_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Binnenalster_Panorama.jpg/1920px-Binnenalster_Panorama.jpg
+---
 
 ## Overview
 

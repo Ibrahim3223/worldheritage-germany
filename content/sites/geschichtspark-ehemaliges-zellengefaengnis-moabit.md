@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG/400px-Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG/800px-Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG/1200px-Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG/1920px-Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG/1920px-Geschichtspark_Blick_von_der_Zelle_auf_Beamtenhaus.JPG
+---
 
 ## Overview
 

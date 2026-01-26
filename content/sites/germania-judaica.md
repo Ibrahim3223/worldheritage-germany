@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/400px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/800px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1200px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1920px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1920px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
+---
 
 ## Overview
 

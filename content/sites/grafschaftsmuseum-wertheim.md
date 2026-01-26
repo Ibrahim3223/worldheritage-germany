@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/400px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/800px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/1200px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/1920px-Museo-01_Grafschaftsmuseum_Wertheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museo-01_Grafschaftsmuseum_Wertheim.jpg/1920px-Museo-01_Grafschaftsmuseum_Wertheim.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg/400px-2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg/800px-2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg/1200px-2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg/1920px-2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg/1920px-2020_Wohnhaus_Sorg_Talstraße_10_(Sorg)_01.jpg
+---
 
 ## Overview
 

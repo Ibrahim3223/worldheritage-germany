@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/400px-Zwiefalten_1826.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/800px-Zwiefalten_1826.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/1200px-Zwiefalten_1826.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/1920px-Zwiefalten_1826.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwiefalten_1826.jpg/1920px-Zwiefalten_1826.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/400px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/800px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/1200px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/1920px-Velen,_Schloss_Velen_--_2015_--_1341.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Velen,_Schloss_Velen_--_2015_--_1341.jpg/1920px-Velen,_Schloss_Velen_--_2015_--_1341.jpg
+---
 
 ## Overview
 

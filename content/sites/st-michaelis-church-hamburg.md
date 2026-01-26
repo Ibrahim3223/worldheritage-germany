@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/400px-Sankt-Michaelis-Kirche_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/800px-Sankt-Michaelis-Kirche_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/1200px-Sankt-Michaelis-Kirche_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/1920px-Sankt-Michaelis-Kirche_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sankt-Michaelis-Kirche_Hamburg.jpg/1920px-Sankt-Michaelis-Kirche_Hamburg.jpg
+---
 
 ## Overview
 

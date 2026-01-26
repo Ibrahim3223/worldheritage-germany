@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/400px-Moeckmuehl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/800px-Moeckmuehl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1200px-Moeckmuehl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1920px-Moeckmuehl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1920px-Moeckmuehl.jpg
+---
 
 ## Overview
 

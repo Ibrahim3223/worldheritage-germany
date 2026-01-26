@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg/400px-Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg/800px-Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg/1200px-Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg/1920px-Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg/1920px-Museum_für_Naturkunde_„Dr._Curt_Heinke“.jpg
+---
 
 ## Overview
 

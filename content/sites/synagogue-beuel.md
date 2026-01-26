@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Synagoge_1903.jpg/400px-Synagoge_1903.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Synagoge_1903.jpg/800px-Synagoge_1903.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Synagoge_1903.jpg/1200px-Synagoge_1903.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Synagoge_1903.jpg/1920px-Synagoge_1903.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Synagoge_1903.jpg/1920px-Synagoge_1903.jpg
+---
 
 ## Overview
 

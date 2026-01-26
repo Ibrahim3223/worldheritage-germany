@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/400px-Banzkow_Dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/800px-Banzkow_Dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1200px-Banzkow_Dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1920px-Banzkow_Dorfkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1920px-Banzkow_Dorfkirche.jpg
+---
 
 ## Overview
 

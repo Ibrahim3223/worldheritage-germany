@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bf-d-unterrath.jpg/400px-Bf-d-unterrath.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bf-d-unterrath.jpg/800px-Bf-d-unterrath.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bf-d-unterrath.jpg/1200px-Bf-d-unterrath.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bf-d-unterrath.jpg/1920px-Bf-d-unterrath.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bf-d-unterrath.jpg/1920px-Bf-d-unterrath.jpg
+---
 
 ## Overview
 

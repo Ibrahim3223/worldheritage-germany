@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/400px-Mauritianum_Altenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/800px-Mauritianum_Altenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/1200px-Mauritianum_Altenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/1920px-Mauritianum_Altenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mauritianum_Altenburg.jpg/1920px-Mauritianum_Altenburg.jpg
+---
 
 ## Overview
 

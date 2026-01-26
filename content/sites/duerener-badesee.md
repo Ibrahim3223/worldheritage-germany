@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/400px-Duerener-Badesee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/800px-Duerener-Badesee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/1200px-Duerener-Badesee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/1920px-Duerener-Badesee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Duerener-Badesee.jpg/1920px-Duerener-Badesee.jpg
+---
 
 ## Overview
 

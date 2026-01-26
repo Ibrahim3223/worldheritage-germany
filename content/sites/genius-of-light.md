@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/400px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/800px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/1200px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/1920px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg/1920px-Remscheid_Lennep_-_Thüringsberg_-_Genius_des_Lichts_01_ies.jpg
+---
 
 ## Overview
 

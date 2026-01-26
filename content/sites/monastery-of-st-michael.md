@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/400px-Michaelskloster_Heiligenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/800px-Michaelskloster_Heiligenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/1200px-Michaelskloster_Heiligenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/1920px-Michaelskloster_Heiligenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Michaelskloster_Heiligenberg.jpg/1920px-Michaelskloster_Heiligenberg.jpg
+---
 
 ## Overview
 

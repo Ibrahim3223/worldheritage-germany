@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/400px-Römermuseum_Grenzach_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/800px-Römermuseum_Grenzach_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/1200px-Römermuseum_Grenzach_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/1920px-Römermuseum_Grenzach_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Römermuseum_Grenzach_1.jpg/1920px-Römermuseum_Grenzach_1.jpg
+---
 
 ## Overview
 

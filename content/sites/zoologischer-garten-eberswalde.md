@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/400px-2018_04_ZooEberswalde_IMG_1232.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/800px-2018_04_ZooEberswalde_IMG_1232.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/1200px-2018_04_ZooEberswalde_IMG_1232.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/1920px-2018_04_ZooEberswalde_IMG_1232.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2018_04_ZooEberswalde_IMG_1232.JPG/1920px-2018_04_ZooEberswalde_IMG_1232.JPG
+---
 
 ## Overview
 

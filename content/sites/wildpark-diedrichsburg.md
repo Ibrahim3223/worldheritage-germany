@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/400px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/800px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/1200px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/1920px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG/1920px-Wildschweine_bei_der_Diedrichsburg_(Melle_2008).JPG
+---
 
 ## Overview
 

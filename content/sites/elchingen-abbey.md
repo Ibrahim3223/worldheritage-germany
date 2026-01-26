@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/400px-Elchingen1.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/800px-Elchingen1.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/1200px-Elchingen1.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/1920px-Elchingen1.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/1920px-Elchingen1.jpeg
+---
 
 ## Overview
 

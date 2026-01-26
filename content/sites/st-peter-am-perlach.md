@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/400px-Augsburg-Perlachkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/800px-Augsburg-Perlachkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1200px-Augsburg-Perlachkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1920px-Augsburg-Perlachkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Augsburg-Perlachkirche.jpg/1920px-Augsburg-Perlachkirche.jpg
+---
 
 ## Overview
 

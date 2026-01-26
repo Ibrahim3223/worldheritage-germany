@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/400px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/800px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/1200px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/1920px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg/1920px-Grabstätte_Thielenberg,_auf_dem_Friedhof_Fürstenberg_(Oder).jpg
+---
 
 ## Overview
 

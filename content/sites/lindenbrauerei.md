@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/400px-Unna_lindenbrauerei_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/800px-Unna_lindenbrauerei_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/1200px-Unna_lindenbrauerei_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/1920px-Unna_lindenbrauerei_front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Unna_lindenbrauerei_front.jpg/1920px-Unna_lindenbrauerei_front.jpg
+---
 
 ## Overview
 

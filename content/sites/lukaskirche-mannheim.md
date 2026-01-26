@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/400px-Mannheim-Almenhof-Lukaskirche-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/800px-Mannheim-Almenhof-Lukaskirche-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/1200px-Mannheim-Almenhof-Lukaskirche-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/1920px-Mannheim-Almenhof-Lukaskirche-02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mannheim-Almenhof-Lukaskirche-02.jpg/1920px-Mannheim-Almenhof-Lukaskirche-02.jpg
+---
 
 ## Overview
 

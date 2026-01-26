@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/400px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/800px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/1200px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/1920px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg/1920px-Wallfahrtskapelle_Nüchternbrunn_2022-04-17.jpg
+---
 
 ## Overview
 

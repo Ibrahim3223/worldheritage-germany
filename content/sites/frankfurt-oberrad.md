@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/400px-Bahnhof-Frankfurt-Oberrad.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/800px-Bahnhof-Frankfurt-Oberrad.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/1200px-Bahnhof-Frankfurt-Oberrad.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/1920px-Bahnhof-Frankfurt-Oberrad.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bahnhof-Frankfurt-Oberrad.jpg/1920px-Bahnhof-Frankfurt-Oberrad.jpg
+---
 
 ## Overview
 

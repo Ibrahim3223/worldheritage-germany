@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/400px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/800px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/1200px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/1920px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg/1920px-Burg-in-Löcknitz-in-Pommern-05-08-2009-143.jpg
+---
 
 ## Overview
 

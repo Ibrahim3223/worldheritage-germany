@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/400px-Wipfelsfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/800px-Wipfelsfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/1200px-Wipfelsfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/1920px-Wipfelsfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wipfelsfurt.jpg/1920px-Wipfelsfurt.jpg
+---
 
 ## Overview
 

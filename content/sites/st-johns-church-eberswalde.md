@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/400px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/800px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/1200px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/1920px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/12-04-20-johanniskirche-ebw-by-RalfR-13.jpg/1920px-12-04-20-johanniskirche-ebw-by-RalfR-13.jpg
+---
 
 ## Overview
 

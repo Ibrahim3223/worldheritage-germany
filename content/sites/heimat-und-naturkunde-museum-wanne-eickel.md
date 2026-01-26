@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/400px-Herne_Heimatmuseum_building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/800px-Herne_Heimatmuseum_building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/1200px-Herne_Heimatmuseum_building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/1920px-Herne_Heimatmuseum_building.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Herne_Heimatmuseum_building.jpg/1920px-Herne_Heimatmuseum_building.jpg
+---
 
 ## Overview
 

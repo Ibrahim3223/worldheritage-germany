@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/400px-FangelturmFriedland.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/800px-FangelturmFriedland.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/1200px-FangelturmFriedland.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/1920px-FangelturmFriedland.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/FangelturmFriedland.JPG/1920px-FangelturmFriedland.JPG
+---
 
 ## Overview
 

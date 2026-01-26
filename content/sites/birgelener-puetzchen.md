@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/400px-Birgeler_Pützchen_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/800px-Birgeler_Pützchen_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/1200px-Birgeler_Pützchen_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/1920px-Birgeler_Pützchen_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Birgeler_Pützchen_1.jpg/1920px-Birgeler_Pützchen_1.jpg
+---
 
 ## Overview 
 

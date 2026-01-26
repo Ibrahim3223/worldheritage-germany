@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/400px-Im_Eichgehölz15_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/800px-Im_Eichgehölz15_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/1200px-Im_Eichgehölz15_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/1920px-Im_Eichgehölz15_München.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Im_Eichgehölz15_München.jpg/1920px-Im_Eichgehölz15_München.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/400px-Erdölmuseum_Twist.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/800px-Erdölmuseum_Twist.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1200px-Erdölmuseum_Twist.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1920px-Erdölmuseum_Twist.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1920px-Erdölmuseum_Twist.jpg
+---
 
 ## Overview
 

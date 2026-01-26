@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/400px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/800px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/1200px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/1920px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg/1920px-Marienkirche_church_Marschnerstrasse_Nordstadt_Hannover_Germany_.jpg
+---
 
 ## Overview
 

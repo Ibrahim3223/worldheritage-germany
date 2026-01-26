@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/400px-Hundekehlesee1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/800px-Hundekehlesee1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/1200px-Hundekehlesee1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/1920px-Hundekehlesee1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hundekehlesee1.jpg/1920px-Hundekehlesee1.jpg
+---
 
 ## Overview
 

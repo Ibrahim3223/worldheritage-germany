@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/400px-Römersiedlung_Tegelberg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/800px-Römersiedlung_Tegelberg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/1200px-Römersiedlung_Tegelberg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/1920px-Römersiedlung_Tegelberg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Römersiedlung_Tegelberg.png/1920px-Römersiedlung_Tegelberg.png
+---
 
 ## Overview
 

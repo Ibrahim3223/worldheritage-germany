@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg/400px-Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg/800px-Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg/1200px-Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg/1920px-Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg/1920px-Elmstein_Möllbachstraße_5／7_004_2017_05_20.jpg
+---
 
 ## Overview
 

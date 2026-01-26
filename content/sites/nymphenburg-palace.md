@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/400px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/800px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/1200px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/1920px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schloss_Nymphenburg,_Weitwinkelansicht.jpg/1920px-Schloss_Nymphenburg,_Weitwinkelansicht.jpg
+---
 
 ## Overview
 

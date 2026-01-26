@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/400px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/800px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/1200px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/1920px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg/1920px-Zeitz_Brikettfabrik_Herrmannschacht_(02-2).jpg
+---
 
 ## Overview
 

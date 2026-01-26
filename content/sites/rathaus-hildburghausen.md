@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/400px-Hildburghausen_Historisches_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/800px-Hildburghausen_Historisches_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/1200px-Hildburghausen_Historisches_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/1920px-Hildburghausen_Historisches_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hildburghausen_Historisches_Rathaus.jpg/1920px-Hildburghausen_Historisches_Rathaus.jpg
+---
 
 ## Overview
 

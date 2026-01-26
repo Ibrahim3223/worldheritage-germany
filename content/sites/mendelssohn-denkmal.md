@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/400px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/800px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/1200px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/1920px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg/1920px-Felix_Mendelssohn_Bartholdy_Denkmal_Leipzig_2011.jpg
+---
 
 ## Overview
 

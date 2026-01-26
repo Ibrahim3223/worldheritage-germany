@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/400px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/800px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/1200px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/1920px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg/1920px-Hinkelsturm,_Old_Walls_Of_Darmstadt.jpg
+---
 
 ## Overview
 

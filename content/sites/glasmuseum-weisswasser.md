@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/400px-Glasmuseum_Weißwasser.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/800px-Glasmuseum_Weißwasser.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/1200px-Glasmuseum_Weißwasser.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/1920px-Glasmuseum_Weißwasser.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Glasmuseum_Weißwasser.jpg/1920px-Glasmuseum_Weißwasser.jpg
+---
 
 ## Overview
 

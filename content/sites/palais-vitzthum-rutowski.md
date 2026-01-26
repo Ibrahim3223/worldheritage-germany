@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/400px-Gurlitt_Dresden_TecZ_1903_111a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/800px-Gurlitt_Dresden_TecZ_1903_111a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/1200px-Gurlitt_Dresden_TecZ_1903_111a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/1920px-Gurlitt_Dresden_TecZ_1903_111a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gurlitt_Dresden_TecZ_1903_111a.jpg/1920px-Gurlitt_Dresden_TecZ_1903_111a.jpg
+---
 
 ## Overview
 

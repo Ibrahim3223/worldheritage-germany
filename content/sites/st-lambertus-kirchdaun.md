@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/400px-Kirchdaun_St.Lambertus914.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/800px-Kirchdaun_St.Lambertus914.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/1200px-Kirchdaun_St.Lambertus914.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/1920px-Kirchdaun_St.Lambertus914.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kirchdaun_St.Lambertus914.JPG/1920px-Kirchdaun_St.Lambertus914.JPG
+---
 
 ## Overview
 

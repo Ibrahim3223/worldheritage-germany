@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/400px-Erlenbruch_derenmoor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/800px-Erlenbruch_derenmoor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/1200px-Erlenbruch_derenmoor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/1920px-Erlenbruch_derenmoor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Erlenbruch_derenmoor.jpg/1920px-Erlenbruch_derenmoor.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/400px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/800px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/1200px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/1920px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg/1920px-Kaiserslautern_synagogue_1925_Reinhold_Wilking.jpg
+---
 
 ## Overview
 

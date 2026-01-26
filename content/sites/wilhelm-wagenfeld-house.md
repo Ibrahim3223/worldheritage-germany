@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/400px-Bremen_Wilhelm_Wagenfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/800px-Bremen_Wilhelm_Wagenfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/1200px-Bremen_Wilhelm_Wagenfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/1920px-Bremen_Wilhelm_Wagenfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bremen_Wilhelm_Wagenfeld.jpg/1920px-Bremen_Wilhelm_Wagenfeld.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnholz_1.jpg/400px-Arnholz_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnholz_1.jpg/800px-Arnholz_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnholz_1.jpg/1200px-Arnholz_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnholz_1.jpg/1920px-Arnholz_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnholz_1.jpg/1920px-Arnholz_1.jpg
+---
 
 ## Overview
 

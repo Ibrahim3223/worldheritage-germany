@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/400px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/800px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/1200px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/1920px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg/1920px-Heidelberg_Kirchheim_Sankt-Peter-Kirche_20110302.jpg
+---
 
 ## Overview
 

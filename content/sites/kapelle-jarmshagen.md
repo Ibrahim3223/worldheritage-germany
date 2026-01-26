@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/400px-Kapelle_Jarmshagen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/800px-Kapelle_Jarmshagen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/1200px-Kapelle_Jarmshagen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/1920px-Kapelle_Jarmshagen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kapelle_Jarmshagen.JPG/1920px-Kapelle_Jarmshagen.JPG
+---
 
 ## Overview
 

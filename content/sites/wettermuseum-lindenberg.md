@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/400px-Eingang_Besucherzentrum_Wettermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/800px-Eingang_Besucherzentrum_Wettermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/1200px-Eingang_Besucherzentrum_Wettermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/1920px-Eingang_Besucherzentrum_Wettermuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eingang_Besucherzentrum_Wettermuseum.jpg/1920px-Eingang_Besucherzentrum_Wettermuseum.jpg
+---
 
 ## Overview
 

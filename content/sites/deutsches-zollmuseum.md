@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/400px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/800px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/1200px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/1920px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/1920px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg/400px-Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg/800px-Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg/1200px-Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg/1920px-Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg/1920px-Rheinbach,_Polligsstr._3-5,_Himmeroder_Hof_Glasmuseum_(27).jpg
+---
 
 ## Overview
 

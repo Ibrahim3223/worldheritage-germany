@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/400px-Dresden-Porzellansammlung.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/800px-Dresden-Porzellansammlung.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1200px-Dresden-Porzellansammlung.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1920px-Dresden-Porzellansammlung.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1920px-Dresden-Porzellansammlung.JPG
+---
 
 ## Overview
 

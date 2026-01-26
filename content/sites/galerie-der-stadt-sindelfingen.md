@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mittleres_Rathaus_Sindelfingen.JPG/400px-Mittleres_Rathaus_Sindelfingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mittleres_Rathaus_Sindelfingen.JPG/800px-Mittleres_Rathaus_Sindelfingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mittleres_Rathaus_Sindelfingen.JPG/1200px-Mittleres_Rathaus_Sindelfingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mittleres_Rathaus_Sindelfingen.JPG/1920px-Mittleres_Rathaus_Sindelfingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mittleres_Rathaus_Sindelfingen.JPG/1920px-Mittleres_Rathaus_Sindelfingen.JPG
+---
 
 ## Overview
 

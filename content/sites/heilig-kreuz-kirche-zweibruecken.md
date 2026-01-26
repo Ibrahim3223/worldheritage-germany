@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/400px-Zweibrücken_Heilig_Kreuz_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/800px-Zweibrücken_Heilig_Kreuz_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1200px-Zweibrücken_Heilig_Kreuz_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1920px-Zweibrücken_Heilig_Kreuz_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1920px-Zweibrücken_Heilig_Kreuz_01.JPG
+---
 
 ## Overview
 

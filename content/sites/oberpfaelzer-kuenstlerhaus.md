@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/400px-FronbergKebbelvilla.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/800px-FronbergKebbelvilla.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/1200px-FronbergKebbelvilla.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/1920px-FronbergKebbelvilla.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FronbergKebbelvilla.JPG/1920px-FronbergKebbelvilla.JPG
+---
 
 ## Overview
 

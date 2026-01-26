@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/400px-StSebastianMuenchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/800px-StSebastianMuenchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/1200px-StSebastianMuenchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/1920px-StSebastianMuenchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/StSebastianMuenchen.jpg/1920px-StSebastianMuenchen.jpg
+---
 
 ## Overview
 

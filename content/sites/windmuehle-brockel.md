@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/400px-Windmühle_(Brockel)_P1170058.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/800px-Windmühle_(Brockel)_P1170058.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/1200px-Windmühle_(Brockel)_P1170058.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/1920px-Windmühle_(Brockel)_P1170058.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Windmühle_(Brockel)_P1170058.jpg/1920px-Windmühle_(Brockel)_P1170058.jpg
+---
 
 ## Overview
 

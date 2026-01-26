@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/400px-Klosterkirche_Nienburg-Saale.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/800px-Klosterkirche_Nienburg-Saale.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/1200px-Klosterkirche_Nienburg-Saale.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/1920px-Klosterkirche_Nienburg-Saale.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Klosterkirche_Nienburg-Saale.JPG/1920px-Klosterkirche_Nienburg-Saale.JPG
+---
 
 ## Overview
 

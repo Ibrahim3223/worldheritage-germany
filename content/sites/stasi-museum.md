@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sede_Stasi_Museum.JPG/400px-Sede_Stasi_Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sede_Stasi_Museum.JPG/800px-Sede_Stasi_Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sede_Stasi_Museum.JPG/1200px-Sede_Stasi_Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sede_Stasi_Museum.JPG/1920px-Sede_Stasi_Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sede_Stasi_Museum.JPG/1920px-Sede_Stasi_Museum.JPG
+---
 
 ## Overview
 

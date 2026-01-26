@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/400px-Schauspielhaus_Dresden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/800px-Schauspielhaus_Dresden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/1200px-Schauspielhaus_Dresden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/1920px-Schauspielhaus_Dresden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schauspielhaus_Dresden.jpg/1920px-Schauspielhaus_Dresden.jpg
+---
 
 ## Overview
 

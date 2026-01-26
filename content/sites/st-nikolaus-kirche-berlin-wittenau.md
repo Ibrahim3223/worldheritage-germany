@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/400px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/800px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/1200px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/1920px-Berlin-Wittenau,_St._Nikolaus_(04).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin-Wittenau,_St._Nikolaus_(04).jpg/1920px-Berlin-Wittenau,_St._Nikolaus_(04).jpg
+---
 
 ## Overview
 

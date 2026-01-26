@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/400px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/800px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1200px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1920px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1920px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/400px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/800px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/1200px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/1920px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg/1920px-NRW,_Dortmund,_Altstadt_-_Propsteikirche_St-Johann_Baptist_01.jpg
+---
 
 ## Overview
 

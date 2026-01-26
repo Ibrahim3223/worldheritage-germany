@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/400px-Kollwitzstatue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/800px-Kollwitzstatue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/1200px-Kollwitzstatue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/1920px-Kollwitzstatue.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kollwitzstatue.jpg/1920px-Kollwitzstatue.jpg
+---
 
 ## Overview
 

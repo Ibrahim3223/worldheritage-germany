@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/400px-DunumKirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/800px-DunumKirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/1200px-DunumKirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/1920px-DunumKirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/1920px-DunumKirche.jpg
+---
 
 ## Overview
 

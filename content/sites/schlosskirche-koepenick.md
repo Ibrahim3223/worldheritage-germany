@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/400px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/800px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/1200px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/1920px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg/1920px-Schlosskirche_(Berlin-Köpenick)_Portalseite.jpg
+---
 
 ## Overview
 

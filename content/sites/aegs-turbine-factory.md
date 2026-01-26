@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/400px-AEG_Turbinenhalle_Fassade.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/800px-AEG_Turbinenhalle_Fassade.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1200px-AEG_Turbinenhalle_Fassade.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1920px-AEG_Turbinenhalle_Fassade.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1920px-AEG_Turbinenhalle_Fassade.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/400px-Luisenburg_2014_11.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/800px-Luisenburg_2014_11.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/1200px-Luisenburg_2014_11.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/1920px-Luisenburg_2014_11.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Luisenburg_2014_11.jpg/1920px-Luisenburg_2014_11.jpg
+---
 
 ## Overview
 

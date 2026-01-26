@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dortmund-U-100616-14305-children.jpg/400px-Dortmund-U-100616-14305-children.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dortmund-U-100616-14305-children.jpg/800px-Dortmund-U-100616-14305-children.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dortmund-U-100616-14305-children.jpg/1200px-Dortmund-U-100616-14305-children.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dortmund-U-100616-14305-children.jpg/1920px-Dortmund-U-100616-14305-children.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dortmund-U-100616-14305-children.jpg/1920px-Dortmund-U-100616-14305-children.jpg
+---
 
 ## Overview
 

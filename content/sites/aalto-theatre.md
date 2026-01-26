@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/400px-Aalto-Theater-Abends-02-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/800px-Aalto-Theater-Abends-02-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1200px-Aalto-Theater-Abends-02-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1920px-Aalto-Theater-Abends-02-2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1920px-Aalto-Theater-Abends-02-2014.jpg
+---
 
 ## Overview
 

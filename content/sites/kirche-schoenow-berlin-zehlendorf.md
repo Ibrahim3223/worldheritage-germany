@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/400px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/800px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/1200px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/1920px-Kirche_Schönow_(Berlin-Zehlendorf).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirche_Schönow_(Berlin-Zehlendorf).JPG/1920px-Kirche_Schönow_(Berlin-Zehlendorf).JPG
+---
 
 ## Overview
 

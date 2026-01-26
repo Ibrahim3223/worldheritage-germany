@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heimatmuseum_(Zwingenberg)-01.jpg/400px-Heimatmuseum_(Zwingenberg)-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heimatmuseum_(Zwingenberg)-01.jpg/800px-Heimatmuseum_(Zwingenberg)-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heimatmuseum_(Zwingenberg)-01.jpg/1200px-Heimatmuseum_(Zwingenberg)-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heimatmuseum_(Zwingenberg)-01.jpg/1920px-Heimatmuseum_(Zwingenberg)-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heimatmuseum_(Zwingenberg)-01.jpg/1920px-Heimatmuseum_(Zwingenberg)-01.jpg
+---
 
 ## Overview
 

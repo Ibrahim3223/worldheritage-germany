@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/400px-Münzenberg_Quedlinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/800px-Münzenberg_Quedlinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/1200px-Münzenberg_Quedlinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/1920px-Münzenberg_Quedlinburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Münzenberg_Quedlinburg.jpg/1920px-Münzenberg_Quedlinburg.jpg
+---
 
 ## Overview
 

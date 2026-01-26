@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/400px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/800px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/1200px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/1920px-Erfurt_Barfüßerstraße_Valentinerhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erfurt_Barfüßerstraße_Valentinerhof.jpg/1920px-Erfurt_Barfüßerstraße_Valentinerhof.jpg
+---
 
 ## Overview
 

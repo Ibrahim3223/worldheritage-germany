@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/400px-Riesloch_Cascade_-_Uppermost_part.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/800px-Riesloch_Cascade_-_Uppermost_part.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/1200px-Riesloch_Cascade_-_Uppermost_part.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/1920px-Riesloch_Cascade_-_Uppermost_part.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Riesloch_Cascade_-_Uppermost_part.jpg/1920px-Riesloch_Cascade_-_Uppermost_part.jpg
+---
 
 ## Overview
 

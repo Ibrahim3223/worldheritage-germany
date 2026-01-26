@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/400px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/800px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/1200px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/1920px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG/1920px-Kreuzberg_(Ahr)_St.Antonius_Eremit5772.JPG
+---
 
 ## Overview
 

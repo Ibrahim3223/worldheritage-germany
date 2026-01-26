@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/400px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/800px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
+---
 
 ## Overview
 

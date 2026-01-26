@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/400px-Kapelle_Gr._Liedern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/800px-Kapelle_Gr._Liedern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/1200px-Kapelle_Gr._Liedern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/1920px-Kapelle_Gr._Liedern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_Gr._Liedern.jpg/1920px-Kapelle_Gr._Liedern.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/400px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/800px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/1200px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/1920px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg/1920px-Projekt_Heißluftballon_-_Highflyer_-IMG-1418.jpg
+---
 
 ## Overview
 

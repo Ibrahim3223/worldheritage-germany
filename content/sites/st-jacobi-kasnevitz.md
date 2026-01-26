@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/400px-Kasnevitz_St_Jacobi_07.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/800px-Kasnevitz_St_Jacobi_07.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/1200px-Kasnevitz_St_Jacobi_07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/1920px-Kasnevitz_St_Jacobi_07.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kasnevitz_St_Jacobi_07.jpg/1920px-Kasnevitz_St_Jacobi_07.jpg
+---
 
 ## Overview
 

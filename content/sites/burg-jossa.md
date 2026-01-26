@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/400px-Burg_Jossa,_Mauerreste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/800px-Burg_Jossa,_Mauerreste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/1200px-Burg_Jossa,_Mauerreste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/1920px-Burg_Jossa,_Mauerreste.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Jossa,_Mauerreste.jpg/1920px-Burg_Jossa,_Mauerreste.jpg
+---
 
 ## Overview
 

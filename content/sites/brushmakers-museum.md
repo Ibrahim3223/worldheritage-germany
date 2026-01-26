@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/400px-Bürstenbindermuseum_Ramberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/800px-Bürstenbindermuseum_Ramberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1200px-Bürstenbindermuseum_Ramberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1920px-Bürstenbindermuseum_Ramberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1920px-Bürstenbindermuseum_Ramberg.JPG
+---
 
 ## Overview
 

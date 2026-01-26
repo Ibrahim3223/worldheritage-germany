@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/400px-Hückelhoven-Baal_Bahnsteig_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/800px-Hückelhoven-Baal_Bahnsteig_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/1200px-Hückelhoven-Baal_Bahnsteig_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/1920px-Hückelhoven-Baal_Bahnsteig_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hückelhoven-Baal_Bahnsteig_1.JPG/1920px-Hückelhoven-Baal_Bahnsteig_1.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/400px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/800px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/1200px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/1920px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG/1920px-Neubrandenburg_Gartenstraße_6_Literaturhaus.JPG
+---
 
 ## Overview
 

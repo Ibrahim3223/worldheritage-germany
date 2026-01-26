@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/400px-Braunfels,_ehemaliges_Amtsgericht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/800px-Braunfels,_ehemaliges_Amtsgericht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/1200px-Braunfels,_ehemaliges_Amtsgericht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/1920px-Braunfels,_ehemaliges_Amtsgericht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Braunfels,_ehemaliges_Amtsgericht.jpg/1920px-Braunfels,_ehemaliges_Amtsgericht.jpg
+---
 
 ## Overview
 

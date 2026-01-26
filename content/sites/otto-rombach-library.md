@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/400px-Otto-Rombach-Bücherei.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/800px-Otto-Rombach-Bücherei.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/1200px-Otto-Rombach-Bücherei.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/1920px-Otto-Rombach-Bücherei.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Otto-Rombach-Bücherei.jpg/1920px-Otto-Rombach-Bücherei.jpg
+---
 
 ## Overview
 

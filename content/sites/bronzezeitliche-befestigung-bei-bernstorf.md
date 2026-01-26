@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/400px-Bernsteingesicht_von_Bernstorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/800px-Bernsteingesicht_von_Bernstorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/1200px-Bernsteingesicht_von_Bernstorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/1920px-Bernsteingesicht_von_Bernstorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bernsteingesicht_von_Bernstorf.JPG/1920px-Bernsteingesicht_von_Bernstorf.JPG
+---
 
 ## Overview
 

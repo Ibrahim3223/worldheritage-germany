@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/400px-Kapelle_St_Jakobus_Abtsküche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/800px-Kapelle_St_Jakobus_Abtsküche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/1200px-Kapelle_St_Jakobus_Abtsküche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/1920px-Kapelle_St_Jakobus_Abtsküche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kapelle_St_Jakobus_Abtsküche.jpg/1920px-Kapelle_St_Jakobus_Abtsküche.jpg
+---
 
 ## Overview
 

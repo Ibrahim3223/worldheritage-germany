@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/400px-Erfurter_Dom_von_Oben_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/800px-Erfurter_Dom_von_Oben_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1200px-Erfurter_Dom_von_Oben_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1920px-Erfurter_Dom_von_Oben_05.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1920px-Erfurter_Dom_von_Oben_05.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/400px-Dorfkirche_Ladeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/800px-Dorfkirche_Ladeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/1200px-Dorfkirche_Ladeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/1920px-Dorfkirche_Ladeburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dorfkirche_Ladeburg.jpg/1920px-Dorfkirche_Ladeburg.jpg
+---
 
 ## Overview
 

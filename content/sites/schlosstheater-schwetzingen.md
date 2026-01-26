@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/400px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/800px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/1200px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/1920px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg/1920px-Schwetzingen_Schlosstheater_Blick_vom_Parkett_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg/400px-Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg/800px-Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg/1200px-Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg/1920px-Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg/1920px-Mülheim_an_der_Ruhr,_Camera_Obscura,_2011-03_CN-01.jpg
+---
 
 ## Overview 
 

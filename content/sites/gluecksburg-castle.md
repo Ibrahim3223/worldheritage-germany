@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/400px-Schloss_Gluecksburg_msu_2018_-7111.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/800px-Schloss_Gluecksburg_msu_2018_-7111.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/1200px-Schloss_Gluecksburg_msu_2018_-7111.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/1920px-Schloss_Gluecksburg_msu_2018_-7111.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/1920px-Schloss_Gluecksburg_msu_2018_-7111.jpg
+---
 
 ## Overview
 

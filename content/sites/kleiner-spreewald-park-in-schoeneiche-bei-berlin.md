@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/400px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/800px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/1200px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/1920px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg/1920px-Kleiner_Spreewald-Park_in_Schöneiche_(7432713050).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/400px-Waidspeicher_q03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/800px-Waidspeicher_q03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/1200px-Waidspeicher_q03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/1920px-Waidspeicher_q03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Waidspeicher_q03.jpg/1920px-Waidspeicher_q03.jpg
+---
 
 ## Overview
 

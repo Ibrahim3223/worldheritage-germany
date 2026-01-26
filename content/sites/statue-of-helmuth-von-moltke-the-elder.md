@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg/400px-Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg/800px-Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg/1200px-Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg/1920px-Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg/1920px-Siegessaeule_Aussicht_10-13_img1_Moltke_Statue.jpg
+---
 
 ## Overview
 

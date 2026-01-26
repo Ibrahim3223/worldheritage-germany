@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weser-bei-Polle.jpg/400px-Weser-bei-Polle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weser-bei-Polle.jpg/800px-Weser-bei-Polle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weser-bei-Polle.jpg/1200px-Weser-bei-Polle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weser-bei-Polle.jpg/1920px-Weser-bei-Polle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Weser-bei-Polle.jpg/1920px-Weser-bei-Polle.jpg
+---
 
 ## Overview
 

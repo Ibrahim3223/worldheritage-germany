@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/400px-Frankfurt,_Mozartdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/800px-Frankfurt,_Mozartdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/1200px-Frankfurt,_Mozartdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/1920px-Frankfurt,_Mozartdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frankfurt,_Mozartdenkmal.jpg/1920px-Frankfurt,_Mozartdenkmal.jpg
+---
 
 ## Overview
 

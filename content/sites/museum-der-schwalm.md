@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/400px-Museum_der_Schwalm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/800px-Museum_der_Schwalm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/1200px-Museum_der_Schwalm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/1920px-Museum_der_Schwalm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Museum_der_Schwalm.jpg/1920px-Museum_der_Schwalm.jpg
+---
 
 ## Overview
 

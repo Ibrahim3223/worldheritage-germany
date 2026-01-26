@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ernst-Reuter-Platz_Pepper-Haus-002.JPG/400px-Ernst-Reuter-Platz_Pepper-Haus-002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ernst-Reuter-Platz_Pepper-Haus-002.JPG/800px-Ernst-Reuter-Platz_Pepper-Haus-002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ernst-Reuter-Platz_Pepper-Haus-002.JPG/1200px-Ernst-Reuter-Platz_Pepper-Haus-002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ernst-Reuter-Platz_Pepper-Haus-002.JPG/1920px-Ernst-Reuter-Platz_Pepper-Haus-002.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ernst-Reuter-Platz_Pepper-Haus-002.JPG/1920px-Ernst-Reuter-Platz_Pepper-Haus-002.JPG
+---
 
 ## Overview
 

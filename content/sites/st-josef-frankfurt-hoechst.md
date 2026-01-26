@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/400px-Josefskirche_Frankfurt_Hoechst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/800px-Josefskirche_Frankfurt_Hoechst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/1200px-Josefskirche_Frankfurt_Hoechst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/1920px-Josefskirche_Frankfurt_Hoechst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Josefskirche_Frankfurt_Hoechst.jpg/1920px-Josefskirche_Frankfurt_Hoechst.jpg
+---
 
 ## Overview
 

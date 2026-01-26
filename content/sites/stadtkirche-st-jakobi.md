@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/400px-Jakobikirche_von_Norden.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/800px-Jakobikirche_von_Norden.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/1200px-Jakobikirche_von_Norden.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/1920px-Jakobikirche_von_Norden.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jakobikirche_von_Norden.JPG/1920px-Jakobikirche_von_Norden.JPG
+---
 
 ## Overview
 

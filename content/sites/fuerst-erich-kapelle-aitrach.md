@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fürst-Erich-Kapelle_(Aitrach).jpg/400px-Fürst-Erich-Kapelle_(Aitrach).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fürst-Erich-Kapelle_(Aitrach).jpg/800px-Fürst-Erich-Kapelle_(Aitrach).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fürst-Erich-Kapelle_(Aitrach).jpg/1200px-Fürst-Erich-Kapelle_(Aitrach).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fürst-Erich-Kapelle_(Aitrach).jpg/1920px-Fürst-Erich-Kapelle_(Aitrach).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fürst-Erich-Kapelle_(Aitrach).jpg/1920px-Fürst-Erich-Kapelle_(Aitrach).jpg
+---
 
 ## Overview
 

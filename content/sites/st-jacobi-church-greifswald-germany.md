@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/400px-Jacobikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/800px-Jacobikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/1200px-Jacobikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/1920px-Jacobikirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jacobikirche.jpg/1920px-Jacobikirche.jpg
+---
 
 ## Overview
 

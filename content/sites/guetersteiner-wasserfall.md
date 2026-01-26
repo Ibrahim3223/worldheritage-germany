@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/400px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/800px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/1200px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/1920px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg/1920px-Bad_Urach_-_Gütersteiner_Wasserfälle_625_Hm_ü.N.N._02.jpg
+---
 
 ## Overview
 

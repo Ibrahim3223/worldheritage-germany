@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/400px-Wittstock_07-13_img02_Goldbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/800px-Wittstock_07-13_img02_Goldbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/1200px-Wittstock_07-13_img02_Goldbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/1920px-Wittstock_07-13_img02_Goldbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wittstock_07-13_img02_Goldbeck.jpg/1920px-Wittstock_07-13_img02_Goldbeck.jpg
+---
 
 ## Overview
 

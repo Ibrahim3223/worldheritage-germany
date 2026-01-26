@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/400px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/800px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/1200px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/1920px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg/1920px-Berlin,_Mitte,_Gendarmenmarkt,_Deutscher_Dom_02.jpg
+---
 
 ## Overview
 

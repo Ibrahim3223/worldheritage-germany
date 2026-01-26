@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/400px-Coburg_006morizkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/800px-Coburg_006morizkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1200px-Coburg_006morizkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1920px-Coburg_006morizkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coburg_006morizkirche.jpg/1920px-Coburg_006morizkirche.jpg
+---
 
 ## Overview
 

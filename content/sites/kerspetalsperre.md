@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/400px-Staumauer_der_Kerspetalsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/800px-Staumauer_der_Kerspetalsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/1200px-Staumauer_der_Kerspetalsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/1920px-Staumauer_der_Kerspetalsperre.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Staumauer_der_Kerspetalsperre.jpg/1920px-Staumauer_der_Kerspetalsperre.jpg
+---
 
 ## Overview
 

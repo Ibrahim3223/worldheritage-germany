@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WWF_Deutschland_Berlin_Reinhardtstraße.jpg/400px-WWF_Deutschland_Berlin_Reinhardtstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WWF_Deutschland_Berlin_Reinhardtstraße.jpg/800px-WWF_Deutschland_Berlin_Reinhardtstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WWF_Deutschland_Berlin_Reinhardtstraße.jpg/1200px-WWF_Deutschland_Berlin_Reinhardtstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WWF_Deutschland_Berlin_Reinhardtstraße.jpg/1920px-WWF_Deutschland_Berlin_Reinhardtstraße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/WWF_Deutschland_Berlin_Reinhardtstraße.jpg/1920px-WWF_Deutschland_Berlin_Reinhardtstraße.jpg
+---
 
 ## Overview
 

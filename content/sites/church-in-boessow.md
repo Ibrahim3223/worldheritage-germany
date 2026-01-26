@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/400px-Kirche_in_Bössow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/800px-Kirche_in_Bössow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1200px-Kirche_in_Bössow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1920px-Kirche_in_Bössow.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1920px-Kirche_in_Bössow.JPG
+---
 
 ## Overview
 

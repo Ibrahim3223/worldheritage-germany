@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/H01_KunstNaturalienkammer_FranckStift.JPG/400px-H01_KunstNaturalienkammer_FranckStift.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/H01_KunstNaturalienkammer_FranckStift.JPG/800px-H01_KunstNaturalienkammer_FranckStift.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/H01_KunstNaturalienkammer_FranckStift.JPG/1200px-H01_KunstNaturalienkammer_FranckStift.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/H01_KunstNaturalienkammer_FranckStift.JPG/1920px-H01_KunstNaturalienkammer_FranckStift.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/H01_KunstNaturalienkammer_FranckStift.JPG/1920px-H01_KunstNaturalienkammer_FranckStift.JPG
+---
 
 ## Overview
 

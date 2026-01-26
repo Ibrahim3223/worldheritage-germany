@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/400px-Aschwardener_Windmühle_(2023).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/800px-Aschwardener_Windmühle_(2023).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/1200px-Aschwardener_Windmühle_(2023).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/1920px-Aschwardener_Windmühle_(2023).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aschwardener_Windmühle_(2023).jpg/1920px-Aschwardener_Windmühle_(2023).jpg
+---
 
 ## Overview
 

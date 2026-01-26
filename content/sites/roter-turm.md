@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/400px-Kamenz-Roter_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/800px-Kamenz-Roter_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/1200px-Kamenz-Roter_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/1920px-Kamenz-Roter_Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kamenz-Roter_Turm.jpg/1920px-Kamenz-Roter_Turm.jpg
+---
 
 ## Overview
 

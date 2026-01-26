@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/400px-KarlsruherKunsthalle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/800px-KarlsruherKunsthalle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/1200px-KarlsruherKunsthalle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/1920px-KarlsruherKunsthalle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/KarlsruherKunsthalle.jpg/1920px-KarlsruherKunsthalle.jpg
+---
 
 ## Overview
 

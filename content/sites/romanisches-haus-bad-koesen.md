@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/400px-Romanisches_Haus_Bad_Kösen-1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/800px-Romanisches_Haus_Bad_Kösen-1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/1200px-Romanisches_Haus_Bad_Kösen-1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/1920px-Romanisches_Haus_Bad_Kösen-1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Romanisches_Haus_Bad_Kösen-1.JPG/1920px-Romanisches_Haus_Bad_Kösen-1.JPG
+---
 
 ## Overview
 

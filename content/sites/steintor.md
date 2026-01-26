@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/400px-Tribsees_Steintor.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/800px-Tribsees_Steintor.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/1200px-Tribsees_Steintor.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/1920px-Tribsees_Steintor.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tribsees_Steintor.JPG/1920px-Tribsees_Steintor.JPG
+---
 
 ## Overview
 

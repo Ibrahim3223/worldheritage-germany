@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ziegenkueppel.JPG/400px-Ziegenkueppel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ziegenkueppel.JPG/800px-Ziegenkueppel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ziegenkueppel.JPG/1200px-Ziegenkueppel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ziegenkueppel.JPG/1920px-Ziegenkueppel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ziegenkueppel.JPG/1920px-Ziegenkueppel.JPG
+---
 
 ## Overview
 

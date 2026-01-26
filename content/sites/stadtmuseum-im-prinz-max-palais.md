@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/400px-Prinz-Max-Palais_Karlsruhe.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/800px-Prinz-Max-Palais_Karlsruhe.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/1200px-Prinz-Max-Palais_Karlsruhe.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/1920px-Prinz-Max-Palais_Karlsruhe.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prinz-Max-Palais_Karlsruhe.JPG/1920px-Prinz-Max-Palais_Karlsruhe.JPG
+---
 
 ## Overview
 

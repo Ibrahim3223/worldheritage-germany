@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/400px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/800px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/1200px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/1920px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg/1920px-Schleswig-Holstein,_Fahretoft,_Hans-Momsen-Haus_NIK_1570.jpg
+---
 
 ## Overview
 

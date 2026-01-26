@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/400px-Lautlingen_Schloss_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/800px-Lautlingen_Schloss_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/1200px-Lautlingen_Schloss_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/1920px-Lautlingen_Schloss_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lautlingen_Schloss_3.jpg/1920px-Lautlingen_Schloss_3.jpg
+---
 
 ## Overview
 

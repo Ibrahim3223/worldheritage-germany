@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/400px-Schifferkirche_Ahrenshoop_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/800px-Schifferkirche_Ahrenshoop_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/1200px-Schifferkirche_Ahrenshoop_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/1920px-Schifferkirche_Ahrenshoop_Front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schifferkirche_Ahrenshoop_Front.jpg/1920px-Schifferkirche_Ahrenshoop_Front.jpg
+---
 
 ## Overview
 

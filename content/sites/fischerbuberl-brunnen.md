@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/400px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/800px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
+---
 
 ## Overview
 

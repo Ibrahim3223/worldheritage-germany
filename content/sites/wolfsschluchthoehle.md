@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Die_Gartenlaube_(1890)_b_414_1.jpg/400px-Die_Gartenlaube_(1890)_b_414_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Die_Gartenlaube_(1890)_b_414_1.jpg/800px-Die_Gartenlaube_(1890)_b_414_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Die_Gartenlaube_(1890)_b_414_1.jpg/1200px-Die_Gartenlaube_(1890)_b_414_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Die_Gartenlaube_(1890)_b_414_1.jpg/1920px-Die_Gartenlaube_(1890)_b_414_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Die_Gartenlaube_(1890)_b_414_1.jpg/1920px-Die_Gartenlaube_(1890)_b_414_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/400px-ChurchTwixlum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/800px-ChurchTwixlum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/1200px-ChurchTwixlum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/1920px-ChurchTwixlum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ChurchTwixlum.JPG/1920px-ChurchTwixlum.JPG
+---
 
 ## Overview
 

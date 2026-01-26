@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg/400px-Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg/800px-Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg/1200px-Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg/1920px-Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg/1920px-Goggo-Nahverkehrsmuseum-Halle_und_Wagen-DSC_6466.jpg
+---
 
 ## Overview
 

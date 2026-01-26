@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/400px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/800px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/1200px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/1920px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg/1920px-Bonn,_Hillige_Namme_van_Jezustsjerke,_de_tsjerke_yn_de_Bonnergasse.jpg
+---
 
 ## Overview
 

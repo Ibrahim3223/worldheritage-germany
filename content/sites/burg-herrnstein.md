@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/400px-Burg_Herrnstein_Auffahrt.PNG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/800px-Burg_Herrnstein_Auffahrt.PNG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1200px-Burg_Herrnstein_Auffahrt.PNG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1920px-Burg_Herrnstein_Auffahrt.PNG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1920px-Burg_Herrnstein_Auffahrt.PNG
+---
 
 ## Overview
 

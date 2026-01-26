@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/400px-Dornburg_-_Rokokoschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/800px-Dornburg_-_Rokokoschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/1200px-Dornburg_-_Rokokoschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/1920px-Dornburg_-_Rokokoschloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dornburg_-_Rokokoschloss.jpg/1920px-Dornburg_-_Rokokoschloss.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/400px-Krematorium_Mainz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/800px-Krematorium_Mainz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1200px-Krematorium_Mainz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1920px-Krematorium_Mainz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1920px-Krematorium_Mainz.jpg
+---
 
 ## Overview
 

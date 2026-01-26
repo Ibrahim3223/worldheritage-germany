@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/400px-Langhaus_1_Hitzacker.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/800px-Langhaus_1_Hitzacker.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1200px-Langhaus_1_Hitzacker.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1920px-Langhaus_1_Hitzacker.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1920px-Langhaus_1_Hitzacker.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/400px-Hornbach-St_Pirmin-06-2019-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/800px-Hornbach-St_Pirmin-06-2019-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/1200px-Hornbach-St_Pirmin-06-2019-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/1920px-Hornbach-St_Pirmin-06-2019-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hornbach-St_Pirmin-06-2019-gje.jpg/1920px-Hornbach-St_Pirmin-06-2019-gje.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/400px-Bückeburg_2011-by-RaBoe-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/800px-Bückeburg_2011-by-RaBoe-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/1200px-Bückeburg_2011-by-RaBoe-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/1920px-Bückeburg_2011-by-RaBoe-05.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bückeburg_2011-by-RaBoe-05.jpg/1920px-Bückeburg_2011-by-RaBoe-05.jpg
+---
 
 ## Overview
 

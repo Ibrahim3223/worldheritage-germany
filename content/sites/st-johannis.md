@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/400px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/800px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/1200px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/1920px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg/1920px-Föhr_Nieblum_Kirche_St._Johannes_2_2018.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/400px-Burghalde_1_Kempten_20180306_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/800px-Burghalde_1_Kempten_20180306_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/1200px-Burghalde_1_Kempten_20180306_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/1920px-Burghalde_1_Kempten_20180306_005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burghalde_1_Kempten_20180306_005.jpg/1920px-Burghalde_1_Kempten_20180306_005.jpg
+---
 
 ## Overview
 

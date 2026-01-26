@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/400px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/800px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/1200px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/1920px-Brandenburg_St-Katharinenkirche_18_(MK).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburg_St-Katharinenkirche_18_(MK).jpg/1920px-Brandenburg_St-Katharinenkirche_18_(MK).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/400px-Travemuende-Leuchtturm_mit_Maritim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/800px-Travemuende-Leuchtturm_mit_Maritim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/1200px-Travemuende-Leuchtturm_mit_Maritim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/1920px-Travemuende-Leuchtturm_mit_Maritim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Travemuende-Leuchtturm_mit_Maritim.jpg/1920px-Travemuende-Leuchtturm_mit_Maritim.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/400px-Schnoor-StJacobusPackhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/800px-Schnoor-StJacobusPackhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/1200px-Schnoor-StJacobusPackhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/1920px-Schnoor-StJacobusPackhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Schnoor-StJacobusPackhaus.jpg/1920px-Schnoor-StJacobusPackhaus.jpg
+---
 
 ## Overview
 

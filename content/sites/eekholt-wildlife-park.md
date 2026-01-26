@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/400px-Wildpark_Eekholt_NIK_2400.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/800px-Wildpark_Eekholt_NIK_2400.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/1200px-Wildpark_Eekholt_NIK_2400.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/1920px-Wildpark_Eekholt_NIK_2400.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/1920px-Wildpark_Eekholt_NIK_2400.JPG
+---
 
 ## Overview
 

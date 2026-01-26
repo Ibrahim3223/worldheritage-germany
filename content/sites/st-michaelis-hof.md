@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/400px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/800px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/1200px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/1920px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg/1920px-St._Michaelis_und_Kirchplatz_20220325_HOF09908cens.jpg
+---
 
 ## Overview
 

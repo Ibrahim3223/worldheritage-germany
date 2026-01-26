@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/400px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/800px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/1200px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/1920px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg/1920px-Matthaeikirche_in_Duesseldorf-Duesseltal,_von_Nordwesten.jpg
+---
 
 ## Overview
 

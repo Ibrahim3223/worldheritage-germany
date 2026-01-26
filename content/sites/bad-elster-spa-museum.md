@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/400px-BadElster5204.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/800px-BadElster5204.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/1200px-BadElster5204.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/1920px-BadElster5204.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BadElster5204.JPG/1920px-BadElster5204.JPG
+---
 
 ## Overview
 

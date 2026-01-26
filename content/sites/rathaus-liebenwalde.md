@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Town_Hall_Liebenwalde.JPG/400px-Town_Hall_Liebenwalde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Town_Hall_Liebenwalde.JPG/800px-Town_Hall_Liebenwalde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Town_Hall_Liebenwalde.JPG/1200px-Town_Hall_Liebenwalde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Town_Hall_Liebenwalde.JPG/1920px-Town_Hall_Liebenwalde.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Town_Hall_Liebenwalde.JPG/1920px-Town_Hall_Liebenwalde.JPG
+---
 
 ## Overview
 

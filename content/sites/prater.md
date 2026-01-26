@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pratergarten_Berlin_Kastanienallee.JPG/400px-Pratergarten_Berlin_Kastanienallee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pratergarten_Berlin_Kastanienallee.JPG/800px-Pratergarten_Berlin_Kastanienallee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pratergarten_Berlin_Kastanienallee.JPG/1200px-Pratergarten_Berlin_Kastanienallee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pratergarten_Berlin_Kastanienallee.JPG/1920px-Pratergarten_Berlin_Kastanienallee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pratergarten_Berlin_Kastanienallee.JPG/1920px-Pratergarten_Berlin_Kastanienallee.JPG
+---
 
 ## Overview
 

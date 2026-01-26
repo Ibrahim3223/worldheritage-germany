@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/400px-Nordenham_Rathausturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/800px-Nordenham_Rathausturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/1200px-Nordenham_Rathausturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/1920px-Nordenham_Rathausturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nordenham_Rathausturm.jpg/1920px-Nordenham_Rathausturm.jpg
+---
 
 ## Overview
 

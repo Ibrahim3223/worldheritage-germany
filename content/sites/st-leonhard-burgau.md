@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/400px-Burgau_St._Leonhard_1747.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/800px-Burgau_St._Leonhard_1747.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/1200px-Burgau_St._Leonhard_1747.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/1920px-Burgau_St._Leonhard_1747.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burgau_St._Leonhard_1747.JPG/1920px-Burgau_St._Leonhard_1747.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/400px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/800px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/1200px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/1920px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wilhelm-Hack-Museum_in_Ludwigshafen.jpg/1920px-Wilhelm-Hack-Museum_in_Ludwigshafen.jpg
+---
 
 ## Overview
 

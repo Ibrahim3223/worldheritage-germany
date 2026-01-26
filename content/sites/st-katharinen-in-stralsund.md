@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG/400px-Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG/800px-Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG/1200px-Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG/1920px-Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG/1920px-Stralsund,_Katharinenkloster_und_Katharinenkirche_(2007-06-11).JPG
+---
 
 ## Overview
 

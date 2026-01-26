@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nehren_Römergrab2.JPG/400px-Nehren_Römergrab2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nehren_Römergrab2.JPG/800px-Nehren_Römergrab2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nehren_Römergrab2.JPG/1200px-Nehren_Römergrab2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nehren_Römergrab2.JPG/1920px-Nehren_Römergrab2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nehren_Römergrab2.JPG/1920px-Nehren_Römergrab2.JPG
+---
 
 ## Overview
 

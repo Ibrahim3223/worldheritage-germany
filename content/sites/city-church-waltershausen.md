@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/400px-Stadtkirche_waltershausen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/800px-Stadtkirche_waltershausen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/1200px-Stadtkirche_waltershausen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/1920px-Stadtkirche_waltershausen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stadtkirche_waltershausen.JPG/1920px-Stadtkirche_waltershausen.JPG
+---
 
 ## Overview
 

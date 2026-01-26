@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/400px-Zotzensee_Nordwestufer.nnw.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/800px-Zotzensee_Nordwestufer.nnw.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/1200px-Zotzensee_Nordwestufer.nnw.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/1920px-Zotzensee_Nordwestufer.nnw.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Zotzensee_Nordwestufer.nnw.jpg/1920px-Zotzensee_Nordwestufer.nnw.jpg
+---
 
 ## Overview
 

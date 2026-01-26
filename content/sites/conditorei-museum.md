@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/400px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/800px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/1200px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/1920px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kitzingen,_Marktstraße_26,_24_20170305_001.jpg/1920px-Kitzingen,_Marktstraße_26,_24_20170305_001.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/400px-Adenau_Marienkapelle127.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/800px-Adenau_Marienkapelle127.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/1200px-Adenau_Marienkapelle127.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/1920px-Adenau_Marienkapelle127.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adenau_Marienkapelle127.JPG/1920px-Adenau_Marienkapelle127.JPG
+---
 
 ## Overview
 

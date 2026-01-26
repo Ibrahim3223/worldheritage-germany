@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/400px-Heine1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/800px-Heine1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/1200px-Heine1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/1920px-Heine1a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heine1a.jpg/1920px-Heine1a.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/400px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/800px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/1200px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/1920px-Cologne-EL-DE-House-UpperFloorMuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Cologne-EL-DE-House-UpperFloorMuseum.JPG/1920px-Cologne-EL-DE-House-UpperFloorMuseum.JPG
+---
 
 ## Overview
 

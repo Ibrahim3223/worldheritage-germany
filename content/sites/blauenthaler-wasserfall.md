@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/400px-Blauenthaler_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/800px-Blauenthaler_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/1200px-Blauenthaler_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/1920px-Blauenthaler_Wasserfall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Blauenthaler_Wasserfall.jpg/1920px-Blauenthaler_Wasserfall.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/400px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/800px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/1200px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/1920px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg/1920px-Landappbw_162682_1819_Rathaus_Ludwigsburg.jpg
+---
 
 ## Overview
 

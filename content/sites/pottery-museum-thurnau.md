@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/400px-Dauerausstellung_ehem._Töpfereien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/800px-Dauerausstellung_ehem._Töpfereien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/1200px-Dauerausstellung_ehem._Töpfereien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/1920px-Dauerausstellung_ehem._Töpfereien.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dauerausstellung_ehem._Töpfereien.jpg/1920px-Dauerausstellung_ehem._Töpfereien.jpg
+---
 
 ## Overview
 

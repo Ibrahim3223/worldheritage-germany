@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/MitsubishiElectricHalle.JPG/400px-MitsubishiElectricHalle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/MitsubishiElectricHalle.JPG/800px-MitsubishiElectricHalle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/MitsubishiElectricHalle.JPG/1200px-MitsubishiElectricHalle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/MitsubishiElectricHalle.JPG/1920px-MitsubishiElectricHalle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/MitsubishiElectricHalle.JPG/1920px-MitsubishiElectricHalle.JPG
+---
 
 ## Overview
 

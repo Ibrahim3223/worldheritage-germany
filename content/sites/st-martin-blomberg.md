@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/400px-Blomberg_Katholische-Kirche_Kopie.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/800px-Blomberg_Katholische-Kirche_Kopie.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/1200px-Blomberg_Katholische-Kirche_Kopie.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/1920px-Blomberg_Katholische-Kirche_Kopie.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blomberg_Katholische-Kirche_Kopie.jpg/1920px-Blomberg_Katholische-Kirche_Kopie.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/400px-Buchkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/800px-Buchkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/1200px-Buchkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/1920px-Buchkapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Buchkapelle.JPG/1920px-Buchkapelle.JPG
+---
 
 ## Overview
 

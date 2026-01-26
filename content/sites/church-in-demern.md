@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/400px-Demern_Kirche_2009-01-02_067.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/800px-Demern_Kirche_2009-01-02_067.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1200px-Demern_Kirche_2009-01-02_067.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1920px-Demern_Kirche_2009-01-02_067.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1920px-Demern_Kirche_2009-01-02_067.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/400px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/800px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/1200px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/1920px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg/1920px-Düsseldorf-Heerdt_-_Handweiser_-_Bunkerkirche_Gesamtansicht.jpg
+---
 
 ## Overview
 

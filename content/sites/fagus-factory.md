@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/400px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/800px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1200px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1920px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1920px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
+---
 
 ## Overview
 

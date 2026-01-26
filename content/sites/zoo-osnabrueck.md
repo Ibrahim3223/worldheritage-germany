@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/400px-OS-zoo-eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/800px-OS-zoo-eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/1200px-OS-zoo-eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/1920px-OS-zoo-eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OS-zoo-eingang.jpg/1920px-OS-zoo-eingang.jpg
+---
 
 ## Overview
 

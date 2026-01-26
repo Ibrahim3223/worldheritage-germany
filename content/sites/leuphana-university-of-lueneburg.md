@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/400px-Leuphana_Building.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/800px-Leuphana_Building.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/1200px-Leuphana_Building.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/1920px-Leuphana_Building.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leuphana_Building.jpg/1920px-Leuphana_Building.jpg
+---
 
 ## Overview
 

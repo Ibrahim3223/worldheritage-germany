@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/400px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/800px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/1200px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/1920px-Kassel_asv2022-02_img26_Zwehrenturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kassel_asv2022-02_img26_Zwehrenturm.jpg/1920px-Kassel_asv2022-02_img26_Zwehrenturm.jpg
+---
 
 ## Overview
 

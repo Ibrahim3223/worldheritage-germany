@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/400px-Bruel_Kirche_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/800px-Bruel_Kirche_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/1200px-Bruel_Kirche_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/1920px-Bruel_Kirche_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bruel_Kirche_2.jpg/1920px-Bruel_Kirche_2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/400px-Korkenziehermuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/800px-Korkenziehermuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/1200px-Korkenziehermuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/1920px-Korkenziehermuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Korkenziehermuseum.jpg/1920px-Korkenziehermuseum.jpg
+---
 
 ## Overview
 

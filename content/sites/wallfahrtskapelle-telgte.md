@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/400px-WallfahrtskapelleTelgte.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/800px-WallfahrtskapelleTelgte.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/1200px-WallfahrtskapelleTelgte.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/1920px-WallfahrtskapelleTelgte.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WallfahrtskapelleTelgte.JPG/1920px-WallfahrtskapelleTelgte.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/400px-HN-Wartbergkirche-Tuer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/800px-HN-Wartbergkirche-Tuer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/1200px-HN-Wartbergkirche-Tuer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/1920px-HN-Wartbergkirche-Tuer.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HN-Wartbergkirche-Tuer.JPG/1920px-HN-Wartbergkirche-Tuer.JPG
+---
 
 ## Overview
 

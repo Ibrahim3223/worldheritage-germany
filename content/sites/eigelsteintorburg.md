@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/400px-Köln_eigelsteintorburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/800px-Köln_eigelsteintorburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1200px-Köln_eigelsteintorburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1920px-Köln_eigelsteintorburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1920px-Köln_eigelsteintorburg.jpg
+---
 
 ## Overview
 

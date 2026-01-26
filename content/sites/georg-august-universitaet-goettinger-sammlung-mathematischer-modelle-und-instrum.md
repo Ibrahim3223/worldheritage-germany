@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/400px-Mathematik_Göttingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/800px-Mathematik_Göttingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/1200px-Mathematik_Göttingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/1920px-Mathematik_Göttingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mathematik_Göttingen.jpg/1920px-Mathematik_Göttingen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/400px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/800px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/1200px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/1920px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kripp(Remagen)St.Johannes_Nepomuk785.JPG/1920px-Kripp(Remagen)St.Johannes_Nepomuk785.JPG
+---
 
 ## Overview
 

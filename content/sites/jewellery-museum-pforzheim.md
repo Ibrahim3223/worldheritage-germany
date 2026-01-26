@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/400px-Reuchlinhaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/800px-Reuchlinhaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1200px-Reuchlinhaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1920px-Reuchlinhaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1920px-Reuchlinhaus.JPG
+---
 
 ## Overview
 

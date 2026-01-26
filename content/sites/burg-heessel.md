@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/400px-Heessel_Rekonstruktion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/800px-Heessel_Rekonstruktion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/1200px-Heessel_Rekonstruktion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/1920px-Heessel_Rekonstruktion.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heessel_Rekonstruktion.jpg/1920px-Heessel_Rekonstruktion.jpg
+---
 
 ## Overview
 

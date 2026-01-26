@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/400px-Dennin_Kirche_Südost.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/800px-Dennin_Kirche_Südost.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1200px-Dennin_Kirche_Südost.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1920px-Dennin_Kirche_Südost.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1920px-Dennin_Kirche_Südost.JPG
+---
 
 ## Overview
 

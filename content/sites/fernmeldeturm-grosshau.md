@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/400px-Grosshaufmt1p.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/800px-Grosshaufmt1p.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/1200px-Grosshaufmt1p.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/1920px-Grosshaufmt1p.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grosshaufmt1p.jpg/1920px-Grosshaufmt1p.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/400px-EhemMagdalenkircheHL.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/800px-EhemMagdalenkircheHL.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/1200px-EhemMagdalenkircheHL.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/1920px-EhemMagdalenkircheHL.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/EhemMagdalenkircheHL.JPG/1920px-EhemMagdalenkircheHL.JPG
+---
 
 ## Overview
 

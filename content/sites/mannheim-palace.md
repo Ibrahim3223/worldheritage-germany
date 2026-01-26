@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/400px-Barockschloss_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/800px-Barockschloss_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/1200px-Barockschloss_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/1920px-Barockschloss_Mannheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barockschloss_Mannheim.jpg/1920px-Barockschloss_Mannheim.jpg
+---
 
 ## Overview
 

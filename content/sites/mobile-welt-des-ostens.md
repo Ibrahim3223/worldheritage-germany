@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/400px-Calau_Mobile_Welt_des_Ostens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/800px-Calau_Mobile_Welt_des_Ostens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/1200px-Calau_Mobile_Welt_des_Ostens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/1920px-Calau_Mobile_Welt_des_Ostens.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calau_Mobile_Welt_des_Ostens.jpg/1920px-Calau_Mobile_Welt_des_Ostens.jpg
+---
 
 ## Overview
 

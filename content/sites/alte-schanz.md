@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/400px-Schanze_Zorn_und_Hareschloss_005.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/800px-Schanze_Zorn_und_Hareschloss_005.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/1200px-Schanze_Zorn_und_Hareschloss_005.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/1920px-Schanze_Zorn_und_Hareschloss_005.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schanze_Zorn_und_Hareschloss_005.JPG/1920px-Schanze_Zorn_und_Hareschloss_005.JPG
+---
 
 ## Overview
 

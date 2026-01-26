@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG/400px-Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG/800px-Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG/1200px-Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG/1920px-Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG/1920px-Frankfurt_am_Main-_Bahnhof_Frankfurt-Louisa-_auf_Bahnsteig_zu_Gleis_2-_Richtung_Heidelberg_20.5.2012.JPG
+---
 
 ## Overview
 

@@ -15,7 +15,8 @@ wikidata_id: "Q49425495"
 latitude: 51.181274556
 longitude: 14.872610183
 images:
-  []---
+  []
+---
 
 # Steindeckerbrücke Dorfstraße 56 (bei) (hinter dem Steigerturm) Guide
 

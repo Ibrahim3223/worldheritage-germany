@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/400px-Fotothek_df_pk_0000176_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/800px-Fotothek_df_pk_0000176_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/1200px-Fotothek_df_pk_0000176_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/1920px-Fotothek_df_pk_0000176_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fotothek_df_pk_0000176_001.jpg/1920px-Fotothek_df_pk_0000176_001.jpg
+---
 
 ## Overview
 

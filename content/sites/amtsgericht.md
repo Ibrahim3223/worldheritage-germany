@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/400px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/800px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/1200px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/1920px-FuerthOdenwald-Amtsgericht1-Bubo.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FuerthOdenwald-Amtsgericht1-Bubo.JPG/1920px-FuerthOdenwald-Amtsgericht1-Bubo.JPG
+---
 
 ## Overview
 

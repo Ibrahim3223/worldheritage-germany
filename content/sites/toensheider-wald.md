@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/400px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/800px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/1200px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/1920px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG/1920px-Schleswig-Holstein,_Aukrug,_Tönsheider_Wald_NIK_9796.JPG
+---
 
 ## Overview
 

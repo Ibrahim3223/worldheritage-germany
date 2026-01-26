@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/400px-Michelbachgrossneffe_064.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/800px-Michelbachgrossneffe_064.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1200px-Michelbachgrossneffe_064.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1920px-Michelbachgrossneffe_064.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1920px-Michelbachgrossneffe_064.jpg
+---
 
 ## Overview
 

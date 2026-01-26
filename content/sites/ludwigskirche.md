@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/400px-Ludwigskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/800px-Ludwigskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/1200px-Ludwigskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/1920px-Ludwigskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ludwigskirche.jpg/1920px-Ludwigskirche.jpg
+---
 
 ## Overview
 

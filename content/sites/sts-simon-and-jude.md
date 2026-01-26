@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/400px-SimonJudasReken.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/800px-SimonJudasReken.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/1200px-SimonJudasReken.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/1920px-SimonJudasReken.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SimonJudasReken.JPG/1920px-SimonJudasReken.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg/400px-Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg/800px-Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg/1200px-Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg/1920px-Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg/1920px-Jülich-Güsten_Denkmal-Nr._53,_Johannestraße_15_(869).jpg
+---
 
 ## Overview
 

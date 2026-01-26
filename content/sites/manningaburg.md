@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/400px-Manningaburg-Pewsum-msu-0567.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/800px-Manningaburg-Pewsum-msu-0567.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/1200px-Manningaburg-Pewsum-msu-0567.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/1920px-Manningaburg-Pewsum-msu-0567.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manningaburg-Pewsum-msu-0567.jpg/1920px-Manningaburg-Pewsum-msu-0567.jpg
+---
 
 ## Overview
 

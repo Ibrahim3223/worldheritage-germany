@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/400px-Ofen-_und_Keramikmuseum_Velten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/800px-Ofen-_und_Keramikmuseum_Velten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/1200px-Ofen-_und_Keramikmuseum_Velten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/1920px-Ofen-_und_Keramikmuseum_Velten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ofen-_und_Keramikmuseum_Velten.JPG/1920px-Ofen-_und_Keramikmuseum_Velten.JPG
+---
 
 ## Overview
 

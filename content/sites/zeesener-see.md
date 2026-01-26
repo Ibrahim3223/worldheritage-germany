@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sonnenuntergang_senzig.JPG/400px-Sonnenuntergang_senzig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sonnenuntergang_senzig.JPG/800px-Sonnenuntergang_senzig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sonnenuntergang_senzig.JPG/1200px-Sonnenuntergang_senzig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sonnenuntergang_senzig.JPG/1920px-Sonnenuntergang_senzig.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sonnenuntergang_senzig.JPG/1920px-Sonnenuntergang_senzig.JPG
+---
 
 ## Overview
 

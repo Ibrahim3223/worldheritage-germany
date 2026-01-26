@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/400px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/800px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1200px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1920px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1920px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
+---
 
 ## Overview
 

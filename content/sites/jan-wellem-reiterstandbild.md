@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/400px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/800px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/1200px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/1920px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/1920px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
+---
 
 ## Overview
 

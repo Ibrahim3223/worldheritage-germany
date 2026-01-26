@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Auwald_bei_Westheim_02.jpg/400px-Naturschutzgebiet_Auwald_bei_Westheim_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Auwald_bei_Westheim_02.jpg/800px-Naturschutzgebiet_Auwald_bei_Westheim_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Auwald_bei_Westheim_02.jpg/1200px-Naturschutzgebiet_Auwald_bei_Westheim_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Auwald_bei_Westheim_02.jpg/1920px-Naturschutzgebiet_Auwald_bei_Westheim_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Auwald_bei_Westheim_02.jpg/1920px-Naturschutzgebiet_Auwald_bei_Westheim_02.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/400px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/800px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/1200px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/1920px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg/1920px-013_Pfarrkirche_in_Jüchen_Bedburdyck.jpg
+---
 
 ## Overview
 

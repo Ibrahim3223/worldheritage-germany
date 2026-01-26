@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/400px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/800px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/1200px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/1920px-NeuBoltenhagen_Marienkirche_Nordseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/NeuBoltenhagen_Marienkirche_Nordseite.jpg/1920px-NeuBoltenhagen_Marienkirche_Nordseite.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/400px-Burg-hemmersbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/800px-Burg-hemmersbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/1200px-Burg-hemmersbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/1920px-Burg-hemmersbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/1920px-Burg-hemmersbach.jpg
+---
 
 ## Overview
 

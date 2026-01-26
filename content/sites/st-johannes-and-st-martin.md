@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/400px-Schwabach_Stadtkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/800px-Schwabach_Stadtkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/1200px-Schwabach_Stadtkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/1920px-Schwabach_Stadtkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schwabach_Stadtkirche.JPG/1920px-Schwabach_Stadtkirche.JPG
+---
 
 ## Overview
 

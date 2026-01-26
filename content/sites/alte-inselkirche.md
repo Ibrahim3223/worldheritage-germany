@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/400px-Ansicht_vom_Süderloog.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/800px-Ansicht_vom_Süderloog.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/1200px-Ansicht_vom_Süderloog.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/1920px-Ansicht_vom_Süderloog.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ansicht_vom_Süderloog.jpg/1920px-Ansicht_vom_Süderloog.jpg
+---
 
 ## Overview
 

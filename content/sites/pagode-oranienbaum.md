@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/400px-Pagode_Oranienbaum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/800px-Pagode_Oranienbaum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/1200px-Pagode_Oranienbaum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/1920px-Pagode_Oranienbaum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pagode_Oranienbaum.jpg/1920px-Pagode_Oranienbaum.jpg
+---
 
 ## Overview
 

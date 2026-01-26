@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/400px-Beltringharder_Koog_0067.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/800px-Beltringharder_Koog_0067.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/1200px-Beltringharder_Koog_0067.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/1920px-Beltringharder_Koog_0067.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beltringharder_Koog_0067.JPG/1920px-Beltringharder_Koog_0067.JPG
+---
 
 ## Overview
 

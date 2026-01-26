@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/400px-MittelherwigsdorfGemeindeamt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/800px-MittelherwigsdorfGemeindeamt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/1200px-MittelherwigsdorfGemeindeamt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/1920px-MittelherwigsdorfGemeindeamt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MittelherwigsdorfGemeindeamt.jpg/1920px-MittelherwigsdorfGemeindeamt.jpg
+---
 
 ## Overview
 

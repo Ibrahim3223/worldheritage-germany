@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/400px-Wiebeke-Kruse-Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/800px-Wiebeke-Kruse-Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/1200px-Wiebeke-Kruse-Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/1920px-Wiebeke-Kruse-Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wiebeke-Kruse-Turm.jpg/1920px-Wiebeke-Kruse-Turm.jpg
+---
 
 ## Overview
 

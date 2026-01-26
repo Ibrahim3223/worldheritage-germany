@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/400px-Versoehnungskirche-wf-glockenturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/800px-Versoehnungskirche-wf-glockenturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/1200px-Versoehnungskirche-wf-glockenturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/1920px-Versoehnungskirche-wf-glockenturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Versoehnungskirche-wf-glockenturm.jpg/1920px-Versoehnungskirche-wf-glockenturm.jpg
+---
 
 ## Overview 
 

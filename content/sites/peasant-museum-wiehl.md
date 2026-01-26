@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/400px-Bauernmuseum_Wiehl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/800px-Bauernmuseum_Wiehl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/1200px-Bauernmuseum_Wiehl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/1920px-Bauernmuseum_Wiehl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bauernmuseum_Wiehl.jpg/1920px-Bauernmuseum_Wiehl.jpg
+---
 
 ## Overview
 

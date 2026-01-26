@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/400px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/800px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/400px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/800px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/1200px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/1920px-Wessely_Bammelsburg_Braunschweig_cropped.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wessely_Bammelsburg_Braunschweig_cropped.jpg/1920px-Wessely_Bammelsburg_Braunschweig_cropped.jpg
+---
 
 ## Overview
 

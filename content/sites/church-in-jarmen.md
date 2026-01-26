@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/400px-Jarmen_DM_Kirche_Nordseite_unten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/800px-Jarmen_DM_Kirche_Nordseite_unten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1200px-Jarmen_DM_Kirche_Nordseite_unten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1920px-Jarmen_DM_Kirche_Nordseite_unten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1920px-Jarmen_DM_Kirche_Nordseite_unten.jpg
+---
 
 ## Overview
 

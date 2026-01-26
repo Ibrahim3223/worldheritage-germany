@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/400px-Oderwitz_Eisenmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/800px-Oderwitz_Eisenmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/1200px-Oderwitz_Eisenmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/1920px-Oderwitz_Eisenmühle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oderwitz_Eisenmühle.jpg/1920px-Oderwitz_Eisenmühle.jpg
+---
 
 ## Overview
 

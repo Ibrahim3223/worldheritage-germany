@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heimsheim_Schleglerschloss_20090918.jpg/400px-Heimsheim_Schleglerschloss_20090918.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heimsheim_Schleglerschloss_20090918.jpg/800px-Heimsheim_Schleglerschloss_20090918.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heimsheim_Schleglerschloss_20090918.jpg/1200px-Heimsheim_Schleglerschloss_20090918.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heimsheim_Schleglerschloss_20090918.jpg/1920px-Heimsheim_Schleglerschloss_20090918.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heimsheim_Schleglerschloss_20090918.jpg/1920px-Heimsheim_Schleglerschloss_20090918.jpg
+---
 
 ## Overview
 

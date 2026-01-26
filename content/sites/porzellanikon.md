@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/400px-Selb_Porzellanikon.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/800px-Selb_Porzellanikon.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/1200px-Selb_Porzellanikon.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/1920px-Selb_Porzellanikon.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Selb_Porzellanikon.JPG/1920px-Selb_Porzellanikon.JPG
+---
 
 ## Overview
 

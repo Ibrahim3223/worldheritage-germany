@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/400px-Charlottenburg_Luisenkirche-001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/800px-Charlottenburg_Luisenkirche-001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1200px-Charlottenburg_Luisenkirche-001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1920px-Charlottenburg_Luisenkirche-001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charlottenburg_Luisenkirche-001.JPG/1920px-Charlottenburg_Luisenkirche-001.JPG
+---
 
 ## Overview 
 

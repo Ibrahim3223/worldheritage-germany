@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/400px-Beelitz,_das_Rathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/800px-Beelitz,_das_Rathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/1200px-Beelitz,_das_Rathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/1920px-Beelitz,_das_Rathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Beelitz,_das_Rathaus.jpg/1920px-Beelitz,_das_Rathaus.jpg
+---
 
 ## Overview
 

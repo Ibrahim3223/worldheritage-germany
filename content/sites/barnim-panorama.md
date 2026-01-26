@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/400px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/800px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/1200px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/1920px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/1920px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
+---
 
 ## Overview
 

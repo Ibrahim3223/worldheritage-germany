@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/400px-Flensburg_Braun-Hogenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/800px-Flensburg_Braun-Hogenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1200px-Flensburg_Braun-Hogenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1920px-Flensburg_Braun-Hogenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1920px-Flensburg_Braun-Hogenberg.jpg
+---
 
 ## Overview
 

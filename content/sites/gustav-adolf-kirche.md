@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/400px-Gustav-Adolf-Kirche_Niederursel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/800px-Gustav-Adolf-Kirche_Niederursel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/1200px-Gustav-Adolf-Kirche_Niederursel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/1920px-Gustav-Adolf-Kirche_Niederursel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustav-Adolf-Kirche_Niederursel.JPG/1920px-Gustav-Adolf-Kirche_Niederursel.JPG
+---
 
 ## Overview
 

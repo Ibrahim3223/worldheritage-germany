@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/400px-Burg_Hohenschelklingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/800px-Burg_Hohenschelklingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/1200px-Burg_Hohenschelklingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/1920px-Burg_Hohenschelklingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Hohenschelklingen.JPG/1920px-Burg_Hohenschelklingen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/400px-Aerial_Rhein_bei_Öhningen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/800px-Aerial_Rhein_bei_Öhningen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/1200px-Aerial_Rhein_bei_Öhningen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/1920px-Aerial_Rhein_bei_Öhningen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_Rhein_bei_Öhningen.jpg/1920px-Aerial_Rhein_bei_Öhningen.jpg
+---
 
 ## Overview
 

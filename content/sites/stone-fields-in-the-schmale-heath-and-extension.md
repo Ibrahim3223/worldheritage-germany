@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Feuersteinfelder_Mukran_01.jpg/400px-Feuersteinfelder_Mukran_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Feuersteinfelder_Mukran_01.jpg/800px-Feuersteinfelder_Mukran_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Feuersteinfelder_Mukran_01.jpg/1200px-Feuersteinfelder_Mukran_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Feuersteinfelder_Mukran_01.jpg/1920px-Feuersteinfelder_Mukran_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Feuersteinfelder_Mukran_01.jpg/1920px-Feuersteinfelder_Mukran_01.jpg
+---
 
 ## Overview
 

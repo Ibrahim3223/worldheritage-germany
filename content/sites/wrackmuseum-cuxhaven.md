@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/400px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/800px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/1200px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/1920px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cuxhaven_Wrackmuseum_01_(RaBoe).jpg/1920px-Cuxhaven_Wrackmuseum_01_(RaBoe).jpg
+---
 
 ## Overview
 

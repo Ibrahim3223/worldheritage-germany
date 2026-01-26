@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/400px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/800px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1200px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1920px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1920px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg
+---
 
 ## Overview
 

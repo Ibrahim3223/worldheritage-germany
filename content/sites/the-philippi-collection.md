@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/400px-Sammlung_Philippi_Stuecke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/800px-Sammlung_Philippi_Stuecke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/1200px-Sammlung_Philippi_Stuecke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/1920px-Sammlung_Philippi_Stuecke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sammlung_Philippi_Stuecke.jpg/1920px-Sammlung_Philippi_Stuecke.jpg
+---
 
 ## Overview
 

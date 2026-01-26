@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/400px-ChurchSimonswolde.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/800px-ChurchSimonswolde.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/1200px-ChurchSimonswolde.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/1920px-ChurchSimonswolde.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/ChurchSimonswolde.JPG/1920px-ChurchSimonswolde.JPG
+---
 
 ## Overview
 

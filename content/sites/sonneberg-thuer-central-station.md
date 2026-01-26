@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/400px-Sonneberg-Hbf1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/800px-Sonneberg-Hbf1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/1200px-Sonneberg-Hbf1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/1920px-Sonneberg-Hbf1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sonneberg-Hbf1.jpg/1920px-Sonneberg-Hbf1.jpg
+---
 
 ## Overview
 

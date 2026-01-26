@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17-05-23-Fotoflug_Barnim-a_RR70416.jpg/400px-17-05-23-Fotoflug_Barnim-a_RR70416.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17-05-23-Fotoflug_Barnim-a_RR70416.jpg/800px-17-05-23-Fotoflug_Barnim-a_RR70416.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17-05-23-Fotoflug_Barnim-a_RR70416.jpg/1200px-17-05-23-Fotoflug_Barnim-a_RR70416.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17-05-23-Fotoflug_Barnim-a_RR70416.jpg/1920px-17-05-23-Fotoflug_Barnim-a_RR70416.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17-05-23-Fotoflug_Barnim-a_RR70416.jpg/1920px-17-05-23-Fotoflug_Barnim-a_RR70416.jpg
+---
 
 ## Overview
 

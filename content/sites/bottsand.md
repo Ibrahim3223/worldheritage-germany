@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/400px-Bottsand_03.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/800px-Bottsand_03.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1200px-Bottsand_03.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1920px-Bottsand_03.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1920px-Bottsand_03.JPG
+---
 
 ## Overview
 

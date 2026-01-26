@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/400px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/800px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1200px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1920px-Franz-von-Sales-Kirche,_Duesseldorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1920px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
+---
 
 ## Overview
 

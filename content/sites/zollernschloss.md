@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/400px-Balingen_Zollernschloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/800px-Balingen_Zollernschloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/1200px-Balingen_Zollernschloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/1920px-Balingen_Zollernschloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Balingen_Zollernschloss.jpg/1920px-Balingen_Zollernschloss.jpg
+---
 
 ## Overview
 

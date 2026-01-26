@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg/400px-Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg/800px-Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg/1200px-Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg/1920px-Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg/1920px-Burgruine_Lichtenegg_Rimbach_Bayerischer_Wald.jpg
+---
 
 ## Overview
 

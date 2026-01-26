@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/400px-Stiftsmuseum_Aschaffenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/800px-Stiftsmuseum_Aschaffenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/1200px-Stiftsmuseum_Aschaffenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/1920px-Stiftsmuseum_Aschaffenburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Stiftsmuseum_Aschaffenburg.JPG/1920px-Stiftsmuseum_Aschaffenburg.JPG
+---
 
 ## Overview
 

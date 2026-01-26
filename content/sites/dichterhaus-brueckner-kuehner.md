@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/400px-Dichterhaus_Brückner-Kühner.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/800px-Dichterhaus_Brückner-Kühner.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/1200px-Dichterhaus_Brückner-Kühner.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/1920px-Dichterhaus_Brückner-Kühner.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dichterhaus_Brückner-Kühner.jpg/1920px-Dichterhaus_Brückner-Kühner.jpg
+---
 
 ## Overview
 

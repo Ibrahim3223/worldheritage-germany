@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HarsefeldKlosterfundamente.jpg/400px-HarsefeldKlosterfundamente.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HarsefeldKlosterfundamente.jpg/800px-HarsefeldKlosterfundamente.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HarsefeldKlosterfundamente.jpg/1200px-HarsefeldKlosterfundamente.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HarsefeldKlosterfundamente.jpg/1920px-HarsefeldKlosterfundamente.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HarsefeldKlosterfundamente.jpg/1920px-HarsefeldKlosterfundamente.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/400px-Nicolaikirche_Ostseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/800px-Nicolaikirche_Ostseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/1200px-Nicolaikirche_Ostseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/1920px-Nicolaikirche_Ostseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nicolaikirche_Ostseite.JPG/1920px-Nicolaikirche_Ostseite.JPG
+---
 
 ## Overview
 

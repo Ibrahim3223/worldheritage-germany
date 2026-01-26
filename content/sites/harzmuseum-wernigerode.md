@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/400px-WR_Harzmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/800px-WR_Harzmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/1200px-WR_Harzmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/1920px-WR_Harzmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/WR_Harzmuseum.JPG/1920px-WR_Harzmuseum.JPG
+---
 
 ## Overview
 

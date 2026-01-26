@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/400px-Turelure-Lieschen,_Aachen,_Figuren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/800px-Turelure-Lieschen,_Aachen,_Figuren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/1200px-Turelure-Lieschen,_Aachen,_Figuren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/1920px-Turelure-Lieschen,_Aachen,_Figuren.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turelure-Lieschen,_Aachen,_Figuren.jpg/1920px-Turelure-Lieschen,_Aachen,_Figuren.jpg
+---
 
 ## Overview
 

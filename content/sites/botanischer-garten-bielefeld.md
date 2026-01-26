@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/400px-Botanischer_Garten_Bielefeld_im_Juli..jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/800px-Botanischer_Garten_Bielefeld_im_Juli..jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/1200px-Botanischer_Garten_Bielefeld_im_Juli..jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/1920px-Botanischer_Garten_Bielefeld_im_Juli..jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer_Garten_Bielefeld_im_Juli..jpg/1920px-Botanischer_Garten_Bielefeld_im_Juli..jpg
+---
 
 ## Overview
 

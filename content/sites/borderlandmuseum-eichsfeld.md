@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/400px-Grenzlandmuseum_Teistungen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/800px-Grenzlandmuseum_Teistungen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1200px-Grenzlandmuseum_Teistungen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1920px-Grenzlandmuseum_Teistungen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1920px-Grenzlandmuseum_Teistungen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/400px-Altmühlsee12.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/800px-Altmühlsee12.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/1200px-Altmühlsee12.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/1920px-Altmühlsee12.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Altmühlsee12.JPG/1920px-Altmühlsee12.JPG
+---
 
 ## Overview
 

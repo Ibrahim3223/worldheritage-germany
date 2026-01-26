@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/400px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/800px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1200px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1920px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1920px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
+---
 
 ## Overview
 

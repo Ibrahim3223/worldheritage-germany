@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/400px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/800px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/1200px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/1920px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Huerth-Kalscheuren-DB-Bahnhof-002.JPG/1920px-Huerth-Kalscheuren-DB-Bahnhof-002.JPG
+---
 
 ## Overview
 

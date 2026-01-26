@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/400px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/800px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/1200px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/1920px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG/1920px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_107.JPG
+---
 
 ## Overview
 

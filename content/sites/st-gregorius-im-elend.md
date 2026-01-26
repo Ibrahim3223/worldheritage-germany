@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/400px-St._Gregorius_im_Elend,_Köln-0398.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/800px-St._Gregorius_im_Elend,_Köln-0398.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/1200px-St._Gregorius_im_Elend,_Köln-0398.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/1920px-St._Gregorius_im_Elend,_Köln-0398.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St._Gregorius_im_Elend,_Köln-0398.jpg/1920px-St._Gregorius_im_Elend,_Köln-0398.jpg
+---
 
 ## Overview
 

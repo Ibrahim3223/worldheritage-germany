@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/400px-Schaustickerei_Haus01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/800px-Schaustickerei_Haus01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/1200px-Schaustickerei_Haus01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/1920px-Schaustickerei_Haus01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/1920px-Schaustickerei_Haus01.jpg
+---
 
 ## Overview
 

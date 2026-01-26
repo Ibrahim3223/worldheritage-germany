@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/400px-Schabringen_St._Ägidius_55.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/800px-Schabringen_St._Ägidius_55.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/1200px-Schabringen_St._Ägidius_55.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/1920px-Schabringen_St._Ägidius_55.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schabringen_St._Ägidius_55.jpg/1920px-Schabringen_St._Ägidius_55.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brennburg_14.jpg/400px-Brennburg_14.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brennburg_14.jpg/800px-Brennburg_14.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brennburg_14.jpg/1200px-Brennburg_14.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brennburg_14.jpg/1920px-Brennburg_14.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brennburg_14.jpg/1920px-Brennburg_14.jpg
+---
 
 ## Overview
 

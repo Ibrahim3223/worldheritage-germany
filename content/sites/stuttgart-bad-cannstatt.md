@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/400px-Bahnhof_Bad_Cannstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/800px-Bahnhof_Bad_Cannstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/1200px-Bahnhof_Bad_Cannstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/1920px-Bahnhof_Bad_Cannstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Bad_Cannstadt.jpg/1920px-Bahnhof_Bad_Cannstadt.jpg
+---
 
 ## Overview
 

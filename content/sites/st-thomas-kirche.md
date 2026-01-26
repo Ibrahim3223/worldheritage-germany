@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/400px-Kirche_in_Damshagen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/800px-Kirche_in_Damshagen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/1200px-Kirche_in_Damshagen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/1920px-Kirche_in_Damshagen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kirche_in_Damshagen.JPG/1920px-Kirche_in_Damshagen.JPG
+---
 
 ## Overview
 

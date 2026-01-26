@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/400px-Oeoemrang_hues.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/800px-Oeoemrang_hues.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/1200px-Oeoemrang_hues.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/1920px-Oeoemrang_hues.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oeoemrang_hues.jpg/1920px-Oeoemrang_hues.jpg
+---
 
 ## Overview
 

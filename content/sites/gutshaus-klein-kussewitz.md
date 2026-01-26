@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/400px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/800px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/1200px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/1920px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG/1920px-Klein_Kussewitz_Guthaus_Schloss_K_Vorderansicht.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/400px-Kunsthalle_Emden_Eingangsbereich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/800px-Kunsthalle_Emden_Eingangsbereich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/1200px-Kunsthalle_Emden_Eingangsbereich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/1920px-Kunsthalle_Emden_Eingangsbereich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kunsthalle_Emden_Eingangsbereich.jpg/1920px-Kunsthalle_Emden_Eingangsbereich.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/400px-Westermarkelsdorf_lighthouse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/800px-Westermarkelsdorf_lighthouse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/1200px-Westermarkelsdorf_lighthouse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/1920px-Westermarkelsdorf_lighthouse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Westermarkelsdorf_lighthouse.jpg/1920px-Westermarkelsdorf_lighthouse.jpg
+---
 
 ## Overview
 

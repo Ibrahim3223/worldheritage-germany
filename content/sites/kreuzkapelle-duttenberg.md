@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BFH_Kreuzkapelle_Duttenberg4.jpg/400px-BFH_Kreuzkapelle_Duttenberg4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BFH_Kreuzkapelle_Duttenberg4.jpg/800px-BFH_Kreuzkapelle_Duttenberg4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BFH_Kreuzkapelle_Duttenberg4.jpg/1200px-BFH_Kreuzkapelle_Duttenberg4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BFH_Kreuzkapelle_Duttenberg4.jpg/1920px-BFH_Kreuzkapelle_Duttenberg4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BFH_Kreuzkapelle_Duttenberg4.jpg/1920px-BFH_Kreuzkapelle_Duttenberg4.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/400px-Öhringen_Synagoge.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/800px-Öhringen_Synagoge.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/1200px-Öhringen_Synagoge.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/1920px-Öhringen_Synagoge.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Öhringen_Synagoge.JPG/1920px-Öhringen_Synagoge.JPG
+---
 
 ## Overview
 

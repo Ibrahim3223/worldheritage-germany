@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/400px-Eickendorf_Museum_Vorderseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/800px-Eickendorf_Museum_Vorderseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/1200px-Eickendorf_Museum_Vorderseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/1920px-Eickendorf_Museum_Vorderseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Eickendorf_Museum_Vorderseite.JPG/1920px-Eickendorf_Museum_Vorderseite.JPG
+---
 
 ## Overview
 

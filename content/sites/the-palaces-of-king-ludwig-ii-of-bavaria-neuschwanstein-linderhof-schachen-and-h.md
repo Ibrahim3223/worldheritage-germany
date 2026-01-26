@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schwangau_-_Schloss_Neuschwanstein_(b).JPG/400px-Schwangau_-_Schloss_Neuschwanstein_(b).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schwangau_-_Schloss_Neuschwanstein_(b).JPG/800px-Schwangau_-_Schloss_Neuschwanstein_(b).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schwangau_-_Schloss_Neuschwanstein_(b).JPG/1200px-Schwangau_-_Schloss_Neuschwanstein_(b).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schwangau_-_Schloss_Neuschwanstein_(b).JPG/1920px-Schwangau_-_Schloss_Neuschwanstein_(b).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Schwangau_-_Schloss_Neuschwanstein_(b).JPG/1920px-Schwangau_-_Schloss_Neuschwanstein_(b).JPG
+---
 
 ## Overview
 

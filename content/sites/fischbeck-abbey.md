@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/400px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/800px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1200px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1920px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1920px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
+---
 
 ## Overview
 

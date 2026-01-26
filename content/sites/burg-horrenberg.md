@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/400px-Horrenberg_Burg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/800px-Horrenberg_Burg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/1200px-Horrenberg_Burg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/1920px-Horrenberg_Burg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Horrenberg_Burg.jpg/1920px-Horrenberg_Burg.jpg
+---
 
 ## Overview
 

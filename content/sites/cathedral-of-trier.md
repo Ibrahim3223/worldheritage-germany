@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/400px-Dom_und_Liebfrauen_Trier.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/800px-Dom_und_Liebfrauen_Trier.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/1200px-Dom_und_Liebfrauen_Trier.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/1920px-Dom_und_Liebfrauen_Trier.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dom_und_Liebfrauen_Trier.jpg/1920px-Dom_und_Liebfrauen_Trier.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/400px-ChurchWeenerRefGeorg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/800px-ChurchWeenerRefGeorg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/1200px-ChurchWeenerRefGeorg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/1920px-ChurchWeenerRefGeorg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ChurchWeenerRefGeorg.jpg/1920px-ChurchWeenerRefGeorg.jpg
+---
 
 ## Overview
 

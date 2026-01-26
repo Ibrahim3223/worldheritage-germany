@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/400px-Synagoge_Rexingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/800px-Synagoge_Rexingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/1200px-Synagoge_Rexingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/1920px-Synagoge_Rexingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Synagoge_Rexingen.jpg/1920px-Synagoge_Rexingen.jpg
+---
 
 ## Overview
 

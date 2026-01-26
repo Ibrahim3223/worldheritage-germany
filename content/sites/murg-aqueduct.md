@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/400px-Stampfbetonbrücke-Murg_IMGP2346.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/800px-Stampfbetonbrücke-Murg_IMGP2346.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/1200px-Stampfbetonbrücke-Murg_IMGP2346.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/1920px-Stampfbetonbrücke-Murg_IMGP2346.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stampfbetonbrücke-Murg_IMGP2346.jpg/1920px-Stampfbetonbrücke-Murg_IMGP2346.jpg
+---
 
 ## Overview
 

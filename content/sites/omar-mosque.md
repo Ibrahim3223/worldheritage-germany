@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/400px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/800px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/1200px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/1920px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg/1920px-Moschee_Masjid_Omar,_Düsseldorf,_Adersstraße,_2018_(5).jpg
+---
 
 ## Overview
 

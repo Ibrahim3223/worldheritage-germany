@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/400px-Duerrenzimmern-kirche-web.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/800px-Duerrenzimmern-kirche-web.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/1200px-Duerrenzimmern-kirche-web.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/1920px-Duerrenzimmern-kirche-web.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Duerrenzimmern-kirche-web.jpg/1920px-Duerrenzimmern-kirche-web.jpg
+---
 
 ## Overview
 

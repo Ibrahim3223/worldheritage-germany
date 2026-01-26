@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/400px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/800px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/1200px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/1920px-Sieberstollen_und_Grünhirscher_Stollen.svg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sieberstollen_und_Grünhirscher_Stollen.svg/1920px-Sieberstollen_und_Grünhirscher_Stollen.svg.png
+---
 
 ## Overview
 

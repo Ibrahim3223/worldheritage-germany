@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg/400px-Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg/800px-Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg/1200px-Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg/1920px-Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg/1920px-Kirchhof_nikolassee_berlin_2018-04-01_(32).jpg
+---
 
 ## Overview
 

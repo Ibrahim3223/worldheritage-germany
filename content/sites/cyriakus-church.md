@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/400px-Braunschweig_Cyriakuskirche_2015-4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/800px-Braunschweig_Cyriakuskirche_2015-4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/1200px-Braunschweig_Cyriakuskirche_2015-4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/1920px-Braunschweig_Cyriakuskirche_2015-4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Braunschweig_Cyriakuskirche_2015-4.jpg/1920px-Braunschweig_Cyriakuskirche_2015-4.jpg
+---
 
 ## Overview
 

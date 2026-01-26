@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/400px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/800px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/1200px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/1920px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG/1920px-Schleswig-Holstein,_Kellinghusen_Kulturdenkmal_NIK_8556.JPG
+---
 
 ## Overview
 

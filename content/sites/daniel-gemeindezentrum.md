@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/400px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/800px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/1200px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/1920px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg/1920px-Daniel-Gemeindezentrum_(Berlin-Wilmersdorf).jpg
+---
 
 ## Overview
 

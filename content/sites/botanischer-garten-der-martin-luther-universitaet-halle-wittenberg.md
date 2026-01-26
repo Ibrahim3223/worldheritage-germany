@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Botanischespanorama-2.jpg/400px-Botanischespanorama-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Botanischespanorama-2.jpg/800px-Botanischespanorama-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Botanischespanorama-2.jpg/1200px-Botanischespanorama-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Botanischespanorama-2.jpg/1920px-Botanischespanorama-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Botanischespanorama-2.jpg/1920px-Botanischespanorama-2.jpg
+---
 
 ## Overview
 

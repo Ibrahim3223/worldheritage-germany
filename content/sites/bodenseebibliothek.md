@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/400px-Bodenseebibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/800px-Bodenseebibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/1200px-Bodenseebibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/1920px-Bodenseebibliothek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bodenseebibliothek.jpg/1920px-Bodenseebibliothek.jpg
+---
 
 ## Overview
 

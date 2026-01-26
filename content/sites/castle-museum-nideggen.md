@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/400px-BurgNideggen_Wohnturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/800px-BurgNideggen_Wohnturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/1200px-BurgNideggen_Wohnturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/1920px-BurgNideggen_Wohnturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BurgNideggen_Wohnturm.jpg/1920px-BurgNideggen_Wohnturm.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/400px-Zeche_arenberg_fortsetzung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/800px-Zeche_arenberg_fortsetzung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/1200px-Zeche_arenberg_fortsetzung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/1920px-Zeche_arenberg_fortsetzung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zeche_arenberg_fortsetzung.jpg/1920px-Zeche_arenberg_fortsetzung.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/400px-Fruchtkasten_und_Schillerdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/800px-Fruchtkasten_und_Schillerdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/1200px-Fruchtkasten_und_Schillerdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/1920px-Fruchtkasten_und_Schillerdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fruchtkasten_und_Schillerdenkmal.jpg/1920px-Fruchtkasten_und_Schillerdenkmal.jpg
+---
 
 ## Overview
 

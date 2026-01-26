@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/400px-Altonaer_Balkon_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/800px-Altonaer_Balkon_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/1200px-Altonaer_Balkon_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/1920px-Altonaer_Balkon_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altonaer_Balkon_(1).jpg/1920px-Altonaer_Balkon_(1).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/400px-Arrestzellen_Neuengamme.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/800px-Arrestzellen_Neuengamme.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/1200px-Arrestzellen_Neuengamme.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/1920px-Arrestzellen_Neuengamme.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arrestzellen_Neuengamme.jpg/1920px-Arrestzellen_Neuengamme.jpg
+---
 
 ## Overview
 

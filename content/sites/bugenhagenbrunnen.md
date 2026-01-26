@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hildesbuganz.jpg/400px-Hildesbuganz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hildesbuganz.jpg/800px-Hildesbuganz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hildesbuganz.jpg/1200px-Hildesbuganz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hildesbuganz.jpg/1920px-Hildesbuganz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hildesbuganz.jpg/1920px-Hildesbuganz.jpg
+---
 
 ## Overview
 

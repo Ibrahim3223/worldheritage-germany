@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/400px-Burg_Geretzhoven_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/800px-Burg_Geretzhoven_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/1200px-Burg_Geretzhoven_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/1920px-Burg_Geretzhoven_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Geretzhoven_04.jpg/1920px-Burg_Geretzhoven_04.jpg
+---
 
 ## Overview
 

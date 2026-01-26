@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/400px-Postkarte_Haus_Rechen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/800px-Postkarte_Haus_Rechen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/1200px-Postkarte_Haus_Rechen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/1920px-Postkarte_Haus_Rechen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Postkarte_Haus_Rechen.jpg/1920px-Postkarte_Haus_Rechen.jpg
+---
 
 ## Overview
 

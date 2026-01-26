@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/400px-IMG_0503_Burg_Gewölbesaal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/800px-IMG_0503_Burg_Gewölbesaal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/1200px-IMG_0503_Burg_Gewölbesaal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/1920px-IMG_0503_Burg_Gewölbesaal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/IMG_0503_Burg_Gewölbesaal.JPG/1920px-IMG_0503_Burg_Gewölbesaal.JPG
+---
 
 ## Overview
 

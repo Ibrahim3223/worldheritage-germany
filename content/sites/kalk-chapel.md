@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kalker_Kapelle,_Köln-Kalk_-_7355.jpg/400px-Kalker_Kapelle,_Köln-Kalk_-_7355.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kalker_Kapelle,_Köln-Kalk_-_7355.jpg/800px-Kalker_Kapelle,_Köln-Kalk_-_7355.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kalker_Kapelle,_Köln-Kalk_-_7355.jpg/1200px-Kalker_Kapelle,_Köln-Kalk_-_7355.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kalker_Kapelle,_Köln-Kalk_-_7355.jpg/1920px-Kalker_Kapelle,_Köln-Kalk_-_7355.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kalker_Kapelle,_Köln-Kalk_-_7355.jpg/1920px-Kalker_Kapelle,_Köln-Kalk_-_7355.jpg
+---
 
 ## Overview
 

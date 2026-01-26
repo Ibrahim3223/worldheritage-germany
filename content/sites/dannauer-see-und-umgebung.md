@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/400px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/800px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/1200px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/1920px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NSG_Dannauer_See_und_Umgebung_2016_4.JPG/1920px-NSG_Dannauer_See_und_Umgebung_2016_4.JPG
+---
 
 ## Overview
 

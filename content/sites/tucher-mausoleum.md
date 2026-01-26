@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/400px-Simmelsdorf_Tucher-Mausoleum_002.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/800px-Simmelsdorf_Tucher-Mausoleum_002.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/1200px-Simmelsdorf_Tucher-Mausoleum_002.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/1920px-Simmelsdorf_Tucher-Mausoleum_002.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Simmelsdorf_Tucher-Mausoleum_002.JPG/1920px-Simmelsdorf_Tucher-Mausoleum_002.JPG
+---
 
 ## Overview
 

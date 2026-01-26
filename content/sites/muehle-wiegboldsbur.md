@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/400px-Muehle_Wiegboldsbur80.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/800px-Muehle_Wiegboldsbur80.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/1200px-Muehle_Wiegboldsbur80.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/1920px-Muehle_Wiegboldsbur80.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Muehle_Wiegboldsbur80.jpg/1920px-Muehle_Wiegboldsbur80.jpg
+---
 
 ## Overview
 

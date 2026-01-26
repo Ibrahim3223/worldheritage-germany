@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/400px-Hooksiel_Strand.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/800px-Hooksiel_Strand.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/1200px-Hooksiel_Strand.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/1920px-Hooksiel_Strand.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hooksiel_Strand.jpg/1920px-Hooksiel_Strand.jpg
+---
 
 ## Overview
 

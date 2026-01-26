@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/400px-Aachen_Couvenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/800px-Aachen_Couvenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1200px-Aachen_Couvenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1920px-Aachen_Couvenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1920px-Aachen_Couvenmuseum.jpg
+---
 
 ## Overview
 

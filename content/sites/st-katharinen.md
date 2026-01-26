@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St._Katharinen_Halle_(Ammendorf)_001.JPG/400px-St._Katharinen_Halle_(Ammendorf)_001.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St._Katharinen_Halle_(Ammendorf)_001.JPG/800px-St._Katharinen_Halle_(Ammendorf)_001.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St._Katharinen_Halle_(Ammendorf)_001.JPG/1200px-St._Katharinen_Halle_(Ammendorf)_001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St._Katharinen_Halle_(Ammendorf)_001.JPG/1920px-St._Katharinen_Halle_(Ammendorf)_001.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/St._Katharinen_Halle_(Ammendorf)_001.JPG/1920px-St._Katharinen_Halle_(Ammendorf)_001.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/400px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/800px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/1200px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/1920px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG/1920px-Weltenburg,_Klosterkirche_St_Georg_und_Martin_(102).JPG
+---
 
 ## Overview
 

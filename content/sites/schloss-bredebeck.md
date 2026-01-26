@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/400px-Schloss_Bredebeck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/800px-Schloss_Bredebeck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/1200px-Schloss_Bredebeck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/1920px-Schloss_Bredebeck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Schloss_Bredebeck.jpg/1920px-Schloss_Bredebeck.jpg
+---
 
 ## Overview
 

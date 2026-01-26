@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg/400px-Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg/800px-Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg/1200px-Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg/1920px-Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg/1920px-Goldener_Riss_-_Mahnmal_für_den_Anschlag_auf_den_Weihnachtsmarkt_auf_dem_Breitscheidplatz_in_Berlin_04.jpg
+---
 
 ## Overview
 

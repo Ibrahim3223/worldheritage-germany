@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/400px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/800px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/1200px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/1920px-Wilhelmstein_Steinhuder_Meer_Eins.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wilhelmstein_Steinhuder_Meer_Eins.jpg/1920px-Wilhelmstein_Steinhuder_Meer_Eins.jpg
+---
 
 ## Overview
 

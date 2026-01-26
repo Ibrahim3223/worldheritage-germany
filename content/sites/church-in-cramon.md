@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/400px-Cramon_Kirche_2008-11-13_010.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/800px-Cramon_Kirche_2008-11-13_010.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/1200px-Cramon_Kirche_2008-11-13_010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/1920px-Cramon_Kirche_2008-11-13_010.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/1920px-Cramon_Kirche_2008-11-13_010.jpg
+---
 
 ## Overview
 

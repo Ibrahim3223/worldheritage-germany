@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/400px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/800px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/1200px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/1920px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg/1920px-.00_1918_Kulturkirche_St.-Jakobi-Kirche_in_Stralsund.jpg
+---
 
 ## Overview
 

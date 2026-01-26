@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/400px-Kitzingen,_Kapuzinergasse_19,_004.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/800px-Kitzingen,_Kapuzinergasse_19,_004.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/1200px-Kitzingen,_Kapuzinergasse_19,_004.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/1920px-Kitzingen,_Kapuzinergasse_19,_004.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kitzingen,_Kapuzinergasse_19,_004.jpg/1920px-Kitzingen,_Kapuzinergasse_19,_004.jpg
+---
 
 ## Overview
 

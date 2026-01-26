@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/400px-ChurchMarienchor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/800px-ChurchMarienchor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/1200px-ChurchMarienchor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/1920px-ChurchMarienchor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ChurchMarienchor.jpg/1920px-ChurchMarienchor.jpg
+---
 
 ## Overview
 

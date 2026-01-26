@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/400px-Mannhagen_NSG_Mannhagener_Moor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/800px-Mannhagen_NSG_Mannhagener_Moor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/1200px-Mannhagen_NSG_Mannhagener_Moor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/1920px-Mannhagen_NSG_Mannhagener_Moor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mannhagen_NSG_Mannhagener_Moor.jpg/1920px-Mannhagen_NSG_Mannhagener_Moor.jpg
+---
 
 ## Overview
 

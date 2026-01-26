@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/400px-Leuchtturm_Neuland_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/800px-Leuchtturm_Neuland_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/1200px-Leuchtturm_Neuland_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/1920px-Leuchtturm_Neuland_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Leuchtturm_Neuland_1.jpg/1920px-Leuchtturm_Neuland_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/400px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/800px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/1200px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/1920px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg/1920px-Nikolsburger_Platz_5_Berlin-Wilmersdorf.jpg
+---
 
 ## Overview
 

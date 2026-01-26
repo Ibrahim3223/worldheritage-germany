@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/400px-Pomertstein01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/800px-Pomertstein01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/1200px-Pomertstein01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/1920px-Pomertstein01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pomertstein01.JPG/1920px-Pomertstein01.JPG
+---
 
 ## Overview
 

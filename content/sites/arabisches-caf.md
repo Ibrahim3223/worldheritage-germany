@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/400px-Arabische_Cafe_(V-1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/800px-Arabische_Cafe_(V-1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/1200px-Arabische_Cafe_(V-1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/1920px-Arabische_Cafe_(V-1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arabische_Cafe_(V-1).jpg/1920px-Arabische_Cafe_(V-1).jpg
+---
 
 ## Overview
 

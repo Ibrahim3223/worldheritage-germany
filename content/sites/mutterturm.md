@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/400px-Mutterturm_Landsberg_(GER).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/800px-Mutterturm_Landsberg_(GER).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/1200px-Mutterturm_Landsberg_(GER).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/1920px-Mutterturm_Landsberg_(GER).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mutterturm_Landsberg_(GER).jpg/1920px-Mutterturm_Landsberg_(GER).jpg
+---
 
 ## Overview
 

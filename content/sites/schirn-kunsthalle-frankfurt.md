@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schirn1.jpg/400px-Schirn1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schirn1.jpg/800px-Schirn1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schirn1.jpg/1200px-Schirn1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schirn1.jpg/1920px-Schirn1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Schirn1.jpg/1920px-Schirn1.jpg
+---
 
 ## Overview
 

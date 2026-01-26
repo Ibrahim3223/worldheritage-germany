@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Halle_Herz-Jesu-Kirche.jpg/400px-Halle_Herz-Jesu-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Halle_Herz-Jesu-Kirche.jpg/800px-Halle_Herz-Jesu-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Halle_Herz-Jesu-Kirche.jpg/1200px-Halle_Herz-Jesu-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Halle_Herz-Jesu-Kirche.jpg/1920px-Halle_Herz-Jesu-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Halle_Herz-Jesu-Kirche.jpg/1920px-Halle_Herz-Jesu-Kirche.jpg
+---
 
 ## Overview
 

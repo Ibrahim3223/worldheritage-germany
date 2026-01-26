@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/400px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/800px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/1200px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/1920px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg/1920px-Lörrach_-_Wissenschaftliche_Regionalbibliothek.jpg
+---
 
 ## Overview
 

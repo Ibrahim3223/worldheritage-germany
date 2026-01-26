@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/400px-Burg_Krosigk_4.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/800px-Burg_Krosigk_4.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/1200px-Burg_Krosigk_4.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/1920px-Burg_Krosigk_4.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Krosigk_4.jpg/1920px-Burg_Krosigk_4.jpg
+---
 
 ## Overview
 

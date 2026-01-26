@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/400px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/800px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1200px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1920px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1920px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/400px-Aschersleben_Zoo_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/800px-Aschersleben_Zoo_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/1200px-Aschersleben_Zoo_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/1920px-Aschersleben_Zoo_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aschersleben_Zoo_Eingang.JPG/1920px-Aschersleben_Zoo_Eingang.JPG
+---
 
 ## Overview
 

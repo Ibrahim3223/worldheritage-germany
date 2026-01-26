@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/400px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/800px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1200px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1920px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1920px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
+---
 
 ## Overview
 

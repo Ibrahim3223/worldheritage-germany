@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/400px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/800px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/1200px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/1920px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg/1920px-Leverkusen_-_Freudenthaler_Sensenhammer_15_ies.jpg
+---
 
 ## Overview
 

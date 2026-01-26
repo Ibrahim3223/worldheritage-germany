@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Köln_-_Eisenmarkt_-_Willy_01_ies.jpg/400px-Köln_-_Eisenmarkt_-_Willy_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Köln_-_Eisenmarkt_-_Willy_01_ies.jpg/800px-Köln_-_Eisenmarkt_-_Willy_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Köln_-_Eisenmarkt_-_Willy_01_ies.jpg/1200px-Köln_-_Eisenmarkt_-_Willy_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Köln_-_Eisenmarkt_-_Willy_01_ies.jpg/1920px-Köln_-_Eisenmarkt_-_Willy_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Köln_-_Eisenmarkt_-_Willy_01_ies.jpg/1920px-Köln_-_Eisenmarkt_-_Willy_01_ies.jpg
+---
 
 ## Overview
 

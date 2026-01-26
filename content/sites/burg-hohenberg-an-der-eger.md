@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/400px-Burg_Hohenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/800px-Burg_Hohenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/1200px-Burg_Hohenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/1920px-Burg_Hohenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Hohenberg.jpg/1920px-Burg_Hohenberg.jpg
+---
 
 ## Overview
 

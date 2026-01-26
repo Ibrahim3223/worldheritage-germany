@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/400px-Bf_Schwaebisch_Gmuend_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/800px-Bf_Schwaebisch_Gmuend_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/1200px-Bf_Schwaebisch_Gmuend_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/1920px-Bf_Schwaebisch_Gmuend_2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bf_Schwaebisch_Gmuend_2008.jpg/1920px-Bf_Schwaebisch_Gmuend_2008.jpg
+---
 
 ## Overview
 

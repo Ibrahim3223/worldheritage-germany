@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/400px-Eberstadt262006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/800px-Eberstadt262006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1200px-Eberstadt262006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1920px-Eberstadt262006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1920px-Eberstadt262006.jpg
+---
 
 ## Overview
 

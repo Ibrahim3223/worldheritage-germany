@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/400px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/800px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/1200px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/1920px-St._Karl_Borromäus_(Berlin-Grunewald).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Karl_Borromäus_(Berlin-Grunewald).jpg/1920px-St._Karl_Borromäus_(Berlin-Grunewald).jpg
+---
 
 ## Overview
 

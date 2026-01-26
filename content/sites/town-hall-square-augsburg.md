@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg/400px-Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg/800px-Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg/1200px-Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg/1920px-Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg/1920px-Plaza_del_Ayuntamiento,_Augsburgo,_Alemania,_2021-06-04,_DD_32-34_HDR.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/400px-AnglikanischeKircheWiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/800px-AnglikanischeKircheWiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1200px-AnglikanischeKircheWiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1920px-AnglikanischeKircheWiesbaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1920px-AnglikanischeKircheWiesbaden.jpg
+---
 
 ## Overview
 

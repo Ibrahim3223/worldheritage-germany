@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/400px-Eutin_-_Ostholstein-Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/800px-Eutin_-_Ostholstein-Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/1200px-Eutin_-_Ostholstein-Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/1920px-Eutin_-_Ostholstein-Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eutin_-_Ostholstein-Museum.JPG/1920px-Eutin_-_Ostholstein-Museum.JPG
+---
 
 ## Overview
 

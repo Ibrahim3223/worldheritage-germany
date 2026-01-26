@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/400px-Ostbahnhof_frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/800px-Ostbahnhof_frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1200px-Ostbahnhof_frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1920px-Ostbahnhof_frankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1920px-Ostbahnhof_frankfurt.jpg
+---
 
 ## Overview
 

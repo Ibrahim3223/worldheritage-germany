@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rheinschleife_am_Zonser_Grind.jpg/400px-Rheinschleife_am_Zonser_Grind.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rheinschleife_am_Zonser_Grind.jpg/800px-Rheinschleife_am_Zonser_Grind.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rheinschleife_am_Zonser_Grind.jpg/1200px-Rheinschleife_am_Zonser_Grind.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rheinschleife_am_Zonser_Grind.jpg/1920px-Rheinschleife_am_Zonser_Grind.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rheinschleife_am_Zonser_Grind.jpg/1920px-Rheinschleife_am_Zonser_Grind.jpg
+---
 
 ## Overview
 

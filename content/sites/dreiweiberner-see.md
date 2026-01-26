@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/400px-Dreiweiberner-See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/800px-Dreiweiberner-See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/1200px-Dreiweiberner-See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/1920px-Dreiweiberner-See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dreiweiberner-See.jpg/1920px-Dreiweiberner-See.jpg
+---
 
 ## Overview
 

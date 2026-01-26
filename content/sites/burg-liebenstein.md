@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/400px-Liebenstein-von-norden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/800px-Liebenstein-von-norden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/1200px-Liebenstein-von-norden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/1920px-Liebenstein-von-norden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liebenstein-von-norden.jpg/1920px-Liebenstein-von-norden.jpg
+---
 
 ## Overview
 

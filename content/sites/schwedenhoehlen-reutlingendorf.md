@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Information_Schwedenhöhlen_Reutlingendorf.jpg/400px-Information_Schwedenhöhlen_Reutlingendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Information_Schwedenhöhlen_Reutlingendorf.jpg/800px-Information_Schwedenhöhlen_Reutlingendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Information_Schwedenhöhlen_Reutlingendorf.jpg/1200px-Information_Schwedenhöhlen_Reutlingendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Information_Schwedenhöhlen_Reutlingendorf.jpg/1920px-Information_Schwedenhöhlen_Reutlingendorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Information_Schwedenhöhlen_Reutlingendorf.jpg/1920px-Information_Schwedenhöhlen_Reutlingendorf.jpg
+---
 
 ## Overview
 

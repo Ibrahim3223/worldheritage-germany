@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/400px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/800px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/1200px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/1920px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bamberg,_Karolinenstraße_6,_20150911-001.jpg/1920px-Bamberg,_Karolinenstraße_6,_20150911-001.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/400px-Maison_ernst_jünger_wilflingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/800px-Maison_ernst_jünger_wilflingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1200px-Maison_ernst_jünger_wilflingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1920px-Maison_ernst_jünger_wilflingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1920px-Maison_ernst_jünger_wilflingen.jpg
+---
 
 ## Overview
 

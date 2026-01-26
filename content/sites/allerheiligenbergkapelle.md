@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/400px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/800px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/1200px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/1920px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Allerheiligenbergkapelle_Niederlahnstein_2022.jpg/1920px-Allerheiligenbergkapelle_Niederlahnstein_2022.jpg
+---
 
 ## Overview
 

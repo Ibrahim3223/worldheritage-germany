@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/400px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/800px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/1200px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/1920px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg/1920px-Itzehoe,_Germany_-_Wenzel_Hablik_Museum-3.jpg
+---
 
 ## Overview
 

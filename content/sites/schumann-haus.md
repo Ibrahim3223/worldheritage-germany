@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/400px-Leipzig_Schumann-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/800px-Leipzig_Schumann-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/1200px-Leipzig_Schumann-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/1920px-Leipzig_Schumann-Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Leipzig_Schumann-Haus.jpg/1920px-Leipzig_Schumann-Haus.jpg
+---
 
 ## Overview
 

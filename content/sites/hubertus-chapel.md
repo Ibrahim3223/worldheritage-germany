@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/400px-HubertuskapelleOstrachtal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/800px-HubertuskapelleOstrachtal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/1200px-HubertuskapelleOstrachtal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/1920px-HubertuskapelleOstrachtal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/HubertuskapelleOstrachtal.jpg/1920px-HubertuskapelleOstrachtal.jpg
+---
 
 ## Overview
 

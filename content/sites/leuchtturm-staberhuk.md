@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/400px-Fehmarn_Staberhuk_Leuchtturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/800px-Fehmarn_Staberhuk_Leuchtturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/1200px-Fehmarn_Staberhuk_Leuchtturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/1920px-Fehmarn_Staberhuk_Leuchtturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fehmarn_Staberhuk_Leuchtturm.jpg/1920px-Fehmarn_Staberhuk_Leuchtturm.jpg
+---
 
 ## Overview
 

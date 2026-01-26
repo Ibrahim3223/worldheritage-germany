@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/400px-Dom-museum-domschatz-2014--ffm-646.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/800px-Dom-museum-domschatz-2014--ffm-646.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/1200px-Dom-museum-domschatz-2014--ffm-646.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/1920px-Dom-museum-domschatz-2014--ffm-646.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dom-museum-domschatz-2014--ffm-646.jpg/1920px-Dom-museum-domschatz-2014--ffm-646.jpg
+---
 
 ## Overview
 

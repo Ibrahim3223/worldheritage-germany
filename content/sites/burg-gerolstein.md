@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/400px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/800px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1200px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1920px-Löwenburg_Gerolstein_2012_Schildmauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1920px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
+---
 
 ## Overview
 

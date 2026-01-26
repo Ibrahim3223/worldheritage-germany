@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/400px-Ratingen_peterundpaul_markttag.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/800px-Ratingen_peterundpaul_markttag.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/1200px-Ratingen_peterundpaul_markttag.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/1920px-Ratingen_peterundpaul_markttag.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ratingen_peterundpaul_markttag.jpg/1920px-Ratingen_peterundpaul_markttag.jpg
+---
 
 ## Overview
 

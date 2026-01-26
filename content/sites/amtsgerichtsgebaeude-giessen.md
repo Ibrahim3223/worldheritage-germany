@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/400px-Amtsgericht_Gießen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/800px-Amtsgericht_Gießen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/1200px-Amtsgericht_Gießen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/1920px-Amtsgericht_Gießen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amtsgericht_Gießen.jpg/1920px-Amtsgericht_Gießen.jpg
+---
 
 ## Overview
 

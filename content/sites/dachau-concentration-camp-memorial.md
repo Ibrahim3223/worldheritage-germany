@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/400px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/800px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1200px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1920px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1920px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
+---
 
 ## Overview
 

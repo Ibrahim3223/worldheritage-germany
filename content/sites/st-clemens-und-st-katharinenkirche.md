@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/400px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/800px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/1200px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/1920px-Seedorf_RZ_Kirche_2011-07-16_046.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seedorf_RZ_Kirche_2011-07-16_046.JPG/1920px-Seedorf_RZ_Kirche_2011-07-16_046.JPG
+---
 
 ## Overview
 

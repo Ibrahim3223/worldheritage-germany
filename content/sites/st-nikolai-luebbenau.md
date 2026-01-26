@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/400px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/800px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/1200px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/1920px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg/1920px-Spreewald_04-2016_img10_Nikolaikirche_Luebbenau.jpg
+---
 
 ## Overview
 

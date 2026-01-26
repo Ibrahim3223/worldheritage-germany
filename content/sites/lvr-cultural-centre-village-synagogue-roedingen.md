@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/400px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/800px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/1200px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/1920px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg/1920px-Titz-Rödingen_Denkmal-Nr._90,_Mühlenend_1_(1745).jpg
+---
 
 ## Overview
 

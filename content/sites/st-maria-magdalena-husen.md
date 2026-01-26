@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/400px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/800px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/1200px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/1920px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg/1920px-Lichtenau_-_2025-09-17_-_St_Maria_Magdalena_(DSC_6872).jpg
+---
 
 ## Overview
 

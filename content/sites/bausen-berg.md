@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/400px-Bausenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/800px-Bausenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/1200px-Bausenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/1920px-Bausenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bausenberg.jpg/1920px-Bausenberg.jpg
+---
 
 ## Overview
 

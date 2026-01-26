@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/400px-Warbel-bei-Wasdow-04-07-2008-026.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/800px-Warbel-bei-Wasdow-04-07-2008-026.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/1200px-Warbel-bei-Wasdow-04-07-2008-026.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/1920px-Warbel-bei-Wasdow-04-07-2008-026.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warbel-bei-Wasdow-04-07-2008-026.JPG/1920px-Warbel-bei-Wasdow-04-07-2008-026.JPG
+---
 
 ## Overview
 

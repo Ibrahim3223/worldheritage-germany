@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/400px-GeoForschungsZentrum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/800px-GeoForschungsZentrum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1200px-GeoForschungsZentrum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1920px-GeoForschungsZentrum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1920px-GeoForschungsZentrum.jpg
+---
 
 ## Overview
 

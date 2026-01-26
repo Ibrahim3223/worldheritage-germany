@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/400px-Charlottenhof_Essen-Kettwig.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/800px-Charlottenhof_Essen-Kettwig.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/1200px-Charlottenhof_Essen-Kettwig.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/1920px-Charlottenhof_Essen-Kettwig.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Charlottenhof_Essen-Kettwig.JPG/1920px-Charlottenhof_Essen-Kettwig.JPG
+---
 
 ## Overview
 

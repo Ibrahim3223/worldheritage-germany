@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/400px-Clausthal_StNikolaus_Innen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/800px-Clausthal_StNikolaus_Innen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/1200px-Clausthal_StNikolaus_Innen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/1920px-Clausthal_StNikolaus_Innen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clausthal_StNikolaus_Innen.jpg/1920px-Clausthal_StNikolaus_Innen.jpg
+---
 
 ## Overview
 

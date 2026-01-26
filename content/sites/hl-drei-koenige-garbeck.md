@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/400px-Balve-Garbeck-Kirche1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/800px-Balve-Garbeck-Kirche1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1200px-Balve-Garbeck-Kirche1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1920px-Balve-Garbeck-Kirche1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1920px-Balve-Garbeck-Kirche1-Asio.JPG
+---
 
 ## Overview
 

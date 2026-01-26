@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/400px-Bonn-Plittersdorf,_St._Evergislus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/800px-Bonn-Plittersdorf,_St._Evergislus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/1200px-Bonn-Plittersdorf,_St._Evergislus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/1920px-Bonn-Plittersdorf,_St._Evergislus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn-Plittersdorf,_St._Evergislus.JPG/1920px-Bonn-Plittersdorf,_St._Evergislus.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_old_town_hall_(3264573576).jpg/400px-The_old_town_hall_(3264573576).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_old_town_hall_(3264573576).jpg/800px-The_old_town_hall_(3264573576).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_old_town_hall_(3264573576).jpg/1200px-The_old_town_hall_(3264573576).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_old_town_hall_(3264573576).jpg/1920px-The_old_town_hall_(3264573576).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_old_town_hall_(3264573576).jpg/1920px-The_old_town_hall_(3264573576).jpg
+---
 
 ## Overview
 

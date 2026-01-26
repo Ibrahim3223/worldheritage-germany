@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/400px-Lindelskopf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/800px-Lindelskopf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/1200px-Lindelskopf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/1920px-Lindelskopf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lindelskopf.jpg/1920px-Lindelskopf.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/400px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/800px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/1200px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/1920px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg/1920px-Martin-Behaim-Denkmal_Theresienplatz_Juni_2010_17.jpg
+---
 
 ## Overview
 

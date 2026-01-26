@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2025-06-21_Fête_de_la_Musique_in_Hannover.jpg/400px-2025-06-21_Fête_de_la_Musique_in_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2025-06-21_Fête_de_la_Musique_in_Hannover.jpg/800px-2025-06-21_Fête_de_la_Musique_in_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2025-06-21_Fête_de_la_Musique_in_Hannover.jpg/1200px-2025-06-21_Fête_de_la_Musique_in_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2025-06-21_Fête_de_la_Musique_in_Hannover.jpg/1920px-2025-06-21_Fête_de_la_Musique_in_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2025-06-21_Fête_de_la_Musique_in_Hannover.jpg/1920px-2025-06-21_Fête_de_la_Musique_in_Hannover.jpg
+---
 
 ## Overview
 

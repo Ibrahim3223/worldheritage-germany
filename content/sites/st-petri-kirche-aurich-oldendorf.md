@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchAurichOldendorf.JPG/400px-ChurchAurichOldendorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchAurichOldendorf.JPG/800px-ChurchAurichOldendorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchAurichOldendorf.JPG/1200px-ChurchAurichOldendorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchAurichOldendorf.JPG/1920px-ChurchAurichOldendorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ChurchAurichOldendorf.JPG/1920px-ChurchAurichOldendorf.JPG
+---
 
 ## Overview
 

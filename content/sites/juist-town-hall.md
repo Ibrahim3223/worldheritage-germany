@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/400px-Juist,_Rathaus_--_2014_--_3584.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/800px-Juist,_Rathaus_--_2014_--_3584.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/1200px-Juist,_Rathaus_--_2014_--_3584.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/1920px-Juist,_Rathaus_--_2014_--_3584.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Juist,_Rathaus_--_2014_--_3584.jpg/1920px-Juist,_Rathaus_--_2014_--_3584.jpg
+---
 
 ## Overview
 

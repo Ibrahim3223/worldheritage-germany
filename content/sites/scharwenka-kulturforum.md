@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/400px-Bad_Saarow_Moorstraße_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/800px-Bad_Saarow_Moorstraße_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/1200px-Bad_Saarow_Moorstraße_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/1920px-Bad_Saarow_Moorstraße_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bad_Saarow_Moorstraße_3.jpg/1920px-Bad_Saarow_Moorstraße_3.jpg
+---
 
 ## Overview
 

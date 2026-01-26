@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/400px-Hemer-HausHemer1-Asio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/800px-Hemer-HausHemer1-Asio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/1200px-Hemer-HausHemer1-Asio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/1920px-Hemer-HausHemer1-Asio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hemer-HausHemer1-Asio.jpg/1920px-Hemer-HausHemer1-Asio.jpg
+---
 
 ## Overview
 

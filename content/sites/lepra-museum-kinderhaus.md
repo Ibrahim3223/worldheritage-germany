@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/400px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/800px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/1200px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/1920px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg/1920px-Münster,_Kinderhaus,_Heimat-_und_Lepramuseum_--_2019_--_3644.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/400px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/800px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/1200px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/1920px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg/1920px-Kaiserin-Augusta-Denkmal_11_Koblenz_2014.jpg
+---
 
 ## Overview
 

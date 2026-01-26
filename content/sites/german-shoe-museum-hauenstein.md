@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/400px-Deutsches_Schuhmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/800px-Deutsches_Schuhmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1200px-Deutsches_Schuhmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1920px-Deutsches_Schuhmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1920px-Deutsches_Schuhmuseum.jpg
+---
 
 ## Overview
 

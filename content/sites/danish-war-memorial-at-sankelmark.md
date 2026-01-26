@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/400px-20170429_130530_Oeversee_Sankelmark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/800px-20170429_130530_Oeversee_Sankelmark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/1200px-20170429_130530_Oeversee_Sankelmark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/1920px-20170429_130530_Oeversee_Sankelmark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20170429_130530_Oeversee_Sankelmark.jpg/1920px-20170429_130530_Oeversee_Sankelmark.jpg
+---
 
 ## Overview
 

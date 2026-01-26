@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/400px-Montagsloch_Essen,_Grugapark_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/800px-Montagsloch_Essen,_Grugapark_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/1200px-Montagsloch_Essen,_Grugapark_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/1920px-Montagsloch_Essen,_Grugapark_02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Montagsloch_Essen,_Grugapark_02.JPG/1920px-Montagsloch_Essen,_Grugapark_02.JPG
+---
 
 ## Overview
 

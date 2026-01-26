@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/400px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/800px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/1200px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/1920px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg/1920px-Holzwachturm_am_rätischen_Limes_(Rekonstruktion)_-_Wp12_77.jpg
+---
 
 ## Overview
 

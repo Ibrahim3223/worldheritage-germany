@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/400px-LandesdenkmalWI.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/800px-LandesdenkmalWI.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/1200px-LandesdenkmalWI.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/1920px-LandesdenkmalWI.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/LandesdenkmalWI.JPG/1920px-LandesdenkmalWI.JPG
+---
 
 ## Overview
 

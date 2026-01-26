@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/400px-Tschechow_Salon_Badenweiler_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/800px-Tschechow_Salon_Badenweiler_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/1200px-Tschechow_Salon_Badenweiler_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/1920px-Tschechow_Salon_Badenweiler_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tschechow_Salon_Badenweiler_1.JPG/1920px-Tschechow_Salon_Badenweiler_1.JPG
+---
 
 ## Overview
 

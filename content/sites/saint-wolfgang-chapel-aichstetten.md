@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aichstetten_Kapelle_St_Wolfgang.jpg/400px-Aichstetten_Kapelle_St_Wolfgang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aichstetten_Kapelle_St_Wolfgang.jpg/800px-Aichstetten_Kapelle_St_Wolfgang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aichstetten_Kapelle_St_Wolfgang.jpg/1200px-Aichstetten_Kapelle_St_Wolfgang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aichstetten_Kapelle_St_Wolfgang.jpg/1920px-Aichstetten_Kapelle_St_Wolfgang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aichstetten_Kapelle_St_Wolfgang.jpg/1920px-Aichstetten_Kapelle_St_Wolfgang.jpg
+---
 
 ## Overview
 

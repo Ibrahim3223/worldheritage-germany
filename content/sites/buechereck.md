@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/400px-Buechereck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/800px-Buechereck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/1200px-Buechereck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/1920px-Buechereck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Buechereck.jpg/1920px-Buechereck.jpg
+---
 
 ## Overview
 

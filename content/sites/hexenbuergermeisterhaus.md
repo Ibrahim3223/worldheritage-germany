@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lemgo_-_Breite_Straße_19_(2).jpg/400px-Lemgo_-_Breite_Straße_19_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lemgo_-_Breite_Straße_19_(2).jpg/800px-Lemgo_-_Breite_Straße_19_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lemgo_-_Breite_Straße_19_(2).jpg/1200px-Lemgo_-_Breite_Straße_19_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lemgo_-_Breite_Straße_19_(2).jpg/1920px-Lemgo_-_Breite_Straße_19_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lemgo_-_Breite_Straße_19_(2).jpg/1920px-Lemgo_-_Breite_Straße_19_(2).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/400px-Otto-Huus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/800px-Otto-Huus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/1200px-Otto-Huus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/1920px-Otto-Huus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Otto-Huus.jpg/1920px-Otto-Huus.jpg
+---
 
 ## Overview
 

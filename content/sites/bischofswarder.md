@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bosau1.jpg/400px-Bosau1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bosau1.jpg/800px-Bosau1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bosau1.jpg/1200px-Bosau1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bosau1.jpg/1920px-Bosau1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bosau1.jpg/1920px-Bosau1.jpg
+---
 
 ## Overview
 

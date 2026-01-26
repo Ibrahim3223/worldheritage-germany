@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ständehaus_Karlsruhe.jpg/400px-Ständehaus_Karlsruhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ständehaus_Karlsruhe.jpg/800px-Ständehaus_Karlsruhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ständehaus_Karlsruhe.jpg/1200px-Ständehaus_Karlsruhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ständehaus_Karlsruhe.jpg/1920px-Ständehaus_Karlsruhe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ständehaus_Karlsruhe.jpg/1920px-Ständehaus_Karlsruhe.jpg
+---
 
 ## Overview
 

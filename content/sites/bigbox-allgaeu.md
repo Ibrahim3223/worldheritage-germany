@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/400px-Bigboxkempten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/800px-Bigboxkempten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/1200px-Bigboxkempten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/1920px-Bigboxkempten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bigboxkempten.JPG/1920px-Bigboxkempten.JPG
+---
 
 ## Overview
 

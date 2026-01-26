@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/400px-PIR_Marienkirche_(04)_2006-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/800px-PIR_Marienkirche_(04)_2006-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/1200px-PIR_Marienkirche_(04)_2006-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/1920px-PIR_Marienkirche_(04)_2006-03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PIR_Marienkirche_(04)_2006-03.jpg/1920px-PIR_Marienkirche_(04)_2006-03.jpg
+---
 
 ## Overview
 

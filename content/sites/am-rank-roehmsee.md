@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/400px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/800px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/1200px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/1920px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/1920px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
+---
 
 ## Overview
 

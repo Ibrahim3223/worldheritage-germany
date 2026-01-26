@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/400px-Bentzin_Kirche_Südseite_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/800px-Bentzin_Kirche_Südseite_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1200px-Bentzin_Kirche_Südseite_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1920px-Bentzin_Kirche_Südseite_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1920px-Bentzin_Kirche_Südseite_01.jpg
+---
 
 ## Overview
 

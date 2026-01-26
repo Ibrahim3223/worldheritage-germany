@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/400px-Karl_May_Geburtshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/800px-Karl_May_Geburtshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/1200px-Karl_May_Geburtshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/1920px-Karl_May_Geburtshaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Karl_May_Geburtshaus.jpg/1920px-Karl_May_Geburtshaus.jpg
+---
 
 ## Overview
 

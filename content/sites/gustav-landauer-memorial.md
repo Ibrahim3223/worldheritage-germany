@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/400px-Memorial_Gustav_Landauer_2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/800px-Memorial_Gustav_Landauer_2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/1200px-Memorial_Gustav_Landauer_2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/1920px-Memorial_Gustav_Landauer_2019.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Memorial_Gustav_Landauer_2019.jpg/1920px-Memorial_Gustav_Landauer_2019.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/400px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/800px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/1200px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/1920px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg/1920px-Bundesarchiv_B_145_Bild-P014925,_Berlin,_Schloß_Monbijou.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/400px-2007-Dirmstein-LaumershStr21a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/800px-2007-Dirmstein-LaumershStr21a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/1200px-2007-Dirmstein-LaumershStr21a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/1920px-2007-Dirmstein-LaumershStr21a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2007-Dirmstein-LaumershStr21a.jpg/1920px-2007-Dirmstein-LaumershStr21a.jpg
+---
 
 ## Overview
 

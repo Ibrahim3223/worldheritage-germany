@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/400px-Kirchekirchditmold.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/800px-Kirchekirchditmold.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/1200px-Kirchekirchditmold.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/1920px-Kirchekirchditmold.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirchekirchditmold.JPG/1920px-Kirchekirchditmold.JPG
+---
 
 ## Overview
 

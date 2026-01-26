@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/400px-Worms_Liebfrauenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/800px-Worms_Liebfrauenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/1200px-Worms_Liebfrauenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/1920px-Worms_Liebfrauenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Worms_Liebfrauenkirche.jpg/1920px-Worms_Liebfrauenkirche.jpg
+---
 
 ## Overview
 

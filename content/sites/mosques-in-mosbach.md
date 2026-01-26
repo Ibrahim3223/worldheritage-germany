@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/400px-Mosbach_Moschee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/800px-Mosbach_Moschee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/1200px-Mosbach_Moschee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/1920px-Mosbach_Moschee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mosbach_Moschee.JPG/1920px-Mosbach_Moschee.JPG
+---
 
 ## Overview
 

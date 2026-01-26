@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/400px-Museum_Kölleda.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/800px-Museum_Kölleda.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/1200px-Museum_Kölleda.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/1920px-Museum_Kölleda.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museum_Kölleda.JPG/1920px-Museum_Kölleda.JPG
+---
 
 ## Overview
 

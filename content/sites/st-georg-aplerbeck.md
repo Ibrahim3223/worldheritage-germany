@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/400px-Aplerbeck_Kirche_St_Georg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/800px-Aplerbeck_Kirche_St_Georg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/1200px-Aplerbeck_Kirche_St_Georg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/1920px-Aplerbeck_Kirche_St_Georg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aplerbeck_Kirche_St_Georg.jpg/1920px-Aplerbeck_Kirche_St_Georg.jpg
+---
 
 ## Overview
 

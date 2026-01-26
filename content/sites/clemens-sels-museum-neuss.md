@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/400px-Clemens-Sels-Museum_und_Obertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/800px-Clemens-Sels-Museum_und_Obertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1200px-Clemens-Sels-Museum_und_Obertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1920px-Clemens-Sels-Museum_und_Obertor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1920px-Clemens-Sels-Museum_und_Obertor.jpg
+---
 
 ## Overview
 

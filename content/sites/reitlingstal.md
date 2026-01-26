@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/400px-Reitlingstal_Erkerode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/800px-Reitlingstal_Erkerode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/1200px-Reitlingstal_Erkerode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/1920px-Reitlingstal_Erkerode.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Reitlingstal_Erkerode.jpg/1920px-Reitlingstal_Erkerode.jpg
+---
 
 ## Overview
 

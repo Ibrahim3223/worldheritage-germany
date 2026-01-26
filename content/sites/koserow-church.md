@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/400px-Koserowkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/800px-Koserowkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1200px-Koserowkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1920px-Koserowkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Koserowkirche.jpg/1920px-Koserowkirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg/400px-Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg/800px-Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg/1200px-Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg/1920px-Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg/1920px-Freiburg_-_Blick_vom_Fahnenbergplatz_auf_Münster_1.jpg
+---
 
 ## Overview
 

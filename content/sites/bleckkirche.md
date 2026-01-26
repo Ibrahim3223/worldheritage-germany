@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/400px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/800px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1200px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1920px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1920px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
+---
 
 ## Overview
 

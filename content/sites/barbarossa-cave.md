@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/400px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/800px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/1200px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/1920px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/1920px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
+---
 
 ## Overview
 

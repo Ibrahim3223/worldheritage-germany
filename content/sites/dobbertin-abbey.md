@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/400px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/800px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1200px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1920px-Dobbertin_Klosterkirche_2009-10-20_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1920px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
+---
 
 ## Overview
 

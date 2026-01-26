@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/400px-PewsumerMühle-05072009.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/800px-PewsumerMühle-05072009.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/1200px-PewsumerMühle-05072009.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/1920px-PewsumerMühle-05072009.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PewsumerMühle-05072009.JPG/1920px-PewsumerMühle-05072009.JPG
+---
 
 ## Overview 
 

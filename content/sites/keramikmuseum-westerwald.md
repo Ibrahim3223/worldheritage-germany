@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/400px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/800px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/1200px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/1920px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg/1920px-HoehrGrenzhausenGrenzhausenKeramikmuseum2.jpg
+---
 
 ## Overview
 

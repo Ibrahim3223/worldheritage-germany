@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/400px-RistfeuchthornVonWeißbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/800px-RistfeuchthornVonWeißbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/1200px-RistfeuchthornVonWeißbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/1920px-RistfeuchthornVonWeißbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RistfeuchthornVonWeißbach.jpg/1920px-RistfeuchthornVonWeißbach.jpg
+---
 
 ## Overview
 

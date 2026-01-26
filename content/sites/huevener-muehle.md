@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/400px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/800px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1200px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1920px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1920px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
+---
 
 ## Overview
 

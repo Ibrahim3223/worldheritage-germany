@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/400px-Anselburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/800px-Anselburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1200px-Anselburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1920px-Anselburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1920px-Anselburg.jpg
+---
 
 ## Overview
 

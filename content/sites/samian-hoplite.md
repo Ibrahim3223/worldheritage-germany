@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/400px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/800px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/1200px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/1920px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg/1920px-Statue_of_samian_hoplite_Antikensammlung_Berlin.jpg
+---
 
 ## Overview
 

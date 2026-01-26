@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/400px-Siebengebirgsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/800px-Siebengebirgsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/1200px-Siebengebirgsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/1920px-Siebengebirgsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siebengebirgsmuseum.jpg/1920px-Siebengebirgsmuseum.jpg
+---
 
 ## Overview
 

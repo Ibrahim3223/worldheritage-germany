@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baerwalde2.jpg/400px-Baerwalde2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baerwalde2.jpg/800px-Baerwalde2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baerwalde2.jpg/1200px-Baerwalde2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baerwalde2.jpg/1920px-Baerwalde2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baerwalde2.jpg/1920px-Baerwalde2.jpg
+---
 
 ## Overview
 

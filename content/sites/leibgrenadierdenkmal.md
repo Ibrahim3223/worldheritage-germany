@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/400px-Karlsruhe_Leibgrenadierdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/800px-Karlsruhe_Leibgrenadierdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/1200px-Karlsruhe_Leibgrenadierdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/1920px-Karlsruhe_Leibgrenadierdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karlsruhe_Leibgrenadierdenkmal.jpg/1920px-Karlsruhe_Leibgrenadierdenkmal.jpg
+---
 
 ## Overview
 

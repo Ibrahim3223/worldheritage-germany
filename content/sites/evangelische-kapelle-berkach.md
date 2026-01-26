@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berkach_evangelische_Kirche_20110310.jpg/400px-Berkach_evangelische_Kirche_20110310.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berkach_evangelische_Kirche_20110310.jpg/800px-Berkach_evangelische_Kirche_20110310.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berkach_evangelische_Kirche_20110310.jpg/1200px-Berkach_evangelische_Kirche_20110310.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berkach_evangelische_Kirche_20110310.jpg/1920px-Berkach_evangelische_Kirche_20110310.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berkach_evangelische_Kirche_20110310.jpg/1920px-Berkach_evangelische_Kirche_20110310.jpg
+---
 
 ## Overview
 

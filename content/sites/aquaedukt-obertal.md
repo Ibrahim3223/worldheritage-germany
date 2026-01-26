@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/ES_Aquädukt_Obertal.jpg/400px-ES_Aquädukt_Obertal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/ES_Aquädukt_Obertal.jpg/800px-ES_Aquädukt_Obertal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/ES_Aquädukt_Obertal.jpg/1200px-ES_Aquädukt_Obertal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/ES_Aquädukt_Obertal.jpg/1920px-ES_Aquädukt_Obertal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/ES_Aquädukt_Obertal.jpg/1920px-ES_Aquädukt_Obertal.jpg
+---
 
 ## Overview
 

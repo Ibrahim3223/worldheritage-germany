@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/400px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/800px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/1200px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/1920px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG/1920px-Am_Viertelacker_Dresden_Mausoleum_Familie_Kap-Herr_11.JPG
+---
 
 ## Overview
 

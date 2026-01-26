@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Klosterberg.jpg/400px-Klosterberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Klosterberg.jpg/800px-Klosterberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Klosterberg.jpg/1200px-Klosterberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Klosterberg.jpg/1920px-Klosterberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Klosterberg.jpg/1920px-Klosterberg.jpg
+---
 
 ## Overview
 

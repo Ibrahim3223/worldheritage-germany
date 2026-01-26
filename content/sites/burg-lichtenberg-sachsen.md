@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg/400px-20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg/800px-20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg/1200px-20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg/1920px-20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg/1920px-20170812105DR_Lichtenberg_Erzgebirge_Burg_Lichtenberg.jpg
+---
 
 ## Overview
 

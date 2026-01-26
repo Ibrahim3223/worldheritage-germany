@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/400px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/800px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/1200px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/1920px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg/1920px-Bitterfeld-Wolfen_Goitzschesee_asv2023-06_img3.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/400px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/800px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1200px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1920px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1920px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
+---
 
 ## Overview
 

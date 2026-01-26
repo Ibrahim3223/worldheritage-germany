@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/400px-Magdeburger_Dom_Cathedral_(40705658233).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/800px-Magdeburger_Dom_Cathedral_(40705658233).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1200px-Magdeburger_Dom_Cathedral_(40705658233).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1920px-Magdeburger_Dom_Cathedral_(40705658233).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1920px-Magdeburger_Dom_Cathedral_(40705658233).jpg
+---
 
 ## Overview
 

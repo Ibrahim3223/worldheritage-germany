@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/400px-Artern_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/800px-Artern_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/1200px-Artern_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/1920px-Artern_Rathaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Artern_Rathaus.JPG/1920px-Artern_Rathaus.JPG
+---
 
 ## Overview
 

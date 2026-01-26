@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/400px-Armenseelenkapelle_Kreuz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/800px-Armenseelenkapelle_Kreuz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/1200px-Armenseelenkapelle_Kreuz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/1920px-Armenseelenkapelle_Kreuz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Armenseelenkapelle_Kreuz.JPG/1920px-Armenseelenkapelle_Kreuz.JPG
+---
 
 ## Overview
 

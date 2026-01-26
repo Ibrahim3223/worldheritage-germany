@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/400px-Schwarzflaeche_Okerauen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/800px-Schwarzflaeche_Okerauen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/1200px-Schwarzflaeche_Okerauen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/1920px-Schwarzflaeche_Okerauen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schwarzflaeche_Okerauen.jpg/1920px-Schwarzflaeche_Okerauen.jpg
+---
 
 ## Overview
 

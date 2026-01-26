@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/400px-Clevertor_Karte_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/800px-Clevertor_Karte_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/1200px-Clevertor_Karte_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/1920px-Clevertor_Karte_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Clevertor_Karte_Hannover.jpg/1920px-Clevertor_Karte_Hannover.jpg
+---
 
 ## Overview
 

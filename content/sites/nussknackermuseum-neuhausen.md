@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/400px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/800px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/1200px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/1920px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG/1920px-Neuhausen_(Erzgeb.),_Nussknackermuseum,_Riesennussknacker.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/400px-Trier_Martinskloster_BW_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/800px-Trier_Martinskloster_BW_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/1200px-Trier_Martinskloster_BW_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/1920px-Trier_Martinskloster_BW_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Trier_Martinskloster_BW_1.JPG/1920px-Trier_Martinskloster_BW_1.JPG
+---
 
 ## Overview
 

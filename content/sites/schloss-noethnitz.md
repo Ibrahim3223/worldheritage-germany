@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/400px-Schloss-Noethnitz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/800px-Schloss-Noethnitz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/1200px-Schloss-Noethnitz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/1920px-Schloss-Noethnitz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss-Noethnitz.jpg/1920px-Schloss-Noethnitz.jpg
+---
 
 ## Overview
 

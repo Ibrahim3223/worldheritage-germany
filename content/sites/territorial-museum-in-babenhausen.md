@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/400px-Amtsgasse32.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/800px-Amtsgasse32.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/1200px-Amtsgasse32.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/1920px-Amtsgasse32.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amtsgasse32.JPG/1920px-Amtsgasse32.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/400px-Archaeologischer-garten-2010-ffm-052.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/800px-Archaeologischer-garten-2010-ffm-052.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/1200px-Archaeologischer-garten-2010-ffm-052.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/1920px-Archaeologischer-garten-2010-ffm-052.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Archaeologischer-garten-2010-ffm-052.jpg/1920px-Archaeologischer-garten-2010-ffm-052.jpg
+---
 
 ## Overview
 

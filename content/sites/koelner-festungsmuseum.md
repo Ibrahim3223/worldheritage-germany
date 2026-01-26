@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/400px-Koelner-festungsmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/800px-Koelner-festungsmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/1200px-Koelner-festungsmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/1920px-Koelner-festungsmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koelner-festungsmuseum.jpg/1920px-Koelner-festungsmuseum.jpg
+---
 
 ## Overview
 

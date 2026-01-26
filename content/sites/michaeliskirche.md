@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/400px-Budyšin_–_Michałska_cyrkej_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/800px-Budyšin_–_Michałska_cyrkej_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/1200px-Budyšin_–_Michałska_cyrkej_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/1920px-Budyšin_–_Michałska_cyrkej_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Budyšin_–_Michałska_cyrkej_3.jpg/1920px-Budyšin_–_Michałska_cyrkej_3.jpg
+---
 
 ## Overview
 

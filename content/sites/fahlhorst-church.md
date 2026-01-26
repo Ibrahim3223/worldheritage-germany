@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/400px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/800px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/1200px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/1920px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg/1920px-Dorfkirche_Fahlhorst_-_Germany_-_panoramio.jpg
+---
 
 ## Overview
 

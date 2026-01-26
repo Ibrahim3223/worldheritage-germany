@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/400px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/800px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/1200px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/1920px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG/1920px-Königsbrücker_Straße_84_Dresden_Goethe-Institut_2.JPG
+---
 
 ## Overview
 

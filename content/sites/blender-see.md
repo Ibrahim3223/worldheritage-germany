@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/400px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/800px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/1200px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/1920px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG/1920px-Blender_See,_Naturschutzgebiet,_im_Juni_2014,_Blender.JPG
+---
 
 ## Overview
 

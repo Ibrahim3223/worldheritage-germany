@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/400px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/800px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/1200px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/1920px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg/1920px-Historische_Ansichtskarte_mit_Motiv_von_Rothenburg_10.jpg
+---
 
 ## Overview
 

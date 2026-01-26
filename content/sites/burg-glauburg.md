@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/400px-Burggebaeude_Ruine.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/800px-Burggebaeude_Ruine.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/1200px-Burggebaeude_Ruine.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/1920px-Burggebaeude_Ruine.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burggebaeude_Ruine.JPG/1920px-Burggebaeude_Ruine.JPG
+---
 
 ## Overview
 

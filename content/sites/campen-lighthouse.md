@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/400px-Campener_Leuchtturm,_2010-06_CN-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/800px-Campener_Leuchtturm,_2010-06_CN-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/1920px-Campener_Leuchtturm,_2010-06_CN-02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/1920px-Campener_Leuchtturm,_2010-06_CN-02.jpg
+---
 
 ## Overview
 

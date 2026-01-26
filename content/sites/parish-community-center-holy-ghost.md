@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/400px-Wolfsburg_Heilig-Geist_2012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/800px-Wolfsburg_Heilig-Geist_2012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/1200px-Wolfsburg_Heilig-Geist_2012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/1920px-Wolfsburg_Heilig-Geist_2012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wolfsburg_Heilig-Geist_2012.JPG/1920px-Wolfsburg_Heilig-Geist_2012.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/400px-Hütting_bei_Rennertshofen,_Burgruine.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/800px-Hütting_bei_Rennertshofen,_Burgruine.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/1200px-Hütting_bei_Rennertshofen,_Burgruine.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/1920px-Hütting_bei_Rennertshofen,_Burgruine.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hütting_bei_Rennertshofen,_Burgruine.jpg/1920px-Hütting_bei_Rennertshofen,_Burgruine.jpg
+---
 
 ## Overview
 

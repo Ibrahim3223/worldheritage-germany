@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Annenwalde_Kirche.JPG/400px-Annenwalde_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Annenwalde_Kirche.JPG/800px-Annenwalde_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Annenwalde_Kirche.JPG/1200px-Annenwalde_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Annenwalde_Kirche.JPG/1920px-Annenwalde_Kirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Annenwalde_Kirche.JPG/1920px-Annenwalde_Kirche.JPG
+---
 
 ## Overview
 

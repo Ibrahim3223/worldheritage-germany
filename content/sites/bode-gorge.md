@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/400px-Bodetal_vom_Hexentanzplatz_aus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/800px-Bodetal_vom_Hexentanzplatz_aus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1200px-Bodetal_vom_Hexentanzplatz_aus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1920px-Bodetal_vom_Hexentanzplatz_aus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1920px-Bodetal_vom_Hexentanzplatz_aus.jpg
+---
 
 ## Overview
 

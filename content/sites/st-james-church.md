@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/400px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/800px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/1200px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/1920px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/1920px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
+---
 
 ## Overview
 

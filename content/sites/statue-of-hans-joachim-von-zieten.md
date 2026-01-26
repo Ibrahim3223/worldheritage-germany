@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/400px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/800px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/1200px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/1920px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg/1920px-Berlin-Mitte-memorial_to_Hans_Joachim_von_Zieten.jpg
+---
 
 ## Overview
 

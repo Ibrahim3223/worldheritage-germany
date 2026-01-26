@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/400px-Ertl_Kastl.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/800px-Ertl_Kastl.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/1200px-Ertl_Kastl.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/1920px-Ertl_Kastl.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ertl_Kastl.png/1920px-Ertl_Kastl.png
+---
 
 ## Overview 
 

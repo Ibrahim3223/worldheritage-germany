@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/400px-A_Mindener_Dom_Westwerk_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/800px-A_Mindener_Dom_Westwerk_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/1200px-A_Mindener_Dom_Westwerk_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/1920px-A_Mindener_Dom_Westwerk_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_Mindener_Dom_Westwerk_2.jpg/1920px-A_Mindener_Dom_Westwerk_2.jpg
+---
 
 ## Overview
 

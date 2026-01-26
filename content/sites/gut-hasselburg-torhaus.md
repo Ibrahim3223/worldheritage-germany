@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/400px-Hasselburg_Torhaus_rueck.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/800px-Hasselburg_Torhaus_rueck.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/1200px-Hasselburg_Torhaus_rueck.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/1920px-Hasselburg_Torhaus_rueck.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hasselburg_Torhaus_rueck.jpg/1920px-Hasselburg_Torhaus_rueck.jpg
+---
 
 ## Overview
 

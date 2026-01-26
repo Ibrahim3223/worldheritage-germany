@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tatzelwurm_GO-1.jpg/400px-Tatzelwurm_GO-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tatzelwurm_GO-1.jpg/800px-Tatzelwurm_GO-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tatzelwurm_GO-1.jpg/1200px-Tatzelwurm_GO-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tatzelwurm_GO-1.jpg/1920px-Tatzelwurm_GO-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tatzelwurm_GO-1.jpg/1920px-Tatzelwurm_GO-1.jpg
+---
 
 ## Overview
 

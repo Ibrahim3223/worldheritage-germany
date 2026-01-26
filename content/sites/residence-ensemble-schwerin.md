@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/400px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/800px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/1200px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/1920px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg/1920px-Schwerin_Castle_Aerial_View_Island_Luftbild_Schweriner_Schloss_Insel_See.jpg
+---
 
 ## Overview
 

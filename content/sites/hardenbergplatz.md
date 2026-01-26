@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/400px-Hardenbergplatz_3_08-05-15.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/800px-Hardenbergplatz_3_08-05-15.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/1200px-Hardenbergplatz_3_08-05-15.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/1920px-Hardenbergplatz_3_08-05-15.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hardenbergplatz_3_08-05-15.JPG/1920px-Hardenbergplatz_3_08-05-15.JPG
+---
 
 ## Overview
 

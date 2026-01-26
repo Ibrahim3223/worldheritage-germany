@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/400px-Burgruine_Hohenkrähen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/800px-Burgruine_Hohenkrähen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/1200px-Burgruine_Hohenkrähen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/1920px-Burgruine_Hohenkrähen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burgruine_Hohenkrähen.jpg/1920px-Burgruine_Hohenkrähen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Raussmuehle_Innenhof.JPG/400px-Raussmuehle_Innenhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Raussmuehle_Innenhof.JPG/800px-Raussmuehle_Innenhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Raussmuehle_Innenhof.JPG/1200px-Raussmuehle_Innenhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Raussmuehle_Innenhof.JPG/1920px-Raussmuehle_Innenhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Raussmuehle_Innenhof.JPG/1920px-Raussmuehle_Innenhof.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/400px-Brauerei-zur-Malzmühle-Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/800px-Brauerei-zur-Malzmühle-Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1200px-Brauerei-zur-Malzmühle-Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1920px-Brauerei-zur-Malzmühle-Köln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1920px-Brauerei-zur-Malzmühle-Köln.jpg
+---
 
 ## Overview
 

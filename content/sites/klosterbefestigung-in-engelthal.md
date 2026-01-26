@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/400px-Mauerrest_des_Klosters_Engelthal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/800px-Mauerrest_des_Klosters_Engelthal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/1200px-Mauerrest_des_Klosters_Engelthal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/1920px-Mauerrest_des_Klosters_Engelthal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mauerrest_des_Klosters_Engelthal.jpg/1920px-Mauerrest_des_Klosters_Engelthal.jpg
+---
 
 ## Overview
 

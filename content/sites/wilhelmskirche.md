@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/400px-Wilhelmskirche_in_Bad_Kreuznach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/800px-Wilhelmskirche_in_Bad_Kreuznach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/1200px-Wilhelmskirche_in_Bad_Kreuznach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/1920px-Wilhelmskirche_in_Bad_Kreuznach.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wilhelmskirche_in_Bad_Kreuznach.JPG/1920px-Wilhelmskirche_in_Bad_Kreuznach.JPG
+---
 
 ## Overview
 

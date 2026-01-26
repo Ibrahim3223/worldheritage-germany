@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brunnen_am_Rathaus_Gächingen.jpg/400px-Brunnen_am_Rathaus_Gächingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brunnen_am_Rathaus_Gächingen.jpg/800px-Brunnen_am_Rathaus_Gächingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brunnen_am_Rathaus_Gächingen.jpg/1200px-Brunnen_am_Rathaus_Gächingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brunnen_am_Rathaus_Gächingen.jpg/1920px-Brunnen_am_Rathaus_Gächingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brunnen_am_Rathaus_Gächingen.jpg/1920px-Brunnen_am_Rathaus_Gächingen.jpg
+---
 
 ## Overview
 

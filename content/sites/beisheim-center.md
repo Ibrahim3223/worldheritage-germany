@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/400px-Beisheim_Center,_Berlin-1749.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/800px-Beisheim_Center,_Berlin-1749.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/1200px-Beisheim_Center,_Berlin-1749.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/1920px-Beisheim_Center,_Berlin-1749.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/1920px-Beisheim_Center,_Berlin-1749.jpg
+---
 
 ## Overview
 

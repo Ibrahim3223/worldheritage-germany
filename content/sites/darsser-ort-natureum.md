@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Natureum_darsser_ort.jpg/400px-Natureum_darsser_ort.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Natureum_darsser_ort.jpg/800px-Natureum_darsser_ort.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Natureum_darsser_ort.jpg/1200px-Natureum_darsser_ort.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Natureum_darsser_ort.jpg/1920px-Natureum_darsser_ort.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Natureum_darsser_ort.jpg/1920px-Natureum_darsser_ort.jpg
+---
 
 ## Overview
 

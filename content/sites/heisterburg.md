@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/400px-Heisterburg_Tor_heute.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/800px-Heisterburg_Tor_heute.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/1200px-Heisterburg_Tor_heute.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/1920px-Heisterburg_Tor_heute.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heisterburg_Tor_heute.jpg/1920px-Heisterburg_Tor_heute.jpg
+---
 
 ## Overview
 

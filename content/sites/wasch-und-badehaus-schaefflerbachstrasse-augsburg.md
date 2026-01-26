@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/400px-Augsburg_Schäfflerbachstraße_30.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/800px-Augsburg_Schäfflerbachstraße_30.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/1200px-Augsburg_Schäfflerbachstraße_30.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/1920px-Augsburg_Schäfflerbachstraße_30.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Augsburg_Schäfflerbachstraße_30.JPG/1920px-Augsburg_Schäfflerbachstraße_30.JPG
+---
 
 ## Overview
 

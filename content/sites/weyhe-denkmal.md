@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/400px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/800px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/1200px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/1920px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg/1920px-Weyhe_Maximilian_Friedrich_denkmal_hofgartendüsseldorf.jpg
+---
 
 ## Overview
 

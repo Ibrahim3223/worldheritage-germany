@@ -15,7 +15,8 @@ wikidata_id: "Q98117246"
 latitude: 49.069730866
 longitude: 11.240197871
 images:
-  []---
+  []
+---
 
 ## Overview
 

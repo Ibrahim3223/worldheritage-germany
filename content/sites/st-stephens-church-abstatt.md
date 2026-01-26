@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stephanuskirche_Abstatt_Nordseite.jpg/400px-Stephanuskirche_Abstatt_Nordseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stephanuskirche_Abstatt_Nordseite.jpg/800px-Stephanuskirche_Abstatt_Nordseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stephanuskirche_Abstatt_Nordseite.jpg/1200px-Stephanuskirche_Abstatt_Nordseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stephanuskirche_Abstatt_Nordseite.jpg/1920px-Stephanuskirche_Abstatt_Nordseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stephanuskirche_Abstatt_Nordseite.jpg/1920px-Stephanuskirche_Abstatt_Nordseite.jpg
+---
 
 ## Overview
 

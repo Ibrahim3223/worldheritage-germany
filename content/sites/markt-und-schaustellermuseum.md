@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/400px-Markt-_und_Schaustellermuseum,_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/800px-Markt-_und_Schaustellermuseum,_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/1200px-Markt-_und_Schaustellermuseum,_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/1920px-Markt-_und_Schaustellermuseum,_Essen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Markt-_und_Schaustellermuseum,_Essen.jpg/1920px-Markt-_und_Schaustellermuseum,_Essen.jpg
+---
 
 ## Overview
 

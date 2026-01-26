@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Borgentreich_-_Orgelmuseum.jpg/400px-Borgentreich_-_Orgelmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Borgentreich_-_Orgelmuseum.jpg/800px-Borgentreich_-_Orgelmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Borgentreich_-_Orgelmuseum.jpg/1200px-Borgentreich_-_Orgelmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Borgentreich_-_Orgelmuseum.jpg/1920px-Borgentreich_-_Orgelmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Borgentreich_-_Orgelmuseum.jpg/1920px-Borgentreich_-_Orgelmuseum.jpg
+---
 
 ## Overview
 

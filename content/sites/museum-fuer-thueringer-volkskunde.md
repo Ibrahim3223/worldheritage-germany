@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/400px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/800px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/1200px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/1920px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg/1920px-Juri-Gagarin-Ring_140a_Erfurt_20211003_0226.jpg
+---
 
 ## Overview
 

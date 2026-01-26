@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg/400px-Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg/800px-Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg/1200px-Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg/1920px-Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg/1920px-Vierordtbad_Hygieiabrunnen_Karlsruhe.jpg
+---
 
 ## Overview
 

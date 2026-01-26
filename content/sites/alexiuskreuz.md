@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/400px-Gedenkkreuz_an_der_Mägdetrappe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/800px-Gedenkkreuz_an_der_Mägdetrappe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/1200px-Gedenkkreuz_an_der_Mägdetrappe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/1920px-Gedenkkreuz_an_der_Mägdetrappe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gedenkkreuz_an_der_Mägdetrappe.jpg/1920px-Gedenkkreuz_an_der_Mägdetrappe.jpg
+---
 
 ## Overview
 

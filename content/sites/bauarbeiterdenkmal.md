@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bauarbeiterdenkmal-Wiesbaden.jpg/400px-Bauarbeiterdenkmal-Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bauarbeiterdenkmal-Wiesbaden.jpg/800px-Bauarbeiterdenkmal-Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bauarbeiterdenkmal-Wiesbaden.jpg/1200px-Bauarbeiterdenkmal-Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bauarbeiterdenkmal-Wiesbaden.jpg/1920px-Bauarbeiterdenkmal-Wiesbaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bauarbeiterdenkmal-Wiesbaden.jpg/1920px-Bauarbeiterdenkmal-Wiesbaden.jpg
+---
 
 ## Overview
 

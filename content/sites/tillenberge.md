@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/400px-Tillenberge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/800px-Tillenberge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/1200px-Tillenberge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/1920px-Tillenberge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tillenberge.jpg/1920px-Tillenberge.jpg
+---
 
 ## Overview
 

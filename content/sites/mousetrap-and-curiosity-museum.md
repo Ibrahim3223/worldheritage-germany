@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klausstraße_38_(Güntersberge)_01.jpg/400px-Klausstraße_38_(Güntersberge)_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klausstraße_38_(Güntersberge)_01.jpg/800px-Klausstraße_38_(Güntersberge)_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klausstraße_38_(Güntersberge)_01.jpg/1200px-Klausstraße_38_(Güntersberge)_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klausstraße_38_(Güntersberge)_01.jpg/1920px-Klausstraße_38_(Güntersberge)_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klausstraße_38_(Güntersberge)_01.jpg/1920px-Klausstraße_38_(Güntersberge)_01.jpg
+---
 
 ## Overview
 

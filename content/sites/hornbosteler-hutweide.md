@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/400px-Hutweide-Hornbostel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/800px-Hutweide-Hornbostel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1200px-Hutweide-Hornbostel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1920px-Hutweide-Hornbostel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1920px-Hutweide-Hornbostel.jpg
+---
 
 ## Overview
 

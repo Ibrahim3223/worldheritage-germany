@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blum_gedenkstein_petterweil_001.jpg/400px-Blum_gedenkstein_petterweil_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blum_gedenkstein_petterweil_001.jpg/800px-Blum_gedenkstein_petterweil_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blum_gedenkstein_petterweil_001.jpg/1200px-Blum_gedenkstein_petterweil_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blum_gedenkstein_petterweil_001.jpg/1920px-Blum_gedenkstein_petterweil_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blum_gedenkstein_petterweil_001.jpg/1920px-Blum_gedenkstein_petterweil_001.jpg
+---
 
 ## Overview
 

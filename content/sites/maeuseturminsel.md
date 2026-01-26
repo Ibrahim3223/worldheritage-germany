@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/400px-Maeuseturm_bingen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/800px-Maeuseturm_bingen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/1200px-Maeuseturm_bingen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/1920px-Maeuseturm_bingen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Maeuseturm_bingen.JPG/1920px-Maeuseturm_bingen.JPG
+---
 
 ## Overview
 

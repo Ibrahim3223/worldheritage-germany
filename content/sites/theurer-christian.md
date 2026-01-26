@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/400px-Radegast-Anhalt.Theurer.Christian.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/800px-Radegast-Anhalt.Theurer.Christian.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/1200px-Radegast-Anhalt.Theurer.Christian.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/1920px-Radegast-Anhalt.Theurer.Christian.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Radegast-Anhalt.Theurer.Christian.jpg/1920px-Radegast-Anhalt.Theurer.Christian.jpg
+---
 
 ## Overview
 

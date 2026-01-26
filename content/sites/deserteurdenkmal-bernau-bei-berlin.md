@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/400px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/800px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/1200px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/1920px-Bernau_bei_Berlin_Deserteurdenkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bernau_bei_Berlin_Deserteurdenkmal.JPG/1920px-Bernau_bei_Berlin_Deserteurdenkmal.JPG
+---
 
 ## Overview
 

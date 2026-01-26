@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/400px-Berlin,_Germany_(April_2016)_-_108.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/800px-Berlin,_Germany_(April_2016)_-_108.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/1200px-Berlin,_Germany_(April_2016)_-_108.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/1920px-Berlin,_Germany_(April_2016)_-_108.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Berlin,_Germany_(April_2016)_-_108.JPG/1920px-Berlin,_Germany_(April_2016)_-_108.JPG
+---
 
 ## Overview
 

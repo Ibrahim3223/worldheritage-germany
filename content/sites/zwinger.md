@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/400px-Zwinger_Dresden_Innenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/800px-Zwinger_Dresden_Innenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/1200px-Zwinger_Dresden_Innenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/1920px-Zwinger_Dresden_Innenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zwinger_Dresden_Innenhof.jpg/1920px-Zwinger_Dresden_Innenhof.jpg
+---
 
 ## Overview
 

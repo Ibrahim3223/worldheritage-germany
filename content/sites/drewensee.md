@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/400px-Drewensee_Ahrensberg_5436.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/800px-Drewensee_Ahrensberg_5436.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/1200px-Drewensee_Ahrensberg_5436.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/1920px-Drewensee_Ahrensberg_5436.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drewensee_Ahrensberg_5436.JPG/1920px-Drewensee_Ahrensberg_5436.JPG
+---
 
 ## Overview
 

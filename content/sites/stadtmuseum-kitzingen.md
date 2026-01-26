@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/400px-Landwehrstraße_23_(Kitzingen).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/800px-Landwehrstraße_23_(Kitzingen).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/1200px-Landwehrstraße_23_(Kitzingen).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/1920px-Landwehrstraße_23_(Kitzingen).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landwehrstraße_23_(Kitzingen).JPG/1920px-Landwehrstraße_23_(Kitzingen).JPG
+---
 
 ## Overview
 

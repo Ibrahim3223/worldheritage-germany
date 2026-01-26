@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/400px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/800px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/1200px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/1920px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg/1920px-Monumental_cemetery_monument_Arthur-Menge-Ufer_Mitte_Hannover_Germany.jpg
+---
 
 ## Overview
 

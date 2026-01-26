@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/400px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/800px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/1200px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/1920px-IMGP1532_Würth_Künzelsau_Skulptur.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IMGP1532_Würth_Künzelsau_Skulptur.JPG/1920px-IMGP1532_Würth_Künzelsau_Skulptur.JPG
+---
 
 ## Overview
 

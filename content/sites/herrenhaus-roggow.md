@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/400px-Roggow_historisches_Bild.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/800px-Roggow_historisches_Bild.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/1200px-Roggow_historisches_Bild.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/1920px-Roggow_historisches_Bild.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/1920px-Roggow_historisches_Bild.jpg
+---
 
 ## Overview
 

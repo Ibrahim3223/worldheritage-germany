@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/400px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/800px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/1200px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/1920px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg/1920px-D-6-75-174-145_Mater_Dolorosa,_Volkach.jpg
+---
 
 ## Overview
 

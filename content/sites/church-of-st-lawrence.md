@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/400px-Sls_querhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/800px-Sls_querhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/1200px-Sls_querhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/1920px-Sls_querhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sls_querhaus.jpg/1920px-Sls_querhaus.jpg
+---
 
 ## Overview
 

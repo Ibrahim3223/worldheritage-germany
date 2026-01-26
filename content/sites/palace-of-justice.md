@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/400px-Nuremberg_Aerial_Justizpalast.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/800px-Nuremberg_Aerial_Justizpalast.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/1200px-Nuremberg_Aerial_Justizpalast.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/1920px-Nuremberg_Aerial_Justizpalast.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nuremberg_Aerial_Justizpalast.JPG/1920px-Nuremberg_Aerial_Justizpalast.JPG
+---
 
 ## Overview
 

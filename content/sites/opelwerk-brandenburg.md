@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/400px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/800px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/1200px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/1920px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg/1920px-Bundesarchiv_Bild_183-2007-0910-500,_Brandenburg,_Lkw-Produktion.jpg
+---
 
 ## Overview
 

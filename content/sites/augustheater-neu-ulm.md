@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/400px-Eingang_Theater_Neu-Ulm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/800px-Eingang_Theater_Neu-Ulm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/1200px-Eingang_Theater_Neu-Ulm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/1920px-Eingang_Theater_Neu-Ulm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Theater_Neu-Ulm.jpg/1920px-Eingang_Theater_Neu-Ulm.jpg
+---
 
 ## Overview
 

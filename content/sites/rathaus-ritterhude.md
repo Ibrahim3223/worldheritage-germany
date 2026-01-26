@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rathaus_Ritterhude.jpg/400px-Rathaus_Ritterhude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rathaus_Ritterhude.jpg/800px-Rathaus_Ritterhude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rathaus_Ritterhude.jpg/1200px-Rathaus_Ritterhude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rathaus_Ritterhude.jpg/1920px-Rathaus_Ritterhude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rathaus_Ritterhude.jpg/1920px-Rathaus_Ritterhude.jpg
+---
 
 ## Overview
 

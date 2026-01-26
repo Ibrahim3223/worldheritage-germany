@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/400px-Hexentanzplatz_Thale_msu2017-0633.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/800px-Hexentanzplatz_Thale_msu2017-0633.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/1200px-Hexentanzplatz_Thale_msu2017-0633.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/1920px-Hexentanzplatz_Thale_msu2017-0633.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hexentanzplatz_Thale_msu2017-0633.jpg/1920px-Hexentanzplatz_Thale_msu2017-0633.jpg
+---
 
 ## Overview
 

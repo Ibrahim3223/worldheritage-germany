@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/400px-Dinkelackergespann.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/800px-Dinkelackergespann.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1200px-Dinkelackergespann.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1920px-Dinkelackergespann.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1920px-Dinkelackergespann.jpg
+---
 
 ## Overview
 

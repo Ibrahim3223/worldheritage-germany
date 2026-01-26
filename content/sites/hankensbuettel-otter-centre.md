@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/400px-Otterzentrum_Hauptgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/800px-Otterzentrum_Hauptgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1200px-Otterzentrum_Hauptgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1920px-Otterzentrum_Hauptgebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1920px-Otterzentrum_Hauptgebäude.jpg
+---
 
 ## Overview
 

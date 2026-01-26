@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/400px-Bodensee_Meersburg_asv2022-10_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/800px-Bodensee_Meersburg_asv2022-10_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/1200px-Bodensee_Meersburg_asv2022-10_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/1920px-Bodensee_Meersburg_asv2022-10_img2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bodensee_Meersburg_asv2022-10_img2.jpg/1920px-Bodensee_Meersburg_asv2022-10_img2.jpg
+---
 
 ## Overview
 

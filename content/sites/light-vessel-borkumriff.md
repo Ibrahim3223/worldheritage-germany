@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/400px-Feuerschiff_Borkumriff.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/800px-Feuerschiff_Borkumriff.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/1200px-Feuerschiff_Borkumriff.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/1920px-Feuerschiff_Borkumriff.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Feuerschiff_Borkumriff.jpg/1920px-Feuerschiff_Borkumriff.jpg
+---
 
 ## Overview
 

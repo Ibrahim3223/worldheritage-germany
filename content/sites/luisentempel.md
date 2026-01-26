@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/400px-20190512Selketal_bei_Alexisbad-037.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/800px-20190512Selketal_bei_Alexisbad-037.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/1200px-20190512Selketal_bei_Alexisbad-037.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/1920px-20190512Selketal_bei_Alexisbad-037.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20190512Selketal_bei_Alexisbad-037.jpg/1920px-20190512Selketal_bei_Alexisbad-037.jpg
+---
 
 ## Overview
 

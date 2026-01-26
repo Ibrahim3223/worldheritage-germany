@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/400px-Schauspiel_Köln_(4224-26).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/800px-Schauspiel_Köln_(4224-26).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/1200px-Schauspiel_Köln_(4224-26).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/1920px-Schauspiel_Köln_(4224-26).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schauspiel_Köln_(4224-26).jpg/1920px-Schauspiel_Köln_(4224-26).jpg
+---
 
 ## Overview
 

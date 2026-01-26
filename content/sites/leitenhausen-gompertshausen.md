@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/400px-Leitenhausen-Gedenkstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/800px-Leitenhausen-Gedenkstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/1200px-Leitenhausen-Gedenkstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/1920px-Leitenhausen-Gedenkstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Leitenhausen-Gedenkstein.jpg/1920px-Leitenhausen-Gedenkstein.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/400px-Kloster_Brunshausen_Klosterhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/800px-Kloster_Brunshausen_Klosterhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/1200px-Kloster_Brunshausen_Klosterhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/1920px-Kloster_Brunshausen_Klosterhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kloster_Brunshausen_Klosterhof.jpg/1920px-Kloster_Brunshausen_Klosterhof.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/400px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/800px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1200px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1920px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1920px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
+---
 
 ## Overview
 

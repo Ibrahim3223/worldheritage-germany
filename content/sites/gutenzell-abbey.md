@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/400px-Gutenzell_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/800px-Gutenzell_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1200px-Gutenzell_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1920px-Gutenzell_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1920px-Gutenzell_Kirche.jpg
+---
 
 ## Overview
 

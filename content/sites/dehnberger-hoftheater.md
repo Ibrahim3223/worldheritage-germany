@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/400px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/800px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/1920px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/1920px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
+---
 
 ## Overview
 

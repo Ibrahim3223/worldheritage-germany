@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gunnar-Wester-Haus_SW_2016.jpg/400px-Gunnar-Wester-Haus_SW_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gunnar-Wester-Haus_SW_2016.jpg/800px-Gunnar-Wester-Haus_SW_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gunnar-Wester-Haus_SW_2016.jpg/1200px-Gunnar-Wester-Haus_SW_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gunnar-Wester-Haus_SW_2016.jpg/1920px-Gunnar-Wester-Haus_SW_2016.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gunnar-Wester-Haus_SW_2016.jpg/1920px-Gunnar-Wester-Haus_SW_2016.jpg
+---
 
 ## Overview
 

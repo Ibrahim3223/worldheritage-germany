@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/400px-Schwerin_Schelfkirche_2011-11-13_049.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/800px-Schwerin_Schelfkirche_2011-11-13_049.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/1200px-Schwerin_Schelfkirche_2011-11-13_049.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/1920px-Schwerin_Schelfkirche_2011-11-13_049.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schwerin_Schelfkirche_2011-11-13_049.JPG/1920px-Schwerin_Schelfkirche_2011-11-13_049.JPG
+---
 
 ## Overview
 

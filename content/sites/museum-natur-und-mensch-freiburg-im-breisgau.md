@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gerberau_(Freiburg)_jm5976.jpg/400px-Gerberau_(Freiburg)_jm5976.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gerberau_(Freiburg)_jm5976.jpg/800px-Gerberau_(Freiburg)_jm5976.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gerberau_(Freiburg)_jm5976.jpg/1200px-Gerberau_(Freiburg)_jm5976.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gerberau_(Freiburg)_jm5976.jpg/1920px-Gerberau_(Freiburg)_jm5976.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gerberau_(Freiburg)_jm5976.jpg/1920px-Gerberau_(Freiburg)_jm5976.jpg
+---
 
 ## Overview
 

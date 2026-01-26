@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/400px-Rommenhöller-Denkmal_Brunnenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/800px-Rommenhöller-Denkmal_Brunnenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/1200px-Rommenhöller-Denkmal_Brunnenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/1920px-Rommenhöller-Denkmal_Brunnenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rommenhöller-Denkmal_Brunnenhaus.jpg/1920px-Rommenhöller-Denkmal_Brunnenhaus.jpg
+---
 
 ## Overview
 

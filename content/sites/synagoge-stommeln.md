@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/400px-Synagoge-Stommeln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/800px-Synagoge-Stommeln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/1200px-Synagoge-Stommeln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/1920px-Synagoge-Stommeln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Synagoge-Stommeln.jpg/1920px-Synagoge-Stommeln.jpg
+---
 
 ## Overview
 

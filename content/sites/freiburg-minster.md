@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/400px-Freiburg_Münster3_05_03_06.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/800px-Freiburg_Münster3_05_03_06.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/1200px-Freiburg_Münster3_05_03_06.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/1920px-Freiburg_Münster3_05_03_06.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Freiburg_Münster3_05_03_06.JPG/1920px-Freiburg_Münster3_05_03_06.JPG
+---
 
 ## Overview
 

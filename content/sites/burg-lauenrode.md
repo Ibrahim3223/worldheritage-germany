@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/400px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/800px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/1200px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/1920px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg/1920px-Geschichte_der_Neustadt_Hannover._Calenberger_Neustadt._S._00b_Bildausschnitt.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/400px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/800px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/1200px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/1920px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg/1920px-Platz_Zur_Deutschen_Einheit-bjs2009-01.jpg
+---
 
 ## Overview
 

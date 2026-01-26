@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/400px-Allerheiligen_Turm_17102009.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/800px-Allerheiligen_Turm_17102009.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/1200px-Allerheiligen_Turm_17102009.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/1920px-Allerheiligen_Turm_17102009.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Allerheiligen_Turm_17102009.JPG/1920px-Allerheiligen_Turm_17102009.JPG
+---
 
 ## Overview
 

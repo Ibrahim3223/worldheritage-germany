@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/400px-Hartmannsbach-retaining_wall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/800px-Hartmannsbach-retaining_wall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/1200px-Hartmannsbach-retaining_wall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/1920px-Hartmannsbach-retaining_wall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/1920px-Hartmannsbach-retaining_wall.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg/400px-NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg/800px-NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg/1200px-NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg/1920px-NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg/1920px-NRW,_Essen_-_Kray,_Zeche_Bonifacius_01.jpg
+---
 
 ## Overview
 

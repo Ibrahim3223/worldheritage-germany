@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/400px-Berlin_Kongresshalle_BW_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/800px-Berlin_Kongresshalle_BW_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/1200px-Berlin_Kongresshalle_BW_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/1920px-Berlin_Kongresshalle_BW_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/1920px-Berlin_Kongresshalle_BW_3.jpg
+---
 
 ## Overview
 

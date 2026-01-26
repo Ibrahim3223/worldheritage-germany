@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/400px-Ahrenshoop_Windmühle_2025.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/800px-Ahrenshoop_Windmühle_2025.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/1200px-Ahrenshoop_Windmühle_2025.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/1920px-Ahrenshoop_Windmühle_2025.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ahrenshoop_Windmühle_2025.jpg/1920px-Ahrenshoop_Windmühle_2025.jpg
+---
 
 ## Overview
 

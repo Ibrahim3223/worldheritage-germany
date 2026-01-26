@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/400px-Industriemuseum_Lauf_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/800px-Industriemuseum_Lauf_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/1200px-Industriemuseum_Lauf_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/1920px-Industriemuseum_Lauf_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Industriemuseum_Lauf_1.jpg/1920px-Industriemuseum_Lauf_1.jpg
+---
 
 ## Overview
 

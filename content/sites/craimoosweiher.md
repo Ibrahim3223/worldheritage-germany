@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/400px-Craimoosweiher.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/800px-Craimoosweiher.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/1200px-Craimoosweiher.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/1920px-Craimoosweiher.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Craimoosweiher.JPG/1920px-Craimoosweiher.JPG
+---
 
 ## Overview
 

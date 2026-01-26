@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Prinz-Georg-Palais02.JPG/400px-Prinz-Georg-Palais02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Prinz-Georg-Palais02.JPG/800px-Prinz-Georg-Palais02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Prinz-Georg-Palais02.JPG/1200px-Prinz-Georg-Palais02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Prinz-Georg-Palais02.JPG/1920px-Prinz-Georg-Palais02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Prinz-Georg-Palais02.JPG/1920px-Prinz-Georg-Palais02.JPG
+---
 
 ## Overview
 

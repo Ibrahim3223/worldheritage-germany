@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/400px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/800px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/1200px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/1920px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg/1920px-Immanuelkirche_in_Duesseldorf-Friedrichstadt,_von_Osten.jpg
+---
 
 ## Overview
 

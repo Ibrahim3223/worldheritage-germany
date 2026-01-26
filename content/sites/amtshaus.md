@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/400px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/800px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/1200px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/1920px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg/1920px-Grünsfeld_Museum_63_-_ehemaliges_Amtshaus,_(Ober-)amt_Grünsfeld_(Hochstift_Würzburg)_und_Amt_Grünsfeld_(Baden).jpg
+---
 
 ## Overview
 

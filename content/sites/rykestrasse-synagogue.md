@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_Synagoge_Rykestrasse_Eingang.JPG/400px-Berlin_Synagoge_Rykestrasse_Eingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_Synagoge_Rykestrasse_Eingang.JPG/800px-Berlin_Synagoge_Rykestrasse_Eingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_Synagoge_Rykestrasse_Eingang.JPG/1200px-Berlin_Synagoge_Rykestrasse_Eingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_Synagoge_Rykestrasse_Eingang.JPG/1920px-Berlin_Synagoge_Rykestrasse_Eingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_Synagoge_Rykestrasse_Eingang.JPG/1920px-Berlin_Synagoge_Rykestrasse_Eingang.JPG
+---
 
 ## Overview
 

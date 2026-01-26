@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bf-langerwehe.jpg/400px-Bf-langerwehe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bf-langerwehe.jpg/800px-Bf-langerwehe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bf-langerwehe.jpg/1200px-Bf-langerwehe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bf-langerwehe.jpg/1920px-Bf-langerwehe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bf-langerwehe.jpg/1920px-Bf-langerwehe.jpg
+---
 
 ## Overview
 

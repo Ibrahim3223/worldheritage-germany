@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/400px-Jagdhaus_Gabelbach.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/800px-Jagdhaus_Gabelbach.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1200px-Jagdhaus_Gabelbach.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1920px-Jagdhaus_Gabelbach.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1920px-Jagdhaus_Gabelbach.JPG
+---
 
 ## Overview
 

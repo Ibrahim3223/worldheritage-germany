@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hannover_alter_fmt.jpg/400px-Hannover_alter_fmt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hannover_alter_fmt.jpg/800px-Hannover_alter_fmt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hannover_alter_fmt.jpg/1200px-Hannover_alter_fmt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hannover_alter_fmt.jpg/1920px-Hannover_alter_fmt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hannover_alter_fmt.jpg/1920px-Hannover_alter_fmt.jpg
+---
 
 ## Overview
 

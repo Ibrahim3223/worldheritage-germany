@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/400px-15.03.19_Burgruine_Heilsberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/800px-15.03.19_Burgruine_Heilsberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/1200px-15.03.19_Burgruine_Heilsberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/1920px-15.03.19_Burgruine_Heilsberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/15.03.19_Burgruine_Heilsberg.JPG/1920px-15.03.19_Burgruine_Heilsberg.JPG
+---
 
 ## Overview
 

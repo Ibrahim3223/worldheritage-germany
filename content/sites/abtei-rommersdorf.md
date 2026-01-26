@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/400px-Rommersdorf_Abteikirche_und_Turm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/800px-Rommersdorf_Abteikirche_und_Turm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/1200px-Rommersdorf_Abteikirche_und_Turm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/1920px-Rommersdorf_Abteikirche_und_Turm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rommersdorf_Abteikirche_und_Turm.jpg/1920px-Rommersdorf_Abteikirche_und_Turm.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/400px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/800px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/1200px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/1920px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg/1920px-Feuerwehr_erlebnis_museum_Hermeskeil,_seit_10._April_2014.jpg
+---
 
 ## Overview
 

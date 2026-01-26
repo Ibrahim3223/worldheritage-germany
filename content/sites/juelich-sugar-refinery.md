@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg/400px-1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg/800px-1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg/1200px-1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg/1920px-1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg/1920px-1991-11_ca_D12-91Nr1_Zuckerfabrik-Juelich-AG_Haupttor_600dpi.jpg
+---
 
 ## Overview
 

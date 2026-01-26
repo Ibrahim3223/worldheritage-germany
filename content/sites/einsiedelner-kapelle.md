@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/400px-Einsiedlerkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/800px-Einsiedlerkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/1200px-Einsiedlerkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/1920px-Einsiedlerkapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/1920px-Einsiedlerkapelle.jpg
+---
 
 ## Overview
 

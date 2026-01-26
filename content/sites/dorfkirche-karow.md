@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/400px-Clp_20060628_Dorfkirche_Karow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/800px-Clp_20060628_Dorfkirche_Karow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/1200px-Clp_20060628_Dorfkirche_Karow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/1920px-Clp_20060628_Dorfkirche_Karow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20060628_Dorfkirche_Karow.jpg/1920px-Clp_20060628_Dorfkirche_Karow.jpg
+---
 
 ## Overview
 

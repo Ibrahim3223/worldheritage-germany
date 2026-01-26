@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/400px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/800px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/1200px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/1920px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg/1920px-Schlossgasse_20_Bad_Lobenstein_20170705_001.jpg
+---
 
 ## Overview
 

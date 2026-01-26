@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/400px-Friedland_Marienkirche_2011-01-28_174.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/800px-Friedland_Marienkirche_2011-01-28_174.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/1200px-Friedland_Marienkirche_2011-01-28_174.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/1920px-Friedland_Marienkirche_2011-01-28_174.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedland_Marienkirche_2011-01-28_174.JPG/1920px-Friedland_Marienkirche_2011-01-28_174.JPG
+---
 
 ## Overview
 

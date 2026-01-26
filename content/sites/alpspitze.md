@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/400px-Alpspitze_(Wetterstein).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/800px-Alpspitze_(Wetterstein).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/1200px-Alpspitze_(Wetterstein).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/1920px-Alpspitze_(Wetterstein).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/1920px-Alpspitze_(Wetterstein).jpg
+---
 
 ## Overview
 

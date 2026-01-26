@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/400px-Grebiner_Windmühle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/800px-Grebiner_Windmühle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/1200px-Grebiner_Windmühle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/1920px-Grebiner_Windmühle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grebiner_Windmühle.jpg/1920px-Grebiner_Windmühle.jpg
+---
 
 ## Overview
 

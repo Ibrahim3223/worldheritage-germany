@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/400px-AhneparkVellmar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/800px-AhneparkVellmar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/1200px-AhneparkVellmar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/1920px-AhneparkVellmar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/AhneparkVellmar.jpg/1920px-AhneparkVellmar.jpg
+---
 
 ## Overview
 

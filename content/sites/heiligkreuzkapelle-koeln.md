@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/400px-Zeughausstraße_und_Umfeld_1570-71.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/800px-Zeughausstraße_und_Umfeld_1570-71.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/1200px-Zeughausstraße_und_Umfeld_1570-71.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/1920px-Zeughausstraße_und_Umfeld_1570-71.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zeughausstraße_und_Umfeld_1570-71.jpg/1920px-Zeughausstraße_und_Umfeld_1570-71.jpg
+---
 
 ## Overview
 

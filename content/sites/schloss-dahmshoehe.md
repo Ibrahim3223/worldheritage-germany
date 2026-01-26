@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/400px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/800px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/1200px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/1920px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG/1920px-Dahmshöhe_Schloss_SJ_Eda_6_Sep_2022_IMG_7773.JPG
+---
 
 ## Overview
 

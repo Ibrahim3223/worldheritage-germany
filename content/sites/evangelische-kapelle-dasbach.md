@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/400px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/800px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/1200px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/1920px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG/1920px-Dasbach,_Kirche_mit_Backhaus_im_Hintergrund.JPG
+---
 
 ## Overview
 

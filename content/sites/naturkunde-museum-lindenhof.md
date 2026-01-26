@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/400px-Lindenhof-Bayreuth.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/800px-Lindenhof-Bayreuth.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/1200px-Lindenhof-Bayreuth.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/1920px-Lindenhof-Bayreuth.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lindenhof-Bayreuth.JPG/1920px-Lindenhof-Bayreuth.JPG
+---
 
 ## Overview
 

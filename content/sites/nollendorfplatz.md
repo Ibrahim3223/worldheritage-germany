@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/400px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/800px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/1200px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/1920px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg/1920px-Nollendorfplatz_B-Schoeneberg_06-2017_img2.jpg
+---
 
 ## Overview
 

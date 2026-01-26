@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/400px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/800px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/1200px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/1920px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PotsdamerPlatz_Vogelperspektive_2004_1.jpg/1920px-PotsdamerPlatz_Vogelperspektive_2004_1.jpg
+---
 
 ## Overview
 

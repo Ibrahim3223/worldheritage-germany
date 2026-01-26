@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/400px-StMartiniBremen-01a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/800px-StMartiniBremen-01a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/1200px-StMartiniBremen-01a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/1920px-StMartiniBremen-01a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/StMartiniBremen-01a.jpg/1920px-StMartiniBremen-01a.jpg
+---
 
 ## Overview
 

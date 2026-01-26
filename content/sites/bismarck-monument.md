@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/400px-Hamburg-Bismarck-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/800px-Hamburg-Bismarck-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/1200px-Hamburg-Bismarck-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/1920px-Hamburg-Bismarck-Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hamburg-Bismarck-Denkmal.jpg/1920px-Hamburg-Bismarck-Denkmal.jpg
+---
 
 ## Overview
 

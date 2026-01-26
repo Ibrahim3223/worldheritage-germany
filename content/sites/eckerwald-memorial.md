@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/400px-Gedenkstaette_Eckerwald.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/800px-Gedenkstaette_Eckerwald.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1200px-Gedenkstaette_Eckerwald.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1920px-Gedenkstaette_Eckerwald.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1920px-Gedenkstaette_Eckerwald.jpg
+---
 
 ## Overview
 

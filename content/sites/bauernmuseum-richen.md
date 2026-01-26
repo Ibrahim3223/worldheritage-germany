@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/400px-Richen-bauernmuseum-edit.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/800px-Richen-bauernmuseum-edit.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/1200px-Richen-bauernmuseum-edit.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/1920px-Richen-bauernmuseum-edit.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richen-bauernmuseum-edit.jpg/1920px-Richen-bauernmuseum-edit.jpg
+---
 
 ## Overview
 

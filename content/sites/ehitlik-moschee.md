@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/400px-Sehitlik1_Moschee_Berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/800px-Sehitlik1_Moschee_Berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1200px-Sehitlik1_Moschee_Berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1920px-Sehitlik1_Moschee_Berlin.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1920px-Sehitlik1_Moschee_Berlin.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/400px-Großer_Zechliner_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/800px-Großer_Zechliner_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/1200px-Großer_Zechliner_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/1920px-Großer_Zechliner_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Großer_Zechliner_See.jpg/1920px-Großer_Zechliner_See.jpg
+---
 
 ## Overview
 

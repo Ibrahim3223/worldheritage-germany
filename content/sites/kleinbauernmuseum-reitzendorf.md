@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/400px-Kleinbauernmuseum_Reitzendorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/800px-Kleinbauernmuseum_Reitzendorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/1200px-Kleinbauernmuseum_Reitzendorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/1920px-Kleinbauernmuseum_Reitzendorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleinbauernmuseum_Reitzendorf.JPG/1920px-Kleinbauernmuseum_Reitzendorf.JPG
+---
 
 ## Overview
 

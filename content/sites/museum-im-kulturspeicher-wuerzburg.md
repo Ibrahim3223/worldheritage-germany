@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/400px-AlterHafenWürzburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/800px-AlterHafenWürzburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/1200px-AlterHafenWürzburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/1920px-AlterHafenWürzburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AlterHafenWürzburg.jpg/1920px-AlterHafenWürzburg.jpg
+---
 
 ## Overview
 

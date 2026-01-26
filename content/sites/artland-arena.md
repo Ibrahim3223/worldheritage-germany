@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/400px-Artland_Arena_Quakenbrück_(2008).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/800px-Artland_Arena_Quakenbrück_(2008).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1200px-Artland_Arena_Quakenbrück_(2008).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1920px-Artland_Arena_Quakenbrück_(2008).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1920px-Artland_Arena_Quakenbrück_(2008).jpg
+---
 
 ## Overview
 

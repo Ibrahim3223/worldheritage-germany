@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/400px-Mannheim_Sternwarte_20100809.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/800px-Mannheim_Sternwarte_20100809.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/1200px-Mannheim_Sternwarte_20100809.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/1920px-Mannheim_Sternwarte_20100809.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mannheim_Sternwarte_20100809.jpg/1920px-Mannheim_Sternwarte_20100809.jpg
+---
 
 ## Overview
 

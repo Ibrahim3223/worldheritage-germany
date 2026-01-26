@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/400px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/800px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/1200px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/1920px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg/1920px-Könitz_Am_Schloßberg_16_Burg_(Schloss)_mit_Nebengebäuden,_Befestigung_und_Grundstück_(Park).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/140126-Lankwitz-Beethoven-Oberschule-2.JPG/400px-140126-Lankwitz-Beethoven-Oberschule-2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/140126-Lankwitz-Beethoven-Oberschule-2.JPG/800px-140126-Lankwitz-Beethoven-Oberschule-2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/140126-Lankwitz-Beethoven-Oberschule-2.JPG/1200px-140126-Lankwitz-Beethoven-Oberschule-2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/140126-Lankwitz-Beethoven-Oberschule-2.JPG/1920px-140126-Lankwitz-Beethoven-Oberschule-2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/140126-Lankwitz-Beethoven-Oberschule-2.JPG/1920px-140126-Lankwitz-Beethoven-Oberschule-2.JPG
+---
 
 ## Overview
 

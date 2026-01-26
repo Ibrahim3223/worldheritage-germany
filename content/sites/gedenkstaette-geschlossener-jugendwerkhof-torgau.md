@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/400px-Gedenkstätte_Torgau_2016_xy4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/800px-Gedenkstätte_Torgau_2016_xy4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/1200px-Gedenkstätte_Torgau_2016_xy4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/1920px-Gedenkstätte_Torgau_2016_xy4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gedenkstätte_Torgau_2016_xy4.JPG/1920px-Gedenkstätte_Torgau_2016_xy4.JPG
+---
 
 ## Overview
 

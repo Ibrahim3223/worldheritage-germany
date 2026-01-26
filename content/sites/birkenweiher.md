@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/400px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/800px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/1200px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/1920px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg/1920px-D-BW-Tettnang_-_Naturschutzgebiet_'Birkenweiher'.jpg
+---
 
 ## Overview
 

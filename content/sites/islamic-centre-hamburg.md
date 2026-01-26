@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/400px-Imam-Ali-Moschee_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/800px-Imam-Ali-Moschee_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1200px-Imam-Ali-Moschee_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1920px-Imam-Ali-Moschee_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1920px-Imam-Ali-Moschee_Hamburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/400px-Saarbruecken_Schloss_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/800px-Saarbruecken_Schloss_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/1200px-Saarbruecken_Schloss_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/1920px-Saarbruecken_Schloss_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Saarbruecken_Schloss_5.jpg/1920px-Saarbruecken_Schloss_5.jpg
+---
 
 ## Overview
 

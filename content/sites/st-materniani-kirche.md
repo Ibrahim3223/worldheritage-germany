@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/400px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/800px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/1200px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/1920px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirche_Westochersum_von_Norden_(bearb_Sp).jpg/1920px-Kirche_Westochersum_von_Norden_(bearb_Sp).jpg
+---
 
 ## Overview
 

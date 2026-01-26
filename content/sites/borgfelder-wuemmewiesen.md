@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/400px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/800px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/1200px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/1920px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg/1920px-Borgfelder_Wümmewiesen_(am_Hollerdeich)_-_1.jpg
+---
 
 ## Overview
 

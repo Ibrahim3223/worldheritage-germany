@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/400px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/800px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/1200px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/1920px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg/1920px-Verden_-_Domherrenhaus_-_geograph.org.uk_-_8456.jpg
+---
 
 ## Overview
 

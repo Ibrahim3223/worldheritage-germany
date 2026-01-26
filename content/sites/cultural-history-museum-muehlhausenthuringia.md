@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/400px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/800px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1200px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1920px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1920px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
+---
 
 ## Overview
 

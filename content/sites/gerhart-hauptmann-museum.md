@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/400px-Wohdiele_Seedorn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/800px-Wohdiele_Seedorn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/1200px-Wohdiele_Seedorn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/1920px-Wohdiele_Seedorn.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wohdiele_Seedorn.JPG/1920px-Wohdiele_Seedorn.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/400px-Heimeranplatz_-_Subway,_platform.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/800px-Heimeranplatz_-_Subway,_platform.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/1200px-Heimeranplatz_-_Subway,_platform.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/1920px-Heimeranplatz_-_Subway,_platform.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heimeranplatz_-_Subway,_platform.JPG/1920px-Heimeranplatz_-_Subway,_platform.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/400px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/800px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/1200px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/1920px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg/1920px-Elbaue_Jerichow_SPA0011_(WDPA_ID_555537432_).jpg
+---
 
 ## Overview
 

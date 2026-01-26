@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/400px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/800px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/1200px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/1920px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg/1920px-Mausoleum,_Buchholz_in_der_Nordheide,_2018-09_I.jpg
+---
 
 ## Overview
 

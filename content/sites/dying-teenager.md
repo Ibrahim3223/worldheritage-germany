@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/400px-Kubika-Juengling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/800px-Kubika-Juengling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/1200px-Kubika-Juengling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/1920px-Kubika-Juengling.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kubika-Juengling.jpg/1920px-Kubika-Juengling.jpg
+---
 
 ## Overview
 

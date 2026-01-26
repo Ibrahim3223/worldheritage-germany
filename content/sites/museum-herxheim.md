@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/400px-Museum_Herxheim_Haupteingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/800px-Museum_Herxheim_Haupteingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/1200px-Museum_Herxheim_Haupteingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/1920px-Museum_Herxheim_Haupteingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Museum_Herxheim_Haupteingang.jpg/1920px-Museum_Herxheim_Haupteingang.jpg
+---
 
 ## Overview
 

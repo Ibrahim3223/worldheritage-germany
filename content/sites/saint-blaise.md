@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/400px-Blasiikirche_Mühlhausen_Türme.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/800px-Blasiikirche_Mühlhausen_Türme.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/1200px-Blasiikirche_Mühlhausen_Türme.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/1920px-Blasiikirche_Mühlhausen_Türme.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Blasiikirche_Mühlhausen_Türme.JPG/1920px-Blasiikirche_Mühlhausen_Türme.JPG
+---
 
 ## Overview
 

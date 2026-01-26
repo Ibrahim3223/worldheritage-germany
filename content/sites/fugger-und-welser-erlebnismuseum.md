@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/400px-Fugger_und_Welser_lebensgroß.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/800px-Fugger_und_Welser_lebensgroß.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1200px-Fugger_und_Welser_lebensgroß.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1920px-Fugger_und_Welser_lebensgroß.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1920px-Fugger_und_Welser_lebensgroß.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/400px-HerdeckeErbbgrSchedeHarkort.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/800px-HerdeckeErbbgrSchedeHarkort.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/1200px-HerdeckeErbbgrSchedeHarkort.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/1920px-HerdeckeErbbgrSchedeHarkort.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/HerdeckeErbbgrSchedeHarkort.jpg/1920px-HerdeckeErbbgrSchedeHarkort.jpg
+---
 
 ## Overview
 

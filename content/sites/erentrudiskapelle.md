@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/400px-Erentrudiskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/800px-Erentrudiskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/1200px-Erentrudiskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/1920px-Erentrudiskapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erentrudiskapelle.JPG/1920px-Erentrudiskapelle.JPG
+---
 
 ## Overview
 

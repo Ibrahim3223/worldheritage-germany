@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/400px-Bieren_Juni_2008_(11).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/800px-Bieren_Juni_2008_(11).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/1200px-Bieren_Juni_2008_(11).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/1920px-Bieren_Juni_2008_(11).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bieren_Juni_2008_(11).jpg/1920px-Bieren_Juni_2008_(11).jpg
+---
 
 ## Overview
 

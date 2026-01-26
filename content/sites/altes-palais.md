@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/400px-Altes_Palais.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/800px-Altes_Palais.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/1200px-Altes_Palais.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/1920px-Altes_Palais.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Altes_Palais.jpg/1920px-Altes_Palais.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/400px-Horkheim-burg-schlossgasse.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/800px-Horkheim-burg-schlossgasse.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1200px-Horkheim-burg-schlossgasse.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1920px-Horkheim-burg-schlossgasse.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1920px-Horkheim-burg-schlossgasse.jpg
+---
 
 ## Overview
 

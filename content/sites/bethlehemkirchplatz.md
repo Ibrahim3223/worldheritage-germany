@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg/400px-Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg/800px-Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg/1200px-Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg/1920px-Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg/1920px-Skulptur_Bethlehemkirchplatz_(Mitte)_Memoria_Urbana_Berlin.jpg
+---
 
 ## Overview
 

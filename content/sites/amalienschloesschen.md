@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karlsruhe_asv2022-10_img02_Nymphengarten.jpg/400px-Karlsruhe_asv2022-10_img02_Nymphengarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karlsruhe_asv2022-10_img02_Nymphengarten.jpg/800px-Karlsruhe_asv2022-10_img02_Nymphengarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karlsruhe_asv2022-10_img02_Nymphengarten.jpg/1200px-Karlsruhe_asv2022-10_img02_Nymphengarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karlsruhe_asv2022-10_img02_Nymphengarten.jpg/1920px-Karlsruhe_asv2022-10_img02_Nymphengarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karlsruhe_asv2022-10_img02_Nymphengarten.jpg/1920px-Karlsruhe_asv2022-10_img02_Nymphengarten.jpg
+---
 
 ## Overview
 

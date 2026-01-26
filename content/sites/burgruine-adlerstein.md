@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burgreste_Aicha_01.jpg/400px-Burgreste_Aicha_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burgreste_Aicha_01.jpg/800px-Burgreste_Aicha_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burgreste_Aicha_01.jpg/1200px-Burgreste_Aicha_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burgreste_Aicha_01.jpg/1920px-Burgreste_Aicha_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burgreste_Aicha_01.jpg/1920px-Burgreste_Aicha_01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/400px-Toreinfahrt_Johannesstift.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/800px-Toreinfahrt_Johannesstift.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/1200px-Toreinfahrt_Johannesstift.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/1920px-Toreinfahrt_Johannesstift.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Toreinfahrt_Johannesstift.JPG/1920px-Toreinfahrt_Johannesstift.JPG
+---
 
 ## Overview
 

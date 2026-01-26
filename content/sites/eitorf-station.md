@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Eitorf.jpg/400px-Bahnhof_Eitorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Eitorf.jpg/800px-Bahnhof_Eitorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Eitorf.jpg/1200px-Bahnhof_Eitorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Eitorf.jpg/1920px-Bahnhof_Eitorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bahnhof_Eitorf.jpg/1920px-Bahnhof_Eitorf.jpg
+---
 
 ## Overview
 

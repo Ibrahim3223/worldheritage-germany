@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/400px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/800px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1200px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1920px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1920px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
+---
 
 ## Overview
 

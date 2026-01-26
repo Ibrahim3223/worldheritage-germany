@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/400px-Funkenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/800px-Funkenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1200px-Funkenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1920px-Funkenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1920px-Funkenburg.jpg
+---
 
 ## Overview
 

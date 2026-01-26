@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/400px-Grab-wille-cronenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/800px-Grab-wille-cronenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1200px-Grab-wille-cronenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1920px-Grab-wille-cronenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1920px-Grab-wille-cronenberg.jpg
+---
 
 ## Overview
 

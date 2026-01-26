@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/400px-Kochendorf-sebastianskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/800px-Kochendorf-sebastianskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/1200px-Kochendorf-sebastianskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/1920px-Kochendorf-sebastianskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kochendorf-sebastianskirche.jpg/1920px-Kochendorf-sebastianskirche.jpg
+---
 
 ## Overview
 

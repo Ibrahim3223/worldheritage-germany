@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/400px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/800px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/1200px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/1920px-Sebastianskapelle_Ladenburg_von_Norden2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sebastianskapelle_Ladenburg_von_Norden2.JPG/1920px-Sebastianskapelle_Ladenburg_von_Norden2.JPG
+---
 
 ## Overview
 

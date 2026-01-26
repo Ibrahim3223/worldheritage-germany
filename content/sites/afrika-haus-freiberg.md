@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/400px-AfrikahausFreiberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/800px-AfrikahausFreiberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1200px-AfrikahausFreiberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1920px-AfrikahausFreiberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1920px-AfrikahausFreiberg.jpg
+---
 
 ## Overview
 

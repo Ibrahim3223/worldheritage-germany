@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/400px-Schwarzer_Garten_15.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/800px-Schwarzer_Garten_15.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/1200px-Schwarzer_Garten_15.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/1920px-Schwarzer_Garten_15.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schwarzer_Garten_15.JPG/1920px-Schwarzer_Garten_15.JPG
+---
 
 ## Overview
 

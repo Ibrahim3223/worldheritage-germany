@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/400px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/800px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/1200px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/1920px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/1920px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
+---
 
 ## Overview
 

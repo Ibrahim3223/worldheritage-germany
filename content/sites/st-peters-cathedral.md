@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/400px-Osnabrück_Dom_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/800px-Osnabrück_Dom_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/1200px-Osnabrück_Dom_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/1920px-Osnabrück_Dom_Westseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Osnabrück_Dom_Westseite.jpg/1920px-Osnabrück_Dom_Westseite.jpg
+---
 
 ## Overview
 

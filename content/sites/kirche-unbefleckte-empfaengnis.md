@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/400px-Katholischekirchewittenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/800px-Katholischekirchewittenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/1200px-Katholischekirchewittenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/1920px-Katholischekirchewittenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Katholischekirchewittenberg.jpg/1920px-Katholischekirchewittenberg.jpg
+---
 
 ## Overview
 

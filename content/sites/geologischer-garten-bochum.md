@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/400px-Geologischer_Garten_Bochum01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/800px-Geologischer_Garten_Bochum01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/1200px-Geologischer_Garten_Bochum01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/1920px-Geologischer_Garten_Bochum01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geologischer_Garten_Bochum01.jpg/1920px-Geologischer_Garten_Bochum01.jpg
+---
 
 ## Overview
 

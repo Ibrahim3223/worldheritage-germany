@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/400px-Dusenddüwelswarf_2020-08-09_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/800px-Dusenddüwelswarf_2020-08-09_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/1200px-Dusenddüwelswarf_2020-08-09_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/1920px-Dusenddüwelswarf_2020-08-09_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dusenddüwelswarf_2020-08-09_1.jpg/1920px-Dusenddüwelswarf_2020-08-09_1.jpg
+---
 
 ## Overview
 

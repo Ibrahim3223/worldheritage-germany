@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/400px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/800px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/1200px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/1920px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg/1920px-Kirchenstr._24_Haidhausen-Museum_Muenchen-1.jpg
+---
 
 ## Overview
 

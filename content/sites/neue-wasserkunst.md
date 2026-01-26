@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/400px-Neue_wasserkunst_bautzen_100.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/800px-Neue_wasserkunst_bautzen_100.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/1200px-Neue_wasserkunst_bautzen_100.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/1920px-Neue_wasserkunst_bautzen_100.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neue_wasserkunst_bautzen_100.JPG/1920px-Neue_wasserkunst_bautzen_100.JPG
+---
 
 ## Overview
 

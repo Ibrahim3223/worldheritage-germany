@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/400px-ChurchWybelsum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/800px-ChurchWybelsum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/1200px-ChurchWybelsum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/1920px-ChurchWybelsum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ChurchWybelsum.JPG/1920px-ChurchWybelsum.JPG
+---
 
 ## Overview
 

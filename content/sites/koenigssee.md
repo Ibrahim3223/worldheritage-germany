@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/400px-Königssee_mirror_view_from_Malerwinkel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/800px-Königssee_mirror_view_from_Malerwinkel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/1200px-Königssee_mirror_view_from_Malerwinkel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/1920px-Königssee_mirror_view_from_Malerwinkel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Königssee_mirror_view_from_Malerwinkel.jpg/1920px-Königssee_mirror_view_from_Malerwinkel.jpg
+---
 
 ## Overview
 

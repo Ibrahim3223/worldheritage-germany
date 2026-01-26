@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/400px-Unibibliothek_Paderborn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/800px-Unibibliothek_Paderborn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/1200px-Unibibliothek_Paderborn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/1920px-Unibibliothek_Paderborn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibibliothek_Paderborn.jpg/1920px-Unibibliothek_Paderborn.jpg
+---
 
 ## Overview
 

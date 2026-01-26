@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/400px-Kloster_Schlehdorf_I.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/800px-Kloster_Schlehdorf_I.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/1200px-Kloster_Schlehdorf_I.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/1920px-Kloster_Schlehdorf_I.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kloster_Schlehdorf_I.jpg/1920px-Kloster_Schlehdorf_I.jpg
+---
 
 ## Overview
 

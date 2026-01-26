@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/400px-Eichstaett_Cathedral.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/800px-Eichstaett_Cathedral.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1200px-Eichstaett_Cathedral.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1920px-Eichstaett_Cathedral.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1920px-Eichstaett_Cathedral.JPG
+---
 
 ## Overview
 

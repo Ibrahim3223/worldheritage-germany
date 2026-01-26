@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/400px-Halle_Betsaeule2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/800px-Halle_Betsaeule2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/1200px-Halle_Betsaeule2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/1920px-Halle_Betsaeule2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Halle_Betsaeule2.jpg/1920px-Halle_Betsaeule2.jpg
+---
 
 ## Overview
 

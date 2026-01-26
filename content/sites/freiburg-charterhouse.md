@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/400px-Peter_Mayer_(1718-1800)_287.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/800px-Peter_Mayer_(1718-1800)_287.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1200px-Peter_Mayer_(1718-1800)_287.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1920px-Peter_Mayer_(1718-1800)_287.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1920px-Peter_Mayer_(1718-1800)_287.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/400px-Rißtissen_Schule_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/800px-Rißtissen_Schule_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/1200px-Rißtissen_Schule_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/1920px-Rißtissen_Schule_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rißtissen_Schule_02.jpg/1920px-Rißtissen_Schule_02.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg/400px-Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg/800px-Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg/1200px-Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg/1920px-Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg/1920px-Parkhöhle_im_Park_an_der_Ilm_in_Weimar_02.jpg
+---
 
 ## Overview
 

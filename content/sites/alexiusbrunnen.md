@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/400px-Alexiusbrunnen_Rastatt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/800px-Alexiusbrunnen_Rastatt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/1200px-Alexiusbrunnen_Rastatt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/1920px-Alexiusbrunnen_Rastatt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Alexiusbrunnen_Rastatt.JPG/1920px-Alexiusbrunnen_Rastatt.JPG
+---
 
 ## Overview
 

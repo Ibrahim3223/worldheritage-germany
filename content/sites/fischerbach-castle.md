@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/400px-08_Fischerbach_Castle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/800px-08_Fischerbach_Castle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1200px-08_Fischerbach_Castle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1920px-08_Fischerbach_Castle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1920px-08_Fischerbach_Castle.JPG
+---
 
 ## Overview
 

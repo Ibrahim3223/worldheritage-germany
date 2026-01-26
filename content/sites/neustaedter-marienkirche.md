@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/400px-Marienkirche_Bi.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/800px-Marienkirche_Bi.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/1200px-Marienkirche_Bi.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/1920px-Marienkirche_Bi.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Marienkirche_Bi.JPG/1920px-Marienkirche_Bi.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Pinguinanlage_HY.JPG/400px-Zoo_Pinguinanlage_HY.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Pinguinanlage_HY.JPG/800px-Zoo_Pinguinanlage_HY.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Pinguinanlage_HY.JPG/1200px-Zoo_Pinguinanlage_HY.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Pinguinanlage_HY.JPG/1920px-Zoo_Pinguinanlage_HY.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Pinguinanlage_HY.JPG/1920px-Zoo_Pinguinanlage_HY.JPG
+---
 
 ## Overview
 

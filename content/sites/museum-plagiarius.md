@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museum-plagiarius.jpg/400px-Museum-plagiarius.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museum-plagiarius.jpg/800px-Museum-plagiarius.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museum-plagiarius.jpg/1200px-Museum-plagiarius.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museum-plagiarius.jpg/1920px-Museum-plagiarius.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Museum-plagiarius.jpg/1920px-Museum-plagiarius.jpg
+---
 
 ## Overview
 

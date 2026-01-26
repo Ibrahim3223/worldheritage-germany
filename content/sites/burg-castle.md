@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/400px-Schloss-burg-20040223-135s.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/800px-Schloss-burg-20040223-135s.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/1200px-Schloss-burg-20040223-135s.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/1920px-Schloss-burg-20040223-135s.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schloss-burg-20040223-135s.jpg/1920px-Schloss-burg-20040223-135s.jpg
+---
 
 ## Overview
 

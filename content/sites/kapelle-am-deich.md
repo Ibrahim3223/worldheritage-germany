@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/400px-Kapelle_am_Deich_Lemwerder.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/800px-Kapelle_am_Deich_Lemwerder.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/1200px-Kapelle_am_Deich_Lemwerder.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/1920px-Kapelle_am_Deich_Lemwerder.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kapelle_am_Deich_Lemwerder.jpg/1920px-Kapelle_am_Deich_Lemwerder.jpg
+---
 
 ## Overview
 

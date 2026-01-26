@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/400px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/800px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/1200px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/1920px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg/1920px-Fuente_de_Stübel_y_colegiata_bella_época_dresde.jpg
+---
 
 ## Overview
 

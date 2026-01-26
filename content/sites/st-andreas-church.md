@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Andreas_Köln_von_oben.jpg/400px-St._Andreas_Köln_von_oben.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Andreas_Köln_von_oben.jpg/800px-St._Andreas_Köln_von_oben.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Andreas_Köln_von_oben.jpg/1200px-St._Andreas_Köln_von_oben.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Andreas_Köln_von_oben.jpg/1920px-St._Andreas_Köln_von_oben.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/St._Andreas_Köln_von_oben.jpg/1920px-St._Andreas_Köln_von_oben.jpg
+---
 
 ## Overview
 

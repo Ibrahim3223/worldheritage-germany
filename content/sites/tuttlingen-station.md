@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/400px-Bahnhof_Tuttlingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/800px-Bahnhof_Tuttlingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/1200px-Bahnhof_Tuttlingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/1920px-Bahnhof_Tuttlingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bahnhof_Tuttlingen.jpg/1920px-Bahnhof_Tuttlingen.jpg
+---
 
 ## Overview
 

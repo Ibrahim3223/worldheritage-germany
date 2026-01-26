@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/400px-München_Residenztheater.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/800px-München_Residenztheater.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/1200px-München_Residenztheater.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/1920px-München_Residenztheater.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/1920px-München_Residenztheater.JPG
+---
 
 ## Overview
 

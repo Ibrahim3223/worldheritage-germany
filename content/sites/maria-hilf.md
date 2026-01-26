@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/400px-Maria-Hilf-Frankfurt-Outside.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/800px-Maria-Hilf-Frankfurt-Outside.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/1200px-Maria-Hilf-Frankfurt-Outside.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/1920px-Maria-Hilf-Frankfurt-Outside.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Maria-Hilf-Frankfurt-Outside.jpg/1920px-Maria-Hilf-Frankfurt-Outside.jpg
+---
 
 ## Overview
 

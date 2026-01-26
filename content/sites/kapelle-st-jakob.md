@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oberjochkirche2.jpg/400px-Oberjochkirche2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oberjochkirche2.jpg/800px-Oberjochkirche2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oberjochkirche2.jpg/1200px-Oberjochkirche2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oberjochkirche2.jpg/1920px-Oberjochkirche2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oberjochkirche2.jpg/1920px-Oberjochkirche2.jpg
+---
 
 ## Overview
 

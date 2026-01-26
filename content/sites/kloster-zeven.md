@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/400px-Zeven_St_Viti_Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/800px-Zeven_St_Viti_Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/1200px-Zeven_St_Viti_Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/1920px-Zeven_St_Viti_Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Zeven_St_Viti_Kirche.jpg/1920px-Zeven_St_Viti_Kirche.jpg
+---
 
 ## Overview
 

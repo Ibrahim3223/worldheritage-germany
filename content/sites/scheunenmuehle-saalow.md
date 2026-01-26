@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/400px-Scheunenmuehle-DCP_7731-saalow.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/800px-Scheunenmuehle-DCP_7731-saalow.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/1200px-Scheunenmuehle-DCP_7731-saalow.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/1920px-Scheunenmuehle-DCP_7731-saalow.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scheunenmuehle-DCP_7731-saalow.JPG/1920px-Scheunenmuehle-DCP_7731-saalow.JPG
+---
 
 ## Overview
 

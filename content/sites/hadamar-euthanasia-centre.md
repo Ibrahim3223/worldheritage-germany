@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/400px-Hadamar_012.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/800px-Hadamar_012.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1200px-Hadamar_012.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1920px-Hadamar_012.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1920px-Hadamar_012.JPG
+---
 
 ## Overview
 

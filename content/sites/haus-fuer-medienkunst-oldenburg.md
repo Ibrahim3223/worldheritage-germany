@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/400px-Edith-Russ-Haus_building,_Oldenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/800px-Edith-Russ-Haus_building,_Oldenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/1200px-Edith-Russ-Haus_building,_Oldenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/1920px-Edith-Russ-Haus_building,_Oldenburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Edith-Russ-Haus_building,_Oldenburg.JPG/1920px-Edith-Russ-Haus_building,_Oldenburg.JPG
+---
 
 ## Overview
 

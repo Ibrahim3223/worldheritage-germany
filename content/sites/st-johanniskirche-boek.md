@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/400px-Kirche_in_Boek.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/800px-Kirche_in_Boek.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/1200px-Kirche_in_Boek.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/1920px-Kirche_in_Boek.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche_in_Boek.jpg/1920px-Kirche_in_Boek.jpg
+---
 
 ## Overview
 

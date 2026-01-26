@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/400px-Hildburghausen_Stadtmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/800px-Hildburghausen_Stadtmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/1200px-Hildburghausen_Stadtmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/1920px-Hildburghausen_Stadtmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hildburghausen_Stadtmuseum.JPG/1920px-Hildburghausen_Stadtmuseum.JPG
+---
 
 ## Overview
 

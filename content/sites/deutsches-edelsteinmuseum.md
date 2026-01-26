@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/400px-Deutsches_Edelsteinmuseum_IO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/800px-Deutsches_Edelsteinmuseum_IO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1200px-Deutsches_Edelsteinmuseum_IO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1920px-Deutsches_Edelsteinmuseum_IO.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1920px-Deutsches_Edelsteinmuseum_IO.JPG
+---
 
 ## Overview
 

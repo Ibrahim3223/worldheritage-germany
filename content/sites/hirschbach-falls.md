@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/400px-Hirschbachfälle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/800px-Hirschbachfälle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/1200px-Hirschbachfälle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/1920px-Hirschbachfälle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hirschbachfälle.jpg/1920px-Hirschbachfälle.jpg
+---
 
 # Guide to Hirschbach Falls
 

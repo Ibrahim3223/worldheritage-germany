@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/400px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/800px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/1200px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/1920px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG/1920px-Giesestr_St._Martin_Kaulsdorf_2012-3-21_ama_fec_(15).JPG
+---
 
 ## Overview
 

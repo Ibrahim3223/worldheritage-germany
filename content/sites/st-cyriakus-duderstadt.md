@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/400px-Domduderstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/800px-Domduderstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/1200px-Domduderstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/1920px-Domduderstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Domduderstadt.jpg/1920px-Domduderstadt.jpg
+---
 
 ## Overview
 

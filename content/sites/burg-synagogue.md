@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/400px-Synagoge_Burg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/800px-Synagoge_Burg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/1200px-Synagoge_Burg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/1920px-Synagoge_Burg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Synagoge_Burg.JPG/1920px-Synagoge_Burg.JPG
+---
 
 ## Overview
 

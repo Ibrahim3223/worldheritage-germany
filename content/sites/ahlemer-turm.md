@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/400px-Ahlemer_Turm_Hanover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/800px-Ahlemer_Turm_Hanover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/1200px-Ahlemer_Turm_Hanover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/1920px-Ahlemer_Turm_Hanover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ahlemer_Turm_Hanover_Germany.jpg/1920px-Ahlemer_Turm_Hanover_Germany.jpg
+---
 
 ## Overview
 

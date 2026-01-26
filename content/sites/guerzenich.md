@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/400px-Gürzenich_(9096-98).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/800px-Gürzenich_(9096-98).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/1200px-Gürzenich_(9096-98).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/1920px-Gürzenich_(9096-98).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gürzenich_(9096-98).jpg/1920px-Gürzenich_(9096-98).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/400px-Pfalzgaleie_KL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/800px-Pfalzgaleie_KL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/1200px-Pfalzgaleie_KL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/1920px-Pfalzgaleie_KL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pfalzgaleie_KL.jpg/1920px-Pfalzgaleie_KL.jpg
+---
 
 ## Overview
 

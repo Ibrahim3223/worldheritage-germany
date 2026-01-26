@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/400px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/800px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1200px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1920px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1920px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
+---
 
 ## Overview
 

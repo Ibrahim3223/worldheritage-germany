@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/400px-Stendal_Dom_2011-09-16.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/800px-Stendal_Dom_2011-09-16.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/1200px-Stendal_Dom_2011-09-16.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/1920px-Stendal_Dom_2011-09-16.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stendal_Dom_2011-09-16.jpg/1920px-Stendal_Dom_2011-09-16.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/400px-Papenburger_Zeitspeicher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/800px-Papenburger_Zeitspeicher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/1200px-Papenburger_Zeitspeicher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/1920px-Papenburger_Zeitspeicher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Papenburger_Zeitspeicher.jpg/1920px-Papenburger_Zeitspeicher.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/St._Andreas_Worms_4.JPG/400px-St._Andreas_Worms_4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/St._Andreas_Worms_4.JPG/800px-St._Andreas_Worms_4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/St._Andreas_Worms_4.JPG/1200px-St._Andreas_Worms_4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/St._Andreas_Worms_4.JPG/1920px-St._Andreas_Worms_4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/St._Andreas_Worms_4.JPG/1920px-St._Andreas_Worms_4.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/400px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/800px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/1200px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/1920px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg/1920px-Walsrode455Klosterkapelle+Chor_d_Stadtkirche.jpg
+---
 
 ## Overview
 

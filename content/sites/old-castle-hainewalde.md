@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/400px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/800px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/1200px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/1920px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg/1920px-20170327100DR_Hainewalde_(Großschönau)_Altes_Schloß.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/400px-Mannheim-Hafenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/800px-Mannheim-Hafenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/1200px-Mannheim-Hafenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/1920px-Mannheim-Hafenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/1920px-Mannheim-Hafenkirche.jpg
+---
 
 ## Overview
 

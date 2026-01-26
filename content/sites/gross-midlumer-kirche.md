@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/400px-Groß_Midlum_Westseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/800px-Groß_Midlum_Westseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1200px-Groß_Midlum_Westseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1920px-Groß_Midlum_Westseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1920px-Groß_Midlum_Westseite.jpg
+---
 
 ## Overview
 

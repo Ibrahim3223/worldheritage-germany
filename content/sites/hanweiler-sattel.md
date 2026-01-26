@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/400px-Hanweiler_Sattel_Passhöhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/800px-Hanweiler_Sattel_Passhöhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/1200px-Hanweiler_Sattel_Passhöhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/1920px-Hanweiler_Sattel_Passhöhe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanweiler_Sattel_Passhöhe.jpg/1920px-Hanweiler_Sattel_Passhöhe.jpg
+---
 
 ## Overview
 

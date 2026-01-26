@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/400px-Igeler_Säule_(23).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/800px-Igeler_Säule_(23).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1200px-Igeler_Säule_(23).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1920px-Igeler_Säule_(23).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1920px-Igeler_Säule_(23).jpg
+---
 
 ## Overview
 

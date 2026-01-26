@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/400px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/800px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/1200px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/1920px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg/1920px-Bundesarchiv_Bild_183-81062-0001,_Leipzig,_Denkmal_Friedensfahrt.jpg
+---
 
 ## Overview
 

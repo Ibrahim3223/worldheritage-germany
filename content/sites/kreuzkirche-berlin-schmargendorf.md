@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/400px-Kreuzkirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/800px-Kreuzkirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/1200px-Kreuzkirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/1920px-Kreuzkirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kreuzkirche.JPG/1920px-Kreuzkirche.JPG
+---
 
 ## Overview
 

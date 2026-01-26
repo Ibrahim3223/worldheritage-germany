@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/400px-Berwartstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/800px-Berwartstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1200px-Berwartstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1920px-Berwartstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1920px-Berwartstein.JPG
+---
 
 ## Overview
 

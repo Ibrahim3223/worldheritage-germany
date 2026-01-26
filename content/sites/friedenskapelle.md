@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/400px-Brilon-Borbergkapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/800px-Brilon-Borbergkapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/1200px-Brilon-Borbergkapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/1920px-Brilon-Borbergkapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brilon-Borbergkapelle.jpg/1920px-Brilon-Borbergkapelle.jpg
+---
 
 ## Overview
 

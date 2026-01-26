@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/400px-Burg_Klötze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/800px-Burg_Klötze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/1200px-Burg_Klötze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/1920px-Burg_Klötze.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg_Klötze.jpg/1920px-Burg_Klötze.jpg
+---
 
 ## Overview
 

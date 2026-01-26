@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/400px-Braunschweig_Altstadtmarkt_Panorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/800px-Braunschweig_Altstadtmarkt_Panorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/1200px-Braunschweig_Altstadtmarkt_Panorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/1920px-Braunschweig_Altstadtmarkt_Panorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Braunschweig_Altstadtmarkt_Panorama.jpg/1920px-Braunschweig_Altstadtmarkt_Panorama.jpg
+---
 
 ## Overview
 

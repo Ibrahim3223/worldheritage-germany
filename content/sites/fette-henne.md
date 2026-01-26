@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/400px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/800px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/1200px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/1920px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg/1920px-Brunnen_Buckower_Damm_160_(Britz)_Fette_Henne&Rolf_Szymanski&1984.jpg
+---
 
 ## Overview
 

@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/400px-Blick_vom_Jelení_hora_nach_Südwest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/800px-Blick_vom_Jelení_hora_nach_Südwest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/1200px-Blick_vom_Jelení_hora_nach_Südwest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/1920px-Blick_vom_Jelení_hora_nach_Südwest.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Blick_vom_Jelení_hora_nach_Südwest.JPG/1920px-Blick_vom_Jelení_hora_nach_Südwest.JPG
+---
 
 ## Overview
 

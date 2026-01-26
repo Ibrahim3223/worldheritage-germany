@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/400px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/800px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/1200px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/1920px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg/1920px-Oberhausen_-_Kaisergarten_-_Schloss_18_ies.jpg
+---
 
 ## Overview
 

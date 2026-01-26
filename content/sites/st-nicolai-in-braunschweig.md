@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/400px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/800px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/1200px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/1920px-Braunschweig_Brunswick_Nicolai-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Braunschweig_Brunswick_Nicolai-Kirche.jpg/1920px-Braunschweig_Brunswick_Nicolai-Kirche.jpg
+---
 
 ## Overview
 

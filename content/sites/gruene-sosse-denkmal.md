@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/400px-Gruene-Sauce-Denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/800px-Gruene-Sauce-Denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/1200px-Gruene-Sauce-Denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/1920px-Gruene-Sauce-Denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gruene-Sauce-Denkmal.jpg/1920px-Gruene-Sauce-Denkmal.jpg
+---
 
 ## Overview
 

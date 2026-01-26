@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/400px-Liedenküppel-Milseburg.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/800px-Liedenküppel-Milseburg.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/1200px-Liedenküppel-Milseburg.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/1920px-Liedenküppel-Milseburg.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liedenküppel-Milseburg.png/1920px-Liedenküppel-Milseburg.png
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/400px-Enderttor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/800px-Enderttor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/1200px-Enderttor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/1920px-Enderttor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enderttor.jpg/1920px-Enderttor.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/400px-Loburg1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/800px-Loburg1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1200px-Loburg1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1920px-Loburg1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1920px-Loburg1.JPG
+---
 
 ## Overview
 

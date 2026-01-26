@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/400px-Martinskirche_Ludwigshafen_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/800px-Martinskirche_Ludwigshafen_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/1200px-Martinskirche_Ludwigshafen_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/1920px-Martinskirche_Ludwigshafen_02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martinskirche_Ludwigshafen_02.JPG/1920px-Martinskirche_Ludwigshafen_02.JPG
+---
 
 ## Overview
 

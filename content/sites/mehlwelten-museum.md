@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flour_art_museum.jpg/400px-Flour_art_museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flour_art_museum.jpg/800px-Flour_art_museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flour_art_museum.jpg/1200px-Flour_art_museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flour_art_museum.jpg/1920px-Flour_art_museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flour_art_museum.jpg/1920px-Flour_art_museum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/400px-Synagogengedenkstein_Hanau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/800px-Synagogengedenkstein_Hanau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/1200px-Synagogengedenkstein_Hanau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/1920px-Synagogengedenkstein_Hanau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogengedenkstein_Hanau.jpg/1920px-Synagogengedenkstein_Hanau.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/400px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/800px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/1200px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/1920px-Etzdorf_(Teutschenthal),_the_manor_house.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Etzdorf_(Teutschenthal),_the_manor_house.jpg/1920px-Etzdorf_(Teutschenthal),_the_manor_house.jpg
+---
 
 ## Overview
 

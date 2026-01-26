@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/400px-Schloss_Oberoderwitz_2010_06_27_00.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/800px-Schloss_Oberoderwitz_2010_06_27_00.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/1200px-Schloss_Oberoderwitz_2010_06_27_00.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/1920px-Schloss_Oberoderwitz_2010_06_27_00.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Schloss_Oberoderwitz_2010_06_27_00.jpg/1920px-Schloss_Oberoderwitz_2010_06_27_00.jpg
+---
 
 ## Overview
 

@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/400px-Corvey_Anlage_vom_Torhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/800px-Corvey_Anlage_vom_Torhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/1200px-Corvey_Anlage_vom_Torhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/1920px-Corvey_Anlage_vom_Torhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Corvey_Anlage_vom_Torhaus.jpg/1920px-Corvey_Anlage_vom_Torhaus.jpg
+---
 
 ## Overview
 

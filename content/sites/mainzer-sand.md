@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mainzer_Sand_(5_von_21).jpg/400px-Mainzer_Sand_(5_von_21).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mainzer_Sand_(5_von_21).jpg/800px-Mainzer_Sand_(5_von_21).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mainzer_Sand_(5_von_21).jpg/1200px-Mainzer_Sand_(5_von_21).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mainzer_Sand_(5_von_21).jpg/1920px-Mainzer_Sand_(5_von_21).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mainzer_Sand_(5_von_21).jpg/1920px-Mainzer_Sand_(5_von_21).jpg
+---
 
 ## Overview
 

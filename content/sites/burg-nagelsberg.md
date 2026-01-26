@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/400px-Burg_Nagelsberg_Zufahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/800px-Burg_Nagelsberg_Zufahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/1200px-Burg_Nagelsberg_Zufahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/1920px-Burg_Nagelsberg_Zufahrt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nagelsberg_Zufahrt.jpg/1920px-Burg_Nagelsberg_Zufahrt.jpg
+---
 
 ## Overview
 

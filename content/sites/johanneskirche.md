@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/400px-Düsseldorf_Johannes_v_SW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/800px-Düsseldorf_Johannes_v_SW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/1200px-Düsseldorf_Johannes_v_SW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/1920px-Düsseldorf_Johannes_v_SW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/1920px-Düsseldorf_Johannes_v_SW.jpg
+---
 
 ## Overview
 

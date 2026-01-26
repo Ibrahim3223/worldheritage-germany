@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/400px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/800px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/1200px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/1920px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg/1920px-Rottenburg_Sumelocenna_by_Eduard_von_Kallee.jpg
+---
 
 ## Overview
 

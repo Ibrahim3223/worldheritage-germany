@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/400px-Radebeul_Zillerplatz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/800px-Radebeul_Zillerplatz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/1200px-Radebeul_Zillerplatz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/1920px-Radebeul_Zillerplatz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Radebeul_Zillerplatz.jpg/1920px-Radebeul_Zillerplatz.jpg
+---
 
 ## Overview
 

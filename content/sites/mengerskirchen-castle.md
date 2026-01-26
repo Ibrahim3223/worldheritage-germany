@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/400px-Mengerskirchen_Schloss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/800px-Mengerskirchen_Schloss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/1200px-Mengerskirchen_Schloss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/1920px-Mengerskirchen_Schloss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mengerskirchen_Schloss.jpg/1920px-Mengerskirchen_Schloss.jpg
+---
 
 ## Overview
 

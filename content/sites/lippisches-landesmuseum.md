@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Landesmuseum01.jpg/400px-Landesmuseum01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Landesmuseum01.jpg/800px-Landesmuseum01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Landesmuseum01.jpg/1200px-Landesmuseum01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Landesmuseum01.jpg/1920px-Landesmuseum01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Landesmuseum01.jpg/1920px-Landesmuseum01.jpg
+---
 
 ## Overview
 

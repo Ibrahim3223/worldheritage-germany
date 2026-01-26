@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/400px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/800px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/1200px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/1920px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gedenkstein_altes_Gewerkschaftshaus_6388.jpg/1920px-Gedenkstein_altes_Gewerkschaftshaus_6388.jpg
+---
 
 ## Overview
 

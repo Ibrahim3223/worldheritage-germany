@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/400px-Soldatenfriedhof_Böddeken_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/800px-Soldatenfriedhof_Böddeken_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/1200px-Soldatenfriedhof_Böddeken_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/1920px-Soldatenfriedhof_Böddeken_003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Soldatenfriedhof_Böddeken_003.jpg/1920px-Soldatenfriedhof_Böddeken_003.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/400px-Perlenbachtalsperre_mit_Staudamm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/800px-Perlenbachtalsperre_mit_Staudamm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/1200px-Perlenbachtalsperre_mit_Staudamm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/1920px-Perlenbachtalsperre_mit_Staudamm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Perlenbachtalsperre_mit_Staudamm.JPG/1920px-Perlenbachtalsperre_mit_Staudamm.JPG
+---
 
 ## Overview
 

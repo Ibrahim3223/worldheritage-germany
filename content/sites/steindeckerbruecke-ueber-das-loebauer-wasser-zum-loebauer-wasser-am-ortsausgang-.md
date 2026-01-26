@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/400px-Rakojdy_–_móst_přez_Lubatu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/800px-Rakojdy_–_móst_přez_Lubatu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/1200px-Rakojdy_–_móst_přez_Lubatu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/1920px-Rakojdy_–_móst_přez_Lubatu.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rakojdy_–_móst_přez_Lubatu.jpg/1920px-Rakojdy_–_móst_přez_Lubatu.jpg
+---
 
 ## Overview
 

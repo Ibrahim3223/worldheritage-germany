@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bornheim-Rösberg,_Schloss_Rösberg.JPG/400px-Bornheim-Rösberg,_Schloss_Rösberg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bornheim-Rösberg,_Schloss_Rösberg.JPG/800px-Bornheim-Rösberg,_Schloss_Rösberg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bornheim-Rösberg,_Schloss_Rösberg.JPG/1200px-Bornheim-Rösberg,_Schloss_Rösberg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bornheim-Rösberg,_Schloss_Rösberg.JPG/1920px-Bornheim-Rösberg,_Schloss_Rösberg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bornheim-Rösberg,_Schloss_Rösberg.JPG/1920px-Bornheim-Rösberg,_Schloss_Rösberg.JPG
+---
 
 ## Overview
 

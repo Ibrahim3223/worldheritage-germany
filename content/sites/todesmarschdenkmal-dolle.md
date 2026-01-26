@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/400px-Dolle_Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/800px-Dolle_Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/1200px-Dolle_Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/1920px-Dolle_Denkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dolle_Denkmal.JPG/1920px-Dolle_Denkmal.JPG
+---
 
 ## Overview
 

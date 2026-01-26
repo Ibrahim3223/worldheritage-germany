@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/400px-Alpines_Museum_München_neu_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/800px-Alpines_Museum_München_neu_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/1200px-Alpines_Museum_München_neu_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/1920px-Alpines_Museum_München_neu_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Alpines_Museum_München_neu_04.jpg/1920px-Alpines_Museum_München_neu_04.jpg
+---
 
 ## Overview
 

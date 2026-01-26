@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/400px-Kunsthaus_essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/800px-Kunsthaus_essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/1200px-Kunsthaus_essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/1920px-Kunsthaus_essen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kunsthaus_essen.jpg/1920px-Kunsthaus_essen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/400px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/800px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/1200px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/1920px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg/1920px-Lenzkirch,_Rathaus_--_2025_--_7736-9.jpg
+---
 
 ## Overview
 

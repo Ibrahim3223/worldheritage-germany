@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/400px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/800px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1200px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1920px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1920px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
+---
 
 ## Overview
 

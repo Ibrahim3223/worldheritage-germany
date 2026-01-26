@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/400px-Kirche_Marienberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/800px-Kirche_Marienberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/1200px-Kirche_Marienberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/1920px-Kirche_Marienberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kirche_Marienberg.jpg/1920px-Kirche_Marienberg.jpg
+---
 
 ## Overview
 

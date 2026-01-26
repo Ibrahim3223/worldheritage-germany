@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/400px-Apostelkirche_-_Münster_-_001_-_church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/800px-Apostelkirche_-_Münster_-_001_-_church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1200px-Apostelkirche_-_Münster_-_001_-_church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1920px-Apostelkirche_-_Münster_-_001_-_church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1920px-Apostelkirche_-_Münster_-_001_-_church.jpg
+---
 
 ## Overview
 

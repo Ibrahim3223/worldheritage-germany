@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hauptstraße_38_Bergrheinfeld_20191219_002.jpg/400px-Hauptstraße_38_Bergrheinfeld_20191219_002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hauptstraße_38_Bergrheinfeld_20191219_002.jpg/800px-Hauptstraße_38_Bergrheinfeld_20191219_002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hauptstraße_38_Bergrheinfeld_20191219_002.jpg/1200px-Hauptstraße_38_Bergrheinfeld_20191219_002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hauptstraße_38_Bergrheinfeld_20191219_002.jpg/1920px-Hauptstraße_38_Bergrheinfeld_20191219_002.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hauptstraße_38_Bergrheinfeld_20191219_002.jpg/1920px-Hauptstraße_38_Bergrheinfeld_20191219_002.jpg
+---
 
 ## Overview
 

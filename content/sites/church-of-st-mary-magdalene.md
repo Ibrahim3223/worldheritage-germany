@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/400px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/800px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/1200px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/1920px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/240_2015_07_14_Kirche_St._Maria_Magdalena.jpg/1920px-240_2015_07_14_Kirche_St._Maria_Magdalena.jpg
+---
 
 ## Overview
 

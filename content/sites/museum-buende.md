@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/400px-Bünde_x1x_154.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/800px-Bünde_x1x_154.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/1200px-Bünde_x1x_154.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/1920px-Bünde_x1x_154.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bünde_x1x_154.jpg/1920px-Bünde_x1x_154.jpg
+---
 
 ## Overview
 

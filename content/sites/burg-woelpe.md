@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/400px-Wölpe_Burghügel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/800px-Wölpe_Burghügel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/1200px-Wölpe_Burghügel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/1920px-Wölpe_Burghügel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wölpe_Burghügel.jpg/1920px-Wölpe_Burghügel.jpg
+---
 
 ## Overview
 

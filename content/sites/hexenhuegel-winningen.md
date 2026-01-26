@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/400px-Winningen_Hexendenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/800px-Winningen_Hexendenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/1200px-Winningen_Hexendenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/1920px-Winningen_Hexendenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Winningen_Hexendenkmal.jpg/1920px-Winningen_Hexendenkmal.jpg
+---
 
 ## Overview
 

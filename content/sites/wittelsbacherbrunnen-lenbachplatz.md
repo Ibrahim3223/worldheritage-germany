@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/400px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/800px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/1200px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/1920px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG/1920px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2015-07-04,_DD_07-09_HDR.JPG
+---
 
 ## Overview
 

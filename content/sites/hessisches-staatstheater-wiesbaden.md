@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/400px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/800px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1200px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1920px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1920px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
+---
 
 ## Overview
 

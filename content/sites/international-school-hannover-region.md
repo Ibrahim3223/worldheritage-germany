@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/400px-International_School_Hannover_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/800px-International_School_Hannover_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1200px-International_School_Hannover_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1920px-International_School_Hannover_Front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1920px-International_School_Hannover_Front.jpg
+---
 
 ## Overview
 

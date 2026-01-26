@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/400px-Weisingen_Herrgottskapelle_1700.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/800px-Weisingen_Herrgottskapelle_1700.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/1200px-Weisingen_Herrgottskapelle_1700.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/1920px-Weisingen_Herrgottskapelle_1700.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Weisingen_Herrgottskapelle_1700.JPG/1920px-Weisingen_Herrgottskapelle_1700.JPG
+---
 
 ## Overview
 

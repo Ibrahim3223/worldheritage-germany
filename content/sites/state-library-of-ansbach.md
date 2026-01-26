@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/400px-Staatsbibliothek_Ansbach_08.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/800px-Staatsbibliothek_Ansbach_08.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/1200px-Staatsbibliothek_Ansbach_08.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/1920px-Staatsbibliothek_Ansbach_08.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Staatsbibliothek_Ansbach_08.jpg/1920px-Staatsbibliothek_Ansbach_08.jpg
+---
 
 ## Overview
 

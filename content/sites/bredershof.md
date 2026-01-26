@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/400px-Bredershof_Niederdollendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/800px-Bredershof_Niederdollendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/1200px-Bredershof_Niederdollendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/1920px-Bredershof_Niederdollendorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bredershof_Niederdollendorf.jpg/1920px-Bredershof_Niederdollendorf.jpg
+---
 
 ## Overview
 

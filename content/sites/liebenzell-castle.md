@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BadLiebenzellBurg.jpg/400px-BadLiebenzellBurg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BadLiebenzellBurg.jpg/800px-BadLiebenzellBurg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BadLiebenzellBurg.jpg/1200px-BadLiebenzellBurg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BadLiebenzellBurg.jpg/1920px-BadLiebenzellBurg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BadLiebenzellBurg.jpg/1920px-BadLiebenzellBurg.jpg
+---
 
 ## Overview
 

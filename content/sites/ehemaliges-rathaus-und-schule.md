@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/400px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/800px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/1200px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/1920px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg/1920px-Niederroßbach_(Haiger)_-_Grundstraße_9_(KD.HE_132882_1_08.2015).jpg
+---
 
 ## Overview
 

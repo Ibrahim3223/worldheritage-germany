@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/400px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/800px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/1200px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/1920px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg/1920px-Fotothek_df_rp-h_0040037_Märkische_Heide-Hohenbrück._Bockmühle,_ruinös.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/400px-Museum-Waldenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/800px-Museum-Waldenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/1200px-Museum-Waldenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/1920px-Museum-Waldenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum-Waldenburg.jpg/1920px-Museum-Waldenburg.jpg
+---
 
 ## Overview
 

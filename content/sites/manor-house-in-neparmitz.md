@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/400px-Neparmitz_Süd.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/800px-Neparmitz_Süd.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/1200px-Neparmitz_Süd.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/1920px-Neparmitz_Süd.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neparmitz_Süd.jpg/1920px-Neparmitz_Süd.jpg
+---
 
 ## Overview
 

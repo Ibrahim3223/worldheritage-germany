@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Schloss_Ittendorf-7760.jpg/400px-Schloss_Ittendorf-7760.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Schloss_Ittendorf-7760.jpg/800px-Schloss_Ittendorf-7760.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Schloss_Ittendorf-7760.jpg/1200px-Schloss_Ittendorf-7760.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Schloss_Ittendorf-7760.jpg/1920px-Schloss_Ittendorf-7760.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Schloss_Ittendorf-7760.jpg/1920px-Schloss_Ittendorf-7760.jpg
+---
 
 ## Overview
 

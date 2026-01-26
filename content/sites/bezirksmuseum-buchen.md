@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BuchenSteinernerBau.jpg/400px-BuchenSteinernerBau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BuchenSteinernerBau.jpg/800px-BuchenSteinernerBau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BuchenSteinernerBau.jpg/1200px-BuchenSteinernerBau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BuchenSteinernerBau.jpg/1920px-BuchenSteinernerBau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BuchenSteinernerBau.jpg/1920px-BuchenSteinernerBau.jpg
+---
 
 ## Overview
 

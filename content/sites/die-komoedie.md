@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Frankfurt_Die_Komödie_2.jpg/400px-Frankfurt_Die_Komödie_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Frankfurt_Die_Komödie_2.jpg/800px-Frankfurt_Die_Komödie_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Frankfurt_Die_Komödie_2.jpg/1200px-Frankfurt_Die_Komödie_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Frankfurt_Die_Komödie_2.jpg/1920px-Frankfurt_Die_Komödie_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Frankfurt_Die_Komödie_2.jpg/1920px-Frankfurt_Die_Komödie_2.jpg
+---
 
 ## Overview
 

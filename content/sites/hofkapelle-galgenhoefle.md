@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/400px-Hofkapelle_Galgenhöfle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/800px-Hofkapelle_Galgenhöfle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/1200px-Hofkapelle_Galgenhöfle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/1920px-Hofkapelle_Galgenhöfle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofkapelle_Galgenhöfle.jpg/1920px-Hofkapelle_Galgenhöfle.jpg
+---
 
 ## Overview
 

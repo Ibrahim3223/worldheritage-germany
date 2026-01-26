@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/400px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/800px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/1200px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/1920px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG/1920px-Nordseite_des_Kunsttempels,_Kunststaette_Bossard.JPG
+---
 
 ## Overview
 

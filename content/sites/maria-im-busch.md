@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Maria_im_Busch_(Frobergkapelle)m.jpg/400px-Maria_im_Busch_(Frobergkapelle)m.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Maria_im_Busch_(Frobergkapelle)m.jpg/800px-Maria_im_Busch_(Frobergkapelle)m.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Maria_im_Busch_(Frobergkapelle)m.jpg/1200px-Maria_im_Busch_(Frobergkapelle)m.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Maria_im_Busch_(Frobergkapelle)m.jpg/1920px-Maria_im_Busch_(Frobergkapelle)m.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Maria_im_Busch_(Frobergkapelle)m.jpg/1920px-Maria_im_Busch_(Frobergkapelle)m.jpg
+---
 
 ## Overview
 

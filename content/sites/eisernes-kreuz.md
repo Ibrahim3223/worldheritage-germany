@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/400px-Eisernes_Kreuz_Klötze.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/800px-Eisernes_Kreuz_Klötze.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/1200px-Eisernes_Kreuz_Klötze.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/1920px-Eisernes_Kreuz_Klötze.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Eisernes_Kreuz_Klötze.JPG/1920px-Eisernes_Kreuz_Klötze.JPG
+---
 
 ## Overview
 

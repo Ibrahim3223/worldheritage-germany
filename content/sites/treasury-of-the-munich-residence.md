@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/400px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/800px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/1200px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/1920px-Kristallraum,_Schatzkammer,_2017-09-13.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kristallraum,_Schatzkammer,_2017-09-13.jpg/1920px-Kristallraum,_Schatzkammer,_2017-09-13.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/400px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/800px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1200px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1920px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg/1920px-Jemgum_Midlum_-_Denkmalstraße_-_Friedhof_+_Kirche_04_ies.jpg
+---
 
 ## Overview
 

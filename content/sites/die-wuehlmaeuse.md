@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_Wühlmäuse.JPG/400px-Berlin_Wühlmäuse.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_Wühlmäuse.JPG/800px-Berlin_Wühlmäuse.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_Wühlmäuse.JPG/1200px-Berlin_Wühlmäuse.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_Wühlmäuse.JPG/1920px-Berlin_Wühlmäuse.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_Wühlmäuse.JPG/1920px-Berlin_Wühlmäuse.JPG
+---
 
 ## Overview
 

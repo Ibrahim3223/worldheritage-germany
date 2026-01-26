@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/400px-AnklamerTorFriedland.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/800px-AnklamerTorFriedland.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/1200px-AnklamerTorFriedland.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/1920px-AnklamerTorFriedland.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AnklamerTorFriedland.JPG/1920px-AnklamerTorFriedland.JPG
+---
 
 ## Overview
 

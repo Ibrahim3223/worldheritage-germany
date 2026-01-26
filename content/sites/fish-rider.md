@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/400px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/800px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/1200px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/1920px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg/1920px-Skulptur_Uhlandstr_150A_(Wilmd)_Fischreiterin_Georges_Morin_1929.jpg
+---
 
 ## Overview
 

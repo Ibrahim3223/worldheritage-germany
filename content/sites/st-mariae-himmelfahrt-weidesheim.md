@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/400px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/800px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/1200px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/1920px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG/1920px-Weidesheim_(Euskirchen)_St._Mariä_Himmelfahrt5842.JPG
+---
 
 ## Overview
 

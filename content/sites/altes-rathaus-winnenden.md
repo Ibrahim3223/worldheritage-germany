@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg/400px-Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg/800px-Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg/1200px-Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg/1920px-Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg/1920px-Landappbw_500920_1819_Altes_Rathaus_Winnenden.jpg
+---
 
 ## Overview
 

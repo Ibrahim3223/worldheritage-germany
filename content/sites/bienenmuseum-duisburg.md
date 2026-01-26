@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DU-Bienenmuseum_Duisburg_01.jpg/400px-DU-Bienenmuseum_Duisburg_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DU-Bienenmuseum_Duisburg_01.jpg/800px-DU-Bienenmuseum_Duisburg_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DU-Bienenmuseum_Duisburg_01.jpg/1200px-DU-Bienenmuseum_Duisburg_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DU-Bienenmuseum_Duisburg_01.jpg/1920px-DU-Bienenmuseum_Duisburg_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DU-Bienenmuseum_Duisburg_01.jpg/1920px-DU-Bienenmuseum_Duisburg_01.jpg
+---
 
 ## Overview
 

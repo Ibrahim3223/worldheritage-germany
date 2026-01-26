@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/400px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/800px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1200px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1920px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1920px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
+---
 
 ## Overview
 

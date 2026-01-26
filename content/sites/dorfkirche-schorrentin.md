@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/400px-Schorrentin-kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/800px-Schorrentin-kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1200px-Schorrentin-kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1920px-Schorrentin-kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1920px-Schorrentin-kirche.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/400px-Prenzlau_St_Marien.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/800px-Prenzlau_St_Marien.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/1200px-Prenzlau_St_Marien.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/1920px-Prenzlau_St_Marien.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Prenzlau_St_Marien.jpg/1920px-Prenzlau_St_Marien.jpg
+---
 
 ## Overview
 

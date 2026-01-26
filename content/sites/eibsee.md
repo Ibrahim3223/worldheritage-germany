@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/400px-Eibsee_und_Ammergauer_Alpen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/800px-Eibsee_und_Ammergauer_Alpen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1200px-Eibsee_und_Ammergauer_Alpen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1920px-Eibsee_und_Ammergauer_Alpen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1920px-Eibsee_und_Ammergauer_Alpen.jpg
+---
 
 ## Overview
 

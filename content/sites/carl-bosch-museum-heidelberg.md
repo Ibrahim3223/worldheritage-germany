@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heidelberg-carlboschmuseum.JPG/400px-Heidelberg-carlboschmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heidelberg-carlboschmuseum.JPG/800px-Heidelberg-carlboschmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heidelberg-carlboschmuseum.JPG/1200px-Heidelberg-carlboschmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heidelberg-carlboschmuseum.JPG/1920px-Heidelberg-carlboschmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Heidelberg-carlboschmuseum.JPG/1920px-Heidelberg-carlboschmuseum.JPG
+---
 
 ## Overview
 

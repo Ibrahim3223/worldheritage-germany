@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/400px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/800px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/1200px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/1920px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigshafen-Oppau-St.-Martin-Kirche.jpg/1920px-Ludwigshafen-Oppau-St.-Martin-Kirche.jpg
+---
 
 ## Overview
 

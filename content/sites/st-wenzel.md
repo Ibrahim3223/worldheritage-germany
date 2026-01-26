@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/400px-LettinKirche2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/800px-LettinKirche2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/1200px-LettinKirche2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/1920px-LettinKirche2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LettinKirche2.JPG/1920px-LettinKirche2.JPG
+---
 
 ## Overview
 

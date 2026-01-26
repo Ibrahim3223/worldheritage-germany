@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/400px-Ritter_hartmuth_kronberg1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/800px-Ritter_hartmuth_kronberg1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/1200px-Ritter_hartmuth_kronberg1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/1920px-Ritter_hartmuth_kronberg1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ritter_hartmuth_kronberg1.jpg/1920px-Ritter_hartmuth_kronberg1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Porta_Nigra_morgens_(100MP).jpg/400px-Porta_Nigra_morgens_(100MP).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Porta_Nigra_morgens_(100MP).jpg/800px-Porta_Nigra_morgens_(100MP).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Porta_Nigra_morgens_(100MP).jpg/1200px-Porta_Nigra_morgens_(100MP).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Porta_Nigra_morgens_(100MP).jpg/1920px-Porta_Nigra_morgens_(100MP).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Porta_Nigra_morgens_(100MP).jpg/1920px-Porta_Nigra_morgens_(100MP).jpg
+---
 
 ## Overview
 

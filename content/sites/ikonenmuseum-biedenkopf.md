@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/400px-Ikonenmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/800px-Ikonenmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/1200px-Ikonenmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/1920px-Ikonenmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ikonenmuseum.JPG/1920px-Ikonenmuseum.JPG
+---
 
 ## Overview
 

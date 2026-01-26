@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/400px-Burg_Königsberg_(Biebertal)_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/800px-Burg_Königsberg_(Biebertal)_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/1200px-Burg_Königsberg_(Biebertal)_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/1920px-Burg_Königsberg_(Biebertal)_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/1920px-Burg_Königsberg_(Biebertal)_1.jpg
+---
 
 ## Overview
 

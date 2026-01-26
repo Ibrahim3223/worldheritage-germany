@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/400px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/800px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/1200px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/1920px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirche_Obercunnersdorf_Januar_2018_(2).jpg/1920px-Kirche_Obercunnersdorf_Januar_2018_(2).jpg
+---
 
 ## Overview
 

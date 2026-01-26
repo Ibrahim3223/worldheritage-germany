@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/400px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/800px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/1200px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/1920px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg/1920px-2016-03-12_Landgericht_Dresden_by_DCB_(cropped).jpg
+---
 
 ## Overview
 

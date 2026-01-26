@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/400px-Neues_Palais_in_Darmstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/800px-Neues_Palais_in_Darmstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/1200px-Neues_Palais_in_Darmstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/1920px-Neues_Palais_in_Darmstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Neues_Palais_in_Darmstadt.jpg/1920px-Neues_Palais_in_Darmstadt.jpg
+---
 
 ## Overview
 

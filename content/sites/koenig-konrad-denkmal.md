@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/400px-König_Konrad-Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/800px-König_Konrad-Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/1200px-König_Konrad-Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/1920px-König_Konrad-Denkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/König_Konrad-Denkmal.JPG/1920px-König_Konrad-Denkmal.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/400px-Museum_Rade.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/800px-Museum_Rade.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/1200px-Museum_Rade.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/1920px-Museum_Rade.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_Rade.JPG/1920px-Museum_Rade.JPG
+---
 
 ## Overview
 

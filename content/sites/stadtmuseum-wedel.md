@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/400px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/800px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/1200px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/1920px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg/1920px-Wedel_Pi_Küsterstraße_5_Stadtmuseum.jpg
+---
 
 ## Overview
 

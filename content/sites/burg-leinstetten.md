@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/400px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/800px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/1200px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/1920px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg/1920px-Leinstetten_mit_Schloss_und_Burg_Lichtenfels.jpg
+---
 
 ## Overview
 

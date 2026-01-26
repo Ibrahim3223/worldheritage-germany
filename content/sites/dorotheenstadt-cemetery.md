@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/400px-Grab-Brecht-Weigel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/800px-Grab-Brecht-Weigel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1200px-Grab-Brecht-Weigel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1920px-Grab-Brecht-Weigel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1920px-Grab-Brecht-Weigel.JPG
+---
 
 ## Overview
 

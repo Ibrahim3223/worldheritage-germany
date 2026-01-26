@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/400px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/800px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/1200px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/1920px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg/1920px-Nördlingen_-_Ofnethöhle_auf_dem_Riegelberg_02.jpg
+---
 
 ## Overview
 

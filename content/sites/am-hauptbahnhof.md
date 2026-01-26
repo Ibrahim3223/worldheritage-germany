@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/400px-Bahnhofsviertel,_Frankfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/800px-Bahnhofsviertel,_Frankfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/1200px-Bahnhofsviertel,_Frankfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/1920px-Bahnhofsviertel,_Frankfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bahnhofsviertel,_Frankfurt.JPG/1920px-Bahnhofsviertel,_Frankfurt.JPG
+---
 
 ## Overview
 

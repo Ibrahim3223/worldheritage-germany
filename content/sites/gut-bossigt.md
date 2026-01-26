@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/400px-Wesel_Gut_Bossigt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/800px-Wesel_Gut_Bossigt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1200px-Wesel_Gut_Bossigt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1920px-Wesel_Gut_Bossigt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1920px-Wesel_Gut_Bossigt.jpg
+---
 
 ## Overview
 

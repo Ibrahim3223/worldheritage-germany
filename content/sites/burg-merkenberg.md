@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/400px-Äcker_beim_Pfundhardhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/800px-Äcker_beim_Pfundhardhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/1200px-Äcker_beim_Pfundhardhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/1920px-Äcker_beim_Pfundhardhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Äcker_beim_Pfundhardhof.jpg/1920px-Äcker_beim_Pfundhardhof.jpg
+---
 
 ## Overview
 

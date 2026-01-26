@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg/400px-Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg/800px-Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg/1200px-Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg/1920px-Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg/1920px-Ruhpolding_Glockenschmiede_-_Hammerwerk_2017-08-14_ama_fec.jpg
+---
 
 ## Overview
 

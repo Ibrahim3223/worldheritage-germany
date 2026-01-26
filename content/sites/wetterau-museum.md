@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/400px-Friedberg_-_Stadtmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/800px-Friedberg_-_Stadtmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/1200px-Friedberg_-_Stadtmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/1920px-Friedberg_-_Stadtmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Friedberg_-_Stadtmuseum.jpg/1920px-Friedberg_-_Stadtmuseum.jpg
+---
 
 ## Overview
 

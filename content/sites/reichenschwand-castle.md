@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/400px-01_Schloss_Reichenschwand_klein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/800px-01_Schloss_Reichenschwand_klein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/1200px-01_Schloss_Reichenschwand_klein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/1920px-01_Schloss_Reichenschwand_klein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/01_Schloss_Reichenschwand_klein.jpg/1920px-01_Schloss_Reichenschwand_klein.jpg
+---
 
 ## Overview
 

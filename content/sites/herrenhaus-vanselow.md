@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/400px-Vanselow_DM_Herrenhaus_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/800px-Vanselow_DM_Herrenhaus_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1200px-Vanselow_DM_Herrenhaus_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1920px-Vanselow_DM_Herrenhaus_Front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1920px-Vanselow_DM_Herrenhaus_Front.jpg
+---
 
 ## Overview
 

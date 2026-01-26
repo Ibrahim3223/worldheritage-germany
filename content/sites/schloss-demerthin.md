@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/400px-Prignitz_07-13_img15_Demerthin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/800px-Prignitz_07-13_img15_Demerthin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/1200px-Prignitz_07-13_img15_Demerthin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/1920px-Prignitz_07-13_img15_Demerthin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prignitz_07-13_img15_Demerthin.jpg/1920px-Prignitz_07-13_img15_Demerthin.jpg
+---
 
 ## Overview
 

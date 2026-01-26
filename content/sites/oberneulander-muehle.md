@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/400px-MuehleOberneuland-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/800px-MuehleOberneuland-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/1200px-MuehleOberneuland-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/1920px-MuehleOberneuland-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MuehleOberneuland-1.jpg/1920px-MuehleOberneuland-1.jpg
+---
 
 ## Overview
 

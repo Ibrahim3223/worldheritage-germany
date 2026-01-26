@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/400px-Augsburg_-_st_ulrich_u_afra.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/800px-Augsburg_-_st_ulrich_u_afra.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/1200px-Augsburg_-_st_ulrich_u_afra.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/1920px-Augsburg_-_st_ulrich_u_afra.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Augsburg_-_st_ulrich_u_afra.jpg/1920px-Augsburg_-_st_ulrich_u_afra.jpg
+---
 
 ## Overview
 

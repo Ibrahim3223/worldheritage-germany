@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/400px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/800px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1200px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1920px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1920px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
+---
 
 ## Overview
 

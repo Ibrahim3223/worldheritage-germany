@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mevlana-mosque-berlin.JPG/400px-Mevlana-mosque-berlin.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mevlana-mosque-berlin.JPG/800px-Mevlana-mosque-berlin.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mevlana-mosque-berlin.JPG/1200px-Mevlana-mosque-berlin.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mevlana-mosque-berlin.JPG/1920px-Mevlana-mosque-berlin.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mevlana-mosque-berlin.JPG/1920px-Mevlana-mosque-berlin.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NeidlingenWasserfallvoll.jpg/400px-NeidlingenWasserfallvoll.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NeidlingenWasserfallvoll.jpg/800px-NeidlingenWasserfallvoll.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NeidlingenWasserfallvoll.jpg/1200px-NeidlingenWasserfallvoll.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NeidlingenWasserfallvoll.jpg/1920px-NeidlingenWasserfallvoll.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NeidlingenWasserfallvoll.jpg/1920px-NeidlingenWasserfallvoll.jpg
+---
 
 ## Overview
 

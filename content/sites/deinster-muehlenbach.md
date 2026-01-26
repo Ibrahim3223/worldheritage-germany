@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/400px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/800px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/1200px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/1920px-Naturschutzgebiet_Deinster_Mühlenbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Naturschutzgebiet_Deinster_Mühlenbach.jpg/1920px-Naturschutzgebiet_Deinster_Mühlenbach.jpg
+---
 
 ## Overview
 

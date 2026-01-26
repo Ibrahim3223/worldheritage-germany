@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/400px-Burg_Hagen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/800px-Burg_Hagen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/1200px-Burg_Hagen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/1920px-Burg_Hagen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Hagen.jpg/1920px-Burg_Hagen.jpg
+---
 
 ## Overview
 

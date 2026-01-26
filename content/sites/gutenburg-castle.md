@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/400px-Gutenburg_bei_Gutenberg_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/800px-Gutenburg_bei_Gutenberg_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/1200px-Gutenburg_bei_Gutenberg_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/1920px-Gutenburg_bei_Gutenberg_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/1920px-Gutenburg_bei_Gutenberg_1.jpg
+---
 
 ## Overview
 

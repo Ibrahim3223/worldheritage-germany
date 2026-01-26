@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/400px-Heisterbacherrott_Haus_Schlesien_(01).png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/800px-Heisterbacherrott_Haus_Schlesien_(01).png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1200px-Heisterbacherrott_Haus_Schlesien_(01).png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1920px-Heisterbacherrott_Haus_Schlesien_(01).png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1920px-Heisterbacherrott_Haus_Schlesien_(01).png
+---
 
 ## Overview
 

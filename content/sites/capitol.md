@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/400px-Capitol_Offenbach_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/800px-Capitol_Offenbach_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/1200px-Capitol_Offenbach_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/1920px-Capitol_Offenbach_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Capitol_Offenbach_04.jpg/1920px-Capitol_Offenbach_04.jpg
+---
 
 ## Overview
 

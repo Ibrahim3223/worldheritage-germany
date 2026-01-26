@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Pieskow_NW.JPG/400px-Dorfkirche_Pieskow_NW.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Pieskow_NW.JPG/800px-Dorfkirche_Pieskow_NW.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Pieskow_NW.JPG/1200px-Dorfkirche_Pieskow_NW.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Pieskow_NW.JPG/1920px-Dorfkirche_Pieskow_NW.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Pieskow_NW.JPG/1920px-Dorfkirche_Pieskow_NW.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/400px-Dorfkirche_Hammelspring_2020_S.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/800px-Dorfkirche_Hammelspring_2020_S.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/1200px-Dorfkirche_Hammelspring_2020_S.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/1920px-Dorfkirche_Hammelspring_2020_S.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dorfkirche_Hammelspring_2020_S.jpg/1920px-Dorfkirche_Hammelspring_2020_S.jpg
+---
 
 ## Overview
 

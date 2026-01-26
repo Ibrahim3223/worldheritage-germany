@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/400px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/800px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/1200px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/1920px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg/1920px-Am_Edelhofe_6_Hannover_Ricklingen_Marienkapelle_der_Familie_von_Alten_um_1340.jpg
+---
 
 ## Overview
 

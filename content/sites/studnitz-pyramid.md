@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/400px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/800px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/1200px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/1920px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg/1920px-Thuringia_Gotha_asv2020-07_img26_Studnitz-Pyramide.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/400px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/800px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/1200px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/1920px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg_Hundsbach_(Ernsthausen)_(0001).jpg/1920px-Burg_Hundsbach_(Ernsthausen)_(0001).jpg
+---
 
 ## Overview
 

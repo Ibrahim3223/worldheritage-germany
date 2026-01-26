@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/400px-Haus_am_Horn,_Luftaufnahme-0030.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/800px-Haus_am_Horn,_Luftaufnahme-0030.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1200px-Haus_am_Horn,_Luftaufnahme-0030.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1920px-Haus_am_Horn,_Luftaufnahme-0030.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1920px-Haus_am_Horn,_Luftaufnahme-0030.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/400px-Göttingen-Bismarckhäuschen.03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/800px-Göttingen-Bismarckhäuschen.03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/1200px-Göttingen-Bismarckhäuschen.03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/1920px-Göttingen-Bismarckhäuschen.03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Göttingen-Bismarckhäuschen.03.jpg/1920px-Göttingen-Bismarckhäuschen.03.jpg
+---
 
 ## Overview
 

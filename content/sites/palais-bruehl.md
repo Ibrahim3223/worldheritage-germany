@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/400px-Palais_Brühl_Schießgasse_vor_1885.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/800px-Palais_Brühl_Schießgasse_vor_1885.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/1200px-Palais_Brühl_Schießgasse_vor_1885.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/1920px-Palais_Brühl_Schießgasse_vor_1885.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palais_Brühl_Schießgasse_vor_1885.jpg/1920px-Palais_Brühl_Schießgasse_vor_1885.jpg
+---
 
 ## Overview
 

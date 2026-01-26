@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/400px-Tagliliengarten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/800px-Tagliliengarten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1200px-Tagliliengarten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1920px-Tagliliengarten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1920px-Tagliliengarten.JPG
+---
 
 ## Overview
 

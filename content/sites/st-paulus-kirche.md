@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/400px-ChurchFilsum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/800px-ChurchFilsum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/1200px-ChurchFilsum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/1920px-ChurchFilsum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/ChurchFilsum.JPG/1920px-ChurchFilsum.JPG
+---
 
 ## Overview
 

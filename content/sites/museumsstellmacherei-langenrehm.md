@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/400px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/800px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/1200px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/1920px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg/1920px-Museumsstellmacherei_Langenrehm_-_Bild_FLMK.jpg
+---
 
 ## Overview
 

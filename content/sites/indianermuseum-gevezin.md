@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/400px-Gutshaus_Gevezin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/800px-Gutshaus_Gevezin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/1200px-Gutshaus_Gevezin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/1920px-Gutshaus_Gevezin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gutshaus_Gevezin.jpg/1920px-Gutshaus_Gevezin.jpg
+---
 
 ## Overview
 

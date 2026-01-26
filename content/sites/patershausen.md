@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/400px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/800px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/1200px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/1920px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG/1920px-Heusenstamm_Patershausen_Grabplatte_der_Elisabeth_Brendel_von_Homburg.JPG
+---
 
 ## Overview
 

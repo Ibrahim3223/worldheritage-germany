@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/400px-Neues_Schloss_Ingolstadt_Front.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/800px-Neues_Schloss_Ingolstadt_Front.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/1200px-Neues_Schloss_Ingolstadt_Front.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/1920px-Neues_Schloss_Ingolstadt_Front.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Neues_Schloss_Ingolstadt_Front.JPG/1920px-Neues_Schloss_Ingolstadt_Front.JPG
+---
 
 ## Overview
 

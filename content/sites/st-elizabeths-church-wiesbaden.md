@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/400px-Russische_Kirche_"Griechische_Kapelle%22_auf_dem_Neroberg_in_Wiesbaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_%22Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/800px-Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/1200px-Russische_Kirche_"Griechische_Kapelle%22_auf_dem_Neroberg_in_Wiesbaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_%22Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/1920px-Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Russische_Kirche_%22Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg/1920px-Russische_Kirche_"Griechische_Kapelle"_auf_dem_Neroberg_in_Wiesbaden.jpg
+---
 
 ## Overview
 

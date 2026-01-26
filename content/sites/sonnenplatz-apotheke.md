@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/400px-TBB_Sonnenplatz-Apotheke.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/800px-TBB_Sonnenplatz-Apotheke.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/1200px-TBB_Sonnenplatz-Apotheke.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/1920px-TBB_Sonnenplatz-Apotheke.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TBB_Sonnenplatz-Apotheke.jpg/1920px-TBB_Sonnenplatz-Apotheke.jpg
+---
 
 ## Overview
 

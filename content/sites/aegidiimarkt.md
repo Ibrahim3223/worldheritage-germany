@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/400px-Aegidimarkt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/800px-Aegidimarkt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/1200px-Aegidimarkt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/1920px-Aegidimarkt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aegidimarkt.jpg/1920px-Aegidimarkt.jpg
+---
 
 ## Overview
 

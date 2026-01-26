@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/400px-Kirchenruine_Käcklitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/800px-Kirchenruine_Käcklitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/1200px-Kirchenruine_Käcklitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/1920px-Kirchenruine_Käcklitz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchenruine_Käcklitz.JPG/1920px-Kirchenruine_Käcklitz.JPG
+---
 
 ## Overview
 

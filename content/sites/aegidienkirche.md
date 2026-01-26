@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/400px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/800px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1200px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1920px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1920px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
+---
 
 ## Overview
 

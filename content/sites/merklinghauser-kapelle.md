@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/400px-Hallenberg-Unterkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/800px-Hallenberg-Unterkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/1200px-Hallenberg-Unterkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/1920px-Hallenberg-Unterkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hallenberg-Unterkirche.jpg/1920px-Hallenberg-Unterkirche.jpg
+---
 
 ## Overview
 

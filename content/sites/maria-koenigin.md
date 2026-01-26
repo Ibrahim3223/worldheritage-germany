@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/400px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/800px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/1200px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/1920px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lüdenscheid_Kath_Maria_Koenigin_2.JPG/1920px-Lüdenscheid_Kath_Maria_Koenigin_2.JPG
+---
 
 ## Overview
 

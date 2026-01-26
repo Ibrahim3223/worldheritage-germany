@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/400px-Auequelle_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/800px-Auequelle_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1200px-Auequelle_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1920px-Auequelle_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1920px-Auequelle_001.jpg
+---
 
 ## Overview
 

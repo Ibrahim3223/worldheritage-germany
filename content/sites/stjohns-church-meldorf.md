@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/400px-Meldorfer_Dom,_Südseite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/800px-Meldorfer_Dom,_Südseite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/1200px-Meldorfer_Dom,_Südseite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/1920px-Meldorfer_Dom,_Südseite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meldorfer_Dom,_Südseite.jpg/1920px-Meldorfer_Dom,_Südseite.jpg
+---
 
 ## Overview
 

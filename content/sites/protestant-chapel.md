@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/400px-Altenbrunslar_Kapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/800px-Altenbrunslar_Kapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/1200px-Altenbrunslar_Kapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/1920px-Altenbrunslar_Kapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Altenbrunslar_Kapelle.jpg/1920px-Altenbrunslar_Kapelle.jpg
+---
 
 ## Overview
 

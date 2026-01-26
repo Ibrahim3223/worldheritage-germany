@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/400px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/800px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/1200px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/1920px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg/1920px-St.-Pauli-Kirche_(Hamburg-Altons-Altstadt).Westen.ajb.jpg
+---
 
 ## Overview
 

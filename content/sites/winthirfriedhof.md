@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/400px-Weg_im_Winthirfriedhof_(Totale).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/800px-Weg_im_Winthirfriedhof_(Totale).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/1200px-Weg_im_Winthirfriedhof_(Totale).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/1920px-Weg_im_Winthirfriedhof_(Totale).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Weg_im_Winthirfriedhof_(Totale).jpg/1920px-Weg_im_Winthirfriedhof_(Totale).jpg
+---
 
 ## Overview
 

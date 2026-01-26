@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/400px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/800px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/1200px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/1920px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg/1920px-Bergarbeiterwohnmuseum_Brambauer_IMGP3853_wp.jpg
+---
 
 ## Overview
 

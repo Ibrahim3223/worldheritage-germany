@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_Carl-Weiss-Theater_(cropped).jpg/400px-Berlin_Carl-Weiss-Theater_(cropped).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_Carl-Weiss-Theater_(cropped).jpg/800px-Berlin_Carl-Weiss-Theater_(cropped).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_Carl-Weiss-Theater_(cropped).jpg/1200px-Berlin_Carl-Weiss-Theater_(cropped).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_Carl-Weiss-Theater_(cropped).jpg/1920px-Berlin_Carl-Weiss-Theater_(cropped).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Berlin_Carl-Weiss-Theater_(cropped).jpg/1920px-Berlin_Carl-Weiss-Theater_(cropped).jpg
+---
 
 ## Overview
 

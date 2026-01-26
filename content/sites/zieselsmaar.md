@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/FKK_Strand_Zieselsmaar.jpg/400px-FKK_Strand_Zieselsmaar.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/FKK_Strand_Zieselsmaar.jpg/800px-FKK_Strand_Zieselsmaar.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/FKK_Strand_Zieselsmaar.jpg/1200px-FKK_Strand_Zieselsmaar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/FKK_Strand_Zieselsmaar.jpg/1920px-FKK_Strand_Zieselsmaar.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/FKK_Strand_Zieselsmaar.jpg/1920px-FKK_Strand_Zieselsmaar.jpg
+---
 
 ## Overview
 

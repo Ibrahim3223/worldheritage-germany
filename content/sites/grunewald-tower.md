@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/400px-Berlin_Grunewaldturm.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/800px-Berlin_Grunewaldturm.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1200px-Berlin_Grunewaldturm.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1920px-Berlin_Grunewaldturm.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1920px-Berlin_Grunewaldturm.JPG
+---
 
 ## Overview
 

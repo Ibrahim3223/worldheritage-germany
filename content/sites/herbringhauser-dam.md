@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/400px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/800px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/1200px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/1920px-Staumauer_Obere_Herbringhauser_Talsperre.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Staumauer_Obere_Herbringhauser_Talsperre.jpg/1920px-Staumauer_Obere_Herbringhauser_Talsperre.jpg
+---
 
 ## Overview
 

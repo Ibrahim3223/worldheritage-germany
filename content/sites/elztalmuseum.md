@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/400px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/800px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1200px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1920px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1920px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
+---
 
 ## Overview
 

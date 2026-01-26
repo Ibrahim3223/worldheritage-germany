@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prime_Time_Theater_Berlin-Wedding_außen.jpg/400px-Prime_Time_Theater_Berlin-Wedding_außen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prime_Time_Theater_Berlin-Wedding_außen.jpg/800px-Prime_Time_Theater_Berlin-Wedding_außen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prime_Time_Theater_Berlin-Wedding_außen.jpg/1200px-Prime_Time_Theater_Berlin-Wedding_außen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prime_Time_Theater_Berlin-Wedding_außen.jpg/1920px-Prime_Time_Theater_Berlin-Wedding_außen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Prime_Time_Theater_Berlin-Wedding_außen.jpg/1920px-Prime_Time_Theater_Berlin-Wedding_außen.jpg
+---
 
 ## Overview
 

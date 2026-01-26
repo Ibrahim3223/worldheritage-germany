@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/400px-Parlament_der_Bäume.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/800px-Parlament_der_Bäume.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/1200px-Parlament_der_Bäume.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/1920px-Parlament_der_Bäume.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Parlament_der_Bäume.jpg/1920px-Parlament_der_Bäume.jpg
+---
 
 ## Overview
 

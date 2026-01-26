@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/400px-Gymnasium_Steglitz_04-2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/800px-Gymnasium_Steglitz_04-2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/1200px-Gymnasium_Steglitz_04-2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/1920px-Gymnasium_Steglitz_04-2015.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/1920px-Gymnasium_Steglitz_04-2015.jpg
+---
 
 ## Overview
 

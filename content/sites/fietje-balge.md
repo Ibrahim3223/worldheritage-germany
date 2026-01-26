@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg/400px-Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg/800px-Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg/1200px-Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg/1920px-Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg/1920px-Fietje_Balge_-_Bernd_Altenstein_-_Bremen.jpg
+---
 
 ## Overview
 

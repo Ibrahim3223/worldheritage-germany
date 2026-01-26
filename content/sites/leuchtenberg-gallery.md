@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/400px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/800px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/1200px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/1920px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Theodor_Mattenheimer_Kadettencompagnie_1852.jpg/1920px-Theodor_Mattenheimer_Kadettencompagnie_1852.jpg
+---
 
 ## Overview
 

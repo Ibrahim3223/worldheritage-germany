@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/400px-Wallnau_area.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/800px-Wallnau_area.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/1200px-Wallnau_area.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/1920px-Wallnau_area.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wallnau_area.JPG/1920px-Wallnau_area.JPG
+---
 
 ## Overview
 

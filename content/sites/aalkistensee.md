@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aalkistensee_The_Lake_House.jpg/400px-Aalkistensee_The_Lake_House.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aalkistensee_The_Lake_House.jpg/800px-Aalkistensee_The_Lake_House.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aalkistensee_The_Lake_House.jpg/1200px-Aalkistensee_The_Lake_House.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aalkistensee_The_Lake_House.jpg/1920px-Aalkistensee_The_Lake_House.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aalkistensee_The_Lake_House.jpg/1920px-Aalkistensee_The_Lake_House.jpg
+---
 
 ## Overview
 

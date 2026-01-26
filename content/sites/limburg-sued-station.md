@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Frankfurt-Cologne_15.09.2005_10-24-51.JPG/400px-Frankfurt-Cologne_15.09.2005_10-24-51.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Frankfurt-Cologne_15.09.2005_10-24-51.JPG/800px-Frankfurt-Cologne_15.09.2005_10-24-51.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Frankfurt-Cologne_15.09.2005_10-24-51.JPG/1200px-Frankfurt-Cologne_15.09.2005_10-24-51.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Frankfurt-Cologne_15.09.2005_10-24-51.JPG/1920px-Frankfurt-Cologne_15.09.2005_10-24-51.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Frankfurt-Cologne_15.09.2005_10-24-51.JPG/1920px-Frankfurt-Cologne_15.09.2005_10-24-51.JPG
+---
 
 ## Overview
 

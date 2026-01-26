@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/400px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/800px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/1200px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/1920px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg/1920px-Blüchermuseum_Kaub_Gasthaus_Zur_Stadt_Mannheim.jpg
+---
 
 ## Overview
 

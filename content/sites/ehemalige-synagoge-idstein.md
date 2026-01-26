@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/400px-Ehemalige_Synagoge_Idstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/800px-Ehemalige_Synagoge_Idstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/1200px-Ehemalige_Synagoge_Idstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/1920px-Ehemalige_Synagoge_Idstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ehemalige_Synagoge_Idstein.JPG/1920px-Ehemalige_Synagoge_Idstein.JPG
+---
 
 ## Overview
 

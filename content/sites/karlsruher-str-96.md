@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/400px-Rathaus-Gittersee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/800px-Rathaus-Gittersee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/1200px-Rathaus-Gittersee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/1920px-Rathaus-Gittersee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rathaus-Gittersee.jpg/1920px-Rathaus-Gittersee.jpg
+---
 
 ## Overview
 

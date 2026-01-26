@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/400px-Wittstock_Bischofsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/800px-Wittstock_Bischofsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/1200px-Wittstock_Bischofsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/1920px-Wittstock_Bischofsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wittstock_Bischofsburg.jpg/1920px-Wittstock_Bischofsburg.jpg
+---
 
 ## Overview
 

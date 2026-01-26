@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/400px-Dortmund,_DASA,_Eingangsbereich.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/800px-Dortmund,_DASA,_Eingangsbereich.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/1200px-Dortmund,_DASA,_Eingangsbereich.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/1920px-Dortmund,_DASA,_Eingangsbereich.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dortmund,_DASA,_Eingangsbereich.JPG/1920px-Dortmund,_DASA,_Eingangsbereich.JPG
+---
 
 ## Overview
 

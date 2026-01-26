@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/400px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/800px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/1200px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/1920px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg/1920px-Neuenkirchen_bei_Anklam_Kirche_Nordost.jpg
+---
 
 ## Overview
 

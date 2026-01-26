@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/400px-Berlin_-_Schloss_Bellevue2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/800px-Berlin_-_Schloss_Bellevue2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/1200px-Berlin_-_Schloss_Bellevue2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/1920px-Berlin_-_Schloss_Bellevue2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_-_Schloss_Bellevue2.jpg/1920px-Berlin_-_Schloss_Bellevue2.jpg
+---
 
 ## Overview
 

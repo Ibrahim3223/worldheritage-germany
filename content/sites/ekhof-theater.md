@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/400px-Ekhof-Theater_Zuschauerraum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/800px-Ekhof-Theater_Zuschauerraum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1200px-Ekhof-Theater_Zuschauerraum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1920px-Ekhof-Theater_Zuschauerraum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1920px-Ekhof-Theater_Zuschauerraum.JPG
+---
 
 ## Overview
 

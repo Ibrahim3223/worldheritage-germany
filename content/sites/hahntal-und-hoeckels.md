@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/400px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/800px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/1200px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/1920px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg/1920px-NSGHelmstedtHahntalHoeckelsBlickHeeseberg.jpeg
+---
 
 ## Overview
 

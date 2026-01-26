@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/400px-Mondsee,_Blick_auf_das_Südufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/800px-Mondsee,_Blick_auf_das_Südufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/1200px-Mondsee,_Blick_auf_das_Südufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/1920px-Mondsee,_Blick_auf_das_Südufer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mondsee,_Blick_auf_das_Südufer.jpg/1920px-Mondsee,_Blick_auf_das_Südufer.jpg
+---
 
 ## Overview
 

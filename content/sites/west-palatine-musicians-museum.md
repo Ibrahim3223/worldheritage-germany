@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/400px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/800px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/1200px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/1920px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westpfälzer_Musikantenmuseum_-_Exponate.jpg/1920px-Westpfälzer_Musikantenmuseum_-_Exponate.jpg
+---
 
 ## Overview
 

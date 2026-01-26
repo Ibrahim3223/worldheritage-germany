@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/400px-AntonierKlosterEingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/800px-AntonierKlosterEingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/1200px-AntonierKlosterEingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/1920px-AntonierKlosterEingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AntonierKlosterEingang.jpg/1920px-AntonierKlosterEingang.jpg
+---
 
 ## Overview
 

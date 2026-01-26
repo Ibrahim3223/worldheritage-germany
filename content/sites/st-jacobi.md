@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/400px-Goe_Jacobi_Church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/800px-Goe_Jacobi_Church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/1200px-Goe_Jacobi_Church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/1920px-Goe_Jacobi_Church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Goe_Jacobi_Church.jpg/1920px-Goe_Jacobi_Church.jpg
+---
 
 ## Overview
 

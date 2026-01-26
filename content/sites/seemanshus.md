@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/400px-Standesamt_Langeoog_altes_Seemanshus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/800px-Standesamt_Langeoog_altes_Seemanshus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/1200px-Standesamt_Langeoog_altes_Seemanshus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/1920px-Standesamt_Langeoog_altes_Seemanshus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Standesamt_Langeoog_altes_Seemanshus.jpg/1920px-Standesamt_Langeoog_altes_Seemanshus.jpg
+---
 
 ## Overview
 

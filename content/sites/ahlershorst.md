@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/400px-Ahlershorst_-_04.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/800px-Ahlershorst_-_04.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/1200px-Ahlershorst_-_04.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/1920px-Ahlershorst_-_04.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ahlershorst_-_04.JPG/1920px-Ahlershorst_-_04.JPG
+---
 
 ## Overview
 

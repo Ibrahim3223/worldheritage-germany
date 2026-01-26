@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/400px-Halberstadt_Dom_2023.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/800px-Halberstadt_Dom_2023.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1200px-Halberstadt_Dom_2023.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1920px-Halberstadt_Dom_2023.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1920px-Halberstadt_Dom_2023.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg/400px-Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg/800px-Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg/1200px-Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg/1920px-Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg/1920px-Kurhaus-Bad-Ems-JR-G6-4646-4648-2010-05-23.jpg
+---
 
 ## Overview
 

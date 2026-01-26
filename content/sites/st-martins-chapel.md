@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/400px-Martinskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/800px-Martinskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/1200px-Martinskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/1920px-Martinskapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Martinskapelle.JPG/1920px-Martinskapelle.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/400px-Osterrather_Windmühle_West.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/800px-Osterrather_Windmühle_West.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/1200px-Osterrather_Windmühle_West.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/1920px-Osterrather_Windmühle_West.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Osterrather_Windmühle_West.JPG/1920px-Osterrather_Windmühle_West.JPG
+---
 
 ## Overview
 

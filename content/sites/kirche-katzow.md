@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/400px-Katzow_Kirche3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/800px-Katzow_Kirche3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1200px-Katzow_Kirche3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1920px-Katzow_Kirche3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Katzow_Kirche3.jpg/1920px-Katzow_Kirche3.jpg
+---
 
 ## Overview
 

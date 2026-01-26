@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/400px-Eberswalde_Copper_house.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/800px-Eberswalde_Copper_house.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/1200px-Eberswalde_Copper_house.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/1920px-Eberswalde_Copper_house.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eberswalde_Copper_house.jpg/1920px-Eberswalde_Copper_house.jpg
+---
 
 ## Overview
 

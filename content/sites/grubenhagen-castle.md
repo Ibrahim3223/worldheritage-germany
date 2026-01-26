@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/400px-Grubenhagen_Turm_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/800px-Grubenhagen_Turm_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/1200px-Grubenhagen_Turm_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/1920px-Grubenhagen_Turm_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/1920px-Grubenhagen_Turm_2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/400px-Kloster_Galiläa.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/800px-Kloster_Galiläa.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/1200px-Kloster_Galiläa.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/1920px-Kloster_Galiläa.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kloster_Galiläa.jpg/1920px-Kloster_Galiläa.jpg
+---
 
 ## Overview
 

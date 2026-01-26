@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/400px-Zimmertheater-tuebingen-2019.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/800px-Zimmertheater-tuebingen-2019.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/1200px-Zimmertheater-tuebingen-2019.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/1920px-Zimmertheater-tuebingen-2019.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zimmertheater-tuebingen-2019.jpg/1920px-Zimmertheater-tuebingen-2019.jpg
+---
 
 ## Overview
 

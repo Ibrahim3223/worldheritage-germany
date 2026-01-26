@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/400px-Pfalzbibliothek_Kaiserslautern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/800px-Pfalzbibliothek_Kaiserslautern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/1200px-Pfalzbibliothek_Kaiserslautern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/1920px-Pfalzbibliothek_Kaiserslautern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pfalzbibliothek_Kaiserslautern.jpg/1920px-Pfalzbibliothek_Kaiserslautern.jpg
+---
 
 ## Overview
 

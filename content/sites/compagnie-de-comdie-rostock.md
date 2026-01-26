@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/400px-Compagnie_de_Comédie_Rostock.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/800px-Compagnie_de_Comédie_Rostock.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/1200px-Compagnie_de_Comédie_Rostock.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/1920px-Compagnie_de_Comédie_Rostock.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Compagnie_de_Comédie_Rostock.jpg/1920px-Compagnie_de_Comédie_Rostock.jpg
+---
 
 ## Overview
 

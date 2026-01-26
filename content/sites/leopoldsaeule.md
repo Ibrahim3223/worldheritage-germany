@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/400px-Denkmal-Leopoldsäule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/800px-Denkmal-Leopoldsäule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/1200px-Denkmal-Leopoldsäule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/1920px-Denkmal-Leopoldsäule.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Denkmal-Leopoldsäule.jpg/1920px-Denkmal-Leopoldsäule.jpg
+---
 
 ## Overview
 

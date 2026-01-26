@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/400px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/800px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden_32-34,_Britische_Botschaft_inder_DDR.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/400px-Theater_in_der_Filmdose,_Köln.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/800px-Theater_in_der_Filmdose,_Köln.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/1200px-Theater_in_der_Filmdose,_Köln.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/1920px-Theater_in_der_Filmdose,_Köln.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Theater_in_der_Filmdose,_Köln.jpg/1920px-Theater_in_der_Filmdose,_Köln.jpg
+---
 
 ## Overview
 

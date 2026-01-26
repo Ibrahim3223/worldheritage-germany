@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/400px-Hanau_Stadtschloss8.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/800px-Hanau_Stadtschloss8.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/1200px-Hanau_Stadtschloss8.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/1920px-Hanau_Stadtschloss8.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hanau_Stadtschloss8.jpg/1920px-Hanau_Stadtschloss8.jpg
+---
 
 ## Overview
 

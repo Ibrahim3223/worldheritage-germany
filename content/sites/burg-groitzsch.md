@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/400px-Groitzsch_Wiprechtsburg_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/800px-Groitzsch_Wiprechtsburg_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/1200px-Groitzsch_Wiprechtsburg_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/1920px-Groitzsch_Wiprechtsburg_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Groitzsch_Wiprechtsburg_2.jpg/1920px-Groitzsch_Wiprechtsburg_2.jpg
+---
 
 ## Overview 
 

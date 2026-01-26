@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/400px-Erfurt_-_Christuskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/800px-Erfurt_-_Christuskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1200px-Erfurt_-_Christuskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1920px-Erfurt_-_Christuskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1920px-Erfurt_-_Christuskirche.jpg
+---
 
 ## Overview
 

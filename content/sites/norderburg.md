@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/400px-Norderburg_in_Dornum_07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/800px-Norderburg_in_Dornum_07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/1200px-Norderburg_in_Dornum_07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/1920px-Norderburg_in_Dornum_07.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Norderburg_in_Dornum_07.JPG/1920px-Norderburg_in_Dornum_07.JPG
+---
 
 ## Overview
 

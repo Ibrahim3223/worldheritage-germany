@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/400px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/800px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/1200px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/1920px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg/1920px-Baden-Baden-Palais_Biron-02-von_Gelbeichweg-gje.jpg
+---
 
 ## Overview
 

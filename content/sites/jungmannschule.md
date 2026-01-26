@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/400px-Eckernförde_Reeperbahn_50_1958.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/800px-Eckernförde_Reeperbahn_50_1958.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/1200px-Eckernförde_Reeperbahn_50_1958.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/1920px-Eckernförde_Reeperbahn_50_1958.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eckernförde_Reeperbahn_50_1958.jpg/1920px-Eckernförde_Reeperbahn_50_1958.jpg
+---
 
 ## Overview
 

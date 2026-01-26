@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg/400px-Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg/800px-Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg/1200px-Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg/1920px-Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg/1920px-Heilbad_Heiligenstadt_Kasseler_Tor_2_Mainzer_Haus_(Theodor-Storm-Museum)_Wohnhaus_3.jpg
+---
 
 ## Overview
 

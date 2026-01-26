@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/400px-Dießen,_Marienmünster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/800px-Dießen,_Marienmünster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/1200px-Dießen,_Marienmünster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/1920px-Dießen,_Marienmünster.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dießen,_Marienmünster.jpg/1920px-Dießen,_Marienmünster.jpg
+---
 
 ## Overview
 

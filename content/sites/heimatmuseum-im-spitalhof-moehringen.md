@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/400px-S-Moehringen-Spitalhoftor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/800px-S-Moehringen-Spitalhoftor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/1200px-S-Moehringen-Spitalhoftor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/1920px-S-Moehringen-Spitalhoftor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/S-Moehringen-Spitalhoftor.jpg/1920px-S-Moehringen-Spitalhoftor.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/400px-Schatzkammer_(17929084262)_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/800px-Schatzkammer_(17929084262)_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1200px-Schatzkammer_(17929084262)_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1920px-Schatzkammer_(17929084262)_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1920px-Schatzkammer_(17929084262)_(2).jpg
+---
 
 ## Overview
 

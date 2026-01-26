@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg/400px-Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg/800px-Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg/1200px-Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg/1920px-Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg/1920px-Berlin_Lortzing-Theater_Hauptdarsteller_(BerlLeben_1906-09).jpg
+---
 
 ## Overview
 

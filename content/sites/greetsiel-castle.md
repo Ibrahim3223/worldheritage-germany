@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/400px-Greetsielburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/800px-Greetsielburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/1200px-Greetsielburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/1920px-Greetsielburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Greetsielburg.jpg/1920px-Greetsielburg.jpg
+---
 
 ## Overview
 

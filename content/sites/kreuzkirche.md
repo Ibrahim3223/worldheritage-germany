@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/400px-Dresden_Kreuzkirche_2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/800px-Dresden_Kreuzkirche_2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/1200px-Dresden_Kreuzkirche_2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/1920px-Dresden_Kreuzkirche_2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dresden_Kreuzkirche_2008.jpg/1920px-Dresden_Kreuzkirche_2008.jpg
+---
 
 ## Overview
 

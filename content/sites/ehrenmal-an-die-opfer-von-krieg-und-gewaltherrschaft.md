@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/400px-Freital_Wurgwitz_Ehrenmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/800px-Freital_Wurgwitz_Ehrenmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/1200px-Freital_Wurgwitz_Ehrenmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/1920px-Freital_Wurgwitz_Ehrenmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freital_Wurgwitz_Ehrenmal.JPG/1920px-Freital_Wurgwitz_Ehrenmal.JPG
+---
 
 ## Overview
 

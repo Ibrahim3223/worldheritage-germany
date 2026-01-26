@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/400px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/800px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/1200px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/1920px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg/1920px-DDR_Museum_Zeitreise_Radebeul_Außenansicht.jpg
+---
 
 ## Overview
 

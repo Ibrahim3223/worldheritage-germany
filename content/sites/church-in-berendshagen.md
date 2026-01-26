@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/400px-Berendshagen_Kirche_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/800px-Berendshagen_Kirche_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1200px-Berendshagen_Kirche_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1920px-Berendshagen_Kirche_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1920px-Berendshagen_Kirche_2.jpg
+---
 
 ## Overview
 

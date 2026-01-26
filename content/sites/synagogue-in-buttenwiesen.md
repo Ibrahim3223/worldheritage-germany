@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Buttenwiesen_Synagoge_Südseite268.JPG/400px-Buttenwiesen_Synagoge_Südseite268.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Buttenwiesen_Synagoge_Südseite268.JPG/800px-Buttenwiesen_Synagoge_Südseite268.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Buttenwiesen_Synagoge_Südseite268.JPG/1200px-Buttenwiesen_Synagoge_Südseite268.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Buttenwiesen_Synagoge_Südseite268.JPG/1920px-Buttenwiesen_Synagoge_Südseite268.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Buttenwiesen_Synagoge_Südseite268.JPG/1920px-Buttenwiesen_Synagoge_Südseite268.JPG
+---
 
 ## Overview
 

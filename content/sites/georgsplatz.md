@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/400px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/800px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/1200px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/1920px-Jagdschloss_Forstamt_Wennigser_Mark.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jagdschloss_Forstamt_Wennigser_Mark.jpg/1920px-Jagdschloss_Forstamt_Wennigser_Mark.jpg
+---
 
 ## Overview
 

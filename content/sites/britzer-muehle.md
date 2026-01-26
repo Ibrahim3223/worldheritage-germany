@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Britzer-muehle.jpg/400px-Britzer-muehle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Britzer-muehle.jpg/800px-Britzer-muehle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Britzer-muehle.jpg/1200px-Britzer-muehle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Britzer-muehle.jpg/1920px-Britzer-muehle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Britzer-muehle.jpg/1920px-Britzer-muehle.jpg
+---
 
 ## Overview
 

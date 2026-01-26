@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG/400px-Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG/800px-Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG/1200px-Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG/1920px-Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG/1920px-Konradsburg_in_Ermsleben_Ortsteil_von_Stadt_Falkenstein-Harz_im_Landkreis_Harz_in_Sachsen-Anhalt.JPG
+---
 
 ## Overview
 

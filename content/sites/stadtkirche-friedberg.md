@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg/400px-Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg/800px-Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg/1200px-Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg/1920px-Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg/1920px-Friedberg_Hessen_-Stadtpfarrkirche_Unserer_Lieben_Frau_von_Suedwesten-20140319.jpg
+---
 
 ## Overview
 

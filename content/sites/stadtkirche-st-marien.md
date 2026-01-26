@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/400px-Marienkirche_am_Abend.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/800px-Marienkirche_am_Abend.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/1200px-Marienkirche_am_Abend.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/1920px-Marienkirche_am_Abend.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marienkirche_am_Abend.JPG/1920px-Marienkirche_am_Abend.JPG
+---
 
 ## Overview
 

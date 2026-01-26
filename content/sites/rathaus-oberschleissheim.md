@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/400px-20220320_Rathaus_Oberschleißheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/800px-20220320_Rathaus_Oberschleißheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/1200px-20220320_Rathaus_Oberschleißheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/1920px-20220320_Rathaus_Oberschleißheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/20220320_Rathaus_Oberschleißheim.jpg/1920px-20220320_Rathaus_Oberschleißheim.jpg
+---
 
 # Rathaus Oberschleißheim: A Glimpse into Local Governance and Community Spirit
 

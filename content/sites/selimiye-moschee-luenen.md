@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/400px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/800px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/1200px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/1920px-Selimiye-Moschee-Lünen-4-2009-0010.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Selimiye-Moschee-Lünen-4-2009-0010.JPG/1920px-Selimiye-Moschee-Lünen-4-2009-0010.JPG
+---
 
 ## Overview
 

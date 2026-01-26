@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/400px-Nuremberg.St._Sebald_church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/800px-Nuremberg.St._Sebald_church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/1200px-Nuremberg.St._Sebald_church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/1920px-Nuremberg.St._Sebald_church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nuremberg.St._Sebald_church.jpg/1920px-Nuremberg.St._Sebald_church.jpg
+---
 
 ## Overview
 

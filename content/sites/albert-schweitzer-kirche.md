@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/400px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/800px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/1200px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/1920px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/1920px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
+---
 
 ## Overview
 

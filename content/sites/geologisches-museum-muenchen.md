@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/400px-Geologisches_Museum_München.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/800px-Geologisches_Museum_München.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1200px-Geologisches_Museum_München.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1920px-Geologisches_Museum_München.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1920px-Geologisches_Museum_München.jpg
+---
 
 ## Overview
 

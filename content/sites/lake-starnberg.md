@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/400px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/800px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/1200px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/1920px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg/1920px-Aerial_image_of_Lake_Starnberg_(view_from_the_south).jpg
+---
 
 ## Overview
 

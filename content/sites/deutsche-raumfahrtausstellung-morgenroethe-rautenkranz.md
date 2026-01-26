@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/400px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/800px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1200px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1920px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1920px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg/400px-Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg/800px-Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg/1200px-Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg/1920px-Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg/1920px-Brilon-Keffelker_Kapelle-Südwestansicht-2011-10-01.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/400px-BrehnaAltesRathaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/800px-BrehnaAltesRathaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/1200px-BrehnaAltesRathaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/1920px-BrehnaAltesRathaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BrehnaAltesRathaus.jpg/1920px-BrehnaAltesRathaus.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembertistift_aussen_img-01.jpg/400px-Rembertistift_aussen_img-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembertistift_aussen_img-01.jpg/800px-Rembertistift_aussen_img-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembertistift_aussen_img-01.jpg/1200px-Rembertistift_aussen_img-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembertistift_aussen_img-01.jpg/1920px-Rembertistift_aussen_img-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rembertistift_aussen_img-01.jpg/1920px-Rembertistift_aussen_img-01.jpg
+---
 
 ## Overview
 

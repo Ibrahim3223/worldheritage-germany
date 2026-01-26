@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/400px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/800px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/1200px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/1920px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg/1920px-Gedenkstätte_Silberbergtunnel_Tunnelportal_mit_Stein.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/400px-Würzburg_Adalberokerk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/800px-Würzburg_Adalberokerk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/1200px-Würzburg_Adalberokerk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/1920px-Würzburg_Adalberokerk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Würzburg_Adalberokerk.jpg/1920px-Würzburg_Adalberokerk.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/400px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/800px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/1200px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/1920px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg/1920px-St._Blasius_in_Duesseldorf-Hamm,_von_Suedosten.jpg
+---
 
 ## Overview
 

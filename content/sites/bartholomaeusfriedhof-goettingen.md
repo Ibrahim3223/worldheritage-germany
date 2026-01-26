@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/400px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/800px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/1200px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/1920px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg/1920px-Göttingen_asv2022-06_img20_Bartholomäusfriedhof.jpg
+---
 
 ## Overview
 

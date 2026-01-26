@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/400px-Am_Osterberg_Häusergruppe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/800px-Am_Osterberg_Häusergruppe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/1200px-Am_Osterberg_Häusergruppe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/1920px-Am_Osterberg_Häusergruppe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Am_Osterberg_Häusergruppe.jpg/1920px-Am_Osterberg_Häusergruppe.jpg
+---
 
 ## Overview
 

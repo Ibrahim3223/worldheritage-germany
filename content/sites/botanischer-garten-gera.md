@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/400px-Botanischer_Garten_Gera_5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/800px-Botanischer_Garten_Gera_5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1200px-Botanischer_Garten_Gera_5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1920px-Botanischer_Garten_Gera_5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1920px-Botanischer_Garten_Gera_5.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/400px-Museum_DKM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/800px-Museum_DKM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/1200px-Museum_DKM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/1920px-Museum_DKM.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Museum_DKM.jpg/1920px-Museum_DKM.jpg
+---
 
 ## Overview
 

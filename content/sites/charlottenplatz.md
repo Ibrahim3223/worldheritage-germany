@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/400px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/800px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/1200px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/1920px-Stuttgart_Charlottenplatz_Verkehr_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart_Charlottenplatz_Verkehr_2.JPG/1920px-Stuttgart_Charlottenplatz_Verkehr_2.JPG
+---
 
 ## Overview
 

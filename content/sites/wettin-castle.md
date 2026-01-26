@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/400px-Wettin_2019-12-07_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/800px-Wettin_2019-12-07_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/1200px-Wettin_2019-12-07_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/1920px-Wettin_2019-12-07_12.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wettin_2019-12-07_12.jpg/1920px-Wettin_2019-12-07_12.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/400px-Kunstgussmuseum_Lauchhammer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/800px-Kunstgussmuseum_Lauchhammer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/1200px-Kunstgussmuseum_Lauchhammer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/1920px-Kunstgussmuseum_Lauchhammer.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstgussmuseum_Lauchhammer.JPG/1920px-Kunstgussmuseum_Lauchhammer.JPG
+---
 
 ## Overview
 

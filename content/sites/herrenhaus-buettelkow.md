@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/400px-Herrenhausbüttelkowwiki.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/800px-Herrenhausbüttelkowwiki.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/1200px-Herrenhausbüttelkowwiki.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/1920px-Herrenhausbüttelkowwiki.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Herrenhausbüttelkowwiki.JPG/1920px-Herrenhausbüttelkowwiki.JPG
+---
 
 ## Overview
 

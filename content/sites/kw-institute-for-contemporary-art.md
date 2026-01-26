@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/400px-161123_KW_0060_LQ.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/800px-161123_KW_0060_LQ.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/1200px-161123_KW_0060_LQ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/1920px-161123_KW_0060_LQ.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/161123_KW_0060_LQ.jpg/1920px-161123_KW_0060_LQ.jpg
+---
 
 ## Overview
 

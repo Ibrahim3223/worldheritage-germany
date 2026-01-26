@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/400px-Регенсбург_-_panoramio_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/800px-Регенсбург_-_panoramio_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/1200px-Регенсбург_-_panoramio_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/1920px-Регенсбург_-_panoramio_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Регенсбург_-_panoramio_(1).jpg/1920px-Регенсбург_-_panoramio_(1).jpg
+---
 
 ## Overview
 

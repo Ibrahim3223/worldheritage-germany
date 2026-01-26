@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/400px-Altes_Rathaus_Höchst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/800px-Altes_Rathaus_Höchst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/1200px-Altes_Rathaus_Höchst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/1920px-Altes_Rathaus_Höchst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Altes_Rathaus_Höchst.jpg/1920px-Altes_Rathaus_Höchst.jpg
+---
 
 ## Overview
 

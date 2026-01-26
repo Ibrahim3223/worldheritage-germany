@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/400px-Nürnberg_St._Lorenz_Türme_Totale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/800px-Nürnberg_St._Lorenz_Türme_Totale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/1200px-Nürnberg_St._Lorenz_Türme_Totale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/1920px-Nürnberg_St._Lorenz_Türme_Totale.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Nürnberg_St._Lorenz_Türme_Totale.jpg/1920px-Nürnberg_St._Lorenz_Türme_Totale.jpg
+---
 
 ## Overview
 

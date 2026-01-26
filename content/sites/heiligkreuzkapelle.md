@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/400px-Heiligkreuzkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/800px-Heiligkreuzkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/1200px-Heiligkreuzkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/1920px-Heiligkreuzkapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heiligkreuzkapelle.JPG/1920px-Heiligkreuzkapelle.JPG
+---
 
 ## Overview
 

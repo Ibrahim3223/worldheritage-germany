@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/400px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/800px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1200px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1920px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1920px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/400px-Schloss_Stedten_vor_Abriss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/800px-Schloss_Stedten_vor_Abriss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/1200px-Schloss_Stedten_vor_Abriss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/1920px-Schloss_Stedten_vor_Abriss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schloss_Stedten_vor_Abriss.JPG/1920px-Schloss_Stedten_vor_Abriss.JPG
+---
 
 ## Overview
 

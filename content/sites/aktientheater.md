@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg/400px-Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg/800px-Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg/1200px-Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg/1920px-Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg/1920px-Heilbronn_Altes_Theater_(jetzt_Saalbau).jpg
+---
 
 ## Overview
 

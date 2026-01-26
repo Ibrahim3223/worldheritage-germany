@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/400px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/800px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/1200px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/1920px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Froendenberg_katholische_Kirche_IMGP1150_wp.jpg/1920px-Froendenberg_katholische_Kirche_IMGP1150_wp.jpg
+---
 
 ## Overview
 

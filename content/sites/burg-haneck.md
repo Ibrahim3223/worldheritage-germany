@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/400px-GeroldsteinBurgHaneck.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/800px-GeroldsteinBurgHaneck.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/1200px-GeroldsteinBurgHaneck.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/1920px-GeroldsteinBurgHaneck.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GeroldsteinBurgHaneck.JPG/1920px-GeroldsteinBurgHaneck.JPG
+---
 
 ## Overview
 

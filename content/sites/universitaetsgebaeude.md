@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/400px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/800px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/1200px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/1920px-Röntgengedächtnisstätte_in_Würzburg_05.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Röntgengedächtnisstätte_in_Würzburg_05.JPG/1920px-Röntgengedächtnisstätte_in_Würzburg_05.JPG
+---
 
 ## Overview
 

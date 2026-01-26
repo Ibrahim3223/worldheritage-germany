@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/400px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/800px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/1200px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/1920px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/1920px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
+---
 
 ## Overview
 

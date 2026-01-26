@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/400px-Merla_(Merian).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/800px-Merla_(Merian).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/1200px-Merla_(Merian).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/1920px-Merla_(Merian).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Merla_(Merian).jpg/1920px-Merla_(Merian).jpg
+---
 
 ## Overview
 

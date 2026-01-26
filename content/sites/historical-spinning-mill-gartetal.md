@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/400px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/800px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/1200px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/1920px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg/1920px-Historical_spinning_mill_Gartetal,_district_Göttingen,_Germany_04.jpg
+---
 
 ## Overview
 

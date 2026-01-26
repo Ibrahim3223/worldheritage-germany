@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/400px-Sankt_Sebastian_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/800px-Sankt_Sebastian_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/1200px-Sankt_Sebastian_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/1920px-Sankt_Sebastian_Magdeburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sankt_Sebastian_Magdeburg.jpg/1920px-Sankt_Sebastian_Magdeburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/400px-Pfaffendorf-Kath-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/800px-Pfaffendorf-Kath-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1200px-Pfaffendorf-Kath-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1920px-Pfaffendorf-Kath-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1920px-Pfaffendorf-Kath-Kirche.jpg
+---
 
 ## Overview 
 

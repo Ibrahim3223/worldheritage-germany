@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/400px-Badersee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/800px-Badersee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/1200px-Badersee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/1920px-Badersee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Badersee.JPG/1920px-Badersee.JPG
+---
 
 ## Overview
 

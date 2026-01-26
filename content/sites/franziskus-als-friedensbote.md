@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/400px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/800px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/1200px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/1920px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg/1920px-Martin_Mayer_Franziskus_1978-79_Bronze_St.-Anna-Platz_Muenchen-2.jpg
+---
 
 ## Overview
 

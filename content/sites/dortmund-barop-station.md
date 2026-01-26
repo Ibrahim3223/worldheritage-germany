@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bf-do-barop.jpg/400px-Bf-do-barop.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bf-do-barop.jpg/800px-Bf-do-barop.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bf-do-barop.jpg/1200px-Bf-do-barop.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bf-do-barop.jpg/1920px-Bf-do-barop.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bf-do-barop.jpg/1920px-Bf-do-barop.jpg
+---
 
 ## Overview
 

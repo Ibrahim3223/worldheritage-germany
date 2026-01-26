@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/400px-Berthastraße_15.Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/800px-Berthastraße_15.Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/1200px-Berthastraße_15.Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/1920px-Berthastraße_15.Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Berthastraße_15.Leipzig.jpg/1920px-Berthastraße_15.Leipzig.jpg
+---
 
 ## Overview
 

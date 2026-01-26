@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sietow-dorfkirche.jpg/400px-Sietow-dorfkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sietow-dorfkirche.jpg/800px-Sietow-dorfkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sietow-dorfkirche.jpg/1200px-Sietow-dorfkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sietow-dorfkirche.jpg/1920px-Sietow-dorfkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sietow-dorfkirche.jpg/1920px-Sietow-dorfkirche.jpg
+---
 
 ## Overview
 

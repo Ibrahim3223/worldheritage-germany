@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/400px-Altenburg_bei_Niedenstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/800px-Altenburg_bei_Niedenstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/1200px-Altenburg_bei_Niedenstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/1920px-Altenburg_bei_Niedenstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Altenburg_bei_Niedenstein.JPG/1920px-Altenburg_bei_Niedenstein.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/400px-HL_HJHP_–_Marienkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/800px-HL_HJHP_–_Marienkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/1200px-HL_HJHP_–_Marienkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/1920px-HL_HJHP_–_Marienkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HL_HJHP_–_Marienkirche.jpg/1920px-HL_HJHP_–_Marienkirche.jpg
+---
 
 ## Overview
 

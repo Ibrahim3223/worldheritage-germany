@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/400px-Severinskirche_Keitum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/800px-Severinskirche_Keitum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/1200px-Severinskirche_Keitum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/1920px-Severinskirche_Keitum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Severinskirche_Keitum.jpg/1920px-Severinskirche_Keitum.jpg
+---
 
 ## Overview
 

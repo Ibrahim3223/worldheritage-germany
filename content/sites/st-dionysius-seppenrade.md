@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/400px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/800px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/1200px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/1920px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg/1920px-Seppenrade,_St.-Dionysius-Kirche_--_2013_--_2841.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/400px-Panorama_Schießbahn1A.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/800px-Panorama_Schießbahn1A.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/1200px-Panorama_Schießbahn1A.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/1920px-Panorama_Schießbahn1A.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Panorama_Schießbahn1A.JPG/1920px-Panorama_Schießbahn1A.JPG
+---
 
 ## Overview
 

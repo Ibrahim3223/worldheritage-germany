@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Luelsdorf_Burg3.jpg/400px-Luelsdorf_Burg3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Luelsdorf_Burg3.jpg/800px-Luelsdorf_Burg3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Luelsdorf_Burg3.jpg/1200px-Luelsdorf_Burg3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Luelsdorf_Burg3.jpg/1920px-Luelsdorf_Burg3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Luelsdorf_Burg3.jpg/1920px-Luelsdorf_Burg3.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/400px-Herford_Bahnhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/800px-Herford_Bahnhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/1200px-Herford_Bahnhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/1920px-Herford_Bahnhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Herford_Bahnhof.JPG/1920px-Herford_Bahnhof.JPG
+---
 
 ## Overview
 

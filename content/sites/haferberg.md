@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DE-NI_Haferberg_2011-04-23.JPG/400px-DE-NI_Haferberg_2011-04-23.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DE-NI_Haferberg_2011-04-23.JPG/800px-DE-NI_Haferberg_2011-04-23.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DE-NI_Haferberg_2011-04-23.JPG/1200px-DE-NI_Haferberg_2011-04-23.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DE-NI_Haferberg_2011-04-23.JPG/1920px-DE-NI_Haferberg_2011-04-23.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/DE-NI_Haferberg_2011-04-23.JPG/1920px-DE-NI_Haferberg_2011-04-23.JPG
+---
 
 ## Overview
 

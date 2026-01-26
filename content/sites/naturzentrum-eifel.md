@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/400px-Naturzentrum_Eifel-6709.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/800px-Naturzentrum_Eifel-6709.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/1200px-Naturzentrum_Eifel-6709.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/1920px-Naturzentrum_Eifel-6709.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Naturzentrum_Eifel-6709.jpg/1920px-Naturzentrum_Eifel-6709.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/400px-Volkswagen-kassel-baunatal-270307.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/800px-Volkswagen-kassel-baunatal-270307.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/1200px-Volkswagen-kassel-baunatal-270307.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/1920px-Volkswagen-kassel-baunatal-270307.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Volkswagen-kassel-baunatal-270307.jpg/1920px-Volkswagen-kassel-baunatal-270307.jpg
+---
 
 ## Overview
 

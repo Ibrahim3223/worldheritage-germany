@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/400px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/800px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/1200px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/1920px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG/1920px-Gleschendorf_Feldsteinkirche_Seitenansicht_N.JPG
+---
 
 ## Overview
 

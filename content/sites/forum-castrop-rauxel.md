@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/400px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/800px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/1200px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/1920px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg/1920px-Castrop-Rauxel,_Baudenkmal_69,_Europaplatz_2020-04-09_5035.jpg
+---
 
 ## Overview
 

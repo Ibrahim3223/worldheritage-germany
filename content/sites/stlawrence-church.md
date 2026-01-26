@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/400px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/800px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/1200px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/1920px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St.Lorenz-Kirche_Lübeck_2018_SE.jpg/1920px-St.Lorenz-Kirche_Lübeck_2018_SE.jpg
+---
 
 ## Overview
 

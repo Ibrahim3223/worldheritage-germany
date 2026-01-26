@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/400px-Marienkapelle_Erlenmoos.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/800px-Marienkapelle_Erlenmoos.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/1200px-Marienkapelle_Erlenmoos.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/1920px-Marienkapelle_Erlenmoos.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Marienkapelle_Erlenmoos.jpg/1920px-Marienkapelle_Erlenmoos.jpg
+---
 
 ## Overview
 

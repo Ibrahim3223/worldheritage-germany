@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SchönnewitzHH.JPG/400px-SchönnewitzHH.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SchönnewitzHH.JPG/800px-SchönnewitzHH.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SchönnewitzHH.JPG/1200px-SchönnewitzHH.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SchönnewitzHH.JPG/1920px-SchönnewitzHH.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SchönnewitzHH.JPG/1920px-SchönnewitzHH.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/400px-Gersthofen_Moschee_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/800px-Gersthofen_Moschee_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/1200px-Gersthofen_Moschee_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/1920px-Gersthofen_Moschee_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gersthofen_Moschee_01.JPG/1920px-Gersthofen_Moschee_01.JPG
+---
 
 ## Overview
 

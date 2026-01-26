@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/400px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/800px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/1200px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/1920px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG/1920px-Mother_Statue.Schönholzer_Heide.Soviet_War_Memorial.JPG
+---
 
 ## Overview
 

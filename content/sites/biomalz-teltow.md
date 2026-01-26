@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/400px-Biomalz_Teltow_Verwaltungsgebäude.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/800px-Biomalz_Teltow_Verwaltungsgebäude.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/1200px-Biomalz_Teltow_Verwaltungsgebäude.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/1920px-Biomalz_Teltow_Verwaltungsgebäude.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Biomalz_Teltow_Verwaltungsgebäude.JPG/1920px-Biomalz_Teltow_Verwaltungsgebäude.JPG
+---
 
 ## Overview
 

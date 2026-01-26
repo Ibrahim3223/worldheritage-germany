@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/400px-Uni_Rinteln_1850.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/800px-Uni_Rinteln_1850.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/1200px-Uni_Rinteln_1850.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/1920px-Uni_Rinteln_1850.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Uni_Rinteln_1850.jpg/1920px-Uni_Rinteln_1850.jpg
+---
 
 ## Overview
 

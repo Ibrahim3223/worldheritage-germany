@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/400px-Schwiessel_altes_Gutshaus_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/800px-Schwiessel_altes_Gutshaus_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/1200px-Schwiessel_altes_Gutshaus_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/1920px-Schwiessel_altes_Gutshaus_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Schwiessel_altes_Gutshaus_1.JPG/1920px-Schwiessel_altes_Gutshaus_1.JPG
+---
 
 ## Overview
 

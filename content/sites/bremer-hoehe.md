@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/400px-Berlin_-_Bremer_Höhe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/800px-Berlin_-_Bremer_Höhe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/1200px-Berlin_-_Bremer_Höhe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/1920px-Berlin_-_Bremer_Höhe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin_-_Bremer_Höhe.jpg/1920px-Berlin_-_Bremer_Höhe.jpg
+---
 
 ## Overview
 

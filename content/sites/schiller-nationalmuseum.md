@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/400px-Schiller-nationalm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/800px-Schiller-nationalm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/1200px-Schiller-nationalm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/1920px-Schiller-nationalm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schiller-nationalm.jpg/1920px-Schiller-nationalm.jpg
+---
 
 ## Overview
 

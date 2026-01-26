@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/400px-Rinteln_Rathaus_from_the_south.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/800px-Rinteln_Rathaus_from_the_south.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/1200px-Rinteln_Rathaus_from_the_south.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/1920px-Rinteln_Rathaus_from_the_south.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rinteln_Rathaus_from_the_south.jpg/1920px-Rinteln_Rathaus_from_the_south.jpg
+---
 
 ## Overview
 

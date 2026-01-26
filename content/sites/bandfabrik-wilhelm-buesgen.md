@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/400px-Fabrikgebaeude_Buesgen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/800px-Fabrikgebaeude_Buesgen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/1200px-Fabrikgebaeude_Buesgen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/1920px-Fabrikgebaeude_Buesgen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fabrikgebaeude_Buesgen.jpg/1920px-Fabrikgebaeude_Buesgen.jpg
+---
 
 ## Overview
 

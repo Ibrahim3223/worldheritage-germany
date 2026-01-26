@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/400px-TheaterAnklam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/800px-TheaterAnklam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/1200px-TheaterAnklam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/1920px-TheaterAnklam.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TheaterAnklam.jpg/1920px-TheaterAnklam.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/400px-Mönchberg_Wendelinuskapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/800px-Mönchberg_Wendelinuskapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/1200px-Mönchberg_Wendelinuskapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/1920px-Mönchberg_Wendelinuskapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mönchberg_Wendelinuskapelle.JPG/1920px-Mönchberg_Wendelinuskapelle.JPG
+---
 
 ## Overview
 

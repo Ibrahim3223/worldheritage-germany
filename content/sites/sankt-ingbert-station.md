@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/400px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/800px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/1200px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/1920px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg/1920px-ICE_Saarbr._-_Dresden_in_St._Ingbert.jpg
+---
 
 ## Overview
 

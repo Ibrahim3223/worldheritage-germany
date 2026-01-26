@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/400px-Church_Vellage.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/800px-Church_Vellage.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/1200px-Church_Vellage.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/1920px-Church_Vellage.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Church_Vellage.jpg/1920px-Church_Vellage.jpg
+---
 
 ## Overview
 

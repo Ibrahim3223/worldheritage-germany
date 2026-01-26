@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/400px-Frankfurt,_Explora_Museum_Außenansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/800px-Frankfurt,_Explora_Museum_Außenansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/1200px-Frankfurt,_Explora_Museum_Außenansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/1920px-Frankfurt,_Explora_Museum_Außenansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Frankfurt,_Explora_Museum_Außenansicht.JPG/1920px-Frankfurt,_Explora_Museum_Außenansicht.JPG
+---
 
 ## Overview
 

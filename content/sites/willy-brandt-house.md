@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/400px-Wbhl-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/800px-Wbhl-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/1200px-Wbhl-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/1920px-Wbhl-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wbhl-01.jpg/1920px-Wbhl-01.jpg
+---
 
 ## Overview
 

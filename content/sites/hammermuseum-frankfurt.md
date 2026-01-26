@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/400px-Hammermuseum_Ffm_06_(fcm).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/800px-Hammermuseum_Ffm_06_(fcm).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/1200px-Hammermuseum_Ffm_06_(fcm).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/1920px-Hammermuseum_Ffm_06_(fcm).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hammermuseum_Ffm_06_(fcm).jpg/1920px-Hammermuseum_Ffm_06_(fcm).jpg
+---
 
 ## Overview
 

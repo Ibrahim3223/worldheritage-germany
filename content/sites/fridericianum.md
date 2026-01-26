@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/400px-Kassel_asv2022-02_img25_Fridericianum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/800px-Kassel_asv2022-02_img25_Fridericianum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1200px-Kassel_asv2022-02_img25_Fridericianum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1920px-Kassel_asv2022-02_img25_Fridericianum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1920px-Kassel_asv2022-02_img25_Fridericianum.jpg
+---
 
 ## Overview
 

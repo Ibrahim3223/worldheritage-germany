@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Speyerlachsee,_Blick_auf_das_Ostufer.jpg/400px-Speyerlachsee,_Blick_auf_das_Ostufer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Speyerlachsee,_Blick_auf_das_Ostufer.jpg/800px-Speyerlachsee,_Blick_auf_das_Ostufer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Speyerlachsee,_Blick_auf_das_Ostufer.jpg/1200px-Speyerlachsee,_Blick_auf_das_Ostufer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Speyerlachsee,_Blick_auf_das_Ostufer.jpg/1920px-Speyerlachsee,_Blick_auf_das_Ostufer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Speyerlachsee,_Blick_auf_das_Ostufer.jpg/1920px-Speyerlachsee,_Blick_auf_das_Ostufer.jpg
+---
 
 ## Overview
 

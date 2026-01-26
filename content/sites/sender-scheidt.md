@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/400px-Sender_Scheidt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/800px-Sender_Scheidt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/1200px-Sender_Scheidt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/1920px-Sender_Scheidt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sender_Scheidt.jpg/1920px-Sender_Scheidt.jpg
+---
 
 ## Overview
 

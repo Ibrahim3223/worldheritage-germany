@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sbahn-lu.jpg/400px-Sbahn-lu.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sbahn-lu.jpg/800px-Sbahn-lu.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sbahn-lu.jpg/1200px-Sbahn-lu.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sbahn-lu.jpg/1920px-Sbahn-lu.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sbahn-lu.jpg/1920px-Sbahn-lu.jpg
+---
 
 ## Overview
 

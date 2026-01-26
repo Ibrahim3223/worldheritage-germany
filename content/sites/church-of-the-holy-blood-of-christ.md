@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/400px-Armsheim_–_ev._Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/800px-Armsheim_–_ev._Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1200px-Armsheim_–_ev._Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1920px-Armsheim_–_ev._Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1920px-Armsheim_–_ev._Kirche.jpg
+---
 
 ## Overview
 

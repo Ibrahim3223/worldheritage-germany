@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/400px-St._Thomas_Church,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/800px-St._Thomas_Church,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/1200px-St._Thomas_Church,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/1920px-St._Thomas_Church,_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Thomas_Church,_Leipzig.jpg/1920px-St._Thomas_Church,_Leipzig.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oberfeuer_Tinsdal_02.jpg/400px-Oberfeuer_Tinsdal_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oberfeuer_Tinsdal_02.jpg/800px-Oberfeuer_Tinsdal_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oberfeuer_Tinsdal_02.jpg/1200px-Oberfeuer_Tinsdal_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oberfeuer_Tinsdal_02.jpg/1920px-Oberfeuer_Tinsdal_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oberfeuer_Tinsdal_02.jpg/1920px-Oberfeuer_Tinsdal_02.jpg
+---
 
 ## Overview
 

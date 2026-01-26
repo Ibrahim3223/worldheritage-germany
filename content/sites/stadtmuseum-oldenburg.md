@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stadtmuseum_Oldenburg_internal_view.JPG/400px-Stadtmuseum_Oldenburg_internal_view.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stadtmuseum_Oldenburg_internal_view.JPG/800px-Stadtmuseum_Oldenburg_internal_view.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stadtmuseum_Oldenburg_internal_view.JPG/1200px-Stadtmuseum_Oldenburg_internal_view.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stadtmuseum_Oldenburg_internal_view.JPG/1920px-Stadtmuseum_Oldenburg_internal_view.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Stadtmuseum_Oldenburg_internal_view.JPG/1920px-Stadtmuseum_Oldenburg_internal_view.JPG
+---
 
 ## Overview
 

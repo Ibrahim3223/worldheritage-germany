@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/400px-Stendal-roland.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/800px-Stendal-roland.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/1200px-Stendal-roland.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/1920px-Stendal-roland.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stendal-roland.jpg/1920px-Stendal-roland.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/400px-HoerschbachtalWinter.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/800px-HoerschbachtalWinter.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/1200px-HoerschbachtalWinter.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/1920px-HoerschbachtalWinter.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/1920px-HoerschbachtalWinter.jpg
+---
 
 ## Overview
 

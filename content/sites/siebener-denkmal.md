@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/400px-Denkmal_Inf_Kaiser_Friedrich.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/800px-Denkmal_Inf_Kaiser_Friedrich.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/1200px-Denkmal_Inf_Kaiser_Friedrich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/1920px-Denkmal_Inf_Kaiser_Friedrich.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Denkmal_Inf_Kaiser_Friedrich.jpg/1920px-Denkmal_Inf_Kaiser_Friedrich.jpg
+---
 
 ## Overview
 

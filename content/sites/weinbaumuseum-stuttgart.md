@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Weinbaumuseum-stuttgart1.jpg/400px-Weinbaumuseum-stuttgart1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Weinbaumuseum-stuttgart1.jpg/800px-Weinbaumuseum-stuttgart1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Weinbaumuseum-stuttgart1.jpg/1200px-Weinbaumuseum-stuttgart1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Weinbaumuseum-stuttgart1.jpg/1920px-Weinbaumuseum-stuttgart1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Weinbaumuseum-stuttgart1.jpg/1920px-Weinbaumuseum-stuttgart1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/400px-Flensburg,_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/800px-Flensburg,_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/1200px-Flensburg,_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/1920px-Flensburg,_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flensburg,_Museum.jpg/1920px-Flensburg,_Museum.jpg
+---
 
 ## Overview
 

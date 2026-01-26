@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portikus_Frankfurt.jpg/400px-Portikus_Frankfurt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portikus_Frankfurt.jpg/800px-Portikus_Frankfurt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portikus_Frankfurt.jpg/1200px-Portikus_Frankfurt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portikus_Frankfurt.jpg/1920px-Portikus_Frankfurt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Portikus_Frankfurt.jpg/1920px-Portikus_Frankfurt.jpg
+---
 
 ## Overview
 

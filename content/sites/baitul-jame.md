@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/400px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/800px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1200px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1920px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1920px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
+---
 
 ## Overview
 

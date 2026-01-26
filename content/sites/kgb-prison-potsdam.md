@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/400px-Gefängnis_Leistikowstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/800px-Gefängnis_Leistikowstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/1200px-Gefängnis_Leistikowstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/1920px-Gefängnis_Leistikowstraße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gefängnis_Leistikowstraße.jpg/1920px-Gefängnis_Leistikowstraße.jpg
+---
 
 ## Overview
 

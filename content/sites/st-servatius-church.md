@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/400px-MuensterServatii7901.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/800px-MuensterServatii7901.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/1200px-MuensterServatii7901.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/1920px-MuensterServatii7901.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MuensterServatii7901.jpg/1920px-MuensterServatii7901.jpg
+---
 
 ## Overview
 

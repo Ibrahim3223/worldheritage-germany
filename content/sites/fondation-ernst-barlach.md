@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/400px-Ernst-Barlach-Stiftung_Güstrow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/800px-Ernst-Barlach-Stiftung_Güstrow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1200px-Ernst-Barlach-Stiftung_Güstrow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1920px-Ernst-Barlach-Stiftung_Güstrow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1920px-Ernst-Barlach-Stiftung_Güstrow.jpg
+---
 
 ## Overview
 

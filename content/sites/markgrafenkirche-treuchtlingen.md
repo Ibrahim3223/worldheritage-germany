@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Treuchtlingen,_Markgrafenkirche_(2).JPG/400px-Treuchtlingen,_Markgrafenkirche_(2).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Treuchtlingen,_Markgrafenkirche_(2).JPG/800px-Treuchtlingen,_Markgrafenkirche_(2).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Treuchtlingen,_Markgrafenkirche_(2).JPG/1200px-Treuchtlingen,_Markgrafenkirche_(2).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Treuchtlingen,_Markgrafenkirche_(2).JPG/1920px-Treuchtlingen,_Markgrafenkirche_(2).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Treuchtlingen,_Markgrafenkirche_(2).JPG/1920px-Treuchtlingen,_Markgrafenkirche_(2).JPG
+---
 
 ## Overview
 

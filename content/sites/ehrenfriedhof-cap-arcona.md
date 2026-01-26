@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/400px-Ehrenfriedhof-CapArcona.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/800px-Ehrenfriedhof-CapArcona.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/1200px-Ehrenfriedhof-CapArcona.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/1920px-Ehrenfriedhof-CapArcona.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ehrenfriedhof-CapArcona.jpg/1920px-Ehrenfriedhof-CapArcona.jpg
+---
 
 ## Overview
 

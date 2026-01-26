@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/400px-Hotel_Silber_Stuttgart1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/800px-Hotel_Silber_Stuttgart1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/1200px-Hotel_Silber_Stuttgart1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/1920px-Hotel_Silber_Stuttgart1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hotel_Silber_Stuttgart1.jpg/1920px-Hotel_Silber_Stuttgart1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warlitz_Kirche_2008-05-15_069.jpg/400px-Warlitz_Kirche_2008-05-15_069.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warlitz_Kirche_2008-05-15_069.jpg/800px-Warlitz_Kirche_2008-05-15_069.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warlitz_Kirche_2008-05-15_069.jpg/1200px-Warlitz_Kirche_2008-05-15_069.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warlitz_Kirche_2008-05-15_069.jpg/1920px-Warlitz_Kirche_2008-05-15_069.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Warlitz_Kirche_2008-05-15_069.jpg/1920px-Warlitz_Kirche_2008-05-15_069.jpg
+---
 
 ## Overview
 

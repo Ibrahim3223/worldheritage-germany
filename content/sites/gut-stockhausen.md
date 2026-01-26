@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/400px-Stockhausen-Sammlung_Duncker_(5413026).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/800px-Stockhausen-Sammlung_Duncker_(5413026).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/1200px-Stockhausen-Sammlung_Duncker_(5413026).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/1920px-Stockhausen-Sammlung_Duncker_(5413026).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Stockhausen-Sammlung_Duncker_(5413026).jpg/1920px-Stockhausen-Sammlung_Duncker_(5413026).jpg
+---
 
 ## Overview
 

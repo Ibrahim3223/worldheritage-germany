@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausenstein_2016.jpg/400px-Klausenstein_2016.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausenstein_2016.jpg/800px-Klausenstein_2016.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausenstein_2016.jpg/1200px-Klausenstein_2016.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausenstein_2016.jpg/1920px-Klausenstein_2016.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Klausenstein_2016.jpg/1920px-Klausenstein_2016.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/400px-Allwetterzoo_Muenster_Hippomax_3239.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/800px-Allwetterzoo_Muenster_Hippomax_3239.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/1200px-Allwetterzoo_Muenster_Hippomax_3239.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/1920px-Allwetterzoo_Muenster_Hippomax_3239.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Allwetterzoo_Muenster_Hippomax_3239.jpg/1920px-Allwetterzoo_Muenster_Hippomax_3239.jpg
+---
 
 ## Overview
 

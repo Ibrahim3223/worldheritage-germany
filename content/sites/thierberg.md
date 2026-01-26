@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/400px-Thierberg_westen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/800px-Thierberg_westen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/1200px-Thierberg_westen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/1920px-Thierberg_westen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thierberg_westen.jpg/1920px-Thierberg_westen.jpg
+---
 
 ## Overview
 

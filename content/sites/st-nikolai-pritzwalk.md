@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/400px-St_Nikolai_Pritzwalk.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/800px-St_Nikolai_Pritzwalk.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/1200px-St_Nikolai_Pritzwalk.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/1920px-St_Nikolai_Pritzwalk.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Nikolai_Pritzwalk.jpg/1920px-St_Nikolai_Pritzwalk.jpg
+---
 
 ## Overview
 

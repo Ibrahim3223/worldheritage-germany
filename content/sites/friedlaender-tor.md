@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/400px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/800px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/1200px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/1920px-NB-Friedlaender-Tor-11-IV-2007-041.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/NB-Friedlaender-Tor-11-IV-2007-041.jpg/1920px-NB-Friedlaender-Tor-11-IV-2007-041.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/400px-Andreaskapelle_Knautnaundorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/800px-Andreaskapelle_Knautnaundorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/1200px-Andreaskapelle_Knautnaundorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/1920px-Andreaskapelle_Knautnaundorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Andreaskapelle_Knautnaundorf.jpg/1920px-Andreaskapelle_Knautnaundorf.jpg
+---
 
 ## Overview
 

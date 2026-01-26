@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/400px-PM08-13_img03_Kloster_Lehnin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/800px-PM08-13_img03_Kloster_Lehnin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/1200px-PM08-13_img03_Kloster_Lehnin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/1920px-PM08-13_img03_Kloster_Lehnin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PM08-13_img03_Kloster_Lehnin.jpg/1920px-PM08-13_img03_Kloster_Lehnin.jpg
+---
 
 ## Overview
 

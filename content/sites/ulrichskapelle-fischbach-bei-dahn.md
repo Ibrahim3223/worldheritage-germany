@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fischbach_Ulrichskapelle.jpg/400px-Fischbach_Ulrichskapelle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fischbach_Ulrichskapelle.jpg/800px-Fischbach_Ulrichskapelle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fischbach_Ulrichskapelle.jpg/1200px-Fischbach_Ulrichskapelle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fischbach_Ulrichskapelle.jpg/1920px-Fischbach_Ulrichskapelle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fischbach_Ulrichskapelle.jpg/1920px-Fischbach_Ulrichskapelle.jpg
+---
 
 ## Overview
 

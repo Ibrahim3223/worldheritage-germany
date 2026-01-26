@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/400px-Altenriet,_Andreas_Kieser.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/800px-Altenriet,_Andreas_Kieser.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/1200px-Altenriet,_Andreas_Kieser.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/1920px-Altenriet,_Andreas_Kieser.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Altenriet,_Andreas_Kieser.png/1920px-Altenriet,_Andreas_Kieser.png
+---
 
 ## Overview
 

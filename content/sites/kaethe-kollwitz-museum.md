@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SchlosstheaterCharlottenburg.jpg/400px-SchlosstheaterCharlottenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SchlosstheaterCharlottenburg.jpg/800px-SchlosstheaterCharlottenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SchlosstheaterCharlottenburg.jpg/1200px-SchlosstheaterCharlottenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SchlosstheaterCharlottenburg.jpg/1920px-SchlosstheaterCharlottenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/SchlosstheaterCharlottenburg.jpg/1920px-SchlosstheaterCharlottenburg.jpg
+---
 
 ## Overview
 

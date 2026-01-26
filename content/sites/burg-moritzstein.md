@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/400px-Wenings-Burg-Moritzstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/800px-Wenings-Burg-Moritzstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/1200px-Wenings-Burg-Moritzstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/1920px-Wenings-Burg-Moritzstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wenings-Burg-Moritzstein.jpg/1920px-Wenings-Burg-Moritzstein.jpg
+---
 
 ## Overview
 

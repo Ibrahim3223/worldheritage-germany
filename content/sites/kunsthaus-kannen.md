@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/400px-KunsthausKannen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/800px-KunsthausKannen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/1200px-KunsthausKannen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/1920px-KunsthausKannen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KunsthausKannen.jpg/1920px-KunsthausKannen.jpg
+---
 
 ## Overview
 

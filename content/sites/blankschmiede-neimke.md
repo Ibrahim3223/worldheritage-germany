@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dassel_Museen_12.jpg/400px-Dassel_Museen_12.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dassel_Museen_12.jpg/800px-Dassel_Museen_12.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dassel_Museen_12.jpg/1200px-Dassel_Museen_12.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dassel_Museen_12.jpg/1920px-Dassel_Museen_12.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dassel_Museen_12.jpg/1920px-Dassel_Museen_12.jpg
+---
 
 ## Overview
 

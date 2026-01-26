@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kirche_oeventrop.JPG/400px-Kirche_oeventrop.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kirche_oeventrop.JPG/800px-Kirche_oeventrop.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kirche_oeventrop.JPG/1200px-Kirche_oeventrop.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kirche_oeventrop.JPG/1920px-Kirche_oeventrop.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kirche_oeventrop.JPG/1920px-Kirche_oeventrop.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/400px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/800px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1200px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1920px-Berlin-Mitte_Bebelplatz1_05-2014.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1920px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
+---
 
 ## Overview
 

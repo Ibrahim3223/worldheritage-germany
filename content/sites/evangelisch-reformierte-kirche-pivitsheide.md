@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/400px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/800px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1200px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1920px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1920px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
+---
 
 ## Overview
 

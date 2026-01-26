@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/400px-Neuhewen_06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/800px-Neuhewen_06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/1200px-Neuhewen_06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/1920px-Neuhewen_06.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neuhewen_06.jpg/1920px-Neuhewen_06.jpg
+---
 
 ## Overview
 

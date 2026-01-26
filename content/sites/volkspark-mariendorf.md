@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teich_im_Volkspark_Mariendorf.jpg/400px-Teich_im_Volkspark_Mariendorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teich_im_Volkspark_Mariendorf.jpg/800px-Teich_im_Volkspark_Mariendorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teich_im_Volkspark_Mariendorf.jpg/1200px-Teich_im_Volkspark_Mariendorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teich_im_Volkspark_Mariendorf.jpg/1920px-Teich_im_Volkspark_Mariendorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Teich_im_Volkspark_Mariendorf.jpg/1920px-Teich_im_Volkspark_Mariendorf.jpg
+---
 
 ## Overview
 

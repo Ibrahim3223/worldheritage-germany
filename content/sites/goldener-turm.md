@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/400px-Goldener_Turm_(Regensburg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/800px-Goldener_Turm_(Regensburg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1200px-Goldener_Turm_(Regensburg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1920px-Goldener_Turm_(Regensburg).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1920px-Goldener_Turm_(Regensburg).jpg
+---
 
 ## Overview
 

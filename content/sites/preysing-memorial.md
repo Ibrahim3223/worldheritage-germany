@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/400px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/800px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/1200px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/1920px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Conrad-von-Preysing-Denkmal_in_Plattling.jpg/1920px-Conrad-von-Preysing-Denkmal_in_Plattling.jpg
+---
 
 ## Overview
 

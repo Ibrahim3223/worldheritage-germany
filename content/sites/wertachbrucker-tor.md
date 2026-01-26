@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/400px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/800px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/1200px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/1920px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg/1920px-Augsburg_—_Wertachbrucker_Tor_—_stadtseitig_2006.jpg
+---
 
 ## Overview
 

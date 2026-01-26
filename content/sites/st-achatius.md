@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/400px-St_Achatius_Zahlbach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/800px-St_Achatius_Zahlbach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/1200px-St_Achatius_Zahlbach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/1920px-St_Achatius_Zahlbach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/St_Achatius_Zahlbach.jpg/1920px-St_Achatius_Zahlbach.jpg
+---
 
 ## Overview
 

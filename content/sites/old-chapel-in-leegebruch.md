@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/400px-Leegebruch_chapel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/800px-Leegebruch_chapel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/1200px-Leegebruch_chapel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/1920px-Leegebruch_chapel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Leegebruch_chapel.jpg/1920px-Leegebruch_chapel.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/400px-Ruine_Kreidenstein_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/800px-Ruine_Kreidenstein_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/1200px-Ruine_Kreidenstein_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/1920px-Ruine_Kreidenstein_16.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Kreidenstein_16.JPG/1920px-Ruine_Kreidenstein_16.JPG
+---
 
 ## Overview
 

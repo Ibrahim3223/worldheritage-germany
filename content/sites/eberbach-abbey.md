@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/400px-Kloster_Eberbach_fg01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/800px-Kloster_Eberbach_fg01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1200px-Kloster_Eberbach_fg01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1920px-Kloster_Eberbach_fg01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1920px-Kloster_Eberbach_fg01.JPG
+---
 
 ## Overview
 

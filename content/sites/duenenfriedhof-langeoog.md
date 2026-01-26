@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/400px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/800px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/1200px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/1920px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dünenfriedhof_Langeoog_(Luftaufnahme).jpg/1920px-Dünenfriedhof_Langeoog_(Luftaufnahme).jpg
+---
 
 ## Overview
 

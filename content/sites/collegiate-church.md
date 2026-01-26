@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/400px-Stiftskirche_NW,_Südweite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/800px-Stiftskirche_NW,_Südweite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/1200px-Stiftskirche_NW,_Südweite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/1920px-Stiftskirche_NW,_Südweite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Stiftskirche_NW,_Südweite.JPG/1920px-Stiftskirche_NW,_Südweite.JPG
+---
 
 ## Overview
 

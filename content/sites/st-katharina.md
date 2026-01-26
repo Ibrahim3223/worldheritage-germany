@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/400px-Neustaedter_Kirche_Eschwege.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/800px-Neustaedter_Kirche_Eschwege.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/1200px-Neustaedter_Kirche_Eschwege.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/1920px-Neustaedter_Kirche_Eschwege.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Neustaedter_Kirche_Eschwege.jpg/1920px-Neustaedter_Kirche_Eschwege.jpg
+---
 
 ## Overview
 

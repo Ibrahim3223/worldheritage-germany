@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/400px-Dortmund,_Petrikirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/800px-Dortmund,_Petrikirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/1200px-Dortmund,_Petrikirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/1920px-Dortmund,_Petrikirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dortmund,_Petrikirche.jpg/1920px-Dortmund,_Petrikirche.jpg
+---
 
 ## Overview
 

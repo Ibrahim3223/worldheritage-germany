@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/400px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/800px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/1200px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/1920px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg/1920px-20070420070DR_Bad_Gottleube_(Berggießhübel-B)_Postdistanzsäule.jpg
+---
 
 ## Overview
 

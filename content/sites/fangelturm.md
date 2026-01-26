@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/400px-Barth_Fangelturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/800px-Barth_Fangelturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/1200px-Barth_Fangelturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/1920px-Barth_Fangelturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Barth_Fangelturm.jpg/1920px-Barth_Fangelturm.jpg
+---
 
 ## Overview
 

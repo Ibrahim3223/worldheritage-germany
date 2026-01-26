@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Waddenzee_zon.jpg/400px-Waddenzee_zon.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Waddenzee_zon.jpg/800px-Waddenzee_zon.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Waddenzee_zon.jpg/1200px-Waddenzee_zon.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Waddenzee_zon.jpg/1920px-Waddenzee_zon.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Waddenzee_zon.jpg/1920px-Waddenzee_zon.jpg
+---
 
 ## Overview
 

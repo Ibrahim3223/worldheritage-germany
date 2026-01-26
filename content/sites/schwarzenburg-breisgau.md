@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/400px-Schwarzenburg_waldkirch_02.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/800px-Schwarzenburg_waldkirch_02.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/1200px-Schwarzenburg_waldkirch_02.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/1920px-Schwarzenburg_waldkirch_02.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schwarzenburg_waldkirch_02.JPG/1920px-Schwarzenburg_waldkirch_02.JPG
+---
 
 ## Overview
 

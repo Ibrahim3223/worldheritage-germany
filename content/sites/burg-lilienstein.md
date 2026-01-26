@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/400px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/800px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/1200px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/1920px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg/1920px-Lilienstein_(Sächsische_Schweiz)_Mauerreste_der_mittelalterlichen_Burg_(01-2).jpg
+---
 
 ## Overview
 

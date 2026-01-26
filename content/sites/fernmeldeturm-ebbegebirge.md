@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/400px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/800px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/1200px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/1920px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg/1920px-Fernmeldeturm_Ebbegebirge_FFSW_PK_5046.jpg
+---
 
 ## Overview
 

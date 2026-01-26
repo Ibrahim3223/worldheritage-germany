@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/400px-Hospital_Dresden_Friedrichstadt17.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/800px-Hospital_Dresden_Friedrichstadt17.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/1200px-Hospital_Dresden_Friedrichstadt17.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/1920px-Hospital_Dresden_Friedrichstadt17.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hospital_Dresden_Friedrichstadt17.jpg/1920px-Hospital_Dresden_Friedrichstadt17.jpg
+---
 
 ## Overview
 

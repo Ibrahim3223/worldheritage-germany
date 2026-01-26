@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/400px-2005-08_Gießen_-_Mathematikum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/800px-2005-08_Gießen_-_Mathematikum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/1200px-2005-08_Gießen_-_Mathematikum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/1920px-2005-08_Gießen_-_Mathematikum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2005-08_Gießen_-_Mathematikum.jpg/1920px-2005-08_Gießen_-_Mathematikum.jpg
+---
 
 ## Overview
 

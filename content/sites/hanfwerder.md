@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/BurgwallHanfwerder1.jpg/400px-BurgwallHanfwerder1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/BurgwallHanfwerder1.jpg/800px-BurgwallHanfwerder1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/BurgwallHanfwerder1.jpg/1200px-BurgwallHanfwerder1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/BurgwallHanfwerder1.jpg/1920px-BurgwallHanfwerder1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/BurgwallHanfwerder1.jpg/1920px-BurgwallHanfwerder1.jpg
+---
 
 ## Overview
 

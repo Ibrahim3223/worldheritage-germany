@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/400px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/800px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/1200px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/1920px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg/1920px-Dreimühlen-Wasserfall,_Ahütte,_Bild_1.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/400px-Brehm-Gedenkstätte_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/800px-Brehm-Gedenkstätte_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1200px-Brehm-Gedenkstätte_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1920px-Brehm-Gedenkstätte_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1920px-Brehm-Gedenkstätte_2.jpg
+---
 
 ## Overview
 

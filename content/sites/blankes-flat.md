@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Region_Hannover_Blankes_Flat.JPG/400px-Region_Hannover_Blankes_Flat.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Region_Hannover_Blankes_Flat.JPG/800px-Region_Hannover_Blankes_Flat.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Region_Hannover_Blankes_Flat.JPG/1200px-Region_Hannover_Blankes_Flat.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Region_Hannover_Blankes_Flat.JPG/1920px-Region_Hannover_Blankes_Flat.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Region_Hannover_Blankes_Flat.JPG/1920px-Region_Hannover_Blankes_Flat.JPG
+---
 
 ## Overview
 

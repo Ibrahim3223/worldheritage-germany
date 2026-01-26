@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/400px-Bad_Saeckingen_Diebsturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/800px-Bad_Saeckingen_Diebsturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/1200px-Bad_Saeckingen_Diebsturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/1920px-Bad_Saeckingen_Diebsturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bad_Saeckingen_Diebsturm.jpg/1920px-Bad_Saeckingen_Diebsturm.jpg
+---
 
 ## Overview
 

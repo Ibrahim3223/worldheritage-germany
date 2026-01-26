@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/400px-Liebfrauenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/800px-Liebfrauenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/1200px-Liebfrauenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/1920px-Liebfrauenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Liebfrauenkirche.jpg/1920px-Liebfrauenkirche.jpg
+---
 
 ## Overview
 

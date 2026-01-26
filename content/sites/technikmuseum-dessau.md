@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/400px-IL-14_im_Technikmuseum_Dessau_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/800px-IL-14_im_Technikmuseum_Dessau_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/1200px-IL-14_im_Technikmuseum_Dessau_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/1920px-IL-14_im_Technikmuseum_Dessau_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IL-14_im_Technikmuseum_Dessau_2.JPG/1920px-IL-14_im_Technikmuseum_Dessau_2.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/400px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/800px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/1200px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/1920px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg/1920px-20190331_Burlo-Vardingholter_Venn,_Borken_(00894).jpg
+---
 
 ## Overview
 

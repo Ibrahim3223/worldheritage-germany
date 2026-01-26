@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/400px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/800px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/1200px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/1920px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG/1920px-Aulendorfer_Bahnhof-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Bad_Waldsee_15.7.2008.JPG
+---
 
 ## Overview
 

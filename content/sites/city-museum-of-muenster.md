@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/StadtmuseumMünster_2010.JPG/400px-StadtmuseumMünster_2010.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/StadtmuseumMünster_2010.JPG/800px-StadtmuseumMünster_2010.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/StadtmuseumMünster_2010.JPG/1200px-StadtmuseumMünster_2010.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/StadtmuseumMünster_2010.JPG/1920px-StadtmuseumMünster_2010.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/StadtmuseumMünster_2010.JPG/1920px-StadtmuseumMünster_2010.JPG
+---
 
 ## Overview
 

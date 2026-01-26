@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/400px-Roseninsel_vom_Feldafinger_Park.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/800px-Roseninsel_vom_Feldafinger_Park.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/1200px-Roseninsel_vom_Feldafinger_Park.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/1920px-Roseninsel_vom_Feldafinger_Park.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Roseninsel_vom_Feldafinger_Park.jpg/1920px-Roseninsel_vom_Feldafinger_Park.jpg
+---
 
 ## Overview
 

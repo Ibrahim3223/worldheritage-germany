@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wasserburg_Hopen_in_Lohne.jpg/400px-Wasserburg_Hopen_in_Lohne.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wasserburg_Hopen_in_Lohne.jpg/800px-Wasserburg_Hopen_in_Lohne.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wasserburg_Hopen_in_Lohne.jpg/1200px-Wasserburg_Hopen_in_Lohne.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wasserburg_Hopen_in_Lohne.jpg/1920px-Wasserburg_Hopen_in_Lohne.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wasserburg_Hopen_in_Lohne.jpg/1920px-Wasserburg_Hopen_in_Lohne.jpg
+---
 
 ## Overview
 

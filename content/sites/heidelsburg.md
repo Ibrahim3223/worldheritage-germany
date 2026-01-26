@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/400px-Heidelsburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/800px-Heidelsburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1200px-Heidelsburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1920px-Heidelsburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1920px-Heidelsburg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/400px-The_Selke_Valley_from_the_Selkesicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/800px-The_Selke_Valley_from_the_Selkesicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1200px-The_Selke_Valley_from_the_Selkesicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1920px-The_Selke_Valley_from_the_Selkesicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1920px-The_Selke_Valley_from_the_Selkesicht.JPG
+---
 
 ## Overview
 

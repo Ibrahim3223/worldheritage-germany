@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/400px-Garnisonkirche_zu_Oldenburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/800px-Garnisonkirche_zu_Oldenburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/1200px-Garnisonkirche_zu_Oldenburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/1920px-Garnisonkirche_zu_Oldenburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Garnisonkirche_zu_Oldenburg.JPG/1920px-Garnisonkirche_zu_Oldenburg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/400px-Altes_Rathaus_Kommern.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/800px-Altes_Rathaus_Kommern.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/1200px-Altes_Rathaus_Kommern.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/1920px-Altes_Rathaus_Kommern.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Altes_Rathaus_Kommern.jpg/1920px-Altes_Rathaus_Kommern.jpg
+---
 
 ## Overview
 

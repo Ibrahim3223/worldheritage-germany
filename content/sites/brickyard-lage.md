@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/400px-Ziegelei_Lage_Ansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/800px-Ziegelei_Lage_Ansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1200px-Ziegelei_Lage_Ansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1920px-Ziegelei_Lage_Ansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1920px-Ziegelei_Lage_Ansicht.jpg
+---
 
 ## Overview
 

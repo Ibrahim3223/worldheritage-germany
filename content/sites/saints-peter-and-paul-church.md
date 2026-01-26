@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/400px-Dittenheim_2011-05-11_(11).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/800px-Dittenheim_2011-05-11_(11).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/1200px-Dittenheim_2011-05-11_(11).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/1920px-Dittenheim_2011-05-11_(11).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dittenheim_2011-05-11_(11).JPG/1920px-Dittenheim_2011-05-11_(11).JPG
+---
 
 ## Overview
 

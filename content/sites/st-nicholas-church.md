@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/400px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/800px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/1200px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/1920px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg/1920px-Leipzig_Nikolaikirche_BW_2012-09-10_18-11-46.jpg
+---
 
 ## Overview
 

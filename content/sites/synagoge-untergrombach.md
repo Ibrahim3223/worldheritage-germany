@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/400px-UntergrombachSynagogenstraße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/800px-UntergrombachSynagogenstraße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/1200px-UntergrombachSynagogenstraße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/1920px-UntergrombachSynagogenstraße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UntergrombachSynagogenstraße.jpg/1920px-UntergrombachSynagogenstraße.jpg
+---
 
 ## Overview
 

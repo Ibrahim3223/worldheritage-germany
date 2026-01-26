@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/400px-MuseumVaterlaendischerAltertuemerKiel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/800px-MuseumVaterlaendischerAltertuemerKiel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/1200px-MuseumVaterlaendischerAltertuemerKiel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/1920px-MuseumVaterlaendischerAltertuemerKiel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MuseumVaterlaendischerAltertuemerKiel.JPG/1920px-MuseumVaterlaendischerAltertuemerKiel.JPG
+---
 
 ## Overview
 

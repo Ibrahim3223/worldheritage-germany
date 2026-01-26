@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/400px-Brauselay_bei_Cochem_0013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/800px-Brauselay_bei_Cochem_0013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/1200px-Brauselay_bei_Cochem_0013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/1920px-Brauselay_bei_Cochem_0013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Brauselay_bei_Cochem_0013.jpg/1920px-Brauselay_bei_Cochem_0013.jpg
+---
 
 ## Overview
 

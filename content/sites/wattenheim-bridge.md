@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wattenheimer_Bruecke_01.jpg/400px-Wattenheimer_Bruecke_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wattenheimer_Bruecke_01.jpg/800px-Wattenheimer_Bruecke_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wattenheimer_Bruecke_01.jpg/1200px-Wattenheimer_Bruecke_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wattenheimer_Bruecke_01.jpg/1920px-Wattenheimer_Bruecke_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wattenheimer_Bruecke_01.jpg/1920px-Wattenheimer_Bruecke_01.jpg
+---
 
 ## Overview
 

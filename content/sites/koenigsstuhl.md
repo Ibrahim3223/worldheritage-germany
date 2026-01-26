@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/400px-Königsstuhl_von_Rhens_2009.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/800px-Königsstuhl_von_Rhens_2009.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/1200px-Königsstuhl_von_Rhens_2009.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/1920px-Königsstuhl_von_Rhens_2009.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Königsstuhl_von_Rhens_2009.jpg/1920px-Königsstuhl_von_Rhens_2009.jpg
+---
 
 ## Overview
 

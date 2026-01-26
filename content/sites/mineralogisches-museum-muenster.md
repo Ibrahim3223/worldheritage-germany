@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/400px-MuensterMineralogischesMuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/800px-MuensterMineralogischesMuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/1200px-MuensterMineralogischesMuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/1920px-MuensterMineralogischesMuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MuensterMineralogischesMuseum.jpg/1920px-MuensterMineralogischesMuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/400px-Gestratz_-_Rathaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/800px-Gestratz_-_Rathaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/1200px-Gestratz_-_Rathaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/1920px-Gestratz_-_Rathaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gestratz_-_Rathaus.JPG/1920px-Gestratz_-_Rathaus.JPG
+---
 
 ## Overview
 

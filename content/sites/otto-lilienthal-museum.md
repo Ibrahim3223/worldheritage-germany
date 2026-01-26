@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/400px-Otto-Lilienthal-Museum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/800px-Otto-Lilienthal-Museum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/1200px-Otto-Lilienthal-Museum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/1920px-Otto-Lilienthal-Museum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Otto-Lilienthal-Museum.JPG/1920px-Otto-Lilienthal-Museum.JPG
+---
 
 ## Overview
 

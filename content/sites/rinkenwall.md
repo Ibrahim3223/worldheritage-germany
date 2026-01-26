@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rinkenmauer_(1).jpg/400px-Rinkenmauer_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rinkenmauer_(1).jpg/800px-Rinkenmauer_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rinkenmauer_(1).jpg/1200px-Rinkenmauer_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rinkenmauer_(1).jpg/1920px-Rinkenmauer_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rinkenmauer_(1).jpg/1920px-Rinkenmauer_(1).jpg
+---
 
 ## Overview
 

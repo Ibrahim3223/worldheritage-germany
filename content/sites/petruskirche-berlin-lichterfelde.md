@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/400px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/800px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/1200px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/1920px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg/1920px-Berlin-Lichterfelde_12-12_Petrus_Kirche_01.jpg
+---
 
 ## Overview
 

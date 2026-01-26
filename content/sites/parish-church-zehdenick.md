@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/400px-Stadtkirche_Zeh2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/800px-Stadtkirche_Zeh2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/1200px-Stadtkirche_Zeh2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/1920px-Stadtkirche_Zeh2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Stadtkirche_Zeh2.JPG/1920px-Stadtkirche_Zeh2.JPG
+---
 
 ## Overview
 

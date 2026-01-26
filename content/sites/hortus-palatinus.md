@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/400px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/800px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/1200px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/1920px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/1920px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
+---
 
 ## Overview
 

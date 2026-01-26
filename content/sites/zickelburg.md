@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/400px-Bad_Honnef_Eifelblick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/800px-Bad_Honnef_Eifelblick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/1200px-Bad_Honnef_Eifelblick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/1920px-Bad_Honnef_Eifelblick.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bad_Honnef_Eifelblick.jpg/1920px-Bad_Honnef_Eifelblick.jpg
+---
 
 ## Overview
 

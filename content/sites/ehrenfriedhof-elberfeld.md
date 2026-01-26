@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/400px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/800px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/1200px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/1920px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/1920px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alter_Leuchtturm_in_Travemünde.jpg/400px-Alter_Leuchtturm_in_Travemünde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alter_Leuchtturm_in_Travemünde.jpg/800px-Alter_Leuchtturm_in_Travemünde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alter_Leuchtturm_in_Travemünde.jpg/1200px-Alter_Leuchtturm_in_Travemünde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alter_Leuchtturm_in_Travemünde.jpg/1920px-Alter_Leuchtturm_in_Travemünde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alter_Leuchtturm_in_Travemünde.jpg/1920px-Alter_Leuchtturm_in_Travemünde.jpg
+---
 
 ## Overview
 

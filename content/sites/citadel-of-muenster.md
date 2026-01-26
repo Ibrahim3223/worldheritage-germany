@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/400px-MünsterGalenscheZitadelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/800px-MünsterGalenscheZitadelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/1200px-MünsterGalenscheZitadelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/1920px-MünsterGalenscheZitadelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MünsterGalenscheZitadelle.JPG/1920px-MünsterGalenscheZitadelle.JPG
+---
 
 ## Overview
 

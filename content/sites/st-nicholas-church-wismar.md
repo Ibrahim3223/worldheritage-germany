@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/400px-Wismar_StNikolai.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/800px-Wismar_StNikolai.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/1200px-Wismar_StNikolai.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/1920px-Wismar_StNikolai.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wismar_StNikolai.jpg/1920px-Wismar_StNikolai.jpg
+---
 
 ## Overview
 

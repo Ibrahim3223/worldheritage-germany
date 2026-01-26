@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/400px-ChurchJheringsfehn.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/800px-ChurchJheringsfehn.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1200px-ChurchJheringsfehn.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1920px-ChurchJheringsfehn.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1920px-ChurchJheringsfehn.JPG
+---
 
 ## Overview
 

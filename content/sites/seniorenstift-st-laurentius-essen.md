@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/400px-Laurentius_Wohnheim_Steele.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/800px-Laurentius_Wohnheim_Steele.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/1200px-Laurentius_Wohnheim_Steele.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/1920px-Laurentius_Wohnheim_Steele.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurentius_Wohnheim_Steele.jpg/1920px-Laurentius_Wohnheim_Steele.jpg
+---
 
 ## Overview
 

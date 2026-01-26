@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dom_Berlin_Miniatur_057.jpg/400px-Dom_Berlin_Miniatur_057.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dom_Berlin_Miniatur_057.jpg/800px-Dom_Berlin_Miniatur_057.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dom_Berlin_Miniatur_057.jpg/1200px-Dom_Berlin_Miniatur_057.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dom_Berlin_Miniatur_057.jpg/1920px-Dom_Berlin_Miniatur_057.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dom_Berlin_Miniatur_057.jpg/1920px-Dom_Berlin_Miniatur_057.jpg
+---
 
 ## Overview
 

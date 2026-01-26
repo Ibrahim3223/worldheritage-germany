@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/400px-SAParenaPanoN.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/800px-SAParenaPanoN.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/1200px-SAParenaPanoN.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/1920px-SAParenaPanoN.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SAParenaPanoN.jpg/1920px-SAParenaPanoN.jpg
+---
 
 ## Overview
 

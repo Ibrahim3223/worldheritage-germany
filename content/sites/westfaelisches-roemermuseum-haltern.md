@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/400px-LWL-Römermuseum-Haltern.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/800px-LWL-Römermuseum-Haltern.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/1200px-LWL-Römermuseum-Haltern.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/1920px-LWL-Römermuseum-Haltern.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LWL-Römermuseum-Haltern.JPG/1920px-LWL-Römermuseum-Haltern.JPG
+---
 
 ## Overview
 

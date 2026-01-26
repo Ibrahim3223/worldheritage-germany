@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/400px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/800px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/1200px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/1920px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg/1920px-Ziegelei_Siegeroth,_3,_Münsterstraße_225,_Wethmar,_Lünen,_Kreis_Unna.jpg
+---
 
 ## Overview
 

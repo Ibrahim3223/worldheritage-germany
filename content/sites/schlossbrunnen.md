@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/400px-Schlossbrunnen_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/800px-Schlossbrunnen_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/1200px-Schlossbrunnen_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/1920px-Schlossbrunnen_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schlossbrunnen_Hannover.jpg/1920px-Schlossbrunnen_Hannover.jpg
+---
 
 ## Overview
 

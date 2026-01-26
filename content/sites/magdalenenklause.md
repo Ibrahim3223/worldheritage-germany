@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magdalenenklause_in_Nymphenburg.jpg/400px-Magdalenenklause_in_Nymphenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magdalenenklause_in_Nymphenburg.jpg/800px-Magdalenenklause_in_Nymphenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magdalenenklause_in_Nymphenburg.jpg/1200px-Magdalenenklause_in_Nymphenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magdalenenklause_in_Nymphenburg.jpg/1920px-Magdalenenklause_in_Nymphenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Magdalenenklause_in_Nymphenburg.jpg/1920px-Magdalenenklause_in_Nymphenburg.jpg
+---
 
 ## Overview
 

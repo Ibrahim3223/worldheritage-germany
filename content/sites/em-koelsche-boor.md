@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/400px-Em_Kölsche_Boor-8721.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/800px-Em_Kölsche_Boor-8721.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/1200px-Em_Kölsche_Boor-8721.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/1920px-Em_Kölsche_Boor-8721.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Em_Kölsche_Boor-8721.jpg/1920px-Em_Kölsche_Boor-8721.jpg
+---
 
 ## Overview
 

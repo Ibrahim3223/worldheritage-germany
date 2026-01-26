@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/400px-Herrenhaus_Großenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/800px-Herrenhaus_Großenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/1200px-Herrenhaus_Großenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/1920px-Herrenhaus_Großenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Herrenhaus_Großenhof.jpg/1920px-Herrenhaus_Großenhof.jpg
+---
 
 ## Overview
 

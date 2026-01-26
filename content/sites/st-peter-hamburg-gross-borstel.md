@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/400px-Spgb_ganz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/800px-Spgb_ganz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/1200px-Spgb_ganz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/1920px-Spgb_ganz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Spgb_ganz.jpg/1920px-Spgb_ganz.jpg
+---
 
 ## Overview
 

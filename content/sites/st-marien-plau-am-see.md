@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/400px-Plau_am_See_Kirche_2008-03-26_099.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/800px-Plau_am_See_Kirche_2008-03-26_099.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/1200px-Plau_am_See_Kirche_2008-03-26_099.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/1920px-Plau_am_See_Kirche_2008-03-26_099.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Plau_am_See_Kirche_2008-03-26_099.jpg/1920px-Plau_am_See_Kirche_2008-03-26_099.jpg
+---
 
 ## Overview
 

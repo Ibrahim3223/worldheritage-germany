@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/400px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/800px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/1200px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/1920px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg/1920px-Hamburg,_Peterstraße_39,_39_a-c_(früher_37-40).jpg
+---
 
 ## Overview
 

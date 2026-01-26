@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/400px-Wurmbergschanze_Auslauf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/800px-Wurmbergschanze_Auslauf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/1200px-Wurmbergschanze_Auslauf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/1920px-Wurmbergschanze_Auslauf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wurmbergschanze_Auslauf.JPG/1920px-Wurmbergschanze_Auslauf.JPG
+---
 
 ## Overview
 

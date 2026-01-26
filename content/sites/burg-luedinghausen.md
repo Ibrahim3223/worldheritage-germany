@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/400px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/800px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/1200px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/1920px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg/1920px-20140412_120558_Burg_Lüdinghausen_(DSC00174).jpg
+---
 
 ## Overview
 

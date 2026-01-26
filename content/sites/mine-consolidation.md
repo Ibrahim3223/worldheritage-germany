@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gelsenkirchen,_Zeche_Consolidation,_2006.jpg/400px-Gelsenkirchen,_Zeche_Consolidation,_2006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gelsenkirchen,_Zeche_Consolidation,_2006.jpg/800px-Gelsenkirchen,_Zeche_Consolidation,_2006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gelsenkirchen,_Zeche_Consolidation,_2006.jpg/1200px-Gelsenkirchen,_Zeche_Consolidation,_2006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gelsenkirchen,_Zeche_Consolidation,_2006.jpg/1920px-Gelsenkirchen,_Zeche_Consolidation,_2006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gelsenkirchen,_Zeche_Consolidation,_2006.jpg/1920px-Gelsenkirchen,_Zeche_Consolidation,_2006.jpg
+---
 
 ## Overview
 

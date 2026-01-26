@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/400px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/800px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/1200px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/1920px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg/1920px-Christuskirche_church_An_der_Christuskirche_view_Conrad-Wilhelm-Hase_Platz_Nordstadt_Hannover_Germany.jpg
+---
 
 ## Overview
 

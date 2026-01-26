@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/400px-Ju52mus-halle.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/800px-Ju52mus-halle.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/1200px-Ju52mus-halle.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/1920px-Ju52mus-halle.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ju52mus-halle.jpg/1920px-Ju52mus-halle.jpg
+---
 
 ## Overview
 

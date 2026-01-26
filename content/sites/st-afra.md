@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/400px-St.-Afra-Kirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/800px-St.-Afra-Kirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/1200px-St.-Afra-Kirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/1920px-St.-Afra-Kirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/St.-Afra-Kirche.jpg/1920px-St.-Afra-Kirche.jpg
+---
 
 ## Overview
 

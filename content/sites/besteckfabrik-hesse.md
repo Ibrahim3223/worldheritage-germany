@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/400px-Besteckmuseum_Fleckenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/800px-Besteckmuseum_Fleckenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/1200px-Besteckmuseum_Fleckenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/1920px-Besteckmuseum_Fleckenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Besteckmuseum_Fleckenberg.jpg/1920px-Besteckmuseum_Fleckenberg.jpg
+---
 
 ## Overview
 

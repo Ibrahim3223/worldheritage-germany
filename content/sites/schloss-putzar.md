@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/400px-Putzar_Joachimsbau_Nord.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/800px-Putzar_Joachimsbau_Nord.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/1200px-Putzar_Joachimsbau_Nord.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/1920px-Putzar_Joachimsbau_Nord.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Putzar_Joachimsbau_Nord.jpg/1920px-Putzar_Joachimsbau_Nord.jpg
+---
 
 ## Overview
 

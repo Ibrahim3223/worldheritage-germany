@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/400px-IMG_5196_Gronauer_Schloss_3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/800px-IMG_5196_Gronauer_Schloss_3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/1200px-IMG_5196_Gronauer_Schloss_3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/1920px-IMG_5196_Gronauer_Schloss_3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IMG_5196_Gronauer_Schloss_3.JPG/1920px-IMG_5196_Gronauer_Schloss_3.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/400px-Wildparkeingang_MGH.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/800px-Wildparkeingang_MGH.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1200px-Wildparkeingang_MGH.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1920px-Wildparkeingang_MGH.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1920px-Wildparkeingang_MGH.jpg
+---
 
 ## Overview
 

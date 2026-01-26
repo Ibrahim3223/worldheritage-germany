@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/400px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/800px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/1200px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/1920px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/GesundbrunnenGerichtstraßeGerichtsHöfe.jpg/1920px-GesundbrunnenGerichtstraßeGerichtsHöfe.jpg
+---
 
 ## Overview
 

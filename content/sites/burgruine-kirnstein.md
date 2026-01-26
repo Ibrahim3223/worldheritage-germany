@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/400px-Burgruine_Kirnstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/800px-Burgruine_Kirnstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/1200px-Burgruine_Kirnstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/1920px-Burgruine_Kirnstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burgruine_Kirnstein.JPG/1920px-Burgruine_Kirnstein.JPG
+---
 
 ## Overview
 

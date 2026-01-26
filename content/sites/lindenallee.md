@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/400px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/800px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/1200px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/1920px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alte_Linde_in_Tübinger_Lindenallee_2003.jpg/1920px-Alte_Linde_in_Tübinger_Lindenallee_2003.jpg
+---
 
 ## Overview
 

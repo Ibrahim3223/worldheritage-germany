@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/400px-2009_Turm_Quirinusmünster_Neuss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/800px-2009_Turm_Quirinusmünster_Neuss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/1200px-2009_Turm_Quirinusmünster_Neuss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/1920px-2009_Turm_Quirinusmünster_Neuss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2009_Turm_Quirinusmünster_Neuss.jpg/1920px-2009_Turm_Quirinusmünster_Neuss.jpg
+---
 
 ## Overview
 

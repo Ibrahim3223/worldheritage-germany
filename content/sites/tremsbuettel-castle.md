@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Schloss_Tremsbüttel.JPG/400px-Schloss_Tremsbüttel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Schloss_Tremsbüttel.JPG/800px-Schloss_Tremsbüttel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Schloss_Tremsbüttel.JPG/1200px-Schloss_Tremsbüttel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Schloss_Tremsbüttel.JPG/1920px-Schloss_Tremsbüttel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Schloss_Tremsbüttel.JPG/1920px-Schloss_Tremsbüttel.JPG
+---
 
 ## Overview
 

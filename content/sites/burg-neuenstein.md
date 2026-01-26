@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/400px-Neuenstein_Schildmauer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/800px-Neuenstein_Schildmauer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/1200px-Neuenstein_Schildmauer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/1920px-Neuenstein_Schildmauer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Neuenstein_Schildmauer.jpg/1920px-Neuenstein_Schildmauer.jpg
+---
 
 ## Overview
 

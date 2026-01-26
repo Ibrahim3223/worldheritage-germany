@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/400px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/800px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/1200px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/1920px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG/1920px-Lachte_Altarm_Ahnsbecker_Stege@20150828.JPG
+---
 
 ## Overview
 

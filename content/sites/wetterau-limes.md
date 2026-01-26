@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wetteraulimes_Wp_5_9.jpg/400px-Wetteraulimes_Wp_5_9.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wetteraulimes_Wp_5_9.jpg/800px-Wetteraulimes_Wp_5_9.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wetteraulimes_Wp_5_9.jpg/1200px-Wetteraulimes_Wp_5_9.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wetteraulimes_Wp_5_9.jpg/1920px-Wetteraulimes_Wp_5_9.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wetteraulimes_Wp_5_9.jpg/1920px-Wetteraulimes_Wp_5_9.jpg
+---
 
 ## Overview
 

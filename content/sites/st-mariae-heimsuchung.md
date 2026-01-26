@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/400px-Marialinden_St._Mariae_Heimsuchung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/800px-Marialinden_St._Mariae_Heimsuchung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/1200px-Marialinden_St._Mariae_Heimsuchung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/1920px-Marialinden_St._Mariae_Heimsuchung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marialinden_St._Mariae_Heimsuchung.jpg/1920px-Marialinden_St._Mariae_Heimsuchung.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/400px-Fassadeninstallation,_Geäudeschild.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/800px-Fassadeninstallation,_Geäudeschild.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1200px-Fassadeninstallation,_Geäudeschild.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1920px-Fassadeninstallation,_Geäudeschild.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1920px-Fassadeninstallation,_Geäudeschild.JPG
+---
 
 ## Overview
 

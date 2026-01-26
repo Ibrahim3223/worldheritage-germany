@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neubukow_Rathaus_asv2024-06_img1.jpg/400px-Neubukow_Rathaus_asv2024-06_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neubukow_Rathaus_asv2024-06_img1.jpg/800px-Neubukow_Rathaus_asv2024-06_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neubukow_Rathaus_asv2024-06_img1.jpg/1200px-Neubukow_Rathaus_asv2024-06_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neubukow_Rathaus_asv2024-06_img1.jpg/1920px-Neubukow_Rathaus_asv2024-06_img1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neubukow_Rathaus_asv2024-06_img1.jpg/1920px-Neubukow_Rathaus_asv2024-06_img1.jpg
+---
 
 ## Overview
 

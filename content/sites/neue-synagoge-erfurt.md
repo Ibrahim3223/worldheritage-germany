@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/400px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/800px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/1200px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/1920px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Max-Cars-Platz_1_Erfurt_20211003_0040.jpg/1920px-Max-Cars-Platz_1_Erfurt_20211003_0040.jpg
+---
 
 ## Overview
 

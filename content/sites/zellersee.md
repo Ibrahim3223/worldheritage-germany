@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/400px-Kisslegg_Zeller_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/800px-Kisslegg_Zeller_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/1200px-Kisslegg_Zeller_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/1920px-Kisslegg_Zeller_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kisslegg_Zeller_See.jpg/1920px-Kisslegg_Zeller_See.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/400px-Stiftskirche-Johannesstift.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/800px-Stiftskirche-Johannesstift.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1200px-Stiftskirche-Johannesstift.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1920px-Stiftskirche-Johannesstift.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1920px-Stiftskirche-Johannesstift.jpg
+---
 
 ## Overview
 

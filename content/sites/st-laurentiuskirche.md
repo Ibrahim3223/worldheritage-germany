@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/400px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/800px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/1200px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/1920px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg/1920px-St._Laurentiuskirche_(Kosel,_Schwansen)-msu-2020-1929.jpg
+---
 
 ## Overview
 

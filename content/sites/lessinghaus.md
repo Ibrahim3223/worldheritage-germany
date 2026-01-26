@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/400px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/800px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/1200px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/1920px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg/1920px-Lessings_Hofbeamtenhaus_von_1738_in_Wolfenbüttel_IMG_1418.jpg
+---
 
 ## Overview
 

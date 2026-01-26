@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/400px-3._Scheidegger_Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/800px-3._Scheidegger_Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/1200px-3._Scheidegger_Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/1920px-3._Scheidegger_Wasserfall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/3._Scheidegger_Wasserfall.jpg/1920px-3._Scheidegger_Wasserfall.jpg
+---
 
 ## Overview
 

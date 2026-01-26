@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/400px-ThOP_front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/800px-ThOP_front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/1200px-ThOP_front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/1920px-ThOP_front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ThOP_front.jpg/1920px-ThOP_front.jpg
+---
 
 ## Overview
 

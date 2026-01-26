@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/400px-Landsberg3-Meiningen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/800px-Landsberg3-Meiningen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/1200px-Landsberg3-Meiningen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/1920px-Landsberg3-Meiningen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Landsberg3-Meiningen.JPG/1920px-Landsberg3-Meiningen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/400px-Freies_Gymnasium_Hannover.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/800px-Freies_Gymnasium_Hannover.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/1200px-Freies_Gymnasium_Hannover.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/1920px-Freies_Gymnasium_Hannover.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Freies_Gymnasium_Hannover.jpg/1920px-Freies_Gymnasium_Hannover.jpg
+---
 
 ## Overview
 

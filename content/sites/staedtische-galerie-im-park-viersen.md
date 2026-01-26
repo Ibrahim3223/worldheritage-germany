@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/400px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/800px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/1200px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/1920px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg/1920px-Viersen_-_Rathausmarkt_-_Galerie_im_Park_02_ies.jpg
+---
 
 ## Overview
 

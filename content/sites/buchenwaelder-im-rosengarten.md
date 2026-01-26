@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/400px-NSG_Buchenwälder_im_Rosengarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/800px-NSG_Buchenwälder_im_Rosengarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/1200px-NSG_Buchenwälder_im_Rosengarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/1920px-NSG_Buchenwälder_im_Rosengarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NSG_Buchenwälder_im_Rosengarten.jpg/1920px-NSG_Buchenwälder_im_Rosengarten.jpg
+---
 
 ## Overview
 

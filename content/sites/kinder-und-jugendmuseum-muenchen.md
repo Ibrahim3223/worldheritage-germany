@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/400px-Kindermuseum_Mch_Aussen_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/800px-Kindermuseum_Mch_Aussen_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/1200px-Kindermuseum_Mch_Aussen_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/1920px-Kindermuseum_Mch_Aussen_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kindermuseum_Mch_Aussen_2.jpg/1920px-Kindermuseum_Mch_Aussen_2.jpg
+---
 
 ## Overview
 

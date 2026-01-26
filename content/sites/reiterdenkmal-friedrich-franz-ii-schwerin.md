@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/400px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/800px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/1200px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/1920px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg/1920px-Equestrian_monument_of_Friedrich_Franz_II_in_Schwerin_(1).jpg
+---
 
 ## Overview
 

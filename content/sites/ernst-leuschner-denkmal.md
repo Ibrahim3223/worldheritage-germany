@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/400px-Ernst_Leuschner_Denkmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/800px-Ernst_Leuschner_Denkmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/1200px-Ernst_Leuschner_Denkmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/1920px-Ernst_Leuschner_Denkmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ernst_Leuschner_Denkmal.JPG/1920px-Ernst_Leuschner_Denkmal.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Roonstraße_1_20220809_HOF08827cens.png/400px-Roonstraße_1_20220809_HOF08827cens.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Roonstraße_1_20220809_HOF08827cens.png/800px-Roonstraße_1_20220809_HOF08827cens.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Roonstraße_1_20220809_HOF08827cens.png/1200px-Roonstraße_1_20220809_HOF08827cens.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Roonstraße_1_20220809_HOF08827cens.png/1920px-Roonstraße_1_20220809_HOF08827cens.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Roonstraße_1_20220809_HOF08827cens.png/1920px-Roonstraße_1_20220809_HOF08827cens.png
+---
 
 ## Overview
 

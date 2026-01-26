@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/400px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/800px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/1200px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/1920px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heusenstamm_Friedhofskapelle_erbaut_1708.JPG/1920px-Heusenstamm_Friedhofskapelle_erbaut_1708.JPG
+---
 
 ## Overview
 

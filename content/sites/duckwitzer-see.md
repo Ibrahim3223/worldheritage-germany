@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/400px-Duckwitzer_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/800px-Duckwitzer_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/1200px-Duckwitzer_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/1920px-Duckwitzer_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Duckwitzer_See.jpg/1920px-Duckwitzer_See.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bahnhof_Saalfeld.JPG/400px-Bahnhof_Saalfeld.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bahnhof_Saalfeld.JPG/800px-Bahnhof_Saalfeld.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bahnhof_Saalfeld.JPG/1200px-Bahnhof_Saalfeld.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bahnhof_Saalfeld.JPG/1920px-Bahnhof_Saalfeld.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bahnhof_Saalfeld.JPG/1920px-Bahnhof_Saalfeld.JPG
+---
 
 ## Overview
 

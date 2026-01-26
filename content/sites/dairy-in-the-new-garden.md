@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/400px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/800px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1200px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1920px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1920px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
+---
 
 ## Overview
 

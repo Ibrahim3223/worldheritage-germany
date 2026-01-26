@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/400px-Dorfkapelle_Adelshofen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/800px-Dorfkapelle_Adelshofen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/1200px-Dorfkapelle_Adelshofen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/1920px-Dorfkapelle_Adelshofen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkapelle_Adelshofen.jpg/1920px-Dorfkapelle_Adelshofen.jpg
+---
 
 ## Overview
 

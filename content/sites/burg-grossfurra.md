@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/400px-Großfurra.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/800px-Großfurra.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/1200px-Großfurra.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/1920px-Großfurra.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Großfurra.jpg/1920px-Großfurra.jpg
+---
 
 ## Overview
 

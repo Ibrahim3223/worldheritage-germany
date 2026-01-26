@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zarrenthiner_Kiessee_Sued.jpg/400px-Zarrenthiner_Kiessee_Sued.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zarrenthiner_Kiessee_Sued.jpg/800px-Zarrenthiner_Kiessee_Sued.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zarrenthiner_Kiessee_Sued.jpg/1200px-Zarrenthiner_Kiessee_Sued.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zarrenthiner_Kiessee_Sued.jpg/1920px-Zarrenthiner_Kiessee_Sued.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Zarrenthiner_Kiessee_Sued.jpg/1920px-Zarrenthiner_Kiessee_Sued.jpg
+---
 
 ## Overview 
 

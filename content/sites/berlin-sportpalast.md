@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/400px-F_13610.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/800px-F_13610.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1200px-F_13610.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1920px-F_13610.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1920px-F_13610.jpg
+---
 
 ## Overview
 

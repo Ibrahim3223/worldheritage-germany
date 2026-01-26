@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/400px-Museum-fuer-kommunikation-ffm006.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/800px-Museum-fuer-kommunikation-ffm006.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/1200px-Museum-fuer-kommunikation-ffm006.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/1920px-Museum-fuer-kommunikation-ffm006.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Museum-fuer-kommunikation-ffm006.jpg/1920px-Museum-fuer-kommunikation-ffm006.jpg
+---
 
 ## Overview
 

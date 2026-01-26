@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/400px-Äulemer_Kreuz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/800px-Äulemer_Kreuz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1200px-Äulemer_Kreuz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1920px-Äulemer_Kreuz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1920px-Äulemer_Kreuz.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerechtigkeitsbrunnen-ffm001a.jpg/400px-Gerechtigkeitsbrunnen-ffm001a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerechtigkeitsbrunnen-ffm001a.jpg/800px-Gerechtigkeitsbrunnen-ffm001a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerechtigkeitsbrunnen-ffm001a.jpg/1200px-Gerechtigkeitsbrunnen-ffm001a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerechtigkeitsbrunnen-ffm001a.jpg/1920px-Gerechtigkeitsbrunnen-ffm001a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gerechtigkeitsbrunnen-ffm001a.jpg/1920px-Gerechtigkeitsbrunnen-ffm001a.jpg
+---
 
 ## Overview
 

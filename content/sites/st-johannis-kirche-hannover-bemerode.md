@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/400px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/800px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/1200px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/1920px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg/1920px-St.Johannis-Kirche_in_Bemerode_(Hannover)_IMG_6976.jpg
+---
 
 ## Overview
 

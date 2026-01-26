@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/400px-Schinkel_Gut_Rosenkranz_0542.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/800px-Schinkel_Gut_Rosenkranz_0542.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/1200px-Schinkel_Gut_Rosenkranz_0542.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/1920px-Schinkel_Gut_Rosenkranz_0542.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schinkel_Gut_Rosenkranz_0542.jpg/1920px-Schinkel_Gut_Rosenkranz_0542.jpg
+---
 
 ## Overview
 

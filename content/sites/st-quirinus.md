@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/400px-St._Quirinus_(Köln-Mauenheim).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/800px-St._Quirinus_(Köln-Mauenheim).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/1200px-St._Quirinus_(Köln-Mauenheim).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/1920px-St._Quirinus_(Köln-Mauenheim).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St._Quirinus_(Köln-Mauenheim).jpg/1920px-St._Quirinus_(Köln-Mauenheim).jpg
+---
 
 ## Overview
 

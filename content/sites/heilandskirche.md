@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/400px-Leipzig_Plagwitz_Heilandskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/800px-Leipzig_Plagwitz_Heilandskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/1200px-Leipzig_Plagwitz_Heilandskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/1920px-Leipzig_Plagwitz_Heilandskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Leipzig_Plagwitz_Heilandskirche.jpg/1920px-Leipzig_Plagwitz_Heilandskirche.jpg
+---
 
 ## Overview
 

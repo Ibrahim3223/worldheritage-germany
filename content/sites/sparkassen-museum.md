@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/400px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/800px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/1200px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/1920px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg/1920px-ESA_Friedrich-Naumann-Straße_Sparkassenfiliale.jpg
+---
 
 ## Overview
 

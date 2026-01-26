@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/400px-Dresden-Leonhardi-gp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/800px-Dresden-Leonhardi-gp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/1200px-Dresden-Leonhardi-gp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/1920px-Dresden-Leonhardi-gp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dresden-Leonhardi-gp.jpg/1920px-Dresden-Leonhardi-gp.jpg
+---
 
 ## Overview
 

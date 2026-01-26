@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/400px-Nuur-ud-Din-Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/800px-Nuur-ud-Din-Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/1200px-Nuur-ud-Din-Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/1920px-Nuur-ud-Din-Moschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuur-ud-Din-Moschee.jpg/1920px-Nuur-ud-Din-Moschee.jpg
+---
 
 ## Overview
 

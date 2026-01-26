@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/400px-Former_Jewish_school_in_Esens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/800px-Former_Jewish_school_in_Esens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/1200px-Former_Jewish_school_in_Esens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/1920px-Former_Jewish_school_in_Esens.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Former_Jewish_school_in_Esens.jpg/1920px-Former_Jewish_school_in_Esens.jpg
+---
 
 ## Overview
 

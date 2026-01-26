@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/400px-Die_Synagoge_selm_bork.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/800px-Die_Synagoge_selm_bork.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/1200px-Die_Synagoge_selm_bork.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/1920px-Die_Synagoge_selm_bork.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Die_Synagoge_selm_bork.jpg/1920px-Die_Synagoge_selm_bork.jpg
+---
 
 ## Overview
 

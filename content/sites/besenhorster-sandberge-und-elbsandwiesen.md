@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/400px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen%22_(3).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_%22Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/800px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/1200px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen%22_(3).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_%22Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/1920px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ruinen_im_Naturschutzgebiet_%22Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg/1920px-Ruinen_im_Naturschutzgebiet_"Besenhorster_Sandberge_und_Elbsandwiesen"_(3).jpg
+---
 
 ## Overview
 

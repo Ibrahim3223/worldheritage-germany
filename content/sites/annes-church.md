@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/400px-Dresden-Annenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/800px-Dresden-Annenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1200px-Dresden-Annenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1920px-Dresden-Annenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1920px-Dresden-Annenkirche.jpg
+---
 
 ## Overview
 

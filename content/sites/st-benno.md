@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/400px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/800px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/1200px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/1920px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg/1920px-Church_St_Benno_Velvetstrasse_Offensteinstrasse_Linden-Nord_Hannover_Germany.jpg
+---
 
 ## Overview
 

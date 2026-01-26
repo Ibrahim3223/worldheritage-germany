@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/400px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/800px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/1200px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/1920px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg/1920px-Nachkolorierte_Bildpostkarte_der_Villa_Füglein.jpg
+---
 
 ## Overview
 

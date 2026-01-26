@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/400px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/800px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/1200px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/1920px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jan-Wellem-Denkmal_Köln-Mülheim.JPG/1920px-Jan-Wellem-Denkmal_Köln-Mülheim.JPG
+---
 
 ## Overview
 

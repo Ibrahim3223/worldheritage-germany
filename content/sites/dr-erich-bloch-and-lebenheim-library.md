@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/400px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/800px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/1200px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/1920px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg/1920px-Dr-Erich-Bloch-und-Lebenheim-Bibliothek_2012.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/400px-GutBettringenMauer2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/800px-GutBettringenMauer2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/1200px-GutBettringenMauer2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/1920px-GutBettringenMauer2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/GutBettringenMauer2.JPG/1920px-GutBettringenMauer2.JPG
+---
 
 ## Overview
 

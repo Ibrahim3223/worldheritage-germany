@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/400px-Bürgerturm_(Neuenstein)-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/800px-Bürgerturm_(Neuenstein)-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/1200px-Bürgerturm_(Neuenstein)-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/1920px-Bürgerturm_(Neuenstein)-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bürgerturm_(Neuenstein)-01.jpg/1920px-Bürgerturm_(Neuenstein)-01.jpg
+---
 
 ## Overview
 

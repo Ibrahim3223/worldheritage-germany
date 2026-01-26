@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neu_Zauche_Kirche2.JPG/400px-Neu_Zauche_Kirche2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neu_Zauche_Kirche2.JPG/800px-Neu_Zauche_Kirche2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neu_Zauche_Kirche2.JPG/1200px-Neu_Zauche_Kirche2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neu_Zauche_Kirche2.JPG/1920px-Neu_Zauche_Kirche2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neu_Zauche_Kirche2.JPG/1920px-Neu_Zauche_Kirche2.JPG
+---
 
 ## Overview
 

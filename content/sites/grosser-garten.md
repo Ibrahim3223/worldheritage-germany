@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/400px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/800px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/1200px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/1920px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/1920px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/400px-Pfullingen_Rathaus_III_(1).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/800px-Pfullingen_Rathaus_III_(1).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/1200px-Pfullingen_Rathaus_III_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/1920px-Pfullingen_Rathaus_III_(1).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfullingen_Rathaus_III_(1).jpg/1920px-Pfullingen_Rathaus_III_(1).jpg
+---
 
 ## Overview
 

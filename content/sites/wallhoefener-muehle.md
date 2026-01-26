@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/400px-Vollersode.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/800px-Vollersode.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/1200px-Vollersode.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/1920px-Vollersode.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vollersode.jpg/1920px-Vollersode.jpg
+---
 
 ## Overview
 

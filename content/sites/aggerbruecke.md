@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/400px-Aggerbrücke_Loope_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/800px-Aggerbrücke_Loope_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/1200px-Aggerbrücke_Loope_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/1920px-Aggerbrücke_Loope_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aggerbrücke_Loope_2.JPG/1920px-Aggerbrücke_Loope_2.JPG
+---
 
 ## Overview
 

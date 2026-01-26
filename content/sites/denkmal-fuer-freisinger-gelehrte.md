@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/400px-Freising_gelehrtendenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/800px-Freising_gelehrtendenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/1200px-Freising_gelehrtendenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/1920px-Freising_gelehrtendenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freising_gelehrtendenkmal.jpg/1920px-Freising_gelehrtendenkmal.jpg
+---
 
 ## Overview
 

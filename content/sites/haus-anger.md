@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/400px-Haus_Anger_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/800px-Haus_Anger_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/1200px-Haus_Anger_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/1920px-Haus_Anger_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Haus_Anger_2.jpg/1920px-Haus_Anger_2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/400px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/800px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1200px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+---
 
 ## Overview
 

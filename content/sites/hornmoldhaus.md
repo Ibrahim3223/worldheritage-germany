@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/400px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/800px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/1200px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/1920px-Bietigheim-Giebel_des_Hornmoldhauses.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bietigheim-Giebel_des_Hornmoldhauses.jpg/1920px-Bietigheim-Giebel_des_Hornmoldhauses.jpg
+---
 
 ## Overview
 

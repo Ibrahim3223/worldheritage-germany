@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/400px-Rathaus_Machern_(Rathaus_in_Machern).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/800px-Rathaus_Machern_(Rathaus_in_Machern).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/1200px-Rathaus_Machern_(Rathaus_in_Machern).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/1920px-Rathaus_Machern_(Rathaus_in_Machern).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rathaus_Machern_(Rathaus_in_Machern).jpg/1920px-Rathaus_Machern_(Rathaus_in_Machern).jpg
+---
 
 ## Overview
 

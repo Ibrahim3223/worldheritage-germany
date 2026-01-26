@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/400px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/800px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/1200px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/1920px-Museum_in_Zschochersche_Straße,_Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Museum_in_Zschochersche_Straße,_Leipzig.jpg/1920px-Museum_in_Zschochersche_Straße,_Leipzig.jpg
+---
 
 ## Overview 
 

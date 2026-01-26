@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/400px-Iserlohn-Rathaus-1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/800px-Iserlohn-Rathaus-1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/1200px-Iserlohn-Rathaus-1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/1920px-Iserlohn-Rathaus-1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Iserlohn-Rathaus-1-Asio.JPG/1920px-Iserlohn-Rathaus-1-Asio.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/400px-Albertinum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/800px-Albertinum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1200px-Albertinum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1920px-Albertinum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1920px-Albertinum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/400px-Dechenhöhle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/800px-Dechenhöhle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1200px-Dechenhöhle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1920px-Dechenhöhle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1920px-Dechenhöhle.JPG
+---
 
 ## Overview
 

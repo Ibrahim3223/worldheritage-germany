@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/400px-Kierspe_-_Amtshaus_05_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/800px-Kierspe_-_Amtshaus_05_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/1200px-Kierspe_-_Amtshaus_05_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/1920px-Kierspe_-_Amtshaus_05_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kierspe_-_Amtshaus_05_ies.jpg/1920px-Kierspe_-_Amtshaus_05_ies.jpg
+---
 
 ## Overview
 

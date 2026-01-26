@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/400px-Dom_freising.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/800px-Dom_freising.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1200px-Dom_freising.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1920px-Dom_freising.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1920px-Dom_freising.jpg
+---
 
 ## Overview
 

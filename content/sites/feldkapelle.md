@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/400px-Bruder_Klaus_Feldkapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/800px-Bruder_Klaus_Feldkapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1200px-Bruder_Klaus_Feldkapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1920px-Bruder_Klaus_Feldkapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1920px-Bruder_Klaus_Feldkapelle.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/400px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/800px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/1200px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/1920px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg/1920px-Adolfstrasse_und_Leibnitzens_Denkmal_in_Hannover_Kretschmer_E._Höfer_G._G._Lange_1857.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/400px-Nikolaiviertel_7a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/800px-Nikolaiviertel_7a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/1200px-Nikolaiviertel_7a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/1920px-Nikolaiviertel_7a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nikolaiviertel_7a.jpg/1920px-Nikolaiviertel_7a.jpg
+---
 
 ## Overview
 

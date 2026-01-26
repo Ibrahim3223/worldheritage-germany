@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bahnhof_neumarkt.jpg/400px-Bahnhof_neumarkt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bahnhof_neumarkt.jpg/800px-Bahnhof_neumarkt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bahnhof_neumarkt.jpg/1200px-Bahnhof_neumarkt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bahnhof_neumarkt.jpg/1920px-Bahnhof_neumarkt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bahnhof_neumarkt.jpg/1920px-Bahnhof_neumarkt.jpg
+---
 
 ## Overview
 

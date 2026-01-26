@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/400px-Denkmal_für_Veit_Demmler.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/800px-Denkmal_für_Veit_Demmler.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/1200px-Denkmal_für_Veit_Demmler.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/1920px-Denkmal_für_Veit_Demmler.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Denkmal_für_Veit_Demmler.jpg/1920px-Denkmal_für_Veit_Demmler.jpg
+---
 
 ## Overview
 

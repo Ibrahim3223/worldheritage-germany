@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Katholische_st_babarakirche_dortmund_dorstfeld.jpg/400px-Katholische_st_babarakirche_dortmund_dorstfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Katholische_st_babarakirche_dortmund_dorstfeld.jpg/800px-Katholische_st_babarakirche_dortmund_dorstfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Katholische_st_babarakirche_dortmund_dorstfeld.jpg/1200px-Katholische_st_babarakirche_dortmund_dorstfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Katholische_st_babarakirche_dortmund_dorstfeld.jpg/1920px-Katholische_st_babarakirche_dortmund_dorstfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Katholische_st_babarakirche_dortmund_dorstfeld.jpg/1920px-Katholische_st_babarakirche_dortmund_dorstfeld.jpg
+---
 
 ## Overview
 

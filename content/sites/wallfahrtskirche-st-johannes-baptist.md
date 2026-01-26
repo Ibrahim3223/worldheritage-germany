@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/400px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/800px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/1200px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/1920px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg/1920px-Hirschberg_Leutershausen_Wallfahrtskirche_20100720.jpg
+---
 
 ## Overview
 

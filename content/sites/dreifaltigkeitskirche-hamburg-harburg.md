@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/400px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/800px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/1200px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/1920px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg/1920px-Dreifaltigkeitskirche_(Hamburg-Harburg).2.27830.ajb.jpg
+---
 
 ## Overview
 

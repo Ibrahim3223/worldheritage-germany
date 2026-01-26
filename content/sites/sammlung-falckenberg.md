@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sammlung_Falckenberg.jpg/400px-Sammlung_Falckenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sammlung_Falckenberg.jpg/800px-Sammlung_Falckenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sammlung_Falckenberg.jpg/1200px-Sammlung_Falckenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sammlung_Falckenberg.jpg/1920px-Sammlung_Falckenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sammlung_Falckenberg.jpg/1920px-Sammlung_Falckenberg.jpg
+---
 
 ## Overview
 

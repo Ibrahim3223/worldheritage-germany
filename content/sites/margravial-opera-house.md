@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/400px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/800px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/1200px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/1920px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Markgräfliches_Opernhaus_Front_2019-07-29.jpg/1920px-Markgräfliches_Opernhaus_Front_2019-07-29.jpg
+---
 
 ## Overview
 

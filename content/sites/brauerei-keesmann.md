@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/400px-Wunderburg5_ba2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/800px-Wunderburg5_ba2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/1200px-Wunderburg5_ba2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/1920px-Wunderburg5_ba2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wunderburg5_ba2.JPG/1920px-Wunderburg5_ba2.JPG
+---
 
 ## Overview
 

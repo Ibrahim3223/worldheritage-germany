@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/400px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/800px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/1200px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/1920px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg/1920px-Bergisch_Gladbach_-_Bergisches_Museum_07_ies.jpg
+---
 
 ## Overview
 

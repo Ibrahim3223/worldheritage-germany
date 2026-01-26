@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/400px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/800px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/1200px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/1920px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pfarrkirche_St._Margaretha_(Köln-Libur).JPG/1920px-Pfarrkirche_St._Margaretha_(Köln-Libur).JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/400px-Emstek_-_Dianasee.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/800px-Emstek_-_Dianasee.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/1200px-Emstek_-_Dianasee.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/1920px-Emstek_-_Dianasee.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emstek_-_Dianasee.JPG/1920px-Emstek_-_Dianasee.JPG
+---
 
 ## Overview
 

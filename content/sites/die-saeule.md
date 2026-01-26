@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/400px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/800px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1200px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1920px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1920px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
+---
 
 ## Overview
 

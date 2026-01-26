@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/400px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/800px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/1200px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/1920px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg/1920px-Motorradmuseum_Heiner_Beckmann_Außenansicht.jpg
+---
 
 ## Overview
 

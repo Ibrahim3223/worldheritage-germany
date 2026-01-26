@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/400px-ChurchUttum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/800px-ChurchUttum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/1200px-ChurchUttum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/1920px-ChurchUttum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/ChurchUttum.jpg/1920px-ChurchUttum.jpg
+---
 
 ## Overview
 

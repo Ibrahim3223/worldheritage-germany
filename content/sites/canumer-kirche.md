@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/400px-ChurchCanum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/800px-ChurchCanum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1200px-ChurchCanum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1920px-ChurchCanum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1920px-ChurchCanum.jpg
+---
 
 ## Overview
 

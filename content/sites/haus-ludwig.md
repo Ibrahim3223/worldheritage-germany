@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/400px-Saarlouis_Haus_Ludwig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/800px-Saarlouis_Haus_Ludwig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/1200px-Saarlouis_Haus_Ludwig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/1920px-Saarlouis_Haus_Ludwig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/1920px-Saarlouis_Haus_Ludwig.jpg
+---
 
 ## Overview
 

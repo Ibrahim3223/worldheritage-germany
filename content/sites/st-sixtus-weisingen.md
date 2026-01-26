@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/400px-Weisingen_St._Sixtus_373.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/800px-Weisingen_St._Sixtus_373.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/1200px-Weisingen_St._Sixtus_373.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/1920px-Weisingen_St._Sixtus_373.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weisingen_St._Sixtus_373.JPG/1920px-Weisingen_St._Sixtus_373.JPG
+---
 
 ## Overview
 

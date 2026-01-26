@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/400px-Quedlinburg_St._Nikolai_10.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/800px-Quedlinburg_St._Nikolai_10.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/1200px-Quedlinburg_St._Nikolai_10.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/1920px-Quedlinburg_St._Nikolai_10.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Quedlinburg_St._Nikolai_10.jpg/1920px-Quedlinburg_St._Nikolai_10.jpg
+---
 
 ## Overview
 

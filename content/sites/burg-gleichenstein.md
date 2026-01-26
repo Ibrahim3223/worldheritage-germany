@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/400px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/800px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1200px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1920px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1920px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St._Konrad_(Speyer)_Südwestansicht.JPG/400px-St._Konrad_(Speyer)_Südwestansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St._Konrad_(Speyer)_Südwestansicht.JPG/800px-St._Konrad_(Speyer)_Südwestansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St._Konrad_(Speyer)_Südwestansicht.JPG/1200px-St._Konrad_(Speyer)_Südwestansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St._Konrad_(Speyer)_Südwestansicht.JPG/1920px-St._Konrad_(Speyer)_Südwestansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/St._Konrad_(Speyer)_Südwestansicht.JPG/1920px-St._Konrad_(Speyer)_Südwestansicht.JPG
+---
 
 ## Overview
 

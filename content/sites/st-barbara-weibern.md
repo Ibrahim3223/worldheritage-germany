@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG/400px-Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG/800px-Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG/1200px-Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG/1920px-Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG/1920px-Weibern_(Eifel)_Katholische_Kirche_Turm796.JPG
+---
 
 ## Overview
 

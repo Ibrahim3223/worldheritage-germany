@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/München_Heilig-Geist-Kirche_2011.jpg/400px-München_Heilig-Geist-Kirche_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/München_Heilig-Geist-Kirche_2011.jpg/800px-München_Heilig-Geist-Kirche_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/München_Heilig-Geist-Kirche_2011.jpg/1200px-München_Heilig-Geist-Kirche_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/München_Heilig-Geist-Kirche_2011.jpg/1920px-München_Heilig-Geist-Kirche_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/München_Heilig-Geist-Kirche_2011.jpg/1920px-München_Heilig-Geist-Kirche_2011.jpg
+---
 
 ## Overview
 

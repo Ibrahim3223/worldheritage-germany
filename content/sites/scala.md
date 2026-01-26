@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/400px-Berlin_Scala_Anfahrt_007802.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/800px-Berlin_Scala_Anfahrt_007802.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/1200px-Berlin_Scala_Anfahrt_007802.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/1920px-Berlin_Scala_Anfahrt_007802.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin_Scala_Anfahrt_007802.jpg/1920px-Berlin_Scala_Anfahrt_007802.jpg
+---
 
 ## Overview
 

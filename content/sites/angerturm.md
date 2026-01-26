@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anger_tower_Erfurt.JPG/400px-Anger_tower_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anger_tower_Erfurt.JPG/800px-Anger_tower_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anger_tower_Erfurt.JPG/1200px-Anger_tower_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anger_tower_Erfurt.JPG/1920px-Anger_tower_Erfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anger_tower_Erfurt.JPG/1920px-Anger_tower_Erfurt.JPG
+---
 
 ## Overview
 

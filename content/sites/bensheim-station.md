@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/400px-Bahnhof_Bensheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/800px-Bahnhof_Bensheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/1200px-Bahnhof_Bensheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/1920px-Bahnhof_Bensheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bahnhof_Bensheim.jpg/1920px-Bahnhof_Bensheim.jpg
+---
 
 ## Overview
 

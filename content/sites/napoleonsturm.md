@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/400px-Dessau-Mildensee,Napoleonsturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/800px-Dessau-Mildensee,Napoleonsturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/1200px-Dessau-Mildensee,Napoleonsturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/1920px-Dessau-Mildensee,Napoleonsturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dessau-Mildensee,Napoleonsturm.jpg/1920px-Dessau-Mildensee,Napoleonsturm.jpg
+---
 
 ## Overview
 

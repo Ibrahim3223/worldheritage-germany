@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/400px-Burghausen_-_Hauptburg_(1).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/800px-Burghausen_-_Hauptburg_(1).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1200px-Burghausen_-_Hauptburg_(1).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1920px-Burghausen_-_Hauptburg_(1).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1920px-Burghausen_-_Hauptburg_(1).JPG
+---
 
 ## Overview
 

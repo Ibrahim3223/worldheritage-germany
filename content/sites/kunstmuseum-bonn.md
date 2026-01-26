@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/400px-Kunstmuseum_Bonn-9592.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/800px-Kunstmuseum_Bonn-9592.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/1200px-Kunstmuseum_Bonn-9592.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/1920px-Kunstmuseum_Bonn-9592.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kunstmuseum_Bonn-9592.jpg/1920px-Kunstmuseum_Bonn-9592.jpg
+---
 
 ## Overview
 

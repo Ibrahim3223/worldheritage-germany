@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/400px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/800px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/1200px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/1920px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG/1920px-KAPELLE_ST._MARIA-MAGDALENA_in_Niederbergstraße_Ortsteil_von_Werl_im_Kreis_Soest.JPG
+---
 
 ## Overview
 

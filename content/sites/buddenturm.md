@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/400px-Buddenturm_in_Münster.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/800px-Buddenturm_in_Münster.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1200px-Buddenturm_in_Münster.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1920px-Buddenturm_in_Münster.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1920px-Buddenturm_in_Münster.JPG
+---
 
 ## Overview
 

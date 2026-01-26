@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/400px-Windmühle_Dralle_Loccum_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/800px-Windmühle_Dralle_Loccum_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/1200px-Windmühle_Dralle_Loccum_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/1920px-Windmühle_Dralle_Loccum_II.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Windmühle_Dralle_Loccum_II.jpg/1920px-Windmühle_Dralle_Loccum_II.jpg
+---
 
 ## Overview 
 

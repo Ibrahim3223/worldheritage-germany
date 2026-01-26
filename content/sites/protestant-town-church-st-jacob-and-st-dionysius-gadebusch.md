@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG/400px-Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG/800px-Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG/1200px-Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG/1920px-Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG/1920px-Stadtkirche_St._Jakob_und_St._Dionysius_(Gadebusch)_2013.JPG
+---
 
 ## Overview
 

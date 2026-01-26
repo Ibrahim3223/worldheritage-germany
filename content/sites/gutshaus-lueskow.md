@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/400px-Lüskow_Parkhaus_Hofseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/800px-Lüskow_Parkhaus_Hofseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/1200px-Lüskow_Parkhaus_Hofseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/1920px-Lüskow_Parkhaus_Hofseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lüskow_Parkhaus_Hofseite.JPG/1920px-Lüskow_Parkhaus_Hofseite.JPG
+---
 
 ## Overview
 

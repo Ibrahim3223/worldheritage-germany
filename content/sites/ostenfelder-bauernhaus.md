@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Husum-Ostenfelder_Bauernhaus.jpg/400px-Husum-Ostenfelder_Bauernhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Husum-Ostenfelder_Bauernhaus.jpg/800px-Husum-Ostenfelder_Bauernhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Husum-Ostenfelder_Bauernhaus.jpg/1200px-Husum-Ostenfelder_Bauernhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Husum-Ostenfelder_Bauernhaus.jpg/1920px-Husum-Ostenfelder_Bauernhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Husum-Ostenfelder_Bauernhaus.jpg/1920px-Husum-Ostenfelder_Bauernhaus.jpg
+---
 
 ## Overview
 

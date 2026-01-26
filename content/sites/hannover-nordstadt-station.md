@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/S-Bahnhof_Hannover_Nordstadt.jpg/400px-S-Bahnhof_Hannover_Nordstadt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/S-Bahnhof_Hannover_Nordstadt.jpg/800px-S-Bahnhof_Hannover_Nordstadt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/S-Bahnhof_Hannover_Nordstadt.jpg/1200px-S-Bahnhof_Hannover_Nordstadt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/S-Bahnhof_Hannover_Nordstadt.jpg/1920px-S-Bahnhof_Hannover_Nordstadt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/S-Bahnhof_Hannover_Nordstadt.jpg/1920px-S-Bahnhof_Hannover_Nordstadt.jpg
+---
 
 ## Overview
 

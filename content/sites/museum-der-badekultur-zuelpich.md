@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/400px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/800px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/1200px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/1920px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG/1920px-Museum_der_Badekultur_-_Fassade_des_Neubaus_und_Museumsvorplatz.JPG
+---
 
 ## Overview
 

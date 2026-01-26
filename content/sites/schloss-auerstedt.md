@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/400px-Rittergut_Schloss_Auerstedt_P4160514.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/800px-Rittergut_Schloss_Auerstedt_P4160514.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/1200px-Rittergut_Schloss_Auerstedt_P4160514.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/1920px-Rittergut_Schloss_Auerstedt_P4160514.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rittergut_Schloss_Auerstedt_P4160514.jpg/1920px-Rittergut_Schloss_Auerstedt_P4160514.jpg
+---
 
 ## Overview
 

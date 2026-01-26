@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/400px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/800px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1200px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1920px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1920px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
+---
 
 ## Overview
 

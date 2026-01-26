@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/400px-Aachen_BW_2016-07-09_16-46-40.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/800px-Aachen_BW_2016-07-09_16-46-40.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/1200px-Aachen_BW_2016-07-09_16-46-40.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/1920px-Aachen_BW_2016-07-09_16-46-40.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/1920px-Aachen_BW_2016-07-09_16-46-40.jpg
+---
 
 ## Overview
 

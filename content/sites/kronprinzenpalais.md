@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/400px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/800px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/1200px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/1920px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg/1920px-Kronprinzenpalais,_Stuttgart,_Herrmann_2000,_01.jpg
+---
 
 ## Overview
 

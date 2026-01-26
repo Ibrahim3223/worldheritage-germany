@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Prinzregentenplatz_Augsburg.jpg/400px-Prinzregentenplatz_Augsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Prinzregentenplatz_Augsburg.jpg/800px-Prinzregentenplatz_Augsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Prinzregentenplatz_Augsburg.jpg/1200px-Prinzregentenplatz_Augsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Prinzregentenplatz_Augsburg.jpg/1920px-Prinzregentenplatz_Augsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Prinzregentenplatz_Augsburg.jpg/1920px-Prinzregentenplatz_Augsburg.jpg
+---
 
 ## Overview
 

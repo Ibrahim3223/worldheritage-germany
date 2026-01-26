@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/400px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/800px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/1200px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/1920px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg/1920px-Lange_diercke_sachsen_dresdens_festungswerke_um_1800.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/400px-Kriegsgräberstätte_Eversberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/800px-Kriegsgräberstätte_Eversberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/1200px-Kriegsgräberstätte_Eversberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/1920px-Kriegsgräberstätte_Eversberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kriegsgräberstätte_Eversberg.jpg/1920px-Kriegsgräberstätte_Eversberg.jpg
+---
 
 ## Overview
 

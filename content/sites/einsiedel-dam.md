@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/400px-Einsiedel-Staumauer2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/800px-Einsiedel-Staumauer2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1200px-Einsiedel-Staumauer2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1920px-Einsiedel-Staumauer2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1920px-Einsiedel-Staumauer2.jpg
+---
 
 ## Overview
 

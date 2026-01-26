@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/400px-Kronenbrücke_in_Freiburg_(6).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/800px-Kronenbrücke_in_Freiburg_(6).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/1200px-Kronenbrücke_in_Freiburg_(6).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/1920px-Kronenbrücke_in_Freiburg_(6).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kronenbrücke_in_Freiburg_(6).jpg/1920px-Kronenbrücke_in_Freiburg_(6).jpg
+---
 
 ## Overview
 

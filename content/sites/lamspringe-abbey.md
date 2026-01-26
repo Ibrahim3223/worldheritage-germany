@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/400px-Lamspringe_Kirche_2210.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/800px-Lamspringe_Kirche_2210.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/1200px-Lamspringe_Kirche_2210.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/1920px-Lamspringe_Kirche_2210.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lamspringe_Kirche_2210.JPG/1920px-Lamspringe_Kirche_2210.JPG
+---
 
 ## Overview
 

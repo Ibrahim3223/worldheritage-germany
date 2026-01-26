@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/400px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/800px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1200px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1920px-Naunynstraße_27_(Berlin-Kreuzberg).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1920px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
+---
 
 ## Overview
 

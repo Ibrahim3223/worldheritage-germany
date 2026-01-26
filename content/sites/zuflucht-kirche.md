@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/400px-Zuflucht-Kirche_(Berlin).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/800px-Zuflucht-Kirche_(Berlin).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/1200px-Zuflucht-Kirche_(Berlin).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/1920px-Zuflucht-Kirche_(Berlin).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zuflucht-Kirche_(Berlin).JPG/1920px-Zuflucht-Kirche_(Berlin).JPG
+---
 
 ## Overview
 

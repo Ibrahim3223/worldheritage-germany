@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/400px-Gutenkapelle_aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/800px-Gutenkapelle_aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/1200px-Gutenkapelle_aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/1920px-Gutenkapelle_aussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gutenkapelle_aussen.jpg/1920px-Gutenkapelle_aussen.jpg
+---
 
 ## Overview
 

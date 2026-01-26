@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/400px-Wasserburg_Gleuel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/800px-Wasserburg_Gleuel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/1200px-Wasserburg_Gleuel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/1920px-Wasserburg_Gleuel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wasserburg_Gleuel.jpg/1920px-Wasserburg_Gleuel.jpg
+---
 
 ## Overview
 

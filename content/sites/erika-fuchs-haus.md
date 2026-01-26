@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/400px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/800px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1200px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1920px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1920px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
+---
 
 ## Overview
 

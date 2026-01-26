@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/400px-Kunsthaus_Meyenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/800px-Kunsthaus_Meyenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/1200px-Kunsthaus_Meyenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/1920px-Kunsthaus_Meyenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kunsthaus_Meyenburg.jpg/1920px-Kunsthaus_Meyenburg.jpg
+---
 
 ## Overview
 

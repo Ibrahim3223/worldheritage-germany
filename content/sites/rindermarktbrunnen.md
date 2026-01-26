@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/400px-Rindermarktbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/800px-Rindermarktbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/1200px-Rindermarktbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/1920px-Rindermarktbrunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rindermarktbrunnen.jpg/1920px-Rindermarktbrunnen.jpg
+---
 
 ## Overview
 

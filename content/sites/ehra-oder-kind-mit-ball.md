@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/400px-Statue_"Ehra_oder_Kind_mit_Ball%22_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_%22Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/800px-Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/1200px-Statue_"Ehra_oder_Kind_mit_Ball%22_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_%22Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/1920px-Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Statue_%22Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg/1920px-Statue_"Ehra_oder_Kind_mit_Ball"_in_Duesseldorf-Carlstadt,_von_Nordosten.jpg
+---
 
 ## Overview
 

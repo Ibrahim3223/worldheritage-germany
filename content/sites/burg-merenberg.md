@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/400px-Merenberg_Burg.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/800px-Merenberg_Burg.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/1200px-Merenberg_Burg.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/1920px-Merenberg_Burg.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merenberg_Burg.JPG/1920px-Merenberg_Burg.JPG
+---
 
 ## Overview
 

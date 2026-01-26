@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/400px-Habsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/800px-Habsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/1200px-Habsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/1920px-Habsberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Habsberg.jpg/1920px-Habsberg.jpg
+---
 
 ## Overview
 

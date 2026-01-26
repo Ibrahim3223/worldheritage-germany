@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/400px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/800px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/1200px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/1920px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG/1920px-Schieder-Schwalenberg_-_Befestigungsanlage_Alt_Schieder_(3).JPG
+---
 
 ## Overview
 

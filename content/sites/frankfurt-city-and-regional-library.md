@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/400px-2006-03_Frankfurt_(Oder)_28.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/800px-2006-03_Frankfurt_(Oder)_28.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/1200px-2006-03_Frankfurt_(Oder)_28.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/1920px-2006-03_Frankfurt_(Oder)_28.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2006-03_Frankfurt_(Oder)_28.jpg/1920px-2006-03_Frankfurt_(Oder)_28.jpg
+---
 
 ## Overview
 

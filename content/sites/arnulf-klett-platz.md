@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/400px-StgtHbfDez07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/800px-StgtHbfDez07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/1200px-StgtHbfDez07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/1920px-StgtHbfDez07.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StgtHbfDez07.JPG/1920px-StgtHbfDez07.JPG
+---
 
 ## Overview
 

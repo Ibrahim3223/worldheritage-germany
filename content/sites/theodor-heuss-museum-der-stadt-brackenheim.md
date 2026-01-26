@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/400px-Theodor-Heuss-Museum-Brackenheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/800px-Theodor-Heuss-Museum-Brackenheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/1200px-Theodor-Heuss-Museum-Brackenheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/1920px-Theodor-Heuss-Museum-Brackenheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theodor-Heuss-Museum-Brackenheim.JPG/1920px-Theodor-Heuss-Museum-Brackenheim.JPG
+---
 
 ## Overview
 

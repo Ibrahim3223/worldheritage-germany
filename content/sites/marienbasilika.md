@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/400px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/800px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/1200px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/1920px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Basilika,_Gnadenkapelle_in_Kevelaer.JPG/1920px-Basilika,_Gnadenkapelle_in_Kevelaer.JPG
+---
 
 ## Overview
 

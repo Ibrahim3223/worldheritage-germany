@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/400px-Runde-Ecke-Leipzig.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/800px-Runde-Ecke-Leipzig.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1200px-Runde-Ecke-Leipzig.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1920px-Runde-Ecke-Leipzig.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1920px-Runde-Ecke-Leipzig.jpg
+---
 
 ## Overview
 

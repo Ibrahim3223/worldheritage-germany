@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/400px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/800px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/1200px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/1920px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essen-Borbeck-Mitte_Germaniadenkmal.jpg/1920px-Essen-Borbeck-Mitte_Germaniadenkmal.jpg
+---
 
 ## Overview
 

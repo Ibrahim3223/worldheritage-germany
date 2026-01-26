@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/400px-PeterPaulNikolskoe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/800px-PeterPaulNikolskoe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/1200px-PeterPaulNikolskoe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/1920px-PeterPaulNikolskoe.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PeterPaulNikolskoe.jpg/1920px-PeterPaulNikolskoe.jpg
+---
 
 ## Overview
 

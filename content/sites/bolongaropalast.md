@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/400px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/800px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1200px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1920px-Bolongaropalast_F-Hoechst_Strassenfront.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1920px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/400px-Synagoge_Deidesheim.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/800px-Synagoge_Deidesheim.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/1200px-Synagoge_Deidesheim.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/1920px-Synagoge_Deidesheim.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synagoge_Deidesheim.JPG/1920px-Synagoge_Deidesheim.JPG
+---
 
 ## Overview
 

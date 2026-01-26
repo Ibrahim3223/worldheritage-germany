@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/400px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/800px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/1200px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/1920px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg/1920px-Altenburg_Herzogin-Agnes-Gedächtniskirche.jpg
+---
 
 ## Overview
 

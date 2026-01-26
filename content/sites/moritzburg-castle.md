@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/400px-Schloss_Moritzburg-003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/800px-Schloss_Moritzburg-003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/1200px-Schloss_Moritzburg-003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/1920px-Schloss_Moritzburg-003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Schloss_Moritzburg-003.jpg/1920px-Schloss_Moritzburg-003.jpg
+---
 
 ## Overview
 

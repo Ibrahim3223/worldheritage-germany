@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/400px-Schönheide_003.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/800px-Schönheide_003.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/1200px-Schönheide_003.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/1920px-Schönheide_003.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schönheide_003.jpg/1920px-Schönheide_003.jpg
+---
 
 ## Overview
 

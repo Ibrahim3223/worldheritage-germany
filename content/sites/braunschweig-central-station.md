@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/400px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/800px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1200px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1920px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1920px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
+---
 
 ## Overview
 

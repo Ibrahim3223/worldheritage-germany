@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/400px-Bruchsal_schloss2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/800px-Bruchsal_schloss2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/1200px-Bruchsal_schloss2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/1920px-Bruchsal_schloss2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/1920px-Bruchsal_schloss2.JPG
+---
 
 ## Overview
 

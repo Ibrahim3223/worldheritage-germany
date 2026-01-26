@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/400px-Estemundung_1951.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/800px-Estemundung_1951.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/1200px-Estemundung_1951.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/1920px-Estemundung_1951.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Estemundung_1951.jpg/1920px-Estemundung_1951.jpg
+---
 
 ## Overview
 

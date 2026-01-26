@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/400px-Gohr_St_Odilia.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/800px-Gohr_St_Odilia.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/1200px-Gohr_St_Odilia.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/1920px-Gohr_St_Odilia.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gohr_St_Odilia.JPG/1920px-Gohr_St_Odilia.JPG
+---
 
 ## Overview
 

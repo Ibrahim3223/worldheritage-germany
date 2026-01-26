@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/400px-Hattingen_Burg_Blankenstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/800px-Hattingen_Burg_Blankenstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/1200px-Hattingen_Burg_Blankenstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/1920px-Hattingen_Burg_Blankenstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/1920px-Hattingen_Burg_Blankenstein.jpg
+---
 
 ## Overview
 

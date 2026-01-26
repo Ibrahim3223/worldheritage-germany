@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/400px-Herbst_am_Riessersee.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/800px-Herbst_am_Riessersee.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/1200px-Herbst_am_Riessersee.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/1920px-Herbst_am_Riessersee.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Herbst_am_Riessersee.jpeg/1920px-Herbst_am_Riessersee.jpeg
+---
 
 ## Overview
 

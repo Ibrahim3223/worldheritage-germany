@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/400px-Lighthouse2-elbe_hg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/800px-Lighthouse2-elbe_hg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1200px-Lighthouse2-elbe_hg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1920px-Lighthouse2-elbe_hg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1920px-Lighthouse2-elbe_hg.jpg
+---
 
 ## Overview
 

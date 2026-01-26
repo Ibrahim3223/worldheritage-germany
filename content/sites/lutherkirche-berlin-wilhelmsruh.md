@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/400px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/800px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/1200px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/1920px-Lutherkirche_(Berlin-Wilhelmsruh).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lutherkirche_(Berlin-Wilhelmsruh).jpg/1920px-Lutherkirche_(Berlin-Wilhelmsruh).jpg
+---
 
 ## Overview
 

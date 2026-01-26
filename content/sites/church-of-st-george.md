@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/400px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/800px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/1200px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/1920px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/1920px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
+---
 
 ## Overview
 

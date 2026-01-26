@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/400px-Roemermuseum_Stettfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/800px-Roemermuseum_Stettfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/1200px-Roemermuseum_Stettfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/1920px-Roemermuseum_Stettfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Roemermuseum_Stettfeld.jpg/1920px-Roemermuseum_Stettfeld.jpg
+---
 
 ## Overview
 

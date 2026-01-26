@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2006-AHS-D-Mindelh-_Fuessen_-crop.JPG/400px-2006-AHS-D-Mindelh-_Fuessen_-crop.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2006-AHS-D-Mindelh-_Fuessen_-crop.JPG/800px-2006-AHS-D-Mindelh-_Fuessen_-crop.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2006-AHS-D-Mindelh-_Fuessen_-crop.JPG/1200px-2006-AHS-D-Mindelh-_Fuessen_-crop.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2006-AHS-D-Mindelh-_Fuessen_-crop.JPG/1920px-2006-AHS-D-Mindelh-_Fuessen_-crop.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2006-AHS-D-Mindelh-_Fuessen_-crop.JPG/1920px-2006-AHS-D-Mindelh-_Fuessen_-crop.JPG
+---
 
 ## Overview
 

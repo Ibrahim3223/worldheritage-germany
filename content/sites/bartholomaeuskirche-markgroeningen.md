@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/400px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/800px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1200px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1920px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1920px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
+---
 
 ## Overview
 

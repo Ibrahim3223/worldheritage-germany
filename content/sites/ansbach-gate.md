@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/400px-Heilsbronn,_Hauptstraße_24-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/800px-Heilsbronn,_Hauptstraße_24-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/1200px-Heilsbronn,_Hauptstraße_24-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/1920px-Heilsbronn,_Hauptstraße_24-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heilsbronn,_Hauptstraße_24-001.jpg/1920px-Heilsbronn,_Hauptstraße_24-001.jpg
+---
 
 ## Overview
 

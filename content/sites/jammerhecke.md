@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jammerhecke,_von_Brombach.jpg/400px-Jammerhecke,_von_Brombach.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jammerhecke,_von_Brombach.jpg/800px-Jammerhecke,_von_Brombach.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jammerhecke,_von_Brombach.jpg/1200px-Jammerhecke,_von_Brombach.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jammerhecke,_von_Brombach.jpg/1920px-Jammerhecke,_von_Brombach.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jammerhecke,_von_Brombach.jpg/1920px-Jammerhecke,_von_Brombach.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/400px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/800px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/1200px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/1920px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg/1920px-The_village_of_Marktlustenau_in_the_municipality_of_Kressberg,_Baden-Württemberg,_Germany.jpg
+---
 
 ## Overview
 

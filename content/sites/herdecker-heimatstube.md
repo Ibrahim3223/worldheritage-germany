@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/400px-Herdecke,_Uferstraße_13.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/800px-Herdecke,_Uferstraße_13.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/1200px-Herdecke,_Uferstraße_13.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/1920px-Herdecke,_Uferstraße_13.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Herdecke,_Uferstraße_13.JPG/1920px-Herdecke,_Uferstraße_13.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/400px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/800px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/1200px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/1920px-Staedel-Frankfurt-2013-Ffm-862-867.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Staedel-Frankfurt-2013-Ffm-862-867.jpg/1920px-Staedel-Frankfurt-2013-Ffm-862-867.jpg
+---
 
 ## Overview
 

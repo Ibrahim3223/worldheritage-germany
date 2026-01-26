@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burg_Ellhofen,_Rekonstruktion.jpg/400px-Burg_Ellhofen,_Rekonstruktion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burg_Ellhofen,_Rekonstruktion.jpg/800px-Burg_Ellhofen,_Rekonstruktion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burg_Ellhofen,_Rekonstruktion.jpg/1200px-Burg_Ellhofen,_Rekonstruktion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burg_Ellhofen,_Rekonstruktion.jpg/1920px-Burg_Ellhofen,_Rekonstruktion.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burg_Ellhofen,_Rekonstruktion.jpg/1920px-Burg_Ellhofen,_Rekonstruktion.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Synagoge.jpg/400px-Augsburg_Synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Synagoge.jpg/800px-Augsburg_Synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Synagoge.jpg/1200px-Augsburg_Synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Synagoge.jpg/1920px-Augsburg_Synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Augsburg_Synagoge.jpg/1920px-Augsburg_Synagoge.jpg
+---
 
 ## Overview
 

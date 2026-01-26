@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/400px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/800px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/1200px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg/1920px-Bremen_Riensberger_Friedhof_Mausoleum_Rutenberg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/400px-Zietenplatz-straszenschild01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/800px-Zietenplatz-straszenschild01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/1200px-Zietenplatz-straszenschild01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/1920px-Zietenplatz-straszenschild01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zietenplatz-straszenschild01.JPG/1920px-Zietenplatz-straszenschild01.JPG
+---
 
 ## Overview
 

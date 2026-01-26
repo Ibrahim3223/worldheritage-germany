@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/400px-Castle_ruin_Coraidelstein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/800px-Castle_ruin_Coraidelstein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/1200px-Castle_ruin_Coraidelstein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/1920px-Castle_ruin_Coraidelstein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/1920px-Castle_ruin_Coraidelstein.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/400px-Stöcken-Friedhof_03_Tempel.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/800px-Stöcken-Friedhof_03_Tempel.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/1200px-Stöcken-Friedhof_03_Tempel.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/1920px-Stöcken-Friedhof_03_Tempel.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stöcken-Friedhof_03_Tempel.JPG/1920px-Stöcken-Friedhof_03_Tempel.JPG
+---
 
 ## Overview
 

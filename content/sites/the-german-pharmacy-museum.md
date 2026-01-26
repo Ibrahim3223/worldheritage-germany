@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Deutsches_Apothekenmuseum.jpg/400px-Deutsches_Apothekenmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Deutsches_Apothekenmuseum.jpg/800px-Deutsches_Apothekenmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Deutsches_Apothekenmuseum.jpg/1200px-Deutsches_Apothekenmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Deutsches_Apothekenmuseum.jpg/1920px-Deutsches_Apothekenmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Deutsches_Apothekenmuseum.jpg/1920px-Deutsches_Apothekenmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/400px-Berlin-ACUD.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/800px-Berlin-ACUD.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1200px-Berlin-ACUD.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1920px-Berlin-ACUD.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1920px-Berlin-ACUD.JPG
+---
 
 ## Overview
 

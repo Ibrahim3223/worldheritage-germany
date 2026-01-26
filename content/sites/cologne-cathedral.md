@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/400px-Kölner_Dom_von_Osten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/800px-Kölner_Dom_von_Osten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1200px-Kölner_Dom_von_Osten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1920px-Kölner_Dom_von_Osten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1920px-Kölner_Dom_von_Osten.jpg
+---
 
 ## Overview
 

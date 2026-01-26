@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/400px-Blinkerdenkmal_2013.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/800px-Blinkerdenkmal_2013.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/1200px-Blinkerdenkmal_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/1920px-Blinkerdenkmal_2013.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blinkerdenkmal_2013.JPG/1920px-Blinkerdenkmal_2013.JPG
+---
 
 ## Overview
 

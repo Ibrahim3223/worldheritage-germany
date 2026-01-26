@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/400px-Burgturm_Dilsberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/800px-Burgturm_Dilsberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/1200px-Burgturm_Dilsberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/1920px-Burgturm_Dilsberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Burgturm_Dilsberg.jpg/1920px-Burgturm_Dilsberg.jpg
+---
 
 ## Overview
 

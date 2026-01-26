@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/400px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/800px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/1200px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/1920px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg/1920px-Loxstedt_St.Johannes_der_Täufer_Kirche_Außenansicht_Front.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg/400px-Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg/800px-Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg/1200px-Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg/1920px-Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg/1920px-Dresden_Palais_Kap-herr,_Außenfassade_-_Helas_1991,_S._53_Bildnr._97,_S._205_um_1875.jpg
+---
 
 ## Overview
 

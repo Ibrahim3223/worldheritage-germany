@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/400px-Köln_deutz_kölnarena.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/800px-Köln_deutz_kölnarena.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/1200px-Köln_deutz_kölnarena.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/1920px-Köln_deutz_kölnarena.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Köln_deutz_kölnarena.jpg/1920px-Köln_deutz_kölnarena.jpg
+---
 
 ## Overview
 

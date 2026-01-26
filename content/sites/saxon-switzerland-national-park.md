@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/400px-Basteibrücke_morgens_(Zuschnitt).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/800px-Basteibrücke_morgens_(Zuschnitt).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/1200px-Basteibrücke_morgens_(Zuschnitt).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/1920px-Basteibrücke_morgens_(Zuschnitt).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibrücke_morgens_(Zuschnitt).jpg/1920px-Basteibrücke_morgens_(Zuschnitt).jpg
+---
 
 ## Overview
 

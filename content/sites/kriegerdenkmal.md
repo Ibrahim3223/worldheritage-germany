@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/400px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/800px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/1200px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/1920px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20180310_Kriegerdenkmal_B-Homb-3.tif.jpg/1920px-20180310_Kriegerdenkmal_B-Homb-3.tif.jpg
+---
 
 ## Overview
 

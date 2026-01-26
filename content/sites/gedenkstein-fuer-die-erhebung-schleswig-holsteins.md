@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/400px-Hamburg,_Blankenese_Gedenkstein.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/800px-Hamburg,_Blankenese_Gedenkstein.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/1200px-Hamburg,_Blankenese_Gedenkstein.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/1920px-Hamburg,_Blankenese_Gedenkstein.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hamburg,_Blankenese_Gedenkstein.JPG/1920px-Hamburg,_Blankenese_Gedenkstein.JPG
+---
 
 ## Overview
 

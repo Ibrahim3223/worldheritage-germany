@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/400px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/800px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1200px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1920px-Kapelle_1_Alter_Katholischer_Friedhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1920px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
+---
 
 ## Overview
 

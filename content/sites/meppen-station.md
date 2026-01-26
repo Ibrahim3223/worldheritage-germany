@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg/400px-Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg/800px-Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg/1200px-Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg/1920px-Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg/1920px-Bahnhof_Meppen_-_Emsländische_Eisenbahn_(2022).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/400px-Klatzow_Kirche_Südseite.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/800px-Klatzow_Kirche_Südseite.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/1200px-Klatzow_Kirche_Südseite.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/1920px-Klatzow_Kirche_Südseite.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Klatzow_Kirche_Südseite.JPG/1920px-Klatzow_Kirche_Südseite.JPG
+---
 
 ## Overview
 

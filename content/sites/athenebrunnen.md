@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/400px-Athenebrunnen-Stuttgart.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/800px-Athenebrunnen-Stuttgart.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1200px-Athenebrunnen-Stuttgart.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1920px-Athenebrunnen-Stuttgart.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1920px-Athenebrunnen-Stuttgart.jpg
+---
 
 ## Overview
 

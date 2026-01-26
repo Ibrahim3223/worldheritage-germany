@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/400px-Münsterplatz_(Freiburg)_jm3211.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/800px-Münsterplatz_(Freiburg)_jm3211.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/1200px-Münsterplatz_(Freiburg)_jm3211.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/1920px-Münsterplatz_(Freiburg)_jm3211.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Münsterplatz_(Freiburg)_jm3211.jpg/1920px-Münsterplatz_(Freiburg)_jm3211.jpg
+---
 
 ## Overview
 

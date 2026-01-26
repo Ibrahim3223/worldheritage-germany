@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/400px-Zentralmoschee_im_Bau_im_April_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/800px-Zentralmoschee_im_Bau_im_April_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/1200px-Zentralmoschee_im_Bau_im_April_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/1920px-Zentralmoschee_im_Bau_im_April_2014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zentralmoschee_im_Bau_im_April_2014.JPG/1920px-Zentralmoschee_im_Bau_im_April_2014.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/400px-Burg_Hohenburg_Thalheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/800px-Burg_Hohenburg_Thalheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/1200px-Burg_Hohenburg_Thalheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/1920px-Burg_Hohenburg_Thalheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohenburg_Thalheim.jpg/1920px-Burg_Hohenburg_Thalheim.jpg
+---
 
 ## Overview
 

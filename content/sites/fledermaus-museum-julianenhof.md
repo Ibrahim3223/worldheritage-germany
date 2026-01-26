@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/400px-Fledermaus-Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/800px-Fledermaus-Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/1200px-Fledermaus-Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/1920px-Fledermaus-Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fledermaus-Museum.jpg/1920px-Fledermaus-Museum.jpg
+---
 
 ## Overview
 

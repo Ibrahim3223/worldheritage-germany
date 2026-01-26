@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/400px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/800px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/1200px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/1920px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg/1920px-Makroscope_-_Zentrum_für_Kunst_und_Technik.jpg
+---
 
 ## Overview
 

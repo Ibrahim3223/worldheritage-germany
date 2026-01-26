@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/400px-Kriegerdenkmal_Bahnsdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/800px-Kriegerdenkmal_Bahnsdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/1200px-Kriegerdenkmal_Bahnsdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/1920px-Kriegerdenkmal_Bahnsdorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kriegerdenkmal_Bahnsdorf.JPG/1920px-Kriegerdenkmal_Bahnsdorf.JPG
+---
 
 ## Overview
 

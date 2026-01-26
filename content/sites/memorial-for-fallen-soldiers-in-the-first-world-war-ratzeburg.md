@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/400px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/800px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/1200px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/1920px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg/1920px-Denkmal_am_Röpersberg_(Ratzeburg)_(38).jpg
+---
 
 ## Overview
 

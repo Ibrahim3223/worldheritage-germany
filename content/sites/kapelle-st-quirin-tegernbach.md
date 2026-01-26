@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/400px-Kirendl-Tegernbach-Sommer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/800px-Kirendl-Tegernbach-Sommer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/1200px-Kirendl-Tegernbach-Sommer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/1920px-Kirendl-Tegernbach-Sommer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirendl-Tegernbach-Sommer.jpg/1920px-Kirendl-Tegernbach-Sommer.jpg
+---
 
 ## Overview
 

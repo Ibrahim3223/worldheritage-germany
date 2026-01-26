@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/400px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/800px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1200px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1920px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1920px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
+---
 
 ## Overview
 

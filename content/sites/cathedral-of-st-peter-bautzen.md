@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/400px-St_Petri_church_Bautzen_101.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/800px-St_Petri_church_Bautzen_101.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/1200px-St_Petri_church_Bautzen_101.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/1920px-St_Petri_church_Bautzen_101.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Petri_church_Bautzen_101.JPG/1920px-St_Petri_church_Bautzen_101.JPG
+---
 
 ## Overview
 

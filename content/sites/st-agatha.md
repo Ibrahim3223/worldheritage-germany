@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/400px-St._Agatha_in_Altenh.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/800px-St._Agatha_in_Altenh.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/1200px-St._Agatha_in_Altenh.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/1920px-St._Agatha_in_Altenh.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St._Agatha_in_Altenh.JPG/1920px-St._Agatha_in_Altenh.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg/400px-Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg/800px-Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg/1200px-Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg/1920px-Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg/1920px-Berlin,_Mitte,_Bertolt-Brecht-Platz_1,_Theater_am_Schiffbauerdamm.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/400px-Redefin_church.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/800px-Redefin_church.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1200px-Redefin_church.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1920px-Redefin_church.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1920px-Redefin_church.jpg
+---
 
 ## Overview
 

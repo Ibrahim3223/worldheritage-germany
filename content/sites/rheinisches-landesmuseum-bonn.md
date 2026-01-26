@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg/400px-LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg/800px-LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg/1200px-LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg/1920px-LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg/1920px-LVR-LandesMuseum_Bonn,_Rheinisches_Landesmuseum_für_Archäologie,_Kunst-_und_Kulturgeschichte-2593.jpg
+---
 
 ## Overview
 

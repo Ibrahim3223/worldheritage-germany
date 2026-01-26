@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/400px-Albert-König-Museum_Unterlüß.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/800px-Albert-König-Museum_Unterlüß.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/1200px-Albert-König-Museum_Unterlüß.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/1920px-Albert-König-Museum_Unterlüß.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-König-Museum_Unterlüß.JPG/1920px-Albert-König-Museum_Unterlüß.JPG
+---
 
 ## Overview
 

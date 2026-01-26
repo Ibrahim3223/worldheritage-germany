@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/400px-StoeckenerFriedhofHaupteingang.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/800px-StoeckenerFriedhofHaupteingang.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/1200px-StoeckenerFriedhofHaupteingang.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/1920px-StoeckenerFriedhofHaupteingang.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/StoeckenerFriedhofHaupteingang.JPG/1920px-StoeckenerFriedhofHaupteingang.JPG
+---
 
 ## Overview
 

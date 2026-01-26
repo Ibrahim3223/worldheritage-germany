@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/400px-Burg_Kipfenberg_im_Herbst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/800px-Burg_Kipfenberg_im_Herbst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1200px-Burg_Kipfenberg_im_Herbst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1920px-Burg_Kipfenberg_im_Herbst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1920px-Burg_Kipfenberg_im_Herbst.jpg
+---
 
 ## Overview
 

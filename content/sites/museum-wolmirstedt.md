@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/400px-Scheune_Wolmirstedt_Schloss.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/800px-Scheune_Wolmirstedt_Schloss.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/1200px-Scheune_Wolmirstedt_Schloss.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/1920px-Scheune_Wolmirstedt_Schloss.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scheune_Wolmirstedt_Schloss.JPG/1920px-Scheune_Wolmirstedt_Schloss.JPG
+---
 
 ## Overview
 

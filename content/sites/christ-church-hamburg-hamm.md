@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/400px-Christuskirche_(Hamburg-Hamm).ajb.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/800px-Christuskirche_(Hamburg-Hamm).ajb.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/1200px-Christuskirche_(Hamburg-Hamm).ajb.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/1920px-Christuskirche_(Hamburg-Hamm).ajb.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Christuskirche_(Hamburg-Hamm).ajb.jpg/1920px-Christuskirche_(Hamburg-Hamm).ajb.jpg
+---
 
 ## Overview
 

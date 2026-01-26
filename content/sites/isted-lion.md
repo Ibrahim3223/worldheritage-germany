@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/400px-Flensburger_Loewe3.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/800px-Flensburger_Loewe3.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/1200px-Flensburger_Loewe3.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/1920px-Flensburger_Loewe3.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flensburger_Loewe3.JPG/1920px-Flensburger_Loewe3.JPG
+---
 
 ## Overview
 

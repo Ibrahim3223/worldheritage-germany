@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/400px-Halle_(Westf.)_-_Museum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/800px-Halle_(Westf.)_-_Museum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/1200px-Halle_(Westf.)_-_Museum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/1920px-Halle_(Westf.)_-_Museum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halle_(Westf.)_-_Museum.jpg/1920px-Halle_(Westf.)_-_Museum.jpg
+---
 
 ## Overview
 

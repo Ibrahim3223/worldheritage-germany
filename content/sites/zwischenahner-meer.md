@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ZwischenahnerMeer.jpg/400px-ZwischenahnerMeer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ZwischenahnerMeer.jpg/800px-ZwischenahnerMeer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ZwischenahnerMeer.jpg/1200px-ZwischenahnerMeer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ZwischenahnerMeer.jpg/1920px-ZwischenahnerMeer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ZwischenahnerMeer.jpg/1920px-ZwischenahnerMeer.jpg
+---
 
 ## Overview
 

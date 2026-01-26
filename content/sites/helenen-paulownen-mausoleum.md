@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/400px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/800px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/1200px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/1920px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ludwigslust_Helenen-Paulownen-Mausoleum.jpg/1920px-Ludwigslust_Helenen-Paulownen-Mausoleum.jpg
+---
 
 ## Overview
 

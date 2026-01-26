@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IbbenbuerenAaseePanorama.jpg/400px-IbbenbuerenAaseePanorama.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IbbenbuerenAaseePanorama.jpg/800px-IbbenbuerenAaseePanorama.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IbbenbuerenAaseePanorama.jpg/1200px-IbbenbuerenAaseePanorama.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IbbenbuerenAaseePanorama.jpg/1920px-IbbenbuerenAaseePanorama.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IbbenbuerenAaseePanorama.jpg/1920px-IbbenbuerenAaseePanorama.jpg
+---
 
 ## Overview
 

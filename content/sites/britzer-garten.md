@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/400px-Festwiese_im_Britzer_Garten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/800px-Festwiese_im_Britzer_Garten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1200px-Festwiese_im_Britzer_Garten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1920px-Festwiese_im_Britzer_Garten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1920px-Festwiese_im_Britzer_Garten.JPG
+---
 
 ## Overview
 

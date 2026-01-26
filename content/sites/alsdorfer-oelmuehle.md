@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg/400px-186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg/800px-186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg/1200px-186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg/1920px-186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg/1920px-186_Alsdorfer_Ölmühle,_Wirtschaftsgebäude.jpg
+---
 
 ## Overview
 

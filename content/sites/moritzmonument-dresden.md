@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/400px-Moritzdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/800px-Moritzdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/1200px-Moritzdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/1920px-Moritzdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Moritzdenkmal.jpg/1920px-Moritzdenkmal.jpg
+---
 
 ## Overview
 

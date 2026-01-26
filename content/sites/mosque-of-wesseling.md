@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/400px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/800px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/1200px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/1920px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg/1920px-Wesseling–Mimar–Sinan-Camii-b-P1010031.jpg
+---
 
 ## Overview
 

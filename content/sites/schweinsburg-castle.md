@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/400px-Neukirchen_-_Schweinsburg_1_(aka).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/800px-Neukirchen_-_Schweinsburg_1_(aka).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/1200px-Neukirchen_-_Schweinsburg_1_(aka).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/1920px-Neukirchen_-_Schweinsburg_1_(aka).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Neukirchen_-_Schweinsburg_1_(aka).jpg/1920px-Neukirchen_-_Schweinsburg_1_(aka).jpg
+---
 
 ## Overview
 

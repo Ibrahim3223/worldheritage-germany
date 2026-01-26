@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Linzenberg,_Neidingen-Thiergarten.JPG/400px-Burg_Linzenberg,_Neidingen-Thiergarten.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Linzenberg,_Neidingen-Thiergarten.JPG/800px-Burg_Linzenberg,_Neidingen-Thiergarten.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Linzenberg,_Neidingen-Thiergarten.JPG/1200px-Burg_Linzenberg,_Neidingen-Thiergarten.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Linzenberg,_Neidingen-Thiergarten.JPG/1920px-Burg_Linzenberg,_Neidingen-Thiergarten.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Linzenberg,_Neidingen-Thiergarten.JPG/1920px-Burg_Linzenberg,_Neidingen-Thiergarten.JPG
+---
 
 ## Overview
 

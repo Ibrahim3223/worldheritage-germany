@@ -23,7 +23,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/400px-Mittelrhein_Burg_Katz.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/800px-Mittelrhein_Burg_Katz.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1200px-Mittelrhein_Burg_Katz.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1920px-Mittelrhein_Burg_Katz.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mittelrhein_Burg_Katz.jpg/1920px-Mittelrhein_Burg_Katz.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/400px-DD-AmUrnenfeld23.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/800px-DD-AmUrnenfeld23.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/1200px-DD-AmUrnenfeld23.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/1920px-DD-AmUrnenfeld23.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DD-AmUrnenfeld23.jpg/1920px-DD-AmUrnenfeld23.jpg
+---
 
 ## Overview
 

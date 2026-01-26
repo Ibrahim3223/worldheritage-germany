@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/400px-Altzella_Konversenhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/800px-Altzella_Konversenhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1200px-Altzella_Konversenhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1920px-Altzella_Konversenhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1920px-Altzella_Konversenhaus.jpg
+---
 
 ## Overview
 

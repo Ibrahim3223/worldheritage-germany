@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/400px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/800px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/1200px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/1920px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg/1920px-Brackenheim_Christus-Koenig-Kirche_20120920_1.jpg
+---
 
 ## Overview
 

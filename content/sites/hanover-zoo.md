@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/400px-Hannover_Zoo.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/800px-Hannover_Zoo.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/1200px-Hannover_Zoo.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/1920px-Hannover_Zoo.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hannover_Zoo.jpg/1920px-Hannover_Zoo.jpg
+---
 
 ## Overview
 

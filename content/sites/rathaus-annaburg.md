@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/400px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/800px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/1200px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/1920px-Villa_Torgauer_Straße_52_in_Annaburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Villa_Torgauer_Straße_52_in_Annaburg.jpg/1920px-Villa_Torgauer_Straße_52_in_Annaburg.jpg
+---
 
 ## Overview
 

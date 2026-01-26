@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/400px-ReideburgKircheW.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/800px-ReideburgKircheW.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/1200px-ReideburgKircheW.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/1920px-ReideburgKircheW.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/ReideburgKircheW.jpg/1920px-ReideburgKircheW.jpg
+---
 
 ## Overview
 

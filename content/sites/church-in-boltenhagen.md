@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/400px-Boltenhagen_Kirche_2009-01-02_028.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/800px-Boltenhagen_Kirche_2009-01-02_028.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1200px-Boltenhagen_Kirche_2009-01-02_028.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1920px-Boltenhagen_Kirche_2009-01-02_028.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1920px-Boltenhagen_Kirche_2009-01-02_028.jpg
+---
 
 ## Overview
 

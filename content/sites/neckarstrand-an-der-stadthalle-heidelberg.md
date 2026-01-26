@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/400px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/800px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/1200px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/1920px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg/1920px-NECKARSTRAND_an_der_Stadthalle,_Neckarstaden_in_Heidelberg.jpg
+---
 
 ## Overview
 

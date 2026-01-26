@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/400px-Wegkreuz_Virneburgstr.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/800px-Wegkreuz_Virneburgstr.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/1200px-Wegkreuz_Virneburgstr.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/1920px-Wegkreuz_Virneburgstr.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wegkreuz_Virneburgstr.jpg/1920px-Wegkreuz_Virneburgstr.jpg
+---
 
 ## Overview
 

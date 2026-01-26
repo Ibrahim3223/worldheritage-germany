@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/400px-WiesbadenDreifaltigkeitskircheSO.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/800px-WiesbadenDreifaltigkeitskircheSO.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/1200px-WiesbadenDreifaltigkeitskircheSO.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/1920px-WiesbadenDreifaltigkeitskircheSO.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WiesbadenDreifaltigkeitskircheSO.JPG/1920px-WiesbadenDreifaltigkeitskircheSO.JPG
+---
 
 ## Overview
 

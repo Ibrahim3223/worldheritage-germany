@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/400px-Engershausen2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/800px-Engershausen2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/1200px-Engershausen2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/1920px-Engershausen2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Engershausen2.jpg/1920px-Engershausen2.jpg
+---
 
 ## Overview
 

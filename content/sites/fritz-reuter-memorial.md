@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stavenhagen_Reuterdenkmal.jpg/400px-Stavenhagen_Reuterdenkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stavenhagen_Reuterdenkmal.jpg/800px-Stavenhagen_Reuterdenkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stavenhagen_Reuterdenkmal.jpg/1200px-Stavenhagen_Reuterdenkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stavenhagen_Reuterdenkmal.jpg/1920px-Stavenhagen_Reuterdenkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stavenhagen_Reuterdenkmal.jpg/1920px-Stavenhagen_Reuterdenkmal.jpg
+---
 
 ## Overview
 

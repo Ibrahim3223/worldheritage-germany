@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museum_Butzbach_Aussenansicht.jpg/400px-Museum_Butzbach_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museum_Butzbach_Aussenansicht.jpg/800px-Museum_Butzbach_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museum_Butzbach_Aussenansicht.jpg/1200px-Museum_Butzbach_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museum_Butzbach_Aussenansicht.jpg/1920px-Museum_Butzbach_Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Museum_Butzbach_Aussenansicht.jpg/1920px-Museum_Butzbach_Aussenansicht.jpg
+---
 
 ## Overview
 

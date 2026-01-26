@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rathausmann_(Dresden).jpg/400px-Rathausmann_(Dresden).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rathausmann_(Dresden).jpg/800px-Rathausmann_(Dresden).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rathausmann_(Dresden).jpg/1200px-Rathausmann_(Dresden).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rathausmann_(Dresden).jpg/1920px-Rathausmann_(Dresden).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rathausmann_(Dresden).jpg/1920px-Rathausmann_(Dresden).jpg
+---
 
 ## Overview
 

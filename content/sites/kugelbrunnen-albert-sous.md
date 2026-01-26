@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/400px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/800px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/1200px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/1920px-Kugelbrunnen_Aachen,_geöffnet-001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kugelbrunnen_Aachen,_geöffnet-001.jpg/1920px-Kugelbrunnen_Aachen,_geöffnet-001.jpg
+---
 
 ## Overview
 

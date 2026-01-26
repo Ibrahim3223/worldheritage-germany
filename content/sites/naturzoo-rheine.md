@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/400px-Rheine_Tierpark_Stoerche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/800px-Rheine_Tierpark_Stoerche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/1200px-Rheine_Tierpark_Stoerche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/1920px-Rheine_Tierpark_Stoerche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rheine_Tierpark_Stoerche.jpg/1920px-Rheine_Tierpark_Stoerche.jpg
+---
 
 ## Overview
 

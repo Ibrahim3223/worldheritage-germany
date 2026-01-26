@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/400px-Coburgjuni08_175.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/800px-Coburgjuni08_175.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/1200px-Coburgjuni08_175.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/1920px-Coburgjuni08_175.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Coburgjuni08_175.jpg/1920px-Coburgjuni08_175.jpg
+---
 
 ## Overview
 

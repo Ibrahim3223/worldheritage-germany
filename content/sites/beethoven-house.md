@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/400px-Beethoven-Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/800px-Beethoven-Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1200px-Beethoven-Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1920px-Beethoven-Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1920px-Beethoven-Haus.jpg
+---
 
 ## Overview
 

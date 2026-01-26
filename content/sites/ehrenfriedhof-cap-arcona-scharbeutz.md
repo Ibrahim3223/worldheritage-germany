@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/400px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/800px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/1200px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/1920px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG/1920px-Scharbeutz_Ehrenfriedhof_Cap-Arcona_Schild.JPG
+---
 
 ## Overview
 

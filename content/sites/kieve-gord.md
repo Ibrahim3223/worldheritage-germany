@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/400px-Kieve2012.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/800px-Kieve2012.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/1200px-Kieve2012.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/1920px-Kieve2012.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kieve2012.jpg/1920px-Kieve2012.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg/400px-Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg/800px-Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg/1200px-Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg/1920px-Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg/1920px-Alter_Döhrener_Friedhof_Hannover_Zugang_von_der_Fiedeler_Straße.jpg
+---
 
 ## Overview
 

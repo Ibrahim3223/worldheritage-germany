@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/PartwitzerSee-Seeblick.jpg/400px-PartwitzerSee-Seeblick.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/PartwitzerSee-Seeblick.jpg/800px-PartwitzerSee-Seeblick.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/PartwitzerSee-Seeblick.jpg/1200px-PartwitzerSee-Seeblick.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/PartwitzerSee-Seeblick.jpg/1920px-PartwitzerSee-Seeblick.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/PartwitzerSee-Seeblick.jpg/1920px-PartwitzerSee-Seeblick.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/400px-BurgHardenbergGrundriss.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/800px-BurgHardenbergGrundriss.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/1200px-BurgHardenbergGrundriss.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/1920px-BurgHardenbergGrundriss.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BurgHardenbergGrundriss.jpg/1920px-BurgHardenbergGrundriss.jpg
+---
 
 ## Overview
 

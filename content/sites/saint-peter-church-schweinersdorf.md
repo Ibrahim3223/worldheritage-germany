@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/400px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/800px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/1200px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/1920px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pfarrkirche_St_Petrus_Schweinersdorf.JPG/1920px-Pfarrkirche_St_Petrus_Schweinersdorf.JPG
+---
 
 ## Overview
 

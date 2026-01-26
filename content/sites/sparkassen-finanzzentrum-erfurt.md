@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/400px-Sparkassen-Finanzzentrum_Erfurt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/800px-Sparkassen-Finanzzentrum_Erfurt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/1200px-Sparkassen-Finanzzentrum_Erfurt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/1920px-Sparkassen-Finanzzentrum_Erfurt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sparkassen-Finanzzentrum_Erfurt.JPG/1920px-Sparkassen-Finanzzentrum_Erfurt.JPG
+---
 
 ## Overview
 

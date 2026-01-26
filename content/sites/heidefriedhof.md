@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/400px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/800px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1200px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1920px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1920px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
+---
 
 ## Overview
 

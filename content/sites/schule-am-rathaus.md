@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/400px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/800px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/1200px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/1920px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg/1920px-Cecilien-Lyzeum_2011-1-15_L'bg_AMA_fec_(23).jpg
+---
 
 ## Overview
 

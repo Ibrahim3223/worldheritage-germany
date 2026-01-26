@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/400px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/800px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/1200px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/1920px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg/1920px-Landappbw_157924_1820_Hechinger_Synagoge_Hechingen.jpg
+---
 
 ## Overview
 

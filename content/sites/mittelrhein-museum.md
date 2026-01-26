@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/400px-Forum_Confluentes_01_Koblenz_2013.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/800px-Forum_Confluentes_01_Koblenz_2013.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/1200px-Forum_Confluentes_01_Koblenz_2013.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/1920px-Forum_Confluentes_01_Koblenz_2013.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Forum_Confluentes_01_Koblenz_2013.jpg/1920px-Forum_Confluentes_01_Koblenz_2013.jpg
+---
 
 ## Overview
 

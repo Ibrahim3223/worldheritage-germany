@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gutskirche_Schönfeld_(Bismark)_P1790288.jpg/400px-Gutskirche_Schönfeld_(Bismark)_P1790288.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gutskirche_Schönfeld_(Bismark)_P1790288.jpg/800px-Gutskirche_Schönfeld_(Bismark)_P1790288.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gutskirche_Schönfeld_(Bismark)_P1790288.jpg/1200px-Gutskirche_Schönfeld_(Bismark)_P1790288.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gutskirche_Schönfeld_(Bismark)_P1790288.jpg/1920px-Gutskirche_Schönfeld_(Bismark)_P1790288.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gutskirche_Schönfeld_(Bismark)_P1790288.jpg/1920px-Gutskirche_Schönfeld_(Bismark)_P1790288.jpg
+---
 
 ## Overview
 

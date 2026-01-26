@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/400px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/800px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/1200px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/1920px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG/1920px-Lechbruck_-_Weidach_Nr_8_Flössermuseum_v_SW.JPG
+---
 
 ## Overview
 

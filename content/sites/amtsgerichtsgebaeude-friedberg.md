@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/400px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/800px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/1200px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/1920px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/D-7-71-130-8_BY-FDB_Haagstraße_16.JPG/1920px-D-7-71-130-8_BY-FDB_Haagstraße_16.JPG
+---
 
 ## Overview
 

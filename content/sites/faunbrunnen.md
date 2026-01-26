@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magdeburg_Faunenbrunnen.jpg/400px-Magdeburg_Faunenbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magdeburg_Faunenbrunnen.jpg/800px-Magdeburg_Faunenbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magdeburg_Faunenbrunnen.jpg/1200px-Magdeburg_Faunenbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magdeburg_Faunenbrunnen.jpg/1920px-Magdeburg_Faunenbrunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Magdeburg_Faunenbrunnen.jpg/1920px-Magdeburg_Faunenbrunnen.jpg
+---
 
 ## Overview
 

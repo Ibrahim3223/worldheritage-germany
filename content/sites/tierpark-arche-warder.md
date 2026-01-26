@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/400px-Matthias_Suessen_Kiel-6399.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/800px-Matthias_Suessen_Kiel-6399.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/1200px-Matthias_Suessen_Kiel-6399.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/1920px-Matthias_Suessen_Kiel-6399.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matthias_Suessen_Kiel-6399.jpg/1920px-Matthias_Suessen_Kiel-6399.jpg
+---
 
 ## Overview
 

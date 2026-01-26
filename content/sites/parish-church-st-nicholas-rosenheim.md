@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/400px-Rosenheim,_St._Nikolaus_(25).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/800px-Rosenheim,_St._Nikolaus_(25).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/1200px-Rosenheim,_St._Nikolaus_(25).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/1920px-Rosenheim,_St._Nikolaus_(25).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rosenheim,_St._Nikolaus_(25).jpg/1920px-Rosenheim,_St._Nikolaus_(25).jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/400px-Karlsplatz_Aschaffenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/800px-Karlsplatz_Aschaffenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/1200px-Karlsplatz_Aschaffenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/1920px-Karlsplatz_Aschaffenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Karlsplatz_Aschaffenburg.jpg/1920px-Karlsplatz_Aschaffenburg.jpg
+---
 
 ## Overview
 

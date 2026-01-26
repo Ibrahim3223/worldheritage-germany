@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Undingen_Rathaus_Seite.jpg/400px-Undingen_Rathaus_Seite.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Undingen_Rathaus_Seite.jpg/800px-Undingen_Rathaus_Seite.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Undingen_Rathaus_Seite.jpg/1200px-Undingen_Rathaus_Seite.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Undingen_Rathaus_Seite.jpg/1920px-Undingen_Rathaus_Seite.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Undingen_Rathaus_Seite.jpg/1920px-Undingen_Rathaus_Seite.jpg
+---
 
 ## Overview
 

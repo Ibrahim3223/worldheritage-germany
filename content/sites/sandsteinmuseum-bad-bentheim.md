@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/400px-Kuhlkerl_Bad_Bentheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/800px-Kuhlkerl_Bad_Bentheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/1200px-Kuhlkerl_Bad_Bentheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/1920px-Kuhlkerl_Bad_Bentheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kuhlkerl_Bad_Bentheim.jpg/1920px-Kuhlkerl_Bad_Bentheim.jpg
+---
 
 ## Overview
 

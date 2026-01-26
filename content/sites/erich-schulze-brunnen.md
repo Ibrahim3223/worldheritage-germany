@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/400px-Erich-Schulze-Brunnen_Muenchen_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/800px-Erich-Schulze-Brunnen_Muenchen_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_1.JPG
+---
 
 ## Overview
 

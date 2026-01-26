@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Münster_Geologisch-Paläontologisches_Museum_4650.jpg/400px-Münster_Geologisch-Paläontologisches_Museum_4650.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Münster_Geologisch-Paläontologisches_Museum_4650.jpg/800px-Münster_Geologisch-Paläontologisches_Museum_4650.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Münster_Geologisch-Paläontologisches_Museum_4650.jpg/1200px-Münster_Geologisch-Paläontologisches_Museum_4650.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Münster_Geologisch-Paläontologisches_Museum_4650.jpg/1920px-Münster_Geologisch-Paläontologisches_Museum_4650.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Münster_Geologisch-Paläontologisches_Museum_4650.jpg/1920px-Münster_Geologisch-Paläontologisches_Museum_4650.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/400px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/800px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/1200px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/1920px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg/1920px-Friedrichstadt_Remonstrantenkirche_IMGP0526_wp.jpg
+---
 
 ## Overview
 

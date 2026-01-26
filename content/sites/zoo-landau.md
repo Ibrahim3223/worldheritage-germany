@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/400px-Weißstorch_Zoo_Landau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/800px-Weißstorch_Zoo_Landau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/1200px-Weißstorch_Zoo_Landau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/1920px-Weißstorch_Zoo_Landau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Weißstorch_Zoo_Landau.JPG/1920px-Weißstorch_Zoo_Landau.JPG
+---
 
 ## Overview
 

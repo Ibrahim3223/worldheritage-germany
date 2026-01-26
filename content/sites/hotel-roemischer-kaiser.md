@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/400px-Ellingen_Weißenburger_Straße_15.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/800px-Ellingen_Weißenburger_Straße_15.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/1200px-Ellingen_Weißenburger_Straße_15.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/1920px-Ellingen_Weißenburger_Straße_15.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellingen_Weißenburger_Straße_15.JPG/1920px-Ellingen_Weißenburger_Straße_15.JPG
+---
 
 ## Overview
 

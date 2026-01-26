@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/400px-Friedenfelde_Gutshaus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/800px-Friedenfelde_Gutshaus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/1200px-Friedenfelde_Gutshaus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/1920px-Friedenfelde_Gutshaus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Friedenfelde_Gutshaus.JPG/1920px-Friedenfelde_Gutshaus.JPG
+---
 
 ## Overview
 

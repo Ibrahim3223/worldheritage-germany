@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/400px-Arkona-1860-Knoche-Fock.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/800px-Arkona-1860-Knoche-Fock.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1200px-Arkona-1860-Knoche-Fock.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1920px-Arkona-1860-Knoche-Fock.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1920px-Arkona-1860-Knoche-Fock.png
+---
 
 ## Overview
 

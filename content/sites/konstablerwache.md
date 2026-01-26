@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/400px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/800px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/1200px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/1920px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frankfurt_am_Main_-_Konstablerwache_2014.JPG/1920px-Frankfurt_am_Main_-_Konstablerwache_2014.JPG
+---
 
 ## Overview
 

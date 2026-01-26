@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/400px-Urgeschichtliches_Museum_Blaubeuren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/800px-Urgeschichtliches_Museum_Blaubeuren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/1200px-Urgeschichtliches_Museum_Blaubeuren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/1920px-Urgeschichtliches_Museum_Blaubeuren.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Urgeschichtliches_Museum_Blaubeuren.jpg/1920px-Urgeschichtliches_Museum_Blaubeuren.jpg
+---
 
 ## Overview
 

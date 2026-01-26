@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/400px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/800px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/1200px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/1920px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg/1920px-00_4131_Mahnmal_aus_dem_2._Weltkrieg_in_Hamburg.jpg
+---
 
 ## Overview
 

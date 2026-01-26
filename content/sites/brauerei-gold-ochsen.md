@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/400px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/800px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/1200px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/1920px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/1920px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
+---
 
 ## Overview
 

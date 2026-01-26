@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/400px-Panorama_altmuehltal6.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/800px-Panorama_altmuehltal6.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1200px-Panorama_altmuehltal6.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1920px-Panorama_altmuehltal6.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1920px-Panorama_altmuehltal6.jpg
+---
 
 ## Overview
 

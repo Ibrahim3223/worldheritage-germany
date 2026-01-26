@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/400px-Marienkirche_Büchen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/800px-Marienkirche_Büchen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/1200px-Marienkirche_Büchen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/1920px-Marienkirche_Büchen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marienkirche_Büchen.jpg/1920px-Marienkirche_Büchen.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/400px-Bagger_1452.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/800px-Bagger_1452.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1200px-Bagger_1452.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1920px-Bagger_1452.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1920px-Bagger_1452.jpg
+---
 
 ## Overview
 

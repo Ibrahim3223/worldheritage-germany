@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/400px-Neue-Stadtbuecherei-Augsburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/800px-Neue-Stadtbuecherei-Augsburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/1200px-Neue-Stadtbuecherei-Augsburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/1920px-Neue-Stadtbuecherei-Augsburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Neue-Stadtbuecherei-Augsburg.jpg/1920px-Neue-Stadtbuecherei-Augsburg.jpg
+---
 
 ## Overview
 

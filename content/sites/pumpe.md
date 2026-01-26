@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/400px-Hassstrasse_22-26_Kiel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/800px-Hassstrasse_22-26_Kiel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/1200px-Hassstrasse_22-26_Kiel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/1920px-Hassstrasse_22-26_Kiel.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hassstrasse_22-26_Kiel.jpg/1920px-Hassstrasse_22-26_Kiel.jpg
+---
 
 ## Overview
 

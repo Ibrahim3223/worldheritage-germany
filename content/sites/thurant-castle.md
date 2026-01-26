@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/400px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/800px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/1200px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/1920px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alken,_Burg_Thurant,_2012-08_CN-01.jpg/1920px-Alken,_Burg_Thurant,_2012-08_CN-01.jpg
+---
 
 ## Overview
 

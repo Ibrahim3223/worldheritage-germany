@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/400px-Michaeliskirche2006_01_1a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/800px-Michaeliskirche2006_01_1a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/1200px-Michaeliskirche2006_01_1a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/1920px-Michaeliskirche2006_01_1a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Michaeliskirche2006_01_1a.jpg/1920px-Michaeliskirche2006_01_1a.jpg
+---
 
 ## Overview
 

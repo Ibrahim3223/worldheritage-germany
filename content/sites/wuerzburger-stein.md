@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/400px-Würzburger_Stein.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/800px-Würzburger_Stein.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/1200px-Würzburger_Stein.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/1920px-Würzburger_Stein.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Würzburger_Stein.jpg/1920px-Würzburger_Stein.jpg
+---
 
 ## Overview
 

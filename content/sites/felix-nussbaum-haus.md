@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/400px-FelixNussbaumHaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/800px-FelixNussbaumHaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1200px-FelixNussbaumHaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1920px-FelixNussbaumHaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1920px-FelixNussbaumHaus.jpg
+---
 
 ## Overview
 

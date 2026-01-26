@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/400px-WM-Brunnen1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/800px-WM-Brunnen1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/1200px-WM-Brunnen1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/1920px-WM-Brunnen1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WM-Brunnen1.JPG/1920px-WM-Brunnen1.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/400px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/800px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1200px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1920px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1920px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg
+---
 
 ## Overview
 

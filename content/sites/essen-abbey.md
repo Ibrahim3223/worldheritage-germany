@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/400px-Essen_2011_66-2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/800px-Essen_2011_66-2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1200px-Essen_2011_66-2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1920px-Essen_2011_66-2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1920px-Essen_2011_66-2.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/400px-Hauptstraße_13a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/800px-Hauptstraße_13a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/1200px-Hauptstraße_13a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/1920px-Hauptstraße_13a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hauptstraße_13a.jpg/1920px-Hauptstraße_13a.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/400px-Kloster_Mariensee_IMG_1754.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/800px-Kloster_Mariensee_IMG_1754.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/1200px-Kloster_Mariensee_IMG_1754.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/1920px-Kloster_Mariensee_IMG_1754.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kloster_Mariensee_IMG_1754.jpg/1920px-Kloster_Mariensee_IMG_1754.jpg
+---
 
 ## Overview
 

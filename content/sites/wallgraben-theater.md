@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Freiburg_wallgrabentheater.jpg/400px-Freiburg_wallgrabentheater.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Freiburg_wallgrabentheater.jpg/800px-Freiburg_wallgrabentheater.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Freiburg_wallgrabentheater.jpg/1200px-Freiburg_wallgrabentheater.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Freiburg_wallgrabentheater.jpg/1920px-Freiburg_wallgrabentheater.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Freiburg_wallgrabentheater.jpg/1920px-Freiburg_wallgrabentheater.jpg
+---
 
 ## Overview
 

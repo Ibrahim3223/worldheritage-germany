@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/400px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/800px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/1200px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/1920px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg/1920px-Kaiserschleuse_Ostfeuer_-_Kleiner_Glockenturm_-_Pingelturm_-_Bremerhaven_01.jpg
+---
 
 ## Overview
 

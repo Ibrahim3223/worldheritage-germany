@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/400px-Kemnatenstr._50_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/800px-Kemnatenstr._50_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/1200px-Kemnatenstr._50_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/1920px-Kemnatenstr._50_Muenchen-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kemnatenstr._50_Muenchen-1.jpg/1920px-Kemnatenstr._50_Muenchen-1.jpg
+---
 
 ## Overview
 

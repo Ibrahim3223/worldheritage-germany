@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/400px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/800px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1200px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1920px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg/1920px-2013-08-27_Kreuzkirche,_Kaiserplatz_1,_Bonn_IMG_5242.jpg
+---
 
 ## Overview
 

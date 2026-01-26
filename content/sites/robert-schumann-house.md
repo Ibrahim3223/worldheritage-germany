@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/400px-Zwickau_Robert_Schumann_Birth_House.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/800px-Zwickau_Robert_Schumann_Birth_House.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/1200px-Zwickau_Robert_Schumann_Birth_House.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/1920px-Zwickau_Robert_Schumann_Birth_House.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zwickau_Robert_Schumann_Birth_House.jpg/1920px-Zwickau_Robert_Schumann_Birth_House.jpg
+---
 
 ## Overview
 

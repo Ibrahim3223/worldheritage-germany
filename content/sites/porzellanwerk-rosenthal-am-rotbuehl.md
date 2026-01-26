@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/400px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/800px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/1200px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/1920px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg/1920px-Porzellanwerk_Rosenthal_am_Rotbühl_(Selb)_Portalbau_und_Feierabendbau.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scharzfeld_Einhornhöhle_2.jpg/400px-Scharzfeld_Einhornhöhle_2.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scharzfeld_Einhornhöhle_2.jpg/800px-Scharzfeld_Einhornhöhle_2.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scharzfeld_Einhornhöhle_2.jpg/1200px-Scharzfeld_Einhornhöhle_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scharzfeld_Einhornhöhle_2.jpg/1920px-Scharzfeld_Einhornhöhle_2.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scharzfeld_Einhornhöhle_2.jpg/1920px-Scharzfeld_Einhornhöhle_2.jpg
+---
 
 ## Overview
 

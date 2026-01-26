@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/400px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/800px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/1200px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/1920px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg/1920px-Schöniger_Speer_Berlin_Ausstellung_Bewegte_Zeiten.jpg
+---
 
 ## Overview
 

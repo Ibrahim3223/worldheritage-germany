@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/400px-Panorama_Grüner_See.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/800px-Panorama_Grüner_See.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/1200px-Panorama_Grüner_See.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/1920px-Panorama_Grüner_See.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Panorama_Grüner_See.jpg/1920px-Panorama_Grüner_See.jpg
+---
 
 ## Overview
 

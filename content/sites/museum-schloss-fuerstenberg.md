@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/400px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/800px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/1200px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/1920px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg/1920px-Museum_Schloss_Fürstenberg_Vogelperspektive_(Museum_Schloss_Fürstenberg).jpg
+---
 
 ## Overview
 

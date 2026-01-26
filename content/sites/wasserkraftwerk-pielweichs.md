@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/400px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/800px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/1200px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/1920px-20230211_Wasserkraftwerk_Pielweichs_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20230211_Wasserkraftwerk_Pielweichs_01.jpg/1920px-20230211_Wasserkraftwerk_Pielweichs_01.jpg
+---
 
 ## Overview
 

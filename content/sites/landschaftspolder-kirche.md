@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/400px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/800px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/1200px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/1920px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg/1920px-Bunde_-_Landschaftspolder_-_Friedhof_+_Kirche_08_ies.jpg
+---
 
 ## Overview
 

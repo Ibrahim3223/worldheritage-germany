@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/400px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/800px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/1200px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/1920px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg/1920px-Martinskirche_church_An_der_Martinskirche_Linden-Mitte_Hannover_Germany_02.jpg
+---
 
 ## Overview
 

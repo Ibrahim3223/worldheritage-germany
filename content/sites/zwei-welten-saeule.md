@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gotha-Zwei-Welten-Säule-1.JPG/400px-Gotha-Zwei-Welten-Säule-1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gotha-Zwei-Welten-Säule-1.JPG/800px-Gotha-Zwei-Welten-Säule-1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gotha-Zwei-Welten-Säule-1.JPG/1200px-Gotha-Zwei-Welten-Säule-1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gotha-Zwei-Welten-Säule-1.JPG/1920px-Gotha-Zwei-Welten-Säule-1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gotha-Zwei-Welten-Säule-1.JPG/1920px-Gotha-Zwei-Welten-Säule-1.JPG
+---
 
 ## Overview
 

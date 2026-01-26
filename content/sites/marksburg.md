@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/400px-Marksburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/800px-Marksburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/1200px-Marksburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/1920px-Marksburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marksburg.jpg/1920px-Marksburg.jpg
+---
 
 ## Overview
 

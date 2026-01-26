@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/400px-Berlin_Pankow_Hoffnungskirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/800px-Berlin_Pankow_Hoffnungskirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1200px-Berlin_Pankow_Hoffnungskirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1920px-Berlin_Pankow_Hoffnungskirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1920px-Berlin_Pankow_Hoffnungskirche.jpg
+---
 
 ## Overview
 

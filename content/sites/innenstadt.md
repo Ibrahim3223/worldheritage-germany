@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Goettingen_Marktplatz_Oct06.jpg/400px-Goettingen_Marktplatz_Oct06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Goettingen_Marktplatz_Oct06.jpg/800px-Goettingen_Marktplatz_Oct06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Goettingen_Marktplatz_Oct06.jpg/1200px-Goettingen_Marktplatz_Oct06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Goettingen_Marktplatz_Oct06.jpg/1920px-Goettingen_Marktplatz_Oct06.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Goettingen_Marktplatz_Oct06.jpg/1920px-Goettingen_Marktplatz_Oct06.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Goetz_Collection_Munich_3.jpg/400px-Goetz_Collection_Munich_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Goetz_Collection_Munich_3.jpg/800px-Goetz_Collection_Munich_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Goetz_Collection_Munich_3.jpg/1200px-Goetz_Collection_Munich_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Goetz_Collection_Munich_3.jpg/1920px-Goetz_Collection_Munich_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Goetz_Collection_Munich_3.jpg/1920px-Goetz_Collection_Munich_3.jpg
+---
 
 ## Overview
 

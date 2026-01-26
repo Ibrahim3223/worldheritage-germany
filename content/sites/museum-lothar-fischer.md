@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lothar-Fischer-Museum_005.jpg/400px-Lothar-Fischer-Museum_005.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lothar-Fischer-Museum_005.jpg/800px-Lothar-Fischer-Museum_005.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lothar-Fischer-Museum_005.jpg/1200px-Lothar-Fischer-Museum_005.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lothar-Fischer-Museum_005.jpg/1920px-Lothar-Fischer-Museum_005.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lothar-Fischer-Museum_005.jpg/1920px-Lothar-Fischer-Museum_005.jpg
+---
 
 ## Overview
 

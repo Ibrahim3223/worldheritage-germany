@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/400px-Beiersdorf.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/800px-Beiersdorf.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/1200px-Beiersdorf.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/1920px-Beiersdorf.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Beiersdorf.jpg/1920px-Beiersdorf.jpg
+---
 
 ## Overview
 

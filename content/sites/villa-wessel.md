@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/400px-Iserlohn-VillaWessel1-Asio.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/800px-Iserlohn-VillaWessel1-Asio.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/1200px-Iserlohn-VillaWessel1-Asio.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/1920px-Iserlohn-VillaWessel1-Asio.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iserlohn-VillaWessel1-Asio.JPG/1920px-Iserlohn-VillaWessel1-Asio.JPG
+---
 
 ## Overview
 

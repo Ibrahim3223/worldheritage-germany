@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/400px-Johann_Philipp_Reis.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/800px-Johann_Philipp_Reis.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/1200px-Johann_Philipp_Reis.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/1920px-Johann_Philipp_Reis.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Johann_Philipp_Reis.jpg/1920px-Johann_Philipp_Reis.jpg
+---
 
 ## Overview
 

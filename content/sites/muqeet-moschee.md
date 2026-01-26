@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Muqeet_Moschee.jpg/400px-Muqeet_Moschee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Muqeet_Moschee.jpg/800px-Muqeet_Moschee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Muqeet_Moschee.jpg/1200px-Muqeet_Moschee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Muqeet_Moschee.jpg/1920px-Muqeet_Moschee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Muqeet_Moschee.jpg/1920px-Muqeet_Moschee.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/400px-Sollstedt1.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/800px-Sollstedt1.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/1200px-Sollstedt1.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/1920px-Sollstedt1.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sollstedt1.jpeg/1920px-Sollstedt1.jpeg
+---
 
 ## Overview
 

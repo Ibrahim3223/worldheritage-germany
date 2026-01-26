@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kiehnmoor@02.jpg/400px-Kiehnmoor@02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kiehnmoor@02.jpg/800px-Kiehnmoor@02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kiehnmoor@02.jpg/1200px-Kiehnmoor@02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kiehnmoor@02.jpg/1920px-Kiehnmoor@02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kiehnmoor@02.jpg/1920px-Kiehnmoor@02.jpg
+---
 
 ## Overview
 

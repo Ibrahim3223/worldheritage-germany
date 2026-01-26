@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Quedlinburg_Schlossberg_Feininger.jpg/400px-Quedlinburg_Schlossberg_Feininger.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Quedlinburg_Schlossberg_Feininger.jpg/800px-Quedlinburg_Schlossberg_Feininger.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Quedlinburg_Schlossberg_Feininger.jpg/1200px-Quedlinburg_Schlossberg_Feininger.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Quedlinburg_Schlossberg_Feininger.jpg/1920px-Quedlinburg_Schlossberg_Feininger.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Quedlinburg_Schlossberg_Feininger.jpg/1920px-Quedlinburg_Schlossberg_Feininger.jpg
+---
 
 ## Overview
 

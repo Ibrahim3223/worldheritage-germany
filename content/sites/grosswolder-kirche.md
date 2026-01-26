@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchGrosswolde.jpg/400px-ChurchGrosswolde.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchGrosswolde.jpg/800px-ChurchGrosswolde.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchGrosswolde.jpg/1200px-ChurchGrosswolde.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchGrosswolde.jpg/1920px-ChurchGrosswolde.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ChurchGrosswolde.jpg/1920px-ChurchGrosswolde.jpg
+---
 
 ## Overview
 

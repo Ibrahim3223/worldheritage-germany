@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/17_Kastenbuck_Castle.JPG/400px-17_Kastenbuck_Castle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/17_Kastenbuck_Castle.JPG/800px-17_Kastenbuck_Castle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/17_Kastenbuck_Castle.JPG/1200px-17_Kastenbuck_Castle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/17_Kastenbuck_Castle.JPG/1920px-17_Kastenbuck_Castle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/17_Kastenbuck_Castle.JPG/1920px-17_Kastenbuck_Castle.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ausrüstung_Römer.jpg/400px-Ausrüstung_Römer.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ausrüstung_Römer.jpg/800px-Ausrüstung_Römer.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ausrüstung_Römer.jpg/1200px-Ausrüstung_Römer.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ausrüstung_Römer.jpg/1920px-Ausrüstung_Römer.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ausrüstung_Römer.jpg/1920px-Ausrüstung_Römer.jpg
+---
 
 ## Overview
 

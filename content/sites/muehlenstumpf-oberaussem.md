@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg/400px-Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg/800px-Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg/1200px-Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg/1920px-Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg/1920px-Windmühle_Oberaussem,_(1)_Denkmal-Nr.17,_Bergheim.jpg
+---
 
 ## Overview 
 

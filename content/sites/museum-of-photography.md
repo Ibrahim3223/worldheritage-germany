@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg/400px-Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg/800px-Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg/1200px-Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg/1920px-Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg/1920px-Berlin_Museum_für_Fotografie_asv2024-03_img1.jpg
+---
 
 ## Overview
 

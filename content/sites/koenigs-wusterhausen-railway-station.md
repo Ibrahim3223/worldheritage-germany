@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/400px-Koenigswusterhausen_bahnhof.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/800px-Koenigswusterhausen_bahnhof.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/1200px-Koenigswusterhausen_bahnhof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/1920px-Koenigswusterhausen_bahnhof.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Koenigswusterhausen_bahnhof.JPG/1920px-Koenigswusterhausen_bahnhof.JPG
+---
 
 ## Overview
 

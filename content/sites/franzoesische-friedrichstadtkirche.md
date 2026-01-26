@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/400px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/800px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1200px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1920px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1920px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
+---
 
 ## Overview 
 

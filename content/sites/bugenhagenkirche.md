@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg/400px-Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg/800px-Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg/1200px-Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg/1920px-Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg/1920px-Bugenhagenkirche_Saarstrasse_Suedstadt_Hannover_Germany.jpg
+---
 
 ## Overview
 

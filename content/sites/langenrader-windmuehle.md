@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/400px-Sventana.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/800px-Sventana.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/1200px-Sventana.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/1920px-Sventana.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sventana.jpg/1920px-Sventana.jpg
+---
 
 ## Overview
 

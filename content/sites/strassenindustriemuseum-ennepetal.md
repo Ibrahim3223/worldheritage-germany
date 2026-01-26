@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/400px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/800px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/1200px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/1920px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg/1920px-Ennepetal_Voerde_-_Hagener_Straße_01_ies.jpg
+---
 
 ## Overview
 

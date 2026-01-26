@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/400px-Dresden-Plauen-Auferstehung.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/800px-Dresden-Plauen-Auferstehung.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1200px-Dresden-Plauen-Auferstehung.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1920px-Dresden-Plauen-Auferstehung.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1920px-Dresden-Plauen-Auferstehung.jpg
+---
 
 ## Overview
 

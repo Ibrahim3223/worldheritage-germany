@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/400px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/800px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1200px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1920px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1920px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
+---
 
 ## Overview
 

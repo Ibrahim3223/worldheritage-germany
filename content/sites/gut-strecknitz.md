@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/400px-WP_Gutshaus_Strecknitz.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/800px-WP_Gutshaus_Strecknitz.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/1200px-WP_Gutshaus_Strecknitz.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/1920px-WP_Gutshaus_Strecknitz.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/WP_Gutshaus_Strecknitz.JPG/1920px-WP_Gutshaus_Strecknitz.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/400px-Dollnstein_-_Burgberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/800px-Dollnstein_-_Burgberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/1200px-Dollnstein_-_Burgberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/1920px-Dollnstein_-_Burgberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dollnstein_-_Burgberg.jpg/1920px-Dollnstein_-_Burgberg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/400px-ChurchVöllen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/800px-ChurchVöllen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/1200px-ChurchVöllen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/1920px-ChurchVöllen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ChurchVöllen.JPG/1920px-ChurchVöllen.JPG
+---
 
 ## Overview
 

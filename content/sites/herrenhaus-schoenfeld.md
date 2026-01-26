@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/400px-Schönfeld_Gutshaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/800px-Schönfeld_Gutshaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/1200px-Schönfeld_Gutshaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/1920px-Schönfeld_Gutshaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Schönfeld_Gutshaus.jpg/1920px-Schönfeld_Gutshaus.jpg
+---
 
 ## Overview
 

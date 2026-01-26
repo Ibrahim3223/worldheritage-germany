@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/400px-Hainewalde_-_Gemeindeamt_(01-2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/800px-Hainewalde_-_Gemeindeamt_(01-2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/1200px-Hainewalde_-_Gemeindeamt_(01-2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/1920px-Hainewalde_-_Gemeindeamt_(01-2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hainewalde_-_Gemeindeamt_(01-2).jpg/1920px-Hainewalde_-_Gemeindeamt_(01-2).jpg
+---
 
 ## Overview
 

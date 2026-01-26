@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/400px-Burg_Hahnenkamm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/800px-Burg_Hahnenkamm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/1200px-Burg_Hahnenkamm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/1920px-Burg_Hahnenkamm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Hahnenkamm.jpg/1920px-Burg_Hahnenkamm.jpg
+---
 
 ## Overview
 

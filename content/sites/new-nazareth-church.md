@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/400px-Berlin-wed-neue-nazarethkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/800px-Berlin-wed-neue-nazarethkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1200px-Berlin-wed-neue-nazarethkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1920px-Berlin-wed-neue-nazarethkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-wed-neue-nazarethkirche.jpg/1920px-Berlin-wed-neue-nazarethkirche.jpg
+---
 
 ## Overview
 

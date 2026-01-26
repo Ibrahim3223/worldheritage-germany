@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Domvorhalle_goslar.JPG/400px-Domvorhalle_goslar.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Domvorhalle_goslar.JPG/800px-Domvorhalle_goslar.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Domvorhalle_goslar.JPG/1200px-Domvorhalle_goslar.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Domvorhalle_goslar.JPG/1920px-Domvorhalle_goslar.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Domvorhalle_goslar.JPG/1920px-Domvorhalle_goslar.JPG
+---
 
 ## Overview
 

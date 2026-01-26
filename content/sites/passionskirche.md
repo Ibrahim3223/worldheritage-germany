@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Passionsk-4.JPG/400px-Passionsk-4.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Passionsk-4.JPG/800px-Passionsk-4.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Passionsk-4.JPG/1200px-Passionsk-4.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Passionsk-4.JPG/1920px-Passionsk-4.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Passionsk-4.JPG/1920px-Passionsk-4.JPG
+---
 
 ## Overview
 

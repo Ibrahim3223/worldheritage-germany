@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/400px-MeisenheimSchlosskirche2a.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/800px-MeisenheimSchlosskirche2a.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/1200px-MeisenheimSchlosskirche2a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/1920px-MeisenheimSchlosskirche2a.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MeisenheimSchlosskirche2a.jpg/1920px-MeisenheimSchlosskirche2a.jpg
+---
 
 ## Overview
 

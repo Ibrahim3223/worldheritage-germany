@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/400px-Oppenweher_Moor_NRW,_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/800px-Oppenweher_Moor_NRW,_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/1200px-Oppenweher_Moor_NRW,_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/1920px-Oppenweher_Moor_NRW,_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oppenweher_Moor_NRW,_01.jpg/1920px-Oppenweher_Moor_NRW,_01.jpg
+---
 
 ## Overview
 

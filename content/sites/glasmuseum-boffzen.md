@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/400px-Glasmuseum_Boffzen_Toreinfahrt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/800px-Glasmuseum_Boffzen_Toreinfahrt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/1200px-Glasmuseum_Boffzen_Toreinfahrt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/1920px-Glasmuseum_Boffzen_Toreinfahrt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Glasmuseum_Boffzen_Toreinfahrt.jpg/1920px-Glasmuseum_Boffzen_Toreinfahrt.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/400px-St._Georgen_Bayreuth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/800px-St._Georgen_Bayreuth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1200px-St._Georgen_Bayreuth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1920px-St._Georgen_Bayreuth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._Georgen_Bayreuth.jpg/1920px-St._Georgen_Bayreuth.jpg
+---
 
 ## Overview
 

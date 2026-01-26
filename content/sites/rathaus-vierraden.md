@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/400px-Vierraden,_Rathaus_am_Markt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/800px-Vierraden,_Rathaus_am_Markt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/1200px-Vierraden,_Rathaus_am_Markt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/1920px-Vierraden,_Rathaus_am_Markt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vierraden,_Rathaus_am_Markt.jpg/1920px-Vierraden,_Rathaus_am_Markt.jpg
+---
 
 ## Overview
 

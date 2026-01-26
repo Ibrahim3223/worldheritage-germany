@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/400px-Krempertor.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/800px-Krempertor.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1200px-Krempertor.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1920px-Krempertor.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Krempertor.jpg/1920px-Krempertor.jpg
+---
 
 ## Overview
 

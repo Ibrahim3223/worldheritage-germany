@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/400px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/800px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/1200px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/1920px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kino_Abaton_in_Hamburg-Rotherbaum.jpg/1920px-Kino_Abaton_in_Hamburg-Rotherbaum.jpg
+---
 
 ## Overview
 

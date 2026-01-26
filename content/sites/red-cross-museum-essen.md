@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/400px-Rotkreuz-Museum,_Essen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/800px-Rotkreuz-Museum,_Essen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/1200px-Rotkreuz-Museum,_Essen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/1920px-Rotkreuz-Museum,_Essen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rotkreuz-Museum,_Essen.jpg/1920px-Rotkreuz-Museum,_Essen.jpg
+---
 
 ## Overview
 

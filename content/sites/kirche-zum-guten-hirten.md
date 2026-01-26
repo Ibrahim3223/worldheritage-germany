@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/400px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/800px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/1200px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/1920px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zum_Guten_Hirten_B-Friedenau_06-2017.jpg/1920px-Zum_Guten_Hirten_B-Friedenau_06-2017.jpg
+---
 
 ## Overview
 

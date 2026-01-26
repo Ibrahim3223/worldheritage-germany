@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/400px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/800px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/1200px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/1920px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG/1920px-St._Johannes-Evangelist-Kirche_(Berlin-Steglitz).JPG
+---
 
 ## Overview
 

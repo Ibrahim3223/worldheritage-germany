@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/400px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/800px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/1200px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/1920px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg/1920px-Juist,_Kirche_-Zu_den_heiligen_Schutzengeln-_--_2014_--_3470.jpg
+---
 
 ## Overview
 

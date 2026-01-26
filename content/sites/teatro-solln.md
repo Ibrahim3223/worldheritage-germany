@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/400px-Gaststätte_Iberl.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/800px-Gaststätte_Iberl.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/1200px-Gaststätte_Iberl.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/1920px-Gaststätte_Iberl.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaststätte_Iberl.jpg/1920px-Gaststätte_Iberl.jpg
+---
 
 ## Overview
 

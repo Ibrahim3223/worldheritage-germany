@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/400px-Klostermuseum_Ochsenhausen_2009e.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/800px-Klostermuseum_Ochsenhausen_2009e.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/1200px-Klostermuseum_Ochsenhausen_2009e.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/1920px-Klostermuseum_Ochsenhausen_2009e.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Klostermuseum_Ochsenhausen_2009e.JPG/1920px-Klostermuseum_Ochsenhausen_2009e.JPG
+---
 
 ## Overview
 

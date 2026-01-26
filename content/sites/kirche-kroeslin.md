@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/400px-Kröslin,_Kirche_(2009-10-25).JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/800px-Kröslin,_Kirche_(2009-10-25).JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/1200px-Kröslin,_Kirche_(2009-10-25).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/1920px-Kröslin,_Kirche_(2009-10-25).JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kröslin,_Kirche_(2009-10-25).JPG/1920px-Kröslin,_Kirche_(2009-10-25).JPG
+---
 
 ## Overview
 

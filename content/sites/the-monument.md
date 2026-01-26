@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/400px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/800px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/1200px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg/1920px-Skulptur_Bodestr_1-3_(Mitte)_The_Monument&Atelier_van_Lieshout&2015.jpg
+---
 
 ## Overview
 

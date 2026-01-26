@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/400px-Boxenstop_Tübingen_M26.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/800px-Boxenstop_Tübingen_M26.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/1200px-Boxenstop_Tübingen_M26.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/1920px-Boxenstop_Tübingen_M26.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Boxenstop_Tübingen_M26.JPG/1920px-Boxenstop_Tübingen_M26.JPG
+---
 
 ## Overview
 

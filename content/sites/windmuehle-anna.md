@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/400px-Rieseby_Norby_5264.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/800px-Rieseby_Norby_5264.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/1200px-Rieseby_Norby_5264.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/1920px-Rieseby_Norby_5264.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rieseby_Norby_5264.jpg/1920px-Rieseby_Norby_5264.jpg
+---
 
 ## Overview
 

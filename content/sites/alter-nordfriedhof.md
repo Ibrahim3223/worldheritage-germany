@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/400px-München_Alter_Nordfriedhof_Arkaden.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/800px-München_Alter_Nordfriedhof_Arkaden.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1200px-München_Alter_Nordfriedhof_Arkaden.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1920px-München_Alter_Nordfriedhof_Arkaden.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1920px-München_Alter_Nordfriedhof_Arkaden.jpg
+---
 
 ## Overview
 

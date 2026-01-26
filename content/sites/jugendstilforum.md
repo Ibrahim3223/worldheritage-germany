@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg/400px-Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg/800px-Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg/1200px-Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg/1920px-Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg/1920px-Bad_Nauheim_-_Sprudelhof_-_Badehaus_3_-_Schmuckhof.jpg
+---
 
 ## Overview
 

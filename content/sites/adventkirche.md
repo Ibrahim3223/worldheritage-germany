@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/400px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/800px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/1200px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/1920px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg/1920px-Advent-Zachäus-Kirche_Danziger_Straße_2010-02-08_AMA_fec.jpg
+---
 
 ## Overview
 

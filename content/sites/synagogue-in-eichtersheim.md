@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/400px-Eichtersheim-synagoge.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/800px-Eichtersheim-synagoge.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/1200px-Eichtersheim-synagoge.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/1920px-Eichtersheim-synagoge.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eichtersheim-synagoge.jpg/1920px-Eichtersheim-synagoge.jpg
+---
 
 ## Overview
 

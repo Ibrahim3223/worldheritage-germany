@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/400px-Gendarmenmarkt_2010_11_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/800px-Gendarmenmarkt_2010_11_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/1200px-Gendarmenmarkt_2010_11_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/1920px-Gendarmenmarkt_2010_11_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/1920px-Gendarmenmarkt_2010_11_01.jpg
+---
 
 ## Overview
 

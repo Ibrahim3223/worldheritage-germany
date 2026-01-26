@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/400px-Ahlen_-_Heimatmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/800px-Ahlen_-_Heimatmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/1200px-Ahlen_-_Heimatmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/1920px-Ahlen_-_Heimatmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ahlen_-_Heimatmuseum.jpg/1920px-Ahlen_-_Heimatmuseum.jpg
+---
 
 ## Overview
 

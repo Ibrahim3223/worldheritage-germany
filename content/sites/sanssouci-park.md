@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/400px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/800px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/1200px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/1920px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftbild_Schloss_und_Park_Sanssouci_2022.jpg/1920px-Luftbild_Schloss_und_Park_Sanssouci_2022.jpg
+---
 
 ## Overview
 

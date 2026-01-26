@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/400px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/800px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/1200px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/1920px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG/1920px-Friedland_Neubrandenburger_Tor_2011-01-28_181c.JPG
+---
 
 ## Overview
 

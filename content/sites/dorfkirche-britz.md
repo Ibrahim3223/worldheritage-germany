@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/400px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/800px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1200px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1920px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1920px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
+---
 
 ## Overview
 

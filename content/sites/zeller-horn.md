@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/400px-ZellerHorn.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/800px-ZellerHorn.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/1200px-ZellerHorn.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/1920px-ZellerHorn.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/ZellerHorn.jpg/1920px-ZellerHorn.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/400px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/800px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1200px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
+---
 
 ## Overview
 

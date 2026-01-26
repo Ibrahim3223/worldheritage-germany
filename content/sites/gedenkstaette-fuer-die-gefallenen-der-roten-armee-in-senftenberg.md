@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/400px-Senftenberg_sowjetehrenmal.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/800px-Senftenberg_sowjetehrenmal.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/1200px-Senftenberg_sowjetehrenmal.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/1920px-Senftenberg_sowjetehrenmal.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Senftenberg_sowjetehrenmal.JPG/1920px-Senftenberg_sowjetehrenmal.JPG
+---
 
 ## Overview
 

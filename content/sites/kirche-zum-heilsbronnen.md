@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg/400px-Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg/800px-Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg/1200px-Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg/1920px-Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg/1920px-Im_Hintergrund_Zum_Heilsbronnen,_1980,_Kaltnadel,_19,7x19,5.jpg
+---
 
 ## Overview
 

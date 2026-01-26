@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg/400px-Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg/800px-Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg/1200px-Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg/1920px-Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg/1920px-Duisburg,_Museum_der_Deutschen_Binnenschifffahrt,_2015-04_CN-01.jpg
+---
 
 ## Overview
 

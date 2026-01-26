@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/400px-Clemenskapelle2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/800px-Clemenskapelle2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/1200px-Clemenskapelle2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/1920px-Clemenskapelle2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clemenskapelle2.JPG/1920px-Clemenskapelle2.JPG
+---
 
 ## Overview
 

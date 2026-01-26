@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/400px-Hh-ernst-barlach-haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/800px-Hh-ernst-barlach-haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1200px-Hh-ernst-barlach-haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1920px-Hh-ernst-barlach-haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1920px-Hh-ernst-barlach-haus.jpg
+---
 
 ## Overview
 

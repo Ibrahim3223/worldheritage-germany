@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/400px-Köln-Mülheim_Bf_02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/800px-Köln-Mülheim_Bf_02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/1200px-Köln-Mülheim_Bf_02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/1920px-Köln-Mülheim_Bf_02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Köln-Mülheim_Bf_02.jpg/1920px-Köln-Mülheim_Bf_02.jpg
+---
 
 ## Overview
 

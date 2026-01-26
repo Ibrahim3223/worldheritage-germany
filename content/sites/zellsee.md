@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/400px-Zellsee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/800px-Zellsee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/1200px-Zellsee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/1920px-Zellsee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zellsee.jpg/1920px-Zellsee.jpg
+---
 
 ## Overview
 

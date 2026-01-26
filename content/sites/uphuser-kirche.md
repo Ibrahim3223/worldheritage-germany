@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchUphusen.JPG/400px-ChurchUphusen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchUphusen.JPG/800px-ChurchUphusen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchUphusen.JPG/1200px-ChurchUphusen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchUphusen.JPG/1920px-ChurchUphusen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchUphusen.JPG/1920px-ChurchUphusen.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/400px-Plauen_Weisbachsches_Haus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/800px-Plauen_Weisbachsches_Haus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/1200px-Plauen_Weisbachsches_Haus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/1920px-Plauen_Weisbachsches_Haus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Plauen_Weisbachsches_Haus.jpg/1920px-Plauen_Weisbachsches_Haus.jpg
+---
 
 ## Overview
 

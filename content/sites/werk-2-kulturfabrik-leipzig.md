@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/400px-Leipzig_Werk_II.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/800px-Leipzig_Werk_II.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/1200px-Leipzig_Werk_II.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/1920px-Leipzig_Werk_II.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Leipzig_Werk_II.jpg/1920px-Leipzig_Werk_II.jpg
+---
 
 ## Overview
 

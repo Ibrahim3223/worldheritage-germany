@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/400px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/800px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/1200px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/1920px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/1920px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
+---
 
 ## Overview
 

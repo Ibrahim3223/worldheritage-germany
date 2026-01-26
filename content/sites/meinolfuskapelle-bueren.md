@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meinolfuskapelle_bei_Böddeken.jpg/400px-Meinolfuskapelle_bei_Böddeken.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meinolfuskapelle_bei_Böddeken.jpg/800px-Meinolfuskapelle_bei_Böddeken.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meinolfuskapelle_bei_Böddeken.jpg/1200px-Meinolfuskapelle_bei_Böddeken.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meinolfuskapelle_bei_Böddeken.jpg/1920px-Meinolfuskapelle_bei_Böddeken.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meinolfuskapelle_bei_Böddeken.jpg/1920px-Meinolfuskapelle_bei_Böddeken.jpg
+---
 
 ## Overview
 

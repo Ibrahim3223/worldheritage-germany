@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/400px-Süßen_Interlockings_2021-09.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/800px-Süßen_Interlockings_2021-09.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/1200px-Süßen_Interlockings_2021-09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/1920px-Süßen_Interlockings_2021-09.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Süßen_Interlockings_2021-09.jpg/1920px-Süßen_Interlockings_2021-09.jpg
+---
 
 ## Overview
 

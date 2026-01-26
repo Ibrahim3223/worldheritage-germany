@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/400px-Zoo-neuwied-allee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/800px-Zoo-neuwied-allee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/1200px-Zoo-neuwied-allee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/1920px-Zoo-neuwied-allee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zoo-neuwied-allee.jpg/1920px-Zoo-neuwied-allee.jpg
+---
 
 ## Overview
 

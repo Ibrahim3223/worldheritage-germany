@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/400px-Stendal_Winckelmannmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/800px-Stendal_Winckelmannmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/1200px-Stendal_Winckelmannmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/1920px-Stendal_Winckelmannmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Stendal_Winckelmannmuseum.jpg/1920px-Stendal_Winckelmannmuseum.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/400px-Grenzsteinmuseum.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/800px-Grenzsteinmuseum.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/1200px-Grenzsteinmuseum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/1920px-Grenzsteinmuseum.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Grenzsteinmuseum.JPG/1920px-Grenzsteinmuseum.JPG
+---
 
 ## Overview
 

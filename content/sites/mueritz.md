@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/400px-Müritz_Karte.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/800px-Müritz_Karte.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/1200px-Müritz_Karte.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/1920px-Müritz_Karte.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Müritz_Karte.png/1920px-Müritz_Karte.png
+---
 
 ## Overview
 

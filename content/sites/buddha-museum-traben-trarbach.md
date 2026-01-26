@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/400px-Trarbach_Oberes_Moselufer.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/800px-Trarbach_Oberes_Moselufer.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/1200px-Trarbach_Oberes_Moselufer.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/1920px-Trarbach_Oberes_Moselufer.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Trarbach_Oberes_Moselufer.JPG/1920px-Trarbach_Oberes_Moselufer.JPG
+---
 
 ## Overview
 

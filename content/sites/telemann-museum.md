@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/400px-Telemannmuseum_hamburg1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/800px-Telemannmuseum_hamburg1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/1200px-Telemannmuseum_hamburg1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/1920px-Telemannmuseum_hamburg1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Telemannmuseum_hamburg1.JPG/1920px-Telemannmuseum_hamburg1.JPG
+---
 
 ## Overview
 

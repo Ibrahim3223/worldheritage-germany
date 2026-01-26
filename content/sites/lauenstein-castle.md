@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lauenstein-Burgberg-Merian-Stich-1654.jpg/400px-Lauenstein-Burgberg-Merian-Stich-1654.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lauenstein-Burgberg-Merian-Stich-1654.jpg/800px-Lauenstein-Burgberg-Merian-Stich-1654.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lauenstein-Burgberg-Merian-Stich-1654.jpg/1200px-Lauenstein-Burgberg-Merian-Stich-1654.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lauenstein-Burgberg-Merian-Stich-1654.jpg/1920px-Lauenstein-Burgberg-Merian-Stich-1654.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lauenstein-Burgberg-Merian-Stich-1654.jpg/1920px-Lauenstein-Burgberg-Merian-Stich-1654.jpg
+---
 
 ## Overview
 

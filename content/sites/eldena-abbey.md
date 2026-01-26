@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/400px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/800px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1200px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1920px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1920px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
+---
 
 ## Overview
 

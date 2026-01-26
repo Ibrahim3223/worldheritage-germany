@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/400px-Sedlitzer-See-03.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/800px-Sedlitzer-See-03.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/1200px-Sedlitzer-See-03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/1920px-Sedlitzer-See-03.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sedlitzer-See-03.jpg/1920px-Sedlitzer-See-03.jpg
+---
 
 ## Overview
 

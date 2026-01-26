@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/400px-Paradiesmuehle_Rischenau.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/800px-Paradiesmuehle_Rischenau.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/1200px-Paradiesmuehle_Rischenau.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/1920px-Paradiesmuehle_Rischenau.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paradiesmuehle_Rischenau.JPG/1920px-Paradiesmuehle_Rischenau.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/400px-Rottweil_kapellenkirche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/800px-Rottweil_kapellenkirche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/1200px-Rottweil_kapellenkirche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/1920px-Rottweil_kapellenkirche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rottweil_kapellenkirche.jpg/1920px-Rottweil_kapellenkirche.jpg
+---
 
 ## Overview
 

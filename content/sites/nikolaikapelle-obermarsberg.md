@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/400px-Nikolaikapelle_2011.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/800px-Nikolaikapelle_2011.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/1200px-Nikolaikapelle_2011.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/1920px-Nikolaikapelle_2011.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nikolaikapelle_2011.jpg/1920px-Nikolaikapelle_2011.jpg
+---
 
 ## Overview
 

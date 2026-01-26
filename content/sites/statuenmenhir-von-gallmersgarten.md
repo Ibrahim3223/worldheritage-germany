@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/400px-Menhir_Gallmersgarten_semiprofile.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/800px-Menhir_Gallmersgarten_semiprofile.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/1200px-Menhir_Gallmersgarten_semiprofile.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/1920px-Menhir_Gallmersgarten_semiprofile.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Menhir_Gallmersgarten_semiprofile.jpg/1920px-Menhir_Gallmersgarten_semiprofile.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/400px-Bonn,_Palais_Schaumburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/800px-Bonn,_Palais_Schaumburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/1200px-Bonn,_Palais_Schaumburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/1920px-Bonn,_Palais_Schaumburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bonn,_Palais_Schaumburg.jpg/1920px-Bonn,_Palais_Schaumburg.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/400px-Bueckeburg_Schloss_v_O.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/800px-Bueckeburg_Schloss_v_O.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/1200px-Bueckeburg_Schloss_v_O.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/1920px-Bueckeburg_Schloss_v_O.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bueckeburg_Schloss_v_O.JPG/1920px-Bueckeburg_Schloss_v_O.JPG
+---
 
 ## Overview
 

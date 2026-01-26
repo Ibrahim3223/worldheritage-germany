@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/400px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/800px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1200px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1920px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1920px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
+---
 
 ## Overview
 

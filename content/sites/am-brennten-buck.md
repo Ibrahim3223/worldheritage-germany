@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/400px-Brennten_Buck_2.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/800px-Brennten_Buck_2.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/1200px-Brennten_Buck_2.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/1920px-Brennten_Buck_2.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brennten_Buck_2.JPG/1920px-Brennten_Buck_2.JPG
+---
 
 ## Overview
 

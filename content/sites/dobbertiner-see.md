@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/400px-Dobbertiner_See_und_Kloster.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/800px-Dobbertiner_See_und_Kloster.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1200px-Dobbertiner_See_und_Kloster.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1920px-Dobbertiner_See_und_Kloster.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1920px-Dobbertiner_See_und_Kloster.jpg
+---
 
 ## Overview
 

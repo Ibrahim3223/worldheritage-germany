@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/400px-5981144.Erwin_Quedenfeldt.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/800px-5981144.Erwin_Quedenfeldt.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/1200px-5981144.Erwin_Quedenfeldt.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/1920px-5981144.Erwin_Quedenfeldt.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5981144.Erwin_Quedenfeldt.jpg/1920px-5981144.Erwin_Quedenfeldt.jpg
+---
 
 ## Overview
 

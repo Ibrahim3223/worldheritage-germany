@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/400px-DungeonMiwula.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/800px-DungeonMiwula.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/1200px-DungeonMiwula.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/1920px-DungeonMiwula.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/DungeonMiwula.jpg/1920px-DungeonMiwula.jpg
+---
 
 ## Overview
 

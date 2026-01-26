@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/400px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/800px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/1200px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/1920px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg/1920px-Bad_Harzburg_asv2022-06_img30_Radau-Wasserfall.jpg
+---
 
 ## Overview
 

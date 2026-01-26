@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/400px-Friedenskirche_Dresden_vollst.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/800px-Friedenskirche_Dresden_vollst.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/1200px-Friedenskirche_Dresden_vollst.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/1920px-Friedenskirche_Dresden_vollst.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Dresden_vollst.jpg/1920px-Friedenskirche_Dresden_vollst.jpg
+---
 
 ## Overview
 

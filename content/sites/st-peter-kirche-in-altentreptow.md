@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/400px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/800px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/1200px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/1920px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altentreptow_St.-Peter-Kirche_28-07-2008.jpg/1920px-Altentreptow_St.-Peter-Kirche_28-07-2008.jpg
+---
 
 ## Overview
 

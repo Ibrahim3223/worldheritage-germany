@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/400px-WAK_SCHOENAU_MUSEUM.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/800px-WAK_SCHOENAU_MUSEUM.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/1200px-WAK_SCHOENAU_MUSEUM.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/1920px-WAK_SCHOENAU_MUSEUM.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_SCHOENAU_MUSEUM.jpg/1920px-WAK_SCHOENAU_MUSEUM.jpg
+---
 
 ## Overview
 

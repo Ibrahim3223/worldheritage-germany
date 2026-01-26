@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/400px-Diana-mit-springender-Antilope.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/800px-Diana-mit-springender-Antilope.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/1200px-Diana-mit-springender-Antilope.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/1920px-Diana-mit-springender-Antilope.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Diana-mit-springender-Antilope.JPG/1920px-Diana-mit-springender-Antilope.JPG
+---
 
 ## Overview
 

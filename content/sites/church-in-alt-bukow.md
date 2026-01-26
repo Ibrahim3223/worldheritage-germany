@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/400px-Alt_Bukow_3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/800px-Alt_Bukow_3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1200px-Alt_Bukow_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1920px-Alt_Bukow_3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1920px-Alt_Bukow_3.jpg
+---
 
 ## Overview
 

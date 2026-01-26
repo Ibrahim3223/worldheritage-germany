@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/400px-Warnfried-Kirche_Seitenansicht.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/800px-Warnfried-Kirche_Seitenansicht.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/1200px-Warnfried-Kirche_Seitenansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/1920px-Warnfried-Kirche_Seitenansicht.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Warnfried-Kirche_Seitenansicht.JPG/1920px-Warnfried-Kirche_Seitenansicht.JPG
+---
 
 ## Overview
 

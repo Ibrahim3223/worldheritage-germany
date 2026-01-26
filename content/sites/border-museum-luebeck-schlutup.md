@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/400px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/800px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/1200px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/1920px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg/1920px-Grenzdokumentations-Stätte_Lübeck-Schlutup_-_panoramio.jpg
+---
 
 ## Overview
 

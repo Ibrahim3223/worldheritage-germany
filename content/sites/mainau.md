@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/400px-Insel_Mainau_im_Bodensee.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/800px-Insel_Mainau_im_Bodensee.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/1200px-Insel_Mainau_im_Bodensee.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/1920px-Insel_Mainau_im_Bodensee.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Insel_Mainau_im_Bodensee.jpg/1920px-Insel_Mainau_im_Bodensee.jpg
+---
 
 ## Overview
 

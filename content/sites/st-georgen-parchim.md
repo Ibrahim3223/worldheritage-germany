@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parchim_St.-Georgen-Kirche_2008-04-15.jpg/400px-Parchim_St.-Georgen-Kirche_2008-04-15.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parchim_St.-Georgen-Kirche_2008-04-15.jpg/800px-Parchim_St.-Georgen-Kirche_2008-04-15.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parchim_St.-Georgen-Kirche_2008-04-15.jpg/1200px-Parchim_St.-Georgen-Kirche_2008-04-15.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parchim_St.-Georgen-Kirche_2008-04-15.jpg/1920px-Parchim_St.-Georgen-Kirche_2008-04-15.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Parchim_St.-Georgen-Kirche_2008-04-15.jpg/1920px-Parchim_St.-Georgen-Kirche_2008-04-15.jpg
+---
 
 ## Overview
 

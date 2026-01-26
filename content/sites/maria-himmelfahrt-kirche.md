@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schönau_-_Mariä_Himmelfahrt3.jpg/400px-Schönau_-_Mariä_Himmelfahrt3.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schönau_-_Mariä_Himmelfahrt3.jpg/800px-Schönau_-_Mariä_Himmelfahrt3.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schönau_-_Mariä_Himmelfahrt3.jpg/1200px-Schönau_-_Mariä_Himmelfahrt3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schönau_-_Mariä_Himmelfahrt3.jpg/1920px-Schönau_-_Mariä_Himmelfahrt3.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schönau_-_Mariä_Himmelfahrt3.jpg/1920px-Schönau_-_Mariä_Himmelfahrt3.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/400px-Darnsee_Bramsche.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/800px-Darnsee_Bramsche.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/1200px-Darnsee_Bramsche.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/1920px-Darnsee_Bramsche.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Darnsee_Bramsche.jpg/1920px-Darnsee_Bramsche.jpg
+---
 
 ## Overview
 

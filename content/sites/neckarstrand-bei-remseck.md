@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/400px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/800px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/1200px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/1920px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Neckarstrand-in-Remseck_2020_MTh_7842.JPG/1920px-Neckarstrand-in-Remseck_2020_MTh_7842.JPG
+---
 
 ## Overview
 

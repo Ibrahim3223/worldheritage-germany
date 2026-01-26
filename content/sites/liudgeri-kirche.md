@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Holtgaste.jpg/400px-Kirche_Holtgaste.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Holtgaste.jpg/800px-Kirche_Holtgaste.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Holtgaste.jpg/1200px-Kirche_Holtgaste.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Holtgaste.jpg/1920px-Kirche_Holtgaste.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_Holtgaste.jpg/1920px-Kirche_Holtgaste.jpg
+---
 
 ## Overview
 

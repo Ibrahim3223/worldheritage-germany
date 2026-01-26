@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/400px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/800px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/1200px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/1920px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg/1920px-St.-Nicolai-Kirche_in_Altenhagen_(Hagenburg)_IMG_7877.jpg
+---
 
 ## Overview
 

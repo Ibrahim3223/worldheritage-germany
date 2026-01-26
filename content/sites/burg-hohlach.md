@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/400px-Hohlach_55_Simmershofen_20210327_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/800px-Hohlach_55_Simmershofen_20210327_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/1200px-Hohlach_55_Simmershofen_20210327_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/1920px-Hohlach_55_Simmershofen_20210327_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hohlach_55_Simmershofen_20210327_001.jpg/1920px-Hohlach_55_Simmershofen_20210327_001.jpg
+---
 
 ## Overview
 

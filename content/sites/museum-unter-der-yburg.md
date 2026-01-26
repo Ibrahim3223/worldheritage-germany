@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/400px-Museum-unter-der-yburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/800px-Museum-unter-der-yburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/1200px-Museum-unter-der-yburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/1920px-Museum-unter-der-yburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museum-unter-der-yburg.jpg/1920px-Museum-unter-der-yburg.jpg
+---
 
 ## Overview
 

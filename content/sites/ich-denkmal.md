@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/400px-Ich_denkmal.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/800px-Ich_denkmal.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/1200px-Ich_denkmal.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/1920px-Ich_denkmal.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ich_denkmal.jpg/1920px-Ich_denkmal.jpg
+---
 
 ## Overview
 

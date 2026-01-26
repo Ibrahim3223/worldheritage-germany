@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/400px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/800px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1200px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1920px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1920px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
+---
 
 ## Overview
 

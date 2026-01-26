@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/400px-Dorfkirche_Hanstorf_Nordostansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/800px-Dorfkirche_Hanstorf_Nordostansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/1200px-Dorfkirche_Hanstorf_Nordostansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/1920px-Dorfkirche_Hanstorf_Nordostansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanstorf_Nordostansicht.jpg/1920px-Dorfkirche_Hanstorf_Nordostansicht.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/400px-Lotenberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/800px-Lotenberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/1200px-Lotenberg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/1920px-Lotenberg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lotenberg.jpg/1920px-Lotenberg.jpg
+---
 
 ## Overview
 

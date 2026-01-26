@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/400px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/800px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/1200px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/1920px-Rain_am_Lech,_Kirchplatz_7,_001.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rain_am_Lech,_Kirchplatz_7,_001.jpg/1920px-Rain_am_Lech,_Kirchplatz_7,_001.jpg
+---
 
 ## Overview
 

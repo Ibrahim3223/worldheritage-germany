@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/400px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/800px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/1200px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/1920px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wollwarenfabriken_Marienthal_alte_Gebäude.jpg/1920px-Wollwarenfabriken_Marienthal_alte_Gebäude.jpg
+---
 
 ## Overview
 

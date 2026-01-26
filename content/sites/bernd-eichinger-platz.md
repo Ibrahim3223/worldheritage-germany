@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/400px-Bernd-Eichinger-Platz_Muenchen-1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/800px-Bernd-Eichinger-Platz_Muenchen-1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/1200px-Bernd-Eichinger-Platz_Muenchen-1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/1920px-Bernd-Eichinger-Platz_Muenchen-1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bernd-Eichinger-Platz_Muenchen-1.jpg/1920px-Bernd-Eichinger-Platz_Muenchen-1.jpg
+---
 
 ## Overview
 

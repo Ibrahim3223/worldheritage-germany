@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/400px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/800px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/1200px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
+---
 
 ## Overview
 

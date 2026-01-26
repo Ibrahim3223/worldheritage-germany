@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/400px-ChurchLeerChristus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/800px-ChurchLeerChristus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1200px-ChurchLeerChristus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1920px-ChurchLeerChristus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1920px-ChurchLeerChristus.JPG
+---
 
 ## Overview
 

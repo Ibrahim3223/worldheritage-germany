@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/400px-Backoefele_Schneeberg_1.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/800px-Backoefele_Schneeberg_1.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/1200px-Backoefele_Schneeberg_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/1920px-Backoefele_Schneeberg_1.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Backoefele_Schneeberg_1.JPG/1920px-Backoefele_Schneeberg_1.JPG
+---
 
 ## Overview
 

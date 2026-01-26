@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/400px-Werkingstr._Grottenbrunnen.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/800px-Werkingstr._Grottenbrunnen.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/1200px-Werkingstr._Grottenbrunnen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/1920px-Werkingstr._Grottenbrunnen.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Werkingstr._Grottenbrunnen.JPG/1920px-Werkingstr._Grottenbrunnen.JPG
+---
 
 ## Overview
 

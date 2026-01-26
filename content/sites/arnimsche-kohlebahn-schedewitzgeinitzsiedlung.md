@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/400px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/800px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/1200px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/1920px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg/1920px-Von_Arnim'sche_Kohlenbahn_Durchlass_Planitzbach_1.jpg
+---
 
 ## Overview
 

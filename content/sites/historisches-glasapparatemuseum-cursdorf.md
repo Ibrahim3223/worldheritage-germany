@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/400px-Cursdorf-02.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/800px-Cursdorf-02.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/1200px-Cursdorf-02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/1920px-Cursdorf-02.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cursdorf-02.jpg/1920px-Cursdorf-02.jpg
+---
 
 ## Overview
 

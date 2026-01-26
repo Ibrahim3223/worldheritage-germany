@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bf-d-volksgarten.jpg/400px-Bf-d-volksgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bf-d-volksgarten.jpg/800px-Bf-d-volksgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bf-d-volksgarten.jpg/1200px-Bf-d-volksgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bf-d-volksgarten.jpg/1920px-Bf-d-volksgarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bf-d-volksgarten.jpg/1920px-Bf-d-volksgarten.jpg
+---
 
 ## Overview
 

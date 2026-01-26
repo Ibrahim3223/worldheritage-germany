@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/400px-Ziegenhelle_von_Nordosten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/800px-Ziegenhelle_von_Nordosten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/1200px-Ziegenhelle_von_Nordosten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/1920px-Ziegenhelle_von_Nordosten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ziegenhelle_von_Nordosten.jpg/1920px-Ziegenhelle_von_Nordosten.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/400px-Nordkirchen-Kapelle-0003.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/800px-Nordkirchen-Kapelle-0003.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1200px-Nordkirchen-Kapelle-0003.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1920px-Nordkirchen-Kapelle-0003.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1920px-Nordkirchen-Kapelle-0003.JPG
+---
 
 ## Overview
 

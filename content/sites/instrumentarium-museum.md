@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/400px-Nothweiler_Hauptstr20.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/800px-Nothweiler_Hauptstr20.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/1200px-Nothweiler_Hauptstr20.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/1920px-Nothweiler_Hauptstr20.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nothweiler_Hauptstr20.jpg/1920px-Nothweiler_Hauptstr20.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Herne_Mondpalast_Autostitch.jpg/400px-Herne_Mondpalast_Autostitch.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Herne_Mondpalast_Autostitch.jpg/800px-Herne_Mondpalast_Autostitch.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Herne_Mondpalast_Autostitch.jpg/1200px-Herne_Mondpalast_Autostitch.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Herne_Mondpalast_Autostitch.jpg/1920px-Herne_Mondpalast_Autostitch.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Herne_Mondpalast_Autostitch.jpg/1920px-Herne_Mondpalast_Autostitch.jpg
+---
 
 ## Overview
 

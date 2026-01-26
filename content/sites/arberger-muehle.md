@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/400px-Arberger_Windmühle_(2012).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/800px-Arberger_Windmühle_(2012).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/1200px-Arberger_Windmühle_(2012).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/1920px-Arberger_Windmühle_(2012).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Arberger_Windmühle_(2012).jpg/1920px-Arberger_Windmühle_(2012).jpg
+---
 
 ## Overview
 

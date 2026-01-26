@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Keramik-Museum_Berlin.jpg/400px-Keramik-Museum_Berlin.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Keramik-Museum_Berlin.jpg/800px-Keramik-Museum_Berlin.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Keramik-Museum_Berlin.jpg/1200px-Keramik-Museum_Berlin.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Keramik-Museum_Berlin.jpg/1920px-Keramik-Museum_Berlin.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Keramik-Museum_Berlin.jpg/1920px-Keramik-Museum_Berlin.jpg
+---
 
 ## Overview
 

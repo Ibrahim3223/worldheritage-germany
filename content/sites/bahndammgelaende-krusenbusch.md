@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/400px-Bahndammgelände_Krusenbusch_-_07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/800px-Bahndammgelände_Krusenbusch_-_07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/1200px-Bahndammgelände_Krusenbusch_-_07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/1920px-Bahndammgelände_Krusenbusch_-_07.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bahndammgelände_Krusenbusch_-_07.JPG/1920px-Bahndammgelände_Krusenbusch_-_07.JPG
+---
 
 ## Overview
 

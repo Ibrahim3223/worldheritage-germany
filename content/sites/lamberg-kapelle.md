@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/400px-Fresko_Lamberg-Kapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/800px-Fresko_Lamberg-Kapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/1200px-Fresko_Lamberg-Kapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/1920px-Fresko_Lamberg-Kapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fresko_Lamberg-Kapelle.JPG/1920px-Fresko_Lamberg-Kapelle.JPG
+---
 
 ## Overview
 

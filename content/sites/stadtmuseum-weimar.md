@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/400px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/800px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/1200px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/1920px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stadtmuseum_Weimar_im_Bertuchhaus.jpg/1920px-Stadtmuseum_Weimar_im_Bertuchhaus.jpg
+---
 
 ## Overview
 

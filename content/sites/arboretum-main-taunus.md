@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/400px-HainbucheArboretumMTK.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/800px-HainbucheArboretumMTK.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1200px-HainbucheArboretumMTK.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1920px-HainbucheArboretumMTK.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1920px-HainbucheArboretumMTK.jpg
+---
 
 ## Overview
 

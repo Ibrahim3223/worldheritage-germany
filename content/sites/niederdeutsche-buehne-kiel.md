@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/400px-Klubhaus_des_Westens.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/800px-Klubhaus_des_Westens.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/1200px-Klubhaus_des_Westens.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/1920px-Klubhaus_des_Westens.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Klubhaus_des_Westens.jpg/1920px-Klubhaus_des_Westens.jpg
+---
 
 ## Overview
 

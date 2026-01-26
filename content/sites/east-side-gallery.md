@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/400px-Berlin_Wall6270.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/800px-Berlin_Wall6270.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/1200px-Berlin_Wall6270.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/1920px-Berlin_Wall6270.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/1920px-Berlin_Wall6270.JPG
+---
 
 ## Overview
 

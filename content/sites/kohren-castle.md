@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Kohren.jpg/400px-Burg_Kohren.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Kohren.jpg/800px-Burg_Kohren.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Kohren.jpg/1200px-Burg_Kohren.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Kohren.jpg/1920px-Burg_Kohren.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Kohren.jpg/1920px-Burg_Kohren.jpg
+---
 
 ## Overview
 

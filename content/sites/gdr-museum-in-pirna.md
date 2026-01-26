@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/400px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/800px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/1200px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/1920px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DDR-Museum_Pirna_Eingang_2015-01-17.JPG/1920px-DDR-Museum_Pirna_Eingang_2015-01-17.JPG
+---
 
 ## Overview
 

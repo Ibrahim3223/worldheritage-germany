@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/400px-Haar_BKH_Jesuskirche.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/800px-Haar_BKH_Jesuskirche.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/1200px-Haar_BKH_Jesuskirche.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/1920px-Haar_BKH_Jesuskirche.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haar_BKH_Jesuskirche.JPG/1920px-Haar_BKH_Jesuskirche.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/400px-Brauereimuseum_Altenburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/800px-Brauereimuseum_Altenburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/1200px-Brauereimuseum_Altenburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/1920px-Brauereimuseum_Altenburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Brauereimuseum_Altenburg.jpg/1920px-Brauereimuseum_Altenburg.jpg
+---
 
 ## Overview
 

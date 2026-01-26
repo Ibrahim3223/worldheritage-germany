@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/400px-Tabakmuseum.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/800px-Tabakmuseum.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/1200px-Tabakmuseum.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/1920px-Tabakmuseum.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tabakmuseum.jpg/1920px-Tabakmuseum.jpg
+---
 
 ## Overview
 

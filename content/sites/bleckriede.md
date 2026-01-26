@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/400px-Bleckriede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/800px-Bleckriede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/1200px-Bleckriede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/1920px-Bleckriede.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bleckriede.jpg/1920px-Bleckriede.jpg
+---
 
 ## Overview
 

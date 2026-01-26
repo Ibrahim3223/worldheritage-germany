@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/400px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/800px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/1200px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/1920px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg/1920px-Capitol_Theater_in_Duesseldorf-Flingern-Sued,_von_Suedwesten.jpg
+---
 
 ## Overview
 

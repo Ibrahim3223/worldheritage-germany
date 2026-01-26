@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/400px-Hannover_St._Joseph.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/800px-Hannover_St._Joseph.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/1200px-Hannover_St._Joseph.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/1920px-Hannover_St._Joseph.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hannover_St._Joseph.jpg/1920px-Hannover_St._Joseph.jpg
+---
 
 ## Overview
 

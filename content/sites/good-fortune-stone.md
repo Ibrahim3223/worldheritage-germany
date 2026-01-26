@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/400px-Goethes_Gartenhaus_in_Weimar_10.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/800px-Goethes_Gartenhaus_in_Weimar_10.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/1200px-Goethes_Gartenhaus_in_Weimar_10.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/1920px-Goethes_Gartenhaus_in_Weimar_10.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Goethes_Gartenhaus_in_Weimar_10.JPG/1920px-Goethes_Gartenhaus_in_Weimar_10.JPG
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/400px-Krippenmuseum_Oberstadion.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/800px-Krippenmuseum_Oberstadion.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/1200px-Krippenmuseum_Oberstadion.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/1920px-Krippenmuseum_Oberstadion.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Krippenmuseum_Oberstadion.jpg/1920px-Krippenmuseum_Oberstadion.jpg
+---
 
 ## Overview
 

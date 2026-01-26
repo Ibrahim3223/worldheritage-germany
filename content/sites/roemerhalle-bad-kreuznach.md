@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/400px-Roemerhalle_Kreuznach_Aussenansicht.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/800px-Roemerhalle_Kreuznach_Aussenansicht.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/1200px-Roemerhalle_Kreuznach_Aussenansicht.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/1920px-Roemerhalle_Kreuznach_Aussenansicht.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roemerhalle_Kreuznach_Aussenansicht.jpg/1920px-Roemerhalle_Kreuznach_Aussenansicht.jpg
+---
 
 ## Overview
 

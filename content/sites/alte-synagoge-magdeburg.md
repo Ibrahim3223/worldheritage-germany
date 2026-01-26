@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/400px-Alte_Synagoge_Magdeburg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/800px-Alte_Synagoge_Magdeburg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1200px-Alte_Synagoge_Magdeburg.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1920px-Alte_Synagoge_Magdeburg.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1920px-Alte_Synagoge_Magdeburg.jpg
+---
 
 ## Overview
 

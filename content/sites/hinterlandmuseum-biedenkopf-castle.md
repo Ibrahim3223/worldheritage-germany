@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg/400px-2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg/800px-2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg/1200px-2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg/1920px-2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg/1920px-2007-05-19_Grenzgangs-Zimmer_im_Hinterlandmuseum_IMG_8167.jpg
+---
 
 ## Overview
 

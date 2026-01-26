@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/400px-BurgwallKlempenow.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/800px-BurgwallKlempenow.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/1200px-BurgwallKlempenow.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/1920px-BurgwallKlempenow.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/BurgwallKlempenow.jpg/1920px-BurgwallKlempenow.jpg
+---
 
 ## Overview 
 

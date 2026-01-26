@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/400px-Dorfkirche_Kaulsdorf_05.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/800px-Dorfkirche_Kaulsdorf_05.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/1200px-Dorfkirche_Kaulsdorf_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/1920px-Dorfkirche_Kaulsdorf_05.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dorfkirche_Kaulsdorf_05.jpg/1920px-Dorfkirche_Kaulsdorf_05.jpg
+---
 
 ## Overview
 

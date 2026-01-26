@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG/400px-Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG/800px-Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG/1200px-Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG/1920px-Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG/1920px-Am_alten_Friedhof_(Berlin-Altglienicke)_Kapelle.JPG
+---
 
 ## Overview
 

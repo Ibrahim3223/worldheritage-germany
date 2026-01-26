@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/400px-Grabmal_Götte,_Friedhof_Segeroth.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/800px-Grabmal_Götte,_Friedhof_Segeroth.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1200px-Grabmal_Götte,_Friedhof_Segeroth.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1920px-Grabmal_Götte,_Friedhof_Segeroth.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1920px-Grabmal_Götte,_Friedhof_Segeroth.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/400px-Alte_Burg_Einoed.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/800px-Alte_Burg_Einoed.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/1200px-Alte_Burg_Einoed.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/1920px-Alte_Burg_Einoed.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Alte_Burg_Einoed.png/1920px-Alte_Burg_Einoed.png
+---
 
 ## Overview
 

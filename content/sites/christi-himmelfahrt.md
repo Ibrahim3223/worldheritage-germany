@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/400px-Freising,_Himmelfahrtskirche,_17.jpeg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/800px-Freising,_Himmelfahrtskirche,_17.jpeg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/1200px-Freising,_Himmelfahrtskirche,_17.jpeg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/1920px-Freising,_Himmelfahrtskirche,_17.jpeg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freising,_Himmelfahrtskirche,_17.jpeg/1920px-Freising,_Himmelfahrtskirche,_17.jpeg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/400px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/800px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/1200px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/1920px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg/1920px-Talsperre_Hohenwarthe_im_Oktober_-_panoramio.jpg
+---
 
 ## Overview
 

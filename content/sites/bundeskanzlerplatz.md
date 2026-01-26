@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg/400px-Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg/800px-Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg/1200px-Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg/1920px-Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg/1920px-Bundesarchiv_B_145_Bild-F025359-0009,_Bonn,_Blick_vom_Hochhaus_im_Tulpenfeld.jpg
+---
 
 ## Overview
 

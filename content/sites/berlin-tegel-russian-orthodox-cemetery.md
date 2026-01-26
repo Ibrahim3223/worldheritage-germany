@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/400px-Russfriedhoftegel06.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/800px-Russfriedhoftegel06.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1200px-Russfriedhoftegel06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1920px-Russfriedhoftegel06.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1920px-Russfriedhoftegel06.jpg
+---
 
 ## Overview
 

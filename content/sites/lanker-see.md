@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/400px-Lanker_See_(Suedteil).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/800px-Lanker_See_(Suedteil).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/1200px-Lanker_See_(Suedteil).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/1920px-Lanker_See_(Suedteil).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lanker_See_(Suedteil).jpg/1920px-Lanker_See_(Suedteil).jpg
+---
 
 ## Overview
 

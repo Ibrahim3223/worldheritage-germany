@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/400px-Unterstadt_1_in_Lich_(2).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/800px-Unterstadt_1_in_Lich_(2).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/1200px-Unterstadt_1_in_Lich_(2).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/1920px-Unterstadt_1_in_Lich_(2).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Unterstadt_1_in_Lich_(2).jpg/1920px-Unterstadt_1_in_Lich_(2).jpg
+---
 
 ## Overview
 

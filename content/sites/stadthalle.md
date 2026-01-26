@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/400px-Bonn_Stadthalle_Gronau_1915.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/800px-Bonn_Stadthalle_Gronau_1915.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/1200px-Bonn_Stadthalle_Gronau_1915.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/1920px-Bonn_Stadthalle_Gronau_1915.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bonn_Stadthalle_Gronau_1915.jpg/1920px-Bonn_Stadthalle_Gronau_1915.jpg
+---
 
 ## Overview
 

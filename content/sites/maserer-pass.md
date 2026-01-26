@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Maserer_Pass.jpg/400px-Maserer_Pass.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Maserer_Pass.jpg/800px-Maserer_Pass.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Maserer_Pass.jpg/1200px-Maserer_Pass.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Maserer_Pass.jpg/1920px-Maserer_Pass.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Maserer_Pass.jpg/1920px-Maserer_Pass.jpg
+---
 
 ## Overview
 

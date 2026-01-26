@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/400px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/800px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/1200px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/1920px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg/1920px-Museum_Elbinsel_Wilhelmsburg_(1)_Tafel_HPA.jpg
+---
 
 ## Overview
 

@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/400px-Golchen_Kirche_Nord.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/800px-Golchen_Kirche_Nord.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/1200px-Golchen_Kirche_Nord.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/1920px-Golchen_Kirche_Nord.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Golchen_Kirche_Nord.jpg/1920px-Golchen_Kirche_Nord.jpg
+---
 
 ## Overview
 

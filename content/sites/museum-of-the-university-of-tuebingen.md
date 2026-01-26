@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MUT_Tübingen_07.JPG/400px-MUT_Tübingen_07.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MUT_Tübingen_07.JPG/800px-MUT_Tübingen_07.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MUT_Tübingen_07.JPG/1200px-MUT_Tübingen_07.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MUT_Tübingen_07.JPG/1920px-MUT_Tübingen_07.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MUT_Tübingen_07.JPG/1920px-MUT_Tübingen_07.JPG
+---
 
 ## Overview
 

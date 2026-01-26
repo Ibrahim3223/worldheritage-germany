@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/400px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/800px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/1200px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/1920px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prinz-Georgs-Palais_(Darmstadt)_01.JPG/1920px-Prinz-Georgs-Palais_(Darmstadt)_01.JPG
+---
 
 ## Overview
 

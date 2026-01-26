@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/400px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/800px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1200px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1920px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1920px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
+---
 
 ## Overview
 

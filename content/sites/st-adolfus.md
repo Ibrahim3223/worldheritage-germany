@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/400px-Duesseldorf_St_Adolfus.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/800px-Duesseldorf_St_Adolfus.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/1200px-Duesseldorf_St_Adolfus.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/1920px-Duesseldorf_St_Adolfus.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Duesseldorf_St_Adolfus.JPG/1920px-Duesseldorf_St_Adolfus.JPG
+---
 
 ## Overview
 

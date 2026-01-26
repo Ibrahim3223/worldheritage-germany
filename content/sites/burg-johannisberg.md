@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Johannisberg_011.JPG/400px-Johannisberg_011.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Johannisberg_011.JPG/800px-Johannisberg_011.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Johannisberg_011.JPG/1200px-Johannisberg_011.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Johannisberg_011.JPG/1920px-Johannisberg_011.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Johannisberg_011.JPG/1920px-Johannisberg_011.JPG
+---
 
 ## Overview
 

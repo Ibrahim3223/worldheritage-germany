@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/400px-ChurchRoggenstede.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/800px-ChurchRoggenstede.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/1200px-ChurchRoggenstede.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/1920px-ChurchRoggenstede.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ChurchRoggenstede.jpg/1920px-ChurchRoggenstede.jpg
+---
 
 ## Overview
 

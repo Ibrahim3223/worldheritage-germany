@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/400px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/800px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/1200px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/1920px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg/1920px-Aschaffenburg_dum_printempo_Schönborner_Hof_1.jpg
+---
 
 ## Overview
 

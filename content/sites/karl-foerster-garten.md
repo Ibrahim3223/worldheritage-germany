@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/400px-Bornim,_Senkgarten.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/800px-Bornim,_Senkgarten.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/1200px-Bornim,_Senkgarten.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/1920px-Bornim,_Senkgarten.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bornim,_Senkgarten.jpg/1920px-Bornim,_Senkgarten.jpg
+---
 
 ## Overview
 

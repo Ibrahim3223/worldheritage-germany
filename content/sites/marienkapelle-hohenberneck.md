@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/400px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/800px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/1200px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/1920px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg/1920px-Ansicht_der_Marienkapelle_in_Bad_Berneck_von_Aussen.jpg
+---
 
 ## Overview
 

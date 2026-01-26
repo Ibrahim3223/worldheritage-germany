@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/400px-CP_Kalltalsperre.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/800px-CP_Kalltalsperre.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/1200px-CP_Kalltalsperre.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/1920px-CP_Kalltalsperre.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CP_Kalltalsperre.jpg/1920px-CP_Kalltalsperre.jpg
+---
 
 ## Overview
 

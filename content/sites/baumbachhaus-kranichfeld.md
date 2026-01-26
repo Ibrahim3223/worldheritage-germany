@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/400px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/800px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1200px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1920px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1920px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
+---
 
 ## Overview
 

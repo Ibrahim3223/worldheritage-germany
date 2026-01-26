@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/400px-Brandberge-Herbst.JPG
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/800px-Brandberge-Herbst.JPG
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1200px-Brandberge-Herbst.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1920px-Brandberge-Herbst.JPG---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1920px-Brandberge-Herbst.JPG
+---
 
 ## Overview
 

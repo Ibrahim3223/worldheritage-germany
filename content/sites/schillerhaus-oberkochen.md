@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/400px-Oberkochen_Schillerhaus.png
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/800px-Oberkochen_Schillerhaus.png
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/1200px-Oberkochen_Schillerhaus.png
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/1920px-Oberkochen_Schillerhaus.png---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Oberkochen_Schillerhaus.png/1920px-Oberkochen_Schillerhaus.png
+---
 
 ## Overview
 

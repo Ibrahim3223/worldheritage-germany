@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/400px-Essen-Rellinghausen_Bluecherturm.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/800px-Essen-Rellinghausen_Bluecherturm.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/1200px-Essen-Rellinghausen_Bluecherturm.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/1920px-Essen-Rellinghausen_Bluecherturm.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen-Rellinghausen_Bluecherturm.jpg/1920px-Essen-Rellinghausen_Bluecherturm.jpg
+---
 
 ## Overview
 

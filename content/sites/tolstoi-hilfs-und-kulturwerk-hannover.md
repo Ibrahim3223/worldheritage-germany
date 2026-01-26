@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/400px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/800px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/1200px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/1920px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg/1920px-Roeselerstraße_1_in_Hannover,_Tolstoi_Hilfs-_und_Kulturwerk_Hannover_e.V..jpg
+---
 
 ## Overview
 

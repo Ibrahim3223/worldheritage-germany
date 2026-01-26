@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/400px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/800px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/1200px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/1920px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg/1920px-Bundesarchiv_Bild_170-304,_Potsdam,_Straßen-Plätze.jpg
+---
 
 ## Overview
 

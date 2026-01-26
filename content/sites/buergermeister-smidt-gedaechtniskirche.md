@@ -21,7 +21,8 @@ image_srcset:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/400px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/800px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1200px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1920px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg---
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1920px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
+---
 
 ## Overview
 
