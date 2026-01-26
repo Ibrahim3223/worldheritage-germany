@@ -1,116 +1,105 @@
 ---
 title: "St. Anton (Passau)"
 site_name: "St. Anton (Passau)"
-slug: "st-anton-passau"
-region: "Bavaria"
-
-# Location
-latitude: 48.569178
-longitude: 13.4428019444444
-regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+date: 2026-01-26
+draft: false
+description: "church"
+region: "Passau"
+country: "Germany"
+heritage_type: "Church Building"
 categories:
-  - "cultural site"
+  - "Church Building"
+regions:
+  - "Passau"
 wikidata_id: "Q1284450"
-description: "St. Anton in Passau is a striking example of Baroque Revival architecture, established in 1910. Its unique design and historical context make it a notew..."
+latitude: 48.569178
+longitude: 13.442801944
 images:
-  - "/images/st-anton-passau/01-54364139-1920w.webp"
-  - "/images/st-anton-passau/02-1600c9b7-1920w.webp"
-  - "/images/st-anton-passau/03-7444f205-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1200px-Pfarrkirche_St._Anton,_Passau.jpg
+image_srcset:
+  Pfarrkirche%20St.%20Anton,%20Passau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/400px-Pfarrkirche_St._Anton,_Passau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/800px-Pfarrkirche_St._Anton,_Passau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1200px-Pfarrkirche_St._Anton,_Passau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pfarrkirche_St._Anton,_Passau.jpg/1920px-Pfarrkirche_St._Anton,_Passau.jpg
 ---
 
 ## Overview
 
-St. Anton in Passau is a striking example of Baroque Revival architecture, established in 1910. Its unique design and historical context make it a noteworthy site for both religious and architectural enthusiasts. As you approach this church, you'll find it set against the backdrop of the scenic Bavarian landscape, inviting visitors to explore its artistic and spiritual significance.
-
-This church not only serves as a place of worship but also stands as a testament to the architectural trends of its time. Its construction reflects the values and aesthetics of the early 20th century, showcasing the intricate details and grandeur characteristic of Baroque Revival design. Visitors to St. Anton will discover not just a church, but a monument that speaks to the cultural heritage of Passau and the surrounding area.
-
-As you delve into the history and features of St. Anton, you’ll uncover layers of artistic expression and community significance, all while enjoying the serene atmosphere that envelops this spiritual haven.
+St. Anton in Passau is a notable church building that embodies the architectural and cultural essence of this historic city in Germany. Situated at the coordinates 48.569178, 13.442801944, it serves as a spiritual haven for locals and visitors alike. This church not only plays a vital role in the religious life of the community but also stands as a significant landmark amidst Passau's rich heritage. The city itself, known for its confluence of the Danube, Inn, and Ilz rivers, offers a captivating backdrop, enhancing the experience of visiting St. Anton. As you approach the church, you will sense the weight of history and the reverence that surrounds this sacred space. 
 
 ## History and Significance
 
-St. Anton was founded in 1910, marking it as a relatively modern addition to the rich tapestry of religious architecture in Germany. Designed by architect Johann Baptist Schott, the church embodies the Baroque Revival style, which sought to revive the grandeur of earlier Baroque architecture. This revival movement was part of a broader trend during the late 19th and early 20th centuries, where architects aimed to blend traditional styles with contemporary needs.
+St. Anton's history can be traced to its function as a church building within the cultural framework of Passau. The church is dedicated to Saint Anthony, who is celebrated for his influence in Christian spirituality. While specific historical dates are not provided, it is clear that St. Anton has played a crucial role in the community's religious practices and traditions over the years.
 
-Although specific historical events linked to St. Anton may not be extensively documented, its establishment reflects the growth of communities in Passau during that era. The church serves not only as a place of worship but also as a cultural landmark that has witnessed various transformations over time, mirroring the social changes in the region.
+Culturally, St. Anton represents more than just a place of worship; it is a reflection of the values and beliefs of the people of Passau. The church serves as a venue for various religious ceremonies, including masses, weddings, and special celebrations, marking significant events in the lives of the congregation. The building's presence in the city signifies the enduring legacy of faith and community that has characterized Passau throughout its history.
 
-St. Anton's significance extends beyond its physical presence; it represents the faith and resilience of the local community. As a center for worship and gathering, it plays an integral role in the spiritual life of its congregation, making it an essential aspect of Passau’s identity.
+The church also contributes to the broader narrative of architecture and spirituality in the region. As part of the rich ecclesiastical heritage of Passau, St. Anton stands alongside other historical sites, contributing to the city's identity as a center of religious and cultural significance. 
 
 ## Architecture and Features
 
-St. Anton is characterized by its Baroque Revival architectural style, which emphasizes elaborate ornamentation and grandeur. The design elements reflect the influence of earlier Baroque structures while incorporating modern interpretations suitable for its time. Visitors can expect to see intricate details both inside and out, showcasing the craftsmanship typical of this architectural movement.
+St. Anton's architectural style reflects the period in which it was built and the influences that shaped its design. Although specific architectural details such as dimensions and features are not provided, visitors can expect to find the hallmarks of traditional church architecture, including a prominent façade and intricate detailing that often characterizes sacred spaces.
 
-The exterior is adorned with decorative elements that highlight its religious significance, while the interior offers a sense of tranquility and reflection. As you explore, pay attention to the artistry that adorns various features within the church, from altars to stained glass windows. Each detail contributes to an atmosphere that encourages contemplation and reverence.
+Inside, the church likely features elements that enhance its spiritual atmosphere, such as stained glass windows, altars, and religious iconography. These aspects not only serve aesthetic purposes but also deepen the connection between the congregation and their faith.
 
-The choice of materials and construction techniques employed in St. Anton reflects the architectural practices of its time, emphasizing durability and aesthetic appeal. This combination of historical style with contemporary functionality makes St. Anton a remarkable example of early 20th-century ecclesiastical architecture.
+The layout and overall design of St. Anton are intended to facilitate worship and reflection, providing an environment conducive to prayer and contemplation. Visitors are encouraged to explore the church's interior and observe the artistry that contributes to its sacred character.
 
 ## Visiting Information
 
-Reaching St. Anton is convenient due to its location in Passau, which is accessible via various transport options including trains and buses. Once you arrive, you can expect an enriching visitor experience that allows for personal reflection or participation in services.
+When planning a visit to St. Anton in Passau, it's essential to consider the best means of transportation. The church is accessible via local public transport options, making it easy to include in your itinerary while exploring the city. 
 
-Hours: Check the official website for current opening hours.
+Check the official website for current information regarding opening hours and any potential admission fees. Visitors can expect a serene environment, ideal for reflection and appreciation of the church's architectural and cultural significance. 
 
-Prices: Visit the official website for current admission prices.
-
-Visitors typically spend around one to two hours at St. Anton, allowing ample time to appreciate its architecture and engage in quiet reflection. Mornings are often quieter, making it an ideal time for those seeking a more solitary experience. Additionally, visiting during spring or fall can enhance your experience with milder weather.
-
-Accessibility: While specific details on accessibility features are not provided, it's advisable to contact the site directly for the latest information.
+Typically, a visit to St. Anton may take approximately an hour, allowing ample time for exploration and contemplation. The best times to visit are often during off-peak hours, which can provide a more intimate experience of the church's atmosphere.
 
 ## Nearby Attractions
 
-If you're exploring Passau, several nearby attractions can enrich your visit:
+St. Anton is conveniently located near several other points of interest in Passau. While exploring the area, consider visiting the following attractions:
 
-1. **St. Stephen's Cathedral**: Known for its stunning baroque architecture and one of the largest cathedral organs in the world, this site is a must-see for music lovers and architecture enthusiasts alike.
+1. **St. Stephen's Cathedral**: Renowned for its stunning Baroque architecture and impressive organ, this cathedral is a must-see for any visitor.
+   
+2. **Veste Oberhaus**: This historic fortress offers panoramic views of Passau and the rivers, along with a museum detailing the region's history.
 
-2. **Veste Oberhaus**: This impressive fortress offers panoramic views of Passau and is home to several museums detailing the region's history.
+3. **Passau Museum**: Located nearby, this museum provides insights into the history, culture, and art of Passau and its surroundings.
 
-3. **Museum Moderner Kunst**: For those interested in contemporary art, this museum showcases works from various periods and styles, providing insight into modern artistic expressions.
+4. **Old Town (Altstadt)**: A stroll through the charming streets of Passau's Old Town is a delightful way to experience its rich history and architecture.
 
-4. **Old Town Passau**: A stroll through this historic area reveals charming streets lined with colorful buildings, quaint shops, and cafés where you can take a break and soak in the local atmosphere.
-
-5. **Danube River Cruises**: The scenic river offers opportunities for leisurely boat trips that showcase the picturesque landscapes surrounding Passau.
+5. **Danube River Cruises**: Consider taking a cruise along the Danube for a unique perspective of the city and its landmarks.
 
 ## Insider Tips
 
-To capture stunning photographs of St. Anton, aim to visit early in the morning when natural light enhances the beauty of its façade. Look for lesser-known details such as intricate carvings or unique stained glass designs that may not be immediately obvious but add depth to your experience.
+For those looking to capture the essence of St. Anton, consider visiting during the early morning or late afternoon when the light is softer, enhancing the beauty of the church's architecture. 
 
-To avoid crowds, consider visiting during weekdays rather than weekends when attendance may be higher due to local events or services. Engaging with local community members can also offer insights into lesser-known aspects of St. Anton's history and significance.
-
-Lastly, check for any upcoming events or services at St. Anton that may provide a unique perspective on its role within the community.
+To avoid crowds, try to plan your visit on weekdays rather than weekends, especially during peak tourist seasons. This approach will allow you a more personal experience within the church, providing an opportunity to truly reflect and appreciate the space.
 
 ## Practical Information
 
-When planning your visit to St. Anton, consider bringing a camera for capturing its architectural beauty and any personal items you may need for quiet reflection or prayer. Dress modestly out of respect for the sacred space.
+When visiting St. Anton, it is advisable to wear comfortable shoes, as exploring the area may involve some walking. Additionally, consider bringing a small bag with essentials such as a water bottle and a camera to capture the moment. 
 
-Seasonal considerations include checking local weather forecasts before your trip to ensure comfort during your visit. It's always wise to verify any specific requirements or recommendations via the official website.
-
-For consolidated visitor details:
-- Hours: Check the official website for current opening hours.
-- Prices: Visit the official website for current admission prices.
-- Contact: Contact the site directly for the latest information.
+Seasonal considerations are also important; the weather in Passau can vary, so check the forecast before your visit and dress accordingly. If visiting during colder months, layering is recommended, while warmer months call for breathable fabrics.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-You should plan to spend about one to two hours at St. Anton to fully appreciate its architecture and engage in personal reflection or prayer.
+### How long should I spend visiting?
+A visit to St. Anton typically takes about an hour, allowing you to appreciate the architecture and ambiance.
 
-### **Is photography allowed inside?**
-Photography policies can vary; it's best to check with site staff upon arrival regarding any restrictions on taking photos inside St. Anton.
+### Is photography allowed?
+Photography policies can vary, so it is best to check for any posted signs or inquire upon arrival.
 
-### **Are there guided tours available?**
-While specific information about guided tours isn't provided, you may inquire at St. Anton or check their official website for any available options.
+### Are there guided tours?
+Check the official website for information regarding guided tours, as these may provide deeper insights into the church's history and significance.
 
-### **What's the best time of day to visit?**
-Visiting early in the morning is recommended for fewer crowds and better lighting conditions for photography.
+### What's the best time to visit?
+Visiting during weekdays or during off-peak hours can provide a more peaceful experience.
 
-### **Is the site wheelchair accessible?**
-For specific accessibility features, contact St. Anton directly to get accurate information regarding wheelchair access.
+### Is it wheelchair accessible?
+Check the official website for accessibility information to ensure a comfortable visit.
 
-### **Can I buy tickets online?**
-Check the official website for current admission prices and ticketing options to see if online purchases are available.
+### Can I buy tickets online?
+For any admission fees, check the official website for options regarding online ticket purchases.
 
-### **Are there facilities like restrooms and cafes?**
-While specific facilities aren't detailed, it's advisable to check with St. Anton directly regarding amenities available on-site.
+### Are there restrooms and cafes?
+While specific details on facilities are not provided, nearby attractions often feature amenities. It is advisable to check the official website for updated information.
 
-### **What should I wear when visiting?**
-Dress modestly when visiting St. Anton out of respect for its sacred nature; comfortable shoes are also recommended for walking around.
+### What should I wear?
+Dress comfortably and consider the weather; modest attire is generally recommended in religious spaces.

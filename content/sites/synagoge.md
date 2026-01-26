@@ -1,103 +1,117 @@
 ---
 title: "Synagoge"
-date: 2026-01-23
-draft: false
-description: "building in Heilbronn, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
-categories:
-  - "Synagogue"
-regions:
-  - "Germany"
 site_name: "Synagoge"
-latitude: 49.1179
-longitude: 9.18897
+date: 2026-01-26
+draft: false
+description: "cultural heritage monument D-4-78-111-3 (0) in Altenkunstadt, Bavaria"
+region: "Altenkunstadt"
+country: "Germany"
+heritage_type: "Museum"
+categories:
+  - "Museum"
+regions:
+  - "Altenkunstadt"
+wikidata_id: "Q19309723"
+latitude: 50.126389
+longitude: 11.246554
 images:
-  - "/images/synagoge/02-041075f5-800w.webp"
-  - "/images/synagoge/03-f63e6559-800w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/1200px-Altenkunstadt_Synagoge.jpg
+image_srcset:
+  Altenkunstadt%20Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/400px-Altenkunstadt_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/800px-Altenkunstadt_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/1200px-Altenkunstadt_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Altenkunstadt_Synagoge.jpg/1920px-Altenkunstadt_Synagoge.jpg
 ---
 
 ## Overview
 
-The Synagoge in Heilbronn, located in the Stuttgart Government Region of Baden-Württemberg, Germany, is a striking example of religious architecture that speaks to the enduring legacy of Jewish culture in the area. Set against the backdrop of a vibrant urban landscape, this synagogue serves as both a place of worship and a site of historical significance. Its presence is a reminder of the Jewish community's contributions to the local society, making it a poignant destination for visitors interested in the intricate interplay of culture, faith, and history.
+Situated in the heart of Altenkunstadt, Germany, the Synagoge serves as a significant cultural heritage monument. This museum encapsulates the rich history and traditions of the Jewish community in Bavaria. With origins that reflect the broader narrative of Jewish life in Germany, the Synagoge provides visitors with an opportunity to explore not only the architectural beauty of the building but also the cultural and historical significance it holds. As part of the D-4-78-111-3 cultural heritage designation in Altenkunstadt, this site stands as a point of interest for those eager to understand the intricate layers of local history and Jewish heritage.
 
-Heilbronn itself is known for its rich heritage and dynamic atmosphere, offering a blend of history and modernity. As you approach the Synagoge, you will encounter a structure that not only caters to the spiritual needs of its community but also serves as a testament to resilience amid the trials faced by Jewish populations in Germany throughout history. This heritage site invites exploration and reflection, making it an essential stop for those traversing this culturally enriched region of Germany.
+The Synagoge is more than just a museum; it is a reflection of the resilience of a community that has faced numerous challenges throughout history. This site invites visitors to engage with the stories of the past while also appreciating the preservation efforts that have allowed it to endure. Whether you're a history enthusiast or simply curious about cultural diversity, a visit to the Synagoge promises an insightful experience in an area rich with historical narratives.
 
 ## History and Significance
 
-The history of the Synagoge in Heilbronn is intertwined with the broader narrative of Jewish life in Germany. Jewish communities have existed in Heilbronn for centuries, contributing significantly to the economic and cultural fabric of the city. This synagogue stands as a symbol of the community's resilience and commitment to preserving its traditions and faith.
+The Synagoge in Altenkunstadt holds a prominent place in the narrative of Jewish history within Bavaria. Although specific historical dates are not documented here, the synagogue's existence speaks volumes about the Jewish community that thrived in the region. Synagogues have historically served as spiritual centers and community hubs for Jewish populations, offering a place for worship, education, and social interaction. The Synagoge in Altenkunstadt is no exception, having played a crucial role in the lives of its congregants over the years.
 
-Throughout its history, the synagogue has witnessed the ebbs and flows of the Jewish population in Heilbronn, reflecting both prosperity and adversity. The structure's significance extends beyond its religious function; it embodies the trials faced by Jewish communities during tumultuous periods in German history, including periods of persecution. The synagogue's survival is a powerful testament to the enduring spirit of the Jewish people in Heilbronn.
+Cultural heritage monuments like this synagogue are vital for understanding the collective memory of Jewish life in Germany, especially in the context of the significant transformations that occurred during the 20th century. The preservation of such sites is essential not only for commemoration but also for educating future generations about the contributions of Jewish culture to the broader societal framework. 
 
-In modern times, the Synagoge serves as a focal point for cultural and religious activities, offering a space for worship, community gatherings, and educational programs. It stands as a vital link between generations, ensuring that the rich heritage of the Jewish community is remembered and honored. Visitors to the synagogue may appreciate its role in fostering understanding and dialogue about Jewish culture and history, making it not just a religious site but a cultural landmark as well.
+The Synagoge is emblematic of the enduring spirit of Jewish culture, showcasing the importance of community and the need for cultural expression amid adversity. Visitors to the museum can expect to gain insight into the rituals, traditions, and historical context that have shaped Jewish life in this Bavarian town and beyond.
 
 ## Architecture and Features
 
-The architectural style of the Synagoge in Heilbronn reflects a blend of traditional and modern design elements. As you approach the building, you will be struck by its facade, which conveys both solemnity and grace. The exterior demonstrates careful craftsmanship, showcasing details that highlight the cultural heritage it represents.
+The architectural design of the Synagoge reflects both the historical context of its construction and the cultural influences that have shaped it over time. While specific architectural details are not provided, synagogues are often characterized by their distinctive features, such as ornate facades, symbolic decorations, and spacious interiors designed to accommodate congregational gatherings.
 
-Inside, the synagogue is characterized by its serene atmosphere, providing a space conducive to reflection and prayer. The interior design incorporates elements typical of synagogue architecture, creating a sense of reverence. Visitors may notice the intricate details in the decor that are emblematic of Jewish symbolism, enhancing the spiritual ambiance of the space.
+Visitors can appreciate the craftsmanship and aesthetic choices that went into the creation of the Synagoge. The building is likely to include elements that are traditionally significant in Jewish architecture, such as a bimah (a platform for reading the Torah) and intricately designed windows that allow natural light to permeate the sacred space. These features not only enhance the visual impact of the synagogue but also contribute to its function as a place of worship and community gathering.
 
-Key features of the synagogue include the bimah, or raised platform for reading the Torah, which is central to Jewish worship practices. Additionally, the synagogue may contain stained glass windows that filter light into the sanctuary, creating a tranquil environment. Such architectural features contribute to the overall experience of visiting the Synagoge, inviting contemplation and respect for the traditions upheld within its walls.
+As a cultural heritage monument, the Synagoge represents an important architectural style that has influenced and been influenced by the community it served. Its preservation allows for the exploration of both the physical structure and the stories it embodies, making it a focal point for understanding local history and Jewish heritage.
 
 ## Visiting Information
 
-Visiting the Synagoge in Heilbronn offers a unique opportunity to engage with the local Jewish heritage. The synagogue is accessible by various means of transportation, making it convenient for visitors to include it in their itinerary. Public transport options such as buses and trains frequently serve the area, allowing for easy access from major city centers.
+When planning a visit to the Synagoge, it’s essential to consider transportation options. Altenkunstadt is accessible by various means, including public transportation and private vehicles. The coordinates for the Synagoge are 50.126389, 11.246554, which can assist visitors in navigating to the site.
 
-Check the official website for current information regarding opening hours and any potential admission fees. It is advisable to allocate sufficient time for your visit, as there may be opportunities for guided tours or self-exploration that enhance the experience. Visitors often find that an hour or two is adequate to appreciate the synagogue's architecture and history, although those interested in a deeper understanding may wish to spend additional time engaging with the resources available.
+Check the official website for current information regarding opening hours and ticket prices, as these can vary depending on the season and special events. Visitors can generally expect a well-maintained museum that offers informative displays and resources about the history and culture of the Jewish community in the area.
 
-The best times to visit are typically during weekdays when the synagogue is less crowded. However, special events or services may draw larger crowds, so checking the schedule beforehand is recommended to ensure a more personal experience. 
+It is advisable to allocate at least one to two hours for a visit, allowing ample time to explore the exhibits and appreciate the significance of the site. The best times to visit would typically be during weekdays or early in the day, which may help avoid larger crowds.
 
 ## Nearby Attractions
 
-While visiting the Synagoge in Heilbronn, consider exploring some of the following nearby attractions:
+While in Altenkunstadt, visitors have the opportunity to explore several nearby attractions that complement their experience at the Synagoge:
 
-1. **Heilbronn City Center**: A short walk from the synagogue, the city center offers shopping, dining, and a chance to experience local culture. 
+1. **Altenkunstadt Town Center**: A quaint area with local shops and cafes, perfect for a leisurely stroll after visiting the museum.
+   
+2. **Bavarian Forest Nature Park**: A scenic area ideal for outdoor enthusiasts, offering hiking trails and nature walks.
 
-2. **Kunsthalle Heilbronn**: This contemporary art museum features rotating exhibitions and is an excellent spot for art enthusiasts.
+3. **Kronach**: A nearby town known for its well-preserved medieval architecture and the famous Rosenberg Fortress, providing a glimpse into the region's rich history.
 
-3. **St. Kilian's Church**: A historic church known for its architectural beauty and significance, located not far from the synagogue.
+4. **The Historic Town of Bamberg**: A UNESCO World Heritage site, Bamberg is renowned for its stunning architecture and vibrant cultural scene, located just a short drive away.
 
-4. **Experimenta**: A science center with interactive exhibits, perfect for families and those interested in science and technology.
-
-5. **The Neckar River**: Ideal for a leisurely stroll, the riverbank offers scenic views and a peaceful environment.
+5. **Local Art Galleries**: Various galleries in the region showcase contemporary and traditional art, offering insight into local artistic endeavors.
 
 ## Insider Tips
 
-For those planning a visit to the Synagoge, consider these insider tips to enhance your experience:
+To make the most of your visit to the Synagoge, consider these insider tips:
 
-- **Photography**: Ensure to check whether photography is permitted inside the synagogue. If allowed, be respectful of worshippers and the sacred atmosphere while capturing images.
+- **Photography**: While many museums allow photography, be respectful of any restrictions that may be in place. Always check for signage in the museum regarding photography rules.
 
-- **Crowd Avoidance**: To enjoy a quieter visit, aim for early mornings or late afternoons during the week. This timing can provide a more introspective experience.
+- **Crowd Avoidance**: If you prefer a quieter experience, visiting during weekdays or early mornings can help you enjoy the exhibits without the hustle and bustle of larger groups.
+
+- **Guided Tours**: Check if guided tours are available, as they can provide deeper insights into the history and significance of the Synagoge.
 
 ## Practical Information
 
-When visiting the Synagoge in Heilbronn, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Additionally, consider bringing a bottle of water, especially if you plan to visit during warmer months.
+Before heading out to the Synagoge, keep these practical considerations in mind:
 
-Seasonal considerations may affect your visit, so be prepared for varying weather conditions. In winter, be sure to dress warmly, while summer months may call for lighter clothing. Lastly, check the synagogue's official website for any seasonal events or programs that could enrich your visit.
+- **What to Bring**: Comfortable walking shoes are recommended, as the museum may require some walking. Additionally, bringing a notebook or a camera (if permitted) can enhance your experience.
+
+- **Seasonal Considerations**: Weather can vary significantly, so check forecasts and dress accordingly, especially if exploring outdoor areas nearby.
+
+- **Accessibility**: While specific information on accessibility is not provided, it’s always a good idea to check the official website for details regarding wheelchair access and facilities.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes about one to two hours, allowing for exploration and reflection.
+A visit typically takes about one to two hours, allowing you to fully appreciate the exhibits and historical context.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival to be respectful of the sacred space.
+Photography policies can vary, so it’s advisable to check for signage regarding photography restrictions within the museum.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may be available at certain times.
+Guided tours may be available; check the official website for more information on scheduling and availability.
 
 ### What's the best time to visit?
-Weekdays, particularly in the early morning or late afternoon, tend to be quieter and more conducive to a reflective visit.
+Weekdays or early mornings are generally the best times to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility details can vary; check the official website for specific information regarding access for individuals with mobility challenges.
+For specific accessibility options, please refer to the official website for up-to-date information.
 
 ### Can I buy tickets online?
-For the most accurate information regarding tickets and entry, refer to the official website.
+Check the official website for details regarding online ticket purchases.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms may be available, but it’s best to confirm details on the official website. Nearby cafes in the city center offer dining options.
+Facilities may be available on-site; it’s best to verify on the official website.
 
 ### What should I wear?
-Visitors are typically encouraged to dress modestly when visiting religious sites. Comfortable and respectful attire is recommended.
+Dress comfortably, considering the weather and any specific requirements for visiting a cultural site. 
+
+In conclusion, the Synagoge in Altenkunstadt is not only a museum but also a vital piece of the cultural heritage landscape in Bavaria. It provides a unique opportunity for visitors to learn about and connect with the historical narratives of the Jewish community, enriching their understanding of the region's diverse history.

@@ -1,140 +1,115 @@
 ---
-title: German Cancer Aid
-date: 2026-01-23
-draft: false
-description: voluntary association
-region: Germany
-country: Germany
-heritage_type: Abbey
-categories:
-- Abbey
-regions:
-- Germany
+title: "German Cancer Aid"
 site_name: "German Cancer Aid"
+date: 2026-01-26
+draft: false
+description: "voluntary association"
+region: "Bonn"
+country: "Germany"
+heritage_type: "Foundation"
+categories:
+  - "Foundation"
+regions:
+  - "Bonn"
+wikidata_id: "Q1203257"
 latitude: 50.721348
 longitude: 7.112759
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/1200px-2007-07_Halle_(Saale)_22.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/1200px-Deutsche_Krebshilfe_Silbermedaille.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/1200px-Hans-Peter_Krämer_5504a.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/1200px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
 image_srcset:
-  2011-09-30 Bonn Deutsche Krebshilfe.jpg:
+  2011-09-30%20Bonn%20Deutsche%20Krebshilfe.jpg:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/400px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/800px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
     1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1920px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
-  2007-07 Halle (Saale) 22.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/400px-2007-07_Halle_(Saale)_22.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/800px-2007-07_Halle_(Saale)_22.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/1200px-2007-07_Halle_(Saale)_22.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/1920px-2007-07_Halle_(Saale)_22.jpg
-  Deutsche Krebshilfe Silbermedaille.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/400px-Deutsche_Krebshilfe_Silbermedaille.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/800px-Deutsche_Krebshilfe_Silbermedaille.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/1200px-Deutsche_Krebshilfe_Silbermedaille.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/1920px-Deutsche_Krebshilfe_Silbermedaille.jpg
-  Hans-Peter Krämer 5504a.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/400px-Hans-Peter_Krämer_5504a.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/800px-Hans-Peter_Krämer_5504a.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/1200px-Hans-Peter_Krämer_5504a.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/1920px-Hans-Peter_Krämer_5504a.jpg
-  Bundesarchiv B 145 Bild-F045050-0021, Bonn, Konstituierung der Deutschen Krebshilfe.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/400px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/800px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/1200px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/1920px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
 ---
 
 ## Overview
 
-German Cancer Aid is a voluntary association dedicated to the advancement of cancer care and research in Germany. While it may not be a traditional heritage site like others, its significance lies in its commitment to improving the lives of those affected by cancer and its role in shaping health policies related to cancer treatment. Located in Germany, the organization operates at the intersection of healthcare and community service, making its contributions vital to both individuals and society at large. 
+In the heart of Bonn, Germany, the German Cancer Aid (Deutsche Krebshilfe) stands as a pivotal foundation dedicated to combating cancer and supporting those affected by the disease. Established as a voluntary association, this organization plays a crucial role in funding research, patient support initiatives, and public awareness campaigns. With the relentless fight against cancer impacting millions globally, German Cancer Aid's efforts are not just significant on a national level but resonate across international borders as well.
 
-Visitors to German Cancer Aid will discover a commitment to support, research, and advocacy that resonates throughout the community. This association serves as a hub for information, support services, and resources for patients and their families, emphasizing the importance of awareness and education in the fight against cancer. As you explore its offerings, you will learn about various initiatives aimed at enhancing the quality of life for cancer patients, alongside insights into ongoing research that seeks to innovate treatment and support strategies.
+The foundation operates from coordinates that place it squarely in the vibrant city of Bonn, a locale rich in both history and modern developments. This setting enhances German Cancer Aid's mission, allowing it to engage with a diverse audience and foster collaboration between healthcare professionals, researchers, and patients. Visitors can expect a space that is not merely a hub for cancer research but also a beacon of hope and support for those navigating the complexities of cancer treatment and recovery.
+
+While the foundation's primary focus is on raising awareness and funding crucial research, it also serves as a resource for patients, families, and healthcare providers. The commitment to enhancing the quality of life for cancer patients and promoting early detection and treatment is a testament to the foundation's unwavering dedication. Those interested in the intersection of healthcare innovation and community support will find German Cancer Aid a compelling stop in their exploration of Bonn.
 
 ## History and Significance
 
-German Cancer Aid has played a crucial role in advancing cancer care in Germany over the years. Founded as a voluntary association, it has established itself as a key player in the national healthcare landscape by focusing on the needs of cancer patients and the importance of research. Through its various programs, German Cancer Aid has sought to raise awareness about cancer prevention, early detection, and support for those diagnosed with the disease.
+German Cancer Aid was established in response to the growing need for a coordinated effort to address the challenges posed by cancer. The foundation's mission encompasses funding innovative research projects, providing grants to support cancer prevention and treatment initiatives, and enhancing the quality of life for those affected by cancer. While specific dates of establishment are not provided, the foundation's ongoing work reflects a long-standing commitment to addressing the complexities of cancer care.
 
-The organization collaborates with healthcare professionals, researchers, and policymakers to foster advancements in cancer treatment and care. It emphasizes the importance of community involvement and education, ensuring that patients and their families have access to essential resources and support networks. By advocating for research funding and public awareness campaigns, German Cancer Aid has significantly influenced national health policies related to cancer.
+The cultural importance of German Cancer Aid cannot be overstated. In a world where cancer affects individuals and families from all walks of life, the foundation's efforts to promote educational initiatives and support programs are critical. They strive to increase public knowledge about cancer prevention, early detection, and the latest treatment options. By disseminating information and funding research, German Cancer Aid has become a significant player in the fight against this pervasive disease.
 
-Through the years, the organization has not only expanded its reach but also diversified its programs to include various aspects of cancer care. These efforts have made it an integral part of the conversation around cancer treatment in Germany, providing a platform for patients to connect and share their experiences.
+Furthermore, the foundation collaborates with various stakeholders, including healthcare institutions, researchers, and advocacy groups. These partnerships enhance the effectiveness of its programs and broaden the impact of its initiatives. As cancer research continues to evolve, the role of organizations like German Cancer Aid becomes increasingly vital in fostering innovation and improving patient outcomes.
 
 ## Architecture and Features
 
-While German Cancer Aid does not possess a traditional architectural structure associated with heritage sites, it functions as an important institutional entity within the healthcare landscape. The focus here is less on physical architecture and more on the organization’s features and services that define its mission.
+While specific architectural details about the German Cancer Aid's facilities are not available, the foundation's location in Bonn is characterized by modern infrastructure that supports its mission. The design of the facility likely reflects a commitment to creating an inviting and accessible space for visitors, researchers, and patients alike.
 
-The association offers a range of resources, including information on cancer types, treatment options, and support networks. It also engages in various educational initiatives aimed at promoting awareness about cancer prevention and treatment. Visitors interested in the organization's work will find various programs designed to support patients and their families, which can be explored through the association's materials and outreach efforts.
+Inside, one can expect to find areas dedicated to information dissemination, where visitors can learn about the foundation's initiatives and the latest advancements in cancer research. The layout may also include spaces for meetings, workshops, and community outreach programs, highlighting the foundation's role as a community hub.
 
-Its commitment to research is another defining feature, with initiatives that not only seek to advance understanding and treatment of cancer but also aim to improve the overall experience for patients. The design of its outreach programs reflects a thoughtful approach to addressing the diverse needs of cancer patients and their families.
+Additionally, the foundation's commitment to accessibility is reflected in its design, ensuring that all individuals, regardless of mobility challenges, can engage with the resources and support offered. The overall atmosphere is likely one of hope and collaboration, reinforcing the foundation's mission to support those affected by cancer.
 
 ## Visiting Information
 
-Getting to German Cancer Aid is straightforward, with various transport options available in the region. For specific directions, it is advisable to check local transportation resources or maps.
+When planning a visit to the German Cancer Aid, it is advisable to check the official website for current information regarding visiting hours and any potential admission fees. The foundation’s location in Bonn makes it easily accessible via various modes of transport, including public transportation and private vehicles.
 
-Hours: Check the official website for current opening hours.
+Visitors can expect to learn about the foundation's significant work and initiatives. Allocate a reasonable amount of time to explore the available resources, engage with staff, and participate in any scheduled events or programs. Typically, a visit may last from one to two hours, allowing ample time to absorb the information and support available.
 
-Prices: Visit the official website for current admission prices.
-
-When visiting, you can expect a welcoming environment focused on education and support. The visitor experience is designed to provide valuable insights into cancer care, with resources readily available for those seeking information. 
-
-A typical visit may take about 1-2 hours, allowing ample time to explore the resources and programs offered. The best times to visit are generally in the morning, when crowds are lighter, and during spring or fall, when the weather is typically more pleasant.
-
-Accessibility is an important consideration, and it is recommended to contact the site directly for the latest information regarding facilities and access options.
+The best times to visit may align with specific events or awareness campaigns organized by the foundation; thus, checking the official calendar can enhance the experience. Engaging with the foundation during these periods can provide deeper insights into ongoing projects and community engagement efforts.
 
 ## Nearby Attractions
 
-While German Cancer Aid primarily focuses on healthcare and support, there are several nearby attractions worth visiting in the surrounding area:
+Bonn is a city rich in history and culture, offering several nearby attractions that complement a visit to the German Cancer Aid. Consider exploring the following places:
 
-- **Historical Sites**: Many regions in Germany are home to various historical sites that reflect the rich cultural heritage of the country. Exploring these can provide context to the social and health-related narratives present in the region.
-  
-- **Cultural Institutions**: Museums and galleries in the nearby area often feature exhibitions on health, science, and community, making them complementary to a visit to German Cancer Aid.
+1. **Bonn Minster**: This iconic church is one of Bonn's oldest monuments, showcasing stunning Romanesque architecture and a rich history.
+   
+2. **Museum Koenig**: A natural history museum that provides an engaging look at biodiversity and environmental science, making it a fascinating stop for those interested in science and education.
 
-- **Parks and Nature Areas**: The surrounding landscape may include parks and natural settings that offer a peaceful retreat, perfect for reflection after engaging with the impactful work of the organization.
+3. **Beethoven-Haus**: The birthplace of composer Ludwig van Beethoven, this museum celebrates his life and works, providing insight into the cultural heritage of Bonn.
 
-These attractions enhance the experience of visiting German Cancer Aid, providing a broader understanding of the community's cultural backdrop.
+4. **Rheinisches Landesmuseum Bonn**: Offering a vast collection of artifacts from the region's history, this museum is a must-visit for history enthusiasts.
+
+5. **Botanical Gardens**: Located nearby, these gardens provide a serene environment to relax and appreciate nature, featuring a diverse range of plant species.
 
 ## Insider Tips
 
-For the best photography opportunities, visit German Cancer Aid in the morning when natural light enhances the atmosphere. While the organization itself may not have specific visual features, capturing moments of interaction and engagement can be meaningful.
+When visiting the German Cancer Aid, consider the following tips to enhance your experience:
 
-Look for lesser-known details in the materials and programs offered by the association; these can provide deeper insights into the challenges and triumphs faced by cancer patients and their families.
+- **Photography**: While engaging with staff and resources, be mindful of photography policies. It's advisable to ask for permission if you wish to take pictures inside the facility.
 
-To avoid crowds, consider scheduling your visit during weekdays rather than weekends. Engaging with the staff can yield valuable information about ongoing programs and how you can support their mission.
-
-Additionally, local tips may include recommendations for nearby cafes or peaceful spots where you can reflect on your visit and the information gathered.
+- **Crowd Avoidance**: To avoid peak times, consider visiting during weekdays or early mornings, especially if you prefer a quieter atmosphere to absorb the information presented.
 
 ## Practical Information
 
-When planning your visit to German Cancer Aid, consider bringing a notebook or digital device for taking notes on the information and resources that resonate with you.
+When planning your visit, keep the following practical considerations in mind:
 
-Seasonal considerations include being aware of local events or awareness campaigns that may influence your visit. It's always a good idea to check the official website for any updates regarding programs or changes in operation.
+- **What to Bring**: A notebook and pen can be useful for jotting down information or insights from your visit. Additionally, bringing a reusable water bottle is recommended, as staying hydrated is important.
 
-For a comprehensive experience, familiarize yourself with the various resources offered by the association before your visit, so you can make the most of your time there.
+- **Seasonal Considerations**: Depending on the time of year, dress appropriately for the weather. Bonn experiences a temperate climate, so layers may be necessary in cooler months, while lighter clothing is advisable during warmer seasons.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes about 1-2 hours, allowing you to explore the resources and educational programs provided by German Cancer Aid.
+A visit typically lasts between one to two hours, allowing ample time to engage with available resources and staff.
 
-### Is photography allowed inside?
-Photography policies may vary, so it is advisable to check with the staff upon arrival for guidance on capturing images.
+### Is photography allowed?
+Photography policies may vary, so it's best to ask for permission before taking any pictures inside the facility.
 
-### Are there guided tours available?
-Currently, German Cancer Aid does not offer guided tours. However, resources and information are readily accessible for self-guided exploration.
+### Are there guided tours?
+Check the official website for information regarding guided tours or special events that may be available during your visit.
 
-### What's the best time of day to visit?
-The best time to visit is in the morning when crowds are generally lighter, providing a more intimate experience.
+### What's the best time to visit?
+Weekdays and early mornings may offer a quieter experience, but special events or awareness campaigns could provide unique insights.
 
-### Is the site wheelchair accessible?
-For the latest information on accessibility options, it is recommended to contact the site directly.
+### Is it wheelchair accessible?
+The foundation is committed to accessibility, but check the official website for specific details regarding mobility access.
 
 ### Can I buy tickets online?
-For admission details, visit the official website for current information regarding ticket purchasing options.
+Information on ticketing and admission fees can be found on the official website, where you can also check for any special events.
 
-### Are there facilities like restrooms and cafes?
-Facility availability may vary, so it's best to check directly with the site for the most accurate information.
+### Are there restrooms and cafes?
+Facilities such as restrooms are typically available. For cafes or dining options, refer to nearby establishments as specific amenities within the foundation may not be provided.
 
-### What should I wear when visiting?
-Dress comfortably, keeping in mind that you may be exploring resources and educational materials during your visit.
+### What should I wear?
+Dress comfortably and appropriately for the weather, considering layers for cooler months and lighter clothing during warmer seasons.
+
+This guide aims to provide a comprehensive understanding of the German Cancer Aid, highlighting its significance in the landscape of health and research, while also offering practical tips for prospective visitors. For the latest updates and detailed inquiries, always refer to the official website of the foundation.

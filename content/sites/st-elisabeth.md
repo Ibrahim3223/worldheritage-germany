@@ -1,110 +1,101 @@
 ---
 title: "St. Elisabeth"
 site_name: "St. Elisabeth"
-slug: "st-elisabeth"
-region: "Brandenburg"
-
-# Location
-latitude: 51.432
-longitude: 11.9633
-regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+date: 2026-01-26
+draft: false
+description: "church"
+region: "Freiburg im Breisgau"
+country: "Germany"
+heritage_type: "Church Building"
 categories:
-  - "cultural site"
-wikidata_id: "Q1701340"
-description: "St. Elisabeth in Halle (Saale) is a remarkable church building that captures the essence of Romanesque architecture. The structures robust design and hi..."
+  - "Church Building"
+regions:
+  - "Freiburg im Breisgau"
+wikidata_id: "Q1451607"
+latitude: 48.0177
+longitude: 7.85452
 images:
-  - "/images/st-elisabeth/01-0aad7b82-1920w.webp"
-  - "/images/st-elisabeth/02-5718fbd9-1920w.webp"
-  - "/images/st-elisabeth/03-b776883e-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/1200px-St._Elisabeth_(Freiburg)_2.jpg
+image_srcset:
+  St.%20Elisabeth%20(Freiburg)%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/400px-St._Elisabeth_(Freiburg)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/800px-St._Elisabeth_(Freiburg)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/1200px-St._Elisabeth_(Freiburg)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Elisabeth_(Freiburg)_2.jpg/1920px-St._Elisabeth_(Freiburg)_2.jpg
 ---
 
 ## Overview
 
-St. Elisabeth in Halle (Saale) is a remarkable church building that captures the essence of Romanesque architecture. The structure's robust design and historical significance make it a notable destination for visitors interested in cultural heritage. As you approach the church, the surrounding landscape reflects the serene atmosphere of the area, inviting exploration and contemplation. 
+St. Elisabeth is a notable church building located in the historic city of Freiburg im Breisgau, Germany. This architectural marvel is not only a spiritual haven but also a piece of cultural heritage that reflects the region's rich religious history. Freiburg, a city known for its vibrant university atmosphere and picturesque medieval architecture, serves as an ideal backdrop for St. Elisabeth. Visitors to the church will find themselves immersed in an environment that harmoniously blends faith and artistic expression, making it a significant landmark in the area.
 
-This church stands out not only for its architectural style but also for its role in the community over the years. St. Elisabeth serves as a spiritual haven and a gathering place for local residents, embodying the rich traditions of the region. Visitors will discover a space that resonates with history and community spirit, offering insights into both religious practices and local culture.
-
-Whether you're an architecture enthusiast or simply seeking a peaceful place to reflect, St. Elisabeth promises an enriching experience filled with discovery and inspiration.
+The church's location in the heart of Freiburg places it within easy reach of various attractions, offering a seamless experience for those looking to explore the city's deep-rooted traditions and architectural beauty. As a destination, St. Elisabeth promises to engage visitors with its serene ambiance and historical significance, inviting reflection and admiration.
 
 ## History and Significance
 
-While specific historical data regarding St. Elisabeth is not available, the church’s Romanesque architecture indicates its significance within the broader context of religious buildings in Germany. Romanesque architecture emerged as a prominent style between the 9th and 12th centuries, characterized by its thick walls, rounded arches, and sturdy pillars. These features suggest that St. Elisabeth likely played a vital role in the spiritual life of Halle (Saale) for many years.
+The history of St. Elisabeth is intricately linked to the broader narrative of Freiburg im Breisgau and the region's ecclesiastical developments. While specific dates may not be documented, the church is recognized for its role in the spiritual and communal life of the area. It serves as a testament to the architectural evolution and religious practices prevalent throughout the centuries.
 
-Churches like St. Elisabeth often served as community centers in medieval times, acting as places of worship, education, and social gathering. Over the centuries, such buildings have witnessed significant events, transformations, and the evolution of religious practices. The enduring presence of St. Elisabeth highlights its importance not just architecturally but also as a pillar of the local community.
+The church is dedicated to St. Elisabeth of Hungary, a figure revered for her compassion and charitable works. This connection adds layers of significance to the site, as her life and legacy continue to inspire many. The church has likely played a pivotal role in the local community, offering a space for worship, celebration, and reflection. 
+
+Moreover, St. Elisabeth stands as a place where various cultural and religious events have taken place, fostering a sense of unity and belonging among the congregation. Its ongoing function as a place of worship underscores its importance not only as a historical site but also as a living monument to the faith and resilience of the community.
 
 ## Architecture and Features
 
-St. Elisabeth exhibits the distinct characteristics of Romanesque architecture. This style is known for its solid construction and simplicity, often reflecting the practical needs of its time while still achieving an aesthetic appeal. Visitors to St. Elisabeth can appreciate the thick walls and rounded arches that define this architectural style.
+The architectural design of St. Elisabeth reflects the stylistic elements common to church buildings in the region. The structure is characterized by its elegant lines and intricate details that draw the eye and evoke a sense of reverence. The façade is likely adorned with features typical of ecclesiastical architecture, such as arched windows and decorative stonework, which contribute to its overall aesthetic appeal.
 
-As you explore the church, take note of the details that make St. Elisabeth unique. The interplay of light and shadow within its interior creates a serene ambiance conducive to reflection and prayer. While specific measurements or materials are not detailed, the overall design aligns with typical Romanesque features that emphasize strength and stability.
+Inside, visitors can expect to find a space that is both inviting and contemplative. The interior may include beautiful stained glass windows that allow light to filter in, creating a serene atmosphere. Depending on the architectural layout, elements such as vaulted ceilings and ornate altars could also enhance the worship experience, inviting visitors to pause and reflect.
+
+While specific features may vary, St. Elisabeth's design embodies the blending of functionality and artistry, which is characteristic of church buildings in Freiburg. This architectural integrity not only serves the liturgical needs of the congregation but also stands as a visual narrative of the community's faith journey.
 
 ## Visiting Information
 
-Reaching St. Elisabeth is relatively straightforward, with various transportation options available in Halle (Saale). Whether you're traveling by car or public transport, you can easily access this historic church from different parts of the region.
+When planning a visit to St. Elisabeth, it's essential to consider transportation options to reach this historic church. Freiburg is well-connected by public transport, making it accessible for both local and international travelers. Visitors can utilize local trams and buses, which frequently service the area surrounding the church.
 
-Hours: Check the official website for current opening hours.
+Check the official website for current information regarding opening hours and any potential admission fees. As a place of worship, St. Elisabeth may have varying hours depending on service times and special events. Visitors should also consider spending adequate time exploring the interior and participating in any ongoing religious services.
 
-Prices: Visit the official website for current admission prices.
-
-When you arrive, expect a warm welcome from both the architecture and the atmosphere inside the church. A visit typically takes about 1 to 2 hours, allowing ample time for exploration and reflection. To enhance your experience, consider visiting in the morning when crowds are lighter, or during spring or fall when the weather is particularly pleasant.
-
-Accessibility considerations have not been specified; therefore, it's advisable to check with local resources if you have specific needs.
+The best times to visit are typically during weekdays when the church might be less crowded, allowing for a more reflective experience. However, weekends may also offer the opportunity to witness vibrant community gatherings and services, enhancing the visit with authentic local culture.
 
 ## Nearby Attractions
 
-After visiting St. Elisabeth, consider exploring other notable sites in Halle (Saale) that complement your experience:
-
-- **Marktkirche**: This impressive market church reflects Gothic architecture and serves as a prominent landmark in Halle.
-- **Halle State Museum of Prehistory**: Delve into regional history with artifacts dating back thousands of years.
-- **The Giebichenstein Castle**: Explore this medieval castle offering picturesque views of the Saale River valley.
-- **Botanical Garden**: A peaceful retreat featuring diverse plant species, perfect for a leisurely stroll.
-- **Halle Opera House**: Experience local culture through performances in this beautifully designed venue.
-
-These attractions provide additional layers of historical and cultural insight into the region surrounding St. Elisabeth.
+1. **Freiburg Minster**: This iconic Gothic cathedral is a must-see, known for its stunning tower and historical significance.
+2. **Augustiner Museum**: Housed in a former monastery, this museum features a remarkable collection of medieval and modern art.
+3. **Schwarzwald (Black Forest)**: A short distance from Freiburg, this expansive forest offers outdoor activities and beautiful landscapes.
+4. **Bertoldsbrunnen**: A historical fountain in the city center, perfect for a quick photo op and a taste of local history.
+5. **Freiburg's Old Town**: A charming area filled with narrow streets, shops, and cafes that showcase the city's medieval architecture.
 
 ## Insider Tips
 
-To make the most of your visit to St. Elisabeth:
+For photography enthusiasts, early mornings or late afternoons may provide the best natural light for capturing the beauty of St. Elisabeth. Be mindful of ongoing services, as this may limit access to certain areas and the ability to take photos inside the church. 
 
-- **Photography Spots**: Capture stunning images from various angles around the church, especially during golden hour when natural light enhances its features.
-- **Look for Details**: Pay attention to architectural details such as decorative elements around entrances and windows that showcase Romanesque artistry.
-- **Crowd Avoidance**: Aim for weekday visits when foot traffic is generally lower, allowing for a more intimate experience.
-- **Local Insights**: Engage with locals if possible; they often share fascinating stories about the church's role in community life.
+To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. This approach allows for a more personal experience, whether you are there for reflection or simply to admire the architecture. 
 
 ## Practical Information
 
-When planning your visit to St. Elisabeth, consider these practical details:
+When visiting St. Elisabeth, it is advisable to bring a small bag for personal items, water, and perhaps a camera to capture your experience. Seasonal considerations are also important; during winter, be prepared for colder temperatures, while summer visits may require sun protection. 
 
-- **What to Bring**: A camera for photography, comfortable shoes for walking, and possibly a notebook if you wish to jot down thoughts or reflections.
-- **Seasonal Considerations**: The best times to visit are during mild seasons—spring and fall—when outdoor activities are more enjoyable.
-- **Visitor Amenities**: While specific facilities like restrooms or cafes are not mentioned, it's advisable to check local resources for nearby amenities.
+Respectful attire is recommended, as it is a place of worship. Comfortable footwear is also advisable, given the possibility of exploring the surrounding area and other attractions in Freiburg.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-A visit to St. Elisabeth typically takes about 1 to 2 hours, allowing you to explore the church and reflect on its significance.
+### How long should I spend visiting?
+A visit to St. Elisabeth typically lasts around 30 minutes to an hour, depending on your interest in exploring the interior and participating in any services.
 
-### **Is photography allowed inside?**
-While specific guidelines are not provided, it is generally advisable to check with site staff upon arrival regarding photography policies inside religious spaces.
+### Is photography allowed?
+Photography is generally permitted in the exterior areas of the church. Inside, it's respectful to check for any signage regarding photography during services.
 
-### **Are there guided tours available?**
-Information regarding guided tours is not specified; it’s best to inquire directly at St. Elisabeth or consult their official website for available options.
+### Are there guided tours?
+Check the official website for information on guided tours, which may be available during specific times or events.
 
-### **What's the best time of day to visit?**
-Visiting in the morning can help you avoid larger crowds and enjoy a quieter atmosphere for contemplation.
+### What's the best time to visit?
+Weekdays are often less crowded, while weekends may offer a richer community experience with services and events.
 
-### **Is the site wheelchair accessible?**
-Accessibility details have not been specified; it’s recommended to contact the site directly for the latest information on accessibility options.
+### Is it wheelchair accessible?
+Check the official website for the most accurate information on accessibility options within the church.
 
-### **Can I buy tickets online?**
-Details on ticket purchasing are not provided; please visit the official website for current admission prices and ticketing options.
+### Can I buy tickets online?
+Admission policies may vary, so it's best to check the official website for details on ticket purchases.
 
-### **Are there facilities like restrooms and cafes?**
-Facilities such as restrooms or cafes are not detailed; consider checking nearby amenities or contacting local resources for information.
+### Are there restrooms and cafes?
+While specific amenities may vary, check for nearby cafes and restrooms in the vicinity of the church.
 
-### **What should I wear when visiting?**
-Dress comfortably and respectfully, keeping in mind that churches often have specific dress codes regarding modesty.
-
-By adhering to these insights and practical tips, your visit to St. Elisabeth will be both meaningful and memorable. Enjoy immersing yourself in this captivating piece of heritage!
+### What should I wear?
+As a place of worship, modest and respectful attire is recommended. Comfortable footwear is also advisable for exploring the surrounding area.

@@ -11,22 +11,41 @@ from tqdm import tqdm
 # Handle imports for both package and direct execution
 try:
     from .config import (
-        PROJECT, HERITAGE_TYPES, SPARQL_ENDPOINT,
+        PROJECT, SPARQL_ENDPOINT,
         SPARQL_TIMEOUT, PATHS, DATA_QUALITY
     )
     from .utils import (
         save_json, calculate_completeness_score,
         validate_coordinates, logger, log_progress
     )
+    # Import comprehensive categories from Script 0
+    try:
+        from ._0_define_categories import CATEGORIES
+    except ImportError:
+        from __main__0_define_categories import CATEGORIES
 except ImportError:
     from config import (
-        PROJECT, HERITAGE_TYPES, SPARQL_ENDPOINT,
+        PROJECT, SPARQL_ENDPOINT,
         SPARQL_TIMEOUT, PATHS, DATA_QUALITY
     )
     from utils import (
         save_json, calculate_completeness_score,
         validate_coordinates, logger, log_progress
     )
+    # Import comprehensive categories from Script 0
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("define_categories", "0_define_categories.py")
+    cat_module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(cat_module)
+    CATEGORIES = cat_module.CATEGORIES
+
+# Convert Script 0 CATEGORIES to heritage_types format for SPARQL query
+HERITAGE_TYPES = {}
+for category_key, category_info in CATEGORIES.items():
+    for qid in category_info['wikidata_classes']:
+        # Use first word of description as label
+        label = category_info['description']
+        HERITAGE_TYPES[qid] = label
 
 # ============================================
 # SPARQL QUERY
@@ -38,6 +57,7 @@ def build_sparql_query(country_wikidata_id: str, heritage_types: Dict) -> str:
     type_values = ' '.join([f'wd:{qid}' for qid in heritage_types.keys()])
 
     # Comprehensive query with important fields for content quality
+    # Simplified query - only essential fields to avoid timeout
     query = f"""
 SELECT DISTINCT
   ?item ?itemLabel ?itemDescription
@@ -45,14 +65,8 @@ SELECT DISTINCT
   ?heritage_type ?heritage_typeLabel
   ?admin ?adminLabel
   ?inception
-  ?architect ?architectLabel
-  ?style ?styleLabel
-  ?height ?area ?elevation
-  ?website ?opening_hours ?admission_fee
-  ?visitor_count
+  ?website
   ?unesco
-  ?material ?materialLabel
-  ?religion ?religionLabel
 
 WHERE {{
   VALUES ?heritage_type {{ {type_values} }}
@@ -61,33 +75,17 @@ WHERE {{
   ?item wdt:P17 wd:{country_wikidata_id} .
   ?item wdt:P625 ?coords .
 
-  # Essential fields
+  # Essential fields only
   OPTIONAL {{ ?item wdt:P18 ?image . }}
   OPTIONAL {{ ?item wdt:P131 ?admin . }}
   OPTIONAL {{ ?item wdt:P571 ?inception . }}
-  OPTIONAL {{ ?item wdt:P84 ?architect . }}
-  OPTIONAL {{ ?item wdt:P149 ?style . }}
-
-  # Physical attributes
-  OPTIONAL {{ ?item wdt:P2048 ?height . }}
-  OPTIONAL {{ ?item wdt:P2046 ?area . }}
-  OPTIONAL {{ ?item wdt:P2044 ?elevation . }}
-  OPTIONAL {{ ?item wdt:P186 ?material . }}
-
-  # Visitor info
   OPTIONAL {{ ?item wdt:P856 ?website . }}
-  OPTIONAL {{ ?item wdt:P3025 ?opening_hours . }}
-  OPTIONAL {{ ?item wdt:P2555 ?admission_fee . }}
-  OPTIONAL {{ ?item wdt:P1174 ?visitor_count . }}
 
-  # UNESCO status
+  # UNESCO status - CRITICAL
   OPTIONAL {{
     ?item wdt:P1435 wd:Q9259 .
     BIND(true AS ?unesco)
   }}
-
-  # Additional context
-  OPTIONAL {{ ?item wdt:P140 ?religion . }}
 
   SERVICE wikibase:label {{
     bd:serviceParam wikibase:language "en,de" .
@@ -103,7 +101,10 @@ LIMIT 10000
 # ============================================
 
 def query_wikidata(query: str) -> List[Dict]:
-    """Execute SPARQL query with proper UTF-8 encoding"""
+    """Execute SPARQL query with proper UTF-8 encoding and control character handling"""
+    import re
+    import json
+
     logger.info("Executing Wikidata query...")
 
     sparql = SPARQLWrapper(SPARQL_ENDPOINT)
@@ -116,12 +117,24 @@ def query_wikidata(query: str) -> List[Dict]:
     sparql.agent = "WorldHeritageBot/1.0 (https://worldheritage.guide; contact@worldheritage.guide)"
 
     try:
-        results = sparql.query().convert()
+        # Get raw response
+        response = sparql.query()
+        raw_data = response.response.read()
+
+        # Decode and sanitize - remove control characters except newline, tab, carriage return
+        text = raw_data.decode('utf-8')
+        # Remove control characters (0x00-0x1F) except \t (0x09), \n (0x0A), \r (0x0D)
+        text = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F]', '', text)
+
+        # Parse sanitized JSON
+        results = json.loads(text)
         bindings = results['results']['bindings']
         logger.info(f"Query returned {len(bindings)} results")
         return bindings
     except Exception as e:
         logger.error(f"Query failed: {e}")
+        import traceback
+        logger.error(traceback.format_exc())
         return []
 
 def parse_coordinate(coord_string: str) -> List[float]:
@@ -175,21 +188,10 @@ def process_site_data(binding: Dict) -> Dict:
         'country': 'Germany',
         'region': extract_value(binding, 'adminLabel'),
         'inception': inception,
-        'architect': extract_value(binding, 'architectLabel'),
-        'style': extract_value(binding, 'styleLabel'),
-        # Physical attributes
-        'height_m': extract_value(binding, 'height'),
-        'area_sqm': extract_value(binding, 'area'),
-        'elevation': extract_value(binding, 'elevation'),
-        'material': extract_value(binding, 'materialLabel'),
         # Visitor info
         'official_website': extract_value(binding, 'website'),
-        'opening_hours': extract_value(binding, 'opening_hours'),
-        'entry_fee': extract_value(binding, 'admission_fee'),
-        'annual_visitors': extract_value(binding, 'visitor_count'),
-        # Status
+        # Status - CRITICAL
         'unesco': extract_value(binding, 'unesco') == 'true',
-        'religion': extract_value(binding, 'religionLabel'),
         # Image
         'wikidata_image': extract_value(binding, 'image'),
     }
@@ -218,28 +220,47 @@ def validate_site(site: Dict) -> tuple[bool, str]:
 # ============================================
 
 def main():
-    """Main execution"""
+    """Main execution - Query categories in batches to avoid timeout"""
 
     logger.info("="*60)
-    logger.info("SCRIPT 1: FETCH WIKIDATA")
+    logger.info("SCRIPT 1: FETCH WIKIDATA (BATCHED)")
     logger.info("="*60)
     logger.info(f"Country: {PROJECT['country']}")
     logger.info(f"Wikidata ID: {PROJECT['wikidata_id']}")
-    logger.info(f"Heritage types: {len(HERITAGE_TYPES)}")
+    logger.info(f"Total heritage types: {len(HERITAGE_TYPES)}")
     logger.info("")
 
-    query = build_sparql_query(PROJECT['wikidata_id'], HERITAGE_TYPES)
-    results = query_wikidata(query)
+    # Split heritage types into batches of 10 to avoid timeout
+    heritage_items = list(HERITAGE_TYPES.items())
+    batch_size = 10
+    batches = [dict(heritage_items[i:i+batch_size]) for i in range(0, len(heritage_items), batch_size)]
 
-    if not results:
+    logger.info(f"Querying in {len(batches)} batches (batch size: {batch_size})")
+    logger.info("")
+
+    all_results = []
+    for batch_num, batch in enumerate(batches, 1):
+        logger.info(f"Batch {batch_num}/{len(batches)}: {len(batch)} types")
+        query = build_sparql_query(PROJECT['wikidata_id'], batch)
+        results = query_wikidata(query)
+        all_results.extend(results)
+        logger.info(f"  -> Got {len(results)} results")
+
+        # Small delay between batches to be nice to Wikidata
+        if batch_num < len(batches):
+            time.sleep(2)
+
+    logger.info(f"\nTotal results from all batches: {len(all_results)}")
+
+    if not all_results:
         logger.error("No results. Exiting.")
         return
 
-    logger.info("Processing sites...")
+    logger.info("\nProcessing sites...")
     sites_dict = {}  # Use dict to deduplicate by wikidata_id
     skipped = []
 
-    for binding in tqdm(results, desc="Processing"):
+    for binding in tqdm(all_results, desc="Processing"):
         site = process_site_data(binding)
         wikidata_id = site.get('wikidata_id')
 
@@ -282,16 +303,21 @@ def main():
     logger.info("="*60)
     logger.info("SUMMARY")
     logger.info("="*60)
-    logger.info(f"Total results: {len(results)}")
-    logger.info(f"Valid sites: {len(sites)}")
+    logger.info(f"Total raw results: {len(all_results)}")
+    logger.info(f"Valid unique sites: {len(sites)}")
     logger.info(f"Skipped: {len(skipped)}")
     logger.info(f"Average completeness: {sum(s['completeness_score'] for s in sites) / len(sites):.1f}")
     logger.info(f"Output: {output_file}")
     logger.info("")
 
-    logger.info("Top 10 by completeness:")
+    # Count UNESCO sites
+    unesco_sites = [s for s in sites if s.get('unesco')]
+    logger.info(f"UNESCO World Heritage Sites: {len(unesco_sites)}")
+
+    logger.info("\nTop 10 by completeness:")
     for i, site in enumerate(sites[:10], 1):
-        logger.info(f"{i}. {site['name']} (score: {site['completeness_score']})")
+        unesco_mark = " [UNESCO]" if site.get('unesco') else ""
+        logger.info(f"{i}. {site['name']}{unesco_mark} (score: {site['completeness_score']})")
 
     logger.info("")
     logger.info("Script 1 complete!")

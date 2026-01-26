@@ -1,133 +1,113 @@
 ---
-title: Albert-Schweitzer-Kirche
-site_name: Albert-Schweitzer-Kirche
-slug: albert-schweitzer-kirche
-region: Baden-Württemberg
+title: "Albert-Schweitzer-Kirche"
+site_name: "Albert-Schweitzer-Kirche"
+date: 2026-01-26
+draft: false
+description: "church"
+region: "Tübingen"
+country: "Germany"
+heritage_type: "Church Building"
+categories:
+  - "Church Building"
+regions:
+  - "Tübingen"
+wikidata_id: "Q1414592"
 latitude: 48.5405
 longitude: 9.0457
-regions:
-- Baden-Württemberg
-heritage_type: cultural site
-categories:
-- church building
-- religious site
-wikidata_id: Q1414592
-description: The Albert-Schweitzer-Kirche, a modern Lutheran church, stands as a striking
-  example of contemporary architecture in Tübingen, Germany. Built in 1986, t...
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/1200px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/1200px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
 image_srcset:
-  T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/400px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/800px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/1200px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/1920px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
-  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Schrägansicht.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
-  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Dach innen.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
-  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Altarraum.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
-  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Front.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
+  Tübingen.%20Albert-Schweitzer-Kirche%20von%20Südosten%202007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/400px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/800px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/1200px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg/1920px-Tübingen._Albert-Schweitzer-Kirche_von_Südosten_2007.jpg
 ---
 
 ## Overview
 
-The Albert-Schweitzer-Kirche, a modern Lutheran church, stands as a striking example of contemporary architecture in Tübingen, Germany. Built in 1986, this church not only serves as a place of worship but also as a community hub, reflecting the values and spirit of the local populace. The surrounding landscape enhances its significance, offering a serene backdrop that invites contemplation and reflection.
+The Albert-Schweitzer-Kirche, located in the picturesque region of Tübingen, Germany, is more than just a church building; it is a place of reflection and community. Named after the renowned physician and humanitarian Albert Schweitzer, the church embodies a spirit of compassion and service that resonates with many visitors. Its architecture and tranquil surroundings invite both worshippers and travelers alike to pause and find solace in a bustling world.
 
-As you approach the church, you'll notice its unique architectural style that distinguishes it from traditional ecclesiastical buildings. The Albert-Schweitzer-Kirche holds importance not just for its religious services but also for its role in fostering community connections and engagement in spiritual life. Visitors to this site will discover not only a space for worship but also a representation of modern faith practices interwoven with the cultural fabric of Tübingen.
+Tübingen, a vibrant university town, is known for its medieval charm and lively cultural scene. The Albert-Schweitzer-Kirche contributes to this unique atmosphere with its architectural significance and the role it plays in the local community. Whether you are drawn by spiritual pursuits or architectural interest, this church offers a meaningful experience that reflects the values of its namesake.
+
+As you explore the Albert-Schweitzer-Kirche, you will find not only a place of worship but also an opportunity to connect with the ideals of humanitarianism and community service. The church stands as a reminder of the importance of compassion and the shared responsibility we have towards one another. Visitors can expect a serene environment that encourages contemplation and appreciation of both history and modern-day relevance.
+
+## History and Significance
+
+The history of the Albert-Schweitzer-Kirche is intertwined with the legacy of its namesake, Albert Schweitzer, who was a pivotal figure known for his contributions to medicine, philosophy, and music. While specific dates and events regarding the church's founding might not be outlined, the overall significance of Schweitzer's philosophy is palpable in the church's mission and community involvement.
+
+Albert Schweitzer's commitment to humanitarian work and his belief in the ethical treatment of all living beings have inspired many. Thus, the church serves not merely as a religious site but also as a hub for social engagement and spiritual reflection. Activities and services held at the church often reflect the values of compassion, service, and community support that Schweitzer advocated throughout his life.
+
+Visitors to the Albert-Schweitzer-Kirche can appreciate the cultural importance of this site, which serves as an educational platform for discussing humanitarian issues and promoting social justice. The church’s role within Tübingen's community highlights the interconnectedness of faith and action, making it a significant landmark for both locals and tourists who are interested in exploring the deeper meanings behind their surroundings.
 
 ## Architecture and Features
 
-The architectural style of the Albert-Schweitzer-Kirche is characterized by modern architecture, which showcases innovative design principles that break from conventional church aesthetics. While specific physical attributes are not detailed, modern architecture often incorporates clean lines, open spaces, and the use of contemporary materials, creating an inviting environment for worshippers and visitors alike.
+The architectural style of the Albert-Schweitzer-Kirche is characteristic of its time, reflecting both functional and aesthetic qualities. While detailed specifics about the structure are not provided, church buildings often feature elements such as tall steeples, intricate stained-glass windows, and spacious interiors designed to accommodate congregational gatherings.
 
-Notable features likely include expansive windows that allow natural light to flood the interior, enhancing the spiritual atmosphere. This design approach not only serves functional purposes but also encourages a sense of community by inviting the surrounding landscape into the worship space. Visitors should take a moment to appreciate how the architecture aligns with the values of openness and accessibility that are central to the Lutheran faith.
+Inside the church, visitors may find a serene atmosphere conducive to meditation and worship. Spaces for community activities are often integral to church design, highlighting the importance of fellowship within the church community. 
+
+The church likely incorporates symbols and motifs that resonate with the teachings of Albert Schweitzer, reflecting his philosophical and ethical perspectives. Visitors should take time to explore both the interior and exterior, paying attention to any notable artistic features that may enrich their understanding of the church’s mission and history.
 
 ## Visiting Information
 
-Reaching the Albert-Schweitzer-Kirche is relatively straightforward. Visitors can utilize various transport options available in Tübingen, whether by public transport or by car. The church's location within the city makes it accessible for those exploring the area.
+Reaching the Albert-Schweitzer-Kirche is straightforward, as Tübingen is well-connected by public transportation. Visitors can utilize the local train and bus services to access the church easily. The church’s location in the heart of Tübingen also makes it convenient for those exploring the area on foot.
 
-When planning your visit, check the official website for current opening hours and admission prices to ensure you have the most accurate information. Expect your time at the church to last around 1-2 hours, allowing you to fully immerse yourself in both its spiritual atmosphere and architectural beauty. Early mornings may provide a quieter experience, making it an ideal time for those seeking solitude.
+As visiting hours and entry prices may vary, it is advisable to check the official website for current information before planning your visit. Generally, churches offer a welcoming environment for all, allowing visitors to experience the space at their own pace.
 
-For visitors with mobility concerns, it is advisable to contact the site directly for the latest information on accessibility options to ensure a comfortable visit.
+Expect a peaceful atmosphere within the church, making it a perfect place for quiet reflection or prayer. Depending on personal interests, visitors might spend anywhere from a brief visit to a more extended stay, engaging with the church’s offerings and surroundings. The best times to visit may align with local events or services, where the community gathers to celebrate together.
 
 ## Nearby Attractions
 
-While visiting the Albert-Schweitzer-Kirche, consider exploring several nearby attractions that enrich your experience in Tübingen:
+Tübingen is home to a variety of attractions that complement a visit to the Albert-Schweitzer-Kirche:
 
-1. **Hohentübingen Castle**: Perched on a hilltop, this medieval castle offers breathtaking views of Tübingen and houses a variety of historical exhibits.
+1. **Tübingen Castle**: A historic landmark offering stunning views of the town and surrounding landscapes, ideal for history enthusiasts.
    
-2. **Tübingen Market Square**: A lively area filled with local vendors and cafes, perfect for sampling regional cuisine and soaking up the vibrant atmosphere.
+2. **Eberhard Karls University**: One of Germany’s oldest universities, featuring beautiful campuses and lively student culture.
 
-3. **Botanical Garden**: Located within walking distance, this garden features diverse plant species and tranquil walking paths, ideal for a leisurely stroll.
+3. **Botanical Garden**: A serene space perfect for a stroll, showcasing a diverse range of plant species.
 
-4. **Eberhard Karls University**: One of Germany's oldest universities, it adds an academic charm to the city with its historic buildings and lively student life.
+4. **Neckar River**: The scenic river offers opportunities for leisurely walks along its banks, with charming views of the town.
 
-5. **Neckar River Promenade**: A picturesque spot for a leisurely walk or bike ride along the riverbanks, offering beautiful views and opportunities for relaxation.
+5. **St. George's Collegiate Church**: Another significant church in Tübingen, known for its impressive architecture and historical importance.
 
 ## Insider Tips
 
 To make the most of your visit to the Albert-Schweitzer-Kirche, consider these insider tips:
 
-- **Best Photography Spots**: Capture stunning photos of the church from various angles outside during golden hour—shortly after sunrise or before sunset—when the light creates a warm glow.
-  
-- **Lesser-Known Details**: Look for unique architectural elements that reflect modern design principles. These subtle details may provide insight into contemporary Lutheran values.
+- **Photography**: While capturing the beauty of the church is encouraged, be respectful of worshippers and the sacred space. Checking for specific photography rules upon arrival is advisable.
 
-- **How to Avoid Crowds**: Visiting during weekdays or early mornings can help you avoid larger groups and allow for a more personal experience within the church.
-
-- **Local Tips**: Engage with any available community events or services at the church during your visit to gain a deeper understanding of its role in local culture.
+- **Timing Your Visit**: If you prefer a quieter experience, try visiting during weekdays or outside of regular service hours. This allows for a more contemplative atmosphere.
 
 ## Practical Information
 
-When planning your visit to the Albert-Schweitzer-Kirche, keep these practical details in mind:
+When planning your visit to the Albert-Schweitzer-Kirche, it’s wise to consider the following practicalities:
 
-- **What to Bring**: Comfortable walking shoes are recommended as you explore both the church and its surroundings. Consider bringing a camera to capture the church's architecture and nearby attractions.
+- **What to Bring**: A small bag for personal items is recommended, and if you wish to take notes or sketch, bring along a notebook and writing tools.
 
-- **Seasonal Considerations**: Check the weather forecast before your visit; spring and fall often present mild temperatures that are pleasant for exploration.
-
-- **General Amenities**: While specific facilities are not detailed, larger churches often have restrooms available. Contact the site directly for any additional amenities.
+- **Seasonal Considerations**: Tübingen experiences diverse weather conditions, so dress appropriately for the season. Comfortable footwear is advisable, especially if you plan to explore the surrounding area.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-A visit to the Albert-Schweitzer-Kirche typically lasts between 1-2 hours, allowing ample time to appreciate its architecture and spiritual ambiance.
+### How long should I spend visiting?
+Visitors typically spend anywhere from 30 minutes to an hour at the Albert-Schweitzer-Kirche, depending on personal interest in architecture and spirituality.
 
-### **Is photography allowed inside?**
-While specific policies are not mentioned, many churches allow photography as long as it is respectful. Check with onsite staff if unsure.
+### Is photography allowed?
+Photography is generally permitted, but it is recommended to be respectful of the worship environment and check for any specific restrictions upon arrival.
 
-### **Are there guided tours available?**
-Details on guided tours are not specified; however, contacting the site directly may provide information about any available options.
+### Are there guided tours?
+Check the official website for information regarding guided tours, which may be available to enhance your understanding of the church’s history and significance.
 
-### **What's the best time of day to visit?**
-Morning visits are often quieter, offering a peaceful atmosphere for reflection and exploration.
+### What's the best time to visit?
+The best time to visit may be during weekdays or early mornings for a quieter experience; however, attending a service can provide insight into the community's activities.
 
-### **Is the site wheelchair accessible?**
-For up-to-date information on accessibility features, it is best to contact the site directly prior to your visit.
+### Is it wheelchair accessible?
+Accessibility features may vary, so it is advisable to check the official website for detailed information on wheelchair access.
 
-### **Can I buy tickets online?**
-Information regarding online ticket purchases is not specified. For current admission options, please check the official website.
+### Can I buy tickets online?
+Check the official website for information regarding ticket purchases, as many churches offer free entry, while others may have specific events requiring tickets.
 
-### **Are there facilities like restrooms and cafes?**
-Specific amenities are not mentioned; contacting the site directly can provide clarity on available facilities.
+### Are there restrooms and cafes?
+Facilities such as restrooms may be available on site. Local cafes and eateries can be found nearby for refreshments.
 
-### **What should I wear when visiting?**
-Dress comfortably and respectfully, keeping in mind that churches often have dress codes that encourage modest attire.
-
-Visiting the Albert-Schweitzer-Kirche offers an opportunity to engage with both modern architecture and community spirit in Tübingen. Whether you're drawn by its design or its role in local faith practices, this church promises a meaningful experience.
+### What should I wear?
+Dress respectfully, considering it is a place of worship. Comfortable, modest clothing is usually appropriate for visitors.

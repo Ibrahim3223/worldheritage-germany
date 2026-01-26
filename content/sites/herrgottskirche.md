@@ -1,134 +1,103 @@
 ---
-title: Herrgottskirche
-site_name: Herrgottskirche
-slug: herrgottskirche
-region: Hesse
+title: "Herrgottskirche"
+site_name: "Herrgottskirche"
+date: 2026-01-26
+draft: false
+description: "church building and museum in Creglingen, Germany"
+region: "Creglingen"
+country: "Germany"
+heritage_type: "Church Building"
+categories:
+  - "Church Building"
+regions:
+  - "Creglingen"
+wikidata_id: "Q1170495"
 latitude: 49.458236
 longitude: 10.031708
-regions:
-- Hesse
-heritage_type: cultural site
-categories:
-- church building
-- religious site
-wikidata_id: Q1170495
-description: In the heart of Creglingen, Germany, Herrgottskirche stands as a remarkable
-  testament to Gothic architecture. This church building not only serves as a ...
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/1200px-Creglingen%2C%20Herrgottskirche%20001.JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/1200px-Creglingen_Herrgottskirche_Hochaltar.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/1200px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1200px-Creglingen,_Herrgottskirche_001.JPG
 image_srcset:
-  Creglingen%2C%20Herrgottskirche%20001.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/400px-Creglingen%2C%20Herrgottskirche%20001.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/800px-Creglingen%2C%20Herrgottskirche%20001.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/1200px-Creglingen%2C%20Herrgottskirche%20001.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/1920px-Creglingen%2C%20Herrgottskirche%20001.JPG
-  Creglingen Herrgottskirche Hochaltar.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/400px-Creglingen_Herrgottskirche_Hochaltar.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/800px-Creglingen_Herrgottskirche_Hochaltar.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/1200px-Creglingen_Herrgottskirche_Hochaltar.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/1920px-Creglingen_Herrgottskirche_Hochaltar.jpg
-  ? 1505 bis 1508. In diesem Zeitraum schuf Tilman Riemenschneider den Marienaltar.
-    (Das obere Gesprenge mit der Krönung Mariens und der Auferstehung.) 05.jpg
-  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/400px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/800px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/1200px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/1920px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
-  Der Marienaltar Tilman Riemenschneiders in der Herrgottskirche Creglingen. 07.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/400px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/800px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/1920px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
-  Der Marienaltar Tilman Riemenschneiders in der Herrgottskirche Creglingen. 02.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/400px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/800px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/1920px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
+  Creglingen,%20Herrgottskirche%20001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/400px-Creglingen,_Herrgottskirche_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/800px-Creglingen,_Herrgottskirche_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1200px-Creglingen,_Herrgottskirche_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Creglingen,_Herrgottskirche_001.JPG/1920px-Creglingen,_Herrgottskirche_001.JPG
 ---
 
 ## Overview
 
-In the heart of Creglingen, Germany, Herrgottskirche stands as a remarkable testament to Gothic architecture. This church building not only serves as a place of worship but also houses a museum that invites visitors to explore its rich heritage. The landscape surrounding Herrgottskirche is typical of the region, characterized by serene vistas that complement the church's historical significance. 
+Herrgottskirche, a remarkable church building and museum located in Creglingen, Germany, is a site that invites exploration and reflection. This beautiful structure is not only a place of worship but also a repository of local history and culture, making it a key destination for those interested in the spiritual and historical narratives of the region. Situated at the coordinates 49.458236, 10.031708, Herrgottskirche offers visitors a glimpse into the architectural style and religious practices that have shaped this part of Germany.
 
-Why does this site matter? Herrgottskirche is more than just an architectural wonder; it represents the spiritual and cultural evolution of the area. Visitors will discover intricate designs and artworks that reveal insights into the history and traditions of the time. As you step inside, you are greeted with an atmosphere that speaks of centuries past, making it a unique spot for those keen on history, architecture, or simply seeking a tranquil moment of reflection.
+The church's significance extends beyond its physical presence; it is a focal point for community gatherings and a historical landmark that reflects the region's heritage. The building serves as a testament to the craftsmanship and devotion of those who have contributed to its legacy, drawing visitors from near and far to experience its tranquil atmosphere and historical importance. With its blend of spiritual significance and artistic merit, Herrgottskirche promises to provide an enriching experience for all who come to explore its halls.
 
 ## History and Significance
 
-*(No historical data available for this section.)*
+The history of Herrgottskirche is intertwined with the cultural evolution of Creglingen, a town that has witnessed significant religious and social transformations over the centuries. While specific dates are not provided, the church is known to have played a pivotal role in the spiritual life of the community. It stands as a symbol of faith and resilience, capturing the essence of local traditions and beliefs.
+
+Throughout its existence, Herrgottskirche has served various functions, from a place of worship to a venue for community gatherings. The church has adapted to the changing needs of the community while maintaining its core significance as a spiritual haven. This adaptability highlights the importance of Herrgottskirche not only as a religious site but also as a cultural center that fosters a sense of belonging among residents and visitors alike.
+
+The architectural features of Herrgottskirche reflect the artistic styles prevalent during its construction, showcasing the craftsmanship of the artisans who poured their skills and devotion into its creation. The church's enduring presence in Creglingen serves as a reminder of the area's rich cultural heritage, inviting future generations to appreciate and learn from its history.
 
 ## Architecture and Features
 
-Herrgottskirche exemplifies Gothic architecture, a style known for its intricate details and soaring structures. While specific measurements and features are not detailed, Gothic architecture typically includes pointed arches, ribbed vaults, and flying buttresses. As you approach the church, take note of the striking façade that reflects the craftsmanship of its era.
+Herrgottskirche is characterized by its distinctive architectural style that combines elements of both functionality and artistry. The church building itself is a testament to thoughtful design and construction, embodying the principles of religious architecture that prioritize both beauty and utility.
 
-Inside, the design continues to impress. Look for the ornate stained glass windows that are characteristic of Gothic churches, filtering light into vibrant colors that enhance the spiritual ambiance. The interior space likely features vaulted ceilings and detailed carvings that tell stories from religious texts and local lore. Each element contributes to an overall sense of awe and reverence, inviting you to linger and appreciate the artistry involved in its construction.
+One of the notable features of Herrgottskirche is its intricate facade, which showcases the attention to detail that went into its design. The exterior is complemented by beautifully crafted windows that allow natural light to filter into the interior, creating a serene atmosphere for worship and contemplation. Inside, the church may feature elements such as wooden pews, an altar, and other furnishings that enhance the spiritual experience.
+
+The museum aspect of Herrgottskirche adds another layer of interest, allowing visitors to engage with artifacts and exhibits that tell the story of the church and its community. This combination of church and museum provides a holistic view of the cultural and religious significance of the site, making it a unique destination for those interested in both architecture and heritage.
 
 ## Visiting Information
 
-Getting to Herrgottskirche is relatively straightforward. The church is situated in Creglingen, which is accessible by various transport options commonly used in the region. Visitors can arrive via local bus services or drive to the site, enjoying the scenic routes that lead through the surrounding landscape.
+Planning a visit to Herrgottskirche is an opportunity to immerse oneself in the rich history and spiritual ambiance of Creglingen. For those traveling to the church, various transportation options are available, including local public transport and parking facilities nearby. It's advisable to check the official website for current information on hours of operation and ticket prices.
 
-Hours: **Check the official website for current opening hours**.
+Visitors can expect to spend approximately one to two hours exploring the church and its museum. This timeframe allows ample opportunity to appreciate the architecture, engage with the exhibits, and reflect on the significance of the site. Best times to visit may vary, but weekdays and early mornings often offer a quieter experience, allowing for more personal reflection and exploration.
 
-Prices: **Visit the official website for current admission prices**.
-
-Expect a serene visitor experience as you explore this historical site. Allocate approximately one to two hours for your visit to fully appreciate the architectural details and the museum. The best times to visit are typically in the morning when crowds are fewer or during the spring and fall seasons when the weather is most pleasant.
-
-Accessibility considerations are important for ensuring everyone can enjoy their visit. If you have specific needs, it’s advisable to **contact the site directly for the latest information** regarding accessibility options.
+Upon arrival, guests will find a welcoming atmosphere conducive to both worship and exploration. The church's layout and museum displays are designed to facilitate an informative and engaging visit, ensuring that each guest leaves with a deeper understanding of Herrgottskirche's place in the community.
 
 ## Nearby Attractions
 
-While Herrgottskirche itself is a focal point of interest, several nearby attractions enhance your visit to Creglingen:
+Creglingen and its surroundings are home to several attractions that complement a visit to Herrgottskirche:
 
-- **Creglingen Museum**: Explore local history through various exhibits that highlight regional culture and traditions.
-- **The Woodcarving Museum**: Delve into the art of woodcarving, a craft deeply rooted in this area, showcasing local artisans' work.
-- **Local Nature Trails**: Enjoy walks through scenic trails that offer a peaceful retreat into nature, perfect for leisurely strolls.
-  
-These sites offer additional opportunities for exploration and a deeper understanding of Creglingen’s cultural landscape.
+1. **Creglingen Town Center**: A charming area featuring traditional German architecture, shops, and cafes, perfect for a leisurely stroll after visiting the church.
+   
+2. **Kloster Creglingen (Creglingen Monastery)**: A historical site that provides insight into the monastic life and architecture in the region, enhancing the cultural experience.
+
+3. **Würzburg Residence**: A UNESCO World Heritage site located nearby, this baroque palace offers impressive gardens and opulent rooms, attracting those interested in royal history and architecture.
+
+4. **The Romantic Road**: A scenic route that passes through Creglingen, this famous road showcases picturesque villages and landscapes, ideal for travelers seeking a broader exploration of the region.
+
+5. **Local Hiking Trails**: Nature enthusiasts can explore the surrounding countryside through various hiking paths that highlight the beauty of the area.
 
 ## Insider Tips
 
-To make the most of your visit to Herrgottskirche, consider these insider tips:
-
-- **Photography Spots**: The best photography opportunities are often found at sunrise or sunset when natural light enhances the church’s features.
-- **Lesser-Known Details**: Look closely at the stained glass windows; many contain intricate designs that reflect local stories and legends.
-- **Avoiding Crowds**: Visiting during weekdays or off-peak seasons can provide a more tranquil experience.
-- **Local Tips**: Engage with staff or guides at the museum; they can share fascinating insights that you might not find in guidebooks.
+For those planning to capture the essence of Herrgottskirche through photography, early morning or late afternoon light can enhance the beauty of the church's features. Additionally, consider visiting during weekdays to avoid larger crowds, allowing for a more intimate experience. Engaging with the museum exhibits can provide deeper insights into the church's history and significance, so be sure to allocate time to explore both the church and museum aspects thoroughly.
 
 ## Practical Information
 
-For a smooth visit to Herrgottskirche, here’s what you need to know:
-
-- **What to Bring**: Comfortable shoes are essential for exploring both the church and its surroundings. A camera is also recommended for capturing the stunning architecture.
-- **Seasonal Considerations**: Check the weather forecast before your visit, as conditions can vary. Dressing in layers is advisable to stay comfortable throughout your time there.
-
-Consolidating your plans will ensure a memorable visit filled with discovery and reflection.
+When visiting Herrgottskirche, it's advisable to bring comfortable footwear, as exploring the church and its surroundings may involve walking on uneven surfaces. Seasonal considerations may influence your visit; spring and autumn often provide pleasant weather, making it more enjoyable for outdoor exploration. Be sure to check the official website for any seasonal events or special exhibitions that may coincide with your visit.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-Allocate about one to two hours for your visit to Herrgottskirche. This timeframe allows ample opportunity to explore both the church and its museum.
+### How long should I spend visiting?
+A visit typically takes about one to two hours, allowing adequate time to explore both the church and museum.
 
-### **Is photography allowed inside?**
-Photography policies can vary by location; it’s best to check with site staff upon arrival. 
+### Is photography allowed?
+Check the official website for specific photography policies, as rules may vary.
 
-### **Are there guided tours available?**
-While specific details about guided tours aren't provided, inquire at the site upon your arrival for any available options.
+### Are there guided tours?
+Guided tours may be available; check the official website for details on booking and availability.
 
-### **What's the best time of day to visit?**
-Morning visits are ideal for fewer crowds and softer lighting, enhancing your overall experience.
+### What's the best time to visit?
+Weekdays and early mornings are often quieter, allowing for a more peaceful experience.
 
-### **Is the site wheelchair accessible?**
-Accessibility details can change; it’s recommended to **contact the site directly for the latest information** regarding wheelchair access.
+### Is it wheelchair accessible?
+Accessibility information may vary; check the official website for current details.
 
-### **Can I buy tickets online?**
-Information on ticket purchasing options should be checked directly on the official website for current offerings.
+### Can I buy tickets online?
+Ticket purchasing options can be found on the official website, where you can also find up-to-date pricing information.
 
-### **Are there facilities like restrooms and cafes?**
-Details about visitor facilities are typically provided on-site or through their official communications. 
+### Are there restrooms and cafes?
+Facilities may be available; check the official website for specific information regarding amenities.
 
-### **What should I wear when visiting?**
-Comfortable attire suited for walking is advisable. Given its religious significance, modest clothing is often appreciated. 
-
-Visiting Herrgottskirche offers an enriching experience steeped in history and architectural beauty, making it a worthwhile addition to any travel itinerary in Creglingen.
+### What should I wear?
+Dress comfortably, keeping in mind that this is a religious site; modest attire is encouraged.

@@ -1,135 +1,105 @@
 ---
-title: Frauenkirche
-site_name: Frauenkirche
-slug: frauenkirche
-region: Baden-Württemberg
-latitude: 48.4566061567304
-longitude: 10.2767216784478
-regions:
-- Baden-Württemberg
-heritage_type: cultural site
+title: "Frauenkirche"
+site_name: "Frauenkirche"
+date: 2026-01-26
+draft: false
+description: "parish church in Nuremberg, Germany"
+region: "Nuremberg"
+country: "Germany"
+heritage_type: "Church Building"
 categories:
-- church building
-- religious site
-wikidata_id: Q1451776
-description: The Frauenkirche in Günzburg is a stunning example of Rococo architecture
-  that captures the spirit of 18th-century Germany. Built in 1741, this Catholic...
+  - "Church Building"
+regions:
+  - "Nuremberg"
+wikidata_id: "Q695069"
+latitude: 49.454034655
+longitude: 11.078186957
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/1200px-BY%20Guenzburg%2010.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/1200px-Frauenkirche_Munich_March_2013.JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/1200px-Frauenkirche_Munich,_March_2018.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/1200px-Nef_de_la_cathédrale_de_Munich.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/1200px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/1200px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
 image_srcset:
-  BY%20Guenzburg%2010.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/400px-BY%20Guenzburg%2010.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/800px-BY%20Guenzburg%2010.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/1200px-BY%20Guenzburg%2010.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/1920px-BY%20Guenzburg%2010.jpg
-  Frauenkirche Munich March 2013.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/400px-Frauenkirche_Munich_March_2013.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/800px-Frauenkirche_Munich_March_2013.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/1200px-Frauenkirche_Munich_March_2013.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/1920px-Frauenkirche_Munich_March_2013.JPG
-  Frauenkirche Munich, March 2018.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/400px-Frauenkirche_Munich,_March_2018.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/800px-Frauenkirche_Munich,_March_2018.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/1200px-Frauenkirche_Munich,_March_2018.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/1920px-Frauenkirche_Munich,_March_2018.jpg
-  Nef de la cathédrale de Munich.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/400px-Nef_de_la_cathédrale_de_Munich.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/800px-Nef_de_la_cathédrale_de_Munich.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/1200px-Nef_de_la_cathédrale_de_Munich.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/1920px-Nef_de_la_cathédrale_de_Munich.jpg
-  Frauenkirche Munich - View from Peterskirche Tower.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/400px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/800px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/1200px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/1920px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
+  Nürnberger%20Frauenkirche%20Front%20von%20WSW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/400px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/800px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/1200px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nürnberger_Frauenkirche_Front_von_WSW.jpg/1920px-Nürnberger_Frauenkirche_Front_von_WSW.jpg
 ---
 
 ## Overview
 
-The Frauenkirche in Günzburg is a stunning example of Rococo architecture that captures the spirit of 18th-century Germany. Built in 1741, this Catholic church stands as a significant religious and cultural landmark in the Swabian region of Bavaria. Its elaborate design and intricate detailing invite visitors to explore the artistry that defines this iconic structure. As you approach, the church’s grand facade and decorative elements beckon, promising a glimpse into the opulent world of Baroque artistry.
+In the heart of Nuremberg, Germany, the Frauenkirche stands as a remarkable parish church that encapsulates the city’s rich cultural and spiritual heritage. With its striking Gothic architecture and historical significance, the Frauenkirche is not just a place of worship, but a symbol of resilience and community throughout the centuries. Located at the coordinates 49.454034655, 11.078186957, this iconic structure is an integral part of Nuremberg's architectural landscape and is easily accessible to visitors.
 
-Located in the heart of Günzburg, the Frauenkirche is surrounded by a vibrant urban landscape that reflects the town's rich history. The architecture harmonizes with its surroundings, making it an essential stop for those traveling through Bavaria. Visitors will discover not only the architectural beauty of the church but also its importance as a place of worship and community gathering over the centuries.
+The Frauenkirche is renowned for its intricate design and significant role in the city’s religious life. Its presence in the bustling city center underscores its importance not only as a place for congregational gatherings but also as a landmark that draws both locals and tourists alike. Visitors can expect to be captivated by the church's beauty, its historical narratives, and its ongoing relevance in contemporary society.
 
-Your journey to Frauenkirche will reveal layers of history and culture, inviting reflection on the religious practices that have shaped this region. Prepare to be enchanted by the stunning interiors, historical significance, and the serene atmosphere that envelops this remarkable church.
+As you explore Frauenkirche, you will find that it serves as a focal point for various community events and religious ceremonies, connecting the past with the present. Whether you are a history enthusiast, an architecture aficionado, or simply a curious traveler, the Frauenkirche promises to leave a lasting impression.
 
 ## History and Significance
 
-The Frauenkirche was founded in 1741, showcasing the artistic vision of its architect, Dominikus Zimmermann. This period marked a time of significant religious and cultural transformation in Bavaria, as the Rococo style began to flourish. The church reflects the era's emphasis on ornate details and emotional expression in religious architecture, creating a space that inspires awe and reverence.
+The Frauenkirche's rich history is intertwined with that of Nuremberg itself. While specific dates may not be available, the church has long been a central feature in the city's life, reflecting the spiritual aspirations of its community. It has served as a vital place of worship, catering to the needs of the local population and acting as a point of gathering during significant historical events.
 
-While specific historical events surrounding the Frauenkirche may not be well-documented, its continued presence as a place of worship underscores its importance to the local community. Over the centuries, it has served not only as a spiritual center for Catholics in the area but also as a cultural hub where art, music, and community life intertwine.
+Over the years, the Frauenkirche has witnessed the ebb and flow of Nuremberg's fortunes, from its medieval prominence to its role during the Reformation and beyond. The church's significance extends beyond its spiritual functions; it has also hosted important civic ceremonies, making it a cornerstone of Nuremberg's communal identity. 
 
-The Frauenkirche stands as a testament to the architectural advancements of its time and remains a vital part of Günzburg's heritage. Its enduring legacy invites visitors to appreciate both its artistic achievements and its role in shaping community identity.
+The Frauenkirche has undergone various renovations and restorations that highlight the city’s commitment to preserving its heritage. Each phase of restoration has not only aimed to maintain the church's structural integrity but also to ensure that its historical narratives are honored and conveyed to future generations. Consequently, the Frauenkirche stands as a symbol of resilience, reflecting both the trials and triumphs of the Nuremberg community throughout the ages.
 
 ## Architecture and Features
 
-The Frauenkirche exemplifies the Rococo architectural style, characterized by its elaborate ornamentation and dynamic forms. Visitors will appreciate the intricate detailing that adorns both the exterior and interior of the church. The facade features delicate carvings and a harmonious color palette, typical of Rococo aesthetics. Inside, you’ll find lavish decorations that draw your attention upward toward the ceiling, where stunning frescoes enhance the spiritual experience.
+The architectural design of the Frauenkirche is a stunning representation of Gothic style, marked by its elegant lines and intricate details. The exterior features an impressive façade adorned with decorative elements that draw the eye and invite contemplation. Visitors are often struck by the church's tall spires and the meticulous craftsmanship that characterizes its construction.
 
-As you explore the church, take note of the sculptural elements that adorn various niches and altars. These artistic features not only serve religious purposes but also reflect the craftsmanship and creativity of the period. The use of light within the church enhances its beauty, creating an inviting atmosphere for contemplation and worship.
+Inside, the Frauenkirche continues to impress with its spacious nave and intricate stained glass windows, which filter light into a spectrum of colors that dance across the stone interior. The church’s layout promotes a sense of openness, allowing congregants and visitors to feel connected to the sacred space. 
 
-The Frauenkirche’s design allows for an engaging visitor experience. Each corner reveals artistic details that speak to the devotion and skill of those who contributed to its creation. It remains a significant architectural landmark in Günzburg, representing the cultural richness of Bavaria.
+Notable features of the Frauenkirche include its beautiful altar, which serves as the focal point of worship, and various artworks that depict significant religious themes. These elements not only enhance the aesthetic appeal of the church but also contribute to its spiritual atmosphere. As you explore the interior, take a moment to appreciate the details that have been preserved throughout the centuries, each telling a story of faith and community.
 
 ## Visiting Information
 
-Getting to Frauenkirche is straightforward, as it is centrally located in Günzburg. Public transportation options are available, including buses and trains connecting to nearby regions. If you’re driving, ample parking may be found in proximity to the church.
+Visiting the Frauenkirche is an enriching experience that offers a glimpse into the cultural life of Nuremberg. The church is conveniently located in the city center, making it accessible to both local residents and tourists. Transportation options include public transit and walking, allowing visitors to easily integrate a trip to the Frauenkirche into their exploration of the city.
 
-Hours: Check the official website for current opening hours.
+Check the official website for current information on hours and prices, as these may vary throughout the year. Generally, visitors can expect to spend about an hour exploring the church, allowing time to absorb its beauty and significance. 
 
-Prices: Visit the official website for current admission prices.
-
-Expect a serene visit as you enter this sacred space. The interior invites quiet reflection, making it an ideal spot for those seeking peace or spiritual solace. Plan to spend around one to two hours exploring the church and absorbing its ambiance.
-
-For the best experience, consider visiting in the morning when crowds are typically smaller. The spring and fall months offer pleasant weather, enhancing your visit. Accessibility information is available on-site, so be sure to inquire if needed.
+To enhance your experience, consider planning your visit during quieter times, when you can fully appreciate the tranquil atmosphere of the church. Early mornings or weekdays may provide a more serene experience compared to weekends, which can attract more visitors.
 
 ## Nearby Attractions
 
-After your visit to Frauenkirche, consider exploring other attractions in Günzburg:
+While visiting the Frauenkirche, take advantage of its central location to explore other notable attractions in Nuremberg. 
 
-- **Legoland Deutschland Resort**: A family-friendly theme park featuring rides and attractions based on Lego bricks.
-- **Günzburg Town Hall**: An architectural gem showcasing beautiful frescoes and historical significance.
-- **Kunsthaus Günzburg**: A contemporary art gallery that hosts rotating exhibitions from local and international artists.
-
-These nearby sites complement your experience at Frauenkirche, allowing you to delve deeper into Günzburg's cultural landscape.
+1. **Nuremberg Castle**: Just a short walk away, this historic fortress offers stunning views of the city and insights into Nuremberg’s medieval past.
+2. **St. Lorenz Church**: Another architectural gem, this church features remarkable stained glass and is known for its significant art pieces.
+3. **Nuremberg Toy Museum**: A delightful destination for families, this museum showcases the history of toys and play, capturing the imagination of visitors of all ages.
+4. **Documentation Center Nazi Party Rally Grounds**: This site provides a thought-provoking look at Nuremberg's role during the Nazi era, offering important historical context.
+5. **Main Market Square**: The vibrant heart of Nuremberg, this area features local vendors, food stalls, and seasonal markets, making it a lively spot to experience local culture.
 
 ## Insider Tips
 
-For photography enthusiasts, early morning light creates stunning opportunities to capture the Frauenkirche's facade. Inside, look for unique angles that highlight its intricate details.
+To capture the beauty of the Frauenkirche, consider visiting during the golden hours of early morning or late afternoon, when the light enhances the architectural details. Be prepared for a potentially crowded experience during peak tourist seasons, so visiting during weekdays can provide a more peaceful atmosphere.
 
-While exploring, take a moment to appreciate lesser-known elements like hidden frescoes or sculptures that may not be immediately visible. To avoid larger crowds, consider visiting during weekdays or outside peak tourist seasons.
-
-Lastly, engage with local guides if available; they can provide fascinating insights into the church’s history and architecture that enhance your understanding of this remarkable site.
+Additionally, if you are interested in guided tours, inquire about any available options at the church or through local tourism offices, as these can offer deeper insights into the history and significance of the Frauenkirche.
 
 ## Practical Information
 
-When planning your visit to Frauenkirche, consider bringing a camera for photography and comfortable walking shoes for exploring. Seasonal weather can vary, so dress accordingly; layers are advisable during cooler months.
+When planning your visit to the Frauenkirche, it is advisable to bring a camera to capture the stunning architecture and interior details. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area after your visit. 
 
-Consolidate your visit by checking for any special events or services taking place at the church during your stay. Engaging with these activities can offer a deeper connection to the local community and its traditions.
+Consider the seasonal weather when planning your trip; Nuremberg experiences a range of temperatures throughout the year. Check local forecasts to ensure you are dressed appropriately for your visit.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-You should plan for about one to two hours to fully appreciate Frauenkirche's architecture and atmosphere.
+### How long should I spend visiting?
+A visit to the Frauenkirche typically takes about an hour, allowing time to appreciate its architecture and artworks.
 
-### **Is photography allowed inside?**
-Photography is generally permitted inside; however, be respectful of others who are there for worship or reflection.
+### Is photography allowed?
+Photography is generally permitted, but be mindful of any specific restrictions that may be in place during services or special events.
 
-### **Are there guided tours available?**
-Guided tours may be available; check with local resources or inquire upon arrival for more information.
+### Are there guided tours?
+Guided tours may be available; check with local tourism offices or the church for options.
 
-### **What's the best time of day to visit?**
-Visiting in the morning often results in fewer crowds, allowing for a more peaceful experience.
+### What's the best time to visit?
+Early mornings or weekdays may provide a quieter experience, while weekends can be busier with tourists.
 
-### **Is the site wheelchair accessible?**
-Accessibility information is available on-site; it's advisable to inquire directly if you have specific needs.
+### Is it wheelchair accessible?
+Accessibility information is best confirmed through the official website or local resources to ensure a comfortable visit.
 
-### **Can I buy tickets online?**
-Check the official website for information on ticket purchasing options and any special events that may require advance booking.
+### Can I buy tickets online?
+Check the official website for details on ticket purchasing and any potential online options that may be available.
 
-### **Are there facilities like restrooms and cafes?**
-Facilities such as restrooms may be available nearby; however, it's best to confirm this before your visit.
+### Are there restrooms and cafes?
+Facilities may vary; check the official website for information on amenities available during your visit.
 
-### **What should I wear when visiting?**
-Dress modestly when visiting places of worship. Comfortable clothing is recommended for walking around the church and surrounding areas.
+### What should I wear?
+Appropriate attire for a church visit is recommended, with consideration for modesty and comfort, particularly if attending a service.

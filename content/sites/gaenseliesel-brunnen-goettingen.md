@@ -1,135 +1,111 @@
 ---
-title: Gänseliesel-Brunnen Göttingen
-date: 2026-01-23
-draft: false
-description: fountain which was erected in 1901 in front of the mediaeval town hall
-  of Göttingen, Germany
-region: Germany
-country: Germany
-heritage_type: Fountain
-categories:
-- Fountain
-regions:
-- Germany
+title: "Gänseliesel-Brunnen Göttingen"
 site_name: "Gänseliesel-Brunnen Göttingen"
+date: 2026-01-26
+draft: false
+description: "fountain which was erected in 1901 in front of the mediaeval town hall of Göttingen, Germany"
+region: "Göttingen"
+country: "Germany"
+heritage_type: "Fountain"
+categories:
+  - "Fountain"
+regions:
+  - "Göttingen"
+wikidata_id: "Q18624915"
 latitude: 51.532709
 longitude: 9.935101
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1200px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/1200px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/1200px-Göttingen_Gänseliesel_März06.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/1200px-Göttingen_Gänseliesel.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/1200px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1200px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
 image_srcset:
-  Göttingen asv2022-06 img39 Gänseliesel.jpg:
+  Göttingen%20asv2022-06%20img39%20Gänseliesel.jpg:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/400px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/800px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1200px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
     1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1920px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
-  Original Göttinger Gänseliesel (Gänsemädel) von Paul Nisse (Bronze, 1901).JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/400px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/800px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/1200px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/1920px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
-  Göttingen Gänseliesel März06.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/400px-Göttingen_Gänseliesel_März06.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/800px-Göttingen_Gänseliesel_März06.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/1200px-Göttingen_Gänseliesel_März06.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/1920px-Göttingen_Gänseliesel_März06.jpg
-  Göttingen Gänseliesel.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/400px-Göttingen_Gänseliesel.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/800px-Göttingen_Gänseliesel.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/1200px-Göttingen_Gänseliesel.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/1920px-Göttingen_Gänseliesel.jpg
-  2020.12.28., Gänselieselbrunnen GÖ.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/400px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/800px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/1200px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/1920px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
 ---
 
 ## Overview
 
-In the heart of Göttingen, Germany, the Gänseliesel-Brunnen stands as a charming symbol of local folklore and community pride. This historic fountain, erected in front of the medieval town hall, serves not just as a functional water source but also as a cultural landmark that attracts both residents and visitors alike. The Gänseliesel, or "Goose Girl," is a figure rooted in the tales of the Brothers Grimm, connecting the fountain to a broader narrative of German cultural heritage. As a focal point of the city, the fountain invites exploration and reflection, embodying the spirit of Göttingen’s rich history and vibrant present. 
+In the heart of Göttingen, Germany, lies the Gänseliesel-Brunnen, a charming fountain that captivates visitors with its enchanting design and historical significance. Erected in 1901, this fountain stands proudly in front of the medieval town hall, serving as a focal point for both locals and tourists alike. The Gänseliesel, or "Goose Girl," is not merely a decorative feature; it embodies the spirit and cultural heritage of Göttingen, making it a must-see for anyone exploring the region.
+
+Situated in Lower Saxony, Göttingen is known for its vibrant academic atmosphere, largely influenced by its renowned university. The city combines a rich history with modern life, and the Gänseliesel-Brunnen plays a pivotal role in that dynamic. As a symbol of youth and innocence, the fountain is a beloved meeting spot, often bustling with activity as people gather to enjoy the surrounding architecture and ambiance.
+
+Visiting the Gänseliesel-Brunnen provides an opportunity to experience the essence of Göttingen. Surrounded by historic buildings and the vibrant energy of a university town, this fountain invites you to pause, reflect, and appreciate the blend of tradition and modernity that defines this remarkable city.
 
 ## History and Significance
 
-The Gänseliesel-Brunnen is more than just a simple fountain; it is a celebration of local folklore and a reflection of Göttingen's historical significance. Erected in 1901, the fountain features a bronze statue of a young girl tending to her geese. This figure draws inspiration from a story recorded by the Brothers Grimm, who were well-acquainted with the region and its traditions. The tale of the Goose Girl is a classic narrative of innocence and virtue, encapsulating themes of loyalty and the trials of youth.
+The Gänseliesel-Brunnen has a storied past that reflects the cultural fabric of Göttingen. Erected in 1901, it was designed to celebrate the beloved local folk tale of the Gänseliesel. This tale, which tells the story of a young girl who tends to her family’s geese, has become emblematic of the region's folklore and is often associated with themes of innocence and pastoral life. The fountain itself serves as both a tribute to this narrative and a representation of the city's heritage.
 
-The fountain's placement in front of the medieval town hall adds to its significance. This location not only enhances the aesthetic appeal of the square but also underscores the relationship between civic life and cultural narratives in Göttingen. Over the years, the Gänseliesel has become a beloved icon among the local populace, often serving as a meeting point and a backdrop for various community events. Its enduring presence continues to foster a sense of belonging and identity among the residents.
+Historically, the fountain has been a gathering place for citizens and visitors, contributing to its significance beyond mere aesthetics. It has witnessed various events and celebrations throughout its existence, becoming an integral part of the social life in Göttingen. The Gänseliesel’s role as a public symbol cannot be understated; it stands as a reminder of the city’s connection to its past while also fostering community spirit in the present.
 
-In recent years, the Gänseliesel has also gained a reputation as a popular photo spot for tourists. Visitors are often seen posing with the statue, which has become a rite of passage for many who come to Göttingen. The fountain thus plays a vital role in bridging the past with the present, inviting everyone to partake in the stories that shape this vibrant university town.
+The Gänseliesel-Brunnen symbolizes the interplay between folklore and civic identity. As a focal point in the town square, it has served to inspire artists, writers, and scholars throughout the years. Its presence enriches the cultural landscape of Göttingen, making it an important landmark that continues to attract attention and admiration.
 
 ## Architecture and Features
 
-The Gänseliesel-Brunnen is characterized by its elegant design and attention to detail. The fountain consists of a central bronze statue of the Goose Girl, depicted with grace and charm as she tends to her flock. The statue captures the essence of innocence and playfulness, reflecting the themes found in the associated fairy tale. 
+The Gänseliesel-Brunnen is not only a symbol of folklore but also a striking piece of artistry. The fountain features a charming statue of the Gänseliesel herself, depicted as a young girl with a playful demeanor. She stands confidently with one hand raised, holding a goose, while a second goose rests at her feet. This depiction captures the essence of the folk tale and brings the character to life, inviting onlookers to engage with the story.
 
-Surrounding the statue, the fountain is adorned with decorative stonework that enhances its visual appeal. The water flows gracefully from the fountain, creating a soothing ambiance that complements the lively atmosphere of the town square. The craftsmanship involved in creating the Gänseliesel is evident in the intricate details of both the statue and the fountain structure itself.
+The architectural design of the fountain is characterized by its elegant stonework and intricate detailing. The base of the fountain is crafted from durable materials, ensuring its longevity. Surrounding the statue, the fountain is adorned with decorative elements that reflect the craftsmanship of the early 20th century. The flowing water adds a dynamic quality to the structure, enhancing its visual appeal and providing a soothing auditory backdrop.
 
-While the fountain serves a practical purpose, it is also an artistic masterpiece that encapsulates the artistic sensibilities of its time. Its placement in a historic area of Göttingen further emphasizes the importance of integrating art and functionality within public spaces. The Gänseliesel-Brunnen is not just a fountain; it is a monument that tells a story while also enhancing the beauty of its surroundings.
+One of the notable features of the Gänseliesel-Brunnen is its location in front of the medieval town hall, which amplifies its historical context. Together, they create a picturesque scene that bridges different eras of Göttingen's architectural evolution. The combination of the fountain and the town hall forms a harmonious visual narrative, showcasing the city’s rich historical tapestry.
 
 ## Visiting Information
 
-Accessing the Gänseliesel-Brunnen is relatively straightforward, given its central location in Göttingen. The fountain is situated in a bustling square that is easily reachable on foot from various points within the city. Public transport options, including buses, are also available, making it convenient for visitors arriving from nearby areas.
+When planning a visit to the Gänseliesel-Brunnen, it is essential to consider accessibility and transportation options. The fountain is located in the central square of Göttingen, making it easily reachable by foot from various points in the city. Public transportation options, such as buses and trams, are also available, ensuring convenient access for those traveling from further afield.
 
-When planning a visit, it's advisable to check the official website for current information regarding hours of operation and any potential guided tours that may be offered. While the fountain itself is accessible year-round, the best time to experience it may vary depending on local events or seasonality. 
+Visitors can expect a lively atmosphere around the fountain, particularly during peak hours, when locals and tourists alike gather to enjoy the ambiance. While the Gänseliesel-Brunnen is free to visit, it is advisable to check the official website for current information regarding any local events or special activities that may enhance your experience.
 
-Expect a vibrant atmosphere filled with locals and tourists alike, as the Gänseliesel often serves as a hub of activity. A visit to the fountain typically requires about 30 minutes to an hour, allowing time for photographs and exploration of the surrounding area. It’s particularly lively during festivals and events, when the square transforms into a gathering place for celebrations.
-
-To fully enjoy your visit, consider planning your trip during the early morning or late afternoon when the light is softer, providing an ideal backdrop for photography and a quieter experience away from the midday crowds.
+To fully appreciate the Gänseliesel-Brunnen, a visit of approximately 30 minutes is recommended. This allows enough time to take photographs, engage with the surrounding environment, and perhaps enjoy a nearby café or shop. The best times to visit are during the early morning or late afternoon when the sunlight casts a warm glow on the fountain, creating a perfect backdrop for photographs.
 
 ## Nearby Attractions
 
-While the Gänseliesel-Brunnen is a highlight of Göttingen, several nearby attractions enhance the overall experience of the city. 
+The Gänseliesel-Brunnen is conveniently located near several attractions that enrich the experience of visiting Göttingen. Here are a few noteworthy places to consider:
 
-1. **Göttingen Town Hall**: This historic building, located directly adjacent to the fountain, showcases stunning architecture and serves as a reminder of the city’s medieval past.
+1. **Göttingen Town Hall**: Just steps away from the fountain, the medieval town hall is an architectural marvel worth exploring. Its impressive façade and historical significance make it a great complement to your visit.
 
-2. **St. Jacob's Church (Jakobskirche)**: A short walk from the fountain, this impressive church features a striking interior and beautiful stained glass windows, representing significant architectural styles.
+2. **St. Jacob’s Church**: A short walk from the fountain, this stunning Gothic church is known for its intricate stained glass windows and serene interior, offering a peaceful retreat from the vibrant square.
 
-3. **Alte Aula**: The Old Auditorium of the University of Göttingen is a notable site where visitors can immerse themselves in the rich academic history of one of Germany's oldest universities.
+3. **Gänseliesel's Fountain Park**: Adjacent to the fountain, this park provides a relaxing green space where visitors can unwind, enjoy a picnic, or simply watch the world go by.
 
-4. **Botanical Garden**: A peaceful retreat just a bit further away, the university's Botanical Garden offers a diverse collection of plants and a serene environment for leisurely strolls.
+4. **Alte Aula der Universität Göttingen**: The Old Auditorium of the University of Göttingen is steeped in academic history and showcases beautiful architecture, making it a fascinating stop for those interested in the university's legacy.
 
-5. **Bismarck Tower**: For those willing to venture a bit outside the city center, this observation tower provides panoramic views of the surrounding landscape and is a great spot for a hike.
+5. **Botanical Garden**: A bit further away but worth the trek, the Göttingen Botanical Garden features diverse plant species and beautifully landscaped grounds, ideal for nature lovers.
 
 ## Insider Tips
 
-To make the most of your visit to the Gänseliesel-Brunnen, consider these insider tips. For photography enthusiasts, early mornings or late afternoons offer the best lighting conditions. The fountain's proximity to the town hall provides a beautiful backdrop, enhancing your photos. 
+For those looking to capture the perfect photograph of the Gänseliesel-Brunnen, consider visiting during the early morning or late afternoon when the light is softer and more flattering. The fountain's intricate details are best showcased in this lighting, and you’ll have a better chance of avoiding crowds.
 
-To avoid crowds, plan your visit during weekdays or outside of peak tourist seasons. The fountain is a popular meeting point, so visiting during off-peak hours will allow for a more relaxed experience. 
-
-Engage with local residents or shopkeepers in the area, as they can provide unique insights into the fountain's significance and stories associated with it. 
+To sidestep the busiest times, try visiting on weekdays, particularly in the morning. This allows for a more tranquil experience, enabling you to fully appreciate the fountain’s beauty without the hustle and bustle of larger crowds.
 
 ## Practical Information
 
-When visiting the Gänseliesel-Brunnen, it’s advisable to wear comfortable walking shoes, as the surrounding area is best explored on foot. A light jacket may be beneficial, depending on the season, especially in cooler months. 
+When visiting the Gänseliesel-Brunnen, it is advisable to bring along a camera to capture the stunning visuals of the fountain and its surroundings. Comfortable walking shoes are recommended, as exploring the town and nearby attractions involves some walking.
 
-Bring a camera or smartphone to capture the picturesque scenes around the fountain and the medieval architecture nearby. Be prepared for potential weather changes, as conditions can vary, particularly in spring and autumn.
+Seasonal considerations are also essential; spring and summer months tend to be busier, with more tourists flocking to the area. However, these seasons also offer vibrant greenery and blooming flowers around the fountain, enhancing the overall experience.
 
-While the fountain itself does not offer facilities, nearby cafes and shops provide opportunities to rest and enjoy local refreshments. Plan for some time to explore the enchanting streets of Göttingen and enjoy its vibrant atmosphere.
+Check the official website for current information regarding events, and be prepared for potentially varying weather conditions in Germany. Carrying an umbrella or light jacket can be beneficial, especially during transitional seasons.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to the Gänseliesel-Brunnen typically takes about 30 minutes to an hour, allowing time for photographs and exploration of the surrounding area.
+A visit of approximately 30 minutes is generally sufficient to enjoy the Gänseliesel-Brunnen and its surroundings, although you may wish to extend your time if you choose to explore nearby attractions.
 
 ### Is photography allowed?
-Yes, photography is allowed and encouraged at the Gänseliesel-Brunnen, as it is a popular spot for capturing the essence of Göttingen.
+Yes, photography is encouraged, and many visitors enjoy capturing the beauty of the fountain and the surrounding historic architecture.
 
 ### Are there guided tours?
-Check the official website for information on any guided tours that may be available, as these can enhance your understanding of the fountain's history and significance.
+While there may not be specific guided tours solely focused on the Gänseliesel-Brunnen, local tours of Göttingen typically include this iconic landmark as part of the itinerary.
 
 ### What's the best time to visit?
-The best times to visit are early morning or late afternoon when the area is less crowded, and the light is ideal for photography.
+Early mornings or late afternoons are ideal for visiting, as the lighting is often softer for photography, and the crowds are typically thinner.
 
 ### Is it wheelchair accessible?
-The fountain is located in a public square, which is generally accessible, but it’s advisable to check specific accessibility details closer to your visit.
+The fountain area is generally accessible, but it is advisable to check specific accessibility options in the surrounding town square.
 
 ### Can I buy tickets online?
-There is no entrance fee to visit the Gänseliesel-Brunnen, so tickets are not required.
+There is no admission fee to visit the Gänseliesel-Brunnen, so there are no tickets to purchase.
 
 ### Are there restrooms and cafes?
-While the fountain does not have restrooms, there are cafes and shops in the vicinity where visitors can find facilities and refreshments.
+Nearby cafes and public restrooms can be found within walking distance of the fountain, providing convenient options for visitors.
 
 ### What should I wear?
-Dress comfortably and appropriately for the weather, and consider wearing comfortable walking shoes to explore the area around the fountain.
+Dress comfortably, and consider the weather conditions when planning your outfit. Comfortable footwear is recommended for walking around the area.

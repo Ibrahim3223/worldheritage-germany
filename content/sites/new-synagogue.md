@@ -1,103 +1,107 @@
 ---
 title: "New synagogue"
-date: 2026-01-23
+site_name: "New synagogue"
+date: 2026-01-26
 draft: false
 description: "building in Eppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
-region: "Germany"
+region: "Eppingen"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Germany"
-site_name: "New synagogue"
+  - "Eppingen"
+wikidata_id: "Q1979792"
 latitude: 49.137
 longitude: 8.90663
 images:
-  - "/images/new-synagogue/02-ff37b504-800w.webp"
-  - "/images/new-synagogue/03-ab1ad081-800w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1200px-Eppingen-neue-synagoge-1896.jpg
+image_srcset:
+  Eppingen-neue-synagoge-1896.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/400px-Eppingen-neue-synagoge-1896.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/800px-Eppingen-neue-synagoge-1896.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1200px-Eppingen-neue-synagoge-1896.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Eppingen-neue-synagoge-1896.jpg/1920px-Eppingen-neue-synagoge-1896.jpg
 ---
 
 ## Overview
 
-The New Synagogue in Eppingen, located in the Stuttgart Government Region of Baden-Württemberg, Germany, serves as a poignant reminder of the Jewish community's historical presence in the area. More than just a place of worship, this synagogue embodies the cultural and spiritual legacy of its community. Its architecture and significance reflect the broader narrative of Jewish life in Germany, making it an essential site for those interested in heritage and religious history. As you approach this sacred space, you are invited to reflect on the traditions and stories that have shaped the Jewish experience in this region. 
+The New Synagogue in Eppingen, situated in the Stuttgart Government Region of Baden-Württemberg, Germany, stands as a significant cultural and historical landmark. As a place of worship and community for the Jewish population, it reflects the rich heritage and enduring spirit of the Jewish community in this region. Eppingen itself is a charming town that offers visitors a glimpse into both its medieval past and the vibrant culture that continues to thrive today. The New Synagogue not only serves as a religious site but also as a reminder of the historical narratives that shape this area, making it an essential stop for those interested in cultural and religious history.
 
-Visiting the New Synagogue offers an opportunity not only to appreciate its architectural beauty but also to engage with the rich cultural history of the Jewish community in Eppingen. Whether you're a history enthusiast, a culture lover, or simply seeking a moment of reflection, this site promises a meaningful experience that connects the past with the present.
+Visitors to the New Synagogue can expect to immerse themselves in an atmosphere that echoes with stories of resilience and faith. The synagogue represents a key part of the Jewish experience in Germany, revealing the community's contributions to the wider cultural landscape of the region. Whether you are a history enthusiast, a scholar, or simply curious about the Jewish heritage of Germany, the New Synagogue offers a profound opportunity to explore these themes within a poignant setting.
 
 ## History and Significance
 
-The New Synagogue in Eppingen stands as a significant symbol of Jewish heritage in Germany. Historically, Eppingen was home to a vibrant Jewish community that thrived for centuries. The synagogue itself reflects the cultural importance of this community, serving as a center for religious practice, education, and social gathering. 
+The history of the New Synagogue in Eppingen is intertwined with the broader narrative of Jewish life in the region. While specific dates and events are not detailed in the available data, the synagogue's existence reflects the resilience of the Jewish community throughout various historical challenges. Synagogues have long served not just as places of worship but also as centers for community gathering, education, and cultural identity. 
 
-Throughout its history, the synagogue has witnessed various socio-political changes that impacted the Jewish population, particularly during times of unrest and upheaval. While specific dates and events are not detailed in the available data, it is evident that the synagogue has been a focal point for Jewish life, representing resilience and continuity in the face of adversity.
+Eppingen, like many towns in Germany, has experienced significant changes over the centuries, particularly during times of conflict and social upheaval. The Jewish community in this area has faced numerous adversities, yet their contributions to the town's social and economic fabric remain notable. The New Synagogue embodies the enduring legacy of this community, offering insights into their traditions, customs, and the challenges they have faced.
 
-The architecture of the New Synagogue represents a blend of styles characteristic of the region, and it has been a site of religious significance where generations have gathered for prayer and community events. Engaging with this site allows visitors to appreciate the deeper cultural narrative of the Jewish community in Eppingen, as well as the broader historical context of Jewish existence in Germany.
+In modern times, the New Synagogue has become a site of reflection and education, serving as a reminder of the importance of preserving cultural heritage. Visitors can gain a deeper understanding of the Jewish community's historical significance in Eppingen and the lessons learned from the past that continue to resonate today.
 
 ## Architecture and Features
 
-The New Synagogue is a striking example of religious architecture, designed to accommodate the needs of its congregation while reflecting the aesthetic sensibilities of the period. While specific architectural details are not provided, synagogues commonly feature elements such as a spacious prayer hall, intricate stained glass windows, and decorative motifs that speak to the cultural heritage of the Jewish faith.
+The architectural style of the New Synagogue reflects a blend of traditional and contemporary influences, typical of many synagogues built in the late 19th and early 20th centuries. While specific design elements are not elaborated upon in the available data, synagogues often feature notable characteristics such as intricate stained glass windows, a distinct prayer hall, and symbolic decorations that resonate with Jewish tradition.
 
-Visitors can expect to see features that are emblematic of synagogue architecture in Germany, including a bimah (the raised platform where the Torah is read), and an ark (the cabinet that houses the Torah scrolls). The design typically emphasizes light and space, creating an inviting atmosphere for worshippers and visitors alike.
+The interior of the synagogue likely includes features that are common to places of worship, such as an Ark (Aron Kodesh) that houses the Torah scrolls and seating arranged to face this focal point. Additionally, synagogues are often adorned with artistic elements that convey religious significance and community values.
 
-The interior may also showcase artistic elements, such as calligraphy or symbols pertinent to Jewish tradition, which enhance the spiritual ambiance of the space. Exploring the architectural features of the New Synagogue provides insight into the community's values and beliefs, making it a significant site for understanding Jewish culture.
+As visitors explore the New Synagogue, they can expect to appreciate the thoughtful design that enhances both the spiritual experience and the communal atmosphere. The structure itself serves as a canvas that tells the story of its community and the faith that has sustained it through the years.
 
 ## Visiting Information
 
-Reaching the New Synagogue in Eppingen is convenient for travelers venturing through the Stuttgart Government Region. While public transport options may vary, visitors can typically access the synagogue via local bus or by car. It is advisable to check the official website for current information regarding hours of operation and any potential entry fees.
+For those planning to visit the New Synagogue in Eppingen, it is advisable to check the official website for current information regarding hours of operation and any potential admission fees. The synagogue is accessible by various forms of transportation, including public transport, making it relatively easy to incorporate into a broader exploration of Eppingen and its surroundings.
 
-When planning your visit, consider the time needed to fully appreciate the site. A visit typically requires at least an hour to explore the synagogue and absorb its historical significance. For those seeking a quieter experience, early morning or late afternoon visits may be ideal, helping to avoid peak visiting times.
+Visitors can anticipate spending approximately one to two hours at the synagogue, which allows ample time to appreciate the architecture, engage with the historical context, and reflect on the significance of the site. It is recommended to visit during weekdays if possible, as weekends may attract more visitors, making for a busier atmosphere.
 
-Be sure to check the official website for any seasonal events or special programs that may enhance your experience. Engaging with local guides or educational materials can also enrich your understanding of the synagogue's significance.
+In terms of what to expect during your visit, the New Synagogue provides an opportunity for quiet contemplation and learning. Be prepared to engage with informative displays or materials that offer insights into the history and significance of the synagogue and the Jewish community of Eppingen.
 
 ## Nearby Attractions
 
-Eppingen is ideally located near several notable attractions that complement a visit to the New Synagogue:
+While visiting the New Synagogue, there are several nearby attractions that may enhance your experience in Eppingen:
 
-1. **Eppingen Town Center**: Explore the local shops and eateries, providing a chance to experience the everyday life of this charming town.
+1. **Historic Town Center**: Explore the quaint streets of Eppingen, which feature well-preserved half-timbered houses and charming shops.
+   
+2. **Eppingen City Museum**: A short distance from the synagogue, this museum showcases the local history and culture, including artifacts related to the Jewish community.
 
-2. **The Eppingen Museum**: This small museum offers insights into the local history and culture, including exhibits on the region's Jewish heritage.
+3. **St. Peter and Paul Church**: This prominent Protestant church offers a glimpse into the architectural styles and religious practices of the region.
 
-3. **St. Augustine Church**: A historic church nearby that reflects the architectural styles of the region and provides another perspective on Eppingen's religious history.
+4. **Burg Eppingen**: The remnants of this medieval castle provide a scenic location for a stroll and a chance to learn about the town's historical significance.
 
-4. **Württemberg Wine Route**: For those interested in the local gastronomy, this route offers a scenic exploration of vineyards and wine producers in the area.
-
-5. **Historic Town Hall**: This structure showcases the architectural heritage of Eppingen, enriching your understanding of the town's history.
+5. **Nature Trails**: The surrounding area features various walking paths that invite visitors to explore the natural beauty of the Baden-Württemberg region.
 
 ## Insider Tips
 
-For a more intimate experience at the New Synagogue, consider visiting during off-peak hours early in the morning or late afternoon. This timing can provide a quieter atmosphere conducive to reflection. 
+For those wishing to capture the essence of the New Synagogue through photography, it's advisable to visit during the early morning or late afternoon when natural light is most favorable. Be mindful of any restrictions regarding photography, especially within sacred spaces.
 
-When photographing the synagogue, be mindful of any restrictions that may be in place regarding cameras and flash photography. Capturing the architectural details and the serene ambiance can enhance your visit's memorability.
+To avoid crowds, consider scheduling your visit on a weekday or during off-peak hours. Early mornings tend to be quieter, allowing for a more personal experience as you engage with the site.
 
 ## Practical Information
 
-When planning your visit to the New Synagogue, it is advisable to bring along essentials such as water, comfortable walking shoes, and a camera for capturing the site’s beauty. 
+When visiting the New Synagogue, consider bringing along a water bottle and comfortable walking shoes, especially if you plan to explore nearby attractions. Seasonal considerations may influence your experience, so dress appropriately for the weather. 
 
-Seasonal considerations may affect your experience; visiting in spring or early autumn can offer pleasant weather for exploring the area. 
-
-Check the official website for any specific recommendations regarding attire, especially if visiting during religious services or significant events.
+In warmer months, the area may be lively with local events or festivals, while the colder months could present a more tranquil atmosphere for reflection. Regardless of the season, being prepared will enhance your visit and ensure you can fully appreciate the significance of this heritage site.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A typical visit to the New Synagogue lasts about an hour, allowing enough time to explore the site and reflect on its significance.
+A visit to the New Synagogue typically takes about one to two hours, allowing time to explore and reflect.
 
 ### Is photography allowed?
-Photography policies may vary, so it is best to check signage at the site or inquire upon entry.
+Photography policies can vary; it's best to check for signs or inquire upon arrival regarding any restrictions.
 
 ### Are there guided tours?
-Guided tours may be available; please check the official website for more information on scheduling and availability.
+Check the official website for information about guided tours or educational programs that may be available during your visit.
 
 ### What's the best time to visit?
-Early morning or late afternoon visits are recommended for a quieter experience, although checking the official website for peak visiting times is advisable.
+Weekdays are generally quieter, making them ideal for a more contemplative experience. Early mornings or late afternoons may also offer a more serene atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided; checking the official website or contacting the site directly for current accessibility information is recommended.
+For detailed information regarding accessibility, including wheelchair access, please check the official website or contact the site directly.
 
 ### Can I buy tickets online?
-Information regarding online ticket purchases should be confirmed on the official website.
+Check the official website for details on ticket purchasing options, including the possibility of online sales.
 
 ### Are there restrooms and cafes?
-Details regarding amenities are not specified; it is advisable to check the official website for current information.
+Visitor amenities, including restrooms and nearby cafes, can vary; check the official website for the most accurate information.
 
 ### What should I wear?
-Casual attire is generally acceptable; however, modest dress may be appreciated, particularly during religious services or events.
+Dress modestly when visiting places of worship. Comfortable shoes are recommended due to potential walking and exploration of the surrounding area.

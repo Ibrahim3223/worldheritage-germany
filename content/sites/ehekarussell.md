@@ -1,140 +1,109 @@
 ---
-title: Ehekarussell
-date: 2026-01-23
-draft: false
-description: fountain (Nuremberg, Germany)
-region: Germany
-country: Germany
-heritage_type: Fountain
-categories:
-- Fountain
-regions:
-- Germany
+title: "Ehekarussell"
 site_name: "Ehekarussell"
+date: 2026-01-26
+draft: false
+description: "fountain (Nuremberg, Germany)"
+region: "Nuremberg"
+country: "Germany"
+heritage_type: "Fountain"
+categories:
+  - "Fountain"
+regions:
+  - "Nuremberg"
+wikidata_id: "Q261203"
 latitude: 49.4506
 longitude: 11.071
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1200px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/1200px-Ehekarussel01.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1200px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
 image_srcset:
-  Carrusel del matrimonio, Núremberg, Alemania, 2013-03-16, DD 04.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/400px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/800px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/1920px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
-  Carrusel del matrimonio, Núremberg, Alemania, 2013-03-16, DD 03.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/400px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/800px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/1920px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
-  Carrusel del matrimonio, Núremberg, Alemania, 2013-03-16, DD 09.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/400px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/800px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/1920px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
-  00 2852 Hans Sachs-Brunnen in Nürnberg.jpg:
+  00%202852%20Hans%20Sachs-Brunnen%20in%20Nürnberg.jpg:
     400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/400px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
     800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/800px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
     1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1200px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
     1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1920px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
-  Ehekarussel01.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/400px-Ehekarussel01.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/800px-Ehekarussel01.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/1200px-Ehekarussel01.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/1920px-Ehekarussel01.jpg
 ---
 
 ## Overview
 
-Ehekarussell is more than just a fountain; it serves as a captivating monument located in the heart of Nuremberg, Germany. This historic fountain, renowned for its intricate design and symbolic features, offers visitors a glimpse into the rich cultural heritage of the region. Situated at the coordinates 49.4506, 11.071, Ehekarussell stands as an artistic expression of the city's history and social values. It is a must-see for anyone eager to explore Nuremberg's vibrant past and its architectural achievements.
+In the heart of Nuremberg, Germany, the Ehekarussell offers a stunning fusion of artistry and engineering, encapsulating the city's rich cultural heritage. This remarkable fountain serves not just as a source of water but also as a captivating display of sculptural beauty, drawing visitors from around the world. Located at coordinates 49.4506, 11.071, the fountain is a focal point that embodies the spirit of Nuremberg, a city known for its historical significance and vibrant atmosphere.
 
-As you approach the fountain, you will find yourself immersed in the surroundings of a city that has been a crossroads of politics, trade, and culture throughout centuries. The Ehekarussell not only attracts tourists but also locals who come to admire its artistry and the stories it tells. With its stunning craftsmanship and historical significance, the fountain is a poignant reminder of the importance of water in urban settings, both as a source of life and a communal gathering place.
+As you approach the Ehekarussell, the intricate design and dynamic elements of the fountain invite exploration. With its flowing water and artistic figures, it creates an enchanting ambiance that encourages visitors to pause, reflect, and appreciate the craftsmanship involved in its creation. This site is more than a mere decoration; it represents the intersection of art and daily life in Nuremberg, providing insight into the city's cultural identity.
 
-Ehekarussell invites you to pause and appreciate its beauty, making it a perfect spot for reflection amidst the bustling city. Whether you are an architecture enthusiast, a history buff, or simply someone looking for a serene place to rest, this fountain promises to enrich your experience of Nuremberg.
+Whether you are an art enthusiast, a history lover, or simply seeking a picturesque spot to relax, the Ehekarussell promises an engaging experience. It stands as a reminder of Nuremberg's artistic legacy and a testament to the city's enduring charm.
 
 ## History and Significance
 
-The Ehekarussell fountain is deeply embedded in the cultural narrative of Nuremberg, reflecting the social and historical themes prevalent in the region. While specific dates of construction are not available, the fountain’s creation is associated with a period of artistic flourishing where public art began to play a significant role in urban life. 
+The Ehekarussell is a fountain within Nuremberg that encapsulates significant cultural narratives. While specific dates are not documented, the fountain is a part of the city's longstanding tradition of integrating public art into urban spaces. Such fountains have historically served not only functional purposes but also acted as communal gathering points, reflecting the social and cultural life of the city.
 
-This fountain is not merely a decorative piece; it embodies the values and beliefs of the society from which it emerged. The Ehekarussell serves as a monument to love and marriage, which is symbolically represented through its design. The fountain features various figures that depict the cycle of married life, illustrating themes of love, struggle, and the passage of time. This narrative quality adds depth to the experience of viewing the fountain, as visitors are encouraged to reflect on the complexities of relationships and societal norms.
+The design and themes represented in the Ehekarussell speak to broader societal values. The fountain often features motifs that resonate with themes of love, marriage, and family, highlighting the importance of these concepts in local culture. By doing so, the Ehekarussell serves as a cultural artifact, reflecting the values and beliefs of the people of Nuremberg through its artistic expressions.
 
-Historically, fountains have served as vital communal spaces where people gather, share stories, and engage in social interaction. Ehekarussell continues this tradition, acting as a focal point that draws both residents and visitors into its narrative. The fountain’s presence in Nuremberg contributes to the city’s identity, offering insight into its cultural landscape and its evolution over the years.
+In addition to its aesthetic appeal, the Ehekarussell plays a role in the public life of Nuremberg. As a meeting point for locals and tourists alike, it fosters social interaction and community engagement. The presence of such landmarks contributes to Nuremberg's identity as a city rich in history, art, and culture, making the fountain an essential stop for visitors seeking to understand the essence of this vibrant city.
 
 ## Architecture and Features
 
-Ehekarussell is an artistic marvel that showcases intricate design and craftsmanship. The fountain is characterized by its detailed sculptures and ornamental features, which are emblematic of the artistic styles of the region. While specific architectural details are not outlined in the available data, the fountain is known for its elaborate carvings that depict various figures, each representing different aspects of married life.
+The Ehekarussell showcases a blend of artistic and architectural elements that are visually compelling. As a fountain, its primary feature is the flowing water that cascades through various tiers, creating a soothing auditory backdrop. The intricate sculptures surrounding the fountain depict various human figures and motifs that narrate stories of love and relationships, reflecting the themes central to its design.
 
-One of the standout features of the Ehekarussell is its rotating carousel, from which it derives its name. This unique mechanism adds a dynamic element to the fountain, symbolizing the cyclical nature of life and love. The figures that adorn the fountain are arranged to tell a story, capturing the attention of onlookers and inviting them to ponder the narratives behind each character.
+The fountain's structure is characterized by its circular form, which symbolizes unity and eternity. This design choice is particularly significant, as it resonates with the concepts of marriage and partnership that the fountain represents. The craftsmanship involved in creating the sculptures is noteworthy; each figure is meticulously carved, capturing detailed expressions and poses that bring the artwork to life.
 
-The water flow of the fountain adds to its charm, as the gentle sound of water enhances the ambiance of the surrounding area. The design integrates both aesthetic appeal and functionality, making it a central feature of the public space. As you explore the fountain, take note of the craftsmanship that has gone into its creation, reflecting the cultural values and artistic aspirations of its time.
+The surrounding area of the Ehekarussell enhances its appeal. The fountain is often set in a vibrant public space, allowing visitors to experience the artwork in a lively atmosphere. It is not merely a standalone feature; rather, it interacts with its environment, encouraging visitors to engage with the fountain and the community around it.
 
 ## Visiting Information
 
-Visiting Ehekarussell is a delightful experience, easily accessible for those exploring the vibrant city of Nuremberg. The fountain is located in a public area, making it a convenient stop during your explorations. To maximize your visit, it is advisable to check the official website for current information regarding opening hours and any potential entry fees.
+Visiting the Ehekarussell is an experience that can be enjoyed year-round, but specific visiting hours and ticketing information may vary. To ensure a smooth visit, check the official website for current information regarding opening hours and any potential admission fees.
 
-When planning your visit, consider the various transport options available. Nuremberg has a well-connected public transport system, including trams and buses that can take you close to the fountain. If you prefer to walk, the scenic paths around the city center offer a pleasant route to Ehekarussell.
+Accessing the fountain is convenient, with several transport options available within Nuremberg. Public transportation, including trams and buses, makes it easy to reach the site from various parts of the city. If you prefer to explore on foot, the Ehekarussell is often included in walking tours of Nuremberg's historical center, allowing visitors to seamlessly integrate it into broader explorations of the city.
 
-Visitors can expect to spend around 30 minutes to an hour at the fountain, allowing time for photographs and reflection. The best times to visit are during the morning or late afternoon when the light enhances the fountain’s features, making for stunning photographs. Additionally, weekdays tend to be less crowded, providing a more serene atmosphere for enjoying this historic site.
+While there is no set time required for a visit, many guests find that spending 30 to 60 minutes at the fountain is ideal. This allows time for reflection, photography, and enjoying the surrounding area. To avoid larger crowds, consider visiting during weekdays, particularly in the morning or late afternoon.
 
 ## Nearby Attractions
 
-While visiting Ehekarussell, there are several other attractions in close proximity that merit exploration:
+While visiting the Ehekarussell, you can enhance your experience by exploring nearby attractions that highlight Nuremberg's rich heritage:
 
-1. **Nuremberg Castle**: A short walk from the fountain, this historic fortress offers panoramic views of the city and a glimpse into Nuremberg's medieval past.
+1. **Nuremberg Castle**: A short walk away, this historic fortress offers stunning views of the city and insight into medieval architecture.
    
-2. **St. Sebaldus Church**: This stunning church, known for its impressive architecture and artistic treasures, is located nearby and is a significant landmark in Nuremberg.
+2. **St. Lorenz Church**: Renowned for its impressive Gothic design and stunning stained glass, this church is a must-visit for architecture enthusiasts.
+   
+3. **Documentation Center Nazi Party Rally Grounds**: For those interested in history, this museum provides a comprehensive overview of Nuremberg's role during the Nazi regime.
 
-3. **Documentation Center Nazi Party Rally Grounds**: For those interested in the more somber aspects of history, this museum provides insight into the impact of the Nazi regime in Nuremberg.
+4. **Albrecht Dürer’s House**: The former residence of the famous painter and printmaker, this museum offers a glimpse into the life and works of one of Germany's most celebrated artists.
 
-4. **Albrecht Dürer’s House**: Visit the former home of the renowned painter and engraver Albrecht Dürer, which now serves as a museum dedicated to his life and work.
-
-5. **Market Square**: A vibrant area filled with shops, cafes, and seasonal markets, this square is perfect for enjoying local cuisine and culture.
+5. **Nuremberg Toy Museum**: A delightful experience for families and toy enthusiasts, showcasing the history of toys and their cultural significance.
 
 ## Insider Tips
 
-To make the most of your visit to Ehekarussell, consider these insider tips:
+For photography enthusiasts, the Ehekarussell presents numerous opportunities to capture its beauty. Early mornings or late afternoons provide soft lighting that enhances the fountain's artistic features. Experimenting with different angles can yield striking images, particularly when capturing the water's movement.
 
-- **Photography**: The best times for photography are early in the morning or late in the afternoon when the sunlight casts warm tones on the fountain. Bring a camera to capture the intricate details of the sculptures.
-
-- **Crowd Avoidance**: To avoid the crowds, aim to visit during weekdays or early in the day. This will allow you to enjoy a more peaceful experience, providing ample opportunity to appreciate the fountain's artistry.
-
-- **Engage with Locals**: Don't hesitate to strike up conversations with locals who frequent the area. They can offer insights into the fountain's significance and share personal stories related to its history.
+If you prefer a quieter experience, aim to visit during weekdays, as weekends can attract larger crowds. This will allow you to enjoy the fountain in a more serene setting and appreciate the intricate details of its design without the hustle and bustle of other visitors.
 
 ## Practical Information
 
-When planning your visit to Ehekarussell, keep the following practical tips in mind:
+When planning your visit to the Ehekarussell, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and perhaps a light jacket, especially during cooler months. Seasonal considerations can affect your experience; spring and summer often see more vibrant activity around the fountain, with events and gatherings in the surrounding area.
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you'll likely explore the surrounding area. A water bottle is also advisable, especially during warmer months.
-
-- **Seasonal Considerations**: The fountain can be enjoyed year-round, but visiting in spring or summer allows you to experience the fountain in a lively setting, often accompanied by local festivals or events. Winter visits can be enchanting as well, with the potential for holiday markets nearby.
+Additionally, if you plan to spend time exploring Nuremberg, consider bringing a reusable water bottle and snacks, as the fountain area can be a lovely spot to take a break amidst your adventures.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to Ehekarussell typically takes about 30 minutes to an hour, allowing time for photography and reflection. 
+A visit to the Ehekarussell typically takes 30 to 60 minutes, allowing enough time for exploration and photography.
 
 ### Is photography allowed?
-Yes, photography is allowed and encouraged. The intricate details of the fountain make for great photos, especially in good lighting.
+Yes, photography is permitted, making it a great spot for capturing memorable moments.
 
 ### Are there guided tours?
-While there may not be specific guided tours focused solely on Ehekarussell, many city tours include the fountain as part of their itinerary.
+While specific guided tours may not be focused solely on the Ehekarussell, many walking tours of Nuremberg include this fountain along with other historical sites.
 
 ### What's the best time to visit?
-The best times to visit are early in the morning or late in the afternoon, especially on weekdays, to enjoy a quieter experience.
+Weekdays in the morning or late afternoon are ideal times to avoid larger crowds and enjoy a more peaceful experience.
 
 ### Is it wheelchair accessible?
-The fountain is located in a public area, making it generally accessible. However, check for specific accessibility details if needed.
+Check the official website for current accessibility information to ensure a comfortable visit for all.
 
 ### Can I buy tickets online?
-Entry to Ehekarussell is free, so there is no need to purchase tickets.
+Information regarding tickets can be found on the official website; check for any updates or changes to admission policies.
 
-### Are there restrooms and cafes?
-While there may not be restrooms directly at the fountain, nearby cafes and facilities in the city center provide amenities for visitors.
+### Are there restrooms and cafes nearby?
+While specific facilities may not be available at the fountain, nearby attractions typically offer restrooms and dining options.
 
 ### What should I wear?
-Casual, comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding areas.
-
-Ehekarussell is a stunning emblem of Nuremberg’s cultural history, inviting visitors to reflect on its significance and appreciate its artistry. Enjoy your visit to this remarkable fountain and the vibrant city that surrounds it.
+Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area. Consider layering for seasonal variations in temperature.

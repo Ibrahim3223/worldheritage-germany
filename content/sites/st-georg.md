@@ -1,103 +1,103 @@
 ---
 title: "St. Georg"
 site_name: "St. Georg"
-slug: "st-georg"
-region: "Mecklenburg-Vorpommern"
-
-# Location
-latitude: 53.5576
-longitude: 13.2472
-regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+date: 2026-01-26
+draft: false
+description: "church building in Rees, Germany"
+region: "Rees"
+country: "Germany"
+heritage_type: "Church Building"
 categories:
-  - "cultural site"
-wikidata_id: "Q1752900"
-description: "St. Georg, a notable church building located in Neubrandenburg, Germany, is a striking example of Brick Gothic architecture. This historic site invites ..."
+  - "Church Building"
+regions:
+  - "Rees"
+wikidata_id: "Q2318394"
+latitude: 51.7744
+longitude: 6.45978
 images:
-  - "/images/st-georg/01-4a121a25-1920w.webp"
-  - "/images/st-georg/02-250e07b0-1920w.webp"
-  - "/images/st-georg/03-81adc283-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/1200px-St._Georg,_Haldern-3784.jpg
+image_srcset:
+  St.%20Georg,%20Haldern-3784.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/400px-St._Georg,_Haldern-3784.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/800px-St._Georg,_Haldern-3784.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/1200px-St._Georg,_Haldern-3784.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/St._Georg,_Haldern-3784.jpg/1920px-St._Georg,_Haldern-3784.jpg
 ---
 
 ## Overview
 
-St. Georg, a notable church building located in Neubrandenburg, Germany, is a striking example of Brick Gothic architecture. This historic site invites visitors to explore its intricate design and the serene atmosphere that surrounds it. Situated at coordinates 53.5576, 13.2472, St. Georg offers a glimpse into the architectural heritage of the region, characterized by its rich brickwork that stands out against the backdrop of the nearby landscape.
+St. Georg is a distinguished church building located in the heart of Rees, Germany. This site serves not only as a place of worship but also as a reflection of the region's cultural heritage and architectural evolution. Rees itself is a charming town situated along the banks of the Rhine River, known for its medieval history and picturesque landscapes. St. Georg stands as a significant landmark, drawing visitors interested in both spirituality and history.
 
-As you approach St. Georg, the sight of its robust brick façade and soaring structures immediately captivates the eye. The church serves not only as a place of worship but also as a cultural landmark, reflecting the artistic and historical journey of Neubrandenburg. Visitors will discover the church’s architectural beauty and its significance in the local community, making it a compelling stop for anyone interested in heritage and history.
+While the church is primarily a place for the local congregation, it also attracts tourists who wish to explore its architectural beauty and the stories that have unfolded within its walls. Visiting St. Georg provides a unique opportunity to engage with the local culture, appreciate the craftsmanship of its design, and gain insight into the religious practices that have shaped the community.
+
+## History and Significance
+
+St. Georg has played an important role in the religious and social life of Rees. The church serves as a focal point for the community, hosting various religious services and events that highlight its significance to local traditions. Over the years, it has witnessed numerous changes reflective of the broader historical developments that have shaped the region.
+
+The history of St. Georg is intertwined with the evolution of Rees itself. The town has a rich cultural narrative that includes periods of growth, conflict, and resilience. As a church, St. Georg has provided spiritual guidance and a sense of belonging to generations of residents. Its presence has contributed to the continuity of cultural practices and community bonds, making it a vital institution in the area.
+
+In addition to its religious functions, St. Georg has also been a place for community gatherings and celebrations, further solidifying its place in the heart of Rees. This church not only serves as a sanctuary for worship but is also a witness to the collective memories and experiences of the people of Rees.
 
 ## Architecture and Features
 
-St. Georg is an exemplary representation of Brick Gothic architecture, a style that flourished during the late Middle Ages in Northern Europe. The use of brick as the primary material gives the church its distinctive character, showcasing meticulous craftsmanship that has endured over the centuries. As you explore the site, take note of the intricate brickwork that adorns the exterior, a hallmark of this architectural style.
+St. Georg is characterized by its traditional architectural style, typical of church buildings in the region. While specific design elements are not detailed in the available information, one can expect to find features that reflect both historical influences and local craftsmanship. The church likely includes elements such as stained glass windows, wooden pews, and a central altar, which are common in ecclesiastical architecture.
 
-The overall design of St. Georg reflects the functional yet aesthetic principles of Gothic architecture, with tall, narrow windows that allow natural light to filter into the interior. While specific measurements are not available, the church's structure conveys a sense of grandeur and stability, with an inviting atmosphere that encourages contemplation and reflection. 
-
-Visitors should pay attention to the decorative elements that punctuate the building’s façade, as these details reveal much about the artistic trends and cultural influences at play during its construction. The combination of form and function found in St. Georg makes it a remarkable site for those interested in architectural heritage.
+Visitors to St. Georg may appreciate the serene atmosphere that envelops the church, created by its design and the spiritual practices that occur within. The interior space is likely adorned with religious iconography and art that provide insight into the local faith community’s values and heritage. Overall, the architecture of St. Georg serves as a physical manifestation of the town's history and collective identity.
 
 ## Visiting Information
 
-To reach St. Georg, visitors can utilize various transport options available in Neubrandenburg. The area is accessible by public transportation, making it convenient for travelers to explore this historical site. 
+Reaching St. Georg is relatively straightforward, given its central location in Rees. Visitors can access the church via public transport or by car, depending on their preferences. It is advisable to check the official website for current information regarding opening hours, any admission fees, and specific events that may be taking place during your visit.
 
-Hours: Check the official website for current opening hours.
+When planning your visit, consider the time you wish to spend exploring the church and its surroundings. A visit to St. Georg can typically be completed within an hour, allowing ample time for reflection and photography. To enhance your experience, consider visiting during quieter times, which may allow for a more personal and contemplative atmosphere.
 
-Prices: Visit the official website for current admission prices.
-
-When you visit St. Georg, expect to immerse yourself in its peaceful environment while taking in the stunning architectural details. A visit typically requires about one to two hours, allowing ample time to appreciate both the interior and exterior of the church.
-
-For an optimal experience, consider visiting in the morning when crowds are fewer. The spring and fall seasons offer pleasant weather conditions for exploring the site and its surroundings. Accessibility details are not provided; therefore, contact the site directly for the latest information regarding facilities and accommodations.
+The best times to visit are often during weekdays when the church might be less crowded, or during special events that highlight the church's role in the community. These occasions can provide unique insights into the local culture and traditions.
 
 ## Nearby Attractions
 
-While visiting St. Georg, there are several nearby attractions worth considering:
+1. **The Rhine River Promenade** - A scenic area perfect for leisurely strolls along the water, offering picturesque views and a chance to experience the natural beauty of the region.
+  
+2. **Rees Town Museum** - A small museum that showcases the history and heritage of Rees, featuring exhibits relevant to the town's development and its significance in the region.
 
-1. **Neubrandenburg City Wall**: This historical fortification features impressive brick construction and offers scenic walking paths along its length, providing insight into the city's past.
+3. **The Old Town Hall** - An architectural landmark that reflects the historical governance of Rees, providing insight into the administrative heritage of the town.
 
-2. **St. Mary's Church**: Another significant religious site in Neubrandenburg, known for its stunning architecture and rich history.
+4. **Kulturhaus Rees** - A cultural center that often hosts various events, exhibitions, and performances, contributing to the vibrant artistic scene of the town.
 
-3. **The Cultural Quarter**: A vibrant area filled with art galleries, museums, and cafes where visitors can experience local culture and cuisine.
-
-4. **The Tollensesee Lake**: A beautiful natural area nearby ideal for leisurely walks or picnics, offering a contrast to urban exploration.
-
-5. **The Neubrandenburg Theatre**: For those interested in performing arts, this venue hosts various shows and events throughout the year.
+5. **Nearby Parks and Green Spaces** - Ideal for relaxation and recreation, these areas offer a peaceful retreat and are perfect for picnicking or enjoying the outdoors.
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon provides the best natural lighting for capturing the intricate details of St. Georg’s architecture. Look for unique angles that showcase the textures of the brickwork against clear skies or during golden hour.
+For those keen on photography, early mornings or late afternoons provide the best natural light for capturing the beauty of St. Georg. Additionally, visiting during weekdays may help you avoid larger crowds, allowing for uninterrupted shots of the church's features.
 
-Take a moment to step inside and appreciate any unique artifacts or decorations that may be present within; these often go unnoticed by hurried visitors. To avoid crowds, consider visiting on weekdays rather than weekends or holidays.
-
-If you have time, engage with local guides who can share lesser-known stories about the church's history and significance within Neubrandenburg.
+If you wish to attend a service or special event, check the church's schedule in advance. This can provide a unique opportunity to experience the church in its full community context. Engaging with locals can also enrich your visit, offering insights that are not included in formal guides.
 
 ## Practical Information
 
-When planning your visit to St. Georg, consider bringing a camera to capture its stunning features and a water bottle for hydration during your exploration. Dress in comfortable shoes, as you may want to walk around both inside and outside the church.
+When visiting St. Georg, it's advisable to bring along essentials such as water, comfortable walking shoes, and perhaps a light jacket, as temperatures can vary. Being a place of worship, modest attire is recommended to respect the sacred environment.
 
-Seasonal considerations include checking local weather forecasts before your visit; spring and fall generally provide comfortable temperatures for sightseeing. 
-
-Consolidate your plans by ensuring you have all necessary contact information ready for inquiries regarding opening hours or special events at St. Georg.
+Seasonal considerations may also affect your experience. Spring and summer often bring more visitors, so plan accordingly if you prefer a quieter visit. Fall can provide a beautiful backdrop with changing leaves, while winter may offer a unique charm, especially if the church is adorned for the holiday season.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-You should plan to spend approximately one to two hours at St. Georg to fully appreciate its architectural details and serene atmosphere.
+### How long should I spend visiting?
+A visit to St. Georg can typically be completed within an hour, allowing time for exploration and reflection.
 
-### **Is photography allowed inside?**
-Photography policies may vary; check with site staff upon arrival to confirm if photography is permitted inside St. Georg.
+### Is photography allowed?
+Photography is generally permitted, especially during quieter times when you can capture the church without interruptions.
 
-### **Are there guided tours available?**
-Information regarding guided tours is not specified; contact the site directly for details on any available tours or educational programs.
+### Are there guided tours?
+Check the official website for information on guided tours, as availability may vary.
 
-### **What's the best time of day to visit?**
-Visiting in the morning is recommended for fewer crowds and better lighting conditions for photography.
+### What's the best time to visit?
+Weekdays are often less crowded, making them ideal for a peaceful visit. Additionally, special events can offer unique insights into local traditions.
 
-### **Is the site wheelchair accessible?**
-Accessibility details are not provided; it’s best to contact the site directly for information on accommodations for visitors with mobility concerns.
+### Is it wheelchair accessible?
+Check the official website for information regarding accessibility options, as this may vary.
 
-### **Can I buy tickets online?**
-Current ticket purchasing options are not specified; visit the official website for information regarding ticket sales.
+### Can I buy tickets online?
+Information about ticket purchasing can typically be found on the official website, if applicable.
 
-### **Are there facilities like restrooms and cafes?**
-Facility availability is not mentioned; check directly with St. Georg for information on restrooms and nearby dining options.
+### Are there restrooms and cafes?
+For amenities such as restrooms and cafes, it is advisable to check the local area or the official website for recommendations.
 
-### **What should I wear when visiting?**
-Dress comfortably and appropriately for a church setting; respectful attire is encouraged when visiting places of worship like St. Georg.
+### What should I wear?
+Modest attire is recommended to respect the church environment, along with comfortable shoes for exploring the area.

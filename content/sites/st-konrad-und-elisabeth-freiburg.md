@@ -1,114 +1,103 @@
 ---
 title: "St. Konrad und Elisabeth (Freiburg)"
 site_name: "St. Konrad und Elisabeth (Freiburg)"
-slug: "st-konrad-und-elisabeth-freiburg"
-region: "Baden-Württemberg"
-
-# Location
+date: 2026-01-26
+draft: false
+description: "church building in Freiburg im Breisgau, Freiburg Government Region, Bade-Württemberg, Germany"
+region: "Freiburg im Breisgau"
+country: "Germany"
+heritage_type: "Church Building"
+categories:
+  - "Church Building"
+regions:
+  - "Freiburg im Breisgau"
+wikidata_id: "Q2319969"
 latitude: 48.0087
 longitude: 7.84958
-regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
-categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q2319969"
-description: "In the heart of Freiburg im Breisgau, the church of St. Konrad und Elisabeth stands as a striking example of expressionist architecture, a style that em..."
 images:
-  - "/images/st-konrad-und-elisabeth-freiburg/01-271836ab-1920w.webp"
-  - "/images/st-konrad-und-elisabeth-freiburg/02-549dfaca-1920w.webp"
-  - "/images/st-konrad-und-elisabeth-freiburg/03-ff3ecf5c-1920w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1200px-St._Konrad_und_Elisabeth_(Freiburg).jpg
+image_srcset:
+  St.%20Konrad%20und%20Elisabeth%20(Freiburg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/400px-St._Konrad_und_Elisabeth_(Freiburg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/800px-St._Konrad_und_Elisabeth_(Freiburg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1200px-St._Konrad_und_Elisabeth_(Freiburg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Konrad_und_Elisabeth_(Freiburg).jpg/1920px-St._Konrad_und_Elisabeth_(Freiburg).jpg
 ---
 
 ## Overview
 
-In the heart of Freiburg im Breisgau, the church of St. Konrad und Elisabeth stands as a striking example of expressionist architecture, a style that emphasizes bold forms and emotional resonance. Built in 1929, this church attracts visitors not just for its spiritual significance but also for its innovative design. As you approach the church, the concrete structure rises against the backdrop of the surrounding landscape, inviting contemplation and awe.
+In the heart of Freiburg im Breisgau, Germany, stands the church building of St. Konrad und Elisabeth, a notable landmark that captures the essence of the region's religious architectural heritage. Situated in Baden-Württemberg, this church has become an integral part of the local community and a point of interest for visitors seeking to explore the spiritual and cultural fabric of Freiburg. With its unique design and serene atmosphere, St. Konrad und Elisabeth offers a glimpse into the region's ecclesiastical history and architectural style.
 
-Freiburg im Breisgau, located in the Baden-Württemberg region of Germany, is known for its rich cultural history and vibrant community life. The area offers a unique blend of urban charm and natural beauty, making it an ideal setting for a landmark like St. Konrad und Elisabeth. This site holds historical and architectural importance, reflecting the artistic movements of its time while serving as a place of worship for the local community.
-
-Visitors to St. Konrad und Elisabeth can expect to uncover a space that is not only architecturally significant but also deeply embedded in the cultural fabric of Freiburg. You'll discover intricate details in its design and feel the peaceful atmosphere that permeates this sacred space.
+Freiburg, known for its historic old town and vibrant university life, provides a captivating backdrop for this church. As you approach the building, the blend of tradition and modernity becomes evident in its structure and the surrounding urban environment. Whether you are drawn by spiritual curiosity, architectural interest, or the desire to experience the local culture, a visit to St. Konrad und Elisabeth promises to enrich your understanding of Freiburg's heritage.
 
 ## History and Significance
 
-St. Konrad und Elisabeth was established in 1929, marking an important moment in Freiburg's architectural landscape. Designed by architect Carl Anton Meckel, this church reflects a shift towards modernist principles in religious architecture during the early 20th century. While specific events surrounding its founding may not be extensively documented, its presence has undoubtedly contributed to the community's spiritual and social life over the decades.
+The history of St. Konrad und Elisabeth reflects the broader historical developments within Freiburg and the region of Baden-Württemberg. While specific dates regarding its establishment are not provided, the church's significance stems from its role in serving the local community and its representation of the Catholic Church's presence in the area.
 
-The architectural style of expressionism is characterized by its dynamic forms and emotive qualities, offering a departure from traditional ecclesiastical designs. As such, St. Konrad und Elisabeth serves as a vital reference point for those studying the evolution of religious architecture in Germany. It stands out not only for its innovative use of concrete but also for how it encapsulates the spirit of the era in which it was built.
+As a place of worship, St. Konrad und Elisabeth has likely played a vital role in the spiritual life of its parishioners. Churches in Germany often serve as not only religious centers but also as community hubs where significant life events, such as baptisms, weddings, and funerals, are celebrated. This church, along with others in Freiburg, contributes to the cultural identity of the city, embodying the values and traditions of its inhabitants.
 
-As you explore the church, consider how it reflects broader societal changes and artistic movements of its time. The significance of this site extends beyond its physical structure; it represents a confluence of faith, community, and modernist thought.
+In addition to its spiritual function, St. Konrad und Elisabeth stands as a symbol of resilience and continuity in a region that has experienced various sociopolitical changes over the centuries. The architectural style and design elements of the church may reflect the influences of different periods, showcasing how religious architecture has evolved in response to changing tastes and societal needs.
 
 ## Architecture and Features
 
-St. Konrad und Elisabeth is a remarkable example of expressionist architecture, employing concrete as its primary material. This choice reflects both durability and a modern aesthetic that was gaining popularity in the late 1920s. The architectural style emphasizes bold shapes and emotional impact, which is evident in the church's design.
+St. Konrad und Elisabeth is characterized by its church building design, typical of many ecclesiastical structures found in Germany. While specific architectural details are not outlined, one can expect to find the defining elements that are common in church architecture, such as a prominent facade, intricate stained glass windows, and a welcoming entrance.
 
-While specific measurements are not provided, visitors will notice the striking features that characterize expressionist buildings. The church likely incorporates sweeping lines and dynamic forms that create a sense of movement and fluidity. These elements invite exploration and reflection as you navigate through the space.
+The layout of the church likely incorporates traditional features such as a nave, side aisles, and possibly a chancel. These elements not only serve a functional purpose but also create a space conducive to contemplation and worship. The interior may be adorned with religious iconography, offering insights into the spiritual themes celebrated within its walls.
 
-As you approach the entrance, take a moment to observe how natural light interacts with the concrete surfaces, creating an atmosphere that is both serene and invigorating. The interior likely features artistic elements that resonate with the overall design ethos, further enriching your experience within this sacred space.
+Visitors will appreciate the ambiance of the church, which is designed to foster a sense of peace and reflection. The use of natural light, especially through stained glass windows, enhances the atmosphere, creating a serene environment that invites both prayer and meditation.
 
 ## Visiting Information
 
-Getting to St. Konrad und Elisabeth is relatively straightforward, given Freiburg's well-connected public transport system. Trains and buses serve the region efficiently, allowing visitors easy access to this architectural gem. 
+St. Konrad und Elisabeth is accessible to visitors who wish to explore its interior and experience its spiritual ambiance. Transportation options in Freiburg are varied, offering convenient access to the church for both locals and tourists. Depending on your location, you may consider walking, cycling, or using public transport to reach the site.
 
-Hours: Check the official website for current opening hours.
+When planning your visit, it is advisable to check the official website for current information regarding opening hours and any potential admission fees. While the time needed for a visit may vary depending on individual interests, a leisurely exploration of the church can typically be done in about an hour. 
 
-Prices: Visit the official website for current admission prices.
-
-Expect a tranquil visitor experience as you enter the church. The serene ambiance invites contemplation, making it an ideal place to reflect or simply enjoy the artistry of its design. A visit typically takes about one to two hours, allowing ample time to absorb both the exterior and interior features of this unique church.
-
-For optimal experiences, consider visiting in the morning when crowds are lighter or during spring or fall when weather conditions enhance your exploration. Accessibility information is not specified; therefore, it is advisable to contact the site directly for the latest information regarding accessibility options.
+The best times to visit are often during the weekdays when the crowds are lighter, allowing for a more intimate experience. However, attending a service or community event can provide a unique perspective on the church’s role within the local culture.
 
 ## Nearby Attractions
 
-Freiburg im Breisgau offers numerous attractions worth exploring while visiting St. Konrad und Elisabeth:
+After visiting St. Konrad und Elisabeth, consider exploring other nearby attractions that highlight Freiburg’s rich cultural landscape:
 
-- **Freiburg Minster**: This iconic Gothic cathedral is renowned for its stunning architecture and impressive tower, which offers panoramic views of the city.
-- **Augustiner Museum**: Housed in a former monastery, this museum showcases an extensive collection of art and artifacts from the Middle Ages to modern times.
-- **Schwarzwald**: The nearby Black Forest provides opportunities for hiking and enjoying nature's beauty, adding a picturesque backdrop to your visit.
-- **Old Town (Altstadt)**: Stroll through Freiburg's historic Old Town, where charming streets are lined with shops, cafes, and traditional architecture.
-- **Kaiser-Joseph-Straße**: This vibrant shopping street features local boutiques and eateries, perfect for sampling regional delicacies.
+1. **Freiburg Minster**: This iconic Gothic cathedral is renowned for its stunning architecture and impressive tower, offering breathtaking views of the city.
+   
+2. **Augustinermuseum**: Housed in a former monastery, this museum showcases an extensive collection of art and artifacts, providing insights into the region's history.
+
+3. **Schauinslandbahn**: A cable car that takes visitors up to the Schauinsland mountain, offering panoramic views of the Black Forest and the surrounding area.
+
+4. **Historical Merchants' Hall**: A beautiful example of Renaissance architecture, this hall is a great spot to appreciate Freiburg's historical significance in trade.
+
+5. **University of Freiburg**: One of the oldest universities in Germany, its campus features beautiful buildings and vibrant student life, making it a lively area to explore.
 
 ## Insider Tips
 
-To capture stunning photographs of St. Konrad und Elisabeth, visit early in the morning or late afternoon when sunlight casts dramatic shadows on the concrete surfaces. Pay attention to lesser-known details such as unique textures or artistic elements that might be easily overlooked.
-
-To avoid crowds, consider visiting during weekdays rather than weekends. Engaging with local guides can also provide deeper insights into the church’s significance and architectural nuances that might not be immediately apparent.
-
-Finally, as Freiburg is home to a vibrant café culture, take some time to enjoy a local coffee or pastry after your visit to enhance your experience in this charming city.
+For those looking to capture the essence of St. Konrad und Elisabeth through photography, visiting during the early morning or late afternoon can provide optimal natural lighting. Additionally, consider avoiding weekends if you prefer a quieter experience, as services and community events may attract larger crowds.
 
 ## Practical Information
 
-When visiting St. Konrad und Elisabeth, it's wise to bring a camera to capture the unique architectural details. Comfortable walking shoes are recommended due to potential uneven surfaces around the church grounds.
-
-Seasonal considerations include checking weather forecasts before your visit, especially if you're planning to explore outside areas near the church. 
-
-In summary:
-- Bring a camera.
-- Wear comfortable shoes.
-- Check weather conditions.
-- Contact the site directly for accessibility information.
+When visiting St. Konrad und Elisabeth, it is advisable to bring a small bag with essentials, such as water and a camera, to help you enjoy your time without inconvenience. Dress comfortably and respectfully, as churches often have certain decorum expectations. Seasonal considerations are also important; check the local weather to ensure a pleasant visit.
 
 ## Frequently Asked Questions
 
-### **How long should I spend visiting?**
-You should plan for about one to two hours at St. Konrad und Elisabeth to fully appreciate its architectural details and serene atmosphere.
+### How long should I spend visiting?
+A visit to St. Konrad und Elisabeth typically takes about an hour, allowing time to appreciate the architecture and ambiance.
 
-### **Is photography allowed inside?**
-While general photography is often permitted in churches, it's best to check for any specific restrictions upon arrival.
+### Is photography allowed?
+Photography policies can vary, so it's best to check for any restrictions upon arrival.
 
-### **Are there guided tours available?**
-Contact the site directly for information on whether guided tours are offered and how to arrange them.
+### Are there guided tours?
+Guided tours may be offered during special events or as part of larger cultural programs. Check the official website for details.
 
-### **What's the best time of day to visit?**
-Morning visits are ideal for fewer crowds and better lighting for photography.
+### What's the best time to visit?
+Visiting during weekdays is often quieter, while attending services can provide a unique experience.
 
-### **Is the site wheelchair accessible?**
-Contact the site directly for the latest information regarding accessibility options at St. Konrad und Elisabeth.
+### Is it wheelchair accessible?
+Accessibility features are not specified; it's advisable to check with the official website for detailed information.
 
-### **Can I buy tickets online?**
-Visit the official website for current admission prices and ticketing options.
+### Can I buy tickets online?
+Check the official website for information regarding any admission fees and online ticket purchasing options.
 
-### **Are there facilities like restrooms and cafes?**
-Check with the site directly for information on available facilities nearby.
+### Are there restrooms and cafes?
+Amenities such as restrooms and nearby cafes may be located within walking distance; check local resources for more information.
 
-### **What should I wear when visiting?**
-Modest attire is generally appreciated in places of worship; consider wearing comfortable clothing appropriate for a church setting.
+### What should I wear?
+Dress respectfully, keeping in mind that this is a place of worship. Comfortable clothing is recommended for a pleasant visit.

@@ -1,143 +1,123 @@
 ---
-title: Det lille Teater
-date: 2026-01-24
-draft: false
-description: dänische Theaterbühne in Flensburg
-region: Germany
-country: Germany
-heritage_type: Theater
-categories:
-- Theater
-regions:
-- Germany
+title: "Det lille Teater"
 site_name: "Det lille Teater"
+date: 2026-01-26
+draft: false
+description: "dänische Theaterbühne in Flensburg"
+region: "Flensburg"
+country: "Germany"
+heritage_type: "Theatre Building"
+categories:
+  - "Theatre Building"
+regions:
+  - "Flensburg"
+wikidata_id: "Q834543"
 latitude: 54.7899
 longitude: 9.43013
 images:
-- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/1200px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
-- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/1200px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/1200px-Det_lille_Teater_Gråsten_2023_1.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/1200px-Det_lille_Teater_Gråsten_2023_2.jpg
-- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/1200px-Det_lille_Teater_Gråsten_2023_3.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1200px-Det_lille_Teater.jpg
 image_srcset:
-  ? Turmburg im Norderkuhgang (also sozusagen Norderkuh-Burg), dort wo sich Det lille
-    Teater befindet, gleich neben dem Burghof.JPG
-  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/400px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/800px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/1200px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/1920px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
-  '"Det lille Theater" Mariegade 20 in Flensburg (2024).jpg':
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/400px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/800px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/1200px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/1920px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
-  Det lille Teater Gråsten 2023 1.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/400px-Det_lille_Teater_Gråsten_2023_1.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/800px-Det_lille_Teater_Gråsten_2023_1.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/1200px-Det_lille_Teater_Gråsten_2023_1.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/1920px-Det_lille_Teater_Gråsten_2023_1.jpg
-  Det lille Teater Gråsten 2023 2.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/400px-Det_lille_Teater_Gråsten_2023_2.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/800px-Det_lille_Teater_Gråsten_2023_2.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/1200px-Det_lille_Teater_Gråsten_2023_2.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/1920px-Det_lille_Teater_Gråsten_2023_2.jpg
-  Det lille Teater Gråsten 2023 3.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/400px-Det_lille_Teater_Gråsten_2023_3.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/800px-Det_lille_Teater_Gråsten_2023_3.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/1200px-Det_lille_Teater_Gråsten_2023_3.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/1920px-Det_lille_Teater_Gråsten_2023_3.jpg
+  Det%20lille%20Teater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/400px-Det_lille_Teater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/800px-Det_lille_Teater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1200px-Det_lille_Teater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Det_lille_Teater.jpg/1920px-Det_lille_Teater.jpg
 ---
 
 ## Overview
 
-Det lille Teater, located in the vibrant city of Flensburg, Germany, is a cherished cultural site that serves as a stage for Danish theatrical productions. This intimate theater, renowned for its unique atmosphere, draws audiences into the world of performance art, showcasing a variety of plays that reflect both contemporary and traditional Danish narratives. Situated in a city that boasts a rich history intertwined with Danish influence, Det lille Teater is not merely a venue for entertainment but a vital part of the cultural fabric of Flensburg and the surrounding region.
+Det lille Teater, a cherished theatre building located in the vibrant city of Flensburg, Germany, represents a significant cultural hub in the region. This Danish theatre stage has been a vital part of Flensburg's artistic landscape, showcasing a variety of performances that reflect the region's rich cultural heritage. As you explore Det lille Teater, you will find not only a venue for entertainment but also a space where local traditions and contemporary creativity intersect, fostering a community connection through the performing arts.
 
-As you step into this theater, you are greeted by an ambiance that fosters creativity and connection. The performances here resonate deeply with audiences, making it a hub for both locals and visitors eager to experience the artistic expressions of the Danish community. Det lille Teater is not just about the performances; it’s a place where stories are told, emotions are shared, and cultural dialogues are fostered, making it a must-visit for those looking to immerse themselves in the local heritage.
+Flensburg itself is a picturesque city situated near the Danish border, renowned for its maritime history and charming architecture. The theatre adds to this cultural milieu, serving as a focal point for both locals and visitors. The intimate setting of Det lille Teater allows for an immersive experience, whether you're attending a play, a concert, or other artistic events. This guide aims to provide you with a comprehensive overview of Det lille Teater, its historical significance, architectural features, and visiting information to enhance your experience at this remarkable venue.
 
 ## History and Significance
 
-Det lille Teater holds a significant place in the cultural landscape of Flensburg, a city with a diverse and complex history influenced by its proximity to Denmark. The theater is part of the broader narrative of cultural exchange between Germany and Denmark, reflecting the shared heritage and ongoing connections between the two nations. Though specific dates of establishment and milestones may not be readily available, the theater continues to be a vibrant platform for artistic expression that champions Danish language and literature.
+Det lille Teater has played an essential role in the cultural development of Flensburg and the surrounding areas. The theatre is known for its dedication to promoting Danish-language performances, reflecting the historical ties and cultural exchanges between Denmark and Germany in this border region. While specific historical dates may not be available, the theatre's presence is indicative of the lasting influence of Danish culture in Flensburg, which can be traced back to earlier centuries.
 
-The importance of Det lille Teater extends beyond mere entertainment; it serves as a cultural incubator where local talent can flourish. By providing a venue for both established and emerging artists, the theater plays a crucial role in keeping the Danish language and culture alive in a region where it has historically thrived. The performances often touch on themes relevant to both the local community and the broader societal issues, making it a space for reflection and dialogue.
+The theatre's significance extends beyond its stage. It serves as a platform for local talent, providing opportunities for aspiring actors, playwrights, and artists to showcase their work. This commitment to nurturing creativity contributes to a vibrant arts scene in Flensburg, attracting audiences who appreciate quality performances in an intimate setting. Through various productions, Det lille Teater fosters a sense of community while also welcoming international performances that enrich the local cultural landscape.
 
-Throughout its existence, Det lille Teater has contributed to the cultural identity of Flensburg, providing a sense of belonging to Danish speakers in the area. Its programming often includes a blend of classic and contemporary works, ensuring that audiences have a diverse array of performances to choose from. This commitment to accessibility and representation underscores the theater's role as a cultural bridge, fostering understanding and appreciation among different linguistic and cultural communities.
+Moreover, the theatre often collaborates with schools and community organizations, enhancing its role as a community hub. By engaging in educational outreach and workshops, it plays a crucial part in promoting the arts among younger generations, ensuring that the love for theatre and performance continues to thrive in Flensburg.
 
 ## Architecture and Features
 
-The architectural design of Det lille Teater complements its intimate atmosphere, inviting audiences to engage closely with the performances. While specific architectural details may not be documented, the theater is known for its cozy setting that enhances the viewer's experience. The layout is conducive to creating a sense of closeness between the performers and the audience, allowing for a more immersive theatrical experience.
+Det lille Teater showcases a design that reflects both its functional purpose and the aesthetic sensibilities of its time. The theatre's exterior is characterized by a charming façade that embodies traditional architectural elements, making it a visually appealing landmark within Flensburg. Its welcoming entrance invites visitors into a world of creativity and performance, setting the stage for a memorable experience.
 
-Inside, the theater features comfortable seating arrangements that ensure visibility and acoustics are optimized for every performance. The stage is designed to accommodate a variety of productions, from traditional plays to innovative contemporary works, showcasing the versatility of the space. The inviting decor reflects the warmth of the community it serves, making it an ideal location for both cultural expression and audience engagement.
+Inside, the theatre is designed to create an intimate atmosphere conducive to storytelling and performance. The seating arrangements are typically arranged to allow for close interactions between the performers and the audience, enhancing the emotional impact of each production. This layout is essential for the types of performances that take place at Det lille Teater, where the connection between the stage and the audience is vital.
 
-Additionally, the theater often incorporates elements that celebrate Danish culture, adding to its charm and authenticity. The ambiance is one of creativity and collaboration, with spaces that encourage artistic experimentation and community involvement. This design philosophy aligns with the theater's mission to be a welcoming space for all who wish to experience the richness of Danish theatrical art.
+Notable features of the theatre may include a well-equipped stage that accommodates a diverse range of performances, from classic plays to modern interpretations. The interior design reflects a commitment to maintaining a comfortable and engaging environment for spectators, often incorporating elements that are both functional and aesthetically pleasing. The overall ambiance of Det lille Teater resonates with the creative spirit of the performances it hosts, making it a cherished venue for both artists and audiences alike.
 
 ## Visiting Information
 
-When planning your visit to Det lille Teater, it's essential to consider how to get there, as well as what to expect upon arrival. Located in Flensburg, the theater is accessible via various modes of transportation, including public transit and personal vehicles. The theater's central location makes it convenient for visitors exploring the city's other attractions.
+Visiting Det lille Teater is an enriching experience, whether you're a theatre enthusiast or simply looking to enjoy a night out. The theatre is accessible by various modes of transportation, making it easy to reach from different parts of Flensburg. Visitors can arrive by public transport, such as buses, or choose to explore the area on foot, taking in the charming surroundings of the city.
 
-For specific details regarding opening hours and ticket prices, it is advisable to check the official website for current information. This will ensure you have the most up-to-date details about upcoming performances and any special events that may be taking place during your visit.
+To ensure you have the best experience, it is advisable to check the official website for current information on performance schedules, ticket prices, and availability. This will help you plan your visit effectively, as the theatre often hosts a range of shows throughout the year.
 
-Expect the experience at Det lille Teater to be engaging and personal, with performances that invite participation and reflection. Depending on the program, you may find yourself immersed in a range of emotions, from laughter to contemplation. Generally, visitors may want to allocate approximately two to three hours for their visit, which includes time for seating, the performance itself, and any post-show discussions or interactions.
+When attending a performance at Det lille Teater, expect an intimate and engaging atmosphere. The time needed for your visit will depend on the specific show you choose to attend, but you can generally allocate a few hours for the entire experience, including any intermissions. For those interested in making the most of their visit, arriving early can provide an opportunity to soak in the atmosphere and perhaps enjoy a pre-show drink or snack at nearby cafes.
 
-The best times to visit can vary, particularly around festival seasons or during special events, when the theater may showcase unique productions that highlight the richness of Danish culture. Checking the official website ahead of time will help you plan for peak visiting times and special performances.
+The best times to visit Det lille Teater are typically during the main performance seasons. However, keep an eye on special events, festivals, or unique productions that may be taking place, as these can offer memorable experiences for visitors.
 
 ## Nearby Attractions
 
-Flensburg is home to several attractions that complement a visit to Det lille Teater. Here are a few noteworthy sites to consider:
+While visiting Det lille Teater, consider exploring some of the nearby attractions that enrich the cultural offering of Flensburg:
 
-1. **Flensburg Harbor**: A picturesque area that combines scenic views with maritime history. Visitors can enjoy a stroll along the waterfront, lined with cafes and shops.
+1. **Flensburg Maritime Museum**: This museum showcases the maritime history of Flensburg and features exhibits on shipbuilding, seafaring traditions, and the city's connection to the sea.
 
-2. **Phänomenta**: An interactive science center that is great for families and those interested in hands-on learning experiences. It offers a variety of exhibits that engage visitors in scientific exploration.
+2. **St. Nicholas Church**: A beautiful example of Gothic architecture, this historic church offers a glimpse into the religious heritage of Flensburg.
 
-3. **Flensburg Museum**: This museum showcases the history of the region, offering insights into Flensburg's unique cultural identity and its connection to Denmark.
+3. **Flensburg Fjord**: The scenic fjord is perfect for leisurely walks along the water, providing picturesque views and a peaceful environment.
 
-4. **St. Nicholas Church**: An architectural landmark with beautiful interior details, this church is a testament to the city’s historical significance and offers a peaceful setting for reflection.
+4. **Historical City Centre**: Wander through the charming streets of Flensburg's historic centre, filled with shops, cafes, and well-preserved buildings that reflect the city's rich past.
 
-5. **Schleswig-Holstein State Museum**: Located nearby, this museum provides a broader context of the region's art and cultural history, making it an excellent addition to your itinerary.
+5. **Museum of Local History**: This museum offers insights into the daily life and culture of Flensburg's residents throughout the centuries, enhancing your understanding of the region.
 
 ## Insider Tips
 
-When visiting Det lille Teater, consider the following insider tips to enhance your experience:
+To make the most of your visit to Det lille Teater, consider these insider tips:
 
-- **Photography**: While the theater itself may have specific guidelines about photography during performances, it is advisable to check with the staff before capturing any images. Outside the venue, feel free to take photos of the building and surrounding areas.
+- **Photography**: Be mindful of the theatre's policies regarding photography during performances. While capturing the architecture before and after the show is usually acceptable, it is best to inquire about restrictions during the performance.
 
-- **Crowd Avoidance**: To enjoy a more intimate experience, consider attending performances on weekdays or during off-peak hours. This can often lead to a more personal connection with the production and the performers.
-
-- **Arrive Early**: Arriving ahead of time can allow you to soak in the atmosphere and perhaps even engage with fellow theatergoers. It may also provide a chance to explore any exhibitions or materials related to the performance.
+- **Crowd Avoidance**: If you prefer a more intimate experience, consider attending weekday performances or shows that are less likely to sell out. This can enhance your enjoyment and allow you to connect more deeply with the performance.
 
 ## Practical Information
 
-When preparing for your visit to Det lille Teater, keep the following practical considerations in mind:
+When planning your visit to Det lille Teater, here are some practical considerations:
 
-- **What to Bring**: Bring along comfortable clothing, especially if you plan to attend a longer performance. It’s also a good idea to carry a light jacket, as temperatures can vary in theater settings.
+- **What to Bring**: Dress comfortably, as you may be sitting for an extended period. If attending a performance during cooler months, bring a light jacket or sweater, as theatres can sometimes be chilly.
 
-- **Seasonal Considerations**: Depending on the season, check the weather forecast to ensure you dress appropriately for your visit. Winter months in Flensburg can be chilly, while summer might offer a more comfortable climate for exploration.
-
-- **Accessibility**: When planning your visit, ensure you check for any accessibility options available at the theater to accommodate all visitors.
+- **Seasonal Considerations**: Depending on the time of year, check the local weather forecast and plan accordingly. If you’re visiting during summer, consider the longer daylight hours for exploring the city before or after your visit.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically lasts about two to three hours, including the performance and any additional activities.
+
+Plan to spend a few hours at Det lille Teater, which includes time for the performance and any intermissions. Arriving early allows you to enjoy the atmosphere and settle in before the show begins.
 
 ### Is photography allowed?
-Photography policies may vary; check with the theater staff for guidelines on capturing images during performances.
+
+Photography policies can vary, so it's best to check with the theatre regarding photography during performances. However, capturing the theatre's architecture before and after the show is generally acceptable.
 
 ### Are there guided tours?
-Currently, guided tours may not be available. Check the official website for any special event offerings.
+
+Currently, guided tours are not typically offered at Det lille Teater. However, you can enjoy the performances and perhaps engage with staff for insights about the theatre's history and productions.
 
 ### What's the best time to visit?
-Weekdays or off-peak times generally offer a more intimate experience. Special performances may draw larger crowds, so plan accordingly.
+
+The best time to visit is during the main performance seasons, which you can confirm on the official website. Special events and unique productions may also provide exciting opportunities to visit.
 
 ### Is it wheelchair accessible?
-Check the official website for detailed information regarding accessibility features.
+
+Check the official website for specific accessibility information regarding wheelchair access to ensure a comfortable visit for all guests.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary; for convenience, check the official website for online ticket availability.
+
+Yes, tickets for performances at Det lille Teater can usually be purchased online. Be sure to check the official website for current ticketing options and availability.
 
 ### Are there restrooms and cafes?
-Facilities are typically available within or near the theater; however, check the official website for specific amenities.
+
+Facilities such as restrooms are typically available at the theatre. For cafes, consider exploring nearby options for refreshments before or after your performance.
 
 ### What should I wear?
-Comfortable attire is recommended, especially for longer performances. Be mindful of the weather if attending during colder months. 
 
-Det lille Teater in Flensburg is more than just a theater; it’s a cultural experience that invites you to engage with the rich narratives of Danish heritage. Whether you are an avid theatergoer or a curious traveler, this intimate venue promises a memorable experience at the heart of Flensburg's vibrant artistic community.
+Dress comfortably for your visit, keeping in mind that some guests may prefer smart-casual attire for evening performances. Check the specific event details, as some productions may have themed dress codes. 
+
+Whether you're a local resident or a traveler exploring Flensburg, Det lille Teater promises an engaging experience that highlights the beauty of performance art in a historically rich setting.

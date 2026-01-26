@@ -1,102 +1,108 @@
 ---
 title: "Synagoge Görlitz"
-date: 2026-01-23
+site_name: "Synagoge Görlitz"
+date: 2026-01-26
 draft: false
 description: "synagogue in Görlitz"
-region: "Germany"
+region: "Görlitz"
 country: "Germany"
 heritage_type: "Synagogue"
 categories:
   - "Synagogue"
 regions:
-  - "Germany"
-site_name: "Synagoge Görlitz"
+  - "Görlitz"
+wikidata_id: "Q2375079"
 latitude: 51.15277778
 longitude: 14.99111111
 images:
-  - "/images/synagoge-goerlitz/01-11e03387-800w.webp"
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/1200px-Goerlitz_synagoge1.jpg
+image_srcset:
+  Goerlitz%20synagoge1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/400px-Goerlitz_synagoge1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/800px-Goerlitz_synagoge1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/1200px-Goerlitz_synagoge1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Goerlitz_synagoge1.jpg/1920px-Goerlitz_synagoge1.jpg
 ---
 
 ## Overview
 
-Synagoge Görlitz, located in the historical town of Görlitz, Germany, is a significant religious site that offers a glimpse into the Jewish heritage of the region. This synagogue serves not only as a place of worship but also as a testament to the cultural and religious history of Jewish communities in Germany. Situated at coordinates 51.15277778, 14.99111111, the synagogue's presence enriches the diverse narrative of Görlitz, an area known for its well-preserved architectural heritage and flourishing arts scene. Visitors to this site can expect to engage with its historical context and appreciate the architectural elements that reflect the Jewish faith.
+The Synagoge Görlitz is a remarkable site that serves as a significant cultural and historical landmark within the town of Görlitz, Germany. This synagogue not only reflects the architectural styles of its time but also stands as a symbol of the Jewish heritage in a region rich with stories of resilience and community. Located at coordinates 51.15277778, 14.99111111, the synagogue is part of a city that has witnessed the ebb and flow of various cultures and traditions, making it an integral part of Görlitz's identity. Visitors to the synagogue can expect to engage with its history, architectural beauty, and the enduring spirit of the Jewish community that once thrived here.
 
-As one explores the streets of Görlitz, the Synagoge stands as a reminder of the vibrant Jewish life that once thrived here. The synagogue's significance extends beyond its physical structure; it embodies the resilience and continuity of Jewish culture through the centuries. A visit to Synagoge Görlitz promises not only spiritual reflection but also an opportunity to understand the broader historical dynamics that have shaped this border town.
+As you explore this sacred space, you will find a narrative woven through the walls and artifacts that speak to a vibrant past. The Synagoge Görlitz invites travelers and history enthusiasts alike to discover its significance within the broader tapestry of Jewish life in Germany, particularly against the backdrop of the town's diverse history. 
 
 ## History and Significance
 
-The history of Synagoge Görlitz is interwoven with the narrative of Jewish communities in Germany. Although specific dates and events are not detailed, the synagogue represents centuries of Jewish presence in the region, reflecting both the challenges and contributions of Jewish life. Throughout history, synagogues have served as communal centers for prayer, education, and social gatherings, making them pivotal in fostering community identity.
+The Synagoge Görlitz holds a prominent place in the history of the Jewish community in the region. Although specific dates are not available, it is known that Görlitz has a long-standing Jewish presence, with the synagogue serving as a focal point for religious and communal activities. The establishment of the synagogue marked a significant moment for the local Jewish population, providing a dedicated space for worship, community gatherings, and cultural events.
 
-In the context of Görlitz, the synagogue plays a crucial role in understanding the demographic and cultural shifts that have occurred over time. The Jewish community in the region has faced various historical challenges, including periods of persecution and integration into wider society. The synagogue serves as a monument to resilience, standing as a symbol of faith and community spirit, even amidst adversity.
+Throughout its history, the synagogue has experienced various phases of use and significance. It has witnessed the challenges faced by the Jewish community, particularly during periods of social upheaval and discrimination. The resilience of this community is mirrored in the synagogue’s continued existence, which serves as a reminder of their contributions to the cultural fabric of Görlitz.
 
-The architectural and cultural significance of the synagogue is recognized not just locally but also within the broader Jewish historical narrative in Germany. Its preservation reflects a commitment to remembering and honoring the past, ensuring that the stories of those who once gathered here are not forgotten. As a religious site, Synagoge Görlitz continues to be a focal point for both reflection and learning, inviting visitors to engage with its rich heritage.
+The synagogue also plays a role in contemporary efforts to honor and preserve Jewish heritage in the area. Its existence contributes to the ongoing dialogue about tolerance, diversity, and the importance of remembering history. In recent years, the synagogue has become a site for educational programs and cultural events aimed at fostering understanding and appreciation of Jewish history and traditions.
 
 ## Architecture and Features
 
-The architectural style of Synagoge Görlitz is emblematic of the religious and cultural identity of the Jewish community it serves. While specific architectural details are not provided, synagogues of this era often feature unique elements that highlight their religious significance. Typically, one can expect to find a blend of traditional Jewish motifs, including Star of David symbols and ornate decorations that speak to the artistry of the period.
+The architectural style of the Synagoge Görlitz reflects the historical context in which it was built. With a design that showcases traditional elements associated with synagogue architecture, it captures the essence of the Jewish religious aesthetic. Visitors will likely notice the intricate details that adorn the building, which serve both functional and symbolic purposes. 
 
-Interiors of synagogues often include spaces designated for prayer and reflection, designed to foster a sense of community and spiritual connection. Features such as the bimah (the platform from which the Torah is read) and the aron kodesh (the cabinet that houses the Torah scrolls) are central to the layout of these sacred spaces, providing insight into Jewish liturgical practices.
+While specific architectural features are not detailed in the provided information, synagogues typically incorporate elements such as a bimah (a raised platform for reading the Torah), ornate stained glass windows, and decorative motifs that reflect Jewish symbolism. These elements are not only visually striking but also contribute to the overall spiritual atmosphere of the space.
 
-Visitors may find themselves drawn to the tranquil atmosphere within the synagogue, where the interplay of light and space can create a contemplative environment. The materials used in construction, often reflective of local craftsmanship, contribute to the overall aesthetic and historical context of the site. 
-
-While the specific architectural features of Synagoge Görlitz are not detailed, the general characteristics of synagogues suggest a space filled with both spiritual and historical significance, inviting contemplation and respect for its past.
+As you explore the synagogue, pay attention to the craftsmanship that highlights the importance of community in its construction and maintenance. The building stands as a physical representation of the Jewish community's dedication to preserving their heritage and faith.
 
 ## Visiting Information
 
-To visit Synagoge Görlitz, travelers can access the site with relative ease given its location within the town. Transport options may vary, and visitors are encouraged to check the official website for current information regarding opening hours and entry fees. 
+For those planning a visit to the Synagoge Görlitz, there are several factors to consider to enhance your experience. The synagogue is located in the heart of Görlitz, making it accessible to visitors exploring the town. Various modes of transport are available, including public transportation options and parking facilities nearby.
 
-Expect a visit to take a moderate amount of time, ideally allowing for a thorough exploration of the site and reflection on its significance. The synagogue may also serve as a gateway to understanding the broader historical context of Görlitz, making it worthwhile to consider combining this visit with exploration of other nearby attractions.
+Check the official website for current information regarding opening hours, ticket prices, and any special events that may be taking place during your visit. It is advisable to allocate sufficient time to explore both the synagogue and the surrounding area, allowing for a deeper understanding of its significance.
 
-For those planning their visit, consider the best times to go. Mornings and early afternoons may offer a quieter experience, allowing for personal reflection and exploration without the distraction of larger crowds. Engaging with the local community and understanding their traditions can enhance the experience, so be mindful of any events or gatherings that may be taking place.
-
-In preparation for your visit, ensure you are aware of any specific visitor guidelines or customs that may be observed within the synagogue, as these can enhance the respectfulness of your experience.
+The best times to visit may vary, but generally, weekdays might offer a quieter experience, allowing for a more contemplative exploration of the site. Engaging with the architecture and the atmosphere of the synagogue can be a profoundly moving experience, making it worthwhile to take your time.
 
 ## Nearby Attractions
 
-1. **Görlitzer Park**: A beautiful green space ideal for leisurely strolls and enjoying nature, providing a serene backdrop to the historical town.
-   
-2. **St. Peter and Paul Church**: A remarkable Gothic structure that stands as an architectural highlight of Görlitz, offering insights into the city's religious history.
+Görlitz is home to a variety of attractions that complement a visit to the Synagoge Görlitz:
 
-3. **Görlitz Old Town**: Known for its well-preserved medieval buildings and charming streets, this area is a perfect complement to a visit to the synagogue.
-
-4. **Heiliges Grab**: A unique historical site, this replica of the Holy Sepulchre in Jerusalem provides a fascinating glimpse into the religious landscape of the region.
-
-5. **Schlesisches Museum**: This museum showcases the cultural history of Silesia, including artifacts and exhibitions that reflect the diverse heritage of the area.
+1. **St. Peter and Paul Church**: An impressive Gothic church known for its stunning architecture and historical significance.
+2. **Görlitz Historical Old Town**: A beautifully preserved area featuring a mix of Renaissance, Baroque, and Gothic buildings, ideal for a leisurely stroll.
+3. **Landesmuseum Görlitz**: A regional museum showcasing local history and culture, with exhibits that provide context for the town's development.
+4. **Schlesisches Museum zu Görlitz**: Focused on the history and culture of Silesia, this museum offers insights into the broader historical narrative of the region.
+5. **Neisse River Promenade**: A scenic area along the river that offers picturesque views and opportunities for relaxation.
 
 ## Insider Tips
 
-For photography enthusiasts, the synagogue's architectural details may present excellent opportunities for capturing unique images. However, be sure to respect any guidelines regarding photography within the sacred space.
+To make the most of your visit to the Synagoge Görlitz, consider the following insider tips:
 
-To avoid crowds, consider visiting during weekdays or early on weekends, as these times may offer a quieter atmosphere. Engaging with staff or local guides can also provide deeper insights into the site's history, enhancing your experience.
+- **Photography**: If you plan to take photographs, check in advance whether photography is allowed inside the synagogue, as some sites have restrictions to preserve the sanctity of the space.
+- **Crowd Avoidance**: Visiting during off-peak hours, particularly on weekdays, can provide a quieter experience. Early mornings or late afternoons may also be less crowded.
+- **Reflective Time**: Allow for quiet contemplation within the synagogue. The atmosphere is conducive to reflection and provides an opportunity to connect with the history of the space.
 
 ## Practical Information
 
-When planning your visit to Synagoge Görlitz, it is advisable to bring a small bag for personal items. Comfortable walking shoes are recommended, as exploring the synagogue and its surrounding areas may involve some walking.
+When preparing for your visit, keep in mind the following practical considerations:
 
-Seasonal considerations can also play a role in your experience. Be mindful of changing weather conditions and dress accordingly, especially if you plan to explore outdoor attractions in conjunction with your visit to the synagogue.
+- **What to Bring**: Comfortable walking shoes are recommended, as you may spend time exploring both the synagogue and the surrounding historical area. A notebook or camera can also enhance your experience.
+- **Seasonal Considerations**: Depending on the time of year, weather conditions may vary. Dress appropriately for the season, and consider bringing an umbrella or a hat for sun protection.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to Synagoge Görlitz typically takes about 30 minutes to an hour, allowing time for reflection and exploration.
+A visit to the Synagoge Görlitz typically takes about 1-2 hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary, so it's best to check specific guidelines upon arrival. Always be respectful of the sacred nature of the space.
+Check the official website for specific photography policies, as some synagogues may have restrictions.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours and any scheduled programs that may enhance your visit.
+Information regarding guided tours may be available on the official website. Consider joining a tour for a more in-depth understanding of the synagogue's history.
 
 ### What's the best time to visit?
-Early mornings or weekdays often provide a quieter atmosphere, making them ideal times for a more reflective experience.
+Weekdays may offer a quieter experience, while mornings or late afternoons tend to be less crowded.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, consult the official website or contact the site directly to ensure an accommodating visit.
+Check the official website for detailed accessibility information regarding the synagogue.
 
 ### Can I buy tickets online?
-Check the official website for current ticketing options and availability, as this may change.
+Ticket purchasing options may vary; check the official website for current information on ticket availability.
 
 ### Are there restrooms and cafes?
-Information about facilities such as restrooms and nearby cafes can be found on the official website or by inquiring at the site.
+Visitor amenities, including restrooms and cafes, should be verified on the official website.
 
 ### What should I wear?
-Dress conservatively and respectfully, keeping in mind the sacred nature of the synagogue. Comfortable clothing and shoes are recommended for your visit.
+Dress modestly and comfortably, considering the sacred nature of the space. 
+
+With its historical depth and architectural beauty, the Synagoge Görlitz stands as an essential part of the narrative of Görlitz, inviting visitors to reflect on its enduring legacy.

@@ -61,7 +61,19 @@
       "Bash(git branch:*)",
       "Bash(git push:*)",
       "Bash(gh repo view:*)",
-      "Bash(npm run upload:images:*)"
+      "Bash(npm run upload:images:*)",
+      "Bash(git checkout:*)",
+      "Bash(if [ -f \"data/raw/sites.json\" ])",
+      "Bash(then cat data/raw/sites.json)",
+      "Bash(fi)",
+      "Bash(then python -c \"import json; data = json.load\\(open\\(''data/raw/sites.json''\\)\\); print\\(f''Şu anki site sayısı: {len\\(data\\)}''\\)\")",
+      "Bash(if [ -f \".env\" ])",
+      "Bash(then grep -q \"OPENAI_API_KEY\" .env)",
+      "Bash(else echo \".env file NOT found\")",
+      "Bash(do wc -l \"$file\")",
+      "Bash(kill:*)",
+      "Bash(git config:*)",
+      "Bash(xargs git add)"
     ]
   }
 }

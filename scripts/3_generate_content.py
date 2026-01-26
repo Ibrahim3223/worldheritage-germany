@@ -32,7 +32,7 @@ CONFIG = {
 }
 
 BASE_DIR = Path(__file__).parent.parent
-DATA_DIR = BASE_DIR / 'data' / 'fetched'
+DATA_DIR = BASE_DIR / 'data' / 'raw'  # Changed from 'fetched' to 'raw' for proper metadata
 CONTENT_DIR = BASE_DIR / 'content' / 'sites'
 IMAGES_DIR = BASE_DIR / 'static' / 'images-sites'
 PROGRESS_FILE = BASE_DIR / 'content_generation_progress.txt'
@@ -110,13 +110,21 @@ def write_progress(message: str):
 # ============================================
 
 def build_prompt(site: dict) -> str:
-    title = site.get('title', 'Unknown')
+    title = site.get('title', site.get('name', 'Unknown'))
     description = site.get('description', '')
-    category = site.get('category', 'heritage site')
+    category = site.get('category', site.get('heritage_type', 'heritage site'))
     category_info = site.get('category_info', {})
     heritage_type = category.replace('_', ' ').title()
 
+    # Get region - prefer specific region over Germany
     region = site.get('region', 'Germany')
+    if not region or region == 'Germany':
+        region = 'Germany'
+
+    # Extract coordinates from the coordinates field
+    coords = site.get('coordinates', [])
+    lat = coords[0] if len(coords) >= 2 else 'N/A'
+    lon = coords[1] if len(coords) >= 2 else 'N/A'
 
     formatted_data = f"""=== BASIC INFORMATION ===
 Name: {title}
@@ -126,7 +134,7 @@ Country: Germany
 Description: {description}
 
 === LOCATION ===
-Coordinates: {site.get('latitude', 'N/A')}, {site.get('longitude', 'N/A')}
+Coordinates: {lat}, {lon}
 
 === CATEGORY INFO ===
 Tags: {', '.join(category_info.get('category_tags', [category]))}
@@ -240,30 +248,58 @@ def generate_content(site: dict, client: OpenAI) -> tuple:
         # Create Hugo page
         description = site.get('description', '')[:150].replace('"', '\\"')
         category = site.get('category', 'heritage site').replace('_', ' ').title()
-        lat = site.get('latitude', 0)
-        lon = site.get('longitude', 0)
 
-        # Try to get Wikimedia images first
+        # Extract coordinates from coordinates field
+        coords = site.get('coordinates', [0, 0])
+        lat = coords[0] if len(coords) >= 2 else 0
+        lon = coords[1] if len(coords) >= 2 else 0
+
+        # Try to get Wikimedia images
         images = []
         image_srcset = {}
-        wikidata_id = site.get('wikidata_id', '')
 
-        if wikidata_id:
-            wiki_filenames = get_wikidata_images(wikidata_id)
-            if wiki_filenames:
-                for filename in wiki_filenames[:5]:  # Max 5 images
-                    # Main image URL (1200px)
-                    main_url = get_wikimedia_thumb_url(filename, 1200)
-                    images.append(main_url)
+        # First check if we have wikidata_image in the data (from Script 1)
+        wikidata_image_url = site.get('wikidata_image', '')
+        if wikidata_image_url:
+            # Extract filename from Wikimedia Commons URL
+            # Format: http://commons.wikimedia.org/wiki/Special:FilePath/Filename.jpg
+            if 'FilePath/' in wikidata_image_url:
+                filename = wikidata_image_url.split('FilePath/')[-1]
+                # Decode URL encoding
+                import urllib.parse
+                filename = urllib.parse.unquote(filename)
 
-                    # Generate srcset for responsive images
-                    srcset_key = filename.replace(' ', '%20')
-                    image_srcset[srcset_key] = {
-                        400: get_wikimedia_thumb_url(filename, 400),
-                        800: get_wikimedia_thumb_url(filename, 800),
-                        1200: get_wikimedia_thumb_url(filename, 1200),
-                        1920: get_wikimedia_thumb_url(filename, 1920),
-                    }
+                # Main image URL (1200px)
+                main_url = get_wikimedia_thumb_url(filename, 1200)
+                images.append(main_url)
+
+                # Generate srcset for responsive images
+                srcset_key = filename.replace(' ', '%20')
+                image_srcset[srcset_key] = {
+                    400: get_wikimedia_thumb_url(filename, 400),
+                    800: get_wikimedia_thumb_url(filename, 800),
+                    1200: get_wikimedia_thumb_url(filename, 1200),
+                    1920: get_wikimedia_thumb_url(filename, 1920),
+                }
+        else:
+            # Fallback: Query Wikidata API for images
+            wikidata_id = site.get('wikidata_id', '')
+            if wikidata_id:
+                wiki_filenames = get_wikidata_images(wikidata_id)
+                if wiki_filenames:
+                    for filename in wiki_filenames[:5]:  # Max 5 images
+                        # Main image URL (1200px)
+                        main_url = get_wikimedia_thumb_url(filename, 1200)
+                        images.append(main_url)
+
+                        # Generate srcset for responsive images
+                        srcset_key = filename.replace(' ', '%20')
+                        image_srcset[srcset_key] = {
+                            400: get_wikimedia_thumb_url(filename, 400),
+                            800: get_wikimedia_thumb_url(filename, 800),
+                            1200: get_wikimedia_thumb_url(filename, 1200),
+                            1920: get_wikimedia_thumb_url(filename, 1920),
+                        }
 
         # Fallback to local images if no Wikimedia images
         if not images:
@@ -346,15 +382,29 @@ images:
 
 
 def load_all_sites() -> list:
-    all_sites = []
-    for json_file in sorted(DATA_DIR.glob('germany_*.json')):
-        try:
-            with open(json_file, 'r', encoding='utf-8') as f:
-                sites = json.load(f)
-                all_sites.extend(sites)
-        except Exception as e:
-            log(f"Error loading {json_file.name}: {e}")
-    return all_sites
+    """Load sites from data/raw/sites.json (Script 1 output)"""
+    sites_file = DATA_DIR / 'sites.json'
+
+    if not sites_file.exists():
+        log(f"ERROR: {sites_file} not found. Run script 1 first!")
+        return []
+
+    try:
+        with open(sites_file, 'r', encoding='utf-8') as f:
+            sites = json.load(f)
+        log(f"Loaded {len(sites)} sites from {sites_file}")
+
+        # Convert 'name' to 'title' for compatibility
+        for site in sites:
+            if 'name' in site and 'title' not in site:
+                site['title'] = site['name']
+            if 'heritage_type' in site and 'category' not in site:
+                site['category'] = site['heritage_type']
+
+        return sites
+    except Exception as e:
+        log(f"Error loading {sites_file}: {e}")
+        return []
 
 
 def get_existing_pages() -> set:
