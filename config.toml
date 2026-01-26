@@ -96,8 +96,9 @@ paginate = 100
     lineNos = false
 
 # Output formats (minimized to reduce file count for Cloudflare 20k limit)
+# Keeping RSS only for home page (blog subscribers)
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "RSS"]
   section = ["HTML"]
   page = ["HTML"]
   taxonomy = ["HTML"]
