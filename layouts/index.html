@@ -58,22 +58,8 @@
       {{ $allSites := where .Site.RegularPages "Section" "sites" }}
       {{ $sitesWithImages := where $allSites "Params.images" "!=" nil }}
 
-      {{/* Filter out sites with only thumbnail images */}}
-      {{ $validSites := slice }}
-      {{ range $sitesWithImages }}
-        {{ $hasValidImage := false }}
-        {{ range .Params.images }}
-          {{ if not (or (in . "Thumbnail") (in . "thumbnail") (in . "thumb") (in . ".svg")) }}
-            {{ $hasValidImage = true }}
-          {{ end }}
-        {{ end }}
-        {{ if $hasValidImage }}
-          {{ $validSites = $validSites | append . }}
-        {{ end }}
-      {{ end }}
-
-      {{/* Shuffle and show 6 sites with valid images */}}
-      {{ $featuredSites := $validSites | shuffle }}
+      {{/* Shuffle and show 6 sites */}}
+      {{ $featuredSites := $sitesWithImages | shuffle }}
       {{ range first 6 $featuredSites }}
         {{ partial "site-card.html" . }}
       {{ end }}
