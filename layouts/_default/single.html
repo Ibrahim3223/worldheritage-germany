@@ -3,23 +3,67 @@
 <article class="bg-white">
 
   <!-- Hero Header -->
-  <div class="relative h-96 md:h-[32rem] bg-forest-900">
+  <div class="relative h-96 md:h-[32rem] bg-forest-900" x-data="{
+    currentHeroImage: 0,
+    {{ if .Params.images }}
+    heroImages: {{ .Params.images | jsonify }},
+    {{ else }}
+    heroImages: [],
+    {{ end }}
+    get validHeroImages() {
+      return this.heroImages.filter(img => !img.includes('Thumbnail') && !img.includes('thumbnail') && !img.includes('thumb') && !img.includes('.svg'));
+    }
+  }">
     {{ with .Params.images }}
-      {{/* Skip thumbnail images for hero */}}
-      {{ $heroImg := index . 0 }}
-      {{ if gt (len .) 1 }}
-        {{ if or (in $heroImg "Thumbnail") (in $heroImg "thumbnail") (in $heroImg "thumb") (in $heroImg ".svg") }}
-          {{ $heroImg = index . 1 }}
-        {{ end }}
-      {{ end }}
-      <img
-        src="{{ partial "image-url.html" (dict "src" $heroImg "site" $.Site) }}"
-        alt="{{ $.Params.site_name }} - {{ $.Params.heritage_type }} in {{ $.Params.region }}, Germany"
-        class="w-full h-full object-cover opacity-90"
-        loading="eager"
-        decoding="async"
-        onerror="this.onerror=null; this.style.display='none';"
-      >
+      <!-- Hero Images -->
+      <template x-for="(image, index) in validHeroImages" :key="index">
+        <div x-show="currentHeroImage === index"
+             x-transition:enter="transition ease-out duration-300"
+             x-transition:enter-start="opacity-0"
+             x-transition:enter-end="opacity-100"
+             class="absolute inset-0">
+          <img
+            :src="image.startsWith('http') ? image : '{{ .Site.Params.imageBaseURL }}' + image"
+            alt="{{ $.Params.site_name }} - Image"
+            class="w-full h-full object-cover opacity-90"
+            loading="eager"
+            decoding="async"
+            onerror="this.onerror=null; this.style.display='none';"
+          >
+        </div>
+      </template>
+
+      <!-- Navigation Buttons (only show if multiple images) -->
+      <template x-if="validHeroImages.length > 1">
+        <div>
+          <!-- Previous Button -->
+          <button
+            @click="currentHeroImage = currentHeroImage > 0 ? currentHeroImage - 1 : validHeroImages.length - 1"
+            class="absolute left-4 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/70 text-white p-3 rounded-full transition-all backdrop-blur-sm"
+            aria-label="Previous image"
+          >
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M15 19l-7-7 7-7"></path>
+            </svg>
+          </button>
+
+          <!-- Next Button -->
+          <button
+            @click="currentHeroImage = currentHeroImage < validHeroImages.length - 1 ? currentHeroImage + 1 : 0"
+            class="absolute right-4 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/70 text-white p-3 rounded-full transition-all backdrop-blur-sm"
+            aria-label="Next image"
+          >
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </button>
+
+          <!-- Image Counter -->
+          <div class="absolute bottom-4 right-4 bg-black/60 text-white px-3 py-1 rounded-full text-sm backdrop-blur-sm">
+            <span x-text="currentHeroImage + 1"></span> / <span x-text="validHeroImages.length"></span>
+          </div>
+        </div>
+      </template>
     {{ end }}
     <div class="absolute inset-0 bg-gradient-to-t from-forest-900 via-transparent to-transparent"></div>
 
@@ -45,6 +89,15 @@
                 Germany
               {{ end }}
             </span>
+            {{ if or .Params.unesco (in .Params.tags "unesco") }}
+              <span>•</span>
+              <span class="inline-flex items-center px-3 py-1 bg-amber-500/90 text-white text-sm font-semibold rounded-full">
+                <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                </svg>
+                UNESCO
+              </span>
+            {{ end }}
             {{ with .Params.heritage_type }}
               <span>•</span>
               <span>{{ . }}</span>

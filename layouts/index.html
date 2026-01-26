@@ -54,14 +54,26 @@
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12" style="grid-auto-rows: 530px;">
-      {{/* Get UNESCO World Heritage Sites for featured section */}}
-      {{ $unescoSites := where .Site.RegularPages "Section" "sites" }}
-      {{ $unescoSites = where $unescoSites "Params.tags" "intersect" (slice "unesco") }}
-      {{ if lt (len $unescoSites) 6 }}
-        {{/* Fallback to sites with images if not enough UNESCO sites */}}
-        {{ $unescoSites = where .Site.RegularPages "Params.images" "!=" nil }}
+      {{/* Get sites with images for featured section */}}
+      {{ $allSites := where .Site.RegularPages "Section" "sites" }}
+      {{ $sitesWithImages := where $allSites "Params.images" "!=" nil }}
+
+      {{/* Filter out sites with only thumbnail images */}}
+      {{ $validSites := slice }}
+      {{ range $sitesWithImages }}
+        {{ $hasValidImage := false }}
+        {{ range .Params.images }}
+          {{ if not (or (in . "Thumbnail") (in . "thumbnail") (in . "thumb") (in . ".svg")) }}
+            {{ $hasValidImage = true }}
+          {{ end }}
+        {{ end }}
+        {{ if $hasValidImage }}
+          {{ $validSites = $validSites | append . }}
+        {{ end }}
       {{ end }}
-      {{ $featuredSites := $unescoSites | shuffle }}
+
+      {{/* Shuffle and show 6 sites with valid images */}}
+      {{ $featuredSites := $validSites | shuffle }}
       {{ range first 6 $featuredSites }}
         {{ partial "site-card.html" . }}
       {{ end }}

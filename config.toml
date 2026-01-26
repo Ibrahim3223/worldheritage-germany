@@ -97,9 +97,16 @@ paginate = 100
 
 # Output formats (minimized to reduce file count for Cloudflare 20k limit)
 # Keeping RSS only for home page (blog subscribers)
+# JSON for sites section enables client-side filtering
+[outputFormats.SitesJSON]
+  mediaType = "application/json"
+  baseName = "sites-data"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
   home = ["HTML", "RSS"]
-  section = ["HTML"]
+  section = ["HTML", "SitesJSON"]
   page = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]

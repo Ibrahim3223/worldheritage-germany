@@ -1,0 +1,22 @@
+{{- $allSites := where .Site.RegularPages "Section" "sites" -}}
+{
+  "sites": [
+    {{- range $index, $site := $allSites -}}
+    {{- if $index -}},{{- end -}}
+    {
+      "title": {{ $site.Title | jsonify }},
+      "site_name": {{ ($site.Params.site_name | default $site.Title) | jsonify }},
+      "url": {{ $site.RelPermalink | jsonify }},
+      "description": {{ $site.Params.description | jsonify }},
+      "region": {{ ($site.Params.region | default "Germany") | jsonify }},
+      "heritage_type": {{ $site.Params.heritage_type | jsonify }},
+      "unesco": {{ if or $site.Params.unesco (in $site.Params.tags "unesco") }}true{{ else }}false{{ end }},
+      "image": {{ if $site.Params.images }}{{ index $site.Params.images 0 | jsonify }}{{ else }}""{{ end }},
+      "latitude": {{ $site.Params.latitude | default 0 }},
+      "longitude": {{ $site.Params.longitude | default 0 }}
+    }
+    {{- end -}}
+  ],
+  "total": {{ len $allSites }},
+  "generated": "{{ now.Format "2006-01-02T15:04:05Z07:00" }}"
+}
