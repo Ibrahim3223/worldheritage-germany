@@ -438,19 +438,36 @@
       </div>
     </div>
 
-    <!-- Related Sites -->
-    {{ $related := where .Site.RegularPages "Params.region" .Params.region | first 4 }}
-    {{ if gt (len $related) 1 }}
+    <!-- Related Sites by Region -->
+    {{ $relatedRegion := where .Site.RegularPages "Params.region" .Params.region | first 5 }}
+    {{ if gt (len $relatedRegion) 1 }}
     <div class="mt-16 pt-12 border-t border-sand">
       <h2 class="text-3xl font-serif font-bold text-charcoal mb-8">More in {{ .Params.region }}</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        {{ range $related }}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
+        {{ range $relatedRegion }}
           {{ if ne .Permalink $.Permalink }}
             {{ partial "site-card.html" . }}
           {{ end }}
         {{ end }}
       </div>
     </div>
+    {{ end }}
+
+    <!-- Related Sites by Heritage Type -->
+    {{ with .Params.heritage_type }}
+      {{ $relatedType := where $.Site.RegularPages "Params.heritage_type" . | first 4 }}
+      {{ if gt (len $relatedType) 1 }}
+      <div class="mt-16 pt-12 border-t border-sand">
+        <h2 class="text-3xl font-serif font-bold text-charcoal mb-8">More {{ . | pluralize }}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" style="grid-auto-rows: 530px;">
+          {{ range $relatedType }}
+            {{ if ne .Permalink $.Permalink }}
+              {{ partial "site-card.html" . }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
     {{ end }}
   </div>
 </article>

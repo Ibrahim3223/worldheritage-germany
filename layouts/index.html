@@ -54,12 +54,19 @@
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12" style="grid-auto-rows: 530px;">
-      {{/* Get sites with images for featured section */}}
+      {{/* Get UNESCO sites with images for featured section */}}
       {{ $allSites := where .Site.RegularPages "Section" "sites" }}
-      {{ $sitesWithImages := where $allSites "Params.images" "!=" nil }}
+      {{/* Filter for UNESCO sites - check both unesco param and unesco tag */}}
+      {{ $unescoSites := slice }}
+      {{ range $allSites }}
+        {{ if or .Params.unesco (in .Params.tags "unesco") }}
+          {{ $unescoSites = $unescoSites | append . }}
+        {{ end }}
+      {{ end }}
+      {{ $unescoWithImages := where $unescoSites "Params.images" "!=" nil }}
 
-      {{/* Shuffle and show 6 sites */}}
-      {{ $featuredSites := $sitesWithImages | shuffle }}
+      {{/* Shuffle and show 6 UNESCO sites */}}
+      {{ $featuredSites := $unescoWithImages | shuffle }}
       {{ range first 6 $featuredSites }}
         {{ partial "site-card.html" . }}
       {{ end }}

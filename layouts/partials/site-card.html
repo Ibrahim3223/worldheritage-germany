@@ -69,15 +69,21 @@
         {{ $content := .Content | plainify }}
         {{/* Remove everything up to and including ## Overview */}}
         {{ $content = replaceRE "(?s).*?##\\s*Overview\\s*" "" $content }}
-        {{/* Get first sentence */}}
-        {{ $firstSentence := replaceRE "(?s)^([^.!?]+[.!?]).*" "$1" $content }}
-        {{/* Remove "Overview" if it appears at the start */}}
-        {{ $firstSentence = replaceRE "^Overview\\s+" "" $firstSentence }}
-        {{ $excerpt = $firstSentence | truncate 180 }}
+        {{/* Clean up extra whitespace and newlines */}}
+        {{ $content = replaceRE "\\s+" " " $content }}
+        {{ $content = strings.TrimSpace $content }}
+        {{/* Get first 2-3 sentences */}}
+        {{ $sentences := replaceRE "(?s)^((?:[^.!?]+[.!?]\\s*){1,2}).*" "$1" $content }}
+        {{/* If regex didn't match, take first 180 chars */}}
+        {{ if eq $sentences $content }}
+          {{ $excerpt = $content | truncate 180 }}
+        {{ else }}
+          {{ $excerpt = $sentences | truncate 180 }}
+        {{ end }}
       {{ end }}
-      {{ if $excerpt }}
+      {{ if and $excerpt (gt (len $excerpt) 10) }}
         {{ $excerpt }}
-      {{ else if .Description }}
+      {{ else if and .Description (gt (len .Description) 10) }}
         {{ .Description | truncate 180 }}
       {{ else if .Summary }}
         {{ .Summary | plainify | truncate 180 }}
