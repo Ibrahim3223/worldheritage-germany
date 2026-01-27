@@ -67,15 +67,18 @@
       {{ if .Description }}
         {{ $excerpt = .Description | truncate 200 }}
       {{ else if .Content }}
-        {{/* Remove everything up to ## Overview heading */}}
-        {{ $afterOverview := replaceRE "(?s)^.*?##\\s*Overview\\s*" "" .Content }}
-        {{/* Remove any remaining headings */}}
-        {{ $beforeNext := replaceRE "(?s)##.*$" "" $afterOverview }}
-        {{/* Convert to plain text */}}
-        {{ $plain := $beforeNext | plainify }}
+        {{/* Convert to plain text first */}}
+        {{ $plain := .Content | plainify }}
+        {{/* Remove everything up to "Overview" word and the word itself */}}
+        {{ $plain = replaceRE "(?s)^.*?Overview\\s*" "" $plain }}
+        {{/* Remove everything from next heading onwards */}}
+        {{ $plain = replaceRE "(?s)(History|Architecture|Visiting|Location|FAQ|Practical|Quick Facts|Tips).*$" "" $plain }}
+        {{/* Clean up whitespace */}}
+        {{ $plain = replaceRE "\\s+" " " $plain }}
+        {{ $plain = strings.TrimSpace $plain }}
         {{ $excerpt = $plain | truncate 200 }}
       {{ end }}
-      {{ if $excerpt }}
+      {{ if and $excerpt (gt (len $excerpt) 10) }}
         {{ $excerpt }}
       {{ else }}
         Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
