@@ -1,9 +1,9 @@
-baseURL = "https://de.worldheritage.guide/"
-languageCode = "en-us"
-title = "WorldHeritage.guide - Germany | Comprehensive Heritage Travel Guide"
+# Multi-Country Config Template
+# Replace {{COUNTRY_*}} placeholders with actual values
 
-# Ignore files (logs, temp files)
-ignoreFiles = ["\\.log$", "logs/", "\\.bak$", "\\.tmp$"]
+baseURL = "https://{{COUNTRY_CODE}}.worldheritage.guide/"
+languageCode = "en-us"
+title = "WorldHeritage.guide - {{COUNTRY_NAME}} | Comprehensive Heritage Travel Guide"
 
 # Content
 contentDir = "content"
@@ -16,7 +16,7 @@ publishDir = "public"
 [build]
 writeStats = true
 
-# Pagination (increased to reduce file count)
+# Pagination
 paginate = 100
 
 # Permalinks
@@ -32,7 +32,7 @@ paginate = 100
   author = "authors"
   blog_category = "blog_categories"
 
-# Menu
+# Menu (same for all countries)
 [menu]
   [[menu.main]]
     name = "Home"
@@ -59,21 +59,19 @@ paginate = 100
     url = "/blog/"
     weight = 5
 
-# Params
+# Country-specific parameters
 [params]
-  # Country Configuration (for multi-country deployment)
-  country = "Germany"
-  countryCode = "de"
-  wikidataQID = "Q183"
+  # Country configuration
+  country = "{{COUNTRY_NAME}}"
+  countryCode = "{{COUNTRY_CODE}}"
+  wikidataQID = "{{WIKIDATA_QID}}"
 
   # SEO
-  description = "Discover Germany's rich cultural and natural heritage. Comprehensive guides to UNESCO sites, monuments, castles, museums, and hidden gems."
+  description = "Discover {{COUNTRY_NAME}}'s rich cultural and natural heritage. Comprehensive guides to UNESCO sites, monuments, castles, museums, and hidden gems."
   author = "WorldHeritage.guide"
 
   # External Image CDN (Cloudflare R2)
-  # Leave empty to use local images, or set to R2 public URL
-  # Example: "https://pub-xxxx.r2.dev" or custom domain
-  imageBaseURL = "https://pub-2acbb9b7266b4170a5ab3498a8936037.r2.dev"
+  imageBaseURL = "https://pub-{{R2_BUCKET_ID}}.r2.dev"
 
   # Social
   twitter = ""
@@ -101,9 +99,7 @@ paginate = 100
     style = "monokai"
     lineNos = false
 
-# Output formats (minimized to reduce file count for Cloudflare 20k limit)
-# Keeping RSS only for home page (blog subscribers)
-# JSON for sites section enables client-side filtering
+# Output formats
 [outputFormats.SitesJSON]
   mediaType = "application/json"
   baseName = "sites-data"
