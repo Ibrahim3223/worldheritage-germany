@@ -63,23 +63,10 @@
     <p class="text-sm text-stone mb-3">📍 {{ $locationText }}</p>
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
-      {{ $excerpt := "" }}
       {{ if .Description }}
-        {{ $excerpt = .Description | truncate 200 }}
-      {{ else if .Content }}
-        {{/* Convert to plain text first */}}
-        {{ $plain := .Content | plainify }}
-        {{/* Remove everything up to "Overview" word and the word itself */}}
-        {{ $plain = replaceRE "(?s)^.*?Overview\\s*" "" $plain }}
-        {{/* Remove everything from next heading onwards */}}
-        {{ $plain = replaceRE "(?s)(History|Architecture|Visiting|Location|FAQ|Practical|Quick Facts|Tips).*$" "" $plain }}
-        {{/* Clean up whitespace */}}
-        {{ $plain = replaceRE "\\s+" " " $plain }}
-        {{ $plain = strings.TrimSpace $plain }}
-        {{ $excerpt = $plain | truncate 200 }}
-      {{ end }}
-      {{ if and $excerpt (gt (len $excerpt) 10) }}
-        {{ $excerpt }}
+        {{ .Description | truncate 200 }}
+      {{ else if .Summary }}
+        {{ .Summary | plainify | truncate 200 }}
       {{ else }}
         Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
       {{ end }}
