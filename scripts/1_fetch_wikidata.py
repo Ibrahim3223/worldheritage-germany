@@ -57,11 +57,12 @@ def build_sparql_query(country_wikidata_id: str, heritage_types: Dict) -> str:
     type_values = ' '.join([f'wd:{qid}' for qid in heritage_types.keys()])
 
     # Comprehensive query with important fields for content quality
-    # Simplified query - only essential fields to avoid timeout
+    # Updated to fetch multiple images (up to 8) using GROUP_CONCAT
     query = f"""
-SELECT DISTINCT
+SELECT
   ?item ?itemLabel ?itemDescription
-  ?coords ?image
+  ?coords
+  (GROUP_CONCAT(DISTINCT ?img; separator="|") AS ?images)
   ?heritage_type ?heritage_typeLabel
   ?admin ?adminLabel
   ?inception
@@ -76,7 +77,7 @@ WHERE {{
   ?item wdt:P625 ?coords .
 
   # Essential fields only
-  OPTIONAL {{ ?item wdt:P18 ?image . }}
+  OPTIONAL {{ ?item wdt:P18 ?img . }}
   OPTIONAL {{ ?item wdt:P131 ?admin . }}
   OPTIONAL {{ ?item wdt:P571 ?inception . }}
   OPTIONAL {{ ?item wdt:P856 ?website . }}
@@ -91,6 +92,7 @@ WHERE {{
     bd:serviceParam wikibase:language "en,de" .
   }}
 }}
+GROUP BY ?item ?itemLabel ?itemDescription ?coords ?heritage_type ?heritage_typeLabel ?admin ?adminLabel ?inception ?website ?unesco
 LIMIT 10000
 """
 
@@ -179,6 +181,13 @@ def process_site_data(binding: Dict) -> Dict:
         else:
             inception = inception_raw[:4] if len(inception_raw) >= 4 else inception_raw
 
+    # Extract images (up to 8 from GROUP_CONCAT)
+    images_str = extract_value(binding, 'images')
+    wikidata_images = []
+    if images_str:
+        # Split by | separator and take first 8
+        wikidata_images = images_str.split('|')[:8]
+
     site = {
         'wikidata_id': wikidata_id,
         'name': extract_value(binding, 'itemLabel'),
@@ -192,11 +201,11 @@ def process_site_data(binding: Dict) -> Dict:
         'official_website': extract_value(binding, 'website'),
         # Status - CRITICAL
         'unesco': extract_value(binding, 'unesco') == 'true',
-        # Image
-        'wikidata_image': extract_value(binding, 'image'),
+        # Images (up to 8)
+        'wikidata_images': wikidata_images,
     }
 
-    site = {k: v for k, v in site.items() if v is not None}
+    site = {k: v for k, v in site.items() if v is not None and v != []}
     return site
 
 def validate_site(site: Dict) -> tuple[bool, str]:

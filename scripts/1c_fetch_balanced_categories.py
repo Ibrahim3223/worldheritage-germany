@@ -33,9 +33,10 @@ def query_category(category_key: str, category_info: dict, limit: int):
     type_values = ' '.join([f'wd:{qid}' for qid in wikidata_classes])
 
     query = f"""
-SELECT DISTINCT
+SELECT
   ?item ?itemLabel ?itemDescription
-  ?coords ?image
+  ?coords
+  (GROUP_CONCAT(DISTINCT ?img; separator="|") AS ?images)
   ?heritage_type ?heritage_typeLabel
   ?admin ?adminLabel
   ?inception
@@ -49,7 +50,7 @@ WHERE {{
   ?item wdt:P17 wd:Q183 .
   ?item wdt:P625 ?coords .
 
-  OPTIONAL {{ ?item wdt:P18 ?image . }}
+  OPTIONAL {{ ?item wdt:P18 ?img . }}
   OPTIONAL {{ ?item wdt:P131 ?admin . }}
   OPTIONAL {{ ?item wdt:P571 ?inception . }}
   OPTIONAL {{ ?item wdt:P856 ?website . }}
@@ -63,6 +64,7 @@ WHERE {{
     bd:serviceParam wikibase:language "en,de" .
   }}
 }}
+GROUP BY ?item ?itemLabel ?itemDescription ?coords ?heritage_type ?heritage_typeLabel ?admin ?adminLabel ?inception ?website ?unesco
 LIMIT {limit}
 """
 
@@ -123,6 +125,12 @@ def process_site(binding, category_key: str):
         else:
             inception = inception_raw[:4] if len(inception_raw) >= 4 else inception_raw
 
+    # Extract images (up to 8 from GROUP_CONCAT)
+    images_str = extract_value(binding, 'images')
+    wikidata_images = []
+    if images_str:
+        wikidata_images = images_str.split('|')[:8]
+
     site = {
         'wikidata_id': wikidata_id,
         'name': extract_value(binding, 'itemLabel'),
@@ -135,10 +143,10 @@ def process_site(binding, category_key: str):
         'inception': inception,
         'official_website': extract_value(binding, 'website'),
         'unesco': extract_value(binding, 'unesco') == 'true',
-        'wikidata_image': extract_value(binding, 'image'),
+        'wikidata_images': wikidata_images,
     }
 
-    site = {k: v for k, v in site.items() if v is not None}
+    site = {k: v for k, v in site.items() if v is not None and v != []}
     return site
 
 def calculate_completeness_score(site):
@@ -155,7 +163,7 @@ def calculate_completeness_score(site):
 
     # Important fields (30 points)
     if site.get('region'): score += 10
-    if site.get('wikidata_image'): score += 10
+    if site.get('wikidata_images') and len(site.get('wikidata_images', [])) > 0: score += 10
     if site.get('official_website'): score += 5
     if site.get('inception'): score += 5
 

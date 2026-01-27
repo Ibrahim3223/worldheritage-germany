@@ -340,11 +340,13 @@ def process_site_images(site: Dict) -> Dict:
     # Collect images from multiple sources
     all_images = []
 
-    # 1. Wikidata primary image
-    if site.get('wikidata_image'):
-        wikidata_img = get_wikidata_image(site['wikidata_image'])
-        if wikidata_img:
-            all_images.append(wikidata_img)
+    # 1. Wikidata images (up to 8 from Script 1)
+    wikidata_image_urls = site.get('wikidata_images', [])
+    if wikidata_image_urls:
+        for wikidata_image_url in wikidata_image_urls:
+            wikidata_img = get_wikidata_image(wikidata_image_url)
+            if wikidata_img:
+                all_images.append(wikidata_img)
 
     # 2. Search Wikimedia Commons
     commons_images = search_wikimedia_images(site_name, limit=30)

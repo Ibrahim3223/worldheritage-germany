@@ -302,36 +302,37 @@ def generate_content(site: dict, client: OpenAI) -> tuple:
         images = []
         image_srcset = {}
 
-        # First check if we have wikidata_image in the data (from Script 1)
-        wikidata_image_url = site.get('wikidata_image', '')
-        if wikidata_image_url:
-            # Extract filename from Wikimedia Commons URL
-            # Format: http://commons.wikimedia.org/wiki/Special:FilePath/Filename.jpg
-            if 'FilePath/' in wikidata_image_url:
-                filename = wikidata_image_url.split('FilePath/')[-1]
-                # Decode URL encoding
-                import urllib.parse
-                filename = urllib.parse.unquote(filename)
+        # First check if we have wikidata_images array (from Script 1 - up to 8 images)
+        wikidata_image_urls = site.get('wikidata_images', [])
+        if wikidata_image_urls:
+            import urllib.parse
+            for wikidata_image_url in wikidata_image_urls[:8]:  # Max 8 images
+                # Extract filename from Wikimedia Commons URL
+                # Format: http://commons.wikimedia.org/wiki/Special:FilePath/Filename.jpg
+                if 'FilePath/' in wikidata_image_url:
+                    filename = wikidata_image_url.split('FilePath/')[-1]
+                    # Decode URL encoding
+                    filename = urllib.parse.unquote(filename)
 
-                # Main image URL (1200px)
-                main_url = get_wikimedia_thumb_url(filename, 1200)
-                images.append(main_url)
+                    # Main image URL (1200px)
+                    main_url = get_wikimedia_thumb_url(filename, 1200)
+                    images.append(main_url)
 
-                # Generate srcset for responsive images
-                srcset_key = filename.replace(' ', '%20')
-                image_srcset[srcset_key] = {
-                    400: get_wikimedia_thumb_url(filename, 400),
-                    800: get_wikimedia_thumb_url(filename, 800),
-                    1200: get_wikimedia_thumb_url(filename, 1200),
-                    1920: get_wikimedia_thumb_url(filename, 1920),
-                }
+                    # Generate srcset for responsive images
+                    srcset_key = filename.replace(' ', '%20')
+                    image_srcset[srcset_key] = {
+                        400: get_wikimedia_thumb_url(filename, 400),
+                        800: get_wikimedia_thumb_url(filename, 800),
+                        1200: get_wikimedia_thumb_url(filename, 1200),
+                        1920: get_wikimedia_thumb_url(filename, 1920),
+                    }
         else:
-            # Fallback: Query Wikidata API for images
+            # Fallback: Query Wikidata API for images (if Script 1 didn't provide any)
             wikidata_id = site.get('wikidata_id', '')
             if wikidata_id:
                 wiki_filenames = get_wikidata_images(wikidata_id)
                 if wiki_filenames:
-                    for filename in wiki_filenames[:5]:  # Max 5 images
+                    for filename in wiki_filenames[:8]:  # Max 8 images
                         # Main image URL (1200px)
                         main_url = get_wikimedia_thumb_url(filename, 1200)
                         images.append(main_url)
