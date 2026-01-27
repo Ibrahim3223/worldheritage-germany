@@ -150,6 +150,27 @@ TARGET: 1500-2000 words
 STYLE: National Geographic meets Lonely Planet - authoritative yet engaging
 
 ================================================================================
+CRITICAL RULE #0: SEO META DESCRIPTION (WRITE THIS FIRST!)
+================================================================================
+
+BEFORE writing the main content, you MUST write a concise SEO meta description:
+
+FORMAT: On the FIRST LINE of your response, write a 1-2 sentence description
+(100-140 characters) that:
+- Captures what makes this site unique
+- Includes: name, type, location, and one key feature
+- Is engaging and informative
+- Ends with a period
+
+AFTER the description, leave a BLANK LINE, then start the main content.
+
+EXAMPLE FORMAT:
+The Neuschwanstein Castle is a 19th-century Romanesque palace in Bavaria, Germany, known for its fairy-tale architecture and Alpine setting.
+
+## Overview
+[main content starts here...]
+
+================================================================================
 CRITICAL RULE #1: DATA INTEGRITY (MOST IMPORTANT)
 ================================================================================
 
@@ -243,10 +264,33 @@ def generate_content(site: dict, client: OpenAI) -> tuple:
             max_tokens=CONFIG['max_tokens'],
         )
 
-        content = response.choices[0].message.content
+        response_text = response.choices[0].message.content
 
-        # Create Hugo page
-        description = site.get('description', '')[:150].replace('"', '\\"')
+        # Extract SEO description from first line (if GPT followed instructions)
+        # Format: Description on first line, blank line, then content
+        lines = response_text.split('\n', 2)
+
+        if len(lines) >= 3 and not lines[0].startswith('#') and len(lines[0].strip()) > 50:
+            # GPT followed format: first line is description
+            description = lines[0].strip()
+            content = lines[2]  # Skip blank line, get rest
+        else:
+            # Fallback: use wikidata description or extract from content
+            content = response_text
+            # Try to extract first sentence from Overview section
+            overview_match = re.search(r'##\s*Overview\s*\n\n(.*?)(?:\n|\. )', content, re.DOTALL)
+            if overview_match:
+                first_sentence = overview_match.group(1).strip()
+                # Remove "Overview" prefix if present
+                first_sentence = re.sub(r'^Overview[:\.]?\s*', '', first_sentence, flags=re.IGNORECASE)
+                description = first_sentence[:140] + ('...' if len(first_sentence) > 140 else '')
+            else:
+                description = site.get('description', '')[:150]
+
+        # Clean description
+        description = description.replace('"', '\\"').strip()
+        if not description.endswith(('.', '!', '?', '...')):
+            description += '.'
         category = site.get('category', 'heritage site').replace('_', ' ').title()
 
         # Extract coordinates from coordinates field
