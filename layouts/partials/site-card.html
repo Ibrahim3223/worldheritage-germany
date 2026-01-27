@@ -66,9 +66,8 @@
       {{- $excerpt := "" -}}
       {{- if .Summary -}}
         {{- $plain := .Summary | plainify -}}
-        {{- $excerpt = replaceRE "(?i)^\\s*overview\\s*" "" $plain -}}
-        {{- $excerpt = strings.TrimSpace $excerpt -}}
-        {{- $excerpt = $excerpt | truncate 200 -}}
+        {{- $cleaned := replaceRE "(?i)^\\s*overview\\s*[:\\.]?\\s*" "" $plain -}}
+        {{- $excerpt = $cleaned | strings.TrimSpace | truncate 200 -}}
       {{- else if .Description -}}
         {{- $excerpt = .Description | truncate 200 -}}
       {{- else -}}
