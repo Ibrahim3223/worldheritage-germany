@@ -7,7 +7,7 @@
       "title": {{ $site.Title | jsonify }},
       "site_name": {{ ($site.Params.site_name | default $site.Title) | jsonify }},
       "url": {{ $site.RelPermalink | jsonify }},
-      "description": {{ $desc := "" }}{{ if $site.Summary }}{{ $plain := $site.Summary | plainify }}{{ $cleaned := replaceRE "(?i)^\\s*overview\\s*[:\\.]?\\s*" "" $plain }}{{ $desc = $cleaned | strings.TrimSpace | truncate 150 }}{{ else if $site.Params.description }}{{ $desc = $site.Params.description | truncate 150 }}{{ end }}{{ $desc | jsonify }},
+      "description": {{ $desc := "" }}{{ if $site.Summary }}{{ $plain := $site.Summary | plainify | htmlUnescape }}{{ $cleaned := replaceRE "(?i)^\\s*overview\\s*[:\\.]?\\s*" "" $plain }}{{ $desc = $cleaned | strings.TrimSpace | truncate 150 }}{{ else if $site.Params.description }}{{ $desc = $site.Params.description | htmlUnescape | truncate 150 }}{{ end }}{{ $desc | jsonify }},
       "region": {{ ($site.Params.region | default "Germany") | jsonify }},
       "heritage_type": {{ $site.Params.heritage_type | jsonify }},
       "unesco": {{ if or $site.Params.unesco (in $site.Params.tags "unesco") }}true{{ else }}false{{ end }},

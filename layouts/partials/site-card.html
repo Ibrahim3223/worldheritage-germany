@@ -65,11 +65,11 @@
     <p class="card-text line-clamp-3 overflow-hidden mb-4">
       {{- $excerpt := "" -}}
       {{- if .Summary -}}
-        {{- $plain := .Summary | plainify -}}
+        {{- $plain := .Summary | plainify | htmlUnescape -}}
         {{- $cleaned := replaceRE "(?i)^\\s*overview\\s*[:\\.]?\\s*" "" $plain -}}
         {{- $excerpt = $cleaned | strings.TrimSpace | truncate 150 -}}
       {{- else if .Description -}}
-        {{- $excerpt = .Description | truncate 150 -}}
+        {{- $excerpt = .Description | htmlUnescape | truncate 150 -}}
       {{- else -}}
         {{- $excerpt = printf "Explore this %s in Germany's rich cultural landscape." (.Params.heritage_type | lower) -}}
       {{- end -}}
