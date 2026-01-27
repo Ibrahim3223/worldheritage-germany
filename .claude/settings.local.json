@@ -89,7 +89,8 @@
       "Bash(del nul)",
       "Bash(git merge:*)",
       "Bash(Brunswick, Germany, serves as a significant cultural landmark...\" \\(158 chars\\)\n\nBefore: \"school building in Dresden\" \\(45 chars\\)\nAfter: \"The 6. Grundschule Am Grossen Garten stands as a significant)",
-      "Bash(educational institution in Dresden, Germany...\" \\(153 chars\\)\n\nTECHNICAL DETAILS:\n- Processing time: ~2 minutes\n- Files updated: 9,758\n- Files skipped \\(already good\\): 415\n- Errors: 0\n- Method: Content first-sentence extraction\n- Cost: $0 \\(no API calls\\)\n\nIMPACT:\n- Google Search: Better rankings\n- Click-through rate: Higher\n- User experience: Informative previews\n- Social sharing: Rich snippets\n\nGRADE: C \\(Fair\\) -> A \\(Excellent\\) 🏆\n\nGermany site now has EXCELLENT SEO quality!\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(educational institution in Dresden, Germany...\" \\(153 chars\\)\n\nTECHNICAL DETAILS:\n- Processing time: ~2 minutes\n- Files updated: 9,758\n- Files skipped \\(already good\\): 415\n- Errors: 0\n- Method: Content first-sentence extraction\n- Cost: $0 \\(no API calls\\)\n\nIMPACT:\n- Google Search: Better rankings\n- Click-through rate: Higher\n- User experience: Informative previews\n- Social sharing: Rich snippets\n\nGRADE: C \\(Fair\\) -> A \\(Excellent\\) 🏆\n\nGermany site now has EXCELLENT SEO quality!\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git diff:*)"
     ]
   }
 }
