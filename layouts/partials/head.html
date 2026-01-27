@@ -2,6 +2,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+<!-- Search Engine Verification (add your verification codes) -->
+{{ with .Site.Params.googleVerification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{ end }}
+{{ with .Site.Params.bingVerification }}
+<meta name="msvalidate.01" content="{{ . }}">
+{{ end }}
+{{ with .Site.Params.yandexVerification }}
+<meta name="yandex-verification" content="{{ . }}">
+{{ end }}
+
 <!-- Primary Meta Tags -->
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <meta name="title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">

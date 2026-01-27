@@ -83,6 +83,11 @@ paginate = 100
   # Analytics
   googleAnalytics = ""
 
+  # Search Engine Verification (add your codes from Search Console)
+  googleVerification = ""    # Get from: https://search.google.com/search-console
+  bingVerification = ""      # Get from: https://www.bing.com/webmasters
+  yandexVerification = ""    # Get from: https://webmaster.yandex.com
+
   # Design
   primaryColor = "#2C5F2D"
   accentColor = "#97BC62"
@@ -130,8 +135,16 @@ paginate = 100
     [minify.tdewolff.html]
       keepWhitespace = false
 
-# Sitemap
+# Sitemap (SEO Optimized for Search Console)
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
+
+# Priority weights by section (optional - Hugo uses defaults if not specified)
+# homepage: 1.0 (highest)
+# unesco sites: 0.9
+# regular sites: 0.8
+# regions: 0.7
+# categories: 0.6
+# blog: 0.5
