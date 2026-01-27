@@ -75,6 +75,7 @@ def extract_first_sentence_from_overview(content: str) -> str:
 def update_frontmatter_description(file_path: Path, new_description: str):
     """
     Update description field in frontmatter
+    Properly escape quotes for YAML
     """
 
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -91,20 +92,24 @@ def update_frontmatter_description(file_path: Path, new_description: str):
     frontmatter = parts[1]
     body = parts[2]
 
+    # Escape quotes in description for YAML
+    # Replace " with \" but only if not already escaped
+    escaped_description = new_description.replace('\\', '\\\\').replace('"', '\\"')
+
     # Replace description
     # Pattern: description: "anything"
     if 'description:' in frontmatter:
         # Replace existing description
         new_frontmatter = re.sub(
             r'description:\s*"[^"]*"',
-            f'description: "{new_description}"',
+            f'description: "{escaped_description}"',
             frontmatter
         )
     else:
         # Add description after title
         new_frontmatter = re.sub(
             r'(title:[^\n]*\n)',
-            r'\1description: "' + new_description + '"\n',
+            r'\1description: "' + escaped_description + '"\n',
             frontmatter
         )
 

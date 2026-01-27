@@ -3,7 +3,7 @@ title: "Gedenkstätte Museum in der \"Runden Ecke\""
 site_name: "Gedenkstätte Museum in der \"Runden Ecke\""
 date: 2026-01-26
 draft: false
-description: "The Gedenkstätte Museum in der "Runden Ecke" serves as a poignant reflection on Germany's turbulent past, particularly during the era of the Cold War."
+description: "The Gedenkstätte Museum in der \"Runden Ecke\" serves as a poignant reflection on Germany's turbulent past, particularly during the era of the Cold War."Runden Ecke" serves as a poignant reflection on Germany's turbulent past, particularly during the era of the Cold War."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"
