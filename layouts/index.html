@@ -54,21 +54,16 @@
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12" style="grid-auto-rows: 530px;">
-      {{/* Get UNESCO sites with images for featured section */}}
+      {{/* Featured iconic UNESCO sites - manually selected for diversity */}}
+      {{ $iconicSlugs := slice "cologne-cathedral" "neuschwanstein-castle" "sanssouci-palace" "aachen-cathedral" "wartburg" "wuerzburg-residence" }}
       {{ $allSites := where .Site.RegularPages "Section" "sites" }}
-      {{ $unescoSites := slice }}
-      {{ range $allSites }}
-        {{ if or .Params.unesco (in .Params.tags "unesco") }}
-          {{ if .Params.images }}
-            {{ $unescoSites = $unescoSites | append . }}
+      {{ range $iconicSlugs }}
+        {{ $slug := . }}
+        {{ range $allSites }}
+          {{ if eq .File.BaseFileName $slug }}
+            {{ partial "site-card.html" . }}
           {{ end }}
         {{ end }}
-      {{ end }}
-
-      {{/* Shuffle and show 6 UNESCO sites */}}
-      {{ $featuredSites := $unescoSites | shuffle }}
-      {{ range first 6 $featuredSites }}
-        {{ partial "site-card.html" . }}
       {{ end }}
     </div>
 

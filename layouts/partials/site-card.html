@@ -63,21 +63,30 @@
     <p class="text-sm text-stone mb-3">📍 {{ $locationText }}</p>
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
-      {{ if .Summary }}
-        {{ .Summary | plainify | truncate 200 }}
-      {{ else if .Description }}
-        {{ .Description | truncate 200 }}
-      {{ else }}
-        Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
-      {{ end }}
+      {{- $excerpt := "" -}}
+      {{- if .Summary -}}
+        {{- $plain := .Summary | plainify -}}
+        {{- $excerpt = replaceRE "(?i)^\\s*overview\\s*" "" $plain -}}
+        {{- $excerpt = strings.TrimSpace $excerpt -}}
+        {{- $excerpt = $excerpt | truncate 200 -}}
+      {{- else if .Description -}}
+        {{- $excerpt = .Description | truncate 200 -}}
+      {{- else -}}
+        {{- $excerpt = printf "Explore this %s in Germany's rich cultural landscape." (.Params.heritage_type | lower) -}}
+      {{- end -}}
+      {{ $excerpt }}
     </p>
 
     <div class="flex-grow"></div>
 
     <div class="pt-4 border-t border-sand flex items-center justify-between flex-shrink-0">
-      <span class="text-xs text-stone uppercase tracking-wide font-medium">
-        {{ .Params.heritage_type }}
-      </span>
+      {{ if .Params.heritage_type }}
+        <span class="text-xs text-stone uppercase tracking-wide font-medium">
+          {{ .Params.heritage_type }}
+        </span>
+      {{ else }}
+        <span></span>
+      {{ end }}
       <span class="text-forest-600 hover:text-forest-700 font-medium text-sm">
         Read more →
       </span>
