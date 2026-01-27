@@ -63,10 +63,10 @@
     <p class="text-sm text-stone mb-3">📍 {{ $locationText }}</p>
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
-      {{ if .Description }}
-        {{ .Description | truncate 200 }}
-      {{ else if .Summary }}
+      {{ if .Summary }}
         {{ .Summary | plainify | truncate 200 }}
+      {{ else if .Description }}
+        {{ .Description | truncate 200 }}
       {{ else }}
         Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
       {{ end }}

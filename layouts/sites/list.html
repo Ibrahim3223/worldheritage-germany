@@ -247,6 +247,12 @@ function sitesFilter() {
         this.filteredSites = this.allSites;
         this.loading = false;
         this.updatePagination();
+
+        // Watch for page changes
+        this.$watch('currentPage', () => {
+          this.updatePagination();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
       } catch (error) {
         console.error('Error loading sites:', error);
         this.loading = false;
@@ -319,17 +325,6 @@ function sitesFilter() {
     }
   }
 }
-
-// Watch for page changes
-document.addEventListener('alpine:init', () => {
-  Alpine.watch('currentPage', () => {
-    const filter = Alpine.$data(document.querySelector('[x-data]'));
-    if (filter) {
-      filter.updatePagination();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-  });
-});
 </script>
 
 {{ end }}
