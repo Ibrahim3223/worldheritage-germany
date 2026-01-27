@@ -3,7 +3,7 @@ title: "Kunsthaus Kannen"
 site_name: "Kunsthaus Kannen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthaus Kannen is an art museum located in the vibrant city of Münster, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

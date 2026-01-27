@@ -3,7 +3,7 @@ title: "LVR-Cultural Centre Village Synagogue Rödingen"
 site_name: "LVR-Cultural Centre Village Synagogue Rödingen"
 date: 2026-01-26
 draft: false
-description: "historic synagogue in North Rhine-Westphalia, Germany"
+description: "The LVR-Cultural Centre Village Synagogue Rödingen is a historic synagogue located in Titz, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

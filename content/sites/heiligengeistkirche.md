@@ -3,7 +3,7 @@ title: "Heiligengeistkirche"
 site_name: "Heiligengeistkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Heiligengeistkirche, located in the Hamburg-Nord region of Germany, is a church building that stands as a significant landmark in the city of Hamburg."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Theater Tiefrot"
 site_name: "Theater Tiefrot"
 date: 2026-01-26
 draft: false
-description: "theater in Cologne, North Rhine-Westphalia, Germany"
+description: "Theater Tiefrot is a distinguished theatre building located in the vibrant Altstadt-Nord district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

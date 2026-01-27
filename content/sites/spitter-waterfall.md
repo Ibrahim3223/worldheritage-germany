@@ -3,7 +3,7 @@ title: "Spitter Waterfall"
 site_name: "Spitter Waterfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "Spitter Waterfall, located in the picturesque region of Tambach-Dietharz, Germany, is a captivating natural wonder that draws visitors from near and far."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Waterfall"

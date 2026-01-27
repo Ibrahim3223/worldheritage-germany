@@ -3,7 +3,7 @@ title: "Apostle Church"
 site_name: "Apostle Church"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "Apostle Church, located in the heart of Hanover, Germany, is a significant religious structure that reflects both the architectural and cultural heritage of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

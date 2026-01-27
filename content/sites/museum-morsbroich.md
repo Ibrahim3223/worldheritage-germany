@@ -3,7 +3,7 @@ title: "Museum Morsbroich"
 site_name: "Museum Morsbroich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Morsbroich stands out as a prominent art museum located in Leverkusen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

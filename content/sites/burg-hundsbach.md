@@ -3,7 +3,7 @@ title: "Burg Hundsbach"
 site_name: "Burg Hundsbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the quaint region of Ernsthausen, Burg Hundsbach is an evocative castle that invites visitors to explore its storied past and architectural charm."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

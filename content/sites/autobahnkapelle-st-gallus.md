@@ -3,7 +3,7 @@ title: "Autobahnkapelle St. Gallus"
 site_name: "Autobahnkapelle St. Gallus"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Autobahnkapelle St. Gallus stands as a prominent architectural structure in Leutkirch im Allgäu, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

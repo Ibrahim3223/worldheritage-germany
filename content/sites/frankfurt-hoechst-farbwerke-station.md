@@ -3,7 +3,7 @@ title: "Frankfurt Höchst Farbwerke station"
 site_name: "Frankfurt Höchst Farbwerke station"
 date: 2026-01-26
 draft: false
-description: "railway station in Frankfurt, Germany"
+description: "Frankfurt Höchst Farbwerke station is a significant railway station situated in the vibrant district of Höchst, part of the larger city of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

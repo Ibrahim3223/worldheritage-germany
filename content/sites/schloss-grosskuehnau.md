@@ -3,7 +3,7 @@ title: "Schloss Großkühnau"
 site_name: "Schloss Großkühnau"
 date: 2026-01-26
 draft: false
-description: "palace in Dessau-Roßlau, Saxony-Anhalt, Germany"
+description: "Schloss Großkühnau, located in the historic region of Dessau-Roßlau, Saxony-Anhalt, Germany, is a captivating château that reflects the architectural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Château"

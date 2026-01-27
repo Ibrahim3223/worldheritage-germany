@@ -3,7 +3,7 @@ title: "Apothekenmuseum, Cottbus"
 site_name: "Apothekenmuseum, Cottbus"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Apothekenmuseum in Cottbus, Germany, invites visitors to explore the intriguing world of pharmacy through its extensive collection and exhibits."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

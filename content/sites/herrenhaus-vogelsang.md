@@ -3,7 +3,7 @@ title: "Herrenhaus Vogelsang"
 site_name: "Herrenhaus Vogelsang"
 date: 2026-01-26
 draft: false
-description: "building in Vogelsang, Germany"
+description: "Herrenhaus Vogelsang, a distinguished manor house located in the charming region of Krakow am See, Germany, offers visitors a glimpse into the architectural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

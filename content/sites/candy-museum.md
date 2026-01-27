@@ -3,7 +3,7 @@ title: "Candy Museum"
 site_name: "Candy Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Candy Museum, located in the charming town of Vaihingen an der Enz, Germany, invites visitors to indulge in a delightful exploration of confectionery..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

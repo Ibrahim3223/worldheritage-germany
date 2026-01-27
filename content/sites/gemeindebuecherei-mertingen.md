@@ -3,7 +3,7 @@ title: "Gemeindebücherei Mertingen"
 site_name: "Gemeindebücherei Mertingen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Mertingen, Germany, the Gemeindebücherei Mertingen stands as a vital community resource, fostering a love for reading and learning among..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

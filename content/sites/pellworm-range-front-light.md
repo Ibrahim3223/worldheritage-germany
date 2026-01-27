@@ -3,7 +3,7 @@ title: "Pellworm range front light"
 site_name: "Pellworm range front light"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Pellworm range front light is an essential maritime landmark located in the Schleswig-Holstein region of Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

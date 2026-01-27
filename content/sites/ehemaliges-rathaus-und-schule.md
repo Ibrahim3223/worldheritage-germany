@@ -3,7 +3,7 @@ title: "Ehemaliges Rathaus und Schule"
 site_name: "Ehemaliges Rathaus und Schule"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Niederroßbach (Haiger), Hesse, Germany"
+description: "The Ehemaliges Rathaus und Schule, or Former Town Hall and School, is an emblematic cultural heritage monument situated in the quaint village of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

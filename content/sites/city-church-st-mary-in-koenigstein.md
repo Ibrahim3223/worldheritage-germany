@@ -3,7 +3,7 @@ title: "City Church St. Mary in Königstein"
 site_name: "City Church St. Mary in Königstein"
 date: 2026-01-26
 draft: false
-description: "church building in Saxony, Germany"
+description: "In the heart of Königstein, Germany, the City Church St. Mary stands as a significant landmark, inviting visitors to explore its architectural beauty and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

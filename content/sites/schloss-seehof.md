@@ -3,7 +3,7 @@ title: "Schloss Seehof"
 site_name: "Schloss Seehof"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-71-159-52 (0) in Memmelsdorf, Bavaria"
+description: "Schloss Seehof, a distinguished cultural heritage monument in Memmelsdorf, Bavaria, is a remarkable example of palatial architecture from the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

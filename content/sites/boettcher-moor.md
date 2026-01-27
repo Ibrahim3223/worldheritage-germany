@@ -3,7 +3,7 @@ title: "Böttcher Moor"
 site_name: "Böttcher Moor"
 date: 2026-01-26
 draft: false
-description: "bog in Germany"
+description: "Böttcher Moor, a serene bog located in the Weyhe region of Germany, offers visitors a unique glimpse into the ecological and cultural significance of wetlands."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

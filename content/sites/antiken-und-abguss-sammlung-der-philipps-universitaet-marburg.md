@@ -3,7 +3,7 @@ title: "Antiken- und Abguss-Sammlung der Philipps-Universität Marburg"
 site_name: "Antiken- und Abguss-Sammlung der Philipps-Universität Marburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Antiken- und Abguss-Sammlung der Philipps-Universität Marburg is a captivating museum that invites visitors to explore the world of ancient artifacts..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

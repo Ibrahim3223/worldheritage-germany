@@ -3,7 +3,7 @@ title: "Wegmachermuseum Wasserburg"
 site_name: "Wegmachermuseum Wasserburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wegmachermuseum Wasserburg, located in the charming town of Wasserburg am Inn, Germany, serves as a focal point for understanding the region's cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

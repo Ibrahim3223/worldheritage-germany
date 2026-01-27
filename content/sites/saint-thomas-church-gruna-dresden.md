@@ -3,7 +3,7 @@ title: "Saint Thomas Church (Gruna, Dresden)"
 site_name: "Saint Thomas Church (Gruna, Dresden)"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden, Saxony, Germany"
+description: "Saint Thomas Church, located in the picturesque district of Gruna in Dresden, Germany, is a remarkable church building that reflects the historical and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

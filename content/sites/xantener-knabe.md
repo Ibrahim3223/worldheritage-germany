@@ -3,7 +3,7 @@ title: "Xantener Knabe"
 site_name: "Xantener Knabe"
 date: 2026-01-26
 draft: false
-description: "roman bronze statue at Neues Museum, Berlin, Germany"
+description: "The Xantener Knabe, a captivating Roman bronze statue, resides in the esteemed Neues Museum in Berlin, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

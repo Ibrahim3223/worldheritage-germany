@@ -3,7 +3,7 @@ title: "Veddel"
 site_name: "Veddel"
 date: 2026-01-26
 draft: false
-description: "island in Hamburg, Germany"
+description: "Veddel, an island located in Hamburg, Germany, offers a unique blend of urban life and natural beauty."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"

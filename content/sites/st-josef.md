@@ -3,7 +3,7 @@ title: "St. Josef"
 site_name: "St. Josef"
 date: 2026-01-26
 draft: false
-description: "church building in Einbeck, Germany"
+description: "St. Josef Church, a remarkable church building located in Einbeck, Germany, serves as a focal point of cultural and architectural interest within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

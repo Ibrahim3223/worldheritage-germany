@@ -3,7 +3,7 @@ title: "Evangelic church"
 site_name: "Evangelic church"
 date: 2026-01-26
 draft: false
-description: "church in Bammental, Germany"
+description: "The Evangelic Church in Bammental, Germany, is a striking example of ecclesiastical architecture that draws visitors not only for its spiritual significance..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

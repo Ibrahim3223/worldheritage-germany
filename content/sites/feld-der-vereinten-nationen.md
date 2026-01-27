@@ -3,7 +3,7 @@ title: "Feld der Vereinten Nationen"
 site_name: "Feld der Vereinten Nationen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Magdeburg, Germany"
+description: "Feld der Vereinten Nationen, or the Field of United Nations, is a significant cemetery located in Magdeburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"

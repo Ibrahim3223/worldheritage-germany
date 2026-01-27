@@ -3,7 +3,7 @@ title: "German Mining Museum"
 site_name: "German Mining Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The German Mining Museum, located in Bochum, offers a comprehensive exploration of the country's extensive mining history and its significant impact on both..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

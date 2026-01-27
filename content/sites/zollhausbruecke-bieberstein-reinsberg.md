@@ -3,7 +3,7 @@ title: "Zollhausbrücke Bieberstein (Reinsberg)"
 site_name: "Zollhausbrücke Bieberstein (Reinsberg)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zollhausbrücke Bieberstein, located in the picturesque region of Reinsberg, Germany, is a bridge that embodies a unique blend of functionality and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

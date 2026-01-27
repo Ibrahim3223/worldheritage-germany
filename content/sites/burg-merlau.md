@@ -3,7 +3,7 @@ title: "Burg Merlau"
 site_name: "Burg Merlau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Merlau, an intriguing castle located in the heart of Germany, serves as a captivating destination for history enthusiasts and travelers alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

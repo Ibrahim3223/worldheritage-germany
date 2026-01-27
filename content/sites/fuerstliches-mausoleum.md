@@ -3,7 +3,7 @@ title: "Fürstliches Mausoleum"
 site_name: "Fürstliches Mausoleum"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Deutschland"
+description: "The Fürstliches Mausoleum in Germany stands as a significant reminder of the nation's historical and cultural legacy."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mausoleum"

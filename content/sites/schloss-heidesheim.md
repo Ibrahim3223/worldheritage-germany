@@ -3,7 +3,7 @@ title: "Schloss Heidesheim"
 site_name: "Schloss Heidesheim"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Deutschland"
+description: "Schloss Heidesheim, a striking palace located in the charming region of Obrigheim, Germany, encapsulates the essence of German architectural elegance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Frankfurt (Oder) TV tower"
 site_name: "Frankfurt (Oder) TV tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Frankfurt (Oder) TV Tower is a prominent landmark in the city of Frankfurt (Oder), Germany, offering a unique perspective on the urban landscape and its..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

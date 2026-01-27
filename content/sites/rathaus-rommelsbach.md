@@ -3,7 +3,7 @@ title: "Rathaus Rommelsbach"
 site_name: "Rathaus Rommelsbach"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Located in the charming city of Reutlingen, Germany, the Rathaus Rommelsbach serves as a noteworthy example of local governance and community architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

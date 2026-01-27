@@ -3,7 +3,7 @@ title: "Wilhelmstraße 11 (Ludwigsburg)"
 site_name: "Wilhelmstraße 11 (Ludwigsburg)"
 date: 2026-01-26
 draft: false
-description: "Building in Ludwigsburg; Germany"
+description: "Wilhelmstraße 11 in Ludwigsburg, Germany, is an important civic structure that reflects the architectural evolution and historical significance of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

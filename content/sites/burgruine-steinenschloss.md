@@ -3,7 +3,7 @@ title: "Burgruine Steinenschloss"
 site_name: "Burgruine Steinenschloss"
 date: 2026-01-26
 draft: false
-description: "ruined castle in Rhineland-Palatinate, Germany"
+description: "Burgruine Steinenschloss, a captivating ruin in Rhineland-Palatinate, Germany, offers visitors a glimpse into the medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

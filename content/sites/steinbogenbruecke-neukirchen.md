@@ -3,7 +3,7 @@ title: "Steinbogenbrücke Neukirchen"
 site_name: "Steinbogenbrücke Neukirchen"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke Neukirchen, an elegant bridge located in the Reinsberg region of Germany, is more than just a functional structure; it embodies the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

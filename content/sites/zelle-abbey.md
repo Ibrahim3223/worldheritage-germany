@@ -3,7 +3,7 @@ title: "Zelle Abbey"
 site_name: "Zelle Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Zelle Abbey, a serene monastery located in Germany, serves as a significant cultural and spiritual site."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

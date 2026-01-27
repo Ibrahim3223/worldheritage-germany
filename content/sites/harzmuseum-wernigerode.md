@@ -3,7 +3,7 @@ title: "Harzmuseum Wernigerode"
 site_name: "Harzmuseum Wernigerode"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the vibrant town of Wernigerode, Germany, the Harzmuseum Wernigerode is a cultural institution dedicated to showcasing the rich heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

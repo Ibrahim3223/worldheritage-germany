@@ -3,7 +3,7 @@ title: "Synagogue Affaltrach"
 site_name: "Synagogue Affaltrach"
 date: 2026-01-26
 draft: false
-description: "building in Obersulm, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Located in the heart of Obersulm, Germany, the Synagogue Affaltrach is a significant cultural and historical museum that provides insights into the Jewish..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

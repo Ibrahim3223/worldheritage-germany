@@ -3,7 +3,7 @@ title: "Arnholz"
 site_name: "Arnholz"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Vlotho, North Rhine-Westphalia, Germany"
+description: "Arnholz is a serene nature reserve located in Vlotho, North Rhine-Westphalia, Germany, that offers an exceptional opportunity to experience the natural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

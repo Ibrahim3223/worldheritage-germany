@@ -3,7 +3,7 @@ title: "Horst Wessel monument in Bielefeld, Germany"
 site_name: "Horst Wessel monument in Bielefeld, Germany"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Horst Wessel monument in Bielefeld, Germany, stands as a notable architectural structure that elicits a spectrum of interpretations and emotions."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

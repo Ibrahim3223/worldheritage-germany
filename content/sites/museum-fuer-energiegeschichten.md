@@ -3,7 +3,7 @@ title: "Museum für Energiegeschichte(n)"
 site_name: "Museum für Energiegeschichte(n)"
 date: 2026-01-26
 draft: false
-description: "former museum in Hannover"
+description: "The Museum für Energiegeschichte(n), located in the vibrant Mitte district of Hannover, Germany, offers a fascinating exploration into the evolution of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

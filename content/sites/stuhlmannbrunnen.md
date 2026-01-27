@@ -3,7 +3,7 @@ title: "Stuhlmannbrunnen"
 site_name: "Stuhlmannbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Altona, Hamburg, Germany"
+description: "Stuhlmannbrunnen, a charming fountain situated in the vibrant Altona district of Hamburg, Germany, stands as a delightful landmark that invites both locals..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"

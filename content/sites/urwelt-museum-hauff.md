@@ -3,7 +3,7 @@ title: "Urwelt-Museum Hauff"
 site_name: "Urwelt-Museum Hauff"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Urwelt-Museum Hauff, located in Holzmaden, Germany, is a captivating destination for anyone fascinated by prehistoric life and the geological wonders of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

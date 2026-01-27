@@ -3,7 +3,7 @@ title: "Gedenkstätte Lüneburg"
 site_name: "Gedenkstätte Lüneburg"
 date: 2026-01-26
 draft: false
-description: "memorial in Lüneburg, Lower Saxony"
+description: "Gedenkstätte Lüneburg serves as a poignant memorial located in the historic town of Lüneburg, situated in the Lower Saxony region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

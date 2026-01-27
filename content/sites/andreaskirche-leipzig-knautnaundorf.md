@@ -3,7 +3,7 @@ title: "Andreaskirche (Leipzig-Knautnaundorf)"
 site_name: "Andreaskirche (Leipzig-Knautnaundorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Leipzig, Saxony, Germany"
+description: "The Andreaskirche, located in the quaint district of Knautnaundorf in Leipzig, Germany, is a significant chapel that resonates with the spiritual and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"

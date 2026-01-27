@@ -3,7 +3,7 @@ title: "Bodenseeufer (Bodman-Ludwigshafen)"
 site_name: "Bodenseeufer (Bodman-Ludwigshafen)"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Bodenseeufer, located in the charming region of Bodman-Ludwigshafen in Germany, is a tranquil nature reserve that offers visitors a unique opportunity to..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

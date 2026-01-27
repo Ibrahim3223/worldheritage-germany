@@ -3,7 +3,7 @@ title: "Doppeleiche mit Gedenkstein"
 site_name: "Doppeleiche mit Gedenkstein"
 date: 2026-01-26
 draft: false
-description: "memorial in Glückstadt, Germany"
+description: "In the heart of Glückstadt, Germany, the Doppeleiche mit Gedenkstein stands as a remarkable monument that invites visitors to reflect on its historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

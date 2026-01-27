@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit) Niederwinkel"
 site_name: "Muldentalbahn (Sachgesamtheit) Niederwinkel"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn (Sachgesamtheit) Niederwinkel is a striking bridge located in the scenic region of Waldenburg, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

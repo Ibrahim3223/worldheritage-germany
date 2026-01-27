@@ -3,7 +3,7 @@ title: "Kunsthalle Osnabrück"
 site_name: "Kunsthalle Osnabrück"
 date: 2026-01-26
 draft: false
-description: "former church building in Osnabrück, Germany, now an art gallery"
+description: "Kunsthalle Osnabrück is an intriguing destination that combines historical architecture with contemporary art, located in the heart of Osnabrück, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

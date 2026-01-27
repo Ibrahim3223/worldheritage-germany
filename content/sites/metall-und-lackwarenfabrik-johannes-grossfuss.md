@@ -3,7 +3,7 @@ title: "Metall- und Lackwarenfabrik Johannes Großfuß"
 site_name: "Metall- und Lackwarenfabrik Johannes Großfuß"
 date: 2026-01-26
 draft: false
-description: "former company in Germany"
+description: "The Metall- und Lackwarenfabrik Johannes Großfuß, located in Döbeln, Germany, represents a significant chapter in the industrial narrative of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

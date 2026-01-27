@@ -3,7 +3,7 @@ title: "Kreuzerhöhungskirche (Mannheim)"
 site_name: "Kreuzerhöhungskirche (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Mannheim, Electorate of Baden, Germany"
+description: "The Kreuzerhöhungskirche stands in the heart of Mannheim, Germany, a city known for its vibrant culture and historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

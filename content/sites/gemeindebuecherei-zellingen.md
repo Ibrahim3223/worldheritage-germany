@@ -3,7 +3,7 @@ title: "Gemeindebücherei Zellingen"
 site_name: "Gemeindebücherei Zellingen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Zellingen is a significant cultural institution located in the quaint town of Zellingen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

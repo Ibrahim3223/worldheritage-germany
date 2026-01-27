@@ -3,7 +3,7 @@ title: "Hagendenkmal"
 site_name: "Hagendenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Worms, Germany"
+description: "The Hagendenkmal stands as a prominent monument in the city of Worms, Germany, offering a glimpse into the cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

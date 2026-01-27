@@ -3,7 +3,7 @@ title: "Kuppelnauturnhalle"
 site_name: "Kuppelnauturnhalle"
 date: 2026-01-26
 draft: false
-description: "former building in Ravensburg, Germany"
+description: "Kuppelnauturnhalle, a former multi-purpose hall located in Ravensburg, Germany, presents a unique opportunity to explore the cultural fabric of this..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

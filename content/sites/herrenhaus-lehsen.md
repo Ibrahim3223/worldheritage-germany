@@ -3,7 +3,7 @@ title: "Herrenhaus Lehsen"
 site_name: "Herrenhaus Lehsen"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus im Landkreis Ludwigslust-Parchim in Mecklenburg-Vorpommern"
+description: "Herrenhaus Lehsen is a distinguished manor house located in the picturesque region of Wittenburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

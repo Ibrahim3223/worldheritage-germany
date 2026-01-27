@@ -3,7 +3,7 @@ title: "Rose Garden"
 site_name: "Rose Garden"
 date: 2026-01-26
 draft: false
-description: "park in Coburg, Bavaria, Germany"
+description: "In the heart of Coburg, Bavaria, the Rose Garden offers a serene retreat from the bustling urban environment."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

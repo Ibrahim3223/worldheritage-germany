@@ -3,7 +3,7 @@ title: "Feuchtmayer Museum"
 site_name: "Feuchtmayer Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Feuchtmayer Museum in Salem, Germany, is a unique cultural institution dedicated to preserving and showcasing the artistic legacy of the Feuchtmayer..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

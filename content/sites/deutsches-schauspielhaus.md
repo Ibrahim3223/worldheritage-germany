@@ -3,7 +3,7 @@ title: "Deutsches Schauspielhaus"
 site_name: "Deutsches Schauspielhaus"
 date: 2026-01-26
 draft: false
-description: "theatre building in Hamburg, Germany"
+description: "Located in the heart of Hamburg, the Deutsches Schauspielhaus stands as a prominent theatre building that enriches the city's vibrant cultural landscape."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

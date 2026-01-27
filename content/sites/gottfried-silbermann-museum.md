@@ -3,7 +3,7 @@ title: "Gottfried-Silbermann-Museum"
 site_name: "Gottfried-Silbermann-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Frauenstein, Saxony, Germany"
+description: "The Gottfried-Silbermann-Museum in Frauenstein, Saxony, Germany, is a dedicated exploration of the life and works of the renowned organ builder Gottfried..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

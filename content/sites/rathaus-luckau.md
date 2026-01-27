@@ -3,7 +3,7 @@ title: "Rathaus Luckau"
 site_name: "Rathaus Luckau"
 date: 2026-01-26
 draft: false
-description: "Verwaltungsgebäude der Stadt Luckau im Landkreis Dahme-Spreewald in Brandenburg"
+description: "Rathaus Luckau, the city hall of Luckau in the Dahme-Spreewald district of Brandenburg, Germany, is a noteworthy administrative building steeped in the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

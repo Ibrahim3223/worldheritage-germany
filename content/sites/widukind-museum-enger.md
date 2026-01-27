@@ -3,7 +3,7 @@ title: "Widukind Museum Enger"
 site_name: "Widukind Museum Enger"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Widukind Museum Enger is a captivating cultural institution located in the quaint town of Enger, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

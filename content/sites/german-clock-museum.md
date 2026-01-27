@@ -3,7 +3,7 @@ title: "German Clock Museum"
 site_name: "German Clock Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The German Clock Museum, located in the charming town of Furtwangen im Schwarzwald in Germany, is a unique destination for anyone fascinated by the art and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Dorfkirche Dahrenstedt"
 site_name: "Dorfkirche Dahrenstedt"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Dahrenstedt, located in the charming region of Stendal, Germany, is a church building that encapsulates the essence of local architectural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

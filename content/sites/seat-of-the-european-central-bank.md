@@ -3,7 +3,7 @@ title: "Seat of the European Central Bank"
 site_name: "Seat of the European Central Bank"
 date: 2026-01-26
 draft: false
-description: "headquarters of the ECB in Frankfurt, Germany"
+description: "The Seat of the European Central Bank (ECB) in Frankfurt, Germany, serves as a vital institution in the heart of Europe's financial landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

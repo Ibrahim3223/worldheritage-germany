@@ -3,7 +3,7 @@ title: "St. Clemens"
 site_name: "St. Clemens"
 date: 2026-01-26
 draft: false
-description: "church building in Solingen, Germany"
+description: "St. Clemens, a notable church building in Solingen, Germany, serves as an emblem of the region's architectural and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

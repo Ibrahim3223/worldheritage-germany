@@ -3,7 +3,7 @@ title: "Burg Lilienstein"
 site_name: "Burg Lilienstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lilienstein, a striking castle located in the scenic region of Bad Schandau, Germany, presents a captivating glimpse into the historical architecture..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Warrior of Hirschlanden"
 site_name: "Warrior of Hirschlanden"
 date: 2026-01-26
 draft: false
-description: "ancient statue"
+description: "The Warrior of Hirschlanden, an ancient statue located in the heart of Germany, captures the imagination with its striking presence and mysterious origins."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"

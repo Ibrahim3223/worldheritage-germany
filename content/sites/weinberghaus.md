@@ -3,7 +3,7 @@ title: "Weinberghaus"
 site_name: "Weinberghaus"
 date: 2026-01-26
 draft: false
-description: "Landhaus im Kühnauer Park in Großkühnau, Dessau-Roßlau, Sachsen-Anhalt"
+description: "In the heart of Dessau-Roßlau, Germany, the Weinberghaus stands as a unique architectural structure that captures the essence of early 20th-century design."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Structure"

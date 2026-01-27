@@ -3,7 +3,7 @@ title: "Grabstätte Thielenberg"
 site_name: "Grabstätte Thielenberg"
 date: 2026-01-26
 draft: false
-description: "tomb in Eisenhüttenstadt, Brandenburg, Germany"
+description: "Amidst the tranquil surroundings of Eisenhüttenstadt in Brandenburg, Germany, lies the Grabstätte Thielenberg—a notable tomb that serves as a poignant..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tomb"

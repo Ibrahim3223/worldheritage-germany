@@ -3,7 +3,7 @@ title: "Museum Korbach"
 site_name: "Museum Korbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Korbach is a cultural institution located in the heart of Korbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

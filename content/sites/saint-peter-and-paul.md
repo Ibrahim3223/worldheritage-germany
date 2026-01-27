@@ -3,7 +3,7 @@ title: "Saint Peter and Paul"
 site_name: "Saint Peter and Paul"
 date: 2026-01-26
 draft: false
-description: "church in Gorlitz, Germany"
+description: "Saint Peter and Paul Church, located in the picturesque town of Görlitz, Germany, serves as a significant landmark within the region’s rich historical and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

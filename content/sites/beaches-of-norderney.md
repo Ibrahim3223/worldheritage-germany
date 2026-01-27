@@ -3,7 +3,7 @@ title: "Beaches of Norderney"
 site_name: "Beaches of Norderney"
 date: 2026-01-26
 draft: false
-description: "Strände der Nordseeinsel Norderney"
+description: "The Beaches of Norderney offer an expansive stretch of sandy shores along the North Sea, inviting visitors to experience the serene and invigorating..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

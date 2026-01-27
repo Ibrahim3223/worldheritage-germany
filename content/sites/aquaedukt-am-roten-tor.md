@@ -3,7 +3,7 @@ title: "Aquädukt am Roten Tor"
 site_name: "Aquädukt am Roten Tor"
 date: 2026-01-26
 draft: false
-description: "Baudenkmal in Augsburg"
+description: "The Aquädukt am Roten Tor, an impressive aqueduct located in the city of Augsburg, Bavaria, serves as a remarkable example of historical engineering that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Aqueduct"

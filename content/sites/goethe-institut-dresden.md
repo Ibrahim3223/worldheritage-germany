@@ -3,7 +3,7 @@ title: "Goethe-Institut Dresden"
 site_name: "Goethe-Institut Dresden"
 date: 2026-01-26
 draft: false
-description: "German cultural institution"
+description: "The Goethe-Institut Dresden stands as a prominent cultural institution in Germany, playing a pivotal role in promoting the German language and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

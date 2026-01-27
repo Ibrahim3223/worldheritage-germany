@@ -3,7 +3,7 @@ title: "Gymnasium Dresden-Cotta"
 site_name: "Gymnasium Dresden-Cotta"
 date: 2026-01-26
 draft: false
-description: "gymnasium in Dresden, Germany"
+description: "Gymnasium Dresden-Cotta is an educational institution situated in the vibrant city of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

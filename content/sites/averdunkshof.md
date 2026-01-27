@@ -3,7 +3,7 @@ title: "Averdunkshof"
 site_name: "Averdunkshof"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Averdunkshof is an architectural ensemble located in Neukirchen-Vluyn, Germany. This site encapsulates the essence of regional architectural heritage,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

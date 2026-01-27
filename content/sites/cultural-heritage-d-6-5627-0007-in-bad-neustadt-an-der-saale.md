@@ -3,7 +3,7 @@ title: "Cultural heritage D-6-5627-0007 in Bad Neustadt an der Saale"
 site_name: "Cultural heritage D-6-5627-0007 in Bad Neustadt an der Saale"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Cultural heritage D-6-5627-0007 in Bad Neustadt an der Saale presents a striking example of a fortification that echoes the region's historical significance..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

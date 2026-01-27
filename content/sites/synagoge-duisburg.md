@@ -3,7 +3,7 @@ title: "Synagoge Duisburg"
 site_name: "Synagoge Duisburg"
 date: 2026-01-26
 draft: false
-description: "synagogue in Duisburg-Mitte, Germany"
+description: "Synagoge Duisburg, an emblematic structure located in the heart of Duisburg-Mitte, Germany, serves as a significant site for both the local and Jewish..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

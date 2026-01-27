@@ -3,7 +3,7 @@ title: "GEOMAR Helmholtz Centre for Ocean Research Kiel"
 site_name: "GEOMAR Helmholtz Centre for Ocean Research Kiel"
 date: 2026-01-26
 draft: false
-description: "research institute in Kiel, Germany"
+description: "The GEOMAR Helmholtz Centre for Ocean Research Kiel is a prominent research institute located in Kiel, Germany, dedicated to advancing our understanding of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"

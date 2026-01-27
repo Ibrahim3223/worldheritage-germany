@@ -3,7 +3,7 @@ title: "Durchlass-Bogenbrücke (Straße zwischen Rodewitz und Lauske)"
 site_name: "Durchlass-Bogenbrücke (Straße zwischen Rodewitz und Lauske)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Durchlass-Bogenbrücke, located on the road between Rodewitz and Lauske in the Hochkirch region of Germany, is an intriguing bridge that invites..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

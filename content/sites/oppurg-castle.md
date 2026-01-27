@@ -3,7 +3,7 @@ title: "Oppurg Castle"
 site_name: "Oppurg Castle"
 date: 2026-01-26
 draft: false
-description: "building in Oppurg (Germany)"
+description: "Perched elegantly within the serene landscape of Oppurg, Germany, Oppurg Castle is a captivating manor house that invites visitors to explore its historical..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"

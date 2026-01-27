@@ -3,7 +3,7 @@ title: "Neues Museum Nürnberg"
 site_name: "Neues Museum Nürnberg"
 date: 2026-01-26
 draft: false
-description: "art and design museum in Nuremberg, Bavaria, Germany"
+description: "In the heart of Nuremberg, Germany, lies the Neues Museum Nürnberg, an art and design museum that captivates visitors with its impressive collection and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

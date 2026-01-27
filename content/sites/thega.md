@@ -3,7 +3,7 @@ title: "Thega"
 site_name: "Thega"
 date: 2026-01-26
 draft: false
-description: "cinema in Hildesheim, Germany"
+description: "Thega, a historic movie theater located in Hildesheim, Germany, represents more than just a place to watch films; it serves as a cultural hub within the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

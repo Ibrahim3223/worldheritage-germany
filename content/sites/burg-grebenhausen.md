@@ -3,7 +3,7 @@ title: "Burg Grebenhausen"
 site_name: "Burg Grebenhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grebenhausen, an impressive castle located in the Möttau region of Germany, serves as a captivating reminder of the medieval architecture that shaped..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Abri IX"
 site_name: "Abri IX"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Gleichen, Germany"
+description: "Abri IX is an archaeological site located in Gleichen, Germany, that captures the essence of human history through its fascinating remnants."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Baumgarten's and Schmelzer's House, Werdau"
 site_name: "Baumgarten's and Schmelzer's House, Werdau"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Saxony, architectural ensemble in Werdau, Germany"
+description: "Baumgarten's and Schmelzer's House, located in the town of Werdau in Saxony, Germany, is a remarkable cultural heritage monument that stands out for its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

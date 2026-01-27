@@ -3,7 +3,7 @@ title: "Kunstsammlung Neubrandenburg"
 site_name: "Kunstsammlung Neubrandenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstsammlung Neubrandenburg serves as a prominent art museum in Germany, located in the city of Neubrandenburg."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Wildpark Pforzheim"
 site_name: "Wildpark Pforzheim"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Wildpark Pforzheim is an engaging zoo located in the city of Pforzheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

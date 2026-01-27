@@ -3,7 +3,7 @@ title: "Mannhagener Moor"
 site_name: "Mannhagener Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
+description: "Mannhagener Moor, a designated nature reserve located in the Sundhagen region of Mecklenburg-Vorpommern, Germany, offers a serene escape into the heart of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

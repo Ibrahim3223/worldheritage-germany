@@ -3,7 +3,7 @@ title: "Darnsee"
 site_name: "Darnsee"
 date: 2026-01-26
 draft: false
-description: "lake in Bramsche, Lower Saxony, Germany"
+description: "Darnsee, a picturesque lake located in the Bramsche region of Lower Saxony, Germany, invites visitors to experience its serene waters and tranquil surroundings."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

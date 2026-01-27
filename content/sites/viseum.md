@@ -3,7 +3,7 @@ title: "Viseum"
 site_name: "Viseum"
 date: 2026-01-26
 draft: false
-description: "Science Centre in Germany"
+description: "Viseum, located in the heart of Wetzlar, Germany, serves as a fascinating gateway into the world of science and technology."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

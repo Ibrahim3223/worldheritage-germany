@@ -3,7 +3,7 @@ title: "Alte Arztpraxis"
 site_name: "Alte Arztpraxis"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Alte Arztpraxis, a museum located in Germany, offers visitors a unique glimpse into the medical practices of the past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

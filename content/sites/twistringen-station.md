@@ -3,7 +3,7 @@ title: "Twistringen station"
 site_name: "Twistringen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Twistringen, Germany"
+description: "Twistringen station serves as an essential transit hub in the small town of Twistringen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

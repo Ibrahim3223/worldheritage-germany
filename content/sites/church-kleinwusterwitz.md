@@ -3,7 +3,7 @@ title: "Church Kleinwusterwitz"
 site_name: "Church Kleinwusterwitz"
 date: 2026-01-26
 draft: false
-description: "church building in Jerichow, Saxony-Anhalt, Germany"
+description: "Church Kleinwusterwitz is a significant church building located in Jerichow, Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

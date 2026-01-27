@@ -3,7 +3,7 @@ title: "Kapelle des Zacherlhofes"
 site_name: "Kapelle des Zacherlhofes"
 date: 2026-01-26
 draft: false
-description: "building in Ismaning, Upper Bavaria, Germany"
+description: "Located in the serene landscape of Ismaning, Upper Bavaria, the Kapelle des Zacherlhofes is a quaint chapel that encapsulates the spirit of the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

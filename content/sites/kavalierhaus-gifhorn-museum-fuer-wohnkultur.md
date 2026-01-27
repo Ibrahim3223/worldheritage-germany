@@ -3,7 +3,7 @@ title: "Kavalierhaus Gifhorn - Museum für Wohnkultur"
 site_name: "Kavalierhaus Gifhorn - Museum für Wohnkultur"
 date: 2026-01-26
 draft: false
-description: "museum in Gifhorn, Germany"
+description: "In the heart of Gifhorn, Germany, the Kavalierhaus Gifhorn - Museum für Wohnkultur stands as a captivating repository of domestic culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

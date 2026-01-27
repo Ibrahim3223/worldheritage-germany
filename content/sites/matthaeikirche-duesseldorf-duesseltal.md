@@ -3,7 +3,7 @@ title: "Matthäikirche (Düsseldorf-Düsseltal)"
 site_name: "Matthäikirche (Düsseldorf-Düsseltal)"
 date: 2026-01-26
 draft: false
-description: "church building in Düsseldorf, Germany"
+description: "Matthäikirche, a prominent church building in Düsseldorf-Düsseltal, is more than just a place of worship; it serves as a significant cultural landmark..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

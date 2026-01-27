@@ -3,7 +3,7 @@ title: "Archäologisches Landesmuseum Brandenburg"
 site_name: "Archäologisches Landesmuseum Brandenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Brandenburg an der Havel, Brandenburg, Germany"
+description: "The Archäologisches Landesmuseum Brandenburg, located in the historic town of Brandenburg an der Havel, Germany, serves as a vital link to the region’s..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

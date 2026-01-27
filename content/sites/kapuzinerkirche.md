@@ -3,7 +3,7 @@ title: "Kapuzinerkirche"
 site_name: "Kapuzinerkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Brakel, Germany"
+description: "Kapuzinerkirche, located in the quaint town of Brakel, Germany, is a church building that encapsulates the essence of spiritual architecture within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

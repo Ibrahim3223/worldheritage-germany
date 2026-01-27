@@ -3,7 +3,7 @@ title: "Piano Salon Christophori"
 site_name: "Piano Salon Christophori"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Piano Salon Christophori is an intriguing museum located in the Bezirk Mitte district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

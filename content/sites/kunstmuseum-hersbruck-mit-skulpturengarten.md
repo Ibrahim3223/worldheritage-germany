@@ -3,7 +3,7 @@ title: "Kunstmuseum Hersbruck mit Skulpturengarten"
 site_name: "Kunstmuseum Hersbruck mit Skulpturengarten"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Hersbruck, Germany, the Kunstmuseum Hersbruck mit Skulpturengarten serves as a vibrant hub for art enthusiasts and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

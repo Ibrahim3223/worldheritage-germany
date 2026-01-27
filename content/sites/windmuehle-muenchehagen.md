@@ -3,7 +3,7 @@ title: "Windmühle Münchehagen"
 site_name: "Windmühle Münchehagen"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Münchehagen,  Rehburg-Loccum"
+description: "Windmühle Münchehagen, a charming windmill located in the picturesque region of Rehburg-Loccum in Germany, stands as a remarkable representation of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

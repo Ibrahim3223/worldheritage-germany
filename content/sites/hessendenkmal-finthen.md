@@ -3,7 +3,7 @@ title: "Hessendenkmal Finthen"
 site_name: "Hessendenkmal Finthen"
 date: 2026-01-26
 draft: false
-description: "monument in Mainz, Germany"
+description: "The Hessendenkmal Finthen, a notable monument in Mainz, Germany, offers visitors a glimpse into the region's cultural heritage and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

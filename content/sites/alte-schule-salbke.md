@@ -3,7 +3,7 @@ title: "Alte Schule Salbke"
 site_name: "Alte Schule Salbke"
 date: 2026-01-26
 draft: false
-description: "school building in Magdeburg, Germany"
+description: "Alte Schule Salbke is a notable school building located in Magdeburg, Germany, representing an integral part of the region's educational heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "School Building"

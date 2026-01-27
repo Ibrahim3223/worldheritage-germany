@@ -3,7 +3,7 @@ title: "former Lichtdruck-Werkstatt-Museum"
 site_name: "former Lichtdruck-Werkstatt-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The former Lichtdruck-Werkstatt-Museum in Dresden, Germany, serves as a captivating portal into the world of light printing, a unique printing technique..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

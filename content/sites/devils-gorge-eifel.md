@@ -3,7 +3,7 @@ title: "Devil's Gorge (Eifel)"
 site_name: "Devil's Gorge (Eifel)"
 date: 2026-01-26
 draft: false
-description: "valley in Germany"
+description: "Devil's Gorge (Eifel), a captivating valley located in Rhineland-Palatinate, Germany, presents an intriguing natural landscape that beckons nature lovers..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Valley"

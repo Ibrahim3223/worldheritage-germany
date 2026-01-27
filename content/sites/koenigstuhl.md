@@ -3,7 +3,7 @@ title: "Königstuhl"
 site_name: "Königstuhl"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Königstuhl, a prominent mountain located in the historic city of Heidelberg, Germany, serves as both a natural landmark and a cultural symbol."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Augustinian Monastery"
 site_name: "Augustinian Monastery"
 date: 2026-01-26
 draft: false
-description: "monastery in Speyer"
+description: "The Augustinian Monastery in Speyer, Germany, is a remarkable site that reflects the rich monastic tradition of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

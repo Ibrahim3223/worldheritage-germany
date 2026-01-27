@@ -3,7 +3,7 @@ title: "Fazit-Stiftung"
 site_name: "Fazit-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "Fazit-Stiftung, situated in the vibrant city of Frankfurt, Germany, serves as a cultural foundation dedicated to the promotion and preservation of heritage..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

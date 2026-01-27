@@ -3,7 +3,7 @@ title: "Brauerei Rittmayer"
 site_name: "Brauerei Rittmayer"
 date: 2026-01-26
 draft: false
-description: "brewery in Hallerndorf, Germany"
+description: "Brauerei Rittmayer is a distinguished brewery located in Hallerndorf, Germany, offering visitors a taste of the region's brewing heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

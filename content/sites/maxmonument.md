@@ -3,7 +3,7 @@ title: "Maxmonument"
 site_name: "Maxmonument"
 date: 2026-01-26
 draft: false
-description: "monument in Munich, Germany"
+description: "Maxmonument, located in the heart of Munich, Germany, is a significant tribute that encapsulates the spirit and history of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

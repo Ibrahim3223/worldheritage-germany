@@ -3,7 +3,7 @@ title: "Breitachal"
 site_name: "Breitachal"
 date: 2026-01-26
 draft: false
-description: "valley of the Allgäu Alps in Bavaria, Germany"
+description: "Breitachal, located in the picturesque Allgäu Alps of Bavaria, Germany, offers visitors a serene escape into nature's embrace."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"

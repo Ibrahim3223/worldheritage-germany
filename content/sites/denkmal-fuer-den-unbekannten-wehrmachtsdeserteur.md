@@ -3,7 +3,7 @@ title: "Denkmal für den unbekannten Wehrmachtsdeserteur"
 site_name: "Denkmal für den unbekannten Wehrmachtsdeserteur"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkmal für den unbekannten Wehrmachtsdeserteur, or the Monument for the Unknown Wehrmacht Desertor, stands as a poignant reminder of the complexities..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

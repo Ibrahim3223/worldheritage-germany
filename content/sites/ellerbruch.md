@@ -3,7 +3,7 @@ title: "Ellerbruch"
 site_name: "Ellerbruch"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wingst, Germany"
+description: "Ellerbruch is a cemetery located in the tranquil region of Wingst, Germany. This solemn site serves not only as a final resting place but also as a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Grüne-Soße-Denkmal"
 site_name: "Grüne-Soße-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "In the heart of Frankfurt am Main, the Grüne-Soße-Denkmal stands as a monument that honors a beloved culinary tradition of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

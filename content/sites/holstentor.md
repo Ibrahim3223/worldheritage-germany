@@ -3,7 +3,7 @@ title: "Holstentor"
 site_name: "Holstentor"
 date: 2026-01-26
 draft: false
-description: "two-towered city gate in Lübeck, Germany, used as a museum"
+description: "The Holstentor, a striking two-towered city gate, serves as both a monumental symbol of Lübeck's historical significance and a captivating museum."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

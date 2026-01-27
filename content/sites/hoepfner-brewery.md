@@ -3,7 +3,7 @@ title: "Hoepfner Brewery"
 site_name: "Hoepfner Brewery"
 date: 2026-01-26
 draft: false
-description: "brewery"
+description: "Hoepfner Brewery, situated in the vibrant city of Karlsruhe, Germany, represents a significant part of the region's brewing heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

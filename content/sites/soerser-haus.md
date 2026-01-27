@@ -3,7 +3,7 @@ title: "Soerser Haus"
 site_name: "Soerser Haus"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Nordrhein-Westfalen"
+description: "Soerser Haus, a distinguished manor house located in Aachen, Germany, offers a unique glimpse into the architectural and cultural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

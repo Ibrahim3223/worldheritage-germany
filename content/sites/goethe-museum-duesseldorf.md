@@ -3,7 +3,7 @@ title: "Goethe Museum, Düsseldorf"
 site_name: "Goethe Museum, Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Goethe Museum in Düsseldorf offers visitors a unique glimpse into the life and works of one of Germany's most celebrated literary figures, Johann..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

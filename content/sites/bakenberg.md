@@ -3,7 +3,7 @@ title: "Bakenberg"
 site_name: "Bakenberg"
 date: 2026-01-26
 draft: false
-description: "Erholungsgebiet mit Sandstrand auf der Insel Rügen in Mecklenburg-Vorpommern"
+description: "Bakenberg, located on the picturesque island of Rügen in Mecklenburg-Vorpommern, Germany, is a tranquil retreat where sandy beaches meet the gentle waves of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

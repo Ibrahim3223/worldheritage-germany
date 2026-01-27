@@ -3,7 +3,7 @@ title: "Altes Palais"
 site_name: "Altes Palais"
 date: 2026-01-26
 draft: false
-description: "Fachwerkbau am Alten Garten in Schwerin"
+description: "Altes Palais, an architectural gem located in Schwerin, Germany, reflects the historical richness of the region and offers visitors a glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

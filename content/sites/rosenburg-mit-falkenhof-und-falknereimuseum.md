@@ -3,7 +3,7 @@ title: "Rosenburg mit Falkenhof und Falknereimuseum"
 site_name: "Rosenburg mit Falkenhof und Falknereimuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Rosenburg mit Falkenhof und Falknereimuseum is a captivating museum situated in Germany that delves into the fascinating world of falconry and its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

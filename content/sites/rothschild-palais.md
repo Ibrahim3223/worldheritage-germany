@@ -3,7 +3,7 @@ title: "Rothschild-Palais"
 site_name: "Rothschild-Palais"
 date: 2026-01-26
 draft: false
-description: "building in Frankfurt am Main, Germany"
+description: "The Rothschild-Palais, situated in the heart of Frankfurt am Main, Germany, stands as a significant cultural landmark that reflects the grandeur of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

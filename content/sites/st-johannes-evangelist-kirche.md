@@ -3,7 +3,7 @@ title: "St. Johannes-Evangelist-Kirche"
 site_name: "St. Johannes-Evangelist-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "St. Johannes-Evangelist-Kirche, located in the heart of Berlin's Bezirk Mitte, is an architectural and cultural landmark that reflects the spiritual and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

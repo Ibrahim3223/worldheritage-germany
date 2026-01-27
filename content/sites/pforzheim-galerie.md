@@ -3,7 +3,7 @@ title: "Pforzheim Galerie"
 site_name: "Pforzheim Galerie"
 date: 2026-01-26
 draft: false
-description: "art museum in Pforzheim"
+description: "Pforzheim Galerie is a distinguished art museum located in the heart of Pforzheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

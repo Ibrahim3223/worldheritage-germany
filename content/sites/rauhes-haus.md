@@ -3,7 +3,7 @@ title: "Rauhes Haus"
 site_name: "Rauhes Haus"
 date: 2026-01-26
 draft: false
-description: "social service institution in Germany founded in 1833"
+description: "Rauhes Haus, a distinguished social service institution located in the heart of Hamburg, Germany, embodies a commitment to community welfare that has..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

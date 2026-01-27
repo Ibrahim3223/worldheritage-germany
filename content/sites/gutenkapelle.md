@@ -3,7 +3,7 @@ title: "Gutenkapelle"
 site_name: "Gutenkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel in Schönwald im Schwarzwald, Germany"
+description: "Gutenkapelle, a serene chapel located in the picturesque Schönwald im Schwarzwald region of Germany, is a site that attracts both spiritual seekers and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

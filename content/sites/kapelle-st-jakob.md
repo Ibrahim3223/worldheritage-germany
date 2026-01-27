@@ -3,7 +3,7 @@ title: "Kapelle St. Jakob"
 site_name: "Kapelle St. Jakob"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Perched amid the scenic landscapes of Bad Hindelang, Kapelle St. Jakob is a quaint chapel that invites visitors to explore its serene atmosphere and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Rathaus Oberschleißheim"
 site_name: "Rathaus Oberschleißheim"
 date: 2026-01-26
 draft: false
-description: "Rathaus von Oberschleißheim"
+description: "Rathaus Oberschleißheim, the city hall of Oberschleißheim, is not just an administrative building; it reflects the heart of community life in this charming..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Wahnbach Dam"
 site_name: "Wahnbach Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Wahnbach Dam, situated in the Siegburg region of Germany, serves as a crucial water management structure while also captivating visitors with its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

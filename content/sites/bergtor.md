@@ -3,7 +3,7 @@ title: "Bergtor"
 site_name: "Bergtor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Bergtor, the iconic city gate of Aachen, Germany, stands as a remarkable symbol of the city's historical significance and architectural prowess."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Church in Friedrichshagen"
 site_name: "Church in Friedrichshagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Friedrichshagen serves as a reflective point for visitors exploring the cultural and historical landscape of Plüschow, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

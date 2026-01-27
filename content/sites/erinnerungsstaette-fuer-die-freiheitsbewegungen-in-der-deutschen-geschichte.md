@@ -3,7 +3,7 @@ title: "Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Geschic
 site_name: "Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Geschichte"
 date: 2026-01-26
 draft: false
-description: "museum for the German Revolution of 1848/1849 and the GDR Revolution"
+description: "Located in the tranquil town of Rastatt, Germany, the Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Geschichte serves as a dedicated museum..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

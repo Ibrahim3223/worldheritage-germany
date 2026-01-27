@@ -3,7 +3,7 @@ title: "Föhr"
 site_name: "Föhr"
 date: 2026-01-26
 draft: false
-description: "island in North Frisia, Germany"
+description: "Föhr is an enchanting island located in the North Frisian region of Germany, known for its unique cultural heritage and serene landscapes."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"

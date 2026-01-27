@@ -3,7 +3,7 @@ title: "Historische Kornbrennerei Bimberg"
 site_name: "Historische Kornbrennerei Bimberg"
 date: 2026-01-26
 draft: false
-description: "museum in Iserlohn"
+description: "The Historische Kornbrennerei Bimberg, located in Iserlohn, Germany, is a fascinating museum that dives into the world of grain distillation, particularly..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

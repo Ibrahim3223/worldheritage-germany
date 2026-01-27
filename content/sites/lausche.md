@@ -3,7 +3,7 @@ title: "Lausche"
 site_name: "Lausche"
 date: 2026-01-26
 draft: false
-description: "mountain on the border between Czech Republic and Germany"
+description: "Lausche is a prominent mountain located on the border between Germany and the Czech Republic, offering a striking landscape that captivates nature..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

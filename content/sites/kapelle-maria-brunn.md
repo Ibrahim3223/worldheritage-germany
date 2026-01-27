@@ -3,7 +3,7 @@ title: "Kapelle Maria-Brunn"
 site_name: "Kapelle Maria-Brunn"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Kapelle Maria-Brunn is a charming chapel located in Vreden, Germany, that invites visitors to explore its serene atmosphere and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Sporthalle"
 site_name: "Sporthalle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Cologne, Germany"
+description: "Sporthalle, a multi-purpose hall located in Cologne, Germany, serves as a vital hub for various sporting and cultural events."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Gildehauser Venn"
 site_name: "Gildehauser Venn"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Gildehauser Venn, a captivating nature reserve located in the picturesque region of Bad Bentheim, Germany, offers a serene escape into the heart of Lower..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

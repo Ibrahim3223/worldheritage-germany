@@ -3,7 +3,7 @@ title: "Zeitz Cathedral St. Peter and Paul"
 site_name: "Zeitz Cathedral St. Peter and Paul"
 date: 2026-01-26
 draft: false
-description: "church building in Burgenlandkreis, Saxony-Anhalt, Germany"
+description: "Zeitz Cathedral St. Peter and Paul, a magnificent cathedral located in the heart of Burgenlandkreis, Saxony-Anhalt, is a significant architectural and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

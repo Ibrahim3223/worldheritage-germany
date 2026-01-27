@@ -3,7 +3,7 @@ title: "Dresden city libraries"
 site_name: "Dresden city libraries"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Dresden, known for its remarkable blend of historical significance and cultural richness, is home to a network of libraries that serve as vital resources..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Windmühle Winkeldorf"
 site_name: "Windmühle Winkeldorf"
 date: 2026-01-26
 draft: false
-description: "building in Horstedt, Germany"
+description: "The Windmühle Winkeldorf, a striking example of traditional German windmill architecture, is located in the quaint village of Horstedt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

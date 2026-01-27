@@ -3,7 +3,7 @@ title: "Eberhardsgruppe by Paul Müller"
 site_name: "Eberhardsgruppe by Paul Müller"
 date: 2026-01-26
 draft: false
-description: "monument in Stuttgart, Germany"
+description: "Eberhardsgruppe by Paul Müller is a striking monument located in Stuttgart, Germany, that encapsulates both artistic brilliance and cultural significance..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

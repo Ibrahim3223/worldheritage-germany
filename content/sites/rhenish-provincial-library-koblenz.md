@@ -3,7 +3,7 @@ title: "Rhenish provincial library Koblenz"
 site_name: "Rhenish provincial library Koblenz"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Rhenish Provincial Library Koblenz serves as a vital repository of knowledge and culture in the heart of Germany, specifically located in the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

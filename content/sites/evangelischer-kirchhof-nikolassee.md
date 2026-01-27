@@ -3,7 +3,7 @@ title: "Evangelischer Kirchhof Nikolassee"
 site_name: "Evangelischer Kirchhof Nikolassee"
 date: 2026-01-26
 draft: false
-description: "cemetery in Steglitz-Zehlendorf, Germany"
+description: "Evangelischer Kirchhof Nikolassee, located in the district of Steglitz-Zehlendorf in Germany, is a cemetery that serves as both a serene resting place and a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

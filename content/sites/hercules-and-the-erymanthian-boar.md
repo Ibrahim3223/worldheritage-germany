@@ -3,7 +3,7 @@ title: "Hercules and the Erymanthian Boar"
 site_name: "Hercules and the Erymanthian Boar"
 date: 2026-01-26
 draft: false
-description: "sculpture by Louis Tuaillon"
+description: "In the heart of Germany, the Hercules and the Erymanthian Boar statue stands as a captivating representation of classical mythology, blending artistry with..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

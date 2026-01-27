@@ -3,7 +3,7 @@ title: "St. Simon und Judas Thaddäus"
 site_name: "St. Simon und Judas Thaddäus"
 date: 2026-01-26
 draft: false
-description: "church building in Jüchen, Germany"
+description: "St. Simon und Judas Thaddäus is a noteworthy church building located in the quaint town of Jüchen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

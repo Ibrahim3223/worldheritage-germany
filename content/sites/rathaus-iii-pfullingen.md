@@ -3,7 +3,7 @@ title: "Rathaus III (Pfullingen)"
 site_name: "Rathaus III (Pfullingen)"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Rathaus III, located in the charming town of Pfullingen, Germany, serves as a central hub for local governance and community engagement."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

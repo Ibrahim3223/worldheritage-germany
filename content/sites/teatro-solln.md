@@ -3,7 +3,7 @@ title: "Teatro Solln"
 site_name: "Teatro Solln"
 date: 2026-01-26
 draft: false
-description: "German restaurant and theatre"
+description: "Teatro Solln is an engaging cultural venue located in Munich, Germany, which combines the charm of a traditional German restaurant with the allure of a theatre."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

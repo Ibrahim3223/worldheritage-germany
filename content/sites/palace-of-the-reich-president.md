@@ -3,7 +3,7 @@ title: "Palace of the Reich President"
 site_name: "Palace of the Reich President"
 date: 2026-01-26
 draft: false
-description: "palace in Germany"
+description: "The Palace of the Reich President, a notable structure in the heart of Berlin, stands as a significant representation of Germany's political history and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

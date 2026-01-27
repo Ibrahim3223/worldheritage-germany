@@ -3,7 +3,7 @@ title: "Burg Degelstein"
 site_name: "Burg Degelstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Degelstein, an archaeological site located in the scenic region of Lindau, Germany, offers a glimpse into the architectural and cultural legacy of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

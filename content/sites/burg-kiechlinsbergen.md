@@ -3,7 +3,7 @@ title: "Burg Kiechlinsbergen"
 site_name: "Burg Kiechlinsbergen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "In the heart of Germany's picturesque Endingen am Kaiserstuhl region, Burg Kiechlinsbergen rises from the landscape as a captivating castle that invites..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

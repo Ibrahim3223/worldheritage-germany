@@ -3,7 +3,7 @@ title: "Museum Alexandrowka"
 site_name: "Museum Alexandrowka"
 date: 2026-01-26
 draft: false
-description: "museum in Potsdam, Germany"
+description: "Museum Alexandrowka, located in the historic city of Potsdam, Germany, stands as a fascinating cultural institution that invites visitors to explore the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

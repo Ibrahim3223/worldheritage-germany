@@ -3,7 +3,7 @@ title: "Rosenhang Museum"
 site_name: "Rosenhang Museum"
 date: 2026-01-26
 draft: false
-description: "contemporary art museum in Weilburg, Germany"
+description: "Situated in the charming town of Weilburg, Germany, the Rosenhang Museum serves as a contemporary art destination that captivates visitors with its..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

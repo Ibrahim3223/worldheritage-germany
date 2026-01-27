@@ -3,7 +3,7 @@ title: "Burg Hohenkrähen"
 site_name: "Burg Hohenkrähen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenkrähen, a captivating castle located in the Mühlhausen-Ehingen region of Germany, stands as a significant historical site."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

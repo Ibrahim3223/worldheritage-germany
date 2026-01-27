@@ -3,7 +3,7 @@ title: "Deutsche Stiftung für Engagement und Ehrenamt"
 site_name: "Deutsche Stiftung für Engagement und Ehrenamt"
 date: 2026-01-26
 draft: false
-description: "Stiftung des öffentlichen Rechts des Bundes mit Sitz in Neustrelitz"
+description: "The Deutsche Stiftung für Engagement und Ehrenamt, located in Neustrelitz, Germany, serves as a pivotal foundation dedicated to promoting civic engagement..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

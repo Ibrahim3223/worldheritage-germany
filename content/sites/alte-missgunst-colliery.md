@@ -3,7 +3,7 @@ title: "Alte Mißgunst Colliery"
 site_name: "Alte Mißgunst Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Alte Mißgunst Colliery, located in the small town of Sprockhövel, Germany, stands as a notable example of the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

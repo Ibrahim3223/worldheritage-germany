@@ -3,7 +3,7 @@ title: "Sibyllenloch"
 site_name: "Sibyllenloch"
 date: 2026-01-26
 draft: false
-description: "Höhle in Deutschland"
+description: "Sibyllenloch, a fascinating cave located in the Esslingen region of Germany, invites explorers and heritage enthusiasts alike to delve into its natural wonders."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

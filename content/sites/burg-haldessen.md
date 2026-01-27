@@ -3,7 +3,7 @@ title: "Burg Haldessen"
 site_name: "Burg Haldessen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Haldessen, a historic castle located in the charming region of Grebenstein, Germany, captures the imagination of visitors with its enduring presence..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Gißübelturm"
 site_name: "Gißübelturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Gißübelturm, a striking tower located in Lauingen, Germany, is a fascinating testament to the region's architectural legacy and historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Bärenquell-Brauerei"
 site_name: "Bärenquell-Brauerei"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "In the heart of Berlin, the Bärenquell-Brauerei stands as a prominent symbol of the city's brewing heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Brewery"

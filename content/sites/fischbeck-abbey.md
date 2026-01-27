@@ -3,7 +3,7 @@ title: "Fischbeck Abbey"
 site_name: "Fischbeck Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Fischbeck, Lower Saxony, Germany"
+description: "Fischbeck Abbey, located in the charming region of Hessisch Oldendorf, Germany, is a museum that offers visitors a glimpse into monastic life and the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

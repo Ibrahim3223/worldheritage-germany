@@ -3,7 +3,7 @@ title: "Buchhorster Auwald"
 site_name: "Buchhorster Auwald"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Buchhorster Auwald is a captivating nature reserve located in the picturesque region of Balge, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

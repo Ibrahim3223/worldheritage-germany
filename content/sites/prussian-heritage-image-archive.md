@@ -3,7 +3,7 @@ title: "Prussian Heritage Image Archive"
 site_name: "Prussian Heritage Image Archive"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Prussian Heritage Image Archive stands as an invaluable repository of historical and cultural documentation located in the vibrant..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

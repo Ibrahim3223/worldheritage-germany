@@ -3,7 +3,7 @@ title: "Ziegeleisee"
 site_name: "Ziegeleisee"
 date: 2026-01-26
 draft: false
-description: "lake in Reinickendorf, Berlin, Germany"
+description: "Located in the vibrant Reinickendorf district of Berlin, Ziegeleisee is a serene lake that invites visitors to experience the tranquility of nature amidst..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"

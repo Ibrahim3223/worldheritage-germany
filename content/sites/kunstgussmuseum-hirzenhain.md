@@ -3,7 +3,7 @@ title: "Kunstgußmuseum Hirzenhain"
 site_name: "Kunstgußmuseum Hirzenhain"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstgußmuseum Hirzenhain invites visitors into a world where artistry and industry intersect, showcasing the fascinating craft of metal casting in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

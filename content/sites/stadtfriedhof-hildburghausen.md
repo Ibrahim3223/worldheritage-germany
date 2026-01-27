@@ -3,7 +3,7 @@ title: "Stadtfriedhof Hildburghausen"
 site_name: "Stadtfriedhof Hildburghausen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hildburghausen, Germany"
+description: "Stadtfriedhof Hildburghausen, a historic cemetery located in Hildburghausen, Germany, serves as a poignant reminder of the lives and stories that have..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

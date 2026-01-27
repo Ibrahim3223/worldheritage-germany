@@ -3,7 +3,7 @@ title: "Church in Goldebee"
 site_name: "Church in Goldebee"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Goldebee is an architectural and cultural landmark situated in the tranquil region of Benz, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

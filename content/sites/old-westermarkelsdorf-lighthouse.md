@@ -3,7 +3,7 @@ title: "Old Westermarkelsdorf lighthouse"
 site_name: "Old Westermarkelsdorf lighthouse"
 date: 2026-01-26
 draft: false
-description: "unlit lighthouse in Schleswig-Holstein, Germany"
+description: "The Old Westermarkelsdorf lighthouse, located in the scenic region of Fehmarn, Germany, stands as an emblem of maritime history and navigation."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

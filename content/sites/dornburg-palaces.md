@@ -3,7 +3,7 @@ title: "Dornburg palaces"
 site_name: "Dornburg palaces"
 date: 2026-01-26
 draft: false
-description: "palace ensemble in Thuringia, Germany"
+description: "The Dornburg palaces, an architectural ensemble located in Thuringia, Germany, offer a captivating glimpse into the region's historical and cultural heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

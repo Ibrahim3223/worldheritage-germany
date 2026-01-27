@@ -3,7 +3,7 @@ title: "Denkmal Zur Deutschen Einheit"
 site_name: "Denkmal Zur Deutschen Einheit"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Munich, the Denkmal Zur Deutschen Einheit stands as a significant monument that reflects Germany's complex history and the enduring spirit..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Church in Alt Bukow"
 site_name: "Church in Alt Bukow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Alt Bukow, a notable church building situated in the serene region of Alt Bukow, Germany, serves as a significant cultural landmark that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Samland museum"
 site_name: "Samland museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Samland Museum, situated in the picturesque region of Pinneberg, Germany, invites visitors to explore a diverse collection that reflects the area's..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

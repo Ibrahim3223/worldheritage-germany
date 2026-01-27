@@ -3,7 +3,7 @@ title: "Helenen-Paulownen-Mausoleum"
 site_name: "Helenen-Paulownen-Mausoleum"
 date: 2026-01-26
 draft: false
-description: "Mausoleum im Schlosspark von Schloss Ludwigslust"
+description: "The Helenen-Paulownen-Mausoleum, located within the serene grounds of Schloss Ludwigslust in Germany, serves as a poignant memorial dedicated to Princess..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mausoleum"

@@ -3,7 +3,7 @@ title: "Burg Kilsenberg"
 site_name: "Burg Kilsenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the picturesque region of Hohenbodman, Burg Kilsenberg is a captivating castle that embodies the architectural and cultural heritage of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

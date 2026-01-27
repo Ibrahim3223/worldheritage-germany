@@ -3,7 +3,7 @@ title: "Evangelisch-reformierte Kirche Pivitsheide"
 site_name: "Evangelisch-reformierte Kirche Pivitsheide"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the heart of Detmold, Germany, the Evangelisch-reformierte Kirche Pivitsheide stands as a significant place of worship and community gathering..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

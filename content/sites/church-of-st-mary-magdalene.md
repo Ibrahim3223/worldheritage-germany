@@ -3,7 +3,7 @@ title: "Church of St. Mary Magdalene"
 site_name: "Church of St. Mary Magdalene"
 date: 2026-01-26
 draft: false
-description: "church building in Lauenburg/Elbe, Germany"
+description: "The Church of St. Mary Magdalene, located in the picturesque town of Lauenburg/Elbe, Germany, serves as a cornerstone of the region's cultural and spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

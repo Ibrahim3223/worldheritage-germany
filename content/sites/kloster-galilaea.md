@@ -3,7 +3,7 @@ title: "Kloster Galiläa"
 site_name: "Kloster Galiläa"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kloster in Meschede"
+description: "Kloster Galiläa, an evocative former monastery located in Meschede, Germany, offers visitors an intriguing glimpse into a significant chapter of monastic life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

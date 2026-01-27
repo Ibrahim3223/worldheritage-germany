@@ -3,7 +3,7 @@ title: "Wahnfried"
 site_name: "Wahnfried"
 date: 2026-01-26
 draft: false
-description: "former residence of composer Richard Wagner in Bayreuth"
+description: "Wahnfried, the former residence of the celebrated composer Richard Wagner, is an essential destination for music aficionados and cultural enthusiasts alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

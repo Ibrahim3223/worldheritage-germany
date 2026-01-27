@@ -3,7 +3,7 @@ title: "Hans-Kock-Stiftung"
 site_name: "Hans-Kock-Stiftung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hans-Kock-Stiftung, located in the coastal region of Schilksee in Germany, serves as a prominent museum dedicated to the preservation and exhibition of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"

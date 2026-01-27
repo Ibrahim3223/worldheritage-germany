@@ -3,7 +3,7 @@ title: "Museum Giersch"
 site_name: "Museum Giersch"
 date: 2026-01-26
 draft: false
-description: "art museum in Frankfurt am Main, Germany"
+description: "Museum Giersch, located in the vibrant city of Frankfurt am Main, Germany, serves as a significant cultural institution dedicated to the visual arts."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

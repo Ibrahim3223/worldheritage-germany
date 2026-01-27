@@ -3,7 +3,7 @@ title: "Preußengrab Ichtershausen"
 site_name: "Preußengrab Ichtershausen"
 date: 2026-01-26
 draft: false
-description: "memorial in Thuringia, Germany"
+description: "The Preußengrab Ichtershausen stands as a significant memorial within the picturesque region of Thuringia, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

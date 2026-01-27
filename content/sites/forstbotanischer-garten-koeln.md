@@ -3,7 +3,7 @@ title: "Forstbotanischer Garten Köln"
 site_name: "Forstbotanischer Garten Köln"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Forstbotanischer Garten Köln, located in the picturesque Rodenkirchen district of Germany, serves as a sanctuary for plant enthusiasts and casual..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

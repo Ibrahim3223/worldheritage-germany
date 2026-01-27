@@ -3,7 +3,7 @@ title: "Bayerisches Donauland-Museum"
 site_name: "Bayerisches Donauland-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany, until 2025 Keramikmuseum im Schloss Obernzell"
+description: "The Bayerisches Donauland-Museum is a cultural institution located in Germany that invites visitors to explore the significance of ceramics and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

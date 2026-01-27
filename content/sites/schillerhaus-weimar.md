@@ -3,7 +3,7 @@ title: "Schillerhaus Weimar"
 site_name: "Schillerhaus Weimar"
 date: 2026-01-26
 draft: false
-description: "museum in Weimar, Germany"
+description: "Schillerhaus Weimar is a museum dedicated to the life and works of Friedrich Schiller, one of Germany's most celebrated playwrights, poets, and philosophers."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

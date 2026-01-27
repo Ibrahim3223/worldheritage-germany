@@ -3,7 +3,7 @@ title: "Zur Schmerzhaften Muttergottes"
 site_name: "Zur Schmerzhaften Muttergottes"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Zur Schmerzhaften Muttergottes chapel is a serene spiritual site located in the picturesque region of Altenahr, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

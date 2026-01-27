@@ -3,7 +3,7 @@ title: "EAM-live-Museum Wasserkraftwerk Lippoldsberg"
 site_name: "EAM-live-Museum Wasserkraftwerk Lippoldsberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The EAM-live-Museum Wasserkraftwerk Lippoldsberg serves as a fascinating exploration of the historical significance of hydropower in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

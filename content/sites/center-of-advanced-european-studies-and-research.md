@@ -3,7 +3,7 @@ title: "Center of Advanced European Studies and Research"
 site_name: "Center of Advanced European Studies and Research"
 date: 2026-01-26
 draft: false
-description: "Research institution"
+description: "In the heart of Germany lies the Center of Advanced European Studies and Research, a pivotal foundation dedicated to fostering innovative research and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Gemeindehaus"
 site_name: "Gemeindehaus"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-75-167-29 (0) in Uehlfeld, Bavaria"
+description: "The Gemeindehaus, or City Hall, located in Uehlfeld, Bavaria, is a remarkable cultural heritage monument that embodies the historical essence of local..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

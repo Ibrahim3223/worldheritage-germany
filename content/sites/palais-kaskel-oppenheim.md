@@ -3,7 +3,7 @@ title: "Palais Kaskel-Oppenheim"
 site_name: "Palais Kaskel-Oppenheim"
 date: 2026-01-26
 draft: false
-description: "Palast in Deutschland"
+description: "The Palais Kaskel-Oppenheim, located in Dresden, Germany, is a remarkable palace that embodies the grandeur of historical architecture."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

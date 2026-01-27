@@ -3,7 +3,7 @@ title: "Marstallmuseum"
 site_name: "Marstallmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Marstallmuseum, located in the heart of Munich, Germany, is a captivating destination for those interested in the intersection of art and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

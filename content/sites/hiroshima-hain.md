@@ -3,7 +3,7 @@ title: "Hiroshima-Hain"
 site_name: "Hiroshima-Hain"
 date: 2026-01-26
 draft: false
-description: "park and memorial in Hannover, Germany"
+description: "Hiroshima-Hain, located in the Südstadt-Bult region of Hannover, Germany, serves as both a memorial and a tranquil park."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

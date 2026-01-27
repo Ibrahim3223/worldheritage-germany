@@ -3,7 +3,7 @@ title: "synagogue of Öhringen"
 site_name: "synagogue of Öhringen"
 date: 2026-01-26
 draft: false
-description: "synagogue in Öhringen, Germany"
+description: "The synagogue of Öhringen stands as an important landmark in the heart of Germany, reflecting a significant chapter in the region's cultural and religious..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

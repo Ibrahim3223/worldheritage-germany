@@ -3,7 +3,7 @@ title: "Theurer Christian"
 site_name: "Theurer Christian"
 date: 2026-01-26
 draft: false
-description: "monument in Südliches Anhalt in Germany"
+description: "Theurer Christian, a notable monument situated in the picturesque region of Südliches Anhalt, Germany, encapsulates a slice of the area's cultural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Gut Wahlstorf"
 site_name: "Gut Wahlstorf"
 date: 2026-01-26
 draft: false
-description: "building in Wahlstorf (Germany)"
+description: "Gut Wahlstorf, a distinguished manor house located in the serene region of Wahlstorf, Germany, offers a glimpse into the architectural elegance and cultural..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

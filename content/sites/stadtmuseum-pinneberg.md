@@ -3,7 +3,7 @@ title: "Stadtmuseum Pinneberg"
 site_name: "Stadtmuseum Pinneberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Stadtmuseum Pinneberg serves as a cultural and historical hub in the charming town of Pinneberg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

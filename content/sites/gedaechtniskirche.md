@@ -3,7 +3,7 @@ title: "Gedächtniskirche"
 site_name: "Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "church in Speyer"
+description: "In the heart of Speyer, Germany, the Gedächtniskirche rises as a prominent church building, both a spiritual haven and a symbol of resilience."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

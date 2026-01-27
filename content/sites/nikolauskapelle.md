@@ -3,7 +3,7 @@ title: "Nikolauskapelle"
 site_name: "Nikolauskapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Köln-Westhoven"
+description: "Nestled in the charming area of Westhoven, Germany, Nikolauskapelle stands as a serene chapel that draws visitors with its historic and spiritual essence."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

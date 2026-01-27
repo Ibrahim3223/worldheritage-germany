@@ -3,7 +3,7 @@ title: "Garten Nähe Neugasse in Coburg"
 site_name: "Garten Nähe Neugasse in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-235 (1) in Coburg, Bavaria"
+description: "In the heart of Coburg, Germany, lies the Garten Nähe Neugasse, a cultural heritage monument that encapsulates the essence of the region's historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

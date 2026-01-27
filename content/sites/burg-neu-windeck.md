@@ -3,7 +3,7 @@ title: "Burg Neu-Windeck"
 site_name: "Burg Neu-Windeck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neu-Windeck, a captivating castle located in the picturesque region of Lauf, Germany, invites visitors to explore its historical significance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

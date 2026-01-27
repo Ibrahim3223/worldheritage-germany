@@ -3,7 +3,7 @@ title: "Erlöserkirche, Hamburg-Borgfelde"
 site_name: "Erlöserkirche, Hamburg-Borgfelde"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Erlöserkirche, located in Hamburg-Borgfelde, is more than just a church; it is a significant cultural landmark that reflects the rich religious and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

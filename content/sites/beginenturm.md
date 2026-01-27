@@ -3,7 +3,7 @@ title: "Beginenturm"
 site_name: "Beginenturm"
 date: 2026-01-26
 draft: false
-description: "tower in Hannover, Germany"
+description: "Beginenturm, a historical tower located in the vibrant district of Mitte in Hannover, Germany, captures the attention of visitors with its intriguing..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

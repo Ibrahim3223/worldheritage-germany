@@ -3,7 +3,7 @@ title: "Burg Linzenberg"
 site_name: "Burg Linzenberg"
 date: 2026-01-26
 draft: false
-description: "castle in Neidingen-Thiergarten, Germany"
+description: "Perched in the picturesque region of Beuron, Germany, Burg Linzenberg is an intriguing castle that invites visitors to delve into its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

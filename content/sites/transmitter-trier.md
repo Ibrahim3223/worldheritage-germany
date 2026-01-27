@@ -3,7 +3,7 @@ title: "Transmitter Trier"
 site_name: "Transmitter Trier"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Transmitter Trier stands tall as a significant communication tower in the Rhineland-Palatinate region of Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

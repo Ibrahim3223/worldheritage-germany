@@ -3,7 +3,7 @@ title: "Botanic Garden and Botanical Museum Berlin"
 site_name: "Botanic Garden and Botanical Museum Berlin"
 date: 2026-01-26
 draft: false
-description: "Botanical garden and museum located in Berlin"
+description: "The Botanic Garden and Botanical Museum Berlin is a lush sanctuary that invites visitors to explore the diversity of plant life from around the world."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Botanical Garden"

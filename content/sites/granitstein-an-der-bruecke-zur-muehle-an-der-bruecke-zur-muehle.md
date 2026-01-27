@@ -3,7 +3,7 @@ title: "Granitstein an der Brücke zur Mühle (an der Brücke zur Mühle)"
 site_name: "Granitstein an der Brücke zur Mühle (an der Brücke zur Mühle)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Granitstein an der Brücke zur Mühle is a notable bridge located in the Kubschütz region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

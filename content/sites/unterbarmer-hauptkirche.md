@@ -3,7 +3,7 @@ title: "Unterbarmer Hauptkirche"
 site_name: "Unterbarmer Hauptkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Barmen, Germany"
+description: "The Unterbarmer Hauptkirche, located in the heart of Barmen, Germany, serves as an important cultural and architectural landmark within the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

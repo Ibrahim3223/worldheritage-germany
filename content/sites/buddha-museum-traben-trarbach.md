@@ -3,7 +3,7 @@ title: "Buddha-Museum Traben-Trarbach"
 site_name: "Buddha-Museum Traben-Trarbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Buddha-Museum Traben-Trarbach invites visitors into a world where ancient spirituality and contemporary art merge."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

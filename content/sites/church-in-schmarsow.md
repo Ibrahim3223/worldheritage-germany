@@ -3,7 +3,7 @@ title: "Church in Schmarsow"
 site_name: "Church in Schmarsow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Schmarsow serves as a poignant focal point within the tranquil landscape of Kruckow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bonn Minster"
 site_name: "Bonn Minster"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bonn Minster, a stunning cathedral located in the heart of Bonn, Germany, is a significant landmark that reflects the city's religious and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cathedral"

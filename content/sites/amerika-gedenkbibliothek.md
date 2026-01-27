@@ -3,7 +3,7 @@ title: "Amerika-Gedenkbibliothek"
 site_name: "Amerika-Gedenkbibliothek"
 date: 2026-01-26
 draft: false
-description: "public library in Berlin"
+description: "The Amerika-Gedenkbibliothek, a significant public library located in Berlin's Friedrichshain-Kreuzberg district, serves as a vital cultural and educational..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

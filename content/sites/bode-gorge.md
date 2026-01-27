@@ -3,7 +3,7 @@ title: "Bode Gorge"
 site_name: "Bode Gorge"
 date: 2026-01-26
 draft: false
-description: "valley in Harz District, Germany"
+description: "Bode Gorge, a captivating valley located in the Harz District of Germany, offers visitors a unique blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

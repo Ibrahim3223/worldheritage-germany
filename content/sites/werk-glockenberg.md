@@ -3,7 +3,7 @@ title: "Werk Glockenberg"
 site_name: "Werk Glockenberg"
 date: 2026-01-26
 draft: false
-description: "Teil der preußischen Festung Koblenz"
+description: "Werk Glockenberg, a significant military fortification located in Koblenz, Germany, forms an integral part of the larger Prussian fortress system that once..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"

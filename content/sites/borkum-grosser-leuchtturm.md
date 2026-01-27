@@ -3,7 +3,7 @@ title: "Borkum Großer Leuchtturm"
 site_name: "Borkum Großer Leuchtturm"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Borkum, Germany"
+description: "The Borkum Großer Leuchtturm, a lighthouse located on the island of Borkum in Germany, is a striking symbol of maritime navigation and safety."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

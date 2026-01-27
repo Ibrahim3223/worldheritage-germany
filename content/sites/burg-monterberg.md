@@ -3,7 +3,7 @@ title: "Burg Monterberg"
 site_name: "Burg Monterberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Monterberg, located in the historical region of Kalkar, Germany, is a fascinating castle that invites visitors to explore its storied past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

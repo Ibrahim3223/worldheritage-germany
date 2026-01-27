@@ -3,7 +3,7 @@ title: "Brunneck Castle"
 site_name: "Brunneck Castle"
 date: 2026-01-26
 draft: false
-description: "building in Titting, Upper Bavaria, Germany"
+description: "Brunneck Castle, located in Titting, Upper Bavaria, Germany, is a captivating archaeological site that invites visitors to explore its historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

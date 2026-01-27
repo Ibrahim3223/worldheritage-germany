@@ -3,7 +3,7 @@ title: "Museum of Art and Cultural History (Dortmund)"
 site_name: "Museum of Art and Cultural History (Dortmund)"
 date: 2026-01-26
 draft: false
-description: "municipal museum in Dortmund, North Rhine-Westphalia, Germany"
+description: "The Museum of Art and Cultural History in Dortmund, Germany, serves as a cultural hub within the vibrant landscape of North Rhine-Westphalia."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

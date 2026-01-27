@@ -3,7 +3,7 @@ title: "Gut Projensdorf"
 site_name: "Gut Projensdorf"
 date: 2026-01-26
 draft: false
-description: "building in Altenholz near Kiel, Germany"
+description: "Gut Projensdorf is a captivating manor house located in Altenholz, near Kiel, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

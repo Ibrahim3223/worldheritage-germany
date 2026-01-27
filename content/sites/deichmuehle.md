@@ -3,7 +3,7 @@ title: "Deichmühle"
 site_name: "Deichmühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Norden in Ostfriesland, Niedersachsen, Deutschland"
+description: "In the charming town of Norden, located in the Ostfriesland region of Germany, the Deichmühle stands as a remarkable representation of traditional windmill..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

@@ -3,7 +3,7 @@ title: "Basharat-Moschee"
 site_name: "Basharat-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee der Ahmadiyya in Osnabrück"
+description: "The Basharat-Moschee in Osnabrück, Germany, serves as a significant religious and cultural center for the Ahmadiyya Muslim Community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

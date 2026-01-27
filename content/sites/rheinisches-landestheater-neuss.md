@@ -3,7 +3,7 @@ title: "Rheinisches Landestheater Neuss"
 site_name: "Rheinisches Landestheater Neuss"
 date: 2026-01-26
 draft: false
-description: "Theater in Deutschland"
+description: "The Rheinisches Landestheater Neuss stands as a prominent cultural institution in the city of Neuss, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

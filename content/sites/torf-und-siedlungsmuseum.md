@@ -3,7 +3,7 @@ title: "Torf- und Siedlungsmuseum"
 site_name: "Torf- und Siedlungsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Torf- und Siedlungsmuseum, located in Wiesmoor, Germany, offers visitors a unique glimpse into the region's historical relationship with peat and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

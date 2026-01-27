@@ -3,7 +3,7 @@ title: "Burg Hossingen"
 site_name: "Burg Hossingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hossingen, a striking castle located in the picturesque region of Hossingen, Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

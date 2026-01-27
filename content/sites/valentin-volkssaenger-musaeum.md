@@ -3,7 +3,7 @@ title: "Valentin-Volkssänger-Musäum"
 site_name: "Valentin-Volkssänger-Musäum"
 date: 2026-01-26
 draft: false
-description: "museum in Munich, Germany"
+description: "In the heart of Munich’s historic Altstadt-Lehel district lies the Valentin-Volkssänger-Musäum, a museum dedicated to the vibrant world of Volkssänger, or..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

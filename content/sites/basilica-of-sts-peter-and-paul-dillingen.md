@@ -3,7 +3,7 @@ title: "Basilica of Sts. Peter and Paul, Dillingen"
 site_name: "Basilica of Sts. Peter and Paul, Dillingen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Basilica of Sts. Peter and Paul in Dillingen an der Donau stands as a significant religious monument in southern Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

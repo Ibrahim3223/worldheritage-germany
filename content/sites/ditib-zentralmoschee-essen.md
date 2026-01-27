@@ -3,7 +3,7 @@ title: "DITIB-Zentralmoschee Essen"
 site_name: "DITIB-Zentralmoschee Essen"
 date: 2026-01-26
 draft: false
-description: "Moschee in Deutschland"
+description: "The DITIB-Zentralmoschee Essen is a significant mosque located in Essen, Germany, serving as a hub for the Muslim community in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

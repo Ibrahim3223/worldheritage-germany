@@ -3,7 +3,7 @@ title: "Kapelle St. Magdalena"
 site_name: "Kapelle St. Magdalena"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Dietersdorf"
+description: "Kapelle St. Magdalena, a tranquil chapel located in the village of Dietersdorf, is an inviting site for those interested in religious architecture and the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

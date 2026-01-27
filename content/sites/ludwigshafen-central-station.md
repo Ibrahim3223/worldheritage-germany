@@ -3,7 +3,7 @@ title: "Ludwigshafen Central Station"
 site_name: "Ludwigshafen Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Ludwigshafen, Germany"
+description: "Ludwigshafen Central Station is a vital transportation hub located in the heart of Ludwigshafen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

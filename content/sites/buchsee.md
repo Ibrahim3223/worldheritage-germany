@@ -3,7 +3,7 @@ title: "Buchsee"
 site_name: "Buchsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Buchsee is a picturesque lake located in the Mecklenburgische Seenplatte District of Germany, celebrated for its serene beauty and tranquil environment."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

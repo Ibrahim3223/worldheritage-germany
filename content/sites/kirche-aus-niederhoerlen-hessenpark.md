@@ -3,7 +3,7 @@ title: "Kirche aus Niederhörlen (Hessenpark)"
 site_name: "Kirche aus Niederhörlen (Hessenpark)"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Kirche aus Niederhörlen, located in the Hessenpark in Neu-Anspach, Germany, is a charming chapel that reflects the region's rich cultural and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

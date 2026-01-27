@@ -3,7 +3,7 @@ title: "Gutshaus Lüskow"
 site_name: "Gutshaus Lüskow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in der Gemeinde Butzow  in Mecklenburg-Vorpommern"
+description: "Gutshaus Lüskow, a striking manor house located in the Mecklenburg-Vorpommern region of Germany, presents visitors with an opportunity to explore a..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

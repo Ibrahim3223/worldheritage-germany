@@ -3,7 +3,7 @@ title: "Apothekenmuseum (Bad Langensalza)"
 site_name: "Apothekenmuseum (Bad Langensalza)"
 date: 2026-01-26
 draft: false
-description: "Museum in Bad Langensalza"
+description: "Located in the charming town of Bad Langensalza, the Apothekenmuseum presents an intriguing glimpse into the world of pharmacy and medicine."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

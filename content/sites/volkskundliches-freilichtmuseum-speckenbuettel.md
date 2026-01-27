@@ -3,7 +3,7 @@ title: "Volkskundliches Freilichtmuseum Speckenbüttel"
 site_name: "Volkskundliches Freilichtmuseum Speckenbüttel"
 date: 2026-01-26
 draft: false
-description: "museum in Bremerhaven, Germany"
+description: "The Volkskundliches Freilichtmuseum Speckenbüttel is an engaging museum located in Bremerhaven, Germany, dedicated to the preservation and presentation of..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

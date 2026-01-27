@@ -3,7 +3,7 @@ title: "Mühlenhof Breckerfeld"
 site_name: "Mühlenhof Breckerfeld"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Mühlenhof Breckerfeld presents a unique opportunity to explore the cultural heritage of Germany through its engaging museum exhibits."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

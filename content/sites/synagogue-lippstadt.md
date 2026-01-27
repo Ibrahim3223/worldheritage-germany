@@ -3,7 +3,7 @@ title: "Synagogue Lippstadt"
 site_name: "Synagogue Lippstadt"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue Lippstadt, located in the heart of Germany, represents a significant piece of Jewish heritage and a poignant reminder of the past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

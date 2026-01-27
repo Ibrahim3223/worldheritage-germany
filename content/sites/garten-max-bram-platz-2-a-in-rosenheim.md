@@ -3,7 +3,7 @@ title: "Garten Max-Bram-Platz 2 a in Rosenheim"
 site_name: "Garten Max-Bram-Platz 2 a in Rosenheim"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-63-000-152 (1) in Rosenheim, Bavaria"
+description: "Garten Max-Bram-Platz 2 a in Rosenheim is a cultural heritage monument located in the charming town of Rosenheim, Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

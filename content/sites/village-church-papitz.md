@@ -3,7 +3,7 @@ title: "Village church Papitz"
 site_name: "Village church Papitz"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church of Papitz, located in the charming region of Kolkwitz in Germany’s Brandenburg state, is an architectural and spiritual landmark that..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

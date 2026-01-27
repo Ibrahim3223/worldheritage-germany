@@ -3,7 +3,7 @@ title: "Jennelter Kirche (Krummhörn)"
 site_name: "Jennelter Kirche (Krummhörn)"
 date: 2026-01-26
 draft: false
-description: "church building in Jennelt, Germany"
+description: "The Jennelter Kirche, a notable church building located in the serene village of Jennelt within the Krummhörn region of Germany, is a destination that draws..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

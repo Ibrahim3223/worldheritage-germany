@@ -3,7 +3,7 @@ title: "Khadija Mosque"
 site_name: "Khadija Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Berlin, Germany"
+description: "Khadija Mosque is a significant cultural and spiritual landmark located in the Pankow district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Luftfahrt- und Technikmuseum Merseburg"
 site_name: "Luftfahrt- und Technikmuseum Merseburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Luftfahrt- und Technikmuseum Merseburg is a fascinating destination for those intrigued by aviation and technical history."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

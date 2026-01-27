@@ -3,7 +3,7 @@ title: "Hafenkirche"
 site_name: "Hafenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Mannheim, Germany"
+description: "Hafenkirche, located in Mannheim, Germany, stands as a remarkable example of church architecture and community heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

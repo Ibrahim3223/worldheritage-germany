@@ -3,7 +3,7 @@ title: "St. Martin (Oberwalluf)"
 site_name: "St. Martin (Oberwalluf)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "St. Martin (Oberwalluf) serves as a significant architectural structure within the quaint village of Walluf, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

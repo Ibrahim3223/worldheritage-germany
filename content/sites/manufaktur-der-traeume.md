@@ -3,7 +3,7 @@ title: "Manufaktur der Träume"
 site_name: "Manufaktur der Träume"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Manufaktur der Träume, located in Annaberg-Buchholz, Germany, is a museum that invites visitors to explore the fascinating world of dreams and creativity."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

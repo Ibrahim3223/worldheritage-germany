@@ -3,7 +3,7 @@ title: "Brocken"
 site_name: "Brocken"
 date: 2026-01-26
 draft: false
-description: "highest mountain of the Harz Mountains in Saxony-Anhalt, Germany"
+description: "At 1,141 meters, Brocken is the highest peak in the Harz Mountains, located in the picturesque region of Wernigerode, Saxony-Anhalt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

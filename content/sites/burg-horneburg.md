@@ -3,7 +3,7 @@ title: "Burg Horneburg"
 site_name: "Burg Horneburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Horneburg, a striking castle located in the Horneburg region of Germany, represents an important piece of the country's architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

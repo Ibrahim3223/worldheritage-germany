@@ -3,7 +3,7 @@ title: "Feldbahnmuseum Oekoven"
 site_name: "Feldbahnmuseum Oekoven"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Feldbahnmuseum Oekoven is a unique museum located in Rommerskirchen, Germany, dedicated to the fascinating world of narrow-gauge railways, or "feldbahnen"."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Laubenbergerstein"
 site_name: "Burg Laubenbergerstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Laubenbergerstein is a captivating castle located in the picturesque region of Immenstadt im Allgäu, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

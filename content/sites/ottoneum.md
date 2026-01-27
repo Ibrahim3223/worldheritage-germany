@@ -3,7 +3,7 @@ title: "Ottoneum"
 site_name: "Ottoneum"
 date: 2026-01-26
 draft: false
-description: "museum and former theatre in Kassel, Germany"
+description: "Ottoneum is a remarkable museum located in the heart of Kassel, Germany, known for its unique combination of cultural heritage and architectural significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

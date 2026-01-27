@@ -3,7 +3,7 @@ title: "Burg Neuwolfstein"
 site_name: "Burg Neuwolfstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuwolfstein, a captivating castle located in the heart of Wolfstein, Germany, presents a remarkable glimpse into the region's medieval architecture..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

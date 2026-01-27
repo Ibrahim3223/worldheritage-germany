@@ -3,7 +3,7 @@ title: "Grönjansturm"
 site_name: "Grönjansturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Grönjansturm, a prominent tower located in Düren, Germany, stands as a remarkable piece of architectural history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Hohhaus-Museum Lauterbach"
 site_name: "Hohhaus-Museum Lauterbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hohhaus-Museum Lauterbach serves as an intriguing portal into the cultural and historical narrative of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

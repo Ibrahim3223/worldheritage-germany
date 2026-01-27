@@ -3,7 +3,7 @@ title: "Kirche Kröslin"
 site_name: "Kirche Kröslin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the quaint village of Kröslin, Germany, lies the Kirche Kröslin, a church building that stands as a notable example of local architecture and cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

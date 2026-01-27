@@ -3,7 +3,7 @@ title: "Borderlandmuseum Eichsfeld"
 site_name: "Borderlandmuseum Eichsfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Borderlandmuseum Eichsfeld, located in the Heilbad Heiligenstadt region of Germany, serves as a vital cultural repository that delves into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

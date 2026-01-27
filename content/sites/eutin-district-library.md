@@ -3,7 +3,7 @@ title: "Eutin district library"
 site_name: "Eutin district library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Eutin District Library, situated in the quaint town of Eutin in Germany, serves as a vital cultural and educational hub for the community."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Library"

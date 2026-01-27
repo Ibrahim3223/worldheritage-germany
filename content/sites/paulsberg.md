@@ -3,7 +3,7 @@ title: "Paulsberg"
 site_name: "Paulsberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Paulsberg, located in the scenic region of Wuppertal, Germany, is a mountain that captivates visitors with its natural beauty and tranquil surroundings."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

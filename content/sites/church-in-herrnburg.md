@@ -3,7 +3,7 @@ title: "Church in Herrnburg"
 site_name: "Church in Herrnburg"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Herrnburg is a remarkable example of ecclesiastical architecture located in the tranquil region of Lüdersdorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

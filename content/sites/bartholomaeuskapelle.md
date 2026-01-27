@@ -3,7 +3,7 @@ title: "Bartholomäuskapelle"
 site_name: "Bartholomäuskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Bartholomäuskapelle, a quaint chapel located in the serene region of Korweiler, Germany, invites visitors to explore its tranquil surroundings and spiritual..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"

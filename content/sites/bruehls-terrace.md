@@ -3,7 +3,7 @@ title: "Brühl's Terrace"
 site_name: "Brühl's Terrace"
 date: 2026-01-26
 draft: false
-description: "historic architectural ensemble in Dresden, Germany"
+description: "Brühl's Terrace, located in the heart of Dresden, Germany, is a remarkable park that showcases a historic architectural ensemble alongside the banks of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Park"

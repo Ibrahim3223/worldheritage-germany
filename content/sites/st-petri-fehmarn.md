@@ -3,7 +3,7 @@ title: "St. Petri (Fehmarn)"
 site_name: "St. Petri (Fehmarn)"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "St. Petri, located on the island of Fehmarn in Germany, is a remarkable church building that captures the essence of the region's architectural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Edersee Dam"
 site_name: "Edersee Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Edersee Dam, an engineering marvel located in the Waldeck region of Germany, is a vital structure that not only provides hydroelectric power but also..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Dam"

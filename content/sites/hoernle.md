@@ -3,7 +3,7 @@ title: "Hörnle"
 site_name: "Hörnle"
 date: 2026-01-26
 draft: false
-description: "mountain of the Swabian Jura in Baden-Württemberg, Germany"
+description: "Hörnle, a prominent mountain located in the Swabian Jura region of Baden-Württemberg, Germany, offers visitors a mix of natural beauty and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

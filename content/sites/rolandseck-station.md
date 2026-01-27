@@ -3,7 +3,7 @@ title: "Rolandseck station"
 site_name: "Rolandseck station"
 date: 2026-01-26
 draft: false
-description: "railway station in Remagen, Germany"
+description: "Rolandseck station, located in Remagen within the picturesque region of Oberwinter, Germany, serves as a crucial junction in the country’s railway network."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

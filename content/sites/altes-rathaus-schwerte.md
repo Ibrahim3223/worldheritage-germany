@@ -3,7 +3,7 @@ title: "Altes Rathaus Schwerte"
 site_name: "Altes Rathaus Schwerte"
 date: 2026-01-26
 draft: false
-description: "old town hall"
+description: "Altes Rathaus Schwerte, the old town hall of Schwerte, Germany, serves as a focal point of civic life and a symbol of the town's historical narrative."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Der Hafenarbeiter"
 site_name: "Der Hafenarbeiter"
 date: 2026-01-26
 draft: false
-description: "public sculpture by Constantin Meunier in Frankfurt am Main, Germany"
+description: "Der Hafenarbeiter, a striking public sculpture located in the heart of Frankfurt am Main, Germany, captures the essence of the labor force that has shaped..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Denkmal für Maximilian Schmidt (Großer Riedelstein)"
 site_name: "Denkmal für Maximilian Schmidt (Großer Riedelstein)"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "Denkmal für Maximilian Schmidt, located in the picturesque region of Bavaria, Germany, is a monument that pays homage to a notable figure, Maximilian Schmidt."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

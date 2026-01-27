@@ -3,7 +3,7 @@ title: "Buttersee"
 site_name: "Buttersee"
 date: 2026-01-26
 draft: false
-description: "lake in Neustrelitz, Mecklenburg-Vorpommern, Germany"
+description: "Buttersee is a picturesque lake located in the Neustrelitz region of Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

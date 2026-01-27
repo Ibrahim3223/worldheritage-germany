@@ -3,7 +3,7 @@ title: "KGB Prison, Potsdam"
 site_name: "KGB Prison, Potsdam"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The KGB Prison in Potsdam stands as a poignant memorial to the complexities of Cold War history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Erlöserkirche (Hamburg-Farmsen-Berne)"
 site_name: "Erlöserkirche (Hamburg-Farmsen-Berne)"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Erlöserkirche, located in the Farmsen-Berne district of Hamburg, Germany, stands as a noteworthy example of modern ecclesiastical architecture."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

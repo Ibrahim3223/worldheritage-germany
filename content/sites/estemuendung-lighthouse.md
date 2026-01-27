@@ -3,7 +3,7 @@ title: "Estemündung Lighthouse"
 site_name: "Estemündung Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Hamburg, Germany"
+description: "The Estemündung Lighthouse, located in the Harburg district of Hamburg, Germany, serves as a vital maritime navigation aid in the bustling waters of the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Königs Wusterhausen Transmitter Museum"
 site_name: "Königs Wusterhausen Transmitter Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Königs Wusterhausen, Germany, the Königs Wusterhausen Transmitter Museum offers a unique glimpse into the world of radio technology and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

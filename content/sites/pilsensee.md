@@ -3,7 +3,7 @@ title: "Pilsensee"
 site_name: "Pilsensee"
 date: 2026-01-26
 draft: false
-description: "lake in Starnberg district, Bavaria, Germany"
+description: "Pilsensee, located in the picturesque Starnberg district of Bavaria, Germany, is an enchanting lake that serves as a serene escape from the bustling life of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

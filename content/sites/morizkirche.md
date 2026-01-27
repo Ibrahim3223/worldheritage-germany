@@ -3,7 +3,7 @@ title: "Morizkirche"
 site_name: "Morizkirche"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-238 (0) in Coburg, Bavaria"
+description: "Morizkirche, located in the charming town of Coburg, Bavaria, is a remarkable cultural heritage monument that reflects the region's deep-rooted history and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

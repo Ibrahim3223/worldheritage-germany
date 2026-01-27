@@ -3,7 +3,7 @@ title: "Meppen station"
 site_name: "Meppen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Meppen, Germany"
+description: "Meppen station serves as a crucial hub in the railway network of Germany, located in the quaint town of Meppen."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

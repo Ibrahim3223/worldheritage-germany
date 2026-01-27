@@ -3,7 +3,7 @@ title: "Dorfkirche Brandshagen"
 site_name: "Dorfkirche Brandshagen"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Brandshagen"
+description: "Dorfkirche Brandshagen, a church building located in the Sundhagen region of Germany, represents a significant landmark both spiritually and culturally."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

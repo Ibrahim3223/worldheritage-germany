@@ -3,7 +3,7 @@ title: "Eiszeitmuseum"
 site_name: "Eiszeitmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Eiszeitmuseum, located in Lütjenburg, Germany, invites visitors to explore the fascinating world of the Ice Ages through its diverse exhibits and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

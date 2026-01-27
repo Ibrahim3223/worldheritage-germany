@@ -3,7 +3,7 @@ title: "Büchereck"
 site_name: "Büchereck"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Büchereck is a captivating mountain pass located in the Ortenau region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

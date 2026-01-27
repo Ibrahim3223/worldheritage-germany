@@ -3,7 +3,7 @@ title: "Stasi Museum"
 site_name: "Stasi Museum"
 date: 2026-01-26
 draft: false
-description: "Place for information about the activity of the State Security"
+description: "The Stasi Museum, located in Berlin, Germany, is a significant destination for those interested in the intricate history of the German Democratic Republic..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

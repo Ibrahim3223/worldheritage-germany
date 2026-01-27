@@ -3,7 +3,7 @@ title: "St. Mariä Heimsuchung (Rhöndorf)"
 site_name: "St. Mariä Heimsuchung (Rhöndorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Honnef, Germany"
+description: "St. Mariä Heimsuchung, located in Bad Honnef, Germany, is a notable church building that embodies the spiritual and architectural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

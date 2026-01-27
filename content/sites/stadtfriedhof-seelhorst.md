@@ -3,7 +3,7 @@ title: "Stadtfriedhof Seelhorst"
 site_name: "Stadtfriedhof Seelhorst"
 date: 2026-01-26
 draft: false
-description: "largest cemetery in Hannover"
+description: "Stadtfriedhof Seelhorst, the largest cemetery in Hannover, Germany, serves as a poignant reminder of the city's rich history and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Hirzbacher Kapelle"
 site_name: "Hirzbacher Kapelle"
 date: 2026-01-26
 draft: false
-description: "archäologische Stätte in Deutschland"
+description: "Hirzbacher Kapelle is a striking chapel located in the quaint region of Hammersbach, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

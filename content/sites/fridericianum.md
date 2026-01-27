@@ -3,7 +3,7 @@ title: "Fridericianum"
 site_name: "Fridericianum"
 date: 2026-01-26
 draft: false
-description: "museum in Kassel, Germany"
+description: "Fridericianum, a prominent museum located in the heart of Kassel, Germany, serves as a cultural hub that attracts art enthusiasts, historians, and curious..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

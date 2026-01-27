@@ -3,7 +3,7 @@ title: "Großer Segeberger See"
 site_name: "Großer Segeberger See"
 date: 2026-01-26
 draft: false
-description: "lake in Segeberg, Schleswig-Holstein, Germany"
+description: "Großer Segeberger See is a picturesque lake located in the Segeberg District of Schleswig-Holstein, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

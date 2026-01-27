@@ -3,7 +3,7 @@ title: "Tolstoi Hilfs- und Kulturwerk Hannover"
 site_name: "Tolstoi Hilfs- und Kulturwerk Hannover"
 date: 2026-01-26
 draft: false
-description: "1994 in Hannover gegründeter Kulturverein"
+description: "The Tolstoi Hilfs- und Kulturwerk Hannover serves as a vibrant cultural institution that has made significant contributions to the cultural landscape of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

@@ -3,7 +3,7 @@ title: "Haus der Stadtgeschichte (Heilbronn)"
 site_name: "Haus der Stadtgeschichte (Heilbronn)"
 date: 2026-01-26
 draft: false
-description: "Sitz des Stadtarchivs Heilbronn und Museum"
+description: "The Haus der Stadtgeschichte, or House of City History, in Heilbronn, Germany, serves as both the city archive and a museum dedicated to the rich historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Slawenburg Raddusch"
 site_name: "Slawenburg Raddusch"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Slawenburg Raddusch is a captivating museum located in the picturesque Vetschau/Spreewald region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

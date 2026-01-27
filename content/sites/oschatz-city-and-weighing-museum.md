@@ -3,7 +3,7 @@ title: "Oschatz City and Weighing Museum"
 site_name: "Oschatz City and Weighing Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Oschatz City and the Weighing Museum offer a fascinating glimpse into the historical and cultural fabric of Germany, specifically in the Saxony region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

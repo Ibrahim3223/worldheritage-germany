@@ -3,7 +3,7 @@ title: "Rheinisches Landesmuseum Trier"
 site_name: "Rheinisches Landesmuseum Trier"
 date: 2026-01-26
 draft: false
-description: "German archaeological museum"
+description: "Located in the historic city of Trier, Germany, the Rheinisches Landesmuseum Trier serves as a significant repository of archaeological artifacts and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

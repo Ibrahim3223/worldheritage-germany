@@ -3,7 +3,7 @@ title: "Rathaus Gerlingen"
 site_name: "Rathaus Gerlingen"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Gerlingen"
+description: "Rathaus Gerlingen, the city hall of Gerlingen, Germany, serves as the administrative heart of this vibrant community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

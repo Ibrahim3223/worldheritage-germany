@@ -3,7 +3,7 @@ title: "Stones Fan Museum"
 site_name: "Stones Fan Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Lüchow, Germany"
+description: "The Stones Fan Museum in Lüchow, Germany, is an intriguing destination for those fascinated by the art of fan-making and the cultural significance of fans..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

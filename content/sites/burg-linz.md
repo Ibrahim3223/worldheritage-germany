@@ -3,7 +3,7 @@ title: "Burg Linz"
 site_name: "Burg Linz"
 date: 2026-01-26
 draft: false
-description: "castle in Linz am Rhein, Germany"
+description: "Burg Linz, a historic castle located in Linz am Rhein, Germany, presents an intriguing glimpse into the region's past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

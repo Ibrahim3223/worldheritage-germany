@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kapelle"
 site_name: "Heilig-Geist-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Heilig-Geist-Kapelle, a modest yet significant chapel located in Bad Sooden-Allendorf, Germany, invites visitors to explore its serene atmosphere and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

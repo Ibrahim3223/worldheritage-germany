@@ -3,7 +3,7 @@ title: "Lutherkirche (Leipzig)"
 site_name: "Lutherkirche (Leipzig)"
 date: 2026-01-26
 draft: false
-description: "church in Leipzig, Germany"
+description: "Lutherkirche, a prominent church building in Leipzig, Germany, serves as both a spiritual sanctuary and a historical landmark."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

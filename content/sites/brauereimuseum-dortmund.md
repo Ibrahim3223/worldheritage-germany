@@ -3,7 +3,7 @@ title: "Brauereimuseum Dortmund"
 site_name: "Brauereimuseum Dortmund"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Dortmund, Germany, lies the Brauereimuseum Dortmund, a museum dedicated to the rich and storied tradition of brewing."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

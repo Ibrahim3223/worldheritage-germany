@@ -3,7 +3,7 @@ title: "Kapelle zur Schmerzhaften Muttergottes"
 site_name: "Kapelle zur Schmerzhaften Muttergottes"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Kapelle zur Schmerzhaften Muttergottes, located in Unteregg, Germany, is a serene chapel that embodies the essence of spirituality and architectural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

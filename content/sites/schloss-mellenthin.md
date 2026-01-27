@@ -3,7 +3,7 @@ title: "Schloss Mellenthin"
 site_name: "Schloss Mellenthin"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus auf Usedom"
+description: "Schloss Mellenthin, a distinguished manor house located in the serene region of Mellenthin, Germany, offers visitors a glimpse into the architectural and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

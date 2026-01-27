@@ -3,7 +3,7 @@ title: "Gau Gate"
 site_name: "Gau Gate"
 date: 2026-01-26
 draft: false
-description: "city gate in Mainz"
+description: "Gau Gate, a historic city gate located in Mainz, Germany, captures the essence of the city's architectural and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"

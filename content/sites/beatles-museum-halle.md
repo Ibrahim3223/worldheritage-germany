@@ -3,7 +3,7 @@ title: "Beatles-Museum Halle"
 site_name: "Beatles-Museum Halle"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Beatles-Museum Halle is a unique destination for music lovers and cultural enthusiasts alike, located in the vibrant city of Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schloßplatzspringbrunnen"
 site_name: "Schloßplatzspringbrunnen"
 date: 2026-01-26
 draft: false
-description: "pair of fountains in Stuttgart, Germany"
+description: "In the heart of Stuttgart-Mitte, the Schloßplatzspringbrunnen serves as a prominent landmark and a delightful focal point for visitors and locals alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

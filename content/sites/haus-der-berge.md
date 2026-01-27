@@ -3,7 +3,7 @@ title: "Haus der Berge"
 site_name: "Haus der Berge"
 date: 2026-01-26
 draft: false
-description: "Zentrales Informations- und Bildungszentrum des Nationalparks Berchtesgaden"
+description: "Haus der Berge serves as a central hub for the Nationalpark Berchtesgaden, a remarkable destination for those eager to connect with the natural splendor of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

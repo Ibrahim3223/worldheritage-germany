@@ -3,7 +3,7 @@ title: "Zwirnerei Hebebrand"
 site_name: "Zwirnerei Hebebrand"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Fabrikgebäude in Wuppertal"
+description: "In the heart of Wuppertal, Germany, lies Zwirnerei Hebebrand, a factory steeped in industrial heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Factory"

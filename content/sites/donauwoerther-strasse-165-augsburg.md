@@ -3,7 +3,7 @@ title: "Donauwörther Straße 165 (Augsburg)"
 site_name: "Donauwörther Straße 165 (Augsburg)"
 date: 2026-01-26
 draft: false
-description: "Augsburg, Donauwörther Straße 165, Moschee"
+description: "Donauwörther Straße 165 in Augsburg is a notable mosque that serves as a significant place of worship for the local Muslim community."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

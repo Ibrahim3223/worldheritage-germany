@@ -3,7 +3,7 @@ title: "Grunewald-Kirche"
 site_name: "Grunewald-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Grunewald-Kirche is a notable church building situated in the Charlottenburg-Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

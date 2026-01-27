@@ -3,7 +3,7 @@ title: "Friedhofskapelle Welden"
 site_name: "Friedhofskapelle Welden"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Friedhofskapelle Welden is a chapel that serves as a poignant structure within the tranquil landscape of Welden, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

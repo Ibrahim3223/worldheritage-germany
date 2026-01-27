@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über den Haselbach bei Am Haselbach 3"
 site_name: "Steindeckerbrücke über den Haselbach bei Am Haselbach 3"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über den Haselbach stands as an enduring symbol of engineering and functionality in the picturesque Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Zeche Antonius"
 site_name: "Zeche Antonius"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Antonius, located in Essen, Germany, stands as a significant representation of the region’s industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

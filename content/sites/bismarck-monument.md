@@ -3,7 +3,7 @@ title: "Bismarck Monument"
 site_name: "Bismarck Monument"
 date: 2026-01-26
 draft: false
-description: "Bismarck monument in Hamburg"
+description: "The Bismarck Monument in Hamburg is a striking tribute to one of Germany's most influential historical figures, Otto von Bismarck."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Statue"

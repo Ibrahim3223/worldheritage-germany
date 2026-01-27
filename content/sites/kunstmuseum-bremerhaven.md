@@ -3,7 +3,7 @@ title: "Kunstmuseum Bremerhaven"
 site_name: "Kunstmuseum Bremerhaven"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunstmuseum Bremerhaven is a prominent art museum located in the coastal city of Bremerhaven, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

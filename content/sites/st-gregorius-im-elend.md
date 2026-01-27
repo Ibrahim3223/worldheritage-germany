@@ -3,7 +3,7 @@ title: "St. Gregorius im Elend"
 site_name: "St. Gregorius im Elend"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt-Süd, Germany"
+description: "St. Gregorius im Elend is a notable church building located in the Altstadt-Süd region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

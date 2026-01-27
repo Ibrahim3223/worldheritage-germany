@@ -3,7 +3,7 @@ title: "Rathaus Kyritz"
 site_name: "Rathaus Kyritz"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Kyritz, Landkreis Ostprignitz-Ruppin, Brandenburg"
+description: "The Rathaus Kyritz, located in the heart of Kyritz, Brandenburg, serves as a central hub of civic life and historical significance in this charming German town."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Garten Am Löhlein 2 a in Schweinfurt"
 site_name: "Garten Am Löhlein 2 a in Schweinfurt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-62-000-1 (1) in Schweinfurt, Bavaria"
+description: "In the heart of Schweinfurt, Bavaria, lies a serene sanctuary known as Garten Am Löhlein 2 a."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Kunsthalle Gevelsberg"
 site_name: "Kunsthalle Gevelsberg"
 date: 2026-01-26
 draft: false
-description: "Kunstmuseum in Gevelsberg"
+description: "Kunsthalle Gevelsberg serves as a dynamic platform for contemporary art in the heart of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

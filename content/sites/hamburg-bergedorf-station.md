@@ -3,7 +3,7 @@ title: "Hamburg-Bergedorf station"
 site_name: "Hamburg-Bergedorf station"
 date: 2026-01-26
 draft: false
-description: "railway station in Hamburg, Germany"
+description: "Hamburg-Bergedorf station serves as a vital transport hub in the Bergedorf district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"

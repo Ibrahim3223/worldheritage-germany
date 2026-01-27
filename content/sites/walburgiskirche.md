@@ -3,7 +3,7 @@ title: "Walburgiskirche"
 site_name: "Walburgiskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Walburgiskirche is a notable church building located in the tranquil region of Ostercappeln, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

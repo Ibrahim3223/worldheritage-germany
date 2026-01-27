@@ -3,7 +3,7 @@ title: "Burg Leipferdingen"
 site_name: "Burg Leipferdingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leipferdingen is a captivating castle situated in the charming region of Geisingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

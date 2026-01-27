@@ -3,7 +3,7 @@ title: "Pietàkapelle"
 site_name: "Pietàkapelle"
 date: 2026-01-26
 draft: false
-description: "neogotische Backsteinkapelle in der Bauerschaft Lehmbrock von Ostbevern"
+description: "Pietàkapelle is a captivating chapel located in the peaceful region of Ostbevern, Germany, specifically in the farming community of Lehmbrock."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

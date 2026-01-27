@@ -3,7 +3,7 @@ title: "Neue Synagoge"
 site_name: "Neue Synagoge"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Bingen, Germany"
+description: "The Neue Synagoge, located in Bingen am Rhein, Germany, serves as a poignant chapter in the city's Jewish heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

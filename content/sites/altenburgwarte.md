@@ -3,7 +3,7 @@ title: "Altenburgwarte"
 site_name: "Altenburgwarte"
 date: 2026-01-26
 draft: false
-description: "tower near Quedlinburg, Germany"
+description: "Perched on a hill overlooking the charming town of Quedlinburg, Altenburgwarte is a striking tower that offers visitors not only a glimpse into the region’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

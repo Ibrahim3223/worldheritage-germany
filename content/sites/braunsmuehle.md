@@ -3,7 +3,7 @@ title: "Braunsmühle"
 site_name: "Braunsmühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Kaarst"
+description: "Braunsmühle, a historic windmill located in Kaarst, Germany, serves as a fascinating example of traditional milling technology and rural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

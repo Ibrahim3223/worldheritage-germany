@@ -3,7 +3,7 @@ title: "Saxon Museum of Psychiatry"
 site_name: "Saxon Museum of Psychiatry"
 date: 2026-01-26
 draft: false
-description: "museum in Leipzig"
+description: "The Saxon Museum of Psychiatry, located in Leipzig, Germany, is an intriguing destination that delves into the complex history of mental health treatment..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

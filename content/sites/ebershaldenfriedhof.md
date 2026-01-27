@@ -3,7 +3,7 @@ title: "Ebershaldenfriedhof"
 site_name: "Ebershaldenfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Esslingen am Neckar, Germany"
+description: "Ebershaldenfriedhof, a cemetery located in Esslingen am Neckar, Germany, serves as a poignant reminder of the lives once lived within this historic region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

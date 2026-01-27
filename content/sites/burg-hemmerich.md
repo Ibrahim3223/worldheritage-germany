@@ -3,7 +3,7 @@ title: "Burg Hemmerich"
 site_name: "Burg Hemmerich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hemmerich, a striking castle located in Bornheim, Germany, offers a fascinating glimpse into medieval architecture and heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

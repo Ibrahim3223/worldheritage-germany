@@ -3,7 +3,7 @@ title: "Daniel-Gemeindezentrum"
 site_name: "Daniel-Gemeindezentrum"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Located in the vibrant district of Charlottenburg-Wilmersdorf, Berlin, the Daniel-Gemeindezentrum is a noteworthy church building that reflects the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Stiftung Wredow’sche Zeichenschule"
 site_name: "Stiftung Wredow’sche Zeichenschule"
 date: 2026-01-26
 draft: false
-description: "arts school in Brandenburg an der Havel, Germany"
+description: "The Stiftung Wredow’sche Zeichenschule, located in Brandenburg an der Havel, Germany, serves as a significant institution dedicated to the arts."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "School Building"

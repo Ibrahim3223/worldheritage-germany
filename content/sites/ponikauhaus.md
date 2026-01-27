@@ -3,7 +3,7 @@ title: "Ponikauhaus"
 site_name: "Ponikauhaus"
 date: 2026-01-26
 draft: false
-description: "building in Kempten, Swabia, Germany"
+description: "Ponikauhaus, located in the heart of Kempten, Germany, is an impressive palace that reflects the architectural and cultural heritage of the Swabian region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

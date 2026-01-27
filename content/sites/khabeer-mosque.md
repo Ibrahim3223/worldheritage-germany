@@ -3,7 +3,7 @@ title: "Khabeer Mosque"
 site_name: "Khabeer Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Pfungstadt, Germany"
+description: "The Khabeer Mosque, located in the town of Pfungstadt, Germany, serves as a vital center for the local Muslim community, exemplifying cultural and religious..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Hessisches Forstmuseum Alte Fasanerie"
 site_name: "Hessisches Forstmuseum Alte Fasanerie"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hessisches Forstmuseum Alte Fasanerie invites visitors to explore the intricate relationship between humans and nature within the context of forestry..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bachtor"
 site_name: "Bachtor"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Stadttor, später Windmühle, in Köln"
+description: "Bachtor, a historic city gate in Cologne, Germany, represents an intriguing intersection of urban architecture and historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

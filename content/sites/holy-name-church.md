@@ -3,7 +3,7 @@ title: "Holy Name Church"
 site_name: "Holy Name Church"
 date: 2026-01-26
 draft: false
-description: "Bonn"
+description: "Holy Name Church, located in the Stadtbezirk Bonn region of Germany, stands as a significant religious and architectural landmark."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

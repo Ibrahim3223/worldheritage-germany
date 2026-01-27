@@ -3,7 +3,7 @@ title: "Straßenbrücke Waldheim"
 site_name: "Straßenbrücke Waldheim"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke Waldheim, a striking bridge located in the charming town of Waldheim, Germany, serves as a vital connection for both locals and visitors..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

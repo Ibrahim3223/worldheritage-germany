@@ -3,7 +3,7 @@ title: "St. Nicolaus (Nedlitz)"
 site_name: "St. Nicolaus (Nedlitz)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Nicolaus in Nedlitz, located in the tranquil region of Gommern, Germany, is a notable example of ecclesiastical architecture that invites visitors to..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

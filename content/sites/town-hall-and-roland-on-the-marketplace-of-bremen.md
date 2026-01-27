@@ -3,7 +3,7 @@ title: "Town Hall and Roland on the Marketplace of Bremen"
 site_name: "Town Hall and Roland on the Marketplace of Bremen"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Town Hall and Roland on the Marketplace of Bremen is a striking cultural heritage ensemble that embodies the city's rich history and remarkable..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Cultural Heritage Ensemble"

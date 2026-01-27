@@ -3,7 +3,7 @@ title: "Ecker Sattel"
 site_name: "Ecker Sattel"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Ecker Sattel, a notable mountain pass in Germany, offers visitors a unique blend of natural beauty and cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

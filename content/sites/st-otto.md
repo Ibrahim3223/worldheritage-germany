@@ -3,7 +3,7 @@ title: "St. Otto"
 site_name: "St. Otto"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "St. Otto is a striking church building located in the Steglitz-Zehlendorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

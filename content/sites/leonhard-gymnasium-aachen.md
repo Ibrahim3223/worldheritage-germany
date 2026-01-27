@@ -3,7 +3,7 @@ title: "Leonhard-Gymnasium Aachen"
 site_name: "Leonhard-Gymnasium Aachen"
 date: 2026-01-26
 draft: false
-description: "school in Germany"
+description: "Leonhard-Gymnasium Aachen, located in the heart of Aachen-Mitte, Germany, is more than just a school; it is a cultural institution that embodies the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"

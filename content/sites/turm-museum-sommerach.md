@@ -3,7 +3,7 @@ title: "Turm-Museum Sommerach"
 site_name: "Turm-Museum Sommerach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Turm-Museum Sommerach invites visitors to explore the cultural heritage of the region through its unique exhibits and historical artifacts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

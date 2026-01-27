@@ -3,7 +3,7 @@ title: "Museum Alte Lateinschule"
 site_name: "Museum Alte Lateinschule"
 date: 2026-01-26
 draft: false
-description: "museum in Großenhain, Germany"
+description: "The Museum Alte Lateinschule, situated in Großenhain, Germany, serves as a unique cultural and educational hub that showcases the area’s historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

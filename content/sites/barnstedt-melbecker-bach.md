@@ -3,7 +3,7 @@ title: "Barnstedt-Melbecker Bach"
 site_name: "Barnstedt-Melbecker Bach"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "The Barnstedt-Melbecker Bach nature reserve is a pristine slice of Lower Saxony, Germany, offering visitors a glimpse into the region's diverse ecosystems..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

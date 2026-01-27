@@ -3,7 +3,7 @@ title: "Burg Neidenfels"
 site_name: "Burg Neidenfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neidenfels, a captivating castle located in the picturesque region of Neidenfels, Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

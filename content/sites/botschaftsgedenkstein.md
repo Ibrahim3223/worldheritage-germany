@@ -3,7 +3,7 @@ title: "Botschaftsgedenkstein"
 site_name: "Botschaftsgedenkstein"
 date: 2026-01-26
 draft: false
-description: "Denkmal"
+description: "The Botschaftsgedenkstein, located in the Kyffhäuserkreis region of Germany, serves as an evocative memorial, capturing the essence of historical reflection..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

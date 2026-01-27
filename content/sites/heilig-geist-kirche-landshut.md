@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kirche (Landshut)"
 site_name: "Heilig-Geist-Kirche (Landshut)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Geist-Kirche, or the Church of the Holy Spirit, is a striking church building located in the historical city of Landshut, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

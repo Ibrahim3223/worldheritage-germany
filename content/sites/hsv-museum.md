@@ -3,7 +3,7 @@ title: "HSV-Museum"
 site_name: "HSV-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The HSV-Museum in Hamburg, Germany, serves as a dedicated space that showcases the history and essence of one of the country’s most cherished football..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

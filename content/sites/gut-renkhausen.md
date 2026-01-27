@@ -3,7 +3,7 @@ title: "Gut Renkhausen"
 site_name: "Gut Renkhausen"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus im Stadtteil Gehlenbeck der Stadt Lübbecke"
+description: "Gut Renkhausen is a distinguished manor house located in the Gehlenbeck district of Lübbecke, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

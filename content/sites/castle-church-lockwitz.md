@@ -3,7 +3,7 @@ title: "Castle Church Lockwitz"
 site_name: "Castle Church Lockwitz"
 date: 2026-01-26
 draft: false
-description: "Protestant church in Dresden, Saxony, Germany"
+description: "Castle Church Lockwitz, a notable Protestant church located in the charming city of Dresden, Saxony, Germany, stands as a significant landmark that reflects..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

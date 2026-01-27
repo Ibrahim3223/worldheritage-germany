@@ -3,7 +3,7 @@ title: "Minster Breisach"
 site_name: "Minster Breisach"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Minster Breisach, an iconic church building located in the charming town of Breisach, Germany, stands as a significant landmark that reflects the rich..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

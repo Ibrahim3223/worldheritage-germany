@@ -3,7 +3,7 @@ title: "Rathenaustraße 10"
 site_name: "Rathenaustraße 10"
 date: 2026-01-26
 draft: false
-description: "architectural ensemble in Quedlinburg, Germany"
+description: "Rathenaustraße 10 is an architectural ensemble located in the historic town of Quedlinburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

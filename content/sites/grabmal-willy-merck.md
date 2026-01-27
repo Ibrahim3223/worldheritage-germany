@@ -3,7 +3,7 @@ title: "Grabmal Willy Merck"
 site_name: "Grabmal Willy Merck"
 date: 2026-01-26
 draft: false
-description: "Grabmal in Darmstadt"
+description: "In the heart of Darmstadt, Germany, lies the Grabmal Willy Merck, an evocative tomb that encapsulates the somber beauty of memorial architecture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"

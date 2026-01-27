@@ -3,7 +3,7 @@ title: "Dinotherium-Museum"
 site_name: "Dinotherium-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Eppelsheim"
+description: "The Dinotherium-Museum in Eppelsheim, Germany, offers a unique glimpse into the prehistoric world through the lens of one of its most fascinating creatures:..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

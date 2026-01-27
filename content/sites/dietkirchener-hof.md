@@ -3,7 +3,7 @@ title: "Dietkirchener Hof"
 site_name: "Dietkirchener Hof"
 date: 2026-01-26
 draft: false
-description: "building in Urfeld, Germany"
+description: "Situated in the quaint town of Urfeld, Germany, the Dietkirchener Hof is a remarkable example of a historic manor house that reflects the architectural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

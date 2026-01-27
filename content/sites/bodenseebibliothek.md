@@ -3,7 +3,7 @@ title: "Bodenseebibliothek"
 site_name: "Bodenseebibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Bodenseebibliothek in Friedrichshafen, Germany, serves as a vital cultural institution within the picturesque region surrounding Lake Constance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

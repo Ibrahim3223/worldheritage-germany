@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Dommelstadl)"
 site_name: "Dreifaltigkeitskirche (Dommelstadl)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dreifaltigkeitskirche, located in the tranquil village of Dommelstadl, Germany, is a notable example of ecclesiastical architecture that attracts visitors..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

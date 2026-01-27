@@ -3,7 +3,7 @@ title: "Altes Schleifer Teichgelände"
 site_name: "Altes Schleifer Teichgelände"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Sachsen, Germany"
+description: "Altes Schleifer Teichgelände, a designated nature reserve located in the Schleife region of Sachsen, Germany, presents a serene retreat for nature..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

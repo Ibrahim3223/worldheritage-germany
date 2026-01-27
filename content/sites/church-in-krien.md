@@ -3,7 +3,7 @@ title: "Church in Krien"
 site_name: "Church in Krien"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Krien is an intriguing site that offers a glimpse into Germany’s religious architecture and cultural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

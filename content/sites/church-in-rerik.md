@@ -3,7 +3,7 @@ title: "Church in Rerik"
 site_name: "Church in Rerik"
 date: 2026-01-26
 draft: false
-description: "church building in Rerik, Germany"
+description: "The Church in Rerik stands as an important landmark in the quaint coastal town of Rerik, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

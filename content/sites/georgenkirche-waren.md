@@ -3,7 +3,7 @@ title: "Georgenkirche Waren"
 site_name: "Georgenkirche Waren"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Georgenkirche Waren is a significant church building located in the charming town of Waren, situated in the Mecklenburg-Vorpommern region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

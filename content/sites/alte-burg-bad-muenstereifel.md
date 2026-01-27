@@ -3,7 +3,7 @@ title: "Alte Burg (Bad Münstereifel)"
 site_name: "Alte Burg (Bad Münstereifel)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Alte Burg, located in the charming town of Bad Münstereifel, Germany, is an evocative remnant of medieval architecture, offering visitors a glimpse into..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

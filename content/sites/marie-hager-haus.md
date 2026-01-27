@@ -3,7 +3,7 @@ title: "Marie-Hager-Haus"
 site_name: "Marie-Hager-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Marie-Hager-Haus is a museum located in Burg Stargard, Germany, that invites visitors to engage with the local heritage and cultural narratives of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

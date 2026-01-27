@@ -3,7 +3,7 @@ title: "Mainzer Sand"
 site_name: "Mainzer Sand"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Rheinland-Pfalz, Germany"
+description: "Mainzer Sand is a nature reserve located in the picturesque region of Rheinland-Pfalz, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

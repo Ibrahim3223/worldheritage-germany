@@ -3,7 +3,7 @@ title: "Traktoren-Museum Großenkneten"
 site_name: "Traktoren-Museum Großenkneten"
 date: 2026-01-26
 draft: false
-description: "former museum in Germany"
+description: "The Traktoren-Museum Großenkneten is a fascinating museum dedicated to the world of tractors and agricultural machinery, situated in the charming town of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

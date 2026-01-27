@@ -3,7 +3,7 @@ title: "Museum Freihof"
 site_name: "Museum Freihof"
 date: 2026-01-26
 draft: false
-description: "museum in Haslach im Kinzigtal, Germany"
+description: "Museum Freihof, located in the charming town of Haslach im Kinzigtal, Germany, serves as a captivating portal into the region's cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

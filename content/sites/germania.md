@@ -3,7 +3,7 @@ title: "Germania"
 site_name: "Germania"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-114-30 (0) in Bad Kissingen, Bavaria"
+description: "In the heart of Bavaria, Germany, lies Germania, a striking statue that serves as a cultural heritage monument in Bad Kissingen."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

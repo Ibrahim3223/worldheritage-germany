@@ -3,7 +3,7 @@ title: "Schlenkerla"
 site_name: "Schlenkerla"
 date: 2026-01-26
 draft: false
-description: "German Brewery"
+description: "In the heart of Bamberg, Germany, Schlenkerla stands as a celebrated brewery known for its traditional brewing methods and distinctive smoked beer."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

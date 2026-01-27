@@ -3,7 +3,7 @@ title: "Grocers' Apartments"
 site_name: "Grocers' Apartments"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Grocers' Apartments, located in the heart of Hamburg-Mitte, Germany, serve as a unique museum that showcases the historical significance of urban life..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

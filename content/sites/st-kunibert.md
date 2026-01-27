@@ -3,7 +3,7 @@ title: "St. Kunibert"
 site_name: "St. Kunibert"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Kunibert, a notable church building located in Erftstadt, Germany, serves as a significant landmark for both religious and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

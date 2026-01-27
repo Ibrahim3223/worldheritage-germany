@@ -3,7 +3,7 @@ title: "Kloster Brunshausen"
 site_name: "Kloster Brunshausen"
 date: 2026-01-26
 draft: false
-description: "former monastery, now museum in Bad Gandersheim, Germany"
+description: "Kloster Brunshausen, located in the charming town of Bad Gandersheim, Germany, serves as a unique repository of history and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

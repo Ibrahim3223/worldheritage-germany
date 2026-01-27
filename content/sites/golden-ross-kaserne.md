@@ -3,7 +3,7 @@ title: "Golden-Ross-Kaserne"
 site_name: "Golden-Ross-Kaserne"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Golden-Ross-Kaserne is a noteworthy museum located in Mainz, Germany. This cultural institution serves as a significant repository of history, providing..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

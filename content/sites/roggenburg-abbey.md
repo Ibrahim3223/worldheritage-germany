@@ -3,7 +3,7 @@ title: "Roggenburg Abbey"
 site_name: "Roggenburg Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Roggenburg Abbey, a serene monastery located in the heart of Germany, invites visitors to immerse themselves in a space of tranquility and reflection."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

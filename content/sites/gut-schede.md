@@ -3,7 +3,7 @@ title: "Gut Schede"
 site_name: "Gut Schede"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Gut Schede is a remarkable architectural ensemble located in Herdecke, Germany, that captures the essence of the region's historical and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

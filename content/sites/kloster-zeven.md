@@ -3,7 +3,7 @@ title: "Kloster Zeven"
 site_name: "Kloster Zeven"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kloster Zeven is a serene monastery located in the quaint town of Zeven, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

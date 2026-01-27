@@ -3,7 +3,7 @@ title: "Dorfmuseum Poppenweiler"
 site_name: "Dorfmuseum Poppenweiler"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Poppenweiler offers visitors a unique glimpse into the cultural heritage of a quaint German village."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

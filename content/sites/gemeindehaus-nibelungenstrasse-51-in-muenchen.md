@@ -3,7 +3,7 @@ title: "Gemeindehaus Nibelungenstraße 51 in München"
 site_name: "Gemeindehaus Nibelungenstraße 51 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-4745 (1) in München, Bavaria"
+description: "In the heart of Munich, the Gemeindehaus Nibelungenstraße 51 stands as a key cultural heritage monument, reflecting the city's architectural charm and civic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

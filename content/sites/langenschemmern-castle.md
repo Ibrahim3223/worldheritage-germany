@@ -3,7 +3,7 @@ title: "Langenschemmern Castle"
 site_name: "Langenschemmern Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Langenschemmern Castle, located in the quaint region of Schemmerhofen, Germany, is a remarkable example of medieval architecture that invites visitors to..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Museum der Badekultur, Zülpich"
 site_name: "Museum der Badekultur, Zülpich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der Badekultur in Zülpich offers an engaging exploration of the history and evolution of bathing culture, set against the backdrop of a town with..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

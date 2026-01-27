@@ -3,7 +3,7 @@ title: "Hutmuseum Nürnberg"
 site_name: "Hutmuseum Nürnberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Nuremberg, Germany, the Hutmuseum Nürnberg invites visitors to explore the intriguing world of hats and headwear."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

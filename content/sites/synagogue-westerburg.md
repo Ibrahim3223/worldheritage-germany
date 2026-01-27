@@ -3,7 +3,7 @@ title: "Synagogue Westerburg"
 site_name: "Synagogue Westerburg"
 date: 2026-01-26
 draft: false
-description: "synagogue in Westerburg, Germnay"
+description: "The Synagogue Westerburg, located in the charming town of Westerburg in Rhineland-Palatinate, Germany, serves as a poignant reminder of the region's Jewish..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

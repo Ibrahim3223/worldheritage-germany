@@ -3,7 +3,7 @@ title: "St.-Nikolaus-Kirche (Artländer Dom, Ankum)"
 site_name: "St.-Nikolaus-Kirche (Artländer Dom, Ankum)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "St.-Nikolaus-Kirche, often referred to as the Artländer Dom, stands as a striking architectural landmark in the quaint town of Ankum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

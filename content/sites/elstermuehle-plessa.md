@@ -3,7 +3,7 @@ title: "Elstermühle Plessa"
 site_name: "Elstermühle Plessa"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Elstermühle Plessa is a unique museum located in the quaint town of Plessa, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Fulda monastery"
 site_name: "Fulda monastery"
 date: 2026-01-26
 draft: false
-description: "Abbey in Germany"
+description: "The Fulda Monastery, located in the heart of Germany, represents a significant chapter in the story of monastic life and religious influence in Europe."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

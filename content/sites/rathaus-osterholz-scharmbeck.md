@@ -3,7 +3,7 @@ title: "Rathaus Osterholz-Scharmbeck"
 site_name: "Rathaus Osterholz-Scharmbeck"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Osterholz-Scharmbeck"
+description: "Rathaus Osterholz-Scharmbeck serves as a pivotal center of governance and community engagement in the town of Osterholz-Scharmbeck, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "City Hall"

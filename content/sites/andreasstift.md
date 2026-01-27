@@ -3,7 +3,7 @@ title: "Andreasstift"
 site_name: "Andreasstift"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Worms, Germany, lies Andreasstift, a monastery with a profound historical legacy that invites visitors to explore its ecclesiastical heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

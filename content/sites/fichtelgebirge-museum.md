@@ -3,7 +3,7 @@ title: "Fichtelgebirge Museum"
 site_name: "Fichtelgebirge Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Wunsiedel, Bavaria, Germany"
+description: "The Fichtelgebirge Museum, located in Wunsiedel, Bavaria, Germany, serves as a gateway to the natural and cultural heritage of the Fichtelgebirge region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

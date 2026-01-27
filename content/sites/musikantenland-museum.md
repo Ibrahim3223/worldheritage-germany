@@ -3,7 +3,7 @@ title: "Musikantenland Museum"
 site_name: "Musikantenland Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Musikantenland Museum invites visitors to explore the rich musical heritage of the Thallichtenberg region in Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

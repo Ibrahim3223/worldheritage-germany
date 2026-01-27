@@ -3,7 +3,7 @@ title: "Großes Seeloch"
 site_name: "Großes Seeloch"
 date: 2026-01-26
 draft: false
-description: "lake in Werther, Germany"
+description: "Großes Seeloch, a picturesque lake located in the charming town of Werther, Germany, offers visitors a serene escape into nature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

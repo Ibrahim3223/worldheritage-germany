@@ -3,7 +3,7 @@ title: "Kühnauer Park"
 site_name: "Kühnauer Park"
 date: 2026-01-26
 draft: false
-description: "park in Dessau-Roßlau, Saxony-Anhalt, Germany"
+description: "Kühnauer Park is a serene urban park located in the city of Dessau-Roßlau, in the Saxony-Anhalt region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

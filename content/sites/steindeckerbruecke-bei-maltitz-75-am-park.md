@@ -3,7 +3,7 @@ title: "Steindeckerbrücke bei Maltitz 75 (am Park)"
 site_name: "Steindeckerbrücke bei Maltitz 75 (am Park)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke bei Maltitz 75, located in the Weißenberg region of Germany, is a striking example of functional architecture that serves as both a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

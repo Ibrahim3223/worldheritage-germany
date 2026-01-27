@@ -3,7 +3,7 @@ title: "Jülich sugar refinery"
 site_name: "Jülich sugar refinery"
 date: 2026-01-26
 draft: false
-description: "Zuckerunternehmen"
+description: "The Jülich sugar refinery, located in the heart of Germany, serves as a significant site within the industrial heritage landscape of the country."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Factory"

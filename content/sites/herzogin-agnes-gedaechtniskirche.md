@@ -3,7 +3,7 @@ title: "Herzogin-Agnes-Gedächtniskirche"
 site_name: "Herzogin-Agnes-Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Altenburg, Thuringia, Germany"
+description: "The Herzogin-Agnes-Gedächtniskirche, a church building located in Altenburg, Thuringia, Germany, is a notable place of worship and a significant part of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

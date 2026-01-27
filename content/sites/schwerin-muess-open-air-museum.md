@@ -3,7 +3,7 @@ title: "Schwerin-Mueß Open Air Museum"
 site_name: "Schwerin-Mueß Open Air Museum"
 date: 2026-01-26
 draft: false
-description: "museum village near Schwerin, Mecklenburg-Western Pomerania, Germany"
+description: "The Schwerin-Mueß Open Air Museum invites visitors to immerse themselves in the rural heritage of Mecklenburg-Western Pomerania, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

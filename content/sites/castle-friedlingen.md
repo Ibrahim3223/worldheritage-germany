@@ -3,7 +3,7 @@ title: "Castle Friedlingen"
 site_name: "Castle Friedlingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Castle Friedlingen, located in the scenic region of Weil am Rhein, Germany, stands as a significant architectural landmark that captures the essence of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Saint Giles church (Lübeck)"
 site_name: "Saint Giles church (Lübeck)"
 date: 2026-01-26
 draft: false
-description: "church in Lübeck (Schleswig-Holstein, Germany)"
+description: "Saint Giles Church, located in Lübeck's Old City, is a notable church building that captures the essence of the region's architectural heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

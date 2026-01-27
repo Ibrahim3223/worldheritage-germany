@@ -3,7 +3,7 @@ title: "Brücke über den Dittmannsdorfer Bach Dittmannsdorf"
 site_name: "Brücke über den Dittmannsdorfer Bach Dittmannsdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über den Dittmannsdorfer Bach in Dittmannsdorf is a remarkable example of a bridge that not only serves a practical purpose but also embodies the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

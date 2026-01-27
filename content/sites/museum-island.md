@@ -3,7 +3,7 @@ title: "Museum Island"
 site_name: "Museum Island"
 date: 2026-01-26
 draft: false
-description: "northern part of Spree Island in the Spree river in central Berlin"
+description: "Museum Island, located in the central part of Berlin on the northern section of Spree Island, is a UNESCO World Heritage site that showcases the city's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tourist Attraction"

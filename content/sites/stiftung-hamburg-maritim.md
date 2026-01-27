@@ -3,7 +3,7 @@ title: "Stiftung Hamburg Maritim"
 site_name: "Stiftung Hamburg Maritim"
 date: 2026-01-26
 draft: false
-description: "German maritime foundation"
+description: "Stiftung Hamburg Maritim is a prominent German maritime foundation located in the heart of Hamburg, a city renowned for its rich maritime history and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

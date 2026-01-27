@@ -3,7 +3,7 @@ title: "Library and media center of the Palatine protestant churches"
 site_name: "Library and media center of the Palatine protestant churches"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library and Media Center of the Palatine Protestant Churches in Speyer, Germany, is more than just a repository of books; it serves as a vital hub for..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

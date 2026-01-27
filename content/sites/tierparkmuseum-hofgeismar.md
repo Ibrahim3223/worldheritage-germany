@@ -3,7 +3,7 @@ title: "Tierparkmuseum Hofgeismar"
 site_name: "Tierparkmuseum Hofgeismar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tierparkmuseum Hofgeismar is a unique museum located in the picturesque town of Hofgeismar, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

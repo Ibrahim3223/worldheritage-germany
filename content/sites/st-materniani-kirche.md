@@ -3,7 +3,7 @@ title: "St.-Materniani-Kirche"
 site_name: "St.-Materniani-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Materniani-Kirche, located in the quaint village of Ochtersum, Germany, is a noteworthy church building that reflects the spiritual and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

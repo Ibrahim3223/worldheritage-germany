@@ -3,7 +3,7 @@ title: "Wilhelm-Dörpfeld-Gymnasium"
 site_name: "Wilhelm-Dörpfeld-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "high school (gymnasium) in Wuppertal-Elberfeld"
+description: "The Wilhelm-Dörpfeld-Gymnasium stands as a prominent institution in Wuppertal-Elberfeld, Germany, reflecting the value placed on education and community in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

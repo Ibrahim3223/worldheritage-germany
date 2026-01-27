@@ -3,7 +3,7 @@ title: "Bethlehem-Kirche"
 site_name: "Bethlehem-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Eimsbüttel, a vibrant district of Hamburg, Germany, stands the Bethlehem-Kirche, a church that serves as an important landmark in the local..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

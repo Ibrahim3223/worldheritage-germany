@@ -3,7 +3,7 @@ title: "Naxburg"
 site_name: "Naxburg"
 date: 2026-01-26
 draft: false
-description: "mountain in Hesse, Germany"
+description: "Naxburg, an impressive castle located in the picturesque region of Freiensteinau, Germany, offers visitors a glimpse into a captivating past while nestled..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

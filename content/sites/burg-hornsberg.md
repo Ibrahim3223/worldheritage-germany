@@ -3,7 +3,7 @@ title: "Burg Hornsberg"
 site_name: "Burg Hornsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hornsberg, a historic castle situated in Heringen, Germany, invites visitors to explore its medieval charm and architectural significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

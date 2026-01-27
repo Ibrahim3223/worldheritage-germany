@@ -3,7 +3,7 @@ title: "Kapelle Bessin"
 site_name: "Kapelle Bessin"
 date: 2026-01-26
 draft: false
-description: "chapel in Rambin, Germany"
+description: "Kapelle Bessin, a quaint chapel located in the tranquil village of Rambin, Germany, serves as a serene spot for visitors and worshippers alike."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

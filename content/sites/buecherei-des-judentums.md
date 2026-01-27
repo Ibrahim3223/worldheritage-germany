@@ -3,7 +3,7 @@ title: "Bücherei des Judentums"
 site_name: "Bücherei des Judentums"
 date: 2026-01-26
 draft: false
-description: "Special library about judaism"
+description: "The Bücherei des Judentums, or the Library of Judaism, serves as a vital repository dedicated to the study and preservation of Jewish culture and history in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

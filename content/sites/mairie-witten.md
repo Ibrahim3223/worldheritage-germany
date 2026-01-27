@@ -3,7 +3,7 @@ title: "Mairie Witten"
 site_name: "Mairie Witten"
 date: 2026-01-26
 draft: false
-description: "ehemalige Verwaltungseinheit im Raum Witten, Nordrhein-Westfalen, Deutschland"
+description: "Mairie Witten, the historical city hall of Witten, Germany, stands as a notable landmark in the region of North Rhine-Westphalia."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

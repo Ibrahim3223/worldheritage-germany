@@ -3,7 +3,7 @@ title: "Hausgarten des Wohnhauses Dürerstraße 28A"
 site_name: "Hausgarten des Wohnhauses Dürerstraße 28A"
 date: 2026-01-26
 draft: false
-description: "garden in Steglitz-Zehlendorf, Germany"
+description: "The Hausgarten des Wohnhauses Dürerstraße 28A offers a serene escape within the bustling urban environment of Steglitz-Zehlendorf, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"

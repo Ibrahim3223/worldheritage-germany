@@ -3,7 +3,7 @@ title: "Historical Council Library"
 site_name: "Historical Council Library"
 date: 2026-01-26
 draft: false
-description: "library in Weißenburg, Bavaria"
+description: "The Historical Council Library, located in Weißenburg in Bayern, Germany, serves as a vital resource for scholars, researchers, and the general public."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "St. Bruno"
 site_name: "St. Bruno"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Unterrath, Germany"
+description: "St. Bruno, located in Düsseldorf-Unterrath, Germany, is a notable church building that encapsulates the spiritual and architectural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

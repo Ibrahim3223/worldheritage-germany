@@ -3,7 +3,7 @@ title: "Leibgrenadierdenkmal"
 site_name: "Leibgrenadierdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Karlsruhe, Germany"
+description: "The Leibgrenadierdenkmal, located in Karlsruhe, Germany, serves as an evocative monument that commemorates the Leib Grenadier Regiment."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

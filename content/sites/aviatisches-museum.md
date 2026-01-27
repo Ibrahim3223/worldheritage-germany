@@ -3,7 +3,7 @@ title: "Aviatisches Museum"
 site_name: "Aviatisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Aviatisches Museum, situated in the captivating city of Berlin, serves as an intriguing destination for aviation enthusiasts and history buffs alike."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

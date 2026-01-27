@@ -3,7 +3,7 @@ title: "Schloss Nöthnitz"
 site_name: "Schloss Nöthnitz"
 date: 2026-01-26
 draft: false
-description: "château near Dresden, Germany"
+description: "Schloss Nöthnitz, an enchanting château located near Dresden, Germany, presents a unique opportunity to explore the intersection of history and culture in a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

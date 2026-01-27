@@ -3,7 +3,7 @@ title: "Geroldsau Waterfall"
 site_name: "Geroldsau Waterfall"
 date: 2026-01-26
 draft: false
-description: "Waterfall in Geroldsau"
+description: "Geroldsau Waterfall, a picturesque natural feature located in the Baden-Baden region of Germany, offers visitors a serene and enchanting retreat into the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

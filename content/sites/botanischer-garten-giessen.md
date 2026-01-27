@@ -3,7 +3,7 @@ title: "Botanischer Garten Gießen"
 site_name: "Botanischer Garten Gießen"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "In the heart of Giessen, Germany, the Botanischer Garten Gießen invites visitors into a vibrant world of botanical diversity."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

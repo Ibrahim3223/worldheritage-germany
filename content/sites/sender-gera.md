@@ -3,7 +3,7 @@ title: "Sender Gera"
 site_name: "Sender Gera"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Gera is a notable tower located in the city of Gera, Germany. This structure stands as a significant landmark within the region, drawing visitors who..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

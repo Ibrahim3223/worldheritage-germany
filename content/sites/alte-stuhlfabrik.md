@@ -3,7 +3,7 @@ title: "Alte Stuhlfabrik"
 site_name: "Alte Stuhlfabrik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Alte Stuhlfabrik, a captivating museum located in Neuhausen, Germany, offers visitors a unique opportunity to explore the rich history of furniture..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

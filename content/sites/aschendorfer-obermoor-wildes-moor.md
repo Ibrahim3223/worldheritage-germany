@@ -3,7 +3,7 @@ title: "Aschendorfer Obermoor / Wildes Moor"
 site_name: "Aschendorfer Obermoor / Wildes Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Aschendorfer Obermoor, also known as Wildes Moor, is a remarkable nature reserve located in Papenburg, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

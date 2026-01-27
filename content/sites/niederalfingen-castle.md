@@ -3,7 +3,7 @@ title: "Niederalfingen Castle"
 site_name: "Niederalfingen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Niederalfingen Castle, a captivating example of German heritage, invites visitors to explore its storied past and architectural elegance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

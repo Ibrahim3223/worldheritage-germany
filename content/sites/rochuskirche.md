@@ -3,7 +3,7 @@ title: "Rochuskirche"
 site_name: "Rochuskirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Pempelfort, Germany"
+description: "Rochuskirche, located in the vibrant district of Pempelfort in Düsseldorf, Germany, is a striking example of religious architecture that attracts visitors..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

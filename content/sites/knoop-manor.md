@@ -3,7 +3,7 @@ title: "Knoop Manor"
 site_name: "Knoop Manor"
 date: 2026-01-26
 draft: false
-description: "manor house in Altenholz, Germany"
+description: "Knoop Manor, located in the serene region of Altenholz, Germany, invites visitors into a world of elegance and historical charm."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

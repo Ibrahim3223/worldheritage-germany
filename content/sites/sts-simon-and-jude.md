@@ -3,7 +3,7 @@ title: "Sts. Simon and Jude"
 site_name: "Sts. Simon and Jude"
 date: 2026-01-26
 draft: false
-description: "church in Reken, Germany"
+description: "Sts. Simon and Jude is a remarkable church located in Reken, Germany, that serves as both a spiritual hub and a museum, inviting visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

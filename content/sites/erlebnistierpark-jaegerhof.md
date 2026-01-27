@@ -3,7 +3,7 @@ title: "Erlebnistierpark Jägerhof"
 site_name: "Erlebnistierpark Jägerhof"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Erlebnistierpark Jägerhof is a distinctive zoo located in the charming town of Pfullendorf, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

@@ -3,7 +3,7 @@ title: "Burg Neukrenkingen"
 site_name: "Burg Neukrenkingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neukrenkingen serves as a striking example of medieval architecture and historical significance in the Baden-Württemberg region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

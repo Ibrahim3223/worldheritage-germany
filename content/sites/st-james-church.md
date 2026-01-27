@@ -3,7 +3,7 @@ title: "St. James' Church"
 site_name: "St. James' Church"
 date: 2026-01-26
 draft: false
-description: "one of Hamburg's main churches"
+description: "St. James' Church, a prominent landmark in Hamburg-Mitte, embodies the spiritual and architectural heritage of the city."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

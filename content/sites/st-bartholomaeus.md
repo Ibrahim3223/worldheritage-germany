@@ -3,7 +3,7 @@ title: "St. Bartholomäus"
 site_name: "St. Bartholomäus"
 date: 2026-01-26
 draft: false
-description: "church building in Wilster, Schleswig-Holstein, Germany"
+description: "St. Bartholomäus in Wilster, Schleswig-Holstein, Germany, is a remarkable church building that serves as both a spiritual haven and an architectural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

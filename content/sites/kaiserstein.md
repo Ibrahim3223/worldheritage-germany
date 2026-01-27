@@ -3,7 +3,7 @@ title: "Kaiserstein"
 site_name: "Kaiserstein"
 date: 2026-01-26
 draft: false
-description: "Stone tablet emperor Wilhelm I visited Hemmingen castle in 1885"
+description: "Kaiserstein, located in Hemmingen, Germany, is a monument that commemorates a significant historical visit by Emperor Wilhelm I to the Hemmingen castle in 1885."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

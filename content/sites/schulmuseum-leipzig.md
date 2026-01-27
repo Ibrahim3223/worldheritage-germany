@@ -3,7 +3,7 @@ title: "Schulmuseum Leipzig"
 site_name: "Schulmuseum Leipzig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schulmuseum Leipzig is a remarkable institution situated in the vibrant city of Leipzig, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

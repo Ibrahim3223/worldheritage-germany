@@ -3,7 +3,7 @@ title: "Synagogue Bonn"
 site_name: "Synagogue Bonn"
 date: 2026-01-26
 draft: false
-description: "only synagogue of Bonn, Germany"
+description: "The Synagogue Bonn, the only synagogue in Bonn, Germany, serves as a poignant reminder of the Jewish community's history in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

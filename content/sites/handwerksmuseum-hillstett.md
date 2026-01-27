@@ -3,7 +3,7 @@ title: "Handwerksmuseum Hillstett"
 site_name: "Handwerksmuseum Hillstett"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Handwerksmuseum Hillstett is a captivating museum located in Rötz, Germany, that delves into the fascinating world of traditional crafts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

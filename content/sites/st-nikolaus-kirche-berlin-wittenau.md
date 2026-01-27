@@ -3,7 +3,7 @@ title: "St.-Nikolaus-Kirche (Berlin-Wittenau)"
 site_name: "St.-Nikolaus-Kirche (Berlin-Wittenau)"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "St.-Nikolaus-Kirche, located in the Reinickendorf district of Berlin, is a significant church building that captures the essence of the area’s architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

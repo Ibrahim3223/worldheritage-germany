@@ -3,7 +3,7 @@ title: "Stadtkirche Feldberg"
 site_name: "Stadtkirche Feldberg"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Stadtkirche Feldberg is a significant church building located in the picturesque region of Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

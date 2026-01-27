@@ -3,7 +3,7 @@ title: "Gut Strecknitz"
 site_name: "Gut Strecknitz"
 date: 2026-01-26
 draft: false
-description: "building near Lübeck, Germany"
+description: "Gut Strecknitz is a remarkable manor house located near Lübeck, Germany. This historic building embodies the architectural and cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

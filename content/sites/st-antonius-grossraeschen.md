@@ -3,7 +3,7 @@ title: "St. Antonius (Großräschen)"
 site_name: "St. Antonius (Großräschen)"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state"
+description: "St. Antonius in Großräschen, Germany, stands as a notable landmark within the Brandenburg state, representing the region's rich ecclesiastical heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

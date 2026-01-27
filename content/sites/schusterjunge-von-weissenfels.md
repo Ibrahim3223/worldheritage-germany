@@ -3,7 +3,7 @@ title: "Schusterjunge von Weißenfels"
 site_name: "Schusterjunge von Weißenfels"
 date: 2026-01-26
 draft: false
-description: "statue in Weißenfels, Germany"
+description: "The Schusterjunge von Weißenfels, a captivating statue located in the heart of Weißenfels, Germany, serves as a prominent symbol of the town's cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"

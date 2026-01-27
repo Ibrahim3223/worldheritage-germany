@@ -3,7 +3,7 @@ title: "Burg Killer"
 site_name: "Burg Killer"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Killer, a striking castle located in the picturesque region of Killer in Germany, serves as a remarkable landmark that invites visitors to explore its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

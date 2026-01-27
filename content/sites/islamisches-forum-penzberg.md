@@ -3,7 +3,7 @@ title: "Islamisches Forum Penzberg"
 site_name: "Islamisches Forum Penzberg"
 date: 2026-01-26
 draft: false
-description: "building in Penzberg, Upper Bavaria, Germany"
+description: "The Islamisches Forum Penzberg stands as a significant cultural and religious site in Upper Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Landgrafenhaus"
 site_name: "Landgrafenhaus"
 date: 2026-01-26
 draft: false
-description: "building in Bad Nenndorf, Germany"
+description: "Landgrafenhaus, a historic palace located in Bad Nenndorf, Germany, serves as a significant cultural landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "St. Korbinian"
 site_name: "St. Korbinian"
 date: 2026-01-26
 draft: false
-description: "church building in Munich, Upper Bavaria, Germany"
+description: "St. Korbinian is a remarkable church building located in Munich, the capital city of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Kozlowski-Denkmal"
 site_name: "Kozlowski-Denkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Magdeburg, Germany"
+description: "The Kozlowski-Denkmal stands as a prominent memorial in Magdeburg, Germany, capturing the attention of locals and visitors alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

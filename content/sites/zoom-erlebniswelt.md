@@ -3,7 +3,7 @@ title: "ZOOM Erlebniswelt"
 site_name: "ZOOM Erlebniswelt"
 date: 2026-01-26
 draft: false
-description: "zoological garden in Gelsenkirchen, in Germany"
+description: "Located in the heart of Gelsenkirchen, Germany, ZOOM Erlebniswelt is a unique zoological garden that offers visitors an engaging and immersive experience..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

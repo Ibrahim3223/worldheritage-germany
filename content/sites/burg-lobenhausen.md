@@ -3,7 +3,7 @@ title: "Burg Lobenhausen"
 site_name: "Burg Lobenhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lobenhausen, a captivating castle located in the picturesque region of Lobenhausen, Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

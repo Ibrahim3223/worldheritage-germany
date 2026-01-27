@@ -3,7 +3,7 @@ title: "Kakus cave"
 site_name: "Kakus cave"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Kakus Cave, located in the Mechernich region of Germany, offers a unique glimpse into the natural beauty and geological significance of the area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "St. Johann von Capistran"
 site_name: "St. Johann von Capistran"
 date: 2026-01-26
 draft: false
-description: "church building in Bogenhausen, Upper Bavaria, Germany"
+description: "St. Johann von Capistran, a striking church building located in the Bogenhausen district of Munich, Germany, serves as a significant landmark that reflects..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

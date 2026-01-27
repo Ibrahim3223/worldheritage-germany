@@ -3,7 +3,7 @@ title: "Straßenbegleitende Einfriedungsmauern und neun Steindeckerbrücken als 
 site_name: "Straßenbegleitende Einfriedungsmauern und neun Steindeckerbrücken als Hofzufahrten Ottendorfer Straße"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the serene landscape of Laußnitz, Germany, the Straßenbegleitende Einfriedungsmauern und neun Steindeckerbrücken als Hofzufahrten Ottendorfer Straße..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Bauernhaus-Museum Oberkülheim"
 site_name: "Bauernhaus-Museum Oberkülheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bauernhaus-Museum Oberkülheim offers visitors a unique glimpse into the agricultural history of Germany, specifically within the context of the Bergisch..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

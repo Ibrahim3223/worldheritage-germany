@@ -3,7 +3,7 @@ title: "Blutwiese"
 site_name: "Blutwiese"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Löhne, North Rhine-Westphalia, Germany"
+description: "Blutwiese, located in Löhne, North Rhine-Westphalia, Germany, is a dedicated nature reserve that showcases the region's ecological diversity and commitment..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

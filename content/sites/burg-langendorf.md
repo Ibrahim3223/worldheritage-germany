@@ -3,7 +3,7 @@ title: "Burg Langendorf"
 site_name: "Burg Langendorf"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Langendorf, a striking castle located in the Zülpich region of Germany, embodies a blend of historical significance and architectural intrigue."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

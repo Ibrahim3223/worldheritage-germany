@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Elberfeld"
 site_name: "Ehrenfriedhof Elberfeld"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wuppertal, Germany"
+description: "Ehrenfriedhof Elberfeld is a notable cemetery located in Wuppertal, Germany, serving as a serene resting place that reflects the cultural and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

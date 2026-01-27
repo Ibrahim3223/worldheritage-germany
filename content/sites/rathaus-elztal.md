@@ -3,7 +3,7 @@ title: "Rathaus Elztal"
 site_name: "Rathaus Elztal"
 date: 2026-01-26
 draft: false
-description: "Rathaus der Gemeinde Elztal"
+description: "The Rathaus Elztal, located in the serene region of Elztal, Germany, serves as the municipal city hall for the community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

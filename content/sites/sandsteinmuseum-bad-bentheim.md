@@ -3,7 +3,7 @@ title: "Sandsteinmuseum Bad Bentheim"
 site_name: "Sandsteinmuseum Bad Bentheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sandsteinmuseum Bad Bentheim offers visitors a unique glimpse into the rich geological and cultural history of the region, located in the heart of Bad..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

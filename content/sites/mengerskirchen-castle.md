@@ -3,7 +3,7 @@ title: "Mengerskirchen Castle"
 site_name: "Mengerskirchen Castle"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Mengerskirchen Castle, located in the heart of Germany, presents a fascinating glimpse into the architectural and cultural heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

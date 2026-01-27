@@ -3,7 +3,7 @@ title: "Burg Harsefeld"
 site_name: "Burg Harsefeld"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Harsefeld, a notable castle in the Harsefeld region of Germany, offers a glimpse into the architectural and cultural heritage of the area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

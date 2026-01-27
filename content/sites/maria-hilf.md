@@ -3,7 +3,7 @@ title: "Maria-Hilf"
 site_name: "Maria-Hilf"
 date: 2026-01-26
 draft: false
-description: "church building in Frankfurt, Germany"
+description: "Maria-Hilf is a distinguished church building located in Frankfurt, Germany, known for its architectural elegance and significant cultural presence."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

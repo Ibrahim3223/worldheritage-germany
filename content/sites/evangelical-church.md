@@ -3,7 +3,7 @@ title: "evangelical Church"
 site_name: "evangelical Church"
 date: 2026-01-26
 draft: false
-description: "church building in Steinsfurt district in Sinsheim"
+description: "The evangelical Church in the Steinsfurt district of Sinsheim, Germany, is a notable example of ecclesiastical architecture that reflects the spiritual and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

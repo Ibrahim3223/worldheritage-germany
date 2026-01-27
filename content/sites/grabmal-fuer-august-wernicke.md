@@ -3,7 +3,7 @@ title: "Grabmal für August Wernicke"
 site_name: "Grabmal für August Wernicke"
 date: 2026-01-26
 draft: false
-description: "tomb in Bernau bei Berlin, Germany"
+description: "The Grabmal für August Wernicke stands as a poignant reminder of both personal legacy and communal memory, situated in the serene landscape of Bernau bei..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tomb"

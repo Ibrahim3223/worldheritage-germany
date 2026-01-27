@@ -3,7 +3,7 @@ title: "Nasir Mosque"
 site_name: "Nasir Mosque"
 date: 2026-01-26
 draft: false
-description: "Mosque in Waiblingen, Germany"
+description: "The Nasir Mosque, located in Waiblingen, Germany, serves as an important place of worship for the local Muslim community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

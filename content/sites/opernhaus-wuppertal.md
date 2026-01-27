@@ -3,7 +3,7 @@ title: "Opernhaus Wuppertal"
 site_name: "Opernhaus Wuppertal"
 date: 2026-01-26
 draft: false
-description: "opera house and theatre in Barmen, Wuppertal, Germany"
+description: "Opernhaus Wuppertal, located in the heart of Barmen, Wuppertal, Germany, is a distinguished theatre and opera house that has played a significant role in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

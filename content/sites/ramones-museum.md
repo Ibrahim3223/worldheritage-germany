@@ -3,7 +3,7 @@ title: "Ramones Museum"
 site_name: "Ramones Museum"
 date: 2026-01-26
 draft: false
-description: "museum dedicated to the band the Ramones in Berlin, Germany"
+description: "The Ramones Museum in Berlin is a vibrant homage to one of the most influential punk rock bands in history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

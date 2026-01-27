@@ -3,7 +3,7 @@ title: "Dorfkirche Reesen"
 site_name: "Dorfkirche Reesen"
 date: 2026-01-26
 draft: false
-description: "church building in Burg (bei Magdeburg), Saxony-Anhalt, Germany"
+description: "Dorfkirche Reesen stands as a significant church building in the quaint region of Burg (bei Magdeburg) in Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

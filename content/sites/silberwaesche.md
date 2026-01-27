@@ -3,7 +3,7 @@ title: "Silberwäsche"
 site_name: "Silberwäsche"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Silberwäsche, located in Breitenbrunn/Erzgebirge, Germany, is a museum that offers an insightful glimpse into the region's industrial heritage, specifically..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

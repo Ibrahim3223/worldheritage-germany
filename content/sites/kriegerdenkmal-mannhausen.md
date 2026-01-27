@@ -3,7 +3,7 @@ title: "Kriegerdenkmal Mannhausen"
 site_name: "Kriegerdenkmal Mannhausen"
 date: 2026-01-26
 draft: false
-description: "monument in Calvörde, Germany"
+description: "The Kriegerdenkmal Mannhausen, situated in the quaint region of Calvörde, Germany, is a poignant monument that commemorates the sacrifices made by soldiers."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

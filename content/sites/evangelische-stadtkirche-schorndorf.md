@@ -3,7 +3,7 @@ title: "Evangelische Stadtkirche, Schorndorf"
 site_name: "Evangelische Stadtkirche, Schorndorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Stadtkirche in Schorndorf is a significant landmark that reflects the architectural and spiritual heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

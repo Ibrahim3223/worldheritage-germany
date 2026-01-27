@@ -3,7 +3,7 @@ title: "Altes Rathaus Winnenden"
 site_name: "Altes Rathaus Winnenden"
 date: 2026-01-26
 draft: false
-description: "Historic townhall in Winnenden, Germany"
+description: "The Altes Rathaus Winnenden, or Old Town Hall, is a historic landmark situated in the heart of the charming town of Winnenden, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

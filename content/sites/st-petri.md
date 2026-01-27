@@ -3,7 +3,7 @@ title: "St. Petri"
 site_name: "St. Petri"
 date: 2026-01-26
 draft: false
-description: "church building in Rochlitz, Saxony, Germany"
+description: "St. Petri stands as a significant church building located in the historical town of Rochlitz, Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Eisenkunstgussmuseum"
 site_name: "Eisenkunstgussmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Büdesldorf, Germany"
+description: "The Eisenkunstgussmuseum in Büdelsdorf, Germany, serves as a unique portal into the world of iron art casting and its historical significance."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

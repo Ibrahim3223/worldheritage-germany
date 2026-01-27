@@ -3,7 +3,7 @@ title: "Berlin Museum"
 site_name: "Berlin Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Berlin Museum, located in Germany's vibrant capital, serves as a dynamic hub for art, culture, and history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

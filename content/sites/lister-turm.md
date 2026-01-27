@@ -3,7 +3,7 @@ title: "Lister Turm"
 site_name: "Lister Turm"
 date: 2026-01-26
 draft: false
-description: "building and tower in Hannover, Germany"
+description: "Rising prominently in the heart of Hannover, Germany, Lister Turm is more than just a tower; it is a focal point of the city’s historical narrative and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

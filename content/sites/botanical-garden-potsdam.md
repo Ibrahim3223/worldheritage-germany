@@ -3,7 +3,7 @@ title: "Botanical Garden Potsdam"
 site_name: "Botanical Garden Potsdam"
 date: 2026-01-26
 draft: false
-description: "part of University of Potsdam (Germany), situated in Sanssouci Park"
+description: "The Botanical Garden Potsdam, an integral part of the University of Potsdam situated within the picturesque Sanssouci Park, is a sanctuary of botanical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

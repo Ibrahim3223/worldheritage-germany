@@ -3,7 +3,7 @@ title: "Rundfunkplatz"
 site_name: "Rundfunkplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Maxvorstadt, Germany"
+description: "Rundfunkplatz, located in the vibrant Maxvorstadt district of Munich, Germany, is a public square that captures the essence of urban life in this bustling city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Valentin submarine pens"
 site_name: "Valentin submarine pens"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Valentin submarine pens are an architectural marvel located in Blumenthal, Germany, that encapsulate a unique chapter in military and industrial history."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

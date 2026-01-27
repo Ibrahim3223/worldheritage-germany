@@ -3,7 +3,7 @@ title: "Botanischer Garten Gera"
 site_name: "Botanischer Garten Gera"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten Gera is a picturesque botanical garden located in the heart of Gera, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

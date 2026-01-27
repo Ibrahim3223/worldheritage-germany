@@ -3,7 +3,7 @@ title: "City"
 site_name: "City"
 date: 2026-01-26
 draft: false
-description: "District of Dortmund, Germany"
+description: "Dortmund's Old Town presents a captivating glimpse into the historical and cultural fabric of this vibrant German city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"

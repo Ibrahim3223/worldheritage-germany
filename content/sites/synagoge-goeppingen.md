@@ -3,7 +3,7 @@ title: "Synagoge (Göppingen)"
 site_name: "Synagoge (Göppingen)"
 date: 2026-01-26
 draft: false
-description: "building in Göppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "In the heart of Göppingen, Germany, the Synagoge serves as a poignant reminder of the rich Jewish heritage that once flourished in this region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

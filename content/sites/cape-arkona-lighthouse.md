@@ -3,7 +3,7 @@ title: "Cape Arkona Lighthouse"
 site_name: "Cape Arkona Lighthouse"
 date: 2026-01-26
 draft: false
-description: "active lighthouse built 1902"
+description: "Cape Arkona Lighthouse, an enduring symbol of maritime navigation, stands proudly on the northern tip of Rügen Island in Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Regional-Museum Sehnde"
 site_name: "Regional-Museum Sehnde"
 date: 2026-01-26
 draft: false
-description: "local museum in Sehnde, Germany"
+description: "The Regional-Museum Sehnde serves not only as a repository of local history but also as a vibrant cultural hub in the heart of Sehnde, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

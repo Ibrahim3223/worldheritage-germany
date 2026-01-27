@@ -3,7 +3,7 @@ title: "Hercules in battle with the Nemean lion"
 site_name: "Hercules in battle with the Nemean lion"
 date: 2026-01-26
 draft: false
-description: "sculpture in Berlin, Germany"
+description: "In the heart of Berlin, a striking statue captures the essence of ancient myth and heroism: Hercules in battle with the Nemean lion."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

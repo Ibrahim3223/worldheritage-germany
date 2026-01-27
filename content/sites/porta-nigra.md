@@ -3,7 +3,7 @@ title: "Porta Nigra"
 site_name: "Porta Nigra"
 date: 2026-01-26
 draft: false
-description: "city gate of Trier"
+description: "Porta Nigra, an iconic city gate located in Trier, Germany, is a remarkable example of Roman architecture and remains one of the best-preserved structures..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"

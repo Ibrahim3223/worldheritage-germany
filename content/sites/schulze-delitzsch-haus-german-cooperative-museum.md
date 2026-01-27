@@ -3,7 +3,7 @@ title: "Schulze-Delitzsch-Haus – German Cooperative Museum"
 site_name: "Schulze-Delitzsch-Haus – German Cooperative Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Schulze-Delitzsch-Haus – German Cooperative Museum, located in the town of Delitzsch, Germany, serves as a vital repository of the cooperative..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

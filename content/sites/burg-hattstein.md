@@ -3,7 +3,7 @@ title: "Burg Hattstein"
 site_name: "Burg Hattstein"
 date: 2026-01-26
 draft: false
-description: "Burgruine in Deutschland"
+description: "Perched atop the rolling hills of Oberreifenberg, Burg Hattstein is a castle ruin that invites visitors to explore its storied past and scenic surroundings."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

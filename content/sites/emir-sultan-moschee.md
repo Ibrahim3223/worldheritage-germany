@@ -3,7 +3,7 @@ title: "Emir-Sultan-Moschee"
 site_name: "Emir-Sultan-Moschee"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Emir-Sultan-Moschee in Darmstadt, Germany, is a striking architectural structure that serves as a significant cultural landmark in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

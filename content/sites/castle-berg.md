@@ -3,7 +3,7 @@ title: "Castle Berg"
 site_name: "Castle Berg"
 date: 2026-01-26
 draft: false
-description: "building in Stuttgart, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Castle Berg, a remarkable hillfort located in Stuttgart, Germany, offers visitors a unique glimpse into the region's historical landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Hillfort"

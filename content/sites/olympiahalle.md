@@ -3,7 +3,7 @@ title: "Olympiahalle"
 site_name: "Olympiahalle"
 date: 2026-01-26
 draft: false
-description: "Indoor multi-purpose arena in Munich, Bavaria, Germany"
+description: "Olympiahalle, an esteemed multi-purpose hall located in Munich's Milbertshofen-Am Hart district, plays a pivotal role in the city's cultural landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

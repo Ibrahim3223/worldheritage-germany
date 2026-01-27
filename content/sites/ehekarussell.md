@@ -3,7 +3,7 @@ title: "Ehekarussell"
 site_name: "Ehekarussell"
 date: 2026-01-26
 draft: false
-description: "fountain (Nuremberg, Germany)"
+description: "In the heart of Nuremberg, Germany, the Ehekarussell offers a stunning fusion of artistry and engineering, encapsulating the city's rich cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

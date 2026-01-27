@@ -3,7 +3,7 @@ title: "Schlussstein der alten Brücke Sohlander Straße 69 (bei)"
 site_name: "Schlussstein der alten Brücke Sohlander Straße 69 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Schlussstein der alten Brücke, located at Sohlander Straße 69 in the quaint region of Schirgiswalde-Kirschau, Germany, serves as a significant..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Rottenburg Cathedral"
 site_name: "Rottenburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "Rottenburg Cathedral, located in the charming town of Rottenburg am Neckar, Germany, is an architectural marvel that attracts visitors with its historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"

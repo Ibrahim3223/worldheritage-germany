@@ -3,7 +3,7 @@ title: "Dorfkapelle Adelshofen"
 site_name: "Dorfkapelle Adelshofen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkapelle Adelshofen, a quaint chapel located in Bad Wurzach, Germany, serves as a spiritual haven and a cultural landmark."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

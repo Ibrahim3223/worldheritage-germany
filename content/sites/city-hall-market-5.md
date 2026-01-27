@@ -3,7 +3,7 @@ title: "City Hall Market 5"
 site_name: "City Hall Market 5"
 date: 2026-01-26
 draft: false
-description: "house in Stadt Wehlen, Germany"
+description: "City Hall Market 5 stands as a vital structure in the heart of Stadt Wehlen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

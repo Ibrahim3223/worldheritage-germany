@@ -3,7 +3,7 @@ title: "Ave Maria"
 site_name: "Ave Maria"
 date: 2026-01-26
 draft: false
-description: "Wallfahrtskirche bei Deggingen,  Landkreis Göppingen, Baden-Württemberg"
+description: "Ave Maria, a notable monastery located in Deggingen, Germany, is a serene sanctuary that invites visitors to explore its spiritual and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

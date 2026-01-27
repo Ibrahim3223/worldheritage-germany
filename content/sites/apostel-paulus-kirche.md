@@ -3,7 +3,7 @@ title: "Apostel-Paulus-Kirche"
 site_name: "Apostel-Paulus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "The Apostel-Paulus-Kirche, located in the Reinickendorf district of Berlin, Germany, is more than just a place of worship; it serves as a significant..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

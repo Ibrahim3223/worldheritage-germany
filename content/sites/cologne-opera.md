@@ -3,7 +3,7 @@ title: "Cologne Opera"
 site_name: "Cologne Opera"
 date: 2026-01-26
 draft: false
-description: "building in North Rhine-Westphalia, Germany"
+description: "The Cologne Opera, located in Altstadt-Nord, Germany, is a renowned cultural institution that serves as one of the central pillars of the city's vibrant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

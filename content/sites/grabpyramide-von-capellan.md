@@ -3,7 +3,7 @@ title: "Grabpyramide von Capellan"
 site_name: "Grabpyramide von Capellan"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Grabpyramide von Capellan, an ancient tomb located in the Ringgau region of Germany, invites visitors to explore the secrets of its past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"

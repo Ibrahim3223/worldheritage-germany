@@ -3,7 +3,7 @@ title: "Church in Alt Jargenow"
 site_name: "Church in Alt Jargenow"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude im Ortsteil Alt Jargenow der Gemeinde Görmin in Vorpommern"
+description: "The Church in Alt Jargenow is a quaint chapel situated in the village of Alt Jargenow, part of the Görmin community in Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

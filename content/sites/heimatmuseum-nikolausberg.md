@@ -3,7 +3,7 @@ title: "Heimatmuseum Nikolausberg"
 site_name: "Heimatmuseum Nikolausberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Nikolausberg, situated in the region of Göttingen, Germany, serves as a notable cultural institution dedicated to preserving and showcasing the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

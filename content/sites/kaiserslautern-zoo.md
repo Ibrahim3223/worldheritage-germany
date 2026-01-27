@@ -3,7 +3,7 @@ title: "Kaiserslautern Zoo"
 site_name: "Kaiserslautern Zoo"
 date: 2026-01-26
 draft: false
-description: "German Zoo"
+description: "Kaiserslautern Zoo, located in the vibrant city of Kaiserslautern, Germany, offers a unique opportunity to experience wildlife in an engaging and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

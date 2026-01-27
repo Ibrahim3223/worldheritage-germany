@@ -3,7 +3,7 @@ title: "Alter Friedhof (Eschweiler über Feld)"
 site_name: "Alter Friedhof (Eschweiler über Feld)"
 date: 2026-01-26
 draft: false
-description: "cemetery in Nörvenich, Germany"
+description: "Alter Friedhof, a cemetery located in the municipality of Nörvenich, Germany, serves not merely as a resting place for the deceased but also as a site of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

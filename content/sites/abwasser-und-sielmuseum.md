@@ -3,7 +3,7 @@ title: "Abwasser- und Sielmuseum"
 site_name: "Abwasser- und Sielmuseum"
 date: 2026-01-26
 draft: false
-description: "former museum in Hamburg, Germany"
+description: "The Abwasser- und Sielmuseum, located in the heart of Hamburg-Mitte, offers a unique glimpse into the city's historical infrastructure concerning wastewater..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

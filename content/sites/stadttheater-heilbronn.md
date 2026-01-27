@@ -3,7 +3,7 @@ title: "Stadttheater Heilbronn"
 site_name: "Stadttheater Heilbronn"
 date: 2026-01-26
 draft: false
-description: "former theatre in Heilbronn, Germany, destroyed in World War II"
+description: "The Stadttheater Heilbronn, a prominent theatre building in Heilbronn, Germany, evokes a sense of historical intrigue and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

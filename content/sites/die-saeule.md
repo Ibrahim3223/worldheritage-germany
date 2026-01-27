@@ -3,7 +3,7 @@ title: "Die Säule"
 site_name: "Die Säule"
 date: 2026-01-26
 draft: false
-description: "Die Säule is a theatre in Duisburg, North Rhine-Westphalia, Germany."
+description: "Located in the heart of Duisburg, North Rhine-Westphalia, Die Säule serves as a prominent theatre building that captures the cultural essence of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

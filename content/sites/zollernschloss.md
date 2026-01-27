@@ -3,7 +3,7 @@ title: "Zollernschloss"
 site_name: "Zollernschloss"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Zollernschloss, a striking castle located in Balingen, Germany, captivates visitors with its impressive architectural features and rich historical background."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

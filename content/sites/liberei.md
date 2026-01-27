@@ -3,7 +3,7 @@ title: "Liberei"
 site_name: "Liberei"
 date: 2026-01-26
 draft: false
-description: "building in Braunschweig, Germany"
+description: "Liberei, a prominent library located in Braunschweig, Germany, serves as a vital center for knowledge and culture in the region of Brunswick."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

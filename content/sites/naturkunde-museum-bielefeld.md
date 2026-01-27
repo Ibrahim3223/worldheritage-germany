@@ -3,7 +3,7 @@ title: "Naturkunde-Museum Bielefeld"
 site_name: "Naturkunde-Museum Bielefeld"
 date: 2026-01-26
 draft: false
-description: "natural History Museum in Kreuzstrasse in Bielefeld, Germany"
+description: "The Naturkunde-Museum Bielefeld serves as a portal to the natural world, inviting visitors to explore the intricate web of life that sustains our planet."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

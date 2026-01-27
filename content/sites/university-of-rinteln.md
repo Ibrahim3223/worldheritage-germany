@@ -3,7 +3,7 @@ title: "University of Rinteln"
 site_name: "University of Rinteln"
 date: 2026-01-26
 draft: false
-description: "former university in Germany"
+description: "The University of Rinteln, a former academic institution nestled in the historic town of Rinteln, Germany, holds a distinctive place in the educational..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"

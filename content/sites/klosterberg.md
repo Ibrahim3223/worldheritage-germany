@@ -3,7 +3,7 @@ title: "Klosterberg"
 site_name: "Klosterberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Klosterberg, situated in the Bautzen District of Germany, is a mountain that invites exploration and appreciation of its natural surroundings."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

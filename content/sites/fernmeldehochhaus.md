@@ -3,7 +3,7 @@ title: "Fernmeldehochhaus"
 site_name: "Fernmeldehochhaus"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the heart of Frankfurt, the Fernmeldehochhaus stands as an architectural ensemble that captures the essence of a city steeped in innovation and modernity."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

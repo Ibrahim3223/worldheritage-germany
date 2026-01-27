@@ -3,7 +3,7 @@ title: "Dortmund-Barop station"
 site_name: "Dortmund-Barop station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dortmund, Germany"
+description: "Dortmund-Barop station serves as an important junction within the expansive railway network of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Church in Dorf Mecklenburg"
 site_name: "Church in Dorf Mecklenburg"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Dorf Mecklenburg, located in the picturesque region of Mecklenburg-Vorpommern, Germany, is an architectural and cultural landmark that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

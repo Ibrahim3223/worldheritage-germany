@@ -3,7 +3,7 @@ title: "Langemarckhalle"
 site_name: "Langemarckhalle"
 date: 2026-01-26
 draft: false
-description: "Halle auf dem Olympiagelände Berlin"
+description: "Langemarckhalle is a memorial located within the historic grounds of the Olympic Stadium in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

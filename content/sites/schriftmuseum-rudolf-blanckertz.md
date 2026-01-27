@@ -3,7 +3,7 @@ title: "Schriftmuseum Rudolf Blanckertz"
 site_name: "Schriftmuseum Rudolf Blanckertz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schriftmuseum Rudolf Blanckertz, located in the vibrant city of Berlin, presents a unique exploration into the world of typography and lettering."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

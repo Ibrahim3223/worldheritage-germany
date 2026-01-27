@@ -3,7 +3,7 @@ title: "Marienstatt Abbey"
 site_name: "Marienstatt Abbey"
 date: 2026-01-26
 draft: false
-description: "Cistercian monastery"
+description: "Marienstatt Abbey, a serene Cistercian monastery located in the picturesque Rhineland-Palatinate region of Germany, offers visitors a unique glimpse into..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

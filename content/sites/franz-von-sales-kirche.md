@@ -3,7 +3,7 @@ title: "Franz-von-Sales-Kirche"
 site_name: "Franz-von-Sales-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Wersten, Germany"
+description: "Franz-von-Sales-Kirche, located in the serene district of Wersten in Düsseldorf, Germany, is a notable church building that exemplifies the region's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

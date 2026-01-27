@@ -3,7 +3,7 @@ title: "Haus Katz"
 site_name: "Haus Katz"
 date: 2026-01-26
 draft: false
-description: "manor house in Jüchen, Germany"
+description: "Haus Katz, a distinguished manor house located in the heart of Jüchen, Germany, serves as a significant emblem of the region's architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

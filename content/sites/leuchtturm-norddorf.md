@@ -3,7 +3,7 @@ title: "Leuchtturm Norddorf"
 site_name: "Leuchtturm Norddorf"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Leuchtturm Norddorf, a striking lighthouse located in Schleswig-Holstein, Germany, serves as a significant landmark in the picturesque region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

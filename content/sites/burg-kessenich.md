@@ -3,7 +3,7 @@ title: "Burg Kessenich"
 site_name: "Burg Kessenich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kessenich is a remarkable castle situated in the Euskirchen region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Kupferstich-Kabinett Dresden"
 site_name: "Kupferstich-Kabinett Dresden"
 date: 2026-01-26
 draft: false
-description: "collection of prints of the Staatliche Kunstsammlungen Dresden"
+description: "In the heart of Dresden, the Kupferstich-Kabinett offers a captivating glimpse into the world of prints and graphic art."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

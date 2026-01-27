@@ -3,7 +3,7 @@ title: "Museum Rade am Schloss Reinbek"
 site_name: "Museum Rade am Schloss Reinbek"
 date: 2026-01-26
 draft: false
-description: "museum Rade am Schloss Reinbek"
+description: "The Museum Rade am Schloss Reinbek, situated in the historic town of Reinbek in Germany, serves as a cultural hub that invites visitors to explore the local..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

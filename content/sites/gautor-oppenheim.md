@@ -3,7 +3,7 @@ title: "Gautor (Oppenheim)"
 site_name: "Gautor (Oppenheim)"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "Gautor (Oppenheim), a historic city gate located in the picturesque town of Oppenheim, Germany, serves as a remarkable entry point into a world that marries..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"

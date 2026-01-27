@@ -3,7 +3,7 @@ title: "Römergrab Köln-Weiden"
 site_name: "Römergrab Köln-Weiden"
 date: 2026-01-26
 draft: false
-description: "unterirdische Grabkammer in Köln"
+description: "In the heart of Weiden, Germany lies the Römergrab Köln-Weiden, an underground burial chamber that offers a glimpse into the ancient past of this region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

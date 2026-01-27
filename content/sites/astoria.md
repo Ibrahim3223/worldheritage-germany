@@ -3,7 +3,7 @@ title: "Astoria"
 site_name: "Astoria"
 date: 2026-01-26
 draft: false
-description: "former variety theatre in Bremen, Germany"
+description: "Astoria, a former variety theatre located in the heart of Bremen, Germany, offers visitors a glimpse into the vibrant cultural life of the city during its..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Teppichmuseum Tönsmann"
 site_name: "Teppichmuseum Tönsmann"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Teppichmuseum Tönsmann, located in the heart of Espelkamp, Germany, is a unique museum dedicated to the art and craft of carpet weaving."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

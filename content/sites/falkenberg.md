@@ -3,7 +3,7 @@ title: "Falkenberg"
 site_name: "Falkenberg"
 date: 2026-01-26
 draft: false
-description: "highest point of Lüneburg Heath, Germany"
+description: "Falkenberg is the highest point of Lüneburg Heath in Germany, an area celebrated for its unique natural beauty and ecological significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

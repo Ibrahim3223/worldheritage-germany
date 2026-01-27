@@ -3,7 +3,7 @@ title: "Drostei"
 site_name: "Drostei"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Stadtpalais in Pinneberg"
+description: "Drostei, an elegant palace located in the charming town of Pinneberg, Germany, represents a significant piece of local heritage and architectural beauty."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Palace"

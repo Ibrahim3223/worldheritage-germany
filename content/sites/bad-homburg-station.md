@@ -3,7 +3,7 @@ title: "Bad Homburg station"
 site_name: "Bad Homburg station"
 date: 2026-01-26
 draft: false
-description: "railway station in Bad Homburg vor der Höhe, Germany"
+description: "Bad Homburg station serves as a pivotal point within the charming town of Bad Homburg vor der Höhe, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

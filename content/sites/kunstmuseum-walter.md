@@ -3,7 +3,7 @@ title: "Kunstmuseum Walter"
 site_name: "Kunstmuseum Walter"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Situated in the historic city of Augsburg, Germany, the Kunstmuseum Walter is a distinguished art museum that has become a focal point for art enthusiasts..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

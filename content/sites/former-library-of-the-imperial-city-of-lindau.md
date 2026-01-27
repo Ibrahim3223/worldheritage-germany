@@ -3,7 +3,7 @@ title: "Former Library of the Imperial City of Lindau"
 site_name: "Former Library of the Imperial City of Lindau"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Former Library of the Imperial City of Lindau is a site that embodies the rich intellectual heritage of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

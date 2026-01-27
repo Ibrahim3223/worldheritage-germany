@@ -3,7 +3,7 @@ title: "Turmuhrenmuseum Bockenem"
 site_name: "Turmuhrenmuseum Bockenem"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Turmuhrenmuseum Bockenem, located in the heart of Bockenem, Germany, invites visitors to explore the fascinating world of tower clocks and their..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

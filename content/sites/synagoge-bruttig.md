@@ -3,7 +3,7 @@ title: "Synagoge Bruttig"
 site_name: "Synagoge Bruttig"
 date: 2026-01-26
 draft: false
-description: "geschütztes Baudenkmal"
+description: "The Synagoge Bruttig is a significant architectural and cultural landmark situated in the picturesque region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Synagogue"

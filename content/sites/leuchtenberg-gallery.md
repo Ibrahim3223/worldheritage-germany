@@ -3,7 +3,7 @@ title: "Leuchtenberg Gallery"
 site_name: "Leuchtenberg Gallery"
 date: 2026-01-26
 draft: false
-description: "art museum in Munich, Germany"
+description: "The Leuchtenberg Gallery, located in the vibrant city of Munich, Germany, is a distinguished art museum that showcases a diverse array of artistic expression."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

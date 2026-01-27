@@ -3,7 +3,7 @@ title: "Münzsammlung an der Professur für Alte Geschichte, Universität Passau
 site_name: "Münzsammlung an der Professur für Alte Geschichte, Universität Passau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Münzsammlung an der Professur für Alte Geschichte, Universität Passau, is a fascinating museum dedicated to the rich history of numismatics, the study..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

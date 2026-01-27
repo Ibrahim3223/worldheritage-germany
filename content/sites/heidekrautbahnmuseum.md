@@ -3,7 +3,7 @@ title: "Heidekrautbahnmuseum"
 site_name: "Heidekrautbahnmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Basdorf, Wandlitz, Brandenburg, Germany"
+description: "The Heidekrautbahnmuseum, located in Basdorf, Wandlitz, Brandenburg, Germany, invites visitors to explore the history and cultural significance of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

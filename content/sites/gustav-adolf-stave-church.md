@@ -3,7 +3,7 @@ title: "Gustav Adolf Stave Church"
 site_name: "Gustav Adolf Stave Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Gustav Adolf Stave Church, located in the Goslar region of Germany, is a remarkable example of traditional wooden church architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Synagoge (Gondelsheim)"
 site_name: "Synagoge (Gondelsheim)"
 date: 2026-01-26
 draft: false
-description: "building in Gondelsheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "The Synagogue in Gondelsheim, located within the Karlsruhe Government Region of Baden-Württemberg, Germany, serves as a poignant reminder of the Jewish..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

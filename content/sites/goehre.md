@@ -3,7 +3,7 @@ title: "Göhre"
 site_name: "Göhre"
 date: 2026-01-26
 draft: false
-description: "city museum in Jena"
+description: "Göhre, a city museum located in the heart of Jena, Germany, offers a glimpse into the cultural and historical narrative of this vibrant city."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

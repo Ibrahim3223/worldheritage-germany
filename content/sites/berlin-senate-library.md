@@ -3,7 +3,7 @@ title: "Berlin Senate Library"
 site_name: "Berlin Senate Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Berlin Senate Library, a prominent institution located in the heart of Germany's capital, serves as a vital resource for scholars, researchers, and the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

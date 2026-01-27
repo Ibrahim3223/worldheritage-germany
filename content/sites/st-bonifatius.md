@@ -3,7 +3,7 @@ title: "St. Bonifatius"
 site_name: "St. Bonifatius"
 date: 2026-01-26
 draft: false
-description: "church in Wiesbaden, Germany"
+description: "St. Bonifatius is a prominent church building located in the heart of Wiesbaden, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

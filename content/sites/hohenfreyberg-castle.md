@@ -3,7 +3,7 @@ title: "Hohenfreyberg Castle"
 site_name: "Hohenfreyberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hohenfreyberg Castle, located in the picturesque region of Eisenberg, Germany, offers a glimpse into the rich historical tapestry of medieval architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

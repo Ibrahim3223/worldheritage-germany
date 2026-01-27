@@ -3,7 +3,7 @@ title: "Burg Innhausen"
 site_name: "Burg Innhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Innhausen, a captivating castle located in the Wilhelmshaven region of Germany, represents a significant piece of architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

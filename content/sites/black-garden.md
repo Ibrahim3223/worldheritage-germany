@@ -3,7 +3,7 @@ title: "Black Garden"
 site_name: "Black Garden"
 date: 2026-01-26
 draft: false
-description: "Memorial in Nordhorn"
+description: "Tucked away in the charming town of Nordhorn, the Black Garden is a poignant memorial that invites reflection and remembrance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Zeche Adolf von Hansemann"
 site_name: "Zeche Adolf von Hansemann"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Adolf von Hansemann, located in Dortmund, Germany, offers a unique glimpse into the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

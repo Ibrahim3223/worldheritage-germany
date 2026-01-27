@@ -3,7 +3,7 @@ title: "Fernmeldeturm Hohe Wurzel"
 site_name: "Fernmeldeturm Hohe Wurzel"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Hohe Wurzel stands tall in the Taunusstein region of Germany, serving as both a functional communication tower and a striking symbol of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

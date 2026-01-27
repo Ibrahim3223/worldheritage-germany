@@ -3,7 +3,7 @@ title: "Village church Paretz"
 site_name: "Village church Paretz"
 date: 2026-01-26
 draft: false
-description: "listed Gothic hall church in Paretz, Brandenburg state of Germany"
+description: "The Village Church of Paretz, located in the tranquil region of Ketzin/Havel in Brandenburg, Germany, stands as a remarkable example of Gothic architecture,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Trischen"
 site_name: "Trischen"
 date: 2026-01-26
 draft: false
-description: "uninhabited island in the Meldorf Bay"
+description: "Trischen is an uninhabited island located in Meldorf Bay, part of Germany's North Sea coastline."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"

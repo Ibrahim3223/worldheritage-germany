@@ -3,7 +3,7 @@ title: "Ludwig Museum im Deutschherrenhaus"
 site_name: "Ludwig Museum im Deutschherrenhaus"
 date: 2026-01-26
 draft: false
-description: "art museum in Koblenz, Germany"
+description: "The Ludwig Museum im Deutschherrenhaus, situated in the heart of Koblenz, Germany, serves as a prominent art museum that celebrates both historical and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

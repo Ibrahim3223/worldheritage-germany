@@ -3,7 +3,7 @@ title: "Alter Annenfriedhof, Dresden"
 site_name: "Alter Annenfriedhof, Dresden"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dresden, Germany"
+description: "Alter Annenfriedhof is a remarkable cemetery located in Dresden, Germany, serving as a solemn resting place and a historical site of reflection."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

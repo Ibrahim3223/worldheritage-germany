@@ -3,7 +3,7 @@ title: "Lichtenstein Castle"
 site_name: "Lichtenstein Castle"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-74-184-19 (0) in Pfarrweisach, Bavaria"
+description: "Lichtenstein Castle, an emblematic cultural heritage monument located in the serene region of Pfarrweisach, Bavaria, invites visitors to explore its storied..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

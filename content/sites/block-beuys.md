@@ -3,7 +3,7 @@ title: "Block Beuys"
 site_name: "Block Beuys"
 date: 2026-01-26
 draft: false
-description: "umfangreiche Installation des Künstlers Joseph Beuys"
+description: "Block Beuys, located in Darmstadt, Germany, is an art museum dedicated to the extensive installation work of the influential artist Joseph Beuys."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

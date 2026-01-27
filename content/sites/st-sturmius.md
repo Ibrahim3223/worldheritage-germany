@@ -3,7 +3,7 @@ title: "St. Sturmius"
 site_name: "St. Sturmius"
 date: 2026-01-26
 draft: false
-description: "church building in Rinteln, Germany"
+description: "St. Sturmius is a remarkable church building located in the historic town of Rinteln, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

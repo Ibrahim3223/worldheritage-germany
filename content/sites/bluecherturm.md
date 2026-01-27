@@ -3,7 +3,7 @@ title: "Blücherturm"
 site_name: "Blücherturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Blücherturm, an iconic tower located in the vibrant city of Essen, Germany, serves as a remarkable landmark that captures the essence of the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

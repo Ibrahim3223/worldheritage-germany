@@ -3,7 +3,7 @@ title: "Sigwardskirche Idensen"
 site_name: "Sigwardskirche Idensen"
 date: 2026-01-26
 draft: false
-description: "church building in Wunstorf, Lower Saxony, Germany"
+description: "Sigwardskirche Idensen is a notable church building located in the town of Wunstorf, situated in the Lower Saxony region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

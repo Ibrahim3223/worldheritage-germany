@@ -3,7 +3,7 @@ title: "Haus der Kultur und Bildung"
 site_name: "Haus der Kultur und Bildung"
 date: 2026-01-26
 draft: false
-description: "house of culture in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
+description: "The Haus der Kultur und Bildung, located in the vibrant city of Neubrandenburg, Mecklenburg-Vorpommern, Germany, serves as a dynamic hub for cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

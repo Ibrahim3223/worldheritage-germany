@@ -3,7 +3,7 @@ title: "Burg Hielock"
 site_name: "Burg Hielock"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hielock, a captivating castle located in the serene region of Trochtelfingen, Germany, invites visitors to explore its storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

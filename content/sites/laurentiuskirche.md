@@ -3,7 +3,7 @@ title: "Laurentiuskirche"
 site_name: "Laurentiuskirche"
 date: 2026-01-26
 draft: false
-description: "church in Hemmingen"
+description: "Laurentiuskirche, located in the serene town of Hemmingen, Germany, stands as a significant landmark within the region’s ecclesiastical landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

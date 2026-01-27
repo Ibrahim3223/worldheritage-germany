@@ -3,7 +3,7 @@ title: "Burg Dießenstein"
 site_name: "Burg Dießenstein"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burg Dießenstein, a captivating archaeological site located in the Saldenburg region of Germany, offers visitors a glimpse into the remnants of a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

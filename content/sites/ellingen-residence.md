@@ -3,7 +3,7 @@ title: "Ellingen Residence"
 site_name: "Ellingen Residence"
 date: 2026-01-26
 draft: false
-description: "palace"
+description: "The Ellingen Residence, a notable palace located in the quaint town of Ellingen, Germany, presents a unique blend of cultural heritage and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Evangelischer Friedhof Altglienicke"
 site_name: "Evangelischer Friedhof Altglienicke"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "The Evangelischer Friedhof Altglienicke, located in the vibrant city of Berlin, Germany, is not just a resting place for the departed but also a cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

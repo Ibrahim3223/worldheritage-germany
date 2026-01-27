@@ -3,7 +3,7 @@ title: "St. Theodor, Köln"
 site_name: "St. Theodor, Köln"
 date: 2026-01-26
 draft: false
-description: "church building in Vingst, Germany"
+description: "St. Theodor in Vingst, Köln, is a notable church building that reflects the deep cultural and spiritual roots of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

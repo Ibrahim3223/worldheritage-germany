@@ -3,7 +3,7 @@ title: "Campus Fichtenhain"
 site_name: "Campus Fichtenhain"
 date: 2026-01-26
 draft: false
-description: "Verbreitungsgebiet bei Krefeld, Deutschland"
+description: "Campus Fichtenhain, located in Krefeld, Germany, is an intriguing architectural ensemble that invites visitors to explore its unique design and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

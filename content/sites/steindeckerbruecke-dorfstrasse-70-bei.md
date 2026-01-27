@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Dorfstraße 70 (bei)"
 site_name: "Steindeckerbrücke Dorfstraße 70 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located on Dorfstraße 70 in Königshain, Germany, is an intriguing bridge that reflects the region's architectural heritage and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

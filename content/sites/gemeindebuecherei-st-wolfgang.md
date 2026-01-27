@@ -3,7 +3,7 @@ title: "Gemeindebücherei St. Wolfgang"
 site_name: "Gemeindebücherei St. Wolfgang"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Gemeindebücherei St. Wolfgang serves as a vital cultural institution in the picturesque town of Sankt Wolfgang, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

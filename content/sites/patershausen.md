@@ -3,7 +3,7 @@ title: "Patershausen"
 site_name: "Patershausen"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "Patershausen, a historical monastery located in the tranquil region of Heusenstamm, Germany, invites visitors to explore its serene environment and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

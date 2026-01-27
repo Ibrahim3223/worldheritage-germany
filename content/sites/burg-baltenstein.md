@@ -3,7 +3,7 @@ title: "Burg Baltenstein"
 site_name: "Burg Baltenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Baltenstein offers visitors a fascinating glimpse into the past through its remnants as an archaeological site."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

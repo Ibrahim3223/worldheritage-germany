@@ -3,7 +3,7 @@ title: "Gemeindebücherei Kirchseeon"
 site_name: "Gemeindebücherei Kirchseeon"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Kirchseeon, situated in the quaint town of Kirchseeon, Germany, is more than just a library; it serves as a vital cultural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

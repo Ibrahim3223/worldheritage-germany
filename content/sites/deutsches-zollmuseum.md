@@ -3,7 +3,7 @@ title: "Deutsches Zollmuseum"
 site_name: "Deutsches Zollmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the heart of Hamburg, the Deutsches Zollmuseum offers visitors a fascinating insight into the world of customs and trade, which have shaped the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

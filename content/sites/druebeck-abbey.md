@@ -3,7 +3,7 @@ title: "Drübeck Abbey"
 site_name: "Drübeck Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Drübeck Abbey, a serene monastery located in the picturesque region of Ilsenburg, Germany, holds a significant place in the cultural and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

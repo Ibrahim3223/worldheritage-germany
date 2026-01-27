@@ -3,7 +3,7 @@ title: "Individual monument of the physical entity Hubertusburg Castle: Gatehous
 site_name: "Individual monument of the physical entity Hubertusburg Castle: Gatehouse"
 date: 2026-01-26
 draft: false
-description: "house in Wermsdorf, Germany"
+description: "The Hubertusburg Castle Gatehouse in Wermsdorf, Germany, is not merely an entrance; it is a historical marker that speaks volumes about the past."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

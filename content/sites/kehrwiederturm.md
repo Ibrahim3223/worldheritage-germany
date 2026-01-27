@@ -3,7 +3,7 @@ title: "Kehrwiederturm"
 site_name: "Kehrwiederturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Kehrwiederturm, located in the picturesque region of Hildesheim, Germany, stands as a remarkable example of historical architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

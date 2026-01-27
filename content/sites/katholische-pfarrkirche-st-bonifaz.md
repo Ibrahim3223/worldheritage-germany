@@ -3,7 +3,7 @@ title: "Katholische Pfarrkirche St. Bonifaz"
 site_name: "Katholische Pfarrkirche St. Bonifaz"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "The Katholische Pfarrkirche St. Bonifaz, located in the serene village of Weißenohe, Germany, is a parish church that reflects the spiritual heritage of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

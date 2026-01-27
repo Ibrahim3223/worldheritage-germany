@@ -3,7 +3,7 @@ title: "Beginenhaus Kempten"
 site_name: "Beginenhaus Kempten"
 date: 2026-01-26
 draft: false
-description: "ensemble of buildings"
+description: "Beginenhaus Kempten is an architectural ensemble that encapsulates the historical essence of Kempten, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

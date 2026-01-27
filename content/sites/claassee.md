@@ -3,7 +3,7 @@ title: "Claassee"
 site_name: "Claassee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Claassee, a serene lake located in the picturesque Mecklenburgische Seenplatte District of Germany, offers visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

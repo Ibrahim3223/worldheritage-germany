@@ -3,7 +3,7 @@ title: "Herrenhaus Zülow"
 site_name: "Herrenhaus Zülow"
 date: 2026-01-26
 draft: false
-description: "Gutshaus in Deutschland"
+description: "Herrenhaus Zülow, a striking manor house located in the Mecklenburg-Vorpommern region of Germany, offers a unique glimpse into the architectural and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

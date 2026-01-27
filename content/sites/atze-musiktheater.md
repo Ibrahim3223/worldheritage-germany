@@ -3,7 +3,7 @@ title: "Atze Musiktheater"
 site_name: "Atze Musiktheater"
 date: 2026-01-26
 draft: false
-description: "youth musical theatre in Berlin, Germany"
+description: "Atze Musiktheater, located in the vibrant Bezirk Mitte district of Berlin, Germany, is a youth musical theatre that serves as a cultural hub for young..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Dankwarderode Castle"
 site_name: "Dankwarderode Castle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dankwarderode Castle, located in the heart of Germany's Innenstadt region, serves as a remarkable museum that invites visitors to explore its cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

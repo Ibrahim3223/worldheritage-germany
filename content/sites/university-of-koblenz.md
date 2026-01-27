@@ -3,7 +3,7 @@ title: "University of Koblenz"
 site_name: "University of Koblenz"
 date: 2026-01-26
 draft: false
-description: "university in Koblenz, Germany"
+description: "The University of Koblenz, located in the heart of Germany, serves as a significant center for higher education and research."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "University"

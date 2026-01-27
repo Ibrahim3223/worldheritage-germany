@@ -3,7 +3,7 @@ title: "Hofkapelle Lachenbauer"
 site_name: "Hofkapelle Lachenbauer"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Hofkapelle Lachenbauer is a captivating chapel located in the picturesque region of Bad Wurzach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

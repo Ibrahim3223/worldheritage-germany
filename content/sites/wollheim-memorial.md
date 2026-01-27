@@ -3,7 +3,7 @@ title: "Wollheim Memorial"
 site_name: "Wollheim Memorial"
 date: 2026-01-26
 draft: false
-description: "holocaust memorial site in Frankfurt am Main"
+description: "The Wollheim Memorial, situated in Frankfurt am Main, Germany, serves as a poignant reminder of the atrocities of the Holocaust and the lives lost during..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Baumberger Sandsteinmuseum"
 site_name: "Baumberger Sandsteinmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Baumberger Sandsteinmuseum is a unique museum located in the picturesque region of Havixbeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

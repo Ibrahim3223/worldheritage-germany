@@ -3,7 +3,7 @@ title: "St.-Pauli-Kirche"
 site_name: "St.-Pauli-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Altona-Altstadt, Germany"
+description: "St.-Pauli-Kirche stands as a notable church building located in the Altona-Altstadt district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

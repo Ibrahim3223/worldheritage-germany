@@ -3,7 +3,7 @@ title: "St. Ludgerus"
 site_name: "St. Ludgerus"
 date: 2026-01-26
 draft: false
-description: "church building in Schermbeck, Germany"
+description: "St. Ludgerus is a prominent church building located in the tranquil town of Schermbeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

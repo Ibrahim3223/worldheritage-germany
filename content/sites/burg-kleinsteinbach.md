@@ -3,7 +3,7 @@ title: "Burg Kleinsteinbach"
 site_name: "Burg Kleinsteinbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kleinsteinbach, an intriguing castle located in the scenic Pfinztal region of Germany, captures the imagination of visitors with its storied..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

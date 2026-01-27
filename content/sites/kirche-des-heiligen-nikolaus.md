@@ -3,7 +3,7 @@ title: "Kirche des heiligen Nikolaus"
 site_name: "Kirche des heiligen Nikolaus"
 date: 2026-01-26
 draft: false
-description: "church building in Hamm, Germany"
+description: "The Kirche des heiligen Nikolaus, located in the vibrant district of Hamm in Hamburg, Germany, is a noteworthy example of ecclesiastical architecture that..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

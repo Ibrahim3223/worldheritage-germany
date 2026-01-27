@@ -3,7 +3,7 @@ title: "Leibniz Institute for Solid State and Materials Research"
 site_name: "Leibniz Institute for Solid State and Materials Research"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Leibniz Institute for Solid State and Materials Research, located in Dresden, Germany, serves as a pivotal foundation in the realm of materials science."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"

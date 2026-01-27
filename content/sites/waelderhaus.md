@@ -3,7 +3,7 @@ title: "Wälderhaus"
 site_name: "Wälderhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "Located in the heart of Hamburg, Germany, Wälderhaus serves as a unique museum dedicated to forestry and the significance of trees in our ecosystem."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

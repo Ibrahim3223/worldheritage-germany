@@ -3,7 +3,7 @@ title: "Palais Flemming-Sulkowski"
 site_name: "Palais Flemming-Sulkowski"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "The Palais Flemming-Sulkowski, a distinguished palace in the heart of Dresden, Germany, invites visitors to explore its intricate history and architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

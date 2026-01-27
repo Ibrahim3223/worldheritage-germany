@@ -3,7 +3,7 @@ title: "Bauspar-Museum"
 site_name: "Bauspar-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bauspar-Museum in Wüstenrot, Germany, presents a unique opportunity to explore the world of savings and housing finance through its specialized exhibits."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

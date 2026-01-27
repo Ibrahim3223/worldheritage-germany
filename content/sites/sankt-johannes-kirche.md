@@ -3,7 +3,7 @@ title: "Sankt-Johannes-Kirche"
 site_name: "Sankt-Johannes-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Arendsee (Altmark), Germany"
+description: "Sankt-Johannes-Kirche, located in the quaint town of Arendsee in the Altmark region of Germany, is a remarkable church building that embodies the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

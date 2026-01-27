@@ -3,7 +3,7 @@ title: "townhall Klingenthal"
 site_name: "townhall Klingenthal"
 date: 2026-01-26
 draft: false
-description: "heritage building in Klingenthal, Saxony, Germany"
+description: "Located in the picturesque region of Klingenthal, Saxony, the town hall serves as a central hub for local governance and community engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

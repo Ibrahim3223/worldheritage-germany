@@ -3,7 +3,7 @@ title: "Statue of Alexander von Humboldt, Berlin"
 site_name: "Statue of Alexander von Humboldt, Berlin"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin, Germany"
+description: "The Statue of Alexander von Humboldt in Berlin stands as a tribute to one of the most influential figures in the history of science and exploration."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

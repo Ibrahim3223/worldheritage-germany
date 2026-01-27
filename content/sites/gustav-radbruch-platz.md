@@ -3,7 +3,7 @@ title: "Gustav-Radbruch-Platz"
 site_name: "Gustav-Radbruch-Platz"
 date: 2026-01-26
 draft: false
-description: "square"
+description: "Gustav-Radbruch-Platz is a notable square located in Germany, serving as a vibrant social hub and a gathering place for both locals and visitors."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"

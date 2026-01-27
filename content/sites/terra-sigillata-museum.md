@@ -3,7 +3,7 @@ title: "Terra-Sigillata-Museum"
 site_name: "Terra-Sigillata-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Terra-Sigillata-Museum in Rheinzabern, Germany, serves as a fascinating hub for those intrigued by ancient ceramics and the culture of the Roman Empire."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

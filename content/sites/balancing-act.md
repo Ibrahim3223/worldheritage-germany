@@ -3,7 +3,7 @@ title: "Balancing Act"
 site_name: "Balancing Act"
 date: 2026-01-26
 draft: false
-description: "sculpture by Stephan Balkenhol in Berlin, Germany"
+description: "In the heart of Berlin’s vibrant Friedrichshain-Kreuzberg district lies a striking sculpture that invites contemplation and curiosity: Balancing Act by..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

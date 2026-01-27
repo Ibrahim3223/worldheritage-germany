@@ -3,7 +3,7 @@ title: "Kartäuserkirche (Köln)"
 site_name: "Kartäuserkirche (Köln)"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt-Süd, Germany"
+description: "In the heart of Cologne's Altstadt-Süd, the Kartäuserkirche, or Carthusian Church, stands as a significant monument with deep historical roots."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

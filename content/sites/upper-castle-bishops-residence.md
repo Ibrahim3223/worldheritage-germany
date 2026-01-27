@@ -3,7 +3,7 @@ title: "Upper Castle (Bishops' Residence)"
 site_name: "Upper Castle (Bishops' Residence)"
 date: 2026-01-26
 draft: false
-description: "Ruins of a palatial building complex at Stolpen Castle"
+description: "Perched above the town of Stolpen in Germany, the Upper Castle, also known as the Bishops' Residence, offers a striking glimpse into the grandeur of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

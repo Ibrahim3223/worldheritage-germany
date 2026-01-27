@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung in Burgholz (Türkenfeld)"
 site_name: "Abschnittsbefestigung in Burgholz (Türkenfeld)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Abschnittsbefestigung in Burgholz, located in the picturesque region of Türkenfeld, Germany, is a fascinating example of medieval military architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

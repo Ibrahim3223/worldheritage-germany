@@ -3,7 +3,7 @@ title: "Altemann Colliery"
 site_name: "Altemann Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Altemann Colliery, located in Bochum, Germany, is a significant site that plays a pivotal role in the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Göhrener Ei"
 site_name: "Göhrener Ei"
 date: 2026-01-26
 draft: false
-description: "building complex in Berlin"
+description: "Göhrener Ei is an architectural ensemble located in the vibrant capital of Germany, Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

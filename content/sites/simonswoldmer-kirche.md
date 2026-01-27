@@ -3,7 +3,7 @@ title: "Simonswoldmer Kirche"
 site_name: "Simonswoldmer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Simonswolde, Germany"
+description: "The Simonswoldmer Kirche, a captivating church building located in the quaint village of Simonswolde, Germany, serves as a significant landmark in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Frankfurt-Oberrad"
 site_name: "Frankfurt-Oberrad"
 date: 2026-01-26
 draft: false
-description: "railway halt in Frankfurt, Germany"
+description: "Frankfurt-Oberrad is a quaint railway station located in the vibrant city of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

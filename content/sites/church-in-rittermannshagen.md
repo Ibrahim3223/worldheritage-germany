@@ -3,7 +3,7 @@ title: "Church in Rittermannshagen"
 site_name: "Church in Rittermannshagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Rittermannshagen is a remarkable structure located in the serene region of Faulenrost, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

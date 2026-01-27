@@ -3,7 +3,7 @@ title: "Gemeindebücherei Erkheim"
 site_name: "Gemeindebücherei Erkheim"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Erkheim serves as a vital hub for knowledge and community engagement in the charming town of Erkheim, located in Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

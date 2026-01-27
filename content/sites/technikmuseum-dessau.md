@@ -3,7 +3,7 @@ title: "Technikmuseum Dessau"
 site_name: "Technikmuseum Dessau"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the heart of Dessau-Roßlau, Germany, the Technikmuseum Dessau serves as a fascinating destination for those intrigued by the evolution of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

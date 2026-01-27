@@ -3,7 +3,7 @@ title: "Archive of the Academy of Arts"
 site_name: "Archive of the Academy of Arts"
 date: 2026-01-26
 draft: false
-description: "archive"
+description: "The Archive of the Academy of Arts, located in the Bezirk Mitte district of Berlin, serves as a pivotal repository of knowledge and cultural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

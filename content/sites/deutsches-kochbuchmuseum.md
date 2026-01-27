@@ -3,7 +3,7 @@ title: "Deutsches Kochbuchmuseum"
 site_name: "Deutsches Kochbuchmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Dortmund, Germany, lies the Deutsches Kochbuchmuseum, a unique institution dedicated to the art and history of cooking."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

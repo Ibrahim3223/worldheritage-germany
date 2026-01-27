@@ -3,7 +3,7 @@ title: "Cultural heritage D-5-6833-0309 in Hilpoltstein"
 site_name: "Cultural heritage D-5-6833-0309 in Hilpoltstein"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
+description: "Cultural heritage D-5-6833-0309 in Hilpoltstein is a significant fortification located in the Landkreis Roth, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

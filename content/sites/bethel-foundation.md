@@ -3,7 +3,7 @@ title: "Bethel Foundation"
 site_name: "Bethel Foundation"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Bethel Foundation, located in Bielefeld, Germany, serves as an important institution dedicated to the welfare of individuals with disabilities and their..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

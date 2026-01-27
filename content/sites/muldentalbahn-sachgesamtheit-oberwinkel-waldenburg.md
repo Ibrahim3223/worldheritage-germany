@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit) Oberwinkel (Waldenburg)"
 site_name: "Muldentalbahn (Sachgesamtheit) Oberwinkel (Waldenburg)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the picturesque region of Waldenburg, Germany, the Muldentalbahn (Sachgesamtheit) Oberwinkel stands as a remarkable bridge that intertwines the past with..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

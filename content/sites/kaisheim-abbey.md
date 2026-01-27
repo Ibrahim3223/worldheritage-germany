@@ -3,7 +3,7 @@ title: "Kaisheim Abbey"
 site_name: "Kaisheim Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kaisheim Abbey, an enduring symbol of monastic life in Germany, invites visitors to explore its serene grounds and rich history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

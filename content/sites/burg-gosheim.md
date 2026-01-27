@@ -3,7 +3,7 @@ title: "Burg Gosheim"
 site_name: "Burg Gosheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gosheim, a captivating castle located in the serene region of Huisheim, Germany, stands as an enduring symbol of the rich historical tapestry of the area."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

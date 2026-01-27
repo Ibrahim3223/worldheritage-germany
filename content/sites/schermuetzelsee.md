@@ -3,7 +3,7 @@ title: "Schermützelsee"
 site_name: "Schermützelsee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Schermützelsee, located in the heart of Brandenburg, Germany, is a serene lake that captivates visitors with its natural beauty and tranquil atmosphere."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Frankenstudio Sickershausen"
 site_name: "Frankenstudio Sickershausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Frankenstudio Sickershausen is a compelling museum located in the scenic region of Sickershausen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

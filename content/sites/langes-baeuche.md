@@ -3,7 +3,7 @@ title: "Langes Bäuche"
 site_name: "Langes Bäuche"
 date: 2026-01-26
 draft: false
-description: "cultural monument in Darmstadt, Hesse, Germany"
+description: "Langes Bäuche is a distinguished cultural monument located in the heart of Darmstadt, Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Benedictine Abbey of Steinfeld"
 site_name: "Benedictine Abbey of Steinfeld"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "The Benedictine Abbey of Steinfeld is a significant monastery located in the picturesque region of Kall, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

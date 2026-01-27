@@ -3,7 +3,7 @@ title: "Graach Gate"
 site_name: "Graach Gate"
 date: 2026-01-26
 draft: false
-description: "town gate of the German town of Bernkastel-Kues"
+description: "Graach Gate, a remarkable historical site, serves as a striking entry point to the charming town of Bernkastel-Kues in Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

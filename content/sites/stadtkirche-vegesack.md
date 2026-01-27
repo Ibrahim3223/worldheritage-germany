@@ -3,7 +3,7 @@ title: "Stadtkirche Vegesack"
 site_name: "Stadtkirche Vegesack"
 date: 2026-01-26
 draft: false
-description: "church in Bremen, Germany"
+description: "Stadtkirche Vegesack is a noteworthy church located in the Vegesack district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

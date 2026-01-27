@@ -3,7 +3,7 @@ title: "Burg Leinegg"
 site_name: "Burg Leinegg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leinegg, a castle steeped in the history of the Höchenschwand region in Germany, is a captivating destination for those interested in medieval..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

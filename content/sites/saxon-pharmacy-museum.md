@@ -3,7 +3,7 @@ title: "Saxon Pharmacy Museum"
 site_name: "Saxon Pharmacy Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Leipzig"
+description: "The Saxon Pharmacy Museum, located in Leipzig, Germany, invites visitors to explore the fascinating evolution of pharmacy and medicine over centuries."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

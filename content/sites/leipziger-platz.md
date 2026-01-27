@@ -3,7 +3,7 @@ title: "Leipziger Platz"
 site_name: "Leipziger Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Leipziger Platz is a prominent square located in the heart of Berlin, Germany, specifically in the Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

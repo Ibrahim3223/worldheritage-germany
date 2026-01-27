@@ -3,7 +3,7 @@ title: "Church in Gristow"
 site_name: "Church in Gristow"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "The Church in Gristow is a significant architectural and cultural landmark situated in the heart of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

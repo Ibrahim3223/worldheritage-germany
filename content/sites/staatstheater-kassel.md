@@ -3,7 +3,7 @@ title: "Staatstheater Kassel"
 site_name: "Staatstheater Kassel"
 date: 2026-01-26
 draft: false
-description: "theatre and opera house in Kassel, Germany"
+description: "Staatstheater Kassel, located in the heart of Kassel, Germany, is a prominent theatre and opera house that plays a vital role in the region's cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Museum für zeitgenössische Kunst – Diether Kunerth"
 site_name: "Museum für zeitgenössische Kunst – Diether Kunerth"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Ottobeuren, Germany, the Museum für zeitgenössische Kunst – Diether Kunerth serves as a vital space for contemporary art..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

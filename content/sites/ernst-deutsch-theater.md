@@ -3,7 +3,7 @@ title: "Ernst Deutsch Theater"
 site_name: "Ernst Deutsch Theater"
 date: 2026-01-26
 draft: false
-description: "theatre and former cinema in Hamburg, Germany"
+description: "The Ernst Deutsch Theater, located in the vibrant Hamburg-Nord district of Germany, is a prominent theatre and former cinema that serves as a cultural hub..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

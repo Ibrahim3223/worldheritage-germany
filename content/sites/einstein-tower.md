@@ -3,7 +3,7 @@ title: "Einstein Tower"
 site_name: "Einstein Tower"
 date: 2026-01-26
 draft: false
-description: "astrophysical observatory in Potsdam, Germany"
+description: "The Einstein Tower, an intriguing astrophysical observatory located in Potsdam, Germany, stands as a symbol of scientific discovery and architectural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

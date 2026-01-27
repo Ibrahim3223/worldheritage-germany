@@ -3,7 +3,7 @@ title: "Burgruine"
 site_name: "Burgruine"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-114-393 (0) in Bad Kissingen, Bavaria"
+description: "Perched on a hillside in Bavaria’s scenic Bad Kissingen region, the Burgruine offers visitors a glimpse into the architectural grandeur of medieval castles."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

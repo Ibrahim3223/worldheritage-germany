@@ -3,7 +3,7 @@ title: "Sankt Maria de Victoria (Ingolstadt)"
 site_name: "Sankt Maria de Victoria (Ingolstadt)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Ingolstadt, Germany, Sankt Maria de Victoria stands as a remarkable example of ecclesiastical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

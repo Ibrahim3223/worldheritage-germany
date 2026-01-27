@@ -3,7 +3,7 @@ title: "Köln-Holweide station"
 site_name: "Köln-Holweide station"
 date: 2026-01-26
 draft: false
-description: "railway station in Holweide, Germany"
+description: "Köln-Holweide station serves as an essential node in Germany's extensive railway network, located in the vibrant region of Holweide."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

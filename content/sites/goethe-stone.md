@@ -3,7 +3,7 @@ title: "Goethe stone"
 site_name: "Goethe stone"
 date: 2026-01-26
 draft: false
-description: "memorial in Wiesbaden, Germany"
+description: "The Goethe Stone stands as a poignant memorial in Wiesbaden, Germany, dedicated to the renowned poet and playwright Johann Wolfgang von Goethe."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

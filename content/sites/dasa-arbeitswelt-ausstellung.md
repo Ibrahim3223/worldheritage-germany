@@ -3,7 +3,7 @@ title: "DASA – Arbeitswelt Ausstellung"
 site_name: "DASA – Arbeitswelt Ausstellung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "DASA – Arbeitswelt Ausstellung, located in Dortmund, Germany, serves as a significant cultural landmark that explores the evolution of work and its impact..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

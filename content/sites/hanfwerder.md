@@ -3,7 +3,7 @@ title: "Hanfwerder"
 site_name: "Hanfwerder"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Hanfwerder, an island situated in the picturesque region of Mecklenburg-Vorpommern, Germany, presents a unique blend of natural beauty and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Island"

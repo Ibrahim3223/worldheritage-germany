@@ -3,7 +3,7 @@ title: "Kreuz-Friedhof"
 site_name: "Kreuz-Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Kreuz-Friedhof, located in the vibrant district of Kreuzberg, Berlin, is a cemetery that serves as a poignant reminder of the city's historical narrative."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Neu St. Heribert (Köln)"
 site_name: "Neu St. Heribert (Köln)"
 date: 2026-01-26
 draft: false
-description: "church building in Deutz, Germany"
+description: "Neu St. Heribert in Deutz, Germany, is a striking church building that embodies the spiritual and architectural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

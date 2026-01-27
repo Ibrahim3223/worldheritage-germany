@@ -3,7 +3,7 @@ title: "St. Lüfthildis"
 site_name: "St. Lüfthildis"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Lüfthildis Chapel, a charming church located in the picturesque region of Kesseling, Germany, is a significant site for those interested in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

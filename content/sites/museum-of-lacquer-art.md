@@ -3,7 +3,7 @@ title: "Museum of Lacquer Art"
 site_name: "Museum of Lacquer Art"
 date: 2026-01-26
 draft: false
-description: "museum in Münster, Germany"
+description: "The Museum of Lacquer Art in Münster, Germany, is a unique destination dedicated to the intricate and vibrant world of lacquer art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

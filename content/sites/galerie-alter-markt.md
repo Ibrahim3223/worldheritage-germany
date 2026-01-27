@@ -3,7 +3,7 @@ title: "Galerie Alter Markt"
 site_name: "Galerie Alter Markt"
 date: 2026-01-26
 draft: false
-description: "public square in Halle (Saale), Germany"
+description: "Galerie Alter Markt is a vibrant public square situated in the heart of Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Square"

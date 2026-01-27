@@ -3,7 +3,7 @@ title: "Palas of Scharfenstein Castle"
 site_name: "Palas of Scharfenstein Castle"
 date: 2026-01-26
 draft: false
-description: "Ruins of the former palas of the castle"
+description: "The Palas of Scharfenstein Castle stands as a poignant remnant of the past, inviting visitors to explore the intriguing history that shaped this remarkable..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

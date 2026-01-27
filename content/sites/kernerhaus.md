@@ -3,7 +3,7 @@ title: "Kernerhaus"
 site_name: "Kernerhaus"
 date: 2026-01-26
 draft: false
-description: "building in Weinsberg, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Kernerhaus is a fascinating museum located in Weinsberg, a town in the Stuttgart Government Region of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

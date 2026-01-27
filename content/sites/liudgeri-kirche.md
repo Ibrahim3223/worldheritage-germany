@@ -3,7 +3,7 @@ title: "Liudgeri-Kirche"
 site_name: "Liudgeri-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "Liudgeri-Kirche is a captivating church building located in the tranquil region of Jemgum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

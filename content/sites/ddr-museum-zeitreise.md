@@ -3,7 +3,7 @@ title: "DDR-Museum Zeitreise"
 site_name: "DDR-Museum Zeitreise"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The DDR-Museum Zeitreise offers an intriguing exploration of life in East Germany, presenting a unique opportunity to delve into the culture, society, and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Mahnmal Gerichtsgefängnis Hannover"
 site_name: "Mahnmal Gerichtsgefängnis Hannover"
 date: 2026-01-26
 draft: false
-description: "memorial in Hannover, Germany"
+description: "Mahnmal Gerichtsgefängnis Hannover serves as a poignant memorial located in the heart of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

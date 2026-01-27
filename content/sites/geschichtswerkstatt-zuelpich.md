@@ -3,7 +3,7 @@ title: "Geschichtswerkstatt Zülpich"
 site_name: "Geschichtswerkstatt Zülpich"
 date: 2026-01-26
 draft: false
-description: "Museum zur Stadtgeschichte in Zülpich"
+description: "In the heart of Zülpich, Geschichtswerkstatt Zülpich serves as a vital repository of the town’s storied past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Centrum mosque"
 site_name: "Centrum mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Rendsburg, Germany"
+description: "The Centrum mosque, located in Rendsburg, Germany, serves as a significant place of worship and community gathering for the Muslim population in the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Mosque"

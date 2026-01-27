@@ -3,7 +3,7 @@ title: "Haus der Böhmerwäldler / Adolf-Webinger-Haus"
 site_name: "Haus der Böhmerwäldler / Adolf-Webinger-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Haus der Böhmerwäldler, also known as the Adolf-Webinger-Haus, is a captivating museum located in Germany that serves as a cultural hub for the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

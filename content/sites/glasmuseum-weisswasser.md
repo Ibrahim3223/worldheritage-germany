@@ -3,7 +3,7 @@ title: "Glasmuseum Weißwasser"
 site_name: "Glasmuseum Weißwasser"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmuseum Weißwasser serves as a captivating destination for those intrigued by the art and history of glassmaking."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hl. Engel"
 site_name: "Hl. Engel"
 date: 2026-01-26
 draft: false
-description: "church building in Peine, Germany"
+description: "Located in the charming town of Peine, Germany, Hl. Engel is a church building that serves as a key spiritual and cultural landmark for the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

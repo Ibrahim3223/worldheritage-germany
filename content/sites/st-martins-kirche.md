@@ -3,7 +3,7 @@ title: "St.-Martins-Kirche"
 site_name: "St.-Martins-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Remels, Germany"
+description: "St.-Martins-Kirche, a significant church building located in the picturesque village of Remels in the Uplengen region of Germany, stands as a focal point..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

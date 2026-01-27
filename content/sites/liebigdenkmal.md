@@ -3,7 +3,7 @@ title: "Liebigdenkmal"
 site_name: "Liebigdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Giessen, Germany"
+description: "In the heart of Giessen, Germany, lies the Liebigdenkmal, a monument that honors one of the most influential figures in the world of chemistry, Justus von..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

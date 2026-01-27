@@ -3,7 +3,7 @@ title: "Kirche Golchen"
 site_name: "Kirche Golchen"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Kirche Golchen is a notable church building situated in the picturesque region of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Loschwitzer Kirche"
 site_name: "Loschwitzer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Loschwitz, Germany"
+description: "Loschwitzer Kirche, located in the picturesque district of Loschwitz in Dresden, Germany, serves as a significant landmark both architecturally and culturally."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

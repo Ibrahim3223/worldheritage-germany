@@ -3,7 +3,7 @@ title: "Friedhof der Märzgefallenen"
 site_name: "Friedhof der Märzgefallenen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Friedrichshain-Kreuzberg, Germany"
+description: "Friedhof der Märzgefallenen, a poignant memorial located in the vibrant Friedrichshain-Kreuzberg district of Berlin, serves as a solemn reminder of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Heimatmuseum Haiger"
 site_name: "Heimatmuseum Haiger"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Haiger serves as a captivating window into the local culture and history of Haiger, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

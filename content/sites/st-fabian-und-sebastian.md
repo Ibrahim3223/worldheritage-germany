@@ -3,7 +3,7 @@ title: "St. Fabian und Sebastian"
 site_name: "St. Fabian und Sebastian"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Schwartau, Germany"
+description: "St. Fabian und Sebastian, an intriguing church building located in the quaint town of Bad Schwartau, Germany, serves as a significant landmark reflective of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

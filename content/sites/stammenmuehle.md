@@ -3,7 +3,7 @@ title: "Stammenmühle"
 site_name: "Stammenmühle"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschützte Turmwindmühle mit Steert in Hinsbeck"
+description: "Stammenmühle, a prominently situated windmill in the quaint village of Hinsbeck within the Nettetal region of Germany, serves as a remarkable representation..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

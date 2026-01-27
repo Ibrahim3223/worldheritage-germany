@@ -3,7 +3,7 @@ title: "Betten- und Schlafmuseum Freiberg"
 site_name: "Betten- und Schlafmuseum Freiberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Betten- und Schlafmuseum Freiberg is a distinctive museum located in Freiberg, Germany, that invites visitors to explore the intriguing world of beds..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

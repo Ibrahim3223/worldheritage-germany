@@ -3,7 +3,7 @@ title: "Eschenheimer Turm"
 site_name: "Eschenheimer Turm"
 date: 2026-01-26
 draft: false
-description: "landmark of Frankfurt"
+description: "Eschenheimer Turm, a notable city gate located in the heart of Frankfurt, Germany, serves as a significant landmark steeped in the city’s history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"

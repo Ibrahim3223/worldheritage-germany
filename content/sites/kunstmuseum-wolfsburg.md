@@ -3,7 +3,7 @@ title: "Kunstmuseum Wolfsburg"
 site_name: "Kunstmuseum Wolfsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstmuseum Wolfsburg stands as a prominent destination for contemporary art enthusiasts and cultural explorers alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

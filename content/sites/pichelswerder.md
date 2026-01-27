@@ -3,7 +3,7 @@ title: "Pichelswerder"
 site_name: "Pichelswerder"
 date: 2026-01-26
 draft: false
-description: "island in Berlin, Germany"
+description: "Pichelswerder, an enchanting island situated in the heart of Berlin, Germany, offers a compelling blend of natural beauty and cultural intrigue."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Island"

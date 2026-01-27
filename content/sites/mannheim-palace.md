@@ -3,7 +3,7 @@ title: "Mannheim Palace"
 site_name: "Mannheim Palace"
 date: 2026-01-26
 draft: false
-description: "historic castle in Mannheim, Germany"
+description: "Mannheim Palace, a historic castle located in the heart of Mannheim, Germany, serves as a captivating destination for history enthusiasts and architecture..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

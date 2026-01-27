@@ -3,7 +3,7 @@ title: "Nibelungen Museum Worms"
 site_name: "Nibelungen Museum Worms"
 date: 2026-01-26
 draft: false
-description: "museum in Worms"
+description: "The Nibelungen Museum Worms invites visitors into the world of myths and legends that have shaped German literature and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

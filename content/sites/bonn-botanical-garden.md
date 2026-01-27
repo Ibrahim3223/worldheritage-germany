@@ -3,7 +3,7 @@ title: "Bonn Botanical Garden"
 site_name: "Bonn Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Bonn Botanical Garden, located in the Stadtbezirk Bonn of Germany, serves as a remarkable repository of plant diversity and environmental education."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

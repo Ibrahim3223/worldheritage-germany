@@ -3,7 +3,7 @@ title: "Rundlingsmuseum Lübeln"
 site_name: "Rundlingsmuseum Lübeln"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Rundlingsmuseum Lübeln is a distinctive museum located in the quaint village of Lübeln, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

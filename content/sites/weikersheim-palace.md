@@ -3,7 +3,7 @@ title: "Weikersheim Palace"
 site_name: "Weikersheim Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Weikersheim, Baden-Württemberg. Germany"
+description: "Weikersheim Palace, located in the charming town of Weikersheim in Baden-Württemberg, Germany, is a significant cultural landmark that invites visitors to..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

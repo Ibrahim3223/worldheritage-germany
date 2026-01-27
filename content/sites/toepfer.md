@@ -3,7 +3,7 @@ title: "Töpfer"
 site_name: "Töpfer"
 date: 2026-01-26
 draft: false
-description: "hill in Saxony, Germany"
+description: "Töpfer, a notable mountain located in the Oybin region of Saxony, Germany, provides a unique blend of natural beauty and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

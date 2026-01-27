@@ -3,7 +3,7 @@ title: "Bauhaus Dessau Foundation"
 site_name: "Bauhaus Dessau Foundation"
 date: 2026-01-26
 draft: false
-description: "German foundation"
+description: "The Bauhaus Dessau Foundation occupies a significant place in the narrative of modern art and design, serving as both a museum and a cultural hub dedicated..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

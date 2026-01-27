@@ -3,7 +3,7 @@ title: "Zweite Heilbronner Synagoge"
 site_name: "Zweite Heilbronner Synagoge"
 date: 2026-01-26
 draft: false
-description: "building in Heilbronn, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "The Zweite Heilbronner Synagoge, a significant Jewish place of worship located in Heilbronn, Germany, serves as a poignant reminder of the Jewish..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

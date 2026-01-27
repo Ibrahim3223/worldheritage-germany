@@ -3,7 +3,7 @@ title: "Zeche Carl Funke"
 site_name: "Zeche Carl Funke"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carl Funke, located in the vibrant city of Essen, Germany, is a significant historical site that embodies the industrial legacy of the Ruhr area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

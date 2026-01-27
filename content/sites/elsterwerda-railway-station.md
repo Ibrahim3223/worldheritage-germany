@@ -3,7 +3,7 @@ title: "Elsterwerda railway station"
 site_name: "Elsterwerda railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Elsterwerda, Germany"
+description: "Elsterwerda railway station is a vital transport hub located in the town of Elsterwerda, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"

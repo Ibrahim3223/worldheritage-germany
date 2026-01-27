@@ -3,7 +3,7 @@ title: "Museum Tegernseer Tal"
 site_name: "Museum Tegernseer Tal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum Tegernseer Tal, located in the heart of Germany, offers visitors an engaging glimpse into the local culture and heritage of the Tegernsee Valley."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

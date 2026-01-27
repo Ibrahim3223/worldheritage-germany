@@ -3,7 +3,7 @@ title: "Museum Wäschefabrik Bielefeld"
 site_name: "Museum Wäschefabrik Bielefeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Wäschefabrik Bielefeld is a unique museum located in the heart of Bielefeld, Germany, dedicated to showcasing the rich heritage of textile..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

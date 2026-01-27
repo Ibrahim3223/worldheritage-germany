@@ -3,7 +3,7 @@ title: "Church in Bartow"
 site_name: "Church in Bartow"
 date: 2026-01-26
 draft: false
-description: "church building in Bartow, Germany"
+description: "In the heart of Bartow, Germany, the Church in Bartow stands as an emblem of cultural and spiritual significance."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

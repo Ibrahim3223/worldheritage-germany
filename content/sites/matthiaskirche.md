@@ -3,7 +3,7 @@ title: "Matthiaskirche"
 site_name: "Matthiaskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "Matthiaskirche, a remarkable church building located in Hannover, Germany, serves as a significant landmark in the region of Buchholz-Kleefeld."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

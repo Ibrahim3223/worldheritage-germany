@@ -3,7 +3,7 @@ title: "Seppeler-Kapelle"
 site_name: "Seppeler-Kapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Seppeler-Kapelle, a church building located in the town of Verl, Germany, offers visitors a glimpse into the spiritual and architectural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

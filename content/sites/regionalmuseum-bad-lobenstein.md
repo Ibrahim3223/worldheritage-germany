@@ -3,7 +3,7 @@ title: "Regionalmuseum Bad Lobenstein"
 site_name: "Regionalmuseum Bad Lobenstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Regionalmuseum Bad Lobenstein is a cultural institution located in the charming town of Bad Lobenstein, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Gut Altfresenburg: Torhaus"
 site_name: "Gut Altfresenburg: Torhaus"
 date: 2026-01-26
 draft: false
-description: "Torhaus in Bad Oldesloe, Schleswig-Holstein"
+description: "In the heart of Bad Oldesloe, Schleswig-Holstein, the Gut Altfresenburg: Torhaus stands as an impressive gatehouse that encapsulates the architectural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

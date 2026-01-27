@@ -3,7 +3,7 @@ title: "Heimatmuseum Mannheim-Rheinau"
 site_name: "Heimatmuseum Mannheim-Rheinau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Mannheim-Rheinau serves as a local cultural repository, showcasing the heritage and history of the Mannheim-Rheinau area in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

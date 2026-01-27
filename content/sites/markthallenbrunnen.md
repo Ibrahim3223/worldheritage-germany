@@ -3,7 +3,7 @@ title: "Markthallenbrunnen"
 site_name: "Markthallenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Berlin, Germany"
+description: "The Markthallenbrunnen is a notable fountain located in the Bezirk Mitte district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

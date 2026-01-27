@@ -3,7 +3,7 @@ title: "Galerie im Alten Rathaus"
 site_name: "Galerie im Alten Rathaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Galerie im Alten Rathaus, a distinguished museum located in Germany, invites visitors to explore a space where art and culture converge within a historic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

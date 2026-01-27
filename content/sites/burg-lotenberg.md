@@ -3,7 +3,7 @@ title: "Burg Lotenberg"
 site_name: "Burg Lotenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lotenberg, a historic castle located in the Eschenbach region of Germany, invites visitors to explore its medieval charm and architectural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

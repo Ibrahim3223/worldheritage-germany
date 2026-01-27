@@ -3,7 +3,7 @@ title: "Messingwerk Finow"
 site_name: "Messingwerk Finow"
 date: 2026-01-26
 draft: false
-description: "historische Hütte für Sekundärmetall"
+description: "Messingwerk Finow, located in the region of Finow, Germany, is an intriguing site that encapsulates the essence of industrial heritage through its..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"

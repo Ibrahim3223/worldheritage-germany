@@ -3,7 +3,7 @@ title: "Synagogue in Hainsfarth"
 site_name: "Synagogue in Hainsfarth"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue in Hainsfarth is an emblem of the Jewish heritage that once flourished in this corner of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

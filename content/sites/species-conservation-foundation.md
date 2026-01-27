@@ -3,7 +3,7 @@ title: "Species Conservation Foundation"
 site_name: "Species Conservation Foundation"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Species Conservation Foundation in Münster, Germany, serves as a vital institution dedicated to the preservation and protection of biodiversity and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Schlayerturm (Nürnberg)"
 site_name: "Schlayerturm (Nürnberg)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Schlayerturm, an intriguing tower located in Nürnberg, Germany, offers visitors a unique glimpse into the architectural and historical fabric of the city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

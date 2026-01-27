@@ -3,7 +3,7 @@ title: "University Library of Humboldt-Universität zu Berlin"
 site_name: "University Library of Humboldt-Universität zu Berlin"
 date: 2026-01-26
 draft: false
-description: "academic library of the Humboldt-Universität zu Berlin in Berlin, Germany"
+description: "The University Library of Humboldt-Universität zu Berlin, an integral part of one of Germany's most prestigious universities, serves as a vital academic..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

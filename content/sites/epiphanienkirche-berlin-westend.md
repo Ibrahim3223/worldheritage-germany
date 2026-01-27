@@ -3,7 +3,7 @@ title: "Epiphanienkirche (Berlin-Westend)"
 site_name: "Epiphanienkirche (Berlin-Westend)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Epiphanienkirche, located in the Charlottenburg borough of Berlin-Westend, is a striking church building that serves as a significant landmark within the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

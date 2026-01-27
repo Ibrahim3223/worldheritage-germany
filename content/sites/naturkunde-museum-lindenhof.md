@@ -3,7 +3,7 @@ title: "Naturkunde-Museum Lindenhof"
 site_name: "Naturkunde-Museum Lindenhof"
 date: 2026-01-26
 draft: false
-description: "Museum in Bayreuth"
+description: "The Naturkunde-Museum Lindenhof, located in the charming city of Bayreuth, Germany, serves as an engaging hub for natural history enthusiasts and curious..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

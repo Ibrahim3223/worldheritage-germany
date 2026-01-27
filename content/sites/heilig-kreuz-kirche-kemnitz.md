@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kirche (Kemnitz)"
 site_name: "Heilig-Kreuz-Kirche (Kemnitz)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Kreuz-Kirche, located in the charming region of Kemnitz, Germany, is a notable church building that stands as a significant landmark with deep..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

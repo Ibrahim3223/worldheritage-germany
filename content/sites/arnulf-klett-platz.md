@@ -3,7 +3,7 @@ title: "Arnulf-Klett-Platz"
 site_name: "Arnulf-Klett-Platz"
 date: 2026-01-26
 draft: false
-description: "public square in Stuttgart, Germany"
+description: "Arnulf-Klett-Platz is a prominent public square situated in the heart of Stuttgart, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Square"

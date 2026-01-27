@@ -3,7 +3,7 @@ title: "Marburg Art Museum"
 site_name: "Marburg Art Museum"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Marburg Art Museum, located in the picturesque region of Hesse, Germany, offers an engaging exploration of art and culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

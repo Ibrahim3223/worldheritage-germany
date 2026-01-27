@@ -3,7 +3,7 @@ title: "Brandberge"
 site_name: "Brandberge"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Sachsen-Anhalt, Germany"
+description: "Brandberge is a captivating nature reserve located in Halle (Saale), in the state of Sachsen-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

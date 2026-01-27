@@ -3,7 +3,7 @@ title: "Brewery and Bakery Museum Kulmbach"
 site_name: "Brewery and Bakery Museum Kulmbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brewery and Bakery Museum Kulmbach serves as a unique tribute to two of the most cherished traditions in German culture: brewing and baking."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

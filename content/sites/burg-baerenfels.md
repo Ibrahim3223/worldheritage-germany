@@ -3,7 +3,7 @@ title: "Burg Bärenfels"
 site_name: "Burg Bärenfels"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Perched in the serene landscape of Wehr, Germany, Burg Bärenfels is a captivating tower that invites visitors to explore its storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

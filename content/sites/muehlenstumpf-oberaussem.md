@@ -3,7 +3,7 @@ title: "Mühlenstumpf Oberaußem"
 site_name: "Mühlenstumpf Oberaußem"
 date: 2026-01-26
 draft: false
-description: "aus Backstein errichteter Turmholländer in Oberaußem"
+description: "Mühlenstumpf Oberaußem is an intriguing windmill situated in the quaint town of Oberaußem, within the Bergheim region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

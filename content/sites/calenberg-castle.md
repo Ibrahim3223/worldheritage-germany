@@ -3,7 +3,7 @@ title: "Calenberg Castle"
 site_name: "Calenberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Schulenburg, Region Hannover, Germany"
+description: "Calenberg Castle, located in the quaint town of Schulenburg in the Region Hannover, Germany, stands as a remarkable example of medieval architecture and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

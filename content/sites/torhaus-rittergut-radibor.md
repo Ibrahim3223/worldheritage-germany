@@ -3,7 +3,7 @@ title: "Torhaus (Rittergut Radibor)"
 site_name: "Torhaus (Rittergut Radibor)"
 date: 2026-01-26
 draft: false
-description: "monument, Radibor, Germany"
+description: "In the heart of Radibor, Germany, stands the Torhaus, an intriguing gatehouse that invites exploration and appreciation for its architectural and historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

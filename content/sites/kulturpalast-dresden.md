@@ -3,7 +3,7 @@ title: "Kulturpalast Dresden"
 site_name: "Kulturpalast Dresden"
 date: 2026-01-26
 draft: false
-description: "concert hall in Dresden, Germany"
+description: "The Kulturpalast Dresden stands as a multifaceted cultural hub in the heart of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

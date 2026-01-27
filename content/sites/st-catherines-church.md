@@ -3,7 +3,7 @@ title: "St. Catherine's Church"
 site_name: "St. Catherine's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Lübeck's Old City, Germany"
+description: "St. Catherine's Church, an emblematic church building located in Lübeck's Old City, Germany, invites visitors to explore its historical and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

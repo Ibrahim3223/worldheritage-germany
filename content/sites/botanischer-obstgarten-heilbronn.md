@@ -3,7 +3,7 @@ title: "Botanischer Obstgarten Heilbronn"
 site_name: "Botanischer Obstgarten Heilbronn"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Obstgarten Heilbronn is a botanical garden located in the vibrant city of Heilbronn, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

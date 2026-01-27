@@ -3,7 +3,7 @@ title: "Gedenkstätte für NS-Opfer in Neustadt"
 site_name: "Gedenkstätte für NS-Opfer in Neustadt"
 date: 2026-01-26
 draft: false
-description: "memorial in Germany"
+description: "The Gedenkstätte für NS-Opfer in Neustadt serves as a poignant memorial dedicated to the victims of National Socialism in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

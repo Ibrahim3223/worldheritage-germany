@@ -3,7 +3,7 @@ title: "FC St. Pauli-Museum"
 site_name: "FC St. Pauli-Museum"
 date: 2026-01-26
 draft: false
-description: "museum of the German football club FC St. Pauli"
+description: "In the vibrant city of Hamburg, Germany, the FC St. Pauli-Museum offers an insightful glimpse into the heart and soul of one of the country's most famous..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

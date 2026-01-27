@@ -3,7 +3,7 @@ title: "Weisenauer Synagogue Mainz"
 site_name: "Weisenauer Synagogue Mainz"
 date: 2026-01-26
 draft: false
-description: "Weisenauer Synagogue Mainz"
+description: "The Weisenauer Synagogue in Mainz stands as a notable landmark within the vibrant historical tapestry of the city."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

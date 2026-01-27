@@ -3,7 +3,7 @@ title: "Alte Synagoge"
 site_name: "Alte Synagoge"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Heilbronn, Germany"
+description: "The Alte Synagoge in Heilbronn, Germany, is a significant historical site that reflects the Jewish heritage and cultural history of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

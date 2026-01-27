@@ -3,7 +3,7 @@ title: "Pleinfelder Tor"
 site_name: "Pleinfelder Tor"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Pleinfelder Tor, an imposing tower located in the charming region of Ellingen, Germany, invites visitors to explore its historical significance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

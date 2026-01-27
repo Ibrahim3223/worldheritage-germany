@@ -3,7 +3,7 @@ title: "Congress Center Hamburg"
 site_name: "Congress Center Hamburg"
 date: 2026-01-26
 draft: false
-description: "convention centre and event venue in Hamburg, Germany"
+description: "The Congress Center Hamburg is a prominent multi-purpose hall located in the heart of Hamburg-Mitte, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

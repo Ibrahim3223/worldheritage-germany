@@ -3,7 +3,7 @@ title: "St. Norbert (Magdeburg)"
 site_name: "St. Norbert (Magdeburg)"
 date: 2026-01-26
 draft: false
-description: "church building in Magdeburg, Saxony-Anhalt, Germany"
+description: "St. Norbert in Magdeburg is a remarkable church building that embodies the historical and architectural legacy of Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

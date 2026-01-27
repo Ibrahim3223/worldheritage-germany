@@ -3,7 +3,7 @@ title: "German Forum for Crime Prevention"
 site_name: "German Forum for Crime Prevention"
 date: 2026-01-26
 draft: false
-description: "German foundation for the promotion of crime prevention"
+description: "The German Forum for Crime Prevention, located in Bonn, Germany, is a prominent foundation dedicated to the advancement of crime prevention strategies..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

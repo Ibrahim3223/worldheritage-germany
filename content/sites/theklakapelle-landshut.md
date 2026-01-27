@@ -3,7 +3,7 @@ title: "Theklakapelle (Landshut)"
 site_name: "Theklakapelle (Landshut)"
 date: 2026-01-26
 draft: false
-description: "church building in Landshut, Lower Bavaria, Germany"
+description: "The Theklakapelle, a church building located in the heart of Landshut, Lower Bavaria, Germany, is a noteworthy site that captures the essence of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Augustinerkloster Würzburg"
 site_name: "Augustinerkloster Würzburg"
 date: 2026-01-26
 draft: false
-description: "building in Würzburg, Lower Franconia, Germany"
+description: "Augustinerkloster Würzburg, located in the picturesque city of Würzburg in Lower Franconia, Germany, is a monastery that embodies the spiritual and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

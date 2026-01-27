@@ -3,7 +3,7 @@ title: "Tierpark Weißwasser"
 site_name: "Tierpark Weißwasser"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "In the heart of Weißwasser, Germany, lies Tierpark Weißwasser, a captivating zoo that offers visitors a glimpse into the world of wildlife."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"

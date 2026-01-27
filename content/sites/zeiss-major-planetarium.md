@@ -3,7 +3,7 @@ title: "Zeiss Major Planetarium"
 site_name: "Zeiss Major Planetarium"
 date: 2026-01-26
 draft: false
-description: "planetarium in Prenzlauer Berg, Berlin, Germany"
+description: "The Zeiss Major Planetarium in Prenzlauer Berg, Berlin, is a remarkable venue that combines the wonders of astronomy with state-of-the-art cinematic technology."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

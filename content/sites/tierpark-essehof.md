@@ -3,7 +3,7 @@ title: "Tierpark Essehof"
 site_name: "Tierpark Essehof"
 date: 2026-01-26
 draft: false
-description: "zoo in Lehre, Landkreis Helmstedt, Germany"
+description: "Tierpark Essehof is a captivating zoo located in the picturesque region of Lehre, Germany, within Landkreis Helmstedt."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

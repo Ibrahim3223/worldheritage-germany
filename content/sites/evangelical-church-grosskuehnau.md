@@ -3,7 +3,7 @@ title: "Evangelical Church Großkühnau"
 site_name: "Evangelical Church Großkühnau"
 date: 2026-01-26
 draft: false
-description: "church building in Großkühnau, Dessau-Roßlau, Saxony-Anhalt, Germany"
+description: "The Evangelical Church Großkühnau, located in the quaint district of Großkühnau within Dessau-Roßlau, Saxony-Anhalt, Germany, is a compelling destination..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

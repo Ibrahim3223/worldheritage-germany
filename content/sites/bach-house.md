@@ -3,7 +3,7 @@ title: "Bach House"
 site_name: "Bach House"
 date: 2026-01-26
 draft: false
-description: "museum in Eisenach, Thuringia, Germany"
+description: "Bach House, located in the heart of Eisenach, Germany, serves as a cultural landmark dedicated to one of the most influential composers in Western music..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

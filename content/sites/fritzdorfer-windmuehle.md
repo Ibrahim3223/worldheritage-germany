@@ -3,7 +3,7 @@ title: "Fritzdorfer Windmühle"
 site_name: "Fritzdorfer Windmühle"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Fritzdorfer Windmühle is a striking windmill located in the picturesque region of Wachtberg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

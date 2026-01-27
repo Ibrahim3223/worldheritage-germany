@@ -3,7 +3,7 @@ title: "Römermuseum Mainhardt"
 site_name: "Römermuseum Mainhardt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römermuseum Mainhardt is a dedicated cultural institution in Germany that invites visitors to explore the intricacies of Roman history and heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

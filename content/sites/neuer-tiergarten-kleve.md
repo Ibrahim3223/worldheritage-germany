@@ -3,7 +3,7 @@ title: "Neuer Tiergarten Kleve"
 site_name: "Neuer Tiergarten Kleve"
 date: 2026-01-26
 draft: false
-description: "garden in Kleve, Germany"
+description: "In the tranquil setting of Kleve, Germany, lies Neuer Tiergarten Kleve, a garden that offers a peaceful retreat and a glimpse into the harmonious..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Garden"

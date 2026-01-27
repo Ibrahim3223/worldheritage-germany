@@ -3,7 +3,7 @@ title: "Altes Amtsgericht Böblingen"
 site_name: "Altes Amtsgericht Böblingen"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Gerichtsgebäude"
+description: "Altes Amtsgericht Böblingen, a former courthouse located in the heart of Böblingen, Germany, stands as a noteworthy example of historical architecture that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"

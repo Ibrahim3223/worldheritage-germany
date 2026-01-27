@@ -3,7 +3,7 @@ title: "Keltenmuseum Manching"
 site_name: "Keltenmuseum Manching"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Keltenmuseum Manching offers an insightful glimpse into the fascinating world of the Celts, an ancient people whose influence shaped much of Europe."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

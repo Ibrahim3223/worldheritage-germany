@@ -3,7 +3,7 @@ title: "Burg Liebenstein"
 site_name: "Burg Liebenstein"
 date: 2026-01-26
 draft: false
-description: "castle in Bayern"
+description: "Burg Liebenstein, a captivating castle located in the Plößberg region of Bavaria, Germany, stands as a remarkable example of medieval architecture and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

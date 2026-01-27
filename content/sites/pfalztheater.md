@@ -3,7 +3,7 @@ title: "Pfalztheater"
 site_name: "Pfalztheater"
 date: 2026-01-26
 draft: false
-description: "Theater und Opernhaus in Kaiserslautern, Rheinland-Pfalz"
+description: "In the heart of Kaiserslautern, Germany, the Pfalztheater stands as a vibrant hub for the performing arts, where tradition and contemporary expression converge."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Kaiser Wilhelm Memorial Cemetery"
 site_name: "Kaiser Wilhelm Memorial Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Kaiser Wilhelm Memorial Cemetery is a poignant site located in Berlin, Germany, that serves as both a burial ground and a historical landmark."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

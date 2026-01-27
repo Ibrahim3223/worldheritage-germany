@@ -3,7 +3,7 @@ title: "Untertor (Jerusalemer Tor)"
 site_name: "Untertor (Jerusalemer Tor)"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Untertor, also known as Jerusalemer Tor, stands as a remarkable city gate situated in the historic town of Büdingen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

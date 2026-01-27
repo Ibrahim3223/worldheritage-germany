@@ -3,7 +3,7 @@ title: "Brücke der Eisenbahnlinie Dresden–Berlin (parallel zur Pollmerallee) 
 site_name: "Brücke der Eisenbahnlinie Dresden–Berlin (parallel zur Pollmerallee) Großenhain"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke der Eisenbahnlinie Dresden–Berlin, located in Großenhain, Germany, is an engineering marvel that exemplifies the rich history of railway..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

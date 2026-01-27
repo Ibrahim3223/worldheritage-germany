@@ -3,7 +3,7 @@ title: "Zwölfgipfelblick"
 site_name: "Zwölfgipfelblick"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zwölfgipfelblick, located in the heart of Germany, is not just a mountain; it is a destination that offers visitors a unique interaction with nature and a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Fürst zu Stolberg-Wernigerodesche Bibliothek"
 site_name: "Fürst zu Stolberg-Wernigerodesche Bibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Fürst zu Stolberg-Wernigerodesche Bibliothek, located in the charming town of Wernigerode, Germany, is a notable library that captures the essence of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

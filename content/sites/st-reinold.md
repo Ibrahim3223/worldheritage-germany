@@ -3,7 +3,7 @@ title: "St. Reinold"
 site_name: "St. Reinold"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Vennhausen, Germany"
+description: "St. Reinold Church, located in the Düsseldorf district of Vennhausen, is a remarkable ecclesiastical structure that embodies the spiritual and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

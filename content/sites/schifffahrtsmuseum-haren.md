@@ -3,7 +3,7 @@ title: "Schifffahrtsmuseum Haren"
 site_name: "Schifffahrtsmuseum Haren"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schifffahrtsmuseum Haren serves as a vital cultural repository, celebrating the maritime heritage of the region with a focus on the significance of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

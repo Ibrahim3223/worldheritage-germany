@@ -3,7 +3,7 @@ title: "Goldberger See"
 site_name: "Goldberger See"
 date: 2026-01-26
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
+description: "Goldberger See, a serene lake located in the Ludwigslust-Parchim District of Mecklenburg-Vorpommern, Germany, invites visitors to experience the tranquil..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

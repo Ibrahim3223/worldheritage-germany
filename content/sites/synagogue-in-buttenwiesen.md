@@ -3,7 +3,7 @@ title: "Synagogue in Buttenwiesen"
 site_name: "Synagogue in Buttenwiesen"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue in Buttenwiesen is a significant cultural and historical landmark located in the heart of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

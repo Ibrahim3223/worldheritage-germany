@@ -3,7 +3,7 @@ title: "Luisenstadt Cemetery"
 site_name: "Luisenstadt Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Luisenstadt Cemetery, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, Germany, is a place of reflection and remembrance, offering..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

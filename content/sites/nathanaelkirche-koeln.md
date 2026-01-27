@@ -3,7 +3,7 @@ title: "Nathanaelkirche (Köln)"
 site_name: "Nathanaelkirche (Köln)"
 date: 2026-01-26
 draft: false
-description: "church building in Bilderstöckchen, Germany"
+description: "Tucked away in the vibrant district of Bilderstöckchen in Cologne, the Nathanaelkirche is a striking church building that invites both worshippers and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Evangelisches Johannesstift"
 site_name: "Evangelisches Johannesstift"
 date: 2026-01-26
 draft: false
-description: "Berlin, Germany"
+description: "Evangelisches Johannesstift stands as a significant architectural ensemble in Spandau, Berlin, providing visitors with a glimpse into the rich heritage of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

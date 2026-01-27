@@ -3,7 +3,7 @@ title: "Friedrich-Ludwig-Jahn-Denkmal"
 site_name: "Friedrich-Ludwig-Jahn-Denkmal"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Friedrich-Ludwig-Jahn-Denkmal, located in Frankfurt, Germany, serves as an architectural tribute to an influential figure in German history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

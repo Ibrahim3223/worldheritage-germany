@@ -3,7 +3,7 @@ title: "Elberfelder Armenpflegedenkmal"
 site_name: "Elberfelder Armenpflegedenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Wuppertal, Germany"
+description: "The Elberfelder Armenpflegedenkmal is a significant monument located in Wuppertal, Germany, standing as a nod to the city's historical commitment to social..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

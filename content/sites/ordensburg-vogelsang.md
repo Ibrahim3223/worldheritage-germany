@@ -3,7 +3,7 @@ title: "Ordensburg Vogelsang"
 site_name: "Ordensburg Vogelsang"
 date: 2026-01-26
 draft: false
-description: "former Nazi elite school in Germany"
+description: "Ordensburg Vogelsang, located in the serene landscape of Schleiden, Germany, serves as a compelling museum that explores the complex and often troubling..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

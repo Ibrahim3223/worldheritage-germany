@@ -3,7 +3,7 @@ title: "Beethoven-Oberschule"
 site_name: "Beethoven-Oberschule"
 date: 2026-01-26
 draft: false
-description: "school in Berlin, Germany"
+description: "The Beethoven-Oberschule stands as a notable educational institution in Berlin, Germany, blending the essence of historical significance with modern..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

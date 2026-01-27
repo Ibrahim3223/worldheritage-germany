@@ -3,7 +3,7 @@ title: "Dreckburg"
 site_name: "Dreckburg"
 date: 2026-01-26
 draft: false
-description: "castle in Salzkotten, Germany"
+description: "Dreckburg, an elegant manor house situated in Salzkotten, Germany, captivates visitors with its historical charm and architectural grace."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

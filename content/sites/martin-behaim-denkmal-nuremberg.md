@@ -3,7 +3,7 @@ title: "Martin-Behaim-Denkmal (Nuremberg)"
 site_name: "Martin-Behaim-Denkmal (Nuremberg)"
 date: 2026-01-26
 draft: false
-description: "monument in Nuremberg, Germany"
+description: "In the heart of Nuremberg, Germany, a remarkable statue commemorates the legacy of Martin Behaim, a significant figure in the age of exploration."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "borders of the Roman Empire"
 site_name: "borders of the Roman Empire"
 date: 2026-01-26
 draft: false
-description: "world heritage site (limes in Germany and UK)"
+description: "The borders of the Roman Empire mark an extraordinary architectural ensemble that encapsulates the might and planning of one of history's most influential..."
 region: "Germany"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

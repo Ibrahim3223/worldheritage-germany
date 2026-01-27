@@ -3,7 +3,7 @@ title: "Antikolonialdenkmal"
 site_name: "Antikolonialdenkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Bremen, Germany"
+description: "The Antikolonialdenkmal, a poignant monument located in the Schwachhausen district of Bremen, Germany, invites visitors to reflect on the complex narratives..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Monument"

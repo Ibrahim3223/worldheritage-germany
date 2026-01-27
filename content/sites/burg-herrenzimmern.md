@@ -3,7 +3,7 @@ title: "Burg Herrenzimmern"
 site_name: "Burg Herrenzimmern"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Herrenzimmern, a castle located in the picturesque Rottweil region of Germany, offers a glimpse into the storied past of medieval architecture and the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

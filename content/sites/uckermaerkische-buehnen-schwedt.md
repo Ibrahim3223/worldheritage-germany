@@ -3,7 +3,7 @@ title: "Uckermärkische Bühnen Schwedt"
 site_name: "Uckermärkische Bühnen Schwedt"
 date: 2026-01-26
 draft: false
-description: "municipal theatre of Schwedt, Brandenburg, Germany"
+description: "The Uckermärkische Bühnen Schwedt serves as a vibrant cultural hub in the town of Schwedt/Oder, Germany, contributing to the artistic landscape of Brandenburg."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"

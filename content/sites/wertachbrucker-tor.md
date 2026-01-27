@@ -3,7 +3,7 @@ title: "Wertachbrucker Tor"
 site_name: "Wertachbrucker Tor"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Wertachbrucker Tor stands as an evocative symbol of Augsburg's historical landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

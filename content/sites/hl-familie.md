@@ -3,7 +3,7 @@ title: "Hl. Familie"
 site_name: "Hl. Familie"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Hl. Familie is a striking church building located in the Arnsberg region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

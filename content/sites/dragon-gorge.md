@@ -3,7 +3,7 @@ title: "Dragon Gorge"
 site_name: "Dragon Gorge"
 date: 2026-01-26
 draft: false
-description: "gorge near Eisenach"
+description: "Dragon Gorge, located near the town of Eisenach in Germany, presents an intriguing natural landscape characterized by its striking rock formations and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Valley"

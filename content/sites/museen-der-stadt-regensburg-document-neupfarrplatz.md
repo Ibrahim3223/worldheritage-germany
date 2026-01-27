@@ -3,7 +3,7 @@ title: "Museen der Stadt Regensburg / document Neupfarrplatz"
 site_name: "Museen der Stadt Regensburg / document Neupfarrplatz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museen der Stadt Regensburg, located at Neupfarrplatz, offers a profound insight into the cultural and historical fabric of one of Germany's most..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

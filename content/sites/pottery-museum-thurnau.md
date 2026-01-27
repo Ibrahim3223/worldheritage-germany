@@ -3,7 +3,7 @@ title: "Pottery museum Thurnau"
 site_name: "Pottery museum Thurnau"
 date: 2026-01-26
 draft: false
-description: "museum in Thurnau, Bavaria"
+description: "In the heart of Bavaria lies the Pottery Museum Thurnau, a cultural institution dedicated to showcasing the art and craft of pottery in a region that has..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

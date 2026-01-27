@@ -3,7 +3,7 @@ title: "Kapelle auf der Schlade"
 site_name: "Kapelle auf der Schlade"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Kapelle auf der Schlade is a captivating chapel located in the picturesque region of Meschede, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

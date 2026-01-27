@@ -3,7 +3,7 @@ title: "Fondation Ernst Barlach"
 site_name: "Fondation Ernst Barlach"
 date: 2026-01-26
 draft: false
-description: "German foundation in Güstrow"
+description: "The Fondation Ernst Barlach in Güstrow, Germany, is a cultural institution dedicated to the life and work of the renowned German expressionist artist Ernst..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

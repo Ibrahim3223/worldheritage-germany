@@ -3,7 +3,7 @@ title: "Wenzel-Hablik-Museum"
 site_name: "Wenzel-Hablik-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wenzel-Hablik-Museum in Itzehoe, Germany, offers a unique glimpse into the world of the artist Wenzel Hablik, whose work transcends mere aesthetics to..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

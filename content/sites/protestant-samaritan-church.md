@@ -3,7 +3,7 @@ title: "Protestant Samaritan Church"
 site_name: "Protestant Samaritan Church"
 date: 2026-01-26
 draft: false
-description: "church building in Friedrichshain-Kreuzberg, Germany"
+description: "The Protestant Samaritan Church, located in the vibrant district of Friedrichshain-Kreuzberg in Germany, is a noteworthy example of architectural and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

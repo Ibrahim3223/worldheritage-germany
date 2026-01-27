@@ -3,7 +3,7 @@ title: "Old Catholic parish church of St. Anthony Abbas"
 site_name: "Old Catholic parish church of St. Anthony Abbas"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Old Catholic parish church of St. Anthony Abbas is a significant religious and cultural landmark located in Bedburg-Hau, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

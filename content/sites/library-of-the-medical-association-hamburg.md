@@ -3,7 +3,7 @@ title: "Library of the Medical Association Hamburg"
 site_name: "Library of the Medical Association Hamburg"
 date: 2026-01-26
 draft: false
-description: "former Medical library"
+description: "The Library of the Medical Association Hamburg stands as a significant repository of medical knowledge within the vibrant city of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Library"

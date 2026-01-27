@@ -3,7 +3,7 @@ title: "Museum Curt Herrmann"
 site_name: "Museum Curt Herrmann"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Curt Herrmann, located in Germany, is a noteworthy institution that invites visitors to explore its curated collections and exhibitions."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

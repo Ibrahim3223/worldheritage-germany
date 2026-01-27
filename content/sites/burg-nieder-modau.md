@@ -3,7 +3,7 @@ title: "Burg Nieder-Modau"
 site_name: "Burg Nieder-Modau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the serene surroundings of Nieder-Modau, Burg Nieder-Modau invites visitors to explore its storied past and architectural beauty."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Bucerius Kunst Forum"
 site_name: "Bucerius Kunst Forum"
 date: 2026-01-26
 draft: false
-description: "art museum in Hamburg, Germany"
+description: "In the heart of Hamburg, Germany, the Bucerius Kunst Forum stands out as a significant destination for art enthusiasts and cultural explorers alike."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

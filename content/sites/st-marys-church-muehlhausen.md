@@ -3,7 +3,7 @@ title: "St. Mary's Church, Mühlhausen"
 site_name: "St. Mary's Church, Mühlhausen"
 date: 2026-01-26
 draft: false
-description: "church building in Thuringia, Germany"
+description: "St. Mary's Church, located in the heart of Mühlhausen, Thuringia, is a striking example of ecclesiastical architecture that has served as a cornerstone of..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"

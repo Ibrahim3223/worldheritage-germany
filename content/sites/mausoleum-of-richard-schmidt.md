@@ -3,7 +3,7 @@ title: "mausoleum of Richard Schmidt"
 site_name: "mausoleum of Richard Schmidt"
 date: 2026-01-26
 draft: false
-description: "mausoleum in Buchholz in der Nordheide"
+description: "The Mausoleum of Richard Schmidt in Buchholz in der Nordheide, Germany, is a remarkable structure that serves as a final resting place for a significant..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

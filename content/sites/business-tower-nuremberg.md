@@ -3,7 +3,7 @@ title: "Business-Tower (Nuremberg)"
 site_name: "Business-Tower (Nuremberg)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "In the heart of Nuremberg, Germany, the Business-Tower commands attention as a modern architectural landmark that encapsulates the city's blend of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

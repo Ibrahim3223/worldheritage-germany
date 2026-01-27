@@ -3,7 +3,7 @@ title: "St. Andreas Church"
 site_name: "St. Andreas Church"
 date: 2026-01-26
 draft: false
-description: "church in Köln-Altstadt-Nord, Germany"
+description: "St. Andreas Church, located in the heart of Köln-Altstadt-Nord, Germany, is a remarkable example of religious architecture that captivates both locals and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

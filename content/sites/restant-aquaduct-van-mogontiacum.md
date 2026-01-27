@@ -3,7 +3,7 @@ title: "Restant aquaduct van Mogontiacum"
 site_name: "Restant aquaduct van Mogontiacum"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Rhineland-Palatinate, Germany"
+description: "The Restant aquaduct van Mogontiacum, located in the picturesque Rhineland-Palatinate region of Germany, is an archaeological site that offers a fascinating..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

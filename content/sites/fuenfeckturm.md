@@ -3,7 +3,7 @@ title: "Fünfeckturm"
 site_name: "Fünfeckturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fünfeckturm, a striking tower located in Weißenburg in Bayern, Germany, serves as a remarkable emblem of the region's historical narrative."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

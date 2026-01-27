@@ -3,7 +3,7 @@ title: "Anne Frank Zentrum"
 site_name: "Anne Frank Zentrum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Anne Frank Zentrum in Berlin serves as a vital museum dedicated to the memory of Anne Frank, a Jewish girl whose diary has become a symbol of the human..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Holzkapelle Ralswiek"
 site_name: "Holzkapelle Ralswiek"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Holzkapelle Ralswiek, a quaint chapel located in the picturesque region of Ralswiek, Germany, is an architectural structure that captures the essence of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

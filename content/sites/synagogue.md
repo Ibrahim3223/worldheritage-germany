@@ -3,7 +3,7 @@ title: "Synagogue"
 site_name: "Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue in Rhineland-Palatinate, Germany, serves as an important cultural and historical landmark within the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

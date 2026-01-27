@@ -3,7 +3,7 @@ title: "Tritonenbrunnen"
 site_name: "Tritonenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "In the heart of Aachen, Germany, the Tritonenbrunnen stands as a striking example of artistic expression and public utility."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

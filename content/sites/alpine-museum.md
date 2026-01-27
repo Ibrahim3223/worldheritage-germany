@@ -3,7 +3,7 @@ title: "Alpine Museum"
 site_name: "Alpine Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Munich"
+description: "The Alpine Museum in Munich serves as a captivating portal into the diverse cultural and natural heritage of the Alpine region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

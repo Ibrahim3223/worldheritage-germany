@@ -3,7 +3,7 @@ title: "Focke's wind tunnel"
 site_name: "Focke's wind tunnel"
 date: 2026-01-26
 draft: false
-description: "wind tunnel as a museum in Bremen, Germany"
+description: "Focke's Wind Tunnel, located in Bremen, Germany, serves as a fascinating museum dedicated to the principles of aerodynamics and their applications in..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Altes Dorf (Pechau)"
 site_name: "Altes Dorf (Pechau)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altes Dorf (Pechau) is a captivating castle situated in the Magdeburg region of Germany, characterized by its historical significance and architectural charm."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

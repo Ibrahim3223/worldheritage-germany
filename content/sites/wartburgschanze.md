@@ -3,7 +3,7 @@ title: "Wartburgschanze"
 site_name: "Wartburgschanze"
 date: 2026-01-26
 draft: false
-description: "fortification in Eisenach, Germany"
+description: "Perched on a hill overlooking the town of Eisenach in Germany, Wartburgschanze is a remarkable fortification that has played a significant role in the..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Fortification"

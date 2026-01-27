@@ -3,7 +3,7 @@ title: "Fernmeldeturm Bayreuth"
 site_name: "Fernmeldeturm Bayreuth"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Bayreuth, a prominent telecommunications tower located in Germany, serves as a striking landmark that combines functionality with..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Kreuzkapelle"
 site_name: "Kreuzkapelle"
 date: 2026-01-26
 draft: false
-description: "Catholic pilgrimage church"
+description: "Kreuzkapelle, a Catholic pilgrimage church located in the charming region of Bad Camberg, Germany, invites visitors to explore its serene ambiance and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

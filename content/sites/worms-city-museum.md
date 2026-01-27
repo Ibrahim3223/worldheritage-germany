@@ -3,7 +3,7 @@ title: "Worms City Museum"
 site_name: "Worms City Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Worms City Museum, located in the historic city of Worms, Germany, serves as a captivating portal into the region's past and cultural legacy."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

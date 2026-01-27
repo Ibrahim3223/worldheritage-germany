@@ -3,7 +3,7 @@ title: "Church in Groß Brütz"
 site_name: "Church in Groß Brütz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Groß Brütz, located in the serene region of Brüsewitz, Germany, stands as a significant example of ecclesiastical architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

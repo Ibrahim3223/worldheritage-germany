@@ -3,7 +3,7 @@ title: "Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung"
 site_name: "Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Chemnitz, Germany"
+description: "The Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung is a botanical garden located in Glösa-Draisdorf, Germany, specifically within the city of Chemnitz."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

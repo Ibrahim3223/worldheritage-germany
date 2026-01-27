@@ -3,7 +3,7 @@ title: "Horst Janssen Museum"
 site_name: "Horst Janssen Museum"
 date: 2026-01-26
 draft: false
-description: "artist museum in Oldenburg, Germany"
+description: "The Horst Janssen Museum, located in Oldenburg, Germany, is a tribute to one of the most influential contemporary artists of the 20th century."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

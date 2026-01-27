@@ -3,7 +3,7 @@ title: "Willy-Brandt-Forum"
 site_name: "Willy-Brandt-Forum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Situated in the charming town of Unkel, Germany, the Willy-Brandt-Forum serves as a museum dedicated to preserving and showcasing significant cultural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

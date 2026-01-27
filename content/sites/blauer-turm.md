@@ -3,7 +3,7 @@ title: "Blauer Turm"
 site_name: "Blauer Turm"
 date: 2026-01-26
 draft: false
-description: "demolished tower in Lübeck, Germany"
+description: "The Blauer Turm, once a prominent structure in Lübeck, Germany, serves as a reminder of the city's historical architectural landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

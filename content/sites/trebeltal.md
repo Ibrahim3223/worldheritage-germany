@@ -3,7 +3,7 @@ title: "Trebeltal"
 site_name: "Trebeltal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
+description: "Trebeltal is a captivating nature reserve located in the Mecklenburg-Vorpommern region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

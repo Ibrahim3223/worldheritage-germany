@@ -3,7 +3,7 @@ title: "Albrecht-Dürer-Denkmal"
 site_name: "Albrecht-Dürer-Denkmal"
 date: 2026-01-26
 draft: false
-description: "Standbild auf dem Albrecht-Dürer-Platz in Nürnberg"
+description: "In the heart of Nuremberg, Germany, the Albrecht-Dürer-Denkmal stands as a tribute to one of the most influential figures in Northern Renaissance art."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

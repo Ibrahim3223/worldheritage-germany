@@ -3,7 +3,7 @@ title: "Spohr Museum and Archive"
 site_name: "Spohr Museum and Archive"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The Spohr Museum and Archive, located in the vibrant city of Kassel, Germany, serves as a hub for those intrigued by the intersection of culture, history,..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

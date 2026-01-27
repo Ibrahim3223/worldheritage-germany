@@ -3,7 +3,7 @@ title: "Zoologischer Garten Eberswalde"
 site_name: "Zoologischer Garten Eberswalde"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Zoologischer Garten Eberswalde is a captivating destination for animal lovers and families alike, located in the town of Eberswalde, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"

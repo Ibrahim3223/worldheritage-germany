@@ -3,7 +3,7 @@ title: "Zillierbach Dam"
 site_name: "Zillierbach Dam"
 date: 2026-01-26
 draft: false
-description: "reservoir in Germany"
+description: "The Zillierbach Dam, located in Germany's picturesque Harz District, serves as both a crucial infrastructure project and a reservoir that enhances the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"

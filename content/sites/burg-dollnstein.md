@@ -3,7 +3,7 @@ title: "Burg Dollnstein"
 site_name: "Burg Dollnstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Dollnstein, an archaeological site located in the charming region of Dollnstein, Germany, invites visitors to explore its remnants that echo centuries..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Jever Brewery"
 site_name: "Jever Brewery"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Jever Brewery, located in the town of Jever in Germany, is not just a place where beer is brewed; it is a cultural institution that has become synonymous..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

@@ -3,7 +3,7 @@ title: "Augustinian Convent Obernkirchen"
 site_name: "Augustinian Convent Obernkirchen"
 date: 2026-01-26
 draft: false
-description: "Monastery in Germany"
+description: "The Augustinian Convent Obernkirchen stands as a remarkable representation of monastic life in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

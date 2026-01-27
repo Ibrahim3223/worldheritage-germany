@@ -3,7 +3,7 @@ title: "Westphalian State Museum of Art and Cultural History"
 site_name: "Westphalian State Museum of Art and Cultural History"
 date: 2026-01-26
 draft: false
-description: "museum of art and culture in Germany"
+description: "The Westphalian State Museum of Art and Cultural History, located in Münster, Germany, serves as a significant hub for art and cultural heritage, reflecting..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

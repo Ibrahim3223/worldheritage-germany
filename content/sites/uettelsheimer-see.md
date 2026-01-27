@@ -3,7 +3,7 @@ title: "Uettelsheimer See"
 site_name: "Uettelsheimer See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Uettelsheimer See is a serene lake located in the vibrant city of Duisburg, Germany, offering visitors a tranquil escape from urban life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Friede Springer Stiftung"
 site_name: "Friede Springer Stiftung"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Berlin, Germany"
+description: "In the heart of Berlin, the Friede Springer Stiftung stands as a nonprofit organization dedicated to fostering cultural and social initiatives."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

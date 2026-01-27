@@ -3,7 +3,7 @@ title: "Gut Seestermühe"
 site_name: "Gut Seestermühe"
 date: 2026-01-26
 draft: false
-description: "building in Seesermühe, Germany"
+description: "Gut Seestermühe is a notable manor house located in the tranquil region of Seestermühe, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

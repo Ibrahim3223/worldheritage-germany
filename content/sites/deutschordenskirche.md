@@ -3,7 +3,7 @@ title: "Deutschordenskirche"
 site_name: "Deutschordenskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Sachsenhausen, Germany"
+description: "The Deutschordenskirche, located in the Sachsenhausen district of Frankfurt, Germany, is a noteworthy church building that encapsulates the heritage and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Zwiesel Forest Museum"
 site_name: "Zwiesel Forest Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Zwiesel Forest Museum offers an intriguing glimpse into the rich heritage and cultural practices of the Bavarian Forest region in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

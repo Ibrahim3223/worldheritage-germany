@@ -3,7 +3,7 @@ title: "Sender Hesselberg"
 site_name: "Sender Hesselberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Hesselberg is a remarkable tower located in the quaint region of Gerolfingen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

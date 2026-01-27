@@ -3,7 +3,7 @@ title: "Astronomisch-Physikalisches Kabinett"
 site_name: "Astronomisch-Physikalisches Kabinett"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Astronomisch-Physikalisches Kabinett, located in Kassel, Germany, serves as a fascinating museum dedicated to the intersection of astronomy and physics."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

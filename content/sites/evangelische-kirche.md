@@ -3,7 +3,7 @@ title: "Evangelische Kirche"
 site_name: "Evangelische Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Wehen, Germany"
+description: "The Evangelische Kirche in Wehen, Germany, is a notable church building that serves as a significant landmark within the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

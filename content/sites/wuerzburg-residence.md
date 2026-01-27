@@ -3,7 +3,7 @@ title: "Würzburg Residence"
 site_name: "Würzburg Residence"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-454 (0) in Würzburg, Bavaria"
+description: "The Würzburg Residence, a UNESCO World Heritage Site, is one of the most magnificent palaces in Germany, exemplifying the grandeur of Baroque architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

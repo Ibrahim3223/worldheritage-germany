@@ -3,7 +3,7 @@ title: "Gedenkstätte Lindenstraße 54/55"
 site_name: "Gedenkstätte Lindenstraße 54/55"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "In the heart of Potsdam, Germany, lies the Gedenkstätte Lindenstraße 54/55, a memorial site that invites visitors to reflect on the complexities of human..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Evangelisch-lutherische Marienkirche"
 site_name: "Evangelisch-lutherische Marienkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelisch-lutherische Marienkirche, located in the Geestemünde district of Germany, is a notable church building that reflects the rich religious..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

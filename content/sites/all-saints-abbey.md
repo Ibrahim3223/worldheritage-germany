@@ -3,7 +3,7 @@ title: "All Saints Abbey"
 site_name: "All Saints Abbey"
 date: 2026-01-26
 draft: false
-description: "former abbey in Speyer"
+description: "All Saints Abbey, a former monastery located in Speyer, Germany, invites visitors to explore its historical significance and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

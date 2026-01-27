@@ -3,7 +3,7 @@ title: "Rathaus Velbert"
 site_name: "Rathaus Velbert"
 date: 2026-01-26
 draft: false
-description: "Verwaltungsbau in der Stadt Velbert im Kreis Mettmann (Nordrhein-Westfalen)"
+description: "Rathaus Velbert, the city hall of Velbert, Germany, serves as a prominent administrative building within the picturesque region of Nordrhein-Westfalen."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

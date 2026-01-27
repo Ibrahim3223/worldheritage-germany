@@ -3,7 +3,7 @@ title: "Alter Friedhof"
 site_name: "Alter Friedhof"
 date: 2026-01-26
 draft: false
-description: "historic cemetery in Freiburg im Breisgau, Germany"
+description: "Alter Friedhof, a historic cemetery in Freiburg im Breisgau, Germany, serves as more than just a final resting place; it’s a serene park that resonates with..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"

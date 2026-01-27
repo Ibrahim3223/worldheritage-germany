@@ -3,7 +3,7 @@ title: "Kutschenmuseum Hinterstein"
 site_name: "Kutschenmuseum Hinterstein"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Kutschenmuseum Hinterstein, located in Bad Hindelang, Germany, invites visitors into a unique exploration of equestrian history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

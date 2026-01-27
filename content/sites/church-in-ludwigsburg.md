@@ -3,7 +3,7 @@ title: "Church in Ludwigsburg"
 site_name: "Church in Ludwigsburg"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "The Church in Ludwigsburg, a quaint chapel located in the picturesque region of Loissin, Germany, is a notable landmark that captures the essence of local..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

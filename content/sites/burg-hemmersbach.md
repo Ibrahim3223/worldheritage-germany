@@ -3,7 +3,7 @@ title: "Burg Hemmersbach"
 site_name: "Burg Hemmersbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hemmersbach is a captivating castle located in the region of Kerpen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

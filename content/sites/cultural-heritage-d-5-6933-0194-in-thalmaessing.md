@@ -3,7 +3,7 @@ title: "Cultural heritage D-5-6933-0194 in Thalmässing"
 site_name: "Cultural heritage D-5-6933-0194 in Thalmässing"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
+description: "Cultural heritage D-5-6933-0194, located in the picturesque town of Thalmässing in Bavaria, Germany, represents an essential aspect of the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

@@ -3,7 +3,7 @@ title: "Wildpark Schwarze Berge"
 site_name: "Wildpark Schwarze Berge"
 date: 2026-01-26
 draft: false
-description: "Wildpark westlich von Hamburg-Harburg"
+description: "Wildpark Schwarze Berge is a captivating zoological experience located to the west of Hamburg-Harburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Zoo"

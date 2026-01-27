@@ -3,7 +3,7 @@ title: "Lutherdenkmal"
 site_name: "Lutherdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Berlin-Mitte, Germany"
+description: "The Lutherdenkmal, or Martin Luther Monument, is an emblematic statue located in the heart of Berlin-Mitte, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Prussian National Monument for the Liberation Wars"
 site_name: "Prussian National Monument for the Liberation Wars"
 date: 2026-01-26
 draft: false
-description: "monument in Berlin, Germany"
+description: "The Prussian National Monument for the Liberation Wars serves as a poignant reminder of Germany’s complex past and the sacrifices made during the struggles..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

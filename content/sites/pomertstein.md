@@ -3,7 +3,7 @@ title: "Pomertstein"
 site_name: "Pomertstein"
 date: 2026-01-26
 draft: false
-description: "monument in Lüdersdorf, Germany"
+description: "Pomertstein is a remarkable monument located in Lüdersdorf, Germany, that serves as a significant cultural landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

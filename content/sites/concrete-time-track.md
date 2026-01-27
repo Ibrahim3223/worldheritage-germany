@@ -3,7 +3,7 @@ title: "concrete time track"
 site_name: "concrete time track"
 date: 2026-01-26
 draft: false
-description: "former open-air museum in Dresden"
+description: "The Concrete Time Track in Dresden, Germany, invites visitors to explore a unique piece of heritage that reflects the evolution of timekeeping and the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

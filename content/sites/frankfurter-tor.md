@@ -3,7 +3,7 @@ title: "Frankfurter Tor"
 site_name: "Frankfurter Tor"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Frankfurter Tor, a prominent square located in the Friedrichshain-Kreuzberg district of Berlin, serves as a key intersection of culture, history, and urban..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

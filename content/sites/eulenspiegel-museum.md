@@ -3,7 +3,7 @@ title: "Eulenspiegel-Museum"
 site_name: "Eulenspiegel-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Eulenspiegel-Museum in Mölln, Germany, offers a unique glimpse into the life and legacy of Till Eulenspiegel, a legendary figure known for his humor and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Werra-Kalibergbau-Museum (WKM)"
 site_name: "Werra-Kalibergbau-Museum (WKM)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Werra-Kalibergbau-Museum (WKM) serves as an important homage to the history of potash mining in Germany, particularly in the Werra Valley region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

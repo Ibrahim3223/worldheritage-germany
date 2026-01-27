@@ -3,7 +3,7 @@ title: "Öjendorfer See"
 site_name: "Öjendorfer See"
 date: 2026-01-26
 draft: false
-description: "lake in Billstedt, Hamburg, Germany"
+description: "Öjendorfer See is a serene lake located in the heart of Billstedt, Hamburg, offering an escape into nature amidst the bustling urban environment."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lake"

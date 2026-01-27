@@ -3,7 +3,7 @@ title: "Castle New Blumberg"
 site_name: "Castle New Blumberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Castle New Blumberg, a notable castle located in Göschweiler, Germany, draws visitors with its intriguing architecture and storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

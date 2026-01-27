@@ -3,7 +3,7 @@ title: "Gaslaternen-Freilichtmuseum Berlin"
 site_name: "Gaslaternen-Freilichtmuseum Berlin"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Berlin, the Gaslaternen-Freilichtmuseum offers a unique glimpse into the historical significance of gas lighting, showcasing the city’s..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

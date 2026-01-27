@@ -3,7 +3,7 @@ title: "Nautineum Stralsund"
 site_name: "Nautineum Stralsund"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nautineum Stralsund offers a unique glimpse into maritime history, artfully capturing the essence of sea exploration and the cultural significance of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

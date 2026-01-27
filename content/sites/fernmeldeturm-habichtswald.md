@@ -3,7 +3,7 @@ title: "Fernmeldeturm Habichtswald"
 site_name: "Fernmeldeturm Habichtswald"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Habichtswald, a prominent telecommunications tower in Germany, stands as a striking feature in the landscape of the Habichtswald region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

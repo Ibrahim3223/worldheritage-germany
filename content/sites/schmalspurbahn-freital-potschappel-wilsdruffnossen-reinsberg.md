@@ -3,7 +3,7 @@ title: "Schmalspurbahn Freital-Potschappel– Wilsdruff–Nossen Reinsberg"
 site_name: "Schmalspurbahn Freital-Potschappel– Wilsdruff–Nossen Reinsberg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Schmalspurbahn Freital-Potschappel–Wilsdruff–Nossen Reinsberg is a bridge of notable significance located in the picturesque region of Reinsberg, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

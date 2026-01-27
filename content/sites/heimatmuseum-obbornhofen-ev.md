@@ -3,7 +3,7 @@ title: "Heimatmuseum Obbornhofen e.V."
 site_name: "Heimatmuseum Obbornhofen e.V."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Obbornhofen e.V. is a notable museum located in Germany, dedicated to preserving and showcasing the local cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

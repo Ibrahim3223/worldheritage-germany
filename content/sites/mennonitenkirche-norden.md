@@ -3,7 +3,7 @@ title: "Mennonitenkirche Norden"
 site_name: "Mennonitenkirche Norden"
 date: 2026-01-26
 draft: false
-description: "church building in Norden, Germany"
+description: "The Mennonitenkirche Norden, a notable church building located in the quaint town of Norden, Germany, serves as a significant landmark reflecting the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Grindelhochhäuser"
 site_name: "Grindelhochhäuser"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Grindelhochhäuser is an architectural ensemble located in the vibrant Eimsbüttel district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Kerspetalsperre"
 site_name: "Kerspetalsperre"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Kerspetalsperre, an impressive dam located in the Wipperfürth region of Germany, serves not only as a crucial piece of infrastructure but also as a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

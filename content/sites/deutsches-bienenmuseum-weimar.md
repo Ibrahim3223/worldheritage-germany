@@ -3,7 +3,7 @@ title: "Deutsches Bienenmuseum Weimar"
 site_name: "Deutsches Bienenmuseum Weimar"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Bienenmuseum Weimar is a unique destination that captures the intricate world of bees and their vital role in our ecosystem."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

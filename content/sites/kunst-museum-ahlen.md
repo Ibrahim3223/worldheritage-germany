@@ -3,7 +3,7 @@ title: "Kunst-Museum Ahlen"
 site_name: "Kunst-Museum Ahlen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunst-Museum Ahlen serves as a vibrant cultural hub in the heart of Ahlen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

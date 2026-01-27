@@ -3,7 +3,7 @@ title: "Burg Geilenkirchen"
 site_name: "Burg Geilenkirchen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geilenkirchen, a castle located in the heart of Geilenkirchen, Germany, stands as a remarkable example of medieval architecture and heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

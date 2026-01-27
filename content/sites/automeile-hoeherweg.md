@@ -3,7 +3,7 @@ title: "Automeile Höherweg"
 site_name: "Automeile Höherweg"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Automeile Höherweg is an architectural ensemble located in Düsseldorf, Germany, that vividly reflects the evolution of automotive culture in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

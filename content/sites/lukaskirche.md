@@ -3,7 +3,7 @@ title: "Lukaskirche"
 site_name: "Lukaskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "Lukaskirche, an architectural gem located in the Vahrenwald-List district of Hanover, Germany, serves as both a place of worship and a captivating landmark..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

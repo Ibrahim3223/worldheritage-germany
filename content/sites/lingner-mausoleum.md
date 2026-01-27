@@ -3,7 +3,7 @@ title: "Lingner-Mausoleum"
 site_name: "Lingner-Mausoleum"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Dresden"
+description: "The Lingner-Mausoleum, located in the picturesque Stadtbezirk Loschwitz area of Dresden, Germany, is a significant cultural and historical landmark."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

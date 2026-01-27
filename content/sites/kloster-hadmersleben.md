@@ -3,7 +3,7 @@ title: "Kloster Hadmersleben"
 site_name: "Kloster Hadmersleben"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kloster Hadmersleben, located in the Oschersleben region of Germany, is a museum that invites visitors to immerse themselves in a compelling narrative of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

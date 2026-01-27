@@ -3,7 +3,7 @@ title: "Gemeindehaus Glogauer Straße 25 in Nürnberg"
 site_name: "Gemeindehaus Glogauer Straße 25 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-2458 (3) in Nürnberg, Bavaria"
+description: "The Gemeindehaus Glogauer Straße 25 in Nürnberg stands as an emblematic example of the city’s rich cultural heritage and urban development."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

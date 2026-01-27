@@ -3,7 +3,7 @@ title: "Village church Netzow"
 site_name: "Village church Netzow"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church Netzow, located in the Plattenburg region of Germany, is a notable church building that encapsulates the spiritual and architectural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

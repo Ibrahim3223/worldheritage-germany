@@ -3,7 +3,7 @@ title: "Jutebrücke"
 site_name: "Jutebrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Jutebrücke, a bridge located in the Haselbachtal region of Germany, is more than just a means to cross a river; it is an embodiment of engineering and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

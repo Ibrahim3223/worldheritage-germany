@@ -3,7 +3,7 @@ title: "Felsberg"
 site_name: "Felsberg"
 date: 2026-01-26
 draft: false
-description: "Odenwald mountain in Germany"
+description: "Felsberg, located in the picturesque Odenwald mountain range of Hesse, Germany, stands as a prominent natural feature in the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

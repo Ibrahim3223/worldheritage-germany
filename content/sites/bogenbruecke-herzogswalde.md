@@ -3,7 +3,7 @@ title: "Bogenbrücke Herzogswalde"
 site_name: "Bogenbrücke Herzogswalde"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Bogenbrücke Herzogswalde is a remarkable bridge located in Wilsdruff, Germany, that stands out for its unique architectural design and historical significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Fernmeldeturm Broitzem"
 site_name: "Fernmeldeturm Broitzem"
 date: 2026-01-26
 draft: false
-description: "tower in Brunswick, Germany"
+description: "Fernmeldeturm Broitzem is a prominent telecommunications tower located in the city of Brunswick, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

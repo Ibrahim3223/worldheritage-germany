@@ -3,7 +3,7 @@ title: "Schlossinsel"
 site_name: "Schlossinsel"
 date: 2026-01-26
 draft: false
-description: "island in Wolgast, Germany"
+description: "Schlossinsel, an island located in Wolgast, Germany, presents an intriguing blend of natural beauty and historical significance."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"

@@ -3,7 +3,7 @@ title: "Sender Visselhövede"
 site_name: "Sender Visselhövede"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Sender Visselhövede is an intriguing architectural structure located in the serene surroundings of Visselhövede, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

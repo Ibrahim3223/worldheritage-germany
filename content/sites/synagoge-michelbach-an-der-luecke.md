@@ -3,7 +3,7 @@ title: "Synagoge (Michelbach an der Lücke)"
 site_name: "Synagoge (Michelbach an der Lücke)"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagoge in Michelbach an der Lücke stands as a poignant symbol of the Jewish heritage in Wallhausen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

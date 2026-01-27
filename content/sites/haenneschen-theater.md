@@ -3,7 +3,7 @@ title: "Hänneschen-Theater"
 site_name: "Hänneschen-Theater"
 date: 2026-01-26
 draft: false
-description: "puppet theater in Cologne, Germany"
+description: "In the heart of Cologne, Germany, the Hänneschen-Theater captures the essence of traditional puppet theater, offering a unique cultural experience that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Andreaskirche (Erfurt)"
 site_name: "Andreaskirche (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Andreaskirche, an emblematic church building located in the heart of Erfurt, Germany, stands as a significant architectural and cultural landmark."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

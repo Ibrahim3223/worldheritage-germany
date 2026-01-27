@@ -3,7 +3,7 @@ title: "Scharf-Gerstenberg Collection"
 site_name: "Scharf-Gerstenberg Collection"
 date: 2026-01-26
 draft: false
-description: "art museum in Berlin"
+description: "The Scharf-Gerstenberg Collection, situated in the vibrant city of Berlin, serves as a captivating hub for enthusiasts of modern art and surrealism."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

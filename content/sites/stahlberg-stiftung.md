@@ -3,7 +3,7 @@ title: "Stahlberg Stiftung"
 site_name: "Stahlberg Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation in Harburg, Germany"
+description: "Stahlberg Stiftung, located in the Harburg region of Germany, serves as an important cultural foundation dedicated to fostering community engagement and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

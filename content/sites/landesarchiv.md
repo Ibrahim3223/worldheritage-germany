@@ -3,7 +3,7 @@ title: "Landesarchiv"
 site_name: "Landesarchiv"
 date: 2026-01-26
 draft: false
-description: "archive organization in Schwerin, Germany"
+description: "The Landesarchiv in Schwerin, Germany, serves as a cornerstone of historical documentation and cultural preservation."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

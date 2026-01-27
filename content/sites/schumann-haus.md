@@ -3,7 +3,7 @@ title: "Schumann-Haus"
 site_name: "Schumann-Haus"
 date: 2026-01-26
 draft: false
-description: "building in Leipzig, Saxony, Germany"
+description: "Schumann-Haus, located in the vibrant city of Leipzig, Germany, serves as a significant cultural institution dedicated to the legacy of the renowned..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Das Kleine Theater Essen"
 site_name: "Das Kleine Theater Essen"
 date: 2026-01-26
 draft: false
-description: "German private theater based in Essen, Northrhine-Westphalia"
+description: "Das Kleine Theater Essen is a noteworthy private theatre located in the vibrant city of Essen, Nordrhein-Westfalen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

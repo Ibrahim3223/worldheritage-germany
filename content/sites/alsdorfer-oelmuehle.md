@@ -3,7 +3,7 @@ title: "Alsdorfer Ölmühle"
 site_name: "Alsdorfer Ölmühle"
 date: 2026-01-26
 draft: false
-description: "Wassermühle in Alsdorf"
+description: "The Alsdorfer Ölmühle, an architectural ensemble located in the heart of Alsdorf, Germany, is a remarkable example of a traditional watermill that captures..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

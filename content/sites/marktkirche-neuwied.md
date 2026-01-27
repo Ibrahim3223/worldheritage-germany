@@ -3,7 +3,7 @@ title: "Marktkirche (Neuwied)"
 site_name: "Marktkirche (Neuwied)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Marktkirche, a prominent church building located in Neuwied, Germany, serves as a focal point for both spiritual and community life within the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Heiligkreuzkapelle"
 site_name: "Heiligkreuzkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Heiligkreuzkapelle, a captivating chapel located in Germany, is a site that invites visitors to explore its spiritual essence and architectural charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "City Church Waltershausen"
 site_name: "City Church Waltershausen"
 date: 2026-01-26
 draft: false
-description: "church building in Waltershausen, Germany"
+description: "The City Church Waltershausen, a significant church building located in the town of Waltershausen, Germany, serves as a religious, cultural, and historical..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"

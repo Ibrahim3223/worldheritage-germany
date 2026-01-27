@@ -3,7 +3,7 @@ title: "Dorfkirche Woltersdorf"
 site_name: "Dorfkirche Woltersdorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Woltersdorf is a quaint church building located in the small village of Woltersdorf, within the Biederitz region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

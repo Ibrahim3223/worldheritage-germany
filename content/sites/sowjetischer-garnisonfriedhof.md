@@ -3,7 +3,7 @@ title: "Sowjetischer Garnisonfriedhof"
 site_name: "Sowjetischer Garnisonfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dresden, Saxony, Germany"
+description: "The Sowjetischer Garnisonfriedhof, located in Dresden, Saxony, Germany, serves as a solemn resting place for Soviet soldiers who lost their lives during..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

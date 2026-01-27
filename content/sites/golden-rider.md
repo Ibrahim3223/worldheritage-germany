@@ -3,7 +3,7 @@ title: "Golden Rider"
 site_name: "Golden Rider"
 date: 2026-01-26
 draft: false
-description: "equestrian statue in Dresden"
+description: "The Golden Rider, an iconic equestrian statue located in the heart of Dresden, Germany, serves as a striking emblem of the city's rich cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

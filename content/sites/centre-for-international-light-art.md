@@ -3,7 +3,7 @@ title: "Centre for International Light Art"
 site_name: "Centre for International Light Art"
 date: 2026-01-26
 draft: false
-description: "museum in Unna, Germany"
+description: "The Centre for International Light Art in Unna, Germany, is an innovative art museum dedicated to the captivating medium of light art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

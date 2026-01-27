@@ -3,7 +3,7 @@ title: "Wolfsegg Castle"
 site_name: "Wolfsegg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Wolfsegg, Bavaria, Germany"
+description: "Wolfsegg Castle, an archaeological site located in the heart of Bavaria, Germany, stands as a testament to the region's medieval heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "St. Mary's Church, Pirna"
 site_name: "St. Mary's Church, Pirna"
 date: 2026-01-26
 draft: false
-description: "Protestant church in Pirna, Saxony, Germany"
+description: "St. Mary's Church, located in the town of Pirna in Saxony, Germany, is a significant Protestant church that embodies the historical and cultural essence of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

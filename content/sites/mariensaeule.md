@@ -3,7 +3,7 @@ title: "Mariensäule"
 site_name: "Mariensäule"
 date: 2026-01-26
 draft: false
-description: "monument in Trier, Germany"
+description: "The Mariensäule, a striking monument located in the historic city of Trier, Germany, is not only an architectural marvel but also a symbol of the city’s..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"

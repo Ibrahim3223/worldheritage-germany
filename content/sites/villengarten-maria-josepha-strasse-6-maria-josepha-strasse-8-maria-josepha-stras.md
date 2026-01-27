@@ -3,7 +3,7 @@ title: "Villengarten Maria-Josepha-Straße 6; Maria-Josepha-Straße 8; Maria-Jos
 site_name: "Villengarten Maria-Josepha-Straße 6; Maria-Josepha-Straße 8; Maria-Josepha-Straße 12 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-4234 (1) in München, Bavaria"
+description: "In the heart of Munich, the Villengarten Maria-Josepha-Straße 6; Maria-Josepha-Straße 8; Maria-Josepha-Straße 12 offers a serene retreat, showcasing the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

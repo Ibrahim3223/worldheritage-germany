@@ -3,7 +3,7 @@ title: "Charenza"
 site_name: "Charenza"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Charenza, a captivating castle located in the Western Pomerania-Rügen District of Germany, offers visitors a glimpse into the region's historical..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Castle"

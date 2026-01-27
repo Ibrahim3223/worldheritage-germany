@@ -3,7 +3,7 @@ title: "Gedenkstätte ehemalige Synagoge Brühl"
 site_name: "Gedenkstätte ehemalige Synagoge Brühl"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Gedenkstätte ehemalige Synagoge Brühl is a poignant site located in Brühl, Germany, that serves as a memorial to the cultural and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Schlosskirche Köpenick"
 site_name: "Schlosskirche Köpenick"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Schlosskirche Köpenick, a notable church building located in Berlin's Treptow-Köpenick district, offers visitors a glimpse into the architectural and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

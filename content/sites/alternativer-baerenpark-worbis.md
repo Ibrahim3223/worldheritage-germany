@@ -3,7 +3,7 @@ title: "Alternativer Bärenpark Worbis"
 site_name: "Alternativer Bärenpark Worbis"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Alternativer Bärenpark Worbis is a unique zoo experience located in the town of Leinefelde-Worbis, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

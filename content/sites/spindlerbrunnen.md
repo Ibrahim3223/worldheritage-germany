@@ -3,7 +3,7 @@ title: "Spindlerbrunnen"
 site_name: "Spindlerbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Berlin, Germany"
+description: "Spindlerbrunnen, a charming fountain located in the heart of Berlin, Germany, serves as a tranquil spot amidst the bustling urban landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

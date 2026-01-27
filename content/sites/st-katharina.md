@@ -3,7 +3,7 @@ title: "St. Katharina"
 site_name: "St. Katharina"
 date: 2026-01-26
 draft: false
-description: "church building in Eschwege, Hesse, Germany"
+description: "St. Katharina is an emblematic church building situated in the charming town of Eschwege, in the Hesse region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

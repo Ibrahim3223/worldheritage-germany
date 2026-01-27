@@ -3,7 +3,7 @@ title: "Geschichtspark Ehemaliges Zellengefängnis Moabit"
 site_name: "Geschichtspark Ehemaliges Zellengefängnis Moabit"
 date: 2026-01-26
 draft: false
-description: "park in Berlin, Germany"
+description: "Located in the heart of Berlin’s Bezirk Mitte, Geschichtspark Ehemaliges Zellengefängnis Moabit serves as a poignant memorial that invites reflection on the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

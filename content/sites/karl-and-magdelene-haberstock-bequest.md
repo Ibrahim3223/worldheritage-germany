@@ -3,7 +3,7 @@ title: "Karl and Magdelene Haberstock Bequest"
 site_name: "Karl and Magdelene Haberstock Bequest"
 date: 2026-01-26
 draft: false
-description: "foundation for art collection gathered by Karl Haberstock"
+description: "The Karl and Magdelene Haberstock Bequest is a distinguished foundation located in Germany, dedicated to preserving and showcasing an art collection amassed..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

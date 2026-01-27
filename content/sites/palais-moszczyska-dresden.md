@@ -3,7 +3,7 @@ title: "Palais Moszczyńska, Dresden"
 site_name: "Palais Moszczyńska, Dresden"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "Palais Moszczyńska, located in the heart of Dresden, Germany, is an intriguing example of palatial architecture that reflects the city's rich cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

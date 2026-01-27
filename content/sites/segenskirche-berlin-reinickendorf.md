@@ -3,7 +3,7 @@ title: "Segenskirche (Berlin-Reinickendorf)"
 site_name: "Segenskirche (Berlin-Reinickendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Segenskirche, located in the Berlin district of Reinickendorf, is a notable church building that reflects the architectural and cultural fabric of this..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

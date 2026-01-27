@@ -3,7 +3,7 @@ title: "Blauort"
 site_name: "Blauort"
 date: 2026-01-26
 draft: false
-description: "uninhabited North Sea sandy islet"
+description: "Blauort is an uninhabited sandy islet located in the North Sea off the coast of Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"

@@ -3,7 +3,7 @@ title: "Museum der Arbeit I Hagelturm"
 site_name: "Museum der Arbeit I Hagelturm"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum der Arbeit I Hagelturm is a notable museum located in Germany, dedicated to preserving and showcasing the diverse narratives of labor and industrial..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

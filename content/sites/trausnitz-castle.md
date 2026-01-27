@@ -3,7 +3,7 @@ title: "Trausnitz Castle"
 site_name: "Trausnitz Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Trausnitz Castle, a historic fortress located in the region of Landshut, Germany, serves as a striking reminder of the architectural and cultural heritage..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

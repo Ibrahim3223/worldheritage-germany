@@ -3,7 +3,7 @@ title: "Innsbrucker Platz"
 site_name: "Innsbrucker Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Innsbrucker Platz is a vibrant square located in the heart of Berlin, Germany. This urban space serves as a significant junction of transport and community..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

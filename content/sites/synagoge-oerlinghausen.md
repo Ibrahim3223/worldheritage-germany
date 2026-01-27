@@ -3,7 +3,7 @@ title: "Synagoge Oerlinghausen"
 site_name: "Synagoge Oerlinghausen"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagoge Oerlinghausen is a significant structure located in Oerlinghausen, Germany, embodying the cultural heritage and religious practices of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

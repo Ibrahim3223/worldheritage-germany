@@ -3,7 +3,7 @@ title: "Billungstraße 1–10, Brühlstraße 1–10, Kaiser-Otto-Straße 5"
 site_name: "Billungstraße 1–10, Brühlstraße 1–10, Kaiser-Otto-Straße 5"
 date: 2026-01-26
 draft: false
-description: "group uf buildings in Quedlinburg, Germany"
+description: "In the heart of Quedlinburg, Germany, a striking architectural ensemble captures the essence of the town's storied past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

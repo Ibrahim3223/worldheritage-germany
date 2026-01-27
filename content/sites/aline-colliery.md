@@ -3,7 +3,7 @@ title: "Aline Colliery"
 site_name: "Aline Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Aline Colliery, located in the heart of Essen, Germany, is a significant historical site that reflects the rich industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

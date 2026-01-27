@@ -3,7 +3,7 @@ title: "Chlodwigplatz"
 site_name: "Chlodwigplatz"
 date: 2026-01-26
 draft: false
-description: "square in Düren, Germany"
+description: "Chlodwigplatz stands as a prominent square in the heart of Düren, Germany, offering visitors a blend of urban charm and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

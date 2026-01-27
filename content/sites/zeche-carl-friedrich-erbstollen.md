@@ -3,7 +3,7 @@ title: "Zeche Carl Friedrich Erbstollen"
 site_name: "Zeche Carl Friedrich Erbstollen"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carl Friedrich Erbstollen, located in Bochum, Germany, is a significant historical site rooted in the heart of the Ruhr area, a region known for its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

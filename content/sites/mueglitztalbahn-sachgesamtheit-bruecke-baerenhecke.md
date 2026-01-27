@@ -3,7 +3,7 @@ title: "Müglitztalbahn (Sachgesamtheit); Brücke Bärenhecke"
 site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Bärenhecke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Müglitztalbahn, located in Glashütte, Germany, is a fascinating heritage site that captures the essence of the region’s rich transportation history."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

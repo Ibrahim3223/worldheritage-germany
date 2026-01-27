@@ -3,7 +3,7 @@ title: "Museum für Europäische Volkstrachten"
 site_name: "Museum für Europäische Volkstrachten"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Europäische Volkstrachten, located in Wegberg, Germany, serves as a vibrant repository of European folk costumes and cultural expressions."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

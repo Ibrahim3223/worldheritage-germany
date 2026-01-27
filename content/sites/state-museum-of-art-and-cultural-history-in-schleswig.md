@@ -3,7 +3,7 @@ title: "State Museum of Art and Cultural History in Schleswig"
 site_name: "State Museum of Art and Cultural History in Schleswig"
 date: 2026-01-26
 draft: false
-description: "Art museum at Schloss Gottorf, Schleswig"
+description: "The State Museum of Art and Cultural History in Schleswig, located within the historic Schloss Gottorf, serves as a significant hub for art and cultural..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Pestalozzi-Fröbel Haus"
 site_name: "Pestalozzi-Fröbel Haus"
 date: 2026-01-26
 draft: false
-description: "pestalozzi-Fröbel-Haus, Germany"
+description: "The Pestalozzi-Fröbel Haus, located in Germany, serves as a significant foundation dedicated to the principles of education and child development pioneered..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

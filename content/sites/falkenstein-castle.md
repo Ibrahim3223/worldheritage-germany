@@ -3,7 +3,7 @@ title: "Falkenstein Castle"
 site_name: "Falkenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Saxony-Anhalt, Germany"
+description: "Falkenstein Castle, located in the picturesque region of Falkenstein/Harz in Saxony-Anhalt, Germany, is an impressive medieval structure that draws history..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

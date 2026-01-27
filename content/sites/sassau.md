@@ -3,7 +3,7 @@ title: "Sassau"
 site_name: "Sassau"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Sassau, an island situated in the picturesque Kochel region of Germany, offers visitors a serene escape steeped in natural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"

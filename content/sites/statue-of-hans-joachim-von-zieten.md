@@ -3,7 +3,7 @@ title: "Statue of Hans Joachim von Zieten"
 site_name: "Statue of Hans Joachim von Zieten"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "The Statue of Hans Joachim von Zieten stands as a significant commemorative piece in the heart of Berlin, Germany, in the Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

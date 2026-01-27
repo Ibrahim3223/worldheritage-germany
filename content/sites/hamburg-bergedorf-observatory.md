@@ -3,7 +3,7 @@ title: "Hamburg-Bergedorf Observatory"
 site_name: "Hamburg-Bergedorf Observatory"
 date: 2026-01-26
 draft: false
-description: "astronomical observatory"
+description: "The Hamburg-Bergedorf Observatory, an architectural ensemble situated in the Bergedorf district of Germany, serves as a significant landmark in the realm of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

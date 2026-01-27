@@ -3,7 +3,7 @@ title: "Marceau-Denkmal"
 site_name: "Marceau-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Koblenz, Germany"
+description: "The Marceau-Denkmal, situated in the picturesque city of Koblenz, Germany, is a striking monument that pays homage to General Jean-Antoine Marceau."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Irsee Abbey"
 site_name: "Irsee Abbey"
 date: 2026-01-26
 draft: false
-description: "former abbey in Germany, nowadays conference and training center"
+description: "Irsee Abbey, a former monastery located in the charming region of Irsee, Germany, serves as a unique conference and training center today."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

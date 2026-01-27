@@ -3,7 +3,7 @@ title: "Upper Weser Valley"
 site_name: "Upper Weser Valley"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "The Upper Weser Valley, located in the picturesque region of Lower Saxony, Germany, is a captivating landscape that weaves together nature and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

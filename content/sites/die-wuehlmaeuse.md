@@ -3,7 +3,7 @@ title: "Die Wühlmäuse"
 site_name: "Die Wühlmäuse"
 date: 2026-01-26
 draft: false
-description: "Kabarett-Bühne in Berlin"
+description: "Die Wühlmäuse, a celebrated kabarett stage located in the heart of Berlin, is a cultural landmark that highlights the city’s vibrant theatre scene."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Burg Hahnenkamm"
 site_name: "Burg Hahnenkamm"
 date: 2026-01-26
 draft: false
-description: "castle in Bissingen an der Teck"
+description: "Burg Hahnenkamm, a notable castle situated in Bissingen an der Teck, Germany, invites visitors to explore its historical depths amidst a picturesque setting."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

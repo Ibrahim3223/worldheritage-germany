@@ -3,7 +3,7 @@ title: "Dresdner Fußballmuseum"
 site_name: "Dresdner Fußballmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Dresdner Fußballmuseum, situated in the vibrant city of Dresden, Germany, is a unique destination dedicated to the rich history and culture of football, or..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

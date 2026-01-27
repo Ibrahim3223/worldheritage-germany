@@ -3,7 +3,7 @@ title: "Freiligrath memorial"
 site_name: "Freiligrath memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Rolandswerth, Germany"
+description: "The Freiligrath Memorial is a poignant tribute located in Rolandswerth, Germany, dedicated to the life and work of the prominent German poet and politician,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Buckelgräberfeld von Boltersen"
 site_name: "Buckelgräberfeld von Boltersen"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Rullstorf, Germany"
+description: "The Buckelgräberfeld von Boltersen, located in Rullstorf, Germany, presents a striking glimpse into the ancient burial practices of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

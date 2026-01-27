@@ -3,7 +3,7 @@ title: "Berliner Kriminal Theater"
 site_name: "Berliner Kriminal Theater"
 date: 2026-01-26
 draft: false
-description: "Theater in Berlin"
+description: "The Berliner Kriminal Theater is a unique establishment located in the heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

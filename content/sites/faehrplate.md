@@ -3,7 +3,7 @@ title: "Fährplate"
 site_name: "Fährplate"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Fährplate is an enchanting island located in the picturesque region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

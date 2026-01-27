@@ -3,7 +3,7 @@ title: "St. Ludger's Abbey"
 site_name: "St. Ludger's Abbey"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Ludger's Abbey, located in Helmstedt, Germany, represents a significant chapter in the cultural and religious history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Tor der Toten"
 site_name: "Tor der Toten"
 date: 2026-01-26
 draft: false
-description: "memorial in Rheinberg, Germany"
+description: "Tor der Toten, located in the charming town of Rheinberg, Germany, is a poignant monument that pays homage to the sacrifices made during times of conflict."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

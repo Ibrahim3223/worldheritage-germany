@@ -3,7 +3,7 @@ title: "Margarethenkapelle"
 site_name: "Margarethenkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel in Bedburg, Germany"
+description: "Margarethenkapelle, a serene chapel located in the town of Bedburg, Germany, invites visitors to explore its spiritual ambiance and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

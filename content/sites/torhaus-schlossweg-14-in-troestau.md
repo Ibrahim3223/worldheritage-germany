@@ -3,7 +3,7 @@ title: "Torhaus Schloßweg 14 in Tröstau"
 site_name: "Torhaus Schloßweg 14 in Tröstau"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-79-161-17 (1) in Tröstau, Bavaria"
+description: "The Torhaus Schloßweg 14 in Tröstau, a culturally significant gatehouse, stands as a noteworthy representation of Bavaria's architectural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "Uelzen station"
 site_name: "Uelzen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Uelzen, Germany"
+description: "Uelzen station, located in the picturesque town of Uelzen, Germany, serves as a vital junction for both local and regional rail services."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

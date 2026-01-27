@@ -3,7 +3,7 @@ title: "Marienkirche Netzelkow"
 site_name: "Marienkirche Netzelkow"
 date: 2026-01-26
 draft: false
-description: "church building in Lütow, Germany"
+description: "The Marienkirche Netzelkow is a remarkable church building located in the serene region of Lütow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

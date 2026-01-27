@@ -3,7 +3,7 @@ title: "Stolpe Castle"
 site_name: "Stolpe Castle"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Stolpe Castle, or Schloss Stolpe, is an intriguing manor house located in the picturesque region of Stolpe auf Usedom, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

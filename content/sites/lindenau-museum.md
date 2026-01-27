@@ -3,7 +3,7 @@ title: "Lindenau museum"
 site_name: "Lindenau museum"
 date: 2026-01-26
 draft: false
-description: "museum in Altenburg, Germany"
+description: "The Lindenau Museum, located in the heart of Altenburg, Germany, serves as a notable repository of art and culture, housing a diverse collection that spans..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

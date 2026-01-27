@@ -3,7 +3,7 @@ title: "Christuskirche (Bochum)"
 site_name: "Christuskirche (Bochum)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche, located in Bochum-Mitte, Germany, is an important church building that stands as a focal point for the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

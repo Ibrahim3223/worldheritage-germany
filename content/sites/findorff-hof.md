@@ -3,7 +3,7 @@ title: "Findorff Hof"
 site_name: "Findorff Hof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Findorff Hof, located in the tranquil region of Grasberg, Germany, serves as a unique museum experience that invites visitors to explore local heritage and..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

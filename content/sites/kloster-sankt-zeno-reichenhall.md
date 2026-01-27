@@ -3,7 +3,7 @@ title: "Kloster Sankt Zeno Reichenhall"
 site_name: "Kloster Sankt Zeno Reichenhall"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kloster Sankt Zeno Reichenhall is a serene monastery located in Bad Reichenhall, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

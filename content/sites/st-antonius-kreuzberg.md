@@ -3,7 +3,7 @@ title: "St. Antonius (Kreuzberg)"
 site_name: "St. Antonius (Kreuzberg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Antonius, located in the quaint region of Altenahr, Germany, is a charming chapel that captures the essence of local heritage and spirituality."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

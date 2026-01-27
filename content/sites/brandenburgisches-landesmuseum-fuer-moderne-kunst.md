@@ -3,7 +3,7 @@ title: "Brandenburgisches Landesmuseum für moderne Kunst"
 site_name: "Brandenburgisches Landesmuseum für moderne Kunst"
 date: 2026-01-26
 draft: false
-description: "Museum with several locations in Brandenburg, Germany"
+description: "In the heart of Cottbus, Germany, the Brandenburgisches Landesmuseum für moderne Kunst serves as a dynamic platform for contemporary art, reflecting the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

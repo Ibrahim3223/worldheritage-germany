@@ -3,7 +3,7 @@ title: "Museum für Wasser, Bad und Design"
 site_name: "Museum für Wasser, Bad und Design"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Wasser, Bad und Design in Schiltach, Germany, invites visitors to delve into the intricate connections between water, bathing culture, and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

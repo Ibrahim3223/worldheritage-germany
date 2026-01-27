@@ -3,7 +3,7 @@ title: "Gut Lundsgaard"
 site_name: "Gut Lundsgaard"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Lundsgaard, a distinguished manor house located in Grundhof, Germany, presents a captivating glimpse into the region's architectural heritage."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

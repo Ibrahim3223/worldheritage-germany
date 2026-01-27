@@ -3,7 +3,7 @@ title: "Kloster Fürstenberg"
 site_name: "Kloster Fürstenberg"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "Kloster Fürstenberg is a captivating monastery located in the historic region of Xanten, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Besenhorster Sandberge und Elbsandwiesen"
 site_name: "Besenhorster Sandberge und Elbsandwiesen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Besenhorster Sandberge und Elbsandwiesen is an enchanting nature reserve located in the scenic region of Schleswig-Holstein, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

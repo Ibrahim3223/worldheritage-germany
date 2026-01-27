@@ -3,7 +3,7 @@ title: "Townhall in Frankenstein"
 site_name: "Townhall in Frankenstein"
 date: 2026-01-26
 draft: false
-description: "heritage building in Falkenstein, Saxony, Germany"
+description: "The Townhall in Frankenstein, a heritage building situated in the charming region of Falkenstein, Saxony, Germany, is a striking example of civic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

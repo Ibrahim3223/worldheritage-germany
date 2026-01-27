@@ -3,7 +3,7 @@ title: "Torhaus Johanneshof 1 in Sulzfeld (im Grabfeld)"
 site_name: "Torhaus Johanneshof 1 in Sulzfeld (im Grabfeld)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-73-173-19 (4) in Sulzfeld (im Grabfeld), Bavaria"
+description: "The Torhaus Johanneshof 1, located in the charming village of Sulzfeld im Grabfeld, is a striking example of a historic gatehouse that represents a unique..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

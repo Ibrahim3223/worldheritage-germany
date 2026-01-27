@@ -3,7 +3,7 @@ title: "Kapelle Alt Pansow"
 site_name: "Kapelle Alt Pansow"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude im Ortsteil Alt Pansow der Gemeinde Dersekow in Vorpommern"
+description: "Kapelle Alt Pansow is a charming chapel located in the village of Alt Pansow, which is part of the Dersekow municipality in Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

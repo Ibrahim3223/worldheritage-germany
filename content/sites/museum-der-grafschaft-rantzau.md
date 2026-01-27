@@ -3,7 +3,7 @@ title: "Museum der Grafschaft Rantzau"
 site_name: "Museum der Grafschaft Rantzau"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum der Grafschaft Rantzau, located in the charming town of Barmstedt, Germany, offers visitors a unique glimpse into the cultural heritage of the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Postplatz 1-10; Thomas-Müntzer-Straße 1-4, 10-16 (Gottenz)"
 site_name: "Postplatz 1-10; Thomas-Müntzer-Straße 1-4, 10-16 (Gottenz)"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschützter Straßenzug im Dorf Gottenz in Sachsen-Anhalt"
+description: "Postplatz 1-10 and Thomas-Müntzer-Straße 1-4, 10-16 form an architectural ensemble located in the quaint village of Gottenz, within the region of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

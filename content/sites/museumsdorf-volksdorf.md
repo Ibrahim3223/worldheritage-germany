@@ -3,7 +3,7 @@ title: "Museumsdorf Volksdorf"
 site_name: "Museumsdorf Volksdorf"
 date: 2026-01-26
 draft: false
-description: "open-air museum of historic houses"
+description: "Located in the Wandsbek district of Hamburg, Germany, Museumsdorf Volksdorf presents a unique opportunity to explore the architectural and cultural heritage..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

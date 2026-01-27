@@ -3,7 +3,7 @@ title: "Wilhelm-Hack-Museum"
 site_name: "Wilhelm-Hack-Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Ludwigshafen, Germany"
+description: "The Wilhelm-Hack-Museum, located in the heart of Ludwigshafen, Germany, stands as an important institution dedicated to the appreciation of modern art."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

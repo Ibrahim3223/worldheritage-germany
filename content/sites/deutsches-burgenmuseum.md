@@ -3,7 +3,7 @@ title: "Deutsches Burgenmuseum"
 site_name: "Deutsches Burgenmuseum"
 date: 2026-01-26
 draft: false
-description: "historical museum in Thuringia, Germany"
+description: "In the heart of Thuringia, Germany, the Deutsches Burgenmuseum stands as a captivating historical museum dedicated to the heritage of castles throughout the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

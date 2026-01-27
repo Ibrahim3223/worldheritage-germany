@@ -3,7 +3,7 @@ title: "Kreismuseum Bad Liebenwerda"
 site_name: "Kreismuseum Bad Liebenwerda"
 date: 2026-01-26
 draft: false
-description: "regional museum in Brandenburg, Germany"
+description: "The Kreismuseum Bad Liebenwerda is a prominent regional museum located in the heart of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

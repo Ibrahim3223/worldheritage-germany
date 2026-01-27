@@ -3,7 +3,7 @@ title: "Museum Neukölln"
 site_name: "Museum Neukölln"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Neukölln is an engaging cultural institution located in the vibrant district of Neukölln, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hunsrück"
 site_name: "Hunsrück"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "The Hunsrück mountain region, located in Hesse, Germany, is an area of captivating landscapes and rich cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

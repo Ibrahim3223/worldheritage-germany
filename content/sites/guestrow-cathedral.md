@@ -3,7 +3,7 @@ title: "Güstrow Cathedral"
 site_name: "Güstrow Cathedral"
 date: 2026-01-26
 draft: false
-description: "Brick Gothic Lutheran church"
+description: "Güstrow Cathedral, a remarkable example of Brick Gothic architecture, stands proudly in the heart of Güstrow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Cathedral"

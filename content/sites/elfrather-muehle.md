@@ -3,7 +3,7 @@ title: "Elfrather Mühle"
 site_name: "Elfrather Mühle"
 date: 2026-01-26
 draft: false
-description: "tower mill in Traar"
+description: "Elfrather Mühle, a striking windmill located in the Krefeld region of Germany, presents a fascinating glimpse into the past and the enduring legacy of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

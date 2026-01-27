@@ -3,7 +3,7 @@ title: "Quandt's Tobacco Mill"
 site_name: "Quandt's Tobacco Mill"
 date: 2026-01-26
 draft: false
-description: "former windmill in Leipzig, Germany"
+description: "Quandt's Tobacco Mill is a remarkable windmill located in Leipzig, Germany, that serves as a fascinating glimpse into the region's industrial past."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Windmill"

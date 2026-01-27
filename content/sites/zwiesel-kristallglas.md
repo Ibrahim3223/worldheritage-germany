@@ -3,7 +3,7 @@ title: "Zwiesel Kristallglas"
 site_name: "Zwiesel Kristallglas"
 date: 2026-01-26
 draft: false
-description: "Crystal glass manufacturer based in Zwiesel in the Bavarian Forest"
+description: "Zwiesel Kristallglas is more than just a factory; it represents a longstanding tradition of craftsmanship and artistry in crystal glass manufacturing..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"

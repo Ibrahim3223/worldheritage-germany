@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kirche (Zweibrücken)"
 site_name: "Heilig-Kreuz-Kirche (Zweibrücken)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Kreuz-Kirche, located in the charming town of Zweibrücken, Germany, is a significant church building that captivates visitors with its architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Platzl"
 site_name: "Platzl"
 date: 2026-01-26
 draft: false
-description: "square in Munich, Bavaria, Germany"
+description: "Platzl is a vibrant square located in the heart of Munich's Altstadt-Lehel district, offering visitors a lively atmosphere steeped in the city's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

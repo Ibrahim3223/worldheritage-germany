@@ -3,7 +3,7 @@ title: "Kloster St. Jöris"
 site_name: "Kloster St. Jöris"
 date: 2026-01-26
 draft: false
-description: "former monastery in Germany"
+description: "Kloster St. Jöris, located in the town of Eschweiler, Germany, is a former monastery that encapsulates centuries of monastic tradition and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

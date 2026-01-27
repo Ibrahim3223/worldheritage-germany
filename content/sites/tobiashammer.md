@@ -3,7 +3,7 @@ title: "Tobiashammer"
 site_name: "Tobiashammer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tobiashammer stands as a notable museum located in Ohrdruf, Germany, that captures the essence of local heritage and craftsmanship."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

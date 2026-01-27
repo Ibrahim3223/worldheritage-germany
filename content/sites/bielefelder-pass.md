@@ -3,7 +3,7 @@ title: "Bielefelder Pass"
 site_name: "Bielefelder Pass"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "The Bielefelder Pass is a captivating mountain pass located in the picturesque region of Bielefeld, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain Pass"

@@ -3,7 +3,7 @@ title: "Landschaftsgarten"
 site_name: "Landschaftsgarten"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-79-169-270 (0) in Wunsiedel, Bavaria"
+description: "Landschaftsgarten is a distinguished cultural heritage monument located in Wunsiedel, Bavaria, offering visitors an engaging experience that harmonizes..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

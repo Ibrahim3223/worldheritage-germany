@@ -3,7 +3,7 @@ title: "Evangelische Kirche (Dierdorf)"
 site_name: "Evangelische Kirche (Dierdorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Dierdorf, Germany"
+description: "The Evangelische Kirche in Dierdorf is a church building that stands as an important landmark in this charming German town."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

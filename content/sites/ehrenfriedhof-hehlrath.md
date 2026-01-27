@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Hehlrath"
 site_name: "Ehrenfriedhof Hehlrath"
 date: 2026-01-26
 draft: false
-description: "cemetery in Eschweiler, Germany"
+description: "Ehrenfriedhof Hehlrath, located in Eschweiler, Germany, serves as a poignant reminder of the lives and legacies interred within its grounds."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

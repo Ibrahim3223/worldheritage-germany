@@ -3,7 +3,7 @@ title: "Church in Kölzin"
 site_name: "Church in Kölzin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Kölzin is a significant religious structure situated in the Gützkow region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

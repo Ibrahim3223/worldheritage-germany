@@ -3,7 +3,7 @@ title: "Kronenbrücke"
 site_name: "Kronenbrücke"
 date: 2026-01-26
 draft: false
-description: "Bridge in Freiburg im Breisgau, Germany"
+description: "The Kronenbrücke, located in the picturesque city of Freiburg im Breisgau, Germany, is an architectural landmark that elegantly melds functionality with..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Bridge"

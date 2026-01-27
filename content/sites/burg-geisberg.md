@@ -3,7 +3,7 @@ title: "Burg Geisberg"
 site_name: "Burg Geisberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geisberg, a striking castle located in the quaint region of Burrweiler, Germany, offers visitors a glimpse into the architectural and cultural heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

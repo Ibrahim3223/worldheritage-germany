@@ -3,7 +3,7 @@ title: "Feuerbach House"
 site_name: "Feuerbach House"
 date: 2026-01-26
 draft: false
-description: "museum in Speyer, Rhineland-Palatinate, Germany (1971-)"
+description: "In the heart of Speyer, Germany, the Feuerbach House stands as a museum dedicated to the life and work of the influential philosopher and educator Ludwig..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

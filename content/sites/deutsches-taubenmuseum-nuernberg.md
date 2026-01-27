@@ -3,7 +3,7 @@ title: "Deutsches Taubenmuseum Nürnberg"
 site_name: "Deutsches Taubenmuseum Nürnberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Taubenmuseum Nürnberg, or the German Pigeon Museum in Nuremberg, is a unique institution dedicated to the appreciation and study of pigeons."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

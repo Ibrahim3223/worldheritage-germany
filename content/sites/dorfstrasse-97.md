@@ -3,7 +3,7 @@ title: "Dorfstraße 97"
 site_name: "Dorfstraße 97"
 date: 2026-01-26
 draft: false
-description: "house in Waltersdorf"
+description: "Dorfstraße 97, located in the quaint village of Waltersdorf in the region of Großschönau, Germany, is a noteworthy city hall that encapsulates the essence..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

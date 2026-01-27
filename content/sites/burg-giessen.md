@@ -3,7 +3,7 @@ title: "Burg Gießen"
 site_name: "Burg Gießen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gießen, a striking castle located in the picturesque region of Kressbronn am Bodensee, Germany, is an architectural gem that captures the imagination..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

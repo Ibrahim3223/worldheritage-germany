@@ -3,7 +3,7 @@ title: "Schloss Mosigkau"
 site_name: "Schloss Mosigkau"
 date: 2026-01-26
 draft: false
-description: "castle in Saxony-Anhalt, Germany"
+description: "Schloss Mosigkau, a striking example of early classical architecture, invites visitors to explore a unique blend of art, culture, and history in the heart..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

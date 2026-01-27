@@ -3,7 +3,7 @@ title: "St. Bruder Konrad"
 site_name: "St. Bruder Konrad"
 date: 2026-01-26
 draft: false
-description: "church in Spexard, Gütersloh, Germany"
+description: "In the heart of Gütersloh, Germany, lies St. Bruder Konrad, a church that serves as a focal point for the community of Spexard."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

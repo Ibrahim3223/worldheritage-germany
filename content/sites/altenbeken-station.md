@@ -3,7 +3,7 @@ title: "Altenbeken station"
 site_name: "Altenbeken station"
 date: 2026-01-26
 draft: false
-description: "railway station in Altenbeken, Germany"
+description: "Altenbeken Station, located in the quaint village of Altenbeken, Germany, serves as a vital hub within the regional railway network."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

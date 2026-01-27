@@ -3,7 +3,7 @@ title: "St. Johannes Nepomuk"
 site_name: "St. Johannes Nepomuk"
 date: 2026-01-26
 draft: false
-description: "church building in Göllheim, Germany"
+description: "St. Johannes Nepomuk, a notable church building in Göllheim, Germany, invites visitors to explore its serene atmosphere and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

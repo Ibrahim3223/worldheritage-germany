@@ -3,7 +3,7 @@ title: "Weserstein"
 site_name: "Weserstein"
 date: 2026-01-26
 draft: false
-description: "monument in Hann. Münden, Germany"
+description: "Weserstein, located in the charming town of Hann. Münden, Germany, serves as a striking monument that captures the essence of the region's historical and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

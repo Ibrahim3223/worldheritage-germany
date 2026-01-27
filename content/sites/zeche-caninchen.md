@@ -3,7 +3,7 @@ title: "Zeche Caninchen"
 site_name: "Zeche Caninchen"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Caninchen, located in the region of Sprockhövel, Germany, is an important site that reflects the long-standing tradition of mining in the area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

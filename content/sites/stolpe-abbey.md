@@ -3,7 +3,7 @@ title: "Stolpe Abbey"
 site_name: "Stolpe Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Stolpe Abbey, a serene monastery located in Stolpe an der Peene, Germany, offers visitors a unique glimpse into the spiritual and architectural heritage of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Rote Flora"
 site_name: "Rote Flora"
 date: 2026-01-26
 draft: false
-description: "social centre and squatted former theater in Hamburg, Germany"
+description: "Rote Flora is a vibrant social center and a former theatre building located in the Altona district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

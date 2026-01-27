@@ -3,7 +3,7 @@ title: "Aul"
 site_name: "Aul"
 date: 2026-01-26
 draft: false
-description: "Befestigungsturm der Stadtmauer der Stadt Zwingenberg"
+description: "Located in Zwingenberg, Germany, the Aul is a historic tower that forms part of the city wall, reflecting the architectural and defensive strategies of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

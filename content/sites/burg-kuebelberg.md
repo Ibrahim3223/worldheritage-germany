@@ -3,7 +3,7 @@ title: "Burg Kübelberg"
 site_name: "Burg Kübelberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kübelberg, a historically significant castle located in Schönenberg-Kübelberg, Germany, invites visitors to explore its storied past and architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

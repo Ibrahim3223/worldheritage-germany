@@ -3,7 +3,7 @@ title: "Luftwaffenmuseum Uetersen"
 site_name: "Luftwaffenmuseum Uetersen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Luftwaffenmuseum Uetersen, located in Spandau, Germany, is an institution dedicated to preserving the aviation history of the German air force."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

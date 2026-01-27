@@ -3,7 +3,7 @@ title: "Autostadt"
 site_name: "Autostadt"
 date: 2026-01-26
 draft: false
-description: "museum and park in Wolfsburg, Germany"
+description: "Located in the heart of Wolfsburg, Germany, Autostadt is a unique fusion of culture, technology, and automotive heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

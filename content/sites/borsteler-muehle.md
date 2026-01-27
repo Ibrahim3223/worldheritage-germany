@@ -3,7 +3,7 @@ title: "Borsteler Mühle"
 site_name: "Borsteler Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Jork im Alten Land (Niedersachsen, bei Hamburg)"
+description: "Borsteler Mühle is a remarkable windmill located in Jork, a charming town in the Alten Land region of Lower Saxony, Germany, just a short distance from Hamburg."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

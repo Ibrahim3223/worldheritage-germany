@@ -3,7 +3,7 @@ title: "Jungfernsee"
 site_name: "Jungfernsee"
 date: 2026-01-26
 draft: false
-description: "lake in Steglitz-Zehlendorf, Brandenburg, Germany"
+description: "Jungfernsee, a serene lake located in the district of Steglitz-Zehlendorf in Brandenburg, Germany, serves as a tranquil oasis amid urban life."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

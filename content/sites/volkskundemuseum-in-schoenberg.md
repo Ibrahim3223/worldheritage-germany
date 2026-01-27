@@ -3,7 +3,7 @@ title: "Volkskundemuseum in Schönberg"
 site_name: "Volkskundemuseum in Schönberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Volkskundemuseum in Schönberg stands as a significant cultural institution in the picturesque region of Germany, dedicated to preserving the traditions..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

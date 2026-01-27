@@ -3,7 +3,7 @@ title: "Alter Hellweg mine"
 site_name: "Alter Hellweg mine"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Alter Hellweg mine, situated in the Unna region of Germany, represents a significant chapter in the country’s industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

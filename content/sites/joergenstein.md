@@ -3,7 +3,7 @@ title: "Jörgenstein"
 site_name: "Jörgenstein"
 date: 2026-01-26
 draft: false
-description: "Denkmal im Bochumer Forst „Weitmarer Holz“"
+description: "Jörgenstein, located in Bochum, Germany, is a significant monument that serves as a poignant reminder of the region's historical and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

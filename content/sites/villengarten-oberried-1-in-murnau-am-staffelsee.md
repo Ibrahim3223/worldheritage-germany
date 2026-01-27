@@ -3,7 +3,7 @@ title: "Villengarten Oberried 1 in Murnau am Staffelsee"
 site_name: "Villengarten Oberried 1 in Murnau am Staffelsee"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-80-124-123 (2) in Murnau am Staffelsee, Bavaria"
+description: "In the picturesque town of Murnau am Staffelsee, nestled in Bavaria, Germany, lies Villengarten Oberried 1, an enchanting garden that serves as a cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

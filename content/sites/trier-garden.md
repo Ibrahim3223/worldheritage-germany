@@ -3,7 +3,7 @@ title: "Trier garden"
 site_name: "Trier garden"
 date: 2026-01-26
 draft: false
-description: "former park in Leipzig, Germany"
+description: "Trier Garden, located in the vibrant city of Leipzig, Germany, is an enchanting former park that offers visitors a serene escape from the urban hustle."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Aschentalshalbe"
 site_name: "Aschentalshalbe"
 date: 2026-01-26
 draft: false
-description: "mountain in the Harz, Germany"
+description: "Aschentalshalbe, a notable mountain in the Harz region of Germany, offers visitors a unique opportunity to explore the natural beauty and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

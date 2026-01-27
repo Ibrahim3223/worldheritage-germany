@@ -3,7 +3,7 @@ title: "Gößweinstein Castle"
 site_name: "Gößweinstein Castle"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-129-10 (0) in Gößweinstein, Bavaria"
+description: "Gößweinstein Castle stands as a prominent cultural heritage monument in the picturesque region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

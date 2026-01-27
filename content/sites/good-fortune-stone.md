@@ -3,7 +3,7 @@ title: "Good Fortune stone"
 site_name: "Good Fortune stone"
 date: 2026-01-26
 draft: false
-description: "Weimar monument to Goethe"
+description: "The Good Fortune stone is a prominent monument located in the heart of Weimar, Germany, dedicated to the illustrious writer Johann Wolfgang von Goethe."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

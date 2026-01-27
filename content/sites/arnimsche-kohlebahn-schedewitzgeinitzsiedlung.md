@@ -3,7 +3,7 @@ title: "Arnim'sche Kohlebahn Schedewitz/Geinitzsiedlung"
 site_name: "Arnim'sche Kohlebahn Schedewitz/Geinitzsiedlung"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Arnim'sche Kohlebahn Schedewitz/Geinitzsiedlung is a distinguished bridge located in Zwickau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

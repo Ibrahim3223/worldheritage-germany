@@ -3,7 +3,7 @@ title: "Siebold-Museum"
 site_name: "Siebold-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Siebold-Museum, located in the historic city of Würzburg, Germany, serves as a fascinating tribute to the enduring contributions of Philipp Franz von..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

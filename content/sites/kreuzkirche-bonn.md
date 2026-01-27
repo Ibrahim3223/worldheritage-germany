@@ -3,7 +3,7 @@ title: "Kreuzkirche (Bonn)"
 site_name: "Kreuzkirche (Bonn)"
 date: 2026-01-26
 draft: false
-description: "church building in Bonn, Germany"
+description: "Kreuzkirche, located in the heart of Bonn, Germany, is a significant church building that stands as a testament to the region's religious and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

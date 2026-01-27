@@ -3,7 +3,7 @@ title: "Bergbaumuseum des Kreises Altenkirchen"
 site_name: "Bergbaumuseum des Kreises Altenkirchen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bergbaumuseum des Kreises Altenkirchen, located in Herdorf, Germany, serves as an insightful repository of the region's mining heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

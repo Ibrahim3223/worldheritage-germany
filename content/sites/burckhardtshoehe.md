@@ -3,7 +3,7 @@ title: "Burckhardtshöhe"
 site_name: "Burckhardtshöhe"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Burckhardtshöhe, a serene nature reserve located in Lower Saxony, Germany, invites visitors to explore its tranquil landscapes and diverse ecosystems."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

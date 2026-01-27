@@ -3,7 +3,7 @@ title: "St. Petri-Kirche"
 site_name: "St. Petri-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Wolgast, Germany"
+description: "St. Petri-Kirche, located in the historic town of Wolgast, Germany, is a striking example of ecclesiastical architecture that resonates with both local and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

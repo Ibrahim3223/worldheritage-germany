@@ -3,7 +3,7 @@ title: "Meierei auf der Pfaueninsel"
 site_name: "Meierei auf der Pfaueninsel"
 date: 2026-01-26
 draft: false
-description: "building in Steglitz-Zehlendorf, Germany"
+description: "Meierei auf der Pfaueninsel, located in the scenic Steglitz-Zehlendorf district of Germany, is a captivating building that embodies the architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Building"

@@ -3,7 +3,7 @@ title: "Internationales Artistenmuseum"
 site_name: "Internationales Artistenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Internationales Artistenmuseum, located in Wandlitz, Germany, is a unique institution that celebrates the vibrant world of performers and artists."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

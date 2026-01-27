@@ -3,7 +3,7 @@ title: "Gersthofen Moschee"
 site_name: "Gersthofen Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee der  Türkisch-Islamischen Union (DITIB) in Gersthofen bei Augsburg"
+description: "The Gersthofen Moschee, located in the town of Gersthofen near Augsburg, Germany, serves as a vital center for the local Turkish-Islamic community."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

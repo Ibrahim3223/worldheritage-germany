@@ -3,7 +3,7 @@ title: "Rathaus Stetzsch"
 site_name: "Rathaus Stetzsch"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Deutschland"
+description: "Rathaus Stetzsch, located in the charming suburb of Stetzsch within the city of Dresden, Germany, serves as a focal point for local governance and community..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

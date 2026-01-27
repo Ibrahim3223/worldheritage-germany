@@ -3,7 +3,7 @@ title: "St. Nicholas (Spandau)"
 site_name: "St. Nicholas (Spandau)"
 date: 2026-01-26
 draft: false
-description: "church building in Spandau, Berlin, Germany"
+description: "St. Nicholas Church, located in the historic district of Spandau in Berlin, Germany, is a striking example of ecclesiastical architecture that reflects the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

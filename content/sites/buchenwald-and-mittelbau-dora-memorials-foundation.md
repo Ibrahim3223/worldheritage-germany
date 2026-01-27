@@ -3,7 +3,7 @@ title: "Buchenwald and Mittelbau-Dora Memorials Foundation"
 site_name: "Buchenwald and Mittelbau-Dora Memorials Foundation"
 date: 2026-01-26
 draft: false
-description: "German Holocaust memorial"
+description: "The Buchenwald and Mittelbau-Dora Memorials Foundation serves as a somber reminder of the atrocities committed during the Holocaust, providing a space for..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Foundation"

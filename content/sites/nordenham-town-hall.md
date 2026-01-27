@@ -3,7 +3,7 @@ title: "Nordenham town hall"
 site_name: "Nordenham town hall"
 date: 2026-01-26
 draft: false
-description: "building in Nordenham, Germany"
+description: "Nestled in the northern reaches of Germany, Nordenham town hall serves as a key landmark and administrative center for the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

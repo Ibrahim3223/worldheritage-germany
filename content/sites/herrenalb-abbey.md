@@ -3,7 +3,7 @@ title: "Herrenalb Abbey"
 site_name: "Herrenalb Abbey"
 date: 2026-01-26
 draft: false
-description: "former abbey in Germany"
+description: "Herrenalb Abbey, located in the charming town of Bad Herrenalb, Germany, is a former monastery that offers a glimpse into the monastic life of centuries past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

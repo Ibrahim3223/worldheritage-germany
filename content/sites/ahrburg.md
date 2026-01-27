@@ -3,7 +3,7 @@ title: "Ahrburg"
 site_name: "Ahrburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Ahrburg, a captivating castle located in the Merzenich region of Germany, invites visitors to explore its storied past and architectural beauty."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

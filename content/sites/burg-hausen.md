@@ -3,7 +3,7 @@ title: "Burg Hausen"
 site_name: "Burg Hausen"
 date: 2026-01-26
 draft: false
-description: "castle in Burzel"
+description: "Burg Hausen is a remarkable castle located in Burzel, within the picturesque region of Hausen am Tann, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

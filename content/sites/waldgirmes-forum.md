@@ -3,7 +3,7 @@ title: "Waldgirmes Forum"
 site_name: "Waldgirmes Forum"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Lahnau, Germany"
+description: "Waldgirmes Forum is an intriguing archaeological site located in Lahnau, Germany, that offers a unique glimpse into the region's ancient history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

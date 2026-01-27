@@ -3,7 +3,7 @@ title: "church and cemetery Obercunnersdorf"
 site_name: "church and cemetery Obercunnersdorf"
 date: 2026-01-26
 draft: false
-description: "church building and cemetery in Obercunnersdorf, Saxony, Germany"
+description: "The church and cemetery in Obercunnersdorf, a quaint village located in the Kottmar region of Saxony, Germany, offer visitors a glimpse into the area's rich..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

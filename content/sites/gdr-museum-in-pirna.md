@@ -3,7 +3,7 @@ title: "GDR Museum in Pirna"
 site_name: "GDR Museum in Pirna"
 date: 2026-01-26
 draft: false
-description: "German museum"
+description: "The GDR Museum in Pirna presents an intriguing exploration of life in East Germany, offering visitors a window into the everyday experiences and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

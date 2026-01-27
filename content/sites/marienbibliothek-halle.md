@@ -3,7 +3,7 @@ title: "Marienbibliothek, Halle"
 site_name: "Marienbibliothek, Halle"
 date: 2026-01-26
 draft: false
-description: "rare book library in Germany"
+description: "The Marienbibliothek in Halle (Saale), Germany, is a remarkable institution dedicated to the preservation and accessibility of rare books."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

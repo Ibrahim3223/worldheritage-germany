@@ -3,7 +3,7 @@ title: "Comenius-Garten"
 site_name: "Comenius-Garten"
 date: 2026-01-26
 draft: false
-description: "garden"
+description: "Comenius-Garten, located in the vibrant city of Berlin, Germany, is an oasis of tranquility amidst the bustling urban environment."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"

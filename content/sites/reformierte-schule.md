@@ -3,7 +3,7 @@ title: "Reformierte Schule"
 site_name: "Reformierte Schule"
 date: 2026-01-26
 draft: false
-description: "timber framed house"
+description: "The Reformierte Schule, a significant educational structure located in Wuppertal, Germany, exemplifies the charm and architectural character of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Gutshaus Friedenfelde"
 site_name: "Gutshaus Friedenfelde"
 date: 2026-01-26
 draft: false
-description: "Gutshaus in Brandenburg, Deutschland"
+description: "Gutshaus Friedenfelde, a distinguished manor house located in the picturesque region of Gerswalde, Germany, offers visitors a glimpse into the architectural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

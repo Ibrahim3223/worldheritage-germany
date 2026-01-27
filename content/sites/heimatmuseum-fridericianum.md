@@ -3,7 +3,7 @@ title: "Heimatmuseum Fridericianum"
 site_name: "Heimatmuseum Fridericianum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Fridericianum, a distinguished museum located in Germany, offers a unique glimpse into the region's cultural heritage and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

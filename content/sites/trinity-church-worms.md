@@ -3,7 +3,7 @@ title: "Trinity Church (Worms)"
 site_name: "Trinity Church (Worms)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Trinity Church in Worms, Germany, is a notable church building that captures the essence of European ecclesiastical architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

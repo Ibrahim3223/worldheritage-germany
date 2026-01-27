@@ -3,7 +3,7 @@ title: "Burg Hohenburg"
 site_name: "Burg Hohenburg"
 date: 2026-01-26
 draft: false
-description: "castle in Thalheim"
+description: "Burg Hohenburg, a striking castle located in the serene village of Thalheim in the Bissingen region of Germany, invites visitors to explore its historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

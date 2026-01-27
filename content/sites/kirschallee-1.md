@@ -3,7 +3,7 @@ title: "Kirschallee 1"
 site_name: "Kirschallee 1"
 date: 2026-01-26
 draft: false
-description: "former school building in Walddorf"
+description: "Kirschallee 1, located in the serene region of Kottmar, Germany, serves as a notable example of adaptive reuse in architectural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

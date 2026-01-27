@@ -3,7 +3,7 @@ title: "Diepholzer Moor"
 site_name: "Diepholzer Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Located in the picturesque region of Diepholz in Lower Saxony, Germany, Diepholzer Moor is a serene nature reserve that embodies a unique ecological landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Deutsches Musikautomaten-Museum"
 site_name: "Deutsches Musikautomaten-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Bruchsal (Germany)"
+description: "In the heart of Bruchsal, Germany, the Deutsches Musikautomaten-Museum invites visitors to explore a unique collection dedicated to the captivating world of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

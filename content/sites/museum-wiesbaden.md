@@ -3,7 +3,7 @@ title: "Museum Wiesbaden"
 site_name: "Museum Wiesbaden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Wiesbaden is a prominent art museum located in the heart of Wiesbaden, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

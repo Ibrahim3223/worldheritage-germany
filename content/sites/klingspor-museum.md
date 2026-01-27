@@ -3,7 +3,7 @@ title: "Klingspor Museum"
 site_name: "Klingspor Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Klingspor Museum, situated in Offenbach am Main, Germany, serves as a compelling destination for those intrigued by the art of typography and book design."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

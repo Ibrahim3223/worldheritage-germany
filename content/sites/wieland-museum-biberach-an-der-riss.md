@@ -3,7 +3,7 @@ title: "Wieland-Museum Biberach an der Riss"
 site_name: "Wieland-Museum Biberach an der Riss"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wieland-Museum in Biberach an der Riss, Germany, invites visitors to delve into the intricate interplay of art, culture, and history that defines this..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

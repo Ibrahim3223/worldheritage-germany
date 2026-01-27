@@ -3,7 +3,7 @@ title: "Orpheus statue"
 site_name: "Orpheus statue"
 date: 2026-01-26
 draft: false
-description: "statue in Düren"
+description: "The Orpheus statue in Düren, Germany, stands as a captivating representation of the mythological figure renowned for his enchanting music and profound love."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

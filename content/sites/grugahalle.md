@@ -3,7 +3,7 @@ title: "Grugahalle"
 site_name: "Grugahalle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Essen, Germany"
+description: "Grugahalle, a prominent multi-purpose hall in Essen, Germany, serves as a vital hub for cultural and social events in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

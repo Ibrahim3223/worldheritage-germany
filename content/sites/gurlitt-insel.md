@@ -3,7 +3,7 @@ title: "Gurlitt-Insel"
 site_name: "Gurlitt-Insel"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Gurlitt-Insel is a captivating island located in the vibrant region of Hamburg-Mitte, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"

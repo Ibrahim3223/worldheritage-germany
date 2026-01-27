@@ -3,7 +3,7 @@ title: "Altes Brauhaus zu Fallersleben"
 site_name: "Altes Brauhaus zu Fallersleben"
 date: 2026-01-26
 draft: false
-description: "brewery in Wolfsburg, Germany"
+description: "Altes Brauhaus zu Fallersleben, a historic brewery located in Wolfsburg, Germany, embodies the essence of traditional German brewing."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

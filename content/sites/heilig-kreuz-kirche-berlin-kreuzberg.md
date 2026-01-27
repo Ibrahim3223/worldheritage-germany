@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kirche (Berlin-Kreuzberg)"
 site_name: "Heilig-Kreuz-Kirche (Berlin-Kreuzberg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Kreuz-Kirche, located in the vibrant district of Berlin-Kreuzberg, is a notable church building that encapsulates the historical and cultural essence..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

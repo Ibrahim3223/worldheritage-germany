@@ -3,7 +3,7 @@ title: "Burg Hornfels"
 site_name: "Burg Hornfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hornfels is a captivating castle located in the charming region of Grenzach-Wyhlen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

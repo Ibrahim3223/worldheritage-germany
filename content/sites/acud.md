@@ -3,7 +3,7 @@ title: "ACUD"
 site_name: "ACUD"
 date: 2026-01-26
 draft: false
-description: "cultural center and cinema in Mitte, Berlin, Germany"
+description: "Located in the heart of Berlin's Bezirk Mitte, ACUD serves as a vibrant cultural center and cinema, showcasing an array of films and events that reflect the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

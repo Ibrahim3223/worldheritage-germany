@@ -3,7 +3,7 @@ title: "Fürst Thurn und Taxis Museen: Marstallmuseum"
 site_name: "Fürst Thurn und Taxis Museen: Marstallmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fürst Thurn und Taxis Museen: Marstallmuseum, located in the heart of Germany, is a fascinating destination for those interested in the intersection of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Nebel Lighthouse"
 site_name: "Nebel Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Situated in the scenic region of Schleswig-Holstein, Germany, the Nebel Lighthouse stands as a notable maritime structure along the picturesque coastline."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Augustinerinnenkloster Würzburg"
 site_name: "Augustinerinnenkloster Würzburg"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "The Augustinerinnenkloster Würzburg is a significant monastery located in the historic city of Würzburg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

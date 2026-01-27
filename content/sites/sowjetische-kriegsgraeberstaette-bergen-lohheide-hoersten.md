@@ -3,7 +3,7 @@ title: "Sowjetische Kriegsgräberstätte Bergen-Lohheide (Hörsten)"
 site_name: "Sowjetische Kriegsgräberstätte Bergen-Lohheide (Hörsten)"
 date: 2026-01-26
 draft: false
-description: "POW cemetery"
+description: "The Sowjetische Kriegsgräberstätte Bergen-Lohheide (Hörsten) stands as a solemn reminder of the sacrifices made by soldiers during times of conflict."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

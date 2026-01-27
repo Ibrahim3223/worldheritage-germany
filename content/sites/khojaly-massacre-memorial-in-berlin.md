@@ -3,7 +3,7 @@ title: "Khojaly Massacre Memorial in Berlin"
 site_name: "Khojaly Massacre Memorial in Berlin"
 date: 2026-01-26
 draft: false
-description: "monument in Steglitz-Zehlendorf, Germany"
+description: "The Khojaly Massacre Memorial in Berlin serves as a poignant reminder of the tragic events that occurred during the Nagorno-Karabakh conflict."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

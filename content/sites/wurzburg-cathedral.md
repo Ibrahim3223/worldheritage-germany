@@ -3,7 +3,7 @@ title: "Wurzburg Cathedral"
 site_name: "Wurzburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Würzburg, Germany"
+description: "Würzburg Cathedral, an iconic landmark in the heart of Würzburg, Germany, serves as a vital cultural and architectural symbol of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"

@@ -3,7 +3,7 @@ title: "Burg Neutann"
 site_name: "Burg Neutann"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neutann, a captivating castle located in the picturesque region of Wolfegg, Germany, is a site that embodies centuries of architectural evolution and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

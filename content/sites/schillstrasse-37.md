@@ -3,7 +3,7 @@ title: "Schillstraße 37"
 site_name: "Schillstraße 37"
 date: 2026-01-26
 draft: false
-description: "building in Stralsund, Germany"
+description: "Schillstraße 37 is an architectural ensemble located in the historic city of Stralsund, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

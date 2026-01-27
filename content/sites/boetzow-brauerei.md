@@ -3,7 +3,7 @@ title: "Bötzow-Brauerei"
 site_name: "Bötzow-Brauerei"
 date: 2026-01-26
 draft: false
-description: "ehemalige Brauerei im Berliner Ortsteil Prenzlauer Berg"
+description: "Bötzow-Brauerei, located in the vibrant district of Prenzlauer Berg, Berlin, is an architectural ensemble that tells the story of the city's brewing heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Am Rank (Röhmsee)"
 site_name: "Am Rank (Röhmsee)"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Am Rank (Röhmsee) is a serene nature reserve located in Unterensingen, Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

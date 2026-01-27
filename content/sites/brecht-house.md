@@ -3,7 +3,7 @@ title: "Brecht House"
 site_name: "Brecht House"
 date: 2026-01-26
 draft: false
-description: "house in Berlin, Germany"
+description: "In the heart of Berlin's Bezirk Mitte, the Brecht House stands as a significant monument embodying the legacy of one of Germany’s most influential..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

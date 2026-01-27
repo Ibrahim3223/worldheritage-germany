@@ -3,7 +3,7 @@ title: "Thomaskirche Tribsees"
 site_name: "Thomaskirche Tribsees"
 date: 2026-01-26
 draft: false
-description: "church building in Tribsees, Germany"
+description: "Thomaskirche Tribsees is a notable church building located in the tranquil town of Tribsees, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

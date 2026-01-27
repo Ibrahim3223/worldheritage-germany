@@ -3,7 +3,7 @@ title: "Karl Marx monument"
 site_name: "Karl Marx monument"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt (Oder), Germany"
+description: "The Karl Marx monument, located in the city of Frankfurt (Oder), Germany, stands as an emblematic piece of cultural heritage that reflects the complex..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

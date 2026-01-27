@@ -3,7 +3,7 @@ title: "Stadtarchiv Gifhorn"
 site_name: "Stadtarchiv Gifhorn"
 date: 2026-01-26
 draft: false
-description: "archive organization in Gifhorn, Germany"
+description: "The Stadtarchiv Gifhorn serves as a crucial repository of the region's history, culture, and heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

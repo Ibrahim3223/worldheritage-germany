@@ -3,7 +3,7 @@ title: "Rhönmuseum"
 site_name: "Rhönmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rhönmuseum in Fladungen, Germany, invites visitors to explore the cultural heritage of the unique Rhön region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

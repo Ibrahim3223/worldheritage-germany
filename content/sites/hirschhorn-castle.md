@@ -3,7 +3,7 @@ title: "Hirschhorn Castle"
 site_name: "Hirschhorn Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hirschhorn Castle, an emblematic structure situated in the picturesque town of Hirschhorn, Germany, captures the imagination with its medieval charm and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

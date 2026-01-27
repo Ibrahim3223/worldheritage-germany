@@ -3,7 +3,7 @@ title: "Deutsches Film- und Fototechnik Museum"
 site_name: "Deutsches Film- und Fototechnik Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Film- und Fototechnik Museum, located in the charming town of Deidesheim, Germany, is a unique destination dedicated to the art and science of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bürgersaalkirche"
 site_name: "Bürgersaalkirche"
 date: 2026-01-26
 draft: false
-description: "church in Munich, Germany"
+description: "Located in the heart of Munich, Bürgersaalkirche is a church building that captivates visitors with its serene atmosphere and historical significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

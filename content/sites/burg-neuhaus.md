@@ -3,7 +3,7 @@ title: "Burg Neuhaus"
 site_name: "Burg Neuhaus"
 date: 2026-01-26
 draft: false
-description: "castle ruin near Igersheim, Germany"
+description: "Burg Neuhaus, a captivating castle ruin near Igersheim, Germany, offers a glimpse into the architectural and cultural narratives of medieval Europe."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

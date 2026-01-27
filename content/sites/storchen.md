@@ -3,7 +3,7 @@ title: "Storchen"
 site_name: "Storchen"
 date: 2026-01-26
 draft: false
-description: "building in Göppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "In the heart of Göppingen, Germany, the Storchen Museum represents a unique intersection of culture, education, and community engagement."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

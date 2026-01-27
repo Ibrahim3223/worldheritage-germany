@@ -3,7 +3,7 @@ title: "Landesfeuerwehrmuseum Sachsen-Anhalt"
 site_name: "Landesfeuerwehrmuseum Sachsen-Anhalt"
 date: 2026-01-26
 draft: false
-description: "museum in Stendal, Germany"
+description: "The Landesfeuerwehrmuseum Sachsen-Anhalt, located in Stendal, Germany, serves as a fascinating tribute to the history and evolution of fire services in the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

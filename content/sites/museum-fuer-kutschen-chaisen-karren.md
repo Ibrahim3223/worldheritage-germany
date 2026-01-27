@@ -3,7 +3,7 @@ title: "Museum für Kutschen, Chaisen, Karren"
 site_name: "Museum für Kutschen, Chaisen, Karren"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum für Kutschen, Chaisen, Karren, located in Heidenheim an der Brenz, Germany, offers a fascinating glimpse into the world of horse-drawn vehicles."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Wittringen Castle"
 site_name: "Wittringen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Wittringen Castle, a historic fortress located in the heart of Gladbeck, Germany, invites visitors to explore a fascinating blend of history and architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

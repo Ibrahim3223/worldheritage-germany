@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zwickauer Mulde"
 site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zwickauer Mulde"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn, particularly highlighted by the Eisenbahnbrücke Zwickauer Mulde, is a notable engineering feat located in Colditz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

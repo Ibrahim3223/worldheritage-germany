@@ -3,7 +3,7 @@ title: "St. Michael's Church, Munich"
 site_name: "St. Michael's Church, Munich"
 date: 2026-01-26
 draft: false
-description: "church in Bavaria, Germany"
+description: "St. Michael's Church in Munich stands as one of the most remarkable examples of Renaissance architecture in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

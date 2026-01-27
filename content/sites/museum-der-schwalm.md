@@ -3,7 +3,7 @@ title: "Museum der Schwalm"
 site_name: "Museum der Schwalm"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der Schwalm, located in Schwalmstadt, Germany, offers visitors a deep dive into the cultural heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

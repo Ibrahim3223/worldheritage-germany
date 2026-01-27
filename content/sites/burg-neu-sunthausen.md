@@ -3,7 +3,7 @@ title: "Burg Neu-Sunthausen"
 site_name: "Burg Neu-Sunthausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neu-Sunthausen, a remarkable castle located in Geisingen, Germany, invites visitors to explore its storied past and architectural grandeur."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

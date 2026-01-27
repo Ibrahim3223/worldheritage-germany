@@ -3,7 +3,7 @@ title: "Bauernhausmuseum"
 site_name: "Bauernhausmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bauernhausmuseum, located in Germany, serves as a portal into the agricultural traditions and rural lifestyle of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

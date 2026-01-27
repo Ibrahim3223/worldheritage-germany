@@ -3,7 +3,7 @@ title: "Marienkapelle auf der Gänsevöhde"
 site_name: "Marienkapelle auf der Gänsevöhde"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Marienkapelle auf der Gänsevöhde is a serene chapel located in Werl, Germany, a town that carries a legacy of devotion and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

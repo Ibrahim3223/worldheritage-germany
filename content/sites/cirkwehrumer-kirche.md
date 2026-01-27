@@ -3,7 +3,7 @@ title: "Cirkwehrumer Kirche"
 site_name: "Cirkwehrumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Cirkwehrumer Kirche, located in the quaint region of Hinte, Germany, is a noteworthy church building that embodies the historical and cultural essence of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

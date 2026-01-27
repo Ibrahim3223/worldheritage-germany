@@ -3,7 +3,7 @@ title: "Synagogue Ehrstädt"
 site_name: "Synagogue Ehrstädt"
 date: 2026-01-26
 draft: false
-description: "building in Sinsheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "Synagogue Ehrstädt, located in Sinsheim, Baden-Württemberg, Germany, stands as a significant structure within the rich cultural landscape of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

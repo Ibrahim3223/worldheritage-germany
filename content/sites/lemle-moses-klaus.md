@@ -3,7 +3,7 @@ title: "Lemle-Moses-Klaus"
 site_name: "Lemle-Moses-Klaus"
 date: 2026-01-26
 draft: false
-description: "ehemalige jüdische Talmudschule mit Synagoge in Mannheim"
+description: "The Lemle-Moses-Klaus in Mannheim, Germany, stands as a significant remnant of Jewish heritage, intricately woven into the fabric of the city's history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

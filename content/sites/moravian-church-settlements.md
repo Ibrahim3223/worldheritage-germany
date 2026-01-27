@@ -3,7 +3,7 @@ title: "Moravian Church Settlements"
 site_name: "Moravian Church Settlements"
 date: 2026-01-26
 draft: false
-description: "World Heritage Site in Denmark, Germany, USA and the UK"
+description: "The Moravian Church Settlements represent a unique chapter in the history of religious communities and human settlement patterns, intertwining faith,..."
 region: "Germany"
 country: "Germany"
 heritage_type: "Human Settlement"

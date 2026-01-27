@@ -3,7 +3,7 @@ title: "St. Claren"
 site_name: "St. Claren"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Claren is a notable church building located in the serene region of Blekendorf, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

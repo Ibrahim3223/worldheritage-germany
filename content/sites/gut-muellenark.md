@@ -3,7 +3,7 @@ title: "Gut Müllenark"
 site_name: "Gut Müllenark"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Gut Müllenark is an architectural ensemble located in the region of Inden, Germany, distinguished by its historical and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

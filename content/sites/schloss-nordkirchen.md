@@ -3,7 +3,7 @@ title: "Schloss Nordkirchen"
 site_name: "Schloss Nordkirchen"
 date: 2026-01-26
 draft: false
-description: "palace in North Rhine Westphalia, Germany"
+description: "Schloss Nordkirchen, often referred to as the "Westphalian Versailles," is a splendid palace located in the heart of North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

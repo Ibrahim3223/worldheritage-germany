@@ -3,7 +3,7 @@ title: "Schmiedemuseum Jevenstedt"
 site_name: "Schmiedemuseum Jevenstedt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schmiedemuseum Jevenstedt is a unique museum located in the quaint village of Jevenstedt, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

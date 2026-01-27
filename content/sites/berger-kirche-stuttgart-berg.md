@@ -3,7 +3,7 @@ title: "Berger Kirche (Stuttgart-Berg)"
 site_name: "Berger Kirche (Stuttgart-Berg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Berger Kirche, located in Stuttgart-Berg, is a remarkable church building that stands as a focal point of spiritual and architectural significance within..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

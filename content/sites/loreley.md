@@ -3,7 +3,7 @@ title: "Loreley"
 site_name: "Loreley"
 date: 2026-01-26
 draft: false
-description: "rock on the eastern bank of the River Rhine in Germany"
+description: "Loreley, a striking rock formation on the eastern bank of the River Rhine, is a site of profound cultural significance and natural beauty in Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Mountain"

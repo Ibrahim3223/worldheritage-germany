@@ -3,7 +3,7 @@ title: "Uniseum"
 site_name: "Uniseum"
 date: 2026-01-26
 draft: false
-description: "museum at the Albert-Ludwigs-University in Freiburg, Germany"
+description: "Uniseum, located at the esteemed Albert-Ludwigs-University in Freiburg, Germany, is a museum that offers a unique glimpse into the world of academia and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

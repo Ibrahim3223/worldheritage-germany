@@ -3,7 +3,7 @@ title: "Haus Kallenberg"
 site_name: "Haus Kallenberg"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Haus Kallenberg, an architectural ensemble located in Ende, Germany, captivates visitors with its historical significance and unique architectural style."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

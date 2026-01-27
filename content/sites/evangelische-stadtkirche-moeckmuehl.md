@@ -3,7 +3,7 @@ title: "Evangelische Stadtkirche Möckmühl"
 site_name: "Evangelische Stadtkirche Möckmühl"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Evangelische Stadtkirche Möckmühl is a place where the spiritual heritage of Germany meets the cultural narrative of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Heidelberg Zoo"
 site_name: "Heidelberg Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Heidelberg Zoo, located in the charming city of Heidelberg, Germany, offers visitors an engaging glimpse into the animal kingdom."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

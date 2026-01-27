@@ -3,7 +3,7 @@ title: "Gut Rosenkrantz Gate House"
 site_name: "Gut Rosenkrantz Gate House"
 date: 2026-01-26
 draft: false
-description: "gate house in Schinkel, Germany"
+description: "Gut Rosenkrantz Gate House, a notable example of historic architecture, stands prominently in the Schinkel region of Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"

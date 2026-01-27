@@ -3,7 +3,7 @@ title: "Ehemaliges Amtsgericht"
 site_name: "Ehemaliges Amtsgericht"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Ehemaliges Amtsgericht, located in the charming town of Babenhausen, Germany, is a noteworthy courthouse that reflects the region's historical and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"

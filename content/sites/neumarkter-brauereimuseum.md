@@ -3,7 +3,7 @@ title: "Neumarkter Brauereimuseum"
 site_name: "Neumarkter Brauereimuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Neumarkter Brauereimuseum, located in Neumarkt in der Oberpfalz, Germany, offers a captivating exploration into the world of brewing and the historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

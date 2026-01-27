@@ -3,7 +3,7 @@ title: "Riessersee"
 site_name: "Riessersee"
 date: 2026-01-26
 draft: false
-description: "mountain lake in the south of Germany"
+description: "Riessersee is a serene mountain lake located in the picturesque region of Garmisch-Partenkirchen in southern Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

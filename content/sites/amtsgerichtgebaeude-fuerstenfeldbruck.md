@@ -3,7 +3,7 @@ title: "Amtsgerichtgebäude Fürstenfeldbruck"
 site_name: "Amtsgerichtgebäude Fürstenfeldbruck"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Fürstenfeldbruck, Bayern"
+description: "The Amtsgerichtgebäude Fürstenfeldbruck, an emblematic courthouse located in the town of Fürstenfeldbruck, Bavaria, serves as a significant landmark in the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"

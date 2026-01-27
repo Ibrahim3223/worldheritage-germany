@@ -3,7 +3,7 @@ title: "former synagogue of Sankt Ingbert"
 site_name: "former synagogue of Sankt Ingbert"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The former synagogue of Sankt Ingbert stands as a significant cultural landmark in Germany, reflecting the rich Jewish heritage that once thrived in this..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Synagogue"

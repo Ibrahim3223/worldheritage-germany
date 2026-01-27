@@ -3,7 +3,7 @@ title: "Bad Elster Spa Museum"
 site_name: "Bad Elster Spa Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bad Elster Spa Museum is a captivating destination that invites visitors to explore the rich cultural heritage of this renowned spa town in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

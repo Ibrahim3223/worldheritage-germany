@@ -3,7 +3,7 @@ title: "Burg Immendingen"
 site_name: "Burg Immendingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Immendingen, a captivating castle located in the charming region of Immendingen, Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

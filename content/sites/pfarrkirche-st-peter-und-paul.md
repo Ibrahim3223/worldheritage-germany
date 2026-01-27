@@ -3,7 +3,7 @@ title: "Pfarrkirche St. Peter und Paul"
 site_name: "Pfarrkirche St. Peter und Paul"
 date: 2026-01-26
 draft: false
-description: "church building in Buxheim, Swabia, Germany"
+description: "The Pfarrkirche St. Peter und Paul, located in the charming region of Buxheim in Swabia, Germany, stands as a remarkable example of ecclesiastical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

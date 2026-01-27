@@ -3,7 +3,7 @@ title: "Lustgarten"
 site_name: "Lustgarten"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Lustgarten, an expansive square located in the heart of Berlin, serves as a vital cultural and recreational space within the bustling Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

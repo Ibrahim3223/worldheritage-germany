@@ -3,7 +3,7 @@ title: "Dorfmuseum Weckbach"
 site_name: "Dorfmuseum Weckbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Weckbach is a unique cultural institution located in Germany, dedicated to preserving and showcasing the heritage of the Weckbach community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

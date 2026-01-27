@@ -3,7 +3,7 @@ title: "Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversit
 site_name: "Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science"
 date: 2026-01-26
 draft: false
-description: "natural history museum in Berlin, Germany"
+description: "The Museum für Naturkunde, officially recognized as the Leibniz Institute for Evolution and Biodiversity Science, is a prominent natural history museum..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

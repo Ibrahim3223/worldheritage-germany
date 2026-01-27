@@ -3,7 +3,7 @@ title: "Schulgarten Schützenstraße 35 b in Wallenfels"
 site_name: "Schulgarten Schützenstraße 35 b in Wallenfels"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-184-92 (4) in Wallenfels, Bavaria"
+description: "The Schulgarten at Schützenstraße 35 b in Wallenfels is a captivating garden that serves as both a cultural heritage monument and a serene escape in the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

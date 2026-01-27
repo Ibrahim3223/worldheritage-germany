@@ -3,7 +3,7 @@ title: "Tramway Museum Darmstadt-Kranichstein"
 site_name: "Tramway Museum Darmstadt-Kranichstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Tramway Museum Darmstadt-Kranichstein stands as an intriguing destination for both enthusiasts of public transportation and those interested in the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

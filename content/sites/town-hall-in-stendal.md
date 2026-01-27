@@ -3,7 +3,7 @@ title: "Town hall in Stendal"
 site_name: "Town hall in Stendal"
 date: 2026-01-26
 draft: false
-description: "town hall in Saxony-Anhalt, Germany"
+description: "The Town Hall in Stendal, located in the heart of Saxony-Anhalt, Germany, is an architectural landmark that embodies the town’s historical and cultural essence."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

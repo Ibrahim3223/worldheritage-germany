@@ -3,7 +3,7 @@ title: "Rundbogenbrücke über die Döllnitz Liptitz"
 site_name: "Rundbogenbrücke über die Döllnitz Liptitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rundbogenbrücke über die Döllnitz Liptitz is an intriguing bridge located in the Wermsdorf region of Germany, known for its unique architectural design..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

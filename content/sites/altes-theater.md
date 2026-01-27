@@ -3,7 +3,7 @@ title: "Altes Theater"
 site_name: "Altes Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre in Düsseldorf, Germany"
+description: "The Altes Theater, a notable theatre building in Düsseldorf, Germany, holds an important place in the cultural landscape of the city."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

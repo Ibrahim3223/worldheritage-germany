@@ -3,7 +3,7 @@ title: "Museum for Communication Frankfurt"
 site_name: "Museum for Communication Frankfurt"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt, Germany"
+description: "Located in the vibrant city of Frankfurt, Germany, the Museum for Communication Frankfurt is an art museum that delves into the evolution of communication..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

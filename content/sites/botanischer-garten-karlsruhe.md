@@ -3,7 +3,7 @@ title: "Botanischer Garten Karlsruhe"
 site_name: "Botanischer Garten Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "municipal botanical garden located in Karlsruhe, Baden-Württemberg, Germany"
+description: "The Botanischer Garten Karlsruhe serves as an inviting oasis in the heart of Karlsruhe, Germany, where visitors can immerse themselves in the beauty and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

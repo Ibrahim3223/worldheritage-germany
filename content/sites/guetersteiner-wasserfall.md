@@ -3,7 +3,7 @@ title: "Gütersteiner Wasserfall"
 site_name: "Gütersteiner Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Gütersteiner Wasserfall, located in the picturesque region of Bad Urach, Germany, is a stunning natural feature that captivates visitors with its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

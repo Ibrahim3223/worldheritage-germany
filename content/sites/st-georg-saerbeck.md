@@ -3,7 +3,7 @@ title: "St. Georg (Saerbeck)"
 site_name: "St. Georg (Saerbeck)"
 date: 2026-01-26
 draft: false
-description: "church building in Saerbeck, Germany"
+description: "St. Georg in Saerbeck is an exquisite church building that captures the essence of the region's architectural heritage and spiritual significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

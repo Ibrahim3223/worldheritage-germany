@@ -3,7 +3,7 @@ title: "Schleglerschloss"
 site_name: "Schleglerschloss"
 date: 2026-01-26
 draft: false
-description: "building in Heimsheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "Schleglerschloss, a distinguished manor house located in the quaint town of Heimsheim, within the Karlsruhe Government Region of Baden-Württemberg, Germany,..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

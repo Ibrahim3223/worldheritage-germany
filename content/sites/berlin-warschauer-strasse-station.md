@@ -3,7 +3,7 @@ title: "Berlin Warschauer Straße station"
 site_name: "Berlin Warschauer Straße station"
 date: 2026-01-26
 draft: false
-description: "S-Bahn station in Berlin, Germany"
+description: "Berlin Warschauer Straße station represents a significant junction in the heart of the Friedrichshain-Kreuzberg district, serving as a key access point for..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

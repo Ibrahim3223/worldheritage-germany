@@ -3,7 +3,7 @@ title: "Deutsches Kartoffelmuseum"
 site_name: "Deutsches Kartoffelmuseum"
 date: 2026-01-26
 draft: false
-description: "Museum über die gleichnamige Knolle"
+description: "In the heart of Fußgönheim, Germany, the Deutsches Kartoffelmuseum serves as a fascinating homage to the humble potato, a staple food that has shaped..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

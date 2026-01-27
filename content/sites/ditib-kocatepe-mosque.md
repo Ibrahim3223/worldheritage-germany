@@ -3,7 +3,7 @@ title: "DİTİB Kocatepe Mosque"
 site_name: "DİTİB Kocatepe Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Ingolstadt, Bavaria, Germany"
+description: "The DİTİB Kocatepe Mosque in Ingolstadt, Bavaria, Germany, stands as a significant center for the local Muslim community and an architectural highlight..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

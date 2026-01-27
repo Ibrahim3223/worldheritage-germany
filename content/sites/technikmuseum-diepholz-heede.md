@@ -3,7 +3,7 @@ title: "Technikmuseum Diepholz-Heede"
 site_name: "Technikmuseum Diepholz-Heede"
 date: 2026-01-26
 draft: false
-description: "museum in Diepholz, Germany"
+description: "Technikmuseum Diepholz-Heede serves as a dynamic gateway to the world of technology and innovation, situated in the charming region of Diepholz, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Altstadt (Herford)"
 site_name: "Altstadt (Herford)"
 date: 2026-01-26
 draft: false
-description: "quarter of Herford, Germany"
+description: "The Altstadt of Herford draws visitors into a compelling blend of history and culture, showcasing the charm of this old town in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"

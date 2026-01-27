@@ -3,7 +3,7 @@ title: "Vierländerin-Brunnen"
 site_name: "Vierländerin-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Hamburg, Germany"
+description: "In the heart of Hamburg-Mitte, the Vierländerin-Brunnen stands as a striking example of urban artistry and community spirit."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"

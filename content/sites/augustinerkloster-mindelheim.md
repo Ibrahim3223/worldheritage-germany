@@ -3,7 +3,7 @@ title: "Augustinerkloster Mindelheim"
 site_name: "Augustinerkloster Mindelheim"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "In the heart of Bavaria, the Augustinerkloster Mindelheim stands as a remarkable testament to the region's monastic heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

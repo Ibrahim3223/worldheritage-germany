@@ -3,7 +3,7 @@ title: "Motor Technica Museum Bad Oeynhausen"
 site_name: "Motor Technica Museum Bad Oeynhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Motor Technica Museum in Bad Oeynhausen, Germany, is a celebration of automotive history and engineering excellence."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

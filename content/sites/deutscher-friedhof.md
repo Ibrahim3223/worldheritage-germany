@@ -3,7 +3,7 @@ title: "Deutscher Friedhof"
 site_name: "Deutscher Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hanau, Germany"
+description: "In the heart of Hanau, Germany, lies the Deutscher Friedhof, a cemetery that serves as a poignant reminder of the lives and stories of those who have passed."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

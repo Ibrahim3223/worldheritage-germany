@@ -3,7 +3,7 @@ title: "Mecklenburg Castle"
 site_name: "Mecklenburg Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Dorf Mecklenburg, Mecklenburg-Vorpommern, Germany"
+description: "Mecklenburg Castle, situated in the quaint village of Dorf Mecklenburg, offers a captivating glimpse into the medieval architecture of northern Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Friedensfahrt-Denkmal (Leipzig)"
 site_name: "Friedensfahrt-Denkmal (Leipzig)"
 date: 2026-01-26
 draft: false
-description: "memorial in Leipzig, Germany"
+description: "The Friedensfahrt-Denkmal, located in Leipzig, Germany, is a poignant memorial that commemorates a significant historical event in the realm of peace and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

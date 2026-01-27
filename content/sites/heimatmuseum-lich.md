@@ -3,7 +3,7 @@ title: "Heimatmuseum Lich"
 site_name: "Heimatmuseum Lich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Lich serves as a cultural hub in the heart of Germany, offering visitors an opportunity to explore the local heritage and traditions that have..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Ballhaus Watzke"
 site_name: "Ballhaus Watzke"
 date: 2026-01-26
 draft: false
-description: "ballroom and restaurant in Dresden, Germany"
+description: "Ballhaus Watzke, located in the vibrant city of Dresden, Germany, is more than just a brewery; it is an establishment that embodies the city's rich cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Brewery"

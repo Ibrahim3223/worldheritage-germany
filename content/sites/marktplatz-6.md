@@ -3,7 +3,7 @@ title: "Marktplatz 6"
 site_name: "Marktplatz 6"
 date: 2026-01-26
 draft: false
-description: "building in Nordenham, Germany"
+description: "Marktplatz 6, the City Hall of Nordenham, Germany, is an important civic structure that embodies the essence of local governance and community engagement."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

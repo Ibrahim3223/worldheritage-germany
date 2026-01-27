@@ -3,7 +3,7 @@ title: "Wurzelmuseum"
 site_name: "Wurzelmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Speinshart, Germany, lies the Wurzelmuseum, a unique cultural institution dedicated to exploring the fascinating world of roots and their..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

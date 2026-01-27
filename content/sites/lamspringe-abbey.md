@@ -3,7 +3,7 @@ title: "Lamspringe Abbey"
 site_name: "Lamspringe Abbey"
 date: 2026-01-26
 draft: false
-description: "former monastery in Lamspringe, Germany. Church and buildings are preserved"
+description: "Lamspringe Abbey, a former monastery located in the serene town of Lamspringe, Germany, invites visitors to explore its preserved church and surrounding..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

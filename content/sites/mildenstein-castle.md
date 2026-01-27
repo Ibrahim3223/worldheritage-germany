@@ -3,7 +3,7 @@ title: "Mildenstein Castle"
 site_name: "Mildenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Leisnig, Saxony"
+description: "Mildenstein Castle, located in the charming town of Leisnig in Saxony, Germany, is a captivating destination for history enthusiasts and culture seekers alike."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

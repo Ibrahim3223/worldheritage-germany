@@ -3,7 +3,7 @@ title: "Oberfränkisches Feuerwehrmuseum"
 site_name: "Oberfränkisches Feuerwehrmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Oberfränkisches Feuerwehrmuseum, located in the charming town of Schauenstein, Germany, offers visitors a unique glimpse into the history and evolution..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

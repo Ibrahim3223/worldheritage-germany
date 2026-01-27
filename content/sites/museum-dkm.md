@@ -3,7 +3,7 @@ title: "Museum DKM"
 site_name: "Museum DKM"
 date: 2026-01-26
 draft: false
-description: "museum in Duisburg, Germany"
+description: "Museum DKM is an art museum located in Duisburg, Germany, serving as a cultural hub for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

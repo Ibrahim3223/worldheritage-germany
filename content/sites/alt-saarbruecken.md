@@ -3,7 +3,7 @@ title: "Alt-Saarbrücken"
 site_name: "Alt-Saarbrücken"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Alt-Saarbrücken, the old town of Saarbrücken, Germany, offers a glimpse into the historical fabric of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Old Town"

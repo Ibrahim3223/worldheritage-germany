@@ -3,7 +3,7 @@ title: "Burgruine Breitenegg"
 site_name: "Burgruine Breitenegg"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Germany"
+description: "Situated in the picturesque region of Germany, Burgruine Breitenegg presents an intriguing glimpse into the country’s medieval past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

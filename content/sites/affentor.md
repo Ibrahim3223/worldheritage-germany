@@ -3,7 +3,7 @@ title: "Affentor"
 site_name: "Affentor"
 date: 2026-01-26
 draft: false
-description: "southernmost of the medieval city gates of Frankfurt am Main"
+description: "Affentor, the southernmost of the medieval city gates of Frankfurt am Main, serves as a historical marker of the city's rich past and architectural prowess."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Porzellanwelten Leuchtenburg"
 site_name: "Porzellanwelten Leuchtenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Porzellanwelten Leuchtenburg is a museum located in the picturesque region of Thuringia, Germany, dedicated to the art and history of porcelain."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

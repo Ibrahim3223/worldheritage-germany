@@ -3,7 +3,7 @@ title: "Busmannkapelle Memorial"
 site_name: "Busmannkapelle Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "The Busmannkapelle Memorial, located in the vibrant city of Dresden, Germany, serves as a poignant reminder of the complex history that has shaped this region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"

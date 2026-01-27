@@ -3,7 +3,7 @@ title: "Stadtkirche St. Pankratius"
 site_name: "Stadtkirche St. Pankratius"
 date: 2026-01-26
 draft: false
-description: "church building in Warstein, North Rhine-Westphalia, Germany"
+description: "In the heart of Warstein, North Rhine-Westphalia, the Stadtkirche St. Pankratius stands as a significant church building that captures the interest of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

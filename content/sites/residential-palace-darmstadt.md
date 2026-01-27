@@ -3,7 +3,7 @@ title: "Residential Palace Darmstadt"
 site_name: "Residential Palace Darmstadt"
 date: 2026-01-26
 draft: false
-description: "Castle in Darmstadt, Germany"
+description: "The Residential Palace Darmstadt, with its historical significance and architectural charm, serves as a captivating museum that invites visitors to explore..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

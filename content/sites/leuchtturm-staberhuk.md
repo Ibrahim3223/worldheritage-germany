@@ -3,7 +3,7 @@ title: "Leuchtturm Staberhuk"
 site_name: "Leuchtturm Staberhuk"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Leuchtturm Staberhuk, perched on the northeastern tip of Fehmarn in Schleswig-Holstein, Germany, is not just a functional maritime structure; it..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

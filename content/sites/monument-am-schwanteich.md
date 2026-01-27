@@ -3,7 +3,7 @@ title: "Monument am Schwanteich"
 site_name: "Monument am Schwanteich"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "Monument am Schwanteich is a distinguished site located in Germany, recognized for its historical and cultural significance."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

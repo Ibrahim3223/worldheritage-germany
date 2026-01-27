@@ -3,7 +3,7 @@ title: "Burg Kirberg"
 site_name: "Burg Kirberg"
 date: 2026-01-26
 draft: false
-description: "Burgruine in Deutschland"
+description: "Burg Kirberg, a captivating castle ruin located in the quaint region of Kirberg, Germany, encapsulates the allure of medieval architecture and the stories..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

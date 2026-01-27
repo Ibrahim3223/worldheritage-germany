@@ -3,7 +3,7 @@ title: "Herzogspark"
 site_name: "Herzogspark"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Located in Germany, Herzogspark is a botanical garden that invites nature enthusiasts, families, and curious travelers alike to explore its lush landscapes..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

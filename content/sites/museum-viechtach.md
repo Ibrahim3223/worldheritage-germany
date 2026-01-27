@@ -3,7 +3,7 @@ title: "Museum Viechtach"
 site_name: "Museum Viechtach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Viechtach, located in the heart of Germany, is a cultural institution that offers a unique glimpse into the region's heritage and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

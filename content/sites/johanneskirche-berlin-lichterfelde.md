@@ -3,7 +3,7 @@ title: "Johanneskirche (Berlin-Lichterfelde)"
 site_name: "Johanneskirche (Berlin-Lichterfelde)"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Johanneskirche, located in the Steglitz-Zehlendorf district of Berlin, is a fascinating church building that represents a significant piece of the area's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bayreuth State Gallery"
 site_name: "Bayreuth State Gallery"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bayreuth State Gallery, an esteemed art museum located in the heart of Bayreuth, Germany, serves as a prominent cultural institution dedicated to the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

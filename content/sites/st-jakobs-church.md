@@ -3,7 +3,7 @@ title: "St. Jakob's Church"
 site_name: "St. Jakob's Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Jakob's Church is an integral part of Munich's architectural and cultural landscape, offering visitors a glimpse into the city's ecclesiastical heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

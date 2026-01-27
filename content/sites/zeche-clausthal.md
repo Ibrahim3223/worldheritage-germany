@@ -3,7 +3,7 @@ title: "Zeche Clausthal"
 site_name: "Zeche Clausthal"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Clausthal, a notable mining site located in Dortmund, Germany, serves as a poignant reminder of the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

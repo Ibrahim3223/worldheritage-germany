@@ -3,7 +3,7 @@ title: "Buxheim Charterhouse"
 site_name: "Buxheim Charterhouse"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Buxheim Charterhouse, located in the picturesque region of Buxheim, Germany, is a noteworthy monastery that offers visitors a profound glimpse into monastic..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

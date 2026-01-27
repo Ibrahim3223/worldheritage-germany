@@ -3,7 +3,7 @@ title: "Grubenhagen Castle"
 site_name: "Grubenhagen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Grubenhagen Castle, located in the quaint town of Einbeck, Germany, is a captivating historical site that invites visitors to explore its storied past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

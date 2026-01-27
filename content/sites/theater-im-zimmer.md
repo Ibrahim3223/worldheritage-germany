@@ -3,7 +3,7 @@ title: "Theater im Zimmer"
 site_name: "Theater im Zimmer"
 date: 2026-01-26
 draft: false
-description: "theatre in Hamburg, Germany"
+description: "Theater im Zimmer, located in the vibrant Eimsbüttel district of Hamburg, Germany, serves as a captivating venue for those who appreciate the performing arts."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

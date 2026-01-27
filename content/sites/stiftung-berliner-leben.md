@@ -3,7 +3,7 @@ title: "Stiftung Berliner Leben"
 site_name: "Stiftung Berliner Leben"
 date: 2026-01-26
 draft: false
-description: "Stiftung in Berlin, Germany"
+description: "Located in the heart of Berlin, Stiftung Berliner Leben serves as a vital foundation dedicated to various cultural and social initiatives within the city."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

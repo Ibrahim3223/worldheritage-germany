@@ -3,7 +3,7 @@ title: "Rathaus Beelitz"
 site_name: "Rathaus Beelitz"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Beelitz, Landkreis Potsdam-Mittelmark, Brandenburg"
+description: "Rathaus Beelitz, the city hall of Beelitz, Germany, is not merely an administrative building; it is a symbol of local governance and civic pride."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

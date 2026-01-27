@@ -3,7 +3,7 @@ title: "Waldfriedhof Pechau"
 site_name: "Waldfriedhof Pechau"
 date: 2026-01-26
 draft: false
-description: "cemetery in Magdeburg, Germany"
+description: "Waldfriedhof Pechau is a serene cemetery located in Magdeburg, Germany, characterized by its tranquil environment and historical significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"

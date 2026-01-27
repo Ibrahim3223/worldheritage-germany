@@ -3,7 +3,7 @@ title: "Synagoge Binswangen"
 site_name: "Synagoge Binswangen"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Synagoge Binswangen represents a significant chapter in the history of Jewish heritage in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

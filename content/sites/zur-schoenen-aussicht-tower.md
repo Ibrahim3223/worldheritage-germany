@@ -3,7 +3,7 @@ title: "Zur Schönen Aussicht tower"
 site_name: "Zur Schönen Aussicht tower"
 date: 2026-01-26
 draft: false
-description: "former Gyro-Tower in Heide-Park Soltau, Lower Saxony"
+description: "The Zur Schönen Aussicht tower, located in the Soltau region of Germany, presents a fascinating glimpse into the architectural and entertainment landscape..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

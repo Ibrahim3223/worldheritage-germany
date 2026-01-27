@@ -3,7 +3,7 @@ title: "Johannes-Calvin-Kirche"
 site_name: "Johannes-Calvin-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Johannes-Calvin-Kirche, situated in the heart of Mannheim, Germany, serves as an important spiritual and architectural landmark."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

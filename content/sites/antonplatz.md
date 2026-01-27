@@ -3,7 +3,7 @@ title: "Antonplatz"
 site_name: "Antonplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin-Weißensee"
+description: "Antonplatz, a prominent square located in Berlin-Weißensee, serves as a vital public space in the Pankow district of Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

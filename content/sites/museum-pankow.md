@@ -3,7 +3,7 @@ title: "Museum Pankow"
 site_name: "Museum Pankow"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Pankow, located in the Pankow district of Berlin, Germany, serves as a vibrant hub for understanding the local culture and history of this..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum in Spital"
 site_name: "Museum in Spital"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum in Spital, located in the historic region of Grünberg, Germany, offers a unique glimpse into the cultural and historical narratives of the area."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

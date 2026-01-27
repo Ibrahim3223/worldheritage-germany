@@ -3,7 +3,7 @@ title: "Bodenburgsche Windmühle"
 site_name: "Bodenburgsche Windmühle"
 date: 2026-01-26
 draft: false
-description: "demolished windmill in Magdeburg, Germany"
+description: "The Bodenburgsche Windmühle, once a significant emblem of Magdeburg’s industrial heritage, represents a chapter in Germany's storied past of windmill..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

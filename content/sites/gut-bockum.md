@@ -3,7 +3,7 @@ title: "Gut Bockum"
 site_name: "Gut Bockum"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Rittergut in Meschede, Hochsauerlandkreis, Nordrhein-Westfalen"
+description: "Gut Bockum, a distinguished manor house located in the picturesque region of Meschede, Nordrhein-Westfalen, serves as a remarkable representation of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

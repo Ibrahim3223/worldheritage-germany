@@ -3,7 +3,7 @@ title: "Berlin Sportpalast"
 site_name: "Berlin Sportpalast"
 date: 2026-01-26
 draft: false
-description: "former multi-purpose arena in Berlin, Germany"
+description: "Berlin Sportpalast, a former multi-purpose arena located in the Tempelhof-Schöneberg district of Germany's vibrant capital, embodies a significant chapter..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

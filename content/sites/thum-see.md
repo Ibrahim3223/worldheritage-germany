@@ -3,7 +3,7 @@ title: "Thum-See"
 site_name: "Thum-See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Thum-See is a picturesque lake located in the Berchtesgadener Land district of Germany, known for its tranquil beauty and serene natural environment."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

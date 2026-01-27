@@ -3,7 +3,7 @@ title: "Amtsgericht Wedding"
 site_name: "Amtsgericht Wedding"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Amtsgericht Wedding, located in the vibrant Bezirk Mitte of Berlin, Germany, serves as a significant architectural structure and a key institution within..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"

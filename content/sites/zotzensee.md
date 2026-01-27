@@ -3,7 +3,7 @@ title: "Zotzensee"
 site_name: "Zotzensee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Zotzensee, a serene lake located in the picturesque Mecklenburgische Seenplatte District of Germany, offers visitors an opportunity to connect with nature..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

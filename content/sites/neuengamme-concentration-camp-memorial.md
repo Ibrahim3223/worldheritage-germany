@@ -3,7 +3,7 @@ title: "Neuengamme Concentration Camp Memorial"
 site_name: "Neuengamme Concentration Camp Memorial"
 date: 2026-01-26
 draft: false
-description: "Memorial site of the concentration camp operated by Nazi Germany"
+description: "In the quiet outskirts of Hamburg, Germany, the Neuengamme Concentration Camp Memorial stands as an essential site of remembrance, reflection, and education."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Memorial"

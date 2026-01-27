@@ -3,7 +3,7 @@ title: "Bustedter Holz"
 site_name: "Bustedter Holz"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Herford district, North Rhine-Westphalia, Germany"
+description: "Bustedter Holz is a captivating nature reserve located in the Herford district of North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

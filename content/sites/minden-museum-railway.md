@@ -3,7 +3,7 @@ title: "Minden Museum Railway"
 site_name: "Minden Museum Railway"
 date: 2026-01-26
 draft: false
-description: "museum railway in Minden (Germany)"
+description: "The Minden Museum Railway, located in the town of Minden, Germany, is a captivating destination for history enthusiasts and railway aficionados alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

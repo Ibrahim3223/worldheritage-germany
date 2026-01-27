@@ -3,7 +3,7 @@ title: "Gemeindebücherei Isernhagen"
 site_name: "Gemeindebücherei Isernhagen"
 date: 2026-01-26
 draft: false
-description: "library in Isernhagen, Germany"
+description: "In the heart of the charming town of Isernhagen, Germany, lies the Gemeindebücherei Isernhagen, a library that serves as a vital resource for the community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

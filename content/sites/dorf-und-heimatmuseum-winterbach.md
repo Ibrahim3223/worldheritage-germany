@@ -3,7 +3,7 @@ title: "Dorf- und Heimatmuseum Winterbach"
 site_name: "Dorf- und Heimatmuseum Winterbach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Dorf- und Heimatmuseum Winterbach serves as a cultural anchor in the heart of Winterbach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

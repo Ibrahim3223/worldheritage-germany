@@ -3,7 +3,7 @@ title: "Burg Gnötzheim"
 site_name: "Burg Gnötzheim"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-150-8 (0) in Martinsheim, Bavaria"
+description: "Burg Gnötzheim, a striking cultural heritage monument located in the small town of Martinsheim, Bavaria, offers visitors a glimpse into the storied past of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

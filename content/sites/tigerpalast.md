@@ -3,7 +3,7 @@ title: "tigerpalast"
 site_name: "tigerpalast"
 date: 2026-01-26
 draft: false
-description: "Varieté-Theater in Frankfurt am Main"
+description: "Tigerpalast, a renowned variety theatre located in the vibrant heart of Frankfurt am Main, Germany, is a cultural institution that captivates both locals..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

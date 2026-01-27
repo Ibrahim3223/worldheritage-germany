@@ -3,7 +3,7 @@ title: "Breitscheidstraße 22, 24, 26, 28, 30"
 site_name: "Breitscheidstraße 22, 24, 26, 28, 30"
 date: 2026-01-26
 draft: false
-description: "group of buildings in Quedlinburg, Germany"
+description: "Breitscheidstraße 22, 24, 26, 28, and 30 is an architectural ensemble located in the historic city of Quedlinburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

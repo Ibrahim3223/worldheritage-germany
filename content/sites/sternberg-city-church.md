@@ -3,7 +3,7 @@ title: "Sternberg City Church"
 site_name: "Sternberg City Church"
 date: 2026-01-26
 draft: false
-description: "church building in Sternberg, Mecklenburg-Vorpommern, Germany"
+description: "The Sternberg City Church, located in the picturesque region of Mecklenburg-Vorpommern, Germany, is a remarkable testament to the architectural and cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

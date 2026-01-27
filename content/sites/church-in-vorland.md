@@ -3,7 +3,7 @@ title: "Church in Vorland"
 site_name: "Church in Vorland"
 date: 2026-01-26
 draft: false
-description: "church building in Splietsdorf, Germany"
+description: "The Church in Vorland is a notable example of ecclesiastical architecture located in the quaint region of Splietsdorf, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Berlin-Marzahn concentration camp"
 site_name: "Berlin-Marzahn concentration camp"
 date: 2026-01-26
 draft: false
-description: "Nazi forced labor camp for Romani and Sinti"
+description: "The Berlin-Marzahn concentration camp memorial serves as a poignant reminder of the atrocities committed during the Nazi regime, specifically against the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

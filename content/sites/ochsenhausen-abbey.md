@@ -3,7 +3,7 @@ title: "Ochsenhausen Abbey"
 site_name: "Ochsenhausen Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Ochsenhausen Abbey, a serene monastery located in the picturesque town of Ochsenhausen, Germany, serves as a significant relic of the region's religious and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

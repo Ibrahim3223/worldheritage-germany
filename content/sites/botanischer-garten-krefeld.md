@@ -3,7 +3,7 @@ title: "Botanischer Garten Krefeld"
 site_name: "Botanischer Garten Krefeld"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten Krefeld is a serene oasis in the heart of Krefeld, Germany, offering a vibrant collection of plant species and a peaceful retreat..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

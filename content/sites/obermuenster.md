@@ -3,7 +3,7 @@ title: "Obermünster"
 site_name: "Obermünster"
 date: 2026-01-26
 draft: false
-description: "church building in Regensburg, Upper Palatinate, Germany"
+description: "Obermünster, a noteworthy monastery located in Regensburg, Germany, invites visitors to explore its historical and architectural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

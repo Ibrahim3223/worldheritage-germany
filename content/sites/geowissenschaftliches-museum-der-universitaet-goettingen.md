@@ -3,7 +3,7 @@ title: "Geowissenschaftliches Museum der Universität Göttingen"
 site_name: "Geowissenschaftliches Museum der Universität Göttingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Geowissenschaftliches Museum der Universität Göttingen is a fascinating destination for anyone interested in the natural sciences."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

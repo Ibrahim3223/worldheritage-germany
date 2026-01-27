@@ -3,7 +3,7 @@ title: "Museum der Landschaft Eiderstedt"
 site_name: "Museum der Landschaft Eiderstedt"
 date: 2026-01-26
 draft: false
-description: "museum in Sankt Peter-Ording, Germany"
+description: "The Museum der Landschaft Eiderstedt is a cultural institution located in Sankt Peter-Ording, Germany, dedicated to showcasing the history and heritage of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

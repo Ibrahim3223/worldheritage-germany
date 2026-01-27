@@ -3,7 +3,7 @@ title: "Alte Bibliothek"
 site_name: "Alte Bibliothek"
 date: 2026-01-26
 draft: false
-description: "library building in Berlin, Germany"
+description: "The Alte Bibliothek, or Old Library, is a significant cultural landmark located in the heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

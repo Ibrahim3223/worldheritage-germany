@@ -3,7 +3,7 @@ title: "Hoffmann-von-Fallersleben-Museum"
 site_name: "Hoffmann-von-Fallersleben-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Wolfsburg-Fallersleben"
+description: "The Hoffmann-von-Fallersleben-Museum in Wolfsburg-Fallersleben offers visitors an intimate glimpse into the life and legacy of one of Germany's most..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

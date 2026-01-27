@@ -3,7 +3,7 @@ title: "Fietje Balge"
 site_name: "Fietje Balge"
 date: 2026-01-26
 draft: false
-description: "Statue as memorial in Bremen-Mitte, Germany"
+description: "Fietje Balge is a statue located in Bremen-Mitte, Germany, that serves as a memorial and a point of interest for both locals and visitors."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"

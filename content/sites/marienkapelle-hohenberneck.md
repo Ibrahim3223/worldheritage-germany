@@ -3,7 +3,7 @@ title: "Marienkapelle Hohenberneck"
 site_name: "Marienkapelle Hohenberneck"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Berneck im Fichtelgebirge, Upper Franconia, Germany"
+description: "Marienkapelle Hohenberneck stands as a serene sanctuary nestled within the picturesque landscape of Bad Berneck im Fichtelgebirge, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

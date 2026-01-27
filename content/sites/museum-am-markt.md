@@ -3,7 +3,7 @@ title: "Museum am Markt"
 site_name: "Museum am Markt"
 date: 2026-01-26
 draft: false
-description: "museum in Schiltach, Germany"
+description: "Museum am Markt is a captivating destination located in the charming town of Schiltach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Brauerei Faust Miltenberg"
 site_name: "Brauerei Faust Miltenberg"
 date: 2026-01-26
 draft: false
-description: "brewery in Miltenberg, Germany"
+description: "Brauerei Faust Miltenberg is not just a brewery; it represents a unique aspect of German culture and craftsmanship in Miltenberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

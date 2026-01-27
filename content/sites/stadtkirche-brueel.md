@@ -3,7 +3,7 @@ title: "Stadtkirche Brüel"
 site_name: "Stadtkirche Brüel"
 date: 2026-01-26
 draft: false
-description: "church building in Brüel, Germany"
+description: "Stadtkirche Brüel, located in the quaint town of Brüel, Germany, is a captivating church building that has served as a significant place of worship and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

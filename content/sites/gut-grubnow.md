@@ -3,7 +3,7 @@ title: "Gut Grubnow"
 site_name: "Gut Grubnow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Neuenkirchen auf der Insel Rügen"
+description: "Gut Grubnow, a distinguished manor house located in Neuenkirchen on the picturesque island of Rügen, Germany, offers visitors a unique glimpse into the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

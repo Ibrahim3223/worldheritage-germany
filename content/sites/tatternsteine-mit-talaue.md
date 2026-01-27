@@ -3,7 +3,7 @@ title: "Tatternsteine mit Talaue"
 site_name: "Tatternsteine mit Talaue"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Stolberg, North Rhine-Westphalia, Germany"
+description: "Tatternsteine mit Talaue, a remarkable nature reserve located in Stolberg, North Rhine-Westphalia, Germany, serves as a significant ecological area that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Church in Lübsee"
 site_name: "Church in Lübsee"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Lübsee is a notable religious structure located in the serene region of Menzendorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

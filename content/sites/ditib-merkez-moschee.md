@@ -3,7 +3,7 @@ title: "DITIB-Merkez-Moschee"
 site_name: "DITIB-Merkez-Moschee"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The DITIB-Merkez-Moschee, located in North Rhine-Westphalia, Germany, stands as a remarkable architectural structure and an important cultural hub for the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

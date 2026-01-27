@@ -3,7 +3,7 @@ title: "Bavarian Forest Museum Village"
 site_name: "Bavarian Forest Museum Village"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bavarian Forest Museum Village, located in Tittling, Germany, offers an immersive experience into the cultural heritage and traditional lifestyles of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

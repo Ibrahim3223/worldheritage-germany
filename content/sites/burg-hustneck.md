@@ -3,7 +3,7 @@ title: "Burg Hustneck"
 site_name: "Burg Hustneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hustneck, a captivating castle located in Gammertingen, Germany, invites visitors to explore its storied past and architectural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

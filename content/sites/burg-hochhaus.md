@@ -3,7 +3,7 @@ title: "Burg Hochhaus"
 site_name: "Burg Hochhaus"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hochhaus, an imposing castle located in the tranquil region of Hohenaltheim, Germany, invites visitors to explore its storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Niederebersdorfer Heimat- und Archivstuben"
 site_name: "Niederebersdorfer Heimat- und Archivstuben"
 date: 2026-01-26
 draft: false
-description: "former museum in Tutzing, Bavaria, Germany"
+description: "In the charming town of Tutzing, nestled along the shores of Lake Starnberg in Bavaria, Germany, lies the Niederebersdorfer Heimat- und Archivstuben."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

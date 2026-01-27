@@ -3,7 +3,7 @@ title: "Ehemaliger Garten in Lauf an der Pegnitz"
 site_name: "Ehemaliger Garten in Lauf an der Pegnitz"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "The Ehemaliger Garten in Lauf an der Pegnitz engages visitors with its serene atmosphere and historical significance, encapsulating the cultural heritage of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

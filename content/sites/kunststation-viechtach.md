@@ -3,7 +3,7 @@ title: "Kunststation Viechtach"
 site_name: "Kunststation Viechtach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunststation Viechtach is a notable museum located in the picturesque region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

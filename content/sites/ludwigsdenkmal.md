@@ -3,7 +3,7 @@ title: "Ludwigsdenkmal"
 site_name: "Ludwigsdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Worms, Germany, the Ludwigsdenkmal stands as a significant monument, capturing the attention of both locals and visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

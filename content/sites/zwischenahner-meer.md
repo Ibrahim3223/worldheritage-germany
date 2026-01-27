@@ -3,7 +3,7 @@ title: "Zwischenahner Meer"
 site_name: "Zwischenahner Meer"
 date: 2026-01-26
 draft: false
-description: "lake in Bad Zwischenahn, Lower Saxony, Germany"
+description: "Located in the charming town of Bad Zwischenahn in Lower Saxony, Germany, the Zwischenahner Meer is a serene lake that offers a perfect blend of natural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

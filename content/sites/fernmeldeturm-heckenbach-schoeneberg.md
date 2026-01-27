@@ -3,7 +3,7 @@ title: "Fernmeldeturm Heckenbach-Schöneberg"
 site_name: "Fernmeldeturm Heckenbach-Schöneberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Heckenbach-Schöneberg is a striking telecommunications tower located in the scenic region of Rhineland-Palatinate, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Friedrich Fröbel Museum"
 site_name: "Friedrich Fröbel Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Blankenburg"
+description: "The Friedrich Fröbel Museum in Bad Blankenburg, Thuringia, offers an intriguing glimpse into the life and work of Friedrich Fröbel, the founder of the..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

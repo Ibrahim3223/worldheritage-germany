@@ -3,7 +3,7 @@ title: "Burg Lichtenfels"
 site_name: "Burg Lichtenfels"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Lichtenfels is an intriguing castle located in the serene region of Dalwigksthal, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

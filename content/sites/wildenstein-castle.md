@@ -3,7 +3,7 @@ title: "Wildenstein Castle"
 site_name: "Wildenstein Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Baden-Wuerttemberg, Germany"
+description: "Wildenstein Castle, a historic fortress located in the tranquil region of Leibertingen, Germany, presents a compelling glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

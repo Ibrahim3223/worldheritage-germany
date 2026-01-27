@@ -3,7 +3,7 @@ title: "St.Luke (Graal-Müritz)"
 site_name: "St.Luke (Graal-Müritz)"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Westpomerania"
+description: "St. Luke Church, located in the serene coastal town of Graal-Müritz in Mecklenburg-Western Pomerania, Germany, is a notable religious structure that draws..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

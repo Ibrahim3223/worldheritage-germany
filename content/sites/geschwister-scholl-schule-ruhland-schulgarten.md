@@ -3,7 +3,7 @@ title: "Geschwister-Scholl-Schule (Ruhland), Schulgarten"
 site_name: "Geschwister-Scholl-Schule (Ruhland), Schulgarten"
 date: 2026-01-26
 draft: false
-description: "garden in Ruhland, Germany"
+description: "The Geschwister-Scholl-Schule (Ruhland), Schulgarten, is a significant garden located in the quaint German town of Ruhland."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

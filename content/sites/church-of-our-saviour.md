@@ -3,7 +3,7 @@ title: "Church of Our Saviour"
 site_name: "Church of Our Saviour"
 date: 2026-01-26
 draft: false
-description: "church in Duisburg, Germany"
+description: "The Church of Our Saviour, located in Duisburg, Germany, serves as a poignant landmark within the urban landscape of this bustling city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

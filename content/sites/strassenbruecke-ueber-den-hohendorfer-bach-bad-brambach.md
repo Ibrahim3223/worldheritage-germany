@@ -3,7 +3,7 @@ title: "Straßenbrücke über den Hohendorfer Bach Bad Brambach"
 site_name: "Straßenbrücke über den Hohendorfer Bach Bad Brambach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über den Hohendorfer Bach in Bad Brambach stands as a remarkable example of civil engineering within a captivating landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

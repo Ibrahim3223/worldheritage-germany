@@ -3,7 +3,7 @@ title: "Rote Burg — Büchel Museum Aachen"
 site_name: "Rote Burg — Büchel Museum Aachen"
 date: 2026-01-26
 draft: false
-description: "art museum in Aachen, Germany"
+description: "Rote Burg — Büchel Museum Aachen is an art museum located in the historic city of Aachen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

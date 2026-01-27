@@ -3,7 +3,7 @@ title: "St. Pankratius, Drensteinfurt"
 site_name: "St. Pankratius, Drensteinfurt"
 date: 2026-01-26
 draft: false
-description: "church building in Drensteinfurt, Germany"
+description: "St. Pankratius in Drensteinfurt is a notable church building that captivates visitors with its architectural charm and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

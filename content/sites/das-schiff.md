@@ -3,7 +3,7 @@ title: "Das Schiff"
 site_name: "Das Schiff"
 date: 2026-01-26
 draft: false
-description: "Schiffstheater in Hamburg im Nikolaifleet"
+description: "Das Schiff, a theatre building located in the heart of Hamburg, Germany, is an integral part of the city’s vibrant cultural scene."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

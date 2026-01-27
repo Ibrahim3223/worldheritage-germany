@@ -3,7 +3,7 @@ title: "Ludwigskirche"
 site_name: "Ludwigskirche"
 date: 2026-01-26
 draft: false
-description: "church in Saarbrücken, Germany"
+description: "Ludwigskirche, an iconic church building located in Saarbrücken, Germany, serves as a striking example of ecclesiastical architecture in the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

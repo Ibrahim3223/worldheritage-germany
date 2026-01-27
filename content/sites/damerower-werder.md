@@ -3,7 +3,7 @@ title: "Damerower Werder"
 site_name: "Damerower Werder"
 date: 2026-01-26
 draft: false
-description: "nature reserve in in Mecklenburg-Vorpommern, Germany"
+description: "Damerower Werder is a captivating nature reserve located in the scenic region of Jabel, Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

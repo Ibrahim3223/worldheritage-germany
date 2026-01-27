@@ -3,7 +3,7 @@ title: "Church in Roggenstorf"
 site_name: "Church in Roggenstorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the small village of Roggenstorf, Germany, the Church in Roggenstorf stands as a significant landmark, embodying the local culture and spiritual life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Gollenfels"
 site_name: "Gollenfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Gollenfels Castle is a striking historical landmark situated in the picturesque Dörrebach region of Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Athanasiuskirche"
 site_name: "Athanasiuskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Athanasiuskirche, located in the Südstadt-Bult region of Germany, is a notable church building that serves as both a spiritual center and a cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

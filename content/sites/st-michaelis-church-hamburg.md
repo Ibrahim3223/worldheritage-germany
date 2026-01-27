@@ -3,7 +3,7 @@ title: "St. Michaelis Church, Hamburg"
 site_name: "St. Michaelis Church, Hamburg"
 date: 2026-01-26
 draft: false
-description: "Lutheran church in Hamburg, Germany"
+description: "St. Michaelis Church, known as Michel, is one of Hamburg's most prominent landmarks and a striking example of Lutheran church architecture."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

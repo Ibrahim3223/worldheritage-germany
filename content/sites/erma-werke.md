@@ -3,7 +3,7 @@ title: "Erma Werke"
 site_name: "Erma Werke"
 date: 2026-01-26
 draft: false
-description: "German arms manufacturing company"
+description: "Erma Werke, a notable German arms manufacturing company, is steeped in industrial significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"

@@ -3,7 +3,7 @@ title: "Blauenthaler Wasserfall"
 site_name: "Blauenthaler Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Blauenthaler Wasserfall, located in the picturesque region of Eibenstock, Germany, is a striking natural wonder that attracts visitors seeking the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

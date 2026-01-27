@@ -3,7 +3,7 @@ title: "Burg Herrieden"
 site_name: "Burg Herrieden"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Herrieden is a striking castle located in the quaint town of Herrieden, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

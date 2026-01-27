@@ -3,7 +3,7 @@ title: "Krakower See"
 site_name: "Krakower See"
 date: 2026-01-26
 draft: false
-description: "lake in the Rostock district in Mecklenburg-Vorpommern, Germany"
+description: "Krakower See is a serene lake located in the Rostock district of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Freudenthaler Sensenhammer"
 site_name: "Freudenthaler Sensenhammer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Freudenthaler Sensenhammer is a distinctive museum located in the city of Leverkusen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

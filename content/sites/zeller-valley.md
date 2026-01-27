@@ -3,7 +3,7 @@ title: "Zeller Valley"
 site_name: "Zeller Valley"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "Zeller Valley, located in the Regen region of Germany, is a serene and picturesque valley that invites exploration and appreciation of its natural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"

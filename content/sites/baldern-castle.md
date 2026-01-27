@@ -3,7 +3,7 @@ title: "Baldern Castle"
 site_name: "Baldern Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Germany"
+description: "Baldern Castle, located in the town of Bopfingen, Germany, offers visitors a unique glimpse into the region's historical landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

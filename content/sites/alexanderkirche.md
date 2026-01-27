@@ -3,7 +3,7 @@ title: "Alexanderkirche"
 site_name: "Alexanderkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Alexanderkirche, a remarkable church building situated in Oerlinghausen, Germany, serves as a significant landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

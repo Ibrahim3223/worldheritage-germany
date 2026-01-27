@@ -3,7 +3,7 @@ title: "Goslarer Museum"
 site_name: "Goslarer Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Goslarer Museum, located in the historic town of Goslar, Germany, serves as a vital repository of art, culture, and local history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

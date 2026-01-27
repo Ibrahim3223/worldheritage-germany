@@ -3,7 +3,7 @@ title: "Alpirsbach Abbey"
 site_name: "Alpirsbach Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Bade-Württemberg, Germany"
+description: "Alpirsbach Abbey, a remarkable monastery located in the Baden-Württemberg region of Germany, stands as a significant testament to the monastic history of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

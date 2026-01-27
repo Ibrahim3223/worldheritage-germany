@@ -3,7 +3,7 @@ title: "Synagoge Guntersblum"
 site_name: "Synagoge Guntersblum"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Guntersblum, Germany"
+description: "Synagoge Guntersblum stands as a significant remnant of the Jewish heritage in Germany, located in the small village of Guntersblum."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

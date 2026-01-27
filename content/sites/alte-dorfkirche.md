@@ -3,7 +3,7 @@ title: "Alte Dorfkirche"
 site_name: "Alte Dorfkirche"
 date: 2026-01-26
 draft: false
-description: "former church and now chapel in Cologne-Junkersdorf, Germany"
+description: "The Alte Dorfkirche, a former church now functioning as a chapel, is a significant cultural landmark located in the Cologne district of Junkersdorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

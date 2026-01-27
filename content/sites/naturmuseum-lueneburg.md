@@ -3,7 +3,7 @@ title: "Naturmuseum Lüneburg"
 site_name: "Naturmuseum Lüneburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Nestled in the heart of Lüneburg, the Naturmuseum Lüneburg serves as a window into the natural world, offering visitors a unique opportunity to explore the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

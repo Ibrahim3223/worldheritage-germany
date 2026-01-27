@@ -3,7 +3,7 @@ title: "Industriemuseum Schönebeck"
 site_name: "Industriemuseum Schönebeck"
 date: 2026-01-26
 draft: false
-description: "museum in Schönebeck, Germany"
+description: "Industriemuseum Schönebeck is a significant cultural institution located in the heart of Schönebeck, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

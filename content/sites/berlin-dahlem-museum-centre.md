@@ -3,7 +3,7 @@ title: "Berlin-Dahlem Museum Centre"
 site_name: "Berlin-Dahlem Museum Centre"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Berlin-Dahlem Museum Centre is an intriguing cultural institution located in the Steglitz-Zehlendorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

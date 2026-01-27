@@ -3,7 +3,7 @@ title: "Burgring"
 site_name: "Burgring"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgring, located in the serene region of Goddelsheim, Germany, is a captivating castle that invites visitors to explore its storied past and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

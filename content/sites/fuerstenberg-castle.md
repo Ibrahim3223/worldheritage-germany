@@ -3,7 +3,7 @@ title: "Fürstenberg Castle"
 site_name: "Fürstenberg Castle"
 date: 2026-01-26
 draft: false
-description: "Oberdiebach-Rheindiebach, Rhineland-Palatinate"
+description: "Fürstenberg Castle, located in Oberdiebach, Rhineland-Palatinate, Germany, is a captivating historical site that invites visitors to explore its storied..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

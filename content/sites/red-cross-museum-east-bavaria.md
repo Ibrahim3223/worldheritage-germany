@@ -3,7 +3,7 @@ title: "Red Cross Museum East Bavaria"
 site_name: "Red Cross Museum East Bavaria"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Red Cross Museum East Bavaria, located in the town of Nabburg, Germany, serves as a poignant reminder of the humanitarian efforts that the Red Cross has..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

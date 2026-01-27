@@ -3,7 +3,7 @@ title: "St. Stephani"
 site_name: "St. Stephani"
 date: 2026-01-26
 draft: false
-description: "church building in Bremen-Mitte, Germany"
+description: "St. Stephani, a prominent church building located in Bremen-Mitte, Germany, offers a captivating glimpse into the architectural and cultural heritage of the..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

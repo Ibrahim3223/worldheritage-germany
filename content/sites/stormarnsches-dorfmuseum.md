@@ -3,7 +3,7 @@ title: "Stormarnsches Dorfmuseum"
 site_name: "Stormarnsches Dorfmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Stormarnsches Dorfmuseum, located in Hoisdorf, Germany, offers an intriguing glimpse into the cultural heritage of the region."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

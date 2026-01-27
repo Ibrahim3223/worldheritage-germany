@@ -3,7 +3,7 @@ title: "Speicherstadtmuseum"
 site_name: "Speicherstadtmuseum"
 date: 2026-01-26
 draft: false
-description: "local museum in Hamburg, Germany"
+description: "The Speicherstadtmuseum in Hamburg is a unique institution dedicated to celebrating the rich history of the Speicherstadt district, which is known for its..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Literarisches Museum Badenweiler Tschechow-Salon"
 site_name: "Literarisches Museum Badenweiler Tschechow-Salon"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Literarisches Museum Badenweiler Tschechow-Salon is a unique museum located in the picturesque town of Badenweiler, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

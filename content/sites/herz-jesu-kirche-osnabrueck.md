@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kirche, Osnabrück"
 site_name: "Herz-Jesu-Kirche, Osnabrück"
 date: 2026-01-26
 draft: false
-description: "church building in Osnabrueck, Germany"
+description: "In the heart of Osnabrück, Germany, the Herz-Jesu-Kirche stands as a significant church building that reflects the region's rich architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Henriette Church"
 site_name: "Henriette Church"
 date: 2026-01-26
 draft: false
-description: "church building in Oberspreewald-Lausitz district, Brandenburg, Germany"
+description: "Henriette Church, located in the serene region of Schipkau in Brandenburg, Germany, stands as a noteworthy church building that reflects both the spiritual..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

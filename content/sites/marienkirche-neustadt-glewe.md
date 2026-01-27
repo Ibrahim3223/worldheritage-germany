@@ -3,7 +3,7 @@ title: "Marienkirche, Neustadt-Glewe"
 site_name: "Marienkirche, Neustadt-Glewe"
 date: 2026-01-26
 draft: false
-description: "church building in Neustadt-Glewe, Germany"
+description: "In the heart of Neustadt-Glewe, Germany, the Marienkirche stands as a prominent example of ecclesiastical architecture that echoes the spiritual and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

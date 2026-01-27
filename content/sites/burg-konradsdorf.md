@@ -3,7 +3,7 @@ title: "Burg Konradsdorf"
 site_name: "Burg Konradsdorf"
 date: 2026-01-26
 draft: false
-description: "Burgruine in Deutschland"
+description: "Burg Konradsdorf, a captivating castle ruin located in the picturesque region of Konradsdorf, Germany, offers visitors a glimpse into the architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

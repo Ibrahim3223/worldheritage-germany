@@ -3,7 +3,7 @@ title: "Mühlentor (Tribsees)"
 site_name: "Mühlentor (Tribsees)"
 date: 2026-01-26
 draft: false
-description: "city gate in Landkreis Vorpommern-Rügen, Mecklenburg-Vorpommern, Germany"
+description: "Mühlentor, a striking city gate located in the heart of Tribsees, Germany, serves as a profound reminder of the nation's architectural heritage and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

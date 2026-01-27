@@ -3,7 +3,7 @@ title: "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier 
 site_name: "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site"
 date: 2026-01-26
 draft: false
-description: "example of a large Roman capital after the division of the empire"
+description: "Trier, Germany, is home to the Roman Monuments, Cathedral of St. Peter, and Church of Our Lady—a UNESCO World Heritage Site that showcases the remarkable..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

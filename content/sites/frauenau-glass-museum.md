@@ -3,7 +3,7 @@ title: "Frauenau Glass Museum"
 site_name: "Frauenau Glass Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Frauenau Glass Museum invites visitors into the intricate world of glassmaking, showcasing both its historical roots and contemporary artistry."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Scala"
 site_name: "Scala"
 date: 2026-01-26
 draft: false
-description: "former variety theatre and cinema in Schöneberg, Berlin, Germany"
+description: "Scala, a former variety theater and cinema located in the vibrant district of Tempelhof-Schöneberg in Berlin, Germany, holds a unique place in the cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

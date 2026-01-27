@@ -3,7 +3,7 @@ title: "Brahms-Denkmal"
 site_name: "Brahms-Denkmal"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Brahms-Denkmal, a notable memorial located in Germany, pays tribute to one of the country’s most esteemed composers, Johannes Brahms."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

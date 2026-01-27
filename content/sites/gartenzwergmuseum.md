@@ -3,7 +3,7 @@ title: "Gartenzwergmuseum"
 site_name: "Gartenzwergmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gartenzwergmuseum, located in Gräfenroda, Germany, is a unique cultural hub dedicated to the whimsical world of garden gnomes."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

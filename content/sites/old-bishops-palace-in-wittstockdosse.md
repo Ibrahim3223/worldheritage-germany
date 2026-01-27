@@ -3,7 +3,7 @@ title: "Old Bishop's Palace in Wittstock/Dosse"
 site_name: "Old Bishop's Palace in Wittstock/Dosse"
 date: 2026-01-26
 draft: false
-description: "castle in Wittstock/Dosse, Brandenburg state, Germany"
+description: "The Old Bishop's Palace in Wittstock/Dosse is a significant historical site that reflects the architectural and cultural heritage of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

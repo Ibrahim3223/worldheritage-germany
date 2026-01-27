@@ -3,7 +3,7 @@ title: "St. Martin (Memmingen)"
 site_name: "St. Martin (Memmingen)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Martin in Memmingen, Germany, is a prominent church building that serves as a significant landmark in the Bavarian region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

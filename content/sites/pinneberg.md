@@ -3,7 +3,7 @@ title: "Pinneberg"
 site_name: "Pinneberg"
 date: 2026-01-26
 draft: false
-description: "Hill in Germany"
+description: "Pinneberg, located in the Heligoland region of Germany, is a notable mountain that draws visitors with its natural beauty and cultural significance."
 region: "Heligoland"
 country: "Germany"
 heritage_type: "Mountain"

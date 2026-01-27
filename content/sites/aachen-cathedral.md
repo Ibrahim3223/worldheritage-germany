@@ -3,7 +3,7 @@ title: "Aachen Cathedral"
 site_name: "Aachen Cathedral"
 date: 2026-01-26
 draft: false
-description: "Roman-Catholic cathedral in Aachen, Germany"
+description: "Aachen Cathedral, a magnificent Roman-Catholic structure located in the historic city of Aachen, Germany, is a masterpiece of architectural design and a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

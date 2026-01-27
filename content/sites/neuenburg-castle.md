@@ -3,7 +3,7 @@ title: "Neuenburg Castle"
 site_name: "Neuenburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Freyburg (Unstrut), Burgenlandkreis, Saxony-Anhalt, Germany"
+description: "Neuenburg Castle, an impressive structure located in Freyburg, Saxony-Anhalt, Germany, offers visitors a glimpse into the region's medieval history."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

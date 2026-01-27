@@ -3,7 +3,7 @@ title: "Burg Hohlenstein"
 site_name: "Burg Hohlenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohlenstein, an ancient castle located in Herrlingen, Germany, offers a glimpse into the architectural legacy and historical narratives that shaped the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

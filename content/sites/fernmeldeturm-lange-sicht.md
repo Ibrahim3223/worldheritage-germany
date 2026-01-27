@@ -3,7 +3,7 @@ title: "Fernmeldeturm Lange Sicht"
 site_name: "Fernmeldeturm Lange Sicht"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Lange Sicht is an iconic telecommunications tower located in Lüdenscheid, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Reformierte Kirche (Emden-Larrelt)"
 site_name: "Reformierte Kirche (Emden-Larrelt)"
 date: 2026-01-26
 draft: false
-description: "church building in Emden, Germany"
+description: "The Reformierte Kirche in Emden-Larrelt is a striking church building in the picturesque town of Emden, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

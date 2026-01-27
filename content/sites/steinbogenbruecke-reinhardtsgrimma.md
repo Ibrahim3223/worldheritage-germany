@@ -3,7 +3,7 @@ title: "Steinbogenbrücke Reinhardtsgrimma"
 site_name: "Steinbogenbrücke Reinhardtsgrimma"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke Reinhardtsgrimma is a remarkable bridge located in the picturesque region of Glashütte, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

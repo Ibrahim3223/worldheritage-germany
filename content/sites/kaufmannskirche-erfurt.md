@@ -3,7 +3,7 @@ title: "Kaufmannskirche (Erfurt)"
 site_name: "Kaufmannskirche (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "church building in Erfurt, Germany"
+description: "Kaufmannskirche, a captivating church building located in the heart of Erfurt, Germany, serves as both a spiritual haven and a remarkable piece of..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

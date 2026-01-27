@@ -3,7 +3,7 @@ title: "Marthahaus"
 site_name: "Marthahaus"
 date: 2026-01-26
 draft: false
-description: "hotel and retirement home in Halle (Saale)"
+description: "Marthahaus, located in the heart of Halle (Saale), Germany, is a unique establishment that serves as both a hotel and a retirement home."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

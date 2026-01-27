@@ -3,7 +3,7 @@ title: "Falkenberge"
 site_name: "Falkenberge"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Falkenberge, a prominent mountain located in Berlin, Germany, serves as a striking natural landmark within the urban landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mountain"

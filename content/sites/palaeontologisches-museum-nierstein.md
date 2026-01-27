@@ -3,7 +3,7 @@ title: "Paläontologisches Museum Nierstein"
 site_name: "Paläontologisches Museum Nierstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Paläontologisches Museum Nierstein, located in the heart of Nierstein, Germany, invites visitors to explore the fascinating world of paleontology."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

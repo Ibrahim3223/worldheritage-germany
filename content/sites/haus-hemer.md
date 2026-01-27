@@ -3,7 +3,7 @@ title: "Haus Hemer"
 site_name: "Haus Hemer"
 date: 2026-01-26
 draft: false
-description: "manor house in Hemer, Germany"
+description: "Haus Hemer, a distinguished manor house located in the town of Hemer, Germany, offers visitors an intriguing glimpse into the architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "St. Johanneskirche"
 site_name: "St. Johanneskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Neubrandenburg, Germany"
+description: "St. Johanneskirche, located in the heart of Neubrandenburg, Germany, is a significant church building that reflects the historical and cultural landscape of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

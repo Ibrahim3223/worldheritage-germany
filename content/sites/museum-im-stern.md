@@ -3,7 +3,7 @@ title: "Museum im Stern"
 site_name: "Museum im Stern"
 date: 2026-01-26
 draft: false
-description: "museum in Warburg, Germany"
+description: "Museum im Stern, located in the picturesque town of Warburg, Germany, is a cultural institution that offers visitors a glimpse into the region's rich..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

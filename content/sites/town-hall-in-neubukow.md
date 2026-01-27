@@ -3,7 +3,7 @@ title: "Town hall in Neubukow"
 site_name: "Town hall in Neubukow"
 date: 2026-01-26
 draft: false
-description: "town hall in Neubukow, Mecklenburg-Western Pomerania, Germany"
+description: "The Town Hall in Neubukow, located in the picturesque region of Mecklenburg-Vorpommern, Germany, serves as an emblem of local governance and community activity."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Hall"

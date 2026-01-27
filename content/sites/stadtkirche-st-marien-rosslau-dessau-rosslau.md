@@ -3,7 +3,7 @@ title: "Stadtkirche St. Marien Roßlau (Dessau-Roßlau)"
 site_name: "Stadtkirche St. Marien Roßlau (Dessau-Roßlau)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Stadtkirche St. Marien Roßlau, located in the town of Dessau-Roßlau in Germany, is a significant church building that embodies the spiritual and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

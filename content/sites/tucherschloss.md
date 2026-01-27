@@ -3,7 +3,7 @@ title: "Tucherschloss"
 site_name: "Tucherschloss"
 date: 2026-01-26
 draft: false
-description: "building in Nuremberg, Middle Franconia, Germany"
+description: "Tucherschloss, an elegant museum located in the heart of Nuremberg, invites visitors to explore a remarkable chapter of the city's history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

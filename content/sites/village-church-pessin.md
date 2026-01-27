@@ -3,7 +3,7 @@ title: "Village church Pessin"
 site_name: "Village church Pessin"
 date: 2026-01-26
 draft: false
-description: "listed church in Pessin, Brandenburg state of Germany"
+description: "Located in the serene village of Pessin in Brandenburg, Germany, the Village Church of Pessin is a remarkable site that captures the essence of local..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

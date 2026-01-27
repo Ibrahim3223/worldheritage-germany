@@ -3,7 +3,7 @@ title: "Museen der Stadt Regensburg / Kepler-Gedächtnishaus"
 site_name: "Museen der Stadt Regensburg / Kepler-Gedächtnishaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museen der Stadt Regensburg, specifically the Kepler-Gedächtnishaus, stands as a vital cultural institution in Regensburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Glockengasse Synagogue"
 site_name: "Glockengasse Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue in Cologne"
+description: "The Glockengasse Synagogue, located in the bustling Altstadt-Nord district of Cologne, Germany, is not just a place of worship but a significant landmark..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

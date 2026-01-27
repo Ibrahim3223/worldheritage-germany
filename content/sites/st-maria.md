@@ -3,7 +3,7 @@ title: "St. Maria"
 site_name: "St. Maria"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "St. Maria is a historical church building located in Hannover, Germany, within the Nord region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

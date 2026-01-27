@@ -3,7 +3,7 @@ title: "Christlieger"
 site_name: "Christlieger"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Christlieger is a captivating island located within the picturesque Schönau am Königsee region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"

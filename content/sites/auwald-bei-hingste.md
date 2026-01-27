@@ -3,7 +3,7 @@ title: "Auwald bei Hingste"
 site_name: "Auwald bei Hingste"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Auwald bei Hingste, located in the Hilgermissen region of Lower Saxony, Germany, is a designated nature reserve that plays a crucial role in conserving..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

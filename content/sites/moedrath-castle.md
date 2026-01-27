@@ -3,7 +3,7 @@ title: "Mödrath castle"
 site_name: "Mödrath castle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Mödrath Castle, located in the quaint region of Mödrath, Germany, serves as a captivating museum that offers visitors a glimpse into the cultural heritage..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

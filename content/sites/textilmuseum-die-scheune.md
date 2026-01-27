@@ -3,7 +3,7 @@ title: "Textilmuseum Die Scheune"
 site_name: "Textilmuseum Die Scheune"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Textilmuseum Die Scheune in Nettetal, Germany, serves as a fascinating portal into the world of textiles and fabric production."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

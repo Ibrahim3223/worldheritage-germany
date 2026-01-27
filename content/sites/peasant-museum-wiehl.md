@@ -3,7 +3,7 @@ title: "Peasant Museum Wiehl"
 site_name: "Peasant Museum Wiehl"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The Peasant Museum Wiehl is an intriguing destination that immerses visitors in the agricultural history and cultural heritage of the rural communities in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

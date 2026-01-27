@@ -3,7 +3,7 @@ title: "Dreiländermuseum"
 site_name: "Dreiländermuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the vibrant region of Lörrach, Germany, the Dreiländermuseum offers visitors an intriguing insight into the cultural intersections of Germany,..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

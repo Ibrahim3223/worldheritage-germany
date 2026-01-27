@@ -3,7 +3,7 @@ title: "Gedenkstätte Abraham a Sancta Clara in der Pfarrscheuer"
 site_name: "Gedenkstätte Abraham a Sancta Clara in der Pfarrscheuer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gedenkstätte Abraham a Sancta Clara in der Pfarrscheuer is a poignant museum located in Germany, dedicated to preserving and interpreting the life and works..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

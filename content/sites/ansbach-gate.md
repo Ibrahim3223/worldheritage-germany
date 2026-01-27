@@ -3,7 +3,7 @@ title: "Ansbach Gate"
 site_name: "Ansbach Gate"
 date: 2026-01-26
 draft: false
-description: "gatehouse in Heilsbronn, Middle Franconia, Germany"
+description: "Ansbach Gate, a notable gatehouse located in Heilsbronn, Middle Franconia, Germany, is not merely a structure but a representation of the architectural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "Klosterkirche Oldenstadt"
 site_name: "Klosterkirche Oldenstadt"
 date: 2026-01-26
 draft: false
-description: "church building in Oldenstadt, Germany"
+description: "Klosterkirche Oldenstadt, located in the quaint village of Oldenstadt in Germany's Uelzen region, is a remarkable church building that embodies the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Stadthalle Gütersloh"
 site_name: "Stadthalle Gütersloh"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall, arts and convention centre in Gütersloh, Germany"
+description: "Stadthalle Gütersloh serves as a dynamic hub for arts and cultural events in the heart of Gütersloh, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

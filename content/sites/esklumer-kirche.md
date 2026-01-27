@@ -3,7 +3,7 @@ title: "Esklumer Kirche"
 site_name: "Esklumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Esklumer Kirche is a notable church building located in the tranquil region of Westoverledingen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Lütje Hörn"
 site_name: "Lütje Hörn"
 date: 2026-01-26
 draft: false
-description: "East Frisian Island"
+description: "Lütje Hörn is a small yet captivating island located in the East Frisian region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

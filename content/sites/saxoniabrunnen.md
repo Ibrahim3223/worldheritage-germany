@@ -3,7 +3,7 @@ title: "Saxoniabrunnen"
 site_name: "Saxoniabrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Chemnitz, Saxony"
+description: "Saxoniabrunnen, located in the heart of Chemnitz, Saxony, is a remarkable fountain that encapsulates the essence of both historical significance and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Fountain"

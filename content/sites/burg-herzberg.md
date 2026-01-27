@@ -3,7 +3,7 @@ title: "Burg Herzberg"
 site_name: "Burg Herzberg"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Herzberg, a captivating castle located in Breitenbach am Herzberg, Germany, invites visitors to explore its storied past and architectural allure."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

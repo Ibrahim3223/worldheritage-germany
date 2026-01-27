@@ -3,7 +3,7 @@ title: "Museum Wilnsdorf"
 site_name: "Museum Wilnsdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Wilnsdorf, located in the charming region of Wilnsdorf, Germany, serves as a vibrant hub for cultural exploration and education."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

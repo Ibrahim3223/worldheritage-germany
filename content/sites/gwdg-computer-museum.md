@@ -3,7 +3,7 @@ title: "GWDG Computer Museum"
 site_name: "GWDG Computer Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The GWDG Computer Museum, located in Göttingen, Germany, is a fascinating destination that delves into the evolution of computer technology."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Werden Abbey"
 site_name: "Werden Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine abbey in Germany"
+description: "Werden Abbey, a former Benedictine monastery in Essen, Germany, stands as a captivating site for history enthusiasts and spiritual seekers alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

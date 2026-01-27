@@ -3,7 +3,7 @@ title: "Lutherdenkmal Magdeburg"
 site_name: "Lutherdenkmal Magdeburg"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Magdeburg (Sachsen-Anhalt)"
+description: "The Lutherdenkmal Magdeburg stands as a solemn tribute to the influential figure of Martin Luther, who played a pivotal role in the Protestant Reformation."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

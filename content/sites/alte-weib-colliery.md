@@ -3,7 +3,7 @@ title: "Alte Weib Colliery"
 site_name: "Alte Weib Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Alte Weib Colliery, located in Dortmund, Germany, is a significant site that encapsulates the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Burg Gruibingen"
 site_name: "Burg Gruibingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gruibingen, a historically significant castle located in the quaint region of Gruibingen, Germany, invites visitors to explore its storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

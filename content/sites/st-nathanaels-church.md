@@ -3,7 +3,7 @@ title: "St. Nathanael's Church"
 site_name: "St. Nathanael's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "St. Nathanael's Church, located in the vibrant district of Schöneberg in Berlin, Germany, presents a serene escape from the bustling city streets."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Boltenmoor"
 site_name: "Boltenmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Boltenmoor is a captivating nature reserve located in the Syke region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

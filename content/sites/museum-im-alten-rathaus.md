@@ -3,7 +3,7 @@ title: "Museum im Alten Rathaus"
 site_name: "Museum im Alten Rathaus"
 date: 2026-01-26
 draft: false
-description: "museum in Pfarrkirchen, Germany"
+description: "The Museum im Alten Rathaus, located in the quaint town of Pfarrkirchen, Germany, serves as an engaging portal into the local culture and history of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

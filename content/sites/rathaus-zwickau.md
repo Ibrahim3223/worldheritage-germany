@@ -3,7 +3,7 @@ title: "Rathaus Zwickau"
 site_name: "Rathaus Zwickau"
 date: 2026-01-26
 draft: false
-description: "heritage building in Zwickau, Germany"
+description: "Rathaus Zwickau, the historic city hall of Zwickau, Germany, stands as a significant heritage building in the heart of this vibrant city."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

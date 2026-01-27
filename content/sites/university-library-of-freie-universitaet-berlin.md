@@ -3,7 +3,7 @@ title: "University Library of Freie Universität Berlin"
 site_name: "University Library of Freie Universität Berlin"
 date: 2026-01-26
 draft: false
-description: "academic library of the Freie Universität Berlin in Berlin, Germany"
+description: "The University Library of Freie Universität Berlin, located in the Steglitz-Zehlendorf district of Berlin, serves as a vital academic resource for students..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

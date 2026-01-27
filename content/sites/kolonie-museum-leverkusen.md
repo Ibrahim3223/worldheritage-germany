@@ -3,7 +3,7 @@ title: "Kolonie-Museum Leverkusen"
 site_name: "Kolonie-Museum Leverkusen"
 date: 2026-01-26
 draft: false
-description: "museum in Leverkusen"
+description: "Located in the heart of Leverkusen, Germany, the Kolonie-Museum Leverkusen serves as a cultural repository that explores the region's history and heritage..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

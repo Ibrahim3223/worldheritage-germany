@@ -3,7 +3,7 @@ title: "Old synagoge, Flehingen"
 site_name: "Old synagoge, Flehingen"
 date: 2026-01-26
 draft: false
-description: "18th-century synagogue in Flehingen in use until 1874 and demolished in 2016"
+description: "The Old Synagogue in Flehingen serves as a poignant reminder of Jewish heritage in Germany, a space where history and culture once thrived before its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

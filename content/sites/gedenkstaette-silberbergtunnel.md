@@ -3,7 +3,7 @@ title: "Gedenkstätte Silberbergtunnel"
 site_name: "Gedenkstätte Silberbergtunnel"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte bei Bad Neuenahr-Ahrweiler in Rheinland-Pfalz"
+description: "Tucked away in the scenic region of Bad Neuenahr-Ahrweiler, the Gedenkstätte Silberbergtunnel serves as a poignant memorial dedicated to the victims of war..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

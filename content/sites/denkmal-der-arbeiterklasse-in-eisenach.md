@@ -3,7 +3,7 @@ title: "Denkmal der Arbeiterklasse in Eisenach"
 site_name: "Denkmal der Arbeiterklasse in Eisenach"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Deutschland"
+description: "The Denkmal der Arbeiterklasse in Eisenach stands as a reflective monument that captures the spirit and struggles of the working class in Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

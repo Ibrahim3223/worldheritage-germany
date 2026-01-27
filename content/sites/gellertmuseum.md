@@ -3,7 +3,7 @@ title: "Gellertmuseum"
 site_name: "Gellertmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tucked away in the charming town of Hainichen, Germany, the Gellertmuseum invites visitors to explore a curated collection that reflects the local culture..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

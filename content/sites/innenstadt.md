@@ -3,7 +3,7 @@ title: "Innenstadt"
 site_name: "Innenstadt"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Göttingen’s Innenstadt, or Old Town, is a historical area that captures the essence of a vibrant human settlement."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Old Town"

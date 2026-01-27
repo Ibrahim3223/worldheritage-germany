@@ -3,7 +3,7 @@ title: "Motorradmuseum Ibbenbüren"
 site_name: "Motorradmuseum Ibbenbüren"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Motorradmuseum Ibbenbüren is a unique haven for motorcycle enthusiasts and history buffs alike, located in the heart of Ibbenbüren, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

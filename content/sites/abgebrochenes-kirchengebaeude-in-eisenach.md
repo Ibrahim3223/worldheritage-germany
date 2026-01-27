@@ -3,7 +3,7 @@ title: "Abgebrochenes Kirchengebäude in Eisenach"
 site_name: "Abgebrochenes Kirchengebäude in Eisenach"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Abgebrochenes Kirchengebäude in Eisenach, located in the heart of Germany, is a site of intriguing historical significance."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monastery"

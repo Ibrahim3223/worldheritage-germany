@@ -3,7 +3,7 @@ title: "Theater der Altmark"
 site_name: "Theater der Altmark"
 date: 2026-01-26
 draft: false
-description: "theater in Stendal, Germany"
+description: "The Theater der Altmark, located in the historic town of Stendal, Germany, is a vibrant cultural hub that has become synonymous with the performing arts in..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"

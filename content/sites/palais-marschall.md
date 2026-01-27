@@ -3,7 +3,7 @@ title: "Palais Marschall"
 site_name: "Palais Marschall"
 date: 2026-01-26
 draft: false
-description: "Palast in Deutschland"
+description: "The Palais Marschall is a distinguished palace located in the heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

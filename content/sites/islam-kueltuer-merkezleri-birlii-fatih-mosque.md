@@ -3,7 +3,7 @@ title: "İslam Kültür Merkezleri Birliği - Fatih mosque"
 site_name: "İslam Kültür Merkezleri Birliği - Fatih mosque"
 date: 2026-01-26
 draft: false
-description: "Fatih-Moschee des Verbandes der Islamischen Kulturzentren in Hof (Saale)"
+description: "In the heart of Hof, Germany, the İslam Kültür Merkezleri Birliği - Fatih Mosque stands as a key center of Islamic culture and community."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

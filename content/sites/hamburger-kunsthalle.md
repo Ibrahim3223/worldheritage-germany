@@ -3,7 +3,7 @@ title: "Hamburger Kunsthalle"
 site_name: "Hamburger Kunsthalle"
 date: 2026-01-26
 draft: false
-description: "art museum in Hamburg, Germany"
+description: "The Hamburger Kunsthalle, located in the heart of Hamburg, Germany, stands as a significant institution within the art world, showcasing an impressive..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

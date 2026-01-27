@@ -3,7 +3,7 @@ title: "Aulendorf station"
 site_name: "Aulendorf station"
 date: 2026-01-26
 draft: false
-description: "railway station in Aulendorf, Germany"
+description: "Aulendorf station, located in the charming town of Aulendorf, Germany, serves as a significant hub in the region's railway network."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

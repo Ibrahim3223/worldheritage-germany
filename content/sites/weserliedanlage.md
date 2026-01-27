@@ -3,7 +3,7 @@ title: "Weserliedanlage"
 site_name: "Weserliedanlage"
 date: 2026-01-26
 draft: false
-description: "Denkmal mit Aussichtspunkt oberhalb von Hann. Münden in Niedersachsen"
+description: "Weserliedanlage, a memorial located above the town of Hann. Münden in Niedersachsen, Germany, serves as a poignant reminder of the region's historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

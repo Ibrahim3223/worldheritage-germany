@@ -3,7 +3,7 @@ title: "Beach of Zingst"
 site_name: "Beach of Zingst"
 date: 2026-01-26
 draft: false
-description: "Strand an der Ostsee in Mecklenburg-Vorpommern."
+description: "The Beach of Zingst is a captivating stretch of sand located along the Baltic Sea in the northeastern region of Germany, specifically in Mecklenburg-Vorpommern."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

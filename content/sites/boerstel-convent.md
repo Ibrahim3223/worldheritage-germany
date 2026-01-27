@@ -3,7 +3,7 @@ title: "Börstel convent"
 site_name: "Börstel convent"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Börstel Convent, located in the serene region of Berge, Germany, is a remarkable church building that encapsulates the essence of ecclesiastical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

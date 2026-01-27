@@ -3,7 +3,7 @@ title: "Hoesch Museum Dortmund"
 site_name: "Hoesch Museum Dortmund"
 date: 2026-01-26
 draft: false
-description: "museum in Dortmund, Germany"
+description: "The Hoesch Museum in Dortmund, Germany, serves as a vital cultural institution dedicated to the history and legacy of the Hoesch family and the steel..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

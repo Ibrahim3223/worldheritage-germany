@@ -3,7 +3,7 @@ title: "Nornenbrunnen"
 site_name: "Nornenbrunnen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-4425 (6) in München, Bavaria"
+description: "Tucked away in the vibrant Maxvorstadt district of Munich, Nornenbrunnen stands as a captivating example of cultural heritage that reflects the city's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

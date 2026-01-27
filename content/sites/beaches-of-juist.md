@@ -3,7 +3,7 @@ title: "Beaches of Juist"
 site_name: "Beaches of Juist"
 date: 2026-01-26
 draft: false
-description: "Strände der Nordseeinsel Juist"
+description: "The Beaches of Juist offer an enchanting escape on the North Sea island of Juist, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

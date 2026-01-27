@@ -3,7 +3,7 @@ title: "Village Church Groß Zicker"
 site_name: "Village Church Groß Zicker"
 date: 2026-01-26
 draft: false
-description: "Protestant church on the island of Rügen, Mecklenburg-Vorpommern, Germany"
+description: "The Village Church Groß Zicker, located on the picturesque island of Rügen in Mecklenburg-Vorpommern, Germany, is a striking example of Protestant..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

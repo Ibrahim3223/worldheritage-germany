@@ -3,7 +3,7 @@ title: "The Parliament of Trees"
 site_name: "The Parliament of Trees"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "The Parliament of Trees stands as a poignant memorial located in the heart of Berlin's Bezirk Mitte, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Gate house"
 site_name: "Gate house"
 date: 2026-01-26
 draft: false
-description: "gate house in Stubbe, Germany"
+description: "The Gatehouse in Stubbe, Germany, is a striking architectural feature that tells the story of the region's historical significance."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"

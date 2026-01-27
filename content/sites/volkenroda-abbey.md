@@ -3,7 +3,7 @@ title: "Volkenroda Abbey"
 site_name: "Volkenroda Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Thuringia, Germany"
+description: "Volkenroda Abbey, a serene monastery located in the heart of Thuringia, Germany, invites visitors to explore its tranquil grounds and rich heritage."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monastery"

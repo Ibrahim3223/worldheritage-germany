@@ -3,7 +3,7 @@ title: "Städtische Galerie Wolfsburg"
 site_name: "Städtische Galerie Wolfsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Städtische Galerie Wolfsburg is a prominent museum located in the heart of Wolfsburg, Germany, a city known for its modern architecture and industrial..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

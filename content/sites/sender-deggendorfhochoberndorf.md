@@ -3,7 +3,7 @@ title: "Sender Deggendorf/Hochoberndorf"
 site_name: "Sender Deggendorf/Hochoberndorf"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Deggendorf, located in the picturesque region of Grafling, Germany, is a tower that captivates visitors with its historical significance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

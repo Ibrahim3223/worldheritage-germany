@@ -3,7 +3,7 @@ title: "Kloster Gnadenberg"
 site_name: "Kloster Gnadenberg"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Kloster Gnadenberg, located in the serene region of Berg bei Neumarkt in der Oberpfalz, Germany, is a notable monastery that draws visitors interested in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Kreismuseum Jerichower Land"
 site_name: "Kreismuseum Jerichower Land"
 date: 2026-01-26
 draft: false
-description: "museum in Genthin, Germany"
+description: "Located in the heart of Genthin, Germany, the Kreismuseum Jerichower Land serves as a significant cultural institution, preserving and showcasing the rich..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

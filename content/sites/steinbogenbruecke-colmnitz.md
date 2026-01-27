@@ -3,7 +3,7 @@ title: "Steinbogenbrücke Colmnitz"
 site_name: "Steinbogenbrücke Colmnitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke Colmnitz is an intriguing bridge located in the Klingenberg region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

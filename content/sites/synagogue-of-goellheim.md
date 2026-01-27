@@ -3,7 +3,7 @@ title: "synagogue of Göllheim"
 site_name: "synagogue of Göllheim"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The synagogue of Göllheim, located in the picturesque Rhineland-Palatinate region of Germany, serves as a poignant reminder of the Jewish community that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

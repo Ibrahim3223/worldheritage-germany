@@ -3,7 +3,7 @@ title: "Literaturmuseum Theodor Storm"
 site_name: "Literaturmuseum Theodor Storm"
 date: 2026-01-26
 draft: false
-description: "literary museum in Heilbad Heiligenstadt, Thuringia, Germany (1988-)"
+description: "In the heart of Heilbad Heiligenstadt, Thuringia, lies the Literaturmuseum Theodor Storm, a literary museum dedicated to the life and works of one of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

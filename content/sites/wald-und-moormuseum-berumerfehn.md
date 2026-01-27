@@ -3,7 +3,7 @@ title: "Wald- und Moormuseum Berumerfehn"
 site_name: "Wald- und Moormuseum Berumerfehn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany's East Frisia region lies the Wald- und Moormuseum Berumerfehn, an intriguing destination that captures the essence of the area’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Sog."
 site_name: "Sog."
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-384 (0) in Coburg, Bavaria"
+description: "Sog Palace, a distinguished cultural heritage monument located in Coburg, Bavaria, Germany, offers a captivating glimpse into the historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

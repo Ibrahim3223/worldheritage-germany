@@ -3,7 +3,7 @@ title: "Bullowsee"
 site_name: "Bullowsee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Bullowsee is a serene lake located in the picturesque Mecklenburgische Seenplatte District of Germany, a region known for its abundant waterways and natural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

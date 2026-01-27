@@ -3,7 +3,7 @@ title: "Industriewerke Ludwigsfelde"
 site_name: "Industriewerke Ludwigsfelde"
 date: 2026-01-26
 draft: false
-description: "factory"
+description: "Industriewerke Ludwigsfelde is a significant factory located in Ludwigsfelde, Germany, that exemplifies the industrial heritage of the region."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"

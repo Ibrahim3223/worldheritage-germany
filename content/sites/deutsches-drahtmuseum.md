@@ -3,7 +3,7 @@ title: "Deutsches Drahtmuseum"
 site_name: "Deutsches Drahtmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Drahtmuseum, located in the quaint town of Altena, Germany, is a unique cultural institution dedicated to the history and production of wire."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

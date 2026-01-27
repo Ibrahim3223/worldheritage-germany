@@ -3,7 +3,7 @@ title: "Petrikirche"
 site_name: "Petrikirche"
 date: 2026-01-26
 draft: false
-description: "Listed church building in Hanover, Germany"
+description: "Petrikirche, a notable church building located in the vibrant region of Buchholz-Kleefeld in Hanover, Germany, presents a unique blend of historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Gutenfels Castle"
 site_name: "Gutenfels Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Gutenfels Castle is a historic fortress situated in the picturesque town of Kaub, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

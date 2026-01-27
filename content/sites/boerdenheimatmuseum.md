@@ -3,7 +3,7 @@ title: "Bördenheimatmuseum"
 site_name: "Bördenheimatmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bördenheimatmuseum, located in Heeslingen, Germany, serves as an important cultural institution that reflects the heritage and traditions of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

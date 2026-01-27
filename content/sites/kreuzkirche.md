@@ -3,7 +3,7 @@ title: "Kreuzkirche"
 site_name: "Kreuzkirche"
 date: 2026-01-26
 draft: false
-description: "church in Dresden"
+description: "Kreuzkirche, located in the heart of Dresden, Germany, is a church building that holds a prominent place in the city’s cultural and architectural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

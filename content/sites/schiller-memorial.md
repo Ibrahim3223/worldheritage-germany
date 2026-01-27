@@ -3,7 +3,7 @@ title: "Schiller memorial"
 site_name: "Schiller memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Wiesbaden, Germany"
+description: "In the heart of Wiesbaden, Germany, stands the Schiller Memorial, a statue dedicated to the esteemed German poet and playwright Friedrich Schiller."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

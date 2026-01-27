@@ -3,7 +3,7 @@ title: "Nienburg Abbey"
 site_name: "Nienburg Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Nienburg Abbey, a remarkable monastery located in the picturesque region of Nienburg, Germany, invites visitors to explore its serene grounds and absorb its..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"

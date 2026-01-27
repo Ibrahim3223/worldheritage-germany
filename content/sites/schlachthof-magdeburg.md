@@ -3,7 +3,7 @@ title: "Schlachthof Magdeburg"
 site_name: "Schlachthof Magdeburg"
 date: 2026-01-26
 draft: false
-description: "Wohn- und Gewerbegebiet in Magdeburg, ehemals Schlachthof"
+description: "Schlachthof Magdeburg, located in the heart of Germany's historic city of Magdeburg, presents a fascinating architectural ensemble that tells the story of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

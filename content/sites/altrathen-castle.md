@@ -3,7 +3,7 @@ title: "Altrathen Castle"
 site_name: "Altrathen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altrathen Castle, an impressive fortress located in the enchanting region of Rathen, Germany, is a captivating site that reflects the architectural prowess..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Oper am Gänsemarkt"
 site_name: "Oper am Gänsemarkt"
 date: 2026-01-26
 draft: false
-description: "former theatre in Hamburg"
+description: "Oper am Gänsemarkt, a notable theatre building located in the heart of Hamburg, Germany, embodies the city’s vibrant cultural scene."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

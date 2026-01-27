@@ -3,7 +3,7 @@ title: "Museum Pegau"
 site_name: "Museum Pegau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Pegau offers a unique glimpse into the cultural and historical fabric of the Pegau region in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

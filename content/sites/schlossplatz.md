@@ -3,7 +3,7 @@ title: "Schlossplatz"
 site_name: "Schlossplatz"
 date: 2026-01-26
 draft: false
-description: "square in Coburg"
+description: "Schlossplatz, located in the heart of Coburg, Germany, serves as a central square that embodies the history and culture of this charming town."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

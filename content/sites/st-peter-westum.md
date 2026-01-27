@@ -3,7 +3,7 @@ title: "St. Peter (Westum)"
 site_name: "St. Peter (Westum)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude im Stadtteil Westum in Sinzig"
+description: "St. Peter (Westum) is a charming church building located in the Westum district of Sinzig, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

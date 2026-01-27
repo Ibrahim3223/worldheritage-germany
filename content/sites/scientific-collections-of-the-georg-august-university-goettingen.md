@@ -3,7 +3,7 @@ title: "Scientific Collections of the Georg-August-University Göttingen"
 site_name: "Scientific Collections of the Georg-August-University Göttingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Scientific Collections of the Georg-August-University Göttingen represent a vital intersection of education, research, and cultural heritage within Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

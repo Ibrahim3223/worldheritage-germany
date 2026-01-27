@@ -3,7 +3,7 @@ title: "Kicker Statue"
 site_name: "Kicker Statue"
 date: 2026-01-26
 draft: false
-description: "created by sculptor Josef Tabachnyk"
+description: "The Kicker Statue, a striking figure in Nuremberg, Germany, represents both an artistic vision and the cultural pulse of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

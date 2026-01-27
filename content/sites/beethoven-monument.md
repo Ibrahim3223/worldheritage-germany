@@ -3,7 +3,7 @@ title: "Beethoven Monument"
 site_name: "Beethoven Monument"
 date: 2026-01-26
 draft: false
-description: "statue in Bonn, Germany"
+description: "The Beethoven Monument in Bonn, Germany, is a prominent statue dedicated to one of the most influential composers in Western music history, Ludwig van..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

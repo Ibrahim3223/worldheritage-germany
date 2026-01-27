@@ -3,7 +3,7 @@ title: "Mosque of Wesseling"
 site_name: "Mosque of Wesseling"
 date: 2026-01-26
 draft: false
-description: "Moschee in Deutschland"
+description: "The Mosque of Wesseling serves as a spiritual and cultural hub in the heart of Germany, reflecting the diverse tapestry of the country’s religious landscape."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

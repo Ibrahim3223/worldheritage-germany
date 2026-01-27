@@ -3,7 +3,7 @@ title: "Amtshaus"
 site_name: "Amtshaus"
 date: 2026-01-26
 draft: false
-description: "building in Grünsfeld, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Located in the quaint town of Grünsfeld, Germany, the Amtshaus serves as a captivating museum that highlights the region's rich cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

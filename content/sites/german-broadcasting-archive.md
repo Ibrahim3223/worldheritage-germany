@@ -3,7 +3,7 @@ title: "German Broadcasting Archive"
 site_name: "German Broadcasting Archive"
 date: 2026-01-26
 draft: false
-description: "archive in Germany"
+description: "The German Broadcasting Archive, situated in the historic city of Potsdam, serves as a vital repository for the preservation and accessibility of Germany's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

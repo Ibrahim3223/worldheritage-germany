@@ -3,7 +3,7 @@ title: "State and University Library Bremen"
 site_name: "State and University Library Bremen"
 date: 2026-01-26
 draft: false
-description: "library in Bremen"
+description: "The State and University Library Bremen stands as a cornerstone of knowledge and culture in the Horn-Lehe district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Library"

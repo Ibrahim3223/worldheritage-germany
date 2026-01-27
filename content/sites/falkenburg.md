@@ -3,7 +3,7 @@ title: "Falkenburg"
 site_name: "Falkenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Falkenburg Castle, located in the picturesque region of Kyffhäuserland in Germany, stands as a remarkable example of medieval architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

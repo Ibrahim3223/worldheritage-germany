@@ -3,7 +3,7 @@ title: "Jewish Cemetery, Binau"
 site_name: "Jewish Cemetery, Binau"
 date: 2026-01-26
 draft: false
-description: "building in Binau, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "The Jewish Cemetery in Binau, Germany, serves as a poignant memorial to the Jewish community that once thrived in this region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

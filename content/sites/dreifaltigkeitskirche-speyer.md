@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Speyer)"
 site_name: "Dreifaltigkeitskirche (Speyer)"
 date: 2026-01-26
 draft: false
-description: "Protestant parish church in Speyer, Germany"
+description: "Dreifaltigkeitskirche, or the Church of the Holy Trinity, stands as a prominent feature of Speyer, Germany, reflecting the city's rich Protestant heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

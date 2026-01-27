@@ -3,7 +3,7 @@ title: "Schwarzenburg (Breisgau)"
 site_name: "Schwarzenburg (Breisgau)"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Schwarzenburg, a prominent mountain located in the picturesque region of Waldkirch, Germany, offers visitors a unique opportunity to immerse themselves in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

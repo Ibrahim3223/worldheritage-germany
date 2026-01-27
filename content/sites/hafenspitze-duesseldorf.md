@@ -3,7 +3,7 @@ title: "Hafenspitze Düsseldorf"
 site_name: "Hafenspitze Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the vibrant city of Düsseldorf, the Hafenspitze stands out as an architectural ensemble that captures the essence of modern urban design."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

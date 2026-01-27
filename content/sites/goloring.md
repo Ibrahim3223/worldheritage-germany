@@ -3,7 +3,7 @@ title: "Goloring"
 site_name: "Goloring"
 date: 2026-01-26
 draft: false
-description: "Neolithic henge monument"
+description: "Goloring, an intriguing archaeological site located in Rhineland-Palatinate, Germany, serves as a fascinating window into Neolithic times."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

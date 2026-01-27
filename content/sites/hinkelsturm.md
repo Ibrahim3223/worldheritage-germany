@@ -3,7 +3,7 @@ title: "Hinkelsturm"
 site_name: "Hinkelsturm"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hinkelsturm, situated in Darmstadt, Germany, offers a unique glimpse into the cultural fabric and historical narratives of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

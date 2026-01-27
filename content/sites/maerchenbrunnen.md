@@ -3,7 +3,7 @@ title: "Märchenbrunnen"
 site_name: "Märchenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Berlin, Germany"
+description: "Märchenbrunnen, a captivating fountain located in the Neukölln district of Berlin, Germany, is a remarkable site that intertwines art and folklore within a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

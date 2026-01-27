@@ -3,7 +3,7 @@ title: "Spengler Museum Sangerhausen"
 site_name: "Spengler Museum Sangerhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Spengler Museum in Sangerhausen, Germany, is a distinctive cultural institution that invites visitors to explore a carefully curated collection of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

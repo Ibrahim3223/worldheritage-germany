@@ -3,7 +3,7 @@ title: "Burg Lutter"
 site_name: "Burg Lutter"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched within the serene landscape of Lutter am Barenberge, Burg Lutter is a striking castle that invites exploration and reflection."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

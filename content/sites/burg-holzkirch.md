@@ -3,7 +3,7 @@ title: "Burg Holzkirch"
 site_name: "Burg Holzkirch"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Holzkirch, a captivating castle located in the heart of Germany, represents a significant piece of the region's architectural and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

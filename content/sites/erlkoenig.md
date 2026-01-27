@@ -3,7 +3,7 @@ title: "Erlkönig"
 site_name: "Erlkönig"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "Located in the enchanting city of Jena, Germany, the Erlkönig is a striking monument that captures the imagination of visitors and locals alike."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

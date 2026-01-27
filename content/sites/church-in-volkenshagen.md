@@ -3,7 +3,7 @@ title: "Church in Volkenshagen"
 site_name: "Church in Volkenshagen"
 date: 2026-01-26
 draft: false
-description: "Protestant church"
+description: "The Church in Volkenshagen is a significant Protestant church building located in the Bentwisch region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

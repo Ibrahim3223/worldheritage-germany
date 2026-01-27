@@ -3,7 +3,7 @@ title: "Kampenwand"
 site_name: "Kampenwand"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Kampenwand, a prominent mountain in Bavaria, Germany, offers a captivating blend of natural beauty and recreational opportunities."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

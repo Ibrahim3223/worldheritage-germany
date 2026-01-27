@@ -3,7 +3,7 @@ title: "Kröncke memorial"
 site_name: "Kröncke memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Groß-Rohrheim, Germany"
+description: "The Kröncke memorial is a notable monument located in Groß-Rohrheim, Germany. This memorial serves not only as a point of interest for visitors but also as..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

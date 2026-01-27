@@ -3,7 +3,7 @@ title: "St. Vincentus Church"
 site_name: "St. Vincentus Church"
 date: 2026-01-26
 draft: false
-description: "church building in Husby, Germany"
+description: "St. Vincentus Church is an intriguing example of ecclesiastical architecture situated in Husby, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

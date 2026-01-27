@@ -3,7 +3,7 @@ title: "Luisenstadt Canal"
 site_name: "Luisenstadt Canal"
 date: 2026-01-26
 draft: false
-description: "canal in Berlin, 1852 to 1926"
+description: "The Luisenstadt Canal, a historic waterway in Berlin, is a serene escape amid the bustling city life."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

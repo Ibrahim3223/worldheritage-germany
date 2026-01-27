@@ -3,7 +3,7 @@ title: "Weststrand"
 site_name: "Weststrand"
 date: 2026-01-26
 draft: false
-description: "Strand in List auf Sylt"
+description: "Weststrand is a stunning beach located in List auf Sylt, Germany. This unique stretch of shoreline offers visitors an escape into nature, where the North..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"

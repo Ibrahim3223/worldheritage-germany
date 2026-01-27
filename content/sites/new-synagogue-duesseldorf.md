@@ -3,7 +3,7 @@ title: "New Synagogue, Düsseldorf"
 site_name: "New Synagogue, Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "synagogue in Düsseldorf"
+description: "The New Synagogue in Düsseldorf is a striking landmark that encapsulates the resilience and enduring spirit of the Jewish community in Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

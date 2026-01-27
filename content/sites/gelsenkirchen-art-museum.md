@@ -3,7 +3,7 @@ title: "Gelsenkirchen Art Museum"
 site_name: "Gelsenkirchen Art Museum"
 date: 2026-01-26
 draft: false
-description: "Art museum in Gelsenkirchen, Germany"
+description: "The Gelsenkirchen Art Museum stands as a significant cultural institution within the vibrant city of Gelsenkirchen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

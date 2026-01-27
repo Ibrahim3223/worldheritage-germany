@@ -3,7 +3,7 @@ title: "Freilichtmuseum Neuhausen ob Eck"
 site_name: "Freilichtmuseum Neuhausen ob Eck"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Freilichtmuseum Neuhausen ob Eck is a compelling destination for those looking to explore the cultural heritage of Germany through an engaging museum..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

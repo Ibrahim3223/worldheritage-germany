@@ -3,7 +3,7 @@ title: "Kapelle Zur Mutter der schönen Liebe"
 site_name: "Kapelle Zur Mutter der schönen Liebe"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Koblenz"
+description: "Located in the historic city of Koblenz, Germany, the Kapelle Zur Mutter der schönen Liebe is a captivating chapel that invites both reflection and exploration."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

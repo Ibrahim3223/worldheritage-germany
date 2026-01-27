@@ -3,7 +3,7 @@ title: "Museum Kartause Astheim"
 site_name: "Museum Kartause Astheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Kartause Astheim is an intriguing cultural destination located in the picturesque town of Volkach, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

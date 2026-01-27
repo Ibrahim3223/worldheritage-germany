@@ -3,7 +3,7 @@ title: "Brömserburg"
 site_name: "Brömserburg"
 date: 2026-01-26
 draft: false
-description: "stone castle in Rüdesheim, Germany"
+description: "Brömserburg, a stone castle located in the picturesque town of Rüdesheim am Rhein, Germany, offers visitors a captivating glimpse into the region's rich..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

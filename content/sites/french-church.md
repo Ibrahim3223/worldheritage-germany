@@ -3,7 +3,7 @@ title: "French church"
 site_name: "French church"
 date: 2026-01-26
 draft: false
-description: "church in Potsdam"
+description: "The French Church in Potsdam stands as a revered landmark within this historic city in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

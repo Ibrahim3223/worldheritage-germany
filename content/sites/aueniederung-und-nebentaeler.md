@@ -3,7 +3,7 @@ title: "Aueniederung und Nebentäler"
 site_name: "Aueniederung und Nebentäler"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Aueniederung und Nebentäler, a designated nature reserve located in Lower Saxony, Germany, offers a captivating glimpse into the region's ecological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "St. Willibrord"
 site_name: "St. Willibrord"
 date: 2026-01-26
 draft: false
-description: "church building in Kleve, Germany"
+description: "St. Willibrord Church is a remarkable ecclesiastical structure located in the picturesque town of Kleve, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

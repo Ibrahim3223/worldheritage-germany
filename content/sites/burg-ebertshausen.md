@@ -3,7 +3,7 @@ title: "Burg Ebertshausen"
 site_name: "Burg Ebertshausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Ebertshausen, an archaeological site located in Gmund am Tegernsee, Germany, stands as a significant remnant of historical castle architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

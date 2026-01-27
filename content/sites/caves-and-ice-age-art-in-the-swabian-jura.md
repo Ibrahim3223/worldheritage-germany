@@ -3,7 +3,7 @@ title: "Caves and Ice Age Art in the Swabian Jura"
 site_name: "Caves and Ice Age Art in the Swabian Jura"
 date: 2026-01-26
 draft: false
-description: "Germany world heritage"
+description: "The Caves and Ice Age Art in the Swabian Jura represent a crucial intersection of geology and anthropology, encapsulating the essence of human creativity..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Group Of Protected Areas"

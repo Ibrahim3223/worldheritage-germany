@@ -3,7 +3,7 @@ title: "Altes Rathaus Bad Vilbel"
 site_name: "Altes Rathaus Bad Vilbel"
 date: 2026-01-26
 draft: false
-description: "Kulturdenkmal in Bad Vilbel"
+description: "In the heart of Bad Vilbel, the Altes Rathaus, or Old Town Hall, stands as a cultural monument that captures the essence of the town’s storied past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

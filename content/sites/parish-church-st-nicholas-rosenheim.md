@@ -3,7 +3,7 @@ title: "Parish Church St. Nicholas, Rosenheim"
 site_name: "Parish Church St. Nicholas, Rosenheim"
 date: 2026-01-26
 draft: false
-description: "church building in Rosenheim, Upper Bavaria, Germany"
+description: "Parish Church St. Nicholas in Rosenheim is a notable church building located in Upper Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

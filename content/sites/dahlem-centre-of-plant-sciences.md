@@ -3,7 +3,7 @@ title: "Dahlem Centre of Plant Sciences"
 site_name: "Dahlem Centre of Plant Sciences"
 date: 2026-01-26
 draft: false
-description: "Universität in Deutschland"
+description: "The Dahlem Centre of Plant Sciences is an esteemed institution located in Germany, dedicated to advancing the study and understanding of plant biology."
 region: "Berlin"
 country: "Germany"
 heritage_type: "University"

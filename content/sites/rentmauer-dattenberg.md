@@ -3,7 +3,7 @@ title: "Rentmauer Dattenberg"
 site_name: "Rentmauer Dattenberg"
 date: 2026-01-26
 draft: false
-description: "ehemalige Befestigungsanlage im Hochtaunuskreis in Hessen, Deutschland"
+description: "Rentmauer Dattenberg, an intriguing historical fortification located in the Hochtaunuskreis region of Germany, invites visitors to explore its storied past..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Fortification"

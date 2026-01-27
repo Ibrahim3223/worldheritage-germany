@@ -3,7 +3,7 @@ title: "Maria-Obhut-Kirche"
 site_name: "Maria-Obhut-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Oberbilk, Germany"
+description: "In the heart of Düsseldorf-Oberbilk, the Maria-Obhut-Kirche serves as a significant landmark of both architectural and cultural importance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

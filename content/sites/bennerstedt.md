@@ -3,7 +3,7 @@ title: "Bennerstedt"
 site_name: "Bennerstedt"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bennerstedt is a captivating nature reserve located in the Scharnebeck region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

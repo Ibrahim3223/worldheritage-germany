@@ -3,7 +3,7 @@ title: "Gutshaus Bagow"
 site_name: "Gutshaus Bagow"
 date: 2026-01-26
 draft: false
-description: "Herrensitz im Ortsteil Bagow der Gemeinde Päwesin (Brandenburg)"
+description: "Gutshaus Bagow is a distinguished manor house located in the serene village of Bagow within the municipality of Päwesin, Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

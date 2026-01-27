@@ -3,7 +3,7 @@ title: "Windstärke 10 – Shipwreck and Fishing Museum Cuxhaven"
 site_name: "Windstärke 10 – Shipwreck and Fishing Museum Cuxhaven"
 date: 2026-01-26
 draft: false
-description: "museum in Cuxhaven, Germany"
+description: "Located in the coastal town of Cuxhaven, Germany, the Windstärke 10 – Shipwreck and Fishing Museum offers a unique insight into the maritime heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

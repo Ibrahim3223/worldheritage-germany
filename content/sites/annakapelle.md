@@ -3,7 +3,7 @@ title: "Annakapelle"
 site_name: "Annakapelle"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Kirchengebäude in Roding, Bayern"
+description: "Situated in the heart of Roding, Germany, the Annakapelle is a significant chapel that captures both historical and architectural interest."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

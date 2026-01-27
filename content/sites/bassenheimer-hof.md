@@ -3,7 +3,7 @@ title: "Bassenheimer Hof"
 site_name: "Bassenheimer Hof"
 date: 2026-01-26
 draft: false
-description: "building"
+description: "Bassenheimer Hof is a distinguished palace located in the historic city of Mainz, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

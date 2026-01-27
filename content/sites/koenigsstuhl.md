@@ -3,7 +3,7 @@ title: "Königsstuhl"
 site_name: "Königsstuhl"
 date: 2026-01-26
 draft: false
-description: "monument in Rhens, Germany"
+description: "Königsstuhl, a significant monument located in Rhens, Germany, serves as a cultural landmark that invites exploration into the historical narratives of the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"

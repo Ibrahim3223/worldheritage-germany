@@ -3,7 +3,7 @@ title: "Bauernhausmuseum Lindberg"
 site_name: "Bauernhausmuseum Lindberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bauernhausmuseum Lindberg is a captivating museum located in Lindberg, Germany, dedicated to showcasing the agricultural heritage and rural life of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Manuelskotten"
 site_name: "Manuelskotten"
 date: 2026-01-26
 draft: false
-description: "Industrial museum in Wuppertal"
+description: "Manuelskotten in Wuppertal, Germany, is a distinctive industrial museum that invites visitors to explore the rich heritage of the region's industrial past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Roemerhalle Bad Kreuznach"
 site_name: "Roemerhalle Bad Kreuznach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Roemerhalle Bad Kreuznach serves as a cultural hub in the picturesque town of Bad Kreuznach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

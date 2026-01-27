@@ -3,7 +3,7 @@ title: "August-Gottschalk-Haus"
 site_name: "August-Gottschalk-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The August-Gottschalk-Haus is a museum located in Esens, Germany, that invites visitors to explore the cultural heritage and history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

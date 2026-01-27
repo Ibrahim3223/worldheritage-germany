@@ -3,7 +3,7 @@ title: "Gemeindebücherei Auerbach"
 site_name: "Gemeindebücherei Auerbach"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Auerbach, a public library located in Auerbach, Germany, serves as a vital resource for the local community, offering access to a wide..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

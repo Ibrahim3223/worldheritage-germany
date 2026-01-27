@@ -3,7 +3,7 @@ title: "St. Peter und Paul (Waldkirchen)"
 site_name: "St. Peter und Paul (Waldkirchen)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Peter und Paul, a distinguished church building located in the quaint town of Waldkirchen, Bavaria, Germany, stands as an emblem of the region's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

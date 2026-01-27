@@ -3,7 +3,7 @@ title: "Grabmal Familie Zinkann"
 site_name: "Grabmal Familie Zinkann"
 date: 2026-01-26
 draft: false
-description: "Grabmal in Darmstadt"
+description: "The Grabmal Familie Zinkann, located in Darmstadt, Germany, is a significant tomb that reflects the cultural and historical narratives of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"

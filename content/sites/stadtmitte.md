@@ -3,7 +3,7 @@ title: "Stadtmitte"
 site_name: "Stadtmitte"
 date: 2026-01-26
 draft: false
-description: "human settlement in Rostock, Germany"
+description: "Stadtmitte, the historic heart of Rostock, Germany, is an intriguing blend of medieval charm and vibrant urban life."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Old Town"

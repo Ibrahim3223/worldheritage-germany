@@ -3,7 +3,7 @@ title: "German Museum of Culinary Arts and Dining Culture"
 site_name: "German Museum of Culinary Arts and Dining Culture"
 date: 2026-01-26
 draft: false
-description: "museum in [[:en:Frankfurt|Frankfurt]], Germany"
+description: "The German Museum of Culinary Arts and Dining Culture, located in Frankfurt, Germany, serves as an engaging exploration of the intricate relationship..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

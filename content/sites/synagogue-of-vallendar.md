@@ -3,7 +3,7 @@ title: "Synagogue of Vallendar"
 site_name: "Synagogue of Vallendar"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue of Vallendar, located in the picturesque region of Rhineland-Palatinate, Germany, serves as a poignant reminder of the Jewish heritage that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

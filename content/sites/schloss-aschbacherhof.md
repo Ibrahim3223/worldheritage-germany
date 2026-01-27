@@ -3,7 +3,7 @@ title: "Schloss Aschbacherhof"
 site_name: "Schloss Aschbacherhof"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Schloss Aschbacherhof is a distinguished manor house located in the tranquil region of Trippstadt, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

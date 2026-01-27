@@ -3,7 +3,7 @@ title: "Draped Seated Woman"
 site_name: "Draped Seated Woman"
 date: 2026-01-26
 draft: false
-description: "sculpture by Henry Moore (LH 428, Von der Heydt Museum)"
+description: "The Draped Seated Woman, a captivating sculpture by the renowned British artist Henry Moore, is a striking piece that invites contemplation and admiration."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

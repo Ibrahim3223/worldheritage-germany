@@ -3,7 +3,7 @@ title: "post mill Kottmarsdorf"
 site_name: "post mill Kottmarsdorf"
 date: 2026-01-26
 draft: false
-description: "post mill in Kottmarsdorf"
+description: "The post mill Kottmarsdorf is more than just a museum; it’s a portal to the agricultural heritage of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

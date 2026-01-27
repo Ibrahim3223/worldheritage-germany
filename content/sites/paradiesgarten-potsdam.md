@@ -3,7 +3,7 @@ title: "Paradiesgarten (Potsdam)"
 site_name: "Paradiesgarten (Potsdam)"
 date: 2026-01-26
 draft: false
-description: "garden in Potsdam, Germany"
+description: "In the heart of Potsdam, Germany, the Paradiesgarten offers a serene escape into a meticulously designed landscape that reflects the elegance of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "St. Marien, Boizenburg/Elbe"
 site_name: "St. Marien, Boizenburg/Elbe"
 date: 2026-01-26
 draft: false
-description: "church building in Boizenburg, Germany"
+description: "St. Marien in Boizenburg/Elbe is a remarkable church building situated in the quaint town of Boizenburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

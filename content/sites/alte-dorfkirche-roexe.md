@@ -3,7 +3,7 @@ title: "Alte Dorfkirche Röxe"
 site_name: "Alte Dorfkirche Röxe"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Alte Dorfkirche Röxe stands as a poignant symbol of architectural and cultural history in the Stendal region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Gummersbach district and city library"
 site_name: "Gummersbach district and city library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gummersbach district and city library serves as a vital institution within the Gummersbach region of Germany, acting as a hub for knowledge, culture,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

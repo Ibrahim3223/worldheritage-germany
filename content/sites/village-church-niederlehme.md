@@ -3,7 +3,7 @@ title: "Village church Niederlehme"
 site_name: "Village church Niederlehme"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church of Niederlehme, located in the picturesque region of Königs Wusterhausen, Germany, serves as an enduring symbol of the community's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

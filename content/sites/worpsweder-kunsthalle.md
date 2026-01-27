@@ -3,7 +3,7 @@ title: "Worpsweder Kunsthalle"
 site_name: "Worpsweder Kunsthalle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Situated in the heart of the picturesque village of Worpswede, Germany, the Worpsweder Kunsthalle serves as a vital center for contemporary art, celebrating..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Protestant Town Church Meiningen"
 site_name: "Protestant Town Church Meiningen"
 date: 2026-01-26
 draft: false
-description: "church building in Meiningen, Germany"
+description: "The Protestant Town Church Meiningen serves as a pivotal landmark in the heart of Meiningen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

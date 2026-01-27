@@ -3,7 +3,7 @@ title: "Dominican Museum Rottweil"
 site_name: "Dominican Museum Rottweil"
 date: 2026-01-26
 draft: false
-description: "museum in Rottweil"
+description: "The Dominican Museum Rottweil stands as a significant cultural institution in Rottweil, Germany, offering visitors a glimpse into the region's rich heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

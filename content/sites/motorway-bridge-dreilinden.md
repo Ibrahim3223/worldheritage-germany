@@ -3,7 +3,7 @@ title: "motorway bridge Dreilinden"
 site_name: "motorway bridge Dreilinden"
 date: 2026-01-26
 draft: false
-description: "abandoned motorway bridge in Kleinmachnow"
+description: "The motorway bridge Dreilinden in Kleinmachnow, Germany, serves as a fascinating relic of transportation infrastructure that has witnessed the ebb and flow..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Bridge"

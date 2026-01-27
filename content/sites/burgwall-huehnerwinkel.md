@@ -3,7 +3,7 @@ title: "Burgwall Hühnerwinkel"
 site_name: "Burgwall Hühnerwinkel"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Hühnerwinkel is an intriguing hillfort located in the Löcknitz region of Germany, offering visitors a unique glimpse into ancient fortification..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

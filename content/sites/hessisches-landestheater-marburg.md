@@ -3,7 +3,7 @@ title: "Hessisches Landestheater Marburg"
 site_name: "Hessisches Landestheater Marburg"
 date: 2026-01-26
 draft: false
-description: "theatre in Marburg, Hesse, Germany"
+description: "The Hessisches Landestheater Marburg is a prominent cultural institution in the heart of Marburg, Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

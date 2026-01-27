@@ -3,7 +3,7 @@ title: "Alter Friedhof Huttrop"
 site_name: "Alter Friedhof Huttrop"
 date: 2026-01-26
 draft: false
-description: "cemetery in Essen, Germany"
+description: "Alter Friedhof Huttrop, a historic cemetery located in Essen, Germany, serves as a serene park that intertwines nature with remembrance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"

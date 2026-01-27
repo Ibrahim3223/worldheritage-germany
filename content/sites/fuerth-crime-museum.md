@@ -3,7 +3,7 @@ title: "Fürth Crime Museum"
 site_name: "Fürth Crime Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fürth Crime Museum, located in the vibrant city of Fürth, Germany, offers a unique lens through which visitors can explore the darker aspects of human..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

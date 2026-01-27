@@ -3,7 +3,7 @@ title: "Schillerhaus (Oberkochen)"
 site_name: "Schillerhaus (Oberkochen)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schillerhaus in Oberkochen, Germany, is a museum dedicated to the life and works of the renowned German poet Friedrich Schiller."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

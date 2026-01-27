@@ -3,7 +3,7 @@ title: "Leuchtfeuer Heidkate"
 site_name: "Leuchtfeuer Heidkate"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Leuchtfeuer Heidkate is a lighthouse located in the picturesque region of Wisch, Plön, in Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

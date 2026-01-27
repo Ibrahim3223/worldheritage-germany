@@ -3,7 +3,7 @@ title: "St.-Paulus-Kirche"
 site_name: "St.-Paulus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Paulus-Kirche is a significant church building located in the serene town of Filsum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

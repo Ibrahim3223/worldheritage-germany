@@ -3,7 +3,7 @@ title: "Forum Homburg"
 site_name: "Forum Homburg"
 date: 2026-01-26
 draft: false
-description: "building complex in Homburg (Saar)"
+description: "Forum Homburg is a prominent city hall located in the heart of Homburg, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Hall"

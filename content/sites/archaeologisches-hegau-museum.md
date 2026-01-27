@@ -3,7 +3,7 @@ title: "Archäologisches Hegau-Museum"
 site_name: "Archäologisches Hegau-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Archäologisches Hegau-Museum, located in Singen, Germany, is a fascinating destination for history enthusiasts and casual visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

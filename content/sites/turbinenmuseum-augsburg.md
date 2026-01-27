@@ -3,7 +3,7 @@ title: "Turbinenmuseum Augsburg"
 site_name: "Turbinenmuseum Augsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Turbinenmuseum Augsburg is a unique museum located in Augsburg, Germany, dedicated to the history and technology of turbines and their impact on energy..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

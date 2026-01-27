@@ -3,7 +3,7 @@ title: "Church in Gross Tessin"
 site_name: "Church in Gross Tessin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Gross Tessin is a distinctive church building located in the Glasin region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

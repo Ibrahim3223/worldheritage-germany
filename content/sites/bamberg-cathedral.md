@@ -3,7 +3,7 @@ title: "Bamberg Cathedral"
 site_name: "Bamberg Cathedral"
 date: 2026-01-26
 draft: false
-description: "Roman Catholic cathedral in Bamberg, Germany"
+description: "Bamberg Cathedral, a prominent Roman Catholic cathedral located in the heart of Bamberg, Germany, serves as a magnificent example of medieval architecture..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

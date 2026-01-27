@@ -3,7 +3,7 @@ title: "D.I.W.A. Frauenforschungsstelle Münster e. V., Library"
 site_name: "D.I.W.A. Frauenforschungsstelle Münster e. V., Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Münster, Germany, the D.I.W.A. Frauenforschungsstelle Münster e."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

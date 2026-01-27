@@ -3,7 +3,7 @@ title: "Woostener See"
 site_name: "Woostener See"
 date: 2026-01-26
 draft: false
-description: "lake in Goldberg, Mecklenburg-Vorpommern, Germany"
+description: "Woostener See is a serene lake located in the picturesque region of Goldberg in Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

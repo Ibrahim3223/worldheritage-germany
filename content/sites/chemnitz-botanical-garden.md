@@ -3,7 +3,7 @@ title: "Chemnitz Botanical Garden"
 site_name: "Chemnitz Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Germany"
+description: "Chemnitz Botanical Garden is a serene retreat located in the Altendorf region of Germany, offering visitors a diverse collection of plant species and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

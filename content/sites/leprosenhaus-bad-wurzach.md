@@ -3,7 +3,7 @@ title: "Leprosenhaus Bad Wurzach"
 site_name: "Leprosenhaus Bad Wurzach"
 date: 2026-01-26
 draft: false
-description: "building in Bad Wurzach, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "In the heart of Bad Wurzach, Germany, the Leprosenhaus stands as a poignant reminder of the historical struggle against leprosy and the societal challenges..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

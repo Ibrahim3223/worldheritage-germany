@@ -3,7 +3,7 @@ title: "Bogenbrücke über die Triebisch bei der Niedermühle Blankenstein (Wils
 site_name: "Bogenbrücke über die Triebisch bei der Niedermühle Blankenstein (Wilsdruff)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über die Triebisch bei der Niedermühle Blankenstein in Wilsdruff, Germany, is a remarkable example of historical bridge architecture that..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

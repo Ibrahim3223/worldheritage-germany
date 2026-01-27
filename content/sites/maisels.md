@@ -3,7 +3,7 @@ title: "Maisel's"
 site_name: "Maisel's"
 date: 2026-01-26
 draft: false
-description: "brewery in Bayreuth, Germany"
+description: "Maisel's Brewery, located in the charming city of Bayreuth, Germany, is a significant establishment in the country's rich brewing tradition."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

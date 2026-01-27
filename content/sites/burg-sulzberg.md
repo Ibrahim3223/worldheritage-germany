@@ -3,7 +3,7 @@ title: "Burg Sulzberg"
 site_name: "Burg Sulzberg"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burg Sulzberg, a captivating castle ruin located in the Sulzberg region of Germany, invites visitors to explore its storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

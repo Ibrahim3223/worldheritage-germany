@@ -3,7 +3,7 @@ title: "St.-Cornelius-und-Cyprian-Kirche"
 site_name: "St.-Cornelius-und-Cyprian-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Cornelius-und-Cyprian-Kirche, a striking church building located in the serene region of Lippetal, Germany, is a significant landmark reflecting the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Limburg Castle (Hesse)"
 site_name: "Limburg Castle (Hesse)"
 date: 2026-01-26
 draft: false
-description: "castle in Limburg an der Lahn, Germany"
+description: "Limburg Castle, located in the picturesque town of Limburg an der Lahn in Germany, is an impressive example of medieval architecture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

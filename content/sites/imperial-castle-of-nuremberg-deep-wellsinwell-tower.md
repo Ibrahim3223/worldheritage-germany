@@ -3,7 +3,7 @@ title: "Imperial Castle of Nuremberg - Deep Well/Sinwell Tower"
 site_name: "Imperial Castle of Nuremberg - Deep Well/Sinwell Tower"
 date: 2026-01-26
 draft: false
-description: "part of the Nuremberg Castle, Germany"
+description: "The Imperial Castle of Nuremberg, a vital historical landmark in Germany, is a remarkable site that encapsulates the essence of medieval architecture and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Maria Meeresstern (Borkum)"
 site_name: "St. Maria Meeresstern (Borkum)"
 date: 2026-01-26
 draft: false
-description: "church building in Borkum, Germany"
+description: "St. Maria Meeresstern, a church building located in Borkum, Germany, serves not only as a place of worship but also as a significant cultural landmark on..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

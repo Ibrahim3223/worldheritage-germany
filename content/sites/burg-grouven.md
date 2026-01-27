@@ -3,7 +3,7 @@ title: "Burg Grouven"
 site_name: "Burg Grouven"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grouven, a striking castle located in Elsdorf, Germany, presents a fascinating glimpse into the region's medieval heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

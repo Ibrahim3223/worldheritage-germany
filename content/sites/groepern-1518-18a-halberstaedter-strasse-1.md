@@ -3,7 +3,7 @@ title: "Gröpern 15–18, 18a, Halberstädter Straße 1"
 site_name: "Gröpern 15–18, 18a, Halberstädter Straße 1"
 date: 2026-01-26
 draft: false
-description: "buildings in Quedlinburg, Germany"
+description: "In the heart of Quedlinburg, Germany, an architectural ensemble awaits exploration."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

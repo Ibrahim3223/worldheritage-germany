@@ -3,7 +3,7 @@ title: "Sommerauer Wasserfall"
 site_name: "Sommerauer Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "In the heart of Germany lies Sommerauer Wasserfall, a striking waterfall that captivates visitors with its natural beauty and serene surroundings."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Waterfall"

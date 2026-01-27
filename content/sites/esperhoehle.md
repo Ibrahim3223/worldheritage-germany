@@ -3,7 +3,7 @@ title: "Esperhöhle"
 site_name: "Esperhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Esperhöhle, a cave located in the picturesque region of Gößweinstein, Germany, offers a unique glimpse into the natural beauty and geological wonders of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

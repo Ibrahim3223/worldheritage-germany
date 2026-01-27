@@ -3,7 +3,7 @@ title: "Gedenkstätte Michelsberg"
 site_name: "Gedenkstätte Michelsberg"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte in Wiesbaden"
+description: "Gedenkstätte Michelsberg, located in Wiesbaden, Germany, serves as a poignant memorial dedicated to the remembrance of significant historical events."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

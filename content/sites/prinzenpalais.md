@@ -3,7 +3,7 @@ title: "Prinzenpalais"
 site_name: "Prinzenpalais"
 date: 2026-01-26
 draft: false
-description: "building used as an art museum in Oldenburg, Germany"
+description: "Prinzenpalais, an art museum located in Oldenburg, Germany, offers visitors a unique glimpse into the cultural fabric of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

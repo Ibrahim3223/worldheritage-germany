@@ -3,7 +3,7 @@ title: "H2--Zentrum für Gegenwartskunst im Glaspalast"
 site_name: "H2--Zentrum für Gegenwartskunst im Glaspalast"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The H2--Zentrum für Gegenwartskunst im Glaspalast, located in Augsburg, Germany, is a contemporary art museum that showcases innovative works from both..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

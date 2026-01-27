@@ -3,7 +3,7 @@ title: "Buchkapelle (Eppishausen)"
 site_name: "Buchkapelle (Eppishausen)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Buchkapelle, located in Eppishausen, Kirchheim in Schwaben, is an architectural gem that offers visitors a serene glimpse into the spiritual heritage of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

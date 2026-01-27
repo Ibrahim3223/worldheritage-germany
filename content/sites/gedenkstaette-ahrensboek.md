@@ -3,7 +3,7 @@ title: "Gedenkstätte Ahrensbök"
 site_name: "Gedenkstätte Ahrensbök"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "Gedenkstätte Ahrensbök is a memorial located in the serene town of Ahrensbök, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"

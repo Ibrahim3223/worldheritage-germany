@@ -3,7 +3,7 @@ title: "Mersmühle"
 site_name: "Mersmühle"
 date: 2026-01-26
 draft: false
-description: "Kappenwindmühle in Haren (Ems)"
+description: "The Mersmühle, a traditional windmill located in Haren, Germany, presents an intriguing glimpse into the region's agrarian past and the evolution of wind..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

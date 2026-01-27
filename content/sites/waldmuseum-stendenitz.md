@@ -3,7 +3,7 @@ title: "Waldmuseum Stendenitz"
 site_name: "Waldmuseum Stendenitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Waldmuseum Stendenitz invites visitors to explore the cultural and historical narratives of the region through its thoughtfully curated exhibits."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

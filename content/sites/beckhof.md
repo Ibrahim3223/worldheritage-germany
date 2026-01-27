@@ -3,7 +3,7 @@ title: "Beckhof"
 site_name: "Beckhof"
 date: 2026-01-26
 draft: false
-description: "Gebäudegruppe im Bielefelder Stadtbezirk Sennestadt"
+description: "Beckhof, an architectural ensemble located in the Sennestadt district of Bielefeld, Germany, represents a significant piece of the region's modern..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

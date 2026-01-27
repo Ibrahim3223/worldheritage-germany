@@ -3,7 +3,7 @@ title: "Großer Bischofsweiher"
 site_name: "Großer Bischofsweiher"
 date: 2026-01-26
 draft: false
-description: "lake in Franconia, Bavaria, Germany"
+description: "Großer Bischofsweiher is a picturesque lake located in the heart of Franconia, Bavaria, within the city of Erlangen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Palais am Fürstenwall"
 site_name: "Palais am Fürstenwall"
 date: 2026-01-26
 draft: false
-description: "building in Magdeburg"
+description: "Located in the heart of Magdeburg, Germany, the Palais am Fürstenwall is a remarkable example of architectural elegance and historical significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

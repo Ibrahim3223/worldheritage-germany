@@ -3,7 +3,7 @@ title: "Aukrug church"
 site_name: "Aukrug church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Aukrug church, a remarkable example of ecclesiastical architecture in Germany, invites visitors to explore its serene ambiance and historical significance."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

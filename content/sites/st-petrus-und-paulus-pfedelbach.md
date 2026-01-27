@@ -3,7 +3,7 @@ title: "St. Petrus und Paulus (Pfedelbach)"
 site_name: "St. Petrus und Paulus (Pfedelbach)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Petrus und Paulus in Pfedelbach, Germany, is a significant church building that embodies the spiritual and cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

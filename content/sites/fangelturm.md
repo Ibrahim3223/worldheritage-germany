@@ -3,7 +3,7 @@ title: "Fangelturm"
 site_name: "Fangelturm"
 date: 2026-01-26
 draft: false
-description: "tower in Barth, Germany"
+description: "Fangelturm is a remarkable tower located in the town of Barth, Germany, that invites visitors to explore a piece of the region's architectural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"

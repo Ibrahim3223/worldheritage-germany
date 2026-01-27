@@ -3,7 +3,7 @@ title: "Ebstorf Abbey"
 site_name: "Ebstorf Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Ebstorf Abbey, located in the quaint town of Ebstorf in Germany, is a monastery turned museum that offers visitors a glimpse into the historical and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

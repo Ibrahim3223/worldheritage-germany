@@ -3,7 +3,7 @@ title: "Körnermuseum Dresden"
 site_name: "Körnermuseum Dresden"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Dresden, a city known for its stunning architecture and rich cultural heritage, is home to the Körnermuseum, a charming museum dedicated to preserving and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

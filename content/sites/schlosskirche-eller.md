@@ -3,7 +3,7 @@ title: "Schlosskirche Eller"
 site_name: "Schlosskirche Eller"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Schlosskirche Eller, a notable church building located in Düsseldorf, Germany, serves as a focal point of cultural and architectural significance within the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

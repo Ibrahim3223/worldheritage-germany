@@ -3,7 +3,7 @@ title: "Gemeindebücherei Wörth"
 site_name: "Gemeindebücherei Wörth"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Wörth, located in the charming town of Wörth in Germany, serves as a vital hub for knowledge and community engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "BEST-Sabel-Grundschule"
 site_name: "BEST-Sabel-Grundschule"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Located in the vibrant district of Marzahn-Hellersdorf, BEST-Sabel-Grundschule stands as an important educational institution within Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

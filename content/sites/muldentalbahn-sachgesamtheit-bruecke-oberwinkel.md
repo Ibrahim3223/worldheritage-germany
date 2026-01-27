@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Brücke Oberwinkel"
 site_name: "Muldentalbahn (Sachgesamtheit); Brücke Oberwinkel"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn and its associated feature, the Brücke Oberwinkel, present a significant piece of Germany's industrial heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

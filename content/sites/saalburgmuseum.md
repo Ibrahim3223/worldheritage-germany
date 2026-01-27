@@ -3,7 +3,7 @@ title: "Saalburgmuseum"
 site_name: "Saalburgmuseum"
 date: 2026-01-26
 draft: false
-description: "archaeological museum in the ancient roman Castle Saalburg"
+description: "The Saalburgmuseum, located in Bad Homburg vor der Höhe, Germany, serves as a vital link to the ancient Roman Empire's frontier life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

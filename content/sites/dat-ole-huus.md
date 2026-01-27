@@ -3,7 +3,7 @@ title: "Dat ole Huus"
 site_name: "Dat ole Huus"
 date: 2026-01-26
 draft: false
-description: "museum in Wilsede, Lower Saxony"
+description: "Dat ole Huus, located in the serene village of Wilsede in Lower Saxony, Germany, serves as a fascinating portal into the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

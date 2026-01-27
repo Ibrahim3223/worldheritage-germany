@@ -3,7 +3,7 @@ title: "Burgsee"
 site_name: "Burgsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Burgsee is a picturesque lake located in the Schleswig region of Germany, offering visitors a serene landscape that encapsulates the natural beauty of this..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

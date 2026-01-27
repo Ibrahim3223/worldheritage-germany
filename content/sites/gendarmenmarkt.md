@@ -3,7 +3,7 @@ title: "Gendarmenmarkt"
 site_name: "Gendarmenmarkt"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Gendarmenmarkt, located in the heart of Berlin, is a striking square that encapsulates the city's historical and cultural essence."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

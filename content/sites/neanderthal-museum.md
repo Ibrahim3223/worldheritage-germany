@@ -3,7 +3,7 @@ title: "Neanderthal Museum"
 site_name: "Neanderthal Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Mettmann, Germany"
+description: "In the heart of Mettmann, Germany, the Neanderthal Museum stands as a pioneering institution dedicated to one of humanity's most fascinating ancestors, the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

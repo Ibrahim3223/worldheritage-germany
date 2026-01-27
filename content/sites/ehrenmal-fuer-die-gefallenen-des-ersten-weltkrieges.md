@@ -3,7 +3,7 @@ title: "Ehrenmal für die Gefallenen des Ersten Weltkrieges"
 site_name: "Ehrenmal für die Gefallenen des Ersten Weltkrieges"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Ehrenmal für die Gefallenen des Ersten Weltkrieges, located in Zella-Mehlis, Germany, is a solemn monument dedicated to the soldiers who lost their..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

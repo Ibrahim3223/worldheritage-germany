@@ -3,7 +3,7 @@ title: "Peter-und-Paul-Kirche"
 site_name: "Peter-und-Paul-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Peter-und-Paul-Kirche, a prominent church building located in Westoverledingen, Germany, serves as both a spiritual sanctuary and a cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

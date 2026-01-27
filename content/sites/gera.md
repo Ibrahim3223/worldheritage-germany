@@ -3,7 +3,7 @@ title: "Gera"
 site_name: "Gera"
 date: 2026-01-26
 draft: false
-description: "museum ship in Bremerhaven, Germany"
+description: "Gera, located in the port city of Bremerhaven, Germany, is more than just a museum; it is a museum ship that offers visitors a unique glimpse into maritime..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

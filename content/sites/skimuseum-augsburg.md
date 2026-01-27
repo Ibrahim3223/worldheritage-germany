@@ -3,7 +3,7 @@ title: "Skimuseum Augsburg"
 site_name: "Skimuseum Augsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Augsburg"
+description: "Skimuseum Augsburg is a unique museum situated in Augsburg, Germany, dedicated to the rich history and culture of skiing."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

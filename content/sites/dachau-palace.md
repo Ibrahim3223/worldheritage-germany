@@ -3,7 +3,7 @@ title: "Dachau Palace"
 site_name: "Dachau Palace"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Dachau Palace, a historical castle situated in the picturesque region of Dachau, Germany, offers visitors an intriguing glimpse into the architectural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

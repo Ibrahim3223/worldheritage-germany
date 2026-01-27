@@ -3,7 +3,7 @@ title: "St. Peter Kirche"
 site_name: "St. Peter Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Kirchheim, Germany"
+description: "St. Peter Kirche, located in the quaint district of Kirchheim in Heidelberg, Germany, is a significant church building that reflects the region's rich..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

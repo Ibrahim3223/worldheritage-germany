@@ -3,7 +3,7 @@ title: "Jünger-Haus Wilflingen"
 site_name: "Jünger-Haus Wilflingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Jünger-Haus Wilflingen serves as a unique museum located in the quaint town of Langenenslingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kunstquartier Hagen"
 site_name: "Kunstquartier Hagen"
 date: 2026-01-26
 draft: false
-description: "quarter of Hagen (Westfalen), Germany"
+description: "Kunstquartier Hagen is more than just an art museum; it is a cultural hub situated in the heart of Hagen, Westfalen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

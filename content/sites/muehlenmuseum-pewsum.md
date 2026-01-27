@@ -3,7 +3,7 @@ title: "Mühlenmuseum Pewsum"
 site_name: "Mühlenmuseum Pewsum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the quaint town of Pewsum, Germany, the Mühlenmuseum Pewsum is a distinguished windmill museum that offers visitors a fascinating glimpse into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

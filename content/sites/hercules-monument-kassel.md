@@ -3,7 +3,7 @@ title: "Hercules monument, Kassel"
 site_name: "Hercules monument, Kassel"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Hercules monument in Kassel, Germany, is a striking testament to the intersection of art, architecture, and nature."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

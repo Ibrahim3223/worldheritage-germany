@@ -3,7 +3,7 @@ title: "Ebrach Abbey"
 site_name: "Ebrach Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Ebrach Abbey, an illustrious monastery located in the heart of Germany, represents a significant chapter in the religious and architectural heritage of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

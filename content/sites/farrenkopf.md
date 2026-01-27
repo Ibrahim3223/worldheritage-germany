@@ -3,7 +3,7 @@ title: "Farrenkopf"
 site_name: "Farrenkopf"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Farrenkopf is a prominent mountain located in the Ortenau region of Germany, offering visitors an opportunity to explore its natural beauty and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

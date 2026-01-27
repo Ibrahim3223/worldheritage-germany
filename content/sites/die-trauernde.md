@@ -3,7 +3,7 @@ title: "Die Trauernde"
 site_name: "Die Trauernde"
 date: 2026-01-26
 draft: false
-description: "Plastik zum Gedenken der Opfer des Zweiten Weltkriegs"
+description: "Die Trauernde, a poignant memorial located in the Altstadt-Süd region of Germany, serves as a solemn tribute to the victims of World War II."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

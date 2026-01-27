@@ -3,7 +3,7 @@ title: "Museum Osthusschule"
 site_name: "Museum Osthusschule"
 date: 2026-01-26
 draft: false
-description: "museum in Bielefeld, Germany"
+description: "Museum Osthusschule in Bielefeld, Germany, is a unique destination that invites visitors to explore its intriguing collections and exhibitions."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

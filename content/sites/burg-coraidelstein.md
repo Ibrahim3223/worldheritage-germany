@@ -3,7 +3,7 @@ title: "Burg Coraidelstein"
 site_name: "Burg Coraidelstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Coraidelstein, an evocative castle located in Klotten, Germany, invites travelers to explore a blend of medieval architecture and historical intrigue."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

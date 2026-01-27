@@ -3,7 +3,7 @@ title: "Märchenhaus"
 site_name: "Märchenhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Alsfeld, Germany"
+description: "Märchenhaus is a captivating museum located in Alsfeld, Germany, dedicated to the enchanting world of fairy tales and folklore."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

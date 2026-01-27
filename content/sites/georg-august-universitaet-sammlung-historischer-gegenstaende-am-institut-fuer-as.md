@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Sammlung historischer Gegenstände am Institu
 site_name: "Georg-August-Universität: Sammlung historischer Gegenstände am Institut für Astrophysik"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "The Georg-August-Universität: Sammlung historischer Gegenstände am Institut für Astrophysik is a unique museum located in the vibrant academic city of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

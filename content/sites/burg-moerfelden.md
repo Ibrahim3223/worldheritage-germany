@@ -3,7 +3,7 @@ title: "Burg Mörfelden"
 site_name: "Burg Mörfelden"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mörfelden, located in the heart of Mörfelden-Walldorf in Germany, is a captivating example of medieval architecture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

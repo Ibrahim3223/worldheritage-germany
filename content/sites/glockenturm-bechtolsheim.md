@@ -3,7 +3,7 @@ title: "Glockenturm Bechtolsheim"
 site_name: "Glockenturm Bechtolsheim"
 date: 2026-01-26
 draft: false
-description: "bell tower and later museum in Bechtolsheim"
+description: "Glockenturm Bechtolsheim, a fascinating bell tower that has transitioned into a museum, offers visitors a unique glimpse into the rich cultural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Haus Schlesien"
 site_name: "Haus Schlesien"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus Schlesien is a museum located in the picturesque region of Königswinter, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

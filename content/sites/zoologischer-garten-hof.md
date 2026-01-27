@@ -3,7 +3,7 @@ title: "Zoologischer Garten Hof"
 site_name: "Zoologischer Garten Hof"
 date: 2026-01-26
 draft: false
-description: "Zoo in Hof, Bavaria, Germany"
+description: "The Zoologischer Garten Hof, located in the charming town of Hof in Bavaria, Germany, offers a captivating experience for animal lovers and families alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"

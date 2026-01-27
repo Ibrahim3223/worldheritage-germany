@@ -3,7 +3,7 @@ title: "Karl-May-Haus"
 site_name: "Karl-May-Haus"
 date: 2026-01-26
 draft: false
-description: "building and museum in Hohenstein-Ernstthal, Germany"
+description: "Karl-May-Haus is a museum situated in Hohenstein-Ernstthal, Germany, dedicated to the life and works of Karl May, a notable German author known for his..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

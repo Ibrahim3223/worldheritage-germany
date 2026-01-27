@@ -3,7 +3,7 @@ title: "Kleiner Zillmannsee"
 site_name: "Kleiner Zillmannsee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Located in the picturesque Mecklenburgische Seenplatte District of Germany, Kleiner Zillmannsee is a serene lake that captures the essence of the region's..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

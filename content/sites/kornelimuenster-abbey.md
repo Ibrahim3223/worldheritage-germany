@@ -3,7 +3,7 @@ title: "Kornelimünster Abbey"
 site_name: "Kornelimünster Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Germany, attached to the congregation of Subiaco"
+description: "Kornelimünster Abbey, a serene monastic site located in the Kornelimünster/Walheim region of Germany, embodies the contemplative spirit of monastic life."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

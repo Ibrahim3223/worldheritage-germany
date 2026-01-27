@@ -3,7 +3,7 @@ title: "Quedlinburg Abbey"
 site_name: "Quedlinburg Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Quedlinburg, Saxony-Anhalt, Germany"
+description: "Quedlinburg Abbey, a prominent monastery located in the heart of Quedlinburg, Saxony-Anhalt, Germany, is a site steeped in rich heritage and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

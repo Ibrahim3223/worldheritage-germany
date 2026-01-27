@@ -3,7 +3,7 @@ title: "Kirche"
 site_name: "Kirche"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-131-16 (0) in Maßbach, Bavaria"
+description: "In the heart of Bavaria, Kirche stands as a significant cultural heritage monument that encapsulates the architectural and spiritual essence of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

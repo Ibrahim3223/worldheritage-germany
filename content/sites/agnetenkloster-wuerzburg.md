@@ -3,7 +3,7 @@ title: "Agnetenkloster Würzburg"
 site_name: "Agnetenkloster Würzburg"
 date: 2026-01-26
 draft: false
-description: "building in Würzburg, Lower Franconia, Germany"
+description: "Agnetenkloster Würzburg, a historic monastery located in the heart of Würzburg, Germany, offers visitors a profound connection to the spiritual and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

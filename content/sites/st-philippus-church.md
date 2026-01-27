@@ -3,7 +3,7 @@ title: "St.-Philippus church"
 site_name: "St.-Philippus church"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "St.-Philippus Church, located in the Bothfeld-Vahrenheide district of Hannover, Germany, is a significant structure that serves not only as a place of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

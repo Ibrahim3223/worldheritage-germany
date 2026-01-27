@@ -3,7 +3,7 @@ title: "Burg Lichtenberg"
 site_name: "Burg Lichtenberg"
 date: 2026-01-26
 draft: false
-description: "castle in Baden-Württemberg, Germany"
+description: "Perched majestically in the serene landscape of Baden-Württemberg, Germany, Burg Lichtenberg captures the imagination of visitors with its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

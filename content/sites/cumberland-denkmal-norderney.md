@@ -3,7 +3,7 @@ title: "Cumberland-Denkmal Norderney"
 site_name: "Cumberland-Denkmal Norderney"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Cumberland-Denkmal in Norderney is a notable monument that encapsulates the historical and cultural essence of this charming German island."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

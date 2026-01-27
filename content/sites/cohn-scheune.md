@@ -3,7 +3,7 @@ title: "Cohn-Scheune"
 site_name: "Cohn-Scheune"
 date: 2026-01-26
 draft: false
-description: "museum in Rotenburg (Wümme), Germany"
+description: "Cohn-Scheune, located in the charming town of Rotenburg an der Wümme, Germany, serves as a vital cultural institution dedicated to preserving and showcasing..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Karmelitenkirche"
 site_name: "Karmelitenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Old Town, Upper Bavaria, Germany"
+description: "In the heart of Munich's Old Town lies the Karmelitenkirche, a church that encapsulates both spiritual and architectural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

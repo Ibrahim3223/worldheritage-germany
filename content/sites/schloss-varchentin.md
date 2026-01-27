@@ -3,7 +3,7 @@ title: "Schloss Varchentin"
 site_name: "Schloss Varchentin"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Varchentin, a distinguished manor house located in the picturesque region of Varchentin, Germany, stands as an elegant embodiment of historical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

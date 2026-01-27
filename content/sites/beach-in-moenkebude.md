@@ -3,7 +3,7 @@ title: "Beach in Mönkebude"
 site_name: "Beach in Mönkebude"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Mönkebude, a quaint coastal village in Germany, is home to a beautiful beach that offers a tranquil escape along the Baltic Sea."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

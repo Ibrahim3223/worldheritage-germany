@@ -3,7 +3,7 @@ title: "Preacher's Church"
 site_name: "Preacher's Church"
 date: 2026-01-26
 draft: false
-description: "church building in the Old Town of Erfurt, Germany"
+description: "Preacher's Church, located in the historic Old Town of Erfurt, Germany, is a significant architectural and cultural landmark that reflects the city's rich..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

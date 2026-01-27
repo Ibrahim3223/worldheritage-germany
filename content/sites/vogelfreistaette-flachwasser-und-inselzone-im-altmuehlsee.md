@@ -3,7 +3,7 @@ title: "Vogelfreistätte Flachwasser- und Inselzone im Altmühlsee"
 site_name: "Vogelfreistätte Flachwasser- und Inselzone im Altmühlsee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Vogelfreistätte Flachwasser- und Inselzone im Altmühlsee is a designated nature reserve located in the picturesque region of Gunzenhausen, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

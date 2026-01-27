@@ -3,7 +3,7 @@ title: "gatehouse"
 site_name: "gatehouse"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-76-113-32 (2) in Allersberg, Bavaria"
+description: "The Gatehouse in Allersberg, Bavaria, stands as an emblematic cultural heritage monument, inviting visitors to explore its historical significance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

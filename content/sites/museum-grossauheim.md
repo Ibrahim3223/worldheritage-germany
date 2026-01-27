@@ -3,7 +3,7 @@ title: "Museum Großauheim"
 site_name: "Museum Großauheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Großauheim, located in Hanau, Germany, is a vibrant cultural institution that invites visitors to explore the local history and heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

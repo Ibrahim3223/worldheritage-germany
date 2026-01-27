@@ -3,7 +3,7 @@ title: "Oberhessisches Museum, Abt. für Vor- und Frühgeschichte und Völkerkun
 site_name: "Oberhessisches Museum, Abt. für Vor- und Frühgeschichte und Völkerkunde"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Oberhessisches Museum, Abt. für Vor- und Frühgeschichte und Völkerkunde, is a distinguished museum located in the heart of Germany, dedicated to the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

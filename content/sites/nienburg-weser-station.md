@@ -3,7 +3,7 @@ title: "Nienburg (Weser) station"
 site_name: "Nienburg (Weser) station"
 date: 2026-01-26
 draft: false
-description: "railway station in Nienburg/Weser, Germany"
+description: "Nienburg (Weser) station serves as a pivotal transportation hub in the heart of Nienburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

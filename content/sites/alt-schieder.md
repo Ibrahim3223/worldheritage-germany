@@ -3,7 +3,7 @@ title: "Alt-Schieder"
 site_name: "Alt-Schieder"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alt-Schieder, a captivating castle located in the picturesque region of Schieder-Schwalenberg, Germany, serves as a remarkable example of medieval..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

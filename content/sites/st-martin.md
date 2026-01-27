@@ -3,7 +3,7 @@ title: "St. Martin"
 site_name: "St. Martin"
 date: 2026-01-26
 draft: false
-description: "church building in Linden-Limmer, Hannover, Germany"
+description: "St. Martin Church stands as a significant cultural and architectural landmark in Linden-Limmer, Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "KunstHausAbensberg"
 site_name: "KunstHausAbensberg"
 date: 2026-01-26
 draft: false
-description: "Art museum in Germany"
+description: "KunstHausAbensberg is an art museum located in Germany, offering a unique exploration into the world of contemporary art and its myriad expressions."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Lechmuseum Bayern"
 site_name: "Lechmuseum Bayern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Lechmuseum Bayern is a museum located in the charming town of Langweid am Lech, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

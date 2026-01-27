@@ -3,7 +3,7 @@ title: "Heilandskirche"
 site_name: "Heilandskirche"
 date: 2026-01-26
 draft: false
-description: "church in Leipzig, Germany"
+description: "Heilandskirche, a remarkable church building located in the vibrant city of Leipzig, Germany, offers a unique glimpse into the architectural and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

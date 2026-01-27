@@ -3,7 +3,7 @@ title: "Altweiherwiese"
 site_name: "Altweiherwiese"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Altweiherwiese, a serene nature reserve located in Oberteuringen, Germany, is a sanctuary for biodiversity and a testament to the natural beauty found..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

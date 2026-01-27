@@ -3,7 +3,7 @@ title: "Zehntscheune"
 site_name: "Zehntscheune"
 date: 2026-01-26
 draft: false
-description: "building in Detmold, Germany, used as a museum"
+description: "In the heart of Detmold, Germany, lies the Zehntscheune, a museum that showcases a unique blend of history and culture, reflecting the region's agricultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

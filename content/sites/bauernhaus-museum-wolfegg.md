@@ -3,7 +3,7 @@ title: "Bauernhaus-Museum Wolfegg"
 site_name: "Bauernhaus-Museum Wolfegg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bauernhaus-Museum Wolfegg offers a unique glimpse into rural life in Germany, showcasing the agricultural heritage and traditional ways of living from..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Langenrader Windmühle"
 site_name: "Langenrader Windmühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in der Gemeinde Ascheberg im Kreis Plön in Schleswig-Holstein"
+description: "The Langenrader Windmühle is a striking example of traditional windmill architecture located in the municipality of Ascheberg in the Plön district of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Windmill"

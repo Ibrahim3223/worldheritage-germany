@@ -3,7 +3,7 @@ title: "Kulturzentrum Sinsteden"
 site_name: "Kulturzentrum Sinsteden"
 date: 2026-01-26
 draft: false
-description: "Landwirtschafts- und Kunstmuseum in der Gemeinde Rommerskirchen"
+description: "Kulturzentrum Sinsteden holds a unique position in the cultural landscape of Germany’s North Rhine-Westphalia region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

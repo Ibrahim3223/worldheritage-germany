@@ -3,7 +3,7 @@ title: "Hankensbüttel Otter Centre"
 site_name: "Hankensbüttel Otter Centre"
 date: 2026-01-26
 draft: false
-description: "zoo in Gifhorn, Germany"
+description: "The Hankensbüttel Otter Centre, located in the picturesque region of Hankensbüttel, Germany, is a unique zoological park dedicated primarily to the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

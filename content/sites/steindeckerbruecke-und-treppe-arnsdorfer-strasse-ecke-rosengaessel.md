@@ -3,7 +3,7 @@ title: "Steindeckerbrücke und Treppe Arnsdorfer Straße (Ecke Rosengässel)"
 site_name: "Steindeckerbrücke und Treppe Arnsdorfer Straße (Ecke Rosengässel)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke und Treppe Arnsdorfer Straße (Ecke Rosengässel) is a bridge that captures the essence of its surrounding region in Waldhufen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

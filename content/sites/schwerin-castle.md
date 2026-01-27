@@ -3,7 +3,7 @@ title: "Schwerin Castle"
 site_name: "Schwerin Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Schwerin Castle, an architectural landmark located in the heart of Schwerin, Germany, is a striking example of romantic historicism."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Landmark"

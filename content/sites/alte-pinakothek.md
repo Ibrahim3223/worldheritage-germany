@@ -3,7 +3,7 @@ title: "Alte Pinakothek"
 site_name: "Alte Pinakothek"
 date: 2026-01-26
 draft: false
-description: "art museum in Munich, Germany"
+description: "Located in the vibrant city of Munich, Germany, the Alte Pinakothek is a premier art museum that houses one of the most significant collections of European..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

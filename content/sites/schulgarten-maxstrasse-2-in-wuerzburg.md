@@ -3,7 +3,7 @@ title: "Schulgarten Maxstraße 2 in Würzburg"
 site_name: "Schulgarten Maxstraße 2 in Würzburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-754 (1) in Würzburg, Bavaria"
+description: "Schulgarten Maxstraße 2 in Würzburg is a serene garden that offers an escape into nature amidst the vibrant urban environment of this historic Bavarian city."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

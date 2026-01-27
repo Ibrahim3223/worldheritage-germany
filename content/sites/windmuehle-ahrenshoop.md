@@ -3,7 +3,7 @@ title: "Windmühle Ahrenshoop"
 site_name: "Windmühle Ahrenshoop"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Ahrenshoop, Mecklenburg-Vorpommern"
+description: "Windmühle Ahrenshoop, located in the charming coastal village of Ahrenshoop in Mecklenburg-Vorpommern, Germany, is a captivating example of traditional..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"

@@ -3,7 +3,7 @@ title: "Museum Villa Haiss"
 site_name: "Museum Villa Haiss"
 date: 2026-01-26
 draft: false
-description: "art museum in Germany"
+description: "Museum Villa Haiss is a captivating art museum located in Zell am Harmersbach, Germany, that invites visitors to explore the depth of artistic expression..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

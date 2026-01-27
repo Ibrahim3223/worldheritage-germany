@@ -3,7 +3,7 @@ title: "Kapelle Schönberg"
 site_name: "Kapelle Schönberg"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Kapelle Schönberg is a serene chapel located in the picturesque region of Schrecksbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

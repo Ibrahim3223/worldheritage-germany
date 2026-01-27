@@ -3,7 +3,7 @@ title: "Dreetzsee"
 site_name: "Dreetzsee"
 date: 2026-01-26
 draft: false
-description: "lake in Feldberger Seenlandschaft, Mecklenburg-Vorpommern, Germany"
+description: "Dreetzsee is a captivating lake situated in the enchanting Feldberger Seenlandschaft, a region known for its stunning natural beauty in..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

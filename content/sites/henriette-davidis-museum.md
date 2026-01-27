@@ -3,7 +3,7 @@ title: "Henriette-Davidis-Museum"
 site_name: "Henriette-Davidis-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Henriette-Davidis-Museum, located in the picturesque region of Wengern, Germany, serves as a cultural hub dedicated to culinary arts and the legacy of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

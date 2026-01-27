@@ -3,7 +3,7 @@ title: "Salvatorberg"
 site_name: "Salvatorberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Salvatorberg, a prominent mountain located in the Aachen region of Germany, offers visitors not just a natural landscape but also a touchpoint for learning..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "St. Michaelis in Braunschweig"
 site_name: "St. Michaelis in Braunschweig"
 date: 2026-01-26
 draft: false
-description: "church building in Brunswick, Germany"
+description: "St. Michaelis in Braunschweig is an architectural and cultural landmark that encapsulates centuries of history and spirituality."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

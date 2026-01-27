@@ -3,7 +3,7 @@ title: "Ritterhaus Museum"
 site_name: "Ritterhaus Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ritterhaus Museum, located in the charming town of Offenburg, Germany, serves as a notable cultural institution that invites visitors to explore the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

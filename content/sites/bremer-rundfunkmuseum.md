@@ -3,7 +3,7 @@ title: "Bremer Rundfunkmuseum"
 site_name: "Bremer Rundfunkmuseum"
 date: 2026-01-26
 draft: false
-description: "radio museum in Bremen, Germany"
+description: "In the heart of Bremen, Germany, lies the Bremer Rundfunkmuseum, an engaging museum dedicated to the evolution of radio broadcasting."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

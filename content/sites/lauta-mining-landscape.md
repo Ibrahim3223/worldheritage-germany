@@ -3,7 +3,7 @@ title: "Lauta Mining Landscape"
 site_name: "Lauta Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Lauta Mining Landscape, located in the Marienberg region of Germany, is an intriguing cultural landscape that reveals the historical significance of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

@@ -3,7 +3,7 @@ title: "Rheingauer Dom"
 site_name: "Rheingauer Dom"
 date: 2026-01-26
 draft: false
-description: "Catholic parish church in Geisenheim, Germany"
+description: "In the charming town of Geisenheim, Germany, the Rheingauer Dom stands as a prominent example of Catholic architecture, inviting visitors to explore its..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

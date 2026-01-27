@@ -3,7 +3,7 @@ title: "Unkel station"
 site_name: "Unkel station"
 date: 2026-01-26
 draft: false
-description: "railway station in Unkel, Germany"
+description: "Unkel station, a railway station located in the charming town of Unkel, Germany, serves as a vital link for both local commuters and travelers exploring..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

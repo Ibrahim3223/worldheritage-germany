@@ -3,7 +3,7 @@ title: "Eisernes Kreuz"
 site_name: "Eisernes Kreuz"
 date: 2026-01-26
 draft: false
-description: "war memorial in Klötze, Germany"
+description: "The Eisernes Kreuz, or Iron Cross, stands as a poignant monument in Klötze, Germany, commemorating the sacrifices made during times of conflict."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Hühnerberg"
 site_name: "Hühnerberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Hühnerberg is a remarkable mountain located in the picturesque region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

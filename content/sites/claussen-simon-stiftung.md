@@ -3,7 +3,7 @@ title: "Claussen Simon Stiftung"
 site_name: "Claussen Simon Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Claussen Simon Stiftung, located in the vibrant city of Hamburg, Germany, is a notable foundation that plays a significant role in the cultural..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

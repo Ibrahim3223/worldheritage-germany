@@ -3,7 +3,7 @@ title: "Museum Modern Art Hünfeld"
 site_name: "Museum Modern Art Hünfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum Modern Art Hünfeld serves as a vibrant cultural institution in the heart of Germany, dedicated to contemporary art and its myriad expressions."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

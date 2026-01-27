@@ -3,7 +3,7 @@ title: "Berliner Arbeiter- und Studententheater"
 site_name: "Berliner Arbeiter- und Studententheater"
 date: 2026-01-26
 draft: false
-description: "Studiotheater der Hochschule für Schauspielkunst „Ernst Busch“ Berlin"
+description: "The Berliner Arbeiter- und Studententheater, a prominent theatre building in Berlin, represents a fusion of artistry and educational ambition."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Geißkopf"
 site_name: "Geißkopf"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Geißkopf is a prominent mountain located in Bavaria, Germany, known for its stunning landscapes and outdoor recreational opportunities."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

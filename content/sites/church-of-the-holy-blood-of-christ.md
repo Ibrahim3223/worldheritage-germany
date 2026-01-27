@@ -3,7 +3,7 @@ title: "Church of the Holy Blood of Christ"
 site_name: "Church of the Holy Blood of Christ"
 date: 2026-01-26
 draft: false
-description: "church building in Armsheim, Rhineland-Palatinate, Germany"
+description: "The Church of the Holy Blood of Christ in Armsheim, Germany, serves as a significant religious and cultural landmark within the Rhineland-Palatinate region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

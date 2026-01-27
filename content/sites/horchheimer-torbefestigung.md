@@ -3,7 +3,7 @@ title: "Horchheimer Torbefestigung"
 site_name: "Horchheimer Torbefestigung"
 date: 2026-01-26
 draft: false
-description: "fortification in Koblenz, Germany"
+description: "The Horchheimer Torbefestigung, a notable fortification located in the historic city of Koblenz, Germany, offers visitors a glimpse into the region's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"

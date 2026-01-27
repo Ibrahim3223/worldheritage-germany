@@ -3,7 +3,7 @@ title: "Antoniterkloster Eicha"
 site_name: "Antoniterkloster Eicha"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "In the serene landscape of Naunhof, Germany, the Antoniterkloster Eicha stands as a historical monument reflecting the essence of monastic life."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monastery"

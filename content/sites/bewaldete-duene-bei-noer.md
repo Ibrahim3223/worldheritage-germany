@@ -3,7 +3,7 @@ title: "Bewaldete Düne bei Noer"
 site_name: "Bewaldete Düne bei Noer"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "The Bewaldete Düne bei Noer, located in the scenic region of Schleswig-Holstein, Germany, is a captivating nature reserve that offers a unique glimpse into..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

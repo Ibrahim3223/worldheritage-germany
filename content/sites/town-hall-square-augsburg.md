@@ -3,7 +3,7 @@ title: "Town hall square (Augsburg)"
 site_name: "Town hall square (Augsburg)"
 date: 2026-01-26
 draft: false
-description: "urban square"
+description: "Town Hall Square in Augsburg, Germany, serves as a vibrant urban hub where history, culture, and community converge."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

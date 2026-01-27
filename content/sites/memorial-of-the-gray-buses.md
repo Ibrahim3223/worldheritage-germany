@@ -3,7 +3,7 @@ title: "Memorial of the Gray Buses"
 site_name: "Memorial of the Gray Buses"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Memorial of the Gray Buses stands as a poignant monument in Ravensburg, Germany, honoring the victims of the Holocaust."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

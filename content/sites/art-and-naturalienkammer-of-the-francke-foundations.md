@@ -3,7 +3,7 @@ title: "Art and Naturalienkammer of the Francke Foundations"
 site_name: "Art and Naturalienkammer of the Francke Foundations"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Art and Naturalienkammer of the Francke Foundations is a captivating museum located in Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

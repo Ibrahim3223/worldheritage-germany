@@ -3,7 +3,7 @@ title: "Erlöserkirche (Bad Honnef)"
 site_name: "Erlöserkirche (Bad Honnef)"
 date: 2026-01-26
 draft: false
-description: "church in Bad Honnef, Germany"
+description: "Erlöserkirche, or the Church of the Redeemer, is a notable religious structure located in Bad Honnef, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

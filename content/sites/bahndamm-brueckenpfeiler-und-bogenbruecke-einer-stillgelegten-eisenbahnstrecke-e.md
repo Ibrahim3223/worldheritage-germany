@@ -3,7 +3,7 @@ title: "Bahndamm, Brückenpfeiler und Bogenbrücke einer stillgelegten Eisenbahn
 site_name: "Bahndamm, Brückenpfeiler und Bogenbrücke einer stillgelegten Eisenbahnstrecke Ebersbach (bei Großenhain)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bahndamm, Brückenpfeiler und Bogenbrücke einer stillgelegten Eisenbahnstrecke in Ebersbach, located in Germany, represents a fascinating intersection of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

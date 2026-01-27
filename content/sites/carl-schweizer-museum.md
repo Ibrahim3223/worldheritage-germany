@@ -3,7 +3,7 @@ title: "Carl-Schweizer-Museum"
 site_name: "Carl-Schweizer-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the serene town of Murrhardt, Germany, the Carl-Schweizer-Museum invites visitors to explore the intricate cultural and historical narratives..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

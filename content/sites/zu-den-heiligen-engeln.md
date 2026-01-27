@@ -3,7 +3,7 @@ title: "Zu den heiligen Engeln"
 site_name: "Zu den heiligen Engeln"
 date: 2026-01-26
 draft: false
-description: "Catholic parish church"
+description: "Located in the Kirchrode-Bemerode-Wülferode region of Germany, Zu den heiligen Engeln is a Catholic parish church that serves as an important center of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

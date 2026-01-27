@@ -3,7 +3,7 @@ title: "Fischertor Augsburg"
 site_name: "Fischertor Augsburg"
 date: 2026-01-26
 draft: false
-description: "building in Augsburg, Swabia, Germany"
+description: "The Fischertor in Augsburg stands as an iconic remnant of the city's medieval fortifications, showcasing the architectural and historical significance of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

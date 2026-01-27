@@ -3,7 +3,7 @@ title: "Güllener Ring"
 site_name: "Güllener Ring"
 date: 2026-01-26
 draft: false
-description: "Wallburg in Sundern (Sauerland), Nordrhein-Westfalen, Deutschland"
+description: "Güllener Ring is a fascinating hillfort located in the Sundern region of Nordrhein-Westfalen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"

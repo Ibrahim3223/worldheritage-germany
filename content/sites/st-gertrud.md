@@ -3,7 +3,7 @@ title: "St. Gertrud"
 site_name: "St. Gertrud"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg-Uhlenhorst, Germany"
+description: "St. Gertrud is a striking church building located in the Hamburg-Uhlenhorst district of Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

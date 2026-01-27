@@ -3,7 +3,7 @@ title: "Wasch- und Badehaus Schäfflerbachstraße Augsburg"
 site_name: "Wasch- und Badehaus Schäfflerbachstraße Augsburg"
 date: 2026-01-26
 draft: false
-description: "building in Augsburg, Swabia, Germany"
+description: "In the heart of Augsburg, Germany, the Wasch- und Badehaus Schäfflerbachstraße stands as a significant cultural landmark, reflecting the rich tapestry of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

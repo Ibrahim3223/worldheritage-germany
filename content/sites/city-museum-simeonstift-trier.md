@@ -3,7 +3,7 @@ title: "City Museum Simeonstift, Trier"
 site_name: "City Museum Simeonstift, Trier"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Trier, Germany's oldest city, lies the City Museum Simeonstift, an art museum that invites visitors to explore the cultural heritage of the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Art Museum"

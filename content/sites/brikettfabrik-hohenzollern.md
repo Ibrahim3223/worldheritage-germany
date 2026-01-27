@@ -3,7 +3,7 @@ title: "Brikettfabrik Hohenzollern"
 site_name: "Brikettfabrik Hohenzollern"
 date: 2026-01-26
 draft: false
-description: "former factory building in Bad Liebenwerda, Germany"
+description: "Brikettfabrik Hohenzollern is a former factory located in Bad Liebenwerda, Germany, that reflects the industrial heritage of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"

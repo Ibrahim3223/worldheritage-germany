@@ -3,7 +3,7 @@ title: "Evangelische Hauptkirche Rheydt"
 site_name: "Evangelische Hauptkirche Rheydt"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Mönchengladbach, Germany, the Evangelische Hauptkirche Rheydt invites all who seek a deeper understanding of the region's cultural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

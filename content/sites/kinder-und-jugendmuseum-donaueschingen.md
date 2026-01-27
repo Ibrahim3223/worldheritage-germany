@@ -3,7 +3,7 @@ title: "Kinder- und Jugendmuseum Donaueschingen"
 site_name: "Kinder- und Jugendmuseum Donaueschingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kinder- und Jugendmuseum Donaueschingen serves as an engaging destination dedicated to the exploration and understanding of childhood and youth from..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

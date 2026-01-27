@@ -3,7 +3,7 @@ title: "Christus- und Garnisonkirche"
 site_name: "Christus- und Garnisonkirche"
 date: 2026-01-26
 draft: false
-description: "church in Wilhelmshaven, Germany"
+description: "In the heart of Wilhelmshaven, Germany, the Christus- und Garnisonkirche serves as a striking example of ecclesiastical architecture, embodying both the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

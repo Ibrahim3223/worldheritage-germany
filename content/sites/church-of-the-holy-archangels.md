@@ -3,7 +3,7 @@ title: "Church of the holy Archangels"
 site_name: "Church of the holy Archangels"
 date: 2026-01-26
 draft: false
-description: "church building in Juist, Germany"
+description: "The Church of the Holy Archangels is a striking example of faith and community on the serene island of Juist, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Schloss Söder"
 site_name: "Schloss Söder"
 date: 2026-01-26
 draft: false
-description: "château in Germany"
+description: "Schloss Söder, a distinguished manor house located in the picturesque region of Holle, Germany, invites visitors to explore its elegant architecture and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

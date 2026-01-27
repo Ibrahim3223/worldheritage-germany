@@ -3,7 +3,7 @@ title: "Brauerei Max Leibinger"
 site_name: "Brauerei Max Leibinger"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Brauerei Max Leibinger, situated in the heart of Germany, is a brewery that encapsulates the essence of German brewing traditions."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

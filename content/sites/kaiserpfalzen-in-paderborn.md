@@ -3,7 +3,7 @@ title: "Kaiserpfalzen in Paderborn"
 site_name: "Kaiserpfalzen in Paderborn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kaiserpfalzen in Paderborn serves as a remarkable museum dedicated to the rich historical tapestry of this ancient city in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

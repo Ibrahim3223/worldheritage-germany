@@ -3,7 +3,7 @@ title: "Komturkirche Nieder-Weisel"
 site_name: "Komturkirche Nieder-Weisel"
 date: 2026-01-26
 draft: false
-description: "church building in Nieder-Weisel, Germany"
+description: "The Komturkirche Nieder-Weisel, located in the serene village of Nieder-Weisel in Germany, is a notable church building that encapsulates the architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

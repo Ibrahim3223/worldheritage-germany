@@ -3,7 +3,7 @@ title: "Church of St Cornelius"
 site_name: "Church of St Cornelius"
 date: 2026-01-26
 draft: false
-description: "roman-catholic church building in Rath/Heumar, Germany"
+description: "The Church of St Cornelius, located in Rath/Heumar, North Rhine-Westphalia, Germany, serves as a prominent example of Roman Catholic architecture in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

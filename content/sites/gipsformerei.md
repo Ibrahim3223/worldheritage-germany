@@ -3,7 +3,7 @@ title: "Gipsformerei"
 site_name: "Gipsformerei"
 date: 2026-01-26
 draft: false
-description: "Staatliche Museen’s Gipsformerei (Replica Workshop)"
+description: "In the heart of Berlin lies Gipsformerei, a unique museum dedicated to the art of replication and the preservation of cultural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

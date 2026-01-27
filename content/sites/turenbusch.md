@@ -3,7 +3,7 @@ title: "Turenbusch"
 site_name: "Turenbusch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Spenge, North Rhine-Westphalia, Germany"
+description: "Turenbusch, located in Spenge, North Rhine-Westphalia, Germany, is a captivating nature reserve that offers a serene escape into the heart of Germany's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

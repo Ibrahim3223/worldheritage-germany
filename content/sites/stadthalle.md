@@ -3,7 +3,7 @@ title: "Stadthalle"
 site_name: "Stadthalle"
 date: 2026-01-26
 draft: false
-description: "former multi-purpose hall in Bonn, Germany"
+description: "The Stadthalle is a significant cultural landmark located in the heart of Bonn, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

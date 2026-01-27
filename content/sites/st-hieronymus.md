@@ -3,7 +3,7 @@ title: "St. Hieronymus"
 site_name: "St. Hieronymus"
 date: 2026-01-26
 draft: false
-description: "church building in Alesheim, Middle Franconia, Germany"
+description: "St. Hieronymus, a quaint church building located in Alesheim, Middle Franconia, Germany, is a reflective space that invites visitors to delve into the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

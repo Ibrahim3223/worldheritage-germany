@@ -3,7 +3,7 @@ title: "Lotharinger Chorfrauenkirche"
 site_name: "Lotharinger Chorfrauenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Münster, Germany"
+description: "The Lotharinger Chorfrauenkirche, a church building located in the heart of Münster, Germany, stands as a significant landmark reflecting the architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

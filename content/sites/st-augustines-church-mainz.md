@@ -3,7 +3,7 @@ title: "St. Augustine's church (Mainz)"
 site_name: "St. Augustine's church (Mainz)"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "St. Augustine's Church in Mainz, Germany, is an enduring symbol of the city's historical and spiritual landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

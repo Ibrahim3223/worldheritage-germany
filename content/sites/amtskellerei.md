@@ -3,7 +3,7 @@ title: "Amtskellerei"
 site_name: "Amtskellerei"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-76-139-124 (0) in Miltenberg, Bavaria"
+description: "Amtskellerei, located in the quaint town of Miltenberg, Bavaria, serves as a notable cultural heritage monument that captivates visitors with its historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

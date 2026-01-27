@@ -3,7 +3,7 @@ title: "Museum für Neue Kunst Karlsruhe"
 site_name: "Museum für Neue Kunst Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Museum für Neue Kunst Karlsruhe is a vibrant institution dedicated to contemporary art, located in the heart of Karlsruhe, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

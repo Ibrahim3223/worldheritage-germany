@@ -3,7 +3,7 @@ title: "Gut Seekamp"
 site_name: "Gut Seekamp"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Seekamp is a distinguished manor house located in the Kiel region of Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

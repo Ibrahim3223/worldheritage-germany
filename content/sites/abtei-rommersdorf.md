@@ -3,7 +3,7 @@ title: "Abtei Rommersdorf"
 site_name: "Abtei Rommersdorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Abtei Rommersdorf, a serene and contemplative monastery located in Neuwied, Germany, invites visitors to explore its profound spiritual heritage and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

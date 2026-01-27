@@ -3,7 +3,7 @@ title: "Mittelrhein-Museum"
 site_name: "Mittelrhein-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Koblenz, Germany"
+description: "The Mittelrhein-Museum, located in the heart of Koblenz, Germany, serves as a cultural hub that showcases the rich artistic heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

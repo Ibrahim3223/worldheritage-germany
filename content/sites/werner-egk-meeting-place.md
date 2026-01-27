@@ -3,7 +3,7 @@ title: "Werner Egk Meeting Place"
 site_name: "Werner Egk Meeting Place"
 date: 2026-01-26
 draft: false
-description: "museum in Donauwörth, Bavaria, Germany"
+description: "The Werner Egk Meeting Place stands as a significant memorial in Donauwörth, Bavaria, Germany, dedicated to the legacy of the renowned composer Werner Egk."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

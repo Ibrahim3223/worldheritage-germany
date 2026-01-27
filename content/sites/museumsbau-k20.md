@@ -3,7 +3,7 @@ title: "Museumsbau K20"
 site_name: "Museumsbau K20"
 date: 2026-01-26
 draft: false
-description: "museum building in Düsseldorf, Germany"
+description: "In the heart of Düsseldorf, Germany, the Museumsbau K20 stands as a distinguished art museum, reflecting the city’s commitment to cultural enrichment and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

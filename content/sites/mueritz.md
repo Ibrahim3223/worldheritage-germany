@@ -3,7 +3,7 @@ title: "Müritz"
 site_name: "Müritz"
 date: 2026-01-26
 draft: false
-description: "large lake in Mecklenburg-Vorpommern, Germany"
+description: "Müritz, the largest lake in the German state of Mecklenburg-Vorpommern, is a crown jewel of the Mecklenburgische Seenplatte District."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

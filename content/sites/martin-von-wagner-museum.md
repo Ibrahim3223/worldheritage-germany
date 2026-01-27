@@ -3,7 +3,7 @@ title: "Martin von Wagner Museum"
 site_name: "Martin von Wagner Museum"
 date: 2026-01-26
 draft: false
-description: "art and antiquities museum in Würzburg, Germany"
+description: "The Martin von Wagner Museum, located in the heart of Würzburg, Germany, is a distinguished destination for art and antiquities enthusiasts."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

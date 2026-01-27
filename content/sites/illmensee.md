@@ -3,7 +3,7 @@ title: "Illmensee"
 site_name: "Illmensee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Illmensee is a serene lake situated in the picturesque region of Illmensee, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Bornbachtal"
 site_name: "Bornbachtal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bornbachtal, located in the picturesque region of Wrestedt in Lower Saxony, Germany, is a designated nature reserve that exemplifies the beauty and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

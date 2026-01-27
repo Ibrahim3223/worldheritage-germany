@@ -3,7 +3,7 @@ title: "House of the Wannsee Conference"
 site_name: "House of the Wannsee Conference"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The House of the Wannsee Conference, located in Berlin, Germany, is a museum that stands as a critical site for understanding the Holocaust and the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

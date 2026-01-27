@@ -3,7 +3,7 @@ title: "Frauenkirche"
 site_name: "Frauenkirche"
 date: 2026-01-26
 draft: false
-description: "parish church in Nuremberg, Germany"
+description: "In the heart of Nuremberg, Germany, the Frauenkirche stands as a remarkable parish church that encapsulates the city’s rich cultural and spiritual heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

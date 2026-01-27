@@ -3,7 +3,7 @@ title: "Burg Neuenstein"
 site_name: "Burg Neuenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuenstein is a captivating castle located in the picturesque region of Lautenbach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

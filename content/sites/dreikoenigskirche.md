@@ -3,7 +3,7 @@ title: "Dreikönigskirche"
 site_name: "Dreikönigskirche"
 date: 2026-01-26
 draft: false
-description: "church in Dresden"
+description: "Dreikönigskirche, a notable church building located in Dresden, Germany, is not just a place of worship; it is a significant landmark that holds a special..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

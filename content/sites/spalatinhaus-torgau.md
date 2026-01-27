@@ -3,7 +3,7 @@ title: "Spalatinhaus Torgau"
 site_name: "Spalatinhaus Torgau"
 date: 2026-01-26
 draft: false
-description: "museum in Torgau, Saxony, Germany"
+description: "Located in the historic town of Torgau, Saxony, Germany, Spalatinhaus stands as a museum dedicated to the rich cultural heritage of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schweriner See"
 site_name: "Schweriner See"
 date: 2026-01-26
 draft: false
-description: "lake in Nordwestmecklenburg District, Mecklenburg-Vorpommern, Germany"
+description: "Schweriner See, a picturesque lake situated in the Nordwestmecklenburg District of Mecklenburg-Vorpommern, Germany, is a captivating destination for nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Offenburg)"
 site_name: "Dreifaltigkeitskirche (Offenburg)"
 date: 2026-01-26
 draft: false
-description: "church building in Offenburg, Baden-Württemberg, Germany"
+description: "The Dreifaltigkeitskirche, or Church of the Holy Trinity, stands as a prominent landmark in Offenburg, Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

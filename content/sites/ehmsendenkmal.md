@@ -3,7 +3,7 @@ title: "Ehmsendenkmal"
 site_name: "Ehmsendenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Arnsberg, Germany"
+description: "The Ehmsendenkmal, a notable monument located in the heart of Arnsberg, Germany, serves as a significant cultural landmark that reflects the region's rich..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

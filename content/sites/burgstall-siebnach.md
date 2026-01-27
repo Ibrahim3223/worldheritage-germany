@@ -3,7 +3,7 @@ title: "Burgstall Siebnach"
 site_name: "Burgstall Siebnach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgstall Siebnach is a captivating castle located in the charming region of Ettringen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

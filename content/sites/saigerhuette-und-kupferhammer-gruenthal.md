@@ -3,7 +3,7 @@ title: "Saigerhütte und Kupferhammer Grünthal"
 site_name: "Saigerhütte und Kupferhammer Grünthal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Saigerhütte und Kupferhammer Grünthal is a museum located in the historic region of Olbernhau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

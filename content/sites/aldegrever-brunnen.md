@@ -3,7 +3,7 @@ title: "Aldegrever-Brunnen"
 site_name: "Aldegrever-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "Aldegrever-Brunnen, a charming fountain located in Soest, Germany, serves as a delightful focal point for both locals and visitors."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"

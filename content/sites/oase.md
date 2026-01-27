@@ -3,7 +3,7 @@ title: "Oase"
 site_name: "Oase"
 date: 2026-01-26
 draft: false
-description: "former swimming pool in Essen, Germany"
+description: "Oase, a unique architectural ensemble located in Essen, Germany, offers visitors a glimpse into the innovative designs of modern architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

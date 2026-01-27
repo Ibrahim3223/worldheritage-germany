@@ -3,7 +3,7 @@ title: "Ditzum Church (Ditzum)"
 site_name: "Ditzum Church (Ditzum)"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Saxony, Germany"
+description: "Ditzum Church, located in the quaint village of Ditzum in Lower Saxony, Germany, is a remarkable example of ecclesiastical architecture and community spirit."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

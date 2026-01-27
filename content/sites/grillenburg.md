@@ -3,7 +3,7 @@ title: "Grillenburg"
 site_name: "Grillenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Grillenburg is a captivating castle located in the Sangerhausen region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

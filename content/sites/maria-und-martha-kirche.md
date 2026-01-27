@@ -3,7 +3,7 @@ title: "Maria- und Martha-Kirche"
 site_name: "Maria- und Martha-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Maria- und Martha-Kirche, a notable church building located in Bautzen, Germany, offers visitors a glimpse into the region's architectural and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

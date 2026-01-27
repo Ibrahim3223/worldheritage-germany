@@ -3,7 +3,7 @@ title: "Barbara-Denkmal"
 site_name: "Barbara-Denkmal"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Barbara-Denkmal, an architectural monument located in Koblenz, Germany, serves as a striking tribute to historical narratives and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

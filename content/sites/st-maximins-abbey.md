@@ -3,7 +3,7 @@ title: "St. Maximin's Abbey"
 site_name: "St. Maximin's Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine monastery in Trier, Germany"
+description: "Set against the backdrop of the historic region of Trier, St. Maximin's Abbey is a former Benedictine monastery that offers a glimpse into the architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

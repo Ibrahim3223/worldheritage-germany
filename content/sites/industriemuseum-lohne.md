@@ -3,7 +3,7 @@ title: "Industriemuseum Lohne"
 site_name: "Industriemuseum Lohne"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Industriemuseum Lohne presents an intriguing glimpse into the industrial heritage of Germany, particularly focusing on the region's manufacturing history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

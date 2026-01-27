@@ -3,7 +3,7 @@ title: "Kunsthaus Rietberg – Museum Wilfried Koch"
 site_name: "Kunsthaus Rietberg – Museum Wilfried Koch"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Situated in the charming town of Rietberg in Germany, Kunsthaus Rietberg – Museum Wilfried Koch serves as a vibrant hub for art enthusiasts and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

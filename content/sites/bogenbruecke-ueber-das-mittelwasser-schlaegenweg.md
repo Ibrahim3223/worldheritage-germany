@@ -3,7 +3,7 @@ title: "Bogenbrücke über das Mittelwasser Schlägenweg"
 site_name: "Bogenbrücke über das Mittelwasser Schlägenweg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über das Mittelwasser Schlägenweg, a remarkable bridge located in the scenic Wachau region of Germany, embodies both a functional structure..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

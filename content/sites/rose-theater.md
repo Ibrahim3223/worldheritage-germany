@@ -3,7 +3,7 @@ title: "Rose-Theater"
 site_name: "Rose-Theater"
 date: 2026-01-26
 draft: false
-description: "theater in Berlin"
+description: "Located in the vibrant heart of Berlin, the Rose-Theater is a prominent theatre building that encapsulates the essence of the city's cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

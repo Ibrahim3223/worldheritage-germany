@@ -3,7 +3,7 @@ title: "Rauschenberg Local History Museum"
 site_name: "Rauschenberg Local History Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rauschenberg Local History Museum represents an essential portal into the local culture and heritage of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

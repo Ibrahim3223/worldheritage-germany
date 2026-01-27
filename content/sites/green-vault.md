@@ -3,7 +3,7 @@ title: "Green Vault"
 site_name: "Green Vault"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden, Germany"
+description: "The Green Vault, located in the heart of Dresden, Germany, is a renowned museum celebrated for its extraordinary collection of art and artifacts."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

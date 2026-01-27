@@ -3,7 +3,7 @@ title: "Zoo Dortmund"
 site_name: "Zoo Dortmund"
 date: 2026-01-26
 draft: false
-description: "zoo in Dortmund, Germany"
+description: "Zoo Dortmund, located in the vibrant city of Dortmund, Germany, serves as a captivating destination for animal lovers and families alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

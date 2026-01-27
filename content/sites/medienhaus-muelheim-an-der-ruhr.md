@@ -3,7 +3,7 @@ title: "Medienhaus Mülheim an der Ruhr"
 site_name: "Medienhaus Mülheim an der Ruhr"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Mülheim an der Ruhr, a city steeped in industrial heritage and cultural vibrancy, lies the Medienhaus Mülheim an der Ruhr."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

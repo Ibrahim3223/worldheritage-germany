@@ -3,7 +3,7 @@ title: "Ludwig Erhard Center"
 site_name: "Ludwig Erhard Center"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ludwig Erhard Center in Fürth, Germany, is a museum dedicated to the legacy of one of the most influential figures in post-World War II Germany, Ludwig..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

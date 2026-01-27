@@ -3,7 +3,7 @@ title: "Church in Passee"
 site_name: "Church in Passee"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Passee stands as a significant landmark in the quaint region of Passee, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

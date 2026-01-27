@@ -3,7 +3,7 @@ title: "Hamburg-Altona station"
 site_name: "Hamburg-Altona station"
 date: 2026-01-26
 draft: false
-description: "railway station in Hamburg, Germany"
+description: "Hamburg-Altona station serves as a vital transportation hub in Hamburg, Germany, linking the district of Altona with various destinations across the country..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"

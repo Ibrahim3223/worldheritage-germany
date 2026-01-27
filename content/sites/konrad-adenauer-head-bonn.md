@@ -3,7 +3,7 @@ title: "Konrad Adenauer head (Bonn)"
 site_name: "Konrad Adenauer head (Bonn)"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Bonn"
+description: "In the heart of Bonn, Germany, stands the Konrad Adenauer head, a striking monument dedicated to one of the nation’s most influential political figures."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Neubrandenburg Regional Museum"
 site_name: "Neubrandenburg Regional Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Neubrandenburg Regional Museum is a significant cultural institution located in the heart of Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

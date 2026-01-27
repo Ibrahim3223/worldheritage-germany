@@ -3,7 +3,7 @@ title: "Aquädukt Obernau"
 site_name: "Aquädukt Obernau"
 date: 2026-01-26
 draft: false
-description: "Römischer Aquädukt"
+description: "The Aquädukt Obernau stands as an impressive remnant of Roman engineering, located in Neustetten, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"

@@ -3,7 +3,7 @@ title: "Elektrotechnisches Museum Leutkirch e.V."
 site_name: "Elektrotechnisches Museum Leutkirch e.V."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Elektrotechnisches Museum Leutkirch e.V. stands as a testament to the evolution of electrical engineering and technology in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

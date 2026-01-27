@@ -3,7 +3,7 @@ title: "Trinitatiskirche"
 site_name: "Trinitatiskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Neuendorf bei Elmshorn, Schleswig-Holstein, Germany"
+description: "Trinitatiskirche, an elegant church building located in Neuendorf bei Elmshorn, Schleswig-Holstein, Germany, serves as a significant landmark in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "University of Karlsruhe"
 site_name: "University of Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "university in Karlsruhe (1967–2009), replaced by KIT"
+description: "The University of Karlsruhe, once a prestigious institution in the heart of Germany, played a pivotal role in shaping technology and education before its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"

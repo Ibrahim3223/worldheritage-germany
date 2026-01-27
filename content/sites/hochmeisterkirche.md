@@ -3,7 +3,7 @@ title: "Hochmeisterkirche"
 site_name: "Hochmeisterkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Hochmeisterkirche, a distinguished church building located in the Charlottenburg-Wilmersdorf district of Berlin, is a significant architectural and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

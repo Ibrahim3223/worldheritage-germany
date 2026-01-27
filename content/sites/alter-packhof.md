@@ -3,7 +3,7 @@ title: "Alter Packhof"
 site_name: "Alter Packhof"
 date: 2026-01-26
 draft: false
-description: "former goods storage area in Berlin"
+description: "Alter Packhof, located in the Bezirk Mitte district of Berlin, represents a fascinating chapter in the city’s architectural narrative."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

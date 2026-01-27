@@ -3,7 +3,7 @@ title: "St. Odilia"
 site_name: "St. Odilia"
 date: 2026-01-26
 draft: false
-description: "church building in Dormagen, Germany"
+description: "St. Odilia is an ecclesiastical structure located in the town of Dormagen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

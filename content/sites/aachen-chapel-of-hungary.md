@@ -3,7 +3,7 @@ title: "Aachen Chapel of Hungary"
 site_name: "Aachen Chapel of Hungary"
 date: 2026-01-26
 draft: false
-description: "Hungarian Chapel of the Aachen Cathedral"
+description: "The Aachen Chapel of Hungary, a significant part of the Aachen Cathedral complex in Germany, serves as an emblem of the cultural exchange between Hungary..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

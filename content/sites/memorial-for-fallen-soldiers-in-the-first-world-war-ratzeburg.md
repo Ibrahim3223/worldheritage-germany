@@ -3,7 +3,7 @@ title: "Memorial for fallen soldiers in the First World War (Ratzeburg)"
 site_name: "Memorial for fallen soldiers in the First World War (Ratzeburg)"
 date: 2026-01-26
 draft: false
-description: "memorial in Ratzeburg, Germany"
+description: "In the heart of Ratzeburg, Germany, a poignant memorial stands dedicated to the fallen soldiers of the First World War."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

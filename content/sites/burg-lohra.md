@@ -3,7 +3,7 @@ title: "Burg Lohra"
 site_name: "Burg Lohra"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the serene landscapes of Großlohra, Burg Lohra is a striking castle that invites visitors to explore its storied past and architectural elegance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

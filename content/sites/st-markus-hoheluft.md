@@ -3,7 +3,7 @@ title: "St. Markus-Hoheluft"
 site_name: "St. Markus-Hoheluft"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg"
+description: "St. Markus-Hoheluft is an architectural landmark located in the vibrant district of Hamburg-Nord, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

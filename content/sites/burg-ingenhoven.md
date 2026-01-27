@@ -3,7 +3,7 @@ title: "Burg Ingenhoven"
 site_name: "Burg Ingenhoven"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Ingenhoven, a striking castle located in the tranquil region of Nettetal, Germany, serves as a captivating destination for history enthusiasts and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

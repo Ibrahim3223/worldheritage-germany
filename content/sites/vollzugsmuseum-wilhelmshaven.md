@@ -3,7 +3,7 @@ title: "Vollzugsmuseum Wilhelmshaven"
 site_name: "Vollzugsmuseum Wilhelmshaven"
 date: 2026-01-26
 draft: false
-description: "museum in Wilhelmshaven, Germany"
+description: "Vollzugsmuseum Wilhelmshaven offers visitors an engaging glimpse into the maritime history of Wilhelmshaven, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

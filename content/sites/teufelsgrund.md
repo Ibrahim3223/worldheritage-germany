@@ -3,7 +3,7 @@ title: "Teufelsgrund"
 site_name: "Teufelsgrund"
 date: 2026-01-26
 draft: false
-description: "Tal im Spessart in Bayern und Hessen"
+description: "Teufelsgrund, a picturesque valley located in the Aschaffenburg district of Germany, invites visitors to immerse themselves in the lush landscapes of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"

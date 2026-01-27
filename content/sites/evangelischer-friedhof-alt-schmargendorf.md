@@ -3,7 +3,7 @@ title: "Evangelischer Friedhof Alt-Schmargendorf"
 site_name: "Evangelischer Friedhof Alt-Schmargendorf"
 date: 2026-01-26
 draft: false
-description: "cemetery in Charlottenburg-Wilmersdorf, Germany"
+description: "Evangelischer Friedhof Alt-Schmargendorf is a cemetery located in the Charlottenburg-Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

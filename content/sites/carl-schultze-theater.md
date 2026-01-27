@@ -3,7 +3,7 @@ title: "Carl-Schultze-Theater"
 site_name: "Carl-Schultze-Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre in Hamburg, Germany"
+description: "The Carl-Schultze-Theater, a former theatre building located in Hamburg-Mitte, Germany, presents a fascinating glimpse into the rich cultural tapestry of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Pewsum Church"
 site_name: "Pewsum Church"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Germany"
+description: "Pewsum Church, located in the quaint region of Krummhörn, Germany, is a significant ecclesiastical structure that has captured the interest of both local..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

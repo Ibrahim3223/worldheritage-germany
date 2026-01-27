@@ -3,7 +3,7 @@ title: "St. Jürgen"
 site_name: "St. Jürgen"
 date: 2026-01-26
 draft: false
-description: "church building in Lübeck, Germany"
+description: "St. Jürgen is a notable church building located in Lübeck, Germany, a city recognized for its well-preserved medieval architecture and rich Hanseatic history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

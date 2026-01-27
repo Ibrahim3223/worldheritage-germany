@@ -3,7 +3,7 @@ title: "Talberg Museum"
 site_name: "Talberg Museum"
 date: 2026-01-26
 draft: false
-description: "Art museum in Frankfurt"
+description: "The Talberg Museum in Frankfurt, Germany, offers visitors a unique opportunity to engage with a diverse collection of artistic works that reflect various..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

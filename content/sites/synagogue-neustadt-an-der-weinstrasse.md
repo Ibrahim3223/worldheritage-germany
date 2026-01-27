@@ -3,7 +3,7 @@ title: "synagogue Neustadt an der Weinstraße"
 site_name: "synagogue Neustadt an der Weinstraße"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Neustadt an der Weinstraße, Germany"
+description: "The synagogue in Neustadt an der Weinstraße once held a prominent place in the Jewish community of this charming German town."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

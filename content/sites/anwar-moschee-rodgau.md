@@ -3,7 +3,7 @@ title: "Anwar-Moschee (Rodgau)"
 site_name: "Anwar-Moschee (Rodgau)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Anwar-Moschee, located in Rodgau, Germany, is an architectural structure that serves as a central place of worship for the Muslim community in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

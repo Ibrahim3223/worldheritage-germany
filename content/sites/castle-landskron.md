@@ -3,7 +3,7 @@ title: "Castle Landskron"
 site_name: "Castle Landskron"
 date: 2026-01-26
 draft: false
-description: "castle in Oppenheim, Germany"
+description: "Castle Landskron, located in Oppenheim, Germany, stands as an enduring emblem of medieval architecture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

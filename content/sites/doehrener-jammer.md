@@ -3,7 +3,7 @@ title: "Döhrener Jammer"
 site_name: "Döhrener Jammer"
 date: 2026-01-26
 draft: false
-description: "group of residential buildings in Hannover, Germany"
+description: "The Döhrener Jammer is a significant architectural ensemble located in the Döhren-Wülfel district of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Kattenturm Essen"
 site_name: "Kattenturm Essen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Kattenturm in Essen stands as a remarkable example of medieval architecture and historical significance in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

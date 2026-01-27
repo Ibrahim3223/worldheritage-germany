@@ -3,7 +3,7 @@ title: "Forum Castrop-Rauxel"
 site_name: "Forum Castrop-Rauxel"
 date: 2026-01-26
 draft: false
-description: "complex of multi-purpose halls and town hall in Castrop-Rauxel, Germany"
+description: "Forum Castrop-Rauxel serves as a vibrant cultural hub situated in the heart of Castrop-Rauxel, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Börneplatzsynagoge"
 site_name: "Börneplatzsynagoge"
 date: 2026-01-26
 draft: false
-description: "Synagoge in Frankfurt am Main"
+description: "The Börneplatzsynagoge, located in the heart of Frankfurt am Main, is a significant site reflecting the rich heritage of Jewish culture and history in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

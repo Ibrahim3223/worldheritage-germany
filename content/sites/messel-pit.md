@@ -3,7 +3,7 @@ title: "Messel pit"
 site_name: "Messel pit"
 date: 2026-01-26
 draft: false
-description: "disused quarry near the village of Messel, paleontological site"
+description: "Messel Pit, located in the Darmstadt-Dieburg region of Germany, is a significant geological and paleontological site that holds an essential place in our..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Geotope"

@@ -3,7 +3,7 @@ title: "Autobahnkirche RUHR"
 site_name: "Autobahnkirche RUHR"
 date: 2026-01-26
 draft: false
-description: "church building in Bochum, North Rhine-Westphalia, Germany"
+description: "The Autobahnkirche RUHR offers a unique blend of spirituality and modernity, serving as both a place of worship and a sanctuary for travelers navigating the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

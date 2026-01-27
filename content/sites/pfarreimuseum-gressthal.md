@@ -3,7 +3,7 @@ title: "Pfarreimuseum Greßthal"
 site_name: "Pfarreimuseum Greßthal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Pfarreimuseum Greßthal is an intriguing museum located in Germany, offering visitors a glimpse into the local heritage and culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Maxburg"
 site_name: "Maxburg"
 date: 2026-01-26
 draft: false
-description: "building in Old Town, Upper Bavaria, Germany"
+description: "Maxburg, an elegant courthouse located in the heart of Munich's Old Town, serves as a prominent landmark in Upper Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"

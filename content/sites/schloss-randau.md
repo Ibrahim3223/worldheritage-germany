@@ -3,7 +3,7 @@ title: "Schloss Randau"
 site_name: "Schloss Randau"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Schloss Randau is an enchanting manor house located in the Magdeburg region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

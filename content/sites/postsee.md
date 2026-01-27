@@ -3,7 +3,7 @@ title: "Postsee"
 site_name: "Postsee"
 date: 2026-01-26
 draft: false
-description: "lake in Plön District, Schleswig-Holstein, Germany"
+description: "In the heart of Schleswig-Holstein, Germany, lies Postsee, a picturesque lake that captures the essence of the Plön District's natural beauty."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

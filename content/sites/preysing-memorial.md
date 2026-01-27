@@ -3,7 +3,7 @@ title: "Preysing memorial"
 site_name: "Preysing memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Plattling, Germany"
+description: "The Preysing memorial in Plattling, Germany, stands as a poignant tribute reflecting the town's cultural heritage and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

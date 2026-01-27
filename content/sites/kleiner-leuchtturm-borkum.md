@@ -3,7 +3,7 @@ title: "Kleiner Leuchtturm (Borkum)"
 site_name: "Kleiner Leuchtturm (Borkum)"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "The Kleiner Leuchtturm, or Little Lighthouse, is a significant maritime structure located on Borkum, one of the East Frisian Islands in Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

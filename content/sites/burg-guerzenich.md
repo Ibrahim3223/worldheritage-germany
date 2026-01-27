@@ -3,7 +3,7 @@ title: "Burg Gürzenich"
 site_name: "Burg Gürzenich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gürzenich is a captivating castle located in the Düren region of Germany, an area known for its historical significance and natural beauty."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

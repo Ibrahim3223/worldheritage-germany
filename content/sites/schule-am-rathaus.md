@@ -3,7 +3,7 @@ title: "Schule am Rathaus"
 site_name: "Schule am Rathaus"
 date: 2026-01-26
 draft: false
-description: "school in Berlin-Lichtenberg"
+description: "Located in the heart of Lichtenberg, Berlin, Schule am Rathaus is not just a school building; it is a significant educational institution that embodies the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

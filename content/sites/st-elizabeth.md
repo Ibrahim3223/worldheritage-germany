@@ -3,7 +3,7 @@ title: "St. Elizabeth"
 site_name: "St. Elizabeth"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "St. Elizabeth in Nuremberg is a notable parish church that serves as a significant landmark within the city’s rich ecclesiastical landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

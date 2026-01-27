@@ -3,7 +3,7 @@ title: "Heinz Nixdorf MuseumsForum"
 site_name: "Heinz Nixdorf MuseumsForum"
 date: 2026-01-26
 draft: false
-description: "Computer museum in Paderborn, Germany"
+description: "The Heinz Nixdorf MuseumsForum stands as a hallmark of technological innovation and cultural exploration in Paderborn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bergisches Museum für Bergbau, Handwerk und Gewerbe"
 site_name: "Bergisches Museum für Bergbau, Handwerk und Gewerbe"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bergisches Museum für Bergbau, Handwerk und Gewerbe, located in Bergisch Gladbach, Germany, serves as a dynamic exploration of the region's industrial..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

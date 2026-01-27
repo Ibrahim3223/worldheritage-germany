@@ -3,7 +3,7 @@ title: "Genezareth Church"
 site_name: "Genezareth Church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Genezareth Church, located in the vibrant Neukölln district of Berlin, is a notable church building that reflects the city's architectural and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

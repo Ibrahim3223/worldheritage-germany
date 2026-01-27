@@ -3,7 +3,7 @@ title: "Wendish Tower"
 site_name: "Wendish Tower"
 date: 2026-01-26
 draft: false
-description: "historic tower in Bautzen, Saxony"
+description: "Wendish Tower, an iconic structure located in the historic city of Bautzen, Saxony, serves as a remarkable symbol of the region's architectural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

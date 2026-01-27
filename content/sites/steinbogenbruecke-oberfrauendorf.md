@@ -3,7 +3,7 @@ title: "Steinbogenbrücke Oberfrauendorf"
 site_name: "Steinbogenbrücke Oberfrauendorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke Oberfrauendorf is a striking bridge located in the Glashütte region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Vogtei"
 site_name: "Vogtei"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-78-115-3 (0) in Bergrheinfeld, Bavaria"
+description: "Vogtei, a notable cultural heritage monument located in Bergrheinfeld, Bavaria, serves not only as a city hall but also as a symbol of the community's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

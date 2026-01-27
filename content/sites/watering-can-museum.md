@@ -3,7 +3,7 @@ title: "Watering Can Museum"
 site_name: "Watering Can Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Watering Can Museum in Giessen, Germany, offers a unique glimpse into the world of horticultural tools, specifically focusing on the humble watering can."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

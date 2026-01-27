@@ -3,7 +3,7 @@ title: "Brüder-Grimm-Platz"
 site_name: "Brüder-Grimm-Platz"
 date: 2026-01-26
 draft: false
-description: "square in Kassel, Germany"
+description: "Brüder-Grimm-Platz is a central square located in the vibrant city of Kassel, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Lahneck Castle"
 site_name: "Lahneck Castle"
 date: 2026-01-26
 draft: false
-description: "German Castle"
+description: "Lahneck Castle, a striking German castle located in Oberlahnstein, offers visitors a glimpse into the medieval past of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

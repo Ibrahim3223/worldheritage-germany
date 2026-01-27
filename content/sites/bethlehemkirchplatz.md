@@ -3,7 +3,7 @@ title: "Bethlehemkirchplatz"
 site_name: "Bethlehemkirchplatz"
 date: 2026-01-26
 draft: false
-description: "small square in Berlin"
+description: "Bethlehemkirchplatz is a small yet charming square located in the heart of Berlin's Bezirk Mitte."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

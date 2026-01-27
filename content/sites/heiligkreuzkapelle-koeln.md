@@ -3,7 +3,7 @@ title: "Heiligkreuzkapelle (Köln)"
 site_name: "Heiligkreuzkapelle (Köln)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Heiligkreuzkapelle, located in the heart of Cologne, Germany, invites visitors to explore its serene atmosphere and architectural grace."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

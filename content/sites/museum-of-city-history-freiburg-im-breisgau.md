@@ -3,7 +3,7 @@ title: "Museum of City History (Freiburg-im-Breisgau)"
 site_name: "Museum of City History (Freiburg-im-Breisgau)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of City History in Freiburg im Breisgau serves as a vital repository of the region's past, inviting visitors to explore the city's heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

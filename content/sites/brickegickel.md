@@ -3,7 +3,7 @@ title: "Brickegickel"
 site_name: "Brickegickel"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "Brickegickel, a remarkable monument located in Frankfurt am Main, Germany, stands as an important cultural landmark that reflects the historical and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

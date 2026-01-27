@@ -3,7 +3,7 @@ title: "Eggemuseum in Altenbeken"
 site_name: "Eggemuseum in Altenbeken"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Eggemuseum in Altenbeken is a unique cultural institution that invites visitors to explore the heritage and history of the region through a curated..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

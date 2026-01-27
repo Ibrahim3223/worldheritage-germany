@@ -3,7 +3,7 @@ title: "St Maria and Clemens Church"
 site_name: "St Maria and Clemens Church"
 date: 2026-01-26
 draft: false
-description: "church in Bonn"
+description: "St. Maria and Clemens Church, located in Beuel, a district of Bonn, Germany, serves as a striking example of architectural beauty and spiritual significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

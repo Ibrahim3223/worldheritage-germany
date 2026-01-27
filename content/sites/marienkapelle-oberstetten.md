@@ -3,7 +3,7 @@ title: "Marienkapelle Oberstetten"
 site_name: "Marienkapelle Oberstetten"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Marienkapelle Oberstetten is a captivating chapel located in the serene region of Erlenmoos, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

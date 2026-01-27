@@ -3,7 +3,7 @@ title: "Oberländerdenkmal"
 site_name: "Oberländerdenkmal"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Waakirchen, Bayern"
+description: "The Oberländerdenkmal, a poignant memorial located in Waakirchen, Bavaria, serves as a significant landmark that commemorates those who have shaped the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

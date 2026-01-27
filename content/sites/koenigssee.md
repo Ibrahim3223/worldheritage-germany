@@ -3,7 +3,7 @@ title: "Königssee"
 site_name: "Königssee"
 date: 2026-01-26
 draft: false
-description: "lake in Schönau am Königsee, Bavaria, Germany"
+description: "Königssee, a pristine lake located in Schönau am Königsee, Bavaria, Germany, captivates visitors with its serene waters and stunning mountainous backdrop."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

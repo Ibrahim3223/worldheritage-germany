@@ -3,7 +3,7 @@ title: "2000 Jahre Christentum"
 site_name: "2000 Jahre Christentum"
 date: 2026-01-26
 draft: false
-description: "statue in Brunswick, Germany"
+description: "The "2000 Jahre Christentum," a prominent statue located in Brunswick, Germany, serves as a significant cultural landmark that reflects the rich history of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

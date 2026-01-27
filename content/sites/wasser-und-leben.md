@@ -3,7 +3,7 @@ title: "Wasser und Leben"
 site_name: "Wasser und Leben"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "In the historic city of Aachen, Germany, the Wasser und Leben fountain stands as a captivating reminder of the intricate relationship between water and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

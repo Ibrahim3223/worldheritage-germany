@@ -3,7 +3,7 @@ title: "St. Mary's Church, Reutlingen"
 site_name: "St. Mary's Church, Reutlingen"
 date: 2026-01-26
 draft: false
-description: "church in Reutlingen, Germany"
+description: "St. Mary's Church, located in the heart of Reutlingen, Germany, is an architectural landmark that embodies the spirit of the region's ecclesiastical heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

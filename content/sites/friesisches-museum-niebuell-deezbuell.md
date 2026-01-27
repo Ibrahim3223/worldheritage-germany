@@ -3,7 +3,7 @@ title: "Friesisches Museum Niebüll-Deezbüll"
 site_name: "Friesisches Museum Niebüll-Deezbüll"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Friesisches Museum Niebüll-Deezbüll offers a unique opportunity to immerse oneself in the cultural heritage of the Frisian region of Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

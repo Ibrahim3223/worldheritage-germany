@@ -3,7 +3,7 @@ title: "Donnersberg"
 site_name: "Donnersberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Donnersberg, a prominent mountain situated in the Donnersbergkreis region of Germany, offers visitors a unique blend of natural beauty and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

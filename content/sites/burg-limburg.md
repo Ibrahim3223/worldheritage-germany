@@ -3,7 +3,7 @@ title: "Burg Limburg"
 site_name: "Burg Limburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Limburg, a striking castle located in Weilheim an der Teck, Germany, stands as a remarkable example of medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

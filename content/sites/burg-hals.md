@@ -3,7 +3,7 @@ title: "Burg Hals"
 site_name: "Burg Hals"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hals, a remarkable castle situated in the picturesque region of Bodman-Ludwigshafen, Germany, is a striking example of medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

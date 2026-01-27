@@ -3,7 +3,7 @@ title: "Sender Olsberg"
 site_name: "Sender Olsberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Olsberg is a prominent tower located in the scenic region of Olsberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

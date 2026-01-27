@@ -3,7 +3,7 @@ title: "Evangelische Kapelle Dasbach"
 site_name: "Evangelische Kapelle Dasbach"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Evangelische Kapelle Dasbach is a remarkable chapel located in the picturesque region of Idstein, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

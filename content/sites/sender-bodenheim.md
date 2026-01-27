@@ -3,7 +3,7 @@ title: "Sender Bodenheim"
 site_name: "Sender Bodenheim"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Bodenheim is a historic tower located in the picturesque Rhineland-Palatinate region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Dampfkornbranntweinbrennereimuseum"
 site_name: "Dampfkornbranntweinbrennereimuseum"
 date: 2026-01-26
 draft: false
-description: "former museum in Germany"
+description: "The Dampfkornbranntweinbrennereimuseum in Wildeshausen, Germany, offers a unique glimpse into the world of traditional distillation practices."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

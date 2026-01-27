@@ -3,7 +3,7 @@ title: "Alte Burg Veckerhagen"
 site_name: "Alte Burg Veckerhagen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg Veckerhagen is a historic castle located in the picturesque region of Reinhardshagen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

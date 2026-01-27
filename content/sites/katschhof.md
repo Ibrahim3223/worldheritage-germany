@@ -3,7 +3,7 @@ title: "Katschhof"
 site_name: "Katschhof"
 date: 2026-01-26
 draft: false
-description: "public square in Aachen, Germany"
+description: "Katschhof is a vibrant public square located in the heart of Aachen, Germany. This urban space serves as a focal point for both locals and visitors,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "St. Elisabeth's Church"
 site_name: "St. Elisabeth's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Marburg, Germany"
+description: "St. Elisabeth's Church stands as a significant religious and architectural landmark in Marburg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

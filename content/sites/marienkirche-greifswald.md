@@ -3,7 +3,7 @@ title: "Marienkirche, Greifswald"
 site_name: "Marienkirche, Greifswald"
 date: 2026-01-26
 draft: false
-description: "Greifswald"
+description: "Marienkirche, located in the heart of Greifswald, Germany, is a striking church building that captures the attention of both locals and travelers."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

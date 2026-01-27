@@ -3,7 +3,7 @@ title: "Nassauer Haus"
 site_name: "Nassauer Haus"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Nassauer Haus, an iconic structure located in the heart of Nuremberg, Germany, is a tower that encapsulates the historical essence of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

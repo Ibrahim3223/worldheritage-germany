@@ -3,7 +3,7 @@ title: "Ernst-August-Palais"
 site_name: "Ernst-August-Palais"
 date: 2026-01-26
 draft: false
-description: "demolished palace in Hannover, Germany"
+description: "The Ernst-August-Palais, once a prominent palace in Hannover, Germany, is a site that evokes the grandeur of a bygone era."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

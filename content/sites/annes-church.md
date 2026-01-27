@@ -3,7 +3,7 @@ title: "Anne’s Church"
 site_name: "Anne’s Church"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden, Germany"
+description: "Anne’s Church, an architectural gem in Dresden, Germany, invites visitors to explore its serene and contemplative atmosphere."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

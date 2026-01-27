@@ -3,7 +3,7 @@ title: "Stadtmuseum Paderborn"
 site_name: "Stadtmuseum Paderborn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Paderborn is a prominent cultural institution located in the heart of Paderborn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

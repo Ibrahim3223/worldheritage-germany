@@ -3,7 +3,7 @@ title: "Pähler Schlucht"
 site_name: "Pähler Schlucht"
 date: 2026-01-26
 draft: false
-description: "valley in Germany"
+description: "Pähler Schlucht, located in the picturesque region of Pähl, Germany, is an enchanting valley that features a stunning waterfall, providing a serene escape..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

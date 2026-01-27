@@ -3,7 +3,7 @@ title: "Jüdischer Friedhof Ladenburg"
 site_name: "Jüdischer Friedhof Ladenburg"
 date: 2026-01-26
 draft: false
-description: "building in Ladenburg, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "The Jüdischer Friedhof Ladenburg, or the Jewish Cemetery of Ladenburg, stands as a poignant memorial in the historic town of Ladenburg, located within the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

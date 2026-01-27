@@ -3,7 +3,7 @@ title: "Dörpsee, Schülldorf"
 site_name: "Dörpsee, Schülldorf"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dörpsee, located in the charming village of Schülldorf within the Rendsburg-Eckernförde region of Germany, is a picturesque lake that offers a serene escape..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

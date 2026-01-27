@@ -3,7 +3,7 @@ title: "Gedenkstätte für die Gefallenen der Roten Armee in Senftenberg"
 site_name: "Gedenkstätte für die Gefallenen der Roten Armee in Senftenberg"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Gedenkstätte für die Gefallenen der Roten Armee in Senftenberg serves as a poignant memorial, honoring the soldiers of the Red Army who lost their lives..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

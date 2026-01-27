@@ -3,7 +3,7 @@ title: "Sankenbach Waterfalls"
 site_name: "Sankenbach Waterfalls"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "The Sankenbach Waterfalls, located in the picturesque region of Baiersbronn, Germany, offer a stunning natural spectacle that draws visitors from near and far."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

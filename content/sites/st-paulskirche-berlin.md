@@ -3,7 +3,7 @@ title: "St. Paulskirche (Berlin)"
 site_name: "St. Paulskirche (Berlin)"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin-Mitte, Germany"
+description: "St. Paulskirche, a notable church building located in Berlin's Bezirk Mitte, is an essential part of the city's architectural and cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

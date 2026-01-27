@@ -3,7 +3,7 @@ title: "Burg Grüningen"
 site_name: "Burg Grüningen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grüningen is more than just a castle; it symbolizes the enduring spirit of medieval architecture and the historical narratives of the Pohlheim region..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

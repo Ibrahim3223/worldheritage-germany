@@ -3,7 +3,7 @@ title: "Arkadenbau"
 site_name: "Arkadenbau"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-114-6 (0) in Bad Kissingen, Bavaria"
+description: "Arkadenbau, a distinguished multi-purpose hall located in the heart of Bad Kissingen, Germany, encapsulates the cultural essence of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Village church Hamberge"
 site_name: "Village church Hamberge"
 date: 2026-01-26
 draft: false
-description: "church building in Schleswig-Holstein"
+description: "Nestled in the quaint region of Schleswig-Holstein, the Village Church of Hamberge stands as a meaningful landmark, serving not only as a place of worship..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

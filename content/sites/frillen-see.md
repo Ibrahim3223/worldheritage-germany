@@ -3,7 +3,7 @@ title: "Frillen-See"
 site_name: "Frillen-See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Frillen-See is a serene lake located in the picturesque region of Inzell, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

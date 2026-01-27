@@ -3,7 +3,7 @@ title: "Synagogue Selm-Bork"
 site_name: "Synagogue Selm-Bork"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue Selm-Bork, located in Selm, Germany, is a significant site that reflects the Jewish heritage and cultural history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

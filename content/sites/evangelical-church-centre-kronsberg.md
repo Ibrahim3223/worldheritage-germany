@@ -3,7 +3,7 @@ title: "Evangelical Church Centre Kronsberg"
 site_name: "Evangelical Church Centre Kronsberg"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Situated in the Kirchrode-Bemerode-Wülferode region of Germany, the Evangelical Church Centre Kronsberg represents a harmonious blend of spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

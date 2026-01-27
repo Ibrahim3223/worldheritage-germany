@@ -3,7 +3,7 @@ title: "Burgruine Neufürstenberg, Schwarzwald-Baar"
 site_name: "Burgruine Neufürstenberg, Schwarzwald-Baar"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgruine Neufürstenberg, located in the Vöhrenbach region of Germany, is a captivating castle ruin that invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

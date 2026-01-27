@@ -3,7 +3,7 @@ title: "Bebenhausen Abbey"
 site_name: "Bebenhausen Abbey"
 date: 2026-01-26
 draft: false
-description: "former Cistercian abbey in Germany"
+description: "Bebenhausen Abbey, a former Cistercian monastery, is a remarkable historical site located in Tübingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

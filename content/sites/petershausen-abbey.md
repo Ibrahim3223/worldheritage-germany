@@ -3,7 +3,7 @@ title: "Petershausen Abbey"
 site_name: "Petershausen Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Petershausen Abbey, a distinguished monastery located in the scenic region of Constance, Germany, is a site where spirituality and cultural heritage intertwine."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

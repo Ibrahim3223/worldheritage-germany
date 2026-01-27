@@ -3,7 +3,7 @@ title: "museum over Franz Liszt"
 site_name: "museum over Franz Liszt"
 date: 2026-01-26
 draft: false
-description: "museum on Franz Liszt"
+description: "Located in the heart of Weimar, Germany, the museum dedicated to the illustrious composer Franz Liszt serves as a vital tribute to one of the 19th century's..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

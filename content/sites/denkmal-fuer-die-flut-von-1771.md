@@ -3,7 +3,7 @@ title: "Denkmal für die Flut von 1771"
 site_name: "Denkmal für die Flut von 1771"
 date: 2026-01-26
 draft: false
-description: "former monument in Hamburg, Germany"
+description: "In the heart of Hamburg lies a poignant reminder of the city’s resilience against the forces of nature: the Denkmal für die Flut von 1771."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

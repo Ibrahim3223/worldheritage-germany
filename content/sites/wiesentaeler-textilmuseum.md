@@ -3,7 +3,7 @@ title: "Wiesentäler Textilmuseum"
 site_name: "Wiesentäler Textilmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Wiesentäler Textilmuseum, located in Zell im Wiesental, Germany, serves as a crucial repository of textile history and craftsmanship."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

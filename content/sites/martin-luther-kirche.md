@@ -3,7 +3,7 @@ title: "Martin-Luther-Kirche"
 site_name: "Martin-Luther-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Blumenthal, Germany"
+description: "The Martin-Luther-Kirche is a notable church building located in the Blumenthal region of Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

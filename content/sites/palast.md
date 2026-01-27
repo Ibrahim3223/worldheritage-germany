@@ -3,7 +3,7 @@ title: "Palast"
 site_name: "Palast"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-141-63 (0) in Kitzingen, Bavaria"
+description: "The Palast in Kitzingen, Bavaria, is a cultural heritage monument that embodies the region's historical and architectural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

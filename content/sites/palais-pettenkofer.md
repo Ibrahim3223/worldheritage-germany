@@ -3,7 +3,7 @@ title: "Palais Pettenkofer"
 site_name: "Palais Pettenkofer"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Palais Pettenkofer, located in Landshut, Germany, is an architectural gem that captures the essence of historical elegance and cultural vibrancy."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

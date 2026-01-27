@@ -3,7 +3,7 @@ title: "Sammlung Industrielle Gestaltung"
 site_name: "Sammlung Industrielle Gestaltung"
 date: 2026-01-26
 draft: false
-description: "collection of design (East Germany)"
+description: "Sammlung Industrielle Gestaltung, located in Berlin, Germany, is a significant library that houses a unique collection focused on design from East Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

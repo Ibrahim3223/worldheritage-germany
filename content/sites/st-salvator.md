@@ -3,7 +3,7 @@ title: "St. Salvator"
 site_name: "St. Salvator"
 date: 2026-01-26
 draft: false
-description: "church in Pellworm, Germany"
+description: "St. Salvator is a remarkable church located in the tranquil region of Pellworm, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

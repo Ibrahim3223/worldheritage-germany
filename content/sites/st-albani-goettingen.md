@@ -3,7 +3,7 @@ title: "St. Albani (Göttingen)"
 site_name: "St. Albani (Göttingen)"
 date: 2026-01-26
 draft: false
-description: "church building in Göttingen, Germany"
+description: "St. Albani Church in Göttingen, Germany, is a remarkable ecclesiastical building that stands as a focal point in the city's cultural and historical landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

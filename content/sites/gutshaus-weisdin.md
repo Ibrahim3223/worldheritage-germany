@@ -3,7 +3,7 @@ title: "Gutshaus Weisdin"
 site_name: "Gutshaus Weisdin"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Weisdin, einem Ortsteil von Blumenholz (Mecklenburg-Vorpommern)"
+description: "Gutshaus Weisdin, an elegant manor house located in the picturesque region of Blumenholz, Germany, is a remarkable site that offers visitors a glimpse into..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

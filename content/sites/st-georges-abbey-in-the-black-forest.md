@@ -3,7 +3,7 @@ title: "St. George's Abbey in the Black Forest"
 site_name: "St. George's Abbey in the Black Forest"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "St. George's Abbey in the Black Forest is a striking example of monastic architecture and spirituality, deeply embedded in the cultural fabric of St."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

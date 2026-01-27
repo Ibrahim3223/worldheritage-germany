@@ -3,7 +3,7 @@ title: "Märkisches Museum"
 site_name: "Märkisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Witten"
+description: "The Märkisches Museum, located in Witten, Germany, serves as a vital cultural hub, showcasing a diverse range of art and historical artifacts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

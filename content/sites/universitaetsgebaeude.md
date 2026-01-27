@@ -3,7 +3,7 @@ title: "Universitätsgebäude"
 site_name: "Universitätsgebäude"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-472 (0) in Würzburg, Bavaria"
+description: "The Universitätsgebäude in Würzburg, Germany, is not merely a museum; it is an emblem of cultural heritage and academic history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

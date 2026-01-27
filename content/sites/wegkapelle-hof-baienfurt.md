@@ -3,7 +3,7 @@ title: "Wegkapelle Hof (Baienfurt)"
 site_name: "Wegkapelle Hof (Baienfurt)"
 date: 2026-01-26
 draft: false
-description: "building in Baienfurt, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Wegkapelle Hof, located in Baienfurt, Germany, is a captivating chapel that reflects the spiritual heritage and architectural charm of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "St. Joseph (Bielefeld)"
 site_name: "St. Joseph (Bielefeld)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Joseph Church in Bielefeld is a significant architectural and cultural landmark in Germany's North Rhine-Westphalia region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

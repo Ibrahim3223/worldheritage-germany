@@ -3,7 +3,7 @@ title: "Eiserner Steg"
 site_name: "Eiserner Steg"
 date: 2026-01-26
 draft: false
-description: "footbridge over the Main in Frankfurt"
+description: "The Eiserner Steg, a notable footbridge in Frankfurt, Germany, gracefully spans the River Main, connecting the vibrant areas of the city and offering a..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"

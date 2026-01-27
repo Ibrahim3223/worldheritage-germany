@@ -3,7 +3,7 @@ title: "Thomaskirche"
 site_name: "Thomaskirche"
 date: 2026-01-26
 draft: false
-description: "protestant church building in Cologne, Germany"
+description: "Thomaskirche, a distinguished Protestant church located in the vibrant city of Cologne, Germany, represents a significant facet of the region's religious..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

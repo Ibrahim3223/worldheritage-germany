@@ -3,7 +3,7 @@ title: "Hauptfriedhof Ibbenbüren"
 site_name: "Hauptfriedhof Ibbenbüren"
 date: 2026-01-26
 draft: false
-description: "cemetery in Ibbenbüren, Germany"
+description: "Hauptfriedhof Ibbenbüren, a significant cemetery located in the town of Ibbenbüren, Germany, offers visitors a unique glimpse into the cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

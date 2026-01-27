@@ -3,7 +3,7 @@ title: "Wiesenpark Oschersleben"
 site_name: "Wiesenpark Oschersleben"
 date: 2026-01-26
 draft: false
-description: "Parkanlage mit Tiergarten in Oschersleben in Sachsen-Anhalt"
+description: "Wiesenpark Oschersleben is more than just a zoo; it is a vibrant green space that offers a delightful escape from the everyday hustle and bustle."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

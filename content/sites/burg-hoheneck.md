@@ -3,7 +3,7 @@ title: "Burg Hoheneck"
 site_name: "Burg Hoheneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hoheneck stands as a prominent castle in Dillweißenstein, Germany, offering visitors a glimpse into medieval architecture amidst a captivating landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

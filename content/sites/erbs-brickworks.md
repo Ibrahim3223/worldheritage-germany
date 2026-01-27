@@ -3,7 +3,7 @@ title: "Erbs Brickworks"
 site_name: "Erbs Brickworks"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Erbs Brickworks, located in Pegau, Germany, serves as a fascinating museum dedicated to the craft of brick-making, an industry that has shaped both the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

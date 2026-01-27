@@ -3,7 +3,7 @@ title: "Mariä Heimsuchung"
 site_name: "Mariä Heimsuchung"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Mariä Heimsuchung, a distinguished church building located in the Northeim region of Germany, serves as an important cultural and spiritual landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

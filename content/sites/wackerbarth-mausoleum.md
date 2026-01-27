@@ -3,7 +3,7 @@ title: "Wackerbarth Mausoleum"
 site_name: "Wackerbarth Mausoleum"
 date: 2026-01-26
 draft: false
-description: "mausoleum in Koschendorf, Brandenburg"
+description: "The Wackerbarth Mausoleum, located in the serene area of Koschendorf in Brandenburg, Germany, is a poignant reminder of the region's rich cultural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mausoleum"

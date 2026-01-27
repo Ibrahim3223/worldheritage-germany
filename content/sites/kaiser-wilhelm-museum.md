@@ -3,7 +3,7 @@ title: "Kaiser Wilhelm Museum"
 site_name: "Kaiser Wilhelm Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kaiser Wilhelm Museum, located in Krefeld, Germany, serves as a significant cultural institution that showcases a diverse range of artistic expressions."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

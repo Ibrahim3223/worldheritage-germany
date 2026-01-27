@@ -3,7 +3,7 @@ title: "Kobisenmühle"
 site_name: "Kobisenmühle"
 date: 2026-01-26
 draft: false
-description: "Wassermühle St.Georgen im Schwarzwald"
+description: "Kobisenmühle, located in the serene setting of St. Georgen im Schwarzwald, Germany, is a remarkable museum dedicated to the preservation and presentation of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

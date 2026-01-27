@@ -3,7 +3,7 @@ title: "Uhlenköper"
 site_name: "Uhlenköper"
 date: 2026-01-26
 draft: false
-description: "statue in Uelzen, Germany"
+description: "Uhlenköper, a striking statue located in Uelzen, Germany, serves as a notable highlight for visitors exploring the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

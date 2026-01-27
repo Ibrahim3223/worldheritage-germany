@@ -3,7 +3,7 @@ title: "Rekumer Mühle"
 site_name: "Rekumer Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Rekum im Bremer Stadtteil Blumenthal"
+description: "Rekumer Mühle, a historic windmill located in the Blumenthal district of Bremen, Germany, captures the essence of traditional wind energy harnessing and..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

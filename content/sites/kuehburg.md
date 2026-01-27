@@ -3,7 +3,7 @@ title: "Kühburg"
 site_name: "Kühburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kühburg Castle, located in the serene Wiesenbach region of Germany, is a captivating structure that transports visitors into the heart of medieval..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

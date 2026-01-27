@@ -3,7 +3,7 @@ title: "Schloss Bredebeck"
 site_name: "Schloss Bredebeck"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Schloss Bredebeck, a classic manor house located in the picturesque Lohheide region of Germany, exudes charm and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

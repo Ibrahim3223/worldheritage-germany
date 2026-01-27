@@ -3,7 +3,7 @@ title: "Museum in the Kulturbrauerei"
 site_name: "Museum in the Kulturbrauerei"
 date: 2026-01-26
 draft: false
-description: "history museum in Berlin, Germany"
+description: "The Museum in the Kulturbrauerei, located in the vibrant district of Berlin, Germany, serves as a portal to the city’s past, offering insights into its rich..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Deutsches Chemie-Museum Merseburg"
 site_name: "Deutsches Chemie-Museum Merseburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Chemie-Museum Merseburg serves as a significant educational and cultural hub dedicated to the field of chemistry in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

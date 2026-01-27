@@ -3,7 +3,7 @@ title: "Rathaus Tübingen-Derendingen"
 site_name: "Rathaus Tübingen-Derendingen"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Gebäude"
+description: "The Rathaus Tübingen-Derendingen serves as a focal point for civic life in the vibrant district of Derendingen within Tübingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

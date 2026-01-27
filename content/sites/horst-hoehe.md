@@ -3,7 +3,7 @@ title: "Horst Höhe"
 site_name: "Horst Höhe"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Horst Höhe is a prominent mountain pass located in the Minden-Lübbecke District of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain Pass"

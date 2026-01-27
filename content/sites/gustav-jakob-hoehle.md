@@ -3,7 +3,7 @@ title: "Gustav-Jakob-Höhle"
 site_name: "Gustav-Jakob-Höhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Gustav-Jakob-Höhle, a remarkable cave located in the Baden-Württemberg region of Germany, invites exploration into the subterranean wonders that lie beneath..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Brigitte-Reimann-Literaturhaus"
 site_name: "Brigitte-Reimann-Literaturhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brigitte-Reimann-Literaturhaus is a cultural beacon situated in the historic town of Neubrandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

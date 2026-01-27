@@ -3,7 +3,7 @@ title: "Sender Scheidt"
 site_name: "Sender Scheidt"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Scheidt is a notable tower located in the Saarbrücken region of Germany. Its presence adds a distinctive element to the surrounding landscape,..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

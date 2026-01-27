@@ -3,7 +3,7 @@ title: "Wasungen City Museum"
 site_name: "Wasungen City Museum"
 date: 2026-01-26
 draft: false
-description: "city museum in Germany"
+description: "Wasungen City Museum, located in the charming town of Wasungen, Germany, serves as a captivating portal into the local heritage and cultural history."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Flüglingen"
 site_name: "Burg Flüglingen"
 date: 2026-01-26
 draft: false
-description: "building in Weißenburg in Bayern, Middle Franconia, Germany"
+description: "Burg Flüglingen is a historic fortification located in Weißenburg in Bayern, Germany, in the picturesque region of Middle Franconia."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

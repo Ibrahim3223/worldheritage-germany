@@ -3,7 +3,7 @@ title: "Sacred-Heart-church Bad Kissingen"
 site_name: "Sacred-Heart-church Bad Kissingen"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Kissingen, Bavaria state, Germany"
+description: "In the heart of Bad Kissingen, a charming spa town in Bavaria, Germany, lies the Sacred-Heart Church, a church building that serves as a focal point for..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

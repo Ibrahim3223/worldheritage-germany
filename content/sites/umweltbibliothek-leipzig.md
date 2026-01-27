@@ -3,7 +3,7 @@ title: "Umweltbibliothek Leipzig"
 site_name: "Umweltbibliothek Leipzig"
 date: 2026-01-26
 draft: false
-description: "library in Leipzig, Germany"
+description: "The Umweltbibliothek Leipzig is a unique library located in the vibrant city of Leipzig, Germany, renowned for its rich cultural heritage and intellectual..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Museum Natur und Mensch (Freiburg im Breisgau)"
 site_name: "Museum Natur und Mensch (Freiburg im Breisgau)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Natur und Mensch, located in the vibrant city of Freiburg im Breisgau, Germany, serves as a fascinating portal into the natural world and the human..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

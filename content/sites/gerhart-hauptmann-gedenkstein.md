@@ -3,7 +3,7 @@ title: "Gerhart-Hauptmann-Gedenkstein"
 site_name: "Gerhart-Hauptmann-Gedenkstein"
 date: 2026-01-26
 draft: false
-description: "memorial in Radebeul, Germany"
+description: "The Gerhart-Hauptmann-Gedenkstein is a poignant monument located in Radebeul, Germany, dedicated to the memory of the renowned playwright Gerhart Hauptmann."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

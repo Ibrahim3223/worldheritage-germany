@@ -3,7 +3,7 @@ title: "Hofkapelle Schwaldhof"
 site_name: "Hofkapelle Schwaldhof"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Hofkapelle Schwaldhof is a captivating chapel situated in the tranquil region of Bad Wurzach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

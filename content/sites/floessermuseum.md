@@ -3,7 +3,7 @@ title: "Flößermuseum"
 site_name: "Flößermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Lechbruck am See, Bavaria, Germany"
+description: "The Flößermuseum in Lechbruck am See, Bavaria, offers a unique exploration of the region’s wood floating history, an essential aspect of the local culture..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

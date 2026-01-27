@@ -3,7 +3,7 @@ title: "Klüppel"
 site_name: "Klüppel"
 date: 2026-01-26
 draft: false
-description: "demolished building in Aachen"
+description: "Klüppel is an architectural ensemble located in the heart of Aachen, Germany. While the building has been demolished, its historical significance and its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

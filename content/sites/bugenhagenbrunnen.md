@@ -3,7 +3,7 @@ title: "Bugenhagenbrunnen"
 site_name: "Bugenhagenbrunnen"
 date: 2026-01-26
 draft: false
-description: "Monument on Andreasplatz in Hildesheim"
+description: "In the heart of Hildesheim, Germany, the Bugenhagenbrunnen emerges as a notable monument, drawing visitors with its historical significance and artistic merit."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "historic museum of Görlitz"
 site_name: "historic museum of Görlitz"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The historic museum of Görlitz is a cornerstone of cultural preservation in the charming city of Görlitz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

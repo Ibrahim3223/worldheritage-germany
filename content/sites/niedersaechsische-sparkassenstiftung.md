@@ -3,7 +3,7 @@ title: "Niedersächsische Sparkassenstiftung"
 site_name: "Niedersächsische Sparkassenstiftung"
 date: 2026-01-26
 draft: false
-description: "Stiftung zur Förderung der Kunst, der Musik, der Museen und der Denkmalpflege"
+description: "In the heart of Hanover, Germany, lies the Niedersächsische Sparkassenstiftung, a foundation dedicated to the promotion of arts, music, museums, and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

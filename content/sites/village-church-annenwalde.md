@@ -3,7 +3,7 @@ title: "Village church Annenwalde"
 site_name: "Village church Annenwalde"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "Village church Annenwalde, located in the Templin region of Brandenburg, Germany, stands as an emblematic representation of rural ecclesiastical architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

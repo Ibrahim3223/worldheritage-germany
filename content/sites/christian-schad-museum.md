@@ -3,7 +3,7 @@ title: "Christian Schad Museum"
 site_name: "Christian Schad Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Christian Schad Museum in Aschaffenburg, Germany, is a dedicated space celebrating the life and work of the renowned German painter Christian Schad."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

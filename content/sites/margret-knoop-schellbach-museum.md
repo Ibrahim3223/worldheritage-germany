@@ -3,7 +3,7 @@ title: "Margret-Knoop-Schellbach-Museum"
 site_name: "Margret-Knoop-Schellbach-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Margret-Knoop-Schellbach-Museum, located in Körle, Germany, presents an intriguing opportunity for visitors to explore the intersection of local culture..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

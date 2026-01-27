@@ -3,7 +3,7 @@ title: "Beethoven-Denkmal Rheinaue"
 site_name: "Beethoven-Denkmal Rheinaue"
 date: 2026-01-26
 draft: false
-description: "monument in Bad Godesberg, Germany"
+description: "The Beethoven-Denkmal Rheinaue, situated in the picturesque region of Bad Godesberg, Germany, is a significant monument honoring one of the greatest..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

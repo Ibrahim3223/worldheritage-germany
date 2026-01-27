@@ -3,7 +3,7 @@ title: "Handel monument"
 site_name: "Handel monument"
 date: 2026-01-26
 draft: false
-description: "monument in Halle (Saale), Germany"
+description: "In the heart of Halle (Saale), Germany, stands the Handel Monument, a striking tribute dedicated to one of the city's most illustrious sons, George Frideric..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

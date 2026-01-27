@@ -3,7 +3,7 @@ title: "Blauer Steinbruch"
 site_name: "Blauer Steinbruch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Blauer Steinbruch, a nature reserve located in the picturesque region of Ehingen, Baden-Württemberg, Germany, offers visitors an immersive experience into..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

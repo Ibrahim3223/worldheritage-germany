@@ -3,7 +3,7 @@ title: "Wetterau-Limes"
 site_name: "Wetterau-Limes"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Wetterau-Limes, a significant Roman limes in Hesse, Germany, offers visitors an intriguing glimpse into the past, where ancient fortifications once..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Roman Limes"

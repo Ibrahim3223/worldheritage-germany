@@ -3,7 +3,7 @@ title: "Stadtmuseum Eilenburg"
 site_name: "Stadtmuseum Eilenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Eilenburg, Germany, the Stadtmuseum Eilenburg serves as a cultural hub, reflecting the town's rich history and heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

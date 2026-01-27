@@ -3,7 +3,7 @@ title: "North Elbian church library"
 site_name: "North Elbian church library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The North Elbian Church Library, located in the heart of Hamburg, Germany, is a remarkable destination for both bibliophiles and history enthusiasts alike."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Traditionsstätte Talsperre des Friedens"
 site_name: "Traditionsstätte Talsperre des Friedens"
 date: 2026-01-26
 draft: false
-description: "Museum im heutigen Ortsteil Sosa der Stadt Eibenstock im Erzgebirgskreis"
+description: "Traditionsstätte Talsperre des Friedens, located in the small district of Sosa within the town of Eibenstock, Germany, serves as a remarkable museum that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

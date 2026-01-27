@@ -3,7 +3,7 @@ title: "Druckereimuseum Hatten"
 site_name: "Druckereimuseum Hatten"
 date: 2026-01-26
 draft: false
-description: "former museum in Germany"
+description: "Druckereimuseum Hatten is an intriguing museum located in Hatten, Germany, dedicated to the art and history of printing."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Colombstein"
 site_name: "Colombstein"
 date: 2026-01-26
 draft: false
-description: "monument in Zwickau, Germany"
+description: "Colombstein, a notable monument located in the heart of Zwickau, Germany, is a striking example of cultural heritage that draws visitors interested in..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

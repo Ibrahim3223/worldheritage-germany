@@ -3,7 +3,7 @@ title: "Doberschauer Schanze"
 site_name: "Doberschauer Schanze"
 date: 2026-01-26
 draft: false
-description: "Burg in Sachsen, Deutschland"
+description: "The Doberschauer Schanze stands as a significant hillfort in the region of Doberschau-Gaußig, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Hillfort"

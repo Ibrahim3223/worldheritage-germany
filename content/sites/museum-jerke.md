@@ -3,7 +3,7 @@ title: "Museum Jerke"
 site_name: "Museum Jerke"
 date: 2026-01-26
 draft: false
-description: "private museum in Recklinghausen, Germany, devoted to Polish art"
+description: "Museum Jerke is a distinctive art museum located in Recklinghausen, Germany, dedicated exclusively to Polish art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

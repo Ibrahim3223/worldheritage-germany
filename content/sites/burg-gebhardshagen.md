@@ -3,7 +3,7 @@ title: "Burg Gebhardshagen"
 site_name: "Burg Gebhardshagen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gebhardshagen, a historic castle located in the Salzgitter region of Germany, presents an intriguing glimpse into the past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

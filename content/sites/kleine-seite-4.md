@@ -3,7 +3,7 @@ title: "Kleine Seite 4"
 site_name: "Kleine Seite 4"
 date: 2026-01-26
 draft: false
-description: "town hall in Hainewalde"
+description: "In the heart of Hainewalde, Kleine Seite 4 stands as a notable example of a town hall, reflecting both the architectural styles and the civic spirit of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

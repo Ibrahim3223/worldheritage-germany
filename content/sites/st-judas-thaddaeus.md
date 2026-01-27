@@ -3,7 +3,7 @@ title: "St. Judas Thaddäus"
 site_name: "St. Judas Thaddäus"
 date: 2026-01-26
 draft: false
-description: "church building in Staufenberg, Germany"
+description: "St. Judas Thaddäus is a captivating church building located in the serene town of Staufenberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

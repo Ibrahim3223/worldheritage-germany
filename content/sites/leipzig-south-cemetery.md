@@ -3,7 +3,7 @@ title: "Leipzig South Cemetery"
 site_name: "Leipzig South Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Leipzig"
+description: "Leipzig South Cemetery, located in Leipzig, Germany, is a significant burial ground that offers visitors a profound insight into the city's cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

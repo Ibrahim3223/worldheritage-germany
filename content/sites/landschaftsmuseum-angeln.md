@@ -3,7 +3,7 @@ title: "Landschaftsmuseum Angeln"
 site_name: "Landschaftsmuseum Angeln"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Landschaftsmuseum Angeln is a unique museum located in Langballig, Germany, that offers a glimpse into the cultural heritage of the Angeln region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

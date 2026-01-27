@@ -3,7 +3,7 @@ title: "Bielsteinhöhle mit Lukenloch"
 site_name: "Bielsteinhöhle mit Lukenloch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Horn-Bad Meinberg, North Rhine-Westphalia, Germany"
+description: "Bielsteinhöhle mit Lukenloch, located in the picturesque region of Horn-Bad Meinberg in North Rhine-Westphalia, Germany, is a nature reserve that offers a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

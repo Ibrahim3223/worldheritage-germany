@@ -3,7 +3,7 @@ title: "Protestant Church Wilnsdorf"
 site_name: "Protestant Church Wilnsdorf"
 date: 2026-01-26
 draft: false
-description: "Reformed church of a merged parish"
+description: "The Protestant Church Wilnsdorf, a striking Reformed church, serves as a focal point for the merged parish community in Wilnsdorf, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Ammersee"
 site_name: "Ammersee"
 date: 2026-01-26
 draft: false
-description: "lake in Upper Bavaria, Germany"
+description: "Ammersee, a picturesque lake located in Upper Bavaria, Germany, is not just a body of water; it is a significant cultural landmark that draws visitors for..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Visquard Church"
 site_name: "Visquard Church"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Germany"
+description: "Visquard Church, located in the picturesque region of Krummhörn, Germany, is a remarkable church building that stands as a testament to the spiritual and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

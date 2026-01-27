@@ -3,7 +3,7 @@ title: "Oleftalsperre"
 site_name: "Oleftalsperre"
 date: 2026-01-26
 draft: false
-description: "reservoir in Germany"
+description: "Oleftalsperre, located in the picturesque Hellenthal region of Germany, is not just a dam; it represents an innovative approach to water management and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

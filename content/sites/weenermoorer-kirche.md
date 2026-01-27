@@ -3,7 +3,7 @@ title: "Weenermoorer Kirche"
 site_name: "Weenermoorer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Weener, Germany"
+description: "Weenermoorer Kirche, a notable church building located in the quaint town of Weener, Germany, serves as a focal point for both the local community and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St.-Antonius-Kirche (Emden-Petkum)"
 site_name: "St.-Antonius-Kirche (Emden-Petkum)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Antonius-Kirche in Emden-Petkum is a striking example of ecclesiastical architecture that serves as both a place of worship and a community gathering spot."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

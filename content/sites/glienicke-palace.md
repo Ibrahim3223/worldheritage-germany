@@ -3,7 +3,7 @@ title: "Glienicke Palace"
 site_name: "Glienicke Palace"
 date: 2026-01-26
 draft: false
-description: "palace"
+description: "Glienicke Palace, located in the picturesque district of Steglitz-Zehlendorf in Berlin, Germany, is a site that offers visitors a glimpse into the opulent..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

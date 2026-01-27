@@ -3,7 +3,7 @@ title: "Heimat- und Bergbaumuseum"
 site_name: "Heimat- und Bergbaumuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimat- und Bergbaumuseum, located in Germany, serves as a fascinating repository for the country’s rich cultural heritage and mining history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

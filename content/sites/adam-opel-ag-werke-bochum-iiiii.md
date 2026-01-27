@@ -3,7 +3,7 @@ title: "Adam Opel AG Werke Bochum II/III"
 site_name: "Adam Opel AG Werke Bochum II/III"
 date: 2026-01-26
 draft: false
-description: "Produktionsstandort von Opel"
+description: "Adam Opel AG Werke Bochum II/III is a distinguished factory located in Germany, playing a significant role in the automotive industry."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

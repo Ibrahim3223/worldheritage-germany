@@ -3,7 +3,7 @@ title: "Königin-Victoria-Denkmal"
 site_name: "Königin-Victoria-Denkmal"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Königin-Victoria-Denkmal, located in Hochheim am Main, Germany, is a prominent monument that pays homage to Queen Victoria."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

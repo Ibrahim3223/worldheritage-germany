@@ -3,7 +3,7 @@ title: "Industriemuseum Elmshorn"
 site_name: "Industriemuseum Elmshorn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Industriemuseum Elmshorn serves as a vital cultural hub in the heart of Elmshorn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

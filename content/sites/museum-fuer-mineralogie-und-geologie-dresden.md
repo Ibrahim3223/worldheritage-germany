@@ -3,7 +3,7 @@ title: "Museum für Mineralogie und Geologie Dresden"
 site_name: "Museum für Mineralogie und Geologie Dresden"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum für Mineralogie und Geologie Dresden is a captivating destination for anyone intrigued by the natural world, specifically the vibrant realms of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

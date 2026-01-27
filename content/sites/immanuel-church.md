@@ -3,7 +3,7 @@ title: "Immanuel Church"
 site_name: "Immanuel Church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Immanuel Church, a notable church building located in the Pankow district of Berlin, is a striking example of architectural elegance and cultural significance."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

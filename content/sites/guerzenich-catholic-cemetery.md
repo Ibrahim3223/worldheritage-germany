@@ -3,7 +3,7 @@ title: "Gürzenich Catholic Cemetery"
 site_name: "Gürzenich Catholic Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Düren, Germany"
+description: "Gürzenich Catholic Cemetery, located in Düren, Germany, serves as a poignant reminder of the region's cultural and spiritual heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

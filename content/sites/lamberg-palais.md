@@ -3,7 +3,7 @@ title: "Lamberg-Palais"
 site_name: "Lamberg-Palais"
 date: 2026-01-26
 draft: false
-description: "building in Passau, Lower Bavaria, Germany"
+description: "Located in the heart of Passau, Germany, the Lamberg-Palais is an architectural gem that reflects the city’s rich history and cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

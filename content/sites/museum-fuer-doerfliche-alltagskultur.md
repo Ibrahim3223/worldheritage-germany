@@ -3,7 +3,7 @@ title: "Museum für dörfliche Alltagskultur"
 site_name: "Museum für dörfliche Alltagskultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für dörfliche Alltagskultur, located in Gersheim, Germany, offers visitors an insightful exploration into rural everyday life through various..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

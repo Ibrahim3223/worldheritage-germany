@@ -3,7 +3,7 @@ title: "Brauerei Bosch"
 site_name: "Brauerei Bosch"
 date: 2026-01-26
 draft: false
-description: "brewery"
+description: "Brauerei Bosch is a noteworthy brewery located in the picturesque town of Bad Laasphe, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Brewery"

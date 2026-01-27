@@ -3,7 +3,7 @@ title: "Palais am Prinzenberg"
 site_name: "Palais am Prinzenberg"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Palais am Prinzenberg is an exquisite palace located in the heart of Meiningen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

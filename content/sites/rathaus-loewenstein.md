@@ -3,7 +3,7 @@ title: "Rathaus Löwenstein"
 site_name: "Rathaus Löwenstein"
 date: 2026-01-26
 draft: false
-description: "Rathaus der Stadt Löwenstein"
+description: "In the heart of Löwenstein, Germany, the Rathaus Löwenstein stands as a significant landmark, embodying the charm and history of this quaint town."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

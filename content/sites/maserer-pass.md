@@ -3,7 +3,7 @@ title: "Maserer-Pass"
 site_name: "Maserer-Pass"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "Maserer-Pass, located in the picturesque District of Traunstein, Germany, is a remarkable mountain pass that offers a unique blend of natural beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

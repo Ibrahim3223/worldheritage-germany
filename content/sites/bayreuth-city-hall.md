@@ -3,7 +3,7 @@ title: "Bayreuth City Hall"
 site_name: "Bayreuth City Hall"
 date: 2026-01-26
 draft: false
-description: "City or town hall in Bayreuth, Bavaria, Germany; Bayreuth, Bavaria, Germany"
+description: "Bayreuth City Hall, located in the heart of Bayreuth, Bavaria, Germany, serves as a focal point for both local governance and public engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

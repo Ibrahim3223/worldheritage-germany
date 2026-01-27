@@ -3,7 +3,7 @@ title: "Alt St. Martin"
 site_name: "Alt St. Martin"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Bilk, Germany"
+description: "Alt St. Martin is a remarkable church building located in Düsseldorf-Bilk, Germany, embodying the architectural and cultural essence of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

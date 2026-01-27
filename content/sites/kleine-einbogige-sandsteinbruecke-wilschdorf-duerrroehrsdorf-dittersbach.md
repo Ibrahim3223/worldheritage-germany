@@ -3,7 +3,7 @@ title: "Kleine einbogige Sandsteinbrücke Wilschdorf (Dürrröhrsdorf-Dittersbac
 site_name: "Kleine einbogige Sandsteinbrücke Wilschdorf (Dürrröhrsdorf-Dittersbach)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Kleine einbogige Sandsteinbrücke Wilschdorf, located in the picturesque region of Dürrröhrsdorf-Dittersbach, Germany, is an elegant example of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

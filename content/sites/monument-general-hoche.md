@@ -3,7 +3,7 @@ title: "Monument General Hoche"
 site_name: "Monument General Hoche"
 date: 2026-01-26
 draft: false
-description: "monument in Weißenthurm, Germany"
+description: "In the heart of Weißenthurm, Germany, the Monument General Hoche stands as a significant historical landmark, inviting visitors to explore its cultural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

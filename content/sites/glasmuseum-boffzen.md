@@ -3,7 +3,7 @@ title: "Glasmuseum Boffzen"
 site_name: "Glasmuseum Boffzen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmuseum Boffzen is an intriguing destination for those interested in the art and history of glassmaking."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

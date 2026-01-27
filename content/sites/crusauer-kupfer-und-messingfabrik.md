@@ -3,7 +3,7 @@ title: "Crusauer Kupfer- und Messingfabrik"
 site_name: "Crusauer Kupfer- und Messingfabrik"
 date: 2026-01-26
 draft: false
-description: "factory at Flensburg Firth 1612-1962"
+description: "Crusauer Kupfer- und Messingfabrik, located in the scenic Harrislee region of Germany, offers visitors a unique glimpse into the industrial history of the area."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

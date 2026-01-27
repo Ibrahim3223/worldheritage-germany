@@ -3,7 +3,7 @@ title: "Belvedere Schöne Höhe"
 site_name: "Belvedere Schöne Höhe"
 date: 2026-01-26
 draft: false
-description: "Palast in Deutschland"
+description: "The Belvedere Schöne Höhe, located in the serene region of Dürrröhrsdorf-Dittersbach, Germany, is a captivating palace that invites visitors to explore its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

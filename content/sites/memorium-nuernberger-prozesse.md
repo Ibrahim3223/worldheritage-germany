@@ -3,7 +3,7 @@ title: "Memorium Nürnberger Prozesse"
 site_name: "Memorium Nürnberger Prozesse"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Memorium Nürnberger Prozesse, located in the historic city of Nuremberg, Germany, offers an insightful glimpse into one of the most pivotal judicial..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

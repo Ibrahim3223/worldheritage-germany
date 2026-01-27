@@ -3,7 +3,7 @@ title: "Uhlberg"
 site_name: "Uhlberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Uhlberg, a prominent mountain situated in Filderstadt, Germany, invites outdoor enthusiasts and nature lovers to explore its scenic landscapes and engage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

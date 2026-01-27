@@ -3,7 +3,7 @@ title: "Beckerturm St. Ingbert"
 site_name: "Beckerturm St. Ingbert"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Beckerturm in St. Ingbert is not just a mere structure; it is a landmark steeped in the historical narrative of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

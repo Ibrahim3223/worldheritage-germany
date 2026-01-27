@@ -3,7 +3,7 @@ title: "Ostfriedhof"
 site_name: "Ostfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Cologne, Germany"
+description: "Ostfriedhof, a serene cemetery located in the Dellbrück district of Cologne, Germany, offers visitors a reflective space imbued with layers of history and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

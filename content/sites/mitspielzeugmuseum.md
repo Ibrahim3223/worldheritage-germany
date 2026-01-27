@@ -3,7 +3,7 @@ title: "Mitspielzeugmuseum"
 site_name: "Mitspielzeugmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the vibrant district of Stötteritz, Germany, the Mitspielzeugmuseum is a unique museum dedicated to showcasing the history and evolution of play..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

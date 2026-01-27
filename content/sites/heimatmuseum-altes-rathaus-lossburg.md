@@ -3,7 +3,7 @@ title: "Heimatmuseum Altes Rathaus Loßburg"
 site_name: "Heimatmuseum Altes Rathaus Loßburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Altes Rathaus Loßburg is a cultural institution located in Germany that invites visitors to explore the local heritage and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

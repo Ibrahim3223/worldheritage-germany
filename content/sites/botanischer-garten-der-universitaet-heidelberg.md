@@ -3,7 +3,7 @@ title: "Botanischer Garten der Universität Heidelberg"
 site_name: "Botanischer Garten der Universität Heidelberg"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "In the heart of Heidelberg, Germany, the Botanischer Garten der Universität Heidelberg serves as a vibrant sanctuary for plant enthusiasts and nature lovers..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

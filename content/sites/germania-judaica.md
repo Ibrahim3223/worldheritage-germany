@@ -3,7 +3,7 @@ title: "Germania Judaica"
 site_name: "Germania Judaica"
 date: 2026-01-26
 draft: false
-description: "special library"
+description: "Germania Judaica is a special library located in the heart of Cologne, Germany. This unique institution plays a crucial role in preserving the history and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

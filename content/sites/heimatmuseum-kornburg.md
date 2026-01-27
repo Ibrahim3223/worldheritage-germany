@@ -3,7 +3,7 @@ title: "Heimatmuseum Kornburg"
 site_name: "Heimatmuseum Kornburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Kornburg, located in Germany, serves as a fascinating portal into the region's cultural heritage, showcasing the traditions and history..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

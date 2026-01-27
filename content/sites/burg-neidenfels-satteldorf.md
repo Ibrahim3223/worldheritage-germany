@@ -3,7 +3,7 @@ title: "Burg Neidenfels (Satteldorf)"
 site_name: "Burg Neidenfels (Satteldorf)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neidenfels, located in the quaint region of Satteldorf, Germany, is a castle that captures the imagination of history enthusiasts and casual visitors..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Saint Wolfgang Chapel (Aichstetten)"
 site_name: "Saint Wolfgang Chapel (Aichstetten)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Saint Wolfgang Chapel, located in Aichstetten, Germany, is a tranquil and historic site that draws visitors with its serene atmosphere and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Church in Löcknitz"
 site_name: "Church in Löcknitz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Löcknitz is a remarkable site located in the tranquil village of Löcknitz, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

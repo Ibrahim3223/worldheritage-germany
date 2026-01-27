@@ -3,7 +3,7 @@ title: "Fürther Tor"
 site_name: "Fürther Tor"
 date: 2026-01-26
 draft: false
-description: "Tor durch die Nürnberger Stadtmauer"
+description: "The Fürther Tor is one of the notable remnants of Nuremberg's historical city fortifications, embodying both the architectural prowess and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Saint Pancratius Church"
 site_name: "Saint Pancratius Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Saint Pancratius Church, located in the quaint town of Eslohe in the Sauerland region of Germany, is an architectural and cultural landmark that draws..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

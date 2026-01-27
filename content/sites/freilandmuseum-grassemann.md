@@ -3,7 +3,7 @@ title: "Freilandmuseum Grassemann"
 site_name: "Freilandmuseum Grassemann"
 date: 2026-01-26
 draft: false
-description: "building in Warmensteinach, Upper Franconia, Germany"
+description: "Freilandmuseum Grassemann is a captivating museum located in Warmensteinach, nestled within the picturesque region of Upper Franconia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

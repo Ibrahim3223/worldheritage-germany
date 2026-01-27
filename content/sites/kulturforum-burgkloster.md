@@ -3,7 +3,7 @@ title: "Kulturforum Burgkloster"
 site_name: "Kulturforum Burgkloster"
 date: 2026-01-26
 draft: false
-description: "museum and former monastery in Germany"
+description: "Kulturforum Burgkloster, situated in Lübeck's Old City, offers a captivating glimpse into the historical and cultural fabric of northern Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

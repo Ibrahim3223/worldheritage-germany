@@ -3,7 +3,7 @@ title: "St. Severin (Mehlem)"
 site_name: "St. Severin (Mehlem)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Severin in Mehlem, located in the picturesque region of Bad Godesberg, Germany, is a church building that stands as a significant landmark within its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

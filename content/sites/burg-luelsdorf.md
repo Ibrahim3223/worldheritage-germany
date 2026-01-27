@@ -3,7 +3,7 @@ title: "Burg Lülsdorf"
 site_name: "Burg Lülsdorf"
 date: 2026-01-26
 draft: false
-description: "castle in North Rhine-Westphalia, Germany"
+description: "Burg Lülsdorf is a notable castle located in the picturesque region of Niederkassel, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Cecilien-Schule"
 site_name: "Cecilien-Schule"
 date: 2026-01-26
 draft: false
-description: "school in Berlin-Wilmersdorf"
+description: "Cecilien-Schule, a prominent educational institution located in the heart of Berlin-Wilmersdorf, stands out not only as a place of learning but also as an..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

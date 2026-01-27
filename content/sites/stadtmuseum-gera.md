@@ -3,7 +3,7 @@ title: "Stadtmuseum Gera"
 site_name: "Stadtmuseum Gera"
 date: 2026-01-26
 draft: false
-description: "museum in Gera, Thuringia, Germany"
+description: "The Stadtmuseum Gera is a cultural institution located in the city of Gera, Thuringia, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

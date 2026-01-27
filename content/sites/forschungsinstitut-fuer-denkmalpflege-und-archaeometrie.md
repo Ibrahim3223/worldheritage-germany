@@ -3,7 +3,7 @@ title: "Forschungsinstitut für Denkmalpflege und Archäometrie"
 site_name: "Forschungsinstitut für Denkmalpflege und Archäometrie"
 date: 2026-01-26
 draft: false
-description: "archive organization in Potsdam, Germany"
+description: "In the heart of Potsdam, Germany, the Forschungsinstitut für Denkmalpflege und Archäometrie serves as a vital hub for the preservation of cultural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Institution"

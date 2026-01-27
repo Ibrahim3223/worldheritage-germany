@@ -3,7 +3,7 @@ title: "Zwinglikirche"
 site_name: "Zwinglikirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Friedrichshain, Germany"
+description: "Zwinglikirche, a notable church building located in the vibrant district of Friedrichshain-Kreuzberg, Berlin, serves as a significant landmark both..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

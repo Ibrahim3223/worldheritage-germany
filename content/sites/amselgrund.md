@@ -3,7 +3,7 @@ title: "Amselgrund"
 site_name: "Amselgrund"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "Amselgrund is a serene valley located in the Lohmen region of Germany, offering visitors a tranquil escape into nature."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"

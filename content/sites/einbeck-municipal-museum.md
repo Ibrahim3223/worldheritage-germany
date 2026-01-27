@@ -3,7 +3,7 @@ title: "Einbeck Municipal Museum"
 site_name: "Einbeck Municipal Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Einbeck Municipal Museum is a unique cultural institution located in the historic town of Einbeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

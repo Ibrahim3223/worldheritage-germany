@@ -3,7 +3,7 @@ title: "Couven-Museum"
 site_name: "Couven-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Aachen, Germany"
+description: "The Couven-Museum, located in the heart of Aachen, Germany, offers visitors an insightful glimpse into the cultural and historical fabric of this vibrant city."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

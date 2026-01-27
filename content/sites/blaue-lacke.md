@@ -3,7 +3,7 @@ title: "Blaue Lacke"
 site_name: "Blaue Lacke"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Blaue Lacke, situated in the picturesque region of Germany, is a serene lake that captivates visitors with its natural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

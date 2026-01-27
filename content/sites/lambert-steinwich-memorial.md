@@ -3,7 +3,7 @@ title: "Lambert Steinwich memorial"
 site_name: "Lambert Steinwich memorial"
 date: 2026-01-26
 draft: false
-description: "statue in Stralsund, Germany"
+description: "The Lambert Steinwich memorial, located in Stralsund, Germany, stands as a significant statue dedicated to a distinguished figure in the region's history."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Statue"

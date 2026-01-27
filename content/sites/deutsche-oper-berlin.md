@@ -3,7 +3,7 @@ title: "Deutsche Oper Berlin"
 site_name: "Deutsche Oper Berlin"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Deutsche Oper Berlin is a cornerstone of Germany’s vibrant cultural landscape, offering a captivating blend of traditional and contemporary opera."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"

@@ -3,7 +3,7 @@ title: "Städtisches Museum Kalkar"
 site_name: "Städtisches Museum Kalkar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtisches Museum Kalkar is a key cultural institution located in the heart of Kalkar, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

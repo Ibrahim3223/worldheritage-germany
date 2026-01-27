@@ -3,7 +3,7 @@ title: "Regional State Library for Regensburg"
 site_name: "Regional State Library for Regensburg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Regional State Library for Regensburg serves as a vital cultural hub within the historic city of Regensburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

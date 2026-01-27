@@ -3,7 +3,7 @@ title: "Seichereck"
 site_name: "Seichereck"
 date: 2026-01-26
 draft: false
-description: "mountain shoulder and mountain pass in the Allgäu Alps in Bavaria, Germany"
+description: "Seichereck, a captivating mountain pass located in the Allgäu Alps of Bavaria, Germany, offers visitors a unique opportunity to experience the stunning..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

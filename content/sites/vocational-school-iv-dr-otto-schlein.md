@@ -3,7 +3,7 @@ title: "Vocational school IV Dr. Otto Schlein"
 site_name: "Vocational school IV Dr. Otto Schlein"
 date: 2026-01-26
 draft: false
-description: "vocational school in Magdeburg, Saxony-Anhalt, Germany"
+description: "The Vocational School IV Dr. Otto Schlein in Magdeburg, Saxony-Anhalt, Germany, represents an important establishment in the region's educational landscape."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "School Building"

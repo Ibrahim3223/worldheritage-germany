@@ -3,7 +3,7 @@ title: "Evangelische Kapelle Berkach"
 site_name: "Evangelische Kapelle Berkach"
 date: 2026-01-26
 draft: false
-description: "church building in Berkach"
+description: "The Evangelische Kapelle Berkach, a quaint chapel located in the picturesque region of Groß-Gerau, Germany, offers visitors not only a glimpse into its..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

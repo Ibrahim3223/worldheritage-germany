@@ -3,7 +3,7 @@ title: "Gentilhaus"
 site_name: "Gentilhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gentilhaus, an art museum located in the picturesque region of Aschaffenburg, Germany, is a cultural gem that invites visitors to explore its captivating..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

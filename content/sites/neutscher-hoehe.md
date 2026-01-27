@@ -3,7 +3,7 @@ title: "Neutscher Höhe"
 site_name: "Neutscher Höhe"
 date: 2026-01-26
 draft: false
-description: "mountain pass in Odenwald, Germany"
+description: "Neutscher Höhe is a notable mountain pass situated in the picturesque Odenwald region of Germany, within the boundaries of Seeheim-Jugenheim."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

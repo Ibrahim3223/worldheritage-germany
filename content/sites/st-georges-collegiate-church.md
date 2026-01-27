@@ -3,7 +3,7 @@ title: "St. George's Collegiate Church"
 site_name: "St. George's Collegiate Church"
 date: 2026-01-26
 draft: false
-description: "church building in Tübingen, Baden-Württemberg, Germany"
+description: "St. George's Collegiate Church, located in the heart of Tübingen, Germany, is a remarkable church building that draws visitors with its historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

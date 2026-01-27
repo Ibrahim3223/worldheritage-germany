@@ -3,7 +3,7 @@ title: "Alter Friedhof (Dirmstein)"
 site_name: "Alter Friedhof (Dirmstein)"
 date: 2026-01-26
 draft: false
-description: "cemetery in Rhineland-Palatinate, Germany"
+description: "Alter Friedhof, located in the quaint village of Dirmstein in Rhineland-Palatinate, Germany, is a cemetery that encapsulates the area's historical and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

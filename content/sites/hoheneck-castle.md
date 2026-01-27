@@ -3,7 +3,7 @@ title: "Hoheneck Castle"
 site_name: "Hoheneck Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hoheneck Castle, located in the quaint region of Ipsheim, Germany, is a fascinating site that captures the imagination of history enthusiasts and travelers..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

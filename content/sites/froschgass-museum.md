@@ -3,7 +3,7 @@ title: "Froschgass-Museum"
 site_name: "Froschgass-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Froschgass-Museum, located in the heart of Germany, is a captivating destination for those interested in exploring the cultural heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

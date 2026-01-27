@@ -3,7 +3,7 @@ title: "Beeckerwerth coal mine"
 site_name: "Beeckerwerth coal mine"
 date: 2026-01-26
 draft: false
-description: "former coal mine in Duisburg, Germany"
+description: "The Beeckerwerth coal mine, located in Duisburg, Germany, is a site that encapsulates the industrial heritage of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

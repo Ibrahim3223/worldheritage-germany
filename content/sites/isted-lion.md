@@ -3,7 +3,7 @@ title: "Isted Lion"
 site_name: "Isted Lion"
 date: 2026-01-26
 draft: false
-description: "sculpture"
+description: "The Isted Lion stands as a remarkable monument in Flensburg, Germany, capturing the attention of both locals and visitors."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monument"

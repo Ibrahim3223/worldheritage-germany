@@ -3,7 +3,7 @@ title: "Town hall Iserlohn"
 site_name: "Town hall Iserlohn"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Iserlohn, Märkischer Kreis, Nordrhein-Westfalen"
+description: "Nestled in the heart of North Rhine-Westphalia, the Town Hall of Iserlohn serves as a remarkable emblem of civic pride and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

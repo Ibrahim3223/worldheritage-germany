@@ -3,7 +3,7 @@ title: "Münzkabinett Berlin"
 site_name: "Münzkabinett Berlin"
 date: 2026-01-26
 draft: false
-description: "numismatic collection"
+description: "In the heart of Berlin, the Münzkabinett Berlin stands as a distinguished repository of numismatic history, showcasing an extensive collection that tells..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

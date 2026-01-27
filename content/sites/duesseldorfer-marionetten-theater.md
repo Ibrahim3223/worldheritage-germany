@@ -3,7 +3,7 @@ title: "Düsseldorfer Marionetten-Theater"
 site_name: "Düsseldorfer Marionetten-Theater"
 date: 2026-01-26
 draft: false
-description: "theater in Germany"
+description: "The Düsseldorfer Marionetten-Theater is a captivating theater building located in the vibrant city of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

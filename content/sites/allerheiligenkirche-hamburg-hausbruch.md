@@ -3,7 +3,7 @@ title: "Allerheiligenkirche, Hamburg-Hausbruch"
 site_name: "Allerheiligenkirche, Hamburg-Hausbruch"
 date: 2026-01-26
 draft: false
-description: "church building in Neugraben-Fischbek, Germany"
+description: "Allerheiligenkirche, located in the district of Hamburg-Hausbruch, Germany, is an architectural and cultural landmark that reflects the religious heritage..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

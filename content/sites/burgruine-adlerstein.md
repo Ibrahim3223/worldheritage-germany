@@ -3,7 +3,7 @@ title: "Burgruine Adlerstein"
 site_name: "Burgruine Adlerstein"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burgruine Adlerstein presents a fascinating glimpse into Germany's medieval architectural heritage, inviting visitors to explore the remnants of a once..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

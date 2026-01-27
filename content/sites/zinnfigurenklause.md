@@ -3,7 +3,7 @@ title: "Zinnfigurenklause"
 site_name: "Zinnfigurenklause"
 date: 2026-01-26
 draft: false
-description: "German museum"
+description: "In the bustling town of Freiburg im Breisgau, Germany, the Zinnfigurenklause stands as a unique museum dedicated to the art of tin figure crafting."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

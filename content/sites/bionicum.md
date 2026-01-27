@@ -3,7 +3,7 @@ title: "Bionicum"
 site_name: "Bionicum"
 date: 2026-01-26
 draft: false
-description: "museum about bionics in Nuremberg, Germany"
+description: "Bionicum, located in the vibrant city of Nuremberg, Germany, serves as a pioneering museum dedicated to the fascinating intersection of biology and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

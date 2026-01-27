@@ -3,7 +3,7 @@ title: "Aachen Cathedral Treasury"
 site_name: "Aachen Cathedral Treasury"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Aachen Cathedral Treasury, located in the historic city of Aachen, Germany, is a remarkable art museum that houses an impressive collection of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

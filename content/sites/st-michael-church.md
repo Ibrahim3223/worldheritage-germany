@@ -3,7 +3,7 @@ title: "St. Michael Church"
 site_name: "St. Michael Church"
 date: 2026-01-26
 draft: false
-description: "German Lutheran church in Detmold"
+description: "St. Michael Church, located in the heart of Detmold, Germany, is a remarkable example of German Lutheran architecture that serves as both a place of worship..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

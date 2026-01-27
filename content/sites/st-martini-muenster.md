@@ -3,7 +3,7 @@ title: "St. Martini (Münster)"
 site_name: "St. Martini (Münster)"
 date: 2026-01-26
 draft: false
-description: "church building in Münster, Germany"
+description: "St. Martini, a prominent church building located in Münster, Germany, represents a significant piece of the city’s religious and architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

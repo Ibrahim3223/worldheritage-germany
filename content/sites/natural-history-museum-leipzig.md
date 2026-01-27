@@ -3,7 +3,7 @@ title: "Natural History Museum Leipzig"
 site_name: "Natural History Museum Leipzig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Natural History Museum Leipzig serves as a remarkable portal into the wonders of the natural world, engaging visitors with its diverse exhibits that..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

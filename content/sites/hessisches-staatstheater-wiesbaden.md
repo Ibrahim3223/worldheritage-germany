@@ -3,7 +3,7 @@ title: "Hessisches Staatstheater Wiesbaden"
 site_name: "Hessisches Staatstheater Wiesbaden"
 date: 2026-01-26
 draft: false
-description: "theatre and opera house in Wiesbaden, Germany"
+description: "The Hessisches Staatstheater Wiesbaden is a prominent theatre and opera house located in the heart of Wiesbaden, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

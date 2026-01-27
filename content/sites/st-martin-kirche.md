@@ -3,7 +3,7 @@ title: "St.-Martin-Kirche"
 site_name: "St.-Martin-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Martin-Kirche stands as a striking example of ecclesiastical architecture in Ludwigshafen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

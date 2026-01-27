@@ -3,7 +3,7 @@ title: "Star Pit"
 site_name: "Star Pit"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Star Pit in Cologne, Germany, is more than just a fountain; it is a striking example of the city’s commitment to public art and cultural expression."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

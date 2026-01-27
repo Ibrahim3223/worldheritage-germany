@@ -3,7 +3,7 @@ title: "Bugker See"
 site_name: "Bugker See"
 date: 2026-01-26
 draft: false
-description: "lake in Storkow (Mark), Brandenburg, Germany"
+description: "Bugker See is a tranquil lake located in the picturesque region of Storkow (Mark), Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

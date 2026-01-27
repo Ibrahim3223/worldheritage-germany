@@ -3,7 +3,7 @@ title: "Russian church Bad Kissingen"
 site_name: "Russian church Bad Kissingen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-114-89 (0) in Bad Kissingen, Bavaria"
+description: "The Russian Church in Bad Kissingen stands as a distinctive cultural heritage monument in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

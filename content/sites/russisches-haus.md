@@ -3,7 +3,7 @@ title: "Russisches Haus"
 site_name: "Russisches Haus"
 date: 2026-01-26
 draft: false
-description: "Russian (formerly Soviet) culture centre and cinema in Mitte, Berlin, Germany"
+description: "In the heart of Berlin's Bezirk Mitte, the Russisches Haus serves as a vibrant cultural hub dedicated to Russian heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

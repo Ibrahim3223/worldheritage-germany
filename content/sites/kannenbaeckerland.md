@@ -3,7 +3,7 @@ title: "Kannenbäckerland"
 site_name: "Kannenbäckerland"
 date: 2026-01-26
 draft: false
-description: "cultural landscape in central Germany known for its pottery"
+description: "Kannenbäckerland, located in the heart of Rhineland-Palatinate, Germany, is a cultural landscape celebrated for its long-standing tradition of pottery making."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Landscape"

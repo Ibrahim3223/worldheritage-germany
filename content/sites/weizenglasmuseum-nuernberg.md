@@ -3,7 +3,7 @@ title: "Weizenglasmuseum Nürnberg"
 site_name: "Weizenglasmuseum Nürnberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Weizenglasmuseum Nürnberg, located in the heart of Nuremberg, Germany, serves as a fascinating repository dedicated to the art and history of glass..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

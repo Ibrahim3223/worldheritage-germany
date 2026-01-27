@@ -3,7 +3,7 @@ title: "Flögelner See"
 site_name: "Flögelner See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Flögelner See, located in the Geestland region of Germany, is a serene lake that offers visitors a tranquil escape into nature."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Lake"

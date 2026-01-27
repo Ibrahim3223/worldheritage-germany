@@ -3,7 +3,7 @@ title: "St. Nicholas Church, Fehmarn"
 site_name: "St. Nicholas Church, Fehmarn"
 date: 2026-01-26
 draft: false
-description: "church building in Schleswig-Holstein state, Germany"
+description: "St. Nicholas Church in Fehmarn is a noteworthy architectural and cultural landmark situated in Schleswig-Holstein, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

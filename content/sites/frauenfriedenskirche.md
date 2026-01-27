@@ -3,7 +3,7 @@ title: "Frauenfriedenskirche"
 site_name: "Frauenfriedenskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Frauenfriedenskirche, a striking church building located in Frankfurt-Innenstadt II, serves as a significant spiritual and cultural landmark within Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

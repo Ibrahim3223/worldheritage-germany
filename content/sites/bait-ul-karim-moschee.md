@@ -3,7 +3,7 @@ title: "Bait-ul-Karim-Moschee"
 site_name: "Bait-ul-Karim-Moschee"
 date: 2026-01-26
 draft: false
-description: "mosque in Stade, Germany"
+description: "The Bait-ul-Karim Mosque in Stade, Germany, serves as a vibrant focal point for the local Muslim community and a notable landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

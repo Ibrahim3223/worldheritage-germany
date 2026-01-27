@@ -3,7 +3,7 @@ title: "Bahnkolk Upgant-Schott"
 site_name: "Bahnkolk Upgant-Schott"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bahnkolk Upgant-Schott is a captivating nature reserve located in Lower Saxony, Germany, that offers visitors a unique glimpse into the region's ecological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Breites Wasser"
 site_name: "Breites Wasser"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Breites Wasser in Osterholz-Scharmbeck, Germany, represents a former nature reserve that offers visitors insight into the region's natural heritage and..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

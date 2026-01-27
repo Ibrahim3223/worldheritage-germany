@@ -3,7 +3,7 @@ title: "Church in Roidin"
 site_name: "Church in Roidin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Roidin, located in the tranquil region of Utzedel, Germany, serves as a significant landmark with both historical and cultural importance."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

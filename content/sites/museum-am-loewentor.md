@@ -3,7 +3,7 @@ title: "Museum am Löwentor"
 site_name: "Museum am Löwentor"
 date: 2026-01-26
 draft: false
-description: "paleontology and geology museum in Stuttgart, Germany"
+description: "Situated in the vibrant city of Stuttgart, Germany, the Museum am Löwentor is a prominent institution dedicated to the fields of paleontology and geology."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Paulinus (Welling)"
 site_name: "St. Paulinus (Welling)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Welling"
+description: "St. Paulinus in Welling, Rhineland-Palatinate, is a striking church building that reflects the spiritual and cultural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

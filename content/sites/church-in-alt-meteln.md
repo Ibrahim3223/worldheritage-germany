@@ -3,7 +3,7 @@ title: "Church in Alt Meteln"
 site_name: "Church in Alt Meteln"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Alt Meteln represents a notable element of Germany's rich ecclesiastical heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

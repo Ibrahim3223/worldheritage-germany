@@ -3,7 +3,7 @@ title: "Burg Körse"
 site_name: "Burg Körse"
 date: 2026-01-26
 draft: false
-description: "castle in Saxony, Germany"
+description: "Burg Körse is a captivating castle situated in the picturesque region of Schirgiswalde-Kirschau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

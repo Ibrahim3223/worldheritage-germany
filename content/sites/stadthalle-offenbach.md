@@ -3,7 +3,7 @@ title: "Stadthalle Offenbach"
 site_name: "Stadthalle Offenbach"
 date: 2026-01-26
 draft: false
-description: "multifunctional convention and event center in Offenbach am Main, Germany"
+description: "The Stadthalle Offenbach serves as a vibrant multi-purpose hall located in Offenbach am Main, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

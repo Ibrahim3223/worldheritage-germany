@@ -3,7 +3,7 @@ title: "Church of St. Lawrence"
 site_name: "Church of St. Lawrence"
 date: 2026-01-26
 draft: false
-description: "church on the island of Föhr"
+description: "The Church of St. Lawrence, located on the picturesque island of Föhr in Germany, serves as a striking example of ecclesiastical architecture and cultural..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Aischgründer Karpfenmuseum"
 site_name: "Aischgründer Karpfenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Aischgründer Karpfenmuseum, located in Neustadt an der Aisch, Germany, is a unique institution dedicated to exploring the cultural and culinary..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

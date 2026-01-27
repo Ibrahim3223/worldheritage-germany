@@ -3,7 +3,7 @@ title: "Kleiner Arbersee"
 site_name: "Kleiner Arbersee"
 date: 2026-01-26
 draft: false
-description: "lake in Lohberg, Bavaria, Germany"
+description: "Kleiner Arbersee is a serene lake located in the picturesque region of Lohberg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

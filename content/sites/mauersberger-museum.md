@@ -3,7 +3,7 @@ title: "Mauersberger-Museum"
 site_name: "Mauersberger-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Großrückerswalde, Saxony, Germany"
+description: "The Mauersberger-Museum, situated in the quaint village of Großrückerswalde in Saxony, Germany, is a cultural institution dedicated to preserving and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

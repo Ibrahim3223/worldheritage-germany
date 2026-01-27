@@ -3,7 +3,7 @@ title: "Synagogue Haigerloch"
 site_name: "Synagogue Haigerloch"
 date: 2026-01-26
 draft: false
-description: "synagogue in Haigerloch, Germany"
+description: "The Synagogue Haigerloch is a significant cultural landmark located in Haigerloch, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

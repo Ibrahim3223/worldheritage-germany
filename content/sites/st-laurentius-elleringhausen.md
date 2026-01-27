@@ -3,7 +3,7 @@ title: "St. Laurentius (Elleringhausen)"
 site_name: "St. Laurentius (Elleringhausen)"
 date: 2026-01-26
 draft: false
-description: "church building in Olsberg, Germany"
+description: "St. Laurentius in Elleringhausen is a remarkable church building located in the picturesque region of Olsberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

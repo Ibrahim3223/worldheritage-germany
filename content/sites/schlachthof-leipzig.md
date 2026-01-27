@@ -3,7 +3,7 @@ title: "Schlachthof Leipzig"
 site_name: "Schlachthof Leipzig"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Schlachthof Leipzig, nestled in the heart of Leipzig, Germany, is a site that encapsulates the industrial heritage of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

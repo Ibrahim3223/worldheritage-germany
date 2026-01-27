@@ -3,7 +3,7 @@ title: "Attel Abbey"
 site_name: "Attel Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Attel Abbey, a tranquil monastery located in the charming region of Wasserburg am Inn in Germany, offers visitors a unique glimpse into monastic life and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

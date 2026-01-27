@@ -3,7 +3,7 @@ title: "Walhalla-Theater"
 site_name: "Walhalla-Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre in Mitte, Berlin, Germany"
+description: "The Walhalla-Theater, a notable former movie theater located in the Bezirk Mitte district of Berlin, invites visitors into a world where film and history..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

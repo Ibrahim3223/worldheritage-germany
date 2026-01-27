@@ -3,7 +3,7 @@ title: "Burg Hervetsweiler"
 site_name: "Burg Hervetsweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hervetsweiler, a captivating castle located in the picturesque region of Baden-Württemberg, Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

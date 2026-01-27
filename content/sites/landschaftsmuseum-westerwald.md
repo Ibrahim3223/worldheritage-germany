@@ -3,7 +3,7 @@ title: "Landschaftsmuseum Westerwald"
 site_name: "Landschaftsmuseum Westerwald"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Landschaftsmuseum Westerwald is a captivating museum located in Hachenburg, Germany, dedicated to illuminating the cultural heritage and traditions of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

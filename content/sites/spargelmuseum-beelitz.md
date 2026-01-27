@@ -3,7 +3,7 @@ title: "Spargelmuseum Beelitz"
 site_name: "Spargelmuseum Beelitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Spargelmuseum Beelitz offers a unique glimpse into the world of asparagus cultivation, celebrating the region's reputation as a premier producer of this..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

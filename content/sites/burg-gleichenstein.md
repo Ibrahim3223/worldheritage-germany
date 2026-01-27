@@ -3,7 +3,7 @@ title: "Burg Gleichenstein"
 site_name: "Burg Gleichenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gleichenstein is a captivating castle located in the serene region of Wachstedt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

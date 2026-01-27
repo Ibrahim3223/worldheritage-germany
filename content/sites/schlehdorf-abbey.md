@@ -3,7 +3,7 @@ title: "Schlehdorf Abbey"
 site_name: "Schlehdorf Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Bavaria, Germany"
+description: "Schlehdorf Abbey, located in the serene landscapes of Bavaria, Germany, serves as a significant monument of monastic history and architectural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

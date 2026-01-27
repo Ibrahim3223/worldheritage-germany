@@ -3,7 +3,7 @@ title: "Erika-Fuchs-Haus"
 site_name: "Erika-Fuchs-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Schwarzenbach an der Saale, Germany"
+description: "The Erika-Fuchs-Haus, located in the quaint town of Schwarzenbach an der Saale, Germany, serves as a captivating museum dedicated to the life and work of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

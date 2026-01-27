@@ -3,7 +3,7 @@ title: "Mozart Monument, Frankfurt"
 site_name: "Mozart Monument, Frankfurt"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Mozart Monument in Frankfurt is a striking tribute to one of the most revered composers in Western classical music."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

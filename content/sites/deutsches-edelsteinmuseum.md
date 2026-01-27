@@ -3,7 +3,7 @@ title: "Deutsches Edelsteinmuseum"
 site_name: "Deutsches Edelsteinmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Edelsteinmuseum, located in Idar-Oberstein, Germany, is a celebrated institution dedicated to the appreciation and study of gemstones and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

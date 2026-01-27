@@ -3,7 +3,7 @@ title: "Burg Niederasphe"
 site_name: "Burg Niederasphe"
 date: 2026-01-26
 draft: false
-description: "demolished castle in Germany"
+description: "Burg Niederasphe, a once formidable castle in Germany, invites visitors to delve into the echoes of its storied past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

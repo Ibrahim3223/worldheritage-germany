@@ -3,7 +3,7 @@ title: "St. Maria vom Frieden"
 site_name: "St. Maria vom Frieden"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt-Süd, Cologne, Germany"
+description: "St. Maria vom Frieden is a captivating church building located in the historic district of Altstadt-Süd, Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

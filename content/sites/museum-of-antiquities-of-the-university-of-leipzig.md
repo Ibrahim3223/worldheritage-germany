@@ -3,7 +3,7 @@ title: "Museum of Antiquities of the University of Leipzig"
 site_name: "Museum of Antiquities of the University of Leipzig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of Antiquities of the University of Leipzig is a significant cultural institution located in the heart of Leipzig, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

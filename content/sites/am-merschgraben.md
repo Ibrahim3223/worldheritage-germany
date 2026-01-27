@@ -3,7 +3,7 @@ title: "Am Merschgraben"
 site_name: "Am Merschgraben"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Rheda-Wiedenbrück, North Rhine-Westphalia, Germany"
+description: "Am Merschgraben is a notable nature reserve located in Rheda-Wiedenbrück, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

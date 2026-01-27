@@ -3,7 +3,7 @@ title: "St. Eugenius"
 site_name: "St. Eugenius"
 date: 2026-01-26
 draft: false
-description: "church building in Döhren-Wülfel, Germany"
+description: "St. Eugenius, a notable church building located in the Döhren-Wülfel district of Germany, serves as a significant landmark within its community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

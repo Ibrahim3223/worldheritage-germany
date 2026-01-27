@@ -3,7 +3,7 @@ title: "Baumbachhaus Kranichfeld"
 site_name: "Baumbachhaus Kranichfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Baumbachhaus Kranichfeld serves as a captivating museum located in the small town of Kranichfeld, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

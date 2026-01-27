@@ -3,7 +3,7 @@ title: "Seepferdchenbrunnen"
 site_name: "Seepferdchenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Seepferdchenbrunnen, a charming fountain located in Aachen, Germany, is an inviting focal point for locals and visitors alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

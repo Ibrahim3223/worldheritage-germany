@@ -3,7 +3,7 @@ title: "Munich Heimeranplatz station"
 site_name: "Munich Heimeranplatz station"
 date: 2026-01-26
 draft: false
-description: "train and metro station in Munich, Germany"
+description: "Munich Heimeranplatz station serves as a vital hub in the city’s expansive transport network, facilitating both regional and metropolitan travel."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

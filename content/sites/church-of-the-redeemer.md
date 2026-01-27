@@ -3,7 +3,7 @@ title: "Church of the Redeemer"
 site_name: "Church of the Redeemer"
 date: 2026-01-26
 draft: false
-description: "church in Potsdam, Germany"
+description: "The Church of the Redeemer, located in the city of Potsdam, Germany, is a striking example of ecclesiastical architecture that reflects the cultural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Botanischer Garten Wuppertal"
 site_name: "Botanischer Garten Wuppertal"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Wuppertal, Germany"
+description: "The Botanischer Garten Wuppertal is a captivating botanical garden located in Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

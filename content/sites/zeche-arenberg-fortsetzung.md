@@ -3,7 +3,7 @@ title: "Zeche Arenberg-Fortsetzung"
 site_name: "Zeche Arenberg-Fortsetzung"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Arenberg-Fortsetzung, located in Bottrop, Germany, is a significant historical site that represents the rich industrial heritage of the Ruhr area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

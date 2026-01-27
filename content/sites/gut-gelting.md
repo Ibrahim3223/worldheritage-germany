@@ -3,7 +3,7 @@ title: "Gut Gelting"
 site_name: "Gut Gelting"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Gut Gelting, a notable manor house located in the picturesque region of Gelting, Germany, serves as a remarkable testament to the country's architectural..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

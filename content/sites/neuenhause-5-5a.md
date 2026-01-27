@@ -3,7 +3,7 @@ title: "Neuenhause 5, 5a"
 site_name: "Neuenhause 5, 5a"
 date: 2026-01-26
 draft: false
-description: "Gebäudeensemble in Ennepetal, Nordrhein-Westfalen, Deutschland"
+description: "Neuenhause 5, 5a is an architectural ensemble located in the heart of Ennepetal, a charming town in North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Alter Friedhof (Baiertal)"
 site_name: "Alter Friedhof (Baiertal)"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wiesloch, Germany"
+description: "Alter Friedhof, located in Wiesloch, Germany, is a cemetery that holds historical significance within the region, offering visitors a reflective and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

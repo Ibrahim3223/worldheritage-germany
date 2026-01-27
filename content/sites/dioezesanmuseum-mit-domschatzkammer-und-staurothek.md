@@ -3,7 +3,7 @@ title: "Diözesanmuseum mit Domschatzkammer und Staurothek"
 site_name: "Diözesanmuseum mit Domschatzkammer und Staurothek"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Diözesanmuseum mit Domschatzkammer und Staurothek is a remarkable museum located in Germany, showcasing a rich collection that highlights the country’s..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

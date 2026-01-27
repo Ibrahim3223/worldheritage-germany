@@ -3,7 +3,7 @@ title: "Ss. Peter and Paul, Wannsee"
 site_name: "Ss. Peter and Paul, Wannsee"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Ss. Peter and Paul, located in the scenic district of Wannsee within Steglitz-Zehlendorf, Germany, is a church building that embodies the spiritual essence..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

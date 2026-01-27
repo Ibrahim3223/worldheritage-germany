@@ -3,7 +3,7 @@ title: "Seligenstädter Fastnachtsmuseum"
 site_name: "Seligenstädter Fastnachtsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Seligenstädter Fastnachtsmuseum is a unique cultural institution located in Germany, dedicated to the celebration and preservation of carnival traditions."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

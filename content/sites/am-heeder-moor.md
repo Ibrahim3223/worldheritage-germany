@@ -3,7 +3,7 @@ title: "Am Heeder Moor"
 site_name: "Am Heeder Moor"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Am Heeder Moor, located in the serene Diepholz region of Lower Saxony, Germany, was once a nature reserve that held significant ecological value."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

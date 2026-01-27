@@ -3,7 +3,7 @@ title: "Landesbibliothekszentrum Rheinland-Pfalz"
 site_name: "Landesbibliothekszentrum Rheinland-Pfalz"
 date: 2026-01-26
 draft: false
-description: "bibliothekarische Dienstleistungseinrichtung"
+description: "The Landesbibliothekszentrum Rheinland-Pfalz, located in Germany, serves as a vital bibliothekarische Dienstleistungseinrichtung, or library service..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

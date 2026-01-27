@@ -3,7 +3,7 @@ title: "Schlossberg"
 site_name: "Schlossberg"
 date: 2026-01-26
 draft: false
-description: "mountain near Freiburg im Breisgau, Germany"
+description: "Schlossberg is a prominent mountain located near Freiburg im Breisgau, Germany. This natural landmark not only offers a striking profile against the city’s..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

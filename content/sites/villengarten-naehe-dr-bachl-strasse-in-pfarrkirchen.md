@@ -3,7 +3,7 @@ title: "Villengarten Nähe Dr.-Bachl-Straße in Pfarrkirchen"
 site_name: "Villengarten Nähe Dr.-Bachl-Straße in Pfarrkirchen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-2-77-138-17 (2) in Pfarrkirchen, Bavaria"
+description: "The Villengarten Nähe Dr.-Bachl-Straße in Pfarrkirchen is a captivating garden that reflects the cultural heritage of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

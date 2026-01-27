@@ -3,7 +3,7 @@ title: "Brauerei Gebrüder Jäcklein"
 site_name: "Brauerei Gebrüder Jäcklein"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Brauerei Gebrüder Jäcklein, located in Germany, is a notable factory that encapsulates the country's rich brewing tradition."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Factory"

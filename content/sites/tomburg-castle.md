@@ -3,7 +3,7 @@ title: "Tomburg Castle"
 site_name: "Tomburg Castle"
 date: 2026-01-26
 draft: false
-description: "Castle near Rheinbach, Germany"
+description: "Tomburg Castle, located near Rheinbach in Germany, is an impressive historical structure that captures the imagination with its storied past and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

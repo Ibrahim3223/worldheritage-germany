@@ -3,7 +3,7 @@ title: "Stiftskirche St. Servatius"
 site_name: "Stiftskirche St. Servatius"
 date: 2026-01-26
 draft: false
-description: "church in Quedlinburg"
+description: "Stiftskirche St. Servatius is a remarkable church building located in the historic town of Quedlinburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

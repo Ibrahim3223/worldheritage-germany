@@ -3,7 +3,7 @@ title: "Neuer Eiserner Mann"
 site_name: "Neuer Eiserner Mann"
 date: 2026-01-26
 draft: false
-description: "sculpture in Kleve, Germany"
+description: "In the heart of Kleve, Germany, stands the Neuer Eiserner Mann, a striking statue that symbolizes both the artistic heritage and cultural identity of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

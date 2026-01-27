@@ -3,7 +3,7 @@ title: "Platz der Synagoge"
 site_name: "Platz der Synagoge"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Platz der Synagoge in Lauterbach, Germany, is an architectural structure that serves as a poignant reminder of the Jewish heritage in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

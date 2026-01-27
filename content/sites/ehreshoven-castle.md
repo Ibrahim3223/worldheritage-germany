@@ -3,7 +3,7 @@ title: "Ehreshoven Castle"
 site_name: "Ehreshoven Castle"
 date: 2026-01-26
 draft: false
-description: "German Castle"
+description: "Ehreshoven Castle is a striking example of German architecture and history, situated in the tranquil region of Engelskirchen."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

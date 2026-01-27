@@ -3,7 +3,7 @@ title: "Cologne Cathedral Treasury"
 site_name: "Cologne Cathedral Treasury"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Cologne, Germany, the Cologne Cathedral Treasury emerges as a remarkable museum dedicated to preserving and showcasing the sacred artifacts..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

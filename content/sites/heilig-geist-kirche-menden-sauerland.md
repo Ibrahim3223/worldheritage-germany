@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kirche (Menden (Sauerland))"
 site_name: "Heilig-Geist-Kirche (Menden (Sauerland))"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Geist-Kirche, located in the town of Menden in the Sauerland region of Germany, is an evocative church building that encapsulates both spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

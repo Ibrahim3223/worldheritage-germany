@@ -3,7 +3,7 @@ title: "Maste-Barendorf"
 site_name: "Maste-Barendorf"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Maste-Barendorf is a museum located in Iserlohn, Germany, dedicated to preserving and showcasing the cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Cronenberg Protestant Cemetery"
 site_name: "Cronenberg Protestant Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wuppertal, Germany"
+description: "Cronenberg Protestant Cemetery, located in Wuppertal, Germany, serves as a poignant reminder of the region's cultural history and the lives that once..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

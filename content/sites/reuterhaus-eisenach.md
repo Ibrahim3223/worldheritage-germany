@@ -3,7 +3,7 @@ title: "Reuterhaus Eisenach"
 site_name: "Reuterhaus Eisenach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Reuterhaus Eisenach stands as an important cultural institution in the heart of Eisenach, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

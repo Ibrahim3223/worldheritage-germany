@@ -3,7 +3,7 @@ title: "Münster Botanical Garden"
 site_name: "Münster Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Münster Botanical Garden, located in the heart of Münster, Germany, serves as a serene oasis dedicated to the appreciation and study of plant life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

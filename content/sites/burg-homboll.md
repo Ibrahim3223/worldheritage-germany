@@ -3,7 +3,7 @@ title: "Burg Homboll"
 site_name: "Burg Homboll"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Homboll, a castle located in the picturesque region of Hilzingen, Germany, captures the imagination of visitors with its historic charm and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

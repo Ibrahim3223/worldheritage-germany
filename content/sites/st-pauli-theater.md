@@ -3,7 +3,7 @@ title: "St.-Pauli-Theater"
 site_name: "St.-Pauli-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre building in St. Pauli, Hamburg, Germany"
+description: "St.-Pauli-Theater, located in the vibrant district of St. Pauli in Hamburg, Germany, is a cultural landmark that serves as a hub for theatrical expression..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Treasury Kemnade"
 site_name: "Treasury Kemnade"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Treasury Kemnade is more than just a museum; it is a vibrant cultural space located in the picturesque town of Hattingen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

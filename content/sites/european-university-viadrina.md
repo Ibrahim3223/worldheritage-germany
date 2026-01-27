@@ -3,7 +3,7 @@ title: "European University Viadrina"
 site_name: "European University Viadrina"
 date: 2026-01-26
 draft: false
-description: "university"
+description: "European University Viadrina, located in the vibrant city of Frankfurt (Oder), Germany, serves as a significant center for higher education and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

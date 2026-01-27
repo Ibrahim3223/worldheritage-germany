@@ -3,7 +3,7 @@ title: "Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz"
 site_name: "Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz is an intriguing museum located in the Muldenhammer region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Kunibert's Church"
 site_name: "St. Kunibert's Church"
 date: 2026-01-26
 draft: false
-description: "church in Cologne, Germany"
+description: "St. Kunibert's Church is a notable church building located in the heart of Cologne, Germany, specifically in the Altstadt-Nord region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

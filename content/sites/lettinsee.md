@@ -3,7 +3,7 @@ title: "Lettinsee"
 site_name: "Lettinsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Lettinsee is a serene lake located in Brandenburg, Germany, offering visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

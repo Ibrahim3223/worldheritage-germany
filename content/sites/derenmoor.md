@@ -3,7 +3,7 @@ title: "Derenmoor"
 site_name: "Derenmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Derenmoor is a notable nature reserve located in the picturesque region of Bokensdorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

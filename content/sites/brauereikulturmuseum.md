@@ -3,7 +3,7 @@ title: "Brauereikulturmuseum"
 site_name: "Brauereikulturmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in Germany, the Brauereikulturmuseum offers a fascinating exploration of the brewing culture that has been a significant part of the region's heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

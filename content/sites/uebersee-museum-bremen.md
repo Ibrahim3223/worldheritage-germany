@@ -3,7 +3,7 @@ title: "Übersee-Museum Bremen"
 site_name: "Übersee-Museum Bremen"
 date: 2026-01-26
 draft: false
-description: "natural history and ethnographic museum in Bremen, Germany"
+description: "The Übersee-Museum Bremen stands as a vital cultural institution in Bremen, Germany, where the realms of natural history and ethnography intersect."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Ingweiler"
 site_name: "Burg Ingweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Ingweiler, a captivating castle located in the Ingweilerhof region of Germany, offers visitors an opportunity to explore a significant piece of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

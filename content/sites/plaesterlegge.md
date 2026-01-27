@@ -3,7 +3,7 @@ title: "Plästerlegge"
 site_name: "Plästerlegge"
 date: 2026-01-26
 draft: false
-description: "waterfall in Bestwig, North Rhine-Westphalia, Germany"
+description: "Plästerlegge is a captivating waterfall located in Bestwig, North Rhine-Westphalia, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Waterfall"

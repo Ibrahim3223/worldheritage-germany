@@ -3,7 +3,7 @@ title: "Nathan-Söderblom-Kirche"
 site_name: "Nathan-Söderblom-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Reinbek, Germany, Nathan-Söderblom-Kirche stands as a notable example of church architecture that reflects both community values and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

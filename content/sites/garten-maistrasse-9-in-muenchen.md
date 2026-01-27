@@ -3,7 +3,7 @@ title: "Garten Maistraße 9 in München"
 site_name: "Garten Maistraße 9 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-4165 (1) in München, Bavaria"
+description: "Garten Maistraße 9 in München is a cultural heritage monument located in the heart of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

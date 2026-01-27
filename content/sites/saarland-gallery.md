@@ -3,7 +3,7 @@ title: "Saarland Gallery"
 site_name: "Saarland Gallery"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Saarland Gallery, an eminent art museum located in the heart of Berlin, serves as a vibrant cultural hub that showcases a diverse array of artworks."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

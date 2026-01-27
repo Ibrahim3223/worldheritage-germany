@@ -3,7 +3,7 @@ title: "Petruskapelle Alexisbad"
 site_name: "Petruskapelle Alexisbad"
 date: 2026-01-26
 draft: false
-description: "church building in Harzgerode, Germany"
+description: "The Petruskapelle Alexisbad is a church building located in the scenic region of Harzgerode, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

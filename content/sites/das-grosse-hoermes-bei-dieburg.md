@@ -3,7 +3,7 @@ title: "Das große Hörmes bei Dieburg"
 site_name: "Das große Hörmes bei Dieburg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Dieburg, Hesse, Germany"
+description: "Das große Hörmes bei Dieburg is a nature reserve located in the picturesque region of Dieburg, Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

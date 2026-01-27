@@ -3,7 +3,7 @@ title: "Uffhubtor"
 site_name: "Uffhubtor"
 date: 2026-01-26
 draft: false
-description: "Stadttor in Ingelheim am Rhein"
+description: "Uffhubtor, a historic city gate located in Ingelheim am Rhein, Germany, serves as a remarkable entry point into the rich tapestry of this ancient town."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"

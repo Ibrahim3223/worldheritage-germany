@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskapelle"
 site_name: "Dreifaltigkeitskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Dreifaltigkeitskapelle, a serene chapel located in the picturesque region of Kempten, Germany, invites visitors to explore its tranquil ambiance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

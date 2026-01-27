@@ -3,7 +3,7 @@ title: "Lenzkircher Uhrensammlung"
 site_name: "Lenzkircher Uhrensammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Lenzkircher Uhrensammlung is a unique museum located in the heart of Germany, dedicated to the art and craftsmanship of horology."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

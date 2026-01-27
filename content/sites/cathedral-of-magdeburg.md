@@ -3,7 +3,7 @@ title: "Cathedral of Magdeburg"
 site_name: "Cathedral of Magdeburg"
 date: 2026-01-26
 draft: false
-description: "Protestant cathedral in Magdeburg, Germany; oldest Gothic cathedral in Germany"
+description: "The Cathedral of Magdeburg, known as the oldest Gothic cathedral in Germany, stands as a monumental representation of architectural innovation and religious..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cathedral"

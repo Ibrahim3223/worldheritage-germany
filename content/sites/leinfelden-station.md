@@ -3,7 +3,7 @@ title: "Leinfelden station"
 site_name: "Leinfelden station"
 date: 2026-01-26
 draft: false
-description: "railway station in Leinfelden-Echterdingen, Germany"
+description: "Leinfelden station is a vital transportation hub located within the vibrant region of Leinfelden-Echterdingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

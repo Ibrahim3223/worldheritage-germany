@@ -3,7 +3,7 @@ title: "Westend-Synagoge"
 site_name: "Westend-Synagoge"
 date: 2026-01-26
 draft: false
-description: "Synagogue in Frankfurt / Main"
+description: "The Westend-Synagoge, located in Frankfurt, Germany, stands as a significant spiritual and cultural landmark within the Jewish community."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

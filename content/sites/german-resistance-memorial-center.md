@@ -3,7 +3,7 @@ title: "German Resistance Memorial Center"
 site_name: "German Resistance Memorial Center"
 date: 2026-01-26
 draft: false
-description: "memorial and museum in Berlin, Germany"
+description: "The German Resistance Memorial Center in Berlin serves as a poignant reminder of the courage and sacrifice displayed by individuals who opposed the Nazi..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Indianermuseum Derenburg"
 site_name: "Indianermuseum Derenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Indianermuseum Derenburg is an intriguing cultural institution located in Bretten, Germany, dedicated to showcasing the fascinating history and heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

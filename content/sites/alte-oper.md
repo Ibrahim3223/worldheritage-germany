@@ -3,7 +3,7 @@ title: "Alte Oper"
 site_name: "Alte Oper"
 date: 2026-01-26
 draft: false
-description: "theater and events venue in Erfurt, Germany"
+description: "The Alte Oper, a distinguished theatre building in Erfurt, Germany, serves as a vibrant hub for cultural events and artistic performances."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"

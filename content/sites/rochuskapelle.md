@@ -3,7 +3,7 @@ title: "Rochuskapelle"
 site_name: "Rochuskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Rochuskapelle, a charming chapel located in Bingen am Rhein, Germany, is a site of both spiritual significance and historical intrigue."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Garten Fronberger Straße 31 in Schwandorf"
 site_name: "Garten Fronberger Straße 31 in Schwandorf"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-3-76-161-38 (1) in Schwandorf, Bavaria"
+description: "Garten Fronberger Straße 31, located in the quaint town of Schwandorf, Bavaria, is a remarkable representation of a cultural heritage monument, classified..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

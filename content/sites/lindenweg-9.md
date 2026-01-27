@@ -3,7 +3,7 @@ title: "Lindenweg 9"
 site_name: "Lindenweg 9"
 date: 2026-01-26
 draft: false
-description: "Upper Lusatian house in Jonsdorf"
+description: "Lindenweg 9, located in the charming village of Jonsdorf, Germany, is a museum that offers visitors a unique glimpse into the region's cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

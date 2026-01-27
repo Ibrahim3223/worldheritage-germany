@@ -3,7 +3,7 @@ title: "Deutsches Adelsarchiv"
 site_name: "Deutsches Adelsarchiv"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Deutsches Adelsarchiv is a significant foundation located in Marburg, Germany, dedicated to the preservation and study of German noble heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

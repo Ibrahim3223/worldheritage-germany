@@ -3,7 +3,7 @@ title: "Göltzschtalbrücke Obermylau"
 site_name: "Göltzschtalbrücke Obermylau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Göltzschtalbrücke Obermylau stands as one of the most remarkable feats of engineering in Germany, an impressive bridge that transcends mere transportation..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Statue of Friedrich Wilhelm von Seydlitz"
 site_name: "Statue of Friedrich Wilhelm von Seydlitz"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "The Statue of Friedrich Wilhelm von Seydlitz stands as a tribute to one of Prussia’s most esteemed military leaders, symbolizing the nation's rich military..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

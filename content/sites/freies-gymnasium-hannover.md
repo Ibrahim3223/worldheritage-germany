@@ -3,7 +3,7 @@ title: "Freies Gymnasium Hannover"
 site_name: "Freies Gymnasium Hannover"
 date: 2026-01-26
 draft: false
-description: "school in Hanover, Germany"
+description: "Freies Gymnasium Hannover, located in the Bothfeld-Vahrenheide district of Hanover, Germany, serves as an essential educational institution that reflects..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Museum of Natural History Magdeburg"
 site_name: "Museum of Natural History Magdeburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of Natural History Magdeburg is a captivating destination for those intrigued by the wonders of the natural world."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

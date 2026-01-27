@@ -3,7 +3,7 @@ title: "Winthirfriedhof"
 site_name: "Winthirfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Neuhausen-Nymphenburg, Germany"
+description: "Winthirfriedhof is a cemetery located in the Neuhausen-Nymphenburg district of Germany, serving as a serene resting place that reflects the cultural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Haus der Kulturen der Welt"
 site_name: "Haus der Kulturen der Welt"
 date: 2026-01-26
 draft: false
-description: "exhibition space and events venue in Berlin"
+description: "The Haus der Kulturen der Welt (House of World Cultures) in Berlin serves as a dynamic hub for the arts and cultural exchange."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Palais Strousberg"
 site_name: "Palais Strousberg"
 date: 2026-01-26
 draft: false
-description: "building"
+description: "Palais Strousberg is a distinguished palace located in Bezirk Mitte, Germany, embodying the architectural elegance and historical significance of the region."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

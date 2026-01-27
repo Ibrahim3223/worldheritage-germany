@@ -3,7 +3,7 @@ title: "Hortus Palatinus"
 site_name: "Hortus Palatinus"
 date: 2026-01-26
 draft: false
-description: "Castle garden in Heidelberg, Germany"
+description: "The Hortus Palatinus, a historic garden in Heidelberg, Germany, is a compelling destination that intertwines nature and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

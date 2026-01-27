@@ -3,7 +3,7 @@ title: "Wildpark Donsbach"
 site_name: "Wildpark Donsbach"
 date: 2026-01-26
 draft: false
-description: "Wildpark in Deutschland"
+description: "Wildpark Donsbach is a delightful destination located in the Dillenburg region of Germany, offering visitors an opportunity to explore the beauty of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

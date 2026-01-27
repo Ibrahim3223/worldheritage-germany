@@ -3,7 +3,7 @@ title: "Städtischer Saalbau Recklinghausen"
 site_name: "Städtischer Saalbau Recklinghausen"
 date: 2026-01-26
 draft: false
-description: "former concert hall in Recklinghausen, Germany"
+description: "Städtischer Saalbau Recklinghausen is a notable multi-purpose hall located in the heart of Recklinghausen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

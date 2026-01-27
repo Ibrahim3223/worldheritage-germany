@@ -3,7 +3,7 @@ title: "Upleward Church"
 site_name: "Upleward Church"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Lower Saxony, Germany"
+description: "Upleward Church is a remarkable church building situated in the Krummhörn region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

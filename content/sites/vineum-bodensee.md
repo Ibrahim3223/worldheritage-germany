@@ -3,7 +3,7 @@ title: "Vineum Bodensee"
 site_name: "Vineum Bodensee"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Meersburg, Germany, the Vineum Bodensee offers a captivating exploration of the region's winemaking heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

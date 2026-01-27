@@ -3,7 +3,7 @@ title: "Burg Hövel"
 site_name: "Burg Hövel"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hövel, a striking castle located in Hamm, Germany, serves as a captivating portal into the region's storied past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

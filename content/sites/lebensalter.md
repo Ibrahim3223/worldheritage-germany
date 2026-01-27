@@ -3,7 +3,7 @@ title: "Lebensalter"
 site_name: "Lebensalter"
 date: 2026-01-26
 draft: false
-description: "fountain in Berlin, Germany"
+description: "Lebensalter is a captivating fountain located in the vibrant district of Tempelhof-Schöneberg in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

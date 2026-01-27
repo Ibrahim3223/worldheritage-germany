@@ -3,7 +3,7 @@ title: "The Badisches Landesmuseum"
 site_name: "The Badisches Landesmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Badisches Landesmuseum, located in Karlsruhe, Germany, is a cultural institution that showcases the rich heritage and history of the Baden region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

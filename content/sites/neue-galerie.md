@@ -3,7 +3,7 @@ title: "Neue Galerie"
 site_name: "Neue Galerie"
 date: 2026-01-26
 draft: false
-description: "art museum in Kassel, Germany"
+description: "The Neue Galerie in Kassel, Germany, serves as a distinguished art museum that showcases a diverse collection of artwork, contributing to the region's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

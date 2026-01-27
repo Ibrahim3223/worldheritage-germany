@@ -3,7 +3,7 @@ title: "Markuskirche"
 site_name: "Markuskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Markuskirche, an intriguing church building located in the vibrant city of Leipzig, Germany, invites visitors to explore its unique architectural style and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

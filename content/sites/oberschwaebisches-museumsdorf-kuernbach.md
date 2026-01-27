@@ -3,7 +3,7 @@ title: "Oberschwäbisches Museumsdorf Kürnbach"
 site_name: "Oberschwäbisches Museumsdorf Kürnbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Oberschwäbisches Museumsdorf Kürnbach presents an engaging look into the rural life of Germany's Oberschwaben region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

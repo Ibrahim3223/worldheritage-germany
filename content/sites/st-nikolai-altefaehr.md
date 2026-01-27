@@ -3,7 +3,7 @@ title: "St. Nikolai (Altefähr)"
 site_name: "St. Nikolai (Altefähr)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Altefähr, Mecklenburg-Western Pomerania, Germany"
+description: "St. Nikolai in Altefähr is a cultural heritage monument that encapsulates the architectural and spiritual essence of Mecklenburg-Western Pomerania, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

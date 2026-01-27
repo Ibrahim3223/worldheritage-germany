@@ -3,7 +3,7 @@ title: "Evangeliumskirche"
 site_name: "Evangeliumskirche"
 date: 2026-01-26
 draft: false
-description: "Lutheran church in Munich, Germany"
+description: "Evangeliumskirche, a notable Lutheran church located in Munich, Germany, serves as a significant landmark within the city’s rich architectural and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Village church Zarpen"
 site_name: "Village church Zarpen"
 date: 2026-01-26
 draft: false
-description: "church building in Schleswig-Holstein state, Germany"
+description: "The Village Church Zarpen, located in the serene region of Schleswig-Holstein, Germany, stands as a tranquil place of worship and community gathering."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

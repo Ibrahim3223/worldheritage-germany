@@ -3,7 +3,7 @@ title: "St. Andrew's Church"
 site_name: "St. Andrew's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Hildesheim, Lower Saxony, Germany"
+description: "St. Andrew's Church, located in the historic town of Hildesheim, Germany, is an architectural landmark that reflects the region's rich ecclesiastical heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

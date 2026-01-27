@@ -3,7 +3,7 @@ title: "Kunstmuseum Ahrenshoop"
 site_name: "Kunstmuseum Ahrenshoop"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunstmuseum Ahrenshoop is a distinguished art museum located in the picturesque village of Ahrenshoop, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"

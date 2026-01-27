@@ -3,7 +3,7 @@ title: "Gut Groß-Engershausen"
 site_name: "Gut Groß-Engershausen"
 date: 2026-01-26
 draft: false
-description: "manor house in Preußisch Oldendorf, Germany"
+description: "Located in the picturesque region of Preußisch Oldendorf, Gut Groß-Engershausen is a manor house that embodies the historical and architectural essence of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Agnetenkloster"
 site_name: "Agnetenkloster"
 date: 2026-01-26
 draft: false
-description: "former monastery in Magdeburg, Germany"
+description: "Agnetenkloster, a former monastery located in the heart of Magdeburg, Germany, invites visitors to explore its serene ambiance and historical significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"

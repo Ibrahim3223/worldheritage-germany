@@ -3,7 +3,7 @@ title: "Deutsches Motorrollermuseum"
 site_name: "Deutsches Motorrollermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Kaub, Germany"
+description: "In the heart of Kaub, Germany, the Deutsches Motorrollermuseum serves as a unique homage to the culture and evolution of motor scooters."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

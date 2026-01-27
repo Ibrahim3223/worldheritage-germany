@@ -3,7 +3,7 @@ title: "Oranier-Gedächtniskirche"
 site_name: "Oranier-Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Oranier-Gedächtniskirche, located in the Biebrich district of Germany, is a notable church building that reflects the historical and cultural heritage of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

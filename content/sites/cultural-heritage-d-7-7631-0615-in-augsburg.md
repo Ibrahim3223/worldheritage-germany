@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7631-0615 in Augsburg"
 site_name: "Cultural heritage D-7-7631-0615 in Augsburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Augsburg, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7631-0615 in Augsburg is a significant fortification that stands as a pivotal piece of the region's rich historical tapestry."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

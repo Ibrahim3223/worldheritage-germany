@@ -3,7 +3,7 @@ title: "Carlsplatz"
 site_name: "Carlsplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Düsseldorf, Germany"
+description: "Carlsplatz serves as a vibrant public square in the heart of Düsseldorf, Germany, symbolizing the city's blend of modern urban life and traditional charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

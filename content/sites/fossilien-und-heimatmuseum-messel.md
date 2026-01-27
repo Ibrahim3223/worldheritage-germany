@@ -3,7 +3,7 @@ title: "Fossilien- und Heimatmuseum Messel"
 site_name: "Fossilien- und Heimatmuseum Messel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fossilien- und Heimatmuseum Messel, located in the quaint town of Messel, Germany, serves as a gateway to the past, offering a unique glimpse into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

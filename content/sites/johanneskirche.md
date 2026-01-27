@@ -3,7 +3,7 @@ title: "Johanneskirche"
 site_name: "Johanneskirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Stadtmitte, Germany"
+description: "Johanneskirche, located in the heart of Düsseldorf-Stadtmitte, is a notable church building that captures the essence of the city's architectural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

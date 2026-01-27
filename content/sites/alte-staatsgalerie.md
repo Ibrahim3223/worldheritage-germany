@@ -3,7 +3,7 @@ title: "Alte Staatsgalerie"
 site_name: "Alte Staatsgalerie"
 date: 2026-01-26
 draft: false
-description: "building in Stuttgart"
+description: "The Alte Staatsgalerie, a prominent art museum located in Stuttgart, Germany, serves as a cultural landmark, drawing art enthusiasts and casual visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

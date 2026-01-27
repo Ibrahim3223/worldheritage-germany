@@ -3,7 +3,7 @@ title: "Jesuitennoviziat (Mainz)"
 site_name: "Jesuitennoviziat (Mainz)"
 date: 2026-01-26
 draft: false
-description: "demolished school building in Mainz, Germany"
+description: "The Jesuitennoviziat in Mainz, Germany, serves as a poignant reminder of the city’s educational past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"

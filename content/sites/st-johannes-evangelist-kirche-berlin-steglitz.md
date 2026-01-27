@@ -3,7 +3,7 @@ title: "St. Johannes-Evangelist-Kirche (Berlin-Steglitz)"
 site_name: "St. Johannes-Evangelist-Kirche (Berlin-Steglitz)"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "St. Johannes-Evangelist-Kirche, situated in the Steglitz-Zehlendorf district of Berlin, is an intriguing church that encapsulates the essence of local..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

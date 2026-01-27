@@ -3,7 +3,7 @@ title: "Museum of Ethnology Witzenhausen"
 site_name: "Museum of Ethnology Witzenhausen"
 date: 2026-01-26
 draft: false
-description: "Museum of Ethnology Witzenhausen, Germany"
+description: "The Museum of Ethnology Witzenhausen, located in Germany, serves as a unique repository of cultural artifacts and stories from diverse global communities."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Mühlsteinhöhle"
 site_name: "Mühlsteinhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Mühlsteinhöhle is a captivating cave located in the scenic region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cave"

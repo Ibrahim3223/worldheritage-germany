@@ -3,7 +3,7 @@ title: "Echterdingen station"
 site_name: "Echterdingen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Leinfelden-Echterdingen, Germany"
+description: "Echterdingen station serves as a vital connection point in the Leinfelden-Echterdingen region of Germany, facilitating seamless travel for both locals and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

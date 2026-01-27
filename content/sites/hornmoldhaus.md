@@ -3,7 +3,7 @@ title: "Hornmoldhaus"
 site_name: "Hornmoldhaus"
 date: 2026-01-26
 draft: false
-description: "building and museum in Bietigheim-Bissingen, Germany"
+description: "Hornmoldhaus, an intriguing museum set in the heart of Bietigheim-Bissingen, Germany, invites visitors to explore its unique cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Leuchtturm Untereversand"
 site_name: "Leuchtturm Untereversand"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "Standing sentinel along the coast of Lower Saxony, Leuchtturm Untereversand is a lighthouse that captures the essence of maritime navigation and coastal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

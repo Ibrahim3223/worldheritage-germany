@@ -3,7 +3,7 @@ title: "Südstrand"
 site_name: "Südstrand"
 date: 2026-01-26
 draft: false
-description: "beach at Borkum island, Germany"
+description: "Südstrand, located on the picturesque Borkum Island in Germany, is a captivating beach destination that invites visitors to immerse themselves in the serene..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

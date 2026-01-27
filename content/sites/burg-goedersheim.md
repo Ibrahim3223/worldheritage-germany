@@ -3,7 +3,7 @@ title: "Burg Gödersheim"
 site_name: "Burg Gödersheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gödersheim, a captivating castle located in the picturesque region of Nideggen, Germany, invites visitors to explore its storied past and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

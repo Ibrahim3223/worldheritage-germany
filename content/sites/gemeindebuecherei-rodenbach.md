@@ -3,7 +3,7 @@ title: "Gemeindebücherei Rodenbach"
 site_name: "Gemeindebücherei Rodenbach"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Rodenbach is more than just a library; it serves as a cultural hub within the charming community of Rodenbach, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Stadtmuseum Kitzingen"
 site_name: "Stadtmuseum Kitzingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Kitzingen, Germany, the Stadtmuseum Kitzingen serves as a cultural hub that celebrates the town's rich heritage and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

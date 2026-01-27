@@ -3,7 +3,7 @@ title: "Futurium"
 site_name: "Futurium"
 date: 2026-01-26
 draft: false
-description: "research institute and museum in Berlin"
+description: "Futurium, located in the heart of Berlin, Germany, serves as both a museum and a research institute, reflecting the city's commitment to exploring the future."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

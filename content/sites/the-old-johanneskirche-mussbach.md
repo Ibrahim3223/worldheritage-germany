@@ -3,7 +3,7 @@ title: "The old Johanneskirche (Mußbach)"
 site_name: "The old Johanneskirche (Mußbach)"
 date: 2026-01-26
 draft: false
-description: "church building in Neustadt an der Weinstraße, Germany"
+description: "The Old Johanneskirche in Mußbach is a significant historical site located in the Neustadt an der Weinstraße region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

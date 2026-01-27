@@ -3,7 +3,7 @@ title: "Bichtenberg"
 site_name: "Bichtenberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bichtenberg is a prominent mountain located in the picturesque region of Rhineland-Palatinate, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

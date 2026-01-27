@@ -3,7 +3,7 @@ title: "Geologisch-Paläontologisches Museum Münster"
 site_name: "Geologisch-Paläontologisches Museum Münster"
 date: 2026-01-26
 draft: false
-description: "museum in Münster, Germany (1824-2007)"
+description: "The Geologisch-Paläontologisches Museum Münster, located in the heart of Münster, Germany, presents a unique opportunity to explore the intriguing world of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

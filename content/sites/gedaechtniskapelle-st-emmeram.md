@@ -3,7 +3,7 @@ title: "Gedächtniskapelle St. Emmeram"
 site_name: "Gedächtniskapelle St. Emmeram"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Gedächtniskapelle St. Emmeram, located in the vibrant city of Munich, Germany, serves as a serene point of reflection amidst the hustle and bustle of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

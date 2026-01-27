@@ -3,7 +3,7 @@ title: "Alte Weser"
 site_name: "Alte Weser"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "The Alte Weser lighthouse is a notable maritime landmark located along the picturesque coast of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

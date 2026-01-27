@@ -3,7 +3,7 @@ title: "Sandberg"
 site_name: "Sandberg"
 date: 2026-01-26
 draft: false
-description: "mountain of Bramwald, Germany"
+description: "Sandberg, a prominent mountain located in the Bramwald region of Germany's Göttingen district, presents an intriguing destination for those who appreciate..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Evangelische Stadtkirche Ellwangen"
 site_name: "Evangelische Stadtkirche Ellwangen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Evangelische Stadtkirche Ellwangen, a prominent church building located in the heart of Ellwangen, Germany, serves as a vital marker of the region's rich..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

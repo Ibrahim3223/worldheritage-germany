@@ -3,7 +3,7 @@ title: "Fürstenried Palace"
 site_name: "Fürstenried Palace"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Fürstenried Palace, a striking château located in Munich, Germany, offers visitors a glimpse into the opulent lifestyle of the Bavarian nobility."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

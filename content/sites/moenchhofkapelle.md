@@ -3,7 +3,7 @@ title: "Mönchhofkapelle"
 site_name: "Mönchhofkapelle"
 date: 2026-01-26
 draft: false
-description: "church building in Raunheim"
+description: "The Mönchhofkapelle, a serene chapel in Raunheim, Germany, embodies the quiet spirituality and architectural charm of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

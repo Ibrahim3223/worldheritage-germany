@@ -3,7 +3,7 @@ title: "Kapelle Glowe"
 site_name: "Kapelle Glowe"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Nestled within the charming village of Glowe, Germany, the Kapelle Glowe stands as a serene chapel that offers a glimpse into the spiritual heritage of the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

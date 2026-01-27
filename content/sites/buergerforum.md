@@ -3,7 +3,7 @@ title: "Bürgerforum"
 site_name: "Bürgerforum"
 date: 2026-01-26
 draft: false
-description: "city square in Berlin"
+description: "Bürgerforum is a vibrant city square located in the heart of Berlin, Germany. This public space serves as a focal point for both residents and visitors,..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Zweibogige Brücke Herzogswalde (Wilsdruff)"
 site_name: "Zweibogige Brücke Herzogswalde (Wilsdruff)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zweibogige Brücke Herzogswalde, located in Wilsdruff, Germany, is an impressive bridge that captivates both history enthusiasts and architecture..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

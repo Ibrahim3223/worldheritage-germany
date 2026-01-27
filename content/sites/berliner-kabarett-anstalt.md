@@ -3,7 +3,7 @@ title: "Berliner Kabarett Anstalt"
 site_name: "Berliner Kabarett Anstalt"
 date: 2026-01-26
 draft: false
-description: "cabaret theatre in Berlin, Germany"
+description: "The Berliner Kabarett Anstalt is more than just a venue; it is a vibrant part of Berlin's cultural identity, showcasing the city's rich tradition of cabaret..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

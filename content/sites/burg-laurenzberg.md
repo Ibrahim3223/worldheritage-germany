@@ -3,7 +3,7 @@ title: "Burg Laurenzberg"
 site_name: "Burg Laurenzberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Laurenzberg, a captivating castle located in Eschweiler, Germany, invites visitors to explore its historic charm and architectural elegance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

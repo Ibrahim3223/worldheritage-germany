@@ -3,7 +3,7 @@ title: "Grafik Museum Stiftung Schreiner"
 site_name: "Grafik Museum Stiftung Schreiner"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Steben, Bavaria, Germany"
+description: "Grafik Museum Stiftung Schreiner is a unique cultural institution located in the quaint town of Bad Steben, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Holtrup"
 site_name: "Burg Holtrup"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Holtrup, a distinguished castle located in the Porta Westfalica region of Germany, serves as a captivating window into the architectural and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Theater des Westens"
 site_name: "Theater des Westens"
 date: 2026-01-26
 draft: false
-description: "theatre in Berlin, Germany"
+description: "The Theater des Westens, an iconic theatre building situated in the heart of Berlin's Charlottenburg-Wilmersdorf district, stands as a significant cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

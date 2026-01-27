@@ -3,7 +3,7 @@ title: "Marienkapelle (Würzburg)"
 site_name: "Marienkapelle (Würzburg)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-321 (0) in Würzburg, Bavaria"
+description: "Marienkapelle, located in the heart of Würzburg, Germany, is a remarkable church that serves as a cultural heritage monument."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

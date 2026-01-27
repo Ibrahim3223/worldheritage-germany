@@ -3,7 +3,7 @@ title: "Museum für Thüringer Volkskunde"
 site_name: "Museum für Thüringer Volkskunde"
 date: 2026-01-26
 draft: false
-description: "museum in Erfurt, Germany"
+description: "The Museum für Thüringer Volkskunde, situated in the heart of Erfurt, Germany, serves as a vital repository of the cultural heritage of the Thuringian region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

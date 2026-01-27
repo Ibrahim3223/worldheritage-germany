@@ -3,7 +3,7 @@ title: "Altenburg (Wolfstein)"
 site_name: "Altenburg (Wolfstein)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altenburg, a castle located in the Wolfstein region of Germany, offers visitors a glimpse into the architectural and cultural history of the area."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

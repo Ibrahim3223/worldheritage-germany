@@ -3,7 +3,7 @@ title: "Tegernsee Abbey"
 site_name: "Tegernsee Abbey"
 date: 2026-01-26
 draft: false
-description: "former monastery"
+description: "Tegernsee Abbey, a former monastery situated in the picturesque region of Tegernsee, Germany, offers a unique glimpse into the spiritual and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

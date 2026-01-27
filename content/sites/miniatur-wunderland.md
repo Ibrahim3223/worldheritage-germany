@@ -3,7 +3,7 @@ title: "Miniatur Wunderland"
 site_name: "Miniatur Wunderland"
 date: 2026-01-26
 draft: false
-description: "Model railway and miniature airport attraction in Hamburg, Germany"
+description: "Miniatur Wunderland in Hamburg, Germany, presents an intricate world of miniature landscapes and bustling railway systems, making it one of the most..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Amtsgericht Cottbus"
 site_name: "Amtsgericht Cottbus"
 date: 2026-01-26
 draft: false
-description: "courthouse in Cottbus"
+description: "The Amtsgericht Cottbus, a prominent courthouse located in the city of Cottbus, Germany, serves as a vital component of the local judicial system."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"

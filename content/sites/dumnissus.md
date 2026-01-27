@@ -3,7 +3,7 @@ title: "Dumnissus"
 site_name: "Dumnissus"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Rhineland-Palatinate, Germany"
+description: "Dumnissus, an archaeological site located in the picturesque Rhineland-Palatinate region of Germany, invites visitors into a world that echoes the past."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Archaeological Site"

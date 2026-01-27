@@ -3,7 +3,7 @@ title: "Burgk Castle"
 site_name: "Burgk Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Thuringia, Germany"
+description: "Burgk Castle, located in the picturesque region of Thuringia, Germany, serves as an important cultural landmark that reflects the rich history and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Magnet Museum"
 site_name: "Magnet Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Magnet Museum in Dortmund, Germany, is a captivating destination for anyone intrigued by the art and science of magnetism."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

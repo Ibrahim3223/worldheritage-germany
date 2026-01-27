@@ -3,7 +3,7 @@ title: "Sosa Dam"
 site_name: "Sosa Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "Sosa Dam, located in the Eibenstock region of Germany, is an engineering marvel that serves as a vital infrastructure component while also offering a scenic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Dam"

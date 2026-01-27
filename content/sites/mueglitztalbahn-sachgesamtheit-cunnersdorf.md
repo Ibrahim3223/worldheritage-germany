@@ -3,7 +3,7 @@ title: "Müglitztalbahn (Sachgesamtheit) Cunnersdorf"
 site_name: "Müglitztalbahn (Sachgesamtheit) Cunnersdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Müglitztalbahn (Sachgesamtheit) in Cunnersdorf is a remarkable bridge that serves as a significant piece of engineering heritage in the Glashütte region..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

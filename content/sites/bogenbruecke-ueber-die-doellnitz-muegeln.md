@@ -3,7 +3,7 @@ title: "Bogenbrücke über die Döllnitz Mügeln"
 site_name: "Bogenbrücke über die Döllnitz Mügeln"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über die Döllnitz Mügeln is a significant bridge located in the charming region of Mügeln, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

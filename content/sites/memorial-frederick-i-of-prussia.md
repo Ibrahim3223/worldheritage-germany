@@ -3,7 +3,7 @@ title: "Memorial Frederick I of Prussia"
 site_name: "Memorial Frederick I of Prussia"
 date: 2026-01-26
 draft: false
-description: "statue at the Charlottenburg Palace in Berlin, Germany"
+description: "The Memorial Frederick I of Prussia, situated within the grounds of Charlottenburg Palace in Berlin, serves as a prominent symbol of the Prussian monarchy's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

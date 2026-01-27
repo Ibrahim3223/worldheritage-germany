@@ -3,7 +3,7 @@ title: "St. Agnes"
 site_name: "St. Agnes"
 date: 2026-01-26
 draft: false
-description: "church in Cologne-Neustadt-Nord, Germany"
+description: "St. Agnes is an intriguing church building located in the Neustadt-Nord district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

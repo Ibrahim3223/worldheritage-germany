@@ -3,7 +3,7 @@ title: "Explorado Children's Museum"
 site_name: "Explorado Children's Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Explorado Children's Museum is a vibrant and interactive space designed to engage the minds of young visitors in Duisburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

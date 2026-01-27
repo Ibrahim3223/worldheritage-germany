@@ -3,7 +3,7 @@ title: "Museum Brandmannshof Unterpleichfeld"
 site_name: "Museum Brandmannshof Unterpleichfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Brandmannshof Unterpleichfeld stands as an intriguing destination for those interested in Germany's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

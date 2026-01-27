@@ -3,7 +3,7 @@ title: "Schlangenberg"
 site_name: "Schlangenberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Stolberg, North Rhine-Westphalia, Germany"
+description: "Schlangenberg, a nature reserve located in Stolberg, North Rhine-Westphalia, Germany, invites visitors to immerse themselves in a tranquil environment..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

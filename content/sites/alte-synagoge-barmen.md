@@ -3,7 +3,7 @@ title: "Alte Synagoge (Barmen)"
 site_name: "Alte Synagoge (Barmen)"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Barmen, BRD"
+description: "The Alte Synagoge, located in Barmen, Wuppertal, Germany, is a significant architectural and cultural landmark that reflects the rich Jewish heritage of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

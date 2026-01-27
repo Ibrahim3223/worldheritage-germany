@@ -3,7 +3,7 @@ title: "Iserlohn Main Cemetery"
 site_name: "Iserlohn Main Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Iserlohn, Germany"
+description: "Iserlohn Main Cemetery, located in the serene town of Iserlohn, Germany, offers visitors a poignant glimpse into the region's past and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

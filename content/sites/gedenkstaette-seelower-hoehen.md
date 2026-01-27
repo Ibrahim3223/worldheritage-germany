@@ -3,7 +3,7 @@ title: "Gedenkstätte Seelower Höhen"
 site_name: "Gedenkstätte Seelower Höhen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gedenkstätte Seelower Höhen, located in the heart of Seelow, Germany, is a museum dedicated to preserving and interpreting the pivotal events of World War..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

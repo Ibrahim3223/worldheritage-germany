@@ -3,7 +3,7 @@ title: "Burg Gerichtszoller"
 site_name: "Burg Gerichtszoller"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gerichtszoller is a captivating castle located in the serene region of Emmingen-Liptingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

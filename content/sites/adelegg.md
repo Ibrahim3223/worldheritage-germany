@@ -3,7 +3,7 @@ title: "Adelegg"
 site_name: "Adelegg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Discover Adelegg, a castle nestled in the serene landscapes of Horgenzell, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

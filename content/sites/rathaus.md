@@ -3,7 +3,7 @@ title: "Rathaus"
 site_name: "Rathaus"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Kray, Essen, Nordrhein-Westfalen, Deutschland"
+description: "The Rathaus, or City Hall, located in the Kray district of Essen, Germany, is more than just an administrative building; it is a hub of local governance and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Blomberg"
 site_name: "Blomberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Blomberg, a striking mountain located in the District of Bad Tölz-Wolfratshausen in Germany, offers visitors a compelling blend of natural beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

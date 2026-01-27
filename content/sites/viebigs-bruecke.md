@@ -3,7 +3,7 @@ title: "Viebigs Brücke"
 site_name: "Viebigs Brücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Viebigs Brücke, a remarkable bridge located in the serene Haselbachtal region of Germany, serves as an essential connector in both transportation and local..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

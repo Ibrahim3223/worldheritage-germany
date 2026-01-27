@@ -3,7 +3,7 @@ title: "Deutsches Schieferbergwerk"
 site_name: "Deutsches Schieferbergwerk"
 date: 2026-01-26
 draft: false
-description: "Erlebnisbergwerk und Museum in der Stadt Mayen"
+description: "Deutsches Schieferbergwerk, located in the heart of Mayen, Germany, serves as both a museum and an experiential mine that delves into the fascinating world..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

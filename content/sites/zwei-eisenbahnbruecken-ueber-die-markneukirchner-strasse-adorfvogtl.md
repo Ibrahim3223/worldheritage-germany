@@ -3,7 +3,7 @@ title: "Zwei Eisenbahnbrücken über die Markneukirchner Straße Adorf Vogtl"
 site_name: "Zwei Eisenbahnbrücken über die Markneukirchner Straße Adorf Vogtl"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the heart of Germany, the Zwei Eisenbahnbrücken über die Markneukirchner Straße in Adorf Vogtl capture the imagination with their elegant structure and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

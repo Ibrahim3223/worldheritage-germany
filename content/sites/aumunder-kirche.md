@@ -3,7 +3,7 @@ title: "Aumunder Kirche"
 site_name: "Aumunder Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Aumunder Kirche, located in the Vegesack district of Germany, is a church building that offers visitors a glimpse into the spiritual and architectural..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

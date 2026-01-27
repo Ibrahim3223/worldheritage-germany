@@ -3,7 +3,7 @@ title: "Waggonfabrik Gebrüder Gastell"
 site_name: "Waggonfabrik Gebrüder Gastell"
 date: 2026-01-26
 draft: false
-description: "German rolling stock manufacturer"
+description: "Waggonfabrik Gebrüder Gastell stands as a significant historical site in the heart of Rhineland-Palatinate, Germany, known for its legacy as a manufacturer..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"

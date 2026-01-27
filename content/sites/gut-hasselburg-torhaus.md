@@ -3,7 +3,7 @@ title: "Gut Hasselburg: Torhaus"
 site_name: "Gut Hasselburg: Torhaus"
 date: 2026-01-26
 draft: false
-description: "building in Altenkrempe (Germany)"
+description: "Gut Hasselburg: Torhaus, a historic gatehouse located in Altenkrempe, Germany, serves as a striking reminder of the region's architectural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Gatehouse"

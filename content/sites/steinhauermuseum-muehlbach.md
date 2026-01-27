@@ -3,7 +3,7 @@ title: "Steinhauermuseum Mühlbach"
 site_name: "Steinhauermuseum Mühlbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Steinhauermuseum Mühlbach, located in the quaint town of Eppingen, Germany, is a unique museum dedicated to the craft and history of stone cutting."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Wendel zum Stein"
 site_name: "St. Wendel zum Stein"
 date: 2026-01-26
 draft: false
-description: "chapel in Dörzbach, Germany"
+description: "St. Wendel zum Stein is a charming chapel located in the serene region of Dörzbach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

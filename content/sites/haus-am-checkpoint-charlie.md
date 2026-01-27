@@ -3,7 +3,7 @@ title: "Haus am Checkpoint Charlie"
 site_name: "Haus am Checkpoint Charlie"
 date: 2026-01-26
 draft: false
-description: "building in Berlin, Germany"
+description: "Haus am Checkpoint Charlie is a museum located in the heart of Berlin, Germany, that serves as a pivotal point for understanding the historical complexities..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Grabmal Adele Schoeller"
 site_name: "Grabmal Adele Schoeller"
 date: 2026-01-26
 draft: false
-description: "tomb"
+description: "The Grabmal Adele Schoeller is a significant tomb located in the Düren region of Germany, encapsulating the cultural and historical narratives of its time."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"

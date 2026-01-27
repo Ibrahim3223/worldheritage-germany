@@ -3,7 +3,7 @@ title: "Burg- und Schlossmuseum Jägersburg"
 site_name: "Burg- und Schlossmuseum Jägersburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the picturesque region of Homburg, Germany, the Burg- und Schlossmuseum Jägersburg serves as a significant cultural institution dedicated to..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

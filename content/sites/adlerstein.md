@@ -3,7 +3,7 @@ title: "Adlerstein"
 site_name: "Adlerstein"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "Adlerstein, a national heritage site located in Ernsbach-Erbuch, Germany, is a monument that speaks volumes about the region's cultural and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

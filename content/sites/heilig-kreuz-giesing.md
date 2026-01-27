@@ -3,7 +3,7 @@ title: "Heilig Kreuz (Giesing)"
 site_name: "Heilig Kreuz (Giesing)"
 date: 2026-01-26
 draft: false
-description: "church in Munich"
+description: "Heilig Kreuz, located in the Giesing district of Munich, presents an intriguing glimpse into the architectural and cultural fabric of the city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Flensburger Brauerei"
 site_name: "Flensburger Brauerei"
 date: 2026-01-26
 draft: false
-description: "brewery in Flensburg, Schleswig-Holstein, Germany"
+description: "Flensburger Brauerei holds a prominent place in the brewing landscape of Germany, particularly in the northern region of Schleswig-Holstein."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Brewery"

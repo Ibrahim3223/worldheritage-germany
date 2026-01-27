@@ -3,7 +3,7 @@ title: "Rathausgasse 4"
 site_name: "Rathausgasse 4"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Neustadt an der Saale"
+description: "Rathausgasse 4 in Neustadt an der Saale, Germany, represents more than just a courthouse; it serves as a historical and cultural landmark that reflects the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"

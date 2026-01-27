@@ -3,7 +3,7 @@ title: "Salzbergwerk Berchtesgaden"
 site_name: "Salzbergwerk Berchtesgaden"
 date: 2026-01-26
 draft: false
-description: "Geotop in Landkreis Berchtesgadener Land in Bavaria, Germany"
+description: "Deep within the Bavarian Alps lies the Salzbergwerk Berchtesgaden, an extraordinary museum that serves as a gateway to the region's rich mining heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

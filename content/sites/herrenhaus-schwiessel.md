@@ -3,7 +3,7 @@ title: "Herrenhaus Schwiessel"
 site_name: "Herrenhaus Schwiessel"
 date: 2026-01-26
 draft: false
-description: "Gebäude im Ortsteil Schwiessel der Gemeinde Prebberede"
+description: "Herrenhaus Schwiessel is a remarkable manor house located in the quaint village of Schwiessel, within the municipality of Prebberede in Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Ödenturm"
 site_name: "Ödenturm"
 date: 2026-01-26
 draft: false
-description: "observation tower near Geislingen an der Steige"
+description: "The Ödenturm, an observation tower near Geislingen an der Steige, presents an intriguing blend of functionality and natural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

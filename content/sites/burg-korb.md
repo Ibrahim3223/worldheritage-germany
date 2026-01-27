@@ -3,7 +3,7 @@ title: "Burg Korb"
 site_name: "Burg Korb"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Korb, located in the charming region of Möckmühl, Germany, stands as an enduring symbol of medieval architecture and heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

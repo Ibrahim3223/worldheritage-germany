@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kapelle"
 site_name: "Herz-Jesu-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel in Heiligendamm, Bad Doberan, Mecklenburg-Vorpommern, Germany"
+description: "The Herz-Jesu-Kapelle, located in the tranquil coastal town of Heiligendamm within Bad Doberan, Mecklenburg-Vorpommern, Germany, is a quaint chapel that..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

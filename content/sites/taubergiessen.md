@@ -3,7 +3,7 @@ title: "Taubergießen"
 site_name: "Taubergießen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Taubergießen is a remarkable nature reserve located in the picturesque region of Schwanau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

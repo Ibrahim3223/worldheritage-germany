@@ -3,7 +3,7 @@ title: "Karl-Marx-House museum"
 site_name: "Karl-Marx-House museum"
 date: 2026-01-26
 draft: false
-description: "museum in Trier"
+description: "In the heart of Trier, Germany, the Karl-Marx-House museum serves as a tribute to one of the most influential figures in modern history, Karl Marx."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

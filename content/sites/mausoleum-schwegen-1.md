@@ -3,7 +3,7 @@ title: "Mausoleum Schwegen 1"
 site_name: "Mausoleum Schwegen 1"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Loxstedt"
+description: "The Mausoleum Schwegen 1, located in the quaint region of Loxstedt, Germany, represents a compelling intersection of history, architecture, and cultural..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"

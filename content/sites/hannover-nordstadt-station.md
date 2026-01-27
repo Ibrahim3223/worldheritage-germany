@@ -3,7 +3,7 @@ title: "Hannover-Nordstadt station"
 site_name: "Hannover-Nordstadt station"
 date: 2026-01-26
 draft: false
-description: "railway station in Hannover-Nordstadt, Germany"
+description: "Hannover-Nordstadt station serves as a vital link within the rail network of Germany, located in the vibrant district of Nordstadt in Hannover."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

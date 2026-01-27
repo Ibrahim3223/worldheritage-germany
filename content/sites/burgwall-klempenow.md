@@ -3,7 +3,7 @@ title: "Burgwall Klempenow"
 site_name: "Burgwall Klempenow"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Klempenow is a remarkable hillfort located in the Breest region of Germany, offering visitors a unique glimpse into the past."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"

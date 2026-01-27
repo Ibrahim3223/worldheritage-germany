@@ -3,7 +3,7 @@ title: "Kloster Frenswegen"
 site_name: "Kloster Frenswegen"
 date: 2026-01-26
 draft: false
-description: "Kloster in Nordhorn, Landkreis Grafschaft Bentheim, Niedersachsen"
+description: "Kloster Frenswegen is an intriguing foundation located in Nordhorn, within the Landkreis Grafschaft Bentheim region of Niedersachsen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

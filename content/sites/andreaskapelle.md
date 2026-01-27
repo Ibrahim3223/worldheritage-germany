@@ -3,7 +3,7 @@ title: "Andreaskapelle"
 site_name: "Andreaskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Andreaskapelle, located in the charming region of Passau, Germany, is a chapel that captures the essence of spiritual devotion and architectural grace."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

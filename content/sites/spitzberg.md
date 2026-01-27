@@ -3,7 +3,7 @@ title: "Spitzberg"
 site_name: "Spitzberg"
 date: 2026-01-26
 draft: false
-description: "mountain near Hirschau, Germany"
+description: "Spitzberg, a striking mountain located near Hirschau in Germany's picturesque Tübingen region, serves as a prominent landmark within the surrounding landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

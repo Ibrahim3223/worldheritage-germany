@@ -3,7 +3,7 @@ title: "Ostseebad"
 site_name: "Ostseebad"
 date: 2026-01-26
 draft: false
-description: "Flensburger Strandbad"
+description: "Ostseebad, located along the picturesque Flensburger Strandbad in Germany, offers visitors a serene escape by the Baltic Sea."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"

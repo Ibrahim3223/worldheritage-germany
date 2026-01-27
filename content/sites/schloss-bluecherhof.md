@@ -3,7 +3,7 @@ title: "Schloss Blücherhof"
 site_name: "Schloss Blücherhof"
 date: 2026-01-26
 draft: false
-description: "Neobarockes Herrenhaus in Klocksin, Mecklenburg-Vorpommern"
+description: "Schloss Blücherhof is a distinguished manor house located in the picturesque region of Klocksin, Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

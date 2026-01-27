@@ -3,7 +3,7 @@ title: "Museum Harsefeld"
 site_name: "Museum Harsefeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Harsefeld serves as a cultural hub within the picturesque town of Harsefeld, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

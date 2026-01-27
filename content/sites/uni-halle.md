@@ -3,7 +3,7 @@ title: "Uni-Halle"
 site_name: "Uni-Halle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Uni-Halle, located in Wuppertal, Germany, is a notable multi-purpose hall known for its architectural significance and versatility."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

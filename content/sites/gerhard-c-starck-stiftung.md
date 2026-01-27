@@ -3,7 +3,7 @@ title: "Gerhard C. Starck Stiftung"
 site_name: "Gerhard C. Starck Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Gerhard C. Starck Stiftung is a foundation located in Willich, Germany, that serves as a significant cultural and philanthropic entity within the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

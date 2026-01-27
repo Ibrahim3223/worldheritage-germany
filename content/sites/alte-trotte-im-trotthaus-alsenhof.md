@@ -3,7 +3,7 @@ title: "Alte Trotte im Trotthaus Alsenhof"
 site_name: "Alte Trotte im Trotthaus Alsenhof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Alte Trotte im Trotthaus Alsenhof is a unique museum located in Germany, dedicated to preserving and showcasing the region's rich cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

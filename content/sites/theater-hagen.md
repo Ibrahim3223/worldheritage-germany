@@ -3,7 +3,7 @@ title: "Theater Hagen"
 site_name: "Theater Hagen"
 date: 2026-01-26
 draft: false
-description: "theatre and opera hosue in Hagen, Germany"
+description: "Theater Hagen is not just a building; it's a vibrant hub of cultural expression and artistic innovation in Hagen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

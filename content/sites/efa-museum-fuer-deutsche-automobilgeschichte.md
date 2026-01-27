@@ -3,7 +3,7 @@ title: "EFA-Museum für Deutsche Automobilgeschichte"
 site_name: "EFA-Museum für Deutsche Automobilgeschichte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The EFA-Museum für Deutsche Automobilgeschichte, located in Amerang, Germany, serves as a dedicated museum celebrating the history of German automotive..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Immenhausen"
 site_name: "Burg Immenhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Immenhausen, a historic castle in the heart of Germany, offers a glimpse into the medieval past through its enduring architecture and rich cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

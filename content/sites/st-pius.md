@@ -3,7 +3,7 @@ title: "St. Pius"
 site_name: "St. Pius"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Pius is an intriguing church building located in Aschaffenburg, a city in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

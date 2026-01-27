@@ -3,7 +3,7 @@ title: "Ekhof-Theater"
 site_name: "Ekhof-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Friedenstein Palace in Gotha, Germany"
+description: "Ekhof-Theater, a remarkable theatre building situated within the enchanting Friedenstein Palace in Gotha, Germany, offers a rare glimpse into the realm of..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"

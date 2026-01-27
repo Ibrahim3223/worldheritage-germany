@@ -3,7 +3,7 @@ title: "Burg Hachen"
 site_name: "Burg Hachen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hachen, a remarkable castle situated in the heart of Sundern, Germany, captures the imagination of all who visit."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

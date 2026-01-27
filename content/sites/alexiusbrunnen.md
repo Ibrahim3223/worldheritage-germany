@@ -3,7 +3,7 @@ title: "Alexiusbrunnen"
 site_name: "Alexiusbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Rastatt, Germany"
+description: "In the heart of Rastatt, Germany, the Alexiusbrunnen stands as a serene fountain that invites locals and travelers alike to pause and reflect."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

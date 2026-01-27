@@ -3,7 +3,7 @@ title: "Aquädukt Obertal"
 site_name: "Aquädukt Obertal"
 date: 2026-01-26
 draft: false
-description: "Überrest einer Wasserversorgungsanlage aus dem 18"
+description: "The Aquädukt Obertal, a remarkable remnant of an 18th-century water supply system, stands as a significant piece of engineering history in Esslingen am..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"

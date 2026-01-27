@@ -3,7 +3,7 @@ title: "Matthew Church, (Berlin-Steglitz)"
 site_name: "Matthew Church, (Berlin-Steglitz)"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf district, Berlin, Germany"
+description: "Matthew Church, located in the Steglitz-Zehlendorf district of Berlin, is a notable church building that reflects the architectural and cultural evolution..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bugenhagenkirche"
 site_name: "Bugenhagenkirche"
 date: 2026-01-26
 draft: false
-description: "church in Hannover, Germany"
+description: "Bugenhagenkirche is a notable church building located in the Südstadt-Bult region of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

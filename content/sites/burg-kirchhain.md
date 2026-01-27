@@ -3,7 +3,7 @@ title: "Burg Kirchhain"
 site_name: "Burg Kirchhain"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kirchhain, a historic castle located in the serene region of Kirchhain, Germany, serves as a captivating reminder of medieval architecture and the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

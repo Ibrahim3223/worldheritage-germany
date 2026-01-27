@@ -3,7 +3,7 @@ title: "Stadtkirche, Bad Hersfeld"
 site_name: "Stadtkirche, Bad Hersfeld"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Hersfeld, Germany"
+description: "In the heart of Bad Hersfeld, Germany, the Stadtkirche serves not only as a place of worship but also as a significant landmark that reflects the town's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

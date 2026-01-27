@@ -3,7 +3,7 @@ title: "Große Kirche"
 site_name: "Große Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Saxony, Germany"
+description: "In the heart of Emden, a city rich in maritime history and cultural heritage, lies the Große Kirche."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

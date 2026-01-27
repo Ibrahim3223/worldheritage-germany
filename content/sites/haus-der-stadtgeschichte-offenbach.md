@@ -3,7 +3,7 @@ title: "Haus der Stadtgeschichte (Offenbach)"
 site_name: "Haus der Stadtgeschichte (Offenbach)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the vibrant city of Offenbach am Main, the Haus der Stadtgeschichte serves as a pivotal museum dedicated to the rich historical narrative of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

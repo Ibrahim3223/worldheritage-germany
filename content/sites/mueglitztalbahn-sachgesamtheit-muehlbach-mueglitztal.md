@@ -3,7 +3,7 @@ title: "Müglitztalbahn (Sachgesamtheit) Mühlbach (Müglitztal)"
 site_name: "Müglitztalbahn (Sachgesamtheit) Mühlbach (Müglitztal)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Müglitztalbahn, particularly the Mühlbach section, is a remarkable bridge situated in the picturesque Müglitztal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

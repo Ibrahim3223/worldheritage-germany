@@ -3,7 +3,7 @@ title: "Saint Alexander Church"
 site_name: "Saint Alexander Church"
 date: 2026-01-26
 draft: false
-description: "Gothic church building in Marbach am Neckar, Germany"
+description: "Saint Alexander Church, a striking Gothic church building located in Marbach am Neckar, Germany, serves as a significant landmark in the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

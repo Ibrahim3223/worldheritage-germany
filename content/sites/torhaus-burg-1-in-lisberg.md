@@ -3,7 +3,7 @@ title: "Torhaus Burg 1 in Lisberg"
 site_name: "Torhaus Burg 1 in Lisberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-71-154-1 (2) in Lisberg, Bavaria"
+description: "Torhaus Burg 1 in Lisberg is a significant cultural heritage monument located in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "University of Altdorf"
 site_name: "University of Altdorf"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "The University of Altdorf, a significant cultural heritage monument located in Altdorf bei Nürnberg, Bavaria, Germany, stands as an emblem of educational..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "University"

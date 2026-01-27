@@ -3,7 +3,7 @@ title: "Hirschsäule"
 site_name: "Hirschsäule"
 date: 2026-01-26
 draft: false
-description: "statue in Magdeburg, Germany"
+description: "In the heart of Magdeburg, Germany, the Hirschsäule stands as a striking symbol of cultural and historical significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Statue"

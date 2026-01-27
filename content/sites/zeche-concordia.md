@@ -3,7 +3,7 @@ title: "Zeche Concordia"
 site_name: "Zeche Concordia"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Concordia, located in the industrious city of Oberhausen, Germany, is an emblematic site that reflects the region's profound industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

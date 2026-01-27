@@ -3,7 +3,7 @@ title: "Berlin Lapidarium"
 site_name: "Berlin Lapidarium"
 date: 2026-01-26
 draft: false
-description: "storage for stone monuments"
+description: "In the heart of Berlin lies a unique museum that serves as a repository for stone monuments—the Berlin Lapidarium."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Manor house in Ralow"
 site_name: "Manor house in Ralow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus auf der Insel Rügen"
+description: "The Manor House in Ralow, located on the picturesque island of Rügen, Germany, is a striking example of historical architecture that invites exploration."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Boulemuseum"
 site_name: "Boulemuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Rinteln, Germany, the Boulemuseum offers a unique glimpse into the cultural heritage and artistic expression of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "The Architectural Work of Le Corbusier"
 site_name: "The Architectural Work of Le Corbusier"
 date: 2026-01-26
 draft: false
-description: "serial World Heritage Site in seven countries around the world"
+description: "The Architectural Work of Le Corbusier is a remarkable collection that spans seven countries, showcasing the innovative genius of one of the 20th century's..."
 region: "Germany"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"

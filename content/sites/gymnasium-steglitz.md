@@ -3,7 +3,7 @@ title: "Gymnasium Steglitz"
 site_name: "Gymnasium Steglitz"
 date: 2026-01-26
 draft: false
-description: "gymnasium"
+description: "Gymnasium Steglitz, located in the Steglitz-Zehlendorf district of Berlin, is an educational institution that plays a pivotal role within its community."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

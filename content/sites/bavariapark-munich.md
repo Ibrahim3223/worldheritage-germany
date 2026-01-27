@@ -3,7 +3,7 @@ title: "Bavariapark (Munich)"
 site_name: "Bavariapark (Munich)"
 date: 2026-01-26
 draft: false
-description: "park in Munich, Germany"
+description: "Bavariapark, a serene green space located in Munich, Germany, serves as a delightful retreat from the urban hustle and bustle."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

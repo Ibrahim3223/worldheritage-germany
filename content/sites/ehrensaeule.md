@@ -3,7 +3,7 @@ title: "Ehrensäule"
 site_name: "Ehrensäule"
 date: 2026-01-26
 draft: false
-description: "monument in Hanau, Germany"
+description: "The Ehrensäule, located in the heart of Hanau, Germany, is a striking monument that encapsulates the city's historical essence."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Dorfkirche Staaken"
 site_name: "Dorfkirche Staaken"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Staaken, a quaint church building located in the Spandau district of Berlin, Germany, invites visitors to explore its architectural beauty and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

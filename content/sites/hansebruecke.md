@@ -3,7 +3,7 @@ title: "Hansebrücke"
 site_name: "Hansebrücke"
 date: 2026-01-26
 draft: false
-description: "road bridge in Stade, Lower Saxony"
+description: "The Hansebrücke is an important road bridge located in Stade, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Bridge"

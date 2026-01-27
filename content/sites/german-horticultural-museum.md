@@ -3,7 +3,7 @@ title: "German horticultural museum"
 site_name: "German horticultural museum"
 date: 2026-01-26
 draft: false
-description: "gardening museum in Germany"
+description: "The German horticultural museum in Erfurt is a celebration of the art and science of gardening, showcasing the rich agricultural heritage of Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

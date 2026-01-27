@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Straße des Friedens 17 (bei)"
 site_name: "Steindeckerbrücke Straße des Friedens 17 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located at Straße des Friedens 17 in Schönbach, Germany, is a notable bridge that not only serves as a functional structure but also..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

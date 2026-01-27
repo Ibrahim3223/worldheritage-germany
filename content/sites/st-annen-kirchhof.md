@@ -3,7 +3,7 @@ title: "St. Annen-Kirchhof"
 site_name: "St. Annen-Kirchhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "St. Annen-Kirchhof is a notable cemetery located in the Steglitz-Zehlendorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

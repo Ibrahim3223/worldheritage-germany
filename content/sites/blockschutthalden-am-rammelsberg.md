@@ -3,7 +3,7 @@ title: "Blockschutthalden am Rammelsberg"
 site_name: "Blockschutthalden am Rammelsberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "In the heart of Lower Saxony, Germany, lies the Blockschutthalden am Rammelsberg, a designated nature reserve that offers a unique blend of natural beauty..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Augsburg State and Municipal Library"
 site_name: "Augsburg State and Municipal Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Augsburg State and Municipal Library serves as a vital cultural institution in the heart of Augsburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

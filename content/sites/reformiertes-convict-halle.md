@@ -3,7 +3,7 @@ title: "Reformiertes Convict Halle"
 site_name: "Reformiertes Convict Halle"
 date: 2026-01-26
 draft: false
-description: "Kirchliche Stiftung in Halle (Saale)"
+description: "Reformiertes Convict Halle is a noteworthy foundation located in the heart of Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

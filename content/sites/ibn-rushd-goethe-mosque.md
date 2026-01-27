@@ -3,7 +3,7 @@ title: "Ibn Rushd-Goethe mosque"
 site_name: "Ibn Rushd-Goethe mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Germany"
+description: "The Ibn Rushd-Goethe Mosque in Berlin, Germany, serves as a vibrant symbol of cultural exchange and dialogue between diverse traditions."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

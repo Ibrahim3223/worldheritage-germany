@@ -3,7 +3,7 @@ title: "Blasiuskapelle in Briach"
 site_name: "Blasiuskapelle in Briach"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Blasiuskapelle in Briach, located in the serene region of Baienfurt, Germany, invites visitors to explore its quiet sanctity and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Kloster Stuben"
 site_name: "Kloster Stuben"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kloster Stuben, an intriguing monastery located in the heart of the Rhineland-Palatinate region of Germany, offers visitors a unique glimpse into monastic..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

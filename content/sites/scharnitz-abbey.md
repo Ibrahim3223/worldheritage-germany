@@ -3,7 +3,7 @@ title: "Scharnitz Abbey"
 site_name: "Scharnitz Abbey"
 date: 2026-01-26
 draft: false
-description: "Benedictine monastery in Mittenwald in Bavaria, Germany"
+description: "Scharnitz Abbey, a prominent Benedictine monastery located in the picturesque region of Krün, Bavaria, Germany, offers a serene escape into the spiritual..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

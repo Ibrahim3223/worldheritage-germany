@@ -3,7 +3,7 @@ title: "Gemeindehaus Marienstraße 9 in Sonnefeld"
 site_name: "Gemeindehaus Marienstraße 9 in Sonnefeld"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-73-166-44 (1) in Sonnefeld, Bavaria"
+description: "Gemeindehaus Marienstraße 9, the town hall of Sonnefeld, is a prominent example of civic architecture in the Bavarian region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

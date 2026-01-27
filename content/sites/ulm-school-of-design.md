@@ -3,7 +3,7 @@ title: "Ulm School of Design"
 site_name: "Ulm School of Design"
 date: 2026-01-26
 draft: false
-description: "Ulm School of Design"
+description: "The Ulm School of Design, located in the heart of Ulm, Germany, is an institution that has played a pivotal role in shaping modern design education and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"

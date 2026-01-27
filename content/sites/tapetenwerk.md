@@ -3,7 +3,7 @@ title: "Tapetenwerk"
 site_name: "Tapetenwerk"
 date: 2026-01-26
 draft: false
-description: "building in Leipzig, Saxony, Germany"
+description: "In the heart of Leipzig, Germany, lies the Tapetenwerk, a former wallpaper factory that has transformed into a vibrant space for culture and creativity."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

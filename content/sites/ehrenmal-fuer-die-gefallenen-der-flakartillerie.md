@@ -3,7 +3,7 @@ title: "Ehrenmal für die Gefallenen der Flakartillerie"
 site_name: "Ehrenmal für die Gefallenen der Flakartillerie"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Ehrenmal für die Gefallenen der Flakartillerie, or Memorial for the Fallen of the Flak Artillery, serves as a poignant reminder of the sacrifices made..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

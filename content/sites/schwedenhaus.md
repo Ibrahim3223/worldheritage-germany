@@ -3,7 +3,7 @@ title: "Schwedenhaus"
 site_name: "Schwedenhaus"
 date: 2026-01-26
 draft: false
-description: "building in Dessau-Roßlau, Saxony-Anhalt, Germany"
+description: "Schwedenhaus is a notable building located in Dessau-Roßlau, Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Building"

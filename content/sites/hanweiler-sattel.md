@@ -3,7 +3,7 @@ title: "Hanweiler Sattel"
 site_name: "Hanweiler Sattel"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Hanweiler Sattel is a distinguished mountain pass located in the picturesque Korb region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

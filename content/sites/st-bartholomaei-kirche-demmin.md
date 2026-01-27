@@ -3,7 +3,7 @@ title: "St.-Bartholomaei-Kirche (Demmin)"
 site_name: "St.-Bartholomaei-Kirche (Demmin)"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "St.-Bartholomaei-Kirche, located in the town of Demmin in the Mecklenburg-Vorpommern region of Germany, serves as a prominent example of ecclesiastical..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Gut Hemmelmark: Torhaus"
 site_name: "Gut Hemmelmark: Torhaus"
 date: 2026-01-26
 draft: false
-description: "gate house in Barkelsby, Germany"
+description: "Gut Hemmelmark: Torhaus, an enchanting gatehouse located in the serene region of Barkelsby, Germany, offers visitors a glimpse into the architectural charm..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"

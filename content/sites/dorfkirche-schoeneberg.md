@@ -3,7 +3,7 @@ title: "Dorfkirche Schöneberg"
 site_name: "Dorfkirche Schöneberg"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Dorfkirche Schöneberg, located in the Tempelhof-Schöneberg district of Berlin, stands as a significant church building and cemetery that reflects the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

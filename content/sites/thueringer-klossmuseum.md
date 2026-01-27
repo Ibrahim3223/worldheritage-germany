@@ -3,7 +3,7 @@ title: "Thüringer Kloßmuseum"
 site_name: "Thüringer Kloßmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thüringer Kloßmuseum, located in Heichelheim, Germany, offers an intriguing exploration of the cultural heritage surrounding the famous Thüringer Klöße,..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

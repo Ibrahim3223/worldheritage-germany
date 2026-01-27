@@ -3,7 +3,7 @@ title: "Brögberner Teiche – Baccumer Bruch"
 site_name: "Brögberner Teiche – Baccumer Bruch"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Brögberner Teiche – Baccumer Bruch is a serene lake located in the Lingen region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Maria Magdalena"
 site_name: "Maria Magdalena"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Maria Magdalena Church, located in the charming town of Werl, Germany, serves as a significant cultural and religious landmark."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

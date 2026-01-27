@@ -3,7 +3,7 @@ title: "St. Ursula"
 site_name: "St. Ursula"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Grafenberg, Germany"
+description: "St. Ursula, a notable church building located in Düsseldorf-Grafenberg, Germany, stands as a significant site for both spiritual reflection and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

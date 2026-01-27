@@ -3,7 +3,7 @@ title: "Max-Walther-Brücke"
 site_name: "Max-Walther-Brücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Max-Walther-Brücke stands out as a remarkable bridge in Heidenau, Germany, where its structural design and historical significance weave together to..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

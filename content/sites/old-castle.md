@@ -3,7 +3,7 @@ title: "Old Castle"
 site_name: "Old Castle"
 date: 2026-01-26
 draft: false
-description: "Renaissance castle in Stuttgart, Germany, seat of the Landesmuseum Württemberg"
+description: "Old Castle, a striking Renaissance castle located in Stuttgart-Mitte, Germany, serves as a remarkable link to the region's historical and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

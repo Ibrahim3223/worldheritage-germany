@@ -3,7 +3,7 @@ title: "Sachsenhain"
 site_name: "Sachsenhain"
 date: 2026-01-26
 draft: false
-description: "memorial in Verden, Germany"
+description: "Sachsenhain is a poignant memorial located in Verden, Germany, that serves as a reminder of the atrocities of the past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

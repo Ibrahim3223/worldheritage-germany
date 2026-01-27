@@ -3,7 +3,7 @@ title: "Residential house in open development with rear extension, portal and do
 site_name: "Residential house in open development with rear extension, portal and door leaf as well as garden with garden house, terrace and staircase (garden monument) Hertigswalder Straße 12"
 date: 2026-01-26
 draft: false
-description: "house in Sebnitz, Germany"
+description: "Tucked away in the picturesque town of Sebnitz, Germany, the Residential House in Open Development at Hertigswalder Straße 12 stands as a poignant example..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Eutin state library"
 site_name: "Eutin state library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Eutin State Library, located in the picturesque town of Eutin, Germany, serves as a vital cultural hub for the community and visitors alike."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Library"

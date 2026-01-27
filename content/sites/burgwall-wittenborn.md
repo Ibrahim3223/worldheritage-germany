@@ -3,7 +3,7 @@ title: "Burgwall Wittenborn"
 site_name: "Burgwall Wittenborn"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Wittenborn, a notable hillfort located in the Galenbeck region of Germany, invites visitors to explore its ancient past and to appreciate its..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"

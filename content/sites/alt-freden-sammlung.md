@@ -3,7 +3,7 @@ title: "Alt-Freden-Sammlung"
 site_name: "Alt-Freden-Sammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Alt-Freden-Sammlung is a captivating museum located in the town of Freden, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

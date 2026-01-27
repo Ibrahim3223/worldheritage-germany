@@ -3,7 +3,7 @@ title: "Städtische Gemäldegalerie"
 site_name: "Städtische Gemäldegalerie"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Städtische Gemäldegalerie, located in the heart of Kassel, Germany, is a museum that offers a fascinating glimpse into the world of art and culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum of the University of Tübingen"
 site_name: "Museum of the University of Tübingen"
 date: 2026-01-26
 draft: false
-description: "heritage institution"
+description: "The Museum of the University of Tübingen offers visitors a unique glimpse into the rich heritage and scholarly legacy of one of Germany's oldest universities."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

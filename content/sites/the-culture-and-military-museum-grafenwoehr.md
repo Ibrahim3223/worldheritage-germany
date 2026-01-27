@@ -3,7 +3,7 @@ title: "The Culture- and Military Museum Grafenwoehr"
 site_name: "The Culture- and Military Museum Grafenwoehr"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Culture- and Military Museum Grafenwoehr is a significant cultural institution located in Grafenwöhr, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

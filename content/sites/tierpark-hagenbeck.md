@@ -3,7 +3,7 @@ title: "Tierpark Hagenbeck"
 site_name: "Tierpark Hagenbeck"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Located in the Eimsbüttel district of Hamburg, Germany, Tierpark Hagenbeck is a notable zoo that captivates visitors with its unique blend of wildlife..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Zoo"

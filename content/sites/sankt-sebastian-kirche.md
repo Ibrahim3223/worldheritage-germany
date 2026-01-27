@@ -3,7 +3,7 @@ title: "Sankt-Sebastian-Kirche"
 site_name: "Sankt-Sebastian-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Magdeburg, Saxony-Anhalt, Germany"
+description: "Sankt-Sebastian-Kirche, a notable cathedral in Magdeburg, Germany, is a place where faith and architectural prowess converge."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cathedral"

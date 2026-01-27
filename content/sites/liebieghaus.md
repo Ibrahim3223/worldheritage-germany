@@ -3,7 +3,7 @@ title: "Liebieghaus"
 site_name: "Liebieghaus"
 date: 2026-01-26
 draft: false
-description: "sculpture museum in Frankfurt/Main, Germany"
+description: "Liebieghaus, an esteemed art museum located in Frankfurt-Süd, Germany, serves as a significant cultural landmark dedicated to the appreciation of sculpture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

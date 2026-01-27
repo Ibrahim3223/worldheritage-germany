@@ -3,7 +3,7 @@ title: "Lünen Central Station"
 site_name: "Lünen Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Lünen, Germany"
+description: "Lünen Central Station serves as a pivotal junction in the heart of Lünen, Germany, connecting travelers to various destinations while embodying the spirit..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

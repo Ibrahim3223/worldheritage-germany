@@ -3,7 +3,7 @@ title: "Der Lohn"
 site_name: "Der Lohn"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Der Lohn, a serene nature reserve located in the picturesque Barum region of Lower Saxony, Germany, is a testament to the beauty and diversity of natural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

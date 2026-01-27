@@ -3,7 +3,7 @@ title: "Geiseltalmuseum"
 site_name: "Geiseltalmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Halle (Saale), Germany"
+description: "The Geiseltalmuseum, situated in the heart of Halle (Saale), Germany, serves as a captivating exploration of the region’s geological history and fossil..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Ferberturm"
 site_name: "Ferberturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Ferberturm, an intriguing tower located in the city of Gera, Germany, is a structure that invites exploration and reflection."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

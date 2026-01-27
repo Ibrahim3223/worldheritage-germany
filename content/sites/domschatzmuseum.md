@@ -3,7 +3,7 @@ title: "Domschatzmuseum"
 site_name: "Domschatzmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Domschatzmuseum, located in Germany, is a museum that serves as a custodian of a rich collection of religious artifacts and cultural treasures."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

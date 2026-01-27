@@ -3,7 +3,7 @@ title: "Sonnensee"
 site_name: "Sonnensee"
 date: 2026-01-26
 draft: false
-description: "lake in Speyer"
+description: "Sonnensee, a picturesque lake located in the Rhineland-Palatinate region of Germany, offers a unique blend of natural beauty and recreational opportunities."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

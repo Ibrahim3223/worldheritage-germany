@@ -3,7 +3,7 @@ title: "Großer Garten"
 site_name: "Großer Garten"
 date: 2026-01-26
 draft: false
-description: "park in Dresden, Germany"
+description: "In the heart of Dresden, Germany, Großer Garten is more than just a park; it is a vibrant slice of urban green space that invites visitors to relax and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Park"

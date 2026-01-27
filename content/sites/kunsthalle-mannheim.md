@@ -3,7 +3,7 @@ title: "Kunsthalle Mannheim"
 site_name: "Kunsthalle Mannheim"
 date: 2026-01-26
 draft: false
-description: "art museum in Mannheim, Germany"
+description: "Kunsthalle Mannheim, located in the vibrant city of Mannheim, Germany, serves as a vital hub for contemporary and historical art."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

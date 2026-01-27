@@ -3,7 +3,7 @@ title: "Bergwaldtheater"
 site_name: "Bergwaldtheater"
 date: 2026-01-26
 draft: false
-description: "open-air theatre in Weißenburg in Bayern, Middle Franconia, Germany"
+description: "In the heart of Middle Franconia lies the Bergwaldtheater, an enchanting open-air theatre that captivates audiences with its unique setting and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

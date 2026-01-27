@@ -3,7 +3,7 @@ title: "St. Anne's Chapel (Freiburg im Breisgau)"
 site_name: "St. Anne's Chapel (Freiburg im Breisgau)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Anne's Chapel, located in the vibrant city of Freiburg im Breisgau, Germany, is a serene religious site that reflects the spiritual heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

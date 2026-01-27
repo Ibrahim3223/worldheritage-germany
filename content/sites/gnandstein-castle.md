@@ -3,7 +3,7 @@ title: "Gnandstein Castle"
 site_name: "Gnandstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Gnandstein Castle, a captivating landmark situated in the Frohburg region of Germany, invites visitors to explore its storied past and architectural beauty."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

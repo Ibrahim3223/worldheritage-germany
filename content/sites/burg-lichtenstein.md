@@ -3,7 +3,7 @@ title: "Burg Lichtenstein"
 site_name: "Burg Lichtenstein"
 date: 2026-01-26
 draft: false
-description: "castle in Neidenfels"
+description: "Burg Lichtenstein, a striking castle located in Neidenfels, Germany, captures the imagination with its storied past and architectural nuances."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

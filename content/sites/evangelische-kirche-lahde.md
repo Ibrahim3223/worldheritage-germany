@@ -3,7 +3,7 @@ title: "Evangelische Kirche Lahde"
 site_name: "Evangelische Kirche Lahde"
 date: 2026-01-26
 draft: false
-description: "church in Lahde, Germany"
+description: "The Evangelische Kirche Lahde is a church building located in the quaint town of Lahde, within the Petershagen region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

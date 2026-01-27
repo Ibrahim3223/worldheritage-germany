@@ -3,7 +3,7 @@ title: "Prenzlauer Berg Museum"
 site_name: "Prenzlauer Berg Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin"
+description: "The Prenzlauer Berg Museum, located in the vibrant district of Berlin, offers a unique glimpse into the neighborhood's diverse history and cultural evolution."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

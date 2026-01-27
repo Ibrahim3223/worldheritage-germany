@@ -3,7 +3,7 @@ title: "Wohnbauten im Milchquartier"
 site_name: "Wohnbauten im Milchquartier"
 date: 2026-01-26
 draft: false
-description: "Gebäude-Ensemble in Bremen-Mitte"
+description: "In the heart of Bremen's Mitte district lies Wohnbauten im Milchquartier, an architectural ensemble that captures the essence of early 20th-century urban..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

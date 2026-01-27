@@ -3,7 +3,7 @@ title: "Christian Weise Library"
 site_name: "Christian Weise Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Christian Weise Library, located in the picturesque town of Zittau, Germany, serves as an intellectual oasis and a vital cultural hub for the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

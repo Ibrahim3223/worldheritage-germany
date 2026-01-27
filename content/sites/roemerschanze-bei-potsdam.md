@@ -3,7 +3,7 @@ title: "Römerschanze bei Potsdam"
 site_name: "Römerschanze bei Potsdam"
 date: 2026-01-26
 draft: false
-description: "Burgwall in der Nähe von Sacrow, einem Ortsteil von Potsdam"
+description: "Römerschanze bei Potsdam invites visitors to explore the remnants of a historic hillfort, steeped in the echoes of ancient civilization."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

@@ -3,7 +3,7 @@ title: "Zellersee"
 site_name: "Zellersee"
 date: 2026-01-26
 draft: false
-description: "lake in Kißlegg, Germany"
+description: "Located in the picturesque region of Kißlegg, Germany, Zellersee is a serene lake that captures the essence of rural beauty and tranquility."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

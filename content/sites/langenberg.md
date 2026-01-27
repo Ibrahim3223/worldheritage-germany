@@ -3,7 +3,7 @@ title: "Langenberg"
 site_name: "Langenberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Langenberg is a prominent mountain located in the picturesque region of Willingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

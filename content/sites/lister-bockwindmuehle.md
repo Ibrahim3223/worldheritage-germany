@@ -3,7 +3,7 @@ title: "Lister Bockwindmühle"
 site_name: "Lister Bockwindmühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Vahrenheide, Hannover"
+description: "The Lister Bockwindmühle, located in the Vahrenheide district of Hannover, Germany, is more than just a windmill; it represents a significant piece of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

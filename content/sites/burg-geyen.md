@@ -3,7 +3,7 @@ title: "Burg Geyen"
 site_name: "Burg Geyen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geyen, a historical castle located in the Pulheim region of Germany, is a captivating destination for history enthusiasts and architecture lovers alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

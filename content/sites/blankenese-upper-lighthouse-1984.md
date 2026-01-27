@@ -3,7 +3,7 @@ title: "Blankenese Upper Lighthouse (1984)"
 site_name: "Blankenese Upper Lighthouse (1984)"
 date: 2026-01-26
 draft: false
-description: "former lighthouse in Hamburg, Germany"
+description: "The Blankenese Upper Lighthouse, located in the Altona district of Hamburg, Germany, serves as a significant landmark within the maritime landscape of the area."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

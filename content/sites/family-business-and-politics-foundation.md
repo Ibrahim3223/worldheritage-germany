@@ -3,7 +3,7 @@ title: "Family Business and Politics Foundation"
 site_name: "Family Business and Politics Foundation"
 date: 2026-01-26
 draft: false
-description: "German family business lobby"
+description: "In the heart of Germany, the Family Business and Politics Foundation emerges as a vital institution dedicated to advocating for the interests of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

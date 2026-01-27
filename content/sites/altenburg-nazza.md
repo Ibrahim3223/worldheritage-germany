@@ -3,7 +3,7 @@ title: "Altenburg (Nazza)"
 site_name: "Altenburg (Nazza)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altenburg Castle, situated in the picturesque region of Nazza, Germany, is a remarkable historical structure that invites exploration and admiration."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

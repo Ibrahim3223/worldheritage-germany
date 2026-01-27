@@ -3,7 +3,7 @@ title: "Westflügel Leipzig"
 site_name: "Westflügel Leipzig"
 date: 2026-01-26
 draft: false
-description: "theater in Leipzig, Germany"
+description: "Westflügel Leipzig is a prominent theatre building located in the vibrant Lindenau district of Leipzig, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

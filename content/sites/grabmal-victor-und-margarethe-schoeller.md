@@ -3,7 +3,7 @@ title: "Grabmal Victor und Margarethe Schoeller"
 site_name: "Grabmal Victor und Margarethe Schoeller"
 date: 2026-01-26
 draft: false
-description: "tomb"
+description: "In the heart of Düren, Germany, lies the Grabmal Victor und Margarethe Schoeller, an intriguing tomb that offers visitors a glimpse into the rich tapestry..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"

@@ -3,7 +3,7 @@ title: "Castle Keppenbach"
 site_name: "Castle Keppenbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Castle Keppenbach is a remarkable example of medieval architecture located in the Freiamt region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

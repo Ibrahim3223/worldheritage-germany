@@ -3,7 +3,7 @@ title: "Ehemalige Benediktinerabtei"
 site_name: "Ehemalige Benediktinerabtei"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ehemalige Benediktinerabtei, a significant museum located in Germany, is a place where visitors can delve into the enduring legacy of monastic life and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

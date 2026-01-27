@@ -3,7 +3,7 @@ title: "Burg Lindau"
 site_name: "Burg Lindau"
 date: 2026-01-26
 draft: false
-description: "castle in Zerbst/Anhalt, Saxony-Anhalt, Germany"
+description: "Burg Lindau is a remarkable castle located in Zerbst, Saxony-Anhalt, Germany. This historical edifice serves as a prominent example of medieval architecture..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

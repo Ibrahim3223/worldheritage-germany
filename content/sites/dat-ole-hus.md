@@ -3,7 +3,7 @@ title: "Dat ole Hus"
 site_name: "Dat ole Hus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Aukrug, Germany, lies Dat ole Hus, a museum that invites visitors to explore the rich cultural heritage of the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

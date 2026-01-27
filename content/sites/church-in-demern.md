@@ -3,7 +3,7 @@ title: "Church in Demern"
 site_name: "Church in Demern"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Demern, located in the quaint region of Königsfeld, Germany, is a spiritual and architectural landmark that invites visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

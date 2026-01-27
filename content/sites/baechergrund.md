@@ -3,7 +3,7 @@ title: "Bächergrund"
 site_name: "Bächergrund"
 date: 2026-01-26
 draft: false
-description: "valley between Lorch and Assmannshausen in the Rheingau, Hesse, Germany"
+description: "Bächergrund, a serene valley located between Lorch and Assmannshausen in the Rheingau region of Hesse, Germany, offers visitors a tranquil escape into nature."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Valley"

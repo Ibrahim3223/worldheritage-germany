@@ -3,7 +3,7 @@ title: "Deepenbrock"
 site_name: "Deepenbrock"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Deepenbrock is a serene nature reserve located in Lower Saxony, Germany, within the Langen region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Schlossmuseum"
 site_name: "Schlossmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Winklarn, Germany"
+description: "Schlossmuseum in Winklarn, Germany, invites visitors to explore a unique blend of culture, history, and art within its captivating walls."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

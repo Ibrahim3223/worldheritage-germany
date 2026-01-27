@@ -3,7 +3,7 @@ title: "Lower Franconian Museum"
 site_name: "Lower Franconian Museum"
 date: 2026-01-26
 draft: false
-description: "state Museum of Art and Cultural History in Würzburg"
+description: "The Lower Franconian Museum, located in the heart of Würzburg, Germany, serves as a vibrant hub for art and cultural history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

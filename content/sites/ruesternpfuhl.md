@@ -3,7 +3,7 @@ title: "Rüsternpfuhl"
 site_name: "Rüsternpfuhl"
 date: 2026-01-26
 draft: false
-description: "lake in Magdeburg, Saxony-Anhalt, Germany"
+description: "Rüsternpfuhl is a serene lake located in the city of Magdeburg, in the Saxony-Anhalt region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

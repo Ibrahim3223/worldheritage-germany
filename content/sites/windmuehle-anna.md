@@ -3,7 +3,7 @@ title: "Windmühle Anna"
 site_name: "Windmühle Anna"
 date: 2026-01-26
 draft: false
-description: "wind mill and museum in Rieseby, Germany"
+description: "Windmühle Anna, an iconic windmill located in the picturesque region of Rieseby, Germany, serves as both a museum and a symbol of the agricultural and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Zoo Schwerin"
 site_name: "Zoo Schwerin"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Zoo Schwerin serves as a unique gathering place for wildlife enthusiasts and families alike, situated in the city of Schwerin, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

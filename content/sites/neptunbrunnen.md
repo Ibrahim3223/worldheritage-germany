@@ -3,7 +3,7 @@ title: "Neptunbrunnen"
 site_name: "Neptunbrunnen"
 date: 2026-01-26
 draft: false
-description: "Fountain in Munich, Germany"
+description: "In the heart of Munich, the Neptunbrunnen, or Neptune Fountain, stands as a striking representation of artistry and urban design."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

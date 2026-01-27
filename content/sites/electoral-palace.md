@@ -3,7 +3,7 @@ title: "Electoral Palace"
 site_name: "Electoral Palace"
 date: 2026-01-26
 draft: false
-description: "Palace in Trier, Germany"
+description: "The Electoral Palace in Trier, Germany, stands as a striking example of baroque architecture and an important cultural landmark."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Palace"

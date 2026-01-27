@@ -3,7 +3,7 @@ title: "Bronzezeitliche Befestigung bei Bernstorf"
 site_name: "Bronzezeitliche Befestigung bei Bernstorf"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Germany"
+description: "The Bronzezeitliche Befestigung bei Bernstorf, an archaeological site located in Germany, invites visitors to explore the remnants of ancient fortifications..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Theresienwiese"
 site_name: "Theresienwiese"
 date: 2026-01-26
 draft: false
-description: "square in Munich, Germany"
+description: "Theresienwiese is a prominent square located in the heart of Munich, Germany. Renowned as the site of the annual Oktoberfest, this expansive area serves as..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

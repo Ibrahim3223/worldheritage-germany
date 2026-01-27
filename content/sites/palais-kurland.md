@@ -3,7 +3,7 @@ title: "Palais Kurland"
 site_name: "Palais Kurland"
 date: 2026-01-26
 draft: false
-description: "Palast in Deutschland"
+description: "Palais Kurland is an exquisite palace located in Berlin, Germany, offering visitors a glimpse into the architectural elegance and historical significance of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

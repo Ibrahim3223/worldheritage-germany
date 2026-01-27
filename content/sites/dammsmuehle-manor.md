@@ -3,7 +3,7 @@ title: "Dammsmühle manor"
 site_name: "Dammsmühle manor"
 date: 2026-01-26
 draft: false
-description: "Manor in Barnim district, Brandenburg state, Germany"
+description: "Dammsmühle Manor, located in the serene Wandlitz region of Germany's Brandenburg state, is a noteworthy example of historical architecture that stands..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Junges Theater Bonn"
 site_name: "Junges Theater Bonn"
 date: 2026-01-26
 draft: false
-description: "theatre in North Rhine-Westphalia, Germany"
+description: "Junges Theater Bonn is a vibrant cultural hub located in the heart of Bonn, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

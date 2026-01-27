@@ -3,7 +3,7 @@ title: "Landesbibliothek Coburg"
 site_name: "Landesbibliothek Coburg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Landesbibliothek Coburg stands as a pivotal institution for literature and culture in Coburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Sender Alzenau in Unterfranken-Hahnenkamm"
 site_name: "Sender Alzenau in Unterfranken-Hahnenkamm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Alzenau in Unterfranken-Hahnenkamm is a notable tower situated in the picturesque region of Alzenau, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

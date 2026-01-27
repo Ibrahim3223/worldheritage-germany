@@ -3,7 +3,7 @@ title: "Josef-Hegenbarth-Archiv"
 site_name: "Josef-Hegenbarth-Archiv"
 date: 2026-01-26
 draft: false
-description: "art museum in Dresden/Germany"
+description: "The Josef-Hegenbarth-Archiv, located in the heart of Dresden, Germany, serves as a dedicated space for the works and legacy of the influential German..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

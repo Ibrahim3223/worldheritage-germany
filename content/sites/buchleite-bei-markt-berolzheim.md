@@ -3,7 +3,7 @@ title: "Buchleite bei Markt Berolzheim"
 site_name: "Buchleite bei Markt Berolzheim"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Buchleite bei Markt Berolzheim, a designated nature reserve in Bavaria, Germany, offers a serene escape into the natural beauty of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

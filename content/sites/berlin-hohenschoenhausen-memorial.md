@@ -3,7 +3,7 @@ title: "Berlin-Hohenschönhausen Memorial"
 site_name: "Berlin-Hohenschönhausen Memorial"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Berlin-Hohenschönhausen Memorial serves as a poignant reminder of the complex history of East Germany during the Cold War."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

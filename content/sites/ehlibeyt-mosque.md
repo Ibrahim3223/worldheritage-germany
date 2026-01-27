@@ -3,7 +3,7 @@ title: "Ehlibeyt Mosque"
 site_name: "Ehlibeyt Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Hanover, Germany"
+description: "The Ehlibeyt Mosque, located in Hanover, Germany, presents a significant cultural and spiritual landmark for the local Muslim community, as well as for..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

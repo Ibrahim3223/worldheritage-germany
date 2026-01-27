@@ -3,7 +3,7 @@ title: "Küstenmuseum Juist"
 site_name: "Küstenmuseum Juist"
 date: 2026-01-26
 draft: false
-description: "museum in Juist, Germany"
+description: "The Küstenmuseum Juist, located on the tranquil island of Juist in Germany, serves as a cultural hub that encapsulates the maritime heritage and the coastal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

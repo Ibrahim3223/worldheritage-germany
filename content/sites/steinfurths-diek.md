@@ -3,7 +3,7 @@ title: "Steinfurths Diek"
 site_name: "Steinfurths Diek"
 date: 2026-01-26
 draft: false
-description: "lake in Billstedt, Hamburg, Germany"
+description: "Steinfurths Diek is a serene lake located in the vibrant Billstedt district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lake"

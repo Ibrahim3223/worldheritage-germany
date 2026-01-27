@@ -3,7 +3,7 @@ title: "Zeche Dachs & Grevelsloch"
 site_name: "Zeche Dachs & Grevelsloch"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Dachs & Grevelsloch is a notable site in Sprockhövel, Germany, representing the region's rich history of coal mining."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

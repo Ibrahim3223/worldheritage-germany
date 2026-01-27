@@ -3,7 +3,7 @@ title: "Burg Holzheim"
 site_name: "Burg Holzheim"
 date: 2026-01-26
 draft: false
-description: "castle in Haunetal"
+description: "Burg Holzheim, a captivating castle situated in the picturesque region of Haunetal, Germany, represents a significant piece of the architectural heritage of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

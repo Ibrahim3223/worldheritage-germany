@@ -3,7 +3,7 @@ title: "Calmont"
 site_name: "Calmont"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Calmont, an impressive mountain located in the Rhineland-Palatinate region of Germany, stands as a significant natural landmark within the picturesque..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Mountain"

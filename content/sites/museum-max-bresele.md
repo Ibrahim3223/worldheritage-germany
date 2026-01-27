@@ -3,7 +3,7 @@ title: "museum Max Bresele"
 site_name: "museum Max Bresele"
 date: 2026-01-26
 draft: false
-description: "modern art museum in Bavaria"
+description: "Museum Max Bresele is a modern art museum located in Weiden in der Oberpfalz, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

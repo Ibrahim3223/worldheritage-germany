@@ -3,7 +3,7 @@ title: "Francke Foundations"
 site_name: "Francke Foundations"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Francke Foundations, located in Halle (Saale), Germany, is an intriguing museum that showcases a unique blend of education, culture, and history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

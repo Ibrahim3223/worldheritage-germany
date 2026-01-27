@@ -3,7 +3,7 @@ title: "Pfundsmuseum"
 site_name: "Pfundsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Pfundsmuseum, located in Hofbieber, Germany, serves as a compelling destination for those interested in delving into the region's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

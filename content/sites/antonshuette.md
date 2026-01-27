@@ -3,7 +3,7 @@ title: "Antonshütte"
 site_name: "Antonshütte"
 date: 2026-01-26
 draft: false
-description: "ehemalige Schmelzhütte im Schwarzwassertal"
+description: "Antonshütte, located in the scenic Schwarzwassertal region of Germany, stands as a reminder of the industrial heritage that shaped the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"

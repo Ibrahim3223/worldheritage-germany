@@ -3,7 +3,7 @@ title: "Selimiye-Moschee Völklingen"
 site_name: "Selimiye-Moschee Völklingen"
 date: 2026-01-26
 draft: false
-description: "Mosque in Völklingen, Germany"
+description: "The Selimiye-Moschee Völklingen is a cultural and architectural landmark that brings the essence of Islamic architecture to the heart of Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Mosque"

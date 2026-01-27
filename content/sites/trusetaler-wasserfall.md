@@ -3,7 +3,7 @@ title: "Trusetaler Wasserfall"
 site_name: "Trusetaler Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "Trusetaler Wasserfall is a stunning waterfall located in the heart of Germany, offering visitors a serene and picturesque escape into nature."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Waterfall"

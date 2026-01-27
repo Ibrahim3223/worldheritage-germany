@@ -3,7 +3,7 @@ title: "Mühlstraße 5, Großröhrsdorf"
 site_name: "Mühlstraße 5, Großröhrsdorf"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument, museums building in Großröhrsdorf, Saxony, Germany"
+description: "Mühlstraße 5 in Großröhrsdorf is a significant cultural heritage monument, serving as a museum that encapsulates the essence of local history and tradition."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

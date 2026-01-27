@@ -3,7 +3,7 @@ title: "Burg Linau"
 site_name: "Burg Linau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Linau is a captivating castle located in the picturesque Linau region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

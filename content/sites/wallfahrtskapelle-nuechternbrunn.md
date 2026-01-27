@@ -3,7 +3,7 @@ title: "Wallfahrtskapelle Nüchternbrunn"
 site_name: "Wallfahrtskapelle Nüchternbrunn"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "In the heart of Bavaria, Germany, lies the Wallfahrtskapelle Nüchternbrunn, a church building that embodies centuries of spiritual devotion and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Lutherkirche (Berge)"
 site_name: "Lutherkirche (Berge)"
 date: 2026-01-26
 draft: false
-description: "church building in Berge, Lower Saxony, Germany"
+description: "Lutherkirche in Berge, Lower Saxony, Germany, is a significant church building that reflects the rich ecclesiastical heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

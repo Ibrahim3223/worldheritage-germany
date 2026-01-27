@@ -3,7 +3,7 @@ title: "Schloss vor Husum"
 site_name: "Schloss vor Husum"
 date: 2026-01-26
 draft: false
-description: "château in Germany"
+description: "Schloss vor Husum, a striking château located in the charming town of Husum, Germany, serves as both a museum and a cultural landmark."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

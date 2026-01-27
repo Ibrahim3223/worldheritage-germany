@@ -3,7 +3,7 @@ title: "Burg Merenberg"
 site_name: "Burg Merenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Merenberg, a striking castle located in the region of Merenberg, Germany, captures the imagination with its historical presence and architectural allure."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "St. Apollinaris"
 site_name: "St. Apollinaris"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Oberbilk, Germany"
+description: "St. Apollinaris is a notable church building located in Düsseldorf-Oberbilk, Germany, that captures the essence of both spirituality and community."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Baggersee Lutz"
 site_name: "Baggersee Lutz"
 date: 2026-01-26
 draft: false
-description: "lake in Krauchenwies, Baden-Württemberg, Germany"
+description: "Baggersee Lutz, a serene lake located in Krauchenwies, Baden-Württemberg, Germany, offers visitors a tranquil escape into nature."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

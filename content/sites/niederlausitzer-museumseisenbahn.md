@@ -3,7 +3,7 @@ title: "Niederlausitzer Museumseisenbahn"
 site_name: "Niederlausitzer Museumseisenbahn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Niederlausitzer Museumseisenbahn, located in Crinitz, Germany, offers a unique glimpse into the world of historic railways."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

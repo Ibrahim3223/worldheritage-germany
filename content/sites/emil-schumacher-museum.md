@@ -3,7 +3,7 @@ title: "Emil-Schumacher-Museum"
 site_name: "Emil-Schumacher-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Emil-Schumacher-Museum, located in the city of Hagen, Germany, is a celebration of modern art, specifically highlighting the works of the influential..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

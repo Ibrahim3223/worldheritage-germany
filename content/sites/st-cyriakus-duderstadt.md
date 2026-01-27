@@ -3,7 +3,7 @@ title: "St. Cyriakus (Duderstadt)"
 site_name: "St. Cyriakus (Duderstadt)"
 date: 2026-01-26
 draft: false
-description: "church building in Duderstadt, Germany"
+description: "St. Cyriakus in Duderstadt is a striking church building that captures the essence of medieval architecture and its enduring significance in the cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

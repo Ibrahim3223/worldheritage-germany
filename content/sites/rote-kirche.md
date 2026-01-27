@@ -3,7 +3,7 @@ title: "Rote Kirche"
 site_name: "Rote Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bernburg, Germany"
+description: "Rote Kirche, a notable church building located in Bernburg, Germany, captivates visitors with its historical significance and architectural charm."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

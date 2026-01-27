@@ -3,7 +3,7 @@ title: "Heggbach Abbey"
 site_name: "Heggbach Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Heggbach Abbey, a serene monastery located in the Maselheim region of Germany, invites visitors to explore its profound spiritual heritage and tranquil..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

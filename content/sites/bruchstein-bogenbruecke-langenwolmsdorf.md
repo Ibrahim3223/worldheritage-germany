@@ -3,7 +3,7 @@ title: "Bruchstein-Bogenbrücke Langenwolmsdorf"
 site_name: "Bruchstein-Bogenbrücke Langenwolmsdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bruchstein-Bogenbrücke Langenwolmsdorf is an architecturally significant bridge located in the Stolpen region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

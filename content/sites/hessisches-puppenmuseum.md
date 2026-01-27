@@ -3,7 +3,7 @@ title: "Hessisches Puppenmuseum"
 site_name: "Hessisches Puppenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Hanau, Germany, the Hessisches Puppenmuseum invites visitors to explore the enchanting world of dolls and puppetry."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

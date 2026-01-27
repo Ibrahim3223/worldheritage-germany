@@ -3,7 +3,7 @@ title: "Rommel Museum, Blaustein"
 site_name: "Rommel Museum, Blaustein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rommel Museum in Blaustein, Germany, offers a unique glimpse into the life and legacy of one of World War II's most enigmatic figures, General Erwin Rommel."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

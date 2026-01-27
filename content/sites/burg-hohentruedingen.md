@@ -3,7 +3,7 @@ title: "Burg Hohentrüdingen"
 site_name: "Burg Hohentrüdingen"
 date: 2026-01-26
 draft: false
-description: "building in Heidenheim, Middle Franconia, Germany"
+description: "Burg Hohentrüdingen, located in the picturesque region of Middle Franconia, Germany, stands as a remarkable example of medieval architecture and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

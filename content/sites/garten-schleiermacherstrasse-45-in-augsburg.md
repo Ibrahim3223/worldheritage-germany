@@ -3,7 +3,7 @@ title: "Garten Schleiermacherstraße 45 in Augsburg"
 site_name: "Garten Schleiermacherstraße 45 in Augsburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-61-000-892 (1) in Augsburg, Bavaria"
+description: "The Garten Schleiermacherstraße 45 in Augsburg is a remarkable cultural heritage monument that invites visitors to explore its tranquil beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

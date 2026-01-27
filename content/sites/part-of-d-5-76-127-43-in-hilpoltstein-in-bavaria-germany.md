@@ -3,7 +3,7 @@ title: "part of D-5-76-127-43 in Hilpoltstein in Bavaria, Germany"
 site_name: "part of D-5-76-127-43 in Hilpoltstein in Bavaria, Germany"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-76-127-43 (2) in Hilpoltstein, Bavaria"
+description: "In the heart of Bavaria, the gatehouse, part of D-5-76-127-43 in Hilpoltstein, serves as a remarkable cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

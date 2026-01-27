@@ -3,7 +3,7 @@ title: "Zillerplatz"
 site_name: "Zillerplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Radebeul, Germany"
+description: "Zillerplatz, a public square located in the charming town of Radebeul, Germany, serves as a focal point for both locals and visitors."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Square"

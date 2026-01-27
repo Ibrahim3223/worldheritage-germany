@@ -3,7 +3,7 @@ title: "Angermuseum"
 site_name: "Angermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Erfurt, Germany"
+description: "The Angermuseum, located in the heart of Erfurt, Germany, serves as a captivating cultural institution that draws visitors from near and far."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

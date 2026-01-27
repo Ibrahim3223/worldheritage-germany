@@ -3,7 +3,7 @@ title: "Musikhistorische Sammlung Jehle"
 site_name: "Musikhistorische Sammlung Jehle"
 date: 2026-01-26
 draft: false
-description: "music collection and museum in Baden-Württemberg, Germany"
+description: "The Musikhistorische Sammlung Jehle is a captivating music collection and museum located in the charming region of Albstadt, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

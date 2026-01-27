@@ -3,7 +3,7 @@ title: "Schumannhaus Bonn"
 site_name: "Schumannhaus Bonn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schumannhaus Bonn is a museum dedicated to celebrating the life and works of the renowned composer Robert Schumann and his wife, Clara Schumann, both of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

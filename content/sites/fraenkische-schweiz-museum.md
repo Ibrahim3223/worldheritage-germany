@@ -3,7 +3,7 @@ title: "Fränkische-Schweiz-Museum"
 site_name: "Fränkische-Schweiz-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Fränkische-Schweiz-Museum, located in Pottenstein, Germany, offers visitors a captivating exploration of the region's cultural heritage and natural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

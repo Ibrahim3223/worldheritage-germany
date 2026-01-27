@@ -3,7 +3,7 @@ title: "St.-Maria-Kirche"
 site_name: "St.-Maria-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Marienchor, Germany"
+description: "St.-Maria-Kirche, located in the quaint village of Marienchor within the Jemgum region of Germany, is a prominent church building that offers a glimpse into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Schloss Neuburg (Bayern)"
 site_name: "Schloss Neuburg (Bayern)"
 date: 2026-01-26
 draft: false
-description: "castle in Neuburg an der Donau, Germany"
+description: "Schloss Neuburg, located in the charming town of Neuburg an der Donau, Germany, is an impressive castle that reflects the region's storied past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

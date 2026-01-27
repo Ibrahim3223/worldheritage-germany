@@ -3,7 +3,7 @@ title: "Frauenzell Abbey"
 site_name: "Frauenzell Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Frauenzell Abbey, a serene monastery in the Brennberg region of Germany, offers visitors a unique glimpse into monastic life and spiritual tranquility."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Blankenese Low Lighthouse"
 site_name: "Blankenese Low Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Hamburg, Germany"
+description: "Perched along the banks of the Elbe River in Hamburg’s Altona district, the Blankenese Low Lighthouse serves not just as a navigational aid but as a..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

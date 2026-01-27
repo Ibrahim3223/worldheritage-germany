@@ -3,7 +3,7 @@ title: "University of Göttingen: Collections on the history of medicine"
 site_name: "University of Göttingen: Collections on the history of medicine"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The University of Göttingen: Collections on the history of medicine is a museum dedicated to the fascinating evolution of medical practices and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

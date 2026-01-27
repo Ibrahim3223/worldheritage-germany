@@ -3,7 +3,7 @@ title: "Anton-Saefkow-Platz"
 site_name: "Anton-Saefkow-Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Anton-Saefkow-Platz is a prominent square located in the Lichtenberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "St. Jakobus der Ältere"
 site_name: "St. Jakobus der Ältere"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Iburg, Germany"
+description: "St. Jakobus der Ältere, a church building located in Bad Iburg, Germany, captures the essence of both religious devotion and architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

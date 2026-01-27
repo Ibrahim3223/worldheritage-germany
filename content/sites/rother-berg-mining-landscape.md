@@ -3,7 +3,7 @@ title: "Rother Berg Mining Landscape"
 site_name: "Rother Berg Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Rother Berg Mining Landscape is a cultural landscape of significant historical importance in Germany, recognized as part of a World Heritage site."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Landscape"

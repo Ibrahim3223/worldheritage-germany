@@ -3,7 +3,7 @@ title: "University Library Bochum"
 site_name: "University Library Bochum"
 date: 2026-01-26
 draft: false
-description: "Library in Bochum"
+description: "The University Library Bochum, located in the vibrant city of Bochum, Germany, serves as a pivotal resource for students, researchers, and the general..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

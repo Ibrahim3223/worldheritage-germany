@@ -3,7 +3,7 @@ title: "Beethoven–Haydn–Mozart Memorial"
 site_name: "Beethoven–Haydn–Mozart Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in the Großer Tiergarten in Berlin, Germany"
+description: "The Beethoven–Haydn–Mozart Memorial is a significant cultural landmark nestled within the lush expanse of the Großer Tiergarten in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Rundbogenbrücke über die Pulsnitz (Mühlbrücke) Hermann-Richter-Weg"
 site_name: "Rundbogenbrücke über die Pulsnitz (Mühlbrücke) Hermann-Richter-Weg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rundbogenbrücke über die Pulsnitz, commonly referred to as Mühlbrücke, is an architectural highlight located in the serene Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Fagus Factory"
 site_name: "Fagus Factory"
 date: 2026-01-26
 draft: false
-description: "factory in Alfeld, Germany"
+description: "In the picturesque town of Alfeld (Leine), Germany, the Fagus Factory stands as a remarkable example of modern industrial architecture and innovation."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

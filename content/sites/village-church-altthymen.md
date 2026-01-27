@@ -3,7 +3,7 @@ title: "Village church Altthymen"
 site_name: "Village church Altthymen"
 date: 2026-01-26
 draft: false
-description: "church building in Oberhavel district, Brandenburg state, Germany"
+description: "The Village Church of Altthymen, a serene church building located in the picturesque region of Fürstenberg/Havel, Germany, offers visitors a glimpse into..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Aegidienstraße 22"
 site_name: "Aegidienstraße 22"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Bauwerk in Lübeck"
+description: "Aegidienstraße 22 is a distinguished palace located in Lübeck's Old City, a UNESCO World Heritage site known for its well-preserved medieval architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

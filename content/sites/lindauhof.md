@@ -3,7 +3,7 @@ title: "Lindauhof"
 site_name: "Lindauhof"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Lindauhof is a notable manor house situated in the serene region of Boren, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

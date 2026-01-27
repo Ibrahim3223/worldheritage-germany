@@ -3,7 +3,7 @@ title: "Hans-Thoma-Kunstmuseum"
 site_name: "Hans-Thoma-Kunstmuseum"
 date: 2026-01-26
 draft: false
-description: "Museum in Bernau im Schwarzwald"
+description: "The Hans-Thoma-Kunstmuseum, situated in the picturesque Bernau im Schwarzwald, Germany, is a notable destination for art enthusiasts and cultural explorers..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "St. Jakob"
 site_name: "St. Jakob"
 date: 2026-01-26
 draft: false
-description: "church building in Köthen, Saxony-Anhalt, Germany"
+description: "St. Jakob is a notable church building located in Köthen, Saxony-Anhalt, Germany, recognized for its architectural elegance and cultural significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

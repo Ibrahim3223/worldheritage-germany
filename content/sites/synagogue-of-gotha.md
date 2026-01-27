@@ -3,7 +3,7 @@ title: "Synagogue of Gotha"
 site_name: "Synagogue of Gotha"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Gotha, Germany"
+description: "The Synagogue of Gotha, located in the heart of Gotha, Germany, represents a poignant chapter in the city's Jewish heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"

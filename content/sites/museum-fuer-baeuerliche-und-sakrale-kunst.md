@@ -3,7 +3,7 @@ title: "Museum für bäuerliche und sakrale Kunst"
 site_name: "Museum für bäuerliche und sakrale Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für bäuerliche und sakrale Kunst is a fascinating destination for those interested in the intersection of rural life and sacred art in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Apostelkirche"
 site_name: "Apostelkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Leipzig. Germany"
+description: "In the heart of Leipzig, Germany, stands the Apostelkirche, a noteworthy church building that captures the spirit of the city’s cultural and religious heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Kyffhäuser Monument"
 site_name: "Kyffhäuser Monument"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Kyffhäuser Monument, an iconic symbol of German nationalism and heritage, stands prominently in the Bad Frankenhausen region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

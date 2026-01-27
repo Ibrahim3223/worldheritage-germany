@@ -3,7 +3,7 @@ title: "Limpurg"
 site_name: "Limpurg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Limpurg Castle stands proudly in the Schwäbisch Hall region of Germany, a structure that echoes with the whispers of history and offers a glimpse into..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

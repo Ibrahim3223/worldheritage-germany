@@ -3,7 +3,7 @@ title: "Islamic Centre Hamburg"
 site_name: "Islamic Centre Hamburg"
 date: 2026-01-26
 draft: false
-description: "mosque"
+description: "The Islamic Centre Hamburg serves as a pivotal landmark in Germany’s cultural and religious landscape."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Burtscheid Abbey"
 site_name: "Burtscheid Abbey"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Burtscheid Abbey, located in the Aachen-Mitte region of Germany, is a monastery with a profound historical and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

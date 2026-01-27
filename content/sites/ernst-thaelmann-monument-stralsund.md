@@ -3,7 +3,7 @@ title: "Ernst Thälmann Monument Stralsund"
 site_name: "Ernst Thälmann Monument Stralsund"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Stralsund"
+description: "The Ernst Thälmann Monument in Stralsund, Germany, stands as a significant structure that encapsulates a moment in history marked by political symbolism and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"

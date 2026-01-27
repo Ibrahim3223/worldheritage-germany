@@ -3,7 +3,7 @@ title: "Museum in Schönheide"
 site_name: "Museum in Schönheide"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum in Schönheide offers an intriguing glimpse into the rich cultural landscape of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

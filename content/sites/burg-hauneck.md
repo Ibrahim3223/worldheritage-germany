@@ -3,7 +3,7 @@ title: "Burg Hauneck"
 site_name: "Burg Hauneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on a hillside in the picturesque Haunetal region of Germany, Burg Hauneck is an evocative castle that captures the imagination and invites exploration."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

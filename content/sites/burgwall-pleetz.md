@@ -3,7 +3,7 @@ title: "Burgwall Pleetz"
 site_name: "Burgwall Pleetz"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Pleetz, an ancient hillfort located in the Datzetal region of Germany, invites visitors to explore a significant remnant of early fortification..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"

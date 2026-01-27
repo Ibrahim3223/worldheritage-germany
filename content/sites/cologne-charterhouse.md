@@ -3,7 +3,7 @@ title: "Cologne Charterhouse"
 site_name: "Cologne Charterhouse"
 date: 2026-01-26
 draft: false
-description: "monastery in Cologne, Germany"
+description: "Cologne Charterhouse, a historic monastery located in the Altstadt-Süd district of Cologne, Germany, encapsulates centuries of spiritual devotion and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

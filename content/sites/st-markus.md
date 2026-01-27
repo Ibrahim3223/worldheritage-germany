@@ -3,7 +3,7 @@ title: "St. Markus"
 site_name: "St. Markus"
 date: 2026-01-26
 draft: false
-description: "church in Munich"
+description: "St. Markus Church, located in the vibrant city of Munich, Germany, is a place where architectural beauty and spiritual significance converge."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

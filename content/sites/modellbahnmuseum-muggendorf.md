@@ -3,7 +3,7 @@ title: "Modellbahnmuseum Muggendorf"
 site_name: "Modellbahnmuseum Muggendorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Germany, the Modellbahnmuseum Muggendorf offers a unique glimpse into the world of miniature railroads and model trains."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Evangelische Kirche Orsoy"
 site_name: "Evangelische Kirche Orsoy"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Kirche Orsoy is a significant church building located in the charming town of Rheinberg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

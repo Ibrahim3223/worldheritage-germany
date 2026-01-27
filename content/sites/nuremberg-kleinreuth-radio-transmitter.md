@@ -3,7 +3,7 @@ title: "Nuremberg-Kleinreuth radio transmitter"
 site_name: "Nuremberg-Kleinreuth radio transmitter"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Nuremberg-Kleinreuth radio transmitter stands as an iconic tower in Germany's historical landscape, representing a significant advancement in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

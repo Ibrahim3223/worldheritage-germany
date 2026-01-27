@@ -3,7 +3,7 @@ title: "Augsburg Zoo"
 site_name: "Augsburg Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Augsburg Zoo, located in the vibrant city of Augsburg in Germany, is a noteworthy destination for animal lovers and families alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"

@@ -3,7 +3,7 @@ title: "Burg Leibertingen"
 site_name: "Burg Leibertingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leibertingen, a captivating castle located in the serene region of Leibertingen, Germany, offers visitors a glimpse into the past while surrounded by..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

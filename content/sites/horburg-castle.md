@@ -3,7 +3,7 @@ title: "Horburg Castle"
 site_name: "Horburg Castle"
 date: 2026-01-26
 draft: false
-description: "site of a medieval castle above Staufen in Baden-Württemberg, Germany"
+description: "Perched above the charming town of Staufen im Breisgau, Horburg Castle offers visitors a captivating glimpse into medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

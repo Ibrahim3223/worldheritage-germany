@@ -3,7 +3,7 @@ title: "Wörschweiler Abbey"
 site_name: "Wörschweiler Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Wörschweiler Abbey, located in the serene region of Homburg, Germany, is a significant historical monastery that offers a glimpse into the monastic life of..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Moritzburg"
 site_name: "Moritzburg"
 date: 2026-01-26
 draft: false
-description: "Fortified castle in Halle (Saale) with an art museum"
+description: "Moritzburg, a striking fortified castle located in Halle (Saale), Germany, is a compelling destination that seamlessly merges history with art."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Michaeliskloster"
 site_name: "Michaeliskloster"
 date: 2026-01-26
 draft: false
-description: "church building in Rostock, Germany"
+description: "Michaeliskloster, a significant monastery located in Rostock, Germany, represents not only a place of worship but also a key chapter in the region's..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"

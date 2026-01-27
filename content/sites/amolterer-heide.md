@@ -3,7 +3,7 @@ title: "Amolterer Heide"
 site_name: "Amolterer Heide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Amolterer Heide is a captivating nature reserve located in the picturesque region of Endingen am Kaiserstuhl, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Rathaus Grünhainichen"
 site_name: "Rathaus Grünhainichen"
 date: 2026-01-26
 draft: false
-description: "town hall in Grünhainichen, Saxony, Germany"
+description: "Rathaus Grünhainichen, the town hall of the small municipality of Grünhainichen in Saxony, Germany, serves as a focal point for both local governance and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

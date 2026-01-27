@@ -3,7 +3,7 @@ title: "Laach Castle"
 site_name: "Laach Castle"
 date: 2026-01-26
 draft: false
-description: "German castle"
+description: "Laach Castle, a historical edifice located in Kruft, Germany, invites visitors to explore a significant chapter of medieval architecture and history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

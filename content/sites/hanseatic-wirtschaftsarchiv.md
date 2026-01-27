@@ -3,7 +3,7 @@ title: "Hanseatic Wirtschaftsarchiv"
 site_name: "Hanseatic Wirtschaftsarchiv"
 date: 2026-01-26
 draft: false
-description: "archive organization in Hamburg, Germany"
+description: "The Hanseatic Wirtschaftsarchiv in Hamburg, Germany, serves as a vital cultural institution dedicated to preserving the region's rich commercial heritage."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cultural Institution"

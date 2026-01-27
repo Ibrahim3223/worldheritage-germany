@@ -3,7 +3,7 @@ title: "Hermannsdenkmal"
 site_name: "Hermannsdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in North Rhine-Westphalia, Germany"
+description: "The Hermannsdenkmal, an iconic monument located in the region of Detmold, Germany, serves as a powerful symbol of German unity and national identity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

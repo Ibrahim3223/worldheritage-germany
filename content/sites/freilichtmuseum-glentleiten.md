@@ -3,7 +3,7 @@ title: "Freilichtmuseum Glentleiten"
 site_name: "Freilichtmuseum Glentleiten"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Freilichtmuseum Glentleiten is a captivating open-air museum located in Großweil, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

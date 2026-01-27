@@ -3,7 +3,7 @@ title: "Bad Mergentheim Wildlife Park"
 site_name: "Bad Mergentheim Wildlife Park"
 date: 2026-01-26
 draft: false
-description: "German zoo"
+description: "Bad Mergentheim Wildlife Park is a captivating destination for animal lovers and families alike, situated in the charming town of Bad Mergentheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

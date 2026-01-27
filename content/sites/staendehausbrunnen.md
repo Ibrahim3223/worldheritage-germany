@@ -3,7 +3,7 @@ title: "Ständehausbrunnen"
 site_name: "Ständehausbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Hannover, Germany"
+description: "The Ständehausbrunnen is a captivating fountain located in the heart of Hannover, Germany, within the vibrant district of Mitte."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

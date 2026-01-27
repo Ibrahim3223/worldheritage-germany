@@ -3,7 +3,7 @@ title: "Hetlinger Schanze"
 site_name: "Hetlinger Schanze"
 date: 2026-01-26
 draft: false
-description: "Elbstrand bei Hetlingen gegenüber Lühesand, ehemalige Festungsanlage"
+description: "Hetlinger Schanze is a captivating beach destination located in the quaint region of Hetlingen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

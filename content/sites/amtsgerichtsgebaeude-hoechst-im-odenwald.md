@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Höchst im Odenwald"
 site_name: "Amtsgerichtsgebäude Höchst im Odenwald"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Amtsgerichtsgebäude Höchst im Odenwald, located in the charming town of Höchst im Odenwald, Germany, serves as an essential piece of the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"

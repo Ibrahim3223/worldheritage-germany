@@ -3,7 +3,7 @@ title: "Heilig Kreuz, Aachen"
 site_name: "Heilig Kreuz, Aachen"
 date: 2026-01-26
 draft: false
-description: "parish church in Aachen, Germany"
+description: "Heilig Kreuz, located in the historic city of Aachen, Germany, serves as a poignant example of ecclesiastical architecture and local heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

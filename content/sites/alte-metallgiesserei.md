@@ -3,7 +3,7 @@ title: "Alte Metallgiesserei"
 site_name: "Alte Metallgiesserei"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Alte Metallgiesserei, located in the vibrant city of Kiel, Germany, serves as a captivating museum that invites visitors to delve into the historical..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

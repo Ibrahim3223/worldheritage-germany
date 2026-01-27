@@ -3,7 +3,7 @@ title: "Imai – inter media art institute"
 site_name: "Imai – inter media art institute"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Imai – inter media art institute in Düsseldorf, Germany, serves as a significant cultural hub dedicated to the exploration and exhibition of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

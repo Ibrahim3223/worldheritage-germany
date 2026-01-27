@@ -3,7 +3,7 @@ title: "Johanniterkirche"
 site_name: "Johanniterkirche"
 date: 2026-01-26
 draft: false
-description: "historic building and museum in Schwäbisch Hall"
+description: "In the heart of Schwäbisch Hall, the Johanniterkirche emerges as a captivating blend of religious heritage and cultural history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

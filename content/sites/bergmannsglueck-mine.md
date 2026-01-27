@@ -3,7 +3,7 @@ title: "Bergmannsglück mine"
 site_name: "Bergmannsglück mine"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Tucked away in Gelsenkirchen, Germany, the Bergmannsglück mine stands as a symbol of the region's industrial heritage and a poignant reminder of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

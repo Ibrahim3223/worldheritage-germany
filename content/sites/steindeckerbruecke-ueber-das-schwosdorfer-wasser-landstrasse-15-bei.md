@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über das Schwosdorfer Wasser Landstraße 15 (bei)"
 site_name: "Steindeckerbrücke über das Schwosdorfer Wasser Landstraße 15 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über das Schwosdorfer Wasser is a bridge located in the picturesque region of Schönteichen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

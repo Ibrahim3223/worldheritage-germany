@@ -3,7 +3,7 @@ title: "Kirche Garz (Usedom)"
 site_name: "Kirche Garz (Usedom)"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "In the serene landscape of Mecklenburg-Vorpommern, Germany, lies Kirche Garz (Usedom), a church building that captures the essence of the region's cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

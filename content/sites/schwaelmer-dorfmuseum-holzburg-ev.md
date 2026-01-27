@@ -3,7 +3,7 @@ title: "Schwälmer Dorfmuseum Holzburg e.V."
 site_name: "Schwälmer Dorfmuseum Holzburg e.V."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Germany, the Schwälmer Dorfmuseum Holzburg e.V. serves as a significant cultural repository, illuminating the everyday lives and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

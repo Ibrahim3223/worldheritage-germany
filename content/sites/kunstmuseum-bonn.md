@@ -3,7 +3,7 @@ title: "Kunstmuseum Bonn"
 site_name: "Kunstmuseum Bonn"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Kunstmuseum Bonn stands as a prominent cultural institution within the Stadtbezirk Bonn, Germany, dedicated to the presentation and preservation of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

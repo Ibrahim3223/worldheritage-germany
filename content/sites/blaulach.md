@@ -3,7 +3,7 @@ title: "Blaulach"
 site_name: "Blaulach"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Blaulach, a serene nature reserve located in the Tübingen region of Baden-Württemberg, Germany, serves as a vital ecological haven."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Garten Prinzregentenplatz 12 in München"
 site_name: "Garten Prinzregentenplatz 12 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-5561 (1) in München, Bavaria"
+description: "Garten Prinzregentenplatz 12 in München, a cultural heritage monument, offers a serene escape amidst the vibrant city life of Munich, Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

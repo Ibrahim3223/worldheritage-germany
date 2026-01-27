@@ -3,7 +3,7 @@ title: "Haus Merfeld"
 site_name: "Haus Merfeld"
 date: 2026-01-26
 draft: false
-description: "manor house in Dülmen, Germany"
+description: "Haus Merfeld, a distinguished manor house located in Dülmen, Germany, presents a captivating glimpse into the architectural and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Altenberg"
 site_name: "Altenberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Altenberg, located in the picturesque Bavarian region of Germany, offers visitors a serene escape into one of the area's notable parks."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

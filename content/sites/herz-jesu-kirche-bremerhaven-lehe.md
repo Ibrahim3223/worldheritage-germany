@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kirche (Bremerhaven-Lehe)"
 site_name: "Herz-Jesu-Kirche (Bremerhaven-Lehe)"
 date: 2026-01-26
 draft: false
-description: "church building in Lehe, Germany"
+description: "Herz-Jesu-Kirche, situated in the Lehe district of Bremerhaven, Germany, is a church building that embodies the spiritual and architectural narratives of..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

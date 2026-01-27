@@ -3,7 +3,7 @@ title: "Eichhof Park Cemetery"
 site_name: "Eichhof Park Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Kronshagen"
+description: "Eichhof Park Cemetery, located in the town of Kronshagen, Germany, serves as a serene resting place and a reflection of the region’s cultural history."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Charlottenplatz"
 site_name: "Charlottenplatz"
 date: 2026-01-26
 draft: false
-description: "square in Stuttgart"
+description: "Charlottenplatz is a prominent square located in the heart of Stuttgart, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Synagoge in Eltville am Rhein"
 site_name: "Synagoge in Eltville am Rhein"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Eltville am Rhein, Germany"
+description: "The Synagoge in Eltville am Rhein stands as a poignant reminder of the town's Jewish heritage and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "St. Antonius (Herzfeld)"
 site_name: "St. Antonius (Herzfeld)"
 date: 2026-01-26
 draft: false
-description: "church building in Lippetal, Germany"
+description: "In the heart of Lippetal, Germany, the St. Antonius Church stands as a striking example of ecclesiastical architecture, reflecting the region's rich..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

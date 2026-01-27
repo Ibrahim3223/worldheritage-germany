@@ -3,7 +3,7 @@ title: "Osterholzer Friedhof"
 site_name: "Osterholzer Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Osterholz, Bremen, Germany"
+description: "Osterholzer Friedhof, located in the serene region of Osterholz in Bremen, Germany, serves as a poignant reminder of the passage of time and the lives that..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Cemetery"

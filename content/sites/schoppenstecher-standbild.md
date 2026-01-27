@@ -3,7 +3,7 @@ title: "Schoppenstecher-Standbild"
 site_name: "Schoppenstecher-Standbild"
 date: 2026-01-26
 draft: false
-description: "statue in Mainz, Germany"
+description: "In the heart of Mainz, Germany, stands the Schoppenstecher-Standbild, a statue that captures the essence of local heritage and celebrates the region's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

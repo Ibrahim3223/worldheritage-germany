@@ -3,7 +3,7 @@ title: "Kaiser-Friedrich-Halle"
 site_name: "Kaiser-Friedrich-Halle"
 date: 2026-01-26
 draft: false
-description: "concert and multipurpose hall in Mönchengladbach, Germany"
+description: "The Kaiser-Friedrich-Halle is a notable multi-purpose hall located in Mönchengladbach, Germany, serving as a vibrant venue for concerts and various events."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

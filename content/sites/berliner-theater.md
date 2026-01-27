@@ -3,7 +3,7 @@ title: "Berliner Theater"
 site_name: "Berliner Theater"
 date: 2026-01-26
 draft: false
-description: "former theater in Charlottenstrasse in Kreuzberg, Berlin"
+description: "The Berliner Theater, located in the vibrant Kreuzberg district of Berlin, is a significant cultural landmark that captures the spirit of the city's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

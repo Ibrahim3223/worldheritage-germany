@@ -3,7 +3,7 @@ title: "Ernst-Abbe-Denkmal"
 site_name: "Ernst-Abbe-Denkmal"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Ernst-Abbe-Denkmal is more than just an architectural structure; it is a significant monument located in the city of Jena, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

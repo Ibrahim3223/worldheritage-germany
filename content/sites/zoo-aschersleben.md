@@ -3,7 +3,7 @@ title: "Zoo Aschersleben"
 site_name: "Zoo Aschersleben"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Zoo Aschersleben is an inviting destination located in the heart of Aschersleben, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"

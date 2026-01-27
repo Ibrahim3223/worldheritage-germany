@@ -3,7 +3,7 @@ title: "Villengarten Wisbacherstraße 2 in Bad Reichenhall"
 site_name: "Villengarten Wisbacherstraße 2 in Bad Reichenhall"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-72-114-172 (2) in Bad Reichenhall, Bavaria"
+description: "Villengarten Wisbacherstraße 2, located in Bad Reichenhall, Germany, is a culturally significant garden that embodies the charm of Bavarian heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Burg Honrath"
 site_name: "Burg Honrath"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Honrath, an intriguing castle located in the Lohmar region of Germany, invites visitors to explore its historical and architectural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

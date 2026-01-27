@@ -3,7 +3,7 @@ title: "Holy Cross Church Volksdorf"
 site_name: "Holy Cross Church Volksdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg"
+description: "Holy Cross Church Volksdorf stands as a significant landmark in the Wandsbek district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

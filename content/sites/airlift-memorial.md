@@ -3,7 +3,7 @@ title: "Airlift Memorial"
 site_name: "Airlift Memorial"
 date: 2026-01-26
 draft: false
-description: "series of monuments based on the plans of architect Eduard Ludwig in Germany"
+description: "The Airlift Memorial, a striking series of monuments in Celle, Germany, stands as a poignant reminder of a significant chapter in post-war history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

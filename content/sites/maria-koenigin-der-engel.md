@@ -3,7 +3,7 @@ title: "Maria Königin der Engel"
 site_name: "Maria Königin der Engel"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Maria Königin der Engel, a distinguished church building located in Contwig, Germany, is a site that draws both visitors and worshippers alike."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

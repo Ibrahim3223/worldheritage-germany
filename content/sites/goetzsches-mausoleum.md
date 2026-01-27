@@ -3,7 +3,7 @@ title: "Goetzsches Mausoleum"
 site_name: "Goetzsches Mausoleum"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Deutschland"
+description: "The Goetzsches Mausoleum, located in the historic town of Quedlinburg, Germany, serves as a remarkable example of commemorative architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

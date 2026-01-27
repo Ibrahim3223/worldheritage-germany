@@ -3,7 +3,7 @@ title: "St. Jacobi"
 site_name: "St. Jacobi"
 date: 2026-01-26
 draft: false
-description: "church building in Göttingen, Lower Saxony, Germany"
+description: "St. Jacobi, an evocative church building located in Göttingen, Lower Saxony, Germany, invites visitors to explore the intersection of faith, art, and community."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

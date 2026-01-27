@@ -3,7 +3,7 @@ title: "Berlin-Lichtenberg railway station"
 site_name: "Berlin-Lichtenberg railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Berlin"
+description: "Berlin-Lichtenberg railway station serves as a vital transit hub within the bustling city of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Railway Station"

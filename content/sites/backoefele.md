@@ -3,7 +3,7 @@ title: "Backöfele"
 site_name: "Backöfele"
 date: 2026-01-26
 draft: false
-description: "Aussichtsturm in auf dem Schneeberg, Fichtelgebirge, Deutschland"
+description: "Perched on the Schneeberg in Germany's picturesque Fichtelgebirge region, Backöfele is an inviting tower that offers visitors a unique vantage point from..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

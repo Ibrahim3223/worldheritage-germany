@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kapelle (Tiengen)"
 site_name: "Heilig-Kreuz-Kapelle (Tiengen)"
 date: 2026-01-26
 draft: false
-description: "chapel in Waldshut-Tiengen"
+description: "Heilig-Kreuz-Kapelle, a quaint chapel situated in Waldshut-Tiengen, Germany, serves as a serene haven for both spiritual reflection and cultural exploration."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

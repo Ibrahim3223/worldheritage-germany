@@ -3,7 +3,7 @@ title: "Glas- und Keramikmuseum Großalmerode"
 site_name: "Glas- und Keramikmuseum Großalmerode"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glas- und Keramikmuseum Großalmerode offers a unique glimpse into the intricate world of glass and ceramics, situated in the heart of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

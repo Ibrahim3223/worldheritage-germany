@@ -3,7 +3,7 @@ title: "Fehnmuseum Eiland"
 site_name: "Fehnmuseum Eiland"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Fehnmuseum Eiland invites visitors to delve into the cultural heritage of the German region of Großefehn."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

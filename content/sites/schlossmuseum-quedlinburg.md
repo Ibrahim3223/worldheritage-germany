@@ -3,7 +3,7 @@ title: "Schlossmuseum, Quedlinburg"
 site_name: "Schlossmuseum, Quedlinburg"
 date: 2026-01-26
 draft: false
-description: "museum in the castle of Quedlinburg"
+description: "Schlossmuseum in Quedlinburg is a significant cultural institution housed within the historic castle of Quedlinburg, a UNESCO World Heritage Site."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

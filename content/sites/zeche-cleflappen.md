@@ -3,7 +3,7 @@ title: "Zeche Cleflappen"
 site_name: "Zeche Cleflappen"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Cleflappen, situated in the heart of Mülheim an der Ruhr, Germany, represents a significant chapter in the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

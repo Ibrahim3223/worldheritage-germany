@@ -3,7 +3,7 @@ title: "Kirche Mönchow"
 site_name: "Kirche Mönchow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Nestled in the serene countryside of Germany, Kirche Mönchow is a remarkable church building that embodies the essence of local heritage and spirituality."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

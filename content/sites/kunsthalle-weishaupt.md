@@ -3,7 +3,7 @@ title: "Kunsthalle Weishaupt"
 site_name: "Kunsthalle Weishaupt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthalle Weishaupt, situated in the city of Ulm, Germany, is a distinguished art museum renowned for its contemporary art exhibits and engaging cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

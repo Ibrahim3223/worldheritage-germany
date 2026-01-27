@@ -3,7 +3,7 @@ title: "Zeche Catharina"
 site_name: "Zeche Catharina"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Catharina, located in the industrial heart of Essen, Germany, serves as a poignant reminder of the region's storied mining history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

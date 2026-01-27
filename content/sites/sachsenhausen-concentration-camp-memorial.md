@@ -3,7 +3,7 @@ title: "Sachsenhausen concentration camp memorial"
 site_name: "Sachsenhausen concentration camp memorial"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Sachsenhausen concentration camp memorial stands as a poignant reminder of the atrocities committed during the Holocaust."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

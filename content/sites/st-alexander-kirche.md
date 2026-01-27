@@ -3,7 +3,7 @@ title: "St.-Alexander-Kirche"
 site_name: "St.-Alexander-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Schmallenberg, Germany"
+description: "St.-Alexander-Kirche is a notable church building located in the town of Schmallenberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Rasso"
 site_name: "St. Rasso"
 date: 2026-01-26
 draft: false
-description: "chapel in Schweinegg, Eisenberg, Germany"
+description: "St. Rasso Chapel, located in the quaint village of Schweinegg in the picturesque region of Eisenberg, Germany, serves as a serene reflection of local..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

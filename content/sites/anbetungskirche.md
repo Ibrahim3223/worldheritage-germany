@@ -3,7 +3,7 @@ title: "Anbetungskirche"
 site_name: "Anbetungskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Anbetungskirche, a notable church building located in Düsseldorf, Germany, stands as an emblematic representation of the region's religious architecture..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Telecom Telecommunication Tower Heidelberg"
 site_name: "Telecom Telecommunication Tower Heidelberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Telecom Telecommunication Tower in Heidelberg is more than just a functional structure; it is a prominent landmark that signifies the integration of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

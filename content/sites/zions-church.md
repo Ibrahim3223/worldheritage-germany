@@ -3,7 +3,7 @@ title: "Zion's Church"
 site_name: "Zion's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Worpswede, Lower Saxony, Germany"
+description: "Zion's Church, located in the picturesque village of Worpswede in Lower Saxony, Germany, is a striking example of ecclesiastical architecture that has..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

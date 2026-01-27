@@ -3,7 +3,7 @@ title: "Zeche Billigkeit"
 site_name: "Zeche Billigkeit"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Billigkeit, located in Witten, Germany, represents an essential chapter in the region's rich industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

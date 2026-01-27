@@ -3,7 +3,7 @@ title: "Moritzburg Castle"
 site_name: "Moritzburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Moritzburg, Saxony, Germany"
+description: "Moritzburg Castle, an enchanting museum located in the picturesque village of Moritzburg in Saxony, Germany, captivates visitors with its stunning..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

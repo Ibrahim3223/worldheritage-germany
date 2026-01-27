@@ -3,7 +3,7 @@ title: "Rothe Brücke"
 site_name: "Rothe Brücke"
 date: 2026-01-26
 draft: false
-description: "historischer Straßenübergang am Schwarzwasser nahe Johanngeorgenstadt"
+description: "The Rothe Brücke, a historical bridge located near Johanngeorgenstadt in Germany, serves as a vital link across the Schwarzwasser River."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

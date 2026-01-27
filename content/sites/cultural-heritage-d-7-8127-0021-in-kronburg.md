@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-8127-0021 in Kronburg"
 site_name: "Cultural heritage D-7-8127-0021 in Kronburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Cultural heritage D-7-8127-0021 in Kronburg is a remarkable fortification that embodies the historical and architectural significance of the region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

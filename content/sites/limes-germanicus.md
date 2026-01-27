@@ -3,7 +3,7 @@ title: "Limes Germanicus"
 site_name: "Limes Germanicus"
 date: 2026-01-26
 draft: false
-description: "fortifications of ancient Roman provinces"
+description: "Limes Germanicus represents an extraordinary feat of ancient engineering, marking the northern frontier of the Roman Empire across present-day Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Roman Limes"

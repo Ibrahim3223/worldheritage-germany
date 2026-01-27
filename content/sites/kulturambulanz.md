@@ -3,7 +3,7 @@ title: "KulturAmbulanz"
 site_name: "KulturAmbulanz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "KulturAmbulanz is a notable museum located in the Osterholz region of Germany, dedicated to preserving and showcasing cultural heritage."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

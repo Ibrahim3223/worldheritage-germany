@@ -3,7 +3,7 @@ title: "Schambachried"
 site_name: "Schambachried"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Schambachried, located in the Treuchtlingen region of Bavaria, Germany, is a nature reserve that offers a unique glimpse into the region's natural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

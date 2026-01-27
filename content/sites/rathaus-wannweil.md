@@ -3,7 +3,7 @@ title: "Rathaus Wannweil"
 site_name: "Rathaus Wannweil"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Rathaus Wannweil, the city hall of Wannweil, Germany, serves as a central hub for civic administration and community activities."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

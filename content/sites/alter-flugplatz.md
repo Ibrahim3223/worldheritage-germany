@@ -3,7 +3,7 @@ title: "Alter Flugplatz"
 site_name: "Alter Flugplatz"
 date: 2026-01-26
 draft: false
-description: "former American military airbase in Frankfurt, Germany"
+description: "Alter Flugplatz, a former American military airbase located in the Frankfurt-Nord-Ost region of Germany, serves as a unique recreational park that invites..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Park"

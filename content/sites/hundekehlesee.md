@@ -3,7 +3,7 @@ title: "Hundekehlesee"
 site_name: "Hundekehlesee"
 date: 2026-01-26
 draft: false
-description: "lake in Charlottenburg-Wilmersdorf, Berlin, Germany"
+description: "Hundekehlesee, a serene lake located in the Charlottenburg-Wilmersdorf district of Berlin, invites visitors to experience a tranquil escape from the urban..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"

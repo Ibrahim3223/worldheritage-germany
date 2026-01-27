@@ -3,7 +3,7 @@ title: "Angertor (München)"
 site_name: "Angertor (München)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Angertor, an iconic city gate located in the historic Altstadt-Lehel district of Munich, serves as a striking reminder of the city’s medieval..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

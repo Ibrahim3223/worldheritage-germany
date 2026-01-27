@@ -3,7 +3,7 @@ title: "Court Library Aschaffenburg"
 site_name: "Court Library Aschaffenburg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Court Library Aschaffenburg is an intriguing cultural institution located in the heart of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

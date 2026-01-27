@@ -3,7 +3,7 @@ title: "Ritterkapelle Haßfurt"
 site_name: "Ritterkapelle Haßfurt"
 date: 2026-01-26
 draft: false
-description: "building in Haßfurt, Lower Franconia, Germany"
+description: "The Ritterkapelle in Haßfurt, a charming chapel located in Lower Franconia, Germany, serves as a significant cultural and historical landmark in the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

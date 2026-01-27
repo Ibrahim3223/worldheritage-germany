@@ -3,7 +3,7 @@ title: "St. Jakobi (Bremen-Neustadt)"
 site_name: "St. Jakobi (Bremen-Neustadt)"
 date: 2026-01-26
 draft: false
-description: "church building in Neustadt, Germany"
+description: "St. Jakobi in Bremen-Neustadt is a striking church building that encapsulates the essence of religious architecture within the vibrant urban landscape of..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

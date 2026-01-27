@@ -3,7 +3,7 @@ title: "Saarlouis Body & Assembly"
 site_name: "Saarlouis Body & Assembly"
 date: 2026-01-26
 draft: false
-description: "German car plant located in Saarlouis of Ford"
+description: "Saarlouis Body & Assembly is an integral part of Germany's automotive landscape, situated in the heart of Saarlouis."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Factory"

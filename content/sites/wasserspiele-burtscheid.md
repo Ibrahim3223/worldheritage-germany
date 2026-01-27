@@ -3,7 +3,7 @@ title: "Wasserspiele (Burtscheid)"
 site_name: "Wasserspiele (Burtscheid)"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "Located in the heart of Aachen, Germany, the Wasserspiele (Burtscheid) is a captivating fountain that serves as a testament to the cultural and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

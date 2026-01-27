@@ -3,7 +3,7 @@ title: "Georgstor"
 site_name: "Georgstor"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the charming region of Blankenheim, Germany, Georgstor serves as a significant cultural and historical museum that invites visitors to explore..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

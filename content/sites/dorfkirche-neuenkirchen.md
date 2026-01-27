@@ -3,7 +3,7 @@ title: "Dorfkirche Neuenkirchen"
 site_name: "Dorfkirche Neuenkirchen"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Dorfkirche Neuenkirchen is a notable church building located in the picturesque region of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

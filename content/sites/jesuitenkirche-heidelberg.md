@@ -3,7 +3,7 @@ title: "Jesuitenkirche (Heidelberg)"
 site_name: "Jesuitenkirche (Heidelberg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Jesuitenkirche, or Jesuit Church, in Heidelberg, Germany, is a remarkable example of ecclesiastical architecture that reflects the city’s rich..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

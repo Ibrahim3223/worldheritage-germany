@@ -3,7 +3,7 @@ title: "Kluterthöhle"
 site_name: "Kluterthöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Kluterthöhle, a remarkable cave located in Ennepetal, Germany, offers visitors a unique glimpse into the subterranean world beneath the Earth’s surface."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"

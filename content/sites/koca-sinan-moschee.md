@@ -3,7 +3,7 @@ title: "Koca-Sinan-Moschee"
 site_name: "Koca-Sinan-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Berlin-Reinickendorf"
+description: "The Koca-Sinan-Moschee is an important Islamic place of worship located in the Berlin-Reinickendorf district of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

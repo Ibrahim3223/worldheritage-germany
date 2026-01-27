@@ -3,7 +3,7 @@ title: "City Museum Löbau"
 site_name: "City Museum Löbau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The City Museum Löbau is an intriguing destination in the heart of Germany, providing visitors with a glimpse into the region's cultural heritage and history."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

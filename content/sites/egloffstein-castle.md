@@ -3,7 +3,7 @@ title: "Egloffstein Castle"
 site_name: "Egloffstein Castle"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-124-1 (0) in Egloffstein, Bavaria"
+description: "Egloffstein Castle, an archaeological site in Bavaria, Germany, is a fascinating cultural heritage monument that captures the essence of medieval..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

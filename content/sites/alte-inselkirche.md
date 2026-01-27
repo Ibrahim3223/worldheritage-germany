@@ -3,7 +3,7 @@ title: "Alte Inselkirche"
 site_name: "Alte Inselkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Spiekeroog, Germany"
+description: "The Alte Inselkirche, a charming church building located on the serene island of Spiekeroog in Germany, serves as both a spiritual haven and a significant..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

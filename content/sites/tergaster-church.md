@@ -3,7 +3,7 @@ title: "Tergaster Church"
 site_name: "Tergaster Church"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "Tergaster Church stands as a notable example of ecclesiastical architecture in the Moormerland region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

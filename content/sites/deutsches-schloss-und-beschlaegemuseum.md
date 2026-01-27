@@ -3,7 +3,7 @@ title: "Deutsches Schloss- und Beschlägemuseum,"
 site_name: "Deutsches Schloss- und Beschlägemuseum,"
 date: 2026-01-26
 draft: false
-description: "Velbert, Germany"
+description: "In the heart of Velbert, Germany, the Deutsches Schloss- und Beschlägemuseum offers a unique glimpse into the world of locks and fittings, artifacts that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

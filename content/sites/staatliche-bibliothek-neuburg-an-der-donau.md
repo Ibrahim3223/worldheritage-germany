@@ -3,7 +3,7 @@ title: "Staatliche Bibliothek Neuburg an der Donau"
 site_name: "Staatliche Bibliothek Neuburg an der Donau"
 date: 2026-01-26
 draft: false
-description: "Scientific library in Neuburg an der Donau (Germany)"
+description: "The Staatliche Bibliothek Neuburg an der Donau, a distinguished scientific library located in the heart of Neuburg an der Donau, Germany, serves as a vital..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

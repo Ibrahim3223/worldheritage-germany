@@ -3,7 +3,7 @@ title: "Pauluskirche (Dessau)"
 site_name: "Pauluskirche (Dessau)"
 date: 2026-01-26
 draft: false
-description: "church building in Dessau-Roßlau, Germany"
+description: "Pauluskirche, located in the heart of Dessau-Roßlau, Germany, is a notable church building that serves as a spiritual and cultural landmark in the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

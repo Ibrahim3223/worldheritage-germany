@@ -3,7 +3,7 @@ title: "Kaiser-Wilhelm-Gedächtniskirche"
 site_name: "Kaiser-Wilhelm-Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "The Kaiser-Wilhelm-Gedächtniskirche, a church building located in the Charlottenburg-Wilmersdorf district of Berlin, serves as a poignant symbol of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

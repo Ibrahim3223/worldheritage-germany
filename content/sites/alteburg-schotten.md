@@ -3,7 +3,7 @@ title: "Alteburg, Schotten"
 site_name: "Alteburg, Schotten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alteburg, located in the charming town of Schotten, Germany, is a remarkable castle that encapsulates the essence of medieval architecture and regional history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

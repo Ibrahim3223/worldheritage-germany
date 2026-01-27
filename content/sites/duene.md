@@ -3,7 +3,7 @@ title: "Düne"
 site_name: "Düne"
 date: 2026-01-26
 draft: false
-description: "German Island"
+description: "Düne, an island off the coast of Germany, offers a unique blend of natural beauty and cultural significance."
 region: "Heligoland"
 country: "Germany"
 heritage_type: "Island"

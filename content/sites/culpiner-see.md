@@ -3,7 +3,7 @@ title: "Culpiner See"
 site_name: "Culpiner See"
 date: 2026-01-26
 draft: false
-description: "lake in Mustin, Schleswig-Holstein, Germany"
+description: "Culpiner See, a serene lake located in the quaint region of Mustin, Schleswig-Holstein, Germany, offers a tranquil escape for nature enthusiasts and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

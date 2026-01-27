@@ -3,7 +3,7 @@ title: "Burg Löwenstein"
 site_name: "Burg Löwenstein"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Burg Löwenstein, a notable tower located in the picturesque region of Löwenstein, Germany, offers visitors a glimpse into the area's medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

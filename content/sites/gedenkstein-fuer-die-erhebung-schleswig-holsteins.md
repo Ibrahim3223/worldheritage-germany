@@ -3,7 +3,7 @@ title: "Gedenkstein für die Erhebung Schleswig-Holsteins"
 site_name: "Gedenkstein für die Erhebung Schleswig-Holsteins"
 date: 2026-01-26
 draft: false
-description: "monument in Hamburg-Blankenese, Germany"
+description: "The Gedenkstein für die Erhebung Schleswig-Holsteins, an evocative monument located in Hamburg-Blankenese, serves as a poignant reminder of a significant..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

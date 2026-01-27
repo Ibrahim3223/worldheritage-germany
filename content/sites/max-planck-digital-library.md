@@ -3,7 +3,7 @@ title: "Max Planck Digital Library"
 site_name: "Max Planck Digital Library"
 date: 2026-01-26
 draft: false
-description: "central service unit of the MPG"
+description: "The Max Planck Digital Library, located in the vibrant city of Munich, Germany, serves as a central service unit for the Max Planck Society (MPG)."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

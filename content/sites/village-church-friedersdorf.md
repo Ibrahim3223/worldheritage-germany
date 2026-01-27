@@ -3,7 +3,7 @@ title: "Village church Friedersdorf"
 site_name: "Village church Friedersdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church Friedersdorf, located in the serene landscape of Brandenburg state, Germany, stands as a significant cultural and architectural landmark..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

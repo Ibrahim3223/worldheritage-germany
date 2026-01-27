@@ -3,7 +3,7 @@ title: "Kriegerdenkmal in Düsseldorf-Stadtmitte"
 site_name: "Kriegerdenkmal in Düsseldorf-Stadtmitte"
 date: 2026-01-26
 draft: false
-description: "monument in Düsseldorf, Germany"
+description: "The Kriegerdenkmal in Düsseldorf-Stadtmitte is a poignant monument dedicated to the memory of soldiers who served in various conflicts."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

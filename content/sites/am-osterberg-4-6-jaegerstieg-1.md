@@ -3,7 +3,7 @@ title: "Am Osterberg 4, 6, Jägerstieg 1"
 site_name: "Am Osterberg 4, 6, Jägerstieg 1"
 date: 2026-01-26
 draft: false
-description: "architectural ensemble in Gernrode, Germany"
+description: "Situated in the picturesque town of Gernrode, Germany, the architectural ensemble of Am Osterberg 4, 6, and Jägerstieg 1 presents a fascinating glimpse into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

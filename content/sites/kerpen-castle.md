@@ -3,7 +3,7 @@ title: "Kerpen Castle"
 site_name: "Kerpen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kerpen Castle, an intriguing structure located in the region of Kerpen, Germany, invites visitors to immerse themselves in its storied past and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

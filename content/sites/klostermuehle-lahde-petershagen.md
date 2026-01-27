@@ -3,7 +3,7 @@ title: "Klostermühle Lahde (Petershagen)"
 site_name: "Klostermühle Lahde (Petershagen)"
 date: 2026-01-26
 draft: false
-description: "combined windmill and watermill in Petershagen"
+description: "The Klostermühle Lahde in Petershagen is an intriguing fusion of a windmill and watermill, reflecting the region's historical reliance on innovative milling..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

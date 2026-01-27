@@ -3,7 +3,7 @@ title: "Dorfkirche Tarnow"
 site_name: "Dorfkirche Tarnow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Tarnow, located in the charming village of Tarnow, Germany, is a compelling example of ecclesiastical architecture that draws visitors from near..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

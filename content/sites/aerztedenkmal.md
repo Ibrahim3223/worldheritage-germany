@@ -3,7 +3,7 @@ title: "Ärztedenkmal"
 site_name: "Ärztedenkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Eisenach, Germany"
+description: "Situated in the historic town of Eisenach, Germany, the Ärztedenkmal is a poignant memorial dedicated to the contributions of physicians in the region."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

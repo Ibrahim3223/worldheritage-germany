@@ -3,7 +3,7 @@ title: "Ibbenbüren Central Cemetery"
 site_name: "Ibbenbüren Central Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Ibbenbüren, Germany"
+description: "Ibbenbüren Central Cemetery is more than just a final resting place; it serves as a reflective space within the heart of Ibbenbüren, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

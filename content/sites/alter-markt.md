@@ -3,7 +3,7 @@ title: "Alter Markt"
 site_name: "Alter Markt"
 date: 2026-01-26
 draft: false
-description: "square in Potsdam, Germany"
+description: "Alter Markt is a historic square located in the heart of Potsdam, Germany. This vibrant public space serves as a focal point for both locals and visitors,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Square"

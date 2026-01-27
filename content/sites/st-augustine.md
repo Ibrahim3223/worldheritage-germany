@@ -3,7 +3,7 @@ title: "St. Augustine"
 site_name: "St. Augustine"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf, Germany"
+description: "St. Augustine, a church building located in Düsseldorf, Germany, is an intriguing site that embodies the architectural and cultural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

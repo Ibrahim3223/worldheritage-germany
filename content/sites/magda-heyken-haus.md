@@ -3,7 +3,7 @@ title: "Magda-Heyken-Haus"
 site_name: "Magda-Heyken-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Hage, Germany, lies the Magda-Heyken-Haus, a museum that serves as a cultural hub for both locals and visitors."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schützentor"
 site_name: "Schützentor"
 date: 2026-01-26
 draft: false
-description: "gatehouse in Königsberg in Bayern, Germany"
+description: "Schützentor, a historic gatehouse located in the picturesque town of Königsberg in Bayern, Germany, stands as an embodiment of medieval fortification..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

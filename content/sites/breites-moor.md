@@ -3,7 +3,7 @@ title: "Breites Moor"
 site_name: "Breites Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Breites Moor, a captivating nature reserve located in the Celle region of Lower Saxony, Germany, offers visitors a unique glimpse into the diverse..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Orgelbaumuseum Schloss Hanstein"
 site_name: "Orgelbaumuseum Schloss Hanstein"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the picturesque region of Ostheim vor der Rhön, the Orgelbaumuseum Schloss Hanstein is a unique museum dedicated to the art and craft of organ..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

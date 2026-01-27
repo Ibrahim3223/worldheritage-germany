@@ -3,7 +3,7 @@ title: "Vinzenzbrunnen"
 site_name: "Vinzenzbrunnen"
 date: 2026-01-26
 draft: false
-description: "historic fountain complex in Aachen, Germany"
+description: "The Vinzenzbrunnen, a historic fountain complex located in Aachen, Germany, is a site that encapsulates the essence of the city’s rich cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Deutsches Goldschmiedehaus"
 site_name: "Deutsches Goldschmiedehaus"
 date: 2026-01-26
 draft: false
-description: "museum in Hanau (Germany)"
+description: "The Deutsches Goldschmiedehaus, or the German Goldsmiths' House, stands as a unique museum dedicated to the art and craft of goldsmithing."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

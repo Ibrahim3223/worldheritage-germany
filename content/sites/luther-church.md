@@ -3,7 +3,7 @@ title: "Luther Church"
 site_name: "Luther Church"
 date: 2026-01-26
 draft: false
-description: "Protestant church in Wiesbaden"
+description: "Luther Church, a distinguished Protestant church located in Wiesbaden, Germany, serves as a notable landmark in this vibrant city."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

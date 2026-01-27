@@ -3,7 +3,7 @@ title: "Burg Lövenich"
 site_name: "Burg Lövenich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lövenich, located in the scenic region of Zülpich, Germany, is a remarkable castle that captures the imagination of visitors with its historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

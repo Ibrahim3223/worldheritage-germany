@@ -3,7 +3,7 @@ title: "Munich Digitization Center"
 site_name: "Munich Digitization Center"
 date: 2026-01-26
 draft: false
-description: "German digital library"
+description: "The Munich Digitization Center (MDZ) stands at the forefront of digital preservation, serving as a vital resource for researchers, historians, and the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

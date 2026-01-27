@@ -3,7 +3,7 @@ title: "VS-Schulmuseum"
 site_name: "VS-Schulmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Tauberbischofsheim, Germany"
+description: "The VS-Schulmuseum in Tauberbischofsheim, Germany, is a unique institution that delves into the history of education and its pivotal role in shaping society."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

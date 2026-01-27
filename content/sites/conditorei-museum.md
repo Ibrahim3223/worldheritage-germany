@@ -3,7 +3,7 @@ title: "Conditorei-Museum"
 site_name: "Conditorei-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Kitzingen, Germany"
+description: "In the heart of Kitzingen, Germany, the Conditorei-Museum stands as a tribute to the art of pastry making and confectionery."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kaiser-Friedrich-Gedächtniskirche"
 site_name: "Kaiser-Friedrich-Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "German Protestant church in Berlin"
+description: "The Kaiser-Friedrich-Gedächtniskirche, located in the Bezirk Mitte district of Berlin, is an emblematic German Protestant church that draws visitors due to..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Dansk Centralbibliotek for Sydslesvig"
 site_name: "Dansk Centralbibliotek for Sydslesvig"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Dansk Centralbibliotek for Sydslesvig, located in the vibrant city of Flensburg, Germany, serves as a crucial cultural hub for the Danish minority in the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Library"

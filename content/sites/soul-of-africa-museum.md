@@ -3,7 +3,7 @@ title: "Soul of Africa Museum"
 site_name: "Soul of Africa Museum"
 date: 2026-01-26
 draft: false
-description: "private museum in Essen, Germany"
+description: "The Soul of Africa Museum in Essen, Germany, is a captivating private museum that invites visitors to explore the diverse and intricate cultures of Africa..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

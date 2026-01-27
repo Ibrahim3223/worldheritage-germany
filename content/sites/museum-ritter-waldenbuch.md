@@ -3,7 +3,7 @@ title: "Museum Ritter (Waldenbuch)"
 site_name: "Museum Ritter (Waldenbuch)"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Museum Ritter, located in the charming town of Waldenbuch, Germany, serves as a vital cultural hub dedicated to art."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

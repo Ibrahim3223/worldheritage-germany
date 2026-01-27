@@ -3,7 +3,7 @@ title: "Weyhe-Denkmal"
 site_name: "Weyhe-Denkmal"
 date: 2026-01-26
 draft: false
-description: "statue in Düsseldorf, Germany"
+description: "In the heart of Düsseldorf, Germany, the Weyhe-Denkmal stands as a noteworthy monument, capturing the attention of locals and visitors alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

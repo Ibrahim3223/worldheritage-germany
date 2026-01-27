@@ -3,7 +3,7 @@ title: "Burg Neuenahr"
 site_name: "Burg Neuenahr"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuenahr stands as a remarkable castle in the serene region of Bad Neuenahr, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

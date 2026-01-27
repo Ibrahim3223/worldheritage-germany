@@ -3,7 +3,7 @@ title: "Fire department museums in Frankfurt am Main"
 site_name: "Fire department museums in Frankfurt am Main"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Frankfurt am Main lies a unique museum dedicated to the history and evolution of firefighting."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

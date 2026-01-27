@@ -3,7 +3,7 @@ title: "St. Nicolai"
 site_name: "St. Nicolai"
 date: 2026-01-26
 draft: false
-description: "church building in Lüneburg, Germany"
+description: "St. Nicolai, located in the charming town of Lüneburg, Germany, is a prominent church building that stands as a significant representation of the region’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

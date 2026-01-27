@@ -3,7 +3,7 @@ title: "Bahnhofstraße 7"
 site_name: "Bahnhofstraße 7"
 date: 2026-01-26
 draft: false
-description: "Villa in Eddelak, Schleswig-Holstein"
+description: "At the heart of Eddelak, in Schleswig-Holstein, Bahnhofstraße 7 stands as an intriguing architectural feature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

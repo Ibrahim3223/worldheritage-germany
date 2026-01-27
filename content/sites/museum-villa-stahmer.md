@@ -3,7 +3,7 @@ title: "Museum Villa Stahmer"
 site_name: "Museum Villa Stahmer"
 date: 2026-01-26
 draft: false
-description: "museum in Georgsmarienhütte, Lower Saxony, Germany"
+description: "Museum Villa Stahmer, located in Georgsmarienhütte, Lower Saxony, Germany, serves as a cultural hub that highlights the region's rich heritage through its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

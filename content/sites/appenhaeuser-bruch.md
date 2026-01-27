@@ -3,7 +3,7 @@ title: "Appenhäuser Bruch"
 site_name: "Appenhäuser Bruch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Porta Westfalica, North Rhine-Westphalia, Germany"
+description: "Appenhäuser Bruch, located in Porta Westfalica, North Rhine-Westphalia, Germany, is a prominent nature reserve that showcases the ecological diversity of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

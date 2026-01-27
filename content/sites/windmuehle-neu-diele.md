@@ -3,7 +3,7 @@ title: "Windmühle Neu-Diele"
 site_name: "Windmühle Neu-Diele"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Diele, Weener"
+description: "Windmühle Neu-Diele is a remarkable example of traditional windmill architecture located in Weener, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

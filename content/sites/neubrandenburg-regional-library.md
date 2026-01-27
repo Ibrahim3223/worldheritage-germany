@@ -3,7 +3,7 @@ title: "Neubrandenburg regional library"
 site_name: "Neubrandenburg regional library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Neubrandenburg Regional Library stands as a vital intellectual hub in the heart of Neubrandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

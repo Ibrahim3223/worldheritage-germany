@@ -3,7 +3,7 @@ title: "Burg Bräunlingen"
 site_name: "Burg Bräunlingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Bräunlingen, an impressive castle located in the heart of Bräunlingen, Germany, captures the imagination of visitors with its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

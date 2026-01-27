@@ -3,7 +3,7 @@ title: "Reventlou-Beseler-Denkmal"
 site_name: "Reventlou-Beseler-Denkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Germany"
+description: "The Reventlou-Beseler-Denkmal, a poignant memorial located in Schleswig, Germany, stands as a tribute to significant historical figures and events."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"

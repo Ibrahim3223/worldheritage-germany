@@ -3,7 +3,7 @@ title: "Eremitage"
 site_name: "Eremitage"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-62-000-392 (0) in Bayreuth, Bavaria"
+description: "Eremitage, a distinguished museum in Bayreuth, Germany, stands as a significant cultural heritage monument reflecting the artistic and historical evolution..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

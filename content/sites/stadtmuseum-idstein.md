@@ -3,7 +3,7 @@ title: "Stadtmuseum Idstein"
 site_name: "Stadtmuseum Idstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Idstein, located in the charming town of Idstein in Germany, serves as a vibrant cultural hub that connects visitors with the region's local..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

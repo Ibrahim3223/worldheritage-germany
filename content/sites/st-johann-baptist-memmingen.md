@@ -3,7 +3,7 @@ title: "St. Johann Baptist (Memmingen)"
 site_name: "St. Johann Baptist (Memmingen)"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "St. Johann Baptist in Memmingen, Germany, is an intriguing monastery that offers a window into the region's spiritual and architectural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

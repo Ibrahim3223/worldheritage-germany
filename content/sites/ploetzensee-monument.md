@@ -3,7 +3,7 @@ title: "Plötzensee monument"
 site_name: "Plötzensee monument"
 date: 2026-01-26
 draft: false
-description: "Memorial to the victims of National Socialism"
+description: "The Plötzensee monument in Berlin serves as a somber reminder of the atrocities committed during the National Socialist regime."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

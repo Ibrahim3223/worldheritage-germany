@@ -3,7 +3,7 @@ title: "Im Klosterforst"
 site_name: "Im Klosterforst"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Petershagen, North Rhine-Westphalia, Germany"
+description: "Im Klosterforst is a distinguished nature reserve located in Petershagen, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

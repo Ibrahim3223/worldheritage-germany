@@ -3,7 +3,7 @@ title: "Hanns-Martin-Schleyer-Halle"
 site_name: "Hanns-Martin-Schleyer-Halle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Hanns-Martin-Schleyer-Halle, located in Stuttgart, Germany, is a notable multi-purpose hall that serves as a significant venue for various events,..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

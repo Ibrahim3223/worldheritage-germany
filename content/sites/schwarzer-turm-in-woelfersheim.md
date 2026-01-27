@@ -3,7 +3,7 @@ title: "Schwarzer Turm in Wölfersheim"
 site_name: "Schwarzer Turm in Wölfersheim"
 date: 2026-01-26
 draft: false
-description: "Turm in Deutschland"
+description: "The Schwarzer Turm, or the Black Tower, in Wölfersheim, Germany, is a striking piece of architectural heritage that stands as a symbol of the region’s rich..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

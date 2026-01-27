@@ -3,7 +3,7 @@ title: "Fortunabrunnen"
 site_name: "Fortunabrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "In the vibrant city of Munich, Germany, the Fortunabrunnen serves as a unique landmark that invites both locals and tourists to pause and appreciate its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

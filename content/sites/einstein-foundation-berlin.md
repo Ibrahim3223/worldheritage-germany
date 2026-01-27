@@ -3,7 +3,7 @@ title: "Einstein Foundation Berlin"
 site_name: "Einstein Foundation Berlin"
 date: 2026-01-26
 draft: false
-description: "German foundation, founded in 2009"
+description: "The Einstein Foundation Berlin is a significant cultural institution dedicated to promoting and advancing the legacy of Albert Einstein, one of the most..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

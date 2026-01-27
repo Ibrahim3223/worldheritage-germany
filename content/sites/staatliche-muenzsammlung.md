@@ -3,7 +3,7 @@ title: "Staatliche Münzsammlung"
 site_name: "Staatliche Münzsammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Staatliche Münzsammlung, located in the heart of Munich's Altstadt-Lehel district, serves as a compelling destination for those interested in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

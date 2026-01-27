@@ -3,7 +3,7 @@ title: "Burg Neuveringen"
 site_name: "Burg Neuveringen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuveringen, a historic castle located in the charming town of Riedlingen, Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

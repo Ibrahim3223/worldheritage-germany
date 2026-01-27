@@ -3,7 +3,7 @@ title: "Brücke Hauptstraße (am Anfang des Tiefenbachtales)"
 site_name: "Brücke Hauptstraße (am Anfang des Tiefenbachtales)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Brücke Hauptstraße, positioned at the beginning of the Tiefenbachtal, serves as a notable bridge in the Königsbrück region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

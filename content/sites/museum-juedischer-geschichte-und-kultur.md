@@ -3,7 +3,7 @@ title: "Museum jüdischer Geschichte und Kultur"
 site_name: "Museum jüdischer Geschichte und Kultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum jüdischer Geschichte und Kultur, located in Aschaffenburg, Germany, offers an insightful exploration of Jewish history and culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

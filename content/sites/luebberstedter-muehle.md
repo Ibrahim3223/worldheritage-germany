@@ -3,7 +3,7 @@ title: "Lübberstedter Mühle"
 site_name: "Lübberstedter Mühle"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Lübberstedt"
+description: "Lübberstedter Mühle, a historic windmill located in the quaint village of Lübberstedt, Germany, serves as an important landmark reflecting the region's..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

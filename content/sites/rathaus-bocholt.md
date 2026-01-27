@@ -3,7 +3,7 @@ title: "Rathaus Bocholt"
 site_name: "Rathaus Bocholt"
 date: 2026-01-26
 draft: false
-description: "town hall and theatre in Bocholt, Germany"
+description: "Rathaus Bocholt, located in the heart of Bocholt, Germany, serves as both a town hall and a theatre, embodying the cultural and civic spirit of the community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

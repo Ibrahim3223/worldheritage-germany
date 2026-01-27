@@ -3,7 +3,7 @@ title: "St.-Martinus-Kirche"
 site_name: "St.-Martinus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Martinus-Kirche stands as a prominent landmark in the small town of Friedeburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

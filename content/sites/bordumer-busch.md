@@ -3,7 +3,7 @@ title: "Bordumer Busch"
 site_name: "Bordumer Busch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bordumer Busch is a serene nature reserve located in Lower Saxony, Germany, specifically within the Wilhelmshaven region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

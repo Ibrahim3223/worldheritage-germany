@@ -3,7 +3,7 @@ title: "Sigmaringen Castle"
 site_name: "Sigmaringen Castle"
 date: 2026-01-26
 draft: false
-description: "building in Sigmaringen, Tübingen Government Region, Baden-Württemberg, Germany"
+description: "Sigmaringen Castle, a striking fortress located in the charming town of Sigmaringen in Germany's Baden-Württemberg region, is a remarkable example of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

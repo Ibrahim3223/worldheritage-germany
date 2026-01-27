@@ -3,7 +3,7 @@ title: "Orgelmuseum Borgentreich"
 site_name: "Orgelmuseum Borgentreich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Orgelmuseum Borgentreich, located in the charming town of Borgentreich in Germany, is a unique institution dedicated to the art and history of musical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

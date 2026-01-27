@@ -3,7 +3,7 @@ title: "Am Tannenwäldchen 7 und 10 in Düsseldorf"
 site_name: "Am Tannenwäldchen 7 und 10 in Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Am Tannenwäldchen 7 und 10 is an intriguing architectural ensemble located in Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

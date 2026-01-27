@@ -3,7 +3,7 @@ title: "Dominicans Island"
 site_name: "Dominicans Island"
 date: 2026-01-26
 draft: false
-description: "small island in Lake Constance"
+description: "Dominicans Island, a small yet captivating island situated in Lake Constance within Germany's scenic Constance region, offers visitors a unique blend of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Island"

@@ -3,7 +3,7 @@ title: "Eisenbahnbrücke über die Müglitz"
 site_name: "Eisenbahnbrücke über die Müglitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnbrücke über die Müglitz is an iconic bridge located in the town of Heidenau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

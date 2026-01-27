@@ -3,7 +3,7 @@ title: "Porzellanwerk Rosenthal am Rotbühl"
 site_name: "Porzellanwerk Rosenthal am Rotbühl"
 date: 2026-01-26
 draft: false
-description: "porcelain factory buildings in Selb, Bavaria, Germany"
+description: "Porzellanwerk Rosenthal am Rotbühl, located in the quaint town of Selb, Bavaria, Germany, is a significant site dedicated to the artistry of porcelain..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"

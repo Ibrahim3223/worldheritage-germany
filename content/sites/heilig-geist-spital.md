@@ -3,7 +3,7 @@ title: "Heilig-Geist-Spital"
 site_name: "Heilig-Geist-Spital"
 date: 2026-01-26
 draft: false
-description: "former hospital in medieval Berlin"
+description: "In the heart of Berlin, the Heilig-Geist-Spital serves as a profound reminder of the city's medieval roots and its evolution through the centuries."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Glücksburg Castle"
 site_name: "Glücksburg Castle"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Glücksburg Castle, a striking example of a châteaus in northern Germany, invites visitors to explore its fascinating blend of history and architecture."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

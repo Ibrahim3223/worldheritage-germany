@@ -3,7 +3,7 @@ title: "Allerheiligenkirche"
 site_name: "Allerheiligenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Allerheiligenkirche, a striking church building located in the Reinickendorf district of Berlin, Germany, is a noteworthy site for those interested in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

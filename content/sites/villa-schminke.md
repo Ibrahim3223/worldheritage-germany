@@ -3,7 +3,7 @@ title: "Villa Schminke"
 site_name: "Villa Schminke"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Villa Schminke, an architectural marvel, stands proudly in the city of Löbau, Germany, captivating visitors with its unique design and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Casino Travemünde"
 site_name: "Casino Travemünde"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Germany"
+description: "Casino Travemünde is more than just a multi-purpose hall; it is an integral part of the cultural landscape in Travemünde, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

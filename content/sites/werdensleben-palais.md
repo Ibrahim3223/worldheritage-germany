@@ -3,7 +3,7 @@ title: "Werdensleben palais"
 site_name: "Werdensleben palais"
 date: 2026-01-26
 draft: false
-description: "building in Staßfurt, Germany"
+description: "The Werdensleben Palais in Staßfurt, Germany, is a remarkable reflection of architectural elegance and historical significance within the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

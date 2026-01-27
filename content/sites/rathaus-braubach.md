@@ -3,7 +3,7 @@ title: "Rathaus Braubach"
 site_name: "Rathaus Braubach"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Rheinland-Pfalz"
+description: "The Rathaus Braubach, an emblematic city hall located in the picturesque town of Braubach in Rheinland-Pfalz, Germany, stands as a focal point for local..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Hall"

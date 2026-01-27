@@ -3,7 +3,7 @@ title: "Schlößchen Borghees"
 site_name: "Schlößchen Borghees"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus Mitte des 18. Jahrhunderts in Borghees bei Emmerich am Rhein"
+description: "Schlößchen Borghees, a charming manor house located in the picturesque region of Emmerich am Rhein, Germany, encapsulates the essence of 18th-century..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

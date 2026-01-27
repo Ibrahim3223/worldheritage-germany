@@ -3,7 +3,7 @@ title: "Burg Lisberg"
 site_name: "Burg Lisberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Lisberg, Bavaria"
+description: "Burg Lisberg, a prominent castle located in the picturesque region of Lisberg, Bavaria, stands as a cultural heritage monument that draws visitors with its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

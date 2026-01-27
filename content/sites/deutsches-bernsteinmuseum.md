@@ -3,7 +3,7 @@ title: "Deutsches Bernsteinmuseum"
 site_name: "Deutsches Bernsteinmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the charming town of Ribnitz-Damgarten, the Deutsches Bernsteinmuseum offers an engaging exploration of amber, a natural resin that has..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

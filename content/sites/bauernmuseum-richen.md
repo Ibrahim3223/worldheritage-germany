@@ -3,7 +3,7 @@ title: "Bauernmuseum Richen"
 site_name: "Bauernmuseum Richen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Bauernmuseum Richen presents a unique opportunity to explore the agricultural heritage of Germany, set against the backdrop of the picturesque region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

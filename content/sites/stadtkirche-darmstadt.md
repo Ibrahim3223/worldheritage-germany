@@ -3,7 +3,7 @@ title: "Stadtkirche Darmstadt"
 site_name: "Stadtkirche Darmstadt"
 date: 2026-01-26
 draft: false
-description: "church building in Darmstadt, Germany"
+description: "Stadtkirche Darmstadt, a distinguished church building located in the heart of Darmstadt, Germany, serves as a prominent landmark and a center of community..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

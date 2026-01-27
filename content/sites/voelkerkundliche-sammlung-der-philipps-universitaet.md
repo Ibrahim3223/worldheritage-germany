@@ -3,7 +3,7 @@ title: "Völkerkundliche Sammlung der Philipps-Universität"
 site_name: "Völkerkundliche Sammlung der Philipps-Universität"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Völkerkundliche Sammlung der Philipps-Universität, located in Germany, is a museum dedicated to the exploration and understanding of diverse cultures..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

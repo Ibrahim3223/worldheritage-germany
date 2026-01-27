@@ -3,7 +3,7 @@ title: "Stiftskirche Münstermaifeld"
 site_name: "Stiftskirche Münstermaifeld"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Stiftskirche Münstermaifeld, a remarkable monastery located in the heart of Münstermaifeld, Germany, serves as a significant religious and cultural landmark."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

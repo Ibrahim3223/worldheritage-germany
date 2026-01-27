@@ -3,7 +3,7 @@ title: "Alter Friedhof (Frauwüllesheim)"
 site_name: "Alter Friedhof (Frauwüllesheim)"
 date: 2026-01-26
 draft: false
-description: "cemetery in Nörvenich, Germany"
+description: "Alter Friedhof, a cemetery located in the quaint village of Frauwüllesheim within the Nörvenich region of Germany, offers visitors a poignant glimpse into..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

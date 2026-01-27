@@ -3,7 +3,7 @@ title: "Museum Ulm"
 site_name: "Museum Ulm"
 date: 2026-01-26
 draft: false
-description: "museum in Ulm, Germany"
+description: "Museum Ulm serves as a vibrant cultural hub within the historic city of Ulm, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

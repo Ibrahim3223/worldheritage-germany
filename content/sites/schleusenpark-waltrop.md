@@ -3,7 +3,7 @@ title: "Schleusenpark Waltrop"
 site_name: "Schleusenpark Waltrop"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schleusenpark Waltrop is a museum in Germany, located in the charming town of Waltrop."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

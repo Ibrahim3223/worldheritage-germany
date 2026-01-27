@@ -3,7 +3,7 @@ title: "Teufelsgrabenbrücke"
 site_name: "Teufelsgrabenbrücke"
 date: 2026-01-26
 draft: false
-description: "arch bridge"
+description: "The Teufelsgrabenbrücke, an impressive arch bridge serving as an aqueduct, is a remarkable example of engineering ingenuity set in the picturesque valley of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Aqueduct"

@@ -3,7 +3,7 @@ title: "Behring-Mausoleum"
 site_name: "Behring-Mausoleum"
 date: 2026-01-26
 draft: false
-description: "Mausoleum für Emil von Behring und Else von Behring"
+description: "The Behring-Mausoleum, a distinguished mausoleum located in Marbach, Germany, serves as the final resting place of the renowned scientist Emil von Behring..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mausoleum"

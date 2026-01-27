@@ -3,7 +3,7 @@ title: "Fatih Moschee"
 site_name: "Fatih Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Essen"
+description: "In the heart of Essen, Germany, the Fatih Moschee stands as a significant landmark representing the cultural diversity of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

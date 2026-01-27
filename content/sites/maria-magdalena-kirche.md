@@ -3,7 +3,7 @@ title: "Maria-Magdalena-Kirche"
 site_name: "Maria-Magdalena-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Maria-Magdalena-Kirche, a notable church building located in the charming town of Putbus in Germany, serves as a focal point of both spiritual and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

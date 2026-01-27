@@ -3,7 +3,7 @@ title: "Freilicht- und Erlebnismuseum Ostfalen"
 site_name: "Freilicht- und Erlebnismuseum Ostfalen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Freilicht- und Erlebnismuseum Ostfalen offers a unique opportunity to explore the cultural heritage of the Ostfalen region in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

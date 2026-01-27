@@ -3,7 +3,7 @@ title: "Gut Schönfeld"
 site_name: "Gut Schönfeld"
 date: 2026-01-26
 draft: false
-description: "Gutsanlage in Hagen, Nordrhein-Westfalen, Deutschland"
+description: "Gut Schönfeld is a remarkable manor house located in Hagen-Nord, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

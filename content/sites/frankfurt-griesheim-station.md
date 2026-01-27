@@ -3,7 +3,7 @@ title: "Frankfurt Griesheim station"
 site_name: "Frankfurt Griesheim station"
 date: 2026-01-26
 draft: false
-description: "railway station in Frankfurt, Germany"
+description: "Frankfurt Griesheim Station is a vital railway hub situated in the vibrant city of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

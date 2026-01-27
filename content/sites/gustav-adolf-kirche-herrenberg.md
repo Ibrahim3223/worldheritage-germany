@@ -3,7 +3,7 @@ title: "Gustav-Adolf-Kirche (Herrenberg)"
 site_name: "Gustav-Adolf-Kirche (Herrenberg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Gustav-Adolf-Kirche in Herrenberg is more than just a house of worship; it stands as a significant landmark in the region of Erfurt, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

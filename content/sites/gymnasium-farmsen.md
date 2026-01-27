@@ -3,7 +3,7 @@ title: "Gymnasium Farmsen"
 site_name: "Gymnasium Farmsen"
 date: 2026-01-26
 draft: false
-description: "High school in Hamburg"
+description: "Gymnasium Farmsen is a notable high school located in the Wandsbek district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"

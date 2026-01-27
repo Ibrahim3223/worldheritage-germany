@@ -3,7 +3,7 @@ title: "Zeltnerweiher"
 site_name: "Zeltnerweiher"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Zeltnerweiher is a serene lake located in the historic region of Nuremberg, Germany, an area known for its vibrant culture and rich heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Burg Loßburg"
 site_name: "Burg Loßburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Loßburg is a captivating castle that invites visitors to explore its historical significance nestled in the picturesque region of Loßburg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

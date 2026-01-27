@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Döbschütz"
 site_name: "Steindeckerbrücke Döbschütz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke Döbschütz is an intriguing bridge located in the picturesque region of Vierkirchen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

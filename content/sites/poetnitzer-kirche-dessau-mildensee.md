@@ -3,7 +3,7 @@ title: "Pötnitzer Kirche (Dessau-Mildensee)"
 site_name: "Pötnitzer Kirche (Dessau-Mildensee)"
 date: 2026-01-26
 draft: false
-description: "church building in Dessau-Roßlau, Saxony-Anhalt, Germany"
+description: "Pötnitzer Kirche, located in the Dessau-Mildensee district of Dessau-Roßlau, Saxony-Anhalt, Germany, is an intriguing church building that invites visitors..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

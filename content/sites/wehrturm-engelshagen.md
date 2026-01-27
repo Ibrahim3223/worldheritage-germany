@@ -3,7 +3,7 @@ title: "Wehrturm (Engelshagen)"
 site_name: "Wehrturm (Engelshagen)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Wehrturm in Engelshagen is a striking tower located in the charming town of Hückeswagen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

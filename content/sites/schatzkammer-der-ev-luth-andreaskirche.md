@@ -3,7 +3,7 @@ title: "Schatzkammer der Ev.-Luth. Andreaskirche"
 site_name: "Schatzkammer der Ev.-Luth. Andreaskirche"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schatzkammer der Ev.-Luth. Andreaskirche, located in Germany, is a captivating museum that offers visitors a glimpse into the rich cultural heritage..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

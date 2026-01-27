@@ -3,7 +3,7 @@ title: "Zionskirche (Soltau)"
 site_name: "Zionskirche (Soltau)"
 date: 2026-01-26
 draft: false
-description: "church in Soltau"
+description: "Zionskirche in Soltau is a captivating church that embodies the spiritual and architectural essence of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

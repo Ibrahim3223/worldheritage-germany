@@ -3,7 +3,7 @@ title: "Wallroda Dam"
 site_name: "Wallroda Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Wallroda Dam, located in Großröhrsdorf, Germany, serves as both a functional piece of infrastructure and an intriguing point of interest for visitors."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

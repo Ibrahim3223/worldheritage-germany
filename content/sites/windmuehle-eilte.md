@@ -3,7 +3,7 @@ title: "Windmühle Eilte"
 site_name: "Windmühle Eilte"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Eilte, Ahlden (Aller)"
+description: "Windmühle Eilte, located in the charming region of Ahlden in Germany, stands as a significant example of traditional windmill architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

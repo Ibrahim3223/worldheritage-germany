@@ -3,7 +3,7 @@ title: "Brocken Garden"
 site_name: "Brocken Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Brocken Garden is a botanical garden located in the picturesque town of Wernigerode, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

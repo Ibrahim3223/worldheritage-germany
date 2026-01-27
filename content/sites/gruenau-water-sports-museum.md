@@ -3,7 +3,7 @@ title: "Grünau Water Sports Museum"
 site_name: "Grünau Water Sports Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Grünau Water Sports Museum in Berlin serves as a unique portal into the world of water sports and the associated culture."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

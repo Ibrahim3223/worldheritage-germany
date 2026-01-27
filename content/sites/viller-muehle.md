@@ -3,7 +3,7 @@ title: "Viller Mühle"
 site_name: "Viller Mühle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Viller Mühle, located in the quaint region of Goch, Germany, serves as a museum that invites visitors to explore the local heritage and the significance of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

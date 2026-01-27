@@ -3,7 +3,7 @@ title: "Mannheim Main Cemetery"
 site_name: "Mannheim Main Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Mannheim, Germany"
+description: "Mannheim Main Cemetery, located in the heart of Mannheim, Germany, serves as a significant cultural landmark and a serene space for reflection and remembrance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

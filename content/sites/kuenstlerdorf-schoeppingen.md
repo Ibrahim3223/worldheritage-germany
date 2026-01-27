@@ -3,7 +3,7 @@ title: "Künstlerdorf Schöppingen"
 site_name: "Künstlerdorf Schöppingen"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Künstlerdorf Schöppingen is a unique foundation located in the quaint town of Schöppingen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

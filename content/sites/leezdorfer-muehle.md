@@ -3,7 +3,7 @@ title: "Leezdorfer Mühle"
 site_name: "Leezdorfer Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
+description: "Leezdorfer Mühle is a striking windmill that captures the spirit of Ostfriesland in Niedersachsen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

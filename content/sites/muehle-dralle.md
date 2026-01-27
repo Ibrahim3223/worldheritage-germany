@@ -3,7 +3,7 @@ title: "Mühle Dralle"
 site_name: "Mühle Dralle"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Mühle Dralle, a historic windmill located in the Rehburg-Loccum region of Germany, offers visitors a glimpse into the traditional craftsmanship and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

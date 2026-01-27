@@ -3,7 +3,7 @@ title: "Burg Katenmoos"
 site_name: "Burg Katenmoos"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Katenmoos, a castle steeped in historical significance, is a remarkable site located in the picturesque Katzenmoos region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

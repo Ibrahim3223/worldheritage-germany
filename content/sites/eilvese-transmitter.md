@@ -3,7 +3,7 @@ title: "Eilvese transmitter"
 site_name: "Eilvese transmitter"
 date: 2026-01-26
 draft: false
-description: "former long-range transmitter near Hannover, Germany"
+description: "The Eilvese transmitter, a prominent tower located in Neustadt am Rübenberge, Germany, offers a unique glimpse into the world of long-range communication."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

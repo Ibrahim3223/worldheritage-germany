@@ -3,7 +3,7 @@ title: "St. Dionysiuskirche"
 site_name: "St. Dionysiuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Dagebüll, Germany"
+description: "St. Dionysiuskirche, a prominent church building in Dagebüll, Germany, serves not only as a place of worship but also as a focal point for the local community."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St.-Sebastians-Kirche (Hatzum)"
 site_name: "St.-Sebastians-Kirche (Hatzum)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Sebastians-Kirche, located in the quaint village of Hatzum in the Jemgum region of Germany, is a stunning example of a church building that reflects the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

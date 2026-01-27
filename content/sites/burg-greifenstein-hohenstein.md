@@ -3,7 +3,7 @@ title: "Burg Greifenstein (Hohenstein)"
 site_name: "Burg Greifenstein (Hohenstein)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Greifenstein, also known as Hohenstein, is a striking castle located in the Burg-Hohenstein region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

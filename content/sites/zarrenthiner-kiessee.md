@@ -3,7 +3,7 @@ title: "Zarrenthiner Kiessee"
 site_name: "Zarrenthiner Kiessee"
 date: 2026-01-26
 draft: false
-description: "lake in Vorpommern-Greifswald District, Mecklenburg-Vorpommern, Germany"
+description: "Zarrenthiner Kiessee is a serene lake located in the Vorpommern-Greifswald District of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

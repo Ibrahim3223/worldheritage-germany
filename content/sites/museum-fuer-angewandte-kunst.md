@@ -3,7 +3,7 @@ title: "Museum für Angewandte Kunst"
 site_name: "Museum für Angewandte Kunst"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum für Angewandte Kunst, situated in Gera, Germany, is a captivating institution dedicated to the applied arts."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

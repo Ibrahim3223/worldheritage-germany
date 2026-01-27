@@ -3,7 +3,7 @@ title: "Wildgehege Dodenau"
 site_name: "Wildgehege Dodenau"
 date: 2026-01-26
 draft: false
-description: "etwa 10 ha großer Wildpark bei Dodenau"
+description: "Wildgehege Dodenau is a captivating wildlife park located in Battenberg (Eder), Germany, covering approximately 10 hectares."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

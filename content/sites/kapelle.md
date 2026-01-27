@@ -3,7 +3,7 @@ title: "Kapelle"
 site_name: "Kapelle"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Deutschland"
+description: "Kapelle, a chapel located in the picturesque Kronburg region of Germany, offers visitors a serene space for reflection and worship."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

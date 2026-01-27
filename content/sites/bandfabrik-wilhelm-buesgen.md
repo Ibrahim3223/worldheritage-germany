@@ -3,7 +3,7 @@ title: "Bandfabrik Wilhelm Büsgen"
 site_name: "Bandfabrik Wilhelm Büsgen"
 date: 2026-01-26
 draft: false
-description: "Gebäudekomplex in Wuppertal"
+description: "Bandfabrik Wilhelm Büsgen is an architectural ensemble located in Wuppertal, Germany, that offers a unique glimpse into the industrial heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

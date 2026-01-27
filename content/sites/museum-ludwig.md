@@ -3,7 +3,7 @@ title: "Museum Ludwig"
 site_name: "Museum Ludwig"
 date: 2026-01-26
 draft: false
-description: "museum in Cologne, Germany"
+description: "Museum Ludwig in Cologne, Germany, is a significant cultural institution that houses an impressive collection of modern art, ranging from the 20th century..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

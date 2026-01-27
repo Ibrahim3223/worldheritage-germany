@@ -3,7 +3,7 @@ title: "Marchtal Abbey"
 site_name: "Marchtal Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Marchtal Abbey is an impressive monastery located in the serene region of Obermarchtal, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

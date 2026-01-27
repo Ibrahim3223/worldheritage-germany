@@ -3,7 +3,7 @@ title: "Dorfkirche Alt-Tegel"
 site_name: "Dorfkirche Alt-Tegel"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Reinickendorf, amid the vibrant pulse of Berlin, lies the Dorfkirche Alt-Tegel, an intriguing church building that reflects the region's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

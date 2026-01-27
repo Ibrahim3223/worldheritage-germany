@@ -3,7 +3,7 @@ title: "Bunkermuseum Hagen"
 site_name: "Bunkermuseum Hagen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bunkermuseum Hagen is a unique museum located in Hagen, Germany, dedicated to preserving and showcasing the historical significance of bunkers and air..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Gemeindebücherei St. Martin Nandlstadt"
 site_name: "Gemeindebücherei St. Martin Nandlstadt"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Nandlstadt, Germany, the Gemeindebücherei St. Martin serves as an essential cultural institution, offering not only a vast collection of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

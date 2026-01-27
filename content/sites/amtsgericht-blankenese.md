@@ -3,7 +3,7 @@ title: "Amtsgericht Blankenese"
 site_name: "Amtsgericht Blankenese"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Hamburg-Blankenese"
+description: "In the heart of Hamburg's Altona district lies the Amtsgericht Blankenese, a courthouse that serves as a pivotal institution within the local community."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Courthouse"

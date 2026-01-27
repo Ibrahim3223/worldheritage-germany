@@ -3,7 +3,7 @@ title: "Lessing Monument"
 site_name: "Lessing Monument"
 date: 2026-01-26
 draft: false
-description: "sculpture in Berlin, Germany"
+description: "The Lessing Monument, a striking sculpture located in the heart of Berlin, serves as a tribute to the influential German playwright and philosopher Gotthold..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

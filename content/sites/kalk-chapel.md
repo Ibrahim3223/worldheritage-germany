@@ -3,7 +3,7 @@ title: "Kalk chapel"
 site_name: "Kalk chapel"
 date: 2026-01-26
 draft: false
-description: "church building in Cologne-Kalk"
+description: "Kalk Chapel, a serene chapel located in the heart of Cologne-Kalk, Germany, serves as a significant landmark reflecting the spiritual and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

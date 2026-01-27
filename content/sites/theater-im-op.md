@@ -3,7 +3,7 @@ title: "Theater im OP"
 site_name: "Theater im OP"
 date: 2026-01-26
 draft: false
-description: "community theater at the Georg-August-university Göttingen"
+description: "The Theater im OP, located in the vibrant city of Göttingen, Germany, serves as an essential cultural hub for the local community and the broader university..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

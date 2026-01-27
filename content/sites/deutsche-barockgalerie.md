@@ -3,7 +3,7 @@ title: "Deutsche Barockgalerie"
 site_name: "Deutsche Barockgalerie"
 date: 2026-01-26
 draft: false
-description: "art museum housed in the Schaezlerpalais in Augsburg, Germany"
+description: "The Deutsche Barockgalerie, an art museum situated within the historic Schaezlerpalais in Augsburg, Germany, offers a remarkable collection that captures..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

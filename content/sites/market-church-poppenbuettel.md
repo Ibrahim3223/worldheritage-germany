@@ -3,7 +3,7 @@ title: "Market church Poppenbüttel"
 site_name: "Market church Poppenbüttel"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Market Church Poppenbüttel, a notable church building located in the Wandsbek district of Hamburg, Germany, serves as an important landmark in the region."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

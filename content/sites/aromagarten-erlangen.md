@@ -3,7 +3,7 @@ title: "Aromagarten Erlangen"
 site_name: "Aromagarten Erlangen"
 date: 2026-01-26
 draft: false
-description: "Botanical garden in Erlangen with a focus on fragrant plants"
+description: "In the heart of Erlangen, Germany, the Aromagarten Erlangen presents a unique botanical experience centered around the captivating world of fragrant plants."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

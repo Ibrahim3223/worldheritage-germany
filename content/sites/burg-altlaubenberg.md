@@ -3,7 +3,7 @@ title: "Burg Altlaubenberg"
 site_name: "Burg Altlaubenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Altlaubenberg is an archaeological site in Grünenbach, Germany, that reveals the remnants of a once-majestic castle."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

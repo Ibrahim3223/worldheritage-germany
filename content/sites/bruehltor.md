@@ -3,7 +3,7 @@ title: "Brühltor"
 site_name: "Brühltor"
 date: 2026-01-26
 draft: false
-description: "demolished city gate in Hannover, Germany"
+description: "Brühltor, though now a demolished city gate in Hanover, Germany, serves as a reminder of the region's historical significance and urban development."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

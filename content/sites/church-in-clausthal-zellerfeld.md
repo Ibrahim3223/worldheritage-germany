@@ -3,7 +3,7 @@ title: "Church in Clausthal-Zellerfeld"
 site_name: "Church in Clausthal-Zellerfeld"
 date: 2026-01-26
 draft: false
-description: "church building in Clausthal-Zellerfeld, Germany"
+description: "The Church in Clausthal-Zellerfeld is a notable landmark that reflects the unique cultural and architectural heritage of this quaint town in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

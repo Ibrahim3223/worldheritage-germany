@@ -3,7 +3,7 @@ title: "Torhaus Gleißhammerstraße 2 in Nürnberg"
 site_name: "Torhaus Gleißhammerstraße 2 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-622 (2) in Nürnberg, Bavaria"
+description: "In the heart of Nuremberg, Germany, the Torhaus Gleißhammerstraße 2 serves as a striking representation of the region's architectural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

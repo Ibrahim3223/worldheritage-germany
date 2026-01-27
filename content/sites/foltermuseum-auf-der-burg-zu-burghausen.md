@@ -3,7 +3,7 @@ title: "Foltermuseum auf der Burg zu Burghausen"
 site_name: "Foltermuseum auf der Burg zu Burghausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Foltermuseum auf der Burg zu Burghausen, located within the imposing Burghausen Castle complex in Bavaria, Germany, presents a unique opportunity to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

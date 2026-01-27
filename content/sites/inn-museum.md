@@ -3,7 +3,7 @@ title: "Inn-Museum"
 site_name: "Inn-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Rosenheim, Bavaria, Germany"
+description: "Located in the picturesque town of Rosenheim, Bavaria, the Inn-Museum serves as a fascinating tribute to the region's cultural history and heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

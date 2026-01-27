@@ -3,7 +3,7 @@ title: "Leipzig Botanical Garden"
 site_name: "Leipzig Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Leipzig Botanical Garden, located in the heart of Leipzig, Germany, offers an inviting escape into the world of flora, showcasing a diverse array of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

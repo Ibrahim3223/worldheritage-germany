@@ -3,7 +3,7 @@ title: "Festung Dresden"
 site_name: "Festung Dresden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Festung Dresden, located in the heart of Dresden, Germany, serves as a significant museum that encapsulates the city's storied past."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

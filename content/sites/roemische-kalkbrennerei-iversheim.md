@@ -3,7 +3,7 @@ title: "Römische Kalkbrennerei Iversheim"
 site_name: "Römische Kalkbrennerei Iversheim"
 date: 2026-01-26
 draft: false
-description: "Archaeological site in Germany"
+description: "Römische Kalkbrennerei Iversheim is a significant archaeological site located in Germania Inferior, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

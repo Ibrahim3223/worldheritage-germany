@@ -3,7 +3,7 @@ title: "Burg Hoherod"
 site_name: "Burg Hoherod"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hoherod, a captivating castle located in the picturesque region of Sasbachwalden, Germany, invites visitors to explore its formidable architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

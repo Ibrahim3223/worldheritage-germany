@@ -3,7 +3,7 @@ title: "Dinkelacker"
 site_name: "Dinkelacker"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "In the heart of Germany lies Dinkelacker, a brewery that encapsulates the nation’s storied brewing heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

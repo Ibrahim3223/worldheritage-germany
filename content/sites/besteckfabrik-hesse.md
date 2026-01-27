@@ -3,7 +3,7 @@ title: "Besteckfabrik Hesse"
 site_name: "Besteckfabrik Hesse"
 date: 2026-01-26
 draft: false
-description: "ehemalige Besteckfabrik in Schmallenberg-Fleckenberg"
+description: "In the heart of Schmallenberg, Germany, the Besteckfabrik Hesse stands as a notable architectural ensemble, reflecting the region's industrial heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

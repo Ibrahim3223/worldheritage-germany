@@ -3,7 +3,7 @@ title: "Kunstpalais Erlangen"
 site_name: "Kunstpalais Erlangen"
 date: 2026-01-26
 draft: false
-description: "museum in Franconia"
+description: "Kunstpalais Erlangen, situated in the heart of Franconia, Germany, is an intriguing destination for art enthusiasts and culture seekers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

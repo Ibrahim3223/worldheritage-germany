@@ -3,7 +3,7 @@ title: "Altenburg railway station"
 site_name: "Altenburg railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Altenburg, Germany"
+description: "Altenburg railway station serves as a pivotal point of transit in the region of Altenburg, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

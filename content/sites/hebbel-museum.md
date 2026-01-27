@@ -3,7 +3,7 @@ title: "Hebbel-Museum"
 site_name: "Hebbel-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Wesselburen, Germany, the Hebbel-Museum serves as a cultural repository dedicated to the life and works of the playwright Friedrich Hebbel."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

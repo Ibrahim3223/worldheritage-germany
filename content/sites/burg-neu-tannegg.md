@@ -3,7 +3,7 @@ title: "Burg Neu-Tannegg"
 site_name: "Burg Neu-Tannegg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the picturesque region of Bonndorf im Schwarzwald, Burg Neu-Tannegg is a castle that invites exploration and admiration."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

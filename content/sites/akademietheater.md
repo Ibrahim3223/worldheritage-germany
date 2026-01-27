@@ -3,7 +3,7 @@ title: "Akademietheater"
 site_name: "Akademietheater"
 date: 2026-01-26
 draft: false
-description: "theatre in Munich, Germany"
+description: "Akademietheater is a distinguished theatre building located in Munich, Germany, within the vibrant district of Bogenhausen."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

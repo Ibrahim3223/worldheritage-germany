@@ -3,7 +3,7 @@ title: "Reitlingstal"
 site_name: "Reitlingstal"
 date: 2026-01-26
 draft: false
-description: "valley in Lower Saxony, Germany"
+description: "Reitlingstal, a serene valley located in Lower Saxony, Germany, offers a unique blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

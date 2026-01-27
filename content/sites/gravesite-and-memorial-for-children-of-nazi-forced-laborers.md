@@ -3,7 +3,7 @@ title: "Gravesite and memorial for children of nazi forced laborers"
 site_name: "Gravesite and memorial for children of nazi forced laborers"
 date: 2026-01-26
 draft: false
-description: "Gravesite and memorial in Mölln, Germany"
+description: "In the quiet town of Mölln, Germany, lies a poignant memorial that pays tribute to the innocent lives lost during one of history's darkest chapters."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tomb"

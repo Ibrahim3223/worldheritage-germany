@@ -3,7 +3,7 @@ title: "Freiberg Cathedral"
 site_name: "Freiberg Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "Freiberg Cathedral, known as the Freiberg Dom, is a striking example of Gothic architecture located in the heart of Freiberg, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

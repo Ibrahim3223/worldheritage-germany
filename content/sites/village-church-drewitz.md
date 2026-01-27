@@ -3,7 +3,7 @@ title: "Village church Drewitz"
 site_name: "Village church Drewitz"
 date: 2026-01-26
 draft: false
-description: "church building in Möckern, Saxony-Anhalt, Germany"
+description: "The Village Church Drewitz, a charming church building situated in the picturesque town of Möckern in Saxony-Anhalt, Germany, serves as a notable landmark..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

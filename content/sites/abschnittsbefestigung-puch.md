@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung Puch"
 site_name: "Abschnittsbefestigung Puch"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Abschnittsbefestigung Puch is a remarkable castle located in the Fürstenfeldbruck region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

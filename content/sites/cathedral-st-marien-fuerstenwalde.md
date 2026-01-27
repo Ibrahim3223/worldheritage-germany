@@ -3,7 +3,7 @@ title: "Cathedral St. Marien Fürstenwalde"
 site_name: "Cathedral St. Marien Fürstenwalde"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "Cathedral St. Marien Fürstenwalde, a prominent church building located in the heart of Brandenburg, Germany, is a striking example of Gothic architecture..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

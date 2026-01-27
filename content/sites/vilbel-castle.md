@@ -3,7 +3,7 @@ title: "Vilbel Castle"
 site_name: "Vilbel Castle"
 date: 2026-01-26
 draft: false
-description: "Kulturdenkmal in Bad Vilbel"
+description: "Vilbel Castle, a prominent cultural monument located in Bad Vilbel, Germany, is a fascinating embodiment of the region's historical narrative."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

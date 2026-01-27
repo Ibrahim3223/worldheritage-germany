@@ -3,7 +3,7 @@ title: "Emmauskirche"
 site_name: "Emmauskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Borna, Landkreis Leipzig, Saxony, Germany"
+description: "Emmauskirche is an architectural landmark located in the town of Borna, situated in the Landkreis Leipzig region of Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

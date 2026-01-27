@@ -3,7 +3,7 @@ title: "Schloss Ernich"
 site_name: "Schloss Ernich"
 date: 2026-01-26
 draft: false
-description: "palace"
+description: "Schloss Ernich is a remarkable palace located in the picturesque region of Remagen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"

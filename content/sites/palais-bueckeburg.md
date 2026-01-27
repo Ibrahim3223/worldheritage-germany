@@ -3,7 +3,7 @@ title: "Palais Bückeburg"
 site_name: "Palais Bückeburg"
 date: 2026-01-26
 draft: false
-description: "Palais in Bückeburg, heute Sitz einer berufsbildenden Schule"
+description: "Palais Bückeburg, located in the town of Bückeburg, Germany, is a striking palace that reflects the architectural elegance and storied past of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

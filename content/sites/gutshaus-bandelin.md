@@ -3,7 +3,7 @@ title: "Gutshaus Bandelin"
 site_name: "Gutshaus Bandelin"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Gutshaus Bandelin is an architectural landmark situated in the charming region of Bandelin, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Domschatz Quedlinburg"
 site_name: "Domschatz Quedlinburg"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "The Domschatz Quedlinburg is a museum that offers a fascinating glimpse into the rich ecclesiastical heritage of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

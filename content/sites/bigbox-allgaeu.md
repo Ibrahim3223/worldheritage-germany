@@ -3,7 +3,7 @@ title: "BigBOX Allgäu"
 site_name: "BigBOX Allgäu"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "BigBOX Allgäu serves as a central hub for cultural, social, and sporting events in Kempten, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

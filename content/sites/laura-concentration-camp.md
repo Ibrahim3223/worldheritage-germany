@@ -3,7 +3,7 @@ title: "Laura concentration camp"
 site_name: "Laura concentration camp"
 date: 2026-01-26
 draft: false
-description: "KZ zur Fertigung von Raketentriebwerken bei Lehesten"
+description: "Laura concentration camp, located in Germany, serves as a somber memorial to the atrocities committed during World War II."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Memorial"

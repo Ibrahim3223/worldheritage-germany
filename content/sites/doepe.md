@@ -3,7 +3,7 @@ title: "Döpe"
 site_name: "Döpe"
 date: 2026-01-26
 draft: false
-description: "lake in Nordwestmecklenburg District, Mecklenburg-Vorpommern, Germany"
+description: "Döpe, a serene lake located in the Nordwestmecklenburg District of Mecklenburg-Vorpommern, Germany, offers a tranquil escape into nature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

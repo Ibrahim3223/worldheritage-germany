@@ -3,7 +3,7 @@ title: "Neuer Aachener Kunstverein"
 site_name: "Neuer Aachener Kunstverein"
 date: 2026-01-26
 draft: false
-description: "arts association in Aachen, Germany"
+description: "The Neuer Aachener Kunstverein, located in the historical city of Aachen, Germany, serves as a vibrant hub for contemporary art and cultural dialogue."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

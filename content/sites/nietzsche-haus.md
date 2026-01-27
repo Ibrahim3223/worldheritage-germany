@@ -3,7 +3,7 @@ title: "Nietzsche-Haus"
 site_name: "Nietzsche-Haus"
 date: 2026-01-26
 draft: false
-description: "building in Naumburg, Germany"
+description: "Situated in the heart of Naumburg, Germany, the Nietzsche-Haus serves as an intriguing museum dedicated to the life and works of the philosopher Friedrich..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

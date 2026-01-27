@@ -3,7 +3,7 @@ title: "Duisburg-Mitte"
 site_name: "Duisburg-Mitte"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Duisburg-Mitte, the historic heart of Duisburg, Germany, offers a captivating glimpse into the evolution of urban life in this industrial city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"

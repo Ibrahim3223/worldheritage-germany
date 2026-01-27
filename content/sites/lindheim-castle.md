@@ -3,7 +3,7 @@ title: "Lindheim Castle"
 site_name: "Lindheim Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lindheim Castle, situated in the Altenstadt region of Germany, is a captivating structure that embodies the essence of medieval architecture and the storied..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

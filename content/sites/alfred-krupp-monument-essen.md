@@ -3,7 +3,7 @@ title: "Alfred Krupp monument, Essen"
 site_name: "Alfred Krupp monument, Essen"
 date: 2026-01-26
 draft: false
-description: "monument in Essen, Germany"
+description: "The Alfred Krupp monument in Essen, Germany, serves as a significant landmark that pays homage to one of the nation's most influential industrialists."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

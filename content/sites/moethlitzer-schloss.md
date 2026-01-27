@@ -3,7 +3,7 @@ title: "Möthlitzer Schloss"
 site_name: "Möthlitzer Schloss"
 date: 2026-01-26
 draft: false
-description: "Gutshaus in Brandenburg, Deutschland"
+description: "Möthlitzer Schloss, a charming manor house located in the picturesque Milower Land region of Germany, offers visitors a glimpse into the architectural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

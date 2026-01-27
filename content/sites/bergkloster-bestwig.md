@@ -3,7 +3,7 @@ title: "Bergkloster Bestwig"
 site_name: "Bergkloster Bestwig"
 date: 2026-01-26
 draft: false
-description: "Kloster der Schwestern der heiligen Maria Magdalena Postel in Bestwig"
+description: "Bergkloster Bestwig is a serene monastery located in the picturesque region of Bestwig, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

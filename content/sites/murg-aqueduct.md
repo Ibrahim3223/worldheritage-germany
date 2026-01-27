@@ -3,7 +3,7 @@ title: "Murg aqueduct"
 site_name: "Murg aqueduct"
 date: 2026-01-26
 draft: false
-description: "bridge in Forbach, Germany"
+description: "The Murg aqueduct, an impressive bridge located in Forbach, Germany, exemplifies the ingenuity of historical engineering."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"

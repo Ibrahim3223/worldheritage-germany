@@ -3,7 +3,7 @@ title: "Friedenskapelle"
 site_name: "Friedenskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Friedenskapelle, a serene chapel located in the picturesque region of Brilon, Germany, serves as a tranquil haven for visitors seeking reflection and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

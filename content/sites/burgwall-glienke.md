@@ -3,7 +3,7 @@ title: "Burgwall Glienke"
 site_name: "Burgwall Glienke"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Glienke, a notable hillfort located in the Friedland region of Germany, offers a glimpse into the ancient past of human settlement and military..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

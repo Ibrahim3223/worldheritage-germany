@@ -3,7 +3,7 @@ title: "New Synagogue Berlin"
 site_name: "New Synagogue Berlin"
 date: 2026-01-26
 draft: false
-description: "synagoge in Berlin"
+description: "The New Synagogue in Berlin serves as a poignant symbol of resilience and renewal, embodying the city’s complex Jewish heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Synagogue"

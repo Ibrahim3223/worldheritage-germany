@@ -3,7 +3,7 @@ title: "Herrenhaus Heinrichsruh"
 site_name: "Herrenhaus Heinrichsruh"
 date: 2026-01-26
 draft: false
-description: "German manor house"
+description: "Located in the serene landscape of Torgelow, Germany, Herrenhaus Heinrichsruh is an elegant manor house that encapsulates the essence of German..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

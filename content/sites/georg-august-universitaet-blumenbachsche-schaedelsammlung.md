@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Blumenbachsche Schädelsammlung"
 site_name: "Georg-August-Universität: Blumenbachsche Schädelsammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "The Blumenbachske Schädelsammlung, located within the esteemed Georg-August-Universität in Göttingen, Germany, stands as a unique museum dedicated to the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

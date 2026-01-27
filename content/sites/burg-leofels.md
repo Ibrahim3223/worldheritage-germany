@@ -3,7 +3,7 @@ title: "Burg Leofels"
 site_name: "Burg Leofels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leofels, an impressive castle located in the region of Ilshofen, Germany, captures the imagination with its storied past and striking architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Gräberfeldmuseum Segeum, Segnitz"
 site_name: "Gräberfeldmuseum Segeum, Segnitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gräberfeldmuseum Segeum, located in Segnitz, Germany, serves as an intriguing portal into the world of archaeology and historical study."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

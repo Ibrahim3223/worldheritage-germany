@@ -3,7 +3,7 @@ title: "Alte Sackberg Colliery"
 site_name: "Alte Sackberg Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Alte Sackberg Colliery, located in the heart of Essen, Germany, is an intriguing site that encapsulates the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Zwölf-Apostel-Kirche"
 site_name: "Zwölf-Apostel-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Schöneberg"
+description: "The Zwölf-Apostel-Kirche, or Twelve Apostles Church, is a notable church building located in the heart of Berlin-Schöneberg."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

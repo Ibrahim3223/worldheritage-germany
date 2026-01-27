@@ -3,7 +3,7 @@ title: "Baumwollspinnerei Ermen & Engels"
 site_name: "Baumwollspinnerei Ermen & Engels"
 date: 2026-01-26
 draft: false
-description: "former cotton mill in Germany"
+description: "Baumwollspinnerei Ermen & Engels is a former cotton mill that has been transformed into a museum, offering visitors a glimpse into the industrial past of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Church of the Savior"
 site_name: "Church of the Savior"
 date: 2026-01-26
 draft: false
-description: "Protestant Church in Berlin-Moabit, Germany"
+description: "The Church of the Savior, a prominent Protestant church located in the Berlin-Moabit district, serves as a noteworthy example of religious architecture in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

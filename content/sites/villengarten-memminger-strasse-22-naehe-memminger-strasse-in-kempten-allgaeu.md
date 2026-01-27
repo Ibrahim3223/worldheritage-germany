@@ -3,7 +3,7 @@ title: "Villengarten Memminger Straße 22; Nähe Memminger Straße in Kempten (A
 site_name: "Villengarten Memminger Straße 22; Nähe Memminger Straße in Kempten (Allgäu)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-63-000-140 (2) in Kempten (Allgäu), Bavaria"
+description: "The Villengarten on Memminger Straße in Kempten (Allgäu) is a culturally significant garden that offers visitors a glimpse into the region's heritage and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Heiligen Mühle"
 site_name: "Heiligen Mühle"
 date: 2026-01-26
 draft: false
-description: "Wassermühle in Erfurt, Thüringen"
+description: "Heiligen Mühle is a remarkable museum located in the city of Erfurt, Germany, specifically within the picturesque region of Thüringen."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

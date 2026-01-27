@@ -3,7 +3,7 @@ title: "New synagogue Mainz"
 site_name: "New synagogue Mainz"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The New Synagogue in Mainz is a striking example of cultural resilience and architectural elegance, symbolizing the enduring spirit of the Jewish community..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

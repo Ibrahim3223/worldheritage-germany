@@ -3,7 +3,7 @@ title: "Erinnerungs- und Gedenkstätte Wewelsburg 1933-1945"
 site_name: "Erinnerungs- und Gedenkstätte Wewelsburg 1933-1945"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Erinnerungs- und Gedenkstätte Wewelsburg 1933-1945 is a museum located in the town of Büren, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

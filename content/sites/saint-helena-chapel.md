@@ -3,7 +3,7 @@ title: "Saint Helena Chapel"
 site_name: "Saint Helena Chapel"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Saint Helena Chapel, situated in the quaint region of Inden, Germany, offers a serene and reflective space for visitors drawn to both spiritual solace..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "St. Philippus und Jakobus (Ollendorf)"
 site_name: "St. Philippus und Jakobus (Ollendorf)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Philippus und Jakobus in Ollendorf is a church building that captures the essence of community and spirituality within its serene setting."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

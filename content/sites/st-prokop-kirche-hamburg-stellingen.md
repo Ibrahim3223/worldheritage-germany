@@ -3,7 +3,7 @@ title: "St. Prokop-Kirche (Hamburg-Stellingen)"
 site_name: "St. Prokop-Kirche (Hamburg-Stellingen)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Hamburg"
+description: "St. Prokop-Kirche, located in the Eimsbüttel district of Hamburg, is a notable church building that speaks to the region’s architectural and cultural legacy."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

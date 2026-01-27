@@ -3,7 +3,7 @@ title: "Grafschaftsmuseum Wertheim"
 site_name: "Grafschaftsmuseum Wertheim"
 date: 2026-01-26
 draft: false
-description: "museum in Baden-Württemberg, Germany"
+description: "Grafschaftsmuseum Wertheim, located in the picturesque town of Wertheim in Baden-Württemberg, Germany, serves as a significant cultural repository that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

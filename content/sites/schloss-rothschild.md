@@ -3,7 +3,7 @@ title: "Schloss Rothschild"
 site_name: "Schloss Rothschild"
 date: 2026-01-26
 draft: false
-description: "Repräsentativbau in Hemsbach, Rhein-Neckar-Kreis"
+description: "Schloss Rothschild, located in Hemsbach, Germany, serves as the city hall and is a distinguished example of representative architecture in the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

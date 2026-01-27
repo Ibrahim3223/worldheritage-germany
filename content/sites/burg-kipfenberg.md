@@ -3,7 +3,7 @@ title: "Burg Kipfenberg"
 site_name: "Burg Kipfenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kipfenberg, a remarkable castle located in the heart of Germany’s picturesque Kipfenberg region, invites visitors to explore its storied past and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

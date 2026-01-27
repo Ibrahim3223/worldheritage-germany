@@ -3,7 +3,7 @@ title: "St. Afra"
 site_name: "St. Afra"
 date: 2026-01-26
 draft: false
-description: "church in Berlin, Germany"
+description: "St. Afra is a distinguished church building located in the Bezirk Mitte district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

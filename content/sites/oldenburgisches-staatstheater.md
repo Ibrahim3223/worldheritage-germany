@@ -3,7 +3,7 @@ title: "Oldenburgisches Staatstheater"
 site_name: "Oldenburgisches Staatstheater"
 date: 2026-01-26
 draft: false
-description: "theatre company in Oldenburg, Germany"
+description: "The Oldenburgisches Staatstheater stands as a prominent cultural institution in the heart of Oldenburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

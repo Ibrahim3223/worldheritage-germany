@@ -3,7 +3,7 @@ title: "Torhaus Weiler 2 in Bessenbach"
 site_name: "Torhaus Weiler 2 in Bessenbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-71-112-40 (2) in Bessenbach, Bavaria"
+description: "Torhaus Weiler 2 in Bessenbach is a remarkable cultural heritage site that captures the essence of Bavaria's architectural history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

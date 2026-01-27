@@ -3,7 +3,7 @@ title: "Großer Picho"
 site_name: "Großer Picho"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Großer Picho, a prominent mountain located in the Bautzen District of Germany, offers visitors a unique blend of natural beauty and outdoor adventure."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Synagoge Haldensleben"
 site_name: "Synagoge Haldensleben"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "In the heart of Haldensleben, Germany, the Synagoge Haldensleben presents a poignant connection to the Jewish heritage of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

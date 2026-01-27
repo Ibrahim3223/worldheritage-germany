@@ -3,7 +3,7 @@ title: "Ghetto-Mauer Hanau"
 site_name: "Ghetto-Mauer Hanau"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "In the heart of Hanau, Germany, lies the Ghetto-Mauer Hanau, a poignant memorial that serves as a reminder of the city’s complex past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

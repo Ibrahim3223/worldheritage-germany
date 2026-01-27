@@ -3,7 +3,7 @@ title: "Arnumer Mühle"
 site_name: "Arnumer Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Arnum"
+description: "Arnumer Mühle, a windmill located in the village of Arnum within the Hemmingen region of Germany, serves as a captivating reminder of traditional milling..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

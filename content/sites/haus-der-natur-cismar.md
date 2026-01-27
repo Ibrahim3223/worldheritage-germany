@@ -3,7 +3,7 @@ title: "Haus der Natur Cismar"
 site_name: "Haus der Natur Cismar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus der Natur Cismar is a captivating museum located in the charming region of Grömitz, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

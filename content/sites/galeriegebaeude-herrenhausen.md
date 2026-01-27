@@ -3,7 +3,7 @@ title: "Galeriegebäude Herrenhausen"
 site_name: "Galeriegebäude Herrenhausen"
 date: 2026-01-26
 draft: false
-description: "gallery and festive hall in the park sof Herrenhausen, Hanover, Germany"
+description: "The Galeriegebäude Herrenhausen, located in the verdant Herrenhausen-Stöcken district of Hanover, Germany, is an art museum that forms an integral part of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

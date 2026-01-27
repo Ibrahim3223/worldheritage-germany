@@ -3,7 +3,7 @@ title: "Bavarian Elite-Academy"
 site_name: "Bavarian Elite-Academy"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Bavarian Elite-Academy, located in the vibrant city of Munich, Germany, is a foundation dedicated to fostering excellence in various fields of study and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

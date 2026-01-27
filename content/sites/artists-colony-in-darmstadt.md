@@ -3,7 +3,7 @@ title: "Artists' Colony in Darmstadt"
 site_name: "Artists' Colony in Darmstadt"
 date: 2026-01-26
 draft: false
-description: "UNESCO World Heritage Site in Hesse, Germany"
+description: "Artists' Colony in Darmstadt, a UNESCO World Heritage Site located in Hesse, Germany, is a remarkable cultural landmark that reflects the innovative spirit..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "World Heritage Site"

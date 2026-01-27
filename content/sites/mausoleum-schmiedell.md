@@ -3,7 +3,7 @@ title: "Mausoleum Schmiedell"
 site_name: "Mausoleum Schmiedell"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Bremen-Schwachhausen"
+description: "The Mausoleum Schmiedell, located in Bremen's Schwachhausen district, serves as a poignant reminder of the city's historical and cultural narrative."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"

@@ -3,7 +3,7 @@ title: "Irreler Wasserfälle"
 site_name: "Irreler Wasserfälle"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Irreler Wasserfälle, located in the picturesque region of Rhineland-Palatinate, Germany, presents a stunning natural spectacle that draws visitors..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Waterfall"

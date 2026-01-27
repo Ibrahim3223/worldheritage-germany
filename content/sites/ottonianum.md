@@ -3,7 +3,7 @@ title: "Ottonianum"
 site_name: "Ottonianum"
 date: 2026-01-26
 draft: false
-description: "school building in Landshut, Germany"
+description: "Ottonianum, an architectural landmark located in Landshut, Germany, serves as an important educational establishment in the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"

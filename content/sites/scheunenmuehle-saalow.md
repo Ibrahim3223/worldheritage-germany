@@ -3,7 +3,7 @@ title: "Scheunenmühle Saalow"
 site_name: "Scheunenmühle Saalow"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Scheunenmühle Saalow is an architectural landmark that stands as a remarkable example of traditional windmill design in the Am Mellensee region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

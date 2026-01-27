@@ -3,7 +3,7 @@ title: "St. Marien (Fröndenberg)"
 site_name: "St. Marien (Fröndenberg)"
 date: 2026-01-26
 draft: false
-description: "church building in Fröndenberg, Germany"
+description: "St. Marien in Fröndenberg, Germany, stands as a significant church building that reflects the spiritual and community life of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

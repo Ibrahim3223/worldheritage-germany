@@ -3,7 +3,7 @@ title: "St. Johanniskirche Boek"
 site_name: "St. Johanniskirche Boek"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Boek"
+description: "St. Johanniskirche Boek presents a serene and contemplative space within the tranquil landscape of Rechlin, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

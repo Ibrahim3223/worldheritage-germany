@@ -3,7 +3,7 @@ title: "Gymnasium Theodorianum"
 site_name: "Gymnasium Theodorianum"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Gymnasium Theodorianum, located in Paderborn, Germany, is a distinguished educational institution that holds significant cultural and historical relevance..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

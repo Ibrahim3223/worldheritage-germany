@@ -3,7 +3,7 @@ title: "Essen Abbey"
 site_name: "Essen Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Essen Abbey, a remarkable monastery located in Essen, Germany, embodies centuries of spiritual and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Deutscher Dom"
 site_name: "Deutscher Dom"
 date: 2026-01-26
 draft: false
-description: "church building in Mitte, Germany"
+description: "The Deutscher Dom, located in the historic Bezirk Mitte of Berlin, serves as a significant landmark that encapsulates the architectural and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

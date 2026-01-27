@@ -3,7 +3,7 @@ title: "Wiesen- und Weidenflächen an der Oste"
 site_name: "Wiesen- und Weidenflächen an der Oste"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Wiesen- und Weidenflächen an der Oste, located in the tranquil region of Kranenburg, Germany, is a nature reserve that exemplifies the beauty and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

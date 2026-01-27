@@ -3,7 +3,7 @@ title: "Tretstein waterfall"
 site_name: "Tretstein waterfall"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "Tretstein Waterfall, located in the serene region of Gräfendorf, Germany, captivates visitors with its natural beauty and tranquil ambiance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

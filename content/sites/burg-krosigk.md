@@ -3,7 +3,7 @@ title: "Burg Krosigk"
 site_name: "Burg Krosigk"
 date: 2026-01-26
 draft: false
-description: "castle in Petersberg, Saxony-Anhalt, Germany"
+description: "Burg Krosigk is a remarkable castle situated in the picturesque region of Petersberg, Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

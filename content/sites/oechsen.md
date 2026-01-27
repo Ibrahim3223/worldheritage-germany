@@ -3,7 +3,7 @@ title: "Öchsen"
 site_name: "Öchsen"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Öchsen is a prominent mountain located in the Wartburgkreis region of Germany. This natural formation is a striking feature of the landscape, attracting..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

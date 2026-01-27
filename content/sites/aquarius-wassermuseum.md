@@ -3,7 +3,7 @@ title: "Aquarius-Wassermuseum"
 site_name: "Aquarius-Wassermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Mülheim an der Ruhr, Germany"
+description: "The Aquarius-Wassermuseum, located in Mülheim an der Ruhr, Germany, is a unique destination dedicated to the theme of water and its critical role in human..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

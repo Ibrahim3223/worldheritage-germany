@@ -3,7 +3,7 @@ title: "Altenwaldeck"
 site_name: "Altenwaldeck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altenwaldeck, a captivating castle located in the tranquil region of Irschenberg, Germany, invites visitors to explore its storied past and architectural charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

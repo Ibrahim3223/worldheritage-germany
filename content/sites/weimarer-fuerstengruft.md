@@ -3,7 +3,7 @@ title: "Weimarer Fürstengruft"
 site_name: "Weimarer Fürstengruft"
 date: 2026-01-26
 draft: false
-description: "cemeterial vault in Weimar, Thuringia, Germany"
+description: "The Weimarer Fürstengruft stands as a solemn and significant landmark in Weimar, Germany, a city renowned for its rich cultural heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Cemetery"

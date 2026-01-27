@@ -3,7 +3,7 @@ title: "Brahms House"
 site_name: "Brahms House"
 date: 2026-01-26
 draft: false
-description: "museum over Johannes Brahms in Baden-Baden"
+description: "The Brahms House, located in the serene surroundings of Baden-Baden, Germany, serves as a dedicated museum celebrating the life and achievements of one of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

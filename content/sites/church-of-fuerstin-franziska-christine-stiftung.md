@@ -3,7 +3,7 @@ title: "Church of Fürstin-Franziska-Christine-Stiftung"
 site_name: "Church of Fürstin-Franziska-Christine-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Church of Fürstin-Franziska-Christine-Stiftung is a significant foundation located in the vibrant city of Essen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

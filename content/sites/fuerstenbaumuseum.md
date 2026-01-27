@@ -3,7 +3,7 @@ title: "Fürstenbaumuseum"
 site_name: "Fürstenbaumuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Würzburg, Germany"
+description: "The Fürstenbaumuseum, located in the historic city of Würzburg, Germany, serves as a captivating repository of art and culture that reflects the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

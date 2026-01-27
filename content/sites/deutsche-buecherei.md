@@ -3,7 +3,7 @@ title: "Deutsche Bücherei"
 site_name: "Deutsche Bücherei"
 date: 2026-01-26
 draft: false
-description: "former national library of Germany in Leipzig (1912-1990)"
+description: "The Deutsche Bücherei, once the national library of Germany, is a remarkable institution located in Leipzig."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

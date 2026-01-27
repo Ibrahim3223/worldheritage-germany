@@ -3,7 +3,7 @@ title: "Blockturm Nürtingen"
 site_name: "Blockturm Nürtingen"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Blockturm Nürtingen, an iconic structure in the heart of Nürtingen, Germany, invites visitors to explore its historical significance and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

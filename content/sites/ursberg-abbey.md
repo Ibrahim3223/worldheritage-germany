@@ -3,7 +3,7 @@ title: "Ursberg Abbey"
 site_name: "Ursberg Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Ursberg Abbey, a significant monastery located in the heart of Ursberg, Germany, invites visitors to explore its serene spiritual ambiance and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

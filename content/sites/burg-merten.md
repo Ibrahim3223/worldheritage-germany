@@ -3,7 +3,7 @@ title: "Burg Merten"
 site_name: "Burg Merten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Merten is a captivating castle located in Eitorf, Germany, that draws visitors with its historical significance and architectural allure."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

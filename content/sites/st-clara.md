@@ -3,7 +3,7 @@ title: "St. Clara"
 site_name: "St. Clara"
 date: 2026-01-26
 draft: false
-description: "church building in Dortmund, Germany"
+description: "St. Clara, situated in Dortmund, Germany, is a prominent church building that captures the essence of the region's architectural and spiritual heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

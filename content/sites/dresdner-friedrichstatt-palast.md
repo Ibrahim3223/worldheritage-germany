@@ -3,7 +3,7 @@ title: "Dresdner FriedrichstaTT Palast"
 site_name: "Dresdner FriedrichstaTT Palast"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "The Dresdner FriedrichstaTT Palast stands as a prominent cultural venue in the heart of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Ducal Museum Gotha"
 site_name: "Ducal Museum Gotha"
 date: 2026-01-26
 draft: false
-description: "museum at Friedenstein Castle in Gotha, Thuringia, Germany"
+description: "The Ducal Museum Gotha, located within the historic confines of Friedenstein Castle in Gotha, Thuringia, Germany, is a remarkable institution dedicated to..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"

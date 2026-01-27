@@ -3,7 +3,7 @@ title: "Nuremberg Charterhouse"
 site_name: "Nuremberg Charterhouse"
 date: 2026-01-26
 draft: false
-description: "building in Nuremberg, Middle Franconia, Germany"
+description: "The Nuremberg Charterhouse, steeped in the contemplative traditions of monastic life, serves as a profound reminder of Germany's ecclesiastical heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

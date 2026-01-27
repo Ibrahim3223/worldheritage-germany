@@ -3,7 +3,7 @@ title: "Palais Vitzthum-Schönburg"
 site_name: "Palais Vitzthum-Schönburg"
 date: 2026-01-26
 draft: false
-description: "Palais in Dresden"
+description: "Located in the heart of Dresden, Palais Vitzthum-Schönburg embodies a blend of historic elegance and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

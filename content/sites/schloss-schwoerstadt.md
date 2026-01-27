@@ -3,7 +3,7 @@ title: "Schloss Schwörstadt"
 site_name: "Schloss Schwörstadt"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus im Landkreis Lörrach"
+description: "Schloss Schwörstadt is a striking manor house located in the picturesque region of Schwörstadt, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Mitte"
 site_name: "Mitte"
 date: 2026-01-26
 draft: false
-description: "borough of the city of Wiesbaden in Hesse, Germany"
+description: "Mitte, the historic heart of Wiesbaden, is more than just a borough; it serves as a vibrant canvas illustrating Germany's storied past and culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Old Town"

@@ -3,7 +3,7 @@ title: "Museum am Dom"
 site_name: "Museum am Dom"
 date: 2026-01-26
 draft: false
-description: "Lübeck, Germany"
+description: "In the heart of Lübeck, Germany, the Museum am Dom offers a unique insight into the region's cultural and historical heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

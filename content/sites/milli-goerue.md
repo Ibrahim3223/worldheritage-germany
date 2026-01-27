@@ -3,7 +3,7 @@ title: "Milli Görüş"
 site_name: "Milli Görüş"
 date: 2026-01-26
 draft: false
-description: "mosque in Salzgitter, Germany"
+description: "In the heart of Salzgitter, Germany, the Milli Görüş mosque stands as a vibrant center for the local Muslim community and a focal point for cultural exchange."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

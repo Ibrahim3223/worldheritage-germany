@@ -3,7 +3,7 @@ title: "Handwerkerhaus Torgau"
 site_name: "Handwerkerhaus Torgau"
 date: 2026-01-26
 draft: false
-description: "museum in Torgau (Saxony)"
+description: "Handwerkerhaus Torgau offers visitors an enlightening glimpse into the crafts and trades that shaped the region of Torgau, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

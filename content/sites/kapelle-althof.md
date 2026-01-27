@@ -3,7 +3,7 @@ title: "Kapelle Althof"
 site_name: "Kapelle Althof"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kapelle Althof, a quaint chapel located in the picturesque region of Bad Doberan, Germany, offers visitors a unique glimpse into the spiritual architecture..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

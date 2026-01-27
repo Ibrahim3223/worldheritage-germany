@@ -3,7 +3,7 @@ title: "Haus Rüschhaus"
 site_name: "Haus Rüschhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Münster, Germany"
+description: "Haus Rüschhaus is a museum located in the enchanting city of Münster, Germany. This historical establishment invites visitors to delve into the cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Sebastian-Kneipp-Denkmal"
 site_name: "Sebastian-Kneipp-Denkmal"
 date: 2026-01-26
 draft: false
-description: "statue in Bad Wörishofen, Germany"
+description: "In the heart of Bad Wörishofen, Germany, visitors will find the Sebastian-Kneipp-Denkmal, a statue dedicated to Sebastian Kneipp, a pioneer of hydrotherapy..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

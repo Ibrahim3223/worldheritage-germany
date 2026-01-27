@@ -3,7 +3,7 @@ title: "Zaunburg"
 site_name: "Zaunburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Zaunburg, an enchanting castle located in the Alten-Buseck region of Germany, serves as a captivating emblem of the area's architectural and historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

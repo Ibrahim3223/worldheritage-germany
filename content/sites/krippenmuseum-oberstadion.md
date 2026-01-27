@@ -3,7 +3,7 @@ title: "Krippenmuseum Oberstadion"
 site_name: "Krippenmuseum Oberstadion"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Krippenmuseum Oberstadion offers a unique glimpse into the art of nativity scenes, showcasing a rich collection that captures cultural traditions and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

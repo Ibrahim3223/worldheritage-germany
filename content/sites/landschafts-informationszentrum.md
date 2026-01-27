@@ -3,7 +3,7 @@ title: "Landschafts-Informationszentrum"
 site_name: "Landschafts-Informationszentrum"
 date: 2026-01-26
 draft: false
-description: "museum in Möhnesee"
+description: "The Landschafts-Informationszentrum, located in the picturesque region of Möhnesee, Germany, serves as a vital cultural hub that connects visitors to the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

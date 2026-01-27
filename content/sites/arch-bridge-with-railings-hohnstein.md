@@ -3,7 +3,7 @@ title: "Arch bridge with railings Hohnstein"
 site_name: "Arch bridge with railings Hohnstein"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Arch Bridge with Railings in Hohnstein, Germany, is more than just a structural crossing; it is a significant piece of the region's architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Villa Stuck"
 site_name: "Villa Stuck"
 date: 2026-01-26
 draft: false
-description: "building in Haidhausen, Upper Bavaria, Germany"
+description: "Villa Stuck, an elegant art museum located in the Haidhausen district of Munich, Germany, serves as a vibrant cultural hub, showcasing a rich collection..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

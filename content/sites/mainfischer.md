@@ -3,7 +3,7 @@ title: "Mainfischer"
 site_name: "Mainfischer"
 date: 2026-01-26
 draft: false
-description: "statue in Offenbach am Main, Germany"
+description: "Mainfischer, a notable statue located in Offenbach am Main, Germany, serves as a captivating representation of the region's artistic and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

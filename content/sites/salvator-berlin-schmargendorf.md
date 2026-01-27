@@ -3,7 +3,7 @@ title: "Salvator (Berlin-Schmargendorf)"
 site_name: "Salvator (Berlin-Schmargendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Salvator, located in the vibrant district of Berlin-Schmargendorf within Charlottenburg-Wilmersdorf, is an intriguing church building that reflects both the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Schloss Grumbach - Schlossmuseen Rimpar"
 site_name: "Schloss Grumbach - Schlossmuseen Rimpar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Grumbach, located in the quaint village of Rimpar in Germany, serves as a fascinating museum that encapsulates the essence of local culture and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

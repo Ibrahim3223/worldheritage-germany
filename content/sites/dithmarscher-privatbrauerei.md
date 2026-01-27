@@ -3,7 +3,7 @@ title: "Dithmarscher Privatbrauerei"
 site_name: "Dithmarscher Privatbrauerei"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Dithmarscher Privatbrauerei is a notable brewery located in Germany, celebrated for its commitment to quality and tradition in beer production."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

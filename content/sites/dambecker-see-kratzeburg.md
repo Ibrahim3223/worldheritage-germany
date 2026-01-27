@@ -3,7 +3,7 @@ title: "Dambecker See (Kratzeburg)"
 site_name: "Dambecker See (Kratzeburg)"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dambecker See, located in Kratzeburg, Germany, represents a serene natural retreat characterized by its tranquil waters and lush surroundings."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

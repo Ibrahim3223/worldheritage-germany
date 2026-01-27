@@ -3,7 +3,7 @@ title: "Union-Theater-Lichtspiele"
 site_name: "Union-Theater-Lichtspiele"
 date: 2026-01-26
 draft: false
-description: "former cinema in Dresden, Germany"
+description: "Union-Theater-Lichtspiele, a former cinema located in the heart of Dresden, Germany, embodies the rich cultural fabric of this historic city."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

@@ -3,7 +3,7 @@ title: "Old Cemetery"
 site_name: "Old Cemetery"
 date: 2026-01-26
 draft: false
-description: "park in Speyer, Germany"
+description: "The Old Cemetery in Speyer, Germany, serves as both a serene park and a poignant reminder of the city’s storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"

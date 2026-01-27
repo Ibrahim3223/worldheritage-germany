@@ -3,7 +3,7 @@ title: "Burg Mark"
 site_name: "Burg Mark"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mark, a striking castle located in the region of Hamm, Germany, offers visitors a glimpse into the architectural and cultural heritage of the area."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

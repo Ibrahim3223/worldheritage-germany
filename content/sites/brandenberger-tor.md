@@ -3,7 +3,7 @@ title: "Brandenberger Tor"
 site_name: "Brandenberger Tor"
 date: 2026-01-26
 draft: false
-description: "historisches Stadttor in Nideggen, heute Nordrhein-Westfalen, Deutschland"
+description: "The Brandenberger Tor stands as a remarkable relic of Nideggen’s storied past, inviting visitors to explore Germany’s medieval heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

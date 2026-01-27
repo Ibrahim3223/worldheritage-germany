@@ -3,7 +3,7 @@ title: "St. Vincentius"
 site_name: "St. Vincentius"
 date: 2026-01-26
 draft: false
-description: "church building in Dinslaken, Germany"
+description: "St. Vincentius in Dinslaken, Germany, is a church building that offers not only a spiritual sanctuary but also a glimpse into the architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

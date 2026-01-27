@@ -3,7 +3,7 @@ title: "Amphibienbiotope Hohenbüchen"
 site_name: "Amphibienbiotope Hohenbüchen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Amphibienbiotope Hohenbüchen is a vital nature reserve located in the picturesque region of Delligsen, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Villengarten Prinzregentenstraße 60 in München"
 site_name: "Villengarten Prinzregentenstraße 60 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-5588 (4) in München, Bavaria"
+description: "Villengarten Prinzregentenstraße 60, located in the heart of Munich, Germany, is a tranquil garden that offers a moment of respite from the bustling city life."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

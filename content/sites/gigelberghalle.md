@@ -3,7 +3,7 @@ title: "Gigelberghalle"
 site_name: "Gigelberghalle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall on the Gigelberg in Biberach/Riss, Germany"
+description: "Gigelberghalle is a striking multi-purpose hall located on the scenic Gigelberg in Biberach an der Riss, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7629-0044 in Kutzenhausen"
 site_name: "Cultural heritage D-7-7629-0044 in Kutzenhausen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Cultural heritage D-7-7629-0044 in Kutzenhausen is a significant fortification that reflects the historical military architecture of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

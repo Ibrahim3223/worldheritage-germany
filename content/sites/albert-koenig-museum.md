@@ -3,7 +3,7 @@ title: "Albert-König-Museum"
 site_name: "Albert-König-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Unterlüß, Germany"
+description: "The Albert-König-Museum, located in the quaint town of Unterlüß in the Südheide region of Germany, stands as a window into the cultural and artistic..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

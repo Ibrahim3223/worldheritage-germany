@@ -3,7 +3,7 @@ title: "Denkmal für Veit Demmler"
 site_name: "Denkmal für Veit Demmler"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Stuttgart, Germany, the Denkmal für Veit Demmler serves as a significant monument, commemorating an influential figure in the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

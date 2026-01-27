@@ -3,7 +3,7 @@ title: "Burg Ihringen"
 site_name: "Burg Ihringen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Ihringen, a captivating castle located in the scenic region of Ihringen, Germany, invites visitors to explore its historical significance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

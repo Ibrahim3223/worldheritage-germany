@@ -3,7 +3,7 @@ title: "St. Jakob (Friedberg)"
 site_name: "St. Jakob (Friedberg)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Jakob in Friedberg, Germany, is a striking church building that encapsulates the essence of Bavarian ecclesiastical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Michaeliskirche Sagard"
 site_name: "St. Michaeliskirche Sagard"
 date: 2026-01-26
 draft: false
-description: "church building in Sagard, Germany"
+description: "St. Michaeliskirche Sagard is a remarkable church building located in the charming town of Sagard, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

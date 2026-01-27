@@ -3,7 +3,7 @@ title: "Steintor (Anklam)"
 site_name: "Steintor (Anklam)"
 date: 2026-01-26
 draft: false
-description: "Stadttor von Anklam"
+description: "The Steintor, located in the city of Anklam, Germany, is a remarkable city gate that holds a significant place in the region's historical landscape."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

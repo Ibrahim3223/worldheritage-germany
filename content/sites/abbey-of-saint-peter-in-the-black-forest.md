@@ -3,7 +3,7 @@ title: "Abbey of Saint Peter in the Black Forest"
 site_name: "Abbey of Saint Peter in the Black Forest"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "The Abbey of Saint Peter in the Black Forest is a remarkable testament to monastic tradition, offering visitors a direct encounter with the serene beauty..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

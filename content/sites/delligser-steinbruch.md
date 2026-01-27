@@ -3,7 +3,7 @@ title: "Delligser Steinbruch"
 site_name: "Delligser Steinbruch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Delligser Steinbruch is a prominent nature reserve located in Alfeld (Leine), Lower Saxony, Germany, that plays a vital role in preserving the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

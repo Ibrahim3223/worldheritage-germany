@@ -3,7 +3,7 @@ title: "Segen Church"
 site_name: "Segen Church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Segen Church, an architectural gem located in Berlin, exemplifies the diverse religious and cultural landscape of Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Scherptor"
 site_name: "Scherptor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Scherptor, a notable city gate located in Aachen, Germany, offers visitors a glimpse into the rich architectural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

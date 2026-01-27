@@ -3,7 +3,7 @@ title: "Nustrow Manor"
 site_name: "Nustrow Manor"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Nustrow Manor, a distinguished manor house located in the serene region of Nustrow, Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

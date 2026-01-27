@@ -3,7 +3,7 @@ title: "Brücke über den Mühlgraben Kunnersdorf (Augustusburg)"
 site_name: "Brücke über den Mühlgraben Kunnersdorf (Augustusburg)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the serene landscape of Augustusburg, Germany, the Brücke über den Mühlgraben Kunnersdorf stands as a remarkable example of bridge engineering."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

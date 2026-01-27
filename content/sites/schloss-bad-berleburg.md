@@ -3,7 +3,7 @@ title: "Schloss Bad Berleburg"
 site_name: "Schloss Bad Berleburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Bad Berleburg, an enchanting museum located in the picturesque town of Bad Berleburg, Germany, invites visitors to delve into its storied past,..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

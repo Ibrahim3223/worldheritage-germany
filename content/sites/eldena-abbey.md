@@ -3,7 +3,7 @@ title: "Eldena Abbey"
 site_name: "Eldena Abbey"
 date: 2026-01-26
 draft: false
-description: "former Cistercian monastery in Mecklenburg-Vorpommern, Germany, in ruins"
+description: "Eldena Abbey, a hauntingly beautiful remnant of a former Cistercian monastery, captures the imagination with its crumbling stone walls and rich history."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"

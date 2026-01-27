@@ -3,7 +3,7 @@ title: "Gerhard Marcks House"
 site_name: "Gerhard Marcks House"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "Gerhard Marcks House is an art museum located in the Mitte district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

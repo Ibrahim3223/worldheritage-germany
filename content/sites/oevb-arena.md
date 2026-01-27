@@ -3,7 +3,7 @@ title: "ÖVB Arena"
 site_name: "ÖVB Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Bremen, Germany"
+description: "ÖVB Arena, located in the vibrant district of Findorff in Bremen, Germany, serves as a dynamic multi-purpose hall that caters to a wide array of events,..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

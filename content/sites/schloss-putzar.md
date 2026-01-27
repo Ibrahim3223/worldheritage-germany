@@ -3,7 +3,7 @@ title: "Schloss Putzar"
 site_name: "Schloss Putzar"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Schloss Putzar, an elegant manor house located in the tranquil region of Boldekow, Germany, invites visitors to explore its historical and architectural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

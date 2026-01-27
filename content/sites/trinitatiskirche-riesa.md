@@ -3,7 +3,7 @@ title: "Trinitatiskirche Riesa"
 site_name: "Trinitatiskirche Riesa"
 date: 2026-01-26
 draft: false
-description: "church building in Saxoyn, Germany"
+description: "Trinitatiskirche Riesa, a significant church building located in the Saxony region of Germany, invites visitors to explore its architectural beauty and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

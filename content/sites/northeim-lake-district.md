@@ -3,7 +3,7 @@ title: "Northeim Lake District"
 site_name: "Northeim Lake District"
 date: 2026-01-26
 draft: false
-description: "series of lakes near Northeim, Lower Saxony"
+description: "The Northeim Lake District, located in Lower Saxony, Germany, is an enchanting series of lakes that offers a tranquil escape into nature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

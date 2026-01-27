@@ -3,7 +3,7 @@ title: "Synagoge (Padberg)"
 site_name: "Synagoge (Padberg)"
 date: 2026-01-26
 draft: false
-description: "former synagogue"
+description: "The Synagoge in Padberg, located in the charming region of Marsberg, Germany, offers a poignant glimpse into the Jewish heritage and cultural history of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Gerätemuseum des Coburger Landes"
 site_name: "Gerätemuseum des Coburger Landes"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gerätemuseum des Coburger Landes in Ahorn, Germany, serves as an intriguing gateway into the region's cultural heritage, showcasing a variety of tools..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

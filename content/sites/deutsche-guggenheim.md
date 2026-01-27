@@ -3,7 +3,7 @@ title: "Deutsche Guggenheim"
 site_name: "Deutsche Guggenheim"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Deutsche Guggenheim, situated in the heart of Berlin, stands as a prominent art museum dedicated to the exploration of contemporary art."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

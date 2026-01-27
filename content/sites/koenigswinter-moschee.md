@@ -3,7 +3,7 @@ title: "Königswinter-Moschee"
 site_name: "Königswinter-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Deutschland"
+description: "The Königswinter-Moschee, located in the charming town of Königswinter, Germany, is an intriguing example of Islamic architecture within the country's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

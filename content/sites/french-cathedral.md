@@ -3,7 +3,7 @@ title: "French Cathedral"
 site_name: "French Cathedral"
 date: 2026-01-26
 draft: false
-description: "church in Berlin, Germany"
+description: "The French Cathedral, or Französischer Dom, is an iconic church building located in the heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

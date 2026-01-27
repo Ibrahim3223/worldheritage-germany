@@ -3,7 +3,7 @@ title: "Landeskundliche Bibliothek des Märkischen Kreises"
 site_name: "Landeskundliche Bibliothek des Märkischen Kreises"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Landeskundliche Bibliothek des Märkischen Kreises, located in Altena, Germany, is a notable institution that serves as a repository of regional knowledge."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

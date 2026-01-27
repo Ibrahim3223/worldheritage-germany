@@ -3,7 +3,7 @@ title: "Burg Neuhaus (Eltville)"
 site_name: "Burg Neuhaus (Eltville)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuhaus in Eltville, Germany, presents an intriguing glimpse into the country’s medieval past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

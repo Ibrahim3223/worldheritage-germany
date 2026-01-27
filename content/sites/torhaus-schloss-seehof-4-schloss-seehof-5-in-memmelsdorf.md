@@ -3,7 +3,7 @@ title: "Torhaus Schloß Seehof 4; Schloß Seehof 5 in Memmelsdorf"
 site_name: "Torhaus Schloß Seehof 4; Schloß Seehof 5 in Memmelsdorf"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-71-159-52 (6) in Memmelsdorf, Bavaria"
+description: "Torhaus Schloß Seehof 4 and Schloß Seehof 5, located in the serene region of Memmelsdorf in Bavaria, Germany, are significant cultural heritage monuments..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

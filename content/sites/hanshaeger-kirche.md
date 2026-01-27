@@ -3,7 +3,7 @@ title: "Hanshäger Kirche"
 site_name: "Hanshäger Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Hanshagen, Germany, the Hanshäger Kirche stands as an emblem of the region's architectural and cultural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

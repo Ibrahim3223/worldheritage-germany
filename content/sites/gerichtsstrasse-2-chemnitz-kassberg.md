@@ -3,7 +3,7 @@ title: "Gerichtsstraße 2, Chemnitz-Kaßberg"
 site_name: "Gerichtsstraße 2, Chemnitz-Kaßberg"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Chemnitz"
+description: "Gerichtsstraße 2, located in the Kaßberg district of Chemnitz, Germany, is a notable courthouse that reflects the legal and architectural heritage of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"

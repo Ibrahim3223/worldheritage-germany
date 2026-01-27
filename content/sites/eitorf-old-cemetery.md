@@ -3,7 +3,7 @@ title: "Eitorf Old Cemetery"
 site_name: "Eitorf Old Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Eitorf, Germany"
+description: "Eitorf Old Cemetery, located in the picturesque town of Eitorf, Germany, offers visitors a contemplative space that reflects the rich history of the region..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Fernmeldeturm Dünsberg"
 site_name: "Fernmeldeturm Dünsberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Perched majestically in the scenic landscape of Biebertal, Germany, the Fernmeldeturm Dünsberg is a striking telecommunications tower that captures the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

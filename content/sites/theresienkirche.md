@@ -3,7 +3,7 @@ title: "Theresienkirche"
 site_name: "Theresienkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Aachen, Germany"
+description: "Theresienkirche, an elegant church building located in the heart of Aachen, Germany, serves as a significant landmark within the city's historical and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

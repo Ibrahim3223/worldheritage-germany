@@ -3,7 +3,7 @@ title: "Blue colour factory Oberschlema"
 site_name: "Blue colour factory Oberschlema"
 date: 2026-01-26
 draft: false
-description: "former factory for cobalt blue"
+description: "The Blue Colour Factory Oberschlema, located in Germany, stands as a significant relic of industrial heritage, dedicated to the production of cobalt blue..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

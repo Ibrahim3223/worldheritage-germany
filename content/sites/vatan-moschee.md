@@ -3,7 +3,7 @@ title: "Vatan-Moschee"
 site_name: "Vatan-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Bielefeld"
+description: "In the heart of Bielefeld, Germany, the Vatan-Moschee serves as a focal point for the local Muslim community and a symbol of cultural diversity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

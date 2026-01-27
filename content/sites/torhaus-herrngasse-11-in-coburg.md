@@ -3,7 +3,7 @@ title: "Torhaus Herrngasse 11 in Coburg"
 site_name: "Torhaus Herrngasse 11 in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-130 (1) in Coburg, Bavaria"
+description: "Torhaus Herrngasse 11, located in the heart of Coburg, Germany, is a significant cultural heritage monument that reflects the architectural and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "Church in Groß Toitin"
 site_name: "Church in Groß Toitin"
 date: 2026-01-26
 draft: false
-description: "church building in Jarmen, Germany"
+description: "The Church in Groß Toitin is a notable church building located in the picturesque region of Jarmen, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

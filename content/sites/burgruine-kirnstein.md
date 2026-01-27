@@ -3,7 +3,7 @@ title: "Burgruine Kirnstein"
 site_name: "Burgruine Kirnstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgruine Kirnstein presents a striking silhouette against the backdrop of Flintsbach in Germany, a testament to the medieval architectural ingenuity that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

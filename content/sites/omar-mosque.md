@@ -3,7 +3,7 @@ title: "Omar Mosque"
 site_name: "Omar Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Düsseldorf, North Rhine-Westphalia, Germany"
+description: "The Omar Mosque in Düsseldorf, Germany, serves as a significant place of worship and cultural exchange for the Muslim community in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

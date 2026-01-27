@@ -3,7 +3,7 @@ title: "Puppenbrunnen"
 site_name: "Puppenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Aachen, Germany"
+description: "In the heart of Aachen, Germany, the Puppenbrunnen is more than just a fountain; it is a captivating blend of artistry and history that draws visitors..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

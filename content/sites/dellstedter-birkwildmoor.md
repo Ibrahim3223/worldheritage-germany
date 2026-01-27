@@ -3,7 +3,7 @@ title: "Dellstedter Birkwildmoor"
 site_name: "Dellstedter Birkwildmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Dellstedter Birkwildmoor is a nature reserve located in the tranquil region of Dellstedt, Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Kiepenkerldenkmal"
 site_name: "Kiepenkerldenkmal"
 date: 2026-01-26
 draft: false
-description: "statue"
+description: "In the heart of Münster, Germany, stands the Kiepenkerldenkmal, a statue that captures the spirit of the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

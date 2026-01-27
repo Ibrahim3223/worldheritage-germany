@@ -3,7 +3,7 @@ title: "Hahntal und Höckels"
 site_name: "Hahntal und Höckels"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Hahntal und Höckels, a serene nature reserve located in Jerxheim, Lower Saxony, Germany, offers visitors a unique opportunity to experience the tranquil..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

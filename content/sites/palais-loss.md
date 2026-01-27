@@ -3,7 +3,7 @@ title: "Palais Loß"
 site_name: "Palais Loß"
 date: 2026-01-26
 draft: false
-description: "Destroyed building in Dresden, Germany"
+description: "Palais Loß, an important historical palace located in Dresden, Germany, once stood as a significant architectural landmark in the city."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Zentralfriedhof Furpach"
 site_name: "Zentralfriedhof Furpach"
 date: 2026-01-26
 draft: false
-description: "cemetery in Neunkirchen, Germany"
+description: "In the heart of Neunkirchen, Germany, lies the Zentralfriedhof Furpach, a cemetery that serves as a poignant reminder of the past and a serene space for..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Burgruine Flossenbürg"
 site_name: "Burgruine Flossenbürg"
 date: 2026-01-26
 draft: false
-description: "rock castle"
+description: "Burgruine Flossenbürg, an archaeological site located in the quaint village of Flossenbürg, Germany, provides a fascinating glimpse into the medieval era."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

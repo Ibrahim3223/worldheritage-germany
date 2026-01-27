@@ -3,7 +3,7 @@ title: "Begegnungskirche (Berlin)"
 site_name: "Begegnungskirche (Berlin)"
 date: 2026-01-26
 draft: false
-description: "Place of meeting church in Berlin"
+description: "Begegnungskirche, a striking church building located in the Reinickendorf district of Berlin, serves as a vibrant place of meeting and community engagement."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

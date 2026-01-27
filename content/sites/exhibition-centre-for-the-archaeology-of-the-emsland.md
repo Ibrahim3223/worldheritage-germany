@@ -3,7 +3,7 @@ title: "Exhibition Centre for the Archaeology of the Emsland"
 site_name: "Exhibition Centre for the Archaeology of the Emsland"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Exhibition Centre for the Archaeology of the Emsland serves as a focal point for understanding the rich archaeological heritage of the Emsland region in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

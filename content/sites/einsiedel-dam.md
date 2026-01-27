@@ -3,7 +3,7 @@ title: "Einsiedel Dam"
 site_name: "Einsiedel Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "Einsiedel Dam, located in the serene region of Einsiedel, Germany, is an engineering marvel that gracefully integrates functionality with the natural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

@@ -3,7 +3,7 @@ title: "Denkmal Prinzessin Stephanie von Hohenzollern, Hofgarten Düsseldorf"
 site_name: "Denkmal Prinzessin Stephanie von Hohenzollern, Hofgarten Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Düsseldorf, a captivating monument pays homage to a figure of historical significance: Princess Stephanie of Hohenzollern."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Gemeindebücherei Forstinning"
 site_name: "Gemeindebücherei Forstinning"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Germany's Forstinning, the Gemeindebücherei Forstinning serves as a vital hub for knowledge and community engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

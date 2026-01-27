@@ -3,7 +3,7 @@ title: "Monbijou Park"
 site_name: "Monbijou Park"
 date: 2026-01-26
 draft: false
-description: "park"
+description: "Monbijou Park, located in the Bezirk Mitte district of Berlin, Germany, serves as a tranquil oasis amid the vibrant urban life."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

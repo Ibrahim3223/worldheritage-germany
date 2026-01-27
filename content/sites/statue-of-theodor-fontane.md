@@ -3,7 +3,7 @@ title: "Statue of Theodor Fontane"
 site_name: "Statue of Theodor Fontane"
 date: 2026-01-26
 draft: false
-description: "copy of the statue by Max Klein in Berlin-Tiergarten, Germany"
+description: "The Statue of Theodor Fontane is a noteworthy tribute to one of Germany's most esteemed literary figures, commemorating his contributions to literature and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

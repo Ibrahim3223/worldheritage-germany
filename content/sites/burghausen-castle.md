@@ -3,7 +3,7 @@ title: "Burghausen Castle"
 site_name: "Burghausen Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Burghausen, Germany"
+description: "Burghausen Castle, a remarkable fortress perched upon a ridge overlooking the town of Burghausen in Bavaria, Germany, stands as one of the longest castles..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

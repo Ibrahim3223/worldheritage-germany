@@ -3,7 +3,7 @@ title: "Siegburg/Bonn station"
 site_name: "Siegburg/Bonn station"
 date: 2026-01-26
 draft: false
-description: "railway station in Siegburg, Germany"
+description: "Siegburg/Bonn station is an essential junction in the heart of Germany, seamlessly connecting a vibrant community with the wider rail network of the country."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

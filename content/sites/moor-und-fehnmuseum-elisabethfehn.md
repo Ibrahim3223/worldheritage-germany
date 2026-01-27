@@ -3,7 +3,7 @@ title: "Moor- und Fehnmuseum Elisabethfehn"
 site_name: "Moor- und Fehnmuseum Elisabethfehn"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Moor- und Fehnmuseum Elisabethfehn offers an intriguing glimpse into the cultural and historical fabric of the Barßel region in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

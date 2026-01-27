@@ -3,7 +3,7 @@ title: "Zirkelstein"
 site_name: "Zirkelstein"
 date: 2026-01-26
 draft: false
-description: "mountain in Germany"
+description: "Zirkelstein is a prominent mountain located in the scenic Reinhardtsdorf-Schöna region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "KW Institute for Contemporary Art"
 site_name: "KW Institute for Contemporary Art"
 date: 2026-01-26
 draft: false
-description: "Contemporary art institution in Berlin, Germany"
+description: "The KW Institute for Contemporary Art stands as a vital hub of contemporary art in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

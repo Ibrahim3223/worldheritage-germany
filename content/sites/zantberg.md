@@ -3,7 +3,7 @@ title: "Zantberg"
 site_name: "Zantberg"
 date: 2026-01-26
 draft: false
-description: "mountain in Germany"
+description: "Zantberg is a prominent mountain located in the Hirschbach region of Germany. This natural landmark serves as a significant point of interest for both..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

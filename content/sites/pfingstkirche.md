@@ -3,7 +3,7 @@ title: "Pfingstkirche"
 site_name: "Pfingstkirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Friedrichshain, Germany"
+description: "The Pfingstkirche, a church building located in the vibrant district of Friedrichshain in Berlin, Germany, serves as an intriguing focal point for those..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

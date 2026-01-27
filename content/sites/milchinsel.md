@@ -3,7 +3,7 @@ title: "Milchinsel"
 site_name: "Milchinsel"
 date: 2026-01-26
 draft: false
-description: "garden in Leipzig, Germany"
+description: "Milchinsel, a serene garden located in Leipzig, Germany, serves as an oasis of tranquility amidst the bustling urban landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Jesus Church"
 site_name: "Jesus Church"
 date: 2026-01-26
 draft: false
-description: "15th-century building in Kaulsdorf, Germany"
+description: "Jesus Church, a notable 15th-century church building located in the heart of Kaulsdorf, Germany, presents a unique opportunity for visitors to explore a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

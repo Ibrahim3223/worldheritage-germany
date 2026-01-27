@@ -3,7 +3,7 @@ title: "Zwölf-Apostel-Kirche, Frankenthal"
 site_name: "Zwölf-Apostel-Kirche, Frankenthal"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Zwölf-Apostel-Kirche, or Church of the Twelve Apostles, stands as a prominent place of worship in Frankenthal, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

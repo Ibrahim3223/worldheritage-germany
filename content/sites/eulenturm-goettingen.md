@@ -3,7 +3,7 @@ title: "Eulenturm (Göttingen)"
 site_name: "Eulenturm (Göttingen)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Eulenturm, a striking tower located in Göttingen, Germany, serves as a captivating reminder of the city’s rich historical narrative."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

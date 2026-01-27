@@ -3,7 +3,7 @@ title: "Saint Nicholas church"
 site_name: "Saint Nicholas church"
 date: 2026-01-26
 draft: false
-description: "church in Vechelde-Sonnenberg, Germany"
+description: "Saint Nicholas Church, located in the picturesque district of Vechelde-Sonnenberg in Germany, is a site that invites visitors to explore its architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

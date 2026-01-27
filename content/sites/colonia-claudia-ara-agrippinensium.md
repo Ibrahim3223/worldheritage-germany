@@ -3,7 +3,7 @@ title: "Colonia Claudia Ara Agrippinensium"
 site_name: "Colonia Claudia Ara Agrippinensium"
 date: 2026-01-26
 draft: false
-description: "Roman colony, today Cologne in Germany"
+description: "Colonia Claudia Ara Agrippinensium, the name of an ancient Roman colony, encapsulates a significant chapter in the history of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

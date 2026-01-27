@@ -3,7 +3,7 @@ title: "Altstadt-Nord"
 site_name: "Altstadt-Nord"
 date: 2026-01-26
 draft: false
-description: "city quarter of Cologne No. 103"
+description: "Altstadt-Nord, the Old Town district of Cologne, is a vibrant area that captures the essence of the city’s rich heritage and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Old Town"

@@ -3,7 +3,7 @@ title: "Altstadt (Weißenburg)"
 site_name: "Altstadt (Weißenburg)"
 date: 2026-01-26
 draft: false
-description: "old town quarter of weißenburg, Germany"
+description: "The Altstadt of Weißenburg, located in the picturesque region of Weißenburg in Bayern, Germany, is a captivating old town that invites visitors to explore..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Old Town"

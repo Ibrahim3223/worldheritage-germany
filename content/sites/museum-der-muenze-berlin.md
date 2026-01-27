@@ -3,7 +3,7 @@ title: "Museum der Münze Berlin"
 site_name: "Museum der Münze Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der Münze Berlin is a unique establishment in the heart of Germany’s capital, focusing on the art and history of coinage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

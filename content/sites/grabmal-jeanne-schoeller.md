@@ -3,7 +3,7 @@ title: "Grabmal Jeanne Schoeller"
 site_name: "Grabmal Jeanne Schoeller"
 date: 2026-01-26
 draft: false
-description: "tomb"
+description: "The Grabmal Jeanne Schoeller, located in Düren, Germany, is a significant burial site that reflects the cultural and historical context of its time."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"

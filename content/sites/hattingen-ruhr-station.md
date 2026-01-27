@@ -3,7 +3,7 @@ title: "Hattingen (Ruhr) station"
 site_name: "Hattingen (Ruhr) station"
 date: 2026-01-26
 draft: false
-description: "railway station in Hattingen, Germany"
+description: "Hattingen (Ruhr) station serves as a vital hub within the regional railway network of Germany, particularly for those journeying through the picturesque..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Otto Lilienthal Museum"
 site_name: "Otto Lilienthal Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Otto Lilienthal Museum, situated in Anklam, Germany, pays homage to the pioneering spirit of aviation through the life and work of Otto Lilienthal, a..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

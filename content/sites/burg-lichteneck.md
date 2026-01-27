@@ -3,7 +3,7 @@ title: "Burg Lichteneck"
 site_name: "Burg Lichteneck"
 date: 2026-01-26
 draft: false
-description: "castle in Oberpfalz"
+description: "Burg Lichteneck is a captivating castle located in the picturesque region of Rimbach, nestled in the Oberpfalz area of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

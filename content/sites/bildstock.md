@@ -3,7 +3,7 @@ title: "Bildstock"
 site_name: "Bildstock"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-145-197 (0) in Kronach, Bavaria"
+description: "In the heart of Bavaria, within the charming region of Kronach, lies Bildstock, a significant cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

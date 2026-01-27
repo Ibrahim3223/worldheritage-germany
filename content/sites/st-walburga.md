@@ -3,7 +3,7 @@ title: "St. Walburga"
 site_name: "St. Walburga"
 date: 2026-01-26
 draft: false
-description: "church building in Walberberg, Bornheim, Germany"
+description: "St. Walburga is an intriguing church building located in Walberberg, a district of Bornheim, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

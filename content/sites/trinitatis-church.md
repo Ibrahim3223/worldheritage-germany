@@ -3,7 +3,7 @@ title: "Trinitatis Church"
 site_name: "Trinitatis Church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin, Germany"
+description: "Trinitatis Church, located in the Charlottenburg-Wilmersdorf district of Berlin, is a church building that captures the essence of spiritual and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

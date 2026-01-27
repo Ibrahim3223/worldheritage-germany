@@ -3,7 +3,7 @@ title: "Burg Fürstenstein"
 site_name: "Burg Fürstenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Fürstenstein, a striking castle located in the serene region of Eschwege, Germany, invites visitors to explore its storied past and architectural splendor."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Old Botanical Garden, Kiel"
 site_name: "Old Botanical Garden, Kiel"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Old Botanical Garden in Kiel, Germany, serves as a verdant retreat within the urban landscape, showcasing a diverse collection of flora that reflects..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Botanical Garden"

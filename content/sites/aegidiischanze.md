@@ -3,7 +3,7 @@ title: "Aegidiischanze"
 site_name: "Aegidiischanze"
 date: 2026-01-26
 draft: false
-description: "park in Münster, Germany"
+description: "Aegidiischanze is a tranquil park located in the heart of Münster, Germany. This green space offers a unique blend of natural beauty and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"

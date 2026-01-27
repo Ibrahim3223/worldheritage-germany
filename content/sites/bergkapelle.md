@@ -3,7 +3,7 @@ title: "Bergkapelle"
 site_name: "Bergkapelle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Bergkapelle, located in the serene region of Illingen, Germany, serves as a remarkable example of ecclesiastical architecture that reflects both historical..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

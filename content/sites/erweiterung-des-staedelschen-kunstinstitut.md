@@ -3,7 +3,7 @@ title: "Erweiterung des Städelschen Kunstinstitut"
 site_name: "Erweiterung des Städelschen Kunstinstitut"
 date: 2026-01-26
 draft: false
-description: "museum building in Frankfurt am Main, Germany"
+description: "The Erweiterung des Städelschen Kunstinstitut, located in Frankfurt am Main, Germany, is an essential destination for art enthusiasts and cultural explorers..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "zeiTTor - Museum der Stadt Neustadt in Holstein"
 site_name: "zeiTTor - Museum der Stadt Neustadt in Holstein"
 date: 2026-01-26
 draft: false
-description: "museum in Neustadt in Holstein, Germany"
+description: "In the charming town of Neustadt in Holstein, Germany, the zeiTTor - Museum der Stadt Neustadt in Holstein serves as a cultural anchor, showcasing the rich..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

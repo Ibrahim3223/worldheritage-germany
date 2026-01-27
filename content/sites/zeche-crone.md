@@ -3,7 +3,7 @@ title: "Zeche Crone"
 site_name: "Zeche Crone"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Crone, located in the vibrant city of Dortmund, Germany, offers an intriguing glimpse into the world of coal mining that once thrived in this region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

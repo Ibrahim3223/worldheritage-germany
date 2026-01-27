@@ -3,7 +3,7 @@ title: "Studienkirche Mariä Himmelfahrt"
 site_name: "Studienkirche Mariä Himmelfahrt"
 date: 2026-01-26
 draft: false
-description: "church building in Dillingen an der Donau, Swabia, Germany"
+description: "The Studienkirche Mariä Himmelfahrt, a distinguished church building in Dillingen an der Donau, Swabia, Germany, is a site of both architectural beauty and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

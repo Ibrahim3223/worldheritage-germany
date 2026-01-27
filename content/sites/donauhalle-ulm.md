@@ -3,7 +3,7 @@ title: "Donauhalle Ulm"
 site_name: "Donauhalle Ulm"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Germany"
+description: "Donauhalle Ulm is a prominent multi-purpose hall located in the heart of Ulm, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Veleda Cave"
 site_name: "Veleda Cave"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Veleda Cave in Bestwig, Germany, is an intriguing natural wonder that draws visitors interested in geology, archaeology, and the natural world."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"

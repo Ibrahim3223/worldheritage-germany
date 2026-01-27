@@ -3,7 +3,7 @@ title: "St. Sixtus (Weisingen)"
 site_name: "St. Sixtus (Weisingen)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Sixtus, a notable church building located in the Holzheim region of Bavaria, Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

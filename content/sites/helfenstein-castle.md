@@ -3,7 +3,7 @@ title: "Helfenstein Castle"
 site_name: "Helfenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Helfenstein Castle, a striking historical landmark located in Geislingen an der Steige, Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

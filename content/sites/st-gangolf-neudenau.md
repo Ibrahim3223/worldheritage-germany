@@ -3,7 +3,7 @@ title: "St. Gangolf Neudenau"
 site_name: "St. Gangolf Neudenau"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Gangolf Neudenau is a noteworthy church building located in the charming town of Neudenau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

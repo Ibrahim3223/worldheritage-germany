@@ -3,7 +3,7 @@ title: "Gemeindehaus Notburgastraße 17 in München"
 site_name: "Gemeindehaus Notburgastraße 17 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-4807 (3) in München, Bavaria"
+description: "In the heart of Munich, Gemeindehaus Notburgastraße 17 stands as a significant cultural heritage monument reflective of the city’s architectural and civic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

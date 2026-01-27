@@ -3,7 +3,7 @@ title: "St. Marienkirche (Usedom)"
 site_name: "St. Marienkirche (Usedom)"
 date: 2026-01-26
 draft: false
-description: "church in Usedom"
+description: "St. Marienkirche in Usedom, Germany, is more than just a church; it is a cultural landmark that reflects the historical and spiritual essence of the region."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

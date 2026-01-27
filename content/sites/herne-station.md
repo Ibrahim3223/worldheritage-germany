@@ -3,7 +3,7 @@ title: "Herne station"
 site_name: "Herne station"
 date: 2026-01-26
 draft: false
-description: "railway station in Herne, Germany"
+description: "Herne station, located in the heart of Germany’s North Rhine-Westphalia region, serves as a vital hub in the extensive railway network that connects cities..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

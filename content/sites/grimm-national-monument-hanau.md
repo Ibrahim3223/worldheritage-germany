@@ -3,7 +3,7 @@ title: "Grimm National Monument Hanau"
 site_name: "Grimm National Monument Hanau"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Grimm National Monument in Hanau, Germany, stands as a significant tribute to the esteemed Brothers Grimm, Jacob and Wilhelm, whose fairy tales have..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

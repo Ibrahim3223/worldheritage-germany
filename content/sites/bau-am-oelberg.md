@@ -3,7 +3,7 @@ title: "Bau am Ölberg"
 site_name: "Bau am Ölberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Bau am Ölberg, a captivating castle located in the Gütighofen region of Germany, offers an intriguing glimpse into the architectural and cultural heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

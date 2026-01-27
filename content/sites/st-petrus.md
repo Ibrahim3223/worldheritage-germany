@@ -3,7 +3,7 @@ title: "St. Petrus"
 site_name: "St. Petrus"
 date: 2026-01-26
 draft: false
-description: "church building in Kabelsketal, Saxony-Anhalt, Germany"
+description: "Situated in the picturesque region of Kabelsketal, Germany, St. Petrus is a notable church building that captures the essence of Saxony-Anhalt’s..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

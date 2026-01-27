@@ -3,7 +3,7 @@ title: "Düster See"
 site_name: "Düster See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Düster See, a tranquil lake located in the Grambow region of Germany, offers a serene escape into nature for both locals and travelers alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

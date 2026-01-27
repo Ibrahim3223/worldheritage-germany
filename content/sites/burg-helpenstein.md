@@ -3,7 +3,7 @@ title: "Burg Helpenstein"
 site_name: "Burg Helpenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Helpenstein, a striking castle located in the Neuss region of Germany, captures the imagination with its storied past and impressive architecture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

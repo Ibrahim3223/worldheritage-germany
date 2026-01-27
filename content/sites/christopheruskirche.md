@@ -3,7 +3,7 @@ title: "Christopheruskirche"
 site_name: "Christopheruskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Christopheruskirche, a church building located in the Treptow-Köpenick district of Germany, serves as an intriguing focal point for both locals and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

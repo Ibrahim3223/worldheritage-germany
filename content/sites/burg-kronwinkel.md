@@ -3,7 +3,7 @@ title: "Burg Kronwinkel"
 site_name: "Burg Kronwinkel"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kronwinkel, a captivating castle located in the Tannheim region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

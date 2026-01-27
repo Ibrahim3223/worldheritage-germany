@@ -3,7 +3,7 @@ title: "Kapelle Hof Flerke"
 site_name: "Kapelle Hof Flerke"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Werl"
+description: "Kapelle Hof Flerke is a striking chapel located in the charming town of Werl, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

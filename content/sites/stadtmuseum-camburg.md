@@ -3,7 +3,7 @@ title: "Stadtmuseum Camburg"
 site_name: "Stadtmuseum Camburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Stadtmuseum Camburg is a museum located in the charming town of Camburg, Germany, within the Dornburg-Camburg region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Caricatura Museum Frankfurt"
 site_name: "Caricatura Museum Frankfurt"
 date: 2026-01-26
 draft: false
-description: "museum for comic art"
+description: "The Caricatura Museum Frankfurt serves as a vibrant homage to the world of comic art, offering a unique space where humor and creativity converge."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

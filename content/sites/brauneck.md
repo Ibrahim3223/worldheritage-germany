@@ -3,7 +3,7 @@ title: "Brauneck"
 site_name: "Brauneck"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Towering over the Bavarian landscape, Brauneck is more than just a mountain; it is a destination that offers a blend of natural beauty and outdoor activities."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

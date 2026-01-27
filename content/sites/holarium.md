@@ -3,7 +3,7 @@ title: "Holarium"
 site_name: "Holarium"
 date: 2026-01-26
 draft: false
-description: "former museum in Esens, Germany"
+description: "Holarium, once a notable museum located in Esens, Germany, offers a unique glimpse into the cultural and historical narratives of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "German Röntgen Museum"
 site_name: "German Röntgen Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Remscheid, Germany"
+description: "The German Röntgen Museum, located in Remscheid, Germany, serves as a vital hub for understanding the legacy of Wilhelm Conrad Röntgen, the physicist..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

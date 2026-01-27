@@ -3,7 +3,7 @@ title: "Evangelistenschule Johanneum"
 site_name: "Evangelistenschule Johanneum"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Evangelistenschule Johanneum, located in Wuppertal, Germany, is an architectural structure that reflects the educational values and historical context..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

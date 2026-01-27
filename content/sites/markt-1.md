@@ -3,7 +3,7 @@ title: "Markt 1"
 site_name: "Markt 1"
 date: 2026-01-26
 draft: false
-description: ""
+description: "In the charming town of Ostritz, Germany, Markt 1 stands as a distinguished landmark, representing both the historical and administrative heart of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

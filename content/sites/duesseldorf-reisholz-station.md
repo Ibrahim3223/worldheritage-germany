@@ -3,7 +3,7 @@ title: "Düsseldorf-Reisholz station"
 site_name: "Düsseldorf-Reisholz station"
 date: 2026-01-26
 draft: false
-description: "railway station in Düsseldorf, Germany"
+description: "Düsseldorf-Reisholz station is more than just a transit point; it serves as a vital connection within the intricate railway network of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

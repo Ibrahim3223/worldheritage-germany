@@ -3,7 +3,7 @@ title: "Hiller-Denkmal"
 site_name: "Hiller-Denkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Leipzig, Germany"
+description: "The Hiller-Denkmal, or Hiller Memorial, is a poignant memorial located in Leipzig, Germany, serving as a significant marker of remembrance and reflection."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"

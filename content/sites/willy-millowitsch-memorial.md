@@ -3,7 +3,7 @@ title: "Willy Millowitsch Memorial"
 site_name: "Willy Millowitsch Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Cologne, Germany"
+description: "The Willy Millowitsch Memorial, situated in the vibrant Altstadt-Nord district of Cologne, Germany, serves as a heartfelt tribute to the renowned actor and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

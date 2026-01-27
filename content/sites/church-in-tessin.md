@@ -3,7 +3,7 @@ title: "Church in Tessin"
 site_name: "Church in Tessin"
 date: 2026-01-26
 draft: false
-description: "church building in Tessin, Germany"
+description: "The Church in Tessin serves as an essential emblem of both spiritual and cultural life in the quaint community of Tessin, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

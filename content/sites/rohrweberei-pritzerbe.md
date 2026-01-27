@@ -3,7 +3,7 @@ title: "Rohrweberei Pritzerbe"
 site_name: "Rohrweberei Pritzerbe"
 date: 2026-01-26
 draft: false
-description: "Handwerksbetrieb und Museum in Pritzerbe, Havelsee"
+description: "Rohrweberei Pritzerbe, located in the charming town of Pritzerbe, Havelsee, Germany, serves as both a functioning workshop and a museum that encapsulates..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

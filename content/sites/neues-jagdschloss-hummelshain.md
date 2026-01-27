@@ -3,7 +3,7 @@ title: "Neues Jagdschloss Hummelshain"
 site_name: "Neues Jagdschloss Hummelshain"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "The Neues Jagdschloss Hummelshain, located in the heart of Germany, is a captivating palace that draws visitors with its rich history and architectural..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Graf-Adolf-Straße 83–87"
 site_name: "Graf-Adolf-Straße 83–87"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltene Wohn- und Geschäftshaus-Gruppe in Düsseldorf"
+description: "In the heart of Düsseldorf, the architectural ensemble at Graf-Adolf-Straße 83–87 serves as a poignant reminder of the city’s historical urban landscape."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

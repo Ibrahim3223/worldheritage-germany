@@ -3,7 +3,7 @@ title: "Hans-Sachs-Gymnasium (Nuremberg-Gärten hinter der Veste)"
 site_name: "Hans-Sachs-Gymnasium (Nuremberg-Gärten hinter der Veste)"
 date: 2026-01-26
 draft: false
-description: "gymnasium in Nuremberg, Germany"
+description: "Hans-Sachs-Gymnasium, located in the vibrant city of Nuremberg, Germany, serves as a significant institution within the realm of education and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"

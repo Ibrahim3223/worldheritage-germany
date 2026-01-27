@@ -3,7 +3,7 @@ title: "Königs Wusterhausen railway station"
 site_name: "Königs Wusterhausen railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Königs Wusterhausen, Germany"
+description: "Königs Wusterhausen railway station serves as a vital transport hub in the town of Königs Wusterhausen, Germany, seamlessly connecting the region to the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"

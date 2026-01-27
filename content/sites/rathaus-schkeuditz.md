@@ -3,7 +3,7 @@ title: "Rathaus Schkeuditz"
 site_name: "Rathaus Schkeuditz"
 date: 2026-01-26
 draft: false
-description: "town hall in Schkeuditz, Saxony, Germany"
+description: "The Rathaus Schkeuditz serves as the heart of civic life in Schkeuditz, a town nestled in the picturesque region of Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

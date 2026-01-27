@@ -3,7 +3,7 @@ title: "Geißenklösterle"
 site_name: "Geißenklösterle"
 date: 2026-01-26
 draft: false
-description: "geographical object"
+description: "Geißenklösterle, a significant cave located in the Alb-Donau-Kreis of Germany, offers an intriguing glimpse into the prehistoric past of Europe."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

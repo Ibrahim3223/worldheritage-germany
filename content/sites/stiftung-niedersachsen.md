@@ -3,7 +3,7 @@ title: "Stiftung Niedersachsen"
 site_name: "Stiftung Niedersachsen"
 date: 2026-01-26
 draft: false
-description: "Landeskulturstiftung, fördert Kunst, Kultur, Bildung und Wissenschaft"
+description: "Stiftung Niedersachsen is a prominent cultural foundation located in the heart of Germany, specifically in the Mitte region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

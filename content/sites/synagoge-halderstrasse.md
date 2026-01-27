@@ -3,7 +3,7 @@ title: "Synagoge Halderstraße"
 site_name: "Synagoge Halderstraße"
 date: 2026-01-26
 draft: false
-description: "synagogue and Jewish Museum in Augsburg, Germany"
+description: "Situated in Augsburg, Germany, the Synagoge Halderstraße serves as a significant cultural and historical landmark that embodies the rich Jewish heritage of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

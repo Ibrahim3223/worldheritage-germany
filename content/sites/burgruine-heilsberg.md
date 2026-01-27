@@ -3,7 +3,7 @@ title: "Burgruine Heilsberg"
 site_name: "Burgruine Heilsberg"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burgruine Heilsberg is an archaeological site located in the Wiesent region of Germany, offering visitors a glimpse into the remnants of a castle that once..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

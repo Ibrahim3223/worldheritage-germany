@@ -3,7 +3,7 @@ title: "Garnisonmuseum Ludwigsburg"
 site_name: "Garnisonmuseum Ludwigsburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Garnisonmuseum Ludwigsburg serves as an intriguing portal into the military history of Germany, situated in the city of Ludwigsburg."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

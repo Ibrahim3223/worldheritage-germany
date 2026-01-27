@@ -3,7 +3,7 @@ title: "Museum für Sächsische Volkskunst"
 site_name: "Museum für Sächsische Volkskunst"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden, Germany"
+description: "The Museum für Sächsische Volkskunst, located in the vibrant city of Dresden, Germany, serves as a captivating portal into the traditional crafts and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

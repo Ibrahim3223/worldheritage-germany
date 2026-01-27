@@ -3,7 +3,7 @@ title: "Bauernhof Heribertstraße 34"
 site_name: "Bauernhof Heribertstraße 34"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Bauernhof Heribertstraße 34 is a notable architectural ensemble located in the charming region of Nörvenich, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Museum Castrum Boiotro"
 site_name: "Museum Castrum Boiotro"
 date: 2026-01-26
 draft: false
-description: "museum in Passau, Germany"
+description: "Museum Castrum Boiotro is a notable cultural institution located in the historic region of Passau, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

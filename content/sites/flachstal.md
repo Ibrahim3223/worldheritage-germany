@@ -3,7 +3,7 @@ title: "Flachstal"
 site_name: "Flachstal"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "Flachstal is a serene valley located in Germany, characterized by its natural beauty and tranquil environment."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Valley"

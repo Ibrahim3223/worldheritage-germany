@@ -3,7 +3,7 @@ title: "Fischerbach Castle"
 site_name: "Fischerbach Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Fischerbach Castle, located in the charming region of Fischerbach, Germany, presents an intriguing blend of history and architectural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

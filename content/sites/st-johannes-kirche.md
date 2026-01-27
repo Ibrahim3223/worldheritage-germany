@@ -3,7 +3,7 @@ title: "St.-Johannes-Kirche"
 site_name: "St.-Johannes-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Johannes-Kirche, located in the charming region of Wusterhusen, Germany, is an architectural and cultural landmark that has stood the test of time."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

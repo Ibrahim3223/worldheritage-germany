@@ -3,7 +3,7 @@ title: "Prachtbrunnen of Augsburg"
 site_name: "Prachtbrunnen of Augsburg"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "The Prachtbrunnen of Augsburg is a remarkable fountain that serves not only as a source of water but also as an emblem of the city's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

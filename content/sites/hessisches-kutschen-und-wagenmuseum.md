@@ -3,7 +3,7 @@ title: "Hessisches Kutschen- und Wagenmuseum"
 site_name: "Hessisches Kutschen- und Wagenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hessisches Kutschen- und Wagenmuseum, located in Lohfelden, Germany, offers a fascinating glimpse into the evolution of horse-drawn vehicles and their..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

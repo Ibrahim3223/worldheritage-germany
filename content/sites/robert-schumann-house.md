@@ -3,7 +3,7 @@ title: "Robert Schumann House"
 site_name: "Robert Schumann House"
 date: 2026-01-26
 draft: false
-description: "birthplace of Robert Schumann"
+description: "The Robert Schumann House, located in the city of Zwickau, Germany, is a museum dedicated to the life and legacy of one of the most significant composers of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

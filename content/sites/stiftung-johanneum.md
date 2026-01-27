@@ -3,7 +3,7 @@ title: "Stiftung Johanneum"
 site_name: "Stiftung Johanneum"
 date: 2026-01-26
 draft: false
-description: "Stiftung mit Studierendenwohnheim in Berlin"
+description: "Stiftung Johanneum is a noteworthy institution located in the vibrant heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Franziskaner-Klosterkirche"
 site_name: "Franziskaner-Klosterkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Franziskaner-Klosterkirche is an intriguing church building located in the heart of Berlin, Germany, specifically in the Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

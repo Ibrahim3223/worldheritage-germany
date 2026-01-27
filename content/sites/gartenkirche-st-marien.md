@@ -3,7 +3,7 @@ title: "Gartenkirche St. Marien"
 site_name: "Gartenkirche St. Marien"
 date: 2026-01-26
 draft: false
-description: "church in Hannover, Germany"
+description: "Gartenkirche St. Marien, located in the heart of Hannover, Germany, is more than just a place of worship; it is a significant cultural landmark that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

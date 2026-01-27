@@ -3,7 +3,7 @@ title: "Altmark"
 site_name: "Altmark"
 date: 2026-01-26
 draft: false
-description: "region in the north west of Saxony-Anhalt, Germany"
+description: "The Altmark region, located in the northwestern part of Saxony-Anhalt, Germany, offers a unique glimpse into a cultural landscape shaped by centuries of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Landscape"

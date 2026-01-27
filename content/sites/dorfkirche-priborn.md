@@ -3,7 +3,7 @@ title: "Dorfkirche Priborn"
 site_name: "Dorfkirche Priborn"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Priborn is a noteworthy church building located in the tranquil village of Priborn, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

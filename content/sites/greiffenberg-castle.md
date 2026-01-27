@@ -3,7 +3,7 @@ title: "Greiffenberg Castle"
 site_name: "Greiffenberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Brandenburg, Germany"
+description: "Greiffenberg Castle, a striking historical edifice located in the Brandenburg region of Germany, offers visitors a glimpse into the architectural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

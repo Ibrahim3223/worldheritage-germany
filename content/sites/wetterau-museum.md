@@ -3,7 +3,7 @@ title: "Wetterau-Museum"
 site_name: "Wetterau-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wetterau-Museum, located in Friedberg, Germany, offers an intriguing glimpse into the region’s cultural heritage and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

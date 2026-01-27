@@ -3,7 +3,7 @@ title: "Cultural heritage D-6-6426-0028 in Aub"
 site_name: "Cultural heritage D-6-6426-0028 in Aub"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Aub, Würzburg, Lower Franconia, Bavaria, Germany"
+description: "Cultural heritage D-6-6426-0028 in Aub is an intriguing fortification located in the picturesque region of Lower Franconia, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

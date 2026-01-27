@@ -3,7 +3,7 @@ title: "Bockshorn"
 site_name: "Bockshorn"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Porta Westfalica, North Rhine-Westphalia, Germany"
+description: "Bockshorn, a distinguished nature reserve located in Porta Westfalica, North Rhine-Westphalia, Germany, presents a serene and unspoiled environment ideal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

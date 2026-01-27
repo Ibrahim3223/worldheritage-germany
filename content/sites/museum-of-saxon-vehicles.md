@@ -3,7 +3,7 @@ title: "Museum of Saxon vehicles"
 site_name: "Museum of Saxon vehicles"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of Saxon Vehicles, located in the Kapellenberg region of Germany, showcases a unique collection of historical vehicles that played a significant..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

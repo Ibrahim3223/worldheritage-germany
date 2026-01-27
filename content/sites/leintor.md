@@ -3,7 +3,7 @@ title: "Leintor"
 site_name: "Leintor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "Leintor serves as an intriguing entry point into the history and architecture of Germany, specifically within the region of Mitte, known for its vibrant..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

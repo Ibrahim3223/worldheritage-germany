@@ -3,7 +3,7 @@ title: "Museum Bad Schwartau"
 site_name: "Museum Bad Schwartau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Bad Schwartau offers visitors an engaging glimpse into the cultural heritage of this quaint town in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

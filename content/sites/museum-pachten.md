@@ -3,7 +3,7 @@ title: "Museum Pachten"
 site_name: "Museum Pachten"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Pachten, located in the heart of Dillingen, Germany, serves as a cultural hub that reflects the region's rich historical narrative."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

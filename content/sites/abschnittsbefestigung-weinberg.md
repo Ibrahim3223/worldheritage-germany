@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung Weinberg"
 site_name: "Abschnittsbefestigung Weinberg"
 date: 2026-01-26
 draft: false
-description: "building in Treuchtlingen, Middle Franconia, Germany"
+description: "The Abschnittsbefestigung Weinberg, located in the heart of Treuchtlingen, Middle Franconia, Germany, is an intriguing fortification that encapsulates both..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

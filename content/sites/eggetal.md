@@ -3,7 +3,7 @@ title: "Eggetal"
 site_name: "Eggetal"
 date: 2026-01-26
 draft: false
-description: "Valley in Germany"
+description: "Eggetal is a captivating valley located in the Melle region of Germany, characterized by its serene landscape and tranquil ambiance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

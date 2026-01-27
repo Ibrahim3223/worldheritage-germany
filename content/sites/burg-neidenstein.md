@@ -3,7 +3,7 @@ title: "Burg Neidenstein"
 site_name: "Burg Neidenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neidenstein, a historic castle located in the picturesque region of Neidenstein, Germany, stands as a remarkable example of medieval architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

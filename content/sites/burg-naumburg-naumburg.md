@@ -3,7 +3,7 @@ title: "Burg Naumburg (Naumburg)"
 site_name: "Burg Naumburg (Naumburg)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Naumburg, located in the heart of Germany's Naumburg region, is a striking example of medieval architecture and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

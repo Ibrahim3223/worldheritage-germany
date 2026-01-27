@@ -3,7 +3,7 @@ title: "Augustinerchorfrauenstift Andernach"
 site_name: "Augustinerchorfrauenstift Andernach"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kloster in Deutschland"
+description: "The Augustinerchorfrauenstift Andernach, located in the historical town of Andernach, Germany, is a former monastery that reflects a significant chapter in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

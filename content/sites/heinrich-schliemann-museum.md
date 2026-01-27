@@ -3,7 +3,7 @@ title: "Heinrich-Schliemann-Museum"
 site_name: "Heinrich-Schliemann-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Ankershagen, Germany"
+description: "The Heinrich-Schliemann-Museum, located in the quaint village of Ankershagen, Germany, serves as a poignant reminder of one man's ambition to uncover the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

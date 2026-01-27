@@ -3,7 +3,7 @@ title: "Druckmuseum/Haus für Industriekultur"
 site_name: "Druckmuseum/Haus für Industriekultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Druckmuseum/Haus für Industriekultur, located in the heart of Darmstadt, Germany, is a museum dedicated to the fascinating world of printing and industrial..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Propsteikirche, Dortmund"
 site_name: "Propsteikirche, Dortmund"
 date: 2026-01-26
 draft: false
-description: "Catholic Gothic former abbey church in Dortmund"
+description: "The Propsteikirche in Dortmund presents a striking example of Gothic architecture, drawing visitors with its historical significance and architectural beauty."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

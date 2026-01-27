@@ -3,7 +3,7 @@ title: "ZEISS Forum and Museum of Optics"
 site_name: "ZEISS Forum and Museum of Optics"
 date: 2026-01-26
 draft: false
-description: "museum of microscopy, in Germany"
+description: "In the heart of Oberkochen, Germany, the ZEISS Forum and Museum of Optics stands as a significant institution dedicated to the fascinating world of microscopy."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

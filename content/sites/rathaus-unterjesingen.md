@@ -3,7 +3,7 @@ title: "Rathaus Unterjesingen"
 site_name: "Rathaus Unterjesingen"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Gebäude in Tübingen-Unterjesingen"
+description: "Rathaus Unterjesingen, located in the charming suburb of Unterjesingen within the larger city of Tübingen, Germany, serves as a significant landmark that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

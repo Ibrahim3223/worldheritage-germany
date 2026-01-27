@@ -3,7 +3,7 @@ title: "Ziegenhelle"
 site_name: "Ziegenhelle"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Ziegenhelle, a prominent mountain located in the Hochsauerlandkreis region of Germany, is a destination that captures both the natural beauty and outdoor..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

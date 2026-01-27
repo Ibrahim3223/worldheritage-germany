@@ -3,7 +3,7 @@ title: "Burg Lohr"
 site_name: "Burg Lohr"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lohr, a captivating castle located in the Crailsheim region of Germany, offers visitors a glimpse into the architectural and cultural legacy of the area."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

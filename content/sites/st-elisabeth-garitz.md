@@ -3,7 +3,7 @@ title: "St. Elisabeth Garitz"
 site_name: "St. Elisabeth Garitz"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Franconia, Bavaria state, Germany"
+description: "St. Elisabeth Garitz stands as a notable example of ecclesiastical architecture in the heart of Lower Franconia, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

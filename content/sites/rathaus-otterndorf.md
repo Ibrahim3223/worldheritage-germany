@@ -3,7 +3,7 @@ title: "Rathaus Otterndorf"
 site_name: "Rathaus Otterndorf"
 date: 2026-01-26
 draft: false
-description: "building in Otterndorf, Lower Saxony"
+description: "Rathaus Otterndorf, the historic city hall of Otterndorf in Lower Saxony, Germany, serves as a focal point of civic life in this quaint town."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

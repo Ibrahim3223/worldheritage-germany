@@ -3,7 +3,7 @@ title: "Kunsthalle Portikus"
 site_name: "Kunsthalle Portikus"
 date: 2026-01-26
 draft: false
-description: "former building in Frankfurt am Main, Germany"
+description: "Kunsthalle Portikus, an esteemed art museum located in the heart of Frankfurt am Main, Germany, stands as a significant cultural institution dedicated to..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

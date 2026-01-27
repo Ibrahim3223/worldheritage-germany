@@ -3,7 +3,7 @@ title: "Stadttheater Rüsselsheim"
 site_name: "Stadttheater Rüsselsheim"
 date: 2026-01-26
 draft: false
-description: "theatre in Rüsselsheim, Hesse, Germany"
+description: "Stadttheater Rüsselsheim is a significant cultural landmark located in Rüsselsheim am Main, Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

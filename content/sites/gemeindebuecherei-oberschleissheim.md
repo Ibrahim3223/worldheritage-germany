@@ -3,7 +3,7 @@ title: "Gemeindebücherei Oberschleißheim"
 site_name: "Gemeindebücherei Oberschleißheim"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Oberschleißheim, Germany, the Gemeindebücherei Oberschleißheim serves as a vital cultural and educational resource."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Weserburg"
 site_name: "Weserburg"
 date: 2026-01-26
 draft: false
-description: "Bremen's museum of modern art"
+description: "In the heart of Bremen, Germany, the Weserburg stands as a prominent institution dedicated to modern art, attracting visitors with its innovative..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

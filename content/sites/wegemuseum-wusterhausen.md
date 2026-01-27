@@ -3,7 +3,7 @@ title: "Wegemuseum Wusterhausen"
 site_name: "Wegemuseum Wusterhausen"
 date: 2026-01-26
 draft: false
-description: "heritage institution"
+description: "Wegemuseum Wusterhausen is a notable heritage institution located in the serene region of Wusterhausen/Dosse, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

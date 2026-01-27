@@ -3,7 +3,7 @@ title: "Synagogue Dornum"
 site_name: "Synagogue Dornum"
 date: 2026-01-26
 draft: false
-description: "ehemalige deutsche Synagoge"
+description: "In the heart of Dornum, Germany, the Synagogue Dornum stands as an important cultural and historical site."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

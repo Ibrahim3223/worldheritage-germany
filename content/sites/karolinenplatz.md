@@ -3,7 +3,7 @@ title: "Karolinenplatz"
 site_name: "Karolinenplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Maxvorstadt, Germany"
+description: "Karolinenplatz is a vibrant public square located in the heart of Maxvorstadt, a district in Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

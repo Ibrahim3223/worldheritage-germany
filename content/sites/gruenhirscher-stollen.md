@@ -3,7 +3,7 @@ title: "Grünhirscher Stollen"
 site_name: "Grünhirscher Stollen"
 date: 2026-01-26
 draft: false
-description: "mine drainage passage in Lower Saxony, Germany"
+description: "Grünhirscher Stollen is a fascinating water drainage gallery located in Braunlage, Germany, that showcases the ingenuity of historical mining engineering."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Water Drainage Gallery"

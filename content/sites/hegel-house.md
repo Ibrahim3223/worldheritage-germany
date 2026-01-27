@@ -3,7 +3,7 @@ title: "Hegel House"
 site_name: "Hegel House"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hegel House stands as an important cultural institution in Stuttgart, Germany, dedicated to the life and work of the renowned German philosopher Georg..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

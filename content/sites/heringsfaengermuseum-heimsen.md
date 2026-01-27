@@ -3,7 +3,7 @@ title: "Heringsfängermuseum Heimsen"
 site_name: "Heringsfängermuseum Heimsen"
 date: 2026-01-26
 draft: false
-description: "museum in Petershagen, Germany"
+description: "Located in Petershagen, Germany, the Heringsfängermuseum Heimsen offers visitors a unique glimpse into the fishing traditions of the region, particularly..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

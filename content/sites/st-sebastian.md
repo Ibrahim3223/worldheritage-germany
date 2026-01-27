@@ -3,7 +3,7 @@ title: "St. Sebastian"
 site_name: "St. Sebastian"
 date: 2026-01-26
 draft: false
-description: "church in Munich"
+description: "In the heart of Munich, St. Sebastian stands as a significant church building, showcasing the architectural elegance and cultural heritage of this vibrant city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

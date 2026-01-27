@@ -3,7 +3,7 @@ title: "Alsterfontaine"
 site_name: "Alsterfontaine"
 date: 2026-01-26
 draft: false
-description: "fountain in Hamburg, Germany"
+description: "The Alsterfontaine, a distinguished fountain located in the heart of Hamburg, Germany, serves as a captivating focal point within the bustling district of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"

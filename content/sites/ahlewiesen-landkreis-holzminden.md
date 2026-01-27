@@ -3,7 +3,7 @@ title: "Ahlewiesen (Landkreis Holzminden)"
 site_name: "Ahlewiesen (Landkreis Holzminden)"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ahlewiesen, located in the Landkreis Holzminden region of Lower Saxony, Germany, is a nature reserve that showcases the delicate interplay between human..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

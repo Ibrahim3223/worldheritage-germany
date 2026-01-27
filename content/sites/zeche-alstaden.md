@@ -3,7 +3,7 @@ title: "Zeche Alstaden"
 site_name: "Zeche Alstaden"
 date: 2026-01-26
 draft: false
-description: "former coal mine in Oberhausen, Germany"
+description: "Zeche Alstaden is a significant cultural landmark located in Oberhausen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

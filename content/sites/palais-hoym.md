@@ -3,7 +3,7 @@ title: "Palais Hoym"
 site_name: "Palais Hoym"
 date: 2026-01-26
 draft: false
-description: "demolsihed building in Dresden, Saxony, Germany"
+description: "Palais Hoym, a palace that once graced the city of Dresden, Germany, was an emblem of grandeur and refinement in the heart of Saxony."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

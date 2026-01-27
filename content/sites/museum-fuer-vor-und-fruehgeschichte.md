@@ -3,7 +3,7 @@ title: "Museum für Vor- und Frühgeschichte"
 site_name: "Museum für Vor- und Frühgeschichte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Vor- und Frühgeschichte, located in Saarbrücken, Germany, offers visitors a unique opportunity to explore the artifacts and narratives of..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

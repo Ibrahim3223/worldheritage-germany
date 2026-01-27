@@ -3,7 +3,7 @@ title: "Bergwiesengesellschaften bei Hohegeiß"
 site_name: "Bergwiesengesellschaften bei Hohegeiß"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bergwiesengesellschaften bei Hohegeiß is a notable nature reserve located in the scenic region of Braunlage, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

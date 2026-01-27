@@ -3,7 +3,7 @@ title: "synagogue Zündorf"
 site_name: "synagogue Zündorf"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Cologne, Germany"
+description: "The synagogue Zündorf, a notable historical site in Cologne, Germany, represents a significant chapter in the region's Jewish heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

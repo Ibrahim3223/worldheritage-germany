@@ -3,7 +3,7 @@ title: "Observation Post Alpha"
 site_name: "Observation Post Alpha"
 date: 2026-01-26
 draft: false
-description: "observation Post overlooking the inner German border"
+description: "Observation Post Alpha is a poignant memorial situated in the Rasdorf region of Germany, overlooking the former inner German border."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

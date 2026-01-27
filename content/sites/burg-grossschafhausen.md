@@ -3,7 +3,7 @@ title: "Burg Großschafhausen"
 site_name: "Burg Großschafhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Großschafhausen, a striking castle located in the quaint region of Schwendi, Germany, stands as a prominent marker of the area's rich historical narrative."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

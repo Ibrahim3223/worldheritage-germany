@@ -3,7 +3,7 @@ title: "MehlWelten Museum"
 site_name: "MehlWelten Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The MehlWelten Museum in Wittenburg, Germany, offers a unique exploration of the world of flour and its cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

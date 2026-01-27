@@ -3,7 +3,7 @@ title: "Brauerei Lüdde"
 site_name: "Brauerei Lüdde"
 date: 2026-01-26
 draft: false
-description: "timber framed house"
+description: "Brauerei Lüdde is not just a brewery; it is a cultural landmark located in the heart of Quedlinburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

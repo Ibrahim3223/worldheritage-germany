@@ -3,7 +3,7 @@ title: "Haus Martfeld"
 site_name: "Haus Martfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus Martfeld, located in the heart of Schwelm, Germany, serves as a prominent museum that encapsulates the cultural and historical essence of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Selimiye Camii Gundelsheim"
 site_name: "Selimiye Camii Gundelsheim"
 date: 2026-01-26
 draft: false
-description: "Moschee in Gundelsheim, Landkreis Heilbronn, Baden-Württemberg, Deutschland"
+description: "Located in the picturesque town of Gundelsheim, in the Landkreis Heilbronn of Baden-Württemberg, Germany, the Selimiye Camii stands as a significant..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

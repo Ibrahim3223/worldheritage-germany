@@ -3,7 +3,7 @@ title: "Fernmeldeturm Krefeld"
 site_name: "Fernmeldeturm Krefeld"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Standing tall in the heart of Krefeld, Germany, the Fernmeldeturm Krefeld is a striking telecommunications tower that plays a vital role in the region’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

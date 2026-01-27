@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Dorfstraße 56 (bei) (hinter dem Steigerturm)"
 site_name: "Steindeckerbrücke Dorfstraße 56 (bei) (hinter dem Steigerturm)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Steindeckerbrücke, located in the quaint region of Königshain, Germany, is a bridge that serves both functional and cultural purposes."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

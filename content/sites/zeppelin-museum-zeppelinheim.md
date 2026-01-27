@@ -3,7 +3,7 @@ title: "Zeppelin Museum Zeppelinheim"
 site_name: "Zeppelin Museum Zeppelinheim"
 date: 2026-01-26
 draft: false
-description: "airship museum in Neu-Isenburg at Frankfurt/Main"
+description: "The Zeppelin Museum Zeppelinheim, situated in Neu-Isenburg near Frankfurt/Main, is a dedicated space that explores the fascinating history of airships."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

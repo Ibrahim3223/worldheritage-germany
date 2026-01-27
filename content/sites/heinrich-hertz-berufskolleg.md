@@ -3,7 +3,7 @@ title: "Heinrich-Hertz-Berufskolleg"
 site_name: "Heinrich-Hertz-Berufskolleg"
 date: 2026-01-26
 draft: false
-description: "vocational school in Düsseldorf, Germany"
+description: "Heinrich-Hertz-Berufskolleg, a vocational school located in Düsseldorf, Germany, serves as a significant educational institution in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

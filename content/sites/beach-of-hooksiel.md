@@ -3,7 +3,7 @@ title: "Beach of Hooksiel"
 site_name: "Beach of Hooksiel"
 date: 2026-01-26
 draft: false
-description: "beach in Hooksiel, Germany"
+description: "The Beach of Hooksiel is a captivating coastal destination located in the picturesque Wangerland region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

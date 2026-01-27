@@ -3,7 +3,7 @@ title: "Old Synagogue"
 site_name: "Old Synagogue"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Essen, Germany"
+description: "The Old Synagogue in Essen, Germany, stands as a poignant reminder of the city's Jewish heritage and cultural history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

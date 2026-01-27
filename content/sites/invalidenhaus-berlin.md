@@ -3,7 +3,7 @@ title: "Invalidenhaus Berlin"
 site_name: "Invalidenhaus Berlin"
 date: 2026-01-26
 draft: false
-description: "Haus und spätere Invalidensiedlung in Berlin-Frohnau"
+description: "Invalidenhaus Berlin is a historical foundation located in the district of Frohnau in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

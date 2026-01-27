@@ -3,7 +3,7 @@ title: "Şehitlik-Moschee"
 site_name: "Şehitlik-Moschee"
 date: 2026-01-26
 draft: false
-description: "mosque in Berlin, Germany"
+description: "The Şehitlik-Moschee, located in the Neukölln district of Berlin, serves as a significant cultural and religious symbol for the Islamic community in Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "St.Johns church Meldorf"
 site_name: "St.Johns church Meldorf"
 date: 2026-01-26
 draft: false
-description: "church church building in Schleswig-Holstein state, Germany"
+description: "St. John's Church in Meldorf, located in the Schleswig-Holstein state of Germany, is an intriguing example of religious architecture that reflects both the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

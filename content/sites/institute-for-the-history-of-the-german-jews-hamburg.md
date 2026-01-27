@@ -3,7 +3,7 @@ title: "Institute for the History of the German Jews, Hamburg"
 site_name: "Institute for the History of the German Jews, Hamburg"
 date: 2026-01-26
 draft: false
-description: "Stiftung bürgerlichen Rechts in Trägerschaft der Freien und Hansestadt Hamburg"
+description: "In the heart of Hamburg, the Institute for the History of the German Jews serves as a vital repository of knowledge and cultural heritage, dedicated to..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

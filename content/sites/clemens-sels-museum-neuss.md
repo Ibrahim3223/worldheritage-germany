@@ -3,7 +3,7 @@ title: "Clemens Sels Museum Neuss"
 site_name: "Clemens Sels Museum Neuss"
 date: 2026-01-26
 draft: false
-description: "art and local museum in Neuss, Germany"
+description: "Clemens Sels Museum Neuss offers a captivating glimpse into the world of art and local culture within a charming German town."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Germaniadenkmal in Dresden"
 site_name: "Germaniadenkmal in Dresden"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Denkmal in Dresden, Sachsen"
+description: "The Germaniadenkmal, once a prominent monument in the heart of Dresden, Germany, stands as a significant cultural marker reflecting the history and identity..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

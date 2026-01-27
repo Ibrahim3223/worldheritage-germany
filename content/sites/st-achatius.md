@@ -3,7 +3,7 @@ title: "St. Achatius"
 site_name: "St. Achatius"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Achatius stands as a prominent ecclesiastical structure in Mainz, Germany, embodying the spiritual heritage and architectural grandeur of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

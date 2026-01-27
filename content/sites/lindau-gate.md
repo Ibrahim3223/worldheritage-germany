@@ -3,7 +3,7 @@ title: "Lindau gate"
 site_name: "Lindau gate"
 date: 2026-01-26
 draft: false
-description: "city gate in Memmingen, Germany"
+description: "The Lindau Gate, a prominent city gate located in Memmingen, Germany, is a significant historical landmark that reflects the city's medieval heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"

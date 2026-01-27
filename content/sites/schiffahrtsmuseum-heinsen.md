@@ -3,7 +3,7 @@ title: "Schiffahrtsmuseum Heinsen"
 site_name: "Schiffahrtsmuseum Heinsen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schiffahrtsmuseum Heinsen, located in the quaint village of Heinsen, Germany, offers visitors a unique glimpse into the maritime heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "old city hall Höchst"
 site_name: "old city hall Höchst"
 date: 2026-01-26
 draft: false
-description: "former city hall in Frankfurt"
+description: "The Old City Hall in Höchst, a former administrative center in Frankfurt, embodies the historical and cultural essence of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Klecks Theater Hannover"
 site_name: "Klecks Theater Hannover"
 date: 2026-01-26
 draft: false
-description: "theatre building in Hannover, Germany"
+description: "Klecks Theater in Hannover, Germany, is a vibrant hub of artistic expression, showcasing the city’s commitment to the performing arts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

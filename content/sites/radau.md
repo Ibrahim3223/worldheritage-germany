@@ -3,7 +3,7 @@ title: "Radau"
 site_name: "Radau"
 date: 2026-01-26
 draft: false
-description: "river in Germany"
+description: "Radau is a captivating waterfall located in the scenic region of Bad Harzburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

@@ -3,7 +3,7 @@ title: "Neue Galerie im Höhmannhaus"
 site_name: "Neue Galerie im Höhmannhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Neue Galerie im Höhmannhaus, an art museum located in the heart of Augsburg, Germany, invites visitors to explore a curated collection that reflects the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

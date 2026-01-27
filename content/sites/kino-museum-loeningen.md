@@ -3,7 +3,7 @@ title: "Kino-Museum Löningen"
 site_name: "Kino-Museum Löningen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tucked away in the charming town of Löningen, Germany, the Kino-Museum Löningen offers a unique glimpse into the world of cinema and its evolution over time."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

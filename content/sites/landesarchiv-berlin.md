@@ -3,7 +3,7 @@ title: "Landesarchiv Berlin"
 site_name: "Landesarchiv Berlin"
 date: 2026-01-26
 draft: false
-description: "central state archive of Berlin"
+description: "The Landesarchiv Berlin serves as the central state archive of Berlin, preserving the city's extensive historical records and documents."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

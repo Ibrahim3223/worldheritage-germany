@@ -3,7 +3,7 @@ title: "Stiftung Zanders--Papiergeschichtliche Sammlung"
 site_name: "Stiftung Zanders--Papiergeschichtliche Sammlung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Stiftung Zanders--Papiergeschichtliche Sammlung, located in North Rhine-Westphalia, Germany, is a unique foundation dedicated to the history and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

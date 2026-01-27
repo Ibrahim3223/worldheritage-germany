@@ -3,7 +3,7 @@ title: "St.-Simeon-Kirche"
 site_name: "St.-Simeon-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Simeon-Kirche, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, stands as a prominent church building that captures both the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

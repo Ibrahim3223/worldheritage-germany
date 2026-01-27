@@ -3,7 +3,7 @@ title: "Japanisches Palais"
 site_name: "Japanisches Palais"
 date: 2026-01-26
 draft: false
-description: "building in Dresden"
+description: "The Japanisches Palais, an architectural gem located in Dresden, Germany, invites visitors to explore its elegant design and historical significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

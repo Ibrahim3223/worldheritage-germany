@@ -3,7 +3,7 @@ title: "Museum der Westlausitz zu Kamenz"
 site_name: "Museum der Westlausitz zu Kamenz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der Westlausitz zu Kamenz offers a fascinating glimpse into the cultural landscape of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

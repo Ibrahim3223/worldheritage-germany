@@ -3,7 +3,7 @@ title: "Ahekapelle"
 site_name: "Ahekapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Ahekapelle is a charming chapel located in the picturesque region of Nettersheim, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

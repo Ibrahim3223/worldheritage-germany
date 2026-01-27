@@ -3,7 +3,7 @@ title: "Makroscope"
 site_name: "Makroscope"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Makroscope in Mülheim an der Ruhr serves as a distinctive cultural landmark, inviting visitors to explore the realms of knowledge and art through its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

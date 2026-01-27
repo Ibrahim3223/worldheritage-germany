@@ -3,7 +3,7 @@ title: "Palais der Sekundogenitur"
 site_name: "Palais der Sekundogenitur"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "The Palais der Sekundogenitur, an elegant palace located in Dresden, Germany, is a remarkable example of historical architecture that embodies the cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

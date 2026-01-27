@@ -3,7 +3,7 @@ title: "Altes Schloss Dornburg"
 site_name: "Altes Schloss Dornburg"
 date: 2026-01-26
 draft: false
-description: "palace in Dornburg, Thuringia, Germany"
+description: "Altes Schloss Dornburg, a magnificent palace located in the charming region of Dornburg-Camburg, Germany, is a site that draws visitors with its historical..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Reinhard-Keiser-Gedenkstätte"
 site_name: "Reinhard-Keiser-Gedenkstätte"
 date: 2026-01-26
 draft: false
-description: "museum in Teuchern, Germany"
+description: "The Reinhard-Keiser-Gedenkstätte, located in the quaint town of Teuchern, Germany, serves as a dedicated museum honoring the life and contributions of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

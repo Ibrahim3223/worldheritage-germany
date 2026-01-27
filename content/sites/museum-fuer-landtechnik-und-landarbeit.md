@@ -3,7 +3,7 @@ title: "Museum für Landtechnik und Landarbeit"
 site_name: "Museum für Landtechnik und Landarbeit"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Landtechnik und Landarbeit, located in the charming town of Börry, Germany, is dedicated to the fascinating world of agricultural technology..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

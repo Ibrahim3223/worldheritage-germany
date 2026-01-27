@@ -3,7 +3,7 @@ title: "Stadtmuseum Pforzheim"
 site_name: "Stadtmuseum Pforzheim"
 date: 2026-01-26
 draft: false
-description: "building in Pforzheim, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "The Stadtmuseum Pforzheim, located in the heart of Pforzheim in the Karlsruhe Government Region of Baden-Württemberg, Germany, serves as a cultural hub that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

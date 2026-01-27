@@ -3,7 +3,7 @@ title: "Bierpinsel"
 site_name: "Bierpinsel"
 date: 2026-01-26
 draft: false
-description: "restaurant tower in Berlin-Steglitz, Germany"
+description: "The Bierpinsel, an iconic tower located in the Berlin-Steglitz district, stands out not only for its unique architectural style but also for the cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tower"

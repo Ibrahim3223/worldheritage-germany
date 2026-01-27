@@ -3,7 +3,7 @@ title: "Oberhausmuseum"
 site_name: "Oberhausmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Passau, Germany"
+description: "The Oberhausmuseum is a prominent cultural institution located in Passau, Germany, offering visitors a unique glimpse into the region's history and heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

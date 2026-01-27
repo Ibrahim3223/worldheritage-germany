@@ -3,7 +3,7 @@ title: "Freie Waldorfschule Leipzig"
 site_name: "Freie Waldorfschule Leipzig"
 date: 2026-01-26
 draft: false
-description: "school in Leipzig, Germany"
+description: "Freie Waldorfschule Leipzig is a distinctive educational institution situated in the vibrant city of Leipzig, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

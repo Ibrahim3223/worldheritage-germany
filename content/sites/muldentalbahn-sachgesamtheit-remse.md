@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit) Remse"
 site_name: "Muldentalbahn (Sachgesamtheit) Remse"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn (Sachgesamtheit) in Remse is a bridge that stands as a significant representation of engineering and transportation history in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Burg Großfurra"
 site_name: "Burg Großfurra"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Located in the heart of Sondershausen, Burg Großfurra is a striking castle that captures the imagination of history enthusiasts and casual visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

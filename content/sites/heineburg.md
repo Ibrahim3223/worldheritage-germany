@@ -3,7 +3,7 @@ title: "Heineburg"
 site_name: "Heineburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Heineburg, a captivating castle located in the scenic region of Fischbeck along the Weser River in Germany, offers a unique glimpse into the medieval..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

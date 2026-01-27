@@ -3,7 +3,7 @@ title: "Bieberer Berg"
 site_name: "Bieberer Berg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bieberer Berg, a prominent mountain located in Offenbach am Main, Germany, stands as a significant landmark in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Quelkhorn windmill"
 site_name: "Quelkhorn windmill"
 date: 2026-01-26
 draft: false
-description: "windmill in Lower Saxony"
+description: "The Quelkhorn windmill, located in the serene region of Ottersberg, Germany, is a captivating example of traditional windmill architecture in Lower Saxony."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

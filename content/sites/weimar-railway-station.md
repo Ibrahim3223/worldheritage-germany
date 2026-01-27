@@ -3,7 +3,7 @@ title: "Weimar railway station"
 site_name: "Weimar railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Thuringia Germany"
+description: "Weimar railway station serves as a pivotal transit hub in the heart of Thuringia, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Railway Station"

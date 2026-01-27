@@ -3,7 +3,7 @@ title: "Rudolf-August Oetker-Stiftung"
 site_name: "Rudolf-August Oetker-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Rudolf-August Oetker-Stiftung, located in the heart of North Rhine-Westphalia, Germany, is a foundation that holds significant cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

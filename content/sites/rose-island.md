@@ -3,7 +3,7 @@ title: "Rose Island"
 site_name: "Rose Island"
 date: 2026-01-26
 draft: false
-description: "island in Lake Starnberg, Feldafing, Germany"
+description: "Rose Island, an archaeological site located in the picturesque Lake Starnberg near Feldafing, Germany, offers visitors a unique glimpse into the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

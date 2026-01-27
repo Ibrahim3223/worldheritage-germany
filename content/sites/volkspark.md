@@ -3,7 +3,7 @@ title: "Volkspark"
 site_name: "Volkspark"
 date: 2026-01-26
 draft: false
-description: "multi-purpose event hall in Halle (Saale), Saxony-Anhalt, Germany"
+description: "Volkspark is a multi-purpose event hall located in Halle (Saale), Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

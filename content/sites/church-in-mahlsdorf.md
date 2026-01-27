@@ -3,7 +3,7 @@ title: "Church in Mahlsdorf"
 site_name: "Church in Mahlsdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Salzwedel, Saxony-Anhalt, Germany"
+description: "The Church in Mahlsdorf, located in the Salzwedel region of Saxony-Anhalt, Germany, is a captivating example of ecclesiastical architecture that reflects..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Ernst Thälmann memorial"
 site_name: "Ernst Thälmann memorial"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Berlin, Germany"
+description: "The Ernst Thälmann Memorial, an architectural structure located in the heart of Pankow, Berlin, serves as a poignant reminder of Germany's complex political..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

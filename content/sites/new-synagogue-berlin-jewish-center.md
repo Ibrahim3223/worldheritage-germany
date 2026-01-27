@@ -3,7 +3,7 @@ title: "New Synagogue Berlin - Jewish Center"
 site_name: "New Synagogue Berlin - Jewish Center"
 date: 2026-01-26
 draft: false
-description: "Foundation, museum, educational institution, archive in Berlin, Germany"
+description: "The New Synagogue Berlin - Jewish Center stands as a pivotal institution in Germany's cultural and historical landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

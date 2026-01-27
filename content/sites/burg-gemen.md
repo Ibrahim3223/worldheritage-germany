@@ -3,7 +3,7 @@ title: "Burg Gemen"
 site_name: "Burg Gemen"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Gemen, a captivating castle located in the Borken region of Germany, offers visitors a glimpse into the architectural and cultural heritage of the area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

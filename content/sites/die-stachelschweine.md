@@ -3,7 +3,7 @@ title: "Die Stachelschweine"
 site_name: "Die Stachelschweine"
 date: 2026-01-26
 draft: false
-description: "theater in Berlin, Germany"
+description: "Die Stachelschweine is a prominent theatre building located in the vibrant city of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

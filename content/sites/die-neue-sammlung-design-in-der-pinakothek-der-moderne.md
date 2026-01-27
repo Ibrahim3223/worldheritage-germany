@@ -3,7 +3,7 @@ title: "Die Neue Sammlung. Design in der Pinakothek der Moderne"
 site_name: "Die Neue Sammlung. Design in der Pinakothek der Moderne"
 date: 2026-01-26
 draft: false
-description: "exhibition at the Pinakothek der Moderne, Munich, Germany"
+description: "Die Neue Sammlung. Design in der Pinakothek der Moderne, located in Munich, Germany, serves as an essential destination for enthusiasts of design and modern..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

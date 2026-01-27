@@ -3,7 +3,7 @@ title: "St. Willehad"
 site_name: "St. Willehad"
 date: 2026-01-26
 draft: false
-description: "church building in Wilhelmshaven, Germany"
+description: "In the heart of Wilhelmshaven, Germany, lies a remarkable church building known as St."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

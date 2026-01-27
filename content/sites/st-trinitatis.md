@@ -3,7 +3,7 @@ title: "St. Trinitatis"
 site_name: "St. Trinitatis"
 date: 2026-01-26
 draft: false
-description: "church building in Warlitz, Germany"
+description: "St. Trinitatis, located in the quaint region of Warlitz, Germany, is an exquisite church building that captures the essence of local heritage and spirituality."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

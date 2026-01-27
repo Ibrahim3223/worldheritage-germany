@@ -3,7 +3,7 @@ title: "Burg Ehrenfels"
 site_name: "Burg Ehrenfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on the banks of the scenic Rhine River, Burg Ehrenfels is an archaeological site that invites visitors to explore the remnants of its storied past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Berlin Adorant"
 site_name: "Berlin Adorant"
 date: 2026-01-26
 draft: false
-description: "antique bronze statue, Altes Museum, Berlin, Germany"
+description: "In the heart of Berlin, a city famed for its vibrant history and culture, lies a remarkable bronze statue known as the Berlin Adorant."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Rheinisches Eisenkunstguss-Museum"
 site_name: "Rheinisches Eisenkunstguss-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rheinisches Eisenkunstguss-Museum, located in Bendorf, Germany, invites visitors to explore the fascinating world of iron art casting."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

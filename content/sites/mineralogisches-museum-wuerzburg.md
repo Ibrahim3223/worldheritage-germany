@@ -3,7 +3,7 @@ title: "Mineralogisches Museum Würzburg"
 site_name: "Mineralogisches Museum Würzburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Mineralogisches Museum Würzburg, located in the heart of the charming city of Würzburg, Germany, offers an intriguing glimpse into the world of minerals..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

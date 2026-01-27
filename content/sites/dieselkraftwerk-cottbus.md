@@ -3,7 +3,7 @@ title: "Dieselkraftwerk Cottbus"
 site_name: "Dieselkraftwerk Cottbus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dieselkraftwerk Cottbus, an intriguing art museum located in the heart of Cottbus, Germany, serves as a platform for contemporary artists while..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Grundschule am Agilolfingerplatz"
 site_name: "Grundschule am Agilolfingerplatz"
 date: 2026-01-26
 draft: false
-description: "primary school and architectural structure in Munich, Germany"
+description: "In the heart of Munich, Germany, the Grundschule am Agilolfingerplatz stands as a notable example of modern educational architecture, reflecting the city's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"

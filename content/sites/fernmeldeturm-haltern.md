@@ -3,7 +3,7 @@ title: "Fernmeldeturm Haltern"
 site_name: "Fernmeldeturm Haltern"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Haltern, situated in Haltern am See, Germany, is a striking communications tower that serves as a significant landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

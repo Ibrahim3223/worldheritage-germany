@@ -3,7 +3,7 @@ title: "Gedenkstätte Bautzen"
 site_name: "Gedenkstätte Bautzen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gedenkstätte Bautzen, located in the historic town of Bautzen, Germany, serves as a poignant museum dedicated to preserving and interpreting the region's..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

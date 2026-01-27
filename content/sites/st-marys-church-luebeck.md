@@ -3,7 +3,7 @@ title: "St. Mary's Church Lübeck"
 site_name: "St. Mary's Church Lübeck"
 date: 2026-01-26
 draft: false
-description: "church in Lübeck, Germany"
+description: "St. Mary's Church, or Marienkirche, is a remarkable church building located in the heart of Lübeck's Old City, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Evangelische Stiftung Volmarstein"
 site_name: "Evangelische Stiftung Volmarstein"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "Evangelische Stiftung Volmarstein is a foundation located in the historic region of Volmarstein, Germany, that serves a vital role in supporting social..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

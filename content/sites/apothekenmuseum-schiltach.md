@@ -3,7 +3,7 @@ title: "Apothekenmuseum Schiltach"
 site_name: "Apothekenmuseum Schiltach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Apothekenmuseum Schiltach, located in the picturesque town of Schiltach, Germany, serves as a captivating portal into the world of pharmacy and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

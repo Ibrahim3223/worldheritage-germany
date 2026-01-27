@@ -3,7 +3,7 @@ title: "Deserteurdenkmal (Bernau bei Berlin)"
 site_name: "Deserteurdenkmal (Bernau bei Berlin)"
 date: 2026-01-26
 draft: false
-description: "monument in Bernau bei Berlin, Brandenburg, Germany"
+description: "The Deserteurdenkmal, located in Bernau bei Berlin, is a poignant monument dedicated to the memory of those who resisted military service in the former..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

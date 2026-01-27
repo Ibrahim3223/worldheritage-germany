@@ -3,7 +3,7 @@ title: "Zeche Braunschweig"
 site_name: "Zeche Braunschweig"
 date: 2026-01-26
 draft: false
-description: "former coal mine in Witten, North Rhine-Westfalia, Germany"
+description: "Zeche Braunschweig, a former coal mine located in Witten, North Rhine-Westphalia, Germany, offers a unique glimpse into the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

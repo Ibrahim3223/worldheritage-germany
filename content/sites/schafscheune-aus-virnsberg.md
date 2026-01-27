@@ -3,7 +3,7 @@ title: "Schafscheune aus Virnsberg"
 site_name: "Schafscheune aus Virnsberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Germany's picturesque Bad Windsheim region lies the Schafscheune aus Virnsberg, a museum that invites visitors to explore the agricultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Theresia (Rhens)"
 site_name: "St. Theresia (Rhens)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Rhens"
+description: "St. Theresia, located in the quaint town of Rhens, Germany, is a distinguished church building that encapsulates the spiritual essence of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

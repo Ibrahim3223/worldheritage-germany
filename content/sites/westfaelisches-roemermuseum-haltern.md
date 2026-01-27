@@ -3,7 +3,7 @@ title: "Westfälisches Römermuseum Haltern"
 site_name: "Westfälisches Römermuseum Haltern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Westfälisches Römermuseum Haltern invites visitors to explore the remnants of a vibrant Roman past that once thrived in what is now Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Cologne Mülheim Protestant Cemetery"
 site_name: "Cologne Mülheim Protestant Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Cologne, Germany"
+description: "Cologne Mülheim Protestant Cemetery serves as a serene resting place in the bustling district of Mülheim, Germany, reflecting the cultural nuances of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

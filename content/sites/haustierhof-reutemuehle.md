@@ -3,7 +3,7 @@ title: "Haustierhof Reutemühle"
 site_name: "Haustierhof Reutemühle"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Haustierhof Reutemühle is a unique zoo located in the charming town of Überlingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

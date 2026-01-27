@@ -3,7 +3,7 @@ title: "Villa Zanders"
 site_name: "Villa Zanders"
 date: 2026-01-26
 draft: false
-description: "villa"
+description: "Villa Zanders is an intriguing art museum located in the heart of Bergisch Gladbach, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Afghan Museum"
 site_name: "Afghan Museum"
 date: 2026-01-26
 draft: false
-description: "private museum of culture and cultural history of Afghanistan"
+description: "The Afghan Museum in Hamburg-Mitte offers a unique glimpse into the culture and history of Afghanistan, presenting visitors with a curated experience that..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

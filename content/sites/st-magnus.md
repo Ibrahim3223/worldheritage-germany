@@ -3,7 +3,7 @@ title: "St. Magnus"
 site_name: "St. Magnus"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Magnus, a church building located in the serene region of Marsberg, Germany, represents an important architectural and cultural artifact in the area."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

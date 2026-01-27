@@ -3,7 +3,7 @@ title: "Wibadi-Kirche (Wiegboldsbur)"
 site_name: "Wibadi-Kirche (Wiegboldsbur)"
 date: 2026-01-26
 draft: false
-description: "church building in Südbrookmerland, Germany"
+description: "The Wibadi-Kirche, situated in the charming region of Südbrookmerland, Germany, is a church building that captures the essence of local heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

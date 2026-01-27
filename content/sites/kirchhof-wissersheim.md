@@ -3,7 +3,7 @@ title: "Kirchhof (Wissersheim)"
 site_name: "Kirchhof (Wissersheim)"
 date: 2026-01-26
 draft: false
-description: "monument in Nörvenich, Germany"
+description: "Kirchhof in Wissersheim is a notable monument located in the Nörvenich region of Germany, providing visitors with an insightful glimpse into the area's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

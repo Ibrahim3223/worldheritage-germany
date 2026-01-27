@@ -3,7 +3,7 @@ title: "Löhne (Westf) station"
 site_name: "Löhne (Westf) station"
 date: 2026-01-26
 draft: false
-description: "railway station in Löhne, Germany"
+description: "Löhne (Westf) station serves as a critical junction in the heart of North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

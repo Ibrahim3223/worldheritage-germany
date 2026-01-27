@@ -3,7 +3,7 @@ title: "Leipzig Panometer"
 site_name: "Leipzig Panometer"
 date: 2026-01-26
 draft: false
-description: "former gas storage tank turned into museum"
+description: "In the heart of Leipzig, Germany, lies the Leipzig Panometer, an extraordinary museum that creatively repurposes a former gas storage tank into a unique..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

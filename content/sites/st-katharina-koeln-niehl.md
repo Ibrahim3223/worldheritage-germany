@@ -3,7 +3,7 @@ title: "St. Katharina (Köln-Niehl)"
 site_name: "St. Katharina (Köln-Niehl)"
 date: 2026-01-26
 draft: false
-description: "roman catholic church building in Cologne, Germany"
+description: "St. Katharina, located in Köln-Niehl, is a remarkable example of Roman Catholic architecture in the vibrant city of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

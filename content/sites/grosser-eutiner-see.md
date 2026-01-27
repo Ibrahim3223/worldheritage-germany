@@ -3,7 +3,7 @@ title: "Großer Eutiner See"
 site_name: "Großer Eutiner See"
 date: 2026-01-26
 draft: false
-description: "lake in Eutin, Schleswig-Holstein, Germany"
+description: "Großer Eutiner See, a serene lake located in the charming town of Eutin in Schleswig-Holstein, Germany, serves as a picturesque retreat for those seeking..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

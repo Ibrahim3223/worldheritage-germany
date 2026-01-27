@@ -3,7 +3,7 @@ title: "Lenbachhaus"
 site_name: "Lenbachhaus"
 date: 2026-01-26
 draft: false
-description: "art museum in Munich, Germany"
+description: "Lenbachhaus, an esteemed art museum located in the heart of Munich, Germany, offers a captivating blend of historical architecture and a diverse collection..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

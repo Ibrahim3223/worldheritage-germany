@@ -3,7 +3,7 @@ title: "University Library Paderborn"
 site_name: "University Library Paderborn"
 date: 2026-01-26
 draft: false
-description: "library in Paderborn, Germany"
+description: "The University Library Paderborn stands as a key resource within the academic landscape of Paderborn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

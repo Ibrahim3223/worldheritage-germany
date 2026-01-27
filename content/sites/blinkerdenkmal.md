@@ -3,7 +3,7 @@ title: "Blinkerdenkmal"
 site_name: "Blinkerdenkmal"
 date: 2026-01-26
 draft: false
-description: "Ehrenmal in Jena, Thüringen, Deutschland"
+description: "The Blinkerdenkmal, located in Jena, Germany, is a significant monument that serves as a solemn memorial within the region of Thüringen."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

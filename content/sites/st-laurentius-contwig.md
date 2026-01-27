@@ -3,7 +3,7 @@ title: "St. Laurentius (Contwig)"
 site_name: "St. Laurentius (Contwig)"
 date: 2026-01-26
 draft: false
-description: "church building in Contwig, Germany"
+description: "St. Laurentius in Contwig, Germany, presents a captivating glimpse into the region's ecclesiastical architecture and community heritage."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

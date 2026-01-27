@@ -3,7 +3,7 @@ title: "Hans-Momsen-Haus"
 site_name: "Hans-Momsen-Haus"
 date: 2026-01-26
 draft: false
-description: "building in Dagebüll, Germany"
+description: "Located in the charming coastal village of Dagebüll, Germany, the Hans-Momsen-Haus serves as a cultural treasure, offering visitors a glimpse into the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

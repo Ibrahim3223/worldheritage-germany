@@ -3,7 +3,7 @@ title: "Nikolai Chapel"
 site_name: "Nikolai Chapel"
 date: 2026-01-26
 draft: false
-description: "church ruin in Hanover, Germany"
+description: "In the heart of Hanover, Germany, the Nikolai Chapel presents a poignant glimpse into the remnants of religious architecture and community heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

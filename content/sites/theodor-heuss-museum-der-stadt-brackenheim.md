@@ -3,7 +3,7 @@ title: "Theodor-Heuss-Museum der Stadt Brackenheim"
 site_name: "Theodor-Heuss-Museum der Stadt Brackenheim"
 date: 2026-01-26
 draft: false
-description: "museum in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
+description: "Theodor-Heuss-Museum der Stadt Brackenheim, located in the serene town of Brackenheim in the Heilbronn district of Baden-Württemberg, Germany, offers a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Windmühle Ostersode"
 site_name: "Windmühle Ostersode"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Worpswede"
+description: "Windmühle Ostersode, a historic windmill located in the quaint village of Worpswede, Germany, is a remarkable example of traditional milling architecture."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

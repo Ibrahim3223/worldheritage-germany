@@ -3,7 +3,7 @@ title: "Prater"
 site_name: "Prater"
 date: 2026-01-26
 draft: false
-description: "beergarden and entertainment venue in Berlin, Germany"
+description: "Located in the vibrant district of Pankow in Berlin, Prater is a unique blend of a beer garden and an entertainment venue, making it a popular destination..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

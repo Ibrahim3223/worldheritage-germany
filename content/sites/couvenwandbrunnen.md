@@ -3,7 +3,7 @@ title: "Couvenwandbrunnen"
 site_name: "Couvenwandbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Aachen, Germany"
+description: "The Couvenwandbrunnen, a notable fountain located in Aachen, Germany, invites visitors to explore its charm and cultural significance amidst the vibrant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

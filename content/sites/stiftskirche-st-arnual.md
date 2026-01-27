@@ -3,7 +3,7 @@ title: "Stiftskirche St. Arnual"
 site_name: "Stiftskirche St. Arnual"
 date: 2026-01-26
 draft: false
-description: "church in Saarbrücken, Germany"
+description: "Stiftskirche St. Arnual, located in the heart of Saarbrücken, Germany, stands as a remarkable example of ecclesiastical architecture."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

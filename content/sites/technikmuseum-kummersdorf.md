@@ -3,7 +3,7 @@ title: "Technikmuseum Kummersdorf"
 site_name: "Technikmuseum Kummersdorf"
 date: 2026-01-26
 draft: false
-description: "former museum in Germany"
+description: "Located in Am Mellensee, Germany, the Technikmuseum Kummersdorf is a site of historical significance that showcases the evolution of technology and innovation."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

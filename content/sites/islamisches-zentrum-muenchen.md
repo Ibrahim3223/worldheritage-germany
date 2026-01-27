@@ -3,7 +3,7 @@ title: "Islamisches Zentrum München"
 site_name: "Islamisches Zentrum München"
 date: 2026-01-26
 draft: false
-description: "Zentrum des Islam in München im Stadtbezirk Schwabing-Freimann"
+description: "In the heart of Munich's Schwabing-Freimann district lies the Islamisches Zentrum München, a significant center for the Islamic community in the city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

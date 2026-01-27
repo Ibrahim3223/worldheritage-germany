@@ -3,7 +3,7 @@ title: "Museen der Stadt Regensburg / Städtische Galerie im Leeren Beutel"
 site_name: "Museen der Stadt Regensburg / Städtische Galerie im Leeren Beutel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Situated in the historic city of Regensburg, Germany, the Museen der Stadt Regensburg, particularly the Städtische Galerie im Leeren Beutel, serves as a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-8325-0032 in Grünenbach"
 site_name: "Cultural heritage D-7-8325-0032 in Grünenbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Grünenbach, Lindau, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-8325-0032, located in the quaint village of Grünenbach in Bavaria, Germany, stands as an intriguing example of historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

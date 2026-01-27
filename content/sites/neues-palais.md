@@ -3,7 +3,7 @@ title: "Neues Palais"
 site_name: "Neues Palais"
 date: 2026-01-26
 draft: false
-description: "last residence of the House Hesse in Darmstadt"
+description: "The Neues Palais, an architectural marvel located in Darmstadt, Germany, is not just a palace; it is a significant cultural icon that encapsulates the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

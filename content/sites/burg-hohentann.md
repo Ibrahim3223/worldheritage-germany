@@ -3,7 +3,7 @@ title: "Burg Hohentann"
 site_name: "Burg Hohentann"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the picturesque region of Altusried, Germany, Burg Hohentann is a captivating castle that offers visitors a glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

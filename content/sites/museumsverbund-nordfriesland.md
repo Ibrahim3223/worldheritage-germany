@@ -3,7 +3,7 @@ title: "Museumsverbund Nordfriesland"
 site_name: "Museumsverbund Nordfriesland"
 date: 2026-01-26
 draft: false
-description: "archive organization in Husum, Germany"
+description: "The Museumsverbund Nordfriesland is a cultural institution located in Husum, Germany, that serves as a vibrant hub for exploring the region's rich history..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cultural Institution"

@@ -3,7 +3,7 @@ title: "Maria am Wasser Church"
 site_name: "Maria am Wasser Church"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden, Saxony, Germany"
+description: "Maria am Wasser Church, located in the heart of Dresden, Germany, stands as a noteworthy example of ecclesiastical architecture, embodying the spiritual and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

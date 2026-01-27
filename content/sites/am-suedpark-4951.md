@@ -3,7 +3,7 @@ title: "Am Südpark 49/51"
 site_name: "Am Südpark 49/51"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Köln"
+description: "Am Südpark 49/51, located in the Marienburg district of Cologne, Germany, represents a noteworthy architectural ensemble that captures the essence of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

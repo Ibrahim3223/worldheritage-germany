@@ -3,7 +3,7 @@ title: "Church in Gleschendorf"
 site_name: "Church in Gleschendorf"
 date: 2026-01-26
 draft: false
-description: "church building in Schleswig-Holstein state, Germany"
+description: "The Church in Gleschendorf is a distinguished church building located in the picturesque region of Scharbeutz, Germany, within the state of Schleswig-Holstein."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

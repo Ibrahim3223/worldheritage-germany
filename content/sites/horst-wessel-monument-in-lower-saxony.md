@@ -3,7 +3,7 @@ title: "Horst Wessel monument in Lower Saxony"
 site_name: "Horst Wessel monument in Lower Saxony"
 date: 2026-01-26
 draft: false
-description: "monument in Hamelin, Germany"
+description: "The Horst Wessel monument in Lower Saxony, located in the historic town of Hamelin, serves as a poignant reminder of Germany's complex history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

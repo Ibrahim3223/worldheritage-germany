@@ -3,7 +3,7 @@ title: "Mother of Beethoven House"
 site_name: "Mother of Beethoven House"
 date: 2026-01-26
 draft: false
-description: "house of birth of the mother of Ludwig van Beethoven"
+description: "The Mother of Beethoven House in Koblenz, Germany, offers a unique glimpse into the life of a woman who played a significant role in shaping one of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

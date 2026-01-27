@@ -3,7 +3,7 @@ title: "Christ church (Hamburg-Hamm)"
 site_name: "Christ church (Hamburg-Hamm)"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Christ Church, located in the Hamburg-Hamm district of Hamburg, Germany, is a notable example of ecclesiastical architecture in the region."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

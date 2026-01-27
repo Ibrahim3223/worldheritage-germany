@@ -3,7 +3,7 @@ title: "Naumburg Cathedral and the High Medieval Cultural Landscape of the River
 site_name: "Naumburg Cathedral and the High Medieval Cultural Landscape of the Rivers Saale and Unstrut"
 date: 2026-01-26
 draft: false
-description: "cultural Landscape in Saxony-Anhalt, Germany"
+description: "Naumburg Cathedral and the High Medieval Cultural Landscape of the Rivers Saale and Unstrut is a remarkable cultural landscape located in the Saxony-Anhalt..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Cultural Landscape"

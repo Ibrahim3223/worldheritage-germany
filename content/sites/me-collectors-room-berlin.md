@@ -3,7 +3,7 @@ title: "me Collectors Room Berlin"
 site_name: "me Collectors Room Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the vibrant heart of Berlin, me Collectors Room Berlin serves as a unique destination for art enthusiasts and culture seekers alike."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

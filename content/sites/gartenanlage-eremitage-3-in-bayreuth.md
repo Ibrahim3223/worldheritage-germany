@@ -3,7 +3,7 @@ title: "Gartenanlage Eremitage 3 in Bayreuth"
 site_name: "Gartenanlage Eremitage 3 in Bayreuth"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-62-000-392 (16) in Bayreuth, Bavaria"
+description: "The Gartenanlage Eremitage 3 in Bayreuth is a significant cultural heritage monument located in the heart of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

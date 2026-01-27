@@ -3,7 +3,7 @@ title: "Klingendes Museum Riedenburg"
 site_name: "Klingendes Museum Riedenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Klingendes Museum Riedenburg invites visitors to explore a unique auditory experience within its walls."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

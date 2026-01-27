@@ -3,7 +3,7 @@ title: "Jonakirche"
 site_name: "Jonakirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Jonakirche, a notable church building located in Mannheim, Germany, offers visitors a unique glimpse into the architectural and spiritual heritage of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

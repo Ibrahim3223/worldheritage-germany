@@ -3,7 +3,7 @@ title: "Dorfmuseum Ostheim"
 site_name: "Dorfmuseum Ostheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Ostheim serves as a cultural touchstone in the heart of Ostheim, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

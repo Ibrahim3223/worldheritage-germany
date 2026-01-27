@@ -3,7 +3,7 @@ title: "Fortress Dresden"
 site_name: "Fortress Dresden"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "Fortress Dresden stands as a remarkable fortification in the heart of Dresden, Germany, a city renowned for its rich cultural heritage and historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Fortification"

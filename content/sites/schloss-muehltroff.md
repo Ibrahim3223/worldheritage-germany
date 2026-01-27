@@ -3,7 +3,7 @@ title: "Schloss Mühltroff"
 site_name: "Schloss Mühltroff"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Mühltroff, located in the serene region of Pausa-Mühltroff in Germany, is an architectural marvel that carries echoes of the past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

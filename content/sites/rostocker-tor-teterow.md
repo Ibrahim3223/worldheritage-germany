@@ -3,7 +3,7 @@ title: "Rostocker Tor (Teterow)"
 site_name: "Rostocker Tor (Teterow)"
 date: 2026-01-26
 draft: false
-description: "Stadttor in Teterow"
+description: "The Rostocker Tor, a historic city gate located in Teterow, Germany, is a remarkable example of medieval architecture that has stood the test of time."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

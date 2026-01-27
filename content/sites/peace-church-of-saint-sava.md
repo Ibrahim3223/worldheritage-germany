@@ -3,7 +3,7 @@ title: "Peace Church of Saint Sava"
 site_name: "Peace Church of Saint Sava"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Gesundbrunnen"
+description: "The Peace Church of Saint Sava, located in the heart of Berlin's Gesundbrunnen district, serves as a striking example of modern ecclesiastical architecture."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

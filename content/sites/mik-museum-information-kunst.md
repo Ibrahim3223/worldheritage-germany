@@ -3,7 +3,7 @@ title: "MIK Museum Information Kunst"
 site_name: "MIK Museum Information Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The MIK Museum Information Kunst, located in Ludwigsburg, Germany, invites art enthusiasts and curious travelers alike to immerse themselves in a world..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

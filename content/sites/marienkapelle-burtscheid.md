@@ -3,7 +3,7 @@ title: "Marienkapelle Burtscheid"
 site_name: "Marienkapelle Burtscheid"
 date: 2026-01-26
 draft: false
-description: "church building in Aachen, Germany"
+description: "The Marienkapelle Burtscheid is a significant church building located in the historic district of Aachen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Brückenkopf Jülich"
 site_name: "Brückenkopf Jülich"
 date: 2026-01-26
 draft: false
-description: "park in Jülich, Germany"
+description: "Brückenkopf Jülich, located in the historic town of Jülich, Germany, is a fascinating fortification that invites visitors to explore its storied past and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"

@@ -3,7 +3,7 @@ title: "Deutsches Schützenmuseum"
 site_name: "Deutsches Schützenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the historic town of Coburg, Germany, the Deutsches Schützenmuseum serves as a dedicated space for the exploration and appreciation of shooting..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

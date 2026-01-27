@@ -3,7 +3,7 @@ title: "Alte Burg"
 site_name: "Alte Burg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg, a historic castle located in the Homburg region of Germany, is a captivating site that speaks to the enduring legacy of medieval architecture."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Haynsburg Castle"
 site_name: "Haynsburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Haynsburg, quarter of Wetterzeube, Saxony-Anhalt, Germany"
+description: "Haynsburg Castle, located in the quarter of Haynsburg within Wetterzeube, Saxony-Anhalt, Germany, is a significant historical site that captures the essence..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Markuskirche (Ludwigshafen)"
 site_name: "Markuskirche (Ludwigshafen)"
 date: 2026-01-26
 draft: false
-description: "church building in Ludwigshafen, Germany"
+description: "Markuskirche, located in Ludwigshafen, Germany, is a striking example of modern ecclesiastical architecture that reflects both the spiritual and social..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

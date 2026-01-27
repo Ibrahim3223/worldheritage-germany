@@ -3,7 +3,7 @@ title: "Deutschlandhalle"
 site_name: "Deutschlandhalle"
 date: 2026-01-26
 draft: false
-description: "former sports and multi-purpose hall in Berlin, Germany"
+description: "The Deutschlandhalle, located in the vibrant district of Charlottenburg-Wilmersdorf in Berlin, is a multi-purpose hall that has witnessed significant events..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Junkernhof Meimbressen"
 site_name: "Junkernhof Meimbressen"
 date: 2026-01-26
 draft: false
-description: "Burg in Hessen, Deutschland"
+description: "Junkernhof Meimbressen is a captivating manor house located in the picturesque region of Calden, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Crossen Palace"
 site_name: "Crossen Palace"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Crossen Palace, a distinguished manor house located in Crossen an der Elster, Germany, offers visitors a unique glimpse into the architectural elegance of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"

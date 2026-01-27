@@ -3,7 +3,7 @@ title: "Burschenschaftsdenkmal"
 site_name: "Burschenschaftsdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Eisenach, Thuringia, Germany"
+description: "The Burschenschaftsdenkmal, located in Eisenach, Germany, is a striking monument that commemorates the ideals of the Burschenschaften, student fraternities..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Museum für Ur- und Frühgeschichte Frauwalde"
 site_name: "Museum für Ur- und Frühgeschichte Frauwalde"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Ur- und Frühgeschichte Frauwalde serves as an insightful portal into the early periods of human history, located in the heart of Frauwalde,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

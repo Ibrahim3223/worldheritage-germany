@@ -3,7 +3,7 @@ title: "Rathaus Gomadingen"
 site_name: "Rathaus Gomadingen"
 date: 2026-01-26
 draft: false
-description: "Rathaus der Gemeinde Gomadingen"
+description: "Rathaus Gomadingen, the city hall of the quaint municipality of Gomadingen in Germany, serves as a central hub for local governance and community affairs."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Heimatmuseum des Nordböhmischen Niederlandes"
 site_name: "Heimatmuseum des Nordböhmischen Niederlandes"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the picturesque region of Böblingen, Germany, the Heimatmuseum des Nordböhmischen Niederlandes serves as a dedicated space for exploring the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

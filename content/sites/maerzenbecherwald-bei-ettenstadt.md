@@ -3,7 +3,7 @@ title: "Märzenbecherwald bei Ettenstadt"
 site_name: "Märzenbecherwald bei Ettenstadt"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "The Märzenbecherwald bei Ettenstadt, located in Bavaria, Germany, is a nature reserve that showcases the stunning beauty of the region's diverse ecosystems."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

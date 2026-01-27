@@ -3,7 +3,7 @@ title: "Kirche der Entschlafung der Mutter Gottes"
 site_name: "Kirche der Entschlafung der Mutter Gottes"
 date: 2026-01-26
 draft: false
-description: "church building in Hildesheim, Germany"
+description: "The Kirche der Entschlafung der Mutter Gottes, located in Hildesheim, Germany, is a noteworthy example of ecclesiastical architecture that reflects the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

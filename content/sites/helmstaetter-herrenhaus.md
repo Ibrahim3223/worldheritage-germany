@@ -3,7 +3,7 @@ title: "Helmstätter Herrenhaus"
 site_name: "Helmstätter Herrenhaus"
 date: 2026-01-26
 draft: false
-description: "Baudenkmal in Heidelberg"
+description: "Helmstätter Herrenhaus, an elegant manor house located in Heidelberg, Germany, captivates visitors with its historical charm and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

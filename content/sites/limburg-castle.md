@@ -3,7 +3,7 @@ title: "Limburg Castle"
 site_name: "Limburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Limburg Castle, a striking medieval fortress located in the charming village of Sasbach am Kaiserstuhl, Germany, offers visitors a glimpse into the storied..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Fortifications of Braunschweig"
 site_name: "Fortifications of Braunschweig"
 date: 2026-01-26
 draft: false
-description: "city wall"
+description: "The Fortifications of Braunschweig, located in the heart of Brunswick, Germany, stand as a striking reminder of the city’s historical significance and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fortification"

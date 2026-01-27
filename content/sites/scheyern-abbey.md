@@ -3,7 +3,7 @@ title: "Scheyern Abbey"
 site_name: "Scheyern Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Scheyern Abbey, located in the heart of Bavaria, Germany, is a significant heritage site that intertwines spirituality and brewing tradition."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

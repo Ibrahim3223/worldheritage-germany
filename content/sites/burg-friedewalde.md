@@ -3,7 +3,7 @@ title: "Burg Friedewalde"
 site_name: "Burg Friedewalde"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Friedewalde is a captivating castle located in Petershagen, Germany, that embodies the architectural and historical significance of medieval..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

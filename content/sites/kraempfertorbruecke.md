@@ -3,7 +3,7 @@ title: "Krämpfertorbrücke"
 site_name: "Krämpfertorbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Erfurt, Germany"
+description: "The Krämpfertorbrücke, a striking bridge located in Erfurt, Germany, is a significant architectural feature that captures the essence of the city's..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Bridge"

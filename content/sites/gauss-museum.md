@@ -3,7 +3,7 @@ title: "Gauß museum"
 site_name: "Gauß museum"
 date: 2026-01-26
 draft: false
-description: "former museum in Brunswick, Germany"
+description: "The Gauß Museum, located in the heart of Brunswick, Germany, represents a significant chapter in the narrative of scientific achievement and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

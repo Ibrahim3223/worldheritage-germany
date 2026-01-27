@@ -3,7 +3,7 @@ title: "Arboretum Park Härle"
 site_name: "Arboretum Park Härle"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Arboretum Park Härle is an enchanting botanical garden located in Bonn, Germany, that invites visitors to explore a diverse collection of trees and plants."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Schloss Hohenfels"
 site_name: "Schloss Hohenfels"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-151 (0) in Coburg, Bavaria"
+description: "Schloss Hohenfels, a distinguished manor house located in the charming region of Coburg, Bavaria, represents a significant slice of cultural heritage in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

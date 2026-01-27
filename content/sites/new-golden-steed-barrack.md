@@ -3,7 +3,7 @@ title: "New Golden Steed Barrack"
 site_name: "New Golden Steed Barrack"
 date: 2026-01-26
 draft: false
-description: "was built in 1885 (not confirmed)"
+description: "The New Golden Steed Barrack, an architectural ensemble located in Mainz, Germany, offers a fascinating glimpse into the city's military heritage and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

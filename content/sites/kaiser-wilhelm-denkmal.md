@@ -3,7 +3,7 @@ title: "Kaiser-Wilhelm-Denkmal"
 site_name: "Kaiser-Wilhelm-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Düsseldorf, Germany"
+description: "The Kaiser-Wilhelm-Denkmal, a prominent monument located in Düsseldorf, Germany, serves as a tribute to one of the most significant figures in German..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

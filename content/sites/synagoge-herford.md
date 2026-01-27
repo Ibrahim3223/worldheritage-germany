@@ -3,7 +3,7 @@ title: "Synagoge Herford"
 site_name: "Synagoge Herford"
 date: 2026-01-26
 draft: false
-description: "Sitz der heutigen jüdischen Kultusgemeinde Herford-Detmold"
+description: "Synagoge Herford stands as a crucial site of Jewish heritage in the heart of Herford, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

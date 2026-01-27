@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-8327-0005 in Buchenberg"
 site_name: "Cultural heritage D-7-8327-0005 in Buchenberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Buchenberg, Oberallgäu, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-8327-0005 in Buchenberg is an impressive fortification that represents the historical narrative of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

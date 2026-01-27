@@ -3,7 +3,7 @@ title: "Sähre"
 site_name: "Sähre"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Sähre, a prominent mountain located in the Hesse region of Germany, offers nature enthusiasts and adventure seekers a unique opportunity to explore a..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

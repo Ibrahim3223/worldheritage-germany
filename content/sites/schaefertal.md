@@ -3,7 +3,7 @@ title: "Schäfertal"
 site_name: "Schäfertal"
 date: 2026-01-26
 draft: false
-description: "valley in Harzgerode, Germany"
+description: "Schäfertal, a picturesque valley located in the Harzgerode region of Germany, offers a serene escape into the heart of nature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

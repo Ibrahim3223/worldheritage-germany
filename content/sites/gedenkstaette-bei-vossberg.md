@@ -3,7 +3,7 @@ title: "Gedenkstätte bei Voßberg"
 site_name: "Gedenkstätte bei Voßberg"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "In the serene landscape of Dobersdorf, Germany, the Gedenkstätte bei Voßberg stands as a poignant reminder of the past, inviting visitors to reflect on the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"

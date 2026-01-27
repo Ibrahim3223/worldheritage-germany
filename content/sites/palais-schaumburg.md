@@ -3,7 +3,7 @@ title: "Palais Schaumburg"
 site_name: "Palais Schaumburg"
 date: 2026-01-26
 draft: false
-description: "government office in Bonn"
+description: "Palais Schaumburg, located in the Stadtbezirk of Bonn, Germany, serves as both a government office and a historical palace."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"

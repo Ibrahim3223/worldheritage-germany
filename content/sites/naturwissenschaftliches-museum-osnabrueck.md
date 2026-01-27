@@ -3,7 +3,7 @@ title: "Naturwissenschaftliches Museum Osnabrück"
 site_name: "Naturwissenschaftliches Museum Osnabrück"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Naturwissenschaftliches Museum Osnabrück serves as a gateway to the wonders of the natural world, inviting visitors to explore the intricate..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

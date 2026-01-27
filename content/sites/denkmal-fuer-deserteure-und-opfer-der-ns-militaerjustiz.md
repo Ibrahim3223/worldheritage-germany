@@ -3,7 +3,7 @@ title: "Denkmal für Deserteure und Opfer der NS-Militärjustiz"
 site_name: "Denkmal für Deserteure und Opfer der NS-Militärjustiz"
 date: 2026-01-26
 draft: false
-description: "artwork in public space by Ruedi Baur in Köln, Germany"
+description: "In the heart of Cologne, Germany, the Denkmal für Deserteure und Opfer der NS-Militärjustiz stands as a poignant reminder of the individuals who resisted..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

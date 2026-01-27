@@ -3,7 +3,7 @@ title: "Frankfurt Frankfurter Berg station"
 site_name: "Frankfurt Frankfurter Berg station"
 date: 2026-01-26
 draft: false
-description: "railway station in Frankfurt, Germany"
+description: "Frankfurt Frankfurter Berg station is a significant railway station located in Frankfurt, Germany, serving as a vital hub within the city's public..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

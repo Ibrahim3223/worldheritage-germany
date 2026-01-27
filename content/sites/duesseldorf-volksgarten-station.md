@@ -3,7 +3,7 @@ title: "Düsseldorf Volksgarten station"
 site_name: "Düsseldorf Volksgarten station"
 date: 2026-01-26
 draft: false
-description: "railway station in Düsseldorf, Germany"
+description: "Düsseldorf Volksgarten station is a vital railway hub located in the vibrant city of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

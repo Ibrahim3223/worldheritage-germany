@@ -3,7 +3,7 @@ title: "Salzau Manor"
 site_name: "Salzau Manor"
 date: 2026-01-26
 draft: false
-description: "alter Rittersitz in Holstein"
+description: "Salzau Manor, located in the picturesque region of Fargau-Pratjau, Germany, serves as an intriguing example of Holstein's historical architecture."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

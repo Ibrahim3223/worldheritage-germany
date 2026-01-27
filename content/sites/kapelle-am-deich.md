@@ -3,7 +3,7 @@ title: "Kapelle am Deich"
 site_name: "Kapelle am Deich"
 date: 2026-01-26
 draft: false
-description: "church building in Lemwerder, Germany"
+description: "Kapelle am Deich is a church building located in the quaint village of Lemwerder, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

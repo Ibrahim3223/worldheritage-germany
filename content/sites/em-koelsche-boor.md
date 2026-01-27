@@ -3,7 +3,7 @@ title: "Em Kölsche Boor"
 site_name: "Em Kölsche Boor"
 date: 2026-01-26
 draft: false
-description: "inn"
+description: "Em Kölsche Boor is a noteworthy brewery located in the Altstadt-Nord district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"

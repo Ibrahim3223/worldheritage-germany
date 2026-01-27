@@ -3,7 +3,7 @@ title: "Akşemsettin Moschee"
 site_name: "Akşemsettin Moschee"
 date: 2026-01-26
 draft: false
-description: "mosque in Lauffen am Neckar, Heilbronn district, Baden-Württemberg, Germany"
+description: "The Akşemsettin Moschee in Lauffen am Neckar is a noteworthy structure within the Heilbronn district of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Görlitzer Straße 51 (vor)"
 site_name: "Steindeckerbrücke Görlitzer Straße 51 (vor)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, positioned at Görlitzer Straße 51 in Horka, Germany, is a bridge that encapsulates the essence of functional design and local..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

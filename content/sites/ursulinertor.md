@@ -3,7 +3,7 @@ title: "Ursulinertor"
 site_name: "Ursulinertor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Ursulinertor, a prominent city gate located in Aachen, Germany, serves as a significant historical landmark that reflects the architectural grandeur and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

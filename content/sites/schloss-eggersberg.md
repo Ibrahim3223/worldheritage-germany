@@ -3,7 +3,7 @@ title: "Schloss Eggersberg"
 site_name: "Schloss Eggersberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Eggersberg is a unique museum located in the heart of Germany, offering visitors an insightful glimpse into the country's rich cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

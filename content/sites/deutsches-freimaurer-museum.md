@@ -3,7 +3,7 @@ title: "Deutsches Freimaurer-Museum"
 site_name: "Deutsches Freimaurer-Museum"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-62-000-120 (0) in Bayreuth, Bavaria"
+description: "The Deutsches Freimaurer-Museum in Bayreuth, Germany, serves as a portal into the world of Freemasonry, a fraternal organization with a rich history and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

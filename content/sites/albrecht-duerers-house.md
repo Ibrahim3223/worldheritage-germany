@@ -3,7 +3,7 @@ title: "Albrecht Dürer's House"
 site_name: "Albrecht Dürer's House"
 date: 2026-01-26
 draft: false
-description: "preserved artist's house and art museum"
+description: "Albrecht Dürer's House stands as a significant cultural landmark in Nuremberg, Germany, celebrating the life and work of one of the Renaissance's most..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Marienkirche Röbel"
 site_name: "Marienkirche Röbel"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Marienkirche Röbel, a distinguished church building located in the charming town of Röbel, Germany, serves as a significant landmark in the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Altonaer Theater"
 site_name: "Altonaer Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Hamburg"
+description: "The Altonaer Theater, located in the vibrant district of Altona in Hamburg, Germany, is a cultural landmark that captures the essence of the city's artistic..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

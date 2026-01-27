@@ -3,7 +3,7 @@ title: "Evangelische Stiftung Neinstedt"
 site_name: "Evangelische Stiftung Neinstedt"
 date: 2026-01-26
 draft: false
-description: "German social welfare service provider in Neinstedt, Saxony-Anhalt (1850-)"
+description: "Located in the picturesque town of Neinstedt, in the heart of Saxony-Anhalt, Germany, the Evangelische Stiftung Neinstedt is a significant social welfare..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

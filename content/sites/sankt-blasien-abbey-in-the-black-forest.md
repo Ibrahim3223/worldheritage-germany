@@ -3,7 +3,7 @@ title: "Sankt Blasien Abbey in the Black Forest"
 site_name: "Sankt Blasien Abbey in the Black Forest"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Sankt Blasien Abbey in the Black Forest is a remarkable monastery that captures the essence of spiritual life and historical significance in this scenic..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Steinwache"
 site_name: "Steinwache"
 date: 2026-01-26
 draft: false
-description: "Memorial museum in Dortmund, Germany"
+description: "Steinwache Memorial, located in Dortmund, Germany, is a poignant remnant of the turbulent history of World War II and the Nazi regime."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

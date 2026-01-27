@@ -3,7 +3,7 @@ title: "Eutin Castle"
 site_name: "Eutin Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Eutin, Germany"
+description: "Eutin Castle, located in the charming town of Eutin, Germany, is a captivating site that seamlessly intertwines history and culture."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

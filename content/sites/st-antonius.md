@@ -3,7 +3,7 @@ title: "St. Antonius"
 site_name: "St. Antonius"
 date: 2026-01-26
 draft: false
-description: "church building in Herten, Germany"
+description: "St. Antonius, a church building located in Herten, Germany, serves as a noteworthy example of religious architecture in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

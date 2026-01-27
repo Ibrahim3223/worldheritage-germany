@@ -3,7 +3,7 @@ title: "Deutsches Werbemuseum"
 site_name: "Deutsches Werbemuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the bustling city of Frankfurt, the Deutsches Werbemuseum is a unique institution dedicated to the study and exhibition of advertising history in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

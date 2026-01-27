@@ -3,7 +3,7 @@ title: "St. Adolfus"
 site_name: "St. Adolfus"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf, Germany"
+description: "St. Adolfus Church, located in Düsseldorf's Pempelfort district, is a significant landmark that fuses spiritual purpose with architectural elegance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

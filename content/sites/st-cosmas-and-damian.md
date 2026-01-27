@@ -3,7 +3,7 @@ title: "St. Cosmas and Damian"
 site_name: "St. Cosmas and Damian"
 date: 2026-01-26
 draft: false
-description: "church in Groß Düngen, Germany"
+description: "St. Cosmas and Damian is a significant church building located in the village of Groß Düngen, within the region of Bad Salzdetfurth, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Alte Synagoge (Magdeburg)"
 site_name: "Alte Synagoge (Magdeburg)"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Alte Synagoge in Magdeburg is a remarkable cultural landmark that stands as a significant reminder of the Jewish heritage in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

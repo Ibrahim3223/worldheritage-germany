@@ -3,7 +3,7 @@ title: "Burg Medinghoven"
 site_name: "Burg Medinghoven"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Medinghoven is a captivating castle located in the Hardtberg region of Germany, offering visitors a glimpse into the architectural and cultural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

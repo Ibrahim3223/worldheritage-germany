@@ -3,7 +3,7 @@ title: "Burg Geppenhagen"
 site_name: "Burg Geppenhagen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geppenhagen, situated in the picturesque Schloss Höhnscheid region of Germany, is a captivating castle that invites visitors to explore its storied..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

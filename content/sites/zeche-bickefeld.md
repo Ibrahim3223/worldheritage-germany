@@ -3,7 +3,7 @@ title: "Zeche Bickefeld"
 site_name: "Zeche Bickefeld"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bickefeld, located in the industrial heart of Dortmund, Germany, is an emblematic site that reflects the region’s rich mining heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

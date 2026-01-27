@@ -3,7 +3,7 @@ title: "Schlossmuseum Hohenlohe-Schillingsfürst"
 site_name: "Schlossmuseum Hohenlohe-Schillingsfürst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schlossmuseum Hohenlohe-Schillingsfürst invites visitors to explore a unique blend of history and culture within its museum setting."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

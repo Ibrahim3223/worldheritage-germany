@@ -3,7 +3,7 @@ title: "Gemeindebücherei St. Laurentius Petershausen"
 site_name: "Gemeindebücherei St. Laurentius Petershausen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Petershausen, Germany, the Gemeindebücherei St. Laurentius serves as a haven for book lovers and knowledge seekers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

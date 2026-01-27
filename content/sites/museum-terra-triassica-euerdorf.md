@@ -3,7 +3,7 @@ title: "Museum Terra Triassica Euerdorf"
 site_name: "Museum Terra Triassica Euerdorf"
 date: 2026-01-26
 draft: false
-description: "Earth History Museum (Triassic)"
+description: "Museum Terra Triassica Euerdorf presents an engaging exploration of our planet's geological history, specifically focusing on the Triassic period."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

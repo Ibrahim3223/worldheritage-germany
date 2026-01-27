@@ -3,7 +3,7 @@ title: "Neandertal"
 site_name: "Neandertal"
 date: 2026-01-26
 draft: false
-description: "valley in North Rhine-Westphalia, Germany"
+description: "The Neandertal, a picturesque valley located in North Rhine-Westphalia, Germany, is more than just a scenic landscape; it is an emblem of humanity's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"

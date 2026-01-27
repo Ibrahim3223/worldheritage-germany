@@ -3,7 +3,7 @@ title: "Georg Herwegh Gymnasium"
 site_name: "Georg Herwegh Gymnasium"
 date: 2026-01-26
 draft: false
-description: "gymnasium (school) in Berlin-Hermsdorf"
+description: "The Georg Herwegh Gymnasium is a significant educational institution located in the district of Reinickendorf, Berlin-Hermsdorf."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

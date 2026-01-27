@@ -3,7 +3,7 @@ title: "Lutherdenkmal Bad Schandau"
 site_name: "Lutherdenkmal Bad Schandau"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Deutschland"
+description: "The Lutherdenkmal in Bad Schandau is a significant monument that commemorates Martin Luther, the influential figure of the Protestant Reformation."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

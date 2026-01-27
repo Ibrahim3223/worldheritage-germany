@@ -3,7 +3,7 @@ title: "Bogenbrücke Neumark"
 site_name: "Bogenbrücke Neumark"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke Neumark is an impressive bridge situated in the Neumark region of Germany, celebrated for its architectural elegance and functional design."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

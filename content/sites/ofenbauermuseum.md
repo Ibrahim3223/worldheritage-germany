@@ -3,7 +3,7 @@ title: "Ofenbauermuseum"
 site_name: "Ofenbauermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ofenbauermuseum, located in Westerburg, Germany, is a unique museum dedicated to the art of traditional oven construction."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

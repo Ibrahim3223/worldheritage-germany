@@ -3,7 +3,7 @@ title: "Gütersloh Central Station"
 site_name: "Gütersloh Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Gütersloh, Germany"
+description: "Gütersloh Central Station, located in the heart of the North Rhine-Westphalia region of Germany, serves as a vital transportation hub for both local..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

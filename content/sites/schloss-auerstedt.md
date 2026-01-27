@@ -3,7 +3,7 @@ title: "Schloss Auerstedt"
 site_name: "Schloss Auerstedt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Auerstedt, located in the picturesque region of Bad Sulza, Germany, is a museum that serves as a captivating window into the past."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

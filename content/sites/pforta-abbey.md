@@ -3,7 +3,7 @@ title: "Pforta abbey"
 site_name: "Pforta abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Pforta Abbey, a remarkable monastery located in Naumburg, Germany, is not just a relic of the past but a monument that echoes centuries of spiritual and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monastery"

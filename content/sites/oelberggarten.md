@@ -3,7 +3,7 @@ title: "Ölberggarten"
 site_name: "Ölberggarten"
 date: 2026-01-26
 draft: false
-description: "park in Görlitz, Germany"
+description: "Ölberggarten is a charming park situated in Görlitz, Germany, offering visitors a serene escape into nature amidst the historical backdrop of this..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Park"

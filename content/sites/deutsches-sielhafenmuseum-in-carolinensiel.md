@@ -3,7 +3,7 @@ title: "Deutsches Sielhafenmuseum in Carolinensiel"
 site_name: "Deutsches Sielhafenmuseum in Carolinensiel"
 date: 2026-01-26
 draft: false
-description: "museum in Wittmund, Germany"
+description: "The Deutsches Sielhafenmuseum in Carolinensiel is a museum that offers a fascinating glimpse into the maritime culture of Germany's northern coastline."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Corvinuskirche"
 site_name: "Corvinuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "Corvinuskirche, a notable church building in Hannover’s Herrenhausen-Stöcken district, is a structure that stands as a vital part of the local community and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

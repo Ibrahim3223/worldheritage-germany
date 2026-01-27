@@ -3,7 +3,7 @@ title: "Garten Höfling 1; Höfling 2 in Regensburg"
 site_name: "Garten Höfling 1; Höfling 2 in Regensburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-3-62-000-581 (3) in Regensburg, Bavaria"
+description: "Garten Höfling 1; Höfling 2 in Regensburg is a noteworthy garden that encapsulates the cultural heritage of the Bavarian region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

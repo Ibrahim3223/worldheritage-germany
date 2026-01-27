@@ -3,7 +3,7 @@ title: "Uphuser Kirche"
 site_name: "Uphuser Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Uphusen, Germany"
+description: "Uphuser Kirche, an emblematic church building located in the charming village of Uphusen, Germany, captures the essence of local heritage and spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

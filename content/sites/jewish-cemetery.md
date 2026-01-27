@@ -3,7 +3,7 @@ title: "Jewish cemetery"
 site_name: "Jewish cemetery"
 date: 2026-01-26
 draft: false
-description: "Jewish cemetery in Rüdesheim am Rhein, Germany"
+description: "The Jewish cemetery in Rüdesheim am Rhein, Germany, stands as a poignant reminder of the Jewish community that once thrived in this picturesque town along..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

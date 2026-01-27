@@ -3,7 +3,7 @@ title: "Mausoleum Wersebe"
 site_name: "Mausoleum Wersebe"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Hagen im Bremischen"
+description: "The Mausoleum Wersebe, located in Hagen im Bremischen, Germany, is a significant structure that reflects the region's rich cultural heritage."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"

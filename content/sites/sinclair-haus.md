@@ -3,7 +3,7 @@ title: "Sinclair-Haus"
 site_name: "Sinclair-Haus"
 date: 2026-01-26
 draft: false
-description: "villa in Bad Homburg vor der Höhe, Germany"
+description: "Sinclair-Haus, located in the picturesque region of Bad Homburg vor der Höhe, Germany, serves as a cultural hub that intertwines art, history, and community..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

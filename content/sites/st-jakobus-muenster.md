@@ -3,7 +3,7 @@ title: "St.-Jakobus-Münster"
 site_name: "St.-Jakobus-Münster"
 date: 2026-01-26
 draft: false
-description: "church building in Titisee-Neustadt, Germany"
+description: "St.-Jakobus-Münster stands as a significant church building in the charming town of Titisee-Neustadt, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

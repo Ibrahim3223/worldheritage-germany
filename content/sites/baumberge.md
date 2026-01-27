@@ -3,7 +3,7 @@ title: "Baumberge"
 site_name: "Baumberge"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Berlin, Germany"
+description: "Baumberge, a serene nature reserve located in the Reinickendorf district of Berlin, Germany, offers an escape into the natural world amid the bustling urban..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

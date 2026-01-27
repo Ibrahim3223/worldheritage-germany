@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über das Löbauer Wasser Zum Löbauer Wasser (am Ort
 site_name: "Steindeckerbrücke über das Löbauer Wasser Zum Löbauer Wasser (am Ortsausgang Rackel in Richtung Preititz)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über das Löbauer Wasser is an intriguing bridge located in Malschwitz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

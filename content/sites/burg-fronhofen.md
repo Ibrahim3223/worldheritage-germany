@@ -3,7 +3,7 @@ title: "Burg Fronhofen"
 site_name: "Burg Fronhofen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Fronhofen is a historic castle located in the serene region of Fronreute, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

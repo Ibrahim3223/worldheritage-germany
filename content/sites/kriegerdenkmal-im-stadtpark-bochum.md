@@ -3,7 +3,7 @@ title: "Kriegerdenkmal im Stadtpark Bochum"
 site_name: "Kriegerdenkmal im Stadtpark Bochum"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Bochum, Germany, the Kriegerdenkmal im Stadtpark stands as a poignant monument commemorating the sacrifices made by soldiers."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

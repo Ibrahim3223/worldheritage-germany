@@ -3,7 +3,7 @@ title: "Reichenstein Castle"
 site_name: "Reichenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Reichenstein Castle, an imposing stronghold situated in the picturesque town of Trechtingshausen, Germany, offers visitors a captivating glimpse into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

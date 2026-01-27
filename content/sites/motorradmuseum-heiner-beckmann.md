@@ -3,7 +3,7 @@ title: "Motorradmuseum Heiner Beckmann"
 site_name: "Motorradmuseum Heiner Beckmann"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in Harsewinkel, Germany, the Motorradmuseum Heiner Beckmann serves as a dedicated homage to the world of motorcycles, showcasing an impressive..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

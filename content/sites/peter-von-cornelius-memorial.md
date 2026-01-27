@@ -3,7 +3,7 @@ title: "Peter-von-Cornelius-Memorial"
 site_name: "Peter-von-Cornelius-Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Düsseldorf"
+description: "The Peter-von-Cornelius-Memorial serves as a significant tribute in Düsseldorf, Germany, honoring the legacy of one of the country’s esteemed painters and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

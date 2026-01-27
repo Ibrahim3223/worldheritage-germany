@@ -3,7 +3,7 @@ title: "Heimatstube Reichenberg"
 site_name: "Heimatstube Reichenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Liberec/Reichenberg (Czech Republic)"
+description: "Heimatstube Reichenberg, located in the Augsburg region of Germany, serves as a cultural and historical museum that showcases the heritage of the area,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Dialogmuseum"
 site_name: "Dialogmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt am Main, Germany"
+description: "Dialogmuseum, located in the vibrant city of Frankfurt am Main, Germany, offers a unique and transformative experience that invites visitors to explore the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

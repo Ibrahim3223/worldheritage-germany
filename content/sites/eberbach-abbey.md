@@ -3,7 +3,7 @@ title: "Eberbach Abbey"
 site_name: "Eberbach Abbey"
 date: 2026-01-26
 draft: false
-description: "former monastery in the Rheingau"
+description: "Eberbach Abbey, a former monastery now transformed into a museum, invites visitors to explore its historical and cultural legacy in the heart of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

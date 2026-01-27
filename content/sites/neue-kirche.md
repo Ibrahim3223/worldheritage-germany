@@ -3,7 +3,7 @@ title: "Neue Kirche"
 site_name: "Neue Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Wismar, Germany"
+description: "The Neue Kirche, or New Church, stands as a significant ecclesiastical structure in Wismar, Germany, embodying the city's historical and cultural evolution."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

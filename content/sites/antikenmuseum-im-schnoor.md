@@ -3,7 +3,7 @@ title: "Antikenmuseum im Schnoor"
 site_name: "Antikenmuseum im Schnoor"
 date: 2026-01-26
 draft: false
-description: "former museum in Bremen, Germany"
+description: "The Antikenmuseum im Schnoor, located in the heart of Bremen, Germany, invites visitors to explore a rich collection of ancient artifacts that reflect the..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

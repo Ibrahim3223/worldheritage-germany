@@ -3,7 +3,7 @@ title: "Bischöfliches Dom- und Diözesanmuseum Trier"
 site_name: "Bischöfliches Dom- und Diözesanmuseum Trier"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bischöfliches Dom- und Diözesanmuseum Trier offers visitors an in-depth exploration of the intersection between faith and culture within a historically..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

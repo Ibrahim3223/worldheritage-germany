@@ -3,7 +3,7 @@ title: "Dünenfriedhof Langeoog"
 site_name: "Dünenfriedhof Langeoog"
 date: 2026-01-26
 draft: false
-description: "cemetery in Langeoog, Germany"
+description: "Dünenfriedhof Langeoog, a serene cemetery located on the island of Langeoog in Germany, stands as a poignant reminder of the lives that have shaped this..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

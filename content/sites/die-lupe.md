@@ -3,7 +3,7 @@ title: "Die Lupe"
 site_name: "Die Lupe"
 date: 2026-01-26
 draft: false
-description: "former arthouse cinema, now a comedy theatre in Brunswick, Germany"
+description: "Die Lupe, a prominent theatre building located in the heart of Brunswick, Germany, has transformed from a former arthouse cinema into a lively comedy theatre."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

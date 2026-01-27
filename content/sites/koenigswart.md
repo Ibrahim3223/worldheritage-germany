@@ -3,7 +3,7 @@ title: "Königswart"
 site_name: "Königswart"
 date: 2026-01-26
 draft: false
-description: "ruin of a memorial in Baiersbronn, Germany"
+description: "Königswart, located in the serene region of Baiersbronn, Germany, is a memorial that encapsulates historical significance and cultural reverence."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

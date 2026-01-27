@@ -3,7 +3,7 @@ title: "Brambosteler Moor"
 site_name: "Brambosteler Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Brambosteler Moor serves as a vital sanctuary for biodiversity, located in the serene region of Wriedel in Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

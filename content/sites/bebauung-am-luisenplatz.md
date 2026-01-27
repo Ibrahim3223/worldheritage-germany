@@ -3,7 +3,7 @@ title: "Bebauung am Luisenplatz"
 site_name: "Bebauung am Luisenplatz"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Bebauung am Luisenplatz is a striking architectural ensemble located in the Charlottenburg-Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

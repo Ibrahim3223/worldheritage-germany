@@ -3,7 +3,7 @@ title: "St. Jakob (Brandenburg an der Havel)"
 site_name: "St. Jakob (Brandenburg an der Havel)"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "St. Jakob, located in Brandenburg an der Havel, Germany, is a chapel that embodies the spiritual and architectural history of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Sieglitzer Berg"
 site_name: "Sieglitzer Berg"
 date: 2026-01-26
 draft: false
-description: "historischer Landschaftspark in Oranienbaum-Wörlitz, Sachsen-Anhalt"
+description: "Situated in the heart of Germany's picturesque region of Oranienbaum-Wörlitz, Sieglitzer Berg is a historical landscape park that offers visitors a blend of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

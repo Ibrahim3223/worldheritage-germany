@@ -3,7 +3,7 @@ title: "Bernstein-Museum Esens Bernstein Huus"
 site_name: "Bernstein-Museum Esens Bernstein Huus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bernstein-Museum Esens Bernstein Huus serves as a captivating introduction to the world of amber, a fascinating natural material that has captivated..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

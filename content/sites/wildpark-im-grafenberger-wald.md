@@ -3,7 +3,7 @@ title: "Wildpark im Grafenberger Wald"
 site_name: "Wildpark im Grafenberger Wald"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Wildpark im Grafenberger Wald is a captivating zoo located in the vibrant city of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

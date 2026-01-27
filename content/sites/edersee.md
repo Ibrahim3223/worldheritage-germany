@@ -3,7 +3,7 @@ title: "Edersee"
 site_name: "Edersee"
 date: 2026-01-26
 draft: false
-description: "lake near Plötzky, Germany"
+description: "Edersee, located near the town of Plötzky in Germany, offers a serene escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

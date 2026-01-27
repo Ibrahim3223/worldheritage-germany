@@ -3,7 +3,7 @@ title: "Friedrich-Koenig-Denkmal"
 site_name: "Friedrich-Koenig-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Lutherstadt Eisleben, Germany"
+description: "The Friedrich-Koenig-Denkmal, a striking monument located in Lutherstadt Eisleben, Germany, serves as a poignant reminder of the individuals who have shaped..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

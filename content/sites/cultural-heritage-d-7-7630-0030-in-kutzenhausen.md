@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7630-0030 in Kutzenhausen"
 site_name: "Cultural heritage D-7-7630-0030 in Kutzenhausen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Kutzenhausen, Augsburg, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7630-0030 in Kutzenhausen represents a significant fortification located in the picturesque region of Augsburg, Swabia, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

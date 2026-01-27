@@ -3,7 +3,7 @@ title: "Memorial Wolffenbüttel Prison"
 site_name: "Memorial Wolffenbüttel Prison"
 date: 2026-01-26
 draft: false
-description: "memorial in Wolfenbüttel, Germany"
+description: "Memorial Wolffenbüttel Prison stands as a poignant reminder of Germany's complex history, located in the historic town of Wolfenbüttel."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

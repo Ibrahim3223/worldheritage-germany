@@ -3,7 +3,7 @@ title: "Kanzlerpalais"
 site_name: "Kanzlerpalais"
 date: 2026-01-26
 draft: false
-description: "building in Eisenach, Germany"
+description: "Kanzlerpalais, a distinguished palace located in the heart of Eisenach, Germany, is a site of significant cultural and historical value."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Palace"

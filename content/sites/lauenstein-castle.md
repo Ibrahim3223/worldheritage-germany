@@ -3,7 +3,7 @@ title: "Lauenstein Castle"
 site_name: "Lauenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lauenstein Castle, a remarkable structure located in Salzhemmendorf, Germany, invites visitors to explore its storied past and captivating architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

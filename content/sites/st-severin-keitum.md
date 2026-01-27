@@ -3,7 +3,7 @@ title: "St. Severin, Keitum"
 site_name: "St. Severin, Keitum"
 date: 2026-01-26
 draft: false
-description: "church in Keitum"
+description: "St. Severin in Keitum is a significant ecclesiastical structure located on the picturesque island of Sylt, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

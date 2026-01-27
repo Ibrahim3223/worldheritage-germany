@@ -3,7 +3,7 @@ title: "Frauenmuseum Berlin"
 site_name: "Frauenmuseum Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the vibrant landscape of Berlin's cultural scene, the Frauenmuseum Berlin stands out as a dedicated space for the exploration of women's contributions to..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

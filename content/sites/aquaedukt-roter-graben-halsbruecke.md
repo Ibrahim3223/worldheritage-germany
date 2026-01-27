@@ -3,7 +3,7 @@ title: "Aquädukt (Roter Graben) Halsbrücke"
 site_name: "Aquädukt (Roter Graben) Halsbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Aquädukt (Roter Graben) Halsbrücke is a remarkable aqueduct located in the Halsbrücke region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"

@@ -3,7 +3,7 @@ title: "Schloss Rantzau"
 site_name: "Schloss Rantzau"
 date: 2026-01-26
 draft: false
-description: "Stadtpalais im Lübecker Dombezirk"
+description: "Schloss Rantzau, located in Lübeck's Old City, is a striking example of a city palace that reflects the architectural and cultural evolution of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

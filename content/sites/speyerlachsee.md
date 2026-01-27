@@ -3,7 +3,7 @@ title: "Speyerlachsee"
 site_name: "Speyerlachsee"
 date: 2026-01-26
 draft: false
-description: "lake in Speyer"
+description: "Speyerlachsee, located in the picturesque region of Rhineland-Palatinate, Germany, offers visitors a serene escape into nature."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

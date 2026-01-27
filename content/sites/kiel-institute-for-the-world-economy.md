@@ -3,7 +3,7 @@ title: "Kiel Institute for the World Economy"
 site_name: "Kiel Institute for the World Economy"
 date: 2026-01-26
 draft: false
-description: "academic publisher"
+description: "The Kiel Institute for the World Economy, located in the northern German city of Kiel, serves as a pivotal center for research and analysis in global..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Theater Baden-Baden"
 site_name: "Theater Baden-Baden"
 date: 2026-01-26
 draft: false
-description: "building in Baden-Baden, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "Theater Baden-Baden is a distinguished theatre building located in the charming spa town of Baden-Baden, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

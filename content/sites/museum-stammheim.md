@@ -3,7 +3,7 @@ title: "Museum Stammheim"
 site_name: "Museum Stammheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Stammheim, located in the charming region of Kolitzheim, Germany, serves as a cultural hub that reflects the local heritage and artistic expressions..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

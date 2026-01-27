@@ -3,7 +3,7 @@ title: "Gutshaus Adelsborn"
 site_name: "Gutshaus Adelsborn"
 date: 2026-01-26
 draft: false
-description: "demolished building in Adelsborn, Germany"
+description: "Gutshaus Adelsborn, a former manor house located in the quaint region of Leinefelde-Worbis, Germany, invites visitors to explore its historical landscape,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

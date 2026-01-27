@@ -3,7 +3,7 @@ title: "Mecklenburgisches Kutschenmuseum"
 site_name: "Mecklenburgisches Kutschenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mecklenburgisches Kutschenmuseum, located in Kobrow, Germany, is a distinctive museum dedicated to the history of horse-drawn vehicles and the role they..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Gotha State Theatre"
 site_name: "Gotha State Theatre"
 date: 2026-01-26
 draft: false
-description: "former theatre in Gotha, Germany"
+description: "Gotha State Theatre, a former theatre building located in the heart of Gotha, Germany, offers visitors a glimpse into the rich theatrical heritage of this..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"

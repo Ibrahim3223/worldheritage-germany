@@ -3,7 +3,7 @@ title: "Berthold Leibinger Stiftung"
 site_name: "Berthold Leibinger Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Berthold Leibinger Stiftung is a distinguished foundation located in Ditzingen, Germany, dedicated to fostering cultural and scientific advancements."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

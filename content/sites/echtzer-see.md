@@ -3,7 +3,7 @@ title: "Echtzer See"
 site_name: "Echtzer See"
 date: 2026-01-26
 draft: false
-description: "Bathing lake in North Rhine-Westphalia"
+description: "Echtzer See is a serene bathing lake located in the Düren region of North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Lake"

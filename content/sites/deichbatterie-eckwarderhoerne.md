@@ -3,7 +3,7 @@ title: "Deichbatterie Eckwarderhörne"
 site_name: "Deichbatterie Eckwarderhörne"
 date: 2026-01-26
 draft: false
-description: "Küstenbatterie in Eckwarderhörne zum Schutz des Kriegshafens Wilhelmshaven"
+description: "The Deichbatterie Eckwarderhörne is a remarkable coastal fortification located in the Butjadingen region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fortification"

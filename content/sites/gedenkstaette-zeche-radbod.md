@@ -3,7 +3,7 @@ title: "Gedenkstätte Zeche Radbod"
 site_name: "Gedenkstätte Zeche Radbod"
 date: 2026-01-26
 draft: false
-description: "memorial in Hamm, Germany"
+description: "The Gedenkstätte Zeche Radbod, located in Hamm, Germany, serves as a poignant memorial dedicated to the memory of those affected by the coal mining industry."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

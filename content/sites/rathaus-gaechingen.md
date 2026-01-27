@@ -3,7 +3,7 @@ title: "Rathaus Gächingen"
 site_name: "Rathaus Gächingen"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Rathaus Gächingen, the City Hall of Gächingen, serves as a focal point for the local community and a symbol of civic pride in the St."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

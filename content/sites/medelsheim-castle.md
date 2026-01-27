@@ -3,7 +3,7 @@ title: "Medelsheim Castle"
 site_name: "Medelsheim Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Medelsheim Castle, located in the quaint region of Gersheim, Germany, captivates visitors with its storied past and architectural charm."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

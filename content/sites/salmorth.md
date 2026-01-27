@@ -3,7 +3,7 @@ title: "Salmorth"
 site_name: "Salmorth"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Kleve, North Rhine-Westphalia, Germany"
+description: "Salmorth is a serene nature reserve located in the Kleve region of North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

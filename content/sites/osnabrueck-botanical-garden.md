@@ -3,7 +3,7 @@ title: "Osnabrück  Botanical Garden"
 site_name: "Osnabrück  Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Osnabrück Botanical Garden, located in the heart of Germany's Lower Saxony region, is a vibrant oasis dedicated to the study and appreciation of plant..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

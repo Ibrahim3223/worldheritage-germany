@@ -3,7 +3,7 @@ title: "Städtisches Museum Hann. Münden"
 site_name: "Städtisches Museum Hann. Münden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Städtisches Museum Hann. Münden invites visitors to explore the cultural and historical narratives that shape this charming town in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

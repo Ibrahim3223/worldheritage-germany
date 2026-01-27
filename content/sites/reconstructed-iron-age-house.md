@@ -3,7 +3,7 @@ title: "Reconstructed iron age house"
 site_name: "Reconstructed iron age house"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Reconstructed Iron Age House in Nebel, Germany, offers a fascinating glimpse into the life and culture of ancient communities that thrived during the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

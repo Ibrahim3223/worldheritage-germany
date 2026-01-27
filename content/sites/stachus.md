@@ -3,7 +3,7 @@ title: "Stachus"
 site_name: "Stachus"
 date: 2026-01-26
 draft: false
-description: "square in Munich"
+description: "In the heart of Munich, Stachus emerges as a vibrant square that serves as a pivotal hub for locals and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

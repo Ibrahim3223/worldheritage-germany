@@ -3,7 +3,7 @@ title: "Isartor-Theater"
 site_name: "Isartor-Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre and cinema in Munich, Germany"
+description: "The Isartor-Theater, located in the vibrant Ludwigsvorstadt-Isarvorstadt district of Munich, Germany, is a notable former theatre and cinema that has played..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

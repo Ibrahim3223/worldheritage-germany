@@ -3,7 +3,7 @@ title: "Fürstlich Schaumburg-Lippische Hofbibliothek"
 site_name: "Fürstlich Schaumburg-Lippische Hofbibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Fürstlich Schaumburg-Lippische Hofbibliothek, a historic library located in the town of Bückeburg, Germany, serves as a vital repository of knowledge..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

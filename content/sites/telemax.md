@@ -3,7 +3,7 @@ title: "Telemax"
 site_name: "Telemax"
 date: 2026-01-26
 draft: false
-description: "telecommunication tower in Hannover, Germany"
+description: "Telemax is a prominent telecommunications tower located in the heart of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

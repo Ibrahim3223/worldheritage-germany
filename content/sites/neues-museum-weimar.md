@@ -3,7 +3,7 @@ title: "Neues Museum Weimar"
 site_name: "Neues Museum Weimar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Weimar, Germany, the Neues Museum stands as a cultural hub, inviting art enthusiasts and casual visitors alike to explore its extensive..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"

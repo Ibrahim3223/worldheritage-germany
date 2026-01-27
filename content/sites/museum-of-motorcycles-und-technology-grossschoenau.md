@@ -3,7 +3,7 @@ title: "Museum of motorcycles und Technology Großschönau"
 site_name: "Museum of motorcycles und Technology Großschönau"
 date: 2026-01-26
 draft: false
-description: "museum in Großschönau"
+description: "The Museum of Motorcycles und Technology in Großschönau is a captivating destination for those intrigued by the evolution of motor vehicles and technology."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

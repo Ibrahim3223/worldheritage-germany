@@ -3,7 +3,7 @@ title: "Galiläakirche (Berlin-Friedrichshain)"
 site_name: "Galiläakirche (Berlin-Friedrichshain)"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Friedrichshain, Germany"
+description: "The Galiläakirche, located in the vibrant district of Friedrichshain in Berlin, is a notable church building that serves as a vital part of the community's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

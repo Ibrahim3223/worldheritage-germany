@@ -3,7 +3,7 @@ title: "Archaeological Park Cambodunum"
 site_name: "Archaeological Park Cambodunum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Archaeological Park Cambodunum, located in Kempten, Germany, is a captivating museum that offers visitors a unique glimpse into the ancient Roman world."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

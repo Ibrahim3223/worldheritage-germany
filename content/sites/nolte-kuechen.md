@@ -3,7 +3,7 @@ title: "Nolte Küchen"
 site_name: "Nolte Küchen"
 date: 2026-01-26
 draft: false
-description: "Einbauküchenmöbelhersteller"
+description: "Nolte Küchen stands as a prominent figure in the world of kitchen furniture manufacturing, located in Löhne, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

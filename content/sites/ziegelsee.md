@@ -3,7 +3,7 @@ title: "Ziegelsee"
 site_name: "Ziegelsee"
 date: 2026-01-26
 draft: false
-description: "lake in Mölln (Germany)"
+description: "Ziegelsee, located in the tranquil region of Mölln, Germany, represents a serene natural landscape that invites visitors to explore its stunning waters and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

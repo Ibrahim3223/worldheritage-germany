@@ -3,7 +3,7 @@ title: "Funtensee"
 site_name: "Funtensee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Funtensee, located in the picturesque region of Schönau am Königsee in Germany, is a serene alpine lake that captivates visitors with its natural beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

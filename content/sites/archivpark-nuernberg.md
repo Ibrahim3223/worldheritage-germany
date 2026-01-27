@@ -3,7 +3,7 @@ title: "Archivpark Nürnberg"
 site_name: "Archivpark Nürnberg"
 date: 2026-01-26
 draft: false
-description: "park in Nuremberg, Germany"
+description: "Archivpark Nürnberg is a serene urban park located in Nuremberg, Germany, offering a peaceful retreat amid the vibrant city life."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

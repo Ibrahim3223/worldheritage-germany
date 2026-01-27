@@ -3,7 +3,7 @@ title: "Gandersheim Abbey"
 site_name: "Gandersheim Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Gandersheim Abbey, located in the picturesque town of Bad Gandersheim, Germany, is a significant historical monastery that reflects centuries of spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

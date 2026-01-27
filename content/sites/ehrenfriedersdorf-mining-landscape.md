@@ -3,7 +3,7 @@ title: "Ehrenfriedersdorf Mining Landscape"
 site_name: "Ehrenfriedersdorf Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Ehrenfriedersdorf Mining Landscape, a significant cultural landscape in Germany, invites visitors to explore a rich history of mining that has shaped..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

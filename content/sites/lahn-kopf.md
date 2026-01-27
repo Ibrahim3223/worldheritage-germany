@@ -3,7 +3,7 @@ title: "Lahn-Kopf"
 site_name: "Lahn-Kopf"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Lahn-Kopf is a prominent mountain located in North Rhine-Westphalia, Germany. Known for its striking elevation and the natural beauty surrounding it,..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

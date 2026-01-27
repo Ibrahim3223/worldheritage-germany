@@ -3,7 +3,7 @@ title: "Provincial Library Amberg"
 site_name: "Provincial Library Amberg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Provincial Library Amberg is not just a repository of books; it is a cultural cornerstone in the heart of Amberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

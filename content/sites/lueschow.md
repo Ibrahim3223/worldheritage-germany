@@ -3,7 +3,7 @@ title: "Lüschow"
 site_name: "Lüschow"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Lüschow is a serene lake located in the tranquil region of Dobbertin, Germany. This picturesque body of water offers a peaceful retreat for nature lovers..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

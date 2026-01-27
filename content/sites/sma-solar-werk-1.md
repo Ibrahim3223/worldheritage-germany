@@ -3,7 +3,7 @@ title: "SMA Solar-Werk 1"
 site_name: "SMA Solar-Werk 1"
 date: 2026-01-26
 draft: false
-description: "Solarwechselrichter-Fabrik in Kassel"
+description: "In the heart of Kassel, Germany, stands SMA Solar-Werk 1, a key player in the renewable energy landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"

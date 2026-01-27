@@ -3,7 +3,7 @@ title: "Zeche Anna"
 site_name: "Zeche Anna"
 date: 2026-01-26
 draft: false
-description: "former coal mine in Essen, Germany"
+description: "Zeche Anna, a prominent former coal mine located in Essen, Germany, serves as a testament to the region's industrial heritage and the pivotal role that coal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Brucker Lache"
 site_name: "Brucker Lache"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Brucker Lache is a captivating nature reserve located in the heart of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

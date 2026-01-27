@@ -3,7 +3,7 @@ title: "St. Jacobi (Kasnevitz)"
 site_name: "St. Jacobi (Kasnevitz)"
 date: 2026-01-26
 draft: false
-description: "protestant church in Kasnevitz"
+description: "St. Jacobi in Kasnevitz is a remarkable example of Protestant church architecture in the charming region of Putbus, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Kunstsammlung Jena"
 site_name: "Kunstsammlung Jena"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunstsammlung Jena, an esteemed art museum located in the vibrant city of Jena, Germany, offers visitors a unique glimpse into the world of artistic..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"

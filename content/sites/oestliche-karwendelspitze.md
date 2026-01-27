@@ -3,7 +3,7 @@ title: "Östliche Karwendelspitze"
 site_name: "Östliche Karwendelspitze"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "The Östliche Karwendelspitze is a prominent mountain located in the Bavarian region of Germany, offering outdoor enthusiasts a stunning natural landscape..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

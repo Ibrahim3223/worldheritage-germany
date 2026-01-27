@@ -3,7 +3,7 @@ title: "Stadtmuseum Weimar"
 site_name: "Stadtmuseum Weimar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Weimar serves as an engaging portal into the cultural and historical narrative of one of Germany's most significant cities."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

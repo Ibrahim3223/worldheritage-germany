@@ -3,7 +3,7 @@ title: "Fernmeldeturm Höxter"
 site_name: "Fernmeldeturm Höxter"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "In the heart of Holzminden, Germany, the Fernmeldeturm Höxter rises prominently, marking its place within the region’s skyline."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

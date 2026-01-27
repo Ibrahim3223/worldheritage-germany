@@ -3,7 +3,7 @@ title: "Bogenbrücke aus Porphyrquadern (ohne das Geländer)"
 site_name: "Bogenbrücke aus Porphyrquadern (ohne das Geländer)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke aus Porphyrquadern, or Arch Bridge of Porphyry Blocks, is an architectural marvel situated in the scenic region of Seelitz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

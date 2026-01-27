@@ -3,7 +3,7 @@ title: "Gate Building of Weissenau Abbey"
 site_name: "Gate Building of Weissenau Abbey"
 date: 2026-01-26
 draft: false
-description: "gate building and culturage heritage monument in Weissenau, Ravensburg, Germany"
+description: "The Gate Building of Weissenau Abbey is an architectural and cultural landmark located in Ravensburg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"

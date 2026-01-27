@@ -3,7 +3,7 @@ title: "Tobacco Museum Lorsch"
 site_name: "Tobacco Museum Lorsch"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Lorsch, Germany, the Tobacco Museum offers an intriguing exploration of a once-thriving industry that shaped not just regional economies but..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

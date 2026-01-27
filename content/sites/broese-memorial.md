@@ -3,7 +3,7 @@ title: "Bröse memorial"
 site_name: "Bröse memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Brandenburg an der Havel, Brandenburg state, Germany"
+description: "The Bröse Memorial, located in Brandenburg an der Havel, Germany, serves as a poignant reminder of the region's historical significance and cultural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

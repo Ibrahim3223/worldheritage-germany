@@ -3,7 +3,7 @@ title: "St. Jakobi"
 site_name: "St. Jakobi"
 date: 2026-01-26
 draft: false
-description: "church in Lübeck"
+description: "St. Jakobi, an architectural marvel located in the heart of Lübeck's Old City, is a church building that encapsulates the historical depth and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

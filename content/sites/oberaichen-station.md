@@ -3,7 +3,7 @@ title: "Oberaichen station"
 site_name: "Oberaichen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Leinfelden-Echterdingen, Germany"
+description: "Oberaichen station serves as a vital junction in the Leinfelden-Echterdingen region of Germany, connecting travelers to a well-established railway network."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

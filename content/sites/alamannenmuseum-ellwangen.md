@@ -3,7 +3,7 @@ title: "Alamannenmuseum Ellwangen"
 site_name: "Alamannenmuseum Ellwangen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Alamannenmuseum Ellwangen, located in the charming town of Ellwangen in Germany, serves as a portal to the rich culture and history of the Alamanni, a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Maria in den Benden"
 site_name: "St. Maria in den Benden"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Wersten, Germany"
+description: "St. Maria in den Benden is an intriguing church located in the Wersten district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

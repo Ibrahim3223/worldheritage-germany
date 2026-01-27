@@ -3,7 +3,7 @@ title: "Light Vessel Borkumriff"
 site_name: "Light Vessel Borkumriff"
 date: 2026-01-26
 draft: false
-description: "museum ship in Borkum, Germany"
+description: "The Light Vessel Borkumriff stands as a significant cultural artifact in the coastal town of Borkum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

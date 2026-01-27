@@ -3,7 +3,7 @@ title: "Fastnachtsbrunnen"
 site_name: "Fastnachtsbrunnen"
 date: 2026-01-26
 draft: false
-description: "water well in Mainz, Germany, Symbol of Carnival (Fastnacht)"
+description: "The Fastnachtsbrunnen is not just a water well in Mainz, Germany; it is a vibrant symbol of the city's Carnival, or Fastnacht, traditions."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

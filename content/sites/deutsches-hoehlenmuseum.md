@@ -3,7 +3,7 @@ title: "Deutsches Höhlenmuseum"
 site_name: "Deutsches Höhlenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Höhlenmuseum, located in Iserlohn, Germany, serves as a gateway into the remarkable world of caves and their significance to both nature and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

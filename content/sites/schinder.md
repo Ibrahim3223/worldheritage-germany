@@ -3,7 +3,7 @@ title: "Schinder"
 site_name: "Schinder"
 date: 2026-01-26
 draft: false
-description: "mountain in the Mangfallgebirge at the border Tyrol / Bavaria"
+description: "Schinder, a mountain located at the border of Tyrol and Bavaria, is part of the Mangfallgebirge range in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

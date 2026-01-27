@@ -3,7 +3,7 @@ title: "Apels Garten"
 site_name: "Apels Garten"
 date: 2026-01-26
 draft: false
-description: "garden in Leipzig, Germany"
+description: "Apels Garten, a verdant haven located in Leipzig, Germany, invites visitors to immerse themselves in a tranquil escape from the urban landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"

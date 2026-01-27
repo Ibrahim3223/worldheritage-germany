@@ -3,7 +3,7 @@ title: "Aumatalsperre"
 site_name: "Aumatalsperre"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Aumatalsperre, located in Germany, is an impressive dam that plays a crucial role in the region's water management and environmental conservation."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

@@ -3,7 +3,7 @@ title: "Bergkapelle Alf"
 site_name: "Bergkapelle Alf"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Alf, Rheinland-Pfalz"
+description: "The Bergkapelle Alf, located in the picturesque region of Rhineland-Palatinate in Germany, is a charming chapel that reflects the area's rich cultural heritage."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"

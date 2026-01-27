@@ -3,7 +3,7 @@ title: "Theater am Kurfürstendamm"
 site_name: "Theater am Kurfürstendamm"
 date: 2026-01-26
 draft: false
-description: "privately owned theater in Berlin, Germany"
+description: "The Theater am Kurfürstendamm serves as an essential cultural hub in Berlin, situated in the vibrant district of Charlottenburg-Wilmersdorf."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

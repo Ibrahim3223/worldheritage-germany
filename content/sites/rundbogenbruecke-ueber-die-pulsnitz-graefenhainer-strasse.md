@@ -3,7 +3,7 @@ title: "Rundbogenbrücke über die Pulsnitz Gräfenhainer Straße"
 site_name: "Rundbogenbrücke über die Pulsnitz Gräfenhainer Straße"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rundbogenbrücke über die Pulsnitz Gräfenhainer Straße is more than just a bridge; it is a striking piece of engineering that stands as a connection..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Statue of Hermann von Helmholtz"
 site_name: "Statue of Hermann von Helmholtz"
 date: 2026-01-26
 draft: false
-description: "monument by Ernst Herter"
+description: "The Statue of Hermann von Helmholtz stands as a striking tribute to one of Germany's most esteemed scientists, blending art and intellect in the heart of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

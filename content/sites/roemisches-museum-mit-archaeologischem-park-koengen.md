@@ -3,7 +3,7 @@ title: "Römisches Museum mit Archäologischem Park Köngen"
 site_name: "Römisches Museum mit Archäologischem Park Köngen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römisches Museum mit Archäologischem Park Köngen is a fascinating destination that offers visitors a unique glimpse into the Roman era in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum for local history and history Dietzenbach"
 site_name: "Museum for local history and history Dietzenbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum for Local History and History Dietzenbach serves as a focal point for understanding the cultural and historical narrative of Dietzenbach, a town..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

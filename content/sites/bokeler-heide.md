@@ -3,7 +3,7 @@ title: "Bokeler Heide"
 site_name: "Bokeler Heide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bokeler Heide is a distinguished nature reserve located in Sprakensehl, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

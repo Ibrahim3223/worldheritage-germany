@@ -3,7 +3,7 @@ title: "Werk 2 - Kulturfabrik Leipzig"
 site_name: "Werk 2 - Kulturfabrik Leipzig"
 date: 2026-01-26
 draft: false
-description: "cultural centre in a former factory in Leipzig, Germany"
+description: "Werk 2 - Kulturfabrik Leipzig serves as a dynamic cultural center, repurposed from its original identity as a factory."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

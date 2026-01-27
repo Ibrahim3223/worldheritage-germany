@@ -3,7 +3,7 @@ title: "Straßenbrücke mit Bogen, Unterführung des Grabens der Sparmannmühle 
 site_name: "Straßenbrücke mit Bogen, Unterführung des Grabens der Sparmannmühle Grumbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke mit Bogen, Unterführung des Grabens der Sparmannmühle Grumbach, is a remarkable bridge situated in the Wilsdruff region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

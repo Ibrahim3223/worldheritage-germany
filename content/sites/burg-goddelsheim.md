@@ -3,7 +3,7 @@ title: "Burg Goddelsheim"
 site_name: "Burg Goddelsheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Goddelsheim is a castle situated in the quaint village of Goddelsheim in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

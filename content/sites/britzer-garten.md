@@ -3,7 +3,7 @@ title: "Britzer Garten"
 site_name: "Britzer Garten"
 date: 2026-01-26
 draft: false
-description: "park in Berlin"
+description: "Britzer Garten, a serene park located in the Tempelhof-Schöneberg district of Berlin, offers a delightful escape from the urban bustle."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

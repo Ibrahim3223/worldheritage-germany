@@ -3,7 +3,7 @@ title: "Alter St.-Nikolai-Friedhof"
 site_name: "Alter St.-Nikolai-Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery and park in Hannover-Mitte, Germany"
+description: "Alter St.-Nikolai-Friedhof is an evocative cemetery and park located in the heart of Hannover-Mitte, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"

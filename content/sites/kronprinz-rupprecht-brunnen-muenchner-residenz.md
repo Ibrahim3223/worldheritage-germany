@@ -3,7 +3,7 @@ title: "Kronprinz-Rupprecht-Brunnen (Münchner Residenz)"
 site_name: "Kronprinz-Rupprecht-Brunnen (Münchner Residenz)"
 date: 2026-01-26
 draft: false
-description: "water well in Munich"
+description: "In the heart of Munich’s Altstadt-Lehel district lies the Kronprinz-Rupprecht-Brunnen, a serene water well that adds a touch of elegance to the bustling..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

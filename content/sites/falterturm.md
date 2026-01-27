@@ -3,7 +3,7 @@ title: "Falterturm"
 site_name: "Falterturm"
 date: 2026-01-26
 draft: false
-description: "tower of the fortifications of Kitzingen, Bavaria, Germany"
+description: "The Falterturm, a significant historical structure in Kitzingen, Bavaria, stands as a reminder of the region's storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

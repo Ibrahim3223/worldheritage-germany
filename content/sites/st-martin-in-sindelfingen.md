@@ -3,7 +3,7 @@ title: "St. Martin in Sindelfingen"
 site_name: "St. Martin in Sindelfingen"
 date: 2026-01-26
 draft: false
-description: "church building in Baden-Württemberg, Germany"
+description: "St. Martin in Sindelfingen stands as a significant church building located in the heart of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

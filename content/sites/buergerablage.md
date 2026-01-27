@@ -3,7 +3,7 @@ title: "Bürgerablage"
 site_name: "Bürgerablage"
 date: 2026-01-26
 draft: false
-description: "Bathing area"
+description: "Bürgerablage is a captivating beach area located in the Spandau district of Berlin, Germany, offering a unique blend of relaxation and recreation."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"

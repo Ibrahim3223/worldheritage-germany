@@ -3,7 +3,7 @@ title: "Zimmertheater Tübingen"
 site_name: "Zimmertheater Tübingen"
 date: 2026-01-26
 draft: false
-description: "Stadttheater in Tübingen, Deutschland"
+description: "Zimmertheater Tübingen is a prominent theatre building located in the scenic university town of Tübingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

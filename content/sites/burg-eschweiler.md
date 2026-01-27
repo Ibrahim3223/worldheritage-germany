@@ -3,7 +3,7 @@ title: "Burg Eschweiler"
 site_name: "Burg Eschweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Eschweiler, an evocative castle located in Germany, is a remarkable historical site that captivates visitors with its storied past and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

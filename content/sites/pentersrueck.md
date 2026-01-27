@@ -3,7 +3,7 @@ title: "Pentersrück"
 site_name: "Pentersrück"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Pentersrück is a prominent mountain located in the Hesse region of Germany, distinguished by its natural beauty and geographical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

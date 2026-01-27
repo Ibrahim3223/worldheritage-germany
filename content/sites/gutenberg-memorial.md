@@ -3,7 +3,7 @@ title: "Gutenberg memorial"
 site_name: "Gutenberg memorial"
 date: 2026-01-26
 draft: false
-description: "Memorial in Mainz, Germany"
+description: "The Gutenberg Memorial in Mainz, Germany, is a striking homage to Johannes Gutenberg, the inventor of the printing press and a pivotal figure in the history..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

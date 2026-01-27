@@ -3,7 +3,7 @@ title: "Winklerbrunnen"
 site_name: "Winklerbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Winklerbrunnen, located in the picturesque town of Bad Soden am Taunus, is a captivating example of the region's artistic and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"

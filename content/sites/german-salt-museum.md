@@ -3,7 +3,7 @@ title: "German Salt Museum"
 site_name: "German Salt Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The German Salt Museum in Lüneburg is a unique cultural institution dedicated to the history and significance of salt in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

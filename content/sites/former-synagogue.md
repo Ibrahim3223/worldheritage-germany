@@ -3,7 +3,7 @@ title: "Former synagogue"
 site_name: "Former synagogue"
 date: 2026-01-26
 draft: false
-description: "hall building made of ashlar masonry in Ahrweiler, Rhineland-Palatinate"
+description: "The Former Synagogue in Bad Neuenahr-Ahrweiler is a significant cultural landmark that reflects the rich Jewish heritage of the area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

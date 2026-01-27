@@ -3,7 +3,7 @@ title: "Mallersdorf Abbey"
 site_name: "Mallersdorf Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Mallersdorf Abbey, a remarkable brewery located in the heart of Bavaria, Germany, offers visitors a unique glimpse into monastic life and brewing traditions."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

@@ -3,7 +3,7 @@ title: "Theater Ulüm"
 site_name: "Theater Ulüm"
 date: 2026-01-26
 draft: false
-description: "building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Theater Ulüm, located in the historical city of Ulm, Germany, is a notable theatre building rich in cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

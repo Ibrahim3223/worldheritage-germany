@@ -3,7 +3,7 @@ title: "St.-Remberti-Stift"
 site_name: "St.-Remberti-Stift"
 date: 2026-01-26
 draft: false
-description: "foundation in Bremen, Germany"
+description: "St.-Remberti-Stift is a prominent foundation located in Bremen, Germany, that serves as a notable cultural and historical site within the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"

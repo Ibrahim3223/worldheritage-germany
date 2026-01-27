@@ -3,7 +3,7 @@ title: "Bakelite museum Kierspe"
 site_name: "Bakelite museum Kierspe"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bakelite Museum in Kierspe, Germany, presents an insightful exploration into the world of Bakelite, one of the first synthetic plastics."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

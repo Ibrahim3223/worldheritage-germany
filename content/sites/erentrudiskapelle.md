@@ -3,7 +3,7 @@ title: "Erentrudiskapelle"
 site_name: "Erentrudiskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Erentrudiskapelle, located in Freiburg im Breisgau, Germany, is a chapel that embodies the spiritual and cultural essence of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

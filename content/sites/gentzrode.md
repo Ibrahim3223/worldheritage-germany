@@ -3,7 +3,7 @@ title: "Gentzrode"
 site_name: "Gentzrode"
 date: 2026-01-26
 draft: false
-description: "Anwesen in Neuruppin, Landkreis Ostprignitz-Ruppin, Brandenburg"
+description: "Gentzrode, an architectural ensemble located in Neuruppin, Germany, offers visitors a unique glimpse into the region's rich historical and architectural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Sogenannte Remise, Fasaneriegebäude und Eiskeller sowie Steindeckerbrü
 site_name: "Sogenannte Remise, Fasaneriegebäude und Eiskeller sowie Steindeckerbrücke im Park (Einzeldenkmal zu ID-Nr. 09252042) Am Park 5, 6"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Sogenannte Remise, Fasaneriegebäude und Eiskeller sowie Steindeckerbrücke in Malschwitz, Germany, offers visitors a unique glimpse into the intricate..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

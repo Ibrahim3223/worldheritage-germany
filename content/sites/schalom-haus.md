@@ -3,7 +3,7 @@ title: "Schalom-Haus"
 site_name: "Schalom-Haus"
 date: 2026-01-26
 draft: false
-description: "church building in Schönebeck, Germany"
+description: "Schalom-Haus, a notable synagogue located in Schönebeck, Germany, serves as a significant landmark within the region's cultural landscape."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

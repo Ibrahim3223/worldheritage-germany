@@ -3,7 +3,7 @@ title: "Gut Oheimb"
 site_name: "Gut Oheimb"
 date: 2026-01-26
 draft: false
-description: "manor house in Holzhausen, Germany"
+description: "Gut Oheimb, a distinguished manor house located in Holzhausen, Germany, offers a glimpse into the architectural and cultural heritage of the Porta..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

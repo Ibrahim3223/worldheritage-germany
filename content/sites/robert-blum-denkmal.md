@@ -3,7 +3,7 @@ title: "Robert-Blum-Denkmal"
 site_name: "Robert-Blum-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Karben, Germany"
+description: "The Robert-Blum-Denkmal is a significant monument located in the town of Karben, Germany, dedicated to honoring Robert Blum, a notable figure in the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

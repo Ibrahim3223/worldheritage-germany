@@ -3,7 +3,7 @@ title: "Iranian Library in Hannover"
 site_name: "Iranian Library in Hannover"
 date: 2026-01-26
 draft: false
-description: "sociocultural institution and library in Hannover (Lower Saxony, Germany)"
+description: "The Iranian Library in Hannover stands as a significant sociocultural institution in Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

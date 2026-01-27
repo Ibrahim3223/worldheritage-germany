@@ -3,7 +3,7 @@ title: "Resurrection Church"
 site_name: "Resurrection Church"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf"
+description: "Resurrection Church is a notable church building located in the Oberkassel district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

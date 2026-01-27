@@ -3,7 +3,7 @@ title: "Dicker Turm"
 site_name: "Dicker Turm"
 date: 2026-01-26
 draft: false
-description: "tower in Düren,Germany"
+description: "Dicker Turm, a prominent tower located in the heart of Düren, Germany, stands as a striking historical remnant that attracts visitors intrigued by its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

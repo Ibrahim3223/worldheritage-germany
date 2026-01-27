@@ -3,7 +3,7 @@ title: "Freiherr-vom-Stein-Denkmal"
 site_name: "Freiherr-vom-Stein-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Karstädt, Germany"
+description: "The Freiherr-vom-Stein-Denkmal stands as a notable monument in Karstädt, Germany, honoring the legacy of a significant historical figure."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

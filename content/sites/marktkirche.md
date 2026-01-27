@@ -3,7 +3,7 @@ title: "Marktkirche"
 site_name: "Marktkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Germany, the Marktkirche commands attention with its striking architecture and significant cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

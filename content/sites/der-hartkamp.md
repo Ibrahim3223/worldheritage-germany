@@ -3,7 +3,7 @@ title: "Der Hartkamp"
 site_name: "Der Hartkamp"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Der Hartkamp is a nature reserve located in the tranquil region of Ostrhauderfehn, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

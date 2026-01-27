@@ -3,7 +3,7 @@ title: "Evangelische Kirche Klein-Eichen"
 site_name: "Evangelische Kirche Klein-Eichen"
 date: 2026-01-26
 draft: false
-description: "church building in Klein-Eichen, Germany"
+description: "The Evangelische Kirche Klein-Eichen is a significant church building located in the picturesque village of Klein-Eichen, situated within the Grünberg..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

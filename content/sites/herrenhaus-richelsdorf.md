@@ -3,7 +3,7 @@ title: "Herrenhaus Richelsdorf"
 site_name: "Herrenhaus Richelsdorf"
 date: 2026-01-26
 draft: false
-description: "building in Richelsdorf, Germany"
+description: "Herrenhaus Richelsdorf is a striking manor house located in the picturesque region of Wildeck, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

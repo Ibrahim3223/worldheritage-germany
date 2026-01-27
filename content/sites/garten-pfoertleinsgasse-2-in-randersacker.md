@@ -3,7 +3,7 @@ title: "Garten Pförtleinsgasse 2 in Randersacker"
 site_name: "Garten Pförtleinsgasse 2 in Randersacker"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-79-175-89 (2) in Randersacker, Bavaria"
+description: "Garten Pförtleinsgasse 2 in Randersacker is a distinguished cultural heritage monument located in the picturesque Bavarian region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

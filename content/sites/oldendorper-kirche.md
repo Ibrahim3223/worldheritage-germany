@@ -3,7 +3,7 @@ title: "Oldendorper Kirche"
 site_name: "Oldendorper Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Oldendorp, Germany"
+description: "Oldendorper Kirche is a church building located in the village of Oldendorp, Germany, within the region of Jemgum."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

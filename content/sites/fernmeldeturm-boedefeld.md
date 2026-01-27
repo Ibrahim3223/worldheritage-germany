@@ -3,7 +3,7 @@ title: "Fernmeldeturm Bödefeld"
 site_name: "Fernmeldeturm Bödefeld"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Bödefeld is an iconic communications tower located in the picturesque region of Schmallenberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

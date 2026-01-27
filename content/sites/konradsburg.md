@@ -3,7 +3,7 @@ title: "Konradsburg"
 site_name: "Konradsburg"
 date: 2026-01-26
 draft: false
-description: "Burg in Falkenstein/Harz, Landkreis Harz, Sachsen-Anhalt"
+description: "Konradsburg, a historic monastery located in the picturesque Falkenstein/Harz region of Germany, offers visitors an exceptional glimpse into the monastic..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"

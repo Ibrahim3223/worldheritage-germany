@@ -3,7 +3,7 @@ title: "Brauerei Kaiserdom"
 site_name: "Brauerei Kaiserdom"
 date: 2026-01-26
 draft: false
-description: "brewery in Bamberg, Germany"
+description: "Brauerei Kaiserdom, located in the historic city of Bamberg, Germany, is a brewery that embodies the proud brewing traditions of this region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

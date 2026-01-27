@@ -3,7 +3,7 @@ title: "Church of Saints Cosmas and Damian, Stade"
 site_name: "Church of Saints Cosmas and Damian, Stade"
 date: 2026-01-26
 draft: false
-description: "church in Stade, Germany"
+description: "The Church of Saints Cosmas and Damian stands as a significant ecclesiastical structure in Stade, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

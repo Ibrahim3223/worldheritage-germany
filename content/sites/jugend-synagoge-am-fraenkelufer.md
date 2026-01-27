@@ -3,7 +3,7 @@ title: "Jugend-Synagoge am Fraenkelufer"
 site_name: "Jugend-Synagoge am Fraenkelufer"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Jugend-Synagoge am Fraenkelufer stands in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Synagogue"

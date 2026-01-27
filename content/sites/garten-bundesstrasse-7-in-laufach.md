@@ -3,7 +3,7 @@ title: "Garten Bundesstraße 7 in Laufach"
 site_name: "Garten Bundesstraße 7 in Laufach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-71-139-28 (2) in Laufach, Bavaria"
+description: "Garten Bundesstraße 7 in Laufach is a significant cultural heritage monument located in the scenic region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

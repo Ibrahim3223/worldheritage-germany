@@ -3,7 +3,7 @@ title: "Lutherische Kirche"
 site_name: "Lutherische Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Südbrookmerland, Germany"
+description: "The Lutherische Kirche, a notable church building located in Südbrookmerland, Germany, is an emblem of the region's religious heritage and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

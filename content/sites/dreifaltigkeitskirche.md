@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche"
 site_name: "Dreifaltigkeitskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dreifaltigkeitskirche, a prominent church building located in Wiesbaden, Germany, serves not only as a place of worship but also as a significant..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

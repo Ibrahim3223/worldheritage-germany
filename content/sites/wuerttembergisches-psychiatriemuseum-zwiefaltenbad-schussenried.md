@@ -3,7 +3,7 @@ title: "Württembergisches Psychiatriemuseum Zwiefalten/Bad Schussenried"
 site_name: "Württembergisches Psychiatriemuseum Zwiefalten/Bad Schussenried"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Württembergisches Psychiatriemuseum Zwiefalten/Bad Schussenried is an intriguing museum in Germany that delves into the history and evolution of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

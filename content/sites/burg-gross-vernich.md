@@ -3,7 +3,7 @@ title: "Burg Groß-Vernich"
 site_name: "Burg Groß-Vernich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Groß-Vernich, a castle located in the quaint region of Weilerswist, Germany, invites visitors to explore its storied past and architectural grandeur."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

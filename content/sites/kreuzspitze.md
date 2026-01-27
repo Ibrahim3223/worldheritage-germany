@@ -3,7 +3,7 @@ title: "Kreuzspitze"
 site_name: "Kreuzspitze"
 date: 2026-01-26
 draft: false
-description: "mountain in the Ammergau Alps in Bavaria"
+description: "Kreuzspitze, a distinguished mountain in the Ammergau Alps of Bavaria, Germany, presents an inviting landscape for outdoor enthusiasts and nature lovers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

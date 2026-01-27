@@ -3,7 +3,7 @@ title: "Nürburg Castle"
 site_name: "Nürburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Perched above the picturesque village of Nürburg in western Germany, Nürburg Castle invites visitors to explore its storied past and enjoy the captivating..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

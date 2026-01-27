@@ -3,7 +3,7 @@ title: "Römerschanze"
 site_name: "Römerschanze"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "The Römerschanze is a remarkable fortification located in the serene Grünwalder Forst region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

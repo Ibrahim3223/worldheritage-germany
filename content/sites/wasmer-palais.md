@@ -3,7 +3,7 @@ title: "Wasmer-Palais"
 site_name: "Wasmer-Palais"
 date: 2026-01-26
 draft: false
-description: "building in Glückstadt (Germany)"
+description: "The Wasmer-Palais, an elegant palace located in Glückstadt, Germany, invites visitors to explore a blend of historical charm and architectural grace."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

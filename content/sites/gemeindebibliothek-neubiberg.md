@@ -3,7 +3,7 @@ title: "Gemeindebibliothek Neubiberg"
 site_name: "Gemeindebibliothek Neubiberg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Neubiberg, Germany, lies the Gemeindebibliothek Neubiberg, a community library that serves as an essential resource for residents and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

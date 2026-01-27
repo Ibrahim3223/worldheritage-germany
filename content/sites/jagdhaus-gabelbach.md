@@ -3,7 +3,7 @@ title: "Jagdhaus Gabelbach"
 site_name: "Jagdhaus Gabelbach"
 date: 2026-01-26
 draft: false
-description: "Hunting lodge in Ilmenau, Thuringia, Germany"
+description: "Jagdhaus Gabelbach, a captivating museum located in Ilmenau, Thuringia, Germany, serves as a unique portal into the region’s historical relationship with..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

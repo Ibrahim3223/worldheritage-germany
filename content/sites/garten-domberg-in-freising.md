@@ -3,7 +3,7 @@ title: "Garten Domberg in Freising"
 site_name: "Garten Domberg in Freising"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-78-124-38 (1) in Freising, Bavaria"
+description: "In the charming city of Freising, located in Bavaria, Germany, lies Garten Domberg—a garden that is not only a serene escape but also a significant cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

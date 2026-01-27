@@ -3,7 +3,7 @@ title: "Hardenbergplatz"
 site_name: "Hardenbergplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Charlottenburg-Wilmersdorf, Germany"
+description: "Hardenbergplatz is a prominent public square located in the Charlottenburg-Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

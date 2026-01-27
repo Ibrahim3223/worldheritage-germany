@@ -3,7 +3,7 @@ title: "Kloster Mariensee"
 site_name: "Kloster Mariensee"
 date: 2026-01-26
 draft: false
-description: "Evangelical Lutheran women's convent in Mariensee close to Hanover, Germany"
+description: "Kloster Mariensee, located in the region of Neustadt am Rübenberge, Germany, serves as an important cultural and historical site highlighting the traditions..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

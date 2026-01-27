@@ -3,7 +3,7 @@ title: "Lower Market Square"
 site_name: "Lower Market Square"
 date: 2026-01-26
 draft: false
-description: "square in Görlitz, Germany"
+description: "Lower Market Square, located in the historic city of Görlitz, Germany, serves as a vibrant hub of culture and community life."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Square"

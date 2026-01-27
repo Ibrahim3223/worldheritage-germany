@@ -3,7 +3,7 @@ title: "Ödriegel"
 site_name: "Ödriegel"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Ödriegel, a prominent mountain located in the heart of Bavaria, Germany, offers visitors a captivating blend of natural beauty and cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

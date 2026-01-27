@@ -3,7 +3,7 @@ title: "Special library for ecclesiastical and cultural history"
 site_name: "Special library for ecclesiastical and cultural history"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Special Library for Ecclesiastical and Cultural History in Ziesar, Germany, serves as a vital repository of knowledge, focusing on the intersection of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

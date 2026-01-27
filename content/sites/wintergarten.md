@@ -3,7 +3,7 @@ title: "Wintergarten"
 site_name: "Wintergarten"
 date: 2026-01-26
 draft: false
-description: "former variety theatre in Berlin, Germany"
+description: "The Wintergarten, a historic theatre building located in the vibrant heart of Berlin, Germany, offers visitors a glimpse into the city's rich cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

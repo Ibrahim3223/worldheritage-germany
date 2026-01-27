@@ -3,7 +3,7 @@ title: "Erdgeschichtliche Sammlung der Märker Zement GmbH Werk Lauffen"
 site_name: "Erdgeschichtliche Sammlung der Märker Zement GmbH Werk Lauffen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Erdgeschichtliche Sammlung der Märker Zement GmbH Werk Lauffen is a unique museum located in Germany that invites visitors to explore the fascinating..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

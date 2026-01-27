@@ -3,7 +3,7 @@ title: "Brickyard Lage"
 site_name: "Brickyard Lage"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Brickyard Lage is a unique museum located in the town of Lage, Germany, dedicated to the rich history and cultural significance of brick production."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Stadtmuseum Aichach"
 site_name: "Stadtmuseum Aichach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Aichach serves as a window into the cultural and historical landscape of Aichach, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

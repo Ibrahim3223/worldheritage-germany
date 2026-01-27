@@ -3,7 +3,7 @@ title: "Flechtingen Hills"
 site_name: "Flechtingen Hills"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "The Flechtingen Hills, located in Germany's Börde District, offer a unique blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

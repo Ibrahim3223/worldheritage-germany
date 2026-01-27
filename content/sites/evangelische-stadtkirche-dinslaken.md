@@ -3,7 +3,7 @@ title: "Evangelische Stadtkirche Dinslaken"
 site_name: "Evangelische Stadtkirche Dinslaken"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Stadtkirche Dinslaken offers a glimpse into the spiritual and cultural fabric of Dinslaken, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

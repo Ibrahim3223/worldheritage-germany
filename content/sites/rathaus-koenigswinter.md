@@ -3,7 +3,7 @@ title: "Rathaus (Königswinter)"
 site_name: "Rathaus (Königswinter)"
 date: 2026-01-26
 draft: false
-description: "Gebäudeensemble in Königswinter"
+description: "The Rathaus in Königswinter, Germany, is an architectural ensemble that encapsulates the charm and historical significance of this picturesque town."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

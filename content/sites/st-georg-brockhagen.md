@@ -3,7 +3,7 @@ title: "St. Georg, Brockhagen"
 site_name: "St. Georg, Brockhagen"
 date: 2026-01-26
 draft: false
-description: "Baroque Protestant church"
+description: "St. Georg in Brockhagen is a remarkable Baroque Protestant church located in the Steinhagen region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Burgwall Hungerstorf"
 site_name: "Burgwall Hungerstorf"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Hungerstorf is an intriguing hillfort located in the Faulenrost region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Hillfort"

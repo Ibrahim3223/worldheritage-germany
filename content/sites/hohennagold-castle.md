@@ -3,7 +3,7 @@ title: "Hohennagold Castle"
 site_name: "Hohennagold Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hohennagold Castle, an intriguing historical edifice located in the picturesque region of Nagold, Germany, is a remarkable site that evokes curiosity and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

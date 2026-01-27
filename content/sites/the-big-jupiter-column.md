@@ -3,7 +3,7 @@ title: "The Big Jupiter column"
 site_name: "The Big Jupiter column"
 date: 2026-01-26
 draft: false
-description: "monument in Mainz, Germany"
+description: "The Big Jupiter Column, a striking monument located in Mainz, Germany, is a captivating symbol of the city’s rich cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

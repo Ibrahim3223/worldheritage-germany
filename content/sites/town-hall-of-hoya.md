@@ -3,7 +3,7 @@ title: "Town hall of Hoya"
 site_name: "Town hall of Hoya"
 date: 2026-01-26
 draft: false
-description: "building in Hoya, Germany"
+description: "The Town Hall of Hoya is a prominent structure located in the charming town of Hoya, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Little Church upon the Sea"
 site_name: "Little Church upon the Sea"
 date: 2026-01-26
 draft: false
-description: "church in Husum"
+description: "The Little Church upon the Sea, located in the charming town of Husum, Germany, is a unique church building that attracts visitors with its quaint charm and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

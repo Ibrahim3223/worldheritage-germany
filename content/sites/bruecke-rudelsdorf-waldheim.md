@@ -3,7 +3,7 @@ title: "Brücke Rudelsdorf (Waldheim)"
 site_name: "Brücke Rudelsdorf (Waldheim)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Brücke Rudelsdorf, located in Waldheim, Germany, is a significant bridge that combines functionality with historical importance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

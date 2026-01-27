@@ -3,7 +3,7 @@ title: "Reichenbach (Vogtl) ob Bf railway station"
 site_name: "Reichenbach (Vogtl) ob Bf railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Reichenbach im Vogtland, Germany"
+description: "Reichenbach (Vogtl) ob Bf railway station is a pivotal transport hub located in Reichenbach im Vogtland, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

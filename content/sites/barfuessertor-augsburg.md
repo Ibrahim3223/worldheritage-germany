@@ -3,7 +3,7 @@ title: "Barfüßertor (Augsburg)"
 site_name: "Barfüßertor (Augsburg)"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Augsburger Stadttor"
+description: "The Barfüßertor, a significant city gate in Augsburg, Germany, serves as a remarkable link between the past and the present."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

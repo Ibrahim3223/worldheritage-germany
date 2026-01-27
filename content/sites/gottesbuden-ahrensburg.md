@@ -3,7 +3,7 @@ title: "Gottesbuden, Ahrensburg"
 site_name: "Gottesbuden, Ahrensburg"
 date: 2026-01-26
 draft: false
-description: "Gebäudeensemble in Ahrensburg (Schleswig-Holstein)"
+description: "Gottesbuden in Ahrensburg, Germany, is an architectural ensemble that captures the essence of regional history and craftsmanship."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

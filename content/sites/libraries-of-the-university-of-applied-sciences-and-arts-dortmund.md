@@ -3,7 +3,7 @@ title: "Libraries of the University of Applied Sciences and Arts Dortmund"
 site_name: "Libraries of the University of Applied Sciences and Arts Dortmund"
 date: 2026-01-26
 draft: false
-description: "university library"
+description: "The Libraries of the University of Applied Sciences and Arts Dortmund serve as pivotal hubs for education, research, and community engagement in Dortmund,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

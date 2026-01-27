@@ -3,7 +3,7 @@ title: "Arbeitsgemeinschaft Geesthachter Eisenbahn"
 site_name: "Arbeitsgemeinschaft Geesthachter Eisenbahn"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Arbeitsgemeinschaft Geesthachter Eisenbahn, located in the vibrant region of Hamburg, Germany, offers a unique insight into the historical significance..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

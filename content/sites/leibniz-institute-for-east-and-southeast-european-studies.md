@@ -3,7 +3,7 @@ title: "Leibniz Institute for East and Southeast European Studies"
 site_name: "Leibniz Institute for East and Southeast European Studies"
 date: 2026-01-26
 draft: false
-description: "research institute in Regensburg, Germany"
+description: "The Leibniz Institute for East and Southeast European Studies, located in Regensburg, Germany, serves as a pivotal research institution dedicated to the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

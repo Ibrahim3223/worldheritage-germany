@@ -3,7 +3,7 @@ title: "Burg Kommern"
 site_name: "Burg Kommern"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched within the verdant landscape of Mechernich, Germany, Burg Kommern stands as a fascinating representation of medieval architecture and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

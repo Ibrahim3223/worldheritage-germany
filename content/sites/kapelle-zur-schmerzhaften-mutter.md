@@ -3,7 +3,7 @@ title: "Kapelle zur schmerzhaften Mutter"
 site_name: "Kapelle zur schmerzhaften Mutter"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Ostbevern"
+description: "The Kapelle zur schmerzhaften Mutter in Ostbevern, Germany, is a devotional site that invites visitors to reflect on both spiritual and architectural beauty."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

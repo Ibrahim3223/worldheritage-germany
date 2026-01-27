@@ -3,7 +3,7 @@ title: "Hausteinbogenbrücke Höckendorf"
 site_name: "Hausteinbogenbrücke Höckendorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Hausteinbogenbrücke Höckendorf is not merely a bridge; it is a captivating structure that embodies the engineering prowess and aesthetic sensibility of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

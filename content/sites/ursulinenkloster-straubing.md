@@ -3,7 +3,7 @@ title: "Ursulinenkloster Straubing"
 site_name: "Ursulinenkloster Straubing"
 date: 2026-01-26
 draft: false
-description: "human settlement, monastery in Straubing, Bavaria"
+description: "The Ursulinenkloster Straubing, located in the heart of Straubing, Bavaria, is a striking example of monastic heritage that intertwines spirituality and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

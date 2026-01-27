@@ -3,7 +3,7 @@ title: "Palais Zocha"
 site_name: "Palais Zocha"
 date: 2026-01-26
 draft: false
-description: "building in Gunzenhausen, Middle Franconia, Germany"
+description: "Palais Zocha is a distinguished palace located in Gunzenhausen, in the picturesque region of Middle Franconia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

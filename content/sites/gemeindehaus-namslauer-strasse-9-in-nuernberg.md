@@ -3,7 +3,7 @@ title: "Gemeindehaus Namslauer Straße 9 in Nürnberg"
 site_name: "Gemeindehaus Namslauer Straße 9 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-2459 (1) in Nürnberg, Bavaria"
+description: "Located in the heart of Nuremberg, the Gemeindehaus Namslauer Straße 9 serves as a prominent city hall with deep cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

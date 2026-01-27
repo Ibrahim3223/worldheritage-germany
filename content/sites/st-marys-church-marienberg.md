@@ -3,7 +3,7 @@ title: "St Mary's Church, Marienberg"
 site_name: "St Mary's Church, Marienberg"
 date: 2026-01-26
 draft: false
-description: "church building in Marienberg, Germany"
+description: "St Mary's Church in Marienberg is a striking example of religious architecture situated in Germany's Saxony region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

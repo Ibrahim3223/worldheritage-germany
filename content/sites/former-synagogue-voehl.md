@@ -3,7 +3,7 @@ title: "former synagogue Vöhl"
 site_name: "former synagogue Vöhl"
 date: 2026-01-26
 draft: false
-description: "ehemalige jüdische Gemeinde mit Synagoge und Friedhof in Vöhl in Hessen"
+description: "The former synagogue in Vöhl, Germany, is a poignant reminder of the Jewish community that once thrived in this region of Hessen."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

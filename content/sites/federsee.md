@@ -3,7 +3,7 @@ title: "Federsee"
 site_name: "Federsee"
 date: 2026-01-26
 draft: false
-description: "lake in Baden-Württemberg, Germany"
+description: "Federsee is a captivating lake located in the Biberach district of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

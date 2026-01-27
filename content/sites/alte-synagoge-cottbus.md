@@ -3,7 +3,7 @@ title: "Alte Synagoge (Cottbus)"
 site_name: "Alte Synagoge (Cottbus)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Alte Synagoge in Cottbus, Germany, serves as a poignant reminder of the rich cultural heritage and historical presence of the Jewish community in the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

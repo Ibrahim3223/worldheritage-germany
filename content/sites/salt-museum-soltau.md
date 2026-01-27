@@ -3,7 +3,7 @@ title: "Salt museum Soltau"
 site_name: "Salt museum Soltau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Salt Museum Soltau in Germany serves as a fascinating exploration of the region's salt production history and its cultural impact."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

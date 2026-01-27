@@ -3,7 +3,7 @@ title: "Elchingen Abbey"
 site_name: "Elchingen Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Elchingen Abbey, a significant monastery located in Elchingen, Germany, stands as a remarkable example of monastic architecture and spiritual heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

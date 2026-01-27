@@ -3,7 +3,7 @@ title: "Karlstraße 1, 2/3, 4"
 site_name: "Karlstraße 1, 2/3, 4"
 date: 2026-01-26
 draft: false
-description: "buildings in Eilenburg, Germany"
+description: "Karlstraße 1, 2/3, 4 is an architectural ensemble located in the town of Eilenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

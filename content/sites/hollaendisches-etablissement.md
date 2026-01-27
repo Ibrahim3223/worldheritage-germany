@@ -3,7 +3,7 @@ title: "Holländisches Etablissement"
 site_name: "Holländisches Etablissement"
 date: 2026-01-26
 draft: false
-description: "residential building in Potsdam, Germany"
+description: "The Holländisches Etablissement, located in the heart of Potsdam, Germany, is a fascinating example of residential architecture that reflects the city’s..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Residential Building"

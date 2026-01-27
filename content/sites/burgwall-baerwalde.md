@@ -3,7 +3,7 @@ title: "Burgwall Bärwalde"
 site_name: "Burgwall Bärwalde"
 date: 2026-01-26
 draft: false
-description: "hillfort"
+description: "Burgwall Bärwalde represents a significant archaeological site in Brandenburg, Germany, embodying the enduring legacy of ancient cultures."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

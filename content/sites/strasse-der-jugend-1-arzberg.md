@@ -3,7 +3,7 @@ title: "Straße der Jugend 1 Arzberg"
 site_name: "Straße der Jugend 1 Arzberg"
 date: 2026-01-26
 draft: false
-description: "former school building in Arzberg (Saxony)"
+description: "In the heart of Arzberg, Germany, a town known for its rich educational history, lies the former school building that now houses the Straße der Jugend 1 Museum."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

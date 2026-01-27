@@ -3,7 +3,7 @@ title: "Weinbiet"
 site_name: "Weinbiet"
 date: 2026-01-26
 draft: false
-description: "mountain in Germany"
+description: "Weinbiet, a prominent mountain located in the Neustadt an der Weinstraße region of Germany, offers visitors a unique blend of natural beauty and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

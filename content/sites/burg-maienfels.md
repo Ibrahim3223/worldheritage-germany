@@ -3,7 +3,7 @@ title: "Burg Maienfels"
 site_name: "Burg Maienfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Maienfels, a captivating castle located in Wüstenrot, Germany, offers visitors a glimpse into the architectural and cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

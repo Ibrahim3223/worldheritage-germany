@@ -3,7 +3,7 @@ title: "St.-Johannis-Kapelle"
 site_name: "St.-Johannis-Kapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Johannis-Kapelle, a quaint yet significant chapel located in the Kirchrode-Bemerode-Wülferode region of Germany, offers visitors a glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

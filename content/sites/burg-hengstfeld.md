@@ -3,7 +3,7 @@ title: "Burg Hengstfeld"
 site_name: "Burg Hengstfeld"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hengstfeld, a captivating castle located in the Wallhausen region of Germany, offers visitors a glimpse into the architectural and cultural heritage of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

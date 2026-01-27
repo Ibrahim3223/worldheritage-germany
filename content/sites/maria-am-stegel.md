@@ -3,7 +3,7 @@ title: "Maria am Stegel"
 site_name: "Maria am Stegel"
 date: 2026-01-26
 draft: false
-description: "ehemalige Kapelle in der Lübecker Altstadt"
+description: "Maria am Stegel is a quaint chapel situated in the heart of Lübeck's Old City, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Burg Heimhof"
 site_name: "Burg Heimhof"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Heimhof, a castle located in the picturesque region of Ursensollen, Germany, invites visitors to explore its storied past and architectural splendor."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

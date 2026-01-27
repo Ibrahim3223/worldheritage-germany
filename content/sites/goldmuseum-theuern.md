@@ -3,7 +3,7 @@ title: "Goldmuseum Theuern"
 site_name: "Goldmuseum Theuern"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Goldmuseum Theuern, located in the picturesque region of Thuringia, Germany, offers visitors a unique glimpse into the world of gold and its historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

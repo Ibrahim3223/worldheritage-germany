@@ -3,7 +3,7 @@ title: "Borgentrick tower"
 site_name: "Borgentrick tower"
 date: 2026-01-26
 draft: false
-description: "defensive tower in Hanover, Germany"
+description: "The Borgentrick Tower, a historic defensive structure located in Hanover, Germany, offers a glimpse into the city’s medieval past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

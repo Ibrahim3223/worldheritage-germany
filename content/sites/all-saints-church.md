@@ -3,7 +3,7 @@ title: "All Saints Church"
 site_name: "All Saints Church"
 date: 2026-01-26
 draft: false
-description: "roman-catholic church in Frankfurt am Main, Germany"
+description: "All Saints Church, a striking Roman Catholic church located in Frankfurt am Main, Germany, serves not only as a place of worship but also as a significant..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Burg Merkenberg"
 site_name: "Burg Merkenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Merkenberg, a striking castle located in the scenic region of Neidlingen, Germany, presents an intriguing glimpse into medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

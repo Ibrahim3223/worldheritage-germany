@@ -3,7 +3,7 @@ title: "Munich Forest Cemetery"
 site_name: "Munich Forest Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Munich, Germany"
+description: "The Munich Forest Cemetery, located in the heart of Germany's vibrant capital, stands as a serene park and a final resting place that reflects the city's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

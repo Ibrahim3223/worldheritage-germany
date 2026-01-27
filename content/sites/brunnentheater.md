@@ -3,7 +3,7 @@ title: "Brunnentheater"
 site_name: "Brunnentheater"
 date: 2026-01-26
 draft: false
-description: "theatre in Bad Helmstedt, Germany"
+description: "Brunnentheater, located in the town of Bad Helmstedt, Germany, is a captivating theatre building that offers visitors a glimpse into the vibrant cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

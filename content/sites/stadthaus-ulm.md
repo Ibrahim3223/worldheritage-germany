@@ -3,7 +3,7 @@ title: "Stadthaus Ulm"
 site_name: "Stadthaus Ulm"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Ulm, Germany"
+description: "Stadthaus Ulm is a striking architectural landmark and museum located in the heart of Ulm, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

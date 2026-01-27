@@ -3,7 +3,7 @@ title: "Burg Zusameck"
 site_name: "Burg Zusameck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Zusameck, a captivating fortification located in the Dinkelscherben region of Germany, offers an intriguing glimpse into the medieval architecture and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

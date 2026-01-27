@@ -3,7 +3,7 @@ title: "Katharinenkirche"
 site_name: "Katharinenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Stralsund, Germany"
+description: "Katharinenkirche, a striking church building located in Stralsund, Germany, serves as a significant landmark that intersects history, culture, and architecture."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

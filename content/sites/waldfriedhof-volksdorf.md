@@ -3,7 +3,7 @@ title: "Waldfriedhof Volksdorf"
 site_name: "Waldfriedhof Volksdorf"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wandsbek, Germany"
+description: "Waldfriedhof Volksdorf, located in the Wandsbek district of Hamburg, Germany, is a serene cemetery that offers visitors a unique glimpse into the region's..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"

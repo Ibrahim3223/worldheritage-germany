@@ -3,7 +3,7 @@ title: "Richard-Wagner-Stätten Graupa"
 site_name: "Richard-Wagner-Stätten Graupa"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Richard-Wagner-Stätten Graupa serves as a museum dedicated to the illustrious composer Richard Wagner, providing an engaging insight into his life and work."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

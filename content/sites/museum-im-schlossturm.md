@@ -3,7 +3,7 @@ title: "Museum im Schlossturm"
 site_name: "Museum im Schlossturm"
 date: 2026-01-26
 draft: false
-description: "museum in Diepholz, Germany"
+description: "Museum im Schlossturm is a cultural institution located in Diepholz, Germany, that invites visitors to explore the region's heritage and history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

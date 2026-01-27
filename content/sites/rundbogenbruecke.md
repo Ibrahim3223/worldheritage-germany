@@ -3,7 +3,7 @@ title: "Rundbogenbrücke"
 site_name: "Rundbogenbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rundbogenbrücke, a remarkable bridge located in the picturesque Haselbachtal region of Germany, serves as both a functional thoroughfare and a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

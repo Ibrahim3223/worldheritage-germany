@@ -3,7 +3,7 @@ title: "Kloster Gevelsberg"
 site_name: "Kloster Gevelsberg"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kloster in Gevelsberg, Deutschland"
+description: "Kloster Gevelsberg, a historic monastery located in Gevelsberg, Germany, serves as a remarkable example of monastic architecture and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

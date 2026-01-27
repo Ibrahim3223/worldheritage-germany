@@ -3,7 +3,7 @@ title: "Schloss Neetzow"
 site_name: "Schloss Neetzow"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Neetzow, a historic manor house located in Neetzow-Liepen, Germany, exemplifies the architectural elegance and cultural significance of the region."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

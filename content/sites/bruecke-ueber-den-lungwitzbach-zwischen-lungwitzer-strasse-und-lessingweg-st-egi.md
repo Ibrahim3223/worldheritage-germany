@@ -3,7 +3,7 @@ title: "Brücke über den Lungwitzbach, zwischen Lungwitzer Straße und Lessingw
 site_name: "Brücke über den Lungwitzbach, zwischen Lungwitzer Straße und Lessingweg St. Egidien"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über den Lungwitzbach, located between Lungwitzer Straße and Lessingweg in St."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

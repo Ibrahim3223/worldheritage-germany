@@ -3,7 +3,7 @@ title: "Dom-Museum"
 site_name: "Dom-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt/Main, Germany"
+description: "The Dom-Museum in Frankfurt, Germany, is a cultural institution that offers a profound insight into the city's ecclesiastical heritage and the historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

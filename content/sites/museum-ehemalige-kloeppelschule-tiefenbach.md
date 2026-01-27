@@ -3,7 +3,7 @@ title: "Museum ehemalige Klöppelschule Tiefenbach"
 site_name: "Museum ehemalige Klöppelschule Tiefenbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum ehemalige Klöppelschule Tiefenbach, located in the heart of Germany, offers visitors a unique glimpse into a crucial aspect of the country’s..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

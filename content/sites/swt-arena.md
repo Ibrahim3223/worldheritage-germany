@@ -3,7 +3,7 @@ title: "SWT-Arena"
 site_name: "SWT-Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall"
+description: "The SWT-Arena stands as a dynamic multi-purpose hall located in the historic city of Trier, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

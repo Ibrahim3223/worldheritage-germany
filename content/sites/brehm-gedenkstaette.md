@@ -3,7 +3,7 @@ title: "Brehm-Gedenkstätte"
 site_name: "Brehm-Gedenkstätte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brehm-Gedenkstätte, located in the serene region of Renthendorf, Germany, serves as a museum dedicated to the legacy of the renowned naturalist Alfred..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

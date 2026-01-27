@@ -3,7 +3,7 @@ title: "Arboretum Main-Taunus"
 site_name: "Arboretum Main-Taunus"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Hesse, Germany"
+description: "In the heart of Hesse, Germany, lies the Arboretum Main-Taunus, a botanical garden that serves as a serene sanctuary for plant enthusiasts and casual..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

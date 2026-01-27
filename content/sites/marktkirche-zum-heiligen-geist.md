@@ -3,7 +3,7 @@ title: "Marktkirche zum Heiligen Geist"
 site_name: "Marktkirche zum Heiligen Geist"
 date: 2026-01-26
 draft: false
-description: "church in Clausthal-Zellerfeld, Germany"
+description: "Marktkirche zum Heiligen Geist, located in the town of Clausthal-Zellerfeld in Germany, is a striking example of ecclesiastical architecture that has been..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum Hofmühle Dresden"
 site_name: "Museum Hofmühle Dresden"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Museum Hofmühle Dresden is a captivating cultural institution located in the historic city of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

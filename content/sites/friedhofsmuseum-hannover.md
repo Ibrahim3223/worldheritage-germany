@@ -3,7 +3,7 @@ title: "Friedhofsmuseum Hannover"
 site_name: "Friedhofsmuseum Hannover"
 date: 2026-01-26
 draft: false
-description: "cemetery museum in Hannover, Germany"
+description: "In the heart of Döhren-Wülfel, a district of Hannover, Germany, lies the Friedhofsmuseum Hannover, a unique cemetery museum that invites visitors to explore..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Saint Otto of Bamberg Church"
 site_name: "Saint Otto of Bamberg Church"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "Saint Otto of Bamberg Church, a significant religious site located in the charming town of Ottobrunn, Germany, serves as a focal point for both spiritual..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

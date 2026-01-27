@@ -3,7 +3,7 @@ title: "Knock lighthouse"
 site_name: "Knock lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "Perched along the serene coastline of Lower Saxony, Knock Lighthouse serves as both a maritime guide and a testament to the region's enduring relationship..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

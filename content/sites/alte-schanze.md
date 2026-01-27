@@ -3,7 +3,7 @@ title: "Alte Schanze"
 site_name: "Alte Schanze"
 date: 2026-01-26
 draft: false
-description: "Burg in Hessen, Deutschland"
+description: "Alte Schanze, an intriguing castle located in Bad Nauheim, Germany, stands as a significant reminder of the region's medieval heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

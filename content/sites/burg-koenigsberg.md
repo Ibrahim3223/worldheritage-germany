@@ -3,7 +3,7 @@ title: "Burg Königsberg"
 site_name: "Burg Königsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Königsberg is a captivating castle located in Biebertal, Germany, that offers visitors a glimpse into the architectural and cultural heritage of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

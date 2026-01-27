@@ -3,7 +3,7 @@ title: "Denkershäuser Teich"
 site_name: "Denkershäuser Teich"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Denkershäuser Teich, a designated nature reserve in Lower Saxony, Germany, serves as a crucial habitat for diverse wildlife and a serene retreat for nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

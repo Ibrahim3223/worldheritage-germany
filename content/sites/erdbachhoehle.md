@@ -3,7 +3,7 @@ title: "Erdbachhöhle"
 site_name: "Erdbachhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Erdbachhöhle, located in Breitscheid, Germany, offers a unique glimpse into the subterranean world of caves, showcasing the geological wonders that lie..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"

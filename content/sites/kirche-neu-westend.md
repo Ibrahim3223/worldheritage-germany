@@ -3,7 +3,7 @@ title: "Kirche Neu-Westend"
 site_name: "Kirche Neu-Westend"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Kirche Neu-Westend, located in the Charlottenburg-Wilmersdorf district of Berlin, is a notable church building that reflects the spiritual and architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

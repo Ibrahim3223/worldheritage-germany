@@ -3,7 +3,7 @@ title: "Steuermuseum"
 site_name: "Steuermuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Steuermuseum, located in the charming town of Brühl, Germany, is a must-visit destination for history enthusiasts and museum-goers alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

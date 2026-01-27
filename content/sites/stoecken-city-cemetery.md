@@ -3,7 +3,7 @@ title: "Stöcken City Cemetery"
 site_name: "Stöcken City Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hanover, Germany"
+description: "Stöcken City Cemetery, located in the Herrenhausen-Stöcken region of Hanover, Germany, is a tranquil resting place that invites visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

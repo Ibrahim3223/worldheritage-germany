@@ -3,7 +3,7 @@ title: "Alter Nordfriedhof"
 site_name: "Alter Nordfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Munich"
+description: "Alter Nordfriedhof, a historic cemetery located in Munich, Germany, serves as an important cultural and green space within the urban environment."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

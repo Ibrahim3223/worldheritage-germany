@@ -3,7 +3,7 @@ title: "Eight Corners"
 site_name: "Eight Corners"
 date: 2026-01-26
 draft: false
-description: "buildings in Potsdam, Germany"
+description: "Eight Corners, an architectural ensemble located in the heart of Potsdam, Germany, offers visitors a glimpse into the city’s storied past and its..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

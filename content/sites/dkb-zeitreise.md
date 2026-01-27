@@ -3,7 +3,7 @@ title: "DKB-Zeitreise"
 site_name: "DKB-Zeitreise"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The DKB-Zeitreise museum in Heimbach, Germany, invites visitors to explore the nuances of local heritage through a captivating collection dedicated to the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

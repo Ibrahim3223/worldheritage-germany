@@ -3,7 +3,7 @@ title: "Alte Leine"
 site_name: "Alte Leine"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Alte Leine is a former nature reserve located in the scenic region of Laatzen, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

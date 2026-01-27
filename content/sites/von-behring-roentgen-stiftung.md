@@ -3,7 +3,7 @@ title: "Von Behring-Röntgen-Stiftung"
 site_name: "Von Behring-Röntgen-Stiftung"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Marburg, Germany"
+description: "The Von Behring-Röntgen-Stiftung, located in Marburg, Germany, is a nonprofit organization with a notable commitment to advancing medical science."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

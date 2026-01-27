@@ -3,7 +3,7 @@ title: "Thüringer Museum, Eisenach"
 site_name: "Thüringer Museum, Eisenach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thüringer Museum in Eisenach stands as a beacon of cultural heritage in the heart of Thuringia, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

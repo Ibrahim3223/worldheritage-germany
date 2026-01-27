@@ -3,7 +3,7 @@ title: "Burg Heidenpütz"
 site_name: "Burg Heidenpütz"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heidenpütz, a captivating castle located in the picturesque region of Nassau, Germany, invites visitors to explore its storied past and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

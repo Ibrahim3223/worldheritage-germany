@@ -3,7 +3,7 @@ title: "Zuschlag"
 site_name: "Zuschlag"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Rahden, North Rhine-Westphalia, Germany"
+description: "Zuschlag is a serene nature reserve located in Rahden, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

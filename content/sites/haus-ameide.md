@@ -3,7 +3,7 @@ title: "Haus Ameide"
 site_name: "Haus Ameide"
 date: 2026-01-26
 draft: false
-description: "building in Detmold, Germany, now used as a museum"
+description: "Haus Ameide is a notable museum located in Detmold, Germany, that serves as a cultural hub for both locals and visitors."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

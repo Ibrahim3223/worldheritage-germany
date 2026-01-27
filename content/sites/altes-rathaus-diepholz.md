@@ -3,7 +3,7 @@ title: "Altes Rathaus Diepholz"
 site_name: "Altes Rathaus Diepholz"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Diepholz, Veranstaltungs- und Bildungseinrichtung, Gaststätte"
+description: "In the heart of Diepholz, Germany, the Altes Rathaus (Old Town Hall) stands as a focal point of community life, blending historical significance with..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

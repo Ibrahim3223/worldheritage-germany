@@ -3,7 +3,7 @@ title: "Sequoiafarm Kaldenkirchen"
 site_name: "Sequoiafarm Kaldenkirchen"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "Sequoiafarm Kaldenkirchen is an enchanting garden museum located in the charming town of Nettetal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

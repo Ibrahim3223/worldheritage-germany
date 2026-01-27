@@ -3,7 +3,7 @@ title: "St. Aloysius"
 site_name: "St. Aloysius"
 date: 2026-01-26
 draft: false
-description: "church in Iserlohn"
+description: "St. Aloysius Church, located in the heart of Iserlohn, Germany, serves as a significant architectural and cultural landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

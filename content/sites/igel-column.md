@@ -3,7 +3,7 @@ title: "Igel Column"
 site_name: "Igel Column"
 date: 2026-01-26
 draft: false
-description: "Roman tomb"
+description: "The Igel Column, an exquisite Roman tomb located in the small German village of Igel, serves as a remarkable window into the past, offering visitors a..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Ziegeleigrube Ennigloh"
 site_name: "Ziegeleigrube Ennigloh"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bünde, North Rhine-Westphalia, Germany"
+description: "In the serene landscape of Bünde, North Rhine-Westphalia, lies Ziegeleigrube Ennigloh, a notable nature reserve that captures the essence of the region’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

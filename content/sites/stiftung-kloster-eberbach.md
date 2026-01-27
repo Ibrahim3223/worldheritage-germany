@@ -3,7 +3,7 @@ title: "Stiftung Kloster Eberbach"
 site_name: "Stiftung Kloster Eberbach"
 date: 2026-01-26
 draft: false
-description: "foundation for the preservation of the cultural monument Eberbach Monastery"
+description: "Stiftung Kloster Eberbach, located in Eltville am Rhein, Germany, is a significant foundation dedicated to the preservation of the cultural monument..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

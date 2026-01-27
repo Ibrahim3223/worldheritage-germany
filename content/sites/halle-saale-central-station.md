@@ -3,7 +3,7 @@ title: "Halle (Saale) Central Station"
 site_name: "Halle (Saale) Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Germany"
+description: "Halle (Saale) Central Station is more than just a transit hub; it serves as a vital artery in Germany’s extensive rail network."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"

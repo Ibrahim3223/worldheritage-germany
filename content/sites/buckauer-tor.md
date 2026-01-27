@@ -3,7 +3,7 @@ title: "Buckauer Tor"
 site_name: "Buckauer Tor"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Straßentor der Festung Magdeburg"
+description: "Buckauer Tor is an iconic city gate situated in the historic city of Magdeburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

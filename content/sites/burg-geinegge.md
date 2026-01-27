@@ -3,7 +3,7 @@ title: "Burg Geinegge"
 site_name: "Burg Geinegge"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geinegge, a castle located in the city of Hamm, Germany, stands as a significant historical structure that reflects the architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

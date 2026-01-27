@@ -3,7 +3,7 @@ title: "Ulmener Maar"
 site_name: "Ulmener Maar"
 date: 2026-01-26
 draft: false
-description: "lake in Ulmen, Germany"
+description: "Ulmener Maar is a picturesque lake located in the charming village of Ulmen, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Lake"

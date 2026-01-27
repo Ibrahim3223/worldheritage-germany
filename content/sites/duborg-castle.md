@@ -3,7 +3,7 @@ title: "Duborg Castle"
 site_name: "Duborg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Flensburg, Schleswig"
+description: "Duborg Castle, located in the scenic region of Flensburg, Germany, is a fascinating historical structure that offers visitors a glimpse into the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Castle"

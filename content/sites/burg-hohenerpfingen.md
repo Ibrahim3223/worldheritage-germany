@@ -3,7 +3,7 @@ title: "Burg Hohenerpfingen"
 site_name: "Burg Hohenerpfingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on a gentle rise in the Sonnenbühl region of Germany, Burg Hohenerpfingen invites visitors to explore its storied corridors and captivating..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

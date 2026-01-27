@@ -3,7 +3,7 @@ title: "Amtsgarten"
 site_name: "Amtsgarten"
 date: 2026-01-26
 draft: false
-description: "park in Halle (Saale), Germany"
+description: "Amtsgarten, a tranquil park located in Halle (Saale), Germany, serves as a serene escape within the urban landscape."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

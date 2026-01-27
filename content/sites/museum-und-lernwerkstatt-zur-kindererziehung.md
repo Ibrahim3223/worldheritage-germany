@@ -3,7 +3,7 @@ title: "Museum und Lernwerkstatt zur Kindererziehung"
 site_name: "Museum und Lernwerkstatt zur Kindererziehung"
 date: 2026-01-26
 draft: false
-description: "museum in Uelzen, Germany"
+description: "The Museum und Lernwerkstatt zur Kindererziehung in Uelzen, Germany, serves as a unique nexus for understanding the evolution of children's education and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

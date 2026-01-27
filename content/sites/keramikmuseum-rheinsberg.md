@@ -3,7 +3,7 @@ title: "Keramikmuseum Rheinsberg"
 site_name: "Keramikmuseum Rheinsberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Keramikmuseum Rheinsberg is a unique museum that delves into the world of ceramics in the heart of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

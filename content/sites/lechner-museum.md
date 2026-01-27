@@ -3,7 +3,7 @@ title: "Lechner Museum"
 site_name: "Lechner Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Ingolstadt, Bavaria, Germany"
+description: "Located in the heart of Bavaria, the Lechner Museum stands as a prominent destination for art enthusiasts and cultural explorers in Ingolstadt, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

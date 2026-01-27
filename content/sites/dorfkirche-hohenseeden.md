@@ -3,7 +3,7 @@ title: "Dorfkirche Hohenseeden"
 site_name: "Dorfkirche Hohenseeden"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Hohenseeden is a significant church building located in the Elbe-Parey region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

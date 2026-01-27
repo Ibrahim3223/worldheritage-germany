@@ -3,7 +3,7 @@ title: "Hephatha-Kirche (Britz)"
 site_name: "Hephatha-Kirche (Britz)"
 date: 2026-01-26
 draft: false
-description: "church building in Neukölln, Berlin, Germany"
+description: "Hephatha-Kirche, located in the Neukölln district of Berlin, Germany, is a church building that represents a significant aspect of the city's diverse..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

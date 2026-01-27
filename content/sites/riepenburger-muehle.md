@@ -3,7 +3,7 @@ title: "Riepenburger Mühle"
 site_name: "Riepenburger Mühle"
 date: 2026-01-26
 draft: false
-description: "Holländermühle in Hamburg-Kirchwerder"
+description: "Located in the serene area of Hamburg-Kirchwerder, Riepenburger Mühle is a noteworthy example of a traditional windmill, specifically a Holländermühle."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Windmill"

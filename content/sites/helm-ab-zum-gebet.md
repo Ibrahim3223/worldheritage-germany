@@ -3,7 +3,7 @@ title: "Helm ab zum Gebet"
 site_name: "Helm ab zum Gebet"
 date: 2026-01-26
 draft: false
-description: "Statue von Friedrich Wilhelm Virck"
+description: "In the heart of Lübeck, Germany, the statue known as "Helm ab zum Gebet" stands as a silent observer of time, embodying the spirit and culture of this..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

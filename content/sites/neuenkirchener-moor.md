@@ -3,7 +3,7 @@ title: "Neuenkirchener Moor"
 site_name: "Neuenkirchener Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Neuenkirchener Moor is a designated nature reserve located in the tranquil region of Neuenkirchen, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Villa Bosch"
 site_name: "Villa Bosch"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Villa Bosch, located in the scenic region of Heidelberg, Germany, is an architectural structure set within a beautifully designed park."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"

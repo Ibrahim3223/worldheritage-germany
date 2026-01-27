@@ -3,7 +3,7 @@ title: "Brauerei Kesselsdorf"
 site_name: "Brauerei Kesselsdorf"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Brauerei Kesselsdorf, located in the Wilsdruff region of Germany, is a distinguished brewery known for its commitment to traditional brewing methods and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Brewery"

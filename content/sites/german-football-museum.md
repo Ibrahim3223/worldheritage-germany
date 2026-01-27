@@ -3,7 +3,7 @@ title: "German Football Museum"
 site_name: "German Football Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Dortmund, North Rhine-Westphalia, Germany (2015–)"
+description: "The German Football Museum in Dortmund, North Rhine-Westphalia, is a vibrant celebration of Germany's beloved sport."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

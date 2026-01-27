@@ -3,7 +3,7 @@ title: "Haus Samson"
 site_name: "Haus Samson"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus Samson, located in the charming town of Leer in Germany, is a museum that delves into the rich cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kapelle Kuntzow"
 site_name: "Kapelle Kuntzow"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "In the serene landscape of Bandelin, Germany, lies the Kapelle Kuntzow, a quaint chapel that captures the essence of simplicity and spiritual refuge."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

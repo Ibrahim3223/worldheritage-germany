@@ -3,7 +3,7 @@ title: "Kreuzweg"
 site_name: "Kreuzweg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-114-218 (0) in Bad Kissingen, Bavaria"
+description: "Kreuzweg, an architectural ensemble located in Bad Kissingen, Bavaria, captivates visitors with its historical and cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

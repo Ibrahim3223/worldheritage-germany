@@ -3,7 +3,7 @@ title: "Schillerdenkmal"
 site_name: "Schillerdenkmal"
 date: 2026-01-26
 draft: false
-description: "Monument in Stuttgart"
+description: "In the heart of Stuttgart, Germany, the Schillerdenkmal stands as a homage to one of the nation's most revered literary figures, Friedrich Schiller."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

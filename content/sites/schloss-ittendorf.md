@@ -3,7 +3,7 @@ title: "Schloss Ittendorf"
 site_name: "Schloss Ittendorf"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Ittendorf, located in the picturesque region of Markdorf, Germany, is a captivating castle that invites visitors to immerse themselves in its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

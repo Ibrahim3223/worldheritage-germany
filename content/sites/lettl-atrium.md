@@ -3,7 +3,7 @@ title: "Lettl-Atrium"
 site_name: "Lettl-Atrium"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tucked away in the vibrant city of Augsburg, Germany, the Lettl-Atrium stands as a prominent art museum that invites visitors to immerse themselves in a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

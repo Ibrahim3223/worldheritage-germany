@@ -3,7 +3,7 @@ title: "Art museum Monastery of Our Lady Magdeburg"
 site_name: "Art museum Monastery of Our Lady Magdeburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Art Museum Monastery of Our Lady in Magdeburg, Germany, is a cultural landmark that embodies the intersection of historic architecture and contemporary..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

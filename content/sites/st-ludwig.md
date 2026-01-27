@@ -3,7 +3,7 @@ title: "St. Ludwig"
 site_name: "St. Ludwig"
 date: 2026-01-26
 draft: false
-description: "church building in Ludwigshafen, Germany"
+description: "St. Ludwig in Ludwigshafen, Germany, is a notable church building that stands as a focal point of the local community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

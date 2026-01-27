@@ -3,7 +3,7 @@ title: "Burg Habsberg"
 site_name: "Burg Habsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Habsberg is a captivating castle that captures the imagination, nestled in the serene landscape of Langenenslingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

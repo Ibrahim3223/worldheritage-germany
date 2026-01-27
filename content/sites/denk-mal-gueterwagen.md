@@ -3,7 +3,7 @@ title: "Denk-Mal Güterwagen"
 site_name: "Denk-Mal Güterwagen"
 date: 2026-01-26
 draft: false
-description: "monument in Hamburg, Germany"
+description: "In the vibrant district of Hamburg-Nord, the Denk-Mal Güterwagen stands as a remarkable monument that encapsulates a significant aspect of Hamburg's..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

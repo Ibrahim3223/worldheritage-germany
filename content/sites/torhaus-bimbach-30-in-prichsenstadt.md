@@ -3,7 +3,7 @@ title: "Torhaus Bimbach 30 in Prichsenstadt"
 site_name: "Torhaus Bimbach 30 in Prichsenstadt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-158-63 (1) in Prichsenstadt, Bavaria"
+description: "Torhaus Bimbach 30 in Prichsenstadt stands as a remarkable example of a historic gatehouse, situated in the picturesque region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

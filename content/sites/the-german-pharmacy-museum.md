@@ -3,7 +3,7 @@ title: "The German Pharmacy Museum"
 site_name: "The German Pharmacy Museum"
 date: 2026-01-26
 draft: false
-description: "museum located in the Castle of Heidelberg"
+description: "The German Pharmacy Museum, located within the historic Castle of Heidelberg, offers a fascinating exploration of the history of pharmacy and medicine in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

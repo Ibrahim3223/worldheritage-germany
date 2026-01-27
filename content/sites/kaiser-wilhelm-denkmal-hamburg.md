@@ -3,7 +3,7 @@ title: "Kaiser-Wilhelm-Denkmal, Hamburg"
 site_name: "Kaiser-Wilhelm-Denkmal, Hamburg"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Hamburg-Neustadt"
+description: "In the heart of Hamburg, the Kaiser-Wilhelm-Denkmal stands as a remarkable monument, commemorating one of the most influential figures in German history."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Worpsweder Käseglocke"
 site_name: "Worpsweder Käseglocke"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the quaint town of Worpswede, Germany, a unique cultural institution, the Worpsweder Käseglocke, captures the imagination of visitors."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

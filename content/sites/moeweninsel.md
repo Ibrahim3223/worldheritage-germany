@@ -3,7 +3,7 @@ title: "Möweninsel"
 site_name: "Möweninsel"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Möweninsel, an enchanting island located in Schleswig, Germany, captures the essence of natural beauty and cultural significance."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"

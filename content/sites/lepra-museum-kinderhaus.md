@@ -3,7 +3,7 @@ title: "lepra museum Kinderhaus"
 site_name: "lepra museum Kinderhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Münster, Germany"
+description: "The Lepra Museum Kinderhaus in Münster, Germany, offers a unique perspective on the history of leprosy and its impact on society."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

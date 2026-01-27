@@ -3,7 +3,7 @@ title: "Zeughauskino"
 site_name: "Zeughauskino"
 date: 2026-01-26
 draft: false
-description: "cinema within the Zeughaus museum in Mitte, Berlin, Germany"
+description: "Zeughauskino, a historic cinema located within the Zeughaus museum in Berlin’s Bezirk Mitte, serves as a unique cultural hub where film and history converge."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

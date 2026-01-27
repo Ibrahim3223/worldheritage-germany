@@ -3,7 +3,7 @@ title: "Bremerhaven lighthouse"
 site_name: "Bremerhaven lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Free Hanseatic City of Bremen, Germany"
+description: "The Bremerhaven Lighthouse, an iconic structure located in the Free Hanseatic City of Bremen, Germany, serves as a guiding light along the North Sea coast."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Lighthouse"

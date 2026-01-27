@@ -3,7 +3,7 @@ title: "Gottfried Wilhelm Leibniz Library"
 site_name: "Gottfried Wilhelm Leibniz Library"
 date: 2026-01-26
 draft: false
-description: "State Library of Lower Saxony (Germany), located in Hanover"
+description: "The Gottfried Wilhelm Leibniz Library, located in Hanover, Germany, stands as a significant institution in the realm of knowledge and literature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

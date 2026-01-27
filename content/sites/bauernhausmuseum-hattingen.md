@@ -3,7 +3,7 @@ title: "Bauernhausmuseum Hattingen"
 site_name: "Bauernhausmuseum Hattingen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Bauernhausmuseum Hattingen invites visitors to explore the essence of rural life in Germany through its extensive collection of historical farmhouses."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

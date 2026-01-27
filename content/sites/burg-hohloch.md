@@ -3,7 +3,7 @@ title: "Burg Hohloch"
 site_name: "Burg Hohloch"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohloch, an impressive castle located in the Münsingen region of Germany, offers a captivating glimpse into the architectural and cultural heritage of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

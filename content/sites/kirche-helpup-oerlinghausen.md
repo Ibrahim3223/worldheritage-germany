@@ -3,7 +3,7 @@ title: "Kirche Helpup (Oerlinghausen)"
 site_name: "Kirche Helpup (Oerlinghausen)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kirche Helpup, located in the quaint town of Oerlinghausen, Germany, is a church building that serves as a significant landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

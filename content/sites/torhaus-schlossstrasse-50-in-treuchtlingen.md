@@ -3,7 +3,7 @@ title: "Torhaus Schloßstraße 50 in Treuchtlingen"
 site_name: "Torhaus Schloßstraße 50 in Treuchtlingen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-77-173-106 (4) in Treuchtlingen, Bavaria"
+description: "Situated in the heart of Treuchtlingen, Torhaus Schloßstraße 50 offers visitors a glimpse into the architectural and cultural heritage of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

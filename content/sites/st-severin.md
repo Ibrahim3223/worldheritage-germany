@@ -3,7 +3,7 @@ title: "St. Severin"
 site_name: "St. Severin"
 date: 2026-01-26
 draft: false
-description: "church building in Meschede, Germany"
+description: "St. Severin in Meschede, Germany, is a remarkable church building that offers visitors a glimpse into the architectural and cultural heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Östlicher Langenberg"
 site_name: "Östlicher Langenberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Östlicher Langenberg, a distinguished nature reserve located in the scenic Bad Harzburg region of Lower Saxony, Germany, is a remarkable testament to the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

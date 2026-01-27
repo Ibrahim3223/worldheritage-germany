@@ -3,7 +3,7 @@ title: "Alte Burg (Lommersdorf)"
 site_name: "Alte Burg (Lommersdorf)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg, located in Lommersdorf within the picturesque region of Blankenheim, Germany, is a captivating castle that invites visitors to explore the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

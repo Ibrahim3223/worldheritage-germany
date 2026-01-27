@@ -3,7 +3,7 @@ title: "Birgittenkloster Bremen"
 site_name: "Birgittenkloster Bremen"
 date: 2026-01-26
 draft: false
-description: "Bridgettine convent in Bremen, Germany"
+description: "The Birgittenkloster Bremen, a Bridgettine convent located in the heart of Bremen, Germany, serves as a serene reminder of the city’s religious and cultural..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Monastery"

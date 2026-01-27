@@ -3,7 +3,7 @@ title: "Domfriedhof"
 site_name: "Domfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Limburg an der Lahn, Germany"
+description: "In the heart of Limburg an der Lahn, Germany, lies the Domfriedhof, an evocative cemetery that serves as a solemn reflection of the region's historical and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Herrenhaus Nussermühle"
 site_name: "Herrenhaus Nussermühle"
 date: 2026-01-26
 draft: false
-description: "building in Geiselhöring, Lower Bavaria, Germany"
+description: "Herrenhaus Nussermühle represents an intriguing blend of history and architecture within the serene landscape of Geiselhöring in Lower Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Kleiner Wotig"
 site_name: "Kleiner Wotig"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Kleiner Wotig is a captivating island located in the picturesque region of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"

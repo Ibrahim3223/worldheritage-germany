@@ -3,7 +3,7 @@ title: "Geisenheim Grape Breeding Institute"
 site_name: "Geisenheim Grape Breeding Institute"
 date: 2026-01-26
 draft: false
-description: "German research institute"
+description: "The Geisenheim Grape Breeding Institute stands as a hub of innovation and research in the heart of Germany's wine country, Geisenheim."
 region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"

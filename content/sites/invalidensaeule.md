@@ -3,7 +3,7 @@ title: "Invalidensäule"
 site_name: "Invalidensäule"
 date: 2026-01-26
 draft: false
-description: "former memorial in Berlin, Germany"
+description: "The Invalidensäule, a notable monument in Berlin, represents a poignant chapter in the city's historical narrative."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

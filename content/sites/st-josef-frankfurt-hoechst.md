@@ -3,7 +3,7 @@ title: "St. Josef (Frankfurt-Höchst)"
 site_name: "St. Josef (Frankfurt-Höchst)"
 date: 2026-01-26
 draft: false
-description: "church building in Frankfurt, Germany"
+description: "St. Josef, located in the Frankfurt-Höchst district of Germany, is a striking example of church architecture that reflects the cultural and historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

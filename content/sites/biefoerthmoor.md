@@ -3,7 +3,7 @@ title: "Bieförthmoor"
 site_name: "Bieförthmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bieförthmoor, a designated nature reserve located in Neustadt am Rübenberge, Germany, is a sanctuary for biodiversity and a testament to the natural beauty..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

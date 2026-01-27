@@ -3,7 +3,7 @@ title: "Henner und Frieder"
 site_name: "Henner und Frieder"
 date: 2026-01-26
 draft: false
-description: "group of two statues by Friedrich Reusch in Siegen, Germany"
+description: "Henner und Frieder is a poignant representation of cultural artistry in Siegen, Germany, comprising a group of two statues created by the esteemed sculptor..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

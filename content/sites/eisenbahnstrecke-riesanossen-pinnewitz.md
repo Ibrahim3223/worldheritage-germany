@@ -3,7 +3,7 @@ title: "Eisenbahnstrecke Riesa–Nossen Pinnewitz"
 site_name: "Eisenbahnstrecke Riesa–Nossen Pinnewitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnstrecke Riesa–Nossen Pinnewitz is a noteworthy bridge located in the town of Nossen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

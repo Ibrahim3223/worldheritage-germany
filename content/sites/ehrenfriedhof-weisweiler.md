@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Weisweiler"
 site_name: "Ehrenfriedhof Weisweiler"
 date: 2026-01-26
 draft: false
-description: "cemetery in Eschweiler, Germany"
+description: "Ehrenfriedhof Weisweiler, located in the town of Eschweiler, Germany, serves as a solemn reminder of the lives that once thrived in this region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

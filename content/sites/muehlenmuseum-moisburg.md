@@ -3,7 +3,7 @@ title: "Mühlenmuseum Moisburg"
 site_name: "Mühlenmuseum Moisburg"
 date: 2026-01-26
 draft: false
-description: "museum and water mill in Moisburg, Lower Saxony, Germany"
+description: "Mühlenmuseum Moisburg is an intriguing destination that encapsulates the essence of traditional milling practices and the historical significance of water..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

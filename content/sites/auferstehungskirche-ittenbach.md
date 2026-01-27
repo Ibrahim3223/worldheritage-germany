@@ -3,7 +3,7 @@ title: "Auferstehungskirche (Ittenbach)"
 site_name: "Auferstehungskirche (Ittenbach)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Auferstehungskirche, located in the picturesque region of Königswinter, Germany, is a notable church building that reflects the spiritual heritage and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Volksschule Seilerstraße"
 site_name: "Volksschule Seilerstraße"
 date: 2026-01-26
 draft: false
-description: "school building in Hamburg"
+description: "Volksschule Seilerstraße stands as a notable school building in Hamburg, Germany, embodying the city's commitment to education and community development."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"

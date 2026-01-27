@@ -3,7 +3,7 @@ title: "Sudhaus der Kindl-Brauerei"
 site_name: "Sudhaus der Kindl-Brauerei"
 date: 2026-01-26
 draft: false
-description: "Centre for contemporary art"
+description: "The Sudhaus der Kindl-Brauerei serves as a vibrant centre for contemporary art, located in the Neukölln district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

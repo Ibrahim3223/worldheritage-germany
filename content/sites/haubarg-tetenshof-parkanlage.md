@@ -3,7 +3,7 @@ title: "Haubarg Tetenshof: Parkanlage"
 site_name: "Haubarg Tetenshof: Parkanlage"
 date: 2026-01-26
 draft: false
-description: "park/garden in Welt, Germany"
+description: "Haubarg Tetenshof: Parkanlage offers visitors a serene escape into nature amidst the picturesque landscapes of Welt, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Garden"

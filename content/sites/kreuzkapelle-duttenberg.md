@@ -3,7 +3,7 @@ title: "Kreuzkapelle Duttenberg"
 site_name: "Kreuzkapelle Duttenberg"
 date: 2026-01-26
 draft: false
-description: "Chapel near Duttenberg, Bad Friedrichshall, Germany"
+description: "Kreuzkapelle Duttenberg is a serene chapel situated in Bad Friedrichshall, Germany, a location that invites visitors to explore its spiritual and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Chattenturm"
 site_name: "Chattenturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Chattenturm, an imposing tower located in the Warburg region of Germany, stands as an intriguing relic of architecture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

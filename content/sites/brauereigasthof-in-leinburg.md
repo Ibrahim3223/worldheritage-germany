@@ -3,7 +3,7 @@ title: "Brauereigasthof in Leinburg"
 site_name: "Brauereigasthof in Leinburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "The Brauereigasthof in Leinburg, located in Bavaria's Nürnberger Land district, stands as a notable cultural heritage monument that reflects the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

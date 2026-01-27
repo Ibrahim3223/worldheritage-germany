@@ -3,7 +3,7 @@ title: "Palais Crailsheim"
 site_name: "Palais Crailsheim"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Palais Crailsheim, a distinguished cultural heritage monument, is situated in the vibrant city of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

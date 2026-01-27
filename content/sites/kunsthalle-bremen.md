@@ -3,7 +3,7 @@ title: "Kunsthalle Bremen"
 site_name: "Kunsthalle Bremen"
 date: 2026-01-26
 draft: false
-description: "museum of arts in Bremen"
+description: "The Kunsthalle Bremen, located in the heart of Bremen, Germany, is a distinguished art museum that houses an impressive collection spanning several centuries."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Döllnitzviadukt; Leipzig-Dresdner Eisenbahn Oschatz"
 site_name: "Döllnitzviadukt; Leipzig-Dresdner Eisenbahn Oschatz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Döllnitzviadukt, an impressive bridge on the Leipzig-Dresdner Eisenbahn in Oschatz, Germany, serves as both a vital transportation link and a remarkable..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Denkmal Springendes Pferd"
 site_name: "Denkmal Springendes Pferd"
 date: 2026-01-26
 draft: false
-description: "statue in Bergheim, Germany"
+description: "In the charming town of Bergheim, Germany, the Denkmal Springendes Pferd captivates visitors with its artistic depiction of a leaping horse."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

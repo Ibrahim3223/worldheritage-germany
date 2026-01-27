@@ -3,7 +3,7 @@ title: "Amiraplatz"
 site_name: "Amiraplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Altstadt-Lehel, Germany"
+description: "Amiraplatz is a public square located in the Altstadt-Lehel district of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "St. Lawrence church Tönning"
 site_name: "St. Lawrence church Tönning"
 date: 2026-01-26
 draft: false
-description: "church in Tönning in Schleswig Holstein, Germany"
+description: "St. Lawrence Church in Tönning is a remarkable example of ecclesiastical architecture in Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

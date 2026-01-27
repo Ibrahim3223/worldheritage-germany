@@ -3,7 +3,7 @@ title: "Stahleck Castle"
 site_name: "Stahleck Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Stahleck Castle, an imposing fortress perched on a hill overlooking the picturesque town of Bacharach in Germany, captures both the imagination and the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

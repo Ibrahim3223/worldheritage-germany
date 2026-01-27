@@ -3,7 +3,7 @@ title: "Galerie für Zeitgenössische Kunst"
 site_name: "Galerie für Zeitgenössische Kunst"
 date: 2026-01-26
 draft: false
-description: "Gallery for contemporary art in Leipzig, Germany"
+description: "The Galerie für Zeitgenössische Kunst, located in the vibrant city of Leipzig, Germany, serves as a dynamic space dedicated to contemporary art."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

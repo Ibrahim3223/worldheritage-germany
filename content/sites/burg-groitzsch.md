@@ -3,7 +3,7 @@ title: "Burg Groitzsch"
 site_name: "Burg Groitzsch"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Groitzsch, a historical castle located in the quaint town of Groitzsch, Germany, serves as a remarkable reminder of the region's medieval past."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

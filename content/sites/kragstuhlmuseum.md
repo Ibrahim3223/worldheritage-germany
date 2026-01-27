@@ -3,7 +3,7 @@ title: "Kragstuhlmuseum"
 site_name: "Kragstuhlmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kragstuhlmuseum is an intriguing destination located in the quaint town of Lauenförde, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

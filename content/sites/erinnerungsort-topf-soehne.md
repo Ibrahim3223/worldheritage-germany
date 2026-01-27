@@ -3,7 +3,7 @@ title: "Erinnerungsort Topf & Söhne"
 site_name: "Erinnerungsort Topf & Söhne"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Erinnerungsort Topf & Söhne serves as a poignant reminder of a dark chapter in history, situated in the heart of Erfurt, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

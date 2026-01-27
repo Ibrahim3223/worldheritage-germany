@@ -3,7 +3,7 @@ title: "Alter Friedhof Segeroth"
 site_name: "Alter Friedhof Segeroth"
 date: 2026-01-26
 draft: false
-description: "cemetery in Essen, Germany"
+description: "Alter Friedhof Segeroth, located in Essen, Germany, is a historically significant cemetery that offers a serene escape from the hustle and bustle of urban life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"

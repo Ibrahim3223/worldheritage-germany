@@ -3,7 +3,7 @@ title: "Castle Museum, Nideggen"
 site_name: "Castle Museum, Nideggen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Nideggen, Germany, the Castle Museum beckons history enthusiasts and curious travelers alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

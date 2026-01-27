@@ -3,7 +3,7 @@ title: "Tollensesee"
 site_name: "Tollensesee"
 date: 2026-01-26
 draft: false
-description: "lake in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
+description: "Tollensesee is a tranquil lake situated in the city of Neubrandenburg, within the Mecklenburg-Vorpommern region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

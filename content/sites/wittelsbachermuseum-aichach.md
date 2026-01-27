@@ -3,7 +3,7 @@ title: "Wittelsbachermuseum Aichach"
 site_name: "Wittelsbachermuseum Aichach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wittelsbachermuseum Aichach serves as a cultural beacon in southern Germany, showcasing the rich heritage of the House of Wittelsbach, one of Europe’s..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

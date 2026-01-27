@@ -3,7 +3,7 @@ title: "Bürgerturm (Neuenstein)"
 site_name: "Bürgerturm (Neuenstein)"
 date: 2026-01-26
 draft: false
-description: "tower in Neuenstein, Baden-Württemberg"
+description: "The Bürgerturm in Neuenstein, Germany, is a striking tower that captures the essence of medieval architecture while serving as a historical landmark for the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

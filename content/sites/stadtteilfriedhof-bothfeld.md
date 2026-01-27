@@ -3,7 +3,7 @@ title: "Stadtteilfriedhof Bothfeld"
 site_name: "Stadtteilfriedhof Bothfeld"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bothfeld-Vahrenheide, Germany"
+description: "Stadtteilfriedhof Bothfeld is a significant burial ground located in the Bothfeld-Vahrenheide district of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

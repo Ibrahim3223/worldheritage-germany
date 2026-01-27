@@ -3,7 +3,7 @@ title: "Comödienhaus Bad Liebenstein"
 site_name: "Comödienhaus Bad Liebenstein"
 date: 2026-01-26
 draft: false
-description: "theater in Bad Liebenstein, Germany"
+description: "Comödienhaus Bad Liebenstein is a notable theatre building in Bad Liebenstein, Germany, known for its vibrant cultural scene and historical significance."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Theatre Building"

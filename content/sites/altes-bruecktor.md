@@ -3,7 +3,7 @@ title: "Altes Brücktor"
 site_name: "Altes Brücktor"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Stadttor der Stadt Magdeburg"
+description: "Altes Brücktor, once a prominent city gate in the heart of Magdeburg, carries with it the weight of a rich historical narrative intertwined with the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

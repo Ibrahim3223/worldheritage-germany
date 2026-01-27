@@ -3,7 +3,7 @@ title: "St. Margareth (Hochstein)"
 site_name: "St. Margareth (Hochstein)"
 date: 2026-01-26
 draft: false
-description: "Hochstein"
+description: "St. Margareth (Hochstein) is a charming chapel located in Bissingen, Germany, that captivates visitors with its serene ambiance and historical significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

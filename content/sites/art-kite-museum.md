@@ -3,7 +3,7 @@ title: "Art Kite Museum"
 site_name: "Art Kite Museum"
 date: 2026-01-26
 draft: false
-description: "former museum in Detmold, Germany"
+description: "The Art Kite Museum, located in the historic town of Detmold, Germany, once served as a unique hub for enthusiasts and collectors of kites and kite-related art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

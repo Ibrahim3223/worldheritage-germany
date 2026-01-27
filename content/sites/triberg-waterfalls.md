@@ -3,7 +3,7 @@ title: "Triberg Waterfalls"
 site_name: "Triberg Waterfalls"
 date: 2026-01-26
 draft: false
-description: "waterfall in Black Forest, Germany"
+description: "The Triberg Waterfalls, located in the heart of the Black Forest region of Germany, is a natural spectacle that draws visitors from around the globe."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

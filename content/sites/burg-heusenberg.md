@@ -3,7 +3,7 @@ title: "Burg Heusenberg"
 site_name: "Burg Heusenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heusenberg is an intriguing castle situated in the picturesque region of Burgrieden, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

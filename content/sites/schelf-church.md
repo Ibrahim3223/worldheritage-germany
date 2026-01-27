@@ -3,7 +3,7 @@ title: "Schelf church"
 site_name: "Schelf church"
 date: 2026-01-26
 draft: false
-description: "church building in Schwerin, Germany"
+description: "Schelf Church, located in the heart of Schwerin, Germany, is an important ecclesiastical structure that showcases the region's architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

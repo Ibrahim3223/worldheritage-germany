@@ -3,7 +3,7 @@ title: "Synagoge in Ermreuth"
 site_name: "Synagoge in Ermreuth"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-154-98 (0) in Neunkirchen am Brand, Bavaria"
+description: "The Synagoge in Ermreuth stands as a poignant symbol of cultural heritage and historical significance in the region of Neunkirchen am Brand, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

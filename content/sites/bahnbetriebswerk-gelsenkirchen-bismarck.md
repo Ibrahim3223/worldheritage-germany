@@ -3,7 +3,7 @@ title: "Bahnbetriebswerk Gelsenkirchen-Bismarck"
 site_name: "Bahnbetriebswerk Gelsenkirchen-Bismarck"
 date: 2026-01-26
 draft: false
-description: "Ehemaliges Bahnbetriebswerk in Gelsenkirchen-Bismarck"
+description: "The Bahnbetriebswerk Gelsenkirchen-Bismarck, an important piece of Germany’s railway heritage, serves as a fascinating museum dedicated to the nation’s rich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Wuppertal Zoologischer Garten station"
 site_name: "Wuppertal Zoologischer Garten station"
 date: 2026-01-26
 draft: false
-description: "railway station in Wuppertal, Germany"
+description: "Wuppertal Zoologischer Garten station serves as a vital link in the public transport network of Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

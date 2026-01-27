@@ -3,7 +3,7 @@ title: "WildtierPark Edersee"
 site_name: "WildtierPark Edersee"
 date: 2026-01-26
 draft: false
-description: "zoo in Edertal, Germany"
+description: "WildtierPark Edersee, located in the scenic region of Hemfurth-Edersee, Germany, presents an opportunity for visitors to immerse themselves in the beauty of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

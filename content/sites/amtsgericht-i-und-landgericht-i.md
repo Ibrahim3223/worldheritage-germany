@@ -3,7 +3,7 @@ title: "Amtsgericht I und Landgericht I"
 site_name: "Amtsgericht I und Landgericht I"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Amtsgericht I und Landgericht I, situated in the Bezirk Mitte of Berlin, is an architectural structure of notable significance within the German judicial..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"

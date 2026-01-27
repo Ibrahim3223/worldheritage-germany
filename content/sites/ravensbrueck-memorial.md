@@ -3,7 +3,7 @@ title: "Ravensbrück Memorial"
 site_name: "Ravensbrück Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial for the victims of the former Ravensbrück concentration camp"
+description: "Ravensbrück Memorial serves as a poignant reminder of the atrocities committed during the Holocaust, dedicated to honoring the memory of the victims of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kartäusermuseum Tückelhausen"
 site_name: "Kartäusermuseum Tückelhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kartäusermuseum Tückelhausen is an intriguing museum located in Germany that serves as a conduit for understanding the cultural and historical landscape..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

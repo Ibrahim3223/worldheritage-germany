@@ -3,7 +3,7 @@ title: "Bodenseeufer - Untere Güll"
 site_name: "Bodenseeufer - Untere Güll"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Bodenseeufer - Untere Güll, a designated nature reserve located in the Constance region of Germany, offers a serene escape into the lush landscapes and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

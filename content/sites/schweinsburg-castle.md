@@ -3,7 +3,7 @@ title: "Schweinsburg Castle"
 site_name: "Schweinsburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schweinsburg Castle, located in the picturesque region of Neukirchen, Germany, is a captivating historical site that invites visitors to explore its storied..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

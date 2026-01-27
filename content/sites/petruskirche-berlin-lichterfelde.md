@@ -3,7 +3,7 @@ title: "Petruskirche (Berlin-Lichterfelde)"
 site_name: "Petruskirche (Berlin-Lichterfelde)"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Petruskirche, located in the district of Steglitz-Zehlendorf in Berlin, is a striking example of ecclesiastical architecture that reflects the spiritual and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

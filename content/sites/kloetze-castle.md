@@ -3,7 +3,7 @@ title: "Klötze Castle"
 site_name: "Klötze Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Klötze Castle, located in the charming region of Klötze in Germany, is a captivating example of medieval architecture that reflects the historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

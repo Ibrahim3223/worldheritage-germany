@@ -3,7 +3,7 @@ title: "Schiller's garden house"
 site_name: "Schiller's garden house"
 date: 2026-01-26
 draft: false
-description: "building in Jena"
+description: "Schiller's Garden House, located in the historic city of Jena, Germany, serves as a poignant reminder of the life and work of one of the nation’s most..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

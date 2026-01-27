@@ -3,7 +3,7 @@ title: "Jugendstiftung just"
 site_name: "Jugendstiftung just"
 date: 2026-01-26
 draft: false
-description: "gemeinnützige Stiftung der Diözese Rottenburg-Stuttgart"
+description: "Tucked away in Wernau, Germany, the Jugendstiftung just is a unique foundation that reflects the cultural and social initiatives of the Diocese of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Burg Lauterstein"
 site_name: "Burg Lauterstein"
 date: 2026-01-26
 draft: false
-description: "castle in Wippingen"
+description: "Burg Lauterstein, a historic castle located in the quaint village of Wippingen in the Blaustein region of Germany, invites visitors to explore its rich past..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

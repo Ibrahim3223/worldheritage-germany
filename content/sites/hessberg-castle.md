@@ -3,7 +3,7 @@ title: "Heßberg Castle"
 site_name: "Heßberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Heßberg Castle, located in the charming region of Veilsdorf, Germany, offers visitors a unique glimpse into the past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

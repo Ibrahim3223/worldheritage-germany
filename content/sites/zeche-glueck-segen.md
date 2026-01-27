@@ -3,7 +3,7 @@ title: "Zeche Glück & Segen"
 site_name: "Zeche Glück & Segen"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Glück & Segen, located in Bochum, Germany, is a significant historical site that showcases the industrious spirit of the region's mining heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

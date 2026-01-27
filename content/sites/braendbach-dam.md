@@ -3,7 +3,7 @@ title: "Brändbach Dam"
 site_name: "Brändbach Dam"
 date: 2026-01-26
 draft: false
-description: "dam"
+description: "The Brändbach Dam, situated in the scenic region of Bräunlingen, Germany, is a remarkable feat of engineering that not only serves a functional purpose but..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"

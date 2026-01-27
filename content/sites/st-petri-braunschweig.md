@@ -3,7 +3,7 @@ title: "St. Petri (Braunschweig)"
 site_name: "St. Petri (Braunschweig)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Petri in Braunschweig is a remarkable church building that embodies both the architectural heritage and spiritual significance of the Brunswick region..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

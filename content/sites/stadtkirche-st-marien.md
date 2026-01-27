@@ -3,7 +3,7 @@ title: "Stadtkirche St. Marien"
 site_name: "Stadtkirche St. Marien"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Stadtkirche St. Marien is a significant church building located in the charming town of Homberg (Efze), Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

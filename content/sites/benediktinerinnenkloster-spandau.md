@@ -3,7 +3,7 @@ title: "Benediktinerinnenkloster Spandau"
 site_name: "Benediktinerinnenkloster Spandau"
 date: 2026-01-26
 draft: false
-description: "former monastery in Spandau, Germany"
+description: "Benediktinerinnenkloster Spandau, a former monastery located in Spandau, Germany, presents a unique opportunity to explore the spiritual and architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monastery"

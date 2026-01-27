@@ -3,7 +3,7 @@ title: "Ziskensee"
 site_name: "Ziskensee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Ziskensee, a serene lake located in the Brandenburg region of Germany, offers a tranquil escape for nature enthusiasts and those seeking solace in a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

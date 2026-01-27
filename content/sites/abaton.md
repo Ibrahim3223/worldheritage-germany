@@ -3,7 +3,7 @@ title: "Abaton"
 site_name: "Abaton"
 date: 2026-01-26
 draft: false
-description: "cinema in Hamburg, Germany"
+description: "Abaton is a prominent movie theater located in the vibrant Eimsbüttel district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Movie Theater"

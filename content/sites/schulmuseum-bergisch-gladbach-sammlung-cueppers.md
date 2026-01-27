@@ -3,7 +3,7 @@ title: "Schulmuseum Bergisch Gladbach – Sammlung Cüppers"
 site_name: "Schulmuseum Bergisch Gladbach – Sammlung Cüppers"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schulmuseum Bergisch Gladbach – Sammlung Cüppers is a distinctive museum located in the charming city of Bergisch Gladbach, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

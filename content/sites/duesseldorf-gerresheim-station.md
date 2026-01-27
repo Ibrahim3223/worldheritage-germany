@@ -3,7 +3,7 @@ title: "Düsseldorf-Gerresheim station"
 site_name: "Düsseldorf-Gerresheim station"
 date: 2026-01-26
 draft: false
-description: "railway station in Düsseldorf, Germany"
+description: "Düsseldorf-Gerresheim station serves as a vital transport hub in the vibrant city of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Römermuseum Mengen-Ennetach"
 site_name: "Römermuseum Mengen-Ennetach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Römermuseum Mengen-Ennetach offers a captivating glimpse into the Roman past of the region, situated in the town of Mengen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

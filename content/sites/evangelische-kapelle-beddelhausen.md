@@ -3,7 +3,7 @@ title: "Evangelische Kapelle Beddelhausen"
 site_name: "Evangelische Kapelle Beddelhausen"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Evangelische Kapelle Beddelhausen is a quaint chapel located in the picturesque region of Bad Berleburg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

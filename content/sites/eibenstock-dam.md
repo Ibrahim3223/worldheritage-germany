@@ -3,7 +3,7 @@ title: "Eibenstock Dam"
 site_name: "Eibenstock Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Eibenstock Dam, located in the picturesque Schönheide region of Germany, is a striking example of modern engineering and environmental stewardship."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Dam"

@@ -3,7 +3,7 @@ title: "Balksee und Randmoore/ Basmoor und Nordahner Holz"
 site_name: "Balksee und Randmoore/ Basmoor und Nordahner Holz"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Balksee und Randmoore/ Basmoor und Nordahner Holz is a significant nature reserve located in Bülkau, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

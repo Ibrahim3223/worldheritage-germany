@@ -3,7 +3,7 @@ title: "Jheringsfehner Kirche"
 site_name: "Jheringsfehner Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Moormerland, Germany"
+description: "Jheringsfehner Kirche, located in the charming region of Moormerland, Germany, is a notable church building that serves as a point of interest for both..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

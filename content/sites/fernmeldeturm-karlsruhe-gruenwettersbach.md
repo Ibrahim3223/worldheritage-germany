@@ -3,7 +3,7 @@ title: "Fernmeldeturm Karlsruhe-Grünwettersbach"
 site_name: "Fernmeldeturm Karlsruhe-Grünwettersbach"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Karlsruhe-Grünwettersbach is an iconic telecommunications tower located in the heart of Karlsruhe, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

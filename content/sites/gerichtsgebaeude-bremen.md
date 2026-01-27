@@ -3,7 +3,7 @@ title: "Gerichtsgebäude, Bremen"
 site_name: "Gerichtsgebäude, Bremen"
 date: 2026-01-26
 draft: false
-description: "Justizgebäude in Bremen"
+description: "The Gerichtsgebäude in Bremen is a prominent courthouse that plays a pivotal role in the judicial landscape of the city."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Courthouse"

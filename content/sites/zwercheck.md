@@ -3,7 +3,7 @@ title: "Zwercheck"
 site_name: "Zwercheck"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zwercheck is a mountain located in the picturesque region of Železná Ruda in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

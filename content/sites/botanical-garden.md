@@ -3,7 +3,7 @@ title: "Botanical Garden"
 site_name: "Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "former botanical garden in Bremen, Germany"
+description: "The Botanical Garden in Bremen, Germany, is a distinguished site that invites visitors to explore the diverse world of plant life."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Botanical Garden"

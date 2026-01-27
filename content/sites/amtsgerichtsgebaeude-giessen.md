@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Gießen"
 site_name: "Amtsgerichtsgebäude Gießen"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Amtsgerichtsgebäude Gießen, situated in the heart of Gießen, Germany, is not just a functioning courthouse, but also a site that reflects the legal and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

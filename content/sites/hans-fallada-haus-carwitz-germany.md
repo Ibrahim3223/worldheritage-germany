@@ -3,7 +3,7 @@ title: "Hans-Fallada-Haus (Carwitz, Germany)"
 site_name: "Hans-Fallada-Haus (Carwitz, Germany)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hans-Fallada-Haus, located in the picturesque region of Feldberger Seenlandschaft in Germany, is a museum dedicated to the life and work of Hans Fallada,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

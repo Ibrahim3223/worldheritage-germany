@@ -3,7 +3,7 @@ title: "Thonent-Museum"
 site_name: "Thonent-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thonent-Museum, located in Frankenberg, Germany, serves as an engaging repository of cultural artifacts and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

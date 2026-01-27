@@ -3,7 +3,7 @@ title: "Trauernde Alte"
 site_name: "Trauernde Alte"
 date: 2026-01-26
 draft: false
-description: "monument in Bochum, Germany"
+description: "In the heart of Bochum, Germany, stands the Trauernde Alte, a poignant monument that captures the essence of reflection and remembrance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "St. Gereon's Basilica"
 site_name: "St. Gereon's Basilica"
 date: 2026-01-26
 draft: false
-description: "church in Cologne"
+description: "St. Gereon's Basilica, located in the heart of Cologne, Germany, is a remarkable example of ecclesiastical architecture and a significant cultural landmark."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

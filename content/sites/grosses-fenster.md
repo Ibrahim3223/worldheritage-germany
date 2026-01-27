@@ -3,7 +3,7 @@ title: "Großes Fenster"
 site_name: "Großes Fenster"
 date: 2026-01-26
 draft: false
-description: "Badebucht mit Strand an der Havel in Berlin"
+description: "Großes Fenster is a serene beach located in the Steglitz-Zehlendorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"

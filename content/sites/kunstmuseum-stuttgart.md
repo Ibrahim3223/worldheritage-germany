@@ -3,7 +3,7 @@ title: "Kunstmuseum Stuttgart"
 site_name: "Kunstmuseum Stuttgart"
 date: 2026-01-26
 draft: false
-description: "contemporary and modern art museum in Stuttgart, Germany"
+description: "The Kunstmuseum Stuttgart stands as a pillar of contemporary and modern art within the vibrant cultural landscape of Stuttgart, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

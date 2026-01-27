@@ -3,7 +3,7 @@ title: "Sammlung Ur- und Frühgeschichte der Universität Leipzig"
 site_name: "Sammlung Ur- und Frühgeschichte der Universität Leipzig"
 date: 2026-01-26
 draft: false
-description: "wissenschaftliche Sammlung"
+description: "The Sammlung Ur- und Frühgeschichte der Universität Leipzig presents an intriguing window into the prehistoric and early historical periods of human..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Lichtenhain Waterfall"
 site_name: "Lichtenhain Waterfall"
 date: 2026-01-26
 draft: false
-description: "waterfall"
+description: "Lichtenhain Waterfall is a striking natural feature located in the picturesque region of Sebnitz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

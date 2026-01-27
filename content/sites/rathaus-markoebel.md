@@ -3,7 +3,7 @@ title: "Rathaus (Marköbel)"
 site_name: "Rathaus (Marköbel)"
 date: 2026-01-26
 draft: false
-description: "Building in Marköbel"
+description: "Rathaus (Marköbel) serves as a focal point within the small town of Marköbel, located in the Hammersbach region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

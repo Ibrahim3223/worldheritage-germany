@@ -3,7 +3,7 @@ title: "Pomeranzen garden"
 site_name: "Pomeranzen garden"
 date: 2026-01-26
 draft: false
-description: "park of the Leonberg castle"
+description: "The Pomeranzen garden, a serene and beautifully curated park associated with the Leonberg Castle, invites visitors to explore its lush landscapes and engage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

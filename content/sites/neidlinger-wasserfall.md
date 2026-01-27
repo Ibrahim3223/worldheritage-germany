@@ -3,7 +3,7 @@ title: "Neidlinger Wasserfall"
 site_name: "Neidlinger Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Neidlinger Wasserfall, located in the picturesque region of Neidlingen, Germany, offers visitors a striking natural spectacle characterized by cascading..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

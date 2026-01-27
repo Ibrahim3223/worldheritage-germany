@@ -3,7 +3,7 @@ title: "Berlin-Tegel Russian Orthodox Cemetery"
 site_name: "Berlin-Tegel Russian Orthodox Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "The Berlin-Tegel Russian Orthodox Cemetery serves as a poignant reminder of the diverse cultural and religious history that characterizes Germany’s capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

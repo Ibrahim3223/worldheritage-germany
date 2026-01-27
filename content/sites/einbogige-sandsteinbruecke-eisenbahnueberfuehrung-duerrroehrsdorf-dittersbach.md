@@ -3,7 +3,7 @@ title: "Einbogige Sandsteinbrücke (Eisenbahnüberführung) Dürrröhrsdorf-Ditt
 site_name: "Einbogige Sandsteinbrücke (Eisenbahnüberführung) Dürrröhrsdorf-Dittersbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Einbogige Sandsteinbrücke, an elegant sandstone bridge located in Dürrröhrsdorf-Dittersbach, Germany, serves as a remarkable example of historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

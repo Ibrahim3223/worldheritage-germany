@@ -3,7 +3,7 @@ title: "Church in Kalkhorst"
 site_name: "Church in Kalkhorst"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Kalkhorst is a remarkable example of historical architecture, located in the quaint village of Kalkhorst, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Straßenindustriemuseum Ennepetal"
 site_name: "Straßenindustriemuseum Ennepetal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Straßenindustriemuseum Ennepetal is a unique museum that encapsulates the industrial heritage of the Ennepetal region in Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

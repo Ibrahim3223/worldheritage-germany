@@ -3,7 +3,7 @@ title: "Elwedritsche Museum"
 site_name: "Elwedritsche Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Speyer, Rhineland-Palatinate, Germany"
+description: "Located in the heart of Speyer, Germany, the Elwedritsche Museum serves as a unique cultural institution dedicated to the folklore and mythology of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

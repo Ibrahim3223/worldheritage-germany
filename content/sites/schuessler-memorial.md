@@ -3,7 +3,7 @@ title: "Schüßler memorial"
 site_name: "Schüßler memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Bad Zwischenahn, Germany"
+description: "The Schüßler memorial in Bad Zwischenahn, Germany, is a poignant monument that commemorates the contributions of a notable individual in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

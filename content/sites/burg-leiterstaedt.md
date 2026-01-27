@@ -3,7 +3,7 @@ title: "Burg Leiterstädt"
 site_name: "Burg Leiterstädt"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leiterstädt is a remarkable castle situated in the Langenstein region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

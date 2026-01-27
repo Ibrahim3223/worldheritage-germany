@@ -3,7 +3,7 @@ title: "Drewitzer See"
 site_name: "Drewitzer See"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Drewitzer See, located in the Mecklenburgische Seenplatte District of Germany, is a picturesque lake that serves as both a natural wonder and a tranquil..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

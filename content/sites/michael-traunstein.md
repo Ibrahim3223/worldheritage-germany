@@ -3,7 +3,7 @@ title: "Michael Traunstein"
 site_name: "Michael Traunstein"
 date: 2026-01-26
 draft: false
-description: "Erzbischofliches Studienseminar St"
+description: "The Michael Traunstein Manor House, officially known as Erzbischofliches Studienseminar St, sits in the picturesque region of Traunstein, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

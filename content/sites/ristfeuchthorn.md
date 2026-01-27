@@ -3,7 +3,7 @@ title: "Ristfeuchthorn"
 site_name: "Ristfeuchthorn"
 date: 2026-01-26
 draft: false
-description: "mountain in Bavaria, Germany"
+description: "Ristfeuchthorn, a prominent mountain located in the picturesque region of Schneizlreuth, Germany, offers a unique blend of natural beauty and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

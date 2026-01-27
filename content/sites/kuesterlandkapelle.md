@@ -3,7 +3,7 @@ title: "Küsterlandkapelle"
 site_name: "Küsterlandkapelle"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Assinghausen, Olsberg"
+description: "Küsterlandkapelle is a charming chapel located in Assinghausen, a district of Olsberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

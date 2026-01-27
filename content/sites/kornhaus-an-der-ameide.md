@@ -3,7 +3,7 @@ title: "Kornhaus an der Ameide"
 site_name: "Kornhaus an der Ameide"
 date: 2026-01-26
 draft: false
-description: "building in Detmold, Germany, used as a museum"
+description: "Kornhaus an der Ameide is a museum located in the historic city of Detmold, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

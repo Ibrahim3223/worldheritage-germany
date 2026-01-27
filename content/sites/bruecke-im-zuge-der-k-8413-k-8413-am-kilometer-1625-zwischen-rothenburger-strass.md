@@ -3,7 +3,7 @@ title: "Brücke im Zuge der K 8413 (K 8413, am Kilometer 1,625 - zwischen Rothen
 site_name: "Brücke im Zuge der K 8413 (K 8413, am Kilometer 1,625 - zwischen Rothenburger Straße 31 und 33)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke im Zuge der K 8413 is an intriguing piece of infrastructure located in the Rietschen region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

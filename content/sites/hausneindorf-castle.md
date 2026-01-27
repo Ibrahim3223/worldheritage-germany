@@ -3,7 +3,7 @@ title: "Hausneindorf Castle"
 site_name: "Hausneindorf Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hausneindorf Castle invites visitors into a realm of medieval majesty and historical intrigue."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

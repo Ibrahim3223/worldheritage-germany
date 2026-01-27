@@ -3,7 +3,7 @@ title: "Christuskirche (Berchtesgaden)"
 site_name: "Christuskirche (Berchtesgaden)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche in Berchtesgaden serves as an important religious and cultural landmark in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

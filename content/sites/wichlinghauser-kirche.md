@@ -3,7 +3,7 @@ title: "Wichlinghauser Kirche"
 site_name: "Wichlinghauser Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Wuppertal, Germany"
+description: "Wichlinghauser Kirche, a church building located in the vibrant city of Wuppertal, Germany, embodies the spiritual and architectural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

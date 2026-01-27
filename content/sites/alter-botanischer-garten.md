@@ -3,7 +3,7 @@ title: "Alter Botanischer Garten"
 site_name: "Alter Botanischer Garten"
 date: 2026-01-26
 draft: false
-description: "garden in Munich, Germany"
+description: "The Alter Botanischer Garten, located in the heart of Munich, Germany, is more than just a botanical garden; it is a vibrant oasis that invites visitors to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

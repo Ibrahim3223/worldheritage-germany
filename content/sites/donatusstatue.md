@@ -3,7 +3,7 @@ title: "Donatusstatue"
 site_name: "Donatusstatue"
 date: 2026-01-26
 draft: false
-description: "statue in Ostbevern, Germany"
+description: "The Donatusstatue in Ostbevern, Germany, serves as a striking monument that encapsulates the cultural narrative of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

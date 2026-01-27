@@ -3,7 +3,7 @@ title: "Hennethaler Landwehr"
 site_name: "Hennethaler Landwehr"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Hennethaler Landwehr, a significant hillfort located in the picturesque Rheingau-Taunus-Kreis region of Germany, invites history enthusiasts and nature..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"

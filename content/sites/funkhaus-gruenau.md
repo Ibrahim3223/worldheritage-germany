@@ -3,7 +3,7 @@ title: "Funkhaus Grünau"
 site_name: "Funkhaus Grünau"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Berlin-Grünau"
+description: "Funkhaus Grünau, an architectural ensemble located in the Berlin district of Grünau, is a striking example of mid-20th-century design that reflects the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

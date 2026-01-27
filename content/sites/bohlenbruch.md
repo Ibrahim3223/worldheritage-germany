@@ -3,7 +3,7 @@ title: "Bohlenbruch"
 site_name: "Bohlenbruch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bohlenbruch is a nature reserve located in Eicklingen, Lower Saxony, Germany, recognized for its diverse ecosystems and the role it plays in conservation..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

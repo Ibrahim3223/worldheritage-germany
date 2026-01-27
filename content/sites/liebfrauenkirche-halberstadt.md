@@ -3,7 +3,7 @@ title: "Liebfrauenkirche Halberstadt"
 site_name: "Liebfrauenkirche Halberstadt"
 date: 2026-01-26
 draft: false
-description: "church building in Saxony-Anhalt, Germany"
+description: "Liebfrauenkirche Halberstadt is a striking example of ecclesiastical architecture located in the heart of Saxony-Anhalt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

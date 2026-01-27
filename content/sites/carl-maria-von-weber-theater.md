@@ -3,7 +3,7 @@ title: "Carl-Maria-von-Weber-Theater"
 site_name: "Carl-Maria-von-Weber-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Bernburg, Saxony-Anhalt, Germany"
+description: "The Carl-Maria-von-Weber-Theater stands as an emblematic theatre building in Bernburg, Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"

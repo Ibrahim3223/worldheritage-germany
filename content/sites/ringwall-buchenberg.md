@@ -3,7 +3,7 @@ title: "Ringwall Buchenberg"
 site_name: "Ringwall Buchenberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Ringwall Buchenberg is a remarkable fortification located in the scenic region of Parsberg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

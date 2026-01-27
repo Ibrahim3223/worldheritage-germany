@@ -3,7 +3,7 @@ title: "Village church Kirchdorf"
 site_name: "Village church Kirchdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Kirchdorf, Poel Island, Germany"
+description: "The Village Church of Kirchdorf, located on the picturesque Poel Island in Germany, serves not only as a place of worship but also as a significant landmark..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

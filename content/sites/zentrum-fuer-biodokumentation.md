@@ -3,7 +3,7 @@ title: "Zentrum für Biodokumentation"
 site_name: "Zentrum für Biodokumentation"
 date: 2026-01-26
 draft: false
-description: "deutsche Organisation"
+description: "The Zentrum für Biodokumentation, located in Schiffweiler, Germany, serves as a vital resource for understanding the intricate relationships between..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

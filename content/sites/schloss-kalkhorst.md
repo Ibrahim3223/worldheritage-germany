@@ -3,7 +3,7 @@ title: "Schloss Kalkhorst"
 site_name: "Schloss Kalkhorst"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Kalkhorst, a distinguished manor house located in the picturesque region of Kalkhorst, Germany, invites visitors to explore its architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

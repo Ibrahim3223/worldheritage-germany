@@ -3,7 +3,7 @@ title: "Marienmünster church"
 site_name: "Marienmünster church"
 date: 2026-01-26
 draft: false
-description: "church in Dießen, Bavaria"
+description: "Marienmünster church, located in Dießen am Ammersee, Germany, is a remarkable example of ecclesiastical architecture that draws visitors intrigued by its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

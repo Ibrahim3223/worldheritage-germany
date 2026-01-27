@@ -3,7 +3,7 @@ title: "Goosemoor"
 site_name: "Goosemoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Goosemoor, located in the serene region of Winsen an der Aller in Lower Saxony, Germany, is a captivating nature reserve that serves as a sanctuary for both..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

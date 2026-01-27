@@ -3,7 +3,7 @@ title: "Gemeindehaus Dr.-Linnert-Ring 26 in Nürnberg"
 site_name: "Gemeindehaus Dr.-Linnert-Ring 26 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-2461 (2) in Nürnberg, Bavaria"
+description: "In the heart of Nuremberg, Germany, the Gemeindehaus Dr.-Linnert-Ring 26 stands as a significant cultural heritage monument that reflects the city’s rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

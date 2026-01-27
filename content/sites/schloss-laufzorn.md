@@ -3,7 +3,7 @@ title: "Schloss Laufzorn"
 site_name: "Schloss Laufzorn"
 date: 2026-01-26
 draft: false
-description: "castle in Landkreis München"
+description: "Schloss Laufzorn is a captivating palace located in the picturesque region of Oberhaching, Germany, specifically within the Landkreis München."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

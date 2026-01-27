@@ -3,7 +3,7 @@ title: "Village Church in Beidendorf"
 site_name: "Village Church in Beidendorf"
 date: 2026-01-26
 draft: false
-description: "Protestant church in Mecklenburg-Vorpommern, Germany"
+description: "The Village Church in Beidendorf, located in the heart of Mecklenburg-Vorpommern, Germany, is a serene and evocative place of worship that reflects the rich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Servatius"
 site_name: "St. Servatius"
 date: 2026-01-26
 draft: false
-description: "church in Bornheim (Rhineland), Germany"
+description: "St. Servatius, located in Bornheim, Germany, is a remarkable church building that serves not just as a place of worship but also as a centerpiece of local..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

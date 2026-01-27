@@ -3,7 +3,7 @@ title: "Baitul Huda Mosque"
 site_name: "Baitul Huda Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Germany"
+description: "Baitul Huda Mosque, located in Usingen, Germany, is a significant place of worship within the local Muslim community."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

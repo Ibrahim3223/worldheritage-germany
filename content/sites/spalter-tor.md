@@ -3,7 +3,7 @@ title: "Spalter Tor"
 site_name: "Spalter Tor"
 date: 2026-01-26
 draft: false
-description: "city gate of Pleinfeld, Bavaria"
+description: "Spalter Tor, the historic city gate of Pleinfeld, invites visitors to explore a poignant piece of Bavaria's architectural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Kiel Maritime Museum"
 site_name: "Kiel Maritime Museum"
 date: 2026-01-26
 draft: false
-description: "Museum in Kiel, Germany"
+description: "Nestled along the serene shores of the Kiel Fjord, the Kiel Maritime Museum serves as a captivating portal into the maritime heritage of Kiel, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

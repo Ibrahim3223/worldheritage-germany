@@ -3,7 +3,7 @@ title: "Museum of Art and Crafts Hamburg"
 site_name: "Museum of Art and Crafts Hamburg"
 date: 2026-01-26
 draft: false
-description: "museum of fine, applied and decorative arts in Hamburg, Germany"
+description: "The Museum of Art and Crafts Hamburg, situated in the vibrant district of Hamburg-Mitte, is a distinguished institution dedicated to the celebration and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

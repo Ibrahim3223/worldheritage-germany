@@ -3,7 +3,7 @@ title: "memorial to the victims of fascism (Bernau bei Berlin)"
 site_name: "memorial to the victims of fascism (Bernau bei Berlin)"
 date: 2026-01-26
 draft: false
-description: "monument in Brandenburg, Germany"
+description: "The Memorial to the Victims of Fascism in Bernau bei Berlin serves as a poignant reminder of the atrocities of the fascist regime and its impact on..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

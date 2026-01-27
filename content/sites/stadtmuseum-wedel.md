@@ -3,7 +3,7 @@ title: "Stadtmuseum Wedel"
 site_name: "Stadtmuseum Wedel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Wedel is a cultural institution located in the charming town of Wedel, Germany, offering visitors a glimpse into the local heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

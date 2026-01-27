@@ -3,7 +3,7 @@ title: "Schloss Karlsburg"
 site_name: "Schloss Karlsburg"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Karlsburg, an elegant manor house located in the picturesque region of Karlsburg, Germany, serves as a striking example of châteaux architecture."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

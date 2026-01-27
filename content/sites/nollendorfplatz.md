@@ -3,7 +3,7 @@ title: "Nollendorfplatz"
 site_name: "Nollendorfplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Nollendorfplatz, an iconic square situated in the heart of Berlin's Tempelhof-Schöneberg district, serves as a vibrant hub of urban life and culture."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

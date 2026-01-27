@@ -3,7 +3,7 @@ title: "Kirchenruine St. Laurentius"
 site_name: "Kirchenruine St. Laurentius"
 date: 2026-01-26
 draft: false
-description: "church building in Hann. Münden, Germany"
+description: "Kirchenruine St. Laurentius, a captivating chapel located in the historic town of Hann."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

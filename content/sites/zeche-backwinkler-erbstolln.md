@@ -3,7 +3,7 @@ title: "Zeche Backwinkler Erbstolln"
 site_name: "Zeche Backwinkler Erbstolln"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Backwinkler Erbstolln, located in Bochum, Germany, is a historic coal mine that embodies the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

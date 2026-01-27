@@ -3,7 +3,7 @@ title: "Caspary-Brauerei"
 site_name: "Caspary-Brauerei"
 date: 2026-01-26
 draft: false
-description: "Bierbrauerei in Trier"
+description: "Located in the historic city of Trier, Germany, Caspary-Brauerei is a notable brewery that represents a unique aspect of German brewing culture."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Brewery"

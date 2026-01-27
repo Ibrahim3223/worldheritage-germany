@@ -3,7 +3,7 @@ title: "Windmühle Pohrsdorf"
 site_name: "Windmühle Pohrsdorf"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Windmühle Pohrsdorf, located in the picturesque region of Tharandt in Germany, is an enduring symbol of traditional craftsmanship and agricultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Windmill"

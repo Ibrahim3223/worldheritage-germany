@@ -3,7 +3,7 @@ title: "Hexenbürgermeisterhaus"
 site_name: "Hexenbürgermeisterhaus"
 date: 2026-01-26
 draft: false
-description: "building and museum in Lemgo, Germany"
+description: "In the heart of Lemgo, Germany, lies the Hexenbürgermeisterhaus, a museum that offers an intriguing glimpse into the region's past, particularly the witch..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

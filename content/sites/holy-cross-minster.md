@@ -3,7 +3,7 @@ title: "Holy Cross Minster"
 site_name: "Holy Cross Minster"
 date: 2026-01-26
 draft: false
-description: "church in Schwäbisch Gmünd, Bade-Württemberg, Germany"
+description: "Holy Cross Minster, located in Schwäbisch Gmünd, Baden-Württemberg, Germany, is a church that embodies the region's rich religious heritage and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Mausoleum Rutenberg"
 site_name: "Mausoleum Rutenberg"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Bremen-Schwachhausen"
+description: "The Mausoleum Rutenberg in Bremen-Schwachhausen stands as an enduring symbol of memorial architecture in Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"

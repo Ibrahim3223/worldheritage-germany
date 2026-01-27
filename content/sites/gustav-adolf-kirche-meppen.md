@@ -3,7 +3,7 @@ title: "Gustav-Adolf-Kirche (Meppen)"
 site_name: "Gustav-Adolf-Kirche (Meppen)"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Within the charming town of Meppen, Germany, lies the Gustav-Adolf-Kirche, an architectural gem that serves as a significant place of worship and community..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

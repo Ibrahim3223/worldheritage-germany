@@ -3,7 +3,7 @@ title: "Sankt-Remigius-Kapelle"
 site_name: "Sankt-Remigius-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel in Rottenburg am Neckar"
+description: "The Sankt-Remigius-Kapelle is an inviting chapel located in the charming town of Rottenburg am Neckar, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

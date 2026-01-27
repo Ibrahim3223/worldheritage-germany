@@ -3,7 +3,7 @@ title: "Palatinate Museum of Natural History"
 site_name: "Palatinate Museum of Natural History"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Palatinate Museum of Natural History, located in Bad Dürkheim, Germany, serves as an engaging portal into the natural world."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

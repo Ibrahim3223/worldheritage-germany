@@ -3,7 +3,7 @@ title: "Erlöserkirche (Mirbach)"
 site_name: "Erlöserkirche (Mirbach)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Erlöserkirche, also known as the Church of the Redeemer, is a noteworthy church building located in Wiesbaum, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

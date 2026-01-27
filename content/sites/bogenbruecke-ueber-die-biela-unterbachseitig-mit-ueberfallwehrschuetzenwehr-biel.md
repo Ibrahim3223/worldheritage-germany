@@ -3,7 +3,7 @@ title: "Bogenbrücke über die Biela, unterbachseitig mit Überfallwehr/Schütze
 site_name: "Bogenbrücke über die Biela, unterbachseitig mit Überfallwehr/Schützenwehr Bielatal"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über die Biela, located in the picturesque Rosenthal-Bielatal region of Germany, is a striking example of engineering that reflects the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

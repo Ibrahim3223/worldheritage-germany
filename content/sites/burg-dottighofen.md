@@ -3,7 +3,7 @@ title: "Burg Dottighofen"
 site_name: "Burg Dottighofen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Dottighofen, a captivating castle located in the serene region of Biengen, Germany, invites visitors to explore its historical and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

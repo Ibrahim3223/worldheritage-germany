@@ -3,7 +3,7 @@ title: "Philatelic library Hamburg"
 site_name: "Philatelic library Hamburg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Philatelic Library Hamburg, located in the vibrant district of Hamburg-Mitte, serves as a specialized resource for stamp enthusiasts and philatelists alike."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Library"

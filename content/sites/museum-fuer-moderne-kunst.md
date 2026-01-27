@@ -3,7 +3,7 @@ title: "Museum für Moderne Kunst"
 site_name: "Museum für Moderne Kunst"
 date: 2026-01-26
 draft: false
-description: "art museum in Frankfurt, Germany"
+description: "The Museum für Moderne Kunst (MMK) in Frankfurt, Germany, is a vibrant hub for contemporary art enthusiasts and casual visitors alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Garten Lorenz-Sandler-Straße 26 in Kulmbach"
 site_name: "Garten Lorenz-Sandler-Straße 26 in Kulmbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-128-321 (1) in Kulmbach, Bavaria"
+description: "Garten Lorenz-Sandler-Straße 26 in Kulmbach is a garden of cultural significance, recognized as a heritage monument in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

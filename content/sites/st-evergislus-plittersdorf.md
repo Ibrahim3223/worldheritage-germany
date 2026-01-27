@@ -3,7 +3,7 @@ title: "St. Evergislus (Plittersdorf)"
 site_name: "St. Evergislus (Plittersdorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Plittersdorf, Bonn, Germany"
+description: "St. Evergislus, a captivating church building located in Plittersdorf, Bonn, Germany, stands as a point of interest for both local residents and visitors."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

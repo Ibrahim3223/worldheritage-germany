@@ -3,7 +3,7 @@ title: "Heimatmuseum Hüsli"
 site_name: "Heimatmuseum Hüsli"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Heimatmuseum Hüsli is a notable museum located in Grafenhausen, Germany, dedicated to preserving and showcasing the cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

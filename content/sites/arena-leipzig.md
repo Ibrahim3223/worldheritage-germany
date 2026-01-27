@@ -3,7 +3,7 @@ title: "Arena Leipzig"
 site_name: "Arena Leipzig"
 date: 2026-01-26
 draft: false
-description: "building in Leipzig, Saxony, Germany"
+description: "Arena Leipzig, a prominent multi-purpose hall located in the vibrant city of Leipzig, Germany, is a significant venue for a variety of events, from concerts..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

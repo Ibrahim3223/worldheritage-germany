@@ -3,7 +3,7 @@ title: "Alexander Nevsky Memorial Church"
 site_name: "Alexander Nevsky Memorial Church"
 date: 2026-01-26
 draft: false
-description: "church in Potsdam"
+description: "The Alexander Nevsky Memorial Church in Potsdam, Germany, offers visitors a unique glimpse into the city's cultural and religious heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

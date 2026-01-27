@@ -3,7 +3,7 @@ title: "Museum für Papier- und Buchkunst"
 site_name: "Museum für Papier- und Buchkunst"
 date: 2026-01-26
 draft: false
-description: "Museum of Paper Art and Book Art"
+description: "The Museum für Papier- und Buchkunst, located in Esslingen, Germany, is a captivating institution dedicated to the art and craftsmanship of paper and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Hohenschelklingen"
 site_name: "Burg Hohenschelklingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched above the town of Schelklingen, Burg Hohenschelklingen stands as a significant castle, offering a glimpse into the medieval past of southern Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

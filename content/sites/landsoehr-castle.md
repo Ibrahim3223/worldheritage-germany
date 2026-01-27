@@ -3,7 +3,7 @@ title: "Landsöhr Castle"
 site_name: "Landsöhr Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Landsöhr Castle, a striking historical edifice located in the charming region of Bad Boll, Germany, stands as a remarkable example of medieval architecture..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

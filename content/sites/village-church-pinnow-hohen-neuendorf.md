@@ -3,7 +3,7 @@ title: "Village church Pinnow (Hohen Neuendorf)"
 site_name: "Village church Pinnow (Hohen Neuendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church in Pinnow, located in Hohen Neuendorf, Germany, is a remarkable example of a church building that encapsulates the spiritual and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

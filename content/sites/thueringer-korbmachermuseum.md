@@ -3,7 +3,7 @@ title: "Thüringer Korbmachermuseum"
 site_name: "Thüringer Korbmachermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thüringer Korbmachermuseum, located in the town of Bad Berka, Germany, is a unique museum dedicated to the art and craftsmanship of basket weaving."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

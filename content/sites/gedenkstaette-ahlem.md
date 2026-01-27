@@ -3,7 +3,7 @@ title: "Gedenkstätte Ahlem"
 site_name: "Gedenkstätte Ahlem"
 date: 2026-01-26
 draft: false
-description: "memorial in Hannover, Germany"
+description: "Gedenkstätte Ahlem serves as a poignant reminder of the past, located in the Ahlem-Badenstedt-Davenstedt region of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

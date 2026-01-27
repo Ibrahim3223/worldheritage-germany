@@ -3,7 +3,7 @@ title: "Bibersberg"
 site_name: "Bibersberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bibersberg, a mountain located in the picturesque region of Bavaria, Germany, offers visitors a serene natural landscape that reflects the beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

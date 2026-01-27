@@ -3,7 +3,7 @@ title: "Bungsberg"
 site_name: "Bungsberg"
 date: 2026-01-26
 draft: false
-description: "highest point in the German state of Schleswig-Holstein"
+description: "Rising majestically in the serene landscape of Schleswig-Holstein, Bungsberg is not just the highest point in this northern German state; it also serves as..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Mountain"

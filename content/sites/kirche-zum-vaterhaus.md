@@ -3,7 +3,7 @@ title: "Kirche Zum Vaterhaus"
 site_name: "Kirche Zum Vaterhaus"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Kirche Zum Vaterhaus, located in the Treptow-Köpenick district of Berlin, Germany, is not just a church; it is a reflective space that invites visitors to..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

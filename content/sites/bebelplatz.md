@@ -3,7 +3,7 @@ title: "Bebelplatz"
 site_name: "Bebelplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Bebelplatz, located in the heart of Berlin, is more than just a square; it is a poignant reminder of the city’s complex history and cultural evolution."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

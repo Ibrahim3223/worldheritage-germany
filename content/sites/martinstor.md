@@ -3,7 +3,7 @@ title: "Martinstor"
 site_name: "Martinstor"
 date: 2026-01-26
 draft: false
-description: "city gate in Freiburg im Breisgau"
+description: "Martinstor, a historic city gate located in the heart of Freiburg im Breisgau, Germany, serves as a remarkable portal into the city's medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"

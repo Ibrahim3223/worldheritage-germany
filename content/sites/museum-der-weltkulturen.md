@@ -3,7 +3,7 @@ title: "Museum der Weltkulturen"
 site_name: "Museum der Weltkulturen"
 date: 2026-01-26
 draft: false
-description: "ethnological museum in Frankfurt am Main, Germany"
+description: "The Museum der Weltkulturen, situated in Frankfurt am Main, Germany, serves as a portal to diverse cultural narratives from around the globe."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

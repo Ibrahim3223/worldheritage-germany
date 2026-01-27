@@ -3,7 +3,7 @@ title: "Dottistraße (Berlin-Lichtenberg)"
 site_name: "Dottistraße (Berlin-Lichtenberg)"
 date: 2026-01-26
 draft: false
-description: "Wohnkomplex im Ortsteil Berlin-Lichtenberg"
+description: "Dottistraße in Berlin-Lichtenberg is an architectural ensemble that encapsulates the unique urban development of mid-20th century East Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

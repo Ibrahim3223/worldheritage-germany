@@ -3,7 +3,7 @@ title: "Zeche Bredeneyer Crone"
 site_name: "Zeche Bredeneyer Crone"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bredeneyer Crone stands as a significant historical site within the industrial landscape of Essen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

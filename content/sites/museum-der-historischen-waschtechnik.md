@@ -3,7 +3,7 @@ title: "Museum der historischen Waschtechnik"
 site_name: "Museum der historischen Waschtechnik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der historischen Waschtechnik in Ostbevern, Germany, serves as a fascinating tribute to the evolution of laundry technology."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Willy Brandt House"
 site_name: "Willy Brandt House"
 date: 2026-01-26
 draft: false
-description: "museum in Lübeck, Germany"
+description: "The Willy Brandt House is a museum dedicated to the life and legacy of Willy Brandt, the former Chancellor of West Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

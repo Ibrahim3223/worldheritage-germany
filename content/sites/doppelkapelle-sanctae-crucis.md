@@ -3,7 +3,7 @@ title: "Doppelkapelle Sanctae Crucis"
 site_name: "Doppelkapelle Sanctae Crucis"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Doppelkapelle Sanctae Crucis is a remarkable historical site that invites visitors to explore its medieval roots and architectural elegance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

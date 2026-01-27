@@ -3,7 +3,7 @@ title: "Bergbau- und Industriemuseum Ostbayern"
 site_name: "Bergbau- und Industriemuseum Ostbayern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bergbau- und Industriemuseum Ostbayern is a significant cultural institution located in Kümmersbruck, Germany, dedicated to showcasing the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Cismar Abbey"
 site_name: "Cismar Abbey"
 date: 2026-01-26
 draft: false
-description: "former abbey in Germany"
+description: "Cismar Abbey, located in the picturesque region of Grömitz, Germany, is a striking example of historical reverberations that echo through the ages."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

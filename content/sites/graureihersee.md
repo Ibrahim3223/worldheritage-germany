@@ -3,7 +3,7 @@ title: "Graureihersee"
 site_name: "Graureihersee"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Graureihersee, located in the picturesque region of Hoyerswerda, Germany, presents a serene escape into nature, characterized by its tranquil waters and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"

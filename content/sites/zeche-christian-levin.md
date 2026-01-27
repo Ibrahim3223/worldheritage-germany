@@ -3,7 +3,7 @@ title: "Zeche Christian Levin"
 site_name: "Zeche Christian Levin"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Christian Levin, located in the heart of Essen, Germany, is a site of historical significance that reflects the industrial heritage of the Ruhr area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

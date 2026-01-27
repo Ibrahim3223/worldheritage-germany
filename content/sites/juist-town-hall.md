@@ -3,7 +3,7 @@ title: "Juist town hall"
 site_name: "Juist town hall"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Juist Town Hall, located on the serene North Sea island of Juist in Germany, serves not only as the administrative heart of the island but also as a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

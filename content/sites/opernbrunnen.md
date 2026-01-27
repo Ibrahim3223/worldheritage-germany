@@ -3,7 +3,7 @@ title: "Opernbrunnen"
 site_name: "Opernbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "In the heart of Altstadt-Nord, Germany, the Opernbrunnen is a striking public fountain that serves not only as a source of refreshment but also as a focal..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

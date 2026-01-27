@@ -3,7 +3,7 @@ title: "Altonaer Museum"
 site_name: "Altonaer Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg"
+description: "The Altonaer Museum, situated in the vibrant district of Altona in Hamburg, Germany, serves as a cultural hub that encapsulates the maritime heritage and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

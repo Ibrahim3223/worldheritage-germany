@@ -3,7 +3,7 @@ title: "Kloster Rupertsberg"
 site_name: "Kloster Rupertsberg"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kloster Rupertsberg, located in Bingen am Rhein, Germany, is a striking monastery that encapsulates the spiritual and historical essence of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

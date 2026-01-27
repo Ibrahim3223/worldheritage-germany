@@ -3,7 +3,7 @@ title: "Fürstliche Bibliothek Corvey"
 site_name: "Fürstliche Bibliothek Corvey"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Fürstliche Bibliothek Corvey is more than just a library; it is a significant cultural institution located in the Höxter region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

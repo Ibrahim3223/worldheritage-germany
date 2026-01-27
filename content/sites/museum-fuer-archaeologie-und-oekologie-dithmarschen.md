@@ -3,7 +3,7 @@ title: "Museum für Archäologie und Ökologie Dithmarschen"
 site_name: "Museum für Archäologie und Ökologie Dithmarschen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Archäologie und Ökologie Dithmarschen is a notable cultural institution located in Heide, Germany, that serves as a gateway to the region’s..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

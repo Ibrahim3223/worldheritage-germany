@@ -3,7 +3,7 @@ title: "Carlsplatz Markt"
 site_name: "Carlsplatz Markt"
 date: 2026-01-26
 draft: false
-description: "marketplace in Düsseldorf, Germany"
+description: "Carlsplatz Markt is a vibrant marketplace located in the heart of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Marketplace"

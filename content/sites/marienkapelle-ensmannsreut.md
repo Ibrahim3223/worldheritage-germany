@@ -3,7 +3,7 @@ title: "Marienkapelle Ensmannsreut"
 site_name: "Marienkapelle Ensmannsreut"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Ensmannsreut"
+description: "The Marienkapelle Ensmannsreut, a quaint chapel located in the charming region of Waldkirchen, Germany, offers visitors a serene glimpse into the spiritual..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

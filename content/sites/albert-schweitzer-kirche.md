@@ -3,7 +3,7 @@ title: "Albert-Schweitzer-Kirche"
 site_name: "Albert-Schweitzer-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Albert-Schweitzer-Kirche, located in the picturesque region of Tübingen, Germany, is more than just a church building; it is a place of reflection and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

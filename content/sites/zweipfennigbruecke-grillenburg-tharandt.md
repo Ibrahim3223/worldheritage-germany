@@ -3,7 +3,7 @@ title: "Zweipfennigbrücke Grillenburg (Tharandt)"
 site_name: "Zweipfennigbrücke Grillenburg (Tharandt)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zweipfennigbrücke Grillenburg is a remarkable bridge located in the picturesque region of Tharandt, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

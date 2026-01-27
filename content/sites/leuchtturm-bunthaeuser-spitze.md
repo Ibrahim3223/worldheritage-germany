@@ -3,7 +3,7 @@ title: "Leuchtturm Bunthäuser Spitze"
 site_name: "Leuchtturm Bunthäuser Spitze"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Hamburg, Germany"
+description: "The Leuchtturm Bunthäuser Spitze stands as an iconic lighthouse in Hamburg, Germany, marking an essential point along the city's maritime landscape."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

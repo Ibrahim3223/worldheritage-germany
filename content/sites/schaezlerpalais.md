@@ -3,7 +3,7 @@ title: "Schaezlerpalais"
 site_name: "Schaezlerpalais"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Schaezlerpalais, an architectural heritage monument located in Augsburg, Germany, is a striking example of the city's rich cultural history and artistic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

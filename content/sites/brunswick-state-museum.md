@@ -3,7 +3,7 @@ title: "Brunswick State Museum"
 site_name: "Brunswick State Museum"
 date: 2026-01-26
 draft: false
-description: "history museum in Braunschweig, Germany focused on regional history"
+description: "The Brunswick State Museum in Braunschweig, Germany, offers an insightful glimpse into the regional history of this vibrant city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

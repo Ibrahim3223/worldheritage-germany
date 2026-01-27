@@ -3,7 +3,7 @@ title: "Das Depot"
 site_name: "Das Depot"
 date: 2026-01-26
 draft: false
-description: "museum in Bremen, Germany"
+description: "Das Depot is an intriguing museum located in the vibrant city of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hunne zu Pferde"
 site_name: "Hunne zu Pferde"
 date: 2026-01-26
 draft: false
-description: "sculpture in Berlin, Germany"
+description: "In the heart of Berlin, a striking sculpture known as Hunne zu Pferde captures the imagination of passersby."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

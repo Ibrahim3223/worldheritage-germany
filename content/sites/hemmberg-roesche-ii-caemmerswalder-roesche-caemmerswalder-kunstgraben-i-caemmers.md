@@ -3,7 +3,7 @@ title: "Hemmberg Rösche; II. Cämmerswalder Rösche; Cämmerswalder Kunstgraben
 site_name: "Hemmberg Rösche; II. Cämmerswalder Rösche; Cämmerswalder Kunstgraben; I. Cämmerswalder Rösche; Pfaffenholz Kunstgraben; Pfaffenholz Rösche; Revierwasserlaufanstalt (Sachgesamtheit) Cämmerswalde"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Hemmberg Rösche and its surrounding structures represent a significant chapter in the engineering and architectural narrative of Neuhausen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Busse-Denkmal"
 site_name: "Busse-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Bremerhaven, Germany"
+description: "In the heart of Bremerhaven, Germany, the Busse-Denkmal stands as a significant monument that captures the essence of the region's cultural heritage."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Monument"

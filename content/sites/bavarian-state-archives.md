@@ -3,7 +3,7 @@ title: "Bavarian State Archives"
 site_name: "Bavarian State Archives"
 date: 2026-01-26
 draft: false
-description: "Bavaria (Germany)"
+description: "The Bavarian State Archives, located in the heart of Munich, serves as a vital repository of historical documents and records pertaining to Bavaria and beyond."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Institution"

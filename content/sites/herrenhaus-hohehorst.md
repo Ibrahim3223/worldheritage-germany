@@ -3,7 +3,7 @@ title: "Herrenhaus Hohehorst"
 site_name: "Herrenhaus Hohehorst"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Herrenhaus Hohehorst, a distinguished manor house located in the Schwanewede region of Germany, invites visitors to explore its architectural elegance and..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Manor House"

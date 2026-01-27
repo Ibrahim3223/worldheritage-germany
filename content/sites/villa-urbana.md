@@ -3,7 +3,7 @@ title: "Villa urbana"
 site_name: "Villa urbana"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Villa urbana in Grenzach, Germany, is an intriguing museum that offers visitors a glimpse into the region's historical and cultural landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Loburg"
 site_name: "Burg Loburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Loburg, a captivating castle located in the Möckern region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

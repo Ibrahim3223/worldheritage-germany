@@ -3,7 +3,7 @@ title: "Polish-Saxon Post Milestone in Bad Gottleuba"
 site_name: "Polish-Saxon Post Milestone in Bad Gottleuba"
 date: 2026-01-26
 draft: false
-description: "Saxon post milestone in Bad Gottleuba-Berggießhübel in Germany"
+description: "The Polish-Saxon Post Milestone in Bad Gottleuba is a remarkable monument that reflects the historical and cultural connections between Poland and Saxony,..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

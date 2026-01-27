@@ -3,7 +3,7 @@ title: "chapels in Mainz"
 site_name: "chapels in Mainz"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "In the heart of Mainz, Germany, a city known for its historical significance and vibrant culture, lie several chapels that offer a glimpse into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

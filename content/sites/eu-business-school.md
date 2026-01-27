@@ -3,7 +3,7 @@ title: "EU Business School"
 site_name: "EU Business School"
 date: 2026-01-26
 draft: false
-description: "Private european business school"
+description: "EU Business School, a distinguished private European business school, is situated in the picturesque town of Montreux, Switzerland."
 region: "Montreux"
 country: "Germany"
 heritage_type: "University"

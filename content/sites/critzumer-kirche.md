@@ -3,7 +3,7 @@ title: "Critzumer Kirche"
 site_name: "Critzumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Critzumer Kirche, located in the quaint region of Jemgum, Germany, is a notable church building that invites visitors to explore its architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

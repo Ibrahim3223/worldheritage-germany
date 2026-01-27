@@ -3,7 +3,7 @@ title: "Parish church Zehdenick"
 site_name: "Parish church Zehdenick"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Parish Church of Zehdenick, located in the picturesque region of Brandenburg, Germany, stands as a notable example of ecclesiastical architecture within..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

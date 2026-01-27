@@ -3,7 +3,7 @@ title: "8. November 1939 (Denkmal)"
 site_name: "8. November 1939 (Denkmal)"
 date: 2026-01-26
 draft: false
-description: "monument in Munich, Germany"
+description: "The 8. November 1939 (Denkmal) stands as a poignant monument in Munich, Germany, marking a significant moment in the nation’s history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Burg Arnsburg"
 site_name: "Burg Arnsburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Arnsburg is an archaeological site located in the picturesque region of Lich, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

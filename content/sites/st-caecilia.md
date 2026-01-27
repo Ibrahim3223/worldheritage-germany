@@ -3,7 +3,7 @@ title: "St. Cäcilia"
 site_name: "St. Cäcilia"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Benrath, Germany"
+description: "St. Cäcilia, located in the Düsseldorf-Benrath district of Germany, presents visitors with a serene glimpse into the architectural and cultural heritage of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Benedict"
 site_name: "St. Benedict"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf, Germany"
+description: "St. Benedict is a striking church building located in the Heerdt district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

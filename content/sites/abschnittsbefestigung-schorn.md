@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung Schorn"
 site_name: "Abschnittsbefestigung Schorn"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Abschnittsbefestigung Schorn is a striking castle located in Germany, offering visitors a glimpse into the architectural and cultural heritage of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Rhein-Museum Koblenz"
 site_name: "Rhein-Museum Koblenz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rhein-Museum Koblenz is a significant cultural establishment located in the heart of Koblenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

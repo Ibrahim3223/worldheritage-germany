@@ -3,7 +3,7 @@ title: "Südstrand Sellin"
 site_name: "Südstrand Sellin"
 date: 2026-01-26
 draft: false
-description: "Strand auf der Insel Rügen"
+description: "Südstrand Sellin is a stunning beach located on the picturesque island of Rügen in Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

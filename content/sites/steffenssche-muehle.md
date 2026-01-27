@@ -3,7 +3,7 @@ title: "Steffenssche Mühle"
 site_name: "Steffenssche Mühle"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Hemmoor, Landkreis Cuxhaven, Niedersachsen"
+description: "Steffenssche Mühle is an impressive windmill located in Hemmoor, a town within the Landkreis Cuxhaven region of Niedersachsen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

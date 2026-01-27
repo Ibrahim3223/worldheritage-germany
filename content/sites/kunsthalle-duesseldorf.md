@@ -3,7 +3,7 @@ title: "Kunsthalle Düsseldorf"
 site_name: "Kunsthalle Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthalle Düsseldorf, located in the heart of Düsseldorf, Germany, serves as a vital hub for contemporary art and culture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

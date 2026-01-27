@@ -3,7 +3,7 @@ title: "Horner Mühle"
 site_name: "Horner Mühle"
 date: 2026-01-26
 draft: false
-description: "windmill in Bremen, Germany"
+description: "Horner Mühle is a captivating windmill located in the Horn-Lehe district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

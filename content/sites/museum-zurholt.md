@@ -3,7 +3,7 @@ title: "Museum Zurholt"
 site_name: "Museum Zurholt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Zurholt in Altenberge, Germany, is a captivating destination for those interested in exploring the cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

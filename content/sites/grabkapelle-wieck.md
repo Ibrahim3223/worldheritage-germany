@@ -3,7 +3,7 @@ title: "Grabkapelle Wieck"
 site_name: "Grabkapelle Wieck"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Grabkapelle Wieck is a charming chapel located in the serene region of Gützkow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

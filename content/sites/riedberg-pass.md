@@ -3,7 +3,7 @@ title: "Riedberg Pass"
 site_name: "Riedberg Pass"
 date: 2026-01-26
 draft: false
-description: "mountain pass in the Allgäu Alps in Bavaria, Germany"
+description: "The Riedberg Pass, a picturesque mountain pass situated in the Allgäu Alps of Bavaria, Germany, serves as a vital link between the valleys of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

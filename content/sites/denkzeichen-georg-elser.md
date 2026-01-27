@@ -3,7 +3,7 @@ title: "Denkzeichen Georg Elser"
 site_name: "Denkzeichen Georg Elser"
 date: 2026-01-26
 draft: false
-description: "sculpture in Berlin"
+description: "In the heart of Berlin, the Denkzeichen Georg Elser stands as a poignant reminder of individual bravery in the face of tyranny."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

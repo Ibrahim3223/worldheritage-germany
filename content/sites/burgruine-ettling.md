@@ -3,7 +3,7 @@ title: "Burgruine Ettling"
 site_name: "Burgruine Ettling"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burgruine Ettling, a striking castle ruin located in the heart of Germany, invites visitors to explore its remnants and reflect on the stories etched within..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

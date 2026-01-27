@@ -3,7 +3,7 @@ title: "Dachau concentration camp memorial"
 site_name: "Dachau concentration camp memorial"
 date: 2026-01-26
 draft: false
-description: "heritage institution"
+description: "The Dachau concentration camp memorial, located in the city of Dachau, Germany, serves as a significant heritage institution that commemorates the victims..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Neuenburg (Durach)"
 site_name: "Burg Neuenburg (Durach)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuenburg, located in Durach, Germany, is a striking castle that encapsulates centuries of history and architectural evolution."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Kestnergesellschaft"
 site_name: "Kestnergesellschaft"
 date: 2026-01-26
 draft: false
-description: "art museum and art organization in Hannover, Germany"
+description: "The Kestnergesellschaft, an esteemed art museum located in the heart of Hannover, Germany, serves as a vital cultural hub for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Dörpfeldstraße 28"
 site_name: "Dörpfeldstraße 28"
 date: 2026-01-26
 draft: false
-description: "Schule in Deutschland"
+description: "Dörpfeldstraße 28, located in the vibrant city of Wuppertal, Germany, is more than just a school building; it represents a significant element of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

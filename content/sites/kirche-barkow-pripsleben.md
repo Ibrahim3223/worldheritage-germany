@@ -3,7 +3,7 @@ title: "Kirche Barkow (Pripsleben)"
 site_name: "Kirche Barkow (Pripsleben)"
 date: 2026-01-26
 draft: false
-description: "church building in Pripsleben, Germany"
+description: "Kirche Barkow, located in the small village of Pripsleben in Germany, presents a serene yet compelling stop for anyone interested in the architectural and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

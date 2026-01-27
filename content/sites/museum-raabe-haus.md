@@ -3,7 +3,7 @@ title: "Museum Raabe-Haus"
 site_name: "Museum Raabe-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Raabe-Haus, located in the quaint town of Eschershausen, Germany, serves as a captivating tribute to the literary genius of Wilhelm Raabe, a notable..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

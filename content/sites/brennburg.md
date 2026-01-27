@@ -3,7 +3,7 @@ title: "Brennburg"
 site_name: "Brennburg"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Germany"
+description: "Brennburg is an archaeological site located in Germany, renowned for its historical significance and cultural richness."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

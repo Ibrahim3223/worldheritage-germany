@@ -3,7 +3,7 @@ title: "Talsperre Eichicht"
 site_name: "Talsperre Eichicht"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Talsperre Eichicht is a significant architectural structure located in Germany, serving as a dam that plays a vital role in water management and local ecology."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Dam"

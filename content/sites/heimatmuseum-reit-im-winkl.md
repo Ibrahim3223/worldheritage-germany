@@ -3,7 +3,7 @@ title: "Heimatmuseum Reit im Winkl"
 site_name: "Heimatmuseum Reit im Winkl"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Reit im Winkl serves as a fascinating portal into the cultural heritage and history of the charming village of Reit im Winkl, located in the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

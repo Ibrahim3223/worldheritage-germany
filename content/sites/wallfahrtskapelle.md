@@ -3,7 +3,7 @@ title: "Wallfahrtskapelle"
 site_name: "Wallfahrtskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Wallfahrtskapelle, located in the serene region of Malsch, Germany, serves as both a spiritual haven and a cultural landmark."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

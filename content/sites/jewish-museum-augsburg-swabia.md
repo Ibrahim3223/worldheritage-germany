@@ -3,7 +3,7 @@ title: "Jewish Museum Augsburg Swabia"
 site_name: "Jewish Museum Augsburg Swabia"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Jewish Museum Augsburg Swabia serves not only as a repository of history but also as a vibrant center for understanding Jewish culture and heritage in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

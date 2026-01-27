@@ -3,7 +3,7 @@ title: "Jammerhecke"
 site_name: "Jammerhecke"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "Jammerhecke is a notable mountain pass located in Hesse, Germany, known for its significant role in connecting various regions and providing a passage..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain Pass"

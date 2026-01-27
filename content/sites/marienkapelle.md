@@ -3,7 +3,7 @@ title: "Marienkapelle"
 site_name: "Marienkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Marienkapelle, a quaint chapel located in the serene region of Erlenmoos, Germany, is a site that encapsulates the spiritual and cultural essence of the area."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

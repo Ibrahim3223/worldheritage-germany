@@ -3,7 +3,7 @@ title: "Töpfereimuseum Langerwehe"
 site_name: "Töpfereimuseum Langerwehe"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Töpfereimuseum Langerwehe is a vibrant celebration of pottery and ceramic art, situated in the quaint town of Langerwehe, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

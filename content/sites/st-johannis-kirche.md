@@ -3,7 +3,7 @@ title: "St. Johannis-Kirche"
 site_name: "St. Johannis-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Hamburg-Neuengamme"
+description: "St. Johannis-Kirche, located in the Hamburg suburb of Neuengamme, presents a fascinating exploration of religious architecture and community spirit in..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Maximilianskirche"
 site_name: "Maximilianskirche"
 date: 2026-01-26
 draft: false
-description: "filial church"
+description: "In the heart of Ellingen, Germany, Maximilianskirche stands as a notable example of ecclesiastical architecture and community spirit."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Missionsmuseum in Limburg"
 site_name: "Missionsmuseum in Limburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Missionsmuseum in Limburg serves as a unique cultural venue that draws visitors interested in the historical narratives of missionary work and its..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

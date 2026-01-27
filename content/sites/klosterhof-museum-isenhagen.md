@@ -3,7 +3,7 @@ title: "Klosterhof Museum Isenhagen"
 site_name: "Klosterhof Museum Isenhagen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Klosterhof Museum Isenhagen serves as a cultural hub in Hankensbüttel, Germany, offering visitors an opportunity to explore the region's rich heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Neuhaus Castle on the Eger"
 site_name: "Neuhaus Castle on the Eger"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Neuhaus Castle on the Eger, located in the picturesque region of Hohenberg an der Eger, Germany, is a remarkable example of medieval architecture that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

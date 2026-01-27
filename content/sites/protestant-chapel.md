@@ -3,7 +3,7 @@ title: "Protestant Chapel"
 site_name: "Protestant Chapel"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Protestant Chapel in Felsberg, Germany, serves as an emblem of spiritual and architectural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

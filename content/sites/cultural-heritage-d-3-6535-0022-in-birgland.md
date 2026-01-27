@@ -3,7 +3,7 @@ title: "Cultural heritage D-3-6535-0022 in Birgland"
 site_name: "Cultural heritage D-3-6535-0022 in Birgland"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Cultural heritage D-3-6535-0022 in Birgland is a significant fortification that plays a crucial role in the historical landscape of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

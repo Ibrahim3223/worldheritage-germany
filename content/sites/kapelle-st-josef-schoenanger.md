@@ -3,7 +3,7 @@ title: "Kapelle St. Josef (Schönanger)"
 site_name: "Kapelle St. Josef (Schönanger)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Schönanger"
+description: "Kapelle St. Josef, located in the quaint village of Schönanger in Neuschönau, Germany, is a serene chapel that offers visitors a glimpse into the spiritual..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

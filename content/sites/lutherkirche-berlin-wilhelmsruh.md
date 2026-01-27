@@ -3,7 +3,7 @@ title: "Lutherkirche Berlin-Wilhelmsruh"
 site_name: "Lutherkirche Berlin-Wilhelmsruh"
 date: 2026-01-26
 draft: false
-description: "church building in Pankow, Germany"
+description: "Lutherkirche Berlin-Wilhelmsruh, located in the vibrant district of Pankow, Germany, is a significant church building that serves as a focal point for the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

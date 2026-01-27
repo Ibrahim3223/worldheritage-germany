@@ -3,7 +3,7 @@ title: "Feldberg Pass"
 site_name: "Feldberg Pass"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Feldberg Pass is a notable mountain pass located in the Baden-Württemberg region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

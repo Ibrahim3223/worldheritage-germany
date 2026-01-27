@@ -3,7 +3,7 @@ title: "German Institute for Global and Area Studies"
 site_name: "German Institute for Global and Area Studies"
 date: 2026-01-26
 draft: false
-description: "Social science research institute, member of the Leibniz Association"
+description: "The German Institute for Global and Area Studies (GIGA) stands at the forefront of social science research in Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

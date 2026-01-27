@@ -3,7 +3,7 @@ title: "Bäckerklint"
 site_name: "Bäckerklint"
 date: 2026-01-26
 draft: false
-description: "public square in Brunswick, Germany"
+description: "Bäckerklint is a vibrant public square located in the heart of Brunswick, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"

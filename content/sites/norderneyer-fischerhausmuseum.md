@@ -3,7 +3,7 @@ title: "Norderneyer Fischerhausmuseum"
 site_name: "Norderneyer Fischerhausmuseum"
 date: 2026-01-26
 draft: false
-description: "local museum in Norderney, Germany"
+description: "The Norderneyer Fischerhausmuseum offers visitors an engaging glimpse into the maritime culture and fishing heritage of Norderney, an island situated in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Kranzenau"
 site_name: "Burg Kranzenau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kranzenau, an intriguing castle located in the picturesque region of Bötzingen, Germany, is a fascinating destination for history enthusiasts and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

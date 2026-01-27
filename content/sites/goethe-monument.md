@@ -3,7 +3,7 @@ title: "Goethe Monument"
 site_name: "Goethe Monument"
 date: 2026-01-26
 draft: false
-description: "memorial in Berlin"
+description: "The Goethe Monument, a striking memorial located in Berlin's Bezirk Mitte, serves as a tribute to one of Germany's most celebrated literary figures, Johann..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

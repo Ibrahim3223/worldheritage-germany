@@ -3,7 +3,7 @@ title: "Kirche Schönow (Berlin-Zehlendorf)"
 site_name: "Kirche Schönow (Berlin-Zehlendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Kirche Schönow, an intriguing church building located in the vibrant district of Steglitz-Zehlendorf, Germany, is a site that invites visitors to explore..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

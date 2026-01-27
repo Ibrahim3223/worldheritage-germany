@@ -3,7 +3,7 @@ title: "Campen Lighthouse"
 site_name: "Campen Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "Campen Lighthouse, a notable maritime sentinel located in the picturesque region of Krummhörn in Lower Saxony, Germany, serves as a critical guide for..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

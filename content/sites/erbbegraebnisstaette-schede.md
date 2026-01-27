@@ -3,7 +3,7 @@ title: "Erbbegräbnisstätte Schede"
 site_name: "Erbbegräbnisstätte Schede"
 date: 2026-01-26
 draft: false
-description: "cemetery in Herdecke, Germany"
+description: "Erbbegräbnisstätte Schede is a cemetery located in the picturesque town of Herdecke, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

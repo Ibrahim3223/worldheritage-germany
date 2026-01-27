@@ -3,7 +3,7 @@ title: "Heiligen-Geist-Kirche"
 site_name: "Heiligen-Geist-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Wismar, Germany, the Heiligen-Geist-Kirche stands as a significant church building that reflects the rich ecclesiastical heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

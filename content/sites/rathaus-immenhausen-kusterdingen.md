@@ -3,7 +3,7 @@ title: "Rathaus Immenhausen (Kusterdingen)"
 site_name: "Rathaus Immenhausen (Kusterdingen)"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Rathaus Immenhausen, situated in Kusterdingen, Germany, serves not only as a functional city hall but also a significant landmark within the community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

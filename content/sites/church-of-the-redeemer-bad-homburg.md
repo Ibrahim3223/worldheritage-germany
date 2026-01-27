@@ -3,7 +3,7 @@ title: "Church of the Redeemer, Bad Homburg"
 site_name: "Church of the Redeemer, Bad Homburg"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church of the Redeemer in Bad Homburg is a remarkable example of ecclesiastical architecture that reflects the cultural and historical fabric of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Burg Herrentierbach"
 site_name: "Burg Herrentierbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Herrentierbach, located in the picturesque region of Herrentierbach, Germany, stands as an enduring symbol of medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

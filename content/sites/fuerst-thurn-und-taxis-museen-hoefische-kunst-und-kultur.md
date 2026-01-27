@@ -3,7 +3,7 @@ title: "Fürst Thurn und Taxis Museen: Höfische Kunst und Kultur"
 site_name: "Fürst Thurn und Taxis Museen: Höfische Kunst und Kultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fürst Thurn und Taxis Museen: Höfische Kunst und Kultur presents a unique opportunity to explore the intersection of courtly art and culture in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

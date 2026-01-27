@@ -3,7 +3,7 @@ title: "St.Mary's church Herzberg (Elster)"
 site_name: "St.Mary's church Herzberg (Elster)"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "St. Mary's Church in Herzberg (Elster) is an architectural and cultural landmark located in the heart of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

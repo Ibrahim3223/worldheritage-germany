@@ -3,7 +3,7 @@ title: "Kronprinzenpalais"
 site_name: "Kronprinzenpalais"
 date: 2026-01-26
 draft: false
-description: "building in Stuttgart, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "The Kronprinzenpalais, or the Crown Prince's Palace, is a significant historical building located in Stuttgart, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

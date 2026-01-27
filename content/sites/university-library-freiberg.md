@@ -3,7 +3,7 @@ title: "University Library Freiberg"
 site_name: "University Library Freiberg"
 date: 2026-01-26
 draft: false
-description: "University Library of the Technische Universität Bergakademie Freiberg"
+description: "The University Library Freiberg, located within the Technische Universität Bergakademie Freiberg in Germany, serves as a vital resource for students,..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

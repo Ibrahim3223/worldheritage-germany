@@ -3,7 +3,7 @@ title: "Burg Hohenfels (Oberpfalz)"
 site_name: "Burg Hohenfels (Oberpfalz)"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Germany"
+description: "Perched on a rugged hill in the picturesque region of Hohenfels, Burg Hohenfels is a captivating castle ruin that invites exploration and contemplation."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

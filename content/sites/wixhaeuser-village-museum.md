@@ -3,7 +3,7 @@ title: "Wixhäuser village museum"
 site_name: "Wixhäuser village museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wixhäuser Village Museum is a unique cultural institution located in Darmstadt, Germany, dedicated to preserving and showcasing the rural heritage of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

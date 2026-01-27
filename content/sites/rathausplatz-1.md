@@ -3,7 +3,7 @@ title: "Rathausplatz 1"
 site_name: "Rathausplatz 1"
 date: 2026-01-26
 draft: false
-description: "building in Elsfleth, Germany"
+description: "Rathausplatz 1, located in the charming town of Elsfleth, Germany, serves as a focal point for local governance and community engagement."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

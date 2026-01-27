@@ -3,7 +3,7 @@ title: "Palatinate Library"
 site_name: "Palatinate Library"
 date: 2026-01-26
 draft: false
-description: "library in Kaiserslautern, Germany"
+description: "The Palatinate Library, located in Kaiserslautern, Germany, serves as a hub of knowledge and culture, attracting visitors from near and far."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

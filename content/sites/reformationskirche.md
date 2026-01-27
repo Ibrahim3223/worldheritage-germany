@@ -3,7 +3,7 @@ title: "Reformationskirche"
 site_name: "Reformationskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Reformationskirche, an important church building located in Magdeburg, Germany, serves as a vital reflection of the region's religious heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

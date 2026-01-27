@@ -3,7 +3,7 @@ title: "Bismarckschule"
 site_name: "Bismarckschule"
 date: 2026-01-26
 draft: false
-description: "Gymnasium in Hanover, Germany"
+description: "Bismarckschule stands in the heart of Hanover's Südstadt-Bult district, embodying the spirit of education and community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

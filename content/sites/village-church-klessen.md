@@ -3,7 +3,7 @@ title: "Village church Kleßen"
 site_name: "Village church Kleßen"
 date: 2026-01-26
 draft: false
-description: "listed hall church in Kleßen in Brandenburg state of Germany"
+description: "In the quaint village of Kleßen-Görne, Germany, the Village Church stands as a significant representation of the region's architectural and cultural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

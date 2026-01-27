@@ -3,7 +3,7 @@ title: "Städtische Wessenberg-Galerie"
 site_name: "Städtische Wessenberg-Galerie"
 date: 2026-01-26
 draft: false
-description: "museum in Konstanz (Bodensee)"
+description: "The Städtische Wessenberg-Galerie, located in the charming city of Konstanz, Germany, serves as a vibrant hub for art enthusiasts and culture seekers alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

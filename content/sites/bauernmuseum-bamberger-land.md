@@ -3,7 +3,7 @@ title: "Bauernmuseum Bamberger Land"
 site_name: "Bauernmuseum Bamberger Land"
 date: 2026-01-26
 draft: false
-description: "archive organization in Frensdorf, Germany"
+description: "In the heart of Frensdorf, Germany, the Bauernmuseum Bamberger Land serves as a portal into the agricultural history and rural life of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Institution"

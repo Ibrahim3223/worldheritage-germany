@@ -3,7 +3,7 @@ title: "Kinzigtalsperre"
 site_name: "Kinzigtalsperre"
 date: 2026-01-26
 draft: false
-description: "reservoir in Germany"
+description: "The Kinzigtalsperre, a prominent dam situated in the Main-Kinzig-Kreis of Germany, serves not only as an essential infrastructural element but also as a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Dam"

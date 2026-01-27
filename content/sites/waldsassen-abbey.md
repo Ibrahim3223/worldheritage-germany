@@ -3,7 +3,7 @@ title: "Waldsassen Abbey"
 site_name: "Waldsassen Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Waldsassen Abbey, a serene monastery located in Waldsassen, Germany, serves as a remarkable destination for those seeking to understand the spiritual and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Kirche Herz Jesu"
 site_name: "Kirche Herz Jesu"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kirche Herz Jesu, a distinguished church building located in Wuppertal, Germany, presents an intriguing blend of architectural beauty and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

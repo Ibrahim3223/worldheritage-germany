@@ -3,7 +3,7 @@ title: "Bach-Stammhaus"
 site_name: "Bach-Stammhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Günthersleben-Wechmar, Germany"
+description: "The Bach-Stammhaus, located in the quaint village of Günthersleben-Wechmar, Germany, is not merely a museum; it is a portal into the life and legacy of one..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

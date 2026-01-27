@@ -3,7 +3,7 @@ title: "Donaudurchbruch bei Beuron"
 site_name: "Donaudurchbruch bei Beuron"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "The Donaudurchbruch bei Beuron, located in the picturesque region of Baden-Württemberg, Germany, is an evocative valley that showcases the natural beauty..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Valley"

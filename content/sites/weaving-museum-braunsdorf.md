@@ -3,7 +3,7 @@ title: "Weaving Museum Braunsdorf"
 site_name: "Weaving Museum Braunsdorf"
 date: 2026-01-26
 draft: false
-description: "textile museum in Germany"
+description: "The Weaving Museum Braunsdorf serves as a vibrant testament to the enduring legacy of textile arts in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

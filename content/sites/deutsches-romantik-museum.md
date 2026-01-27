@@ -3,7 +3,7 @@ title: "Deutsches Romantik-Museum"
 site_name: "Deutsches Romantik-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt am Main, Germany"
+description: "The Deutsches Romantik-Museum in Frankfurt am Main invites visitors to explore the profound impact of the Romantic period on German culture and society."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

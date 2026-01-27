@@ -3,7 +3,7 @@ title: "Kunstmuseum Schloss Derneburg"
 site_name: "Kunstmuseum Schloss Derneburg"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Kunstmuseum Schloss Derneburg, situated in the serene landscape of Holle, Germany, is a notable destination for art enthusiasts and cultural explorers alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

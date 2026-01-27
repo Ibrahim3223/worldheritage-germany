@@ -3,7 +3,7 @@ title: "Village church Reckahn"
 site_name: "Village church Reckahn"
 date: 2026-01-26
 draft: false
-description: "church building in Potsdam-Mittelmark district, Brandenburg state, Germany"
+description: "The Village Church Reckahn, located in the tranquil Kloster Lehnin region of Brandenburg, Germany, is a noteworthy church building that offers visitors a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Church of Emmaus"
 site_name: "Church of Emmaus"
 date: 2026-01-26
 draft: false
-description: "church in Lausitzer Platz, Berlin-Kreuzberg, Germany"
+description: "The Church of Emmaus, located in the vibrant district of Kreuzberg, Berlin, is a significant church building that reflects both the architectural and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

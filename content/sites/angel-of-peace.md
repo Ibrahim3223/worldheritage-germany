@@ -3,7 +3,7 @@ title: "Angel of Peace"
 site_name: "Angel of Peace"
 date: 2026-01-26
 draft: false
-description: "monument in the Munich suburb of Bogenhausen"
+description: "The Angel of Peace, located in the Bogenhausen district of Munich, Germany, is a monument that captures the spirit of peace and reconciliation."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

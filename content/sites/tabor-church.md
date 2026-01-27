@@ -3,7 +3,7 @@ title: "Tabor Church"
 site_name: "Tabor Church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Tabor Church, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, Germany, is a striking example of ecclesiastical architecture that invites..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

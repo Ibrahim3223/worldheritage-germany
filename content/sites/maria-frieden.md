@@ -3,7 +3,7 @@ title: "Maria Frieden"
 site_name: "Maria Frieden"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Maria Frieden, a captivating chapel located in the quaint region of Kippenheim, Germany, offers visitors an intimate glimpse into the spiritual and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

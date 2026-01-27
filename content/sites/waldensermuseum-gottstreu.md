@@ -3,7 +3,7 @@ title: "Waldensermuseum Gottstreu"
 site_name: "Waldensermuseum Gottstreu"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Waldensermuseum Gottstreu is a unique cultural institution located in the tranquil Wesertal region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

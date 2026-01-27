@@ -3,7 +3,7 @@ title: "Heribertturm"
 site_name: "Heribertturm"
 date: 2026-01-26
 draft: false
-description: "tower in Koblenz, Germany"
+description: "Heribertturm is a prominent tower located in the historic city of Koblenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

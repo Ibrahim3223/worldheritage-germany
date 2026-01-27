@@ -3,7 +3,7 @@ title: "Brose Arena"
 site_name: "Brose Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall"
+description: "Brose Arena, located in the heart of Bamberg, Germany, serves as a dynamic multi-purpose hall that caters to a variety of events, from sports competitions..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

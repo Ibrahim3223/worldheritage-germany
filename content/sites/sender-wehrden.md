@@ -3,7 +3,7 @@ title: "Sender Wehrden"
 site_name: "Sender Wehrden"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Sender Wehrden is a prominent tower located in Völklingen, Germany, contributing to the area's historical and architectural landscape."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

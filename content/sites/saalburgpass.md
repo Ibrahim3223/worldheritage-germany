@@ -3,7 +3,7 @@ title: "Saalburgpass"
 site_name: "Saalburgpass"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "Saalburgpass is a notable mountain pass located in the picturesque region of Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain Pass"

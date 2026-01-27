@@ -3,7 +3,7 @@ title: "Gemäldegalerie Berlin"
 site_name: "Gemäldegalerie Berlin"
 date: 2026-01-26
 draft: false
-description: "art museum in Berlin, Germany"
+description: "The Gemäldegalerie Berlin stands as a premier destination for art enthusiasts in the heart of Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

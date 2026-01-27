@@ -3,7 +3,7 @@ title: "Bartholomäuskirche Ilsfeld"
 site_name: "Bartholomäuskirche Ilsfeld"
 date: 2026-01-26
 draft: false
-description: "church building in Ilsfeld, Heilbronn district, Baden-Württemberg, Germany"
+description: "Bartholomäuskirche Ilsfeld is a significant church building located in the charming village of Ilsfeld, nestled within the Heilbronn district of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

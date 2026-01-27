@@ -3,7 +3,7 @@ title: "Bayerischer Löwe"
 site_name: "Bayerischer Löwe"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "The Bayerischer Löwe, a prominent cultural heritage monument located in the picturesque region of Starnberg, Germany, serves as a striking symbol of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

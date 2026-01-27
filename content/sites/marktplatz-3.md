@@ -3,7 +3,7 @@ title: "Marktplatz 3"
 site_name: "Marktplatz 3"
 date: 2026-01-26
 draft: false
-description: "building in Herrieden, Middle Franconia, Germany"
+description: "Marktplatz 3, located in the charming town of Herrieden, Germany, serves as a significant landmark that reflects the administrative and cultural heritage of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

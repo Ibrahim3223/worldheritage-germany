@@ -3,7 +3,7 @@ title: "Skulpturensammlung und Museum für Byzantinische Kunst"
 site_name: "Skulpturensammlung und Museum für Byzantinische Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Skulpturensammlung und Museum für Byzantinische Kunst, located in the vibrant Bezirk Mitte of Berlin, Germany, serves as a significant repository of art..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Steinhuder Meer"
 site_name: "Steinhuder Meer"
 date: 2026-01-26
 draft: false
-description: "lake in Wunstorf, Lower Saxony, Germany"
+description: "Steinhuder Meer, located in Wunstorf, Lower Saxony, Germany, is a captivating lake that serves as a serene escape from the bustle of modern life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

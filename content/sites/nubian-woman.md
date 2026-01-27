@@ -3,7 +3,7 @@ title: "Nubian Woman"
 site_name: "Nubian Woman"
 date: 2026-01-26
 draft: false
-description: "sculpture by Bernhard Sopher"
+description: "The "Nubian Woman" is a striking sculpture located in Düsseldorf, Germany, created by the talented artist Bernhard Sopher."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

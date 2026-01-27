@@ -3,7 +3,7 @@ title: "Rokokoschloss Dornburg"
 site_name: "Rokokoschloss Dornburg"
 date: 2026-01-26
 draft: false
-description: "palace in Dornburg, Thuringia, Germany"
+description: "Rokokoschloss Dornburg is a stunning palace located in the picturesque region of Dornburg-Camburg, Thuringia, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"

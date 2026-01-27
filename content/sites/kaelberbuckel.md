@@ -3,7 +3,7 @@ title: "Kälberbuckel"
 site_name: "Kälberbuckel"
 date: 2026-01-26
 draft: false
-description: "mountain in Germany"
+description: "Kälberbuckel, a prominent mountain located in Bavaria, Germany, serves as a striking natural feature within the region's diverse landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

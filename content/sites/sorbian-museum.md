@@ -3,7 +3,7 @@ title: "Sorbian Museum"
 site_name: "Sorbian Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sorbian Museum, located in Bautzen, Germany, serves as a vital cultural hub dedicated to preserving and promoting the unique heritage of the Sorbian people."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Research library Dillingen"
 site_name: "Research library Dillingen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Research Library Dillingen is a significant cultural institution located in the town of Dillingen an der Donau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

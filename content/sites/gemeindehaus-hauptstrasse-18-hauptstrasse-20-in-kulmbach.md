@@ -3,7 +3,7 @@ title: "Gemeindehaus Hauptstraße 18; Hauptstraße 20 in Kulmbach"
 site_name: "Gemeindehaus Hauptstraße 18; Hauptstraße 20 in Kulmbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-128-239 (2) in Kulmbach, Bavaria"
+description: "The Gemeindehaus Hauptstraße 18; Hauptstraße 20 in Kulmbach stands as a cultural heritage monument within the picturesque town of Kulmbach, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

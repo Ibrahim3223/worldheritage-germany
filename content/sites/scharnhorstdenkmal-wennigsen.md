@@ -3,7 +3,7 @@ title: "Scharnhorstdenkmal Wennigsen"
 site_name: "Scharnhorstdenkmal Wennigsen"
 date: 2026-01-26
 draft: false
-description: "monument in Wennigsen, Germany"
+description: "The Scharnhorstdenkmal in Wennigsen, Germany, is a poignant monument dedicated to the memory of General Gerhard von Scharnhorst, a notable figure in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Kunsthistorisches Museum der Universität Bonn"
 site_name: "Kunsthistorisches Museum der Universität Bonn"
 date: 2026-01-26
 draft: false
-description: "Kunsthistorisches Museum der Universität Bonn"
+description: "The Kunsthistorisches Museum der Universität Bonn serves as a captivating portal into the world of art history, showcasing a diverse collection that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

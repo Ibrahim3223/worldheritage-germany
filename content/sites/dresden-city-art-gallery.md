@@ -3,7 +3,7 @@ title: "Dresden City Art Gallery"
 site_name: "Dresden City Art Gallery"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dresden City Art Gallery stands as a prominent destination for art enthusiasts and cultural explorers alike."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

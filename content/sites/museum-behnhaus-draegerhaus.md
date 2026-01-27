@@ -3,7 +3,7 @@ title: "Museum Behnhaus Drägerhaus"
 site_name: "Museum Behnhaus Drägerhaus"
 date: 2026-01-26
 draft: false
-description: "Art museum in Lübeck, Germany"
+description: "Museum Behnhaus Drägerhaus, located in the heart of Lübeck's Old City, is a captivating destination for art enthusiasts and history buffs alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

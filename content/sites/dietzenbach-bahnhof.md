@@ -3,7 +3,7 @@ title: "Dietzenbach Bahnhof"
 site_name: "Dietzenbach Bahnhof"
 date: 2026-01-26
 draft: false
-description: "railway station in Dietzenbach, Germany"
+description: "Dietzenbach Bahnhof, located in the heart of Dietzenbach, Germany, serves as a crucial junction in the regional railway network."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Saxon State and University Library, Dresden"
 site_name: "Saxon State and University Library, Dresden"
 date: 2026-01-26
 draft: false
-description: "combined state and university library in Dresden, Saxony, Germany"
+description: "The Saxon State and University Library in Dresden is a significant institution that serves as both a state library and a university library, bridging the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

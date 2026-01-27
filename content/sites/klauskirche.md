@@ -3,7 +3,7 @@ title: "Klauskirche"
 site_name: "Klauskirche"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Klauskirche, a remarkable cave located in the serene region of Betzenstein, Germany, invites visitors to explore its intriguing geological formations and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

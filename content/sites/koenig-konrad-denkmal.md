@@ -3,7 +3,7 @@ title: "König-Konrad-Denkmal"
 site_name: "König-Konrad-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Villmar, Germany"
+description: "The König-Konrad-Denkmal, located in the serene town of Villmar, Germany, is a monument that encapsulates the historical and cultural significance of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

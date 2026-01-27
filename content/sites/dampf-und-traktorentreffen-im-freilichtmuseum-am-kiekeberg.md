@@ -3,7 +3,7 @@ title: "Dampf- und Traktorentreffen im Freilichtmuseum am Kiekeberg"
 site_name: "Dampf- und Traktorentreffen im Freilichtmuseum am Kiekeberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dampf- und Traktorentreffen im Freilichtmuseum am Kiekeberg is a captivating celebration of agricultural heritage, located in the picturesque..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

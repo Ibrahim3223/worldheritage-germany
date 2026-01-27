@@ -3,7 +3,7 @@ title: "Kulturfabrik"
 site_name: "Kulturfabrik"
 date: 2026-01-26
 draft: false
-description: "Koblenz"
+description: "Kulturfabrik in Koblenz, Germany, is more than just a theatre building; it is a vibrant cultural hub that plays a pivotal role in the city's artistic landscape."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Museum Kunsthaus Heylshof"
 site_name: "Museum Kunsthaus Heylshof"
 date: 2026-01-26
 draft: false
-description: "art museum in Worms, Germany"
+description: "Museum Kunsthaus Heylshof is an art museum located in the historical city of Worms, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

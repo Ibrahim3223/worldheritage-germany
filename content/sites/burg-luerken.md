@@ -3,7 +3,7 @@ title: "Burg Lürken"
 site_name: "Burg Lürken"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lürken, a historic castle located in the Eschweiler region of Germany, serves as a fascinating glimpse into the architectural and cultural heritage of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

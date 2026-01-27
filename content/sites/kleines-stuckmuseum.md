@@ -3,7 +3,7 @@ title: "Kleines Stuckmuseum"
 site_name: "Kleines Stuckmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kleines Stuckmuseum, located in the charming city of Freiburg im Breisgau, Germany, offers visitors a unique glimpse into the world of decorative arts,..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

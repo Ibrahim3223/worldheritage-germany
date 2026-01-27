@@ -3,7 +3,7 @@ title: "Zeche Adolphine"
 site_name: "Zeche Adolphine"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Adolphine, located in the vibrant region of Witten, Germany, represents a significant chapter in the story of industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Saint Michael Church"
 site_name: "Saint Michael Church"
 date: 2026-01-26
 draft: false
-description: "church building in Gunzenhausen, Middle Franconia, Germany"
+description: "Saint Michael Church, a notable religious structure located in Gunzenhausen, Middle Franconia, Germany, captures the essence of the region's architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Fledermaus-Museum Julianenhof"
 site_name: "Fledermaus-Museum Julianenhof"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Fledermaus-Museum Julianenhof offers a unique glimpse into the world of bats, showcasing their ecological significance and cultural representation."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hiltpoltstein Castle"
 site_name: "Hiltpoltstein Castle"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-138-6 (0) in Hiltpoltstein, Bavaria"
+description: "Hiltpoltstein Castle, located in the picturesque region of Hiltpoltstein, Bavaria, is a remarkable cultural heritage monument that captures the essence of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

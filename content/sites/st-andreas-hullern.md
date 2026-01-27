@@ -3,7 +3,7 @@ title: "St. Andreas (Hullern)"
 site_name: "St. Andreas (Hullern)"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "St. Andreas in Hullern is a notable church building situated in Germany, embodying both religious significance and architectural interest."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

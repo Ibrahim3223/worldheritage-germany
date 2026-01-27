@@ -3,7 +3,7 @@ title: "Barbarossa Cave"
 site_name: "Barbarossa Cave"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Barbarossa Cave, situated in the scenic region of Kyffhäuserland, Germany, offers visitors an intriguing glimpse into the natural beauty and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

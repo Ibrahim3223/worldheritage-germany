@@ -3,7 +3,7 @@ title: "Blankschmiede Neimke"
 site_name: "Blankschmiede Neimke"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Blankschmiede Neimke, located in the quaint town of Dassel, Germany, offers visitors a unique glimpse into the local heritage through its dedicated museum."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

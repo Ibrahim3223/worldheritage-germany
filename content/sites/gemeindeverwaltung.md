@@ -3,7 +3,7 @@ title: "Gemeindeverwaltung"
 site_name: "Gemeindeverwaltung"
 date: 2026-01-26
 draft: false
-description: "Verwaltung der Ortschaft Taucha, Hohenmölsen"
+description: "The Gemeindeverwaltung serves as a central hub of governance and administration for the town of Taucha in the Hohenmölsen region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

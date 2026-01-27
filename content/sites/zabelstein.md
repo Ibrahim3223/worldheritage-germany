@@ -3,7 +3,7 @@ title: "Zabelstein"
 site_name: "Zabelstein"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zabelstein, located in the Schweinfurt region of Germany, is a mountain that captivates visitors with its natural beauty and serene atmosphere."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

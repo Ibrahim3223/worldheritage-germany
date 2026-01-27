@@ -3,7 +3,7 @@ title: "Haus Letmathe"
 site_name: "Haus Letmathe"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Haus Letmathe, located in the city of Iserlohn, Germany, serves as a significant cultural hub, dedicated to showcasing local history and heritage through..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

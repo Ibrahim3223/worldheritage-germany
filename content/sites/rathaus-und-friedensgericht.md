@@ -3,7 +3,7 @@ title: "Rathaus und Friedensgericht"
 site_name: "Rathaus und Friedensgericht"
 date: 2026-01-26
 draft: false
-description: "former town hall in Nieder-Olm"
+description: "The Rathaus und Friedensgericht, or Town Hall and Peace Court, is a striking representation of civic architecture in the quaint town of Nieder-Olm, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Velodrom"
 site_name: "Velodrom"
 date: 2026-01-26
 draft: false
-description: "sports arena and velodrome in Berlin, Germany"
+description: "The Velodrom, located in the vibrant Pankow district of Berlin, Germany, serves as a significant multi-purpose hall that plays host to a variety of sporting..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

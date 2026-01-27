@@ -3,7 +3,7 @@ title: "Südhessisches Handwerksmuseum Roßdorf"
 site_name: "Südhessisches Handwerksmuseum Roßdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Südhessisches Handwerksmuseum Roßdorf serves as a fascinating portal into the skilled trades and craftsmanship of southern Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Garten Spiegel 45 in Kulmbach"
 site_name: "Garten Spiegel 45 in Kulmbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-128-157 (3) in Kulmbach, Bavaria"
+description: "Garten Spiegel 45, located in the historic town of Kulmbach, Germany, represents a significant cultural heritage monument in Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

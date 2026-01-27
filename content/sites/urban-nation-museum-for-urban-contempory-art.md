@@ -3,7 +3,7 @@ title: "Urban Nation Museum For Urban Contempory Art"
 site_name: "Urban Nation Museum For Urban Contempory Art"
 date: 2026-01-26
 draft: false
-description: "museum of Urban Art in Berlin, Germany"
+description: "In the vibrant heart of Berlin’s Tempelhof-Schöneberg district lies the Urban Nation Museum For Urban Contemporary Art, a pioneering institution dedicated..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

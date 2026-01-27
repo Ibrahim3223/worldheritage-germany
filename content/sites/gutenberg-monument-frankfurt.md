@@ -3,7 +3,7 @@ title: "Gutenberg monument, Frankfurt"
 site_name: "Gutenberg monument, Frankfurt"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Frankfurt am Main"
+description: "The Gutenberg Monument in Frankfurt stands as a tribute to one of the most influential figures in the history of printing."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

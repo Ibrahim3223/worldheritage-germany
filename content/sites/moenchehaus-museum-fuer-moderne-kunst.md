@@ -3,7 +3,7 @@ title: "Mönchehaus-Museum für Moderne Kunst"
 site_name: "Mönchehaus-Museum für Moderne Kunst"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Mönchehaus-Museum für Moderne Kunst stands as an important cultural institution in the heart of Goslar, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

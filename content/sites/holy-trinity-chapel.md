@@ -3,7 +3,7 @@ title: "Holy Trinity Chapel"
 site_name: "Holy Trinity Chapel"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Holy Trinity Chapel, located in the quaint town of Oedheim, Germany, is a site of serene beauty and spiritual significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

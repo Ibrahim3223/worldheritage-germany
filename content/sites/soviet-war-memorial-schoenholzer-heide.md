@@ -3,7 +3,7 @@ title: "Soviet War Memorial Schönholzer Heide"
 site_name: "Soviet War Memorial Schönholzer Heide"
 date: 2026-01-26
 draft: false
-description: "monument in Berlin-Niederschönhausen, Germany"
+description: "The Soviet War Memorial Schönholzer Heide is a poignant tribute located in Berlin's Pankow district, dedicated to the Soviet soldiers who lost their lives..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

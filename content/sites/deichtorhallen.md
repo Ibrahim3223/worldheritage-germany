@@ -3,7 +3,7 @@ title: "Deichtorhallen"
 site_name: "Deichtorhallen"
 date: 2026-01-26
 draft: false
-description: "Exhibition venue for contemporary art"
+description: "Deichtorhallen stands out as a prominent art museum located in the heart of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

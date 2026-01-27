@@ -3,7 +3,7 @@ title: "Don-Bosco-Kirche"
 site_name: "Don-Bosco-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Don-Bosco-Kirche, located in Augsburg, Germany, is an architectural and cultural landmark that draws the attention of both locals and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

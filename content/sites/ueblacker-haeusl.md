@@ -3,7 +3,7 @@ title: "Üblacker-Häusl"
 site_name: "Üblacker-Häusl"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "In the vibrant district of Haidhausen, Germany, sits Üblacker-Häusl, an architectural heritage monument that captivates visitors with its historical charm..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

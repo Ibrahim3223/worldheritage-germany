@@ -3,7 +3,7 @@ title: "Schlesisches Museum zu Görlitz"
 site_name: "Schlesisches Museum zu Görlitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schlesisches Museum zu Görlitz, located in the historic city of Görlitz, Germany, serves as a captivating window into the cultural and artistic heritage..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

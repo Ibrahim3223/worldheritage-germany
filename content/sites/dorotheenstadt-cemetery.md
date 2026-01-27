@@ -3,7 +3,7 @@ title: "Dorotheenstadt Cemetery"
 site_name: "Dorotheenstadt Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin"
+description: "Dorotheenstadt Cemetery, located in the heart of Berlin's Bezirk Mitte, is a serene and contemplative space that invites visitors to reflect on the lives..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

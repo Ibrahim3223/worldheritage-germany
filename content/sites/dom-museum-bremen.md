@@ -3,7 +3,7 @@ title: "Dom Museum Bremen"
 site_name: "Dom Museum Bremen"
 date: 2026-01-26
 draft: false
-description: "museum in Bremen, Germany"
+description: "The Dom Museum Bremen serves as a cultural anchor in the heart of Bremen, Germany, showcasing the rich heritage and artistic expressions of the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

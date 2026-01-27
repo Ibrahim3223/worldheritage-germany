@@ -3,7 +3,7 @@ title: "Betsäule von Halle"
 site_name: "Betsäule von Halle"
 date: 2026-01-26
 draft: false
-description: "monument in Halle (Saale), Germany"
+description: "The Betsäule von Halle is a monument that serves as a significant cultural landmark in Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

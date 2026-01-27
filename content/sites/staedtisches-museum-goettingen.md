@@ -3,7 +3,7 @@ title: "Städtisches Museum Göttingen"
 site_name: "Städtisches Museum Göttingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtisches Museum Göttingen serves as a vital cultural institution in the heart of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Abrechen (München)"
 site_name: "Abrechen (München)"
 date: 2026-01-26
 draft: false
-description: "bridge"
+description: "Abrechen in München is a bridge that plays a significant role in the connectivity of this bustling German city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

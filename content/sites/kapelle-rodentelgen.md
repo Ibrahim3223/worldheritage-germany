@@ -3,7 +3,7 @@ title: "Kapelle Rodentelgen"
 site_name: "Kapelle Rodentelgen"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Arnsberg"
+description: "Kapelle Rodentelgen, a serene chapel located in the Arnsberg region of Germany, is a remarkable site for anyone interested in the intersection of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

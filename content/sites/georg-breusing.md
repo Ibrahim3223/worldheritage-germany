@@ -3,7 +3,7 @@ title: "Georg Breusing"
 site_name: "Georg Breusing"
 date: 2026-01-26
 draft: false
-description: "museum shipin Emden, Germany, former rescue cruiser"
+description: "The Georg Breusing in Emden, Germany, is an intriguing museum ship that tells the story of maritime rescue operations."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

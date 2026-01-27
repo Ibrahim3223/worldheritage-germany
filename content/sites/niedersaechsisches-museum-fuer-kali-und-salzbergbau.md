@@ -3,7 +3,7 @@ title: "Niedersächsisches Museum für Kali- und Salzbergbau"
 site_name: "Niedersächsisches Museum für Kali- und Salzbergbau"
 date: 2026-01-26
 draft: false
-description: "mining museum in Empelde near Hannover, Germany"
+description: "The Niedersächsisches Museum für Kali- und Salzbergbau, located in Empelde near Hannover, Germany, serves as a comprehensive resource for understanding the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

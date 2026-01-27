@@ -3,7 +3,7 @@ title: "Psychiatrie-Museum Philippshospital"
 site_name: "Psychiatrie-Museum Philippshospital"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Psychiatrie-Museum Philippshospital serves as a significant cultural institution dedicated to the exploration of the history of psychiatry and mental..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Archiv Grünes Gedächtnis"
 site_name: "Archiv Grünes Gedächtnis"
 date: 2026-01-26
 draft: false
-description: "archival institution in Germany"
+description: "Archiv Grünes Gedächtnis is not just a library; it is a significant archival institution located in the vibrant district of Friedrichshain-Kreuzberg in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

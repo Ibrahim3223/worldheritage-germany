@@ -3,7 +3,7 @@ title: "Otto-Dix-Haus"
 site_name: "Otto-Dix-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Gera, Germany"
+description: "Otto-Dix-Haus is a distinguished art museum located in Gera, Germany, dedicated to the life and work of the renowned German painter Otto Dix."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

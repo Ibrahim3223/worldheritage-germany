@@ -3,7 +3,7 @@ title: "Zoitzberg"
 site_name: "Zoitzberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zoitzberg, a prominent mountain located in the Gera region of Germany, invites outdoor enthusiasts and nature lovers alike to explore its rugged terrain and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

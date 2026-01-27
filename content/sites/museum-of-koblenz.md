@@ -3,7 +3,7 @@ title: "Museum of Koblenz"
 site_name: "Museum of Koblenz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of Koblenz serves as a cultural hub in the historic town of Koblenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

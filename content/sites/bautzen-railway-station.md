@@ -3,7 +3,7 @@ title: "Bautzen railway station"
 site_name: "Bautzen railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Bautzen, Germany"
+description: "Bautzen railway station serves as a vital transportation hub in the picturesque town of Bautzen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Zeche Dahlacker"
 site_name: "Zeche Dahlacker"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Dahlacker, a historic mine located in Dortmund, Germany, serves as a significant marker of the region's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

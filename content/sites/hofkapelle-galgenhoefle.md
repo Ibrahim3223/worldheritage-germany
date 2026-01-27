@@ -3,7 +3,7 @@ title: "Hofkapelle Galgenhöfle"
 site_name: "Hofkapelle Galgenhöfle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Hofkapelle Galgenhöfle, located in the quaint region of Bad Wurzach, Germany, is an architectural structure that invites visitors to explore its serene..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

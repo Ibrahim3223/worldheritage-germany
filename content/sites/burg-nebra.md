@@ -3,7 +3,7 @@ title: "Burg Nebra"
 site_name: "Burg Nebra"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nebra, an imposing castle located in Germany's Nebra region, invites visitors to explore its historical significance and architectural grandeur."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Castle"

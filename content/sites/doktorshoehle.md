@@ -3,7 +3,7 @@ title: "Doktorshöhle"
 site_name: "Doktorshöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Doktorshöhle is a remarkable cave located in the Wiesenttal region of Germany, offering visitors a glimpse into the intricate natural formations that have..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Zietenplatz"
 site_name: "Zietenplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin-Mitte"
+description: "Zietenplatz is a square located in the heart of Berlin-Mitte, an area known for its vibrant cultural scene and historical significance."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

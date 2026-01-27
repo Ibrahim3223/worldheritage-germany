@@ -3,7 +3,7 @@ title: "Großer Zechliner See"
 site_name: "Großer Zechliner See"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Großer Zechliner See, located in Germany, is a captivating lake that invites visitors to immerse themselves in its tranquil waters and surrounding natural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Altendorf Tiefbau Colliery"
 site_name: "Altendorf Tiefbau Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Altendorf Tiefbau Colliery, located in the industrial heart of Essen, Germany, serves as a significant reminder of the region's storied mining heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

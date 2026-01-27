@@ -3,7 +3,7 @@ title: "Augustinerkloster Dresden"
 site_name: "Augustinerkloster Dresden"
 date: 2026-01-26
 draft: false
-description: "former monastery in Dresden, Saxony, Germany"
+description: "Augustinerkloster Dresden, a significant former monastery located in the heart of Dresden, Germany, offers visitors a glimpse into the spiritual and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monastery"

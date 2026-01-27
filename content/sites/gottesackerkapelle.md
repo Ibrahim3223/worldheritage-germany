@@ -3,7 +3,7 @@ title: "Gottesackerkapelle"
 site_name: "Gottesackerkapelle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Gottesackerkapelle, a notable castle located in the scenic region of Gutenzell-Hürbel, Germany, stands as a remarkable example of the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

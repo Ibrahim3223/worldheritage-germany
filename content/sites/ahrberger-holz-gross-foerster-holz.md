@@ -3,7 +3,7 @@ title: "Ahrberger Holz / Groß Förster Holz"
 site_name: "Ahrberger Holz / Groß Förster Holz"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ahrberger Holz / Groß Förster Holz is a captivating nature reserve located in Lower Saxony, Germany, near the town of Giesen."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

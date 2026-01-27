@@ -3,7 +3,7 @@ title: "Naturalienkabinett Waldenburg"
 site_name: "Naturalienkabinett Waldenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Waldenburg"
+description: "The Naturalienkabinett Waldenburg is a unique museum located in the picturesque town of Waldenburg, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

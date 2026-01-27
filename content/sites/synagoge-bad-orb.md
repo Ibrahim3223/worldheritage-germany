@@ -3,7 +3,7 @@ title: "Synagoge (Bad Orb)"
 site_name: "Synagoge (Bad Orb)"
 date: 2026-01-26
 draft: false
-description: "Synagoge in Bad Orb"
+description: "The Synagoge in Bad Orb stands as an important site reflecting the Jewish heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

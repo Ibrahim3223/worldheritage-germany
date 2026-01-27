@@ -3,7 +3,7 @@ title: "Ruine Kreidenstein, Bäratal"
 site_name: "Ruine Kreidenstein, Bäratal"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched above the picturesque Bäratal valley, Ruine Kreidenstein is a captivating castle that invites visitors to explore its storied past amidst the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

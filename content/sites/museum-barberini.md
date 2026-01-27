@@ -3,7 +3,7 @@ title: "Museum Barberini"
 site_name: "Museum Barberini"
 date: 2026-01-26
 draft: false
-description: "art museum in Potsdam"
+description: "Museum Barberini, located in the charming city of Potsdam, Germany, is a distinguished art museum that serves as a cultural focal point for both locals and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

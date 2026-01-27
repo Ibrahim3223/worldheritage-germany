@@ -3,7 +3,7 @@ title: "Protestant church Rüdinghausen"
 site_name: "Protestant church Rüdinghausen"
 date: 2026-01-26
 draft: false
-description: "church in Witten"
+description: "The Protestant church Rüdinghausen, located in the town of Witten, Germany, is a significant place of worship that holds deep cultural and historical value..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

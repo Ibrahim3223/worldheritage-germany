@@ -3,7 +3,7 @@ title: "Burg Gut-Krenkingen"
 site_name: "Burg Gut-Krenkingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gut-Krenkingen is a striking castle located in the Weilheim region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Museum St. Ingbert"
 site_name: "Museum St. Ingbert"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum St. Ingbert serves as a cultural hub in the heart of Sankt Ingbert, Germany, inviting visitors to delve into the local heritage and artistic..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

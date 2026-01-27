@@ -3,7 +3,7 @@ title: "Gartenweg 15"
 site_name: "Gartenweg 15"
 date: 2026-01-26
 draft: false
-description: "house in Niedercunnersdorf"
+description: "Gartenweg 15, located in the charming village of Niedercunnersdorf within the Kottmar region of Germany, serves as the local city hall, a pivotal center for..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

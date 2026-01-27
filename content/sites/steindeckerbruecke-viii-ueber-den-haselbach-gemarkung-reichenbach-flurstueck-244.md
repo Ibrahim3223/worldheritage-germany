@@ -3,7 +3,7 @@ title: "Steindeckerbrücke (VIII) über den Haselbach Gemarkung Reichenbach, Flu
 site_name: "Steindeckerbrücke (VIII) über den Haselbach Gemarkung Reichenbach, Flurstück 244, in der Nähe der Milchviehanlage"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke (VIII) über den Haselbach, located in the picturesque Haselbachtal region of Germany, is a noteworthy example of local bridge..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

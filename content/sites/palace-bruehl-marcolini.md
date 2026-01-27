@@ -3,7 +3,7 @@ title: "Palace Brühl-Marcolini"
 site_name: "Palace Brühl-Marcolini"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "Palace Brühl-Marcolini is an intriguing historical site located in Dresden, Germany, that captures the essence of the region's cultural and architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

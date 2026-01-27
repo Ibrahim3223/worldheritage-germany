@@ -3,7 +3,7 @@ title: "Burg Heinsberg"
 site_name: "Burg Heinsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heinsberg, a historic castle located in the Heinsberg region of Germany, invites visitors to explore its fascinating past and architectural beauty."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

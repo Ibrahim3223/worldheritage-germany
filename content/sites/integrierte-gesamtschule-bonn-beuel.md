@@ -3,7 +3,7 @@ title: "Integrierte Gesamtschule Bonn-Beuel"
 site_name: "Integrierte Gesamtschule Bonn-Beuel"
 date: 2026-01-26
 draft: false
-description: "Gesamtschule in Nordrhein-Westfalen"
+description: "Integrierte Gesamtschule Bonn-Beuel stands as an important educational institution within the historic context of Bonn, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

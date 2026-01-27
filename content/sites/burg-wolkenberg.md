@@ -3,7 +3,7 @@ title: "Burg Wolkenberg"
 site_name: "Burg Wolkenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Wolkenberg is an archaeological site of significant interest located in the picturesque region of Wildpoldsried, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "St. Paul in Passau"
 site_name: "St. Paul in Passau"
 date: 2026-01-26
 draft: false
-description: "church in Passau"
+description: "St. Paul in Passau is an architectural marvel that captures the essence of the city's rich spiritual and cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

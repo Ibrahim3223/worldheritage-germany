@@ -3,7 +3,7 @@ title: "WBG-Museum Augsburg"
 site_name: "WBG-Museum Augsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The WBG-Museum Augsburg is a distinctive cultural institution located in the heart of Augsburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Holzknechtmuseum Ruhpolding"
 site_name: "Holzknechtmuseum Ruhpolding"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Ruhpolding, Germany, lies the Holzknechtmuseum, a museum dedicated to the history and culture of woodcutters in the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

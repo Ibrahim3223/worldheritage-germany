@@ -3,7 +3,7 @@ title: "Library of the Free"
 site_name: "Library of the Free"
 date: 2026-01-26
 draft: false
-description: "special library in Berlin, Germany"
+description: "The Library of the Free in Berlin is a unique institution that plays a vital role in promoting access to knowledge and information."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

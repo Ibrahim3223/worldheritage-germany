@@ -3,7 +3,7 @@ title: "Burg Lindenfels"
 site_name: "Burg Lindenfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lindenfels, a historic castle located in the charming town of Lindenfels, Germany, offers visitors a fascinating glimpse into the medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

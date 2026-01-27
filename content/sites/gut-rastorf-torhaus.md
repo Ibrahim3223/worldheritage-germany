@@ -3,7 +3,7 @@ title: "Gut Rastorf: Torhaus"
 site_name: "Gut Rastorf: Torhaus"
 date: 2026-01-26
 draft: false
-description: "Torhaus in Rastorf in Schleswig-Holstein"
+description: "The Gut Rastorf: Torhaus, located in the picturesque region of Rastorf, Schleswig-Holstein, Germany, serves as a striking example of gatehouse architecture."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"

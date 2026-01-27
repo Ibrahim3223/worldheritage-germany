@@ -3,7 +3,7 @@ title: "Basilika Altenkrempe"
 site_name: "Basilika Altenkrempe"
 date: 2026-01-26
 draft: false
-description: "church building in Altenkrempe near Neustadt in Holstein, Germany"
+description: "Basilika Altenkrempe is a noteworthy church building located in Altenkrempe near Neustadt in Holstein, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

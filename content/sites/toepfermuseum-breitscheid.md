@@ -3,7 +3,7 @@ title: "Töpfermuseum Breitscheid"
 site_name: "Töpfermuseum Breitscheid"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Töpfermuseum Breitscheid is a distinctive museum located in Germany, dedicated to the art and craft of pottery."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

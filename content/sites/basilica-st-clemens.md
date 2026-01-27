@@ -3,7 +3,7 @@ title: "Basilica St. Clemens"
 site_name: "Basilica St. Clemens"
 date: 2026-01-26
 draft: false
-description: "church in Hannover, Germany"
+description: "The Basilica St. Clemens, an intriguing church located in the heart of Hannover, Germany, offers visitors a glimpse into the spiritual and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

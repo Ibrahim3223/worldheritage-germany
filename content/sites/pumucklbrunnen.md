@@ -3,7 +3,7 @@ title: "Pumucklbrunnen"
 site_name: "Pumucklbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "Situated in the vibrant district of Schwabing-West, Pumucklbrunnen is a charming fountain that offers a refreshing pause amidst the urban bustle of Munich,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

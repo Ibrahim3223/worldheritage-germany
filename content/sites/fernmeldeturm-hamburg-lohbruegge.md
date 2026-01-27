@@ -3,7 +3,7 @@ title: "Fernmeldeturm Hamburg-Lohbrügge"
 site_name: "Fernmeldeturm Hamburg-Lohbrügge"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Hamburg-Lohbrügge is a striking example of modern engineering and telecommunications technology situated in Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Tower"

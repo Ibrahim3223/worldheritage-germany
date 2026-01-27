@@ -3,7 +3,7 @@ title: "Paradiesbrunnen"
 site_name: "Paradiesbrunnen"
 date: 2026-01-26
 draft: false
-description: "historic fountain in Aachen, Germany"
+description: "In the heart of Aachen, Germany, the Paradiesbrunnen stands as a historic fountain that invites both residents and travelers to pause and appreciate its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Rathaus Dorp"
 site_name: "Rathaus Dorp"
 date: 2026-01-26
 draft: false
-description: "former city hall of the former city Dorp in Germany"
+description: "Rathaus Dorp, the former city hall of Dorp, is a notable landmark situated in the city of Solingen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Hall"

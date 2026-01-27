@@ -3,7 +3,7 @@ title: "Kemenate"
 site_name: "Kemenate"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-121-64 (0) in Ebermannstadt, Bavaria"
+description: "In the heart of Bavaria lies Kemenate, a captivating castle that stands as a testimony to the region's architectural heritage and cultural evolution."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Walther-Schreiber-Platz"
 site_name: "Walther-Schreiber-Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Walther-Schreiber-Platz is a bustling square located in the Tempelhof-Schöneberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

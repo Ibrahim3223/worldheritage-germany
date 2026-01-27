@@ -3,7 +3,7 @@ title: "Museum Tucherschloss und Hirsvogelsaal"
 site_name: "Museum Tucherschloss und Hirsvogelsaal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Tucherschloss und Hirsvogelsaal offers an intriguing glimpse into German heritage through its rich collection and historical significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

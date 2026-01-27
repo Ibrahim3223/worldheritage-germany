@@ -3,7 +3,7 @@ title: "Jaromarsburg"
 site_name: "Jaromarsburg"
 date: 2026-01-26
 draft: false
-description: "ancient cult location"
+description: "Jaromarsburg, located in the serene landscape of Putgarten, Germany, is an ancient castle that offers a captivating glimpse into the region's spiritual and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Castle"

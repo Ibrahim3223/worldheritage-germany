@@ -3,7 +3,7 @@ title: "Sowjetische Kriegsgräberstätte Herleshausen"
 site_name: "Sowjetische Kriegsgräberstätte Herleshausen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Herleshausen, Germany"
+description: "The Sowjetische Kriegsgräberstätte Herleshausen is a poignant reminder of the impact of war, serving as a cemetery dedicated to Soviet soldiers who lost..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

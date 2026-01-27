@@ -3,7 +3,7 @@ title: "Theater an der Ruhr"
 site_name: "Theater an der Ruhr"
 date: 2026-01-26
 draft: false
-description: "theater in Mulheim, North Rhine-Westphalia, Germany"
+description: "Theater an der Ruhr, located in the vibrant city of Mülheim an der Ruhr, Germany, is a prominent theater building that has become a cultural hub in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

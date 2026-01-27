@@ -3,7 +3,7 @@ title: "Eisenbarthbrunnen"
 site_name: "Eisenbarthbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "Eisenbarthbrunnen, a prominent fountain located in Magdeburg, Germany, captures the essence of both artistry and cultural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"

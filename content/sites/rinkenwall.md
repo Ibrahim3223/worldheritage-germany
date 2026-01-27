@@ -3,7 +3,7 @@ title: "Rinkenwall"
 site_name: "Rinkenwall"
 date: 2026-01-26
 draft: false
-description: "hillfort in Baiersbronn, Germany"
+description: "Rinkenwall, a hillfort located in the picturesque region of Baiersbronn, Germany, offers visitors a fascinating glimpse into ancient defensive architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Hillfort"

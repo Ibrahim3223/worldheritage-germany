@@ -3,7 +3,7 @@ title: "Rathaus Holzelfingen"
 site_name: "Rathaus Holzelfingen"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Rathaus Holzelfingen, a remarkable city hall located in the tranquil region of Lichtenstein, Germany, serves as both a functional municipal building and a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

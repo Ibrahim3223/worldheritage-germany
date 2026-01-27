@@ -3,7 +3,7 @@ title: "Torhaus Veste Coburg 1b in Coburg"
 site_name: "Torhaus Veste Coburg 1b in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-589 (12) in Coburg, Bavaria"
+description: "The Torhaus Veste Coburg, located in the heart of Coburg, Bavaria, stands as an important cultural heritage monument that reflects the region’s historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

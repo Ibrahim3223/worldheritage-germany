@@ -3,7 +3,7 @@ title: "Deutsches Tapetenmuseum"
 site_name: "Deutsches Tapetenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Tapetenmuseum, located in the vibrant city of Kassel, Germany, is a unique museum dedicated to the art and history of wallpaper."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

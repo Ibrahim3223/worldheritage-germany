@@ -3,7 +3,7 @@ title: "Red Cross Museum Nuremberg"
 site_name: "Red Cross Museum Nuremberg"
 date: 2026-01-26
 draft: false
-description: "local Red Cross museum of German Red Cross"
+description: "The Red Cross Museum in Nuremberg is an evocative tribute to humanitarian efforts and the rich history of the Red Cross movement in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Lanker See"
 site_name: "Lanker See"
 date: 2026-01-26
 draft: false
-description: "lake in Plön District, Schleswig-Holstein, Germany"
+description: "Lanker See, located in the Plön District of Schleswig-Holstein, Germany, is a serene lake that offers a tranquil escape for nature enthusiasts and those..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

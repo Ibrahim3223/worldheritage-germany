@@ -3,7 +3,7 @@ title: "Zufahrtsbrücke über den Oelsabach zu einem Bauernhof Oelsa"
 site_name: "Zufahrtsbrücke über den Oelsabach zu einem Bauernhof Oelsa"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zufahrtsbrücke über den Oelsabach zu einem Bauernhof Oelsa is a noteworthy structure located in the Rabenau region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

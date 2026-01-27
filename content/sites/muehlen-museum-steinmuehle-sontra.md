@@ -3,7 +3,7 @@ title: "Mühlen-Museum Steinmühle Sontra"
 site_name: "Mühlen-Museum Steinmühle Sontra"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mühlen-Museum Steinmühle Sontra is an intriguing destination for those interested in the history of milling and the cultural heritage of rural Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

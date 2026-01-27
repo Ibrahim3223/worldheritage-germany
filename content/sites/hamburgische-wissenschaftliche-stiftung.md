@@ -3,7 +3,7 @@ title: "Hamburgische Wissenschaftliche Stiftung"
 site_name: "Hamburgische Wissenschaftliche Stiftung"
 date: 2026-01-26
 draft: false
-description: "Hamburg foundation"
+description: "The Hamburgische Wissenschaftliche Stiftung, or Hamburg Scientific Foundation, serves as a vital institution in the vibrant city of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

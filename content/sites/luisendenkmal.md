@@ -3,7 +3,7 @@ title: "Luisendenkmal"
 site_name: "Luisendenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Magdeburg, Germany"
+description: "Luisendenkmal, a significant monument located in Magdeburg, Germany, represents a dedicated celebration of historical events and figures that shaped the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

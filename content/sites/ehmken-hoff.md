@@ -3,7 +3,7 @@ title: "Ehmken Hoff"
 site_name: "Ehmken Hoff"
 date: 2026-01-26
 draft: false
-description: "group of buildings in Dörverden, Germany"
+description: "Ehmken Hoff is an architectural ensemble located in Dörverden, Germany, that encapsulates the essence of traditional German rural architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

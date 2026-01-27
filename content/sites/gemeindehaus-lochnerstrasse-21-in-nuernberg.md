@@ -3,7 +3,7 @@ title: "Gemeindehaus Lochnerstraße 21 in Nürnberg"
 site_name: "Gemeindehaus Lochnerstraße 21 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-2471 (4) in Nürnberg, Bavaria"
+description: "The Gemeindehaus Lochnerstraße 21, located in the heart of Nuremberg, Germany, serves as a vital cultural heritage monument that reflects the city’s..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

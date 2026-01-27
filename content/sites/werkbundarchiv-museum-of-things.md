@@ -3,7 +3,7 @@ title: "Werkbundarchiv – museum of things"
 site_name: "Werkbundarchiv – museum of things"
 date: 2026-01-26
 draft: false
-description: "museum in Germany, Berlin-Mitte"
+description: "The Werkbundarchiv – Museum of Things, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, serves as a captivating repository of design..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

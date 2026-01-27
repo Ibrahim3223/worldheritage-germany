@@ -3,7 +3,7 @@ title: "Burschenschaftsdenkmal Jena"
 site_name: "Burschenschaftsdenkmal Jena"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Burschenschaftsdenkmal Jena, a prominent monument located in Jena, Germany, serves as a poignant reminder of the nation's student movements and the..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

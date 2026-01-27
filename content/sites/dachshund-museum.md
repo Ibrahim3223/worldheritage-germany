@@ -3,7 +3,7 @@ title: "Dachshund Museum"
 site_name: "Dachshund Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dachshund Museum in Regensburg, Germany, is a unique institution dedicated to celebrating one of the most beloved dog breeds in the world: the dachshund."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

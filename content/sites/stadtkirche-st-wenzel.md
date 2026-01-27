@@ -3,7 +3,7 @@ title: "Stadtkirche St. Wenzel"
 site_name: "Stadtkirche St. Wenzel"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Naumburg, Germany, stands the Stadtkirche St. Wenzel, an important church building that reflects the region's rich ecclesiastical heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

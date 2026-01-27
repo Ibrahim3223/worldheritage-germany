@@ -3,7 +3,7 @@ title: "Hans-Sachs-Denkmal (Nürnberg)"
 site_name: "Hans-Sachs-Denkmal (Nürnberg)"
 date: 2026-01-26
 draft: false
-description: "Memorial in Nuremberg"
+description: "In the heart of Nuremberg, a city rich with cultural heritage and historical narratives, the Hans-Sachs-Denkmal stands as an emblem of artistic legacy and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

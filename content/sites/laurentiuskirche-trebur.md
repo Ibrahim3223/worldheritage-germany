@@ -3,7 +3,7 @@ title: "Laurentiuskirche (Trebur)"
 site_name: "Laurentiuskirche (Trebur)"
 date: 2026-01-26
 draft: false
-description: "church building in Trebur, Hesse, Germany"
+description: "Laurentiuskirche, located in the quaint town of Trebur in Hesse, Germany, is a striking example of ecclesiastical architecture that has served as a focal..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

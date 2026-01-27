@@ -3,7 +3,7 @@ title: "St. Dominicus"
 site_name: "St. Dominicus"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "St. Dominicus Church, situated in the vibrant Neukölln district of Berlin, is an architectural gem that reflects the spiritual and cultural landscape of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

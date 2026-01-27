@@ -3,7 +3,7 @@ title: "Torhaus Kloster Banz; Nähe Kloster Banz in Bad Staffelstein"
 site_name: "Torhaus Kloster Banz; Nähe Kloster Banz in Bad Staffelstein"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-78-165-115 (7) in Bad Staffelstein, Bavaria"
+description: "The Torhaus Kloster Banz, a cultural heritage monument located in Bad Staffelstein, Bavaria, serves as an impressive gatehouse that invites visitors to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

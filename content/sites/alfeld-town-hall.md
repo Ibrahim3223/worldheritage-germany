@@ -3,7 +3,7 @@ title: "Alfeld town hall"
 site_name: "Alfeld town hall"
 date: 2026-01-26
 draft: false
-description: "town hall in Alfeld (Leine), Germany"
+description: "Alfeld's town hall, a central feature of the town's historic landscape, captures the essence of civic pride and architectural elegance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Burg Güttersbach"
 site_name: "Burg Güttersbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Güttersbach, a historic castle located in the picturesque Mossautal region of Germany, is an architectural gem that draws visitors interested in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

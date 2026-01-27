@@ -3,7 +3,7 @@ title: "Burg Gerolstein"
 site_name: "Burg Gerolstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched strategically on a rocky outcrop in the picturesque region of Gerolstein, Burg Gerolstein is an evocative castle that beckons history enthusiasts..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

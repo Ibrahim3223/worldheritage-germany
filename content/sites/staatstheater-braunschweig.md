@@ -3,7 +3,7 @@ title: "Staatstheater Braunschweig"
 site_name: "Staatstheater Braunschweig"
 date: 2026-01-26
 draft: false
-description: "theatre and opera house in Brunswick, Germany"
+description: "Staatstheater Braunschweig, an esteemed theatre and opera house located in the heart of Brunswick, Germany, offers visitors a remarkable blend of cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

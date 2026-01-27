@@ -3,7 +3,7 @@ title: "Geisel Valley"
 site_name: "Geisel Valley"
 date: 2026-01-26
 draft: false
-description: "valley in Saxony-Anhalt, Germany"
+description: "Geisel Valley, located in the Saalekreis district of Saxony-Anhalt, Germany, presents a serene landscape characterized by its natural beauty and ecological..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Valley"

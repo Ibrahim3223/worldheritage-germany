@@ -3,7 +3,7 @@ title: "Det lille Teater"
 site_name: "Det lille Teater"
 date: 2026-01-26
 draft: false
-description: "dänische Theaterbühne in Flensburg"
+description: "Det lille Teater, a cherished theatre building located in the vibrant city of Flensburg, Germany, represents a significant cultural hub in the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Theatre Building"

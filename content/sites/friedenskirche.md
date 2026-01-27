@@ -3,7 +3,7 @@ title: "Friedenskirche"
 site_name: "Friedenskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Friedenskirche, a significant church building located in Ludwigsburg, Germany, represents an integral part of the region's architectural and cultural landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

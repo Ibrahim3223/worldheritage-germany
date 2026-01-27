@@ -3,7 +3,7 @@ title: "Palais Dürckheim"
 site_name: "Palais Dürckheim"
 date: 2026-01-26
 draft: false
-description: "building in Maxvorstadt, Upper Bavaria, Germany"
+description: "The Palais Dürckheim, located in the vibrant Maxvorstadt district of Munich, Germany, is a museum that embodies the cultural and artistic spirit of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

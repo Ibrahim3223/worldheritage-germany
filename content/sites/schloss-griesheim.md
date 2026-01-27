@@ -3,7 +3,7 @@ title: "Schloss Griesheim"
 site_name: "Schloss Griesheim"
 date: 2026-01-26
 draft: false
-description: "building in Stadtilm (Germany)"
+description: "Schloss Griesheim is a distinguished manor house located in the picturesque town of Stadtilm, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"

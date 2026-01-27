@@ -3,7 +3,7 @@ title: "Terra Vulcania"
 site_name: "Terra Vulcania"
 date: 2026-01-26
 draft: false
-description: "Museum of basalt mining in Mayen"
+description: "Located in the picturesque region of Mayen, Germany, Terra Vulcania offers visitors an in-depth exploration of basalt mining, a significant aspect of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

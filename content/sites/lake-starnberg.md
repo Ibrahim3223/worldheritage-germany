@@ -3,7 +3,7 @@ title: "Lake Starnberg"
 site_name: "Lake Starnberg"
 date: 2026-01-26
 draft: false
-description: "lake in Bavaria, Germany"
+description: "Lake Starnberg, located in the picturesque Starnberger See region of Bavaria, Germany, is a captivating destination that draws visitors with its serene..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

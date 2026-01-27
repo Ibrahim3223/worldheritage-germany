@@ -3,7 +3,7 @@ title: "Craimoosweiher"
 site_name: "Craimoosweiher"
 date: 2026-01-26
 draft: false
-description: "lake in the municipality of Schnabelwaid, Bavaria, Germany"
+description: "The Craimoosweiher, located in the serene municipality of Schnabelwaid, Bavaria, Germany, presents an inviting natural landscape that draws visitors seeking..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

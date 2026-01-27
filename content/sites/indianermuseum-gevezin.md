@@ -3,7 +3,7 @@ title: "Indianermuseum Gevezin"
 site_name: "Indianermuseum Gevezin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Indianermuseum Gevezin offers a unique glimpse into the cultures and histories of Indigenous peoples, set against the serene backdrop of Blankenhof,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

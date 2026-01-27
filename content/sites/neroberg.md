@@ -3,7 +3,7 @@ title: "Neroberg"
 site_name: "Neroberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Perched above the historic city of Wiesbaden, Neroberg is a mountain that invites exploration and reflection."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

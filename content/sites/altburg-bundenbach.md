@@ -3,7 +3,7 @@ title: "Altburg (Bundenbach)"
 site_name: "Altburg (Bundenbach)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altburg, situated in the picturesque region of Rhineland-Palatinate, Germany, is a fascinating castle that invites visitors to explore its storied past and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Im Korkus"
 site_name: "Im Korkus"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Eschweiler, Germany"
+description: "Im Korkus, situated in the picturesque region of Eschweiler, Germany, is a designated nature reserve that offers visitors a chance to engage with the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

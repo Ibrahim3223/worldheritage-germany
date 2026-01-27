@@ -3,7 +3,7 @@ title: "Roter Ochse"
 site_name: "Roter Ochse"
 date: 2026-01-26
 draft: false
-description: "prison and memorial in Saxony-Anhalt"
+description: "Roter Ochse, a poignant memorial located in Halle (Saale), Germany, serves as a stark reminder of the country’s complex and often painful history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

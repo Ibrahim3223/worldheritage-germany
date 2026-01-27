@@ -3,7 +3,7 @@ title: "Historisches Museum Hanau"
 site_name: "Historisches Museum Hanau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Historisches Museum Hanau serves as a vital cultural institution in Hanau, Germany, dedicated to preserving the region's history and heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

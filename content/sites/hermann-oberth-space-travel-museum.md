@@ -3,7 +3,7 @@ title: "Hermann Oberth Space Travel Museum"
 site_name: "Hermann Oberth Space Travel Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Museum im Landkreis Nürnberger Land in Bavaria"
+description: "The Hermann Oberth Space Travel Museum, located in Feucht, Bavaria, serves as a unique homage to the pioneering spirit of space exploration."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

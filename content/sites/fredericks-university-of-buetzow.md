@@ -3,7 +3,7 @@ title: "Frederick's University of Bützow"
 site_name: "Frederick's University of Bützow"
 date: 2026-01-26
 draft: false
-description: "former university in Germany"
+description: "Frederick's University of Bützow, located in the charming town of Bützow, Germany, is a former university that holds a special place in the region's..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "University"

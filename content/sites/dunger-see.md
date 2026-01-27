@@ -3,7 +3,7 @@ title: "Dunger See"
 site_name: "Dunger See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dunger See is a serene lake located in the Burglesum region of Germany. Known for its tranquil waters and surrounding natural beauty, this lake serves as a..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Lake"

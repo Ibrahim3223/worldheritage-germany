@@ -3,7 +3,7 @@ title: "St. Georg, Aplerbeck"
 site_name: "St. Georg, Aplerbeck"
 date: 2026-01-26
 draft: false
-description: "Protestant Romanesque church"
+description: "St. Georg in Aplerbeck, a distinctive Protestant Romanesque church, serves not only as a place of worship but also as a cultural landmark within Dortmund,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

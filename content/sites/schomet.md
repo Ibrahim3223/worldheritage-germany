@@ -3,7 +3,7 @@ title: "Schomet"
 site_name: "Schomet"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Germany"
+description: "Schomet, located in the Stolberg region of Germany, serves as an important Naturschutzgebiet, or nature reserve."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Synagoge Oberdorf"
 site_name: "Synagoge Oberdorf"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "Synagoge Oberdorf is a significant cultural landmark situated in the heart of Bopfingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

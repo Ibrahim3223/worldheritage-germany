@@ -3,7 +3,7 @@ title: "Fernmeldeturm Allenberg"
 site_name: "Fernmeldeturm Allenberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Allenberg is a significant telecommunications tower located in the scenic region of Brilon, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

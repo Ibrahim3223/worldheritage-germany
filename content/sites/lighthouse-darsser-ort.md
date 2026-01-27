@@ -3,7 +3,7 @@ title: "Lighthouse Darßer Ort"
 site_name: "Lighthouse Darßer Ort"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
+description: "The Lighthouse Darßer Ort stands as a sentinel on the coast of Mecklenburg-Western Pomerania, Germany, guiding seafarers through the intricate waters of the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

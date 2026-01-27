@@ -3,7 +3,7 @@ title: "Prignitz-Museum"
 site_name: "Prignitz-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Prignitz-Museum in Havelberg is a cultural hub that offers visitors a glimpse into the rich history and heritage of the Prignitz region in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

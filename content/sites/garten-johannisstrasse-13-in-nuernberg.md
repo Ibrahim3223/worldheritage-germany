@@ -3,7 +3,7 @@ title: "Garten Johannisstraße 13 in Nürnberg"
 site_name: "Garten Johannisstraße 13 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-909 (1) in Nürnberg, Bavaria"
+description: "Garten Johannisstraße 13 in Nürnberg presents an intriguing glimpse into the city’s rich cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

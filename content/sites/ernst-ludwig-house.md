@@ -3,7 +3,7 @@ title: "Ernst Ludwig House"
 site_name: "Ernst Ludwig House"
 date: 2026-01-26
 draft: false
-description: "cultural heritage building in Darmstadt, Hesse"
+description: "The Ernst Ludwig House, located in Darmstadt, Germany, is a notable architectural structure that serves as a significant cultural heritage site."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Structure"

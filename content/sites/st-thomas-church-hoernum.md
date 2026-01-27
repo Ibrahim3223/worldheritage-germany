@@ -3,7 +3,7 @@ title: "St. Thomas church Hörnum"
 site_name: "St. Thomas church Hörnum"
 date: 2026-01-26
 draft: false
-description: "church building in Hörnum, Germany"
+description: "St. Thomas Church in Hörnum is a serene embodiment of the spiritual and cultural heritage of this charming coastal town in Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

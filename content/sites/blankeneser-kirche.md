@@ -3,7 +3,7 @@ title: "Blankeneser Kirche"
 site_name: "Blankeneser Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Blankeneser Kirche, a notable church building located in the Altona district of Hamburg, Germany, serves as a significant cultural and architectural..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

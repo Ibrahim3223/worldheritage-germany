@@ -3,7 +3,7 @@ title: "Fliesenmuseum Boizenburg"
 site_name: "Fliesenmuseum Boizenburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Fliesenmuseum Boizenburg is an intriguing museum that invites visitors to explore the unique world of tiles and their cultural significance in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

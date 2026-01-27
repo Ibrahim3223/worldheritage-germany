@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Sammlung des Seminars für Ur- und Frühgesch
 site_name: "Georg-August-Universität: Sammlung des Seminars für Ur- und Frühgeschichte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Göttingen, Germany, lies the Georg-August-Universität: Sammlung des Seminars für Ur- und Frühgeschichte, a museum dedicated to the study and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

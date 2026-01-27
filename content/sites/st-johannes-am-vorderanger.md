@@ -3,7 +3,7 @@ title: "St. Johannes am Vorderanger"
 site_name: "St. Johannes am Vorderanger"
 date: 2026-01-26
 draft: false
-description: "church building in Landsberg am Lech, Upper Bavaria, Germany"
+description: "St. Johannes am Vorderanger is a notable church building located in the charming town of Landsberg am Lech, in Upper Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

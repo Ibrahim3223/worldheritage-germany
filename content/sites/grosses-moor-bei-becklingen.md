@@ -3,7 +3,7 @@ title: "Großes Moor bei Becklingen"
 site_name: "Großes Moor bei Becklingen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "In the heart of Lower Saxony, Germany, lies Großes Moor bei Becklingen, a significant nature reserve that offers visitors a chance to connect with the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

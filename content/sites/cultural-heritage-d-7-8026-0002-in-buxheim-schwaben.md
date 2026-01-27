@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-8026-0002 in Buxheim (Schwaben)"
 site_name: "Cultural heritage D-7-8026-0002 in Buxheim (Schwaben)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Buxheim, Unterallgäu, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-8026-0002 in Buxheim (Schwaben) is a significant fortification that reflects the historical and architectural essence of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

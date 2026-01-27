@@ -3,7 +3,7 @@ title: "St. Aegidien (Oschatz)"
 site_name: "St. Aegidien (Oschatz)"
 date: 2026-01-26
 draft: false
-description: "church building in Oschatz, Saxony, Germany"
+description: "St. Aegidien in Oschatz, Saxony, stands as a remarkable church building steeped in local heritage and architectural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

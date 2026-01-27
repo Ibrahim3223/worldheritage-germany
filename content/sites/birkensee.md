@@ -3,7 +3,7 @@ title: "Birkensee"
 site_name: "Birkensee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Birkensee, located in the picturesque region of Schneverdingen in Lower Saxony, Germany, is a nature reserve that showcases the beauty of the surrounding..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

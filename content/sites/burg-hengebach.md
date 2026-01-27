@@ -3,7 +3,7 @@ title: "Burg Hengebach"
 site_name: "Burg Hengebach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hengebach, a captivating castle located in the charming region of Heimbach, Germany, offers visitors a glimpse into the medieval past that shaped much..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

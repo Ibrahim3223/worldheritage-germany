@@ -3,7 +3,7 @@ title: "Studnitz Pyramid"
 site_name: "Studnitz Pyramid"
 date: 2026-01-26
 draft: false
-description: "a pyramid-shaped tomb erected in 1770"
+description: "The Studnitz Pyramid, a striking monument in the Gotha region of Germany, serves as a remarkable example of 18th-century funerary architecture."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

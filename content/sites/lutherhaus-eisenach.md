@@ -3,7 +3,7 @@ title: "Lutherhaus Eisenach"
 site_name: "Lutherhaus Eisenach"
 date: 2026-01-26
 draft: false
-description: "Museum and historic domicile of Martin Luther in Thuringia, Germany"
+description: "Lutherhaus Eisenach serves as both a museum and the historic domicile of Martin Luther, a pivotal figure in the Protestant Reformation."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

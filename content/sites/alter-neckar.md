@@ -3,7 +3,7 @@ title: "Alter Neckar"
 site_name: "Alter Neckar"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Alter Neckar is a serene nature reserve located in Esslingen am Neckar, Germany, renowned for its natural beauty and ecological significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

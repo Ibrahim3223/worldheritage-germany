@@ -3,7 +3,7 @@ title: "Museum of Communication Hamburg"
 site_name: "Museum of Communication Hamburg"
 date: 2026-01-26
 draft: false
-description: "former museum in Hamburg, Germany"
+description: "The Museum of Communication Hamburg, located in the vibrant city of Hamburg, Germany, offers an intriguing exploration of communication's evolution."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

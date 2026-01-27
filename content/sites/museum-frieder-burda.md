@@ -3,7 +3,7 @@ title: "Museum Frieder Burda"
 site_name: "Museum Frieder Burda"
 date: 2026-01-26
 draft: false
-description: "museum in Baden-Baden"
+description: "Situated in the serene setting of Baden-Baden, Germany, the Museum Frieder Burda is an esteemed art museum that invites visitors to explore a diverse array..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

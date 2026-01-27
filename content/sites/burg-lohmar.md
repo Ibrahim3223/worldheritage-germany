@@ -3,7 +3,7 @@ title: "Burg Lohmar"
 site_name: "Burg Lohmar"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lohmar, an intriguing castle situated in the serene region of Lohmar, Germany, invites visitors to explore its historical significance and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

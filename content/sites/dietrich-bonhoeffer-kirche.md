@@ -3,7 +3,7 @@ title: "Dietrich-Bonhoeffer-Kirche"
 site_name: "Dietrich-Bonhoeffer-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Garath, Germany"
+description: "The Dietrich-Bonhoeffer-Kirche is a distinctive church located in the Garath district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

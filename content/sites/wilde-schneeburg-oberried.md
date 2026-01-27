@@ -3,7 +3,7 @@ title: "Wilde Schneeburg, Oberried"
 site_name: "Wilde Schneeburg, Oberried"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Wilde Schneeburg, a striking castle located in the Oberried region of Germany, is an intriguing site that captures the imagination of history enthusiasts..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Dante-Gymnasium Munich"
 site_name: "Dante-Gymnasium Munich"
 date: 2026-01-26
 draft: false
-description: "gymnasium in Munich, Germany"
+description: "Dante-Gymnasium, located in the Sendling district of Munich, is a prominent educational institution that embodies the blend of tradition and modernity in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Helenesee"
 site_name: "Helenesee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Helenesee is a picturesque lake situated in the Brandenburg region of Germany, specifically near the city of Frankfurt (Oder)."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

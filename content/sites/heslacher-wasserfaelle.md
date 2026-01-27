@@ -3,7 +3,7 @@ title: "Heslacher Wasserfälle"
 site_name: "Heslacher Wasserfälle"
 date: 2026-01-26
 draft: false
-description: "Waterfall in Germany"
+description: "The Heslacher Wasserfälle, a striking waterfall located in the Stuttgart region of Germany, captivates visitors with its serene beauty and natural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

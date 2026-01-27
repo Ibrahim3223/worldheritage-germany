@@ -3,7 +3,7 @@ title: "Remonstrantenkirche"
 site_name: "Remonstrantenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Friedrichstadt, Germany"
+description: "The Remonstrantenkirche, located in the charming town of Friedrichstadt in Germany, is an intriguing example of ecclesiastical architecture that reflects..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

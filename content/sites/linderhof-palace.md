@@ -3,7 +3,7 @@ title: "Linderhof Palace"
 site_name: "Linderhof Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Bavaria, Germany"
+description: "Linderhof Palace, located in the picturesque region of Ettal, Bavaria, Germany, is a captivating representation of 19th-century opulence and artistic vision."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

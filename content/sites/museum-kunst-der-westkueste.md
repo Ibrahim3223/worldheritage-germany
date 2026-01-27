@@ -3,7 +3,7 @@ title: "Museum Kunst der Westküste"
 site_name: "Museum Kunst der Westküste"
 date: 2026-01-26
 draft: false
-description: "art museum in Alkersum on the northfrisian island Før"
+description: "The Museum Kunst der Westküste is a prominent art museum located in Alkersum on the North Frisian island of Föhr, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"

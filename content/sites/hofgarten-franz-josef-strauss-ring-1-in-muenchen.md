@@ -3,7 +3,7 @@ title: "Hofgarten Franz-Josef-Strauß-Ring 1 in München"
 site_name: "Hofgarten Franz-Josef-Strauß-Ring 1 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-2730 (2) in München, Bavaria"
+description: "Amidst the bustling streets of Munich, the Hofgarten Franz-Josef-Strauß-Ring 1 emerges as a serene enclave dedicated to nature and cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

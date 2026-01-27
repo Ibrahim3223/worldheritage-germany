@@ -3,7 +3,7 @@ title: "Staatliche Kunsthalle Berlin"
 site_name: "Staatliche Kunsthalle Berlin"
 date: 2026-01-26
 draft: false
-description: "State Art Gallery in Berlin, from 1977 until 1993"
+description: "Staatliche Kunsthalle Berlin, situated in the vibrant heart of Berlin, is a distinguished art museum that played a pivotal role in the German art scene from..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

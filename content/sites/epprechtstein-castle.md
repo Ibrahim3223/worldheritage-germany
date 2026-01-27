@@ -3,7 +3,7 @@ title: "Epprechtstein Castle"
 site_name: "Epprechtstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Epprechtstein Castle, an archaeological site located in Kirchenlamitz, Germany, offers visitors a glimpse into the medieval past of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

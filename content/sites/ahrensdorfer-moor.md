@@ -3,7 +3,7 @@ title: "Ahrensdorfer Moor"
 site_name: "Ahrensdorfer Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ahrensdorfer Moor is a designated nature reserve located in the tranquil region of Friesoythe, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

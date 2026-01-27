@@ -3,7 +3,7 @@ title: "Aßbütteler Moor"
 site_name: "Aßbütteler Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Aßbütteler Moor, a serene nature reserve located in Lower Saxony, Germany, offers visitors a tranquil escape amidst a rich tapestry of natural ecosystems."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

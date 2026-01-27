@@ -3,7 +3,7 @@ title: "Kleiner Krinertsee"
 site_name: "Kleiner Krinertsee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "The Kleiner Krinertsee, a serene lake located in Brandenburg, Germany, offers visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

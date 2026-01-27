@@ -3,7 +3,7 @@ title: "Zentaurenbrunnen"
 site_name: "Zentaurenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Zentaurenbrunnen, a distinguished fountain located in Neustadt, Germany, invites visitors to explore its artistic and cultural significance."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Fountain"

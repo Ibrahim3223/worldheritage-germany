@@ -3,7 +3,7 @@ title: "Berggruen Museum"
 site_name: "Berggruen Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Berggruen Museum, located in the vibrant district of Charlottenburg-Wilmersdorf in Berlin, Germany, is a notable destination for art enthusiasts and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

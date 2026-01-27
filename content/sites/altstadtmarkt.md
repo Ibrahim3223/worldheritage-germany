@@ -3,7 +3,7 @@ title: "Altstadtmarkt"
 site_name: "Altstadtmarkt"
 date: 2026-01-26
 draft: false
-description: "public square in Brunswick, Germany"
+description: "Altstadtmarkt, a prominent public square located in the heart of Brunswick, Germany, serves as a vibrant gathering place that reflects the city’s historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"

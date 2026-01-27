@@ -3,7 +3,7 @@ title: "Johanneskapelle (Waldershof)"
 site_name: "Johanneskapelle (Waldershof)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Waldershof"
+description: "The Johanneskapelle in Waldershof is a captivating chapel that invites visitors to engage with its serene atmosphere and historical significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

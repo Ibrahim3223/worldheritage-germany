@@ -3,7 +3,7 @@ title: "Staffelsee"
 site_name: "Staffelsee"
 date: 2026-01-26
 draft: false
-description: "lake in Bavaria, Germany"
+description: "Staffelsee is a picturesque lake situated in the District of Garmisch-Partenkirchen, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

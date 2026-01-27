@@ -3,7 +3,7 @@ title: "Village museum Gahlenz"
 site_name: "Village museum Gahlenz"
 date: 2026-01-26
 draft: false
-description: "museum in Oederan, Germany"
+description: "The Village Museum Gahlenz, located in the charming region of Oederan, Germany, offers an insightful exploration into the traditional rural life that once..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

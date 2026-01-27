@@ -3,7 +3,7 @@ title: "Julius-Wolff-Brunnen"
 site_name: "Julius-Wolff-Brunnen"
 date: 2026-01-26
 draft: false
-description: "former fountain in Hildesheim, Germany"
+description: "In the heart of Hildesheim, Germany, the Julius-Wolff-Brunnen stands as a notable statue that captures the attention of visitors."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Osthaus-Museum Hagen"
 site_name: "Osthaus-Museum Hagen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Osthaus-Museum Hagen serves as a prominent cultural institution in Hagen, Germany, dedicated to the appreciation and promotion of art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

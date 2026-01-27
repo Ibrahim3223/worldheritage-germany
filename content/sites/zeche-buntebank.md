@@ -3,7 +3,7 @@ title: "Zeche Buntebank"
 site_name: "Zeche Buntebank"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Buntebank is an intriguing heritage site located in Dortmund, Germany, that provides a glimpse into the country's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

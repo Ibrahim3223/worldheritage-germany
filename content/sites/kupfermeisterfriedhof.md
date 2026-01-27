@@ -3,7 +3,7 @@ title: "Kupfermeisterfriedhof"
 site_name: "Kupfermeisterfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Stolberg, Germany"
+description: "Kupfermeisterfriedhof, a historical cemetery located in Stolberg, Germany, is a site that invites contemplation and reflection."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

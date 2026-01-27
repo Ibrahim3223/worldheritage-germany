@@ -3,7 +3,7 @@ title: "Johannes-der-Täufer-Kirche"
 site_name: "Johannes-der-Täufer-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Wiesens, Germany"
+description: "The Johannes-der-Täufer-Kirche, a notable church building located in the serene village of Wiesens in Germany’s Aurich region, serves as a serene focal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

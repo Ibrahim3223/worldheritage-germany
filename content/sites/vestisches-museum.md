@@ -3,7 +3,7 @@ title: "Vestisches Museum"
 site_name: "Vestisches Museum"
 date: 2026-01-26
 draft: false
-description: "Recklinghausen, Münster, Germany"
+description: "The Vestisches Museum, located in Recklinghausen, Germany, serves as a cultural hub that reflects the unique heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

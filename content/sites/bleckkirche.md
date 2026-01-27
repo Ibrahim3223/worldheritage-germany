@@ -3,7 +3,7 @@ title: "Bleckkirche"
 site_name: "Bleckkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in Gelsenkirchen, Germany, Bleckkirche is a notable church building that reflects the area’s architectural and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Mariä Heimsuchung"
 site_name: "St. Mariä Heimsuchung"
 date: 2026-01-26
 draft: false
-description: "church building in Overath, Germany"
+description: "St. Mariä Heimsuchung in Overath, Germany, is a remarkable church building that embodies the architectural and cultural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

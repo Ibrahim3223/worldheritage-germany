@@ -3,7 +3,7 @@ title: "Dreisamtal"
 site_name: "Dreisamtal"
 date: 2026-01-26
 draft: false
-description: "valley in southern Germany"
+description: "Dreisamtal is a picturesque valley located in the southern region of Germany, known for its charming scenery and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Valley"

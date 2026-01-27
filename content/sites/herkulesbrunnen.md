@@ -3,7 +3,7 @@ title: "Herkulesbrunnen"
 site_name: "Herkulesbrunnen"
 date: 2026-01-26
 draft: false
-description: "Brunnen in der rheinland-pfälzischen Stadt Worms"
+description: "The Herkulesbrunnen, or Hercules Fountain, is a captivating fountain located in the historic city of Worms, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

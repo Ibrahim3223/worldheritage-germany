@@ -3,7 +3,7 @@ title: "Versöhnungskirche Wolfenbüttel"
 site_name: "Versöhnungskirche Wolfenbüttel"
 date: 2026-01-26
 draft: false
-description: "church building in Wolfenbüttel, Germany"
+description: "Versöhnungskirche Wolfenbüttel is a remarkable church building located in the heart of Wolfenbüttel, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

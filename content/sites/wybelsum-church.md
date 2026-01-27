@@ -3,7 +3,7 @@ title: "Wybelsum Church"
 site_name: "Wybelsum Church"
 date: 2026-01-26
 draft: false
-description: "church building in Emden, Lower Saxony, Germany"
+description: "Wybelsum Church, situated in the charming town of Emden in Lower Saxony, Germany, serves as a significant landmark both for its architectural features and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

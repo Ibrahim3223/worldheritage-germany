@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskapelle (Notzing)"
 site_name: "Dreifaltigkeitskapelle (Notzing)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Dreifaltigkeitskapelle, or the Chapel of the Holy Trinity, sits in the serene landscape of Oberding, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

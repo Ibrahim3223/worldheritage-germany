@@ -3,7 +3,7 @@ title: "Stadtmuseum Nordhorn"
 site_name: "Stadtmuseum Nordhorn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Nordhorn, Germany, the Stadtmuseum Nordhorn stands as a vibrant cultural institution dedicated to the exploration and preservation of local..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

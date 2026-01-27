@@ -3,7 +3,7 @@ title: "St. Matthäuskirche"
 site_name: "St. Matthäuskirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Tiergarten"
+description: "St. Matthäuskirche, located in the heart of Berlin's Tiergarten district, serves as a profound emblem of both religious and architectural significance."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

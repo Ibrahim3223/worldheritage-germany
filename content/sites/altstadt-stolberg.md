@@ -3,7 +3,7 @@ title: "Altstadt (Stolberg)"
 site_name: "Altstadt (Stolberg)"
 date: 2026-01-26
 draft: false
-description: "quarter of Stolberg, Germany"
+description: "Altstadt (Stolberg) is a captivating old town located in the heart of Stolberg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Old Town"

@@ -3,7 +3,7 @@ title: "Ibrahim-al-Khalil-Moschee"
 site_name: "Ibrahim-al-Khalil-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Berlin-Tempelhof"
+description: "The Ibrahim-al-Khalil-Moschee, located in the Tempelhof-Schöneberg district of Berlin, serves as an important Islamic place of worship and a cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

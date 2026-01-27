@@ -3,7 +3,7 @@ title: "Överdiek"
 site_name: "Överdiek"
 date: 2026-01-26
 draft: false
-description: "lake in Schleswig-Holstein, Germany"
+description: "Nestled within the serene landscape of Schleswig-Holstein, Överdiek is a picturesque lake located in the charming town of Timmendorfer Strand, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Former gasworks Neustadt (Dosse)"
 site_name: "Former gasworks Neustadt (Dosse)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Former Gasworks Neustadt (Dosse) is an intriguing museum located in the heart of Neustadt (Dosse), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

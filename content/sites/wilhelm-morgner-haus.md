@@ -3,7 +3,7 @@ title: "Wilhelm-Morgner-Haus"
 site_name: "Wilhelm-Morgner-Haus"
 date: 2026-01-26
 draft: false
-description: "art museum in Soest, Germany"
+description: "In the heart of Soest, Germany, the Wilhelm-Morgner-Haus serves as a vibrant art museum that reflects the cultural pulse of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

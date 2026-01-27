@@ -3,7 +3,7 @@ title: "Lochenpass"
 site_name: "Lochenpass"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "The Lochenpass, a distinguished mountain pass located in the Baden-Württemberg region of Germany, is a captivating destination that draws visitors with its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

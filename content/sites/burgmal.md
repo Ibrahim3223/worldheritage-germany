@@ -3,7 +3,7 @@ title: "Burgmal"
 site_name: "Burgmal"
 date: 2026-01-26
 draft: false
-description: "heritage site"
+description: "Burgmal, an archaeological site situated in the Heilbronn region of Germany, invites visitors to explore a significant chapter of human history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

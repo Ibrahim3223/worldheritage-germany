@@ -3,7 +3,7 @@ title: "Harduinstor"
 site_name: "Harduinstor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "The Harduinstor, a notable city gate located in Aachen, Germany, stands as a striking example of medieval architecture and urban planning."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

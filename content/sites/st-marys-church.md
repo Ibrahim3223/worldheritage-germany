@@ -3,7 +3,7 @@ title: "St. Mary's Church"
 site_name: "St. Mary's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Rostock, Mecklenburg-Vorpommern, Germany"
+description: "St. Mary's Church, located in the vibrant city of Rostock, Mecklenburg-Vorpommern, Germany, is a striking example of ecclesiastical architecture that..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

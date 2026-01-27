@@ -3,7 +3,7 @@ title: "Blaues Haus"
 site_name: "Blaues Haus"
 date: 2026-01-26
 draft: false
-description: "building in Breisach, Freiburg Government Region, Bade-Württemberg, Germany"
+description: "The Blaues Haus is a distinguished library located in the charming town of Breisach, within the Freiburg Government Region of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

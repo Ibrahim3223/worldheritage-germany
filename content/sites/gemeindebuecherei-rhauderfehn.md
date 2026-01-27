@@ -3,7 +3,7 @@ title: "Gemeindebücherei Rhauderfehn"
 site_name: "Gemeindebücherei Rhauderfehn"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Rhauderfehn, located in the charming town of Rhauderfehn, Germany, serves as a vital cultural institution within the community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

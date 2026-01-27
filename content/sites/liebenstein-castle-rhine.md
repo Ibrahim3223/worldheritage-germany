@@ -3,7 +3,7 @@ title: "Liebenstein Castle (Rhine)"
 site_name: "Liebenstein Castle (Rhine)"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Liebenstein Castle, perched on a ridge overlooking the serene Rhine River in Kamp-Bornhofen, Germany, is a remarkable historical edifice that invites..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

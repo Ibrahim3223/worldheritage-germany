@@ -3,7 +3,7 @@ title: "St. Martin, Idstein"
 site_name: "St. Martin, Idstein"
 date: 2026-01-26
 draft: false
-description: "Roman Catholic church in Idstein, Rheingau-Taunus-Kreis, Germany"
+description: "St. Martin in Idstein is an iconic Roman Catholic church that captures the essence of historical architecture and spiritual significance in the heart of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

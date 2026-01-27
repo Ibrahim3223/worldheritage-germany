@@ -3,7 +3,7 @@ title: "Waffenmuseum Suhl"
 site_name: "Waffenmuseum Suhl"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Waffenmuseum Suhl is an intriguing museum located in the heart of Thuringia, Germany, renowned for its extensive collection dedicated to the history of..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

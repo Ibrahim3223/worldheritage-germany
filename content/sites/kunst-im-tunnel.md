@@ -3,7 +3,7 @@ title: "Kunst im Tunnel"
 site_name: "Kunst im Tunnel"
 date: 2026-01-26
 draft: false
-description: "art museum in Düsseldorf, Germany"
+description: "Kunst im Tunnel, an intriguing art museum located beneath the bustling streets of Düsseldorf, offers a unique exploration of contemporary art."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

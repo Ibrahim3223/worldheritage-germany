@@ -3,7 +3,7 @@ title: "Steile Lagerung"
 site_name: "Steile Lagerung"
 date: 2026-01-26
 draft: false
-description: "monument in Essen, Germany"
+description: "Steile Lagerung, located in the vibrant city of Essen, Germany, stands as a notable monument that captures the essence of the region's historical and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

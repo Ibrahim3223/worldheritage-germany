@@ -3,7 +3,7 @@ title: "Alte Schule"
 site_name: "Alte Schule"
 date: 2026-01-26
 draft: false
-description: "former school building in Dresden, Germany"
+description: "Alte Schule, a former school building located in the vibrant city of Dresden, Germany, represents a significant chapter in the region's educational history."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

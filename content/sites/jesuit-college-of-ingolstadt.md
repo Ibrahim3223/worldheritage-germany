@@ -3,7 +3,7 @@ title: "Jesuit College of Ingolstadt"
 site_name: "Jesuit College of Ingolstadt"
 date: 2026-01-26
 draft: false
-description: "jesuit school in Germany"
+description: "The Jesuit College of Ingolstadt, located in the heart of Ingolstadt, Germany, is a significant educational institution with deep historical roots."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

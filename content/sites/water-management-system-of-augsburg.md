@@ -3,7 +3,7 @@ title: "Water Management System of Augsburg"
 site_name: "Water Management System of Augsburg"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Water Management System of Augsburg stands as a remarkable achievement of engineering, demonstrating innovative approaches to water resource management..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"

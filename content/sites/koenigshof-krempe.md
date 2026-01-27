@@ -3,7 +3,7 @@ title: "Königshof (Krempe)"
 site_name: "Königshof (Krempe)"
 date: 2026-01-26
 draft: false
-description: "Wohnhaus in Krempe in Schleswig-Holstein"
+description: "Königshof (Krempe) stands as a prominent example of palatial architecture in the town of Krempe, located in Schleswig-Holstein, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

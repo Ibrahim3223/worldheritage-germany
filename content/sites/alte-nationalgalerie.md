@@ -3,7 +3,7 @@ title: "Alte Nationalgalerie"
 site_name: "Alte Nationalgalerie"
 date: 2026-01-26
 draft: false
-description: "art museum in Berlin, Germany"
+description: "The Alte Nationalgalerie, an esteemed art museum located in Berlin's Bezirk Mitte, is a cornerstone of cultural appreciation in Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

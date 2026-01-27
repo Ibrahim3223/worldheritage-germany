@@ -3,7 +3,7 @@ title: "Walderbach Abbey"
 site_name: "Walderbach Abbey"
 date: 2026-01-26
 draft: false
-description: "Zisterzienserkloster in Walderbach, Landkreis Cham, Oberpfalz, Bayern"
+description: "Walderbach Abbey, a historical Cistercian monastery located in the charming region of Walderbach, Germany, serves as a remarkable testament to the monastic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

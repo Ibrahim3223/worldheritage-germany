@@ -3,7 +3,7 @@ title: "Synagoge (Blomberg)"
 site_name: "Synagoge (Blomberg)"
 date: 2026-01-26
 draft: false
-description: "Kulturdenkmal Ostfalen-Lippe"
+description: "The Synagoge in Blomberg represents an enduring symbol of cultural heritage within Germany's Ostfalen-Lippe region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

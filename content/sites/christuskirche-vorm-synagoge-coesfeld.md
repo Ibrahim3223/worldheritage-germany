@@ -3,7 +3,7 @@ title: "Christuskirche (vorm. Synagoge, Coesfeld)"
 site_name: "Christuskirche (vorm. Synagoge, Coesfeld)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Coesfeld"
+description: "Christuskirche, formerly known as the Synagoge in Coesfeld, stands as a significant cultural landmark in the heart of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

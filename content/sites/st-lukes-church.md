@@ -3,7 +3,7 @@ title: "St. Luke's Church"
 site_name: "St. Luke's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden, Saxony, Germany"
+description: "St. Luke's Church, a prominent church building located in Dresden, Germany, serves as a significant landmark within the region of Saxony."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

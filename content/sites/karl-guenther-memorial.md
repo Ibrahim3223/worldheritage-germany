@@ -3,7 +3,7 @@ title: "Karl-Günther memorial"
 site_name: "Karl-Günther memorial"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Karl-Günther memorial, situated in the heart of Thuringia, Germany, serves as a poignant reminder of the region's historical narratives and cultural..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Memorial"

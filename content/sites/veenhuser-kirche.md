@@ -3,7 +3,7 @@ title: "Veenhuser Kirche"
 site_name: "Veenhuser Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Moormerland, Germany"
+description: "Veenhuser Kirche, a prominent church building located in Moormerland, Germany, offers visitors a glimpse into the region’s religious heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Stadtgeschichtliches Museum Jülich"
 site_name: "Stadtgeschichtliches Museum Jülich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Jülich, Germany, the Stadtgeschichtliches Museum offers an insightful exploration of the region's rich past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

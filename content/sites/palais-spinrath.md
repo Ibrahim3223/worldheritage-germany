@@ -3,7 +3,7 @@ title: "Palais Spinrath"
 site_name: "Palais Spinrath"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "Palais Spinrath, an esteemed monastery located in Düsseldorf, Germany, invites visitors to explore its serene ambiance and historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

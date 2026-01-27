@@ -3,7 +3,7 @@ title: "Günter Grass House"
 site_name: "Günter Grass House"
 date: 2026-01-26
 draft: false
-description: "building in Lübeck devoted to Günter Grass"
+description: "The Günter Grass House in Lübeck, Germany, serves as a dedicated homage to the life and works of the renowned author and Nobel laureate, Günter Grass."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

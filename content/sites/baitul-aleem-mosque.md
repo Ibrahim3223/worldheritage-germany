@@ -3,7 +3,7 @@ title: "Baitul Aleem Mosque"
 site_name: "Baitul Aleem Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Wurzburg, Germany"
+description: "The Baitul Aleem Mosque, located in the charming city of Würzburg, Germany, serves as a significant cultural and religious landmark within the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

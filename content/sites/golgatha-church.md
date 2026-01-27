@@ -3,7 +3,7 @@ title: "Golgatha church"
 site_name: "Golgatha church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Golgatha Church, a notable church building located in Berlin's Bezirk Mitte, invites visitors to explore its historical and cultural significance within the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

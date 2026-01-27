@@ -3,7 +3,7 @@ title: "Pauluskirche (Worms)"
 site_name: "Pauluskirche (Worms)"
 date: 2026-01-26
 draft: false
-description: "church building in Worms, Germany"
+description: "The Pauluskirche in Worms, Germany, serves as a remarkable example of ecclesiastical architecture and a focal point for both locals and visitors."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

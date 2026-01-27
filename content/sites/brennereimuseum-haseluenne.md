@@ -3,7 +3,7 @@ title: "Brennereimuseum Haselünne"
 site_name: "Brennereimuseum Haselünne"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brennereimuseum Haselünne offers visitors a unique glimpse into the world of distillation and local heritage in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

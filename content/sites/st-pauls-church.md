@@ -3,7 +3,7 @@ title: "St. Paul's Church"
 site_name: "St. Paul's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Kreuznach, Rhineland-Palatinate, Germany"
+description: "St. Paul's Church, located in the charming town of Bad Kreuznach in Rhineland-Palatinate, Germany, is a remarkable church building that serves as a..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

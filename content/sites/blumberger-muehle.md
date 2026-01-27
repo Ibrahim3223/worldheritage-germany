@@ -3,7 +3,7 @@ title: "Blumberger Mühle"
 site_name: "Blumberger Mühle"
 date: 2026-01-26
 draft: false
-description: "Umweltbildungseinrichtung in Brandenburg"
+description: "Blumberger Mühle, located in the picturesque region of Angermünde, Germany, serves as a unique museum dedicated to environmental education."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

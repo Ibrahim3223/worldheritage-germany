@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Detmold)"
 site_name: "Dreifaltigkeitskirche (Detmold)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dreifaltigkeitskirche, also known as the Church of the Holy Trinity, is an architectural and cultural landmark located in the heart of Detmold, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

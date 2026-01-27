@@ -3,7 +3,7 @@ title: "Museum Ratingen"
 site_name: "Museum Ratingen"
 date: 2026-01-26
 draft: false
-description: "local museum in Ratingen, Germany"
+description: "Museum Ratingen serves as an engaging hub for both locals and visitors, offering insights into the cultural heritage of Ratingen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

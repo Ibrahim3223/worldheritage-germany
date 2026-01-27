@@ -3,7 +3,7 @@ title: "Jan-Wellem-Reiterstandbild"
 site_name: "Jan-Wellem-Reiterstandbild"
 date: 2026-01-26
 draft: false
-description: "statue in Düsseldorf, Germany"
+description: "In the heart of Düsseldorf, the Jan-Wellem-Reiterstandbild stands as an impressive tribute to the legacy of Johann Wilhelm von der Pfalz, a significant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

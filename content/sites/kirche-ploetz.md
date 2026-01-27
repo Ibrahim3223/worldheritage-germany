@@ -3,7 +3,7 @@ title: "Kirche Plötz"
 site_name: "Kirche Plötz"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Kirche Plötz, a captivating church building located in the Jarmen region of Mecklenburg-Vorpommern, Germany, offers visitors a glimpse into the rich..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

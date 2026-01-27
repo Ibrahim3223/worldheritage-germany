@@ -3,7 +3,7 @@ title: "Rostocker Tor"
 site_name: "Rostocker Tor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "Rostocker Tor, a historical city gate located in Ribnitz-Damgarten, Germany, invites visitors to step into the echoes of the past while experiencing the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

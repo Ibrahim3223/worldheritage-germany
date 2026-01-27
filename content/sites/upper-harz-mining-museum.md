@@ -3,7 +3,7 @@ title: "Upper Harz Mining Museum"
 site_name: "Upper Harz Mining Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Upper Harz Mining Museum is a significant cultural institution located in Clausthal-Zellerfeld, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

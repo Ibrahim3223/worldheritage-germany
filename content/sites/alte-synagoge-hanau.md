@@ -3,7 +3,7 @@ title: "Alte Synagoge (Hanau)"
 site_name: "Alte Synagoge (Hanau)"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltene Synagoge in Hanau"
+description: "The Alte Synagoge in Hanau, Germany, represents a poignant chapter of Jewish heritage in the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Bunkenburg"
 site_name: "Bunkenburg"
 date: 2026-01-26
 draft: false
-description: "castle in Lower Saxony"
+description: "Bunkenburg, a medieval castle located in Lower Saxony, Germany, presents a captivating glimpse into the architectural and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

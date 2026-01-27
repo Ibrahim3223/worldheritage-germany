@@ -3,7 +3,7 @@ title: "Schloss Neuhaus"
 site_name: "Schloss Neuhaus"
 date: 2026-01-26
 draft: false
-description: "manor in Brandenburg"
+description: "Schloss Neuhaus, located in the picturesque region of Lübben in the Spreewald area of Germany, serves as a remarkable example of a manor house that embodies..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

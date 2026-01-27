@@ -3,7 +3,7 @@ title: "Dehnberger Hoftheater"
 site_name: "Dehnberger Hoftheater"
 date: 2026-01-26
 draft: false
-description: "theater in Franconia"
+description: "The Dehnberger Hoftheater, located in the picturesque region of Franconia, Germany, offers an engaging experience for culture enthusiasts and theater lovers..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

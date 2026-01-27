@@ -3,7 +3,7 @@ title: "Fleischhaus (Heilbronn)"
 site_name: "Fleischhaus (Heilbronn)"
 date: 2026-01-26
 draft: false
-description: "building in Heilbronn, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Located in the heart of Heilbronn, Germany, the Fleischhaus is a striking courthouse that serves as a notable architectural piece within the Stuttgart..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"

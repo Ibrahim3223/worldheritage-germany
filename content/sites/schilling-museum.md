@@ -3,7 +3,7 @@ title: "Schilling-Museum"
 site_name: "Schilling-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schilling-Museum, located in the city of Dresden, Germany, is a museum dedicated to the display and preservation of local heritage and culture."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

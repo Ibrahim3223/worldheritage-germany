@@ -3,7 +3,7 @@ title: "Burg Hagen"
 site_name: "Burg Hagen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hagen, a historic castle located in Duisburg, Germany, embodies the architectural and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

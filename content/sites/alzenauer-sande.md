@@ -3,7 +3,7 @@ title: "Alzenauer Sande"
 site_name: "Alzenauer Sande"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Alzenauer Sande is a nature reserve located in Bavaria, Germany, that serves as a vital ecological haven within the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

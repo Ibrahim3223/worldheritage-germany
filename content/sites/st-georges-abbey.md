@@ -3,7 +3,7 @@ title: "St. George's Abbey"
 site_name: "St. George's Abbey"
 date: 2026-01-26
 draft: false
-description: "Benedictine monastery in Isny"
+description: "St. George's Abbey, a Benedictine monastery located in Isny im Allgäu, Germany, offers a unique glimpse into the spiritual and architectural heritage of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

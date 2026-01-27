@@ -3,7 +3,7 @@ title: "Elmstein Valley"
 site_name: "Elmstein Valley"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "Elmstein Valley, located in the scenic Rhineland-Palatinate region of Germany, offers visitors a captivating blend of natural beauty and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Valley"

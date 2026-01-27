@@ -3,7 +3,7 @@ title: "Deutsches Spielkarten-Museum"
 site_name: "Deutsches Spielkarten-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Leinfelden-Echterdingen, Germany, lies the Deutsches Spielkarten-Museum, a museum dedicated to the fascinating world of playing cards."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

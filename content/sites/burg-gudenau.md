@@ -3,7 +3,7 @@ title: "Burg Gudenau"
 site_name: "Burg Gudenau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gudenau is a captivating castle located in Wachtberg, Germany. This historical edifice stands as a testament to the region's medieval architecture and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

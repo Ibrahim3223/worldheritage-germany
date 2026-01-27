@@ -3,7 +3,7 @@ title: "Dolgener See"
 site_name: "Dolgener See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dolgener See is a captivating lake located in Dolgen am See, Germany. This picturesque body of water serves as a serene escape for nature enthusiasts and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

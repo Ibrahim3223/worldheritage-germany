@@ -3,7 +3,7 @@ title: "Kriemhildmühle"
 site_name: "Kriemhildmühle"
 date: 2026-01-26
 draft: false
-description: "windmill"
+description: "Kriemhildmühle is a notable windmill located in the historic town of Xanten, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

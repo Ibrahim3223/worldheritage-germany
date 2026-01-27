@@ -3,7 +3,7 @@ title: "Kunstverein & Stiftung Springhornhof"
 site_name: "Kunstverein & Stiftung Springhornhof"
 date: 2026-01-26
 draft: false
-description: "arts organization in Neuenkirchen, Lower Saxony, Germany"
+description: "Kunstverein & Stiftung Springhornhof is a dynamic arts organization situated in the charming town of Neuenkirchen, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

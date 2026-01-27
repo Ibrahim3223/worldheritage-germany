@@ -3,7 +3,7 @@ title: "Alfred Wegener Institute for Polar and Marine Research"
 site_name: "Alfred Wegener Institute for Polar and Marine Research"
 date: 2026-01-26
 draft: false
-description: "German research institution"
+description: "The Alfred Wegener Institute for Polar and Marine Research, located in Bremerhaven, Germany, stands as a cornerstone of scientific inquiry into the polar..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"

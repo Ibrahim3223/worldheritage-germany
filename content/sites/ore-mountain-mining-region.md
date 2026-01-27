@@ -3,7 +3,7 @@ title: "Ore Mountain Mining Region"
 site_name: "Ore Mountain Mining Region"
 date: 2026-01-26
 draft: false
-description: "industrial heritage location"
+description: "The Ore Mountain Mining Region, located in Germany, is a significant industrial heritage site that reflects the historical and economic importance of mining..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Public Service Company"

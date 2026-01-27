@@ -3,7 +3,7 @@ title: "Monbijou Palace"
 site_name: "Monbijou Palace"
 date: 2026-01-26
 draft: false
-description: "castle in Berlin, Germany"
+description: "Monbijou Palace, an elegant historical site in Berlin's Bezirk Mitte, invites visitors to explore its rich heritage and architectural beauty."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

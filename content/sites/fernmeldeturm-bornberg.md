@@ -3,7 +3,7 @@ title: "Fernmeldeturm Bornberg"
 site_name: "Fernmeldeturm Bornberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Bornberg, located in the scenic region of Rhineland-Palatinate, Germany, stands as a notable example of modern telecommunications..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

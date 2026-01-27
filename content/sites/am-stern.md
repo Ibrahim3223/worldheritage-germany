@@ -3,7 +3,7 @@ title: "Am Stern"
 site_name: "Am Stern"
 date: 2026-01-26
 draft: false
-description: "public square in Schwachhausen, Germany"
+description: "Am Stern is a notable public square located in the Schwachhausen district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Square"

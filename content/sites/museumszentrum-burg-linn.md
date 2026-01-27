@@ -3,7 +3,7 @@ title: "Museumszentrum Burg Linn"
 site_name: "Museumszentrum Burg Linn"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the vibrant region of Krefeld, Germany, the Museumszentrum Burg Linn serves as a significant cultural institution that invites visitors to..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

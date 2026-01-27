@@ -3,7 +3,7 @@ title: "Evangelische Kirche Vollmarshausen"
 site_name: "Evangelische Kirche Vollmarshausen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Kirche Vollmarshausen is a notable church building located in the quaint village of Vollmarshausen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

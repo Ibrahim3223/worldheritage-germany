@@ -3,7 +3,7 @@ title: "Ehemals Bauernhaus"
 site_name: "Ehemals Bauernhaus"
 date: 2026-01-26
 draft: false
-description: "building in Weichs, Upper Bavaria, Germany"
+description: "The Ehemals Bauernhaus, a captivating museum located in Weichs, Upper Bavaria, Germany, offers visitors a unique glimpse into the cultural heritage and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

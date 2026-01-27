@@ -3,7 +3,7 @@ title: "Lower German Limes"
 site_name: "Lower German Limes"
 date: 2026-01-26
 draft: false
-description: "UNESCO World Heritage Site in Germany, Netherlands"
+description: "The Lower German Limes, an archaeological site of significant historical importance, stretches across parts of modern-day Germany and the Netherlands."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

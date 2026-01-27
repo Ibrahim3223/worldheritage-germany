@@ -3,7 +3,7 @@ title: "Heidelberg Castle"
 site_name: "Heidelberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Heidelberg Castle, a prominent landmark in Germany, captures the imagination with its storied past and striking architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

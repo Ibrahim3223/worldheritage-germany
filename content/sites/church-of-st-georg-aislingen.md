@@ -3,7 +3,7 @@ title: "Church of St. Georg, Aislingen"
 site_name: "Church of St. Georg, Aislingen"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "The Church of St. Georg in Aislingen, Germany, is a remarkable example of religious architecture set against the backdrop of Bavaria's picturesque landscapes."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

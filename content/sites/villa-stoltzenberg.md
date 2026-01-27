@@ -3,7 +3,7 @@ title: "Villa Stoltzenberg"
 site_name: "Villa Stoltzenberg"
 date: 2026-01-26
 draft: false
-description: "villa in Berlin, Germany"
+description: "Villa Stoltzenberg, located in the Charlottenburg-Wilmersdorf district of Berlin, Germany, stands as a distinguished architectural ensemble that reflects..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

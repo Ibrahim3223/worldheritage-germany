@@ -3,7 +3,7 @@ title: "Castle of Wolkenburg"
 site_name: "Castle of Wolkenburg"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "The Castle of Wolkenburg stands as a focal point of cultural heritage in Limbach-Oberfrohna, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

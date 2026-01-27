@@ -3,7 +3,7 @@ title: "Stephanikirche zu Goslar"
 site_name: "Stephanikirche zu Goslar"
 date: 2026-01-26
 draft: false
-description: "church in Goslar, Germany"
+description: "Stephanikirche zu Goslar is an architectural and cultural landmark in the heart of Goslar, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

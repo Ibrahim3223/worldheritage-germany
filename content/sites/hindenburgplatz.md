@@ -3,7 +3,7 @@ title: "Hindenburgplatz"
 site_name: "Hindenburgplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Hildesheim, Germany"
+description: "Hindenburgplatz is a prominent public square located in the heart of Hildesheim, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Treasury of the Munich Residence"
 site_name: "Treasury of the Munich Residence"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Treasury of the Munich Residence is a remarkable museum located in the heart of Munich, Germany's vibrant capital."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

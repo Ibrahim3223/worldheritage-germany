@@ -3,7 +3,7 @@ title: "Am Stadtwaldsee (Uni-Wildnis)"
 site_name: "Am Stadtwaldsee (Uni-Wildnis)"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bremen, Free Hanseatic City of Bremen, Germany"
+description: "Am Stadtwaldsee, known locally as Uni-Wildnis, is a captivating nature reserve located in Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

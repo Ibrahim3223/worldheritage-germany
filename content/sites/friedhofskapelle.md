@@ -3,7 +3,7 @@ title: "Friedhofskapelle"
 site_name: "Friedhofskapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Homberg"
+description: "The Friedhofskapelle, a chapel situated in the quaint town of Homberg (Ohm) in Germany, serves as a poignant reminder of the region's cultural and spiritual..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

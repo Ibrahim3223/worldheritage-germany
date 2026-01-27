@@ -3,7 +3,7 @@ title: "Tweltenberge"
 site_name: "Tweltenberge"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Schleswig-Holstein, Germany"
+description: "Tweltenberge is a captivating archaeological site located in the Schleswig-Holstein region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Archaeological Site"

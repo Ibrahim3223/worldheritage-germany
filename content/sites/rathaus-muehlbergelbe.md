@@ -3,7 +3,7 @@ title: "Rathaus Mühlberg/Elbe"
 site_name: "Rathaus Mühlberg/Elbe"
 date: 2026-01-26
 draft: false
-description: "Bauwerk  in Mühlberg/Elbe im Landkreis Elbe-Elster in Brandenburg"
+description: "In the heart of Mühlberg/Elbe, Germany, the Rathaus Mühlberg/Elbe serves as a pivotal center of local governance and community affairs."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

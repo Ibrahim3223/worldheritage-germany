@@ -3,7 +3,7 @@ title: "Kunsthalle Würth"
 site_name: "Kunsthalle Würth"
 date: 2026-01-26
 draft: false
-description: "art museum in Schwäbisch Hall, Germany"
+description: "Kunsthalle Würth is not merely an art museum; it is a vibrant cultural institution located in the heart of Schwäbisch Hall, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

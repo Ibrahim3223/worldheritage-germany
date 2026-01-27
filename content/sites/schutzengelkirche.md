@@ -3,7 +3,7 @@ title: "Schutzengelkirche"
 site_name: "Schutzengelkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "Schutzengelkirche, a remarkable church building located in Bavaria, Germany, stands as a significant landmark in the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

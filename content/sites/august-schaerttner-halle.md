@@ -3,7 +3,7 @@ title: "August-Schärttner-Halle"
 site_name: "August-Schärttner-Halle"
 date: 2026-01-26
 draft: false
-description: "building in Hanau, Germany"
+description: "Located in the vibrant city of Hanau, Germany, the August-Schärttner-Halle serves as a dynamic multi-purpose hall that has become a central hub for cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

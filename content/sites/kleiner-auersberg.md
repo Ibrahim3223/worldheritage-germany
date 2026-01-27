@@ -3,7 +3,7 @@ title: "Kleiner Auersberg"
 site_name: "Kleiner Auersberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Kleiner Auersberg, a prominent mountain located in Germany, offers a unique blend of natural beauty and cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

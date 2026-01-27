@@ -3,7 +3,7 @@ title: "Museum am Thie"
 site_name: "Museum am Thie"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum am Thie is an engaging cultural institution located in Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

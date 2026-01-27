@@ -3,7 +3,7 @@ title: "Koblenz radio transmitter"
 site_name: "Koblenz radio transmitter"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Koblenz radio transmitter, located in the picturesque region of Rhineland-Palatinate, Germany, serves as a significant landmark in the evolution of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

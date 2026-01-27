@@ -3,7 +3,7 @@ title: "St. Nicolai et Antonii"
 site_name: "St. Nicolai et Antonii"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Nicolai et Antonii is a remarkable church building located in the heart of Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

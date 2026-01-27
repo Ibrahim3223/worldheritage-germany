@@ -3,7 +3,7 @@ title: "Zweribachwasserfälle"
 site_name: "Zweribachwasserfälle"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Zweribachwasserfälle, located in the picturesque region of Emmendingen, Germany, is a stunning waterfall that showcases the natural beauty of the area."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

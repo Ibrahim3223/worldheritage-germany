@@ -3,7 +3,7 @@ title: "Amalia Colliery"
 site_name: "Amalia Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Amalia Colliery, located in Bochum, Germany, is a significant historical mine that serves as a window into the region's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

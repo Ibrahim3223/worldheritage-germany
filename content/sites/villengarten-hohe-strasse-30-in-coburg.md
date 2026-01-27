@@ -3,7 +3,7 @@ title: "Villengarten Hohe Straße 30 in Coburg"
 site_name: "Villengarten Hohe Straße 30 in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-155 (2) in Coburg, Bavaria"
+description: "Located in the charming town of Coburg, Germany, the Villengarten Hohe Straße 30 is a notable cultural heritage monument recognized for its historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

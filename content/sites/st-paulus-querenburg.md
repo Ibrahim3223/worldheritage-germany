@@ -3,7 +3,7 @@ title: "St. Paulus (Querenburg)"
 site_name: "St. Paulus (Querenburg)"
 date: 2026-01-26
 draft: false
-description: "church building in Bochum, Germany"
+description: "St. Paulus in Querenburg, Bochum, Germany, is a striking church building that stands out within the urban landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

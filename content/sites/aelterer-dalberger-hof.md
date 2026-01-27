@@ -3,7 +3,7 @@ title: "Älterer Dalberger Hof"
 site_name: "Älterer Dalberger Hof"
 date: 2026-01-26
 draft: false
-description: "Palast in Deutschland"
+description: "The Älterer Dalberger Hof, a distinguished palace located in the heart of Mainz, Germany, offers visitors an intriguing glimpse into the architectural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

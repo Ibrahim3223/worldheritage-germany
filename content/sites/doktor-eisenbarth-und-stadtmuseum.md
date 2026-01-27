@@ -3,7 +3,7 @@ title: "Doktor-Eisenbarth- und Stadtmuseum"
 site_name: "Doktor-Eisenbarth- und Stadtmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Doktor-Eisenbarth- und Stadtmuseum stands as a remarkable institution that encapsulates the cultural and historical narratives of its locale in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

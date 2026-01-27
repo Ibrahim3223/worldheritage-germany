@@ -3,7 +3,7 @@ title: "Potsdam University Library"
 site_name: "Potsdam University Library"
 date: 2026-01-26
 draft: false
-description: "university library"
+description: "The Potsdam University Library is more than just a repository of books; it is an intellectual hub located in the historic city of Potsdam, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

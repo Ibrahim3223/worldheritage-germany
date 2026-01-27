@@ -3,7 +3,7 @@ title: "Schloss Oderwitz"
 site_name: "Schloss Oderwitz"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Schloss Oderwitz stands as a notable example of a manor house in Germany, located in the quaint town of Oderwitz."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "St Catherine's church Elsterwerda"
 site_name: "St Catherine's church Elsterwerda"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "St. Catherine's Church in Elsterwerda is a distinguished church building located in the Brandenburg state of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

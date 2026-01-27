@@ -3,7 +3,7 @@ title: "Zentralfriedhof"
 site_name: "Zentralfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Quedlinburg, Germany"
+description: "Tucked away in the historic town of Quedlinburg, Germany, the Zentralfriedhof serves as a solemn yet fascinating destination for visitors interested in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

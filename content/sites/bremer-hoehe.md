@@ -3,7 +3,7 @@ title: "Bremer Höhe"
 site_name: "Bremer Höhe"
 date: 2026-01-26
 draft: false
-description: "residential building complex in Berlin"
+description: "Bremer Höhe, an architectural ensemble located in the Pankow district of Berlin, is a striking example of residential building design that reflects the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

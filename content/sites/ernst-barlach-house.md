@@ -3,7 +3,7 @@ title: "Ernst Barlach House"
 site_name: "Ernst Barlach House"
 date: 2026-01-26
 draft: false
-description: "art museum in Hamburg, Germany"
+description: "The Ernst Barlach House, located in the Altona district of Hamburg, Germany, serves as a vital hub for art enthusiasts and history buffs alike."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

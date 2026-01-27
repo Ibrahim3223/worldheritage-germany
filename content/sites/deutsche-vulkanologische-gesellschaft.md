@@ -3,7 +3,7 @@ title: "Deutsche Vulkanologische Gesellschaft"
 site_name: "Deutsche Vulkanologische Gesellschaft"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsche Vulkanologische Gesellschaft, located in Germany, serves as a dedicated hub for the study and appreciation of volcanology."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

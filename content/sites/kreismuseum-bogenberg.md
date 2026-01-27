@@ -3,7 +3,7 @@ title: "Kreismuseum Bogenberg"
 site_name: "Kreismuseum Bogenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Bogen in Germany, Kreismuseum Bogenberg serves as a focal point for understanding the region's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

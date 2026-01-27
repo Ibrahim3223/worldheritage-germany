@@ -3,7 +3,7 @@ title: "Orgelbaumuseum Klosterhäseler"
 site_name: "Orgelbaumuseum Klosterhäseler"
 date: 2026-01-26
 draft: false
-description: "museum in Klosterhäseler, Germany"
+description: "The Orgelbaumuseum Klosterhäseler is a distinguished museum located in the quaint village of Klosterhäseler, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

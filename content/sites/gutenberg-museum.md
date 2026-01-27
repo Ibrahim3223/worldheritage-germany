@@ -3,7 +3,7 @@ title: "Gutenberg Museum"
 site_name: "Gutenberg Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Mainz, Germany"
+description: "The Gutenberg Museum, located in the historic city of Mainz, Germany, is a pivotal institution dedicated to the legacy of Johannes Gutenberg, the inventor..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

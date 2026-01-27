@@ -3,7 +3,7 @@ title: "Dorfkirche Marzahn"
 site_name: "Dorfkirche Marzahn"
 date: 2026-01-26
 draft: false
-description: "church in Berlin, Germany"
+description: "Located in the vibrant district of Marzahn-Hellersdorf, the Dorfkirche Marzahn is an intriguing church that captures the spirit of Berlin's architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

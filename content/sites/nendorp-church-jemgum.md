@@ -3,7 +3,7 @@ title: "Nendorp Church (Jemgum)"
 site_name: "Nendorp Church (Jemgum)"
 date: 2026-01-26
 draft: false
-description: "church building in Nendorp, Germany"
+description: "Nendorp Church, located in the quaint village of Jemgum in Germany, is a remarkable example of ecclesiastical architecture that holds a special place in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

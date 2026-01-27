@@ -3,7 +3,7 @@ title: "Natural History Central Library Dresden"
 site_name: "Natural History Central Library Dresden"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Natural History Central Library in Dresden, Germany, serves as a vital resource for both scholars and the general public, providing a wealth of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

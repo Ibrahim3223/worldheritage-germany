@@ -3,7 +3,7 @@ title: "Kreismuseum Osterburg"
 site_name: "Kreismuseum Osterburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kreismuseum Osterburg is a notable cultural institution located in the heart of Osterburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

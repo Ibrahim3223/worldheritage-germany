@@ -3,7 +3,7 @@ title: "Ehemalige Flakbatterie bei Fischbach"
 site_name: "Ehemalige Flakbatterie bei Fischbach"
 date: 2026-01-26
 draft: false
-description: "former Flakstation in Germany"
+description: "Ehemalige Flakbatterie bei Fischbach is a significant fortification located in the Forsthof region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

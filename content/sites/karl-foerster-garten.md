@@ -3,7 +3,7 @@ title: "Karl-Foerster-Garten"
 site_name: "Karl-Foerster-Garten"
 date: 2026-01-26
 draft: false
-description: "garden in Potsdam, Germany"
+description: "The Karl-Foerster-Garten in Potsdam, Germany, is a verdant oasis that celebrates the artistry of horticulture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

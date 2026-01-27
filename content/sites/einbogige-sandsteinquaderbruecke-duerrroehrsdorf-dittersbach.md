@@ -3,7 +3,7 @@ title: "Einbogige Sandsteinquaderbrücke Dürrröhrsdorf-Dittersbach"
 site_name: "Einbogige Sandsteinquaderbrücke Dürrröhrsdorf-Dittersbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Einbogige Sandsteinquaderbrücke, or the Arch Stone Block Bridge, located in the charming village of Dürrröhrsdorf-Dittersbach, Germany, is a remarkable..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

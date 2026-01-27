@@ -3,7 +3,7 @@ title: "Synagogue Kippenheim"
 site_name: "Synagogue Kippenheim"
 date: 2026-01-26
 draft: false
-description: "synagogue in Kippenheim, Germany"
+description: "The Synagogue Kippenheim serves as a poignant emblem of the Jewish heritage in Germany, encapsulating centuries of cultural and religious significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

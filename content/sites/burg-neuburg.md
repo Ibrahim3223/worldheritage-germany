@@ -3,7 +3,7 @@ title: "Burg Neuburg"
 site_name: "Burg Neuburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuburg, a historic castle located in Gelbingen, Germany, serves as a captivating glimpse into the architectural and cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

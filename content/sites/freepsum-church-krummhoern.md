@@ -3,7 +3,7 @@ title: "Freepsum Church (Krummhörn)"
 site_name: "Freepsum Church (Krummhörn)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Freepsum Church, located in the picturesque region of Krummhörn, Germany, serves as a significant religious and cultural site, inviting visitors to explore..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

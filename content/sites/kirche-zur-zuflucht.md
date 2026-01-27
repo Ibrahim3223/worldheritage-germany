@@ -3,7 +3,7 @@ title: "Kirche zur Zuflucht"
 site_name: "Kirche zur Zuflucht"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kirche zur Zuflucht is a remarkable church building located in the serene town of Eberbach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

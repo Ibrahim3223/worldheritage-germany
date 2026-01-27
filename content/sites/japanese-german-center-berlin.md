@@ -3,7 +3,7 @@ title: "Japanese-German Center Berlin"
 site_name: "Japanese-German Center Berlin"
 date: 2026-01-26
 draft: false
-description: "science foundation in Germany"
+description: "The Japanese-German Center Berlin serves as a unique bridge between two distinct cultures, promoting mutual understanding and collaboration through..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

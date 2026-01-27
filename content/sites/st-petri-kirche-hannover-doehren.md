@@ -3,7 +3,7 @@ title: "St.-Petri-Kirche (Hannover-Döhren)"
 site_name: "St.-Petri-Kirche (Hannover-Döhren)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Petri-Kirche, located in the Döhren-Wülfel district of Hannover, Germany, is a significant church building that reflects the region's architectural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

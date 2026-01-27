@@ -3,7 +3,7 @@ title: "Steinbruchsee Halle-Neustadt"
 site_name: "Steinbruchsee Halle-Neustadt"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Steinbruchsee Halle-Neustadt, located in Germany, is a captivating lake that attracts visitors with its serene beauty and tranquil environment."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

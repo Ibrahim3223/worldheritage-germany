@@ -3,7 +3,7 @@ title: "Accumer Mühle"
 site_name: "Accumer Mühle"
 date: 2026-01-26
 draft: false
-description: "windmill in Germany"
+description: "Accumer Mühle is a captivating windmill located in Schortens, Germany, that showcases the remarkable engineering of traditional European mills."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

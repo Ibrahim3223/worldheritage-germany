@@ -3,7 +3,7 @@ title: "Bugwelle"
 site_name: "Bugwelle"
 date: 2026-01-26
 draft: false
-description: "Fountain sculpture in Bremerhaven (2002)"
+description: "In the heart of Bremerhaven, Germany, the Bugwelle fountain stands as a contemporary artistic expression that enhances the urban landscape."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Fountain"

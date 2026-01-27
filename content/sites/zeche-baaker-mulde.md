@@ -3,7 +3,7 @@ title: "Zeche Baaker Mulde"
 site_name: "Zeche Baaker Mulde"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Baaker Mulde is a historically significant mine located in the heart of Bochum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Traventhal House"
 site_name: "Traventhal House"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Traventhal House, a striking château located in the serene region of Traventhal, Germany, serves as a captivating example of the architectural elegance and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

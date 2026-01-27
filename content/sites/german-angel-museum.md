@@ -3,7 +3,7 @@ title: "german angel museum"
 site_name: "german angel museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The German Angel Museum, located in Engelskirchen, Germany, presents a unique opportunity to explore the fascinating world of angelic art and culture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Rathausbrunnen"
 site_name: "Rathausbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Enkenbach-Alsenborn, Germany"
+description: "The Rathausbrunnen, a charming fountain located in Enkenbach-Alsenborn, Germany, serves as a focal point for both locals and visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

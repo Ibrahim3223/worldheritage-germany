@@ -3,7 +3,7 @@ title: "Pfarrkirche"
 site_name: "Pfarrkirche"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-174-253 (0) in Volkach, Bavaria"
+description: "The Pfarrkirche in Volkach, Germany, stands as a notable example of Bavarian ecclesiastical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

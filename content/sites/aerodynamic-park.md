@@ -3,7 +3,7 @@ title: "Aerodynamic Park"
 site_name: "Aerodynamic Park"
 date: 2026-01-26
 draft: false
-description: "park in Berlin"
+description: "Aerodynamic Park, located in Berlin, Germany, is a significant green space that serves as a serene escape amid the urban hustle."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

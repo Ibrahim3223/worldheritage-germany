@@ -3,7 +3,7 @@ title: "Art and Museum Library of the City of Cologne"
 site_name: "Art and Museum Library of the City of Cologne"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Art and Museum Library of the City of Cologne is a significant cultural institution located in the heart of Germany’s vibrant city, Cologne."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

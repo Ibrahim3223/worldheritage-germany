@@ -3,7 +3,7 @@ title: "Bremer Pulvertürme"
 site_name: "Bremer Pulvertürme"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Bremer Pulvertürme, a remarkable tower located in Bremen, Germany, offers a unique glimpse into the city’s storied past."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"

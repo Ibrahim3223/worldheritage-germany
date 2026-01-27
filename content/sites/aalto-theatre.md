@@ -3,7 +3,7 @@ title: "Aalto Theatre"
 site_name: "Aalto Theatre"
 date: 2026-01-26
 draft: false
-description: "opera house in Essen, Germany"
+description: "The Aalto Theatre in Essen, Germany, is a prominent cultural landmark that attracts both local and international visitors."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

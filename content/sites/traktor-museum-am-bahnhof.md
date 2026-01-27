@@ -3,7 +3,7 @@ title: "Traktor-Museum am Bahnhof"
 site_name: "Traktor-Museum am Bahnhof"
 date: 2026-01-26
 draft: false
-description: "museum in Schwarzenbach an der Saale, Germany"
+description: "The Traktor-Museum am Bahnhof, located in the quaint town of Schwarzenbach an der Saale, Germany, offers a unique glimpse into the history of agricultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Stephanus"
 site_name: "St. Stephanus"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Stephanus is a significant church building located in Holzwickede, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

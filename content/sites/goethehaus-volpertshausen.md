@@ -3,7 +3,7 @@ title: "Goethehaus Volpertshausen"
 site_name: "Goethehaus Volpertshausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Goethehaus Volpertshausen is a significant cultural museum located in the Hüttenberg region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

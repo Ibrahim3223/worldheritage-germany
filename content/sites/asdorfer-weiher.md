@@ -3,7 +3,7 @@ title: "Asdorfer Weiher"
 site_name: "Asdorfer Weiher"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Freudenberg, North Rhine-Westphalia, Germany"
+description: "Asdorfer Weiher, situated in Freudenberg, North Rhine-Westphalia, Germany, is a captivating nature reserve that invites visitors to immerse themselves in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

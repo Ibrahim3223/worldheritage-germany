@@ -3,7 +3,7 @@ title: "rock'n'popmuseum"
 site_name: "rock'n'popmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Gronau, Germany"
+description: "The rock'n'popmuseum in Gronau, Germany, is an engaging tribute to the vibrant world of rock and pop music."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

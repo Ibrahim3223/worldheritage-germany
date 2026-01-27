@@ -3,7 +3,7 @@ title: "Brücke über den Ketzerbach Ziegenhain"
 site_name: "Brücke über den Ketzerbach Ziegenhain"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über den Ketzerbach in Ziegenhain, Saxony, is a bridge that intertwines engineering prowess with the picturesque charm of German heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Gemeindebücherei Hausham"
 site_name: "Gemeindebücherei Hausham"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Located in the charming town of Hausham, Germany, the Gemeindebücherei Hausham serves as a vital hub for knowledge and community engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

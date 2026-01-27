@@ -3,7 +3,7 @@ title: "Kreuzeck"
 site_name: "Kreuzeck"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Kreuzeck, an impressive mountain located in Bavaria, Germany, invites outdoor enthusiasts and nature lovers alike to explore its scenic beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "The German Diary Archive"
 site_name: "The German Diary Archive"
 date: 2026-01-26
 draft: false
-description: "Archive in Emmendingen, Germany"
+description: "The German Diary Archive, situated in Emmendingen, Germany, is a unique museum dedicated to the preservation and exploration of personal diaries."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

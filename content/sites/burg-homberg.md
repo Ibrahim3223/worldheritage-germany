@@ -3,7 +3,7 @@ title: "Burg Homberg"
 site_name: "Burg Homberg"
 date: 2026-01-26
 draft: false
-description: "castle in Homberg (Ohm), Germany"
+description: "Burg Homberg is a captivating castle located in the quaint town of Homberg (Ohm), Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

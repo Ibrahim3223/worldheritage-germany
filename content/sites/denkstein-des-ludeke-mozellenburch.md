@@ -3,7 +3,7 @@ title: "Denkstein des Ludeke Mozellenburch"
 site_name: "Denkstein des Ludeke Mozellenburch"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkstein des Ludeke Mozellenburch is a significant monument located in Grevesmühlen, Germany, steeped in cultural heritage and history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Grabmal Guido Schoeller"
 site_name: "Grabmal Guido Schoeller"
 date: 2026-01-26
 draft: false
-description: "tomb"
+description: "The Grabmal Guido Schoeller, located in the Düren region of Germany, is a significant tomb that encapsulates the cultural and historical narratives of its time."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"

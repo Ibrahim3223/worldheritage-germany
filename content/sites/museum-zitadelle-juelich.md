@@ -3,7 +3,7 @@ title: "Museum Zitadelle Jülich"
 site_name: "Museum Zitadelle Jülich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Zitadelle Jülich, located in the historic town of Jülich, Germany, serves as a captivating portal into the region’s rich cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

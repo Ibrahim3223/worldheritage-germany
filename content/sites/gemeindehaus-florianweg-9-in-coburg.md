@@ -3,7 +3,7 @@ title: "Gemeindehaus Florianweg 9 in Coburg"
 site_name: "Gemeindehaus Florianweg 9 in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-820 (1) in Coburg, Bavaria"
+description: "In the heart of Coburg, Germany, the Gemeindehaus Florianweg 9 stands as a notable city hall and cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

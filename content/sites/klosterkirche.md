@@ -3,7 +3,7 @@ title: "Klosterkirche"
 site_name: "Klosterkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Cottbus, Brandenburg state, Germany"
+description: "The Klosterkirche, a prominent church building located in Cottbus, Brandenburg, Germany, is not only a significant religious structure but also a notable..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

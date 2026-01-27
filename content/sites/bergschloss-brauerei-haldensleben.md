@@ -3,7 +3,7 @@ title: "Bergschloß-Brauerei Haldensleben"
 site_name: "Bergschloß-Brauerei Haldensleben"
 date: 2026-01-26
 draft: false
-description: "ehemalige Bierbrauerei in der Stadt Haldensleben in Sachsen-Anhalt"
+description: "Bergschloß-Brauerei Haldensleben stands as a noteworthy example of industrial heritage in the town of Haldensleben, located in the Saxony-Anhalt region of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Brewery"

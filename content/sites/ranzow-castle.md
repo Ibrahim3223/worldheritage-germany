@@ -3,7 +3,7 @@ title: "Ranzow Castle"
 site_name: "Ranzow Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Ranzow Castle, a striking manor house located in the Kleve region of Germany, invites visitors to explore its historical essence and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "RömerWelt"
 site_name: "RömerWelt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "RömerWelt, located in the charming town of Rheinbrohl, Germany, serves as a gateway to the ancient Roman world that once flourished in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

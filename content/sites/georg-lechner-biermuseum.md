@@ -3,7 +3,7 @@ title: "Georg-Lechner-Biermuseum"
 site_name: "Georg-Lechner-Biermuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the heart of Oelde, Germany, the Georg-Lechner-Biermuseum presents an intriguing exploration into the world of brewing and the cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

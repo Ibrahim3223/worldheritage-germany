@@ -3,7 +3,7 @@ title: "Eitorf station"
 site_name: "Eitorf station"
 date: 2026-01-26
 draft: false
-description: "railway station in Eitorf, Germany"
+description: "Eitorf station, located in the charming town of Eitorf, Germany, serves as a vital hub in the regional railway network."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

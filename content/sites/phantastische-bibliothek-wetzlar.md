@@ -3,7 +3,7 @@ title: "Phantastische Bibliothek Wetzlar"
 site_name: "Phantastische Bibliothek Wetzlar"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Phantastische Bibliothek Wetzlar is a remarkable library located in the heart of Wetzlar, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Library"

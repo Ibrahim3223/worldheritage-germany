@@ -3,7 +3,7 @@ title: "Falckensteiner Strand"
 site_name: "Falckensteiner Strand"
 date: 2026-01-26
 draft: false
-description: "beach in Kiel, Germany"
+description: "Falckensteiner Strand, located in the vibrant city of Kiel, Germany, is a captivating beach destination that offers both relaxation and recreational..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"

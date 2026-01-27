@@ -3,7 +3,7 @@ title: "Castles in Stadtlengsfeld"
 site_name: "Castles in Stadtlengsfeld"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "In the heart of Germany's picturesque Thuringia region lies the captivating ensemble of Castles in Stadtlengsfeld."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

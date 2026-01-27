@@ -3,7 +3,7 @@ title: "Burg Hundheim"
 site_name: "Burg Hundheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hundheim, a striking castle located in the Neckarhausen region of Germany, invites visitors to explore its storied past and architectural splendor."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

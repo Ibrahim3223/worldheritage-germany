@@ -3,7 +3,7 @@ title: "St. Joseph"
 site_name: "St. Joseph"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "St. Joseph Church, located in the Vahrenwald-List district of Hanover, Germany, is a remarkable church building that embodies the spiritual and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

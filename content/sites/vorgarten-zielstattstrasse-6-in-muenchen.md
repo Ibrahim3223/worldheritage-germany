@@ -3,7 +3,7 @@ title: "Vorgarten Zielstattstraße 6 in München"
 site_name: "Vorgarten Zielstattstraße 6 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-7750 (1) in München, Bavaria"
+description: "Situated in the vibrant city of Munich, the Vorgarten Zielstattstraße 6 represents a fascinating piece of cultural heritage, classified as a cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

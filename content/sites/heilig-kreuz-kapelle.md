@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kapelle"
 site_name: "Heilig-Kreuz-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Heilig-Kreuz-Kapelle, or Holy Cross Chapel, is a captivating structure located in the picturesque region of Schmallenberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

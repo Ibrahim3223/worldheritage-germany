@@ -3,7 +3,7 @@ title: "Göbelnrod station"
 site_name: "Göbelnrod station"
 date: 2026-01-26
 draft: false
-description: "railway station in Göbelnrod, Germany"
+description: "Göbelnrod station, located in the quaint village of Göbelnrod in the Grünberg region of Germany, serves as an important node in the country's extensive..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

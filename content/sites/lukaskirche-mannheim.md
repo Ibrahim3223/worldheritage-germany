@@ -3,7 +3,7 @@ title: "Lukaskirche (Mannheim)"
 site_name: "Lukaskirche (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Mannheim, Karlsruhe Government Region, Germany"
+description: "Lukaskirche, located in Mannheim, Germany, is a remarkable church building that serves as a significant landmark in the Karlsruhe Government Region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

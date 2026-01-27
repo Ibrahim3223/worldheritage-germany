@@ -3,7 +3,7 @@ title: "Middle Rhine"
 site_name: "Middle Rhine"
 date: 2026-01-26
 draft: false
-description: "landscape of Rhine valley between Nahe mouth and Bonn"
+description: "The Middle Rhine, a stunning valley located in the Rhineland-Palatinate region of Germany, unfolds a captivating landscape between the confluence of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"

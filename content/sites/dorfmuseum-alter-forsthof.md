@@ -3,7 +3,7 @@ title: "Dorfmuseum Alter Forsthof"
 site_name: "Dorfmuseum Alter Forsthof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dorfmuseum Alter Forsthof is a captivating museum located in Germany that serves as a window into the region's cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Der Höst"
 site_name: "Der Höst"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Der Höst, a serene nature reserve located in the Nordhorn region of Lower Saxony, Germany, serves as a vital sanctuary for both wildlife and flora."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

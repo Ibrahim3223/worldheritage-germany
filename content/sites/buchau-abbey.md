@@ -3,7 +3,7 @@ title: "Buchau Abbey"
 site_name: "Buchau Abbey"
 date: 2026-01-26
 draft: false
-description: "Monastery"
+description: "Buchau Abbey, located in the Swabian Circle of Germany, is a captivating example of monastic architecture and religious history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

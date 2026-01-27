@@ -3,7 +3,7 @@ title: "Pogumer Kirche"
 site_name: "Pogumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Pogum, Germany"
+description: "Pogumer Kirche, located in the quaint village of Pogum in Germany’s Jemgum region, stands as a significant church building that invites both the faithful..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Zeche Bongerbank"
 site_name: "Zeche Bongerbank"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bongerbank, located in the bustling city of Essen in Germany, is a significant site that encapsulates the industrial history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

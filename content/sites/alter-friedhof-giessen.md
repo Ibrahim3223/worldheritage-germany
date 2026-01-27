@@ -3,7 +3,7 @@ title: "Alter Friedhof Gießen"
 site_name: "Alter Friedhof Gießen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Giessen, Germany"
+description: "Alter Friedhof Gießen, a historic cemetery located in the heart of Giessen, Germany, serves as both a tranquil park and a poignant reminder of the city’s past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Park"

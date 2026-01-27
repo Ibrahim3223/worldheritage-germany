@@ -3,7 +3,7 @@ title: "Groß Kedingshagen Manor"
 site_name: "Groß Kedingshagen Manor"
 date: 2026-01-26
 draft: false
-description: "manor house in Kramerhof municipality, Germany"
+description: "Located in the serene landscape of Kramerhof, Germany, Groß Kedingshagen Manor is a distinguished example of a traditional manor house that speaks to the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

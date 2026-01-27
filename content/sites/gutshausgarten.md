@@ -3,7 +3,7 @@ title: "Gutshausgarten"
 site_name: "Gutshausgarten"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-127-78 (2) in Hammelburg, Bavaria"
+description: "Gutshausgarten, located in Hammelburg, Bavaria, is a cultural heritage monument that offers visitors a serene retreat into nature and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

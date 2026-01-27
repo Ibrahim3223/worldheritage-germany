@@ -3,7 +3,7 @@ title: "Gedenkstein"
 site_name: "Gedenkstein"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-114-253 (0) in Bad Kissingen, Bavaria"
+description: "Gedenkstein, a significant cultural heritage monument located in Bad Kissingen, Bavaria, serves as a poignant reminder of the region's historical narrative."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

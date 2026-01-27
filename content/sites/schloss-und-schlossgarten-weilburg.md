@@ -3,7 +3,7 @@ title: "Schloss und Schlossgarten Weilburg"
 site_name: "Schloss und Schlossgarten Weilburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss und Schlossgarten Weilburg is a remarkable museum located in Germany, offering visitors a fascinating glimpse into the region’s cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

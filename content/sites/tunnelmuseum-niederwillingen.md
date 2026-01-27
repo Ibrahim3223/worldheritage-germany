@@ -3,7 +3,7 @@ title: "Tunnelmuseum Niederwillingen"
 site_name: "Tunnelmuseum Niederwillingen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Tunnelmuseum Niederwillingen, located in the heart of Thuringia, Germany, provides an intriguing glimpse into the world of subterranean engineering and history."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

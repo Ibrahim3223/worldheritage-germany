@@ -3,7 +3,7 @@ title: "Eyüp-Sultan-Moschee (Emden)"
 site_name: "Eyüp-Sultan-Moschee (Emden)"
 date: 2026-01-26
 draft: false
-description: "islamisches Gotteshaus in Ostfriesland, Niedersachsen, Deutschland"
+description: "The Eyüp-Sultan-Moschee in Emden, Germany, is a prominent Islamic house of worship located in the heart of East Frisia, a region steeped in cultural diversity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

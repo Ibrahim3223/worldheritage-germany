@@ -3,7 +3,7 @@ title: "Church in Kagenow"
 site_name: "Church in Kagenow"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Church in Kagenow, located in the picturesque region of Mecklenburg-Vorpommern, Germany, is a notable example of ecclesiastical architecture."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

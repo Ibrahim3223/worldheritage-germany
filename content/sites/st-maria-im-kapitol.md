@@ -3,7 +3,7 @@ title: "St. Maria im Kapitol"
 site_name: "St. Maria im Kapitol"
 date: 2026-01-26
 draft: false
-description: "romanesque church in Cologne, Germany"
+description: "St. Maria im Kapitol is a remarkable Romanesque church located in the vibrant Altstadt-Süd district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

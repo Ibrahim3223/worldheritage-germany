@@ -3,7 +3,7 @@ title: "Rittergut Etzdorf"
 site_name: "Rittergut Etzdorf"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Rittergut Etzdorf, a distinguished manor house located in the Teutschenthal region of Germany, offers visitors a glimpse into the architectural elegance and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

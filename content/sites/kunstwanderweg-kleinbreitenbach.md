@@ -3,7 +3,7 @@ title: "Kunstwanderweg Kleinbreitenbach"
 site_name: "Kunstwanderweg Kleinbreitenbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstwanderweg Kleinbreitenbach invites visitors into a unique fusion of art and nature, showcasing the beauty of the Ilm-Kreis region in Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

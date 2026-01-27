@@ -3,7 +3,7 @@ title: "Lutternsche Egge (Pass)"
 site_name: "Lutternsche Egge (Pass)"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "The Lutternsche Egge Pass, a mountain pass located in the Minden-Lübbecke District of Germany, presents a picturesque landscape characterized by its rolling..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain Pass"

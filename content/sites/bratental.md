@@ -3,7 +3,7 @@ title: "Bratental"
 site_name: "Bratental"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bratental, a designated nature reserve in the Göttingen region of Lower Saxony, Germany, serves as a sanctuary for diverse flora and fauna."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

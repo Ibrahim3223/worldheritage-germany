@@ -3,7 +3,7 @@ title: "Anselburg"
 site_name: "Anselburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Anselburg, a captivating castle located in the Neuhemsbach region of Germany, invites visitors to explore its storied past and architectural elegance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

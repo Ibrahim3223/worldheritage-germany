@@ -3,7 +3,7 @@ title: "Maxim Gorki Theatre"
 site_name: "Maxim Gorki Theatre"
 date: 2026-01-26
 draft: false
-description: "theatre in Berlin"
+description: "The Maxim Gorki Theatre, located in the vibrant heart of Berlin, is a significant cultural institution that reflects the city's dynamic artistic scene."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

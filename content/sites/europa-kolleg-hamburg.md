@@ -3,7 +3,7 @@ title: "Europa-Kolleg Hamburg"
 site_name: "Europa-Kolleg Hamburg"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "Situated in the bustling city of Hamburg, the Europa-Kolleg Hamburg serves as a notable foundation dedicated to international academic exchange and cooperation."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

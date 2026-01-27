@@ -3,7 +3,7 @@ title: "Strausberger Platz"
 site_name: "Strausberger Platz"
 date: 2026-01-26
 draft: false
-description: "urban square in Berlin, Germany"
+description: "Strausberger Platz, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany, is an urban square that encapsulates the essence of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Rosenegg"
 site_name: "Rosenegg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Rosenegg is a prominent mountain located in the Rielasingen-Worblingen region of Germany, characterized by its scenic landscape and natural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

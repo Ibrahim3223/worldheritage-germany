@@ -3,7 +3,7 @@ title: "Tiefenbach Waterfall"
 site_name: "Tiefenbach Waterfall"
 date: 2026-01-26
 draft: false
-description: "Waterfall in Germany"
+description: "Tiefenbach Waterfall, located in the Altenberg region of Germany, is a stunning natural feature that captivates visitors with its cascading waters and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

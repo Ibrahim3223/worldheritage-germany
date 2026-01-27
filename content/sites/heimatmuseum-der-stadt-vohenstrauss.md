@@ -3,7 +3,7 @@ title: "Heimatmuseum der Stadt Vohenstrauß"
 site_name: "Heimatmuseum der Stadt Vohenstrauß"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum der Stadt Vohenstrauß, located in the picturesque region of Bavaria, Germany, offers a captivating glimpse into the area’s cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

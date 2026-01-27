@@ -3,7 +3,7 @@ title: "Saint Martin's Church, Bremen"
 site_name: "Saint Martin's Church, Bremen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Saint Martin's Church in Bremen is a striking example of ecclesiastical architecture that reflects the rich spiritual and cultural history of the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bremer Stadttheater"
 site_name: "Bremer Stadttheater"
 date: 2026-01-26
 draft: false
-description: "former theatre building in Bremen, Germany (1792-1843)"
+description: "The Bremer Stadttheater, a former theatre building located in the vibrant city of Bremen, Germany, embodies a significant chapter in the cultural narrative..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"

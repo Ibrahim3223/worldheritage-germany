@@ -3,7 +3,7 @@ title: "Museum Godeffroy"
 site_name: "Museum Godeffroy"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "Museum Godeffroy in Hamburg, Germany, represents a unique intersection of culture and history, offering visitors insights into the diverse collections..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

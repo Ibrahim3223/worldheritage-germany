@@ -3,7 +3,7 @@ title: "Zweigmuseum des Staatlichen Museums für Völkerkunde München"
 site_name: "Zweigmuseum des Staatlichen Museums für Völkerkunde München"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Zweigmuseum des Staatlichen Museums für Völkerkunde München serves as a significant cultural institution in Germany, dedicated to exploring and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

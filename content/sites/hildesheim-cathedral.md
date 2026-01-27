@@ -3,7 +3,7 @@ title: "Hildesheim Cathedral"
 site_name: "Hildesheim Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral church in Hildesheim, Germany"
+description: "Hildesheim Cathedral, also known as St. Mary's Cathedral, is not only a central place of worship in Hildesheim, Germany; it is also a significant cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

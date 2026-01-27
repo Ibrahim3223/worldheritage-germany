@@ -3,7 +3,7 @@ title: "Technoseum"
 site_name: "Technoseum"
 date: 2026-01-26
 draft: false
-description: "museum in Mannheim"
+description: "The Technoseum in Mannheim, Germany, stands as a compelling destination for those intrigued by the intersection of technology and society."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Beit Tikwa synagogue"
 site_name: "Beit Tikwa synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue in Bielefeld"
+description: "The Beit Tikwa synagogue in Bielefeld, Germany, is a site of profound cultural and historical significance, reflecting the rich Jewish heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

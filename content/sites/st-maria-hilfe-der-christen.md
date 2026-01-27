@@ -3,7 +3,7 @@ title: "St. Maria Hilfe der Christen"
 site_name: "St. Maria Hilfe der Christen"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Lörick, Germany"
+description: "St. Maria Hilfe der Christen is a notable church located in the Lörick district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

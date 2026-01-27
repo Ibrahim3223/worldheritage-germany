@@ -3,7 +3,7 @@ title: "Gerhart-Hauptmann-Haus"
 site_name: "Gerhart-Hauptmann-Haus"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Gerhart-Hauptmann-Haus, located in Düsseldorf, Germany, is an architectural structure that offers a unique insight into the life and works of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

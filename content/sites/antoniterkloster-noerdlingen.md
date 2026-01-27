@@ -3,7 +3,7 @@ title: "Antoniterkloster Nördlingen"
 site_name: "Antoniterkloster Nördlingen"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "The Antoniterkloster Nördlingen, located in the heart of Germany, is a significant historical monastery that offers visitors a glimpse into the spiritual..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

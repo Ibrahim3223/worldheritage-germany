@@ -3,7 +3,7 @@ title: "Nieuwe Kerk"
 site_name: "Nieuwe Kerk"
 date: 2026-01-26
 draft: false
-description: "church building in Emden, Germany"
+description: "The Nieuwe Kerk, or New Church, stands as an integral part of Emden's architectural and cultural landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

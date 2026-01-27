@@ -3,7 +3,7 @@ title: "Castle Hofen"
 site_name: "Castle Hofen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Castle Hofen is a striking historical edifice located in the Stuttgart region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

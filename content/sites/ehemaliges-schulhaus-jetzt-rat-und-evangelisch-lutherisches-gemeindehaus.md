@@ -3,7 +3,7 @@ title: "Ehemaliges Schulhaus, jetzt Rat- und evangelisch-lutherisches Gemeindeha
 site_name: "Ehemaliges Schulhaus, jetzt Rat- und evangelisch-lutherisches Gemeindehaus"
 date: 2026-01-26
 draft: false
-description: "building in Ohrenbach, Middle Franconia, Germany"
+description: "The Ehemaliges Schulhaus, now serving as the Rat- und evangelisch-lutherisches Gemeindehaus, is a notable landmark located in the charming town of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

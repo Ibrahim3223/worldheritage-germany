@@ -3,7 +3,7 @@ title: "Burg Greifenstein"
 site_name: "Burg Greifenstein"
 date: 2026-01-26
 draft: false
-description: "ruins in Bad Blankenburg, Germany"
+description: "Burg Greifenstein, a captivating castle ruin situated in the picturesque region of Bad Blankenburg, Germany, invites visitors to explore its remnants and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Schloss Rosenau"
 site_name: "Schloss Rosenau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Rosenau is a distinguished museum located in Germany, offering a unique glimpse into the country's rich cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

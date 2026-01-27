@@ -3,7 +3,7 @@ title: "Rantzau-Obelisk"
 site_name: "Rantzau-Obelisk"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Bad Segeberg in Schleswig-Holstein"
+description: "The Rantzau-Obelisk, an imposing monument located in Bad Segeberg, Schleswig-Holstein, stands as a significant cultural landmark in northern Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

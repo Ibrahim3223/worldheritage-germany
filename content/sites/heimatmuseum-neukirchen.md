@@ -3,7 +3,7 @@ title: "Heimatmuseum Neukirchen"
 site_name: "Heimatmuseum Neukirchen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Neukirchen serves as a cultural repository, capturing the essence of local heritage in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

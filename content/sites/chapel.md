@@ -3,7 +3,7 @@ title: "Chapel"
 site_name: "Chapel"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Chapel, located in the picturesque region of Coswig, Germany, presents a serene and contemplative space for visitors and locals alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"

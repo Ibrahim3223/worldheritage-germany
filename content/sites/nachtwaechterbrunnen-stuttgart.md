@@ -3,7 +3,7 @@ title: "Nachtwächterbrunnen, Stuttgart"
 site_name: "Nachtwächterbrunnen, Stuttgart"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "In the heart of Stuttgart-Mitte, the Nachtwächterbrunnen (Night Watchman’s Fountain) serves as a compelling reminder of the past, intertwining history with..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

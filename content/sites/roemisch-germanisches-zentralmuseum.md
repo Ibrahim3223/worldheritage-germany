@@ -3,7 +3,7 @@ title: "Römisch-Germanisches Zentralmuseum"
 site_name: "Römisch-Germanisches Zentralmuseum"
 date: 2026-01-26
 draft: false
-description: "archaeological research institute and museum in Mainz"
+description: "The Römisch-Germanisches Zentralmuseum (RGZM) in Mainz, Germany, serves as both an archaeological research institute and a museum, showcasing the rich..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

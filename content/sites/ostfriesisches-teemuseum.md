@@ -3,7 +3,7 @@ title: "Ostfriesisches Teemuseum"
 site_name: "Ostfriesisches Teemuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Ostfriesisches Teemuseum, located in Norden, Germany, is a unique institution dedicated to the exploration of tea culture in East Frisia, a region..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

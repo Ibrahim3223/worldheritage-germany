@@ -3,7 +3,7 @@ title: "Bruchstein-Bogenbrücke Grillenburg"
 site_name: "Bruchstein-Bogenbrücke Grillenburg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bruchstein-Bogenbrücke Grillenburg is more than just a bridge; it is a significant architectural landmark situated in the Tharandt region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Tuchmacherbrunnen"
 site_name: "Tuchmacherbrunnen"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "Tuchmacherbrunnen, located in the heart of Cottbus, Germany, is more than just a fountain; it is a significant cultural landmark that reflects the city's..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"

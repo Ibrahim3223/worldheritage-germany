@@ -3,7 +3,7 @@ title: "Town Hall Hörnum"
 site_name: "Town Hall Hörnum"
 date: 2026-01-26
 draft: false
-description: "town hall in Schleswig-holstein"
+description: "Located in the charming coastal town of Hörnum on the island of Sylt, the Town Hall Hörnum serves as a vital hub for local governance and community activities."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "City Hall"

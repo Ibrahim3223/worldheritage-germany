@@ -3,7 +3,7 @@ title: "Johannes-von-Nepomuk-Kapelle, Nordkirchen"
 site_name: "Johannes-von-Nepomuk-Kapelle, Nordkirchen"
 date: 2026-01-26
 draft: false
-description: "church building in Nordkirchen, Germany"
+description: "The Johannes-von-Nepomuk-Kapelle, located in the charming village of Nordkirchen, Germany, is a notable church building that draws visitors seeking both..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

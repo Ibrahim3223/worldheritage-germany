@@ -3,7 +3,7 @@ title: "Ahrensfelde East Churchyard"
 site_name: "Ahrensfelde East Churchyard"
 date: 2026-01-26
 draft: false
-description: "cemetery in Ahrensfelde, Germany"
+description: "Ahrensfelde East Churchyard, located in the quaint town of Ahrensfelde, Germany, presents a serene space rich in historical significance."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

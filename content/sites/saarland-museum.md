@@ -3,7 +3,7 @@ title: "Saarland Museum"
 site_name: "Saarland Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Saarbrücken"
+description: "The Saarland Museum, located in Saarbrücken, Germany, serves as a vibrant cultural hub that showcases the artistic heritage of the Saarland region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Ölbergkapelle Niederrieden"
 site_name: "Ölbergkapelle Niederrieden"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Ölbergkapelle Niederrieden is a captivating chapel located in the serene landscape of Niederrieden, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

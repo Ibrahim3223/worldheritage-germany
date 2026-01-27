@@ -3,7 +3,7 @@ title: "Technik-Museum Pütnitz"
 site_name: "Technik-Museum Pütnitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Technik-Museum Pütnitz is a unique destination that invites visitors to explore the fascinating world of technology and transportation in Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

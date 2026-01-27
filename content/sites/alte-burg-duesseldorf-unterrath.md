@@ -3,7 +3,7 @@ title: "Alte Burg (Düsseldorf-Unterrath)"
 site_name: "Alte Burg (Düsseldorf-Unterrath)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg, a captivating castle located in Düsseldorf-Unterrath, Germany, invites visitors to explore its historical significance and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Amtsvenn - Hündfelder Moor"
 site_name: "Amtsvenn - Hündfelder Moor"
 date: 2026-01-26
 draft: false
-description: "protected area in Germany"
+description: "Amtsvenn - Hündfelder Moor is a protected area located in the picturesque region of Ahaus, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Massower See"
 site_name: "Massower See"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Massower See, located in the picturesque Mecklenburgische Seenplatte District of Germany, is a serene lake that offers visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

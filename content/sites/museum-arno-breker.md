@@ -3,7 +3,7 @@ title: "Museum Arno Breker"
 site_name: "Museum Arno Breker"
 date: 2026-01-26
 draft: false
-description: "art museum near by Cologne, Germany"
+description: "Museum Arno Breker is an art museum located in Nörvenich, not far from Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

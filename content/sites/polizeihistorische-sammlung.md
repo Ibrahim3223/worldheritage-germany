@@ -3,7 +3,7 @@ title: "Polizeihistorische Sammlung"
 site_name: "Polizeihistorische Sammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the vibrant city of Berlin, the Polizeihistorische Sammlung, or Historical Police Collection, offers a unique glimpse into the evolution of law..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Stadt- und Dampfmaschinenmuseum Werdau"
 site_name: "Stadt- und Dampfmaschinenmuseum Werdau"
 date: 2026-01-26
 draft: false
-description: "museum in Werdau, Saxony, Germany"
+description: "The Stadt- und Dampfmaschinenmuseum Werdau is a unique museum located in the town of Werdau, Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

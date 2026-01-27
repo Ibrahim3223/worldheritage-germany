@@ -3,7 +3,7 @@ title: "St. Johannis-Harvestehude"
 site_name: "St. Johannis-Harvestehude"
 date: 2026-01-26
 draft: false
-description: "church in Hamburg, Germany"
+description: "St. Johannis-Harvestehude is a prominent church building located in the vibrant city of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

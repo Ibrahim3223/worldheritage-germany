@@ -3,7 +3,7 @@ title: "St. Josef (Oer-Erkenschwick)"
 site_name: "St. Josef (Oer-Erkenschwick)"
 date: 2026-01-26
 draft: false
-description: "church building in Oer-Erkenschwick, Germany"
+description: "St. Josef in Oer-Erkenschwick is a remarkable church building that reflects the cultural and spiritual fabric of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

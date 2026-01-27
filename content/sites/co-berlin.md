@@ -3,7 +3,7 @@ title: "C/O Berlin"
 site_name: "C/O Berlin"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "C/O Berlin is a cultural foundation that serves as a dynamic platform for contemporary photography and visual media."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

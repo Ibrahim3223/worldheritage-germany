@@ -3,7 +3,7 @@ title: "Kollegiatstift St. Martin"
 site_name: "Kollegiatstift St. Martin"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Worms"
+description: "The Kollegiatstift St. Martin, a prominent monastery located in Worms, Germany, serves as a remarkable testament to the architectural and ecclesiastical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

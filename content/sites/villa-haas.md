@@ -3,7 +3,7 @@ title: "Villa Haas"
 site_name: "Villa Haas"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Villa Haas, a distinguished manor house located in Sinn, Germany, captivates visitors with its historical charm and architectural elegance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Bergpark Wilhelmshöhe"
 site_name: "Bergpark Wilhelmshöhe"
 date: 2026-01-26
 draft: false
-description: "landscape park with castle in Kassel, Germany"
+description: "Bergpark Wilhelmshöhe is an exquisite landscape park located in Kassel, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "English Garden"

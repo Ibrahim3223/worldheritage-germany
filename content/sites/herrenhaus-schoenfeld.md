@@ -3,7 +3,7 @@ title: "Herrenhaus Schönfeld"
 site_name: "Herrenhaus Schönfeld"
 date: 2026-01-26
 draft: false
-description: "Gutshaus in Deutschland"
+description: "Herrenhaus Schönfeld, a charming manor house located in Mühlen Eichsen, Germany, offers visitors a glimpse into the historical architecture and rural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Hackesche Höfe"
 site_name: "Hackesche Höfe"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Hackesche Höfe is an architectural ensemble that showcases the rich cultural and historical fabric of Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

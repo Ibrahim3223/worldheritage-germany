@@ -3,7 +3,7 @@ title: "Museum Leben am Meer"
 site_name: "Museum Leben am Meer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Leben am Meer is a captivating institution located in Esens, Germany, dedicated to showcasing the diverse cultural heritage of coastal life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Holtrop Church"
 site_name: "Holtrop Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Holtrop Church, located in the idyllic region of Großefehn, Germany, serves as a serene spiritual haven and a remarkable embodiment of local architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

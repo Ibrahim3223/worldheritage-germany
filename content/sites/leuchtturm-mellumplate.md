@@ -3,7 +3,7 @@ title: "Leuchtturm Mellumplate"
 site_name: "Leuchtturm Mellumplate"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "Leuchtturm Mellumplate stands as a significant lighthouse located in Lower Saxony, Germany, within the picturesque Friesland region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

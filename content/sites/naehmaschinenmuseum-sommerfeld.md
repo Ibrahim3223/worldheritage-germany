@@ -3,7 +3,7 @@ title: "Nähmaschinenmuseum Sommerfeld"
 site_name: "Nähmaschinenmuseum Sommerfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nähmaschinenmuseum Sommerfeld, located in Kremmen, Germany, is a unique institution dedicated to the history and craftsmanship of sewing machines."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Zwillbrocker Venn"
 site_name: "Zwillbrocker Venn"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Vreden, North Rhine-Westphalia, Germany"
+description: "Zwillbrocker Venn, located in the charming region of Vreden in North Rhine-Westphalia, Germany, serves as a remarkable example of a nature reserve dedicated..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Zoologischer Garten Magdeburg"
 site_name: "Zoologischer Garten Magdeburg"
 date: 2026-01-26
 draft: false
-description: "German zoo"
+description: "Zoologischer Garten Magdeburg is a captivating destination for animal lovers and families alike, located in the vibrant city of Magdeburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"

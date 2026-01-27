@@ -3,7 +3,7 @@ title: "Aachen-Rothe Erde station"
 site_name: "Aachen-Rothe Erde station"
 date: 2026-01-26
 draft: false
-description: "railway station in Aachen, Germany"
+description: "Aachen-Rothe Erde station serves as a crucial node in the intricate web of Germany's railway network, located in the vibrant city of Aachen."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

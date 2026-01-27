@@ -3,7 +3,7 @@ title: "Electoral Palace Koblenz"
 site_name: "Electoral Palace Koblenz"
 date: 2026-01-26
 draft: false
-description: "palace in Koblenz, Germany"
+description: "The Electoral Palace Koblenz, located in the heart of Germany, serves as a striking symbol of regal elegance and architectural sophistication."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"

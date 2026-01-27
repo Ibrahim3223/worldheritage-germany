@@ -3,7 +3,7 @@ title: "Gunnar-Wester-Haus"
 site_name: "Gunnar-Wester-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gunnar-Wester-Haus is a significant cultural institution located in Germany, offering visitors an immersive experience into the region's heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

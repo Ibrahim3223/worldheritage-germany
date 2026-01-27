@@ -3,7 +3,7 @@ title: "Äußeres Mühlentor"
 site_name: "Äußeres Mühlentor"
 date: 2026-01-26
 draft: false
-description: "former city gate in Lübeck, Germany"
+description: "The Äußeres Mühlentor, a notable city gate in Lübeck, Germany, serves as a striking reminder of the city's medieval past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

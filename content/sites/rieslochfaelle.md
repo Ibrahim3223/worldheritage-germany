@@ -3,7 +3,7 @@ title: "Rieslochfälle"
 site_name: "Rieslochfälle"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "Rieslochfälle is a captivating waterfall located in Bodenmais, Germany, known for its stunning cascades that draw visitors from near and far."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

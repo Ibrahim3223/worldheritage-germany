@@ -3,7 +3,7 @@ title: "Friedrich Wilhelm I of Brandenburg memorial"
 site_name: "Friedrich Wilhelm I of Brandenburg memorial"
 date: 2026-01-26
 draft: false
-description: "monument and statue in Minden, Germany"
+description: "The Friedrich Wilhelm I of Brandenburg memorial is an iconic monument located in Minden, Germany, dedicated to one of the most significant figures in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

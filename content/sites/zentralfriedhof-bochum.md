@@ -3,7 +3,7 @@ title: "Zentralfriedhof Bochum"
 site_name: "Zentralfriedhof Bochum"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bochum-Mitte (district), Germany"
+description: "Zentralfriedhof Bochum, located in the heart of Bochum-Mitte, Germany, serves as a significant cultural and historical site."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

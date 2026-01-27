@@ -3,7 +3,7 @@ title: "Burg Genkingen"
 site_name: "Burg Genkingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Genkingen, a historic castle located in the picturesque region of Sonnenbühl, Germany, invites visitors to explore its fascinating architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

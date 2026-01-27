@@ -3,7 +3,7 @@ title: "Kallmuth Castle"
 site_name: "Kallmuth Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kallmuth Castle, located in the picturesque region of Mechernich, Germany, is a remarkable example of medieval architecture that draws visitors eager to..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "New Synagogue Potsdam"
 site_name: "New Synagogue Potsdam"
 date: 2026-01-26
 draft: false
-description: "Newly built synagogue in Potsdam, Germany"
+description: "The New Synagogue Potsdam stands as a modern symbol of Jewish heritage in Germany, situated in the historic city of Potsdam."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Luftbrückenmuseum Faßberg"
 site_name: "Luftbrückenmuseum Faßberg"
 date: 2026-01-26
 draft: false
-description: "museum about the Berlin Airlift for the location Faßberg"
+description: "Luftbrückenmuseum Faßberg serves as a poignant reminder of a pivotal moment in history: the Berlin Airlift."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

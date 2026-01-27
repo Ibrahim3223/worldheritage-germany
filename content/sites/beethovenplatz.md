@@ -3,7 +3,7 @@ title: "Beethovenplatz"
 site_name: "Beethovenplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Hanau, Germany"
+description: "Beethovenplatz, located in Hanau, Germany, is a vibrant public square that serves as a focal point for both locals and visitors."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Burg Helfenstein"
 site_name: "Burg Helfenstein"
 date: 2026-01-26
 draft: false
-description: "castle in Koblenz"
+description: "Burg Helfenstein is an intriguing castle located in the charming region of Koblenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

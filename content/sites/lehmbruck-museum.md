@@ -3,7 +3,7 @@ title: "Lehmbruck Museum"
 site_name: "Lehmbruck Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Duisburg, Germany"
+description: "The Lehmbruck Museum, located in Duisburg, Germany, is a prominent art museum dedicated to modern and contemporary sculpture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "St. Marienthal Abbey"
 site_name: "St. Marienthal Abbey"
 date: 2026-01-26
 draft: false
-description: "Abbey in Germany"
+description: "St. Marienthal Abbey, located in the serene landscape of Ostritz, Germany, is a significant monastery that embodies centuries of monastic tradition and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monastery"

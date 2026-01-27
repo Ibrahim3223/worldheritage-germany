@@ -3,7 +3,7 @@ title: "St. Quirinus"
 site_name: "St. Quirinus"
 date: 2026-01-26
 draft: false
-description: "church building in Mauenheim, Germany"
+description: "St. Quirinus is a church building located in Mauenheim, Germany, that offers visitors a glimpse into the architectural and cultural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

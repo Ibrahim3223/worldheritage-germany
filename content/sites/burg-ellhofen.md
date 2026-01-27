@@ -3,7 +3,7 @@ title: "Burg Ellhofen"
 site_name: "Burg Ellhofen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Ellhofen, an archaeological site located in Weiler-Simmerberg, Germany, represents an intriguing chapter in the region’s medieval history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

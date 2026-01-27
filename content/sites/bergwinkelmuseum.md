@@ -3,7 +3,7 @@ title: "Bergwinkelmuseum"
 site_name: "Bergwinkelmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Schlüchtern, Hesse, Germany"
+description: "The Bergwinkelmuseum, located in Schlüchtern, Hesse, Germany, serves as a vital cultural institution dedicated to preserving and showcasing the heritage of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

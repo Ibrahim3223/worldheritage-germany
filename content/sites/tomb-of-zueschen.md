@@ -3,7 +3,7 @@ title: "tomb of Züschen"
 site_name: "tomb of Züschen"
 date: 2026-01-26
 draft: false
-description: "dolmen"
+description: "The Tomb of Züschen, an intriguing archaeological site located in Fritzlar, Germany, invites visitors to explore the remnants of ancient burial practices..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

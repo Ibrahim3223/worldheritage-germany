@@ -3,7 +3,7 @@ title: "Friedensglocke"
 site_name: "Friedensglocke"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Dessau-Roßlau in Sachsen-Anhalt"
+description: "The Friedensglocke, or Peace Bell, stands as a significant monument in Dessau-Roßlau, a city in the Saxony-Anhalt region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

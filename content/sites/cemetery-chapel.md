@@ -3,7 +3,7 @@ title: "Cemetery chapel"
 site_name: "Cemetery chapel"
 date: 2026-01-26
 draft: false
-description: "chapel in Affing, Swabia, Germany"
+description: "The Cemetery Chapel in Affing, located in the picturesque region of Swabia, Germany, serves as an important cultural and historical landmark."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

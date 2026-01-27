@@ -3,7 +3,7 @@ title: "Mylau Castle"
 site_name: "Mylau Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Mylau Castle, a remarkable structure located in Reichenbach im Vogtland, Germany, invites visitors to explore its storied past and architectural elegance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

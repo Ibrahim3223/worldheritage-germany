@@ -3,7 +3,7 @@ title: "Herdecker Heimatstube"
 site_name: "Herdecker Heimatstube"
 date: 2026-01-26
 draft: false
-description: "museum in Herdecke, North Rhine-Westphalia, Germany"
+description: "The Herdecker Heimatstube, a local museum situated in Herdecke, North Rhine-Westphalia, Germany, serves as a cultural repository that reflects the heritage..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Thierhaupten Abbey"
 site_name: "Thierhaupten Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Thierhaupten Abbey, a historic monastery located in the quaint village of Thierhaupten, Germany, offers a serene glimpse into the spiritual and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

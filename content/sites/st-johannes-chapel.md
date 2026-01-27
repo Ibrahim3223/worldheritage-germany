@@ -3,7 +3,7 @@ title: "St.-Johannes Chapel"
 site_name: "St.-Johannes Chapel"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "St.-Johannes Chapel, located in the Ahlem-Badenstedt-Davenstedt region of Hanover, Germany, is an intriguing example of ecclesiastical architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

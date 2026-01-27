@@ -3,7 +3,7 @@ title: "Burg Gröneburg"
 site_name: "Burg Gröneburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gröneburg, a striking castle located in the Melle region of Germany, offers visitors a glimpse into the architectural and cultural heritage of the area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

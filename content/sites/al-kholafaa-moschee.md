@@ -3,7 +3,7 @@ title: "Al-Kholafa´a Moschee"
 site_name: "Al-Kholafa´a Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Weimar"
+description: "The Al-Kholafa´a Moschee, located in Weimar, Germany, is a significant religious site that embodies the cultural diversity of this historic city."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Mosque"

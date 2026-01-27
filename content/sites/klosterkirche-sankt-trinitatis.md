@@ -3,7 +3,7 @@ title: "Klosterkirche Sankt Trinitatis"
 site_name: "Klosterkirche Sankt Trinitatis"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "Klosterkirche Sankt Trinitatis, located in the charming town of Neuruppin, Germany, is a significant ecclesiastical structure that reflects the rich..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

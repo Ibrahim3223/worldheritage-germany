@@ -3,7 +3,7 @@ title: "Burg Mengeringhausen"
 site_name: "Burg Mengeringhausen"
 date: 2026-01-26
 draft: false
-description: "cultural monument in Bad Arolsen in the Waldeck-Frankenberg district in Hesse"
+description: "Burg Mengeringhausen is a captivating castle located in the town of Bad Arolsen, nestled within the picturesque Waldeck-Frankenberg district of Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

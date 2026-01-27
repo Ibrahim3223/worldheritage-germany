@@ -3,7 +3,7 @@ title: "WM-Brunnen"
 site_name: "WM-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "WM-Brunnen is a captivating fountain located in the Trudering-Riem district of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

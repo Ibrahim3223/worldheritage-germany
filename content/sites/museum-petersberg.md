@@ -3,7 +3,7 @@ title: "Museum Petersberg"
 site_name: "Museum Petersberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Petersberg, located in the tranquil setting of Petersberg, Germany, serves as a prominent cultural institution that invites visitors to engage with..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

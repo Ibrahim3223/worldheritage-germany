@@ -3,7 +3,7 @@ title: "Alter Friedhof der Zwölf-Apostel-Gemeinde"
 site_name: "Alter Friedhof der Zwölf-Apostel-Gemeinde"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Alter Friedhof der Zwölf-Apostel-Gemeinde, an evocative cemetery located in the Tempelhof-Schöneberg district of Berlin, serves as a poignant reminder of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

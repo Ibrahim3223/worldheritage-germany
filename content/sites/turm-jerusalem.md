@@ -3,7 +3,7 @@ title: "Turm Jerusalem"
 site_name: "Turm Jerusalem"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Turm Jerusalem is a historic tower located in the picturesque region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

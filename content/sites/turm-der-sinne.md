@@ -3,7 +3,7 @@ title: "Turm der Sinne"
 site_name: "Turm der Sinne"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Nuremberg, Germany, Turm der Sinne offers an engaging experience that invites visitors to explore the intersection of art, perception, and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

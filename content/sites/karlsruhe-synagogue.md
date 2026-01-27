@@ -3,7 +3,7 @@ title: "Karlsruhe Synagogue"
 site_name: "Karlsruhe Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Karlsruhe Synagogue stands as an important site of Jewish heritage and cultural significance in the southwestern region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Fastnachtsmuseum Herbstein"
 site_name: "Fastnachtsmuseum Herbstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fastnachtsmuseum Herbstein is a captivating destination that immerses visitors in the unique traditions of the German Fastnacht celebration."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

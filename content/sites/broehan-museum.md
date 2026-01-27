@@ -3,7 +3,7 @@ title: "Bröhan Museum"
 site_name: "Bröhan Museum"
 date: 2026-01-26
 draft: false
-description: "museum of art and design in Berlin"
+description: "The Bröhan Museum in Berlin is a distinguished venue dedicated to the art and design of the late 19th and early 20th centuries, offering visitors a unique..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

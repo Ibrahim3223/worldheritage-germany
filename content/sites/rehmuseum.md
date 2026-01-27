@@ -3,7 +3,7 @@ title: "Rehmuseum"
 site_name: "Rehmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rehmuseum, situated in the picturesque District of Berchtesgadener Land, Germany, serves as a significant cultural institution dedicated to showcasing..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

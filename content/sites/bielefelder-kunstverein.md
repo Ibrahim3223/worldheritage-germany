@@ -3,7 +3,7 @@ title: "Bielefelder Kunstverein"
 site_name: "Bielefelder Kunstverein"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization"
+description: "Bielefelder Kunstverein is a prominent nonprofit organization located in Bielefeld, Germany, dedicated to the promotion and appreciation of contemporary art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

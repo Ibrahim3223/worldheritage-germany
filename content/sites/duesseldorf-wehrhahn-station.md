@@ -3,7 +3,7 @@ title: "Düsseldorf Wehrhahn station"
 site_name: "Düsseldorf Wehrhahn station"
 date: 2026-01-26
 draft: false
-description: "railway station in Düsseldorf, Germany"
+description: "Düsseldorf Wehrhahn station is an integral part of Germany's extensive railway network, located in the bustling city of Düsseldorf."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Hamburg Dungeon"
 site_name: "Hamburg Dungeon"
 date: 2026-01-26
 draft: false
-description: "tourist attraction in Hamburg, Germany"
+description: "The Hamburg Dungeon offers a unique glimpse into the darker chapters of the city's history, blending storytelling, live actors, and immersive set designs to..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

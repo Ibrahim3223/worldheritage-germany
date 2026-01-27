@@ -3,7 +3,7 @@ title: "Kulturbrauerei"
 site_name: "Kulturbrauerei"
 date: 2026-01-26
 draft: false
-description: "arts centre in a former brewery in Prenzlauer Berg, Berlin, Germany"
+description: "Kulturbrauerei, an arts centre situated in the vibrant Prenzlauer Berg district of Berlin, Germany, encapsulates the spirit of cultural innovation within a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

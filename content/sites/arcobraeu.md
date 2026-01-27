@@ -3,7 +3,7 @@ title: "Arcobräu"
 site_name: "Arcobräu"
 date: 2026-01-26
 draft: false
-description: "brewery in Moos, Germany"
+description: "In the heart of Germany, the Arcobräu brewery stands as a significant establishment in the country's long-standing beer culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

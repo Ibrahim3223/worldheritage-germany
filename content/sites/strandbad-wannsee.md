@@ -3,7 +3,7 @@ title: "Strandbad Wannsee"
 site_name: "Strandbad Wannsee"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Strandbad Wannsee, located in the vibrant city of Berlin, is more than just a beach; it is a cultural landmark that draws visitors for its architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"

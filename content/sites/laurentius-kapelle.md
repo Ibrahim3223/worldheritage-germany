@@ -3,7 +3,7 @@ title: "Laurentius-Kapelle"
 site_name: "Laurentius-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Laurentius-Kapelle, a modest yet historically significant chapel in the charming town of Medebach, Germany, offers visitors a glimpse into the region's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

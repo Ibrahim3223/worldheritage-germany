@@ -3,7 +3,7 @@ title: "Antoniberg"
 site_name: "Antoniberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Antoniberg, a remarkable castle located in Germany, invites history enthusiasts and architecture lovers alike to explore its storied past and impressive..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

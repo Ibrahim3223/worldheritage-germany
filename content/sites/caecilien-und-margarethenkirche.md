@@ -3,7 +3,7 @@ title: "Cäcilien- und Margarethenkirche"
 site_name: "Cäcilien- und Margarethenkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Cäcilien- und Margarethenkirche, located in the charming region of Wittmund, Germany, is a significant church building that captures the essence of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

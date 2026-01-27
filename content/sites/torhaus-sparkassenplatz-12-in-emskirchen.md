@@ -3,7 +3,7 @@ title: "Torhaus Sparkassenplatz 12 in Emskirchen"
 site_name: "Torhaus Sparkassenplatz 12 in Emskirchen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-75-121-28 (1) in Emskirchen, Bavaria"
+description: "The Torhaus Sparkassenplatz 12 in Emskirchen is not just a gatehouse; it is a cultural heritage monument that represents the architectural and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

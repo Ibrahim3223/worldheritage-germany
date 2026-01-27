@@ -3,7 +3,7 @@ title: "St. Peter’s Church"
 site_name: "St. Peter’s Church"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt (Hamburg), Germany"
+description: "St. Peter’s Church, located in the Altstadt district of Hamburg, Germany, is a striking example of ecclesiastical architecture that embodies both the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

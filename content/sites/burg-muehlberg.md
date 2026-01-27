@@ -3,7 +3,7 @@ title: "Burg Mühlberg"
 site_name: "Burg Mühlberg"
 date: 2026-01-26
 draft: false
-description: "castle in Pfalz"
+description: "Burg Mühlberg, a historic castle located in the Pfalz region of Germany, offers visitors a captivating glimpse into the architectural and cultural heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

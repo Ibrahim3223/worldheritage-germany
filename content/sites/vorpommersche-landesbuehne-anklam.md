@@ -3,7 +3,7 @@ title: "Vorpommersche Landesbühne Anklam"
 site_name: "Vorpommersche Landesbühne Anklam"
 date: 2026-01-26
 draft: false
-description: "theatre in Anklam, Germany"
+description: "The Vorpommersche Landesbühne Anklam stands as a vital cultural institution within the city of Anklam, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Theatre Building"

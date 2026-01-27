@@ -3,7 +3,7 @@ title: "Joachim Herz Stiftung"
 site_name: "Joachim Herz Stiftung"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Hamburg, Germany"
+description: "The Joachim Herz Stiftung, located in the vibrant city of Hamburg, Germany, is a nonprofit organization dedicated to promoting education and research."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

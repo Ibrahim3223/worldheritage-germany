@@ -3,7 +3,7 @@ title: "Berghof Foundation"
 site_name: "Berghof Foundation"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Berlin, Germany"
+description: "The Berghof Foundation, located in the heart of Berlin, Germany, operates as a pivotal nonprofit organization dedicated to fostering discussions on global..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

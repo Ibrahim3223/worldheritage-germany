@@ -3,7 +3,7 @@ title: "Abbey of Reichenau"
 site_name: "Abbey of Reichenau"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "The Abbey of Reichenau, a significant monastery located in the serene Reichenau region of Germany, serves as a remarkable window into the religious and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "State In The Holy Roman Empire"

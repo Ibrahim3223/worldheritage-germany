@@ -3,7 +3,7 @@ title: "Ackerbürgermuseum Haus Leck"
 site_name: "Ackerbürgermuseum Haus Leck"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Ackerbürgermuseum Haus Leck is a culturally significant museum located in Germany's Grebenstein region, dedicated to preserving and showcasing the heritage..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

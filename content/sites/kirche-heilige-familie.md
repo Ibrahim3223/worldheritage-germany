@@ -3,7 +3,7 @@ title: "Kirche Heilige Familie"
 site_name: "Kirche Heilige Familie"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the heart of Kamen, Germany, stands Kirche Heilige Familie, a church building that captures the essence of architectural devotion and community spirit."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

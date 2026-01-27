@@ -3,7 +3,7 @@ title: "Deutsches Schutzengelmuseum"
 site_name: "Deutsches Schutzengelmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Bretten, Germany, the Deutsches Schutzengelmuseum offers a unique glimpse into a lesser-known facet of cultural history: the artistic..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

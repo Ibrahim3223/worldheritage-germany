@@ -3,7 +3,7 @@ title: "Hl. Drei Könige Garbeck"
 site_name: "Hl. Drei Könige Garbeck"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Hl. Drei Könige Garbeck, a remarkable church building located in the picturesque region of Balve, Germany, serves as a focal point for both religious..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

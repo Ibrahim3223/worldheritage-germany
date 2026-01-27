@@ -3,7 +3,7 @@ title: "Canumer Kirche"
 site_name: "Canumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Canumer Kirche is a remarkable church building located in the scenic Krummhörn region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

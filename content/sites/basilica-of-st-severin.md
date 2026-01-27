@@ -3,7 +3,7 @@ title: "Basilica of St. Severin"
 site_name: "Basilica of St. Severin"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt-Süd, Germany"
+description: "The Basilica of St. Severin is a significant church building located in the Altstadt-Süd district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Druselturm"
 site_name: "Druselturm"
 date: 2026-01-26
 draft: false
-description: "Rest der ehemaligen Stadtbefestigung Kassels, Hessen, Deutschland"
+description: "Druselturm, a historic tower located in the heart of Kassel, Germany, is an emblematic remnant of the city’s former fortifications."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

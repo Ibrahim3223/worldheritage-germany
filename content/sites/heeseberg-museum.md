@@ -3,7 +3,7 @@ title: "Heeseberg-Museum"
 site_name: "Heeseberg-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heeseberg-Museum in Gevensleben, Germany, represents a fascinating exploration of local culture and heritage, inviting visitors to delve into a variety..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

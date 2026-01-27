@@ -3,7 +3,7 @@ title: "Kunsthalle St. Annen"
 site_name: "Kunsthalle St. Annen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthalle St. Annen is a distinguished art museum located within the historic city of Lübeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

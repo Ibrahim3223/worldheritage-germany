@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke"
 site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn Eisenbahnbrücke, located in the picturesque region of Colditz, Germany, is a bridge that exemplifies the engineering prowess of its time."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "St. Lambertus (Kirchdaun)"
 site_name: "St. Lambertus (Kirchdaun)"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "St. Lambertus Church, located in the tranquil village of Kirchdaun in Rhineland-Palatinate, Germany, serves as a significant parish church that reflects the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

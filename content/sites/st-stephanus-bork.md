@@ -3,7 +3,7 @@ title: "St. Stephanus, Bork"
 site_name: "St. Stephanus, Bork"
 date: 2026-01-26
 draft: false
-description: "church building in Selm, Germany"
+description: "St. Stephanus in Bork, Selm, is an evocative church building that encapsulates the architectural and cultural essence of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

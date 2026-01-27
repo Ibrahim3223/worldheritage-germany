@@ -3,7 +3,7 @@ title: "Johannisturm"
 site_name: "Johannisturm"
 date: 2026-01-26
 draft: false
-description: "Turm in Warburg"
+description: "Johannisturm, a striking tower located in Warburg, Germany, stands as a notable landmark with deep historical roots in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

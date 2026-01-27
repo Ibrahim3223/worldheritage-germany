@@ -3,7 +3,7 @@ title: "Dagebüll lighthouse"
 site_name: "Dagebüll lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Perched along the northern coast of Germany, the Dagebüll lighthouse serves as a striking landmark in Schleswig-Holstein, guiding mariners safely through..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Großer Kranichsee"
 site_name: "Großer Kranichsee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Germany"
+description: "Großer Kranichsee, a designated nature reserve in Eibenstock, Germany, represents a serene and ecologically significant area that invites visitors to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

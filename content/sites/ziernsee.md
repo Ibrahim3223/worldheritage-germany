@@ -3,7 +3,7 @@ title: "Ziernsee"
 site_name: "Ziernsee"
 date: 2026-01-26
 draft: false
-description: "lake in Priepert, Mecklenburg-Vorpommern, Germany"
+description: "Ziernsee, a serene lake located in the picturesque region of Priepert, Mecklenburg-Vorpommern, Germany, offers visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Wildpark Schloss Tambach"
 site_name: "Wildpark Schloss Tambach"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Wildpark Schloss Tambach, located in the picturesque region of Weitramsdorf, Germany, presents a charming blend of nature and wildlife within a beautifully..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"

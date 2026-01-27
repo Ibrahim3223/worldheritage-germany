@@ -3,7 +3,7 @@ title: "Fatimakapelle (Aitrach)"
 site_name: "Fatimakapelle (Aitrach)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Fatimakapelle, an architectural gem located in Aitrach, Germany, draws visitors with its serene ambiance and compelling design."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

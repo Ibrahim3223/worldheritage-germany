@@ -3,7 +3,7 @@ title: "Burg Nideggen"
 site_name: "Burg Nideggen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on a rugged promontory overlooking the town of Nideggen in Germany, Burg Nideggen is a remarkable castle that encapsulates the storied past of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

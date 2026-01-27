@@ -3,7 +3,7 @@ title: "Berlin Mosque"
 site_name: "Berlin Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Germany"
+description: "The Berlin Mosque, located in the Charlottenburg-Wilmersdorf district, represents a significant cultural and spiritual landmark in Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

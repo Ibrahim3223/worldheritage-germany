@@ -3,7 +3,7 @@ title: "Großer Vogelsand lighthouse"
 site_name: "Großer Vogelsand lighthouse"
 date: 2026-01-26
 draft: false
-description: "former lighthouse near Neuwerk, Germany"
+description: "The Großer Vogelsand lighthouse, located in the serene region of Schleswig-Holstein, Germany, is a significant maritime structure that stands as a reminder..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

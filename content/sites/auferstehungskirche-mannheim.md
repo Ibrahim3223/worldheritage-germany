@@ -3,7 +3,7 @@ title: "Auferstehungskirche (Mannheim)"
 site_name: "Auferstehungskirche (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Mannheim, Germany, the Auferstehungskirche stands as a remarkable site of architectural and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

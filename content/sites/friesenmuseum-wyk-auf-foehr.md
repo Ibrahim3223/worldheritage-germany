@@ -3,7 +3,7 @@ title: "Friesenmuseum Wyk auf Föhr"
 site_name: "Friesenmuseum Wyk auf Föhr"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Friesenmuseum Wyk auf Föhr offers an intriguing glimpse into the cultural heritage of the North Frisian Islands, a region characterized by its unique..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

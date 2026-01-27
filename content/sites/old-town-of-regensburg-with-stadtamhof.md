@@ -3,7 +3,7 @@ title: "Old town of Regensburg with Stadtamhof"
 site_name: "Old town of Regensburg with Stadtamhof"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Old Town of Regensburg with Stadtamhof is a UNESCO World Heritage site that captivates visitors with its blend of medieval charm and vibrant modern life."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Old Town"

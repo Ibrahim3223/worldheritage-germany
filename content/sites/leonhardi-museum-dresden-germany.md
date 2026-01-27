@@ -3,7 +3,7 @@ title: "Leonhardi-Museum (Dresden, Germany)"
 site_name: "Leonhardi-Museum (Dresden, Germany)"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden, Germany"
+description: "The Leonhardi-Museum, located in Dresden, Germany, is a unique institution dedicated to the exploration and celebration of local history and culture."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

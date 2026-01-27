@@ -3,7 +3,7 @@ title: "Freimann Mosque"
 site_name: "Freimann Mosque"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Freimann Mosque, a significant architectural structure located in the Schwabing-Freimann district of Germany, serves as a vital center for the Muslim..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

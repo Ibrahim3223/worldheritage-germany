@@ -3,7 +3,7 @@ title: "Prinzregententheater"
 site_name: "Prinzregententheater"
 date: 2026-01-26
 draft: false
-description: "theatre in Munich, Germany"
+description: "The Prinzregententheater, an esteemed theatre building located in Munich, Germany, holds a prominent place in the city’s cultural landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

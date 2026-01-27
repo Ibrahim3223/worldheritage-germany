@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kirche, Mainz"
 site_name: "Herz-Jesu-Kirche, Mainz"
 date: 2026-01-26
 draft: false
-description: "church building in Mombach, Germany"
+description: "Herz-Jesu-Kirche, located in the Mombach district of Mainz, Germany, is a notable church building that embodies both religious significance and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

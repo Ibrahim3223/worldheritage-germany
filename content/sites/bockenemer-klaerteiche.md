@@ -3,7 +3,7 @@ title: "Bockenemer Klärteiche"
 site_name: "Bockenemer Klärteiche"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "The Bockenemer Klärteiche, located in the quaint region of Bockenem in Lower Saxony, Germany, is a nature reserve that offers visitors a serene escape into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

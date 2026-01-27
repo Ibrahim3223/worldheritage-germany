@@ -3,7 +3,7 @@ title: "Ziegenkopf"
 site_name: "Ziegenkopf"
 date: 2026-01-26
 draft: false
-description: "mountain in Saxony-Anhalt, Germany"
+description: "Ziegenkopf, a mountain located in the picturesque region of Blankenburg, Germany, offers a captivating blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Heinrich-Lübke-Haus"
 site_name: "Heinrich-Lübke-Haus"
 date: 2026-01-26
 draft: false
-description: "German museum and a memorial"
+description: "The Heinrich-Lübke-Haus stands as a significant cultural institution in Sundern, Germany, serving as both a museum and a memorial."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

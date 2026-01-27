@@ -3,7 +3,7 @@ title: "Deutsches Kabarettarchiv"
 site_name: "Deutsches Kabarettarchiv"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Kabarettarchiv stands as an important cultural institution in Mainz, Germany, dedicated to preserving and showcasing the unique art form of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "German Museum of damask and terry toweling"
 site_name: "German Museum of damask and terry toweling"
 date: 2026-01-26
 draft: false
-description: "museum in Großschönau"
+description: "The German Museum of Damask and Terry Toweling, located in the picturesque town of Großschönau, serves as a dedicated space to explore the rich heritage of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

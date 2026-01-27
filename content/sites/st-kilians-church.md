@@ -3,7 +3,7 @@ title: "St. Kilian's Church"
 site_name: "St. Kilian's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Heilbronn, Germany"
+description: "St. Kilian's Church, a prominent church building located in the heart of Heilbronn, Germany, is a captivating site that draws visitors with its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

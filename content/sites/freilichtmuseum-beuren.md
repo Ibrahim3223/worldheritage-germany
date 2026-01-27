@@ -3,7 +3,7 @@ title: "Freilichtmuseum Beuren"
 site_name: "Freilichtmuseum Beuren"
 date: 2026-01-26
 draft: false
-description: "museum in Beuren, Germany"
+description: "Freilichtmuseum Beuren is a captivating open-air museum situated in the charming village of Beuren, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

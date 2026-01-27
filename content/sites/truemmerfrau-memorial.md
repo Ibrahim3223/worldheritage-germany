@@ -3,7 +3,7 @@ title: "Trümmerfrau memorial"
 site_name: "Trümmerfrau memorial"
 date: 2026-01-26
 draft: false
-description: "sculpture in memory of the \"Trümmerfrauen\" in Berlin, Germany"
+description: "In the heart of Neukölln, Berlin, the Trümmerfrau memorial stands as a poignant tribute to the women who played an essential role in the city’s post-war..."Trümmerfrauen\" in Berlin, Germany"
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

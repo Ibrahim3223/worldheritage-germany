@@ -3,7 +3,7 @@ title: "Protestant Church of St. Lambertus"
 site_name: "Protestant Church of St. Lambertus"
 date: 2026-01-26
 draft: false
-description: "church building in Pfaffenhofen, Heilbronn district, Baden-Württemberg, Germany"
+description: "The Protestant Church of St. Lambertus, situated in Pfaffenhofen in the Heilbronn district of Baden-Württemberg, Germany, serves as an important religious..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

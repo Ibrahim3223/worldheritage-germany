@@ -3,7 +3,7 @@ title: "Künstlermuseum Heikendorf"
 site_name: "Künstlermuseum Heikendorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Künstlermuseum Heikendorf serves as a vibrant cultural venue that captures the essence of artistic expression in the charming coastal town of Heikendorf,..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

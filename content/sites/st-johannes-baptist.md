@@ -3,7 +3,7 @@ title: "St. Johannes Baptist"
 site_name: "St. Johannes Baptist"
 date: 2026-01-26
 draft: false
-description: "church building in Rheda, Germany"
+description: "St. Johannes Baptist is a serene church building located in the charming town of Rheda-Wiedenbrück, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St Luger's Church"
 site_name: "St Luger's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Billerbeck, North Rhine-Westphalia, Germany"
+description: "St Luger's Church, a prominent church building located in the town of Billerbeck, North Rhine-Westphalia, Germany, offers visitors a glimpse into the rich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

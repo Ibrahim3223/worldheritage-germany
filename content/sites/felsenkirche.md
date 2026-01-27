@@ -3,7 +3,7 @@ title: "Felsenkirche"
 site_name: "Felsenkirche"
 date: 2026-01-26
 draft: false
-description: "Rock church in Idar-Oberstein, Germany"
+description: "Felsenkirche, a remarkable rock church in Idar-Oberstein, Germany, is an architectural marvel that captivates visitors with its unique setting and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

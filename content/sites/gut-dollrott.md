@@ -3,7 +3,7 @@ title: "Gut Dollrott"
 site_name: "Gut Dollrott"
 date: 2026-01-26
 draft: false
-description: "building in Dollrottfeld (Germany)"
+description: "Gut Dollrott, a distinguished manor house located in the scenic region of Dollrottfeld, Germany, invites visitors to explore its historical and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

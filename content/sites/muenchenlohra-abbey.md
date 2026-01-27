@@ -3,7 +3,7 @@ title: "Münchenlohra Abbey"
 site_name: "Münchenlohra Abbey"
 date: 2026-01-26
 draft: false
-description: "church building in Thuringia, Germany"
+description: "Münchenlohra Abbey, an evocative church building located in the picturesque region of Großlohra, Germany, invites visitors to immerse themselves in its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Seigerturm"
 site_name: "Seigerturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Seigerturm, a prominent tower located in the Südharz region of Germany, draws visitors with its intriguing history and architectural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

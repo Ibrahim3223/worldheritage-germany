@@ -3,7 +3,7 @@ title: "Burg Helmsheim"
 site_name: "Burg Helmsheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Helmsheim, a castle situated in the quaint region of Helmsheim, Germany, invites visitors to explore its historical significance and architectural allure."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

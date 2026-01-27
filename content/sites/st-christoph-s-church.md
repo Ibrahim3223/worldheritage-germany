@@ -3,7 +3,7 @@ title: "St. Christoph 's Church"
 site_name: "St. Christoph 's Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Christoph's Church, located in the historic city of Mainz, Germany, is a noteworthy example of ecclesiastical architecture that reflects the region's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

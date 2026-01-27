@@ -3,7 +3,7 @@ title: "Zwingerturm"
 site_name: "Zwingerturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Zwingerturm, a notable tower located in Germany, stands as a significant landmark in the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

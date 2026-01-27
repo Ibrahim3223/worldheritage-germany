@@ -3,7 +3,7 @@ title: "Heinrich-Büssing-Haus"
 site_name: "Heinrich-Büssing-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heinrich-Büssing-Haus, located in the vibrant city of Wolfsburg, Germany, offers visitors a unique glimpse into the region's industrial heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

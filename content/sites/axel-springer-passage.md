@@ -3,7 +3,7 @@ title: "Axel-Springer-Passage"
 site_name: "Axel-Springer-Passage"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Axel-Springer-Passage, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany, presents a striking architectural ensemble that..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

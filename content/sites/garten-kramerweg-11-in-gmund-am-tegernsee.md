@@ -3,7 +3,7 @@ title: "Garten Kramerweg 11 in Gmund am Tegernsee"
 site_name: "Garten Kramerweg 11 in Gmund am Tegernsee"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-82-116-141 (1) in Gmund am Tegernsee, Bavaria"
+description: "Garten Kramerweg 11 in Gmund am Tegernsee is a garden of notable distinction, classified as a cultural heritage monument (D-1-82-116-141) in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

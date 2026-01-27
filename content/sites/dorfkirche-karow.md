@@ -3,7 +3,7 @@ title: "Dorfkirche Karow"
 site_name: "Dorfkirche Karow"
 date: 2026-01-26
 draft: false
-description: "church building in Pankow, Germany"
+description: "Dorfkirche Karow, located in the vibrant Pankow district of Berlin, serves as a poignant reminder of the region's historical and cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

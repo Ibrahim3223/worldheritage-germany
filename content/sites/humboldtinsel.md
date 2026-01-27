@@ -3,7 +3,7 @@ title: "Humboldtinsel"
 site_name: "Humboldtinsel"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Humboldtinsel is an intriguing island located in the Reinickendorf district of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Island"

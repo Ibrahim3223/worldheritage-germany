@@ -3,7 +3,7 @@ title: "Harriersand"
 site_name: "Harriersand"
 date: 2026-01-26
 draft: false
-description: "island of Germany"
+description: "Harriersand is an intriguing island situated in the Schwanewede region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

@@ -3,7 +3,7 @@ title: "Bakenhof"
 site_name: "Bakenhof"
 date: 2026-01-26
 draft: false
-description: "Gebäude-Ensemble im Krefelder Vorort Linn"
+description: "Bakenhof, an architectural ensemble located in the charming suburb of Linn in Krefeld, Germany, is a site that invites exploration and appreciation of its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

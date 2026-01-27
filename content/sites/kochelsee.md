@@ -3,7 +3,7 @@ title: "Kochelsee"
 site_name: "Kochelsee"
 date: 2026-01-26
 draft: false
-description: "lake in Schlehdorf, Bavaria, Germany"
+description: "Kochelsee is a picturesque lake located in the scenic region of Schlehdorf in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

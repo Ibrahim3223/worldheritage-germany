@@ -3,7 +3,7 @@ title: "Tahir Mosque"
 site_name: "Tahir Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Koblenz, Germany"
+description: "The Tahir Mosque, located in the city of Koblenz, Germany, represents an important facet of the region's cultural and religious landscape."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

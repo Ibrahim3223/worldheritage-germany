@@ -3,7 +3,7 @@ title: "Dessau-Roßlau City Library: Main Library"
 site_name: "Dessau-Roßlau City Library: Main Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Located in the heart of Dessau-Roßlau, Germany, the Dessau-Roßlau City Library: Main Library serves as a vital resource for residents and visitors alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

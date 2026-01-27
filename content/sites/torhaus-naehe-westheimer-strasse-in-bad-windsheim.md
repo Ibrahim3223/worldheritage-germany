@@ -3,7 +3,7 @@ title: "Torhaus Nähe Westheimer Straße in Bad Windsheim"
 site_name: "Torhaus Nähe Westheimer Straße in Bad Windsheim"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-75-112-228 (1) in Bad Windsheim, Bavaria"
+description: "The Torhaus Nähe Westheimer Straße stands as a striking example of a historical gatehouse in Bad Windsheim, Bavaria."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"

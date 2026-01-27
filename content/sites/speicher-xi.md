@@ -3,7 +3,7 @@ title: "Speicher XI"
 site_name: "Speicher XI"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Speicher XI is a captivating museum located in the Walle district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

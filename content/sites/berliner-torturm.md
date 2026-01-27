@@ -3,7 +3,7 @@ title: "Berliner Torturm"
 site_name: "Berliner Torturm"
 date: 2026-01-26
 draft: false
-description: "tower of the historic city fortifications of the town of Burg"
+description: "The Berliner Torturm, a distinguished museum located in Burg, Germany, stands as a significant remnant of the historic city fortifications that once..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

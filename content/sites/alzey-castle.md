@@ -3,7 +3,7 @@ title: "Alzey Castle"
 site_name: "Alzey Castle"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Alzey Castle, known as Schloss Alzey, is a significant historical structure located in the Rhineland-Palatinate region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

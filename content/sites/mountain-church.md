@@ -3,7 +3,7 @@ title: "Mountain Church"
 site_name: "Mountain Church"
 date: 2026-01-26
 draft: false
-description: "church building in Wiesbaden, Germany"
+description: "The Mountain Church, located in Wiesbaden, Germany, is a striking example of ecclesiastical architecture that captures the attention of both locals and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

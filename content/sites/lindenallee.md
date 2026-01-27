@@ -3,7 +3,7 @@ title: "Lindenallee"
 site_name: "Lindenallee"
 date: 2026-01-26
 draft: false
-description: "Park in Deutschland"
+description: "Lindenallee in Tübingen, Germany, is a serene park that invites visitors to unwind amidst its lush greenery and historical charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"

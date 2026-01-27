@@ -3,7 +3,7 @@ title: "St. Michael (Leer)"
 site_name: "St. Michael (Leer)"
 date: 2026-01-26
 draft: false
-description: "church building in Leer, Germany"
+description: "St. Michael in Leer is a prominent church building located in the picturesque town of Leer, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

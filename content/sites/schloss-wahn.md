@@ -3,7 +3,7 @@ title: "Schloss Wahn"
 site_name: "Schloss Wahn"
 date: 2026-01-26
 draft: false
-description: "building in Köln (Germany)"
+description: "Schloss Wahn, a striking manor house located in Cologne, Germany, captivates visitors with its serene surroundings and historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

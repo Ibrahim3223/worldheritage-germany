@@ -3,7 +3,7 @@ title: "Heilig Geist"
 site_name: "Heilig Geist"
 date: 2026-01-26
 draft: false
-description: "church in Lemgo, Germany"
+description: "Heilig Geist, a striking church building situated in the town of Lemgo, Germany, represents a significant landmark both architecturally and culturally."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

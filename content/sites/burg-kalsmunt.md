@@ -3,7 +3,7 @@ title: "Burg Kalsmunt"
 site_name: "Burg Kalsmunt"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Burg Kalsmunt, a striking castle located in the Wetzlar region of Germany, stands as a notable landmark that reflects the historical significance of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

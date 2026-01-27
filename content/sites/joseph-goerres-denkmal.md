@@ -3,7 +3,7 @@ title: "Joseph-Görres-Denkmal"
 site_name: "Joseph-Görres-Denkmal"
 date: 2026-01-26
 draft: false
-description: "Memorial to Joseph Görres in Koblenz, Germany"
+description: "The Joseph-Görres-Denkmal stands proudly in Koblenz, Germany, a tribute to one of the nation’s notable intellectual figures, Joseph Görres."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

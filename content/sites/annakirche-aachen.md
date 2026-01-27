@@ -3,7 +3,7 @@ title: "Annakirche, Aachen"
 site_name: "Annakirche, Aachen"
 date: 2026-01-26
 draft: false
-description: "church building in Aachen, Germany"
+description: "Annakirche, located in the heart of Aachen, Germany, is a captivating church building that embodies the city's deep-rooted historical and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

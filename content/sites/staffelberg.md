@@ -3,7 +3,7 @@ title: "Staffelberg"
 site_name: "Staffelberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "The Staffelberg is a striking mountain in Bavaria, Germany, known for its impressive geological formations and cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

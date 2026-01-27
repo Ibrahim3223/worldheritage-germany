@@ -3,7 +3,7 @@ title: "Immanuelkirche"
 site_name: "Immanuelkirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Friedrichstadt, Germany"
+description: "Immanuelkirche, a striking church building located in Düsseldorf-Friedrichstadt, Germany, serves as both a place of worship and a significant landmark..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

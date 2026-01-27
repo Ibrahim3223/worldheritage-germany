@@ -3,7 +3,7 @@ title: "St. Anthony"
 site_name: "St. Anthony"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Stadtmitte, Germany"
+description: "St. Anthony Church, a noteworthy architectural and cultural landmark located in Düsseldorf's Stadtmitte district, draws visitors with its unique character..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

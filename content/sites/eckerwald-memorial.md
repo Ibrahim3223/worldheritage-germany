@@ -3,7 +3,7 @@ title: "Eckerwald Memorial"
 site_name: "Eckerwald Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "The Eckerwald Memorial, located in Schömberg, Germany, serves as a poignant reminder of the past, inviting visitors to reflect on its historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

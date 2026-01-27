@@ -3,7 +3,7 @@ title: "Rübezahl-Museum"
 site_name: "Rübezahl-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rübezahl-Museum, located in the charming region of Görlitz, Germany, invites visitors to explore the enchanting world of folklore and myth."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

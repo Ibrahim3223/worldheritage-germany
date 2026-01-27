@@ -3,7 +3,7 @@ title: "Glassworks Museum of the Ore Mountains"
 site_name: "Glassworks Museum of the Ore Mountains"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glassworks Museum of the Ore Mountains offers an intriguing glimpse into the history and craftsmanship of glassmaking in one of Germany's most storied..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

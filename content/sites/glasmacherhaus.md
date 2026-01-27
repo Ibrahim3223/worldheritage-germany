@@ -3,7 +3,7 @@ title: "Glasmacherhaus"
 site_name: "Glasmacherhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmacherhaus, located in Delligsen, Germany, is not just a museum; it is a portal into the fascinating world of glassmaking and its historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

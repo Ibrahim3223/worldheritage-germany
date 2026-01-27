@@ -3,7 +3,7 @@ title: "Ziegenküppel (Stölzinger Gebirge)"
 site_name: "Ziegenküppel (Stölzinger Gebirge)"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Rising prominently in the verdant landscape of Hesse, Germany, Ziegenküppel is a mountain that epitomizes the natural beauty of the Stölzinger Gebirge region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

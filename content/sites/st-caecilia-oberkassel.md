@@ -3,7 +3,7 @@ title: "St. Cäcilia (Oberkassel)"
 site_name: "St. Cäcilia (Oberkassel)"
 date: 2026-01-26
 draft: false
-description: "church building in Oberkassel, Bonn, Germany"
+description: "St. Cäcilia in Oberkassel is a notable church building located in the Beuel district of Bonn, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

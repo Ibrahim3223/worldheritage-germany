@@ -3,7 +3,7 @@ title: "Keffelker Kapelle"
 site_name: "Keffelker Kapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Keffelker Kapelle is a chapel located in Brilon, Germany, a town known for its picturesque landscapes and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

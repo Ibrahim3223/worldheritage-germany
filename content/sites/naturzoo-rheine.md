@@ -3,7 +3,7 @@ title: "NaturZoo Rheine"
 site_name: "NaturZoo Rheine"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "NaturZoo Rheine offers an immersive experience into wildlife preservation and education."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

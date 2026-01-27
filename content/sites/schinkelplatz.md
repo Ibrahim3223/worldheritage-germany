@@ -3,7 +3,7 @@ title: "Schinkelplatz"
 site_name: "Schinkelplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Schinkelplatz is a captivating square located in the heart of Berlin, Germany, within the Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

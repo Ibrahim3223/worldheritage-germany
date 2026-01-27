@@ -3,7 +3,7 @@ title: "Münchholzhausen: Dorfstube"
 site_name: "Münchholzhausen: Dorfstube"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Münchholzhausen: Dorfstube is a museum located in Germany, dedicated to preserving and presenting the cultural heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

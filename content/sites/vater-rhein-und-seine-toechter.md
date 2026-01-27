@@ -3,7 +3,7 @@ title: "Vater Rhein und seine Töchter"
 site_name: "Vater Rhein und seine Töchter"
 date: 2026-01-26
 draft: false
-description: "monument in Düsseldorf, Germany"
+description: "Vater Rhein und seine Töchter, a prominent monument located in Düsseldorf, Germany, serves as a tribute to the Rhine River and its significance to the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

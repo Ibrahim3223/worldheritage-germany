@@ -3,7 +3,7 @@ title: "Adornodenkmal"
 site_name: "Adornodenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "Adornodenkmal, a prominent monument located in Frankfurt am Main, Germany, serves as a significant cultural landmark that encapsulates the spirit of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

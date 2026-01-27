@@ -3,7 +3,7 @@ title: "Rathaus der Gemeinde Gestratz"
 site_name: "Rathaus der Gemeinde Gestratz"
 date: 2026-01-26
 draft: false
-description: "building in Gestratz, Swabia, Germany"
+description: "The Rathaus der Gemeinde Gestratz, a striking example of civic architecture, is situated in the quaint village of Gestratz in Swabia, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

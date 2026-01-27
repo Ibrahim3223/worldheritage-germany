@@ -3,7 +3,7 @@ title: "Zenssee"
 site_name: "Zenssee"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Zenssee, a picturesque lake situated in the heart of Germany, invites visitors to explore its tranquil waters and surrounding landscapes."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

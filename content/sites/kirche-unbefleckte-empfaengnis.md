@@ -3,7 +3,7 @@ title: "Kirche unbefleckte Empfängnis"
 site_name: "Kirche unbefleckte Empfängnis"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Kirche unbefleckte Empfängnis, located in the historic Lutherstadt Wittenberg, Germany, is an exemplary church building that reflects the region's..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

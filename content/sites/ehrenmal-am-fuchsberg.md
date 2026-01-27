@@ -3,7 +3,7 @@ title: "Ehrenmal am Fuchsberg"
 site_name: "Ehrenmal am Fuchsberg"
 date: 2026-01-26
 draft: false
-description: "former monument in Düren, Germany"
+description: "The Ehrenmal am Fuchsberg, located in the Düren region of Germany, is a monument that echoes the stories of its past while standing as a solemn reminder of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

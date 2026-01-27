@@ -3,7 +3,7 @@ title: "Friedrichsbau"
 site_name: "Friedrichsbau"
 date: 2026-01-26
 draft: false
-description: "office building and theatre in Stuttgart, Germany"
+description: "Friedrichsbau, a significant theatre building in Stuttgart, Germany, is a notable landmark that melds the worlds of performance art and architectural elegance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Baumschule Bischweiler"
 site_name: "Baumschule Bischweiler"
 date: 2026-01-26
 draft: false
-description: "park in Germany"
+description: "Baumschule Bischweiler is a captivating park located in Munich, Germany, that invites visitors to immerse themselves in nature while experiencing a serene..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

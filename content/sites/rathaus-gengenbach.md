@@ -3,7 +3,7 @@ title: "Rathaus Gengenbach"
 site_name: "Rathaus Gengenbach"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Gengenbach, einer Stadt im Ortenaukreis in Baden-Württemberg"
+description: "In the heart of Gengenbach, a picturesque town in Baden-Württemberg, Germany, the Rathaus Gengenbach serves as a focal point of civic life and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

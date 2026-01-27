@@ -3,7 +3,7 @@ title: "Hohenfels Castle"
 site_name: "Hohenfels Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hohenfels Castle, located in the picturesque region of Imsbach, Germany, is a site that captures the imagination of visitors intrigued by medieval..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

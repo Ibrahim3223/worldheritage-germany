@@ -3,7 +3,7 @@ title: "Michaelskapelle"
 site_name: "Michaelskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Michaelskapelle, a church building located in the heart of Bruchsal, Germany, serves as a significant cultural landmark in the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Sibyllentürmchen"
 site_name: "Sibyllentürmchen"
 date: 2026-01-26
 draft: false
-description: "monument in Erfurt, Germany"
+description: "Sibyllentürmchen, a distinguished monument situated in Erfurt, Germany, serves as a compelling reminder of the region's rich historical narrative."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

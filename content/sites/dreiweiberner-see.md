@@ -3,7 +3,7 @@ title: "Dreiweiberner See"
 site_name: "Dreiweiberner See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dreiweiberner See, a serene lake located in the Lohsa region of Germany, presents a tranquil escape for nature enthusiasts and those seeking a peaceful retreat."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"

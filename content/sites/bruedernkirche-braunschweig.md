@@ -3,7 +3,7 @@ title: "Brüdernkirche Braunschweig"
 site_name: "Brüdernkirche Braunschweig"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Brüdernkirche Braunschweig is an architectural and historical landmark located in the heart of Brunswick, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

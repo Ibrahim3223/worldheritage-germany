@@ -3,7 +3,7 @@ title: "Ginkgo-Museum"
 site_name: "Ginkgo-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Weimar, Germany"
+description: "The Ginkgo-Museum in Weimar, Germany, offers a unique exploration of one of the world's oldest and most resilient tree species—the ginkgo."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

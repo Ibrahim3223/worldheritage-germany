@@ -3,7 +3,7 @@ title: "Wittenbergplatz"
 site_name: "Wittenbergplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Wittenbergplatz, located in the vibrant Tempelhof-Schöneberg district of Berlin, serves as a vital hub for both locals and visitors seeking a connection to..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

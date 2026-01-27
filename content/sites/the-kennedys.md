@@ -3,7 +3,7 @@ title: "The Kennedys"
 site_name: "The Kennedys"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kennedys museum in Berlin is a unique tribute to one of the most influential families in American history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

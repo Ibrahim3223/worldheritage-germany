@@ -3,7 +3,7 @@ title: "Reichardts Garten"
 site_name: "Reichardts Garten"
 date: 2026-01-26
 draft: false
-description: "garden in Halle (Saale), Germany"
+description: "Reichardts Garten, a serene garden located in Halle (Saale), Germany, presents a unique blend of natural beauty and cultural significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

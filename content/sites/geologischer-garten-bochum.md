@@ -3,7 +3,7 @@ title: "Geologischer Garten Bochum"
 site_name: "Geologischer Garten Bochum"
 date: 2026-01-26
 draft: false
-description: "natural monument"
+description: "In the heart of Bochum, Germany, lies the Geologischer Garten Bochum, an intriguing natural monument that serves as a testament to the region's geological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Park"

@@ -3,7 +3,7 @@ title: "Dorfkirche Falkenberg"
 site_name: "Dorfkirche Falkenberg"
 date: 2026-01-26
 draft: false
-description: "church in Berlin, Germany"
+description: "Dorfkirche Falkenberg, a significant church building located in the Lichtenberg region of Berlin, Germany, is a striking example of the area's rich..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

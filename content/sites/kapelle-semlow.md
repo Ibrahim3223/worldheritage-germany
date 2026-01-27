@@ -3,7 +3,7 @@ title: "Kapelle Semlow"
 site_name: "Kapelle Semlow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kapelle Semlow is a charming chapel located in the picturesque region of Ribnitz-Damgarten, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

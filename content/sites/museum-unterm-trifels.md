@@ -3,7 +3,7 @@ title: "Museum unterm Trifels"
 site_name: "Museum unterm Trifels"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Museum unterm Trifels in Annweiler am Trifels, Germany, serves as a captivating portal into the region's cultural narrative."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

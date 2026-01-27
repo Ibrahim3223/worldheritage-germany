@@ -3,7 +3,7 @@ title: "Zehrensdorf Indian Military Cemetery"
 site_name: "Zehrensdorf Indian Military Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Zossen, Germany"
+description: "The Zehrensdorf Indian Military Cemetery, located in Zossen, Germany, is a poignant reminder of the sacrifices made by Indian soldiers during their service..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"

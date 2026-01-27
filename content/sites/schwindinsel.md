@@ -3,7 +3,7 @@ title: "Schwindinsel"
 site_name: "Schwindinsel"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Schwindinsel, an island located in the heart of Munich, Germany, offers a unique escape from the bustling city environment."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"

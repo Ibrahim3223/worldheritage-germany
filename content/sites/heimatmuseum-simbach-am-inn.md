@@ -3,7 +3,7 @@ title: "Heimatmuseum Simbach am Inn"
 site_name: "Heimatmuseum Simbach am Inn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Simbach am Inn serves as a cultural repository that encapsulates the heritage and history of Simbach am Inn, a charming town in Bavaria,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hamelin Prison"
 site_name: "Hamelin Prison"
 date: 2026-01-26
 draft: false
-description: "historic site"
+description: "Hamelin Prison, located in the historic town of Hamelin, Germany, is an architectural ensemble that reflects significant aspects of the region's past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Grabmal Bohm"
 site_name: "Grabmal Bohm"
 date: 2026-01-26
 draft: false
-description: "Baudenkmal des Landes Brandenburg"
+description: "Tucked away in the tranquil region of Fredersdorf-Vogelsdorf, Germany, the Grabmal Bohm is an evocative tomb that captures the essence of local heritage and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tomb"

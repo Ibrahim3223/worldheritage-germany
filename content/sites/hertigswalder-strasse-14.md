@@ -3,7 +3,7 @@ title: "Hertigswalder Straße 14"
 site_name: "Hertigswalder Straße 14"
 date: 2026-01-26
 draft: false
-description: "Upper Lusatian house in Sebnitz"
+description: "Hertigswalder Straße 14 in Sebnitz is a captivating museum that showcases the architectural style and cultural heritage of the Upper Lusatian region in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

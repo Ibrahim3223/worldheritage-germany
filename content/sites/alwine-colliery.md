@@ -3,7 +3,7 @@ title: "Alwine Colliery"
 site_name: "Alwine Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Alwine Colliery, located in Bochum, Germany, is a significant site that offers a fascinating glimpse into the history of mining in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "St. Godehard"
 site_name: "St. Godehard"
 date: 2026-01-26
 draft: false
-description: "church building in Linden-Limmer, Germany"
+description: "St. Godehard is a striking church building located in the Linden-Limmer district of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

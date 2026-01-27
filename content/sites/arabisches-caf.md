@@ -3,7 +3,7 @@ title: "Arabisches Café"
 site_name: "Arabisches Café"
 date: 2026-01-26
 draft: false
-description: "former café (and cinema) in Düsseldorf, Germany"
+description: "The Arabisches Café, a former café and cinema located in Düsseldorf, Germany, holds a unique position within the cultural fabric of the city."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Movie Theater"

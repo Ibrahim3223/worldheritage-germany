@@ -3,7 +3,7 @@ title: "Evangelische Stadtkirche"
 site_name: "Evangelische Stadtkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Rastatt, Germany"
+description: "The Evangelische Stadtkirche in Rastatt, Germany, is not just a church; it represents a significant piece of the city's cultural and architectural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

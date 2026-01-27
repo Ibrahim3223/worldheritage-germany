@@ -3,7 +3,7 @@ title: "Ohlsdorf Cemetery"
 site_name: "Ohlsdorf Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hamburg, Germany"
+description: "Ohlsdorf Cemetery, located in the Hamburg-Nord district of Hamburg, Germany, is not just a final resting place but a significant cultural site that reflects..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Liebenstein Castle"
 site_name: "Liebenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Liebenstein Castle, located in the picturesque region of Liebenstein, Germany, stands as a remarkable example of medieval architecture and history."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Neues Rathaus, Göttingen"
 site_name: "Neues Rathaus, Göttingen"
 date: 2026-01-26
 draft: false
-description: "City hall of Göttingen"
+description: "The Neues Rathaus, or New Town Hall, in Göttingen stands as a centerpiece of civic pride and architectural elegance in this vibrant German university city."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

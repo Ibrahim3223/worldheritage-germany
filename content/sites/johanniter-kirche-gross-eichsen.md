@@ -3,7 +3,7 @@ title: "Johanniter-Kirche Groß Eichsen"
 site_name: "Johanniter-Kirche Groß Eichsen"
 date: 2026-01-26
 draft: false
-description: "church building in Mühlen Eichsen, Germany"
+description: "The Johanniter-Kirche Groß Eichsen is a striking church building located in the quaint region of Mühlen Eichsen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

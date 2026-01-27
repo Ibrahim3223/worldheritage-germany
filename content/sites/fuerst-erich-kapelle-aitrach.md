@@ -3,7 +3,7 @@ title: "Fürst-Erich-Kapelle (Aitrach)"
 site_name: "Fürst-Erich-Kapelle (Aitrach)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Fürst-Erich-Kapelle, located in the quaint town of Aitrach, Germany, is a captivating architectural structure that draws visitors with its serene..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

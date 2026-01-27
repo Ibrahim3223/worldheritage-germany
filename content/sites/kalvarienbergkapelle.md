@@ -3,7 +3,7 @@ title: "Kalvarienbergkapelle"
 site_name: "Kalvarienbergkapelle"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "Kalvarienbergkapelle is a striking church building located in the picturesque region of Donauwörth, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

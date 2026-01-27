@@ -3,7 +3,7 @@ title: "Stadioner Hof"
 site_name: "Stadioner Hof"
 date: 2026-01-26
 draft: false
-description: "Adelspalais in Mainz"
+description: "Stadioner Hof, an elegant palace located in Mainz, Germany, serves as a remarkable representation of the region's aristocratic heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

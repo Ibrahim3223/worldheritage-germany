@@ -3,7 +3,7 @@ title: "Dammtorfriedhöfe"
 site_name: "Dammtorfriedhöfe"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hamburg, Germany"
+description: "Dammtorfriedhöfe, located in Hamburg, Germany, represents a significant cultural and historical site within the city's landscape."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"

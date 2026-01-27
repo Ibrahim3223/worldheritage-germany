@@ -3,7 +3,7 @@ title: "Hochwanner"
 site_name: "Hochwanner"
 date: 2026-01-26
 draft: false
-description: "mountain in the Wettersteingebirge at the border Bavaria / Tyrol"
+description: "Hochwanner, a prominent mountain in the Wettersteingebirge range, stands on the border of Bavaria and Tyrol, offering a striking profile that attracts..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

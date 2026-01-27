@@ -3,7 +3,7 @@ title: "Burgruine Graisbach"
 site_name: "Burgruine Graisbach"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "In the heart of Germany lies Burgruine Graisbach, an archaeological site that whispers the tales of yesteryears through its crumbling stones."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

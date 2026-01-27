@@ -3,7 +3,7 @@ title: "Afrika-Haus Freiberg"
 site_name: "Afrika-Haus Freiberg"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Afrika-Haus Freiberg serves as a unique cultural institution in Freiberg am Neckar, Germany, dedicated to exploring and celebrating the diverse heritage of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

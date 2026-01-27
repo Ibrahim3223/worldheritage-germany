@@ -3,7 +3,7 @@ title: "Antoniuskapelle"
 site_name: "Antoniuskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Antoniuskapelle is a serene chapel located in the Wachtberg region of Germany, inviting visitors to explore its spiritual ambiance and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

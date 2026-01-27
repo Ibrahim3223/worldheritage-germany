@@ -3,7 +3,7 @@ title: "Torhaus Am Klosterberg 2 in Triefenstein"
 site_name: "Torhaus Am Klosterberg 2 in Triefenstein"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-77-154-117 (3) in Triefenstein, Bavaria"
+description: "Located in the serene municipality of Triefenstein, Bavaria, the Torhaus Am Klosterberg 2 stands as a remarkable cultural heritage monument, designated..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

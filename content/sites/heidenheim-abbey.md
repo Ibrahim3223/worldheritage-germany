@@ -3,7 +3,7 @@ title: "Heidenheim Abbey"
 site_name: "Heidenheim Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine monastery in Heidenheim am Hahnenkamm, Germany"
+description: "Heidenheim Abbey, a former Benedictine monastery located in Heidenheim am Hahnenkamm, Germany, presents a captivating glimpse into monastic life and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

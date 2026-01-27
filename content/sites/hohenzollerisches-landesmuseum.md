@@ -3,7 +3,7 @@ title: "Hohenzollerisches Landesmuseum"
 site_name: "Hohenzollerisches Landesmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Hohenzollerisches Landesmuseum, located in Hechingen, Germany, serves as an insightful portal into the cultural and historical legacy of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Genius of Light"
 site_name: "Genius of Light"
 date: 2026-01-26
 draft: false
-description: "sculpture by Arno Breker"
+description: "The Genius of Light is a striking statue situated in Remscheid, Germany, a city known for its rich industrial heritage and picturesque landscapes."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

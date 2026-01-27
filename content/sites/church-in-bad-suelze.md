@@ -3,7 +3,7 @@ title: "Church in Bad Sülze"
 site_name: "Church in Bad Sülze"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Sülze, Germany"
+description: "The Church in Bad Sülze, Germany, is more than just a place of worship; it serves as a significant landmark in the region, reflecting the cultural and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

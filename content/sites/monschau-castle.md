@@ -3,7 +3,7 @@ title: "Monschau Castle"
 site_name: "Monschau Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Monschau Castle, an imposing structure overlooking the picturesque town of Monschau in Germany, serves as a striking reminder of the region's medieval history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

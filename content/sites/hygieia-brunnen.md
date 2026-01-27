@@ -3,7 +3,7 @@ title: "Hygieia-Brunnen"
 site_name: "Hygieia-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Karlsruhe, Germany"
+description: "The Hygieia-Brunnen, a captivating fountain located in the heart of Karlsruhe, Germany, serves as a significant landmark and a focal point for both locals..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

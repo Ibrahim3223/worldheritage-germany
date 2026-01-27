@@ -3,7 +3,7 @@ title: "Presbyterkirche"
 site_name: "Presbyterkirche"
 date: 2026-01-26
 draft: false
-description: "demolished church building in Kalk, Germany"
+description: "Presbyterkirche, a church building located in the Kalk district of Germany, holds a unique place in the narrative of local heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

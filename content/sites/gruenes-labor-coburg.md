@@ -3,7 +3,7 @@ title: "Grünes Labor Coburg"
 site_name: "Grünes Labor Coburg"
 date: 2026-01-26
 draft: false
-description: "garden in Coburg, Germany"
+description: "Grünes Labor Coburg is a serene garden located in the charming town of Coburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

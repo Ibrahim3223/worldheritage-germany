@@ -3,7 +3,7 @@ title: "Stadtwald Augsburg"
 site_name: "Stadtwald Augsburg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Stadtwald Augsburg, a prominent nature reserve in Bavaria, Germany, offers visitors a unique opportunity to immerse themselves in a diverse ecological..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

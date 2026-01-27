@@ -3,7 +3,7 @@ title: "Prora"
 site_name: "Prora"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Prora, located on the northeastern coast of Germany, is an extraordinary architectural ensemble that tells a story of ambition, ideology, and resilience."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Friedelstraße 4"
 site_name: "Friedelstraße 4"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Hainichen, Landkreis Mittelsachsen"
+description: "Friedelstraße 4, located in Hainichen, Germany, is a courthouse that represents a significant aspect of the region's judicial architecture."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"

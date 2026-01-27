@@ -3,7 +3,7 @@ title: "Zwiefalten Abbey"
 site_name: "Zwiefalten Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Zwiefalten Abbey, located in the serene region of Zwiefalten, Germany, is a remarkable monastery that embodies centuries of spiritual devotion and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

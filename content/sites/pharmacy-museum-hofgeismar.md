@@ -3,7 +3,7 @@ title: "Pharmacy Museum Hofgeismar"
 site_name: "Pharmacy Museum Hofgeismar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Pharmacy Museum Hofgeismar is a unique cultural institution located in the charming town of Hofgeismar, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

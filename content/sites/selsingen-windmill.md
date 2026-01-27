@@ -3,7 +3,7 @@ title: "Selsingen windmill"
 site_name: "Selsingen windmill"
 date: 2026-01-26
 draft: false
-description: "winmill in Selsingen, Lower Saxony, Germany"
+description: "The Selsingen windmill, located in the quaint village of Selsingen in Lower Saxony, Germany, is a remarkable example of traditional windmill architecture..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

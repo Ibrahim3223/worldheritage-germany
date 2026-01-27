@@ -3,7 +3,7 @@ title: "Rathaus Leimen"
 site_name: "Rathaus Leimen"
 date: 2026-01-26
 draft: false
-description: "Palais in Deutschland"
+description: "Rathaus Leimen, a distinguished palace located in the charming town of Leimen, Germany, stands as a significant cultural landmark, reflecting the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

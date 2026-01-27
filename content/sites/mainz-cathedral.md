@@ -3,7 +3,7 @@ title: "Mainz Cathedral"
 site_name: "Mainz Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Germany"
+description: "The Mainz Cathedral, a prominent Catholic cathedral located in the heart of Mainz, Germany, is a remarkable architectural masterpiece that reflects the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

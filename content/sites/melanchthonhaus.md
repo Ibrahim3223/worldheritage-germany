@@ -3,7 +3,7 @@ title: "Melanchthonhaus"
 site_name: "Melanchthonhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Wittenberg"
+description: "Melanchthonhaus, located in Lutherstadt Wittenberg, Germany, serves as a museum dedicated to the life and legacy of Philipp Melanchthon, a key figure in the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

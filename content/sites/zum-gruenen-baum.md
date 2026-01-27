@@ -3,7 +3,7 @@ title: "Zum Grünen Baum"
 site_name: "Zum Grünen Baum"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Zum Grünen Baum, located in the heart of Kempten, Germany, is a brewery that embodies the region's rich brewing tradition and architectural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

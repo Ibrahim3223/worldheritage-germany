@@ -3,7 +3,7 @@ title: "Burg Honberg"
 site_name: "Burg Honberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Honberg, a historic castle located in the Tuttlingen region of Germany, offers a fascinating glimpse into the medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Paulskirche"
 site_name: "Paulskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Schwerin, Germany"
+description: "Paulskirche, an exemplary church building located in the city of Schwerin, Germany, serves as a significant landmark that reflects the cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

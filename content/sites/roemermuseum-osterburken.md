@@ -3,7 +3,7 @@ title: "Römermuseum Osterburken"
 site_name: "Römermuseum Osterburken"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römermuseum Osterburken is a captivating museum located in the heart of Osterburken, Germany, dedicated to preserving and showcasing the rich heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

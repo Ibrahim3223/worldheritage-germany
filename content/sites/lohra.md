@@ -3,7 +3,7 @@ title: "Lohra"
 site_name: "Lohra"
 date: 2026-01-26
 draft: false
-description: "big stone grave in Germany"
+description: "Lohra is not just another archaeological site; it is a significant marker of human history in Germany, offering insight into ancient burial practices and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

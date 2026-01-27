@@ -3,7 +3,7 @@ title: "Sparkassen-Finanzzentrum Erfurt"
 site_name: "Sparkassen-Finanzzentrum Erfurt"
 date: 2026-01-26
 draft: false
-description: "office building group in Erfurt, Germany"
+description: "The Sparkassen-Finanzzentrum Erfurt, an architectural ensemble located in the heart of Erfurt, Germany, is a significant example of modern office design..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

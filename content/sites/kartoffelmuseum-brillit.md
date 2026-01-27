@@ -3,7 +3,7 @@ title: "Kartoffelmuseum Brillit"
 site_name: "Kartoffelmuseum Brillit"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kartoffelmuseum Brillit, located in Gnarrenburg, Germany, invites visitors into the fascinating world of potatoes, a staple crop that has shaped diets..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

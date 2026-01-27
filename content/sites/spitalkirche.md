@@ -3,7 +3,7 @@ title: "Spitalkirche"
 site_name: "Spitalkirche"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "The Spitalkirche, a cultural heritage monument located in the heart of Bayreuth, Germany, is a remarkable example of religious architecture that embodies..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

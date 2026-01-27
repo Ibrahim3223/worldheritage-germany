@@ -3,7 +3,7 @@ title: "Beginenhaus"
 site_name: "Beginenhaus"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Beginenhaus, a historic monastery located in the heart of Germany’s Mitte district, offers visitors a glimpse into the contemplative and community-oriented..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

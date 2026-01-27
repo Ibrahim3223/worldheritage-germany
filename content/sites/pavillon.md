@@ -3,7 +3,7 @@ title: "Pavillon"
 site_name: "Pavillon"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-164-28 (0) in Wonsees, Bavaria"
+description: "In the heart of Bavaria, the Pavillon stands as a distinguished cultural heritage monument, offering visitors a unique glimpse into the region's artistic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

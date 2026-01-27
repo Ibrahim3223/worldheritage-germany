@@ -3,7 +3,7 @@ title: "Eberstadt Stalactite Cave"
 site_name: "Eberstadt Stalactite Cave"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Eberstadt Stalactite Cave is a captivating natural wonder located in Buchen, Germany, offering visitors a glimpse into the intricate beauty of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Kongressdenkmal"
 site_name: "Kongressdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Aachen, Germany"
+description: "The Kongressdenkmal, located in the historic city of Aachen, Germany, serves as a captivating monument that reflects the rich cultural and political history..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

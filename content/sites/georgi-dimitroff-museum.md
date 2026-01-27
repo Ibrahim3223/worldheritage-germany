@@ -3,7 +3,7 @@ title: "Georgi-Dimitroff-Museum"
 site_name: "Georgi-Dimitroff-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Georgi-Dimitroff-Museum in Leipzig, Germany, serves as a focal point for understanding the complex interplay of politics, culture, and society during..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

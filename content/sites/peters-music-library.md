@@ -3,7 +3,7 @@ title: "Peters Music Library"
 site_name: "Peters Music Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Peters Music Library, located in the vibrant city of Leipzig, Germany, serves as a significant cultural repository dedicated to the world of music."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

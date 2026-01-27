@@ -3,7 +3,7 @@ title: "Neue Pinakothek"
 site_name: "Neue Pinakothek"
 date: 2026-01-26
 draft: false
-description: "art museum in Munich, Germany"
+description: "The Neue Pinakothek, located in the vibrant city of Munich, Germany, is a distinguished art museum that invites visitors to explore the evolution of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

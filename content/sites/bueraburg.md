@@ -3,7 +3,7 @@ title: "Büraburg"
 site_name: "Büraburg"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Büraburg is an archaeological site located in the Fritzlar region of Germany, distinguished primarily by its castle ruins."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

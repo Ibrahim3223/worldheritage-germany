@@ -3,7 +3,7 @@ title: "Heimkehrerstein"
 site_name: "Heimkehrerstein"
 date: 2026-01-26
 draft: false
-description: "memorial stone in Radebeul, Germany"
+description: "In the heart of Radebeul, Germany, stands the Heimkehrerstein, a poignant memorial stone that resonates with the historical experiences of those it..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Landsberg Castle"
 site_name: "Landsberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Landsberg Castle, situated in the Obermoschel region of Germany, represents a significant piece of medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Hans-Böckler-Stiftung"
 site_name: "Hans-Böckler-Stiftung"
 date: 2026-01-26
 draft: false
-description: "German foundation"
+description: "The Hans-Böckler-Stiftung, located in Düsseldorf, Germany, serves as a significant foundation that plays a crucial role in the realms of labor research and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "St. Paul (Köln)"
 site_name: "St. Paul (Köln)"
 date: 2026-01-26
 draft: false
-description: "church building in Neustadt-Süd, Germany"
+description: "St. Paul in Köln, Germany, is a significant church building located in the vibrant Neustadt-Süd district."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

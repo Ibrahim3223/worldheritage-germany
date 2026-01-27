@@ -3,7 +3,7 @@ title: "Stiftunglife"
 site_name: "Stiftunglife"
 date: 2026-01-26
 draft: false
-description: "foundation in Celle, Germany"
+description: "Stiftunglife, located in the city of Celle, Germany, represents a significant foundation dedicated to preserving and promoting cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

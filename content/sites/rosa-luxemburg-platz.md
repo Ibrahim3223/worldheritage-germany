@@ -3,7 +3,7 @@ title: "Rosa-Luxemburg-Platz"
 site_name: "Rosa-Luxemburg-Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Rosa-Luxemburg-Platz, located in the vibrant Bezirk Mitte district of Berlin, serves as a significant urban square that encapsulates the city's dynamic..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

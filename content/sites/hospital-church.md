@@ -3,7 +3,7 @@ title: "Hospital church"
 site_name: "Hospital church"
 date: 2026-01-26
 draft: false
-description: "church of Hof (Saale)"
+description: "The Hospital Church, located in the charming town of Hof in Germany, stands as a significant ecclesiastical structure that reflects the rich cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

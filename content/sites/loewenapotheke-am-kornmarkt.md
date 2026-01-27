@@ -3,7 +3,7 @@ title: "Löwenapotheke am Kornmarkt"
 site_name: "Löwenapotheke am Kornmarkt"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Mühlhausen mit Brauerei, Gaststätte und Hotel"
+description: "Löwenapotheke am Kornmarkt is a notable establishment located in the heart of Mühlhausen, Thuringia, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Brewery"

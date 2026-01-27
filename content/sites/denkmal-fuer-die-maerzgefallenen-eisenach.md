@@ -3,7 +3,7 @@ title: "Denkmal für die Märzgefallenen (Eisenach)"
 site_name: "Denkmal für die Märzgefallenen (Eisenach)"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkmal für die Märzgefallenen, or the Monument for the March Fallen, is a poignant tribute to the sacrifices made during the revolutionary uprisings of..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

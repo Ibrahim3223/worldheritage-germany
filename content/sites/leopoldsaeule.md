@@ -3,7 +3,7 @@ title: "Leopoldsäule"
 site_name: "Leopoldsäule"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "The Leopoldsäule, an iconic monument located in Frankfurt am Main, Germany, serves as a landmark that encapsulates both the historical and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

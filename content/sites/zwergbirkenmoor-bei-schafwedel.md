@@ -3,7 +3,7 @@ title: "Zwergbirkenmoor bei Schafwedel"
 site_name: "Zwergbirkenmoor bei Schafwedel"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "In the heart of Lower Saxony, Germany, lies the Zwergbirkenmoor bei Schafwedel, a captivating nature reserve that flourishes as a sanctuary for diverse..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

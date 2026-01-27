@@ -3,7 +3,7 @@ title: "Heidelberger Kunstverein"
 site_name: "Heidelberger Kunstverein"
 date: 2026-01-26
 draft: false
-description: "voluntary association"
+description: "The Heidelberger Kunstverein, located in the picturesque city of Heidelberg, Germany, serves as a vibrant hub for contemporary art and cultural exchange."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

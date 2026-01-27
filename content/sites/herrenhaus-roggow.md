@@ -3,7 +3,7 @@ title: "Herrenhaus Roggow"
 site_name: "Herrenhaus Roggow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Mecklenburg-Vorpommern"
+description: "Herrenhaus Roggow is a striking manor house located in the scenic region of Rerik, Germany, within the state of Mecklenburg-Vorpommern."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

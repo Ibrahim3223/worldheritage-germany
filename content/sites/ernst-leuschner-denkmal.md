@@ -3,7 +3,7 @@ title: "Ernst-Leuschner-Denkmal"
 site_name: "Ernst-Leuschner-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Lutherstadt Eisleben, Germany"
+description: "The Ernst-Leuschner-Denkmal is a significant monument located in Lutherstadt Eisleben, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "church Behrenhoff"
 site_name: "church Behrenhoff"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the serene landscape of Behrenhoff, Germany, the church Behrenhoff stands as a significant architectural and cultural landmark."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

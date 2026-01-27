@@ -3,7 +3,7 @@ title: "Einbogenbrücke über die Pließnitz und parallel zum Bach verlaufende S
 site_name: "Einbogenbrücke über die Pließnitz und parallel zum Bach verlaufende Stützmauer Am Wehr"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Einbogenbrücke über die Pließnitz, located in the picturesque region of Bernstadt auf dem Eigen in Germany, is a bridge that exemplifies the harmonious..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

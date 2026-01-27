@@ -3,7 +3,7 @@ title: "Brünas Heide"
 site_name: "Brünas Heide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Brünas Heide, a captivating nature reserve located in Lower Saxony, Germany, is a stunning example of the region's ecological diversity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

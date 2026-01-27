@@ -3,7 +3,7 @@ title: "Lorenkenturm"
 site_name: "Lorenkenturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Lorenkenturm, a striking tower located in the heart of Dülmen, Germany, stands as a notable landmark that invites visitors to explore its historical and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

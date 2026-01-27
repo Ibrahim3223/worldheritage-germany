@@ -3,7 +3,7 @@ title: "Filzengrabentor"
 site_name: "Filzengrabentor"
 date: 2026-01-26
 draft: false
-description: "former city gate in Cologne, Germany"
+description: "Filzengrabentor, a historical city gate located in the Altstadt-Nord district of Cologne, Germany, serves as a remarkable remnant of the city's medieval..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Jägertor"
 site_name: "Jägertor"
 date: 2026-01-26
 draft: false
-description: "Potsdam city gate, former city exit leading to Jägerhof"
+description: "Jägertor, a remarkable city gate located in the heart of Potsdam, Germany, serves as a striking reminder of the city’s historical significance and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

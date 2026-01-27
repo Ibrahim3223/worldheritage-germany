@@ -3,7 +3,7 @@ title: "Pole-Poppenspäler-Museum"
 site_name: "Pole-Poppenspäler-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Husum, Germany"
+description: "The Pole-Poppenspäler-Museum, located in the charming town of Husum, Germany, is a captivating destination that celebrates the unique cultural heritage of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

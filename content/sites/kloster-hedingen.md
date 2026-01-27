@@ -3,7 +3,7 @@ title: "Kloster Hedingen"
 site_name: "Kloster Hedingen"
 date: 2026-01-26
 draft: false
-description: "church building in Baden-Württemberg, Germany"
+description: "Kloster Hedingen is a significant church building located in the serene region of Sigmaringen, nestled within the picturesque landscapes of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

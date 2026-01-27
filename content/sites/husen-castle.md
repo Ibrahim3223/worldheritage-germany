@@ -3,7 +3,7 @@ title: "Husen Castle"
 site_name: "Husen Castle"
 date: 2026-01-26
 draft: false
-description: "Medieval tower house of a castle"
+description: "Husen Castle, a medieval tower house located in Dortmund, Germany, offers a glimpse into the region's storied past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Old Botanical Garden Marburg"
 site_name: "Old Botanical Garden Marburg"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Old Botanical Garden Marburg stands as a serene oasis in the heart of Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

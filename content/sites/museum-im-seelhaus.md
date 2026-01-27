@@ -3,7 +3,7 @@ title: "Museum im Seelhaus"
 site_name: "Museum im Seelhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum im Seelhaus, located in the picturesque town of Bopfingen, Germany, invites visitors to explore a unique collection of artifacts and exhibitions that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Altes Rathaus Singen"
 site_name: "Altes Rathaus Singen"
 date: 2026-01-26
 draft: false
-description: "Kulturdenkmal im Remchinger Ortsteil Singen im Enzkreis in Baden-Württemberg"
+description: "Altes Rathaus Singen, or the Old Town Hall of Singen, is a significant municipal building located in the Enzkreis district of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Amrum Lighthouse"
 site_name: "Amrum Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Amrum, Schleswig-Holstein, Germany"
+description: "The Amrum Lighthouse, located in the charming village of Nebel, Germany, is not only an essential navigational aid but also a prominent historical landmark..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

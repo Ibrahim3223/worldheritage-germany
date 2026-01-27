@@ -3,7 +3,7 @@ title: "Garnisonkirche Oldenburg"
 site_name: "Garnisonkirche Oldenburg"
 date: 2026-01-26
 draft: false
-description: "church building in Oldenburg, Germany"
+description: "Garnisonkirche Oldenburg serves as a striking testament to the cultural and architectural heritage of Oldenburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

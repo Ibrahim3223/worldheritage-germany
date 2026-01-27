@@ -3,7 +3,7 @@ title: "Kraftwerk Hirschfelde"
 site_name: "Kraftwerk Hirschfelde"
 date: 2026-01-26
 draft: false
-description: "coal power plant"
+description: "Kraftwerk Hirschfelde is a unique museum located in the region of Zittau, Germany, dedicated to the history and significance of coal power in the area."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

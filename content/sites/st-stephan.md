@@ -3,7 +3,7 @@ title: "St. Stephan"
 site_name: "St. Stephan"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Münstereifel, Germany"
+description: "St. Stephan is a notable church building located in Bad Münstereifel, Germany, a charming town known for its historic architecture and scenic surroundings."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Klausenstein"
 site_name: "Klausenstein"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Klausenstein, a prominent mountain in Bavaria, Germany, invites adventurers and nature enthusiasts alike to explore its rugged beauty and rich cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

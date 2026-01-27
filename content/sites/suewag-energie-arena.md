@@ -3,7 +3,7 @@ title: "Süwag Energie Arena"
 site_name: "Süwag Energie Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in the Hessian city of Frankfurt am Main"
+description: "In the heart of Frankfurt am Main, the Süwag Energie Arena serves as a dynamic hub for sports and entertainment, reflecting the vibrant cultural life of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

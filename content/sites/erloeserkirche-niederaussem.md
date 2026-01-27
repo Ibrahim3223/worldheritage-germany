@@ -3,7 +3,7 @@ title: "Erlöserkirche Niederaußem"
 site_name: "Erlöserkirche Niederaußem"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Erlöserkirche Niederaußem, a notable church building located in the charming region of Bergheim, Germany, embodies a unique blend of architectural grace and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

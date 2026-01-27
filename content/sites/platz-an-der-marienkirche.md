@@ -3,7 +3,7 @@ title: "Platz an der Marienkirche"
 site_name: "Platz an der Marienkirche"
 date: 2026-01-26
 draft: false
-description: "public square in Berlin-Mitte, Germany"
+description: "Platz an der Marienkirche is a public square located in Berlin-Mitte, Germany, that serves as a vibrant focal point within the historic heart of the city."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Schloss Velen"
 site_name: "Schloss Velen"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Velen, a striking château located in the quaint town of Velen, Germany, presents a captivating glimpse into the architectural and cultural heritage..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

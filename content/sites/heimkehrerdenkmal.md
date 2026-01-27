@@ -3,7 +3,7 @@ title: "Heimkehrerdenkmal"
 site_name: "Heimkehrerdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Friedland, Germany"
+description: "The Heimkehrerdenkmal, located in Friedland, Germany, serves as a poignant monument dedicated to the returnees who settled in this area following the tumult..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

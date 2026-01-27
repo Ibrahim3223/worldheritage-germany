@@ -3,7 +3,7 @@ title: "Badersee"
 site_name: "Badersee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Badersee is a serene lake located in Germany's picturesque Grainau region, framed by the majestic Bavarian Alps."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

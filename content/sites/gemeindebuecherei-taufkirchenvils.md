@@ -3,7 +3,7 @@ title: "Gemeindebücherei Taufkirchen/Vils"
 site_name: "Gemeindebücherei Taufkirchen/Vils"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the bustling heart of Taufkirchen (Vils), Germany, lies the Gemeindebücherei Taufkirchen/Vils, a library that serves as a vital hub for the community."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

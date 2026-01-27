@@ -3,7 +3,7 @@ title: "Lessing-Denkmal"
 site_name: "Lessing-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Brunswick, Germany"
+description: "The Lessing-Denkmal, located in the heart of Brunswick, Germany, serves as a monument to the celebrated German playwright and philosopher Gotthold Ephraim..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

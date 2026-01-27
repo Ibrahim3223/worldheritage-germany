@@ -3,7 +3,7 @@ title: "Schwedenkreuz"
 site_name: "Schwedenkreuz"
 date: 2026-01-26
 draft: false
-description: "monument in Dillingen/Saar, Germany"
+description: "Schwedenkreuz, a notable monument located in Dillingen, Germany, serves as a significant cultural landmark imbued with historical resonance."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"

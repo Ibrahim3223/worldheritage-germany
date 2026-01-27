@@ -3,7 +3,7 @@ title: "Loccum Abbey"
 site_name: "Loccum Abbey"
 date: 2026-01-26
 draft: false
-description: "Lutheran monastery in Rehburg-Loccum, Germany"
+description: "Loccum Abbey, a Lutheran monastery located in Rehburg-Loccum, Germany, serves as a remarkable example of ecclesiastical heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

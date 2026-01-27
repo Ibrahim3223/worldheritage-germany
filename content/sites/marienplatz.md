@@ -3,7 +3,7 @@ title: "Marienplatz"
 site_name: "Marienplatz"
 date: 2026-01-26
 draft: false
-description: "square in Munich, Germany"
+description: "Marienplatz, located in the heart of Munich's Altstadt-Lehel district, serves as a vibrant focal point for both residents and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Jörgenberg Castle"
 site_name: "Jörgenberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Jörgenberg Castle, an impressive edifice located in the Mittenhausen region of Germany, invites visitors to explore its storied past and architectural grandeur."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

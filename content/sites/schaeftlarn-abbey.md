@@ -3,7 +3,7 @@ title: "Schäftlarn Abbey"
 site_name: "Schäftlarn Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Kloster Schäftlarn on the outskirts of Munich, Bavaria, Germany"
+description: "Schäftlarn Abbey, a serene monastery located on the outskirts of Munich, Bavaria, offers a unique glimpse into monastic life and spiritual heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Arnswalder Platz"
 site_name: "Arnswalder Platz"
 date: 2026-01-26
 draft: false
-description: "public square in Pankow, Germany"
+description: "Arnswalder Platz is a notable public square located in the Pankow district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Krankenhaus Taubenbreite"
 site_name: "Krankenhaus Taubenbreite"
 date: 2026-01-26
 draft: false
-description: "building in Quedlinburg, Germany"
+description: "Krankenhaus Taubenbreite, an architectural ensemble located in the scenic town of Quedlinburg, Germany, invites visitors to explore its historical and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

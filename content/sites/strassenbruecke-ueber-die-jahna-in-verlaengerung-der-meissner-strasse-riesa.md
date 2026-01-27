@@ -3,7 +3,7 @@ title: "Straßenbrücke über die Jahna in Verlängerung der Meißner Straße Ri
 site_name: "Straßenbrücke über die Jahna in Verlängerung der Meißner Straße Riesa"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the heart of Riesa, Germany, the Straßenbrücke über die Jahna serves not only as a crucial infrastructure piece but also as a captivating focal point for..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

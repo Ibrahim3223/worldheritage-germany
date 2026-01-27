@@ -3,7 +3,7 @@ title: "Feuchtwiesen Hörste"
 site_name: "Feuchtwiesen Hörste"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Halle, North Rhine-Westphalia, Germany"
+description: "Feuchtwiesen Hörste is a notable nature reserve located in Halle, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

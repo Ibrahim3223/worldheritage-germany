@@ -3,7 +3,7 @@ title: "Rostock Zoo"
 site_name: "Rostock Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Rostock Zoo is not just a place to observe animals; it is a sanctuary dedicated to conservation, education, and recreation."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Zoo"

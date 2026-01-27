@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Göttinger Sammlung mathematischer Modelle un
 site_name: "Georg-August-Universität: Göttinger Sammlung mathematischer Modelle und Instrumente"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Göttingen lies a unique treasure in the realm of mathematical history, the Georg-August-Universität: Göttinger Sammlung mathematischer..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

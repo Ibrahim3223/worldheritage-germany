@@ -3,7 +3,7 @@ title: "Fernmeldeturm Cottbus"
 site_name: "Fernmeldeturm Cottbus"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Cottbus, located in Cottbus, Germany, is an iconic telecommunications tower known for its distinct architectural style and its role in..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

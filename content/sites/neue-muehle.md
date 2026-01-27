@@ -3,7 +3,7 @@ title: "Neue Mühle"
 site_name: "Neue Mühle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Neue Mühle, located in Erfurt, Germany, serves as a captivating museum that invites visitors to explore the region's industrial heritage and cultural..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

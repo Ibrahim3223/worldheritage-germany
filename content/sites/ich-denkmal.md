@@ -3,7 +3,7 @@ title: "Ich-Denkmal"
 site_name: "Ich-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "In the heart of Frankfurt am Main, Germany, stands the Ich-Denkmal, a monument that invites both reflection and exploration."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

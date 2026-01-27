@@ -3,7 +3,7 @@ title: "Gertelbach-Wasserfälle"
 site_name: "Gertelbach-Wasserfälle"
 date: 2026-01-26
 draft: false
-description: "Waterfall in Germany"
+description: "The Gertelbach-Wasserfälle, located in the picturesque Bühlertal region of Germany, is a captivating waterfall that draws visitors with its enchanting..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

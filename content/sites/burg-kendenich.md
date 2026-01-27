@@ -3,7 +3,7 @@ title: "Burg Kendenich"
 site_name: "Burg Kendenich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kendenich is a captivating castle located in the serene region of Kendenich, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

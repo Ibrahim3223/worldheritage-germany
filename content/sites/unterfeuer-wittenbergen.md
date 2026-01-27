@@ -3,7 +3,7 @@ title: "Unterfeuer Wittenbergen"
 site_name: "Unterfeuer Wittenbergen"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Hamburg, Germany"
+description: "Situated along the scenic banks of the Elbe River in Hamburg, Germany, Unterfeuer Wittenbergen is a lighthouse that not only serves as a crucial..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

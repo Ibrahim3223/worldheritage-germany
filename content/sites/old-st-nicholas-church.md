@@ -3,7 +3,7 @@ title: "Old St. Nicholas church"
 site_name: "Old St. Nicholas church"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt (Frankfurt/Main), Germany"
+description: "Old St. Nicholas Church is a significant historical structure located in the heart of Frankfurt's Altstadt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

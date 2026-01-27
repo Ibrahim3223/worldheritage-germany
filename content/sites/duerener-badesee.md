@@ -3,7 +3,7 @@ title: "Dürener Badesee"
 site_name: "Dürener Badesee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dürener Badesee, a serene lake located in the Düren region of Germany, offers a tranquil escape from the hustle and bustle of daily life."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Berlin Zoological Garden"
 site_name: "Berlin Zoological Garden"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Berlin Zoological Garden, located in the heart of Bezirk Mitte, is a remarkable destination for animal enthusiasts and families alike."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Zoo"

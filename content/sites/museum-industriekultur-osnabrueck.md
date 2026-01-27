@@ -3,7 +3,7 @@ title: "Museum Industriekultur Osnabrück"
 site_name: "Museum Industriekultur Osnabrück"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Osnabrück, Germany, the Museum Industriekultur Osnabrück serves as a vital cultural institution, dedicated to preserving and showcasing the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

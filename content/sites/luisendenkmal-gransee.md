@@ -3,7 +3,7 @@ title: "Luisendenkmal (Gransee)"
 site_name: "Luisendenkmal (Gransee)"
 date: 2026-01-26
 draft: false
-description: "monument in Gransee, Germany"
+description: "The Luisendenkmal, located in the tranquil town of Gransee, Germany, is a striking monument that captures the attention of visitors with its historical and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

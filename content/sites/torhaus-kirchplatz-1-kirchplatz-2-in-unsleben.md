@@ -3,7 +3,7 @@ title: "Torhaus Kirchplatz 1; Kirchplatz 2 in Unsleben"
 site_name: "Torhaus Kirchplatz 1; Kirchplatz 2 in Unsleben"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-73-175-21 (4) in Unsleben, Bavaria"
+description: "In the charming village of Unsleben, Germany, the Torhaus Kirchplatz 1 and Kirchplatz 2 stand as notable examples of local architectural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

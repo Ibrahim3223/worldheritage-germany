@@ -3,7 +3,7 @@ title: "St. Anthony-Chapel"
 site_name: "St. Anthony-Chapel"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Anthony-Chapel, located in the historic city of Aachen, Germany, is an intriguing site that draws visitors for both its spiritual significance and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

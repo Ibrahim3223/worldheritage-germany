@@ -3,7 +3,7 @@ title: "Messeturm Köln"
 site_name: "Messeturm Köln"
 date: 2026-01-26
 draft: false
-description: "building in Cologne, Germany"
+description: "In the heart of Cologne, Germany, the Messeturm Köln rises prominently, marking its place in the city’s skyline."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

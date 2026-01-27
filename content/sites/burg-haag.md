@@ -3,7 +3,7 @@ title: "Burg Haag"
 site_name: "Burg Haag"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Haag is a captivating castle located in the scenic region of Haag in Oberbayern, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

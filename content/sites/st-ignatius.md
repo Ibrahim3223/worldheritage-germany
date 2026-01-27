@@ -3,7 +3,7 @@ title: "St. Ignatius"
 site_name: "St. Ignatius"
 date: 2026-01-26
 draft: false
-description: "church building in Frankfurt am Main, Germany"
+description: "St. Ignatius Church, located in the heart of Frankfurt, Germany, is a noteworthy church building that encapsulates the spiritual and architectural heritage..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

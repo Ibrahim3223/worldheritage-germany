@@ -3,7 +3,7 @@ title: "Bogenbrücke Oberbobritzsch"
 site_name: "Bogenbrücke Oberbobritzsch"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke Oberbobritzsch is an iconic bridge located in the tranquil region of Bobritzsch-Hilbersdorf, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

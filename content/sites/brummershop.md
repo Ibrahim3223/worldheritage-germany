@@ -3,7 +3,7 @@ title: "Brummershop"
 site_name: "Brummershop"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Brummershop, located in the picturesque region of Seggebruch in Lower Saxony, Germany, is a nature reserve that captures the essence of the area’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

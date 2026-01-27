@@ -3,7 +3,7 @@ title: "Reichsgericht building"
 site_name: "Reichsgericht building"
 date: 2026-01-26
 draft: false
-description: "courthouse in Leipzig, Germany"
+description: "In the heart of Leipzig, Germany, the Reichsgericht building stands as an impressive example of judicial architecture, embodying the complexities of law and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"

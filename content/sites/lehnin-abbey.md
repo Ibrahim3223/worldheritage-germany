@@ -3,7 +3,7 @@ title: "Lehnin Abbey"
 site_name: "Lehnin Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Lehnin Abbey, a serene monastery located in Kloster Lehnin, Germany, offers visitors a glimpse into monastic life and the historical significance of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Wasserkuppe"
 site_name: "Wasserkuppe"
 date: 2026-01-26
 draft: false
-description: "highest mountain of the Rhön Mountains in Hesse, Germany"
+description: "Wasserkuppe, the highest mountain in the Rhön Mountains of Hesse, Germany, rises to a majestic elevation, offering a unique blend of natural beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

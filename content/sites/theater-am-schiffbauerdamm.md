@@ -3,7 +3,7 @@ title: "Theater am Schiffbauerdamm"
 site_name: "Theater am Schiffbauerdamm"
 date: 2026-01-26
 draft: false
-description: "theater in the Mitte district of Berlin, Germany"
+description: "The Theater am Schiffbauerdamm stands as a prominent cultural landmark in the Mitte district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Hertie Foundation"
 site_name: "Hertie Foundation"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Frankfurt am Main, Germany"
+description: "The Hertie Foundation, a prominent nonprofit organization located in Frankfurt am Main, Germany, serves as a vital hub for initiatives aimed at addressing..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

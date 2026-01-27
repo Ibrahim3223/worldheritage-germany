@@ -3,7 +3,7 @@ title: "Burg Leiterberg"
 site_name: "Burg Leiterberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leiterberg, located in the picturesque Wangen region of Germany, is a captivating castle that invites visitors to explore its historical depths and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

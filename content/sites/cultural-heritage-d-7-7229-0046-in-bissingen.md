@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7229-0046 in Bissingen"
 site_name: "Cultural heritage D-7-7229-0046 in Bissingen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bissingen, Dillingen, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7229-0046 in Bissingen is a prominent fortification located in the charming region of Swabia, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

@@ -3,7 +3,7 @@ title: "Bürgersee"
 site_name: "Bürgersee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Bürgersee, located in the serene region of Penkun, Germany, is a tranquil lake that offers visitors a chance to connect with nature in a peaceful setting."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

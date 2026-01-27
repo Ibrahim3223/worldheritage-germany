@@ -3,7 +3,7 @@ title: "Saint Michael Church (Blessem)"
 site_name: "Saint Michael Church (Blessem)"
 date: 2026-01-26
 draft: false
-description: "church building in Erftstadt, Germany"
+description: "Saint Michael Church, located in Erftstadt, Germany, is a captivating example of ecclesiastical architecture that has stood the test of time."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

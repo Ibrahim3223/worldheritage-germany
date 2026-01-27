@@ -3,7 +3,7 @@ title: "Heimatmuseum Osterhofen"
 site_name: "Heimatmuseum Osterhofen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Osterhofen is a captivating museum located in the heart of Germany, dedicated to preserving and showcasing the rich cultural heritage of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

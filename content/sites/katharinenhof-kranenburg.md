@@ -3,7 +3,7 @@ title: "Katharinenhof Kranenburg"
 site_name: "Katharinenhof Kranenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Katharinenhof Kranenburg offers a unique portal into the cultural heritage of Kranenburg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

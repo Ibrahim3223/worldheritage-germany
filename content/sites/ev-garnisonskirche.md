@@ -3,7 +3,7 @@ title: "Ev. Garnisonskirche"
 site_name: "Ev. Garnisonskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Kassel, Germany"
+description: "The Ev. Garnisonskirche, situated in Kassel, Germany, is a notable church building that reflects the cultural and spiritual fabric of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

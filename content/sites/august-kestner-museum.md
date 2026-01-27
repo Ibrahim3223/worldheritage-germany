@@ -3,7 +3,7 @@ title: "August Kestner Museum"
 site_name: "August Kestner Museum"
 date: 2026-01-26
 draft: false
-description: "art and archaeological museum in Hanover, Germany"
+description: "In the heart of Hanover, Germany, the August Kestner Museum stands as a significant cultural repository, showcasing a diverse collection of art and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

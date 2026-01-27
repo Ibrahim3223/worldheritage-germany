@@ -3,7 +3,7 @@ title: "Gymnasium Dresden-Plauen"
 site_name: "Gymnasium Dresden-Plauen"
 date: 2026-01-26
 draft: false
-description: "secondary school in Dresden, Saxony, Germany"
+description: "Gymnasium Dresden-Plauen is an educational establishment located in the vibrant city of Dresden, Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

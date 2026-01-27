@@ -3,7 +3,7 @@ title: "Capitol Theater"
 site_name: "Capitol Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Flingern, Düsseldorf, North Rhine-Westphalia, Germany"
+description: "The Capitol Theater in Düsseldorf stands as a vibrant cultural hub in the Flingern district of North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

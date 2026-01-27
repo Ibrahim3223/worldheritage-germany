@@ -3,7 +3,7 @@ title: "Weihnachtshaus Husum"
 site_name: "Weihnachtshaus Husum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Husum, Germany, lies the Weihnachtshaus Husum, a museum dedicated to the enchanting world of Christmas."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

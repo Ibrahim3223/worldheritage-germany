@@ -3,7 +3,7 @@ title: "Dorfmuseum Münkeboe"
 site_name: "Dorfmuseum Münkeboe"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Dorfmuseum Münkeboe offers visitors a remarkable glimpse into the heritage and everyday life of a rural German community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

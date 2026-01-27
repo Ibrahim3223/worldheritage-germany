@@ -3,7 +3,7 @@ title: "Freiherr-vom-Stein-Gymnasium"
 site_name: "Freiherr-vom-Stein-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "gymnasium in Lünen, Germany"
+description: "Freiherr-vom-Stein-Gymnasium, located in Lünen, Germany, is not just an educational institution; it represents a noteworthy chapter in the region's academic..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

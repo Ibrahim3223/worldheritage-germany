@@ -3,7 +3,7 @@ title: "Museum of the Thirty Years War"
 site_name: "Museum of the Thirty Years War"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of the Thirty Years War in Wittstock/Dosse, Germany, stands as a dedicated venue to immerse visitors in one of Europe’s most tumultuous periods."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Heinrich Heine Monument"
 site_name: "Heinrich Heine Monument"
 date: 2026-01-26
 draft: false
-description: "statue by Waldemar Grzimek in Berlin, Germany"
+description: "In the heart of Berlin's Bezirk Mitte, the Heinrich Heine Monument stands as a tribute to one of Germany's most influential poets and writers."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

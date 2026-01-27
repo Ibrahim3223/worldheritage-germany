@@ -3,7 +3,7 @@ title: "Museum Herxheim"
 site_name: "Museum Herxheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Herxheim is a compelling cultural destination located in the charming municipality of Herxheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

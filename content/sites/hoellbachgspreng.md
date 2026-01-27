@@ -3,7 +3,7 @@ title: "Höllbachgspreng"
 site_name: "Höllbachgspreng"
 date: 2026-01-26
 draft: false
-description: "wooded rock massif in Bavarian Forest, Germany"
+description: "Höllbachgspreng, a captivating waterfall located in the scenic Bavarian Forest of Germany, is an enchanting natural feature that draws visitors seeking the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

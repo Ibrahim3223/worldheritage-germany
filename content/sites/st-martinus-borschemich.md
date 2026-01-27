@@ -3,7 +3,7 @@ title: "St. Martinus (Borschemich)"
 site_name: "St. Martinus (Borschemich)"
 date: 2026-01-26
 draft: false
-description: "church in North Rhine-Westphalia, Germany"
+description: "St. Martinus in Borschemich is an emblematic church building located in the region of Erkelenz, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

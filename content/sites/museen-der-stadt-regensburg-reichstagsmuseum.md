@@ -3,7 +3,7 @@ title: "Museen der Stadt Regensburg / Reichstagsmuseum"
 site_name: "Museen der Stadt Regensburg / Reichstagsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museen der Stadt Regensburg, specifically the Reichstagsmuseum, is a key cultural institution situated in the historically rich city of Regensburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

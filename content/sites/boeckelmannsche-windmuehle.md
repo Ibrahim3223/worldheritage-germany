@@ -3,7 +3,7 @@ title: "Böckelmannsche Windmühle"
 site_name: "Böckelmannsche Windmühle"
 date: 2026-01-26
 draft: false
-description: "nicht mehr existierende Windmühle im Magdeburger Stadtteil Westerhüsen"
+description: "The Böckelmannsche Windmühle, once a prominent feature of the Magdeburg landscape, was not just a functional windmill but a symbol of the industrial..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

@@ -3,7 +3,7 @@ title: "Naturzentrum Eifel"
 site_name: "Naturzentrum Eifel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Naturzentrum Eifel in Nettersheim, Germany, serves as a gateway to the natural and cultural heritage of the Eifel region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

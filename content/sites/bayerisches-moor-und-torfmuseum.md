@@ -3,7 +3,7 @@ title: "Bayerisches Moor- und Torfmuseum"
 site_name: "Bayerisches Moor- und Torfmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bayerisches Moor- und Torfmuseum, located in Übersee, Germany, is an engaging museum that delves into the unique ecosystem and cultural heritage of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

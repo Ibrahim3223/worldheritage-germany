@@ -3,7 +3,7 @@ title: "Glocken-StadtMuseum (Apolda, Germany)"
 site_name: "Glocken-StadtMuseum (Apolda, Germany)"
 date: 2026-01-26
 draft: false
-description: "museum in Apolda, Germany"
+description: "The Glocken-StadtMuseum, located in the heart of Apolda, Germany, stands as a unique cultural institution dedicated to the art and history of bell making."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

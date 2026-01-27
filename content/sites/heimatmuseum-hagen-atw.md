@@ -3,7 +3,7 @@ title: "Heimatmuseum Hagen a.T.W."
 site_name: "Heimatmuseum Hagen a.T.W."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Hagen a.T.W. is a museum located in the quaint town of Hagen am Teutoburger Wald, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

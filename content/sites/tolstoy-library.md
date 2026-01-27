@@ -3,7 +3,7 @@ title: "Tolstoy Library"
 site_name: "Tolstoy Library"
 date: 2026-01-26
 draft: false
-description: "library in Munich, Germany"
+description: "The Tolstoy Library in Munich serves as a serene oasis for bibliophiles and cultural enthusiasts alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

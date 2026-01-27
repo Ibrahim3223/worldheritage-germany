@@ -3,7 +3,7 @@ title: "Straßenbrücke über den Plohnbach Wildenau"
 site_name: "Straßenbrücke über den Plohnbach Wildenau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über den Plohnbach Wildenau is a remarkable bridge located in the Steinberg region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

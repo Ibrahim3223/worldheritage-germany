@@ -3,7 +3,7 @@ title: "Tansania-Park"
 site_name: "Tansania-Park"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "Tansania-Park, a significant monument located in the Wandsbek region of Germany, serves as a noteworthy point of interest for heritage enthusiasts and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

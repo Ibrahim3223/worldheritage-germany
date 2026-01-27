@@ -3,7 +3,7 @@ title: "Hamburg State Opera"
 site_name: "Hamburg State Opera"
 date: 2026-01-26
 draft: false
-description: "opera building in Hamburg, Germany"
+description: "The Hamburg State Opera, located in the heart of Hamburg, Germany, is a prominent cultural institution celebrated for its artistic excellence and vibrant..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

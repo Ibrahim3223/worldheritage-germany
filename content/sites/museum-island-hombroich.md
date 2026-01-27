@@ -3,7 +3,7 @@ title: "Museum Island Hombroich"
 site_name: "Museum Island Hombroich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Island Hombroich is a unique art museum located in the picturesque region of Neuss, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

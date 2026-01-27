@@ -3,7 +3,7 @@ title: "Ehrenmal Marienfeld"
 site_name: "Ehrenmal Marienfeld"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "Ehrenmal Marienfeld stands as a solemn monument in Harsewinkel, Germany, commemorating the sacrifices made during times of conflict."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

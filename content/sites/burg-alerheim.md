@@ -3,7 +3,7 @@ title: "Burg Alerheim"
 site_name: "Burg Alerheim"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Perched on the outskirts of Alerheim, Burg Alerheim stands as a captivating archaeological site that invites visitors to explore its storied past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

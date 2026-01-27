@@ -3,7 +3,7 @@ title: "St.Mary's church"
 site_name: "St.Mary's church"
 date: 2026-01-26
 draft: false
-description: "church building in Grundhof, Schleswig-Holstein state, Germany"
+description: "St. Mary's Church, located in the quaint village of Grundhof in Schleswig-Holstein, Germany, is a noteworthy example of religious architecture that draws..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

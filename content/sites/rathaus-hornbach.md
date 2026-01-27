@@ -3,7 +3,7 @@ title: "Rathaus Hornbach"
 site_name: "Rathaus Hornbach"
 date: 2026-01-26
 draft: false
-description: "town hall and former church in Hornbach"
+description: "In the charming town of Hornbach, Germany, the Rathaus Hornbach stands as an iconic structure that intertwines civic function with historical significance."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Hall"

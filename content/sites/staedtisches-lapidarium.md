@@ -3,7 +3,7 @@ title: "Städtisches Lapidarium"
 site_name: "Städtisches Lapidarium"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtisches Lapidarium is a unique museum located in Stuttgart, Germany, dedicated to the preservation and exhibition of stone monuments and fragments that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

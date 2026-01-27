@@ -3,7 +3,7 @@ title: "museum Lyonel Feininger"
 site_name: "museum Lyonel Feininger"
 date: 2026-01-26
 draft: false
-description: "museum in Quedlinburg, Germany"
+description: "The museum Lyonel Feininger in Quedlinburg, Germany, serves as a vibrant homage to the works of the German-American painter and graphic artist, Lyonel..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Stiftung Frauenkirche Dresden"
 site_name: "Stiftung Frauenkirche Dresden"
 date: 2026-01-26
 draft: false
-description: "German foundation"
+description: "In the heart of Dresden, Germany, the Stiftung Frauenkirche Dresden plays a pivotal role in preserving the legacy of one of the city’s most iconic..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"

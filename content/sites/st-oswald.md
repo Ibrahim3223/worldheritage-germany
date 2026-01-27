@@ -3,7 +3,7 @@ title: "St. Oswald"
 site_name: "St. Oswald"
 date: 2026-01-26
 draft: false
-description: "church building in Traunstein, Upper Bavaria, Germany"
+description: "St. Oswald is a striking church building located in Traunstein, Upper Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

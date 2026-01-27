@@ -3,7 +3,7 @@ title: "Fliegermuseum Bad Wörishofen"
 site_name: "Fliegermuseum Bad Wörishofen"
 date: 2026-01-26
 draft: false
-description: "aviation museum in Germany"
+description: "The Fliegermuseum Bad Wörishofen stands as a captivating tribute to aviation history, situated in the charming town of Bad Wörishofen in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kunstmuseum Ravensburg"
 site_name: "Kunstmuseum Ravensburg"
 date: 2026-01-26
 draft: false
-description: "Art museum in Ravensburg, Germany"
+description: "The Kunstmuseum Ravensburg, located in the heart of Ravensburg, Germany, serves as a vibrant cultural hub, showcasing a diverse range of contemporary art."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

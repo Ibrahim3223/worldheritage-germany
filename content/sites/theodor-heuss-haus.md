@@ -3,7 +3,7 @@ title: "Theodor-Heuss-Haus"
 site_name: "Theodor-Heuss-Haus"
 date: 2026-01-26
 draft: false
-description: "Museum in Stuttgart"
+description: "Theodor-Heuss-Haus, located in Stuttgart, Germany, serves as a notable museum dedicated to the life and legacy of Theodor Heuss, the first President of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

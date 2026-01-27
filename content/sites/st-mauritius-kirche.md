@@ -3,7 +3,7 @@ title: "St.-Mauritius-Kirche"
 site_name: "St.-Mauritius-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Mauritius-Kirche, located in the charming region of Friedeburg, Germany, serves as a notable example of ecclesiastical architecture and community heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "German Heart Research Foundation"
 site_name: "German Heart Research Foundation"
 date: 2026-01-26
 draft: false
-description: "facility in Frankfurt am Main, Germany"
+description: "The German Heart Research Foundation, located in the vibrant city of Frankfurt am Main, Germany, is a pivotal institution dedicated to advancing..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

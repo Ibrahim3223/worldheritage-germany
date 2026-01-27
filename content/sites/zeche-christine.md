@@ -3,7 +3,7 @@ title: "Zeche Christine"
 site_name: "Zeche Christine"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Christine, an important historical site located in Dortmund, Germany, is a former coal mine that played a significant role in the region's industrial..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

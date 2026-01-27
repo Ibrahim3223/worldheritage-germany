@@ -3,7 +3,7 @@ title: "Steinbach Dam"
 site_name: "Steinbach Dam"
 date: 2026-01-26
 draft: false
-description: "reservoir in Nordrhein-Westfalen, Germany"
+description: "The Steinbach Dam, located in the Euskirchen region of Nordrhein-Westfalen, Germany, is an impressive engineering feat that serves as a critical water..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

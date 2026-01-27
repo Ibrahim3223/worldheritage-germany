@@ -3,7 +3,7 @@ title: "Friedhof Marienfelde"
 site_name: "Friedhof Marienfelde"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Friedhof Marienfelde, a cemetery located in Berlin, Germany, offers visitors a unique encounter with the past while reflecting the city’s evolving..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

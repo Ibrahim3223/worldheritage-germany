@@ -3,7 +3,7 @@ title: "Nordstrand"
 site_name: "Nordstrand"
 date: 2026-01-26
 draft: false
-description: "Strand im Landkreis Aurich, Deutschland"
+description: "Nordstrand is a serene beach located in the Landkreis Aurich region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

@@ -3,7 +3,7 @@ title: "Evangelische Stadtkirche Laubach"
 site_name: "Evangelische Stadtkirche Laubach"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the charming town of Laubach, Germany, the Evangelische Stadtkirche Laubach holds a significant place in the community's cultural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

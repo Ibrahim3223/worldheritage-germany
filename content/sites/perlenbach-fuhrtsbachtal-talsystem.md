@@ -3,7 +3,7 @@ title: "Perlenbach-Fuhrtsbachtal-Talsystem"
 site_name: "Perlenbach-Fuhrtsbachtal-Talsystem"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Monschau, North Rhine-Westphalia, Germany"
+description: "The Perlenbach-Fuhrtsbachtal-Talsystem is a captivating nature reserve located in the picturesque region of Monschau, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

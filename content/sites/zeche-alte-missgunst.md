@@ -3,7 +3,7 @@ title: "Zeche Alte Mißgunst"
 site_name: "Zeche Alte Mißgunst"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Alte Mißgunst, located in the city of Bochum, Germany, is a significant site that embodies the rich industrial heritage of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

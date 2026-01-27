@@ -3,7 +3,7 @@ title: "Herford Abbey"
 site_name: "Herford Abbey"
 date: 2026-01-26
 draft: false
-description: "oldest women's religious house in the Duchy of Saxony"
+description: "Herford Abbey, the oldest women’s religious house in the Duchy of Saxony, stands as a remarkable historical and cultural site in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

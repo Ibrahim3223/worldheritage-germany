@@ -3,7 +3,7 @@ title: "Bergen-Belsen Memorial"
 site_name: "Bergen-Belsen Memorial"
 date: 2026-01-26
 draft: false
-description: "Memorial of the former concentration camp Bergen-Belsen in the Lüneburg Heath"
+description: "The Bergen-Belsen Memorial, located in the Lüneburg Heath region of Germany, serves as a solemn reminder of the atrocities committed during the Holocaust."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

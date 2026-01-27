@@ -3,7 +3,7 @@ title: "Bremer Geschichtenhaus"
 site_name: "Bremer Geschichtenhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "At the heart of Bremen's vibrant Mitte district lies the Bremer Geschichtenhaus, an engaging museum that invites visitors to delve into the rich cultural..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

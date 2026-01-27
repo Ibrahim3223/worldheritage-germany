@@ -3,7 +3,7 @@ title: "Warnemünde Lighthouse"
 site_name: "Warnemünde Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
+description: "The Warnemünde Lighthouse, a prominent maritime structure located in the picturesque town of Warnemünde, is a significant landmark on the Baltic Sea coast..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

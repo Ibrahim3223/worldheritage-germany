@@ -3,7 +3,7 @@ title: "Apollo Citharoedus"
 site_name: "Apollo Citharoedus"
 date: 2026-01-26
 draft: false
-description: "Statue in the Antikensammlung Berlin"
+description: "The Apollo Citharoedus is a remarkable ancient statue, housed in the prestigious Antikensammlung Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

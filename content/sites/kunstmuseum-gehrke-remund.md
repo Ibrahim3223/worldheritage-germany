@@ -3,7 +3,7 @@ title: "Kunstmuseum Gehrke-Remund"
 site_name: "Kunstmuseum Gehrke-Remund"
 date: 2026-01-26
 draft: false
-description: "Kunstmuseum in Baden-Baden"
+description: "The Kunstmuseum Gehrke-Remund is an essential destination for art enthusiasts and cultural explorers in Baden-Baden, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

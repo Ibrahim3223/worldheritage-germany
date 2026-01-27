@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kirche"
 site_name: "Heilig-Kreuz-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Kreuz-Kirche, located in the Oberstadt region of Germany, is a remarkable church building that encapsulates both architectural beauty and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

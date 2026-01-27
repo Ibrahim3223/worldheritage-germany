@@ -3,7 +3,7 @@ title: "Turkish Chamber"
 site_name: "Turkish Chamber"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Turkish Chamber in Dresden, Germany, serves as a dedicated museum that highlights the cultural exchanges between Turkey and Europe."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

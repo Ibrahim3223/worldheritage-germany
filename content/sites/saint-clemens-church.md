@@ -3,7 +3,7 @@ title: "Saint Clemens church"
 site_name: "Saint Clemens church"
 date: 2026-01-26
 draft: false
-description: "church on Amrum"
+description: "Saint Clemens Church, a prominent church building located on the picturesque island of Amrum in Germany's Nebel region, stands as a significant landmark for..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

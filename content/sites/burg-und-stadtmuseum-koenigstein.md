@@ -3,7 +3,7 @@ title: "Burg- und Stadtmuseum Königstein"
 site_name: "Burg- und Stadtmuseum Königstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Burg- und Stadtmuseum Königstein serves as a significant cultural institution in Germany, offering a window into the region's historical narrative and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

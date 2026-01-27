@@ -3,7 +3,7 @@ title: "Evangelische Gemeindebücherei Bad Wörishofen"
 site_name: "Evangelische Gemeindebücherei Bad Wörishofen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Evangelische Gemeindebücherei Bad Wörishofen is not just a library; it is a community hub that fosters a love for literature and knowledge in the heart..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

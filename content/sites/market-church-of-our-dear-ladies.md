@@ -3,7 +3,7 @@ title: "Market Church of Our Dear Ladies"
 site_name: "Market Church of Our Dear Ladies"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "The Market Church of Our Dear Ladies, known locally as Marktkirche Unserer Lieben Frauen, is a significant church building located in Halle (Saale),..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

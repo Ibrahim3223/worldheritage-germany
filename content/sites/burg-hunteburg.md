@@ -3,7 +3,7 @@ title: "Burg Hunteburg"
 site_name: "Burg Hunteburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hunteburg is a captivating castle located in the charming region of Hunteburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

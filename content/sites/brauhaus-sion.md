@@ -3,7 +3,7 @@ title: "Brauhaus Sion"
 site_name: "Brauhaus Sion"
 date: 2026-01-26
 draft: false
-description: "inn"
+description: "Brauhaus Sion is a prominent brewery situated in the heart of Cologne's Altstadt-Nord region, renowned for its historical significance and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"

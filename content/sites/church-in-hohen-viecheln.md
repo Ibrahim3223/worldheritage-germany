@@ -3,7 +3,7 @@ title: "Church in Hohen Viecheln"
 site_name: "Church in Hohen Viecheln"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Hohen Viecheln stands as an emblem of religious architecture and community heritage in the tranquil village of Hohen Viecheln, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

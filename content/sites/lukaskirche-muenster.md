@@ -3,7 +3,7 @@ title: "Lukaskirche (Münster)"
 site_name: "Lukaskirche (Münster)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Lukaskirche, an intriguing church building located in the heart of Münster, Germany, serves as a significant landmark reflecting the region's ecclesiastical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

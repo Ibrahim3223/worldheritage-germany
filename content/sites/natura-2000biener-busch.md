@@ -3,7 +3,7 @@ title: "Natura 2000–Biener Busch"
 site_name: "Natura 2000–Biener Busch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Located in the serene landscapes of Lower Saxony, Germany, Natura 2000–Biener Busch is a designated nature reserve that plays a crucial role in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

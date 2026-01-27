@@ -3,7 +3,7 @@ title: "An den Wurten 37"
 site_name: "An den Wurten 37"
 date: 2026-01-26
 draft: false
-description: "building in Einswarden, Lower Saxony"
+description: "An den Wurten 37, situated in the town of Einswarden in Lower Saxony, Germany, serves as an important civic center in the area of Nordenham."
 region: "Bremen"
 country: "Germany"
 heritage_type: "City Hall"

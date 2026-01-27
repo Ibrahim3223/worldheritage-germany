@@ -3,7 +3,7 @@ title: "Stuttgart-Degerloch water tower"
 site_name: "Stuttgart-Degerloch water tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Stuttgart-Degerloch water tower stands as a prominent structure in the heart of Stuttgart, Germany, capturing the essence of both functionality and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

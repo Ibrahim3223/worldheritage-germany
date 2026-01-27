@@ -3,7 +3,7 @@ title: "Hammerschmiede Gnuse"
 site_name: "Hammerschmiede Gnuse"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hammerschmiede Gnuse is a unique museum located in the serene region of Vlotho, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

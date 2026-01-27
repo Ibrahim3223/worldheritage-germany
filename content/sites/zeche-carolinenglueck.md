@@ -3,7 +3,7 @@ title: "Zeche Carolinenglück"
 site_name: "Zeche Carolinenglück"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carolinenglück, located in Bochum, Germany, represents a significant chapter in the region's industrial history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

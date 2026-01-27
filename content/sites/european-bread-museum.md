@@ -3,7 +3,7 @@ title: "European Bread Museum"
 site_name: "European Bread Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The European Bread Museum in Radolfshausen, Germany, presents an intriguing exploration of one of humanity’s oldest and most universal staples: bread."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

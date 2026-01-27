@@ -3,7 +3,7 @@ title: "Labyrinth Kindermuseum Berlin"
 site_name: "Labyrinth Kindermuseum Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Labyrinth Kindermuseum Berlin is a unique destination that offers a vibrant and interactive space dedicated to engaging children and families in playful..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Landeck Castle"
 site_name: "Landeck Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Landeck Castle, located in the scenic region of Klingenmünster, Germany, is an impressive structure that captivates visitors with its architectural grace..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

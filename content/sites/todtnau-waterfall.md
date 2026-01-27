@@ -3,7 +3,7 @@ title: "Todtnau Waterfall"
 site_name: "Todtnau Waterfall"
 date: 2026-01-26
 draft: false
-description: "waterfall in the Southern Black Forest, Germany"
+description: "The Todtnau Waterfall, a stunning natural feature located in the Southern Black Forest of Germany, captivates visitors with its cascading waters and lush..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

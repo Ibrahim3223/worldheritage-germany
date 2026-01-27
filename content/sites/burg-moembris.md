@@ -3,7 +3,7 @@ title: "Burg Mömbris"
 site_name: "Burg Mömbris"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mömbris, a striking castle located in the picturesque region of Mömbris, Germany, invites visitors to explore its storied past and architectural elegance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Schloss Otterndorf"
 site_name: "Schloss Otterndorf"
 date: 2026-01-26
 draft: false
-description: "building in Otterndorf, Germany"
+description: "Schloss Otterndorf, situated in the quaint town of Otterndorf in Germany, serves as a noteworthy example of a courthouse, offering visitors a glimpse into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Courthouse"

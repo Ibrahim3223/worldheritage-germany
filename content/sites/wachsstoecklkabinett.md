@@ -3,7 +3,7 @@ title: "Wachsstöcklkabinett"
 site_name: "Wachsstöcklkabinett"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wachsstöcklkabinett, located in Germany, invites visitors into a unique world of wax figures and cultural storytelling."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

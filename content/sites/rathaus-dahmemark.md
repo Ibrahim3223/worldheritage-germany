@@ -3,7 +3,7 @@ title: "Rathaus (Dahme/Mark)"
 site_name: "Rathaus (Dahme/Mark)"
 date: 2026-01-26
 draft: false
-description: "Gebäude im Landkreis Teltow-Fläming, Brandenburg"
+description: "The Rathaus in Dahme/Mark is an emblematic city hall situated in the Teltow-Fläming district of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

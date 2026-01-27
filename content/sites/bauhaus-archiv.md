@@ -3,7 +3,7 @@ title: "Bauhaus-Archiv"
 site_name: "Bauhaus-Archiv"
 date: 2026-01-26
 draft: false
-description: "museum and archive in Berlin"
+description: "The Bauhaus-Archiv, located in the heart of Berlin’s Bezirk Mitte, serves as a vital repository of knowledge and inspiration, dedicated to the influential..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

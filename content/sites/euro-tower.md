@@ -3,7 +3,7 @@ title: "Euro-Tower"
 site_name: "Euro-Tower"
 date: 2026-01-26
 draft: false
-description: "tower in Europa-Park Rust, Germany"
+description: "The Euro-Tower, located within Europa-Park in Rust, Germany, presents a unique blend of amusement and architectural charm that is emblematic of the park's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Bear Monument"
 site_name: "Bear Monument"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Bear Monument in Quedlinburg, Germany, is an evocative symbol of the region’s deep-rooted history and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

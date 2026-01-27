@@ -3,7 +3,7 @@ title: "Rykestrasse Synagogue"
 site_name: "Rykestrasse Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue in Berlin, Germany"
+description: "The Rykestrasse Synagogue, located in the Pankow district of Berlin, is a significant site that reflects the rich cultural and religious heritage of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Synagogue"

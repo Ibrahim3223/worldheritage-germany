@@ -3,7 +3,7 @@ title: "Mathematikum"
 site_name: "Mathematikum"
 date: 2026-01-26
 draft: false
-description: "museum in Giessen, Germany"
+description: "Mathematikum is an innovative museum located in Giessen, Germany, dedicated to the exploration and appreciation of mathematics through interactive exhibits..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

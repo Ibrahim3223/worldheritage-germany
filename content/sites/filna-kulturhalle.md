@@ -3,7 +3,7 @@ title: "Filna Kulturhalle"
 site_name: "Filna Kulturhalle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Flein, Germany"
+description: "Filna Kulturhalle is a vibrant multi-purpose hall located in the charming town of Flein, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

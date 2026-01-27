@@ -3,7 +3,7 @@ title: "Lake Schwielowsee"
 site_name: "Lake Schwielowsee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg"
+description: "Lake Schwielowsee, a picturesque body of water located in the Brandenburg region of Germany, offers an inviting escape for nature lovers and outdoor..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

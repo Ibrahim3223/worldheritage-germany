@@ -3,7 +3,7 @@ title: "Mohrenhaus"
 site_name: "Mohrenhaus"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Radebeul"
+description: "Mohrenhaus, an elegant manor house located in the charming town of Radebeul, Germany, is a striking representation of regional architecture and historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"

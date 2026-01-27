@@ -3,7 +3,7 @@ title: "Church in Mirow"
 site_name: "Church in Mirow"
 date: 2026-01-26
 draft: false
-description: "church building in Mirow, Germany"
+description: "The Church in Mirow is a striking example of ecclesiastical architecture located in the small town of Mirow, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

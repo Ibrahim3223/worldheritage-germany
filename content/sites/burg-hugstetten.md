@@ -3,7 +3,7 @@ title: "Burg Hugstetten"
 site_name: "Burg Hugstetten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hugstetten is a notable castle located in the March region of Germany, offering visitors a glimpse into the region's medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

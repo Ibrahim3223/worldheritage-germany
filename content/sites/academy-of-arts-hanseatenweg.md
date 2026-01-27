@@ -3,7 +3,7 @@ title: "Academy of Arts (Hanseatenweg)"
 site_name: "Academy of Arts (Hanseatenweg)"
 date: 2026-01-26
 draft: false
-description: "ensemble of buildings in Berlin-Hansaviertel, Germany"
+description: "The Academy of Arts (Hanseatenweg) stands as an emblem of Berlin’s vibrant cultural landscape, located in the historic Hansaviertel district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

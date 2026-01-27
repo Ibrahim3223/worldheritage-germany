@@ -3,7 +3,7 @@ title: "Mönchswalder Berg"
 site_name: "Mönchswalder Berg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Mönchswalder Berg is more than just a mountain; it is a prominent feature in the Bautzen District of Germany that draws both nature enthusiasts and those..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

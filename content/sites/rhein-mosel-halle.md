@@ -3,7 +3,7 @@ title: "Rhein-Mosel-Halle"
 site_name: "Rhein-Mosel-Halle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall and convention centre in Koblenz, Germany"
+description: "The Rhein-Mosel-Halle serves as a dynamic focal point for cultural and social events in Koblenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

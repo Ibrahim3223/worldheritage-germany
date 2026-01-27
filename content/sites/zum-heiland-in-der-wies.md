@@ -3,7 +3,7 @@ title: "Zum Heiland in der Wies"
 site_name: "Zum Heiland in der Wies"
 date: 2026-01-26
 draft: false
-description: "chapel in Niederrieden, Germany"
+description: "The charm of Niederrieden is punctuated by the serene presence of Zum Heiland in der Wies, a quaint chapel that serves as a significant cultural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

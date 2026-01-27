@@ -3,7 +3,7 @@ title: "St. Lamberti, Hildesheim"
 site_name: "St. Lamberti, Hildesheim"
 date: 2026-01-26
 draft: false
-description: "church building in Hildesheim, Germany"
+description: "St. Lamberti in Hildesheim is a remarkable church building that stands as a significant landmark within the historic city of Hildesheim, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

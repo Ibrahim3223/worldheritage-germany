@@ -3,7 +3,7 @@ title: "Naumburg Cathedral"
 site_name: "Naumburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Saxony-Anhalt, Germany"
+description: "Naumburg Cathedral, an architectural marvel located in the heart of Saxony-Anhalt, Germany, serves as a profound symbol of medieval artistry and religious..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

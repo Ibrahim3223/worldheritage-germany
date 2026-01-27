@@ -3,7 +3,7 @@ title: "Marienbasilika"
 site_name: "Marienbasilika"
 date: 2026-01-26
 draft: false
-description: "church building in Kevelaer, Germany"
+description: "Marienbasilika, a remarkable church building located in Kevelaer, Germany, serves as a focal point for both local and visiting communities."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

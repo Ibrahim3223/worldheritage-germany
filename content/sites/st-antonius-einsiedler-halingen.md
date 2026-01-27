@@ -3,7 +3,7 @@ title: "St. Antonius Einsiedler (Halingen)"
 site_name: "St. Antonius Einsiedler (Halingen)"
 date: 2026-01-26
 draft: false
-description: "church building in Menden (Sauerland), Germany"
+description: "St. Antonius Einsiedler, located in the charming town of Halingen within the Menden municipality of Sauerland, Germany, is a noteworthy church building that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

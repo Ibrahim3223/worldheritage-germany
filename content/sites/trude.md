@@ -3,7 +3,7 @@ title: "TRUDE"
 site_name: "TRUDE"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the vibrant district of Hamburg-Nord, TRUDE stands as a unique museum that captures the essence of local culture and heritage."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

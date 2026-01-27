@@ -3,7 +3,7 @@ title: "Alte Nazarethkirche (Berlin-Wedding)"
 site_name: "Alte Nazarethkirche (Berlin-Wedding)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Alte Nazarethkirche, located in the vibrant neighborhood of Berlin-Wedding, is a prominent church building that embodies the city's architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

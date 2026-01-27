@@ -3,7 +3,7 @@ title: "Sankt-Nicolai-Kirche"
 site_name: "Sankt-Nicolai-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Magdeburg, Saxony-Anhalt, Germany"
+description: "Sankt-Nicolai-Kirche, a prominent church building in Magdeburg, Saxony-Anhalt, Germany, stands as a significant landmark in the region's architectural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

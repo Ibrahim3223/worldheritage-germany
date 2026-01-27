@@ -3,7 +3,7 @@ title: "Concordia-Theater Bremen"
 site_name: "Concordia-Theater Bremen"
 date: 2026-01-26
 draft: false
-description: "theatre building in Bremen, Germany"
+description: "The Concordia-Theater Bremen is a distinguished theatre building located in the vibrant district of Schwachhausen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"

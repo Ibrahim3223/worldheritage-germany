@@ -3,7 +3,7 @@ title: "St. Nikolai"
 site_name: "St. Nikolai"
 date: 2026-01-26
 draft: false
-description: "church building in Quedlinburg, Saxony-Anhalt, Germany"
+description: "St. Nikolai stands as a significant church building in the heart of Quedlinburg, a town in Saxony-Anhalt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

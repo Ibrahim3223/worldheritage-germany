@@ -3,7 +3,7 @@ title: "Synagoge Ulmer Straße"
 site_name: "Synagoge Ulmer Straße"
 date: 2026-01-26
 draft: false
-description: "jüdischer Sakralbau in Augsburg, Bayern, Deutschland"
+description: "The Synagoge Ulmer Straße stands as a vital cultural and historical landmark in Augsburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

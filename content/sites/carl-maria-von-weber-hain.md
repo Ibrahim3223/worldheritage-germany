@@ -3,7 +3,7 @@ title: "Carl-Maria-von-Weber-Hain"
 site_name: "Carl-Maria-von-Weber-Hain"
 date: 2026-01-26
 draft: false
-description: "Monument in Eutin, Germany"
+description: "The Carl-Maria-von-Weber-Hain is an evocative monument located in Eutin, Germany, that pays homage to the renowned composer Carl Maria von Weber."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"

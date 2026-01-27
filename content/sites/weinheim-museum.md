@@ -3,7 +3,7 @@ title: "Weinheim Museum"
 site_name: "Weinheim Museum"
 date: 2026-01-26
 draft: false
-description: "Museum in Weinheim, Baden-Württemberg, Germany"
+description: "The Weinheim Museum, located in the heart of Weinheim, Baden-Württemberg, Germany, serves as a cultural hub that showcases the region's artistic and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

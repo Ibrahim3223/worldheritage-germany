@@ -3,7 +3,7 @@ title: "Altenburgsches Palais"
 site_name: "Altenburgsches Palais"
 date: 2026-01-26
 draft: false
-description: "non-preserved palace in Hanover"
+description: "Altenburgsches Palais, a significant yet non-preserved palace located in the heart of Hanover, Germany, invites visitors to explore its intriguing..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

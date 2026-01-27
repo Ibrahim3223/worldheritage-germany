@@ -3,7 +3,7 @@ title: "Anhaltisches Theater"
 site_name: "Anhaltisches Theater"
 date: 2026-01-26
 draft: false
-description: "theatre and opera house in Dessau, Germany"
+description: "The Anhaltisches Theater, an eminent theatre and opera house located in Dessau, Germany, serves as a vibrant cultural hub, captivating audiences with its..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Burg Istein"
 site_name: "Burg Istein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on a gentle elevation in the quaint region of Efringen-Kirchen, Burg Istein captures the essence of medieval architecture and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Church in Heringsdorf"
 site_name: "Church in Heringsdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Heringsdorf, Germany"
+description: "The Church in Heringsdorf, located in the picturesque seaside town of Heringsdorf, Germany, is an architectural and cultural landmark that invites visitors..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

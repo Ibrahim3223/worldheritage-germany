@@ -3,7 +3,7 @@ title: "Deutsches Baumaschinenmodellmuseum"
 site_name: "Deutsches Baumaschinenmodellmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Baumaschinenmodellmuseum, located in Germany, offers a unique glimpse into the world of construction machinery through meticulously crafted..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

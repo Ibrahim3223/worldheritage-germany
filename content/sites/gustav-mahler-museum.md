@@ -3,7 +3,7 @@ title: "Gustav Mahler Museum"
 site_name: "Gustav Mahler Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "The Gustav Mahler Museum, located in the vibrant city of Hamburg, Germany, stands as a tribute to one of the most influential composers of the late Romantic..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

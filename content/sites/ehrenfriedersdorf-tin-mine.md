@@ -3,7 +3,7 @@ title: "Ehrenfriedersdorf tin mine"
 site_name: "Ehrenfriedersdorf tin mine"
 date: 2026-01-26
 draft: false
-description: "Show mine in the town of Ehrenfriedersdorf"
+description: "The Ehrenfriedersdorf tin mine, located in the heart of Germany, provides a fascinating glimpse into the world of mining and metallurgy."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

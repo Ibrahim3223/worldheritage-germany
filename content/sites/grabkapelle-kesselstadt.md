@@ -3,7 +3,7 @@ title: "Grabkapelle Kesselstadt"
 site_name: "Grabkapelle Kesselstadt"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Deutschland"
+description: "The Grabkapelle Kesselstadt is an intriguing chapel located in Germany, inviting visitors to explore its architectural beauty and cultural significance."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"

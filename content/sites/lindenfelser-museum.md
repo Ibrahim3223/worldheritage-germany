@@ -3,7 +3,7 @@ title: "Lindenfelser Museum"
 site_name: "Lindenfelser Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Lindenfelser Museum invites visitors to explore a captivating range of exhibits that reflect the cultural heritage of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

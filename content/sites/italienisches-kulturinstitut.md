@@ -3,7 +3,7 @@ title: "Italienisches Kulturinstitut"
 site_name: "Italienisches Kulturinstitut"
 date: 2026-01-26
 draft: false
-description: "Cologne, Germany"
+description: "The Italienisches Kulturinstitut, located in the vibrant city of Cologne, Germany, serves as a cultural bridge between Italy and Germany, fostering..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"

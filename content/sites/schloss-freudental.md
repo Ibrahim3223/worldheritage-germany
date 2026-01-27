@@ -3,7 +3,7 @@ title: "Schloss Freudental"
 site_name: "Schloss Freudental"
 date: 2026-01-26
 draft: false
-description: "building in Allensbach (Germany)"
+description: "Schloss Freudental, a distinguished manor house located in Allensbach, Germany, is an architectural gem that reflects the historical and cultural essence of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

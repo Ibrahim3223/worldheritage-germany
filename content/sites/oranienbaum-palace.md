@@ -3,7 +3,7 @@ title: "Oranienbaum Palace"
 site_name: "Oranienbaum Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Oranienbaum-Wörlitz, Saxony-Anhalt, Germany"
+description: "Oranienbaum Palace, located in the picturesque region of Oranienbaum-Wörlitz in Saxony-Anhalt, Germany, is a remarkable testament to the grandeur of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

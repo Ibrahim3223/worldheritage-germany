@@ -3,7 +3,7 @@ title: "Gemeindehaus Im Annahof 6 in Augsburg"
 site_name: "Gemeindehaus Im Annahof 6 in Augsburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-61-000-1175 (1) in Augsburg, Bavaria"
+description: "In the heart of Augsburg, Germany, the Gemeindehaus Im Annahof 6 stands as a distinguished cultural heritage monument, reflecting the city’s rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

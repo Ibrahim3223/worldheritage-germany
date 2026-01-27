@@ -3,7 +3,7 @@ title: "Meteorkratermuseum"
 site_name: "Meteorkratermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Meteorkratermuseum, located in Steinheim am Albuch, Germany, offers visitors a fascinating glimpse into the geological history of our planet."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

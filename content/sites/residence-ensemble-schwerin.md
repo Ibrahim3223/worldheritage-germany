@@ -3,7 +3,7 @@ title: "Residence Ensemble Schwerin"
 site_name: "Residence Ensemble Schwerin"
 date: 2026-01-26
 draft: false
-description: "world heritage site in Schwerin, Germany"
+description: "The Residence Ensemble Schwerin, located in the charming city of Schwerin, Germany, is an architectural masterpiece that reflects the grandeur and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

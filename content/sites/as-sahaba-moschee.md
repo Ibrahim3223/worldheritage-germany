@@ -3,7 +3,7 @@ title: "As-Sahaba-Moschee"
 site_name: "As-Sahaba-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee im Berliner Ortsteil Wedding"
+description: "The As-Sahaba-Moschee in Berlin's Wedding district stands as a notable place of worship and cultural significance within the diverse tapestry of the city."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

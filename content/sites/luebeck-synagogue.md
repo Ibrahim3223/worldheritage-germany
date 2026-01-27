@@ -3,7 +3,7 @@ title: "Lübeck synagogue"
 site_name: "Lübeck synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "Lübeck, a city known for its medieval architecture and rich maritime history, is home to the Lübeck synagogue, a significant site that reflects the Jewish..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

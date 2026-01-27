@@ -3,7 +3,7 @@ title: "St. Marien"
 site_name: "St. Marien"
 date: 2026-01-26
 draft: false
-description: "church building in Friedland, Germany"
+description: "St. Marien, located in the quaint town of Friedland, Germany, is a church building that serves as a focal point for both local residents and visitors alike."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

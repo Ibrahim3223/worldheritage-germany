@@ -3,7 +3,7 @@ title: "Botanischer Garten Rombergpark"
 site_name: "Botanischer Garten Rombergpark"
 date: 2026-01-26
 draft: false
-description: "Park in North Rhine-Westphalia, Germany"
+description: "The Botanischer Garten Rombergpark is a serene botanical garden located in the vibrant city of Dortmund, in North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

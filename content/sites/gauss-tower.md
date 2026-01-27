@@ -3,7 +3,7 @@ title: "Gauss Tower"
 site_name: "Gauss Tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Gauss Tower, located in the Göttingen district of Germany, stands as an enduring symbol of the region's commitment to science and education."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "St. Peter"
 site_name: "St. Peter"
 date: 2026-01-26
 draft: false
-description: "church in Leipzig"
+description: "St. Peter Church in Leipzig stands as a significant landmark within the city’s rich ecclesiastical and cultural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

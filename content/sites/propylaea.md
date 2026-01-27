@@ -3,7 +3,7 @@ title: "Propylaea"
 site_name: "Propylaea"
 date: 2026-01-26
 draft: false
-description: "city gate in Munich, Germany"
+description: "The Propylaea, an impressive city gate located in Munich, Germany, serves as a monumental entrance to the city's vibrant history and culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

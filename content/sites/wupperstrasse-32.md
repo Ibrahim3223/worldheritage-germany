@@ -3,7 +3,7 @@ title: "Wupperstraße 32"
 site_name: "Wupperstraße 32"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Solingen, Nordrhein-Westfalen"
+description: "Wupperstraße 32, located in Solingen, Germany, serves as a significant courthouse that reflects the legal and administrative history of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Courthouse"

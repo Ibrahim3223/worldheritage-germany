@@ -3,7 +3,7 @@ title: "Ansgarkirche"
 site_name: "Ansgarkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Ansgarkirche, a notable church building located in Hamburg-Nord, Germany, offers visitors a glimpse into both spiritual life and architectural design in..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

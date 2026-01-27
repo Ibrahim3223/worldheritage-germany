@@ -3,7 +3,7 @@ title: "Augustusburg and Falkenlust Palaces"
 site_name: "Augustusburg and Falkenlust Palaces"
 date: 2026-01-26
 draft: false
-description: "complex of multiple built objects"
+description: "The Augustusburg and Falkenlust Palaces, situated in Brühl, Germany, present a striking architectural ensemble that draws visitors keen on experiencing the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

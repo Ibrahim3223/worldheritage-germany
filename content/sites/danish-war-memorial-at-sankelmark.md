@@ -3,7 +3,7 @@ title: "Danish war memorial at Sankelmark"
 site_name: "Danish war memorial at Sankelmark"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Oeversee, Schleswig-Holstein"
+description: "The Danish war memorial at Sankelmark, situated in Oeversee, Schleswig-Holstein, serves as a poignant reminder of the sacrifices made during periods of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Memorial"

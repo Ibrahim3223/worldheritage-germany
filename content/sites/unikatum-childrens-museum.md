@@ -3,7 +3,7 @@ title: "Unikatum children's museum"
 site_name: "Unikatum children's museum"
 date: 2026-01-26
 draft: false
-description: "museum in Leipzig, Germany"
+description: "In the heart of Leipzig, Germany, the Unikatum children's museum offers a unique space dedicated to sparking curiosity and imagination in young minds."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Magdeburger Roland"
 site_name: "Magdeburger Roland"
 date: 2026-01-26
 draft: false
-description: "statue in Magdeburg, Germany"
+description: "In the heart of Magdeburg, Germany, the Magdeburger Roland stands proudly as a significant historical monument."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Residence Museum"
 site_name: "Residence Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Munich's Altstadt-Lehel district lies the Residence Museum, a captivating destination for those interested in the rich history and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

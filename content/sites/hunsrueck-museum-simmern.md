@@ -3,7 +3,7 @@ title: "Hunsrück-Museum Simmern"
 site_name: "Hunsrück-Museum Simmern"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Hunsrück-Museum Simmern serves as a cultural anchor in the heart of the Hunsrück region in Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

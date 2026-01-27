@@ -3,7 +3,7 @@ title: "Naturmuseum Augsburg"
 site_name: "Naturmuseum Augsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Situated in the vibrant city of Augsburg, Germany, the Naturmuseum Augsburg serves as a hub for those curious about the natural world."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

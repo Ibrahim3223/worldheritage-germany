@@ -3,7 +3,7 @@ title: "Schlossgarten in Altdorf bei Nürnberg"
 site_name: "Schlossgarten in Altdorf bei Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "Schlossgarten in Altdorf bei Nürnberg presents a serene escape into nature, combining historical significance with botanical beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

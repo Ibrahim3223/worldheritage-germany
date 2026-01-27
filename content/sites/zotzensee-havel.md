@@ -3,7 +3,7 @@ title: "Zotzensee (Havel)"
 site_name: "Zotzensee (Havel)"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Zotzensee, located in the Mecklenburgische Seenplatte District of Germany, is an expansive lake that captivates visitors with its natural beauty and serene..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

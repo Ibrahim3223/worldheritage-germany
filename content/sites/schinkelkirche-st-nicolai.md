@@ -3,7 +3,7 @@ title: "Schinkelkirche St. Nicolai"
 site_name: "Schinkelkirche St. Nicolai"
 date: 2026-01-26
 draft: false
-description: "protestant church in Frauenwald, Thuringia, Germany"
+description: "Schinkelkirche St. Nicolai, a notable Protestant church located in Frauenwald, Thuringia, Germany, serves as both a spiritual sanctuary and a cultural landmark."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

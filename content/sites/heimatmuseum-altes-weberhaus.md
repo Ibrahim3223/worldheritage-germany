@@ -3,7 +3,7 @@ title: "Heimatmuseum - Altes Weberhaus"
 site_name: "Heimatmuseum - Altes Weberhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Sohland an der Spree, the Heimatmuseum - Altes Weberhaus serves as a window into the rich cultural heritage of this quaint German region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

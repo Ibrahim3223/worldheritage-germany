@@ -3,7 +3,7 @@ title: "Franziskanerinnenkloster Xanten (Agnetenkloster)"
 site_name: "Franziskanerinnenkloster Xanten (Agnetenkloster)"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "Franziskanerinnenkloster Xanten, also known as Agnetenkloster, is a significant monastery located in the historical town of Xanten, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

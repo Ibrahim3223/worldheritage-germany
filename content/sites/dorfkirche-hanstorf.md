@@ -3,7 +3,7 @@ title: "Dorfkirche Hanstorf"
 site_name: "Dorfkirche Hanstorf"
 date: 2026-01-26
 draft: false
-description: "church building in Satow, Mecklenburg-Vorpommern, Germany"
+description: "Dorfkirche Hanstorf is a noteworthy church building situated in the picturesque region of Satow, within Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

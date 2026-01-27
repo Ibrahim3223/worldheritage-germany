@@ -3,7 +3,7 @@ title: "Friesentor"
 site_name: "Friesentor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "Friesentor stands as a remarkable city gate located in the Altstadt-Nord region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

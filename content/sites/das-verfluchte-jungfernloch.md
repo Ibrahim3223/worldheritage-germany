@@ -3,7 +3,7 @@ title: "Das verfluchte Jungfernloch"
 site_name: "Das verfluchte Jungfernloch"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Das verfluchte Jungfernloch, a captivating cave located in Germany, invites explorers and nature enthusiasts alike to delve into its mysterious depths."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Cave"

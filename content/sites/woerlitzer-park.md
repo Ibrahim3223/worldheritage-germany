@@ -3,7 +3,7 @@ title: "Wörlitzer Park"
 site_name: "Wörlitzer Park"
 date: 2026-01-26
 draft: false
-description: "park in Oranienbaum-Wörlitz, Germany"
+description: "Wörlitzer Park, located in the charming region of Oranienbaum-Wörlitz, Germany, is a stunning example of an English garden that invites visitors to immerse..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "English Garden"

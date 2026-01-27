@@ -3,7 +3,7 @@ title: "St. Nikolai in Neuendettelsau"
 site_name: "St. Nikolai in Neuendettelsau"
 date: 2026-01-26
 draft: false
-description: "church building in Neuendettelsau, Middle Franconia, Bavaria"
+description: "St. Nikolai in Neuendettelsau, a historic church located in the heart of Middle Franconia, Bavaria, is not merely a place of worship but a significant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

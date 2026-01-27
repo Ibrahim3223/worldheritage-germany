@@ -3,7 +3,7 @@ title: "Inselmühle Norderney"
 site_name: "Inselmühle Norderney"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
+description: "Inselmühle Norderney, a striking windmill located on the island of Norderney in Germany’s Ostfriesland region, represents an important aspect of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

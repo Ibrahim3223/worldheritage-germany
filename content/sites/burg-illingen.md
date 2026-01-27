@@ -3,7 +3,7 @@ title: "Burg Illingen"
 site_name: "Burg Illingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Illingen is an intriguing castle located in the serene region of Illingen, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

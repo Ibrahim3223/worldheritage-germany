@@ -3,7 +3,7 @@ title: "Koserow church"
 site_name: "Koserow church"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Koserow Church, located in the serene region of Mecklenburg-Vorpommern in Germany, is more than just a religious structure; it is an embodiment of local..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

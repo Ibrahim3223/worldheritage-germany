@@ -3,7 +3,7 @@ title: "Church of St Peter in Chains"
 site_name: "Church of St Peter in Chains"
 date: 2026-01-26
 draft: false
-description: "roman-catholic church in Lengsdorf, Bonn, Germany"
+description: "The Church of St Peter in Chains, a Roman Catholic church located in Lengsdorf, Bonn, Germany, serves as a significant religious site within the Hardtberg..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

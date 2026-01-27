@@ -3,7 +3,7 @@ title: "Reichlin-von-Meldegg-Haus"
 site_name: "Reichlin-von-Meldegg-Haus"
 date: 2026-01-26
 draft: false
-description: "building in Überlingen/Germany"
+description: "The Reichlin-von-Meldegg-Haus in Überlingen, Germany, offers visitors a unique glimpse into the region's history and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Windmühle Brockel"
 site_name: "Windmühle Brockel"
 date: 2026-01-26
 draft: false
-description: "building in Brockel, Germany"
+description: "Windmühle Brockel is a remarkable windmill located in the quaint village of Brockel, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

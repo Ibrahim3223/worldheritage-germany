@@ -3,7 +3,7 @@ title: "Gemeindebücherei Lenggries"
 site_name: "Gemeindebücherei Lenggries"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Lenggries, Germany, the Gemeindebücherei Lenggries stands as a vital resource for the local community, fostering a love for literature and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

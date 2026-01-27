@@ -3,7 +3,7 @@ title: "Stauffenberg-Erinnerungsstätte"
 site_name: "Stauffenberg-Erinnerungsstätte"
 date: 2026-01-26
 draft: false
-description: "memorial in Stuttgart"
+description: "The Stauffenberg-Erinnerungsstätte serves as a poignant memorial located in Stuttgart, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

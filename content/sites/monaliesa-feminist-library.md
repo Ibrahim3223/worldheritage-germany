@@ -3,7 +3,7 @@ title: "MONAliesA Feminist Library"
 site_name: "MONAliesA Feminist Library"
 date: 2026-01-26
 draft: false
-description: "voluntary association"
+description: "In the vibrant city of Leipzig, Germany, the MONAliesA Feminist Library stands as a unique and vital space dedicated to feminist literature, research, and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

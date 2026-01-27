@@ -3,7 +3,7 @@ title: "Burgstall"
 site_name: "Burgstall"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-77-131-65 (0) in Gemünden am Main, Bavaria"
+description: "Burgstall in Gemünden am Main, Bavaria, represents an intriguing archaeological site that offers a fascinating glimpse into the past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

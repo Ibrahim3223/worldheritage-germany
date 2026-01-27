@@ -3,7 +3,7 @@ title: "Alte Wasserkunst"
 site_name: "Alte Wasserkunst"
 date: 2026-01-26
 draft: false
-description: "culture heritage monument in Saxony: tower in Bautzen, Germany"
+description: "The Alte Wasserkunst, a prominent cultural heritage monument located in Bautzen, Germany, captures the essence of the region's historical significance..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

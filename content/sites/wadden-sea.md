@@ -3,7 +3,7 @@ title: "Wadden Sea"
 site_name: "Wadden Sea"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany, Denmark, and the Netherlands"
+description: "The Wadden Sea, a UNESCO World Heritage Site, is an extraordinary coastal ecosystem that stretches across Germany, Denmark, and the Netherlands."
 region: "Bremen"
 country: "Germany"
 heritage_type: "World Heritage Site"

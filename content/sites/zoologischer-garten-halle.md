@@ -3,7 +3,7 @@ title: "Zoologischer Garten Halle"
 site_name: "Zoologischer Garten Halle"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "In the heart of Halle (Saale), Germany, the Zoologischer Garten Halle offers visitors an engaging glimpse into the animal kingdom."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"

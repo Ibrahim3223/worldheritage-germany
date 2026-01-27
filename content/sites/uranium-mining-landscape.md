@@ -3,7 +3,7 @@ title: "Uranium Mining Landscape"
 site_name: "Uranium Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Uranium Mining Landscape in Germany is an evocative cultural landscape that captures the complex interplay between human industry and natural surroundings."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

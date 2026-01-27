@@ -3,7 +3,7 @@ title: "Thaulow-Museum"
 site_name: "Thaulow-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thaulow-Museum, situated in the vibrant coastal city of Kiel, Germany, is a cultural institution dedicated to the appreciation of art and heritage."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

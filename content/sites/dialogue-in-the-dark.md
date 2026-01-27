@@ -3,7 +3,7 @@ title: "Dialogue in the Dark"
 site_name: "Dialogue in the Dark"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Dialogue in the Dark, located in Hamburg, Germany, offers a unique and immersive experience that challenges visitors to explore the world without the sense..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

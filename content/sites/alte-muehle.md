@@ -3,7 +3,7 @@ title: "Alte Mühle"
 site_name: "Alte Mühle"
 date: 2026-01-26
 draft: false
-description: "Gebäude-Ensemble in Hamburg, ehemals Wassermühle"
+description: "The Alte Mühle, an architectural ensemble located in the Wandsbek district of Hamburg, Germany, stands as a remarkable example of historical industrial..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

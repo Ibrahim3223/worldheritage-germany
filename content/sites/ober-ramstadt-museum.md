@@ -3,7 +3,7 @@ title: "Ober-Ramstadt museum"
 site_name: "Ober-Ramstadt museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ober-Ramstadt Museum, located in the town of Ober-Ramstadt, Germany, offers visitors a unique glimpse into the local culture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

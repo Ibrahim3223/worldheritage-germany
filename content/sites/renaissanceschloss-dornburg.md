@@ -3,7 +3,7 @@ title: "Renaissanceschloss Dornburg"
 site_name: "Renaissanceschloss Dornburg"
 date: 2026-01-26
 draft: false
-description: "palace in Dornburg, Thuringia, Germany"
+description: "Renaissanceschloss Dornburg, a distinguished palace located in the picturesque region of Dornburg-Camburg, Thuringia, Germany, offers a captivating glimpse..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"

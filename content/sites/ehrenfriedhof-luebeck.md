@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Lübeck"
 site_name: "Ehrenfriedhof Lübeck"
 date: 2026-01-26
 draft: false
-description: "cemetery in Lübeck, Germany"
+description: "Ehrenfriedhof Lübeck, a cemetery located in the historic city of Lübeck, Germany, serves as a poignant reminder of the past and an important cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

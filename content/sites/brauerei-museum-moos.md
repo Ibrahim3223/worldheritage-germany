@@ -3,7 +3,7 @@ title: "Brauerei-Museum Moos"
 site_name: "Brauerei-Museum Moos"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Brauerei-Museum Moos is more than just a museum; it is a celebration of the brewing tradition that has flourished in Germany for centuries."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

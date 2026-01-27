@@ -3,7 +3,7 @@ title: "Domherrenhaus. Historisches Museum Verden"
 site_name: "Domherrenhaus. Historisches Museum Verden"
 date: 2026-01-26
 draft: false
-description: "museum in Verden, Germany"
+description: "Domherrenhaus, a prominent museum located in the heart of Verden, Germany, serves as a vital hub for exploring the region’s rich history and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Saint Martin Church"
 site_name: "Saint Martin Church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Saint Martin Church, located in the Reinickendorf district of Berlin, Germany, is a church building that reflects the architectural and cultural nuances of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

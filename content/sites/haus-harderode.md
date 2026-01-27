@@ -3,7 +3,7 @@ title: "Haus Harderode"
 site_name: "Haus Harderode"
 date: 2026-01-26
 draft: false
-description: "Gebäudegruppe im Flecken Coppenbrügge im Landkreis Hameln-Pyrmont"
+description: "Haus Harderode is an architectural ensemble located in the charming village of Coppenbrügge, situated in the picturesque region of Hameln-Pyrmont, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

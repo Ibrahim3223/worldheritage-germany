@@ -3,7 +3,7 @@ title: "Thurner (St. Märgen)"
 site_name: "Thurner (St. Märgen)"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "Thurner, a prominent mountain pass located in Baden-Württemberg, Germany, is an inviting destination for nature enthusiasts and history buffs alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

@@ -3,7 +3,7 @@ title: "Al-Huda Mosque"
 site_name: "Al-Huda Mosque"
 date: 2026-01-26
 draft: false
-description: "Mosque in Hannover, Germany"
+description: "Al-Huda Mosque, located in Hannover, Germany, serves as a significant center for the Islamic community in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

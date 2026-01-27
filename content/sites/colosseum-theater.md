@@ -3,7 +3,7 @@ title: "Colosseum Theater"
 site_name: "Colosseum Theater"
 date: 2026-01-26
 draft: false
-description: "theater in Essen, Germany"
+description: "The Colosseum Theater in Essen, Germany, is a distinguished landmark that offers a glimpse into the vibrant cultural scene of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

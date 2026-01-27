@@ -3,7 +3,7 @@ title: "Ikonenmuseum Biedenkopf"
 site_name: "Ikonenmuseum Biedenkopf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ikonenmuseum Biedenkopf invites visitors to explore a unique collection dedicated to the art and history of icons, offering a rare insight into this..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

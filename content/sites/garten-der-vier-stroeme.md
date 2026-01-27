@@ -3,7 +3,7 @@ title: "Garten der vier Ströme"
 site_name: "Garten der vier Ströme"
 date: 2026-01-26
 draft: false
-description: "Parkanlage in Berlin"
+description: "The Garten der vier Ströme, or Garden of the Four Rivers, is a captivating park located in the vibrant city of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"

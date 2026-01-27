@@ -3,7 +3,7 @@ title: "Brauhaus Döbler"
 site_name: "Brauhaus Döbler"
 date: 2026-01-26
 draft: false
-description: "Brauerei aus Bad Windsheim, Bayern"
+description: "Brauhaus Döbler, located in the charming town of Bad Windsheim in Bavaria, Germany, is an establishment that embodies the tradition of German brewing."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

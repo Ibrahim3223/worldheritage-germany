@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude"
 site_name: "Amtsgerichtsgebäude"
 date: 2026-01-26
 draft: false
-description: "courthouse in Neuruppin, Germany"
+description: "The Amtsgerichtsgebäude, a courthouse located in Neuruppin, Germany, represents an essential piece of the local judicial architecture and civic life."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"

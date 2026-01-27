@@ -3,7 +3,7 @@ title: "former Apothecary garden of the Mohren pharmacy Torgau"
 site_name: "former Apothecary garden of the Mohren pharmacy Torgau"
 date: 2026-01-26
 draft: false
-description: "garden and garden house in Torgau in Germany"
+description: "The former Apothecary garden of the Mohren pharmacy in Torgau, Germany, offers visitors a serene and historical retreat that invites exploration into the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

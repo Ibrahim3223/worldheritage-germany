@@ -3,7 +3,7 @@ title: "Sankt-Pauli-Museum"
 site_name: "Sankt-Pauli-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sankt-Pauli-Museum in Hamburg-Mitte provides an intriguing glimpse into the vibrant history and culture of one of Germany’s most famous districts."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

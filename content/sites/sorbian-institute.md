@@ -3,7 +3,7 @@ title: "Sorbian Institute"
 site_name: "Sorbian Institute"
 date: 2026-01-26
 draft: false
-description: "archive organization in Bautzen, Germany"
+description: "The Sorbian Institute, located in the heart of Bautzen, Germany, serves as a vital cultural institution dedicated to the preservation and promotion of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

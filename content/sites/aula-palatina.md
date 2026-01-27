@@ -3,7 +3,7 @@ title: "Aula Palatina"
 site_name: "Aula Palatina"
 date: 2026-01-26
 draft: false
-description: "ecclesiastical building in Trier, Germany"
+description: "Aula Palatina, an ecclesiastical building located in the historic city of Trier, Germany, is an architectural marvel that draws visitors from around the globe."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

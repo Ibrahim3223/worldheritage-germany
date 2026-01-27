@@ -3,7 +3,7 @@ title: "Library of the Cusanusstift"
 site_name: "Library of the Cusanusstift"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of the Cusanusstift, located in the picturesque town of Bernkastel-Kues, Germany, serves as a vital repository of knowledge and culture."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Holy Blood of Wilsnack"
 site_name: "Holy Blood of Wilsnack"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Holy Blood of Wilsnack is a significant church building located in Bad Wilsnack, Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

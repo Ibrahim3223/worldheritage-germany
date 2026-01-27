@@ -3,7 +3,7 @@ title: "Fernmeldeturm Pasewalk"
 site_name: "Fernmeldeturm Pasewalk"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Pasewalk, an imposing tower located in the charming town of Pasewalk, Germany, serves as a striking landmark and a vital communications hub."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

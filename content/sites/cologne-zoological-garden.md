@@ -3,7 +3,7 @@ title: "Cologne Zoological Garden"
 site_name: "Cologne Zoological Garden"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Cologne Zoological Garden, located in the vibrant Riehl district of Germany, offers visitors an engaging experience that combines education, conservation,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

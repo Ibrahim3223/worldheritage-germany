@@ -3,7 +3,7 @@ title: "Johanneum zu Lübeck"
 site_name: "Johanneum zu Lübeck"
 date: 2026-01-26
 draft: false
-description: "school in Germany"
+description: "Johanneum zu Lübeck stands as a prominent educational establishment in the historic city of Lübeck, Germany, known for its rich heritage and dedication to..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

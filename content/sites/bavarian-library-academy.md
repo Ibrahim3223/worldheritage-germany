@@ -3,7 +3,7 @@ title: "Bavarian Library Academy"
 site_name: "Bavarian Library Academy"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Bavarian Library Academy, situated in Germany, is an essential hub for scholars, bibliophiles, and those fascinated by the world of literature and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

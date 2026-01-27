@@ -3,7 +3,7 @@ title: "Knappenrode energy museum"
 site_name: "Knappenrode energy museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Knappenrode Energy Museum in Hoyerswerda, Germany, presents a fascinating exploration into the world of energy and its evolution over time."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

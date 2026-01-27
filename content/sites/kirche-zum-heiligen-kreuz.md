@@ -3,7 +3,7 @@ title: "Kirche Zum Heiligen Kreuz"
 site_name: "Kirche Zum Heiligen Kreuz"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Wilmersdorf"
+description: "Kirche Zum Heiligen Kreuz, located in the district of Charlottenburg-Wilmersdorf in Berlin, Germany, is a church that embodies the spiritual and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

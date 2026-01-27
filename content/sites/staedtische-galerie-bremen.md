@@ -3,7 +3,7 @@ title: "Städtische Galerie Bremen"
 site_name: "Städtische Galerie Bremen"
 date: 2026-01-26
 draft: false
-description: "art museum in Bremen, Germany"
+description: "The Städtische Galerie Bremen is a prominent art museum located in the vibrant city of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

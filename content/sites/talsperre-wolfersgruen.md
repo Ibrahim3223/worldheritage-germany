@@ -3,7 +3,7 @@ title: "Talsperre Wolfersgrün"
 site_name: "Talsperre Wolfersgrün"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Talsperre Wolfersgrün, located in the Kirchberg region of Germany, is more than just a functional structure; it is an architectural landmark that plays a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

@@ -3,7 +3,7 @@ title: "Sandstone arch bridge over the Kirnitzsch Bad Schandau"
 site_name: "Sandstone arch bridge over the Kirnitzsch Bad Schandau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Sandstone Arch Bridge over the Kirnitzsch in Bad Schandau, Germany, is a striking example of engineering and natural beauty."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Burg Lichtenberg (Sachsen)"
 site_name: "Burg Lichtenberg (Sachsen)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lichtenberg, located in the picturesque region of Lichtenberg, Germany, is a striking castle that has long captured the fascination of visitors with..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Kriegerdenkmal am Bahnsdorfer Berg"
 site_name: "Kriegerdenkmal am Bahnsdorfer Berg"
 date: 2026-01-26
 draft: false
-description: "monument in Uebigau-Wahrenbrück, Germany"
+description: "The Kriegerdenkmal am Bahnsdorfer Berg is a poignant monument located in Uebigau-Wahrenbrück, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Schlossmuseum Jever"
 site_name: "Schlossmuseum Jever"
 date: 2026-01-26
 draft: false
-description: "museum in Jever, Lower Saxony, Germany (1921-)"
+description: "In the heart of Jever, Lower Saxony, the Schlossmuseum Jever presents a remarkable opportunity to explore the cultural tapestry of the region through its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

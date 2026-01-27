@@ -3,7 +3,7 @@ title: "Frankfurt Cathedral"
 site_name: "Frankfurt Cathedral"
 date: 2026-01-26
 draft: false
-description: "Gothic church located in the centre of Frankfurt am Main, Germany"
+description: "Frankfurt Cathedral, officially known as St. Bartholomew's Cathedral, is a stunning example of Gothic architecture located in the heart of Frankfurt am..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "DITIB-Zentralmoschee Köln-Chorweiler"
 site_name: "DITIB-Zentralmoschee Köln-Chorweiler"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The DITIB-Zentralmoschee Köln-Chorweiler represents an important architectural and cultural landmark in North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

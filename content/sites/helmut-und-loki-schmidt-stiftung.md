@@ -3,7 +3,7 @@ title: "Helmut und Loki Schmidt-Stiftung"
 site_name: "Helmut und Loki Schmidt-Stiftung"
 date: 2026-01-26
 draft: false
-description: "Stiftung mit Sitz in Hamburg-Langenhorn"
+description: "The Helmut und Loki Schmidt-Stiftung, located in the vibrant city of Hamburg, Germany, serves as a unique foundation dedicated to preserving the legacies of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

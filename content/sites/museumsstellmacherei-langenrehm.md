@@ -3,7 +3,7 @@ title: "Museumsstellmacherei Langenrehm"
 site_name: "Museumsstellmacherei Langenrehm"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museumsstellmacherei Langenrehm is a captivating museum situated in the Rosengarten region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

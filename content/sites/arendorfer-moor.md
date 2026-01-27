@@ -3,7 +3,7 @@ title: "Arendorfer Moor"
 site_name: "Arendorfer Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Arendorfer Moor, located in the picturesque region of Hanstedt in Lower Saxony, Germany, is a celebrated nature reserve that offers visitors a unique..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

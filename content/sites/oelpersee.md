@@ -3,7 +3,7 @@ title: "Ölpersee"
 site_name: "Ölpersee"
 date: 2026-01-26
 draft: false
-description: "lake in Braunschweig, Germany"
+description: "Ölpersee, a picturesque lake located in the Brunswick region of Germany, is an inviting escape for nature lovers and outdoor enthusiasts alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

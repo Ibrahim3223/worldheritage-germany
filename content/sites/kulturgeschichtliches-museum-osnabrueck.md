@@ -3,7 +3,7 @@ title: "Kulturgeschichtliches Museum Osnabrück"
 site_name: "Kulturgeschichtliches Museum Osnabrück"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Kulturgeschichtliches Museum Osnabrück stands as a prominent cultural institution in the heart of Osnabrück, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

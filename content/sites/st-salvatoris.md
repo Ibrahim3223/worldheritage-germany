@@ -3,7 +3,7 @@ title: "St Salvatoris"
 site_name: "St Salvatoris"
 date: 2026-01-26
 draft: false
-description: "church in Zellerfeld"
+description: "The St Salvatoris Church in Zellerfeld, Germany, is a striking ecclesiastical structure that invites visitors to explore its architectural beauty and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

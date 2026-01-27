@@ -3,7 +3,7 @@ title: "Bottmühle (Köln)"
 site_name: "Bottmühle (Köln)"
 date: 2026-01-26
 draft: false
-description: "Teil der mittelalterlichen Stadtmauer von Köln"
+description: "Bottmühle, located in the heart of Köln's Altstadt-Süd, is a remarkable remnant of the city's medieval past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

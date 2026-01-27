@@ -3,7 +3,7 @@ title: "Dorfgrund"
 site_name: "Dorfgrund"
 date: 2026-01-26
 draft: false
-description: "valley in Radebeul, Germany"
+description: "Dorfgrund, a picturesque valley located in the charming region of Radebeul, Germany, invites visitors to explore its serene landscapes and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"

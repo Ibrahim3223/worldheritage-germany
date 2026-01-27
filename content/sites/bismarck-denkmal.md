@@ -3,7 +3,7 @@ title: "Bismarck-Denkmal"
 site_name: "Bismarck-Denkmal"
 date: 2026-01-26
 draft: false
-description: "Bismarck monument in the Wuppertal district of Elberfeld"
+description: "The Bismarck-Denkmal in Wuppertal is an iconic statue that pays homage to one of Germany's most prominent historical figures, Otto von Bismarck."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

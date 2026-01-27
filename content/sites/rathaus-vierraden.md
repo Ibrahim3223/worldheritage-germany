@@ -3,7 +3,7 @@ title: "Rathaus Vierraden"
 site_name: "Rathaus Vierraden"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Schwedt/Oder, Landkreis Uckermark, Brandenburg"
+description: "Rathaus Vierraden, located in the town of Schwedt/Oder in the Brandenburg region of Germany, serves as a striking emblem of local governance and community..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

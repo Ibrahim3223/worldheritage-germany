@@ -3,7 +3,7 @@ title: "Amtsgericht Wittstock"
 site_name: "Amtsgericht Wittstock"
 date: 2026-01-26
 draft: false
-description: "court building in Wittstock, Landkreis Ostprignitz-Ruppin, Germany"
+description: "The Amtsgericht Wittstock, located in the charming town of Wittstock/Dosse in Germany, serves as the local courthouse and a significant component of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"

@@ -3,7 +3,7 @@ title: "Stiftung für Toleranz und Völkerverständigung"
 site_name: "Stiftung für Toleranz und Völkerverständigung"
 date: 2026-01-26
 draft: false
-description: "private Stiftung"
+description: "The Stiftung für Toleranz und Völkerverständigung, located in the historically rich city of Potsdam, Germany, stands out as a private foundation dedicated..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

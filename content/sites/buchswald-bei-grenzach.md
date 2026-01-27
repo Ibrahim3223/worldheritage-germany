@@ -3,7 +3,7 @@ title: "Buchswald bei Grenzach"
 site_name: "Buchswald bei Grenzach"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Buchswald bei Grenzach is a serene nature reserve located in the region of Grenzach-Wyhlen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

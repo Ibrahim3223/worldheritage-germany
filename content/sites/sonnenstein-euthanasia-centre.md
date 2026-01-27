@@ -3,7 +3,7 @@ title: "Sonnenstein Euthanasia Centre"
 site_name: "Sonnenstein Euthanasia Centre"
 date: 2026-01-26
 draft: false
-description: "Nazi killing facility at Sonnenstein Castle"
+description: "The Sonnenstein Euthanasia Centre, located within the grounds of Sonnenstein Castle in Pirna, Germany, serves as a poignant reminder of one of the darkest..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Gräbelesberg"
 site_name: "Burg Gräbelesberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gräbelesberg, an evocative castle located in Laufen an der Eyach, Germany, is a striking example of medieval architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

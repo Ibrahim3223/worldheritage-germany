@@ -3,7 +3,7 @@ title: "Weidatalsperre"
 site_name: "Weidatalsperre"
 date: 2026-01-26
 draft: false
-description: "reservoir in Germany"
+description: "The Weidatalsperre is more than just a functional dam; it is a significant reservoir located in the heart of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

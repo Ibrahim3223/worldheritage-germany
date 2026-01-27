@@ -3,7 +3,7 @@ title: "Museum im Zeughaus"
 site_name: "Museum im Zeughaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum im Zeughaus in Vechta, Germany, offers an intriguing lens into the region's historical narrative."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

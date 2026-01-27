@@ -3,7 +3,7 @@ title: "East Side Gallery"
 site_name: "East Side Gallery"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The East Side Gallery is a vibrant and evocative art museum located in the Friedrichshain-Kreuzberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

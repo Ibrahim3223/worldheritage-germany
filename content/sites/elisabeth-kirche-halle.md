@@ -3,7 +3,7 @@ title: "Elisabeth-Kirche (Halle)"
 site_name: "Elisabeth-Kirche (Halle)"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Germany"
+description: "Elisabeth-Kirche, located in Halle (Saale), Germany, serves as a remarkable example of ecclesiastical architecture and a significant cultural landmark."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

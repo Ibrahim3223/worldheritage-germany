@@ -3,7 +3,7 @@ title: "Gut Steinhof"
 site_name: "Gut Steinhof"
 date: 2026-01-26
 draft: false
-description: "museum in Braunschweig, Germany"
+description: "Gut Steinhof, a notable museum in Braunschweig, Germany, invites visitors to explore a unique blend of history and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

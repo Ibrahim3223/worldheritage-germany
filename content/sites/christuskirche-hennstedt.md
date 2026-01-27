@@ -3,7 +3,7 @@ title: "Christuskirche (Hennstedt)"
 site_name: "Christuskirche (Hennstedt)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche, located in the quaint village of Hennstedt, Germany, is a striking church building that stands as a significant landmark within the local..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

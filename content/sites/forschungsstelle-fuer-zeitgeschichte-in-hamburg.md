@@ -3,7 +3,7 @@ title: "Forschungsstelle für Zeitgeschichte in Hamburg"
 site_name: "Forschungsstelle für Zeitgeschichte in Hamburg"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "In the heart of Hamburg, the Forschungsstelle für Zeitgeschichte stands as a pivotal institution dedicated to the study and documentation of contemporary..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

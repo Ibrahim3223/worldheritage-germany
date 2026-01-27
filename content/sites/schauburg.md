@@ -3,7 +3,7 @@ title: "Schauburg"
 site_name: "Schauburg"
 date: 2026-01-26
 draft: false
-description: "arthouse cinema in Karlsruhe, Germany"
+description: "In the heart of Karlsruhe, Germany, Schauburg stands out as a premier arthouse cinema that captivates both film aficionados and casual moviegoers alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Movie Theater"

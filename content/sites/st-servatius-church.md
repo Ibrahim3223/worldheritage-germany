@@ -3,7 +3,7 @@ title: "St. Servatius church"
 site_name: "St. Servatius church"
 date: 2026-01-26
 draft: false
-description: "church in Münster, Germany"
+description: "St. Servatius Church, located in the heart of Münster, Germany, is a remarkable church building that exemplifies the architectural and cultural heritage of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

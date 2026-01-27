@@ -3,7 +3,7 @@ title: "Dorfkirche Stralau"
 site_name: "Dorfkirche Stralau"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin-Friedrichshain, Germany"
+description: "Dorfkirche Stralau, a quaint church building located in the Friedrichshain-Kreuzberg district of Berlin, offers a slice of tranquility amidst the urban hustle."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

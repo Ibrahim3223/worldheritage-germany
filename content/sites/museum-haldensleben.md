@@ -3,7 +3,7 @@ title: "Museum Haldensleben"
 site_name: "Museum Haldensleben"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Museum Haldensleben stands as a cultural institution in the town of Haldensleben, Germany, offering insights into the local heritage and history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

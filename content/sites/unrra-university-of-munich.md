@@ -3,7 +3,7 @@ title: "UNRRA University of Munich"
 site_name: "UNRRA University of Munich"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The UNRRA University of Munich is a significant educational institution located in the vibrant city of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "University"

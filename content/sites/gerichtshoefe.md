@@ -3,7 +3,7 @@ title: "Gerichtshöfe"
 site_name: "Gerichtshöfe"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Located in the Bezirk Mitte district of Germany, Gerichtshöfe is a striking architectural ensemble that captivates visitors with its unique design and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

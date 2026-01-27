@@ -3,7 +3,7 @@ title: "Lutherkapelle"
 site_name: "Lutherkapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Koblenz"
+description: "Lutherkapelle, a serene chapel located in the historic city of Koblenz, Germany, serves as a significant site for both spiritual reflection and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

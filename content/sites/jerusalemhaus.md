@@ -3,7 +3,7 @@ title: "Jerusalemhaus"
 site_name: "Jerusalemhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Jerusalemhaus is a museum located in Germany that invites visitors to explore a unique collection of artifacts and exhibitions, shedding light on cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

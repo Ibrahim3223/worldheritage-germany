@@ -3,7 +3,7 @@ title: "St. Peter und Paul, Ratingen"
 site_name: "St. Peter und Paul, Ratingen"
 date: 2026-01-26
 draft: false
-description: "church building in Ratingen, Germany"
+description: "St. Peter und Paul, located in the heart of Ratingen, Germany, is a striking church building that captures the essence of the region's architectural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Waxenstein"
 site_name: "Waxenstein"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Waxenstein is a striking mountain located in Bavaria, Germany, characterized by its impressive elevation and rugged terrain."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

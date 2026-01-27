@@ -3,7 +3,7 @@ title: "Vocational School Centre for Construction and Technology Dresden"
 site_name: "Vocational School Centre for Construction and Technology Dresden"
 date: 2026-01-26
 draft: false
-description: "vocational school in Dresden, Germany"
+description: "The Vocational School Centre for Construction and Technology Dresden is an integral part of Germany's educational landscape, specifically tailored toward..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

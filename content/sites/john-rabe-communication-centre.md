@@ -3,7 +3,7 @@ title: "John Rabe Communication Centre"
 site_name: "John Rabe Communication Centre"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The John Rabe Communication Centre, situated in the historic city of Heidelberg, Germany, offers an intriguing glimpse into the life and legacy of a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

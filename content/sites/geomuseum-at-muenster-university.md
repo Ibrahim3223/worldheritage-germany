@@ -3,7 +3,7 @@ title: "Geomuseum at Münster University"
 site_name: "Geomuseum at Münster University"
 date: 2026-01-26
 draft: false
-description: "geological museum of the University of Münster"
+description: "The Geomuseum at Münster University presents a unique exploration of geological sciences within an academic setting."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

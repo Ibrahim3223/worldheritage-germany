@@ -3,7 +3,7 @@ title: "Großer Wasserstein"
 site_name: "Großer Wasserstein"
 date: 2026-01-26
 draft: false
-description: "group of rocks in Germany"
+description: "Großer Wasserstein, located in the picturesque region of Betzenstein, Germany, is a captivating natural formation that draws visitors with its unique rock..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

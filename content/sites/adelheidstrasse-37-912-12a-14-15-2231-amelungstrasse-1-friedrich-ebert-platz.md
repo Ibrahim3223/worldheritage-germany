@@ -3,7 +3,7 @@ title: "Adelheidstraße 3–7, 9–12, 12a, 14, 15, 22–31, Amelungstraße 1, F
 site_name: "Adelheidstraße 3–7, 9–12, 12a, 14, 15, 22–31, Amelungstraße 1, Friedrich-Ebert-Platz"
 date: 2026-01-26
 draft: false
-description: "group of buildings in Quedlinburg, Germany"
+description: "In the heart of Quedlinburg, Germany, lies a captivating architectural ensemble that reflects the town's historical significance and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

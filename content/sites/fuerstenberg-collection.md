@@ -3,7 +3,7 @@ title: "Fürstenberg Collection"
 site_name: "Fürstenberg Collection"
 date: 2026-01-26
 draft: false
-description: "art collection in Donaueschingen,Germany"
+description: "The Fürstenberg Collection in Donaueschingen, Germany, offers a unique exploration of art that transcends time and style."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

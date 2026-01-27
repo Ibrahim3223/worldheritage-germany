@@ -3,7 +3,7 @@ title: "village church Nitzahn"
 site_name: "village church Nitzahn"
 date: 2026-01-26
 draft: false
-description: "listed hall church in Nitzahn, Milower Land, Brandenburg state of Germany"
+description: "The village church in Nitzahn, situated in the picturesque Milower Land region of Brandenburg, Germany, is a compelling site that encapsulates the spirit of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Norbert"
 site_name: "St. Norbert"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Garath, Germany"
+description: "St. Norbert Church in Düsseldorf-Garath is a significant architectural and cultural landmark in the vibrant city of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

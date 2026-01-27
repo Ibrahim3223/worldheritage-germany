@@ -3,7 +3,7 @@ title: "Castle Schleinitz"
 site_name: "Castle Schleinitz"
 date: 2026-01-26
 draft: false
-description: "castle in Nossen, Saxony, Germany"
+description: "Castle Schleinitz, located in the picturesque region of Nossen in Saxony, Germany, presents a captivating glimpse into the architectural and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"

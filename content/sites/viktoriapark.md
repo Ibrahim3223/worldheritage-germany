@@ -3,7 +3,7 @@ title: "Viktoriapark"
 site_name: "Viktoriapark"
 date: 2026-01-26
 draft: false
-description: "park in Berlin, Germany"
+description: "Viktoriapark serves as an inviting oasis in the heart of Berlin, Germany, offering a blend of natural beauty and urban charm."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

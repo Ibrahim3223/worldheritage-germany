@@ -3,7 +3,7 @@ title: "Ehrenfriedhof für Gefallene der Roten Armee"
 site_name: "Ehrenfriedhof für Gefallene der Roten Armee"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bernau bei Berlin, Germany"
+description: "The Ehrenfriedhof für Gefallene der Roten Armee, a cemetery located in Bernau bei Berlin, Germany, serves as a poignant memorial dedicated to the soldiers..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Borner Straße 1 (Wuppertal)"
 site_name: "Borner Straße 1 (Wuppertal)"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Located in the vibrant city of Wuppertal, Germany, Borner Straße 1 is a significant school building reflecting the region's commitment to education and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Windmühle Trebbus"
 site_name: "Windmühle Trebbus"
 date: 2026-01-26
 draft: false
-description: "Bockwindmühle bei Trebbus in der brandenburgischen Gemeinde Doberlug-Kirchhain"
+description: "Windmühle Trebbus offers visitors a unique glimpse into the engineering marvels of traditional windmills, set within the serene landscape of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

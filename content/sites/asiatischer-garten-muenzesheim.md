@@ -3,7 +3,7 @@ title: "Asiatischer Garten (Münzesheim)"
 site_name: "Asiatischer Garten (Münzesheim)"
 date: 2026-01-26
 draft: false
-description: "Asiatic garden at Münzesheim, Kraichtal, Germany"
+description: "The Asiatischer Garten in Münzesheim, located in the picturesque region of Kraichtal, Germany, is a unique botanical experience that celebrates the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

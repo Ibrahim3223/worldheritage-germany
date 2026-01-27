@@ -3,7 +3,7 @@ title: "Frankfurt city and regional library"
 site_name: "Frankfurt city and regional library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Frankfurt City and Regional Library is more than just a repository of books."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

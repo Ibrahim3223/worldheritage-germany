@@ -3,7 +3,7 @@ title: "Luisenthaler Wasserfall"
 site_name: "Luisenthaler Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "Luisenthaler Wasserfall is an enchanting waterfall located in Germany, captivating visitors with its natural beauty and tranquil surroundings."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Waterfall"

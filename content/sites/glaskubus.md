@@ -3,7 +3,7 @@ title: "Glaskubus"
 site_name: "Glaskubus"
 date: 2026-01-26
 draft: false
-description: "monument in Germany"
+description: "Glaskubus, located in the heart of Mannheim, Germany, is an intriguing monument that captures the attention of both locals and visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

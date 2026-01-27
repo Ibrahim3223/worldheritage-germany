@@ -3,7 +3,7 @@ title: "Gürzenich"
 site_name: "Gürzenich"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Germany"
+description: "The Gürzenich is a striking multi-purpose hall located in the heart of Cologne's Altstadt-Nord, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

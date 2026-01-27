@@ -3,7 +3,7 @@ title: "Michaeliskirche"
 site_name: "Michaeliskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bautzen, Germany"
+description: "Michaeliskirche, located in the historic town of Bautzen, Germany, is a significant church building that reflects the town’s rich heritage and architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

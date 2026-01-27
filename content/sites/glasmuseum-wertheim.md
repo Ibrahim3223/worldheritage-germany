@@ -3,7 +3,7 @@ title: "Glasmuseum Wertheim"
 site_name: "Glasmuseum Wertheim"
 date: 2026-01-26
 draft: false
-description: "museum in Baden-Württemberg, Germany"
+description: "Glasmuseum Wertheim, located in the charming town of Wertheim in Baden-Württemberg, Germany, is a fascinating destination for those intrigued by the art and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

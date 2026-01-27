@@ -3,7 +3,7 @@ title: "Bismarckhäuschen"
 site_name: "Bismarckhäuschen"
 date: 2026-01-26
 draft: false
-description: "Residence of Otto von Bismarck as student at Göttingen University"
+description: "Bismarckhäuschen, a historical tower located in Göttingen, Germany, serves as a remarkable reminder of the early life of Otto von Bismarck, one of the most..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Alte Burg Penzlin"
 site_name: "Alte Burg Penzlin"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg Penzlin, a captivating castle located in the quaint town of Penzlin, Germany, serves as a remarkable example of medieval architecture and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Museum „Fränkische Hopfenscheune“ in Speikern"
 site_name: "Museum „Fränkische Hopfenscheune“ in Speikern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Nestled within the quaint village of Speikern in Germany, the Museum „Fränkische Hopfenscheune” offers a fascinating glimpse into the region's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

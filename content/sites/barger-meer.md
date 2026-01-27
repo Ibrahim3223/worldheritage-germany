@@ -3,7 +3,7 @@ title: "Barger Meer"
 site_name: "Barger Meer"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Barger Meer, a serene nature reserve located in Detern, Lower Saxony, Germany, offers a tranquil escape into the heart of the German countryside."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

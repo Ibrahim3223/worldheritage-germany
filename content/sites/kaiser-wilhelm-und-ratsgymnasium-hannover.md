@@ -3,7 +3,7 @@ title: "Kaiser-Wilhelm- und Ratsgymnasium (Hannover)"
 site_name: "Kaiser-Wilhelm- und Ratsgymnasium (Hannover)"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "The Kaiser-Wilhelm- und Ratsgymnasium in Hannover embodies a blend of educational heritage and architectural significance within the vibrant region of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

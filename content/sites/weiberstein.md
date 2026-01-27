@@ -3,7 +3,7 @@ title: "Weiberstein"
 site_name: "Weiberstein"
 date: 2026-01-26
 draft: false
-description: "monument in Radebeul, Germany"
+description: "Weiberstein is a prominent monument situated in Radebeul, Germany, a town known for its picturesque landscapes and historical significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

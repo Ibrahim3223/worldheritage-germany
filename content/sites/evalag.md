@@ -3,7 +3,7 @@ title: "evalag"
 site_name: "evalag"
 date: 2026-01-26
 draft: false
-description: "Stiftung öffentlichen Rechts"
+description: "Evalag, a foundation located in the heart of Heidelberg, Germany, serves as a pivotal institution for the public benefit."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

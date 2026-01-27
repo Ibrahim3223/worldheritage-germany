@@ -3,7 +3,7 @@ title: "Quadriga of Brunswick"
 site_name: "Quadriga of Brunswick"
 date: 2026-01-26
 draft: false
-description: "statue in Brunswick, Germany"
+description: "The Quadriga of Brunswick is an iconic statue that graces the skyline of Brunswick, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Village church Großziethen"
 site_name: "Village church Großziethen"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church Großziethen, a historic church building located in the Schönefeld region of Brandenburg, Germany, captures the essence of the area's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

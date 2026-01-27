@@ -3,7 +3,7 @@ title: "Internationales Radiomuseum Hans Necker"
 site_name: "Internationales Radiomuseum Hans Necker"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Internationales Radiomuseum Hans Necker in Bad Laasphe, Germany, offers a unique lens into the evolution of radio technology and its impact on..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

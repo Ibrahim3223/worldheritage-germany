@@ -3,7 +3,7 @@ title: "St. Martin, Lorch"
 site_name: "St. Martin, Lorch"
 date: 2026-01-26
 draft: false
-description: "church building in Lorch, Germany"
+description: "St. Martin in Lorch, Germany, is a significant church building that captures the essence of the region's historical and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

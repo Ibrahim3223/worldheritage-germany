@@ -3,7 +3,7 @@ title: "Schloss Hugenpoet"
 site_name: "Schloss Hugenpoet"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Hugenpoet stands as an emblem of historical elegance in the city of Essen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

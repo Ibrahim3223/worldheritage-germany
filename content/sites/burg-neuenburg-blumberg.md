@@ -3,7 +3,7 @@ title: "Burg Neuenburg (Blumberg)"
 site_name: "Burg Neuenburg (Blumberg)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on a hilltop in Blumberg, Germany, Burg Neuenburg captivates visitors with its historical charm and architectural intrigue."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

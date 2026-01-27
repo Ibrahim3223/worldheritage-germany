@@ -3,7 +3,7 @@ title: "Schabbellhaus"
 site_name: "Schabbellhaus"
 date: 2026-01-26
 draft: false
-description: "town museum Wismar, Germany"
+description: "Schabbellhaus, located in the historic town of Wismar, Germany, serves as a museum that encapsulates the cultural heritage and history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

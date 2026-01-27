@@ -3,7 +3,7 @@ title: "Charlottenhof Palace"
 site_name: "Charlottenhof Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Sanssouci, Potsdam, Germany"
+description: "Charlottenhof Palace, situated in the historical heart of Potsdam, Germany, is a striking example of neoclassical architecture that invites visitors to..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

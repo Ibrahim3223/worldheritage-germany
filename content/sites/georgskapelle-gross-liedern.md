@@ -3,7 +3,7 @@ title: "Georgskapelle Groß Liedern"
 site_name: "Georgskapelle Groß Liedern"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "The Georgskapelle in Groß Liedern is an intriguing chapel that invites exploration and reflection."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

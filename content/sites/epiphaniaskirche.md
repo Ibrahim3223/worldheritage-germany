@@ -3,7 +3,7 @@ title: "Epiphaniaskirche"
 site_name: "Epiphaniaskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "Epiphaniaskirche is a notable church building located in the Bothfeld-Vahrenheide district of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

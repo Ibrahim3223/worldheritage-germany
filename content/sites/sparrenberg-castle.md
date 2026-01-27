@@ -3,7 +3,7 @@ title: "Sparrenberg Castle"
 site_name: "Sparrenberg Castle"
 date: 2026-01-26
 draft: false
-description: "fortification in Bielefeld, Germany"
+description: "Sparrenberg Castle, a prominent fortification in Bielefeld, Germany, invites visitors to explore its historical significance and architectural grandeur."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

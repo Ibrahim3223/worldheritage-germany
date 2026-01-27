@@ -3,7 +3,7 @@ title: "Stuttgart-Mitte"
 site_name: "Stuttgart-Mitte"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Stuttgart-Mitte, the heart of Stuttgart, Germany, offers a captivating glimpse into the historical and cultural essence of the city."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Old Town"

@@ -3,7 +3,7 @@ title: "Rathaus und Bürgerzentrum Wermelskirchen"
 site_name: "Rathaus und Bürgerzentrum Wermelskirchen"
 date: 2026-01-26
 draft: false
-description: "town hall and multi-purpose hall complex in Wermelskirchen, Germany"
+description: "The Rathaus und Bürgerzentrum Wermelskirchen is more than just a city hall; it serves as a hub for civic engagement and community events in the charming..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Hall"

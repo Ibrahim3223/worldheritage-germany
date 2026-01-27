@@ -3,7 +3,7 @@ title: "Bartholomäusfriedhof, Göttingen"
 site_name: "Bartholomäusfriedhof, Göttingen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Göttingen, Germany"
+description: "Bartholomäusfriedhof in Göttingen, Germany, serves as a poignant reminder of the deep-rooted history and cultural significance of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

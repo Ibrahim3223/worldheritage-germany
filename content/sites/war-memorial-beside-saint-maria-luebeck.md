@@ -3,7 +3,7 @@ title: "War memorial beside Saint Maria (Luebeck)"
 site_name: "War memorial beside Saint Maria (Luebeck)"
 date: 2026-01-26
 draft: false
-description: "monument in Lübeck, Germany"
+description: "In the heart of Lübeck's Old City, a poignant monument stands as a reminder of the sacrifices made during times of conflict."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

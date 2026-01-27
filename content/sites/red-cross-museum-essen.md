@@ -3,7 +3,7 @@ title: "Red Cross Museum Essen"
 site_name: "Red Cross Museum Essen"
 date: 2026-01-26
 draft: false
-description: "local Red Cross museum of German Red Cross"
+description: "The Red Cross Museum Essen, located in the heart of the vibrant city of Essen, Germany, offers an insightful exploration of the humanitarian efforts and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

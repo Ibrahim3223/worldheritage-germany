@@ -3,7 +3,7 @@ title: "Middle Elbe Biosphere Reserve"
 site_name: "Middle Elbe Biosphere Reserve"
 date: 2026-01-26
 draft: false
-description: "Biosphere Reserve in Saxony-Anhalt"
+description: "The Middle Elbe Biosphere Reserve is a dynamic and diverse ecosystem located in the heart of Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Biosphere Reserve"

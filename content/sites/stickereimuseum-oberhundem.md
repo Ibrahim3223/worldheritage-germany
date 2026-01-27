@@ -3,7 +3,7 @@ title: "Stickereimuseum Oberhundem"
 site_name: "Stickereimuseum Oberhundem"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stickereimuseum Oberhundem is a captivating destination located in Kirchhundem, Germany, dedicated to the art and craft of embroidery."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Pfersag-Wasserfall"
 site_name: "Pfersag-Wasserfall"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "The Pfersag-Wasserfall is a captivating waterfall located in Burgkunstadt, Germany, offering visitors a serene escape into nature's beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

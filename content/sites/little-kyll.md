@@ -3,7 +3,7 @@ title: "Little Kyll"
 site_name: "Little Kyll"
 date: 2026-01-26
 draft: false
-description: "river in Germany"
+description: "Little Kyll is a captivating waterfall located in the Rhineland-Palatinate region of Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Waterfall"

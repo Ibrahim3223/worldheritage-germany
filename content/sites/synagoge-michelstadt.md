@@ -3,7 +3,7 @@ title: "Synagoge Michelstadt"
 site_name: "Synagoge Michelstadt"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "In the picturesque town of Michelstadt, Germany, the Synagoge Michelstadt stands as a historic and cultural landmark that reflects the rich Jewish heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

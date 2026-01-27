@@ -3,7 +3,7 @@ title: "Industriemuseum Geschichtswerkstatt Herrenwyk"
 site_name: "Industriemuseum Geschichtswerkstatt Herrenwyk"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Lübeck, Germany, the Industriemuseum Geschichtswerkstatt Herrenwyk stands as an engaging exploration of the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

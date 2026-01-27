@@ -3,7 +3,7 @@ title: "Marientor"
 site_name: "Marientor"
 date: 2026-01-26
 draft: false
-description: "city gate in Naumburg, Germany"
+description: "Marientor, a striking city gate located in Naumburg, Germany, serves as an important symbol of the region's historical and architectural heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "City Gate"

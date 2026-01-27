@@ -3,7 +3,7 @@ title: "Burg Hohenlupfen"
 site_name: "Burg Hohenlupfen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenlupfen, a striking castle located in the Talheim region of Germany, invites visitors to explore its historical significance and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "St. Dionysius (Seppenrade)"
 site_name: "St. Dionysius (Seppenrade)"
 date: 2026-01-26
 draft: false
-description: "church building in Lüdinghausen, Germany"
+description: "In the heart of Lüdinghausen, Germany, lies the St. Dionysius Church, a remarkable example of ecclesiastical architecture that has stood the test of time."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

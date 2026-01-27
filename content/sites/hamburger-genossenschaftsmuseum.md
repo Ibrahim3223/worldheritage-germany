@@ -3,7 +3,7 @@ title: "Hamburger Genossenschaftsmuseum"
 site_name: "Hamburger Genossenschaftsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Situated in the vibrant region of Besenbinderhof, the Hamburger Genossenschaftsmuseum serves as a captivating destination for those interested in the unique..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

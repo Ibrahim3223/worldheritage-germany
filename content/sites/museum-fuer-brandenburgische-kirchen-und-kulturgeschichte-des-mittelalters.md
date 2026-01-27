@@ -3,7 +3,7 @@ title: "Museum für Brandenburgische Kirchen- und Kulturgeschichte des Mittelalt
 site_name: "Museum für Brandenburgische Kirchen- und Kulturgeschichte des Mittelalters"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Brandenburgische Kirchen- und Kulturgeschichte des Mittelalters, located in the quaint town of Ziesar, Germany, invites visitors into a world..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

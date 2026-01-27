@@ -3,7 +3,7 @@ title: "Semper Gallery"
 site_name: "Semper Gallery"
 date: 2026-01-26
 draft: false
-description: "museumsbuilding in Dresden"
+description: "The Semper Gallery, located in the heart of Dresden, Germany, is a distinguished art museum that offers visitors a captivating glimpse into the world of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

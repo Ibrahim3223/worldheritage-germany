@@ -3,7 +3,7 @@ title: "Apels Teich"
 site_name: "Apels Teich"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Hövelhof, North Rhine-Westphalia, Germany"
+description: "Apels Teich is a captivating nature reserve located in Hövelhof, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

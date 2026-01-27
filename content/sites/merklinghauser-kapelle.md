@@ -3,7 +3,7 @@ title: "Merklinghauser Kapelle"
 site_name: "Merklinghauser Kapelle"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "The Merklinghauser Kapelle, a quaint chapel located in Hallenberg, Germany, offers visitors a serene retreat into the heart of the country's cultural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

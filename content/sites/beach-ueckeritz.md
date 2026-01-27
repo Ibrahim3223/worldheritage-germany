@@ -3,7 +3,7 @@ title: "Beach Ückeritz"
 site_name: "Beach Ückeritz"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Beach Ückeritz, located on the picturesque Baltic Sea coast of Germany, is a destination that embodies the allure of coastal relaxation and natural beauty."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

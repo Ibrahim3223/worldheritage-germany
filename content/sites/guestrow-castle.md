@@ -3,7 +3,7 @@ title: "Güstrow Castle"
 site_name: "Güstrow Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Güstrow, Germany"
+description: "Güstrow Castle, a prominent historical landmark located in the heart of Güstrow, Germany, invites visitors to explore its storied past and architectural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

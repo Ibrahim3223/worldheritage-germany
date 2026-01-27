@@ -3,7 +3,7 @@ title: "Hohler Fels"
 site_name: "Hohler Fels"
 date: 2026-01-26
 draft: false
-description: "cave in Landkreis Nürnberger Land in Bavaria"
+description: "Hohler Fels, a remarkable cave located in the Landkreis Nürnberger Land of Bavaria, Germany, offers a glimpse into the natural beauty and geological wonders..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

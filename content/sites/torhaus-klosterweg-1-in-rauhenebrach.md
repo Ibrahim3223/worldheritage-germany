@@ -3,7 +3,7 @@ title: "Torhaus Klosterweg 1 in Rauhenebrach"
 site_name: "Torhaus Klosterweg 1 in Rauhenebrach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-74-187-26 (2) in Rauhenebrach, Bavaria"
+description: "In the tranquil region of Rauhenebrach, Germany, the Torhaus Klosterweg 1 stands as a significant cultural heritage monument, drawing visitors who..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

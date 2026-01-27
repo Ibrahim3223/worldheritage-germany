@@ -3,7 +3,7 @@ title: "Burg Großstadelhofen"
 site_name: "Burg Großstadelhofen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Großstadelhofen is a striking castle situated in the charming region of Großstadelhofen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

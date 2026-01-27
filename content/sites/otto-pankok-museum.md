@@ -3,7 +3,7 @@ title: "Otto Pankok Museum"
 site_name: "Otto Pankok Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hünxe, Germany"
+description: "The Otto Pankok Museum, located in Hünxe, Germany, is a unique cultural destination that showcases the works of the notable German painter and graphic..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

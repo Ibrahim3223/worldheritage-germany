@@ -3,7 +3,7 @@ title: "Aalkistensee"
 site_name: "Aalkistensee"
 date: 2026-01-26
 draft: false
-description: "lake in Baden-Württemberg, Germany"
+description: "Aalkistensee, located in the serene region of Maulbronn in Baden-Württemberg, Germany, is a tranquil lake that invites visitors into its peaceful embrace."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

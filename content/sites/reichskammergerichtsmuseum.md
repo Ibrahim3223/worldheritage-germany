@@ -3,7 +3,7 @@ title: "Reichskammergerichtsmuseum"
 site_name: "Reichskammergerichtsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Wetzlar"
+description: "The Reichskammergerichtsmuseum, situated in the city of Wetzlar, Germany, is a significant cultural institution that offers visitors an insightful glimpse..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

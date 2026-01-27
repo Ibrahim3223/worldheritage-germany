@@ -3,7 +3,7 @@ title: "Heimatmuseum Wiggensbach"
 site_name: "Heimatmuseum Wiggensbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Wiggensbach serves as a cultural repository situated in the heart of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

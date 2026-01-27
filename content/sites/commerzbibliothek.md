@@ -3,7 +3,7 @@ title: "Commerzbibliothek"
 site_name: "Commerzbibliothek"
 date: 2026-01-26
 draft: false
-description: "business library"
+description: "In the vibrant city of Hamburg, Germany, the Commerzbibliothek serves as a pivotal institution dedicated to business literature and research."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Library"

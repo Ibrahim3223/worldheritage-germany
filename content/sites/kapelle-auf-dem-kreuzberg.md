@@ -3,7 +3,7 @@ title: "Kapelle auf dem Kreuzberg"
 site_name: "Kapelle auf dem Kreuzberg"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Hallenberg"
+description: "Kapelle auf dem Kreuzberg is a charming chapel located in Hallenberg, Germany, that represents a unique blend of spiritual significance and local heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

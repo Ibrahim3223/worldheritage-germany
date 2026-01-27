@@ -3,7 +3,7 @@ title: "Korbmachermuseum Beiseförth"
 site_name: "Korbmachermuseum Beiseförth"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Korbmachermuseum Beiseförth offers a unique glimpse into the traditional craft of basket weaving, a practice that has been intricately woven into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

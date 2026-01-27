@@ -3,7 +3,7 @@ title: "Kirche am Südstern"
 site_name: "Kirche am Südstern"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "In the heart of Berlin's Friedrichshain-Kreuzberg district stands the Kirche am Südstern, a church building that represents the enduring spirit of the local..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

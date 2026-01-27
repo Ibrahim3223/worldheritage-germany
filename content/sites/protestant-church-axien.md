@@ -3,7 +3,7 @@ title: "Protestant church Axien"
 site_name: "Protestant church Axien"
 date: 2026-01-26
 draft: false
-description: "church building in Saxony-Anhalt, Germany"
+description: "The Protestant Church of Axien is a remarkable church building located in the heart of Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Garten Christoph-von-Schmid-Straße 9 in Augsburg"
 site_name: "Garten Christoph-von-Schmid-Straße 9 in Augsburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-61-000-1156 (1) in Augsburg, Bavaria"
+description: "Garten Christoph-von-Schmid-Straße 9 in Augsburg is a cultural heritage monument that captures the essence of the city's historical landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

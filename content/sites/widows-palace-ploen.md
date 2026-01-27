@@ -3,7 +3,7 @@ title: "Widow's Palace, Plön"
 site_name: "Widow's Palace, Plön"
 date: 2026-01-26
 draft: false
-description: "Castle in Plön, Schleswig-Holstein"
+description: "The Widow's Palace, located in the charming town of Plön in Schleswig-Holstein, Germany, is an intriguing structure that encapsulates the region's rich..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Palace"

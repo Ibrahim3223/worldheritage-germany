@@ -3,7 +3,7 @@ title: "Vonderau Museum"
 site_name: "Vonderau Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Vonderau Museum is a prominent cultural establishment located in the city of Fulda, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

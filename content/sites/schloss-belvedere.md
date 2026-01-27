@@ -3,7 +3,7 @@ title: "Schloss Belvedere"
 site_name: "Schloss Belvedere"
 date: 2026-01-26
 draft: false
-description: "palace and garden ensemble in Weimar, Germany"
+description: "Schloss Belvedere is a stunning palace and garden ensemble located in Weimar, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"

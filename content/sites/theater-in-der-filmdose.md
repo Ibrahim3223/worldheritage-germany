@@ -3,7 +3,7 @@ title: "Theater in der Filmdose"
 site_name: "Theater in der Filmdose"
 date: 2026-01-26
 draft: false
-description: "Theater in Köln, Deutschland"
+description: "The Theater in der Filmdose stands as a vibrant cultural hub in the Neustadt-Süd district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

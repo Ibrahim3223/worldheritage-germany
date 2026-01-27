@@ -3,7 +3,7 @@ title: "Glasmuseum im Freizeithaus"
 site_name: "Glasmuseum im Freizeithaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmuseum im Freizeithaus is a unique destination for those intrigued by the delicate art and craftsmanship of glassmaking."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

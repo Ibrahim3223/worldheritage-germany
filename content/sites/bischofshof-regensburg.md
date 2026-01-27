@@ -3,7 +3,7 @@ title: "Bischofshof Regensburg"
 site_name: "Bischofshof Regensburg"
 date: 2026-01-26
 draft: false
-description: "brewery in Regensburg, Germany"
+description: "Bischofshof Regensburg represents a significant chapter in the story of German brewing, combining a rich heritage with a vibrant contemporary culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

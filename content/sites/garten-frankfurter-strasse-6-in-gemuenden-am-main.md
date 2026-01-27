@@ -3,7 +3,7 @@ title: "Garten Frankfurter Straße 6 in Gemünden am Main"
 site_name: "Garten Frankfurter Straße 6 in Gemünden am Main"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-77-131-9 (2) in Gemünden am Main, Bavaria"
+description: "Garten Frankfurter Straße 6 in Gemünden am Main is a cultural heritage monument, representing a unique slice of Bavarian history and landscape design."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

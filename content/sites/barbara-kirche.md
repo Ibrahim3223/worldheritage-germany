@@ -3,7 +3,7 @@ title: "Barbara-Kirche"
 site_name: "Barbara-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Barbara-Kirche, located in the serene region of Großefehn, Germany, is a notable church building that attracts visitors with its unique architectural style..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Maria-Himmelfahrt-Kirche"
 site_name: "Maria-Himmelfahrt-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Maria-Himmelfahrt-Kirche, a charming church building located in Schönau im Schwarzwald, Germany, serves as both a spiritual sanctuary and a cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

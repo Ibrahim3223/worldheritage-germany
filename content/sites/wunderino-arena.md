@@ -3,7 +3,7 @@ title: "Wunderino Arena"
 site_name: "Wunderino Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Kiel, Germany"
+description: "Wunderino Arena, located in the vibrant city of Kiel, Germany, serves as a dynamic multi-purpose hall that attracts a diverse array of events and gatherings."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

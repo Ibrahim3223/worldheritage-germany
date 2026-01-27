@@ -3,7 +3,7 @@ title: "Burg Marquartstein"
 site_name: "Burg Marquartstein"
 date: 2026-01-26
 draft: false
-description: "castle in Upper Bavaria, Germany"
+description: "Burg Marquartstein, a captivating castle located in Upper Bavaria, Germany, invites visitors into a world of medieval history and architectural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

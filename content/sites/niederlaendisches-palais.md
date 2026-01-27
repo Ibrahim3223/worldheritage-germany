@@ -3,7 +3,7 @@ title: "Niederländisches Palais"
 site_name: "Niederländisches Palais"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Berlin"
+description: "The Niederländisches Palais, located in the heart of Berlin's Bezirk Mitte, is a remarkable example of European palace architecture."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

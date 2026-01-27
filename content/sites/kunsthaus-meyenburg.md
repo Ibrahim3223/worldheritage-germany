@@ -3,7 +3,7 @@ title: "Kunsthaus Meyenburg"
 site_name: "Kunsthaus Meyenburg"
 date: 2026-01-26
 draft: false
-description: "art museum in Nordhausen, Germany"
+description: "Kunsthaus Meyenburg, situated in Nordhausen, Germany, serves as a prominent hub for art enthusiasts and cultural explorers alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

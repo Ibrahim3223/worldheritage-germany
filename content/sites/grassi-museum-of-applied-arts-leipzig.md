@@ -3,7 +3,7 @@ title: "GRASSI Museum of Applied Arts Leipzig"
 site_name: "GRASSI Museum of Applied Arts Leipzig"
 date: 2026-01-26
 draft: false
-description: "museum of decorative arts in Leipzig, Saxony, Germany"
+description: "The GRASSI Museum of Applied Arts in Leipzig stands as a remarkable institution dedicated to the world of decorative arts."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

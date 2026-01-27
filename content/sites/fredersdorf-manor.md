@@ -3,7 +3,7 @@ title: "Fredersdorf Manor"
 site_name: "Fredersdorf Manor"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Bad Belzig, Landkreis Potsdam-Mittelmark, Brandenburg"
+description: "Fredersdorf Manor, an elegant Herrenhaus located in Bad Belzig, Brandenburg, embodies the charm and historical depth of German manor houses."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

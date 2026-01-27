@@ -3,7 +3,7 @@ title: "Bartholomäusturm"
 site_name: "Bartholomäusturm"
 date: 2026-01-26
 draft: false
-description: "church building in Erfurt, Germany"
+description: "Bartholomäusturm, a prominent tower located in the heart of Erfurt, Germany, serves as a remarkable landmark that reflects the historical and cultural..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Tower"

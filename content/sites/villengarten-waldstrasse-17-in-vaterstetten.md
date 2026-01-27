@@ -3,7 +3,7 @@ title: "Villengarten Waldstraße 17 in Vaterstetten"
 site_name: "Villengarten Waldstraße 17 in Vaterstetten"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-75-132-11 (3) in Vaterstetten, Bavaria"
+description: "Villengarten Waldstraße 17 in Vaterstetten is a significant cultural heritage monument in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

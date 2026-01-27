@@ -3,7 +3,7 @@ title: "Glasmuseum Bad Driburg"
 site_name: "Glasmuseum Bad Driburg"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Driburg, Germany"
+description: "The Glasmuseum Bad Driburg is a remarkable destination that invites visitors to explore the intricate world of glass artistry and craftsmanship."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

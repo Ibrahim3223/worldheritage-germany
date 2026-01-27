@@ -3,7 +3,7 @@ title: "St. Marien am Behnitz"
 site_name: "St. Marien am Behnitz"
 date: 2026-01-26
 draft: false
-description: "church building in Spandau, Germany"
+description: "St. Marien am Behnitz is a captivating church building located in Spandau, Germany, that offers visitors a glimpse into the region's ecclesiastical..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

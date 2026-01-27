@@ -3,7 +3,7 @@ title: "Museum für Uhren, Schmuck und Kunst Frankfurt am Main"
 site_name: "Museum für Uhren, Schmuck und Kunst Frankfurt am Main"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in Frankfurt am Main, the Museum für Uhren, Schmuck und Kunst presents a unique exploration of timepieces, jewelry, and art."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

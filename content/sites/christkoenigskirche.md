@@ -3,7 +3,7 @@ title: "Christkönigskirche"
 site_name: "Christkönigskirche"
 date: 2026-01-26
 draft: false
-description: "church in Großsachsen"
+description: "Christkönigskirche, located in the quaint town of Großsachsen in Hirschberg an der Bergstraße, Germany, serves as a significant landmark within the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

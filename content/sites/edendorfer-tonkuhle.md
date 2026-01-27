@@ -3,7 +3,7 @@ title: "Edendorfer Tonkuhle"
 site_name: "Edendorfer Tonkuhle"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Edendorfer Tonkuhle is a serene lake located in the picturesque region of Schleswig-Holstein, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

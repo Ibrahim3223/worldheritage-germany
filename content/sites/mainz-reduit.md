@@ -3,7 +3,7 @@ title: "Mainz Reduit"
 site_name: "Mainz Reduit"
 date: 2026-01-26
 draft: false
-description: "part of Fortress of Mainz built between 1830 and 1834"
+description: "The Mainz Reduit, a significant fortification located in Wiesbaden, Germany, serves as a remarkable example of 19th-century military architecture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Fortification"

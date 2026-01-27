@@ -3,7 +3,7 @@ title: "Petershagen synagogue"
 site_name: "Petershagen synagogue"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Petershagen, Germany"
+description: "The Petershagen synagogue, a poignant memorial located in the charming town of Petershagen, Germany, serves as a significant reminder of the Jewish heritage..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

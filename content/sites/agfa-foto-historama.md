@@ -3,7 +3,7 @@ title: "Agfa Foto-Historama"
 site_name: "Agfa Foto-Historama"
 date: 2026-01-26
 draft: false
-description: "Photographischer Museumsbestand des Museum Ludwig in Köln"
+description: "Agfa Foto-Historama, a unique library located in Germany, serves as a significant repository of photographic history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

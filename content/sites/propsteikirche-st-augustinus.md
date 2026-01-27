@@ -3,7 +3,7 @@ title: "Propsteikirche St. Augustinus"
 site_name: "Propsteikirche St. Augustinus"
 date: 2026-01-26
 draft: false
-description: "church building in Gelsenkirchen, Germany"
+description: "Propsteikirche St. Augustinus is an esteemed church building located in Gelsenkirchen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

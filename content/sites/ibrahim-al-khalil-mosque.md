@@ -3,7 +3,7 @@ title: "Ibrahim Al-Khalil mosque"
 site_name: "Ibrahim Al-Khalil mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Osnabrück, Germany"
+description: "The Ibrahim Al-Khalil Mosque is a prominent place of worship located in Osnabrück, Germany, serving as a spiritual and cultural hub for the local Muslim..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

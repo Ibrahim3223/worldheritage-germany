@@ -3,7 +3,7 @@ title: "DB Museum Halle"
 site_name: "DB Museum Halle"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The DB Museum Halle is a significant cultural institution located in Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

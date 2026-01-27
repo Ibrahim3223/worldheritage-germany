@@ -3,7 +3,7 @@ title: "Museum unter der Yburg"
 site_name: "Museum unter der Yburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum unter der Yburg, situated in the picturesque region of Kernen im Remstal, Germany, is a cultural institution that serves as a gateway to the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Wilhelma"
 site_name: "Wilhelma"
 date: 2026-01-26
 draft: false
-description: "zoological-botanical garden in Germany"
+description: "Wilhelma stands as a prominent zoological-botanical garden located in Stuttgart, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

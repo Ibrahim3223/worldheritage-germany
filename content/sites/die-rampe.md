@@ -3,7 +3,7 @@ title: "Die Rampe"
 site_name: "Die Rampe"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "Die Rampe, a striking monument located in the city of Kassel, Germany, serves as a remarkable testament to the region's historical and cultural landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

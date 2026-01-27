@@ -3,7 +3,7 @@ title: "Einbogige Sandsteinbrücke mit Bezeichnung an Platte am oberen Rand Wils
 site_name: "Einbogige Sandsteinbrücke mit Bezeichnung an Platte am oberen Rand Wilschdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Einbogige Sandsteinbrücke, or the Arch Bridge of Wilschdorf, is a captivating structure that invites visitors to explore the scenic landscapes of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

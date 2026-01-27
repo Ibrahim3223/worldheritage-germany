@@ -3,7 +3,7 @@ title: "Burg Hohenwittlingen"
 site_name: "Burg Hohenwittlingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenwittlingen is a remarkable castle situated in the picturesque region of Wittlingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

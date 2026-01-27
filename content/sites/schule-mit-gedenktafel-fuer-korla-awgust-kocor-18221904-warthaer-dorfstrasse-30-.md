@@ -3,7 +3,7 @@ title: "Schule mit Gedenktafel für Korla Awgust Kocor (1822–1904) Warthaer Do
 site_name: "Schule mit Gedenktafel für Korla Awgust Kocor (1822–1904) Warthaer Dorfstraße 30 (ehemals Dorfstraße 30)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schule mit Gedenktafel für Korla Awgust Kocor in Malschwitz, Germany, serves as an evocative reminder of the intersection of education and cultural memory."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

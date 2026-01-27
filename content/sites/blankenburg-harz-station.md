@@ -3,7 +3,7 @@ title: "Blankenburg (Harz) station"
 site_name: "Blankenburg (Harz) station"
 date: 2026-01-26
 draft: false
-description: "railway station in Blankenburg, Germany"
+description: "Blankenburg (Harz) station serves as a vital transportation hub in the picturesque region of Blankenburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

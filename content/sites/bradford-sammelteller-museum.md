@@ -3,7 +3,7 @@ title: "Bradford Sammelteller-Museum"
 site_name: "Bradford Sammelteller-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bradford Sammelteller-Museum, located in Rödermark, Germany, is a distinctive cultural institution dedicated to the art of collecting and displaying..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

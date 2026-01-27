@@ -3,7 +3,7 @@ title: "Ansgar Church"
 site_name: "Ansgar Church"
 date: 2026-01-26
 draft: false
-description: "Danish church in Flensburg"
+description: "Ansgar Church, a noteworthy Danish church located in Flensburg, Germany, serves as an important spiritual and cultural landmark within the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

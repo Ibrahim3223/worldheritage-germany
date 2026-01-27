@@ -3,7 +3,7 @@ title: "Volkmarskeller"
 site_name: "Volkmarskeller"
 date: 2026-01-26
 draft: false
-description: "geographical object"
+description: "Volkmarskeller, an archaeological site located in the Blankenburg region of Germany, offers visitors a unique glimpse into the past through its intriguing..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

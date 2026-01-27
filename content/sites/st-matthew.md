@@ -3,7 +3,7 @@ title: "St. Matthew"
 site_name: "St. Matthew"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Matthew Church in Leipzig, Germany, is an architectural and cultural landmark that invites visitors to explore its historical significance and serene..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Margravial Opera House"
 site_name: "Margravial Opera House"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-62-000-278 (0) in Bayreuth, Bavaria"
+description: "The Margravial Opera House in Bayreuth, Germany, is a stunning cultural heritage monument that captures the essence of 18th-century theatrical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kult Westmünsterland"
 site_name: "Kult Westmünsterland"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kult Westmünsterland, located in Vreden, Germany, serves as a vibrant hub of contemporary art and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

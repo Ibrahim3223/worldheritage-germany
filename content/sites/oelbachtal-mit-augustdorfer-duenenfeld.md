@@ -3,7 +3,7 @@ title: "Ölbachtal mit Augustdorfer Dünenfeld"
 site_name: "Ölbachtal mit Augustdorfer Dünenfeld"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lippe district, North Rhine-Westphalia, Germany"
+description: "Ölbachtal mit Augustdorfer Dünenfeld is a captivating nature reserve located in the Lippe district of North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Burg Neu-Morungen"
 site_name: "Burg Neu-Morungen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neu-Morungen is a remarkable castle located in Sangerhausen, Germany, that captures the imagination of history enthusiasts and casual visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

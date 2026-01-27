@@ -3,7 +3,7 @@ title: "Synagoge Beilstein"
 site_name: "Synagoge Beilstein"
 date: 2026-01-26
 draft: false
-description: "geschütztes Baudenkmal"
+description: "In the serene town of Beilstein, Germany, stands the Synagoge Beilstein, a significant cultural landmark that provides insight into the history and heritage..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

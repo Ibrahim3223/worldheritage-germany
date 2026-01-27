@@ -3,7 +3,7 @@ title: "Hamborn Abbey"
 site_name: "Hamborn Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Duisburg, North Rhine-Westphalia, Germany"
+description: "Hamborn Abbey, a serene monastery located in Duisburg, North Rhine-Westphalia, Germany, invites visitors to explore its profound tranquility and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

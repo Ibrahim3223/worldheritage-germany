@@ -3,7 +3,7 @@ title: "Speicherstadt and Kontorhaus District with Chilehaus"
 site_name: "Speicherstadt and Kontorhaus District with Chilehaus"
 date: 2026-01-26
 draft: false
-description: "World Heritage Site in Germany"
+description: "Within the vibrant city of Hamburg, the Speicherstadt and Kontorhaus District with Chilehaus emerge as a striking embodiment of the city’s maritime heritage..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Old Town"

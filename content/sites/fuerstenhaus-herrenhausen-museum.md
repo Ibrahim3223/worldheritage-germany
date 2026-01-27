@@ -3,7 +3,7 @@ title: "Fürstenhaus Herrenhausen-Museum"
 site_name: "Fürstenhaus Herrenhausen-Museum"
 date: 2026-01-26
 draft: false
-description: "palais and former museum in Hannover, Germany"
+description: "The Fürstenhaus Herrenhausen-Museum, located in Hannover, Germany, is a remarkable palace that offers a glimpse into the grandeur of historical architecture..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

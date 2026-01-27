@@ -3,7 +3,7 @@ title: "Invalids' Cemetery"
 site_name: "Invalids' Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Situated in the heart of Berlin, Invalids' Cemetery is a poignant reminder of the city's layered history and cultural significance."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

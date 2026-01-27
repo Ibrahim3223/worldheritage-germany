@@ -3,7 +3,7 @@ title: "Chamäleon"
 site_name: "Chamäleon"
 date: 2026-01-26
 draft: false
-description: "variety theatre in Berlin, Germany"
+description: "Chamäleon is a vibrant variety theatre located in the heart of Berlin's Bezirk Mitte."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

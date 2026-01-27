@@ -3,7 +3,7 @@ title: "Burg Goßfelden"
 site_name: "Burg Goßfelden"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Goßfelden, a captivating castle located in the scenic Lahntal region of Germany, presents a unique glimpse into the medieval architecture and history..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

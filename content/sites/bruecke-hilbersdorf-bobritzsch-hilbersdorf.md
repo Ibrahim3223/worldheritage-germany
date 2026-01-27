@@ -3,7 +3,7 @@ title: "Brücke Hilbersdorf (Bobritzsch-Hilbersdorf)"
 site_name: "Brücke Hilbersdorf (Bobritzsch-Hilbersdorf)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Brücke Hilbersdorf, located in the charming region of Bobritzsch-Hilbersdorf, Germany, is an architectural structure that speaks to the ingenuity and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

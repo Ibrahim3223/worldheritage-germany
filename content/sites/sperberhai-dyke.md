@@ -3,7 +3,7 @@ title: "Sperberhai Dyke"
 site_name: "Sperberhai Dyke"
 date: 2026-01-26
 draft: false
-description: "Aquädukt des Oberharzer Wasserregals"
+description: "The Sperberhai Dyke, located in the heart of Clausthal-Zellerfeld, Germany, is an impressive aqueduct that forms part of the Oberharzer Wasserregal, a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"

@@ -3,7 +3,7 @@ title: "Vischering Castle"
 site_name: "Vischering Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Vischering Castle rises prominently in the tranquil landscape of Lüdinghausen, Germany, serving as a remarkable example of medieval architecture and a vital..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

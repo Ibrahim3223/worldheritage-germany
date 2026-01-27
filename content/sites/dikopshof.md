@@ -3,7 +3,7 @@ title: "Dikopshof"
 site_name: "Dikopshof"
 date: 2026-01-26
 draft: false
-description: "Hofanlage in Wesseling"
+description: "Dikopshof is an architectural ensemble located in Wesseling, Germany, that captures the essence of historical agricultural architecture in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Steinerne Bogenbrücke Ortsausgang Richtung Commerau"
 site_name: "Steinerne Bogenbrücke Ortsausgang Richtung Commerau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinerne Bogenbrücke, located at the exit of Großdubrau towards Commerau, is an impressive bridge that stands as a significant piece of infrastructure..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

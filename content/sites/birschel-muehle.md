@@ -3,7 +3,7 @@ title: "Birschel-Mühle"
 site_name: "Birschel-Mühle"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Nestled within the picturesque landscape of Hattingen, Germany, Birschel-Mühle stands as an architectural ensemble of significant heritage value."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

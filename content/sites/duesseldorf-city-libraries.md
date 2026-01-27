@@ -3,7 +3,7 @@ title: "Düsseldorf city libraries"
 site_name: "Düsseldorf city libraries"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Düsseldorf, a vibrant city located on the eastern bank of the Rhine River in Germany, is not only known for its fashion and art scenes but also for its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Daniel-Pöppelmann-Haus"
 site_name: "Daniel-Pöppelmann-Haus"
 date: 2026-01-26
 draft: false
-description: "German Museum in Herford"
+description: "The Daniel-Pöppelmann-Haus is an art museum located in Herford, Germany, that captures the essence of the region's artistic heritage while providing a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

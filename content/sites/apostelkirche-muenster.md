@@ -3,7 +3,7 @@ title: "Apostelkirche (Münster)"
 site_name: "Apostelkirche (Münster)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Apostelkirche, located in the vibrant city of Münster, Germany, is a remarkable church that embodies the spiritual and architectural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

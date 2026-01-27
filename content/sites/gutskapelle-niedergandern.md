@@ -3,7 +3,7 @@ title: "Gutskapelle Niedergandern"
 site_name: "Gutskapelle Niedergandern"
 date: 2026-01-26
 draft: false
-description: "chapel in Friedland, Germany"
+description: "In the heart of Friedland, Germany, the Gutskapelle Niedergandern quietly holds a significant place among the region's spiritual and cultural landmarks."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

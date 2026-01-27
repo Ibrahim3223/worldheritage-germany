@@ -3,7 +3,7 @@ title: "Museumsquartier Tirschenreuth"
 site_name: "Museumsquartier Tirschenreuth"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Tirschenreuth, Germany, the Museumsquartier Tirschenreuth serves as a cultural hub, inviting visitors to explore its diverse offerings."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kapelle zur hilligen Seele"
 site_name: "Kapelle zur hilligen Seele"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "The Kapelle zur hilligen Seele, an evocative chapel located in Borchen, Germany, invites visitors to explore its serene ambiance and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Ludwig-Knoop-Statue"
 site_name: "Ludwig-Knoop-Statue"
 date: 2026-01-26
 draft: false
-description: "statue in Burglesum, Germany"
+description: "The Ludwig-Knoop-Statue in Burglesum, Germany, stands as a tribute to an influential figure in the region’s historical narrative."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"

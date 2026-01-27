@@ -3,7 +3,7 @@ title: "Luitpold monument"
 site_name: "Luitpold monument"
 date: 2026-01-26
 draft: false
-description: "monument in Füssen, Germany"
+description: "In the heart of Füssen, Germany, the Luitpold Monument stands as a significant cultural landmark, celebrating the legacy of Prince Luitpold of Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

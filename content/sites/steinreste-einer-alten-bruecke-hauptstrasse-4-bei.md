@@ -3,7 +3,7 @@ title: "Steinreste einer alten Brücke Hauptstraße 4 (bei)"
 site_name: "Steinreste einer alten Brücke Hauptstraße 4 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the heart of Hochkirch, Germany, lies the intriguing site of the Steinreste einer alten Brücke, or the stone remains of an old bridge."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

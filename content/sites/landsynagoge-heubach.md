@@ -3,7 +3,7 @@ title: "Landsynagoge Heubach"
 site_name: "Landsynagoge Heubach"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Heubach, Germany"
+description: "The Landsynagoge Heubach is an evocative site that invites visitors to explore the rich cultural heritage of Jewish life in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

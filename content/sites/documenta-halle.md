@@ -3,7 +3,7 @@ title: "documenta-Halle"
 site_name: "documenta-Halle"
 date: 2026-01-26
 draft: false
-description: "building in Kassel, Germany"
+description: "The documenta-Halle, located in the heart of Kassel, Germany, serves as a pivotal institution in the contemporary art scene, reflecting the city’s..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

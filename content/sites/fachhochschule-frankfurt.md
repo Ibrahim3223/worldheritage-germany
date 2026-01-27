@@ -3,7 +3,7 @@ title: "Fachhochschule Frankfurt"
 site_name: "Fachhochschule Frankfurt"
 date: 2026-01-26
 draft: false
-description: "Universität in Deutschland"
+description: "Fachhochschule Frankfurt, located in Germany, is a prominent university known for its dedication to applied sciences and practical education."
 region: "Hesse"
 country: "Germany"
 heritage_type: "University"

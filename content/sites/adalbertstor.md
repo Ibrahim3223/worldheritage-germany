@@ -3,7 +3,7 @@ title: "Adalbertstor"
 site_name: "Adalbertstor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Adalbertstor is a remarkable city gate located in Aachen, Germany, that plays a significant role in the architectural and historical landscape of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

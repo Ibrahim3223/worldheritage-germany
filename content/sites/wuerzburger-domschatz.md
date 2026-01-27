@@ -3,7 +3,7 @@ title: "Würzburger Domschatz"
 site_name: "Würzburger Domschatz"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Würzburger Domschatz, located in the heart of Würzburg, Germany, is an extraordinary museum dedicated to the sacred treasures of the Würzburg Cathedral."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

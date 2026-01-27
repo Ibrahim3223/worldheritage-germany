@@ -3,7 +3,7 @@ title: "Heimathaus Sonthofen"
 site_name: "Heimathaus Sonthofen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimathaus Sonthofen is a captivating museum located in the picturesque town of Sonthofen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

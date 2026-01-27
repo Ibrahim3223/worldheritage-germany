@@ -3,7 +3,7 @@ title: "Heimatmuseum Mörfelden"
 site_name: "Heimatmuseum Mörfelden"
 date: 2026-01-26
 draft: false
-description: "local museum in Mörfelden, Germany"
+description: "The Heimatmuseum Mörfelden serves as a cultural touchstone in Mörfelden-Walldorf, Germany, offering visitors an engaging glimpse into the local heritage and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

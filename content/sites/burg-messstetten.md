@@ -3,7 +3,7 @@ title: "Burg Meßstetten"
 site_name: "Burg Meßstetten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Meßstetten, a historic castle located in the picturesque region of Meßstetten, Germany, stands as a remarkable example of medieval architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

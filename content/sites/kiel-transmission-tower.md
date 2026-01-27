@@ -3,7 +3,7 @@ title: "Kiel Transmission Tower"
 site_name: "Kiel Transmission Tower"
 date: 2026-01-26
 draft: false
-description: "Transmission tower in Kiel"
+description: "The Kiel Transmission Tower, a notable structure located in the coastal city of Kiel, Germany, exemplifies the intersection of engineering and communication..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Tower"

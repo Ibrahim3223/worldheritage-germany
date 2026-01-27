@@ -3,7 +3,7 @@ title: "Ellinger Tor"
 site_name: "Ellinger Tor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "Ellinger Tor, a historic city gate located in the charming region of Weißenburg in Bayern, Germany, serves as a striking reminder of the architectural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

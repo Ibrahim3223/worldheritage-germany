@@ -3,7 +3,7 @@ title: "Historisches Museum & Bachgedenkstätte"
 site_name: "Historisches Museum & Bachgedenkstätte"
 date: 2026-01-26
 draft: false
-description: "museum in Köthen, Germany"
+description: "The Historisches Museum & Bachgedenkstätte in Köthen, Germany, is a museum that not only showcases the rich history of the region but also pays homage to..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Uracher Wasserfall"
 site_name: "Uracher Wasserfall"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "The Uracher Wasserfall, a striking natural wonder located in Bad Urach, Germany, captivates visitors with its cascading waters and serene surroundings."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

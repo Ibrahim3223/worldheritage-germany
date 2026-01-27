@@ -3,7 +3,7 @@ title: "St. Thomas a Becket Church"
 site_name: "St. Thomas a Becket Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Thomas a Becket Church stands as a significant religious site in Hamburg-Mitte, Germany, inviting visitors to explore its architectural beauty and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

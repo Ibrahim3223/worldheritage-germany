@@ -3,7 +3,7 @@ title: "Umar Ibn Al Khattab Mosque"
 site_name: "Umar Ibn Al Khattab Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Berlin"
+description: "The Umar Ibn Al Khattab Mosque, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, serves as a significant spiritual and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

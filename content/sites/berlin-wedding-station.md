@@ -3,7 +3,7 @@ title: "Berlin-Wedding station"
 site_name: "Berlin-Wedding station"
 date: 2026-01-26
 draft: false
-description: "Station in the wedding locality"
+description: "Berlin-Wedding station is a prominent railway hub located in the district of Bezirk Mitte, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Railway Station"

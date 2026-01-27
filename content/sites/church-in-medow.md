@@ -3,7 +3,7 @@ title: "Church in Medow"
 site_name: "Church in Medow"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Church in Medow, located in the picturesque region of Mecklenburg-Vorpommern, Germany, is a striking symbol of the area’s cultural and historical heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

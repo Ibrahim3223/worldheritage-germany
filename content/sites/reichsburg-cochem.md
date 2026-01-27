@@ -3,7 +3,7 @@ title: "Reichsburg Cochem"
 site_name: "Reichsburg Cochem"
 date: 2026-01-26
 draft: false
-description: "fortification in Germany"
+description: "Perched on a hill overlooking the picturesque town of Cochem, Reichsburg Cochem is an iconic fortification that encapsulates the essence of German heritage."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

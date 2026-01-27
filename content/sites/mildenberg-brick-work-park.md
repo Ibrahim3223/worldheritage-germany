@@ -3,7 +3,7 @@ title: "Mildenberg Brick Work Park"
 site_name: "Mildenberg Brick Work Park"
 date: 2026-01-26
 draft: false
-description: "Ziegeleipark in Mildenberg"
+description: "The Mildenberg Brick Work Park, located in the Zehdenick region of Germany, offers visitors a unique glimpse into the historical significance of brick..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

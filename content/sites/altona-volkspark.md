@@ -3,7 +3,7 @@ title: "Altona Volkspark"
 site_name: "Altona Volkspark"
 date: 2026-01-26
 draft: false
-description: "Urban park in Hamburg"
+description: "Altona Volkspark, an expansive urban park located in the Altona district of Hamburg, Germany, serves as a vibrant green haven in the heart of the city."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Park"

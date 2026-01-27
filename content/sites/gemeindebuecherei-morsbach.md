@@ -3,7 +3,7 @@ title: "Gemeindebücherei Morsbach"
 site_name: "Gemeindebücherei Morsbach"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Morsbach stands as a hub of knowledge and community engagement in the picturesque region of Morsbach, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

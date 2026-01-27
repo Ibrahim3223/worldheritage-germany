@@ -3,7 +3,7 @@ title: "Embroidery Machine Museum, Plauen"
 site_name: "Embroidery Machine Museum, Plauen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Embroidery Machine Museum in Plauen, Germany, serves as a unique portal into the intricate world of textile artistry and engineering."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

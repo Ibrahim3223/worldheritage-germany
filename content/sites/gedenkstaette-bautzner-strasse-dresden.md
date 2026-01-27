@@ -3,7 +3,7 @@ title: "Gedenkstätte Bautzner Straße Dresden"
 site_name: "Gedenkstätte Bautzner Straße Dresden"
 date: 2026-01-26
 draft: false
-description: "memorial in Dresden, Germany"
+description: "Gedenkstätte Bautzner Straße Dresden serves as a poignant memorial in the heart of Dresden, Germany, dedicated to the victims of political persecution..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"

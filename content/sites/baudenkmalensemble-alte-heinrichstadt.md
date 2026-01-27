@@ -3,7 +3,7 @@ title: "Baudenkmalensemble Alte Heinrichstadt"
 site_name: "Baudenkmalensemble Alte Heinrichstadt"
 date: 2026-01-26
 draft: false
-description: "Wikimedia list article"
+description: "The Baudenkmalensemble Alte Heinrichstadt in Wolfenbüttel, Germany, is an architectural ensemble that combines historical significance with remarkable artistry."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Church in Bretwisch"
 site_name: "Church in Bretwisch"
 date: 2026-01-26
 draft: false
-description: "church building in Süderholz, Germany"
+description: "The Church in Bretwisch, located in the serene region of Süderholz, Germany, is a remarkable example of ecclesiastical architecture that captures the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

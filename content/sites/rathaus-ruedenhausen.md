@@ -3,7 +3,7 @@ title: "Rathaus Rüdenhausen"
 site_name: "Rathaus Rüdenhausen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-162-14 (0) in Rüdenhausen, Bavaria, Germany"
+description: "Rathaus Rüdenhausen stands as a distinguished symbol of civic pride and cultural heritage in the quaint village of Rüdenhausen, located in Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

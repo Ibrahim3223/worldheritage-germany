@@ -3,7 +3,7 @@ title: "Fernmeldeturm Bad Kreuznach"
 site_name: "Fernmeldeturm Bad Kreuznach"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Bad Kreuznach is an iconic tower located in the heart of Germany, specifically in the picturesque region of Bad Kreuznach."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

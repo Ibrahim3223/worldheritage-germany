@@ -3,7 +3,7 @@ title: "Hinte church"
 site_name: "Hinte church"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Saxony, Germany"
+description: "Hinte church, located in the quaint region of Lower Saxony, Germany, serves not only as a place of worship but also as a significant cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

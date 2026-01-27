@@ -3,7 +3,7 @@ title: "Burg Lüdinghausen"
 site_name: "Burg Lüdinghausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lüdinghausen, a captivating castle located in the heart of Lüdinghausen, Germany, invites visitors to explore its storied past and architectural allure."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Granitbrücke über den Letschbach Stolpen"
 site_name: "Granitbrücke über den Letschbach Stolpen"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Granitbrücke über den Letschbach in Stolpen, Germany, stands as a remarkable example of engineering and design, inviting visitors to explore both its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

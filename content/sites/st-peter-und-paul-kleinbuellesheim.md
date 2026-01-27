@@ -3,7 +3,7 @@ title: "St. Peter und Paul (Kleinbüllesheim)"
 site_name: "St. Peter und Paul (Kleinbüllesheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Euskirchen, Germany"
+description: "St. Peter und Paul in Kleinbüllesheim is a church building located in the Euskirchen region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

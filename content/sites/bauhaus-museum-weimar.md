@@ -3,7 +3,7 @@ title: "Bauhaus Museum, Weimar"
 site_name: "Bauhaus Museum, Weimar"
 date: 2026-01-26
 draft: false
-description: "museum in Weimar, Germany"
+description: "The Bauhaus Museum in Weimar invites visitors to explore the profound influence of the Bauhaus movement, a revolutionary approach to art, architecture, and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

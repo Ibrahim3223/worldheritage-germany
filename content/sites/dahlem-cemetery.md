@@ -3,7 +3,7 @@ title: "Dahlem Cemetery"
 site_name: "Dahlem Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dahlem, Berlin, Germany"
+description: "Dahlem Cemetery, located in the tranquil district of Steglitz-Zehlendorf in Berlin, Germany, presents an intriguing blend of natural beauty and historical..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

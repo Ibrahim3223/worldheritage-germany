@@ -3,7 +3,7 @@ title: "Zeesener See"
 site_name: "Zeesener See"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Zeesener See, a tranquil lake located in the picturesque region of Brandenburg, Germany, is a destination that invites nature enthusiasts and those seeking..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

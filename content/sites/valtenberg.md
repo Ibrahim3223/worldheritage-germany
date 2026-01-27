@@ -3,7 +3,7 @@ title: "Valtenberg"
 site_name: "Valtenberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Valtenberg, a prominent mountain located in the Neukirch/Lausitz region of Germany, invites nature enthusiasts and adventure seekers alike to explore its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

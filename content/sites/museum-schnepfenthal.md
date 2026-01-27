@@ -3,7 +3,7 @@ title: "Museum Schnepfenthal"
 site_name: "Museum Schnepfenthal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Schnepfenthal, located in the charming region of Waltershausen, Germany, offers visitors an intimate glimpse into the cultural heritage of the area."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Protestant Church Miltern"
 site_name: "Protestant Church Miltern"
 date: 2026-01-26
 draft: false
-description: "church building in Tangermünde, Saxony-Anhalt, Germany"
+description: "The Protestant Church Miltern, a striking church building in Tangermünde, Saxony-Anhalt, Germany, serves as a significant landmark both architecturally and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

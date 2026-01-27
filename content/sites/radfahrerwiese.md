@@ -3,7 +3,7 @@ title: "Radfahrerwiese"
 site_name: "Radfahrerwiese"
 date: 2026-01-26
 draft: false
-description: "Badestelle in Berlin"
+description: "Radfahrerwiese, a tranquil beach located in the region of Steglitz-Zehlendorf in Berlin, serves as a refreshing escape from the bustling city life."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"

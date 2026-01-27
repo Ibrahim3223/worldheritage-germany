@@ -3,7 +3,7 @@ title: "German Phono Museum"
 site_name: "German Phono Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The German Phono Museum, located in St. Georgen im Schwarzwald, is a unique destination that delves into the evolution of sound reproduction technology."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

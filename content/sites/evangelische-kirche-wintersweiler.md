@@ -3,7 +3,7 @@ title: "Evangelische Kirche Wintersweiler"
 site_name: "Evangelische Kirche Wintersweiler"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Kirche Wintersweiler stands as a notable landmark in the quaint village of Wintersweiler, situated within the Efringen-Kirchen region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

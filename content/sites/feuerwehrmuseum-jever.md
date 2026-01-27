@@ -3,7 +3,7 @@ title: "Feuerwehrmuseum Jever"
 site_name: "Feuerwehrmuseum Jever"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Feuerwehrmuseum Jever stands as a unique tribute to the history and evolution of firefighting in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

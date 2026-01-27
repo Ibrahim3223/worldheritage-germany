@@ -3,7 +3,7 @@ title: "Steindeckerbrücke (III) über den Haselbach Gemarkung Reichenbach, Flur
 site_name: "Steindeckerbrücke (III) über den Haselbach Gemarkung Reichenbach, Flurstück 189a"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke (III) über den Haselbach stands as an enduring landmark in the picturesque Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

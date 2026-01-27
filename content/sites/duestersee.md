@@ -3,7 +3,7 @@ title: "Düstersee"
 site_name: "Düstersee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Düstersee, a serene lake located in the picturesque Brandenburg region of Germany, serves as a tranquil retreat for nature lovers and outdoor enthusiasts alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

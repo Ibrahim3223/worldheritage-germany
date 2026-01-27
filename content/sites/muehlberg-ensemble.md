@@ -3,7 +3,7 @@ title: "Mühlberg-Ensemble"
 site_name: "Mühlberg-Ensemble"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschützte Häusergruppe in Kempten"
+description: "The Mühlberg-Ensemble is an architectural ensemble located in Kempten, Germany, that offers a captivating glimpse into the region's rich cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

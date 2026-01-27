@@ -3,7 +3,7 @@ title: "St Mary's Cathedral and St Michael's Church at Hildesheim"
 site_name: "St Mary's Cathedral and St Michael's Church at Hildesheim"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "St Mary's Cathedral and St Michael's Church at Hildesheim are two remarkable church buildings located in the charming town of Hildesheim, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

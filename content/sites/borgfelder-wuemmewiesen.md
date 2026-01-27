@@ -3,7 +3,7 @@ title: "Borgfelder Wümmewiesen"
 site_name: "Borgfelder Wümmewiesen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bremen, Free Hanseatic City of Bremen, Germany"
+description: "Borgfelder Wümmewiesen, located in the tranquil region of Borgfeld in Bremen, Germany, offers a unique glimpse into the natural landscapes that define this..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

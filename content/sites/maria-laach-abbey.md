@@ -3,7 +3,7 @@ title: "Maria Laach Abbey"
 site_name: "Maria Laach Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Maria Laach Abbey, a prominent monastery located in the serene landscape of Germany, invites visitors with its serene atmosphere and historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Gymnasium Bornbrook"
 site_name: "Gymnasium Bornbrook"
 date: 2026-01-26
 draft: false
-description: "gymnasium"
+description: "Gymnasium Bornbrook, located in the Bergedorf region of Germany, serves as a prominent educational institution within the community."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"

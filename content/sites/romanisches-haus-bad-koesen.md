@@ -3,7 +3,7 @@ title: "Romanisches Haus (Bad Kösen)"
 site_name: "Romanisches Haus (Bad Kösen)"
 date: 2026-01-26
 draft: false
-description: "museum in Naumburg (Saale), Saxony-Anhalt, Germany"
+description: "In the heart of Saxony-Anhalt, Germany, lies the Romanisches Haus, a museum that captures the essence of medieval architecture and art."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

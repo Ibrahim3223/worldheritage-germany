@@ -3,7 +3,7 @@ title: "Gustav-Adolf-Kirche (Berlin-Charlottenburg)"
 site_name: "Gustav-Adolf-Kirche (Berlin-Charlottenburg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Gustav-Adolf-Kirche in Berlin-Charlottenburg is a striking church building that serves as a significant landmark within the Charlottenburg-Wilmersdorf..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

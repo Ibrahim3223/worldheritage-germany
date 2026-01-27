@@ -3,7 +3,7 @@ title: "Gräfgenstein Castle"
 site_name: "Gräfgenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Ratingen, Germany"
+description: "Gräfgenstein Castle, a historic edifice located in Ratingen, Germany, is a remarkable representation of medieval architecture and heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

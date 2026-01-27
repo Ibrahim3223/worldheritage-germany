@@ -3,7 +3,7 @@ title: "Synagoge Goethestraße"
 site_name: "Synagoge Goethestraße"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Kiel, Germany"
+description: "The Synagoge Goethestraße, once a prominent place of worship in Kiel, Germany, carries profound historical significance, representing the vibrant Jewish..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Synagogue"

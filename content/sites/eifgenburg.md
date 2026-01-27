@@ -3,7 +3,7 @@ title: "Eifgenburg"
 site_name: "Eifgenburg"
 date: 2026-01-26
 draft: false
-description: "ehemalige Hangburg"
+description: "Eifgenburg, an intriguing hillfort located in the Burscheid region of Germany, offers a unique glimpse into ancient defensive architecture and community life."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Hillfort"

@@ -3,7 +3,7 @@ title: "Kanalmuseum ATRIUM"
 site_name: "Kanalmuseum ATRIUM"
 date: 2026-01-26
 draft: false
-description: "museum in Brunsbüttel, Germany, about the Kiel canal and the locks"
+description: "In the heart of Brunsbüttel, Germany, lies the Kanalmuseum ATRIUM, a museum dedicated to the fascinating history and engineering marvel of the Kiel Canal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

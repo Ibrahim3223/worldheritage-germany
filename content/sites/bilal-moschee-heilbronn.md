@@ -3,7 +3,7 @@ title: "Bilal-Moschee Heilbronn"
 site_name: "Bilal-Moschee Heilbronn"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Bilal-Moschee Heilbronn serves as a significant spiritual and cultural center within the Heilbronn region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

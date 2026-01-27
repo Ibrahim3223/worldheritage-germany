@@ -3,7 +3,7 @@ title: "Bürgermeister-Smidt-Gedächtniskirche"
 site_name: "Bürgermeister-Smidt-Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bremerhaven, Germany"
+description: "The Bürgermeister-Smidt-Gedächtniskirche, located in the heart of Bremerhaven, Germany, serves not only as a place of worship but also as a symbol of the..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

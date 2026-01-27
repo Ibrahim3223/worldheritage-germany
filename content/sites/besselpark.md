@@ -3,7 +3,7 @@ title: "Besselpark"
 site_name: "Besselpark"
 date: 2026-01-26
 draft: false
-description: "park in Berlin"
+description: "Besselpark offers a serene retreat in the bustling heart of Berlin, inviting visitors to escape the city's vibrant energy."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

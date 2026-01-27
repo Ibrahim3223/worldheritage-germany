@@ -3,7 +3,7 @@ title: "Nassau Castle"
 site_name: "Nassau Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Nassau, Rhineland-Palatinate, Germany"
+description: "Nassau Castle, an imposing structure located in the picturesque town of Nassau in the Rhineland-Palatinate region of Germany, captivates visitors with its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

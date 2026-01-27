@@ -3,7 +3,7 @@ title: "Commedia Futura"
 site_name: "Commedia Futura"
 date: 2026-01-26
 draft: false
-description: "theatre in Hannover, Germany"
+description: "Commedia Futura is a notable theatre building located in the heart of Hanover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

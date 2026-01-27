@@ -3,7 +3,7 @@ title: "Karlsruher Str. 96"
 site_name: "Karlsruher Str. 96"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Germany"
+description: "Karlsruher Str. 96, located in the vibrant city of Dresden, Germany, is a significant example of municipal architecture that reflects the town's historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

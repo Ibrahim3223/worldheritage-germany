@@ -3,7 +3,7 @@ title: "Schader-Stiftung"
 site_name: "Schader-Stiftung"
 date: 2026-01-26
 draft: false
-description: "Förderung der Gesellschaftswissenschaften zum gesellschaftlichen Wandel"
+description: "The Schader-Stiftung, located in Darmstadt, Germany, is a notable foundation dedicated to advancing social sciences aimed at fostering societal change."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

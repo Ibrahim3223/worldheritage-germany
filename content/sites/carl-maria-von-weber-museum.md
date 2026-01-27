@@ -3,7 +3,7 @@ title: "Carl-Maria-von-Weber-Museum"
 site_name: "Carl-Maria-von-Weber-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Carl-Maria-von-Weber-Museum, located in Dresden, Germany, is dedicated to the life and work of one of the country's most significant composers, Carl..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

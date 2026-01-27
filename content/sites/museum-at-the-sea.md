@@ -3,7 +3,7 @@ title: "Museum at the sea"
 site_name: "Museum at the sea"
 date: 2026-01-26
 draft: false
-description: "museum in Büsum"
+description: "The Museum at the Sea in Büsum, Germany, is a fascinating cultural institution that invites visitors to explore the unique relationship between the local..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

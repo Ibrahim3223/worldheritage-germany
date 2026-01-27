@@ -3,7 +3,7 @@ title: "Spreetaler See"
 site_name: "Spreetaler See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Spreetaler See is a captivating lake located in the serene region of Elsterheide, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Neue Brücke Grillenburg"
 site_name: "Neue Brücke Grillenburg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Neue Brücke Grillenburg is a bridge that serves as an important connection within the Tharandt region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

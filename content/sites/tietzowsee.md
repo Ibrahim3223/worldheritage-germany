@@ -3,7 +3,7 @@ title: "Tietzowsee"
 site_name: "Tietzowsee"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Tietzowsee, located in Germany, is a serene and picturesque lake that offers a tranquil escape from the hustle and bustle of urban life."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

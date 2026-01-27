@@ -3,7 +3,7 @@ title: "St. Mathilde"
 site_name: "St. Mathilde"
 date: 2026-01-26
 draft: false
-description: "church building in Quedlinburg, Germany"
+description: "St. Mathilde is a significant church building located in Quedlinburg, Germany, a town recognized for its rich heritage and well-preserved medieval architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

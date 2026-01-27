@@ -3,7 +3,7 @@ title: "Mausoleum Hammerstraße 23 b in Waldmünchen"
 site_name: "Mausoleum Hammerstraße 23 b in Waldmünchen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-3-72-171-16 (1) in Waldmünchen, Bavaria"
+description: "The Mausoleum Hammerstraße 23 b in Waldmünchen is a remarkable cultural heritage monument, standing as a significant representation of the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mausoleum"

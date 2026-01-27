@@ -3,7 +3,7 @@ title: "Windmühle Straupitz"
 site_name: "Windmühle Straupitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Windmühle Straupitz, located in the quaint village of Straupitz, Germany, serves as a fascinating museum that encapsulates the essence of traditional..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

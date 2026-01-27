@@ -3,7 +3,7 @@ title: "DHBW Karlsruhe"
 site_name: "DHBW Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "higher education institution"
+description: "DHBW Karlsruhe, located in the heart of Germany's vibrant technological landscape, serves as a significant higher education institution that shapes the next..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"

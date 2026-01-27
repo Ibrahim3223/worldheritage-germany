@@ -3,7 +3,7 @@ title: "Oberhessisches Weihnachtskrippen-Museum"
 site_name: "Oberhessisches Weihnachtskrippen-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Oberhessisches Weihnachtskrippen-Museum located in Nidda, Germany, serves as a captivating destination for those intrigued by the artistry and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Deserteurdenkmal"
 site_name: "Deserteurdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Hamburg, Germany"
+description: "In the heart of Hamburg lies the Deserteurdenkmal, a monument that encapsulates a pivotal chapter in Germany's history."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

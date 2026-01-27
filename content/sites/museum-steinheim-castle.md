@@ -3,7 +3,7 @@ title: "Museum Steinheim Castle"
 site_name: "Museum Steinheim Castle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Steinheim Castle, located in the historic town of Hanau, Germany, serves as a cultural hub, offering visitors an insightful glimpse into the artistic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

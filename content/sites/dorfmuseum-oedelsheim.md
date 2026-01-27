@@ -3,7 +3,7 @@ title: "Dorfmuseum Oedelsheim"
 site_name: "Dorfmuseum Oedelsheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Oedelsheim is a captivating museum located in the serene Wesertal region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

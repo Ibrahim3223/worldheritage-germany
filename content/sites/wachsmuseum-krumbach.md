@@ -3,7 +3,7 @@ title: "Wachsmuseum Krumbach"
 site_name: "Wachsmuseum Krumbach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Wachsmuseum Krumbach offers a unique exploration of the art and history of wax modeling, capturing the imagination of visitors with its diverse collection."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

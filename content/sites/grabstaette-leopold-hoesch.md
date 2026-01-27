@@ -3,7 +3,7 @@ title: "Grabstätte Leopold Hoesch"
 site_name: "Grabstätte Leopold Hoesch"
 date: 2026-01-26
 draft: false
-description: "Grabmal in Düren"
+description: "Grabstätte Leopold Hoesch, located in the Düren region of Germany, is a notable tomb that serves as a poignant reminder of the past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tomb"

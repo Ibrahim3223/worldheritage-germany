@@ -3,7 +3,7 @@ title: "Portikus"
 site_name: "Portikus"
 date: 2026-01-26
 draft: false
-description: "exhibition venue in Frankfurt am Main"
+description: "Portikus is an intriguing exhibition venue located in Frankfurt am Main, Germany, that serves as a significant platform for contemporary art and culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "WOK – World of Kitchen"
 site_name: "WOK – World of Kitchen"
 date: 2026-01-26
 draft: false
-description: "museum in Hannover, Germany"
+description: "WOK – World of Kitchen is an innovative museum located in Hannover, Germany, that invites visitors to explore the multifaceted world of culinary arts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

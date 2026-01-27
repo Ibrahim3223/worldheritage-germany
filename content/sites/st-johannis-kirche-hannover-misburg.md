@@ -3,7 +3,7 @@ title: "St.-Johannis-Kirche (Hannover-Misburg)"
 site_name: "St.-Johannis-Kirche (Hannover-Misburg)"
 date: 2026-01-26
 draft: false
-description: "Listed church building in Hanover, Germany"
+description: "St.-Johannis-Kirche, located in the charming district of Misburg-Anderten in Hanover, Germany, is an architectural and cultural landmark worth exploring."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Statue of Ditmar Koel"
 site_name: "Statue of Ditmar Koel"
 date: 2026-01-26
 draft: false
-description: "statue in Hamburg-Mitte, Germany"
+description: "The Statue of Ditmar Koel is a unique monument located in the heart of Hamburg-Mitte, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Statue"

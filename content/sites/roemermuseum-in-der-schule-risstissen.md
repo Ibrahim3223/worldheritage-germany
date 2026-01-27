@@ -3,7 +3,7 @@ title: "Römermuseum in der Schule Rißtissen"
 site_name: "Römermuseum in der Schule Rißtissen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römermuseum in der Schule Rißtissen invites visitors to explore the intriguing legacy of ancient Roman culture through its carefully curated exhibits."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

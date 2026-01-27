@@ -3,7 +3,7 @@ title: "Belvedere (Spiegelsberge)"
 site_name: "Belvedere (Spiegelsberge)"
 date: 2026-01-26
 draft: false
-description: "observation tower in Halberstadt, Germany"
+description: "Perched in the outskirts of Halberstadt, Germany, the Belvedere (Spiegelsberge) offers visitors a unique vantage point to appreciate the beauty of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

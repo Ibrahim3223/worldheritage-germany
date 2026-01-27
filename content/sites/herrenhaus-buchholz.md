@@ -3,7 +3,7 @@ title: "Herrenhaus Buchholz"
 site_name: "Herrenhaus Buchholz"
 date: 2026-01-26
 draft: false
-description: "building in Alfter, Germany"
+description: "Hidden within the charming landscape of Alfter, Germany, Herrenhaus Buchholz stands as a distinguished manor house that beckons visitors to explore its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Angerturm"
 site_name: "Angerturm"
 date: 2026-01-26
 draft: false
-description: "ehemalige Verkehrskanzel in der thüringischen Landeshauptstadt Erfurt"
+description: "Angerturm, a distinguished monument located in the heart of Erfurt, Germany, captures the essence of the region's historical narrative."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

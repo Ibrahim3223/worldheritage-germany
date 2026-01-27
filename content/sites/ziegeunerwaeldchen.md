@@ -3,7 +3,7 @@ title: "Ziegeunerwäldchen"
 site_name: "Ziegeunerwäldchen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ziegeunerwäldchen, a nature reserve located in the picturesque region of Springe, Germany, offers a serene escape into the lush landscapes of Lower Saxony."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

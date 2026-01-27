@@ -3,7 +3,7 @@ title: "Church in Ruest"
 site_name: "Church in Ruest"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Ruest, located in the serene region of Mestlin, Germany, serves as a significant religious and cultural landmark."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

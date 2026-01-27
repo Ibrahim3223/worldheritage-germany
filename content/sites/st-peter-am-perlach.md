@@ -3,7 +3,7 @@ title: "St. Peter am Perlach"
 site_name: "St. Peter am Perlach"
 date: 2026-01-26
 draft: false
-description: "church building in Augsburg, Swabia, Germany"
+description: "St. Peter am Perlach is a remarkable church building located in Augsburg, a city in the Swabia region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Kirche am Hohenzollernplatz"
 site_name: "Kirche am Hohenzollernplatz"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Wilmersdorf, Germany"
+description: "Located in the vibrant district of Charlottenburg-Wilmersdorf, Kirche am Hohenzollernplatz serves as both a place of worship and a notable landmark within..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

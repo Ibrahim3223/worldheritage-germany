@@ -3,7 +3,7 @@ title: "Theaterhaus Stuttgart"
 site_name: "Theaterhaus Stuttgart"
 date: 2026-01-26
 draft: false
-description: "building in Stuttgart, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Theaterhaus Stuttgart stands as a vibrant center for the performing arts in Germany's Baden-Württemberg region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

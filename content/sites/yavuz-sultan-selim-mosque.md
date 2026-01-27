@@ -3,7 +3,7 @@ title: "Yavuz Sultan Selim Mosque"
 site_name: "Yavuz Sultan Selim Mosque"
 date: 2026-01-26
 draft: false
-description: "Mosque in Mannheim-Jungbusch (Germany)"
+description: "The Yavuz Sultan Selim Mosque, located in the vibrant district of Mannheim-Jungbusch, Germany, serves as a prominent place of worship and a cultural hub for..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

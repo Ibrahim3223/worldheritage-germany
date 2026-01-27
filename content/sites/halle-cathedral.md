@@ -3,7 +3,7 @@ title: "Halle Cathedral"
 site_name: "Halle Cathedral"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "Halle Cathedral, also known as the Marktkirche, is an architectural marvel located in the heart of Halle (Saale), Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

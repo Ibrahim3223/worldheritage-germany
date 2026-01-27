@@ -3,7 +3,7 @@ title: "Antoniterkloster Grünberg"
 site_name: "Antoniterkloster Grünberg"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Antoniterkloster Grünberg is a distinctive national heritage site located in the charming town of Grünberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

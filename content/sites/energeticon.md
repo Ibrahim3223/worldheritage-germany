@@ -3,7 +3,7 @@ title: "Energeticon"
 site_name: "Energeticon"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Energeticon, located in the town of Alsdorf, Germany, is a unique museum dedicated to the exploration of energy, its history, and its future."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

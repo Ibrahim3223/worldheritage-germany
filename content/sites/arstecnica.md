@@ -3,7 +3,7 @@ title: "ArsTecnica"
 site_name: "ArsTecnica"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "ArsTecnica is a unique museum located in Hellenthal, Germany, dedicated to the exploration and celebration of technological advancements and innovations."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

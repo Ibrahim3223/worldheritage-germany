@@ -3,7 +3,7 @@ title: "Westerheversand Lighthouse"
 site_name: "Westerheversand Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Westerheversand Lighthouse stands as an iconic structure on the windswept marshlands of Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

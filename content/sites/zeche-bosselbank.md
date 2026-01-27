@@ -3,7 +3,7 @@ title: "Zeche Bosselbank"
 site_name: "Zeche Bosselbank"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bosselbank, located in Essen, Germany, is a significant historical site that encapsulates the essence of the industrial age in the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

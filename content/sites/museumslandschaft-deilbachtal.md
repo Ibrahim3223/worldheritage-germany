@@ -3,7 +3,7 @@ title: "Museumslandschaft Deilbachtal"
 site_name: "Museumslandschaft Deilbachtal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museumslandschaft Deilbachtal is a cultural institution located in Essen, Germany, that invites visitors to engage with the rich heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

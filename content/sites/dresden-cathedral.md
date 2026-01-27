@@ -3,7 +3,7 @@ title: "Dresden Cathedral"
 site_name: "Dresden Cathedral"
 date: 2026-01-26
 draft: false
-description: "Catholic cathedral in Dresden, Germany"
+description: "Dresden Cathedral, known as the Katholische Hofkirche, stands as a monumental testament to the city's rich religious and cultural history."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

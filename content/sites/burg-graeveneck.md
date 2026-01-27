@@ -3,7 +3,7 @@ title: "Burg Gräveneck"
 site_name: "Burg Gräveneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gräveneck, an enchanting castle located in the picturesque region of Gräveneck, Germany, invites visitors to explore its storied past and captivating..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

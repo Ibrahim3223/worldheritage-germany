@@ -3,7 +3,7 @@ title: "Porzellanikon"
 site_name: "Porzellanikon"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Porzellanikon is a distinguished museum located in Selb, Germany, dedicated to the history and artistry of porcelain production."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

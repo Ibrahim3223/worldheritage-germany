@@ -3,7 +3,7 @@ title: "Senfmühle Monschau"
 site_name: "Senfmühle Monschau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Senfmühle Monschau is a captivating museum located in the charming town of Monschau, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

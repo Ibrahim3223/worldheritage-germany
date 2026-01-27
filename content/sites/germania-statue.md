@@ -3,7 +3,7 @@ title: "Germania statue"
 site_name: "Germania statue"
 date: 2026-01-26
 draft: false
-description: "Monument in Essen-Borbeck"
+description: "The Germania statue, located in Essen, Germany, is an intriguing monument that captures the attention of visitors with its imposing presence and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

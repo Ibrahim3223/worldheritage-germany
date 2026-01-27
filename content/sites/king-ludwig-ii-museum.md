@@ -3,7 +3,7 @@ title: "King Ludwig II Museum"
 site_name: "King Ludwig II Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The King Ludwig II Museum, located in the scenic Chiemsee region of Germany, offers a captivating glimpse into the life and legacy of one of Bavaria's most..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

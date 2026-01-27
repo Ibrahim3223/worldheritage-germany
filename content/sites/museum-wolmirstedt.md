@@ -3,7 +3,7 @@ title: "Museum Wolmirstedt"
 site_name: "Museum Wolmirstedt"
 date: 2026-01-26
 draft: false
-description: "museum in Wolmirstedt, Germany"
+description: "Museum Wolmirstedt, located in the quaint town of Wolmirstedt, Germany, is a captivating destination for those interested in exploring local culture and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

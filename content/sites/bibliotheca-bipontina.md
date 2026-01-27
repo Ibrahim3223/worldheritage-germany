@@ -3,7 +3,7 @@ title: "Bibliotheca Bipontina"
 site_name: "Bibliotheca Bipontina"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Bibliotheca Bipontina, located in Zweibrücken, Germany, serves as a significant repository of knowledge and culture, attracting visitors with its..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"

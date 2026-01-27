@@ -3,7 +3,7 @@ title: "Gemeindehaus Salzmannstraße 8 in Augsburg"
 site_name: "Gemeindehaus Salzmannstraße 8 in Augsburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-61-000-1224 (2) in Augsburg, Bavaria"
+description: "The Gemeindehaus Salzmannstraße 8 in Augsburg is an integral part of the city's architectural and cultural landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

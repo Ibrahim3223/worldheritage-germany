@@ -3,7 +3,7 @@ title: "Tram Museum Thielenbruch"
 site_name: "Tram Museum Thielenbruch"
 date: 2026-01-26
 draft: false
-description: "museum in Dellbrück, Germany"
+description: "The Tram Museum Thielenbruch, located in the Dellbrück district of Germany, offers a unique glimpse into the history and evolution of tram transportation."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

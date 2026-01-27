@@ -3,7 +3,7 @@ title: "Langen Foundation"
 site_name: "Langen Foundation"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Langen Foundation is a captivating museum located in Neuss, Germany, that serves as a cultural haven for art enthusiasts and history aficionados alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

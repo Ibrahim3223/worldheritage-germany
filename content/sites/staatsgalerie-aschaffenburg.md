@@ -3,7 +3,7 @@ title: "Staatsgalerie Aschaffenburg"
 site_name: "Staatsgalerie Aschaffenburg"
 date: 2026-01-26
 draft: false
-description: "art museum in Schloss Johannisburg in Aschaffenburg"
+description: "The Staatsgalerie Aschaffenburg, located within the historic Schloss Johannisburg, is a prominent art museum situated in the heart of Aschaffenburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

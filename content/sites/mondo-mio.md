@@ -3,7 +3,7 @@ title: "Mondo mio!"
 site_name: "Mondo mio!"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Mondo mio! is a vibrant museum located in Dortmund, Germany, offering an engaging and interactive experience for visitors of all ages."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Johanneskapelle (Nehden)"
 site_name: "Johanneskapelle (Nehden)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Johanneskapelle, located in the serene region of Brilon, Germany, is a captivating chapel that offers visitors a unique glimpse into the spiritual..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

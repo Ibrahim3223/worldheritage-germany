@@ -3,7 +3,7 @@ title: "Burg Irnich"
 site_name: "Burg Irnich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Irnich, a medieval castle located in the Zülpich region of Germany, offers visitors a glimpse into the architectural and cultural heritage of the area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

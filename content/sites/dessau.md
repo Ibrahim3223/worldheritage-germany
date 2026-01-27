@@ -3,7 +3,7 @@ title: "Dessau"
 site_name: "Dessau"
 date: 2026-01-26
 draft: false
-description: "city in Saxony-Anhalt, since 2007 district of Dessau-Roßlau"
+description: "Dessau, a city located in the heart of Saxony-Anhalt, Germany, serves as an intriguing intersection of history and modernity."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Ortsteil"

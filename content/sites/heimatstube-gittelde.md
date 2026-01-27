@@ -3,7 +3,7 @@ title: "Heimatstube Gittelde"
 site_name: "Heimatstube Gittelde"
 date: 2026-01-26
 draft: false
-description: "museum in Gittelde, Germany"
+description: "Located in the quaint village of Gittelde within the picturesque region of Bad Grund, Heimatstube Gittelde serves as a window into the local heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

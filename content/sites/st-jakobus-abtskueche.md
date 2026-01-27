@@ -3,7 +3,7 @@ title: "St. Jakobus (Abtsküche)"
 site_name: "St. Jakobus (Abtsküche)"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Heiligenhaus, Nordrhein-Westfalen, Deutschland"
+description: "The St. Jakobus Chapel, known as Abtsküche, is a significant religious site located in Heiligenhaus, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

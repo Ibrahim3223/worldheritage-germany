@@ -3,7 +3,7 @@ title: "Mercateum"
 site_name: "Mercateum"
 date: 2026-01-26
 draft: false
-description: "begehbarer Globus mit Fernhandelsmuseum in Königsbrunn"
+description: "In the heart of Germany, the Mercateum beckons visitors with its unique blend of commerce and culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

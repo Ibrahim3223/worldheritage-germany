@@ -3,7 +3,7 @@ title: "Gärtner- und Häckermuseum"
 site_name: "Gärtner- und Häckermuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Gärtner- und Häckermuseum, located in the historic city of Bamberg, Germany, offers visitors a unique glimpse into the region's agricultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

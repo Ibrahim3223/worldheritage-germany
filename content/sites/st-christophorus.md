@@ -3,7 +3,7 @@ title: "St. Christophorus"
 site_name: "St. Christophorus"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Niederselters, Hesse, Germany"
+description: "St. Christophorus is more than just a church building; it represents a significant cultural heritage monument in the heart of Niederselters, Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

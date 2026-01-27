@@ -3,7 +3,7 @@ title: "St. Michaelis (Hof)"
 site_name: "St. Michaelis (Hof)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Michaelis, located in the heart of Hof, Germany, is a remarkable example of Bavarian ecclesiastical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Auebachtal"
 site_name: "Auebachtal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Rödinghausen, North Rhine-Westphalia, Germany"
+description: "Auebachtal, a nature reserve located in Rödinghausen, North Rhine-Westphalia, Germany, offers visitors a serene escape into the beauty of the natural world."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

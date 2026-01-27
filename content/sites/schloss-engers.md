@@ -3,7 +3,7 @@ title: "Schloss Engers"
 site_name: "Schloss Engers"
 date: 2026-01-26
 draft: false
-description: "German palace"
+description: "Schloss Engers, a striking German palace located in the Neuwied region, presents an inviting fusion of history and culture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Altes Grassimuseum"
 site_name: "Altes Grassimuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Altes Grassimuseum, located in the vibrant city of Leipzig, Germany, is a notable institution that showcases an impressive collection of art, cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

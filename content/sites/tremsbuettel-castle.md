@@ -3,7 +3,7 @@ title: "Tremsbüttel Castle"
 site_name: "Tremsbüttel Castle"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Tremsbüttel Castle, a striking manor house located in the picturesque village of Tremsbüttel, Germany, offers visitors a glimpse into the architectural..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"

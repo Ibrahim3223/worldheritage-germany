@@ -3,7 +3,7 @@ title: "Church in Bössow"
 site_name: "Church in Bössow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Bössow is a remarkable example of religious architecture situated in the picturesque Warnow region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

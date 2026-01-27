@@ -3,7 +3,7 @@ title: "Zeche Carolus Magnus"
 site_name: "Zeche Carolus Magnus"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carolus Magnus, located in the heart of Essen, Germany, is a historically significant mine that encapsulates the industrial heritage of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

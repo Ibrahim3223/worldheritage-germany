@@ -3,7 +3,7 @@ title: "Auenlandschaft Norderelbe"
 site_name: "Auenlandschaft Norderelbe"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Hamburg, Germany"
+description: "The Auenlandschaft Norderelbe, a captivating nature reserve located in Hamburg, Germany, offers a serene escape into the lush greenery and vibrant..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

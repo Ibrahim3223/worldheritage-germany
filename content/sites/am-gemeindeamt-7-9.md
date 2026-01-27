@@ -3,7 +3,7 @@ title: "Am Gemeindeamt 7; 9"
 site_name: "Am Gemeindeamt 7; 9"
 date: 2026-01-26
 draft: false
-description: "town hall in Mittelherwigsdorf"
+description: "Am Gemeindeamt 7; 9 is a prominent city hall located in the charming community of Mittelherwigsdorf, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

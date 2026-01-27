@@ -3,7 +3,7 @@ title: "Jahn memorial"
 site_name: "Jahn memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Berlin, Germany"
+description: "The Jahn Memorial, located in the vibrant district of Neukölln in Berlin, is a poignant tribute commemorating the legacy of a significant figure in German..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Oker Dam"
 site_name: "Oker Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Oker Dam, an essential piece of infrastructure located in the Goslar district of Germany, plays a crucial role in the region's water management system."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"

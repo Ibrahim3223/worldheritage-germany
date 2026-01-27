@@ -3,7 +3,7 @@ title: "Tillenberge"
 site_name: "Tillenberge"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Tillenberge, a notable nature reserve located in Lower Saxony, Germany, offers a unique opportunity to immerse oneself in the serene beauty of its landscapes."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

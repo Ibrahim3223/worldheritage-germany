@@ -3,7 +3,7 @@ title: "Wehrhafter Schmied"
 site_name: "Wehrhafter Schmied"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Wehrhafter Schmied, a fountain located in Aachen, Germany, is an intriguing cultural landmark that showcases the city's historical and artistic heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

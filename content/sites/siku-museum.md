@@ -3,7 +3,7 @@ title: "Siku Museum"
 site_name: "Siku Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Siku Museum, located in Stadtlohn, Germany, serves as a captivating destination for those interested in exploring unique cultural expressions through..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum Bassermannhaus"
 site_name: "Museum Bassermannhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Bassermannhaus in Mannheim, Germany, serves as a cultural anchor within the region, showcasing a diverse array of art and artifacts that reflect both..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

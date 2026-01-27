@@ -3,7 +3,7 @@ title: "Felix Nussbaum Haus"
 site_name: "Felix Nussbaum Haus"
 date: 2026-01-26
 draft: false
-description: "museum dedicated to Felix Nussbaum in Osnabrück, Germany"
+description: "The Felix Nussbaum Haus, situated in the heart of Osnabrück, Germany, serves as a poignant tribute to the life and works of the German-Jewish artist Felix..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

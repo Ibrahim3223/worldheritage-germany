@@ -3,7 +3,7 @@ title: "Mainbrücke Ginsheim-Gustavsburg"
 site_name: "Mainbrücke Ginsheim-Gustavsburg"
 date: 2026-01-26
 draft: false
-description: "railway bridge in Germany"
+description: "The Mainbrücke Ginsheim-Gustavsburg, a significant railway bridge located in Hochheim am Main, Germany, serves as a vital link in the region's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"

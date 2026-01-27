@@ -3,7 +3,7 @@ title: "Lutherkirche (Ludwigshafen am Rhein)"
 site_name: "Lutherkirche (Ludwigshafen am Rhein)"
 date: 2026-01-26
 draft: false
-description: "church building in Ludwigshafen, Germany"
+description: "Lutherkirche, located in Ludwigshafen am Rhein, Germany, is an emblematic church building that not only serves as a place of worship but also stands as a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

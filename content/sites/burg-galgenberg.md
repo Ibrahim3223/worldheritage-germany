@@ -3,7 +3,7 @@ title: "Burg Galgenberg"
 site_name: "Burg Galgenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the scenic region of Oberstadion, Burg Galgenberg is a captivating castle that invites visitors to explore its storied past and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

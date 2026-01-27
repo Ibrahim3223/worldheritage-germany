@@ -3,7 +3,7 @@ title: "Fernmeldeturm Hofkirchen"
 site_name: "Fernmeldeturm Hofkirchen"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Hofkirchen, an iconic telecommunications tower located in the Laberweinting region of Germany, serves as both a functional structure and a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

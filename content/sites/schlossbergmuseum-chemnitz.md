@@ -3,7 +3,7 @@ title: "Schloßbergmuseum Chemnitz"
 site_name: "Schloßbergmuseum Chemnitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Schloßchemnitz, Germany, the Schloßbergmuseum Chemnitz presents itself as a significant cultural institution that invites visitors to..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

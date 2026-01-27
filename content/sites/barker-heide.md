@@ -3,7 +3,7 @@ title: "Barker Heide"
 site_name: "Barker Heide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Barker Heide is a prominent nature reserve located in the scenic region of Bark, Schleswig-Holstein, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

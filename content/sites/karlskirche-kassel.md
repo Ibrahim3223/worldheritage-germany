@@ -3,7 +3,7 @@ title: "Karlskirche (Kassel)"
 site_name: "Karlskirche (Kassel)"
 date: 2026-01-26
 draft: false
-description: "church building in Kassel, Germany"
+description: "In the heart of Kassel, Germany, stands the Karlskirche, a remarkable church building that is a testament to the city's rich cultural and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

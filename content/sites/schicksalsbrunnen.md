@@ -3,7 +3,7 @@ title: "Schicksalsbrunnen"
 site_name: "Schicksalsbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "In the heart of Stuttgart, Germany, the Schicksalsbrunnen serves as a captivating focal point that draws both locals and travelers alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fountain"

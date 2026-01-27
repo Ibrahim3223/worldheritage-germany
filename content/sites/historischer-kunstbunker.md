@@ -3,7 +3,7 @@ title: "Historischer Kunstbunker"
 site_name: "Historischer Kunstbunker"
 date: 2026-01-26
 draft: false
-description: "building in Nuremberg, Middle Franconia, Germany"
+description: "The Historischer Kunstbunker, located in the heart of Nuremberg, Germany, is an intriguing museum that offers a unique glimpse into the region's tumultuous..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

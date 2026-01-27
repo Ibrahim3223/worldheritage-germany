@@ -3,7 +3,7 @@ title: "Wirdum Church"
 site_name: "Wirdum Church"
 date: 2026-01-26
 draft: false
-description: "church building in Wirdum, Germany"
+description: "Wirdum Church, a remarkable church building located in the small village of Wirdum, Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

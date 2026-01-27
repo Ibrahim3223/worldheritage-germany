@@ -3,7 +3,7 @@ title: "Classical Weimar"
 site_name: "Classical Weimar"
 date: 2026-01-26
 draft: false
-description: "UNESCO World Heritage Site in Weimar, Germany"
+description: "Classical Weimar is an architectural ensemble of immense cultural significance located in the heart of Weimar, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

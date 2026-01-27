@@ -3,7 +3,7 @@ title: "Burg Nesselburg"
 site_name: "Burg Nesselburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nesselburg, a captivating castle located in the charming region of Nesselwang, Germany, offers visitors a glimpse into the architectural prowess and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

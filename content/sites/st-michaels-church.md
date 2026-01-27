@@ -3,7 +3,7 @@ title: "St. Michael's Church"
 site_name: "St. Michael's Church"
 date: 2026-01-26
 draft: false
-description: "church in Hildesheim, Germany"
+description: "St. Michael's Church is a remarkable church building located in Hildesheim, Germany, renowned for its architectural beauty and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

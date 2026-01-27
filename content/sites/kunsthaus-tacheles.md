@@ -3,7 +3,7 @@ title: "Kunsthaus Tacheles"
 site_name: "Kunsthaus Tacheles"
 date: 2026-01-26
 draft: false
-description: "former arts center in Mitte, Berlin, Germany"
+description: "In the heart of Berlin's Bezirk Mitte, Kunsthaus Tacheles stands as a testament to the city’s vibrant art scene and its complex history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

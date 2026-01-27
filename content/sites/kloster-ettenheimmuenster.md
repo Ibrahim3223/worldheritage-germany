@@ -3,7 +3,7 @@ title: "Kloster Ettenheimmünster"
 site_name: "Kloster Ettenheimmünster"
 date: 2026-01-26
 draft: false
-description: "church building in Baden-Württemberg, Germany"
+description: "In the quaint town of Ettenheim, Germany, the Kloster Ettenheimmünster stands as a remarkable church building, inviting visitors to explore its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

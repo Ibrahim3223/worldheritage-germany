@@ -3,7 +3,7 @@ title: "Botanischer Garten der Universität des Saarlandes"
 site_name: "Botanischer Garten der Universität des Saarlandes"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten der Universität des Saarlandes is a serene oasis located in Saarbrücken, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Botanical Garden"

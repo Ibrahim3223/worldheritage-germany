@@ -3,7 +3,7 @@ title: "Library of the Monastery Metten"
 site_name: "Library of the Monastery Metten"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of the Monastery Metten stands as a significant cultural and intellectual hub in Germany, drawing visitors with its architectural beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

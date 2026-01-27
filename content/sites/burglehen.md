@@ -3,7 +3,7 @@ title: "Burglehen"
 site_name: "Burglehen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Burglehen, a nature reserve located in the picturesque region of Baden-Württemberg, Germany, offers visitors a glimpse into the serene beauty of the local..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

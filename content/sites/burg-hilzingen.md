@@ -3,7 +3,7 @@ title: "Burg Hilzingen"
 site_name: "Burg Hilzingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hilzingen is a captivating castle located in the serene region of Hilzingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Große Kirche Aplerbeck"
 site_name: "Große Kirche Aplerbeck"
 date: 2026-01-26
 draft: false
-description: "Protestant church in Gothic Revival style"
+description: "In the heart of Dortmund, Germany, the Große Kirche Aplerbeck stands as a significant example of Protestant Gothic Revival architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

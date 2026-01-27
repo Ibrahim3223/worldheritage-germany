@@ -3,7 +3,7 @@ title: "University of Helmstedt"
 site_name: "University of Helmstedt"
 date: 2026-01-26
 draft: false
-description: "university"
+description: "The University of Helmstedt, located in the heart of Helmstedt, Germany, stands as a venerable institution of higher learning with a storied legacy."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"

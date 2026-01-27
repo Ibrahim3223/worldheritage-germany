@@ -3,7 +3,7 @@ title: "Reichskrone"
 site_name: "Reichskrone"
 date: 2026-01-26
 draft: false
-description: "former hotel and cinema in Naumburg (Saale), Germany"
+description: "The Reichskrone, an intriguing former hotel and cinema in Naumburg, Germany, stands as a notable example of the country's rich cultural landscape."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"

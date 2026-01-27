@@ -3,7 +3,7 @@ title: "Paula Modersohn-Becker Museum"
 site_name: "Paula Modersohn-Becker Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Bremen, Germany"
+description: "The Paula Modersohn-Becker Museum, located in Bremen, Germany, is a unique institution dedicated to the life and work of the pioneering artist Paula..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

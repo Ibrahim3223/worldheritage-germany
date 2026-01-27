@@ -3,7 +3,7 @@ title: "Johann Adolf Hasse Museum"
 site_name: "Johann Adolf Hasse Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg"
+description: "The Johann Adolf Hasse Museum, located in the vibrant city of Hamburg, Germany, serves as a celebration of the illustrious life and works of the Baroque..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

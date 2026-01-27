@@ -3,7 +3,7 @@ title: "Mennonitenkirche Leer"
 site_name: "Mennonitenkirche Leer"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Mennonitenkirche Leer, located in the charming town of Leer in Germany, is a significant church building that embodies the spiritual and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum Bayerisches Vogtland"
 site_name: "Museum Bayerisches Vogtland"
 date: 2026-01-26
 draft: false
-description: "museum in Hof, Bavaria, Germany"
+description: "The Museum Bayerisches Vogtland, situated in Hof, Bavaria, Germany, serves as an essential cultural institution that invites visitors to explore the rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

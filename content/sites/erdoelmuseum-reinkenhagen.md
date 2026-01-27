@@ -3,7 +3,7 @@ title: "Erdölmuseum Reinkenhagen"
 site_name: "Erdölmuseum Reinkenhagen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Erdölmuseum Reinkenhagen offers visitors a unique glimpse into the rich history of oil extraction and its significance in the Sundhagen region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

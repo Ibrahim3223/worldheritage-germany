@@ -3,7 +3,7 @@ title: "Jan Wellem memorial"
 site_name: "Jan Wellem memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Mülheim, Germany"
+description: "The Jan Wellem memorial stands as a notable monument in Mülheim, Germany, commemorating the legacy of a significant historical figure."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

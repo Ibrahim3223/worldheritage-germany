@@ -3,7 +3,7 @@ title: "Schurkenturm"
 site_name: "Schurkenturm"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schurkenturm is an intriguing castle located in the picturesque region of Horb am Neckar, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

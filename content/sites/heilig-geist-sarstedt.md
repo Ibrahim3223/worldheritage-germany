@@ -3,7 +3,7 @@ title: "Heilig Geist (Sarstedt)"
 site_name: "Heilig Geist (Sarstedt)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Heilig Geist in Sarstedt is a striking architectural structure that serves not only as a place of worship but also as a significant cultural landmark within..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

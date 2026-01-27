@@ -3,7 +3,7 @@ title: "Martin Luthers Sterbehaus"
 site_name: "Martin Luthers Sterbehaus"
 date: 2026-01-26
 draft: false
-description: "museum, house in which Martin Luther died"
+description: "Martin Luthers Sterbehaus, located in the historic town of Eisleben, Germany, is a poignant museum dedicated to the life and legacy of Martin Luther, the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

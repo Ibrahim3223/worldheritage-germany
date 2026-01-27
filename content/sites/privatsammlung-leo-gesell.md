@@ -3,7 +3,7 @@ title: "Privatsammlung Leo Gesell"
 site_name: "Privatsammlung Leo Gesell"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Privatsammlung Leo Gesell is a unique museum located in Germany, offering visitors a glimpse into a carefully curated collection of art and artifacts."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

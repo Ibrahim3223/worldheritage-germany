@@ -3,7 +3,7 @@ title: "Fabrik"
 site_name: "Fabrik"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-73-153-127 (0) in Ostheim vor der Rhön, Bavaria"
+description: "Fabrik, located in Ostheim vor der Rhön, Bavaria, is a cultural heritage monument that showcases the industrial history and architectural significance of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"

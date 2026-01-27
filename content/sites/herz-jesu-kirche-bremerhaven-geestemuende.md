@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kirche (Bremerhaven-Geestemünde)"
 site_name: "Herz-Jesu-Kirche (Bremerhaven-Geestemünde)"
 date: 2026-01-26
 draft: false
-description: "church building in Bremberhaven-Geestemünde, Germany"
+description: "In the heart of Bremerhaven-Geestemünde, the Herz-Jesu-Kirche emerges as a significant architectural and cultural landmark."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

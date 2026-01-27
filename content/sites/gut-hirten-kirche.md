@@ -3,7 +3,7 @@ title: "Gut-Hirten-Kirche"
 site_name: "Gut-Hirten-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Gut-Hirten-Kirche, situated in the vibrant city of Mannheim, Germany, is a remarkable church building that holds significant cultural and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

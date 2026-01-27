@@ -3,7 +3,7 @@ title: "St. Johannes Baptist und Johannes Evangelist"
 site_name: "St. Johannes Baptist und Johannes Evangelist"
 date: 2026-01-26
 draft: false
-description: "church building in Swabia, Germany"
+description: "St. Johannes Baptist und Johannes Evangelist is a distinguished church building located in the charming region of Neuburg an der Kammel, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

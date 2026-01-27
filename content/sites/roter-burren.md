@@ -3,7 +3,7 @@ title: "Roter Burren"
 site_name: "Roter Burren"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Roter Burren, a distinguished nature reserve located in the Plüderhausen region of Baden-Württemberg, Germany, presents a captivating blend of natural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

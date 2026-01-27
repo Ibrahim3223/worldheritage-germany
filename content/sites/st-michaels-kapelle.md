@@ -3,7 +3,7 @@ title: "St. Michaels-Kapelle"
 site_name: "St. Michaels-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "St. Michaels-Kapelle in Meschede, Germany, is a remarkable chapel that captures the essence of historical and architectural significance in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

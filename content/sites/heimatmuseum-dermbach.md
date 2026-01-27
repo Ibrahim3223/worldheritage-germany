@@ -3,7 +3,7 @@ title: "Heimatmuseum Dermbach"
 site_name: "Heimatmuseum Dermbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Dermbach is a cultural institution located in the picturesque village of Dermbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

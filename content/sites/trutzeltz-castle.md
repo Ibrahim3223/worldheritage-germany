@@ -3,7 +3,7 @@ title: "Trutzeltz Castle"
 site_name: "Trutzeltz Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Trutzeltz Castle, situated in the serene surroundings of Wierschem, Germany, invites visitors to explore its storied past and architectural charm."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

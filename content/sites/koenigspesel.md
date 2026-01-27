@@ -3,7 +3,7 @@ title: "Königspesel"
 site_name: "Königspesel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Königspesel, a museum located in the Hooge region of Germany, serves as a captivating portal into the local heritage and cultural narrative of the area."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

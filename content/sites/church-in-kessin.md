@@ -3,7 +3,7 @@ title: "Church in Kessin"
 site_name: "Church in Kessin"
 date: 2026-01-26
 draft: false
-description: "church building in Grapzow, Germany"
+description: "The Church in Kessin, located in the region of Grapzow, Germany, is a remarkable structure that reflects the architectural and cultural heritage of the area."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

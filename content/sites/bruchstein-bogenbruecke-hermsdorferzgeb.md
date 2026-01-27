@@ -3,7 +3,7 @@ title: "Bruchstein-Bogenbrücke Hermsdorf/Erzgeb."
 site_name: "Bruchstein-Bogenbrücke Hermsdorf/Erzgeb."
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bruchstein-Bogenbrücke in Hermsdorf, Germany, is not just a bridge but a remarkable engineering feat that connects two sides of the picturesque..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

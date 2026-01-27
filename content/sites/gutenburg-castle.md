@@ -3,7 +3,7 @@ title: "Gutenburg Castle"
 site_name: "Gutenburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Gutenburg Castle, located in the picturesque region of Gutenberg, Germany, stands as a captivating example of medieval architecture."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

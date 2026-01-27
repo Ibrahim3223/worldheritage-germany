@@ -3,7 +3,7 @@ title: "Museum of Modern Art"
 site_name: "Museum of Modern Art"
 date: 2026-01-26
 draft: false
-description: "museum in Freiburg im Breisgau, Germany"
+description: "The Museum of Modern Art in Freiburg im Breisgau, Germany, serves as a vibrant hub for contemporary art enthusiasts and casual visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

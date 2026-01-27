@@ -3,7 +3,7 @@ title: "St. Vitus"
 site_name: "St. Vitus"
 date: 2026-01-26
 draft: false
-description: "church building in Olfen, Germany"
+description: "St. Vitus, a notable church building located in the charming town of Olfen, Germany, is an impressive structure that reflects the region's rich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

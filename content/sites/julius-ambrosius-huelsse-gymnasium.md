@@ -3,7 +3,7 @@ title: "Julius-Ambrosius-Hülße-Gymnasium"
 site_name: "Julius-Ambrosius-Hülße-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "Gymnasium in Germany in Dresden, Germany"
+description: "The Julius-Ambrosius-Hülße-Gymnasium, a prominent school building located in Dresden, Germany, is an essential part of the city’s educational landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

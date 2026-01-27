@@ -3,7 +3,7 @@ title: "Stiftung Niedersächsisches Wirtschaftsarchiv"
 site_name: "Stiftung Niedersächsisches Wirtschaftsarchiv"
 date: 2026-01-26
 draft: false
-description: "regionales Wirtschaftsarchiv"
+description: "The Stiftung Niedersächsisches Wirtschaftsarchiv, located in the town of Wolfenbüttel, Germany, serves as a vital repository for the region's economic history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

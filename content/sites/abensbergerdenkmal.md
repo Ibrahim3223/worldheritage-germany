@@ -3,7 +3,7 @@ title: "Abensbergerdenkmal"
 site_name: "Abensbergerdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Freising (Upper Bavaria, Germany)"
+description: "The Abensbergerdenkmal, a notable monument located in Freising, Upper Bavaria, Germany, serves as an evocative reminder of the region's historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

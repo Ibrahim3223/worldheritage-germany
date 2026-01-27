@@ -3,7 +3,7 @@ title: "Bildungs- und Kulturzentrum Frankfurt"
 site_name: "Bildungs- und Kulturzentrum Frankfurt"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Bildungs- und Kulturzentrum Frankfurt stands as an important architectural structure in the heart of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"

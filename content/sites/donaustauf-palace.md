@@ -3,7 +3,7 @@ title: "Donaustauf Palace"
 site_name: "Donaustauf Palace"
 date: 2026-01-26
 draft: false
-description: "former palace destroyed 1880"
+description: "Donaustauf Palace, located in the scenic region of Donaustauf, Germany, offers a glimpse into the opulent lifestyle of the nobility in centuries past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Kriegerehrenmal"
 site_name: "Kriegerehrenmal"
 date: 2026-01-26
 draft: false
-description: "monument in Saarburg, Germany"
+description: "The Kriegerehrenmal, a poignant monument located in Saarburg, Germany, serves as a solemn reminder of the sacrifices made by soldiers throughout history."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"

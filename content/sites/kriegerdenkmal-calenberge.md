@@ -3,7 +3,7 @@ title: "Kriegerdenkmal Calenberge"
 site_name: "Kriegerdenkmal Calenberge"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Kriegerdenkmal Calenberge, located in the Magdeburg region of Germany, is a monument that serves as a poignant reminder of historical conflicts and the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

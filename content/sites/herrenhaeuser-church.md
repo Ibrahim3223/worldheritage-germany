@@ -3,7 +3,7 @@ title: "Herrenhäuser Church"
 site_name: "Herrenhäuser Church"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "Herrenhäuser Church, a prominent church building located in the Herrenhausen-Stöcken district of Hannover, Germany, stands as a significant landmark in this..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

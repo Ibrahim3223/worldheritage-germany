@@ -3,7 +3,7 @@ title: "Church in Gnevezin"
 site_name: "Church in Gnevezin"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "The Church in Gnevezin, a quaint chapel located in the Bargischow region of Germany, is a site that encapsulates the serene beauty and spiritual heritage of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

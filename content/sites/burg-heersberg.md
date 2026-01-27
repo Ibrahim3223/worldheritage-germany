@@ -3,7 +3,7 @@ title: "Burg Heersberg"
 site_name: "Burg Heersberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heersberg, a historic castle located in Lautlingen, Germany, serves as a remarkable example of medieval architecture and strategic fortification."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

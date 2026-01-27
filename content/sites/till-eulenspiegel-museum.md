@@ -3,7 +3,7 @@ title: "Till-Eulenspiegel-Museum"
 site_name: "Till-Eulenspiegel-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Till-Eulenspiegel-Museum, located in Schöppenstedt, Germany, offers visitors an engaging glimpse into the life and legends surrounding one of Germany's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

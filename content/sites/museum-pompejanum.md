@@ -3,7 +3,7 @@ title: "museum Pompejanum"
 site_name: "museum Pompejanum"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-61-000-232 (0) in Aschaffenburg, Bavaria"
+description: "The museum Pompejanum in Aschaffenburg, Germany, is a cultural heritage monument that offers a fascinating glimpse into the classical world."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

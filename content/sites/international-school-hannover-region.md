@@ -3,7 +3,7 @@ title: "International School Hannover Region"
 site_name: "International School Hannover Region"
 date: 2026-01-26
 draft: false
-description: "International School in Hannover, Germany"
+description: "The International School Hannover Region serves as a dynamic educational hub in the heart of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

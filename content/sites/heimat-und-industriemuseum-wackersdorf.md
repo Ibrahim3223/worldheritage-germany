@@ -3,7 +3,7 @@ title: "Heimat- und Industriemuseum Wackersdorf"
 site_name: "Heimat- und Industriemuseum Wackersdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimat- und Industriemuseum Wackersdorf serves as a gateway to understanding the industrial heritage and cultural history of the Wackersdorf area in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

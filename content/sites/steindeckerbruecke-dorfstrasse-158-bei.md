@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Dorfstraße 158 (bei)"
 site_name: "Steindeckerbrücke Dorfstraße 158 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located at Dorfstraße 158 in Königshain, Germany, is an intriguing bridge that invites travelers to explore its functional beauty and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

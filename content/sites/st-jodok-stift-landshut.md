@@ -3,7 +3,7 @@ title: "St. Jodok Stift Landshut"
 site_name: "St. Jodok Stift Landshut"
 date: 2026-01-26
 draft: false
-description: "viergeschossiger Baukomplex, 1891–1907, Fassade zum Teil mit Jugendstildekor;"
+description: "St. Jodok Stift Landshut stands as a remarkable example of early 20th-century architecture in Germany, offering visitors a glimpse into the country’s rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

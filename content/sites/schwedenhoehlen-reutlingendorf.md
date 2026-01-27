@@ -3,7 +3,7 @@ title: "Schwedenhöhlen (Reutlingendorf)"
 site_name: "Schwedenhöhlen (Reutlingendorf)"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Schwedenhöhlen, located in Reutlingendorf, Baden-Württemberg, Germany, represent a captivating natural phenomenon that draws visitors into the depths of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

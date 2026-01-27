@@ -3,7 +3,7 @@ title: "Südfriedhof"
 site_name: "Südfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Kiel, Germany"
+description: "Südfriedhof, a cemetery located in Kiel, Germany, serves as both a solemn resting place and a significant cultural landmark."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cemetery"

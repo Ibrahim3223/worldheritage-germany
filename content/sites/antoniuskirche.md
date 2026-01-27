@@ -3,7 +3,7 @@ title: "Antoniuskirche"
 site_name: "Antoniuskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Antoniuskirche, a prominent church building situated in the quaint town of Bispingen, Germany, offers visitors an opportunity to explore an integral part of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

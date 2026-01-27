@@ -3,7 +3,7 @@ title: "Dobbertiner See"
 site_name: "Dobbertiner See"
 date: 2026-01-26
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
+description: "Dobbertiner See is a picturesque lake located in the Ludwigslust-Parchim District of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

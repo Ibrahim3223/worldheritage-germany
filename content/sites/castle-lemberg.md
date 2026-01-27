@@ -3,7 +3,7 @@ title: "Castle Lemberg"
 site_name: "Castle Lemberg"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Castle Lemberg, located in the serene region of Lemberg, Germany, is a striking example of medieval architecture that draws visitors seeking to explore its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

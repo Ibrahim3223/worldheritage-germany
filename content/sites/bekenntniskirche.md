@@ -3,7 +3,7 @@ title: "Bekenntniskirche"
 site_name: "Bekenntniskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "The Bekenntniskirche, located in Gersthofen, Bavaria, is not just a church; it is an architectural and cultural landmark that reflects the historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

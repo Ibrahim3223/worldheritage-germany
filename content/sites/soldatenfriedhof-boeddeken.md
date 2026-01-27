@@ -3,7 +3,7 @@ title: "Soldatenfriedhof Böddeken"
 site_name: "Soldatenfriedhof Böddeken"
 date: 2026-01-26
 draft: false
-description: "cemetery in Büren, Germany"
+description: "The Soldatenfriedhof Böddeken, located in the town of Büren, Germany, serves as a poignant reminder of the sacrifices made during times of conflict."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

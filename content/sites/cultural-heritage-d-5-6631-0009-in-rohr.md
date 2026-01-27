@@ -3,7 +3,7 @@ title: "Cultural heritage D-5-6631-0009 in Rohr"
 site_name: "Cultural heritage D-5-6631-0009 in Rohr"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
+description: "Cultural heritage D-5-6631-0009 in Rohr is a significant fortification located in the Landkreis Roth region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

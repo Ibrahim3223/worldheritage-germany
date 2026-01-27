@@ -3,7 +3,7 @@ title: "Benedikte church"
 site_name: "Benedikte church"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Benedikte Church, set in the vibrant Hamburg-Mitte district of Germany, is a significant religious and cultural landmark that draws both locals and visitors..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

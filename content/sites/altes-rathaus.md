@@ -3,7 +3,7 @@ title: "Altes Rathaus"
 site_name: "Altes Rathaus"
 date: 2026-01-26
 draft: false
-description: "Kunstmuseum in Wittlich"
+description: "Altes Rathaus, an integral part of Wittlich's cultural landscape, serves as a significant museum that reflects the artistic heritage of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

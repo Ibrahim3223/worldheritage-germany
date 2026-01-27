@@ -3,7 +3,7 @@ title: "Daschower See"
 site_name: "Daschower See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Daschower See is a serene lake located in the Gallin-Kuppentin region of Germany, offering a tranquil escape for nature lovers and outdoor enthusiasts alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

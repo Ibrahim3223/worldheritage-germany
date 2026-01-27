@@ -3,7 +3,7 @@ title: "Joseph-Maria-Lutz-Museum"
 site_name: "Joseph-Maria-Lutz-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Joseph-Maria-Lutz-Museum, located in the heart of Germany, is a cultural institution dedicated to preserving and showcasing the artistic heritage of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

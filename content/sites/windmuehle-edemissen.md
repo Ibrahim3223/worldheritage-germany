@@ -3,7 +3,7 @@ title: "Windmühle Edemissen"
 site_name: "Windmühle Edemissen"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Edemissen"
+description: "Windmühle Edemissen is a striking example of traditional windmill architecture located in the quaint village of Edemissen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

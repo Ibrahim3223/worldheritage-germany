@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Sammlung von Algenkulturen Göttingen (SAG)"
 site_name: "Georg-August-Universität: Sammlung von Algenkulturen Göttingen (SAG)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Georg-August-Universität: Sammlung von Algenkulturen Göttingen (SAG) stands as a unique institution dedicated to the study and preservation of algal..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

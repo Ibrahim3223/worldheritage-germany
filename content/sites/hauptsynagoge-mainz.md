@@ -3,7 +3,7 @@ title: "Hauptsynagoge Mainz"
 site_name: "Hauptsynagoge Mainz"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Mainz, Germany"
+description: "The Hauptsynagoge Mainz, located in the historic city of Mainz, Germany, holds a significant place in the narrative of Jewish heritage in Europe."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

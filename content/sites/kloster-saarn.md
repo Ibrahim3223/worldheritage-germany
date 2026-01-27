@@ -3,7 +3,7 @@ title: "Kloster Saarn"
 site_name: "Kloster Saarn"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kloster Saarn, a remarkable monastery located in Mülheim an der Ruhr, Germany, offers visitors a glimpse into the spiritual and architectural heritage of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Ehrenmal auf dem Straßburger Platz"
 site_name: "Ehrenmal auf dem Straßburger Platz"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Ehrenmal auf dem Straßburger Platz is a poignant monument located in Osnabrück, Germany, serving as a solemn tribute to the sacrifices made during..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

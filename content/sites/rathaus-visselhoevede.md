@@ -3,7 +3,7 @@ title: "Rathaus Visselhövede"
 site_name: "Rathaus Visselhövede"
 date: 2026-01-26
 draft: false
-description: "building in Visselhövede"
+description: "Rathaus Visselhövede, the city hall of Visselhövede, Germany, stands as a notable landmark within this quaint town."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

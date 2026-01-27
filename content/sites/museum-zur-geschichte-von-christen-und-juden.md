@@ -3,7 +3,7 @@ title: "Museum zur Geschichte von Christen und Juden"
 site_name: "Museum zur Geschichte von Christen und Juden"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum zur Geschichte von Christen und Juden in Laupheim, Germany, offers a profound exploration of the intertwined histories of two significant..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

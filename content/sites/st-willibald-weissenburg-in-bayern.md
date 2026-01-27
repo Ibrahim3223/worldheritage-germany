@@ -3,7 +3,7 @@ title: "St. Willibald (Weißenburg in Bayern)"
 site_name: "St. Willibald (Weißenburg in Bayern)"
 date: 2026-01-26
 draft: false
-description: "church building in Weißenburg in Bayern, Middle Franconia, Germany"
+description: "St. Willibald in Weißenburg in Bayern is a notable church building located in the heart of Middle Franconia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

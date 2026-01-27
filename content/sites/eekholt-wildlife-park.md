@@ -3,7 +3,7 @@ title: "Eekholt Wildlife Park"
 site_name: "Eekholt Wildlife Park"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Eekholt Wildlife Park, located in Germany's picturesque Segeberg District, presents a captivating opportunity for wildlife enthusiasts and families alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

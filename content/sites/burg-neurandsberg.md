@@ -3,7 +3,7 @@ title: "Burg Neurandsberg"
 site_name: "Burg Neurandsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neurandsberg, a striking castle located in the region of Rattenberg, Germany, serves as a significant emblem of medieval architecture and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

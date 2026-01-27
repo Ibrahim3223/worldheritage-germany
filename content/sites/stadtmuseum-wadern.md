@@ -3,7 +3,7 @@ title: "Stadtmuseum Wadern"
 site_name: "Stadtmuseum Wadern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Wadern, Germany, the Stadtmuseum Wadern serves as a focal point for understanding the local history and culture of this quaint town."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

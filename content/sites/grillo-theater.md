@@ -3,7 +3,7 @@ title: "Grillo-Theater"
 site_name: "Grillo-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Essen, Germany, used by the municipal drama company"
+description: "In the heart of Essen, Germany, the Grillo-Theater stands as a vibrant hub for theatrical arts, showcasing a diverse array of performances and productions."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

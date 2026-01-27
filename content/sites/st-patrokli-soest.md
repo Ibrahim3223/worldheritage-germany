@@ -3,7 +3,7 @@ title: "St. Patrokli, Soest"
 site_name: "St. Patrokli, Soest"
 date: 2026-01-26
 draft: false
-description: "church building in Soest, Germany"
+description: "St. Patrokli in Soest, Germany, is a remarkable church building that captivates visitors with its historical depth and architectural elegance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

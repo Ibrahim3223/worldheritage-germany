@@ -3,7 +3,7 @@ title: "Wattenscheid station"
 site_name: "Wattenscheid station"
 date: 2026-01-26
 draft: false
-description: "railway station in Bochum, Germany"
+description: "Wattenscheid Station serves as a vital hub in the Bochum region of Germany, connecting travelers to various destinations across the country."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

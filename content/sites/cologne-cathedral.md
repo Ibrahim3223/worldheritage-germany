@@ -3,7 +3,7 @@ title: "Cologne Cathedral"
 site_name: "Cologne Cathedral"
 date: 2026-01-26
 draft: false
-description: "Roman-Catholic cathedral in Cologne, Germany"
+description: "Cologne Cathedral, a stunning Roman-Catholic cathedral located in the heart of Cologne, Germany, stands as a monumental symbol of the city and a significant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum Art.Plus"
 site_name: "Museum Art.Plus"
 date: 2026-01-26
 draft: false
-description: "art museum in Donaueschingen, Germany"
+description: "Museum Art.Plus, located in the charming town of Donaueschingen, Germany, is a significant destination for art enthusiasts and cultural explorers alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

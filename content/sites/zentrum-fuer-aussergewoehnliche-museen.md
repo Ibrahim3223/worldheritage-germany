@@ -3,7 +3,7 @@ title: "Zentrum für Außergewöhnliche Museen"
 site_name: "Zentrum für Außergewöhnliche Museen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Altstadt-Lehel, Germany, the Zentrum für Außergewöhnliche Museen offers a unique glimpse into the world of museums, challenging conventional..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

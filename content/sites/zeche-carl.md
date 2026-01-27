@@ -3,7 +3,7 @@ title: "Zeche Carl"
 site_name: "Zeche Carl"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carl, located in Essen, Germany, is a significant site that embodies the rich industrial heritage of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

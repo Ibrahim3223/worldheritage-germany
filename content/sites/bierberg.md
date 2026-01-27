@@ -3,7 +3,7 @@ title: "Bierberg"
 site_name: "Bierberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lügde, North Rhine-Westphalia, Germany"
+description: "Bierberg, located in the picturesque region of Lügde in North Rhine-Westphalia, Germany, is a nature reserve that offers visitors a tranquil escape into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

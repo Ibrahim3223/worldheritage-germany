@@ -3,7 +3,7 @@ title: "Wilhelm-Friedemann-Bach-Haus"
 site_name: "Wilhelm-Friedemann-Bach-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Halle (Saale), Germany"
+description: "The Wilhelm-Friedemann-Bach-Haus is a significant cultural institution located in Halle (Saale), Germany, dedicated to the life and work of Wilhelm..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

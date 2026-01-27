@@ -3,7 +3,7 @@ title: "Schleswig-Holsteinisches Freilichtmuseum"
 site_name: "Schleswig-Holsteinisches Freilichtmuseum"
 date: 2026-01-26
 draft: false
-description: "Open-air museum in Germany"
+description: "The Schleswig-Holsteinisches Freilichtmuseum, located in Molfsee, Germany, presents an immersive experience into the traditional life and cultural practices..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Parnass-Brunnen"
 site_name: "Parnass-Brunnen"
 date: 2026-01-26
 draft: false
-description: "former fountain in Hannover, Germany"
+description: "Parnass-Brunnen, a former fountain located in the Mitte region of Hannover, Germany, offers a glimpse into the city's historical and cultural landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

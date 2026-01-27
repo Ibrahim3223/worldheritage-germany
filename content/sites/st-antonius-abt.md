@@ -3,7 +3,7 @@ title: "St. Antonius Abt"
 site_name: "St. Antonius Abt"
 date: 2026-01-26
 draft: false
-description: "church building in Vreden, North Rhine-Westphalia, Germany"
+description: "St. Antonius Abt Church, located in the charming town of Vreden in North Rhine-Westphalia, Germany, is a captivating architectural landmark that reflects..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

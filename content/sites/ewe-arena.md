@@ -3,7 +3,7 @@ title: "EWE Arena"
 site_name: "EWE Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose halls in Oldenburg, Lower Saxony"
+description: "EWE Arena stands as a prominent multi-purpose hall in Oldenburg, Germany, serving the community with its diverse range of events and activities."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Siegfried Line Museum, Irrel"
 site_name: "Siegfried Line Museum, Irrel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Siegfried Line Museum in Irrel, Germany, presents a unique opportunity for visitors to explore the remnants of a significant military fortification..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

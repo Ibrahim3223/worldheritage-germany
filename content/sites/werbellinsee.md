@@ -3,7 +3,7 @@ title: "Werbellinsee"
 site_name: "Werbellinsee"
 date: 2026-01-26
 draft: false
-description: "lake in Barnim, Germany"
+description: "Werbellinsee is a tranquil lake located in the Barnim District of Germany, characterized by its serene waters and lush surrounding landscapes."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

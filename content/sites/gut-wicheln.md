@@ -3,7 +3,7 @@ title: "Gut Wicheln"
 site_name: "Gut Wicheln"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Gut Wicheln is a remarkable manor house situated in the Arnsberg region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

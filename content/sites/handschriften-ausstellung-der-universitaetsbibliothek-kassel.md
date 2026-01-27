@@ -3,7 +3,7 @@ title: "Handschriften-Ausstellung der Universitätsbibliothek Kassel"
 site_name: "Handschriften-Ausstellung der Universitätsbibliothek Kassel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Handschriften-Ausstellung der Universitätsbibliothek Kassel is a remarkable museum that invites visitors to explore the fascinating world of historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

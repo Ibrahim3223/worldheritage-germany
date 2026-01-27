@@ -3,7 +3,7 @@ title: "Fürstliche Hofreitschule"
 site_name: "Fürstliche Hofreitschule"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fürstliche Hofreitschule, located in the charming town of Bückeburg, Germany, is not just a museum; it is a captivating exploration of equestrian..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

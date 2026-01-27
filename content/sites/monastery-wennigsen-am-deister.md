@@ -3,7 +3,7 @@ title: "Monastery Wennigsen am Deister"
 site_name: "Monastery Wennigsen am Deister"
 date: 2026-01-26
 draft: false
-description: "Evangelical women's monastery in Wennigsen, Region Hannover, Germany"
+description: "Monastery Wennigsen am Deister, an evangelical women's monastery located in the serene region of Hannover, Germany, offers visitors a unique glimpse into a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

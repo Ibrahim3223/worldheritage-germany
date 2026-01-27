@@ -3,7 +3,7 @@ title: "Düne am Rimmelsberg"
 site_name: "Düne am Rimmelsberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Düne am Rimmelsberg is a captivating nature reserve located in the serene region of Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

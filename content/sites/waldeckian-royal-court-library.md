@@ -3,7 +3,7 @@ title: "Waldeckian Royal Court Library"
 site_name: "Waldeckian Royal Court Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Bad Arolsen, Germany, the Waldeckian Royal Court Library stands as a prominent institution dedicated to the preservation and dissemination..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Library"

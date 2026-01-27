@@ -3,7 +3,7 @@ title: "Burg Kühlseggen"
 site_name: "Burg Kühlseggen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kühlseggen, a castle located in the charming region of Weilerswist, Germany, is a captivating site that draws visitors interested in history,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

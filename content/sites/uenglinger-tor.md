@@ -3,7 +3,7 @@ title: "Uenglinger Tor"
 site_name: "Uenglinger Tor"
 date: 2026-01-26
 draft: false
-description: "spätmittelalterliches Stadttor in Stendal"
+description: "Uenglinger Tor, a remarkable city gate located in Stendal, Germany, stands as a striking reminder of the architectural prowess and historical significance..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

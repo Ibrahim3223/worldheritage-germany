@@ -3,7 +3,7 @@ title: "former Gerhard-Uhlhorn-Church"
 site_name: "former Gerhard-Uhlhorn-Church"
 date: 2026-01-26
 draft: false
-description: "secularized church building in Hannover, Germany"
+description: "The former Gerhard-Uhlhorn-Church, located in the Linden-Limmer district of Hannover, Germany, is a significant structure that embodies the evolution of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

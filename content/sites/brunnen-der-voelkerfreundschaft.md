@@ -3,7 +3,7 @@ title: "Brunnen der Völkerfreundschaft"
 site_name: "Brunnen der Völkerfreundschaft"
 date: 2026-01-26
 draft: false
-description: "fountain on Alexanderplatz in Berlin, Germany"
+description: "The Brunnen der Völkerfreundschaft, or the Fountain of Friendship of Peoples, is a striking urban feature located in the vibrant Alexanderplatz area of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

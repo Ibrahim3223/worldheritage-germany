@@ -3,7 +3,7 @@ title: "Stadt- und Regionalmuseum Perleberg"
 site_name: "Stadt- und Regionalmuseum Perleberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadt- und Regionalmuseum Perleberg serves as a cultural hub in the charming town of Perleberg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

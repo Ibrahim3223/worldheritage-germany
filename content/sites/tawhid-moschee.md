@@ -3,7 +3,7 @@ title: "Tawhid-Moschee"
 site_name: "Tawhid-Moschee"
 date: 2026-01-26
 draft: false
-description: "mosque in Dietzenbach, Hesse, Germany"
+description: "The Tawhid-Moschee stands as a vital place of worship in Dietzenbach, Hesse, Germany, reflecting the cultural diversity and religious practices of the local..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Burg Konzenberg"
 site_name: "Burg Konzenberg"
 date: 2026-01-26
 draft: false
-description: "ruins of castle in Germany"
+description: "Burg Konzenberg, a remarkable set of ruins perched in the serene Wurmlingen region of Germany, invites exploration by history enthusiasts and curious..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

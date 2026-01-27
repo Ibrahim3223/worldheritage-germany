@@ -3,7 +3,7 @@ title: "Hafenmuseum Bremen"
 site_name: "Hafenmuseum Bremen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hafenmuseum Bremen, located in the Walle district of Bremen, Germany, is a museum dedicated to the rich maritime heritage of the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

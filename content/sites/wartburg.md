@@ -3,7 +3,7 @@ title: "Wartburg"
 site_name: "Wartburg"
 date: 2026-01-26
 draft: false
-description: "castle in Eisenach, Germany"
+description: "Wartburg, a remarkable castle located in the picturesque town of Eisenach, Germany, is not only an architectural marvel but also a site of profound..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

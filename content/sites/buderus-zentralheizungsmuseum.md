@@ -3,7 +3,7 @@ title: "Buderus Zentralheizungsmuseum"
 site_name: "Buderus Zentralheizungsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Buderus Zentralheizungsmuseum in Germany offers a fascinating glimpse into the evolution of heating technology, showcasing the pivotal role of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

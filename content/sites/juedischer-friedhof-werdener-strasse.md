@@ -3,7 +3,7 @@ title: "Jüdischer Friedhof Werdener Straße"
 site_name: "Jüdischer Friedhof Werdener Straße"
 date: 2026-01-26
 draft: false
-description: "memorial of a Jewish cemetery in Ratingen, Germany"
+description: "The Jüdischer Friedhof Werdener Straße, or Jewish Cemetery of Werdener Straße, is a poignant memorial located in Ratingen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

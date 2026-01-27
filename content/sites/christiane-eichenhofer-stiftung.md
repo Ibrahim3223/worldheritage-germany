@@ -3,7 +3,7 @@ title: "Christiane Eichenhofer Stiftung"
 site_name: "Christiane Eichenhofer Stiftung"
 date: 2026-01-26
 draft: false
-description: "Stiftung zur Unterstützung kranker Kinder"
+description: "Located in the heart of Germany, the Christiane Eichenhofer Stiftung serves as a vital foundation dedicated to supporting sick children."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Haus Schulenburg"
 site_name: "Haus Schulenburg"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Haus Schulenburg is a captivating museum located in Gera, Germany, known for its architectural significance and cultural offerings."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

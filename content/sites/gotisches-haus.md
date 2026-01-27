@@ -3,7 +3,7 @@ title: "Gotisches Haus"
 site_name: "Gotisches Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the picturesque region of Oranienbaum-Wörlitz, Germany, Gotisches Haus is an intriguing museum that invites visitors to explore its unique..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Building"

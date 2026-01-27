@@ -3,7 +3,7 @@ title: "Rathaus Hoym"
 site_name: "Rathaus Hoym"
 date: 2026-01-26
 draft: false
-description: "Bauwerk"
+description: "Rathaus Hoym, the town hall of Hoym located in the Seeland region of Germany, represents an essential part of the community's civic life."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

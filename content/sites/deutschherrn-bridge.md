@@ -3,7 +3,7 @@ title: "Deutschherrn bridge"
 site_name: "Deutschherrn bridge"
 date: 2026-01-26
 draft: false
-description: "railway bridge in Frankfurt, Germany"
+description: "The Deutschherrn Bridge, a prominent railway bridge located in Frankfurt, Germany, serves as a vital corridor for rail transportation while symbolizing the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Sammlung bäuerlicher Geräte"
 site_name: "Sammlung bäuerlicher Geräte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sammlung bäuerlicher Geräte, a notable museum located in Germany, offers an insightful glimpse into the agricultural heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

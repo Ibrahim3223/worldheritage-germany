@@ -3,7 +3,7 @@ title: "Dorfkirche Cammin"
 site_name: "Dorfkirche Cammin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Cammin is an intriguing church building located in the quaint region of Cammin, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

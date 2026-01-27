@@ -3,7 +3,7 @@ title: "Ernestinenschule"
 site_name: "Ernestinenschule"
 date: 2026-01-26
 draft: false
-description: "school and architectural structure"
+description: "In the heart of Lübeck's Old City, the Ernestinenschule stands as a significant landmark, intertwining the realms of education and architecture within a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

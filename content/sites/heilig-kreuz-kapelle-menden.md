@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kapelle (Menden)"
 site_name: "Heilig-Kreuz-Kapelle (Menden)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Heilig-Kreuz-Kapelle, a serene chapel located in Menden, Sauerland, Germany, presents visitors with an opportunity to explore a significant piece of local..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Gustav-Lübcke-Museum"
 site_name: "Gustav-Lübcke-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamm, Germany"
+description: "The Gustav-Lübcke-Museum in Hamm, Germany, serves as a vital cultural hub, offering visitors a glimpse into the region's artistic heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

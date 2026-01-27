@@ -3,7 +3,7 @@ title: "Bertha-von-Suttner-Platz"
 site_name: "Bertha-von-Suttner-Platz"
 date: 2026-01-26
 draft: false
-description: "square in Bonn, Germany"
+description: "Bertha-von-Suttner-Platz, situated in Bonn, Germany, serves as a modern urban square that is not only a vibrant public space but also a significant homage..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

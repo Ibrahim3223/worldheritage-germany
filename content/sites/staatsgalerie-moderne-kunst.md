@@ -3,7 +3,7 @@ title: "Staatsgalerie Moderne Kunst"
 site_name: "Staatsgalerie Moderne Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Augsburg"
+description: "The Staatsgalerie Moderne Kunst, located in the vibrant city of Augsburg, Germany, serves as a prominent destination for art enthusiasts and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

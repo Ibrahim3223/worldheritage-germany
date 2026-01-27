@@ -3,7 +3,7 @@ title: "Stadtpromenade Cottbus"
 site_name: "Stadtpromenade Cottbus"
 date: 2026-01-26
 draft: false
-description: "public square in Cottbus, Germany"
+description: "In the heart of Cottbus, Germany, lies the Stadtpromenade Cottbus, a vibrant public square that invites both locals and visitors to immerse themselves in..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Little France"
 site_name: "Little France"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Little France is an enchanting castle located in the picturesque region of Erlenbach bei Dahn, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

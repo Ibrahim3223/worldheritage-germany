@@ -3,7 +3,7 @@ title: "Golden Madonna of Essen"
 site_name: "Golden Madonna of Essen"
 date: 2026-01-26
 draft: false
-description: "sculpture of the Virgin Mary and the infant Jesus in Essen Cathedral, Germany"
+description: "The Golden Madonna of Essen is an exquisite statue located in the heart of Essen Cathedral, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

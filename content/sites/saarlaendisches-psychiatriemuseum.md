@@ -3,7 +3,7 @@ title: "Saarländisches Psychiatriemuseum"
 site_name: "Saarländisches Psychiatriemuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tucked away in the heart of Germany, the Saarländisches Psychiatriemuseum offers a unique lens through which to explore the complex history of mental health..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

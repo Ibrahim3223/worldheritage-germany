@@ -3,7 +3,7 @@ title: "Kleiner Winterberg"
 site_name: "Kleiner Winterberg"
 date: 2026-01-26
 draft: false
-description: "mountain in central Germany"
+description: "Kleiner Winterberg, a prominent mountain located in the Wernigerode region of Germany, serves as a captivating destination for outdoor enthusiasts and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

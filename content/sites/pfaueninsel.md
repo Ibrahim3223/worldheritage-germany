@@ -3,7 +3,7 @@ title: "Pfaueninsel"
 site_name: "Pfaueninsel"
 date: 2026-01-26
 draft: false
-description: "island in the River Havel in Berlin, Germany"
+description: "Pfaueninsel, an enchanting island in the River Havel, is located in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Island"

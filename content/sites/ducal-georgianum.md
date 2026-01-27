@@ -3,7 +3,7 @@ title: "Ducal Georgianum"
 site_name: "Ducal Georgianum"
 date: 2026-01-26
 draft: false
-description: "seminary"
+description: "The Ducal Georgianum, located in Munich, Germany, serves as a remarkable seminary museum with deep educational significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

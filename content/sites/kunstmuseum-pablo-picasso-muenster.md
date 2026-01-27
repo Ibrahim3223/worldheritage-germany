@@ -3,7 +3,7 @@ title: "Kunstmuseum Pablo Picasso Münster"
 site_name: "Kunstmuseum Pablo Picasso Münster"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstmuseum Pablo Picasso Münster is a prominent art museum located in the vibrant city of Münster, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

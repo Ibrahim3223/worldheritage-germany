@@ -3,7 +3,7 @@ title: "Denkmal der Gattenzärtlichkeit und Volksliebe"
 site_name: "Denkmal der Gattenzärtlichkeit und Volksliebe"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Stuttgart, Germany, visitors will find the Denkmal der Gattenzärtlichkeit und Volksliebe, an evocative monument that captures the spirit of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

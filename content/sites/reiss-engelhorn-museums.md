@@ -3,7 +3,7 @@ title: "Reiss-Engelhorn Museums"
 site_name: "Reiss-Engelhorn Museums"
 date: 2026-01-26
 draft: false
-description: "public institution for museums and cultural institutions in Mannheim, Germany"
+description: "The Reiss-Engelhorn Museums in Mannheim, Germany, invite visitors to explore a diverse array of cultural narratives and artistic expressions."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

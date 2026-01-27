@@ -3,7 +3,7 @@ title: "Ernst-August-Stollen"
 site_name: "Ernst-August-Stollen"
 date: 2026-01-26
 draft: false
-description: "Wasserlösungsstollen im Harz"
+description: "Ernst-August-Stollen, a notable water drainage gallery located in the Harz region of Germany, offers a unique glimpse into the intricate systems utilized..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Water Drainage Gallery"

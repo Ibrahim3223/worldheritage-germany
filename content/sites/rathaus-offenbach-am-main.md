@@ -3,7 +3,7 @@ title: "Rathaus Offenbach am Main"
 site_name: "Rathaus Offenbach am Main"
 date: 2026-01-26
 draft: false
-description: "city hall"
+description: "Rathaus Offenbach am Main stands at the heart of the city, serving as both a civic center and a symbol of local governance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

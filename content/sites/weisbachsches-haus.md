@@ -3,7 +3,7 @@ title: "Weisbachsches Haus"
 site_name: "Weisbachsches Haus"
 date: 2026-01-26
 draft: false
-description: "heritage building in Plauen (Vogtl), Germany"
+description: "Weisbachsches Haus, a notable museum located in Plauen, Germany, offers visitors a glimpse into the rich cultural heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

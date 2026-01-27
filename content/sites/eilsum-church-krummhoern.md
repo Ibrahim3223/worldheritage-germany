@@ -3,7 +3,7 @@ title: "Eilsum Church (Krummhörn)"
 site_name: "Eilsum Church (Krummhörn)"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Lower Saxony, Germany"
+description: "Eilsum Church, located in the picturesque region of Krummhörn in Lower Saxony, Germany, is a church building that embodies the architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

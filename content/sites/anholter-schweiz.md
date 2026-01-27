@@ -3,7 +3,7 @@ title: "Anholter Schweiz"
 site_name: "Anholter Schweiz"
 date: 2026-01-26
 draft: false
-description: "park and zoo in Anholt, Germany"
+description: "Anholter Schweiz, a unique fusion of a park and zoo, is located in Anholt, Germany, offering visitors a delightful escape into nature and wildlife."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

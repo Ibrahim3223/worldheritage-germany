@@ -3,7 +3,7 @@ title: "Zuflucht-Kirche"
 site_name: "Zuflucht-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Zuflucht-Kirche, a notable church building located in the Spandau district of Berlin, Germany, is an important site that reflects the rich cultural and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

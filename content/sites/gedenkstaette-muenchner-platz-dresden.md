@@ -3,7 +3,7 @@ title: "Gedenkstätte Münchner Platz Dresden"
 site_name: "Gedenkstätte Münchner Platz Dresden"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "Gedenkstätte Münchner Platz Dresden serves as a poignant memorial and museum dedicated to the victims of political repression during the Nazi regime."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

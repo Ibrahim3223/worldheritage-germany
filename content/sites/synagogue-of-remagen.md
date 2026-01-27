@@ -3,7 +3,7 @@ title: "synagogue of Remagen"
 site_name: "synagogue of Remagen"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The synagogue of Remagen, located in the Rhineland-Palatinate region of Germany, serves as a significant monument to the Jewish heritage of the area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

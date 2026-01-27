@@ -3,7 +3,7 @@ title: "Müglitztalbahn (Sachgesamtheit); Brücke Glashütte"
 site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Glashütte"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Müglitztalbahn, specifically the Brücke Glashütte, represents a significant piece of engineering and cultural heritage in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

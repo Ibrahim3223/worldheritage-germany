@@ -3,7 +3,7 @@ title: "Dillenburg station"
 site_name: "Dillenburg station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dillenburg, Germany"
+description: "Dillenburg station, located in the heart of Dillenburg, Germany, serves as a significant hub in the region's railway network."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

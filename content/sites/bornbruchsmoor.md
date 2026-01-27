@@ -3,7 +3,7 @@ title: "Bornbruchsmoor"
 site_name: "Bornbruchsmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bornbruchsmoor is a nature reserve located in the Wittingen region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

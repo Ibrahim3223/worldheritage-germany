@@ -3,7 +3,7 @@ title: "Museum Koenig"
 site_name: "Museum Koenig"
 date: 2026-01-26
 draft: false
-description: "museum in Bonn"
+description: "Museum Koenig is a distinguished institution located in Bonn, Germany, that serves as a key hub for those interested in natural history and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

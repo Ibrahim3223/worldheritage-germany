@@ -3,7 +3,7 @@ title: "Concentration Camp Moringen"
 site_name: "Concentration Camp Moringen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Concentration Camp Moringen, located in the town of Moringen, Germany, serves as a poignant memorial commemorating a dark chapter in history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

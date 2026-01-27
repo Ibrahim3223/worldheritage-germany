@@ -3,7 +3,7 @@ title: "Bogenhausener Tor"
 site_name: "Bogenhausener Tor"
 date: 2026-01-26
 draft: false
-description: "Bürohochäuser im Münchener Stadtteil Steinhausen"
+description: "Bogenhausener Tor, located in the Bogenhausen district of Munich, Germany, presents a striking architectural ensemble that captures the attention of both..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

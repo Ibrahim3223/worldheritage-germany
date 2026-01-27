@@ -3,7 +3,7 @@ title: "Ahlen-Falkenberger Moor, Halemer/Dahlemer See"
 site_name: "Ahlen-Falkenberger Moor, Halemer/Dahlemer See"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ahlen-Falkenberger Moor, located in the Steinau region of Lower Saxony, Germany, is a remarkable nature reserve that showcases the region's unique..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Eschweiler Altstadt"
 site_name: "Eschweiler Altstadt"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Eschweiler Altstadt, the historic old town of Eschweiler in Germany, is a vibrant blend of cultural heritage and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Old Town"

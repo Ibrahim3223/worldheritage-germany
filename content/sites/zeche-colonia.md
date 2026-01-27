@@ -3,7 +3,7 @@ title: "Zeche Colonia"
 site_name: "Zeche Colonia"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Colonia, located in Bochum, Germany, is a significant industrial heritage site that reflects the storied history of coal mining in the Ruhr area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

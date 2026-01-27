@@ -3,7 +3,7 @@ title: "Schillerhäuschen Dresden"
 site_name: "Schillerhäuschen Dresden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schillerhäuschen Dresden is a cultural institution that invites visitors to explore the life and work of one of Germany's most celebrated poets, Friedrich..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

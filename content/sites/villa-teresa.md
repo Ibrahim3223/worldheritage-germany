@@ -3,7 +3,7 @@ title: "Villa Teresa"
 site_name: "Villa Teresa"
 date: 2026-01-26
 draft: false
-description: "museum and centre for chamber music in Coswig, Germany"
+description: "Villa Teresa, located in the picturesque town of Coswig, Germany, serves as a vibrant museum and a centre for chamber music."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

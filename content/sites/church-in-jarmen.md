@@ -3,7 +3,7 @@ title: "Church in Jarmen"
 site_name: "Church in Jarmen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Jarmen stands as a noteworthy example of ecclesiastical architecture in northeastern Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

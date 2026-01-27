@@ -3,7 +3,7 @@ title: "Dankes-Kirche"
 site_name: "Dankes-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dankes-Kirche is a notable church building situated in the Bezirk Mitte district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

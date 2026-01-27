@@ -3,7 +3,7 @@ title: "Bagger 1452"
 site_name: "Bagger 1452"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Bagger 1452, located in the historic city of Görlitz, Germany, is a unique museum dedicated to the fascinating world of industrial heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

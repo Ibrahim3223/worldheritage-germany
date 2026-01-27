@@ -3,7 +3,7 @@ title: "Die Rettungstat des Hauptmann Igor Belikow"
 site_name: "Die Rettungstat des Hauptmann Igor Belikow"
 date: 2026-01-26
 draft: false
-description: "sculpture and memorial in Magdeburg, Germany"
+description: "In the heart of Magdeburg, Germany, stands a poignant memorial dedicated to the courageous actions of Captain Igor Belikow."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

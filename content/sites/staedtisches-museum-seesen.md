@@ -3,7 +3,7 @@ title: "Städtisches Museum Seesen"
 site_name: "Städtisches Museum Seesen"
 date: 2026-01-26
 draft: false
-description: "museum in Seesen, Germany"
+description: "The Städtisches Museum Seesen offers visitors an engaging glimpse into the cultural heritage of Seesen, a town located within the picturesque region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

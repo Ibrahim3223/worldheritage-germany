@@ -3,7 +3,7 @@ title: "Statue of Leopold I, Prince of Anhalt-Dessau"
 site_name: "Statue of Leopold I, Prince of Anhalt-Dessau"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "The Statue of Leopold I, Prince of Anhalt-Dessau, stands as a prominent figure in Berlin, Germany, embodying the legacy of a notable historical figure in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

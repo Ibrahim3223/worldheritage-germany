@@ -3,7 +3,7 @@ title: "Planetarium Jena"
 site_name: "Planetarium Jena"
 date: 2026-01-26
 draft: false
-description: "planetarium in Jena, Thuringia, Germany"
+description: "Planetarium Jena, situated in the heart of Jena, Thuringia, Germany, is an extraordinary monument dedicated to the wonders of the cosmos."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

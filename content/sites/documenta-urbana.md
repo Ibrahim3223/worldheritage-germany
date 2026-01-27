@@ -3,7 +3,7 @@ title: "Documenta urbana"
 site_name: "Documenta urbana"
 date: 2026-01-26
 draft: false
-description: "residential complex in the southwest of Kassel, Hesse"
+description: "In the southwest of Kassel, Germany, lies Documenta urbana, an architectural ensemble that invites both residents and visitors to explore a unique blend of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Die starke Linke"
 site_name: "Die starke Linke"
 date: 2026-01-26
 draft: false
-description: "artwork in public space by Alfred Hrdlicka in Wuppertal, Germany"
+description: "Die starke Linke is a poignant memorial located in Wuppertal, Germany, crafted by the notable artist Alfred Hrdlicka."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Botanischer Garten Bielefeld"
 site_name: "Botanischer Garten Bielefeld"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Bielefeld, Germany"
+description: "The Botanischer Garten Bielefeld serves as a green sanctuary in the heart of Bielefeld, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

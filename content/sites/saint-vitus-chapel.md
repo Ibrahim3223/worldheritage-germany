@@ -3,7 +3,7 @@ title: "Saint Vitus Chapel"
 site_name: "Saint Vitus Chapel"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Saint Vitus Chapel, a serene religious structure located in Lennestadt, Germany, invites visitors to explore its spiritual ambiance and architectural charm."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

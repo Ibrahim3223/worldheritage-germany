@@ -3,7 +3,7 @@ title: "Gustav-Adolf-Kirche"
 site_name: "Gustav-Adolf-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Niederursel, Germany"
+description: "Gustav-Adolf-Kirche, located in the charming district of Niederursel in Frankfurt-Nord-West, Germany, stands as an inviting landmark for both locals and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Wohn- und Geschäftshaus"
 site_name: "Wohn- und Geschäftshaus"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-460 (0) in Bamberg, Bavaria"
+description: "Nestled within the historical landscape of Bamberg, Germany, the Wohn- und Geschäftshaus is a remarkable example of a cultural heritage monument that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

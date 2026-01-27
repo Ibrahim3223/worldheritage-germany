@@ -3,7 +3,7 @@ title: "Kiel Castle"
 site_name: "Kiel Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Kiel, Germany"
+description: "Kiel Castle, located in the vibrant city of Kiel, Germany, serves as a remarkable piece of architectural and historical significance."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Heimatmuseum Lackenhäuser"
 site_name: "Heimatmuseum Lackenhäuser"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Lackenhäuser serves as a cultural repository, encapsulating the heritage of the region in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Alter Friedhof Langerfeld"
 site_name: "Alter Friedhof Langerfeld"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wuppertal, Germany"
+description: "Alter Friedhof Langerfeld, located in Wuppertal, Germany, is a cemetery that offers visitors a unique glimpse into the cultural and historical narratives of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

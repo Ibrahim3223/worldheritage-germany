@@ -3,7 +3,7 @@ title: "Ziest"
 site_name: "Ziest"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Ziest, a tranquil lake located in the picturesque region of Mecklenburg-Vorpommern, Germany, serves as a serene escape for nature lovers and those seeking a..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

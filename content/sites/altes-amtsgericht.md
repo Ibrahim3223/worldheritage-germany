@@ -3,7 +3,7 @@ title: "Altes Amtsgericht"
 site_name: "Altes Amtsgericht"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Situated in the historic town of Bad Camberg, Altes Amtsgericht serves as a striking example of a courthouse that combines architectural elegance with..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

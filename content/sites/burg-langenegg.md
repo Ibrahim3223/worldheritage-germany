@@ -3,7 +3,7 @@ title: "Burg Langenegg"
 site_name: "Burg Langenegg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Langenegg, an impressive castle located in the quaint region of Waltenhofen, Germany, offers a glimpse into the medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

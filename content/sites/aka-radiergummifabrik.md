@@ -3,7 +3,7 @@ title: "AKA-Radiergummifabrik"
 site_name: "AKA-Radiergummifabrik"
 date: 2026-01-26
 draft: false
-description: "former company in Hannover, Germany"
+description: "The AKA-Radiergummifabrik, a significant former factory located in Hannover, Germany, offers a unique glimpse into the industrial past of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

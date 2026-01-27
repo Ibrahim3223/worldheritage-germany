@@ -3,7 +3,7 @@ title: "Burg Katzenstein"
 site_name: "Burg Katzenstein"
 date: 2026-01-26
 draft: false
-description: "castle in Langenburg, Germany"
+description: "Burg Katzenstein stands as a remarkable testament to medieval architecture, perched in the quaint area of Bächlingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Museum der Bayerischen Geschichte"
 site_name: "Museum der Bayerischen Geschichte"
 date: 2026-01-26
 draft: false
-description: "History museum in Regensburg, Germany"
+description: "The Museum der Bayerischen Geschichte, located in Regensburg, Germany, serves as a vital cultural hub that invites visitors to explore the rich historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

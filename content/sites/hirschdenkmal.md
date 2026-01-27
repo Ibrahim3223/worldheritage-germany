@@ -3,7 +3,7 @@ title: "Hirschdenkmal"
 site_name: "Hirschdenkmal"
 date: 2026-01-26
 draft: false
-description: "Denkmal bei Stolberg (Harz) in Sachsen-Anhalt"
+description: "Hirschdenkmal, a prominent monument located near Stolberg in the Harz region of Sachsen-Anhalt, Germany, stands as a poignant reminder of the area's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Am Wall Windmill"
 site_name: "Am Wall Windmill"
 date: 2026-01-26
 draft: false
-description: "German windmill"
+description: "Am Wall Windmill is a fascinating example of German windmill architecture, located in the heart of the Mitte district in Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

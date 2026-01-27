@@ -3,7 +3,7 @@ title: "Jakobskirche"
 site_name: "Jakobskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Baden-Württemberg, Germany"
+description: "In the heart of Baden-Württemberg, Germany, lies Jakobskirche, a church building that stands as a significant landmark in Adelsheim."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bockerter Heide"
 site_name: "Bockerter Heide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Viersen, North Rhine-Westphalia, Germany"
+description: "Bockerter Heide is a captivating nature reserve located in the Viersen region of North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

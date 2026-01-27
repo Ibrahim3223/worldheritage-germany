@@ -3,7 +3,7 @@ title: "Feinmechanisches Museum Fellenbergmühle"
 site_name: "Feinmechanisches Museum Fellenbergmühle"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Feinmechanisches Museum Fellenbergmühle in Merzig, Germany, invites visitors to explore the intricate world of precision mechanics and craftsmanship."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

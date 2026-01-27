@@ -3,7 +3,7 @@ title: "Protestant Church of the Savior"
 site_name: "Protestant Church of the Savior"
 date: 2026-01-26
 draft: false
-description: "Church building in Dresden-Cotta, Saxony, Germany"
+description: "The Protestant Church of the Savior, located in the Dresden-Cotta district of Germany, represents a vital chapter in the region's rich ecclesiastical heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

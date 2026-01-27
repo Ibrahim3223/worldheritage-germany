@@ -3,7 +3,7 @@ title: "Kabarett Änderungsschneiderei"
 site_name: "Kabarett Änderungsschneiderei"
 date: 2026-01-26
 draft: false
-description: "deutsch-türkisches Kabarett"
+description: "Kabarett Änderungsschneiderei, located in Frankfurt, Germany, serves as a vibrant cultural venue that intertwines German and Turkish artistic expressions."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

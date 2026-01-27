@@ -3,7 +3,7 @@ title: "Urmensch-Museum"
 site_name: "Urmensch-Museum"
 date: 2026-01-26
 draft: false
-description: "prehistoric man museum in Steinheim an der Murr, Germany"
+description: "In the heart of Steinheim an der Murr, Germany, lies the Urmensch-Museum, a unique institution dedicated to the exploration of prehistoric man."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

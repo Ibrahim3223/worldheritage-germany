@@ -3,7 +3,7 @@ title: "St. Mariä Himmelfahrt"
 site_name: "St. Mariä Himmelfahrt"
 date: 2026-01-26
 draft: false
-description: "church building in Cologne, Germany"
+description: "St. Mariä Himmelfahrt, a prominent church building located in Cologne, Germany, is a site of both spiritual significance and architectural interest."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

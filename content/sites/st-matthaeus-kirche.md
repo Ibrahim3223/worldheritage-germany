@@ -3,7 +3,7 @@ title: "St.-Matthäus-Kirche"
 site_name: "St.-Matthäus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Resterhafe, Germany"
+description: "St.-Matthäus-Kirche, located in Resterhafe, Germany, is a striking church building that serves as a focal point of the community and a reflection of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

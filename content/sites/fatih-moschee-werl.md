@@ -3,7 +3,7 @@ title: "Fatih-Moschee (Werl)"
 site_name: "Fatih-Moschee (Werl)"
 date: 2026-01-26
 draft: false
-description: "Moschee in Werl"
+description: "The Fatih-Moschee in Werl stands as a significant point of cultural and religious interest within the town."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

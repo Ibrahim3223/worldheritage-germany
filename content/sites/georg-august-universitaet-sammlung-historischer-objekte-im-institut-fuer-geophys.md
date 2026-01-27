@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Sammlung historischer Objekte im Institut fü
 site_name: "Georg-August-Universität: Sammlung historischer Objekte im Institut für Geophysik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Georg-August-Universität: Sammlung historischer Objekte im Institut für Geophysik is a noteworthy museum located in the historic university town of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schwedenspeicher-Museum"
 site_name: "Schwedenspeicher-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Stade, Germany"
+description: "The Schwedenspeicher-Museum is a prominent cultural institution located in the heart of Stade, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

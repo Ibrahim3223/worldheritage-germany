@@ -3,7 +3,7 @@ title: "Staatsschauspiel Dresden"
 site_name: "Staatsschauspiel Dresden"
 date: 2026-01-26
 draft: false
-description: "building of state drama theatre in Dresden, Saxony, Germany"
+description: "Staatsschauspiel Dresden is a prominent theatre building located in the heart of Dresden, Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

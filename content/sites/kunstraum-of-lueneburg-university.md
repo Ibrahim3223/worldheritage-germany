@@ -3,7 +3,7 @@ title: "Kunstraum of Lüneburg University"
 site_name: "Kunstraum of Lüneburg University"
 date: 2026-01-26
 draft: false
-description: "Contemporary art gallery in Germany"
+description: "The Kunstraum of Lüneburg University stands as a contemporary art gallery that invites visitors into a world of innovative artistic expression in Lüneburg,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

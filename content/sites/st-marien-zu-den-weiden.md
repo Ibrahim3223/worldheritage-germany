@@ -3,7 +3,7 @@ title: "St. Marien zu den Weiden"
 site_name: "St. Marien zu den Weiden"
 date: 2026-01-26
 draft: false
-description: "church building in Wismar, Germany"
+description: "St. Marien zu den Weiden is a remarkable church building located in the historic town of Wismar, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

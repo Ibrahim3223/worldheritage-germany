@@ -3,7 +3,7 @@ title: "Greetsiel Church"
 site_name: "Greetsiel Church"
 date: 2026-01-26
 draft: false
-description: "church in Greetsiel (Krummhörn), Lower Saxony, Germany"
+description: "Greetsiel Church, a notable church building located in the charming village of Greetsiel within the Krummhörn region of Lower Saxony, Germany, stands as an..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

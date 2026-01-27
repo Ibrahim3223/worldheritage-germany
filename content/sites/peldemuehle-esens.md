@@ -3,7 +3,7 @@ title: "Peldemühle Esens"
 site_name: "Peldemühle Esens"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
+description: "In the heart of Ostfriesland, Germany, the Peldemühle Esens stands proudly as a quintessential representation of traditional windmill architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

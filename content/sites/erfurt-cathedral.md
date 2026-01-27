@@ -3,7 +3,7 @@ title: "Erfurt Cathedral"
 site_name: "Erfurt Cathedral"
 date: 2026-01-26
 draft: false
-description: "church in Thuringia, Germany"
+description: "Erfurt Cathedral, situated in the heart of Thuringia, Germany, rises majestically above the city skyline, serving as both a spiritual center and a..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Cathedral"

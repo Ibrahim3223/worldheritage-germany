@@ -3,7 +3,7 @@ title: "Aula Carolina"
 site_name: "Aula Carolina"
 date: 2026-01-26
 draft: false
-description: "school building"
+description: "Aula Carolina, located in Aachen-Mitte, Germany, is a notable school building that embodies the architectural and educational heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

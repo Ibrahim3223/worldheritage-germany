@@ -3,7 +3,7 @@ title: "Dynamite factory Krümmel"
 site_name: "Dynamite factory Krümmel"
 date: 2026-01-26
 draft: false
-description: "historische Sprengstofffabrik bei Geesthacht"
+description: "The Dynamite Factory Krümmel, located in Geesthacht, Germany, is a historical industrial site that reflects the evolution of explosives manufacturing."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

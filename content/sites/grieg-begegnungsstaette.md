@@ -3,7 +3,7 @@ title: "Grieg-Begegnungsstätte"
 site_name: "Grieg-Begegnungsstätte"
 date: 2026-01-26
 draft: false
-description: "museum and meeting point of Grieg in Leipzig"
+description: "The Grieg-Begegnungsstätte in Leipzig serves as a vibrant museum and meeting point dedicated to the life and work of Edvard Grieg, one of Norway's most..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

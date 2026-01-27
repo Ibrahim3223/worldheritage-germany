@@ -3,7 +3,7 @@ title: "Jakobsberg Telecommunication Tower"
 site_name: "Jakobsberg Telecommunication Tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Jakobsberg Telecommunication Tower, located in the scenic region of Porta Westfalica, Germany, is an iconic structure that prominently shapes the area’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

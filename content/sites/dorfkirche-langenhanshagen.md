@@ -3,7 +3,7 @@ title: "Dorfkirche Langenhanshagen"
 site_name: "Dorfkirche Langenhanshagen"
 date: 2026-01-26
 draft: false
-description: "church building in Trinwillershagen, Germany"
+description: "Dorfkirche Langenhanshagen is a serene church building situated in the tranquil village of Trinwillershagen, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

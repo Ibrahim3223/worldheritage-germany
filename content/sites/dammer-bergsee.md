@@ -3,7 +3,7 @@ title: "Dammer Bergsee"
 site_name: "Dammer Bergsee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Dammer Bergsee, a designated nature reserve located in the tranquil region of Damme, Lower Saxony, Germany, is a sanctuary for both wildlife and those..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

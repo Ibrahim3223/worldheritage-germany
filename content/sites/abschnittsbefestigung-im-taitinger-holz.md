@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung im Taitinger Holz"
 site_name: "Abschnittsbefestigung im Taitinger Holz"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Abschnittsbefestigung im Taitinger Holz represents an intriguing chapter in Germany's medieval architectural narrative."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Schafbrücke Wegefarth"
 site_name: "Schafbrücke Wegefarth"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Schafbrücke Wegefarth is an intriguing bridge located in the serene region of Oberschöna, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

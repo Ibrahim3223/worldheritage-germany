@@ -3,7 +3,7 @@ title: "Mathematisch-Physikalischer Salon"
 site_name: "Mathematisch-Physikalischer Salon"
 date: 2026-01-26
 draft: false
-description: "museum of historic clocks and scientific instruments"
+description: "The Mathematisch-Physikalischer Salon, located in the heart of Dresden, Germany, is a museum dedicated to the fascinating world of historic clocks and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

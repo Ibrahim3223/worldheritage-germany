@@ -3,7 +3,7 @@ title: "Grenzdenkmal Berkach"
 site_name: "Grenzdenkmal Berkach"
 date: 2026-01-26
 draft: false
-description: "monument in Grabfeld, Thuringia, Germany"
+description: "The Grenzdenkmal Berkach is a poignant monument located in the Grabfeld region of Thuringia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

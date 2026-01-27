@@ -3,7 +3,7 @@ title: "Heussallee 7–11"
 site_name: "Heussallee 7–11"
 date: 2026-01-26
 draft: false
-description: "ensemble of apartment buildings in Bonn, Germany"
+description: "Heussallee 7–11 presents a striking architectural ensemble located in the Stadtbezirk of Bonn, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Museum im Kulturspeicher Würzburg"
 site_name: "Museum im Kulturspeicher Würzburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum im Kulturspeicher Würzburg is a notable art museum situated in the historic city of Würzburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

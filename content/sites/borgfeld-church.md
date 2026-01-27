@@ -3,7 +3,7 @@ title: "Borgfeld church"
 site_name: "Borgfeld church"
 date: 2026-01-26
 draft: false
-description: "church building in Bremen-Borgfeld, Germany"
+description: "Located in the serene village of Borgfeld, the Borgfeld church is an architectural and cultural landmark in Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Billwerder Ausschlag"
 site_name: "Billwerder Ausschlag"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Billwerder Ausschlag is an intriguing island located in the Hamburg-Mitte region of Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"

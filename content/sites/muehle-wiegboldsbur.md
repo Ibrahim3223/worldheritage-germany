@@ -3,7 +3,7 @@ title: "Mühle Wiegboldsbur"
 site_name: "Mühle Wiegboldsbur"
 date: 2026-01-26
 draft: false
-description: "deutsche Windmühle in Ostfriesland"
+description: "The Mühle Wiegboldsbur is a striking example of traditional German windmill architecture, located in the region of Südbrookmerland, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

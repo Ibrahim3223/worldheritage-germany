@@ -3,7 +3,7 @@ title: "Sankt Jakob (Burghausen)"
 site_name: "Sankt Jakob (Burghausen)"
 date: 2026-01-26
 draft: false
-description: "church building in Burghausen, Upper Bavaria, Germany"
+description: "Sankt Jakob, located in Burghausen, Upper Bavaria, is a remarkable example of ecclesiastical architecture that has stood the test of time."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

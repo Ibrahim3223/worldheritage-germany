@@ -3,7 +3,7 @@ title: "Abtei Wadgassen"
 site_name: "Abtei Wadgassen"
 date: 2026-01-26
 draft: false
-description: "abgegangenes Kloster im Saarland,  Deutschland"
+description: "Abtei Wadgassen, a historical monastery located in Saarlouis, Germany, offers visitors a glimpse into the spiritual and architectural heritage of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

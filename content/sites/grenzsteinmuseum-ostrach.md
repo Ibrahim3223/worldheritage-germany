@@ -3,7 +3,7 @@ title: "Grenzsteinmuseum Ostrach"
 site_name: "Grenzsteinmuseum Ostrach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Grenzsteinmuseum Ostrach serves as a fascinating portal into the historical significance of boundary stones in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

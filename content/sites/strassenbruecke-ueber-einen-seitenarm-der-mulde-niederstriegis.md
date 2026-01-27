@@ -3,7 +3,7 @@ title: "Straßenbrücke über einen Seitenarm der Mulde Niederstriegis"
 site_name: "Straßenbrücke über einen Seitenarm der Mulde Niederstriegis"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über einen Seitenarm der Mulde Niederstriegis, a bridge located in the Roßwein region of Germany, is a remarkable example of functional..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Denkmal für Kurfürst Max Emanuel"
 site_name: "Denkmal für Kurfürst Max Emanuel"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Munich’s historic district, the Denkmal für Kurfürst Max Emanuel stands as a noteworthy monument that encapsulates the city’s rich heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

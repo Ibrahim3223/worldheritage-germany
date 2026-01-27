@@ -3,7 +3,7 @@ title: "Wüstegarten"
 site_name: "Wüstegarten"
 date: 2026-01-26
 draft: false
-description: "mountain in Hesse, Germany"
+description: "Wüstegarten, a prominent mountain located in the picturesque Hesse region of Germany, presents a unique blend of natural beauty and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

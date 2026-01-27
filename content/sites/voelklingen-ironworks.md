@@ -3,7 +3,7 @@ title: "Völklingen Ironworks"
 site_name: "Völklingen Ironworks"
 date: 2026-01-26
 draft: false
-description: "ironworks"
+description: "The Völklingen Ironworks, located in the town of Völklingen in Germany, represents a monumental achievement in industrial architecture and engineering."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Ironworks"

@@ -3,7 +3,7 @@ title: "Augustinerinnenkloster Fritzlar"
 site_name: "Augustinerinnenkloster Fritzlar"
 date: 2026-01-26
 draft: false
-description: "former monastery in Fritzlar, Germany"
+description: "The Augustinerinnenkloster Fritzlar, located in the charming town of Fritzlar, Germany, offers visitors a glimpse into the serene world of monastic life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

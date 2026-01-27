@@ -3,7 +3,7 @@ title: "Karl Marx Memorial"
 site_name: "Karl Marx Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Berlin, Germany"
+description: "In the heart of Berlin, the Karl Marx Memorial stands as a striking tribute to one of the world's most influential thinkers."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

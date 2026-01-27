@@ -3,7 +3,7 @@ title: "Tisa von der Schulenburg-Stiftung"
 site_name: "Tisa von der Schulenburg-Stiftung"
 date: 2026-01-26
 draft: false
-description: "selbständige allgemeine Stiftung des bürgerlichen Rechts"
+description: "The Tisa von der Schulenburg-Stiftung, located in Germany, is a prominent foundation that plays a significant role in the cultural landscape of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

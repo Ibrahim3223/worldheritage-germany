@@ -3,7 +3,7 @@ title: "Moschee Göttingen"
 site_name: "Moschee Göttingen"
 date: 2026-01-26
 draft: false
-description: "Moschee in Göttingen"
+description: "The Moschee Göttingen serves as a significant center for the Muslim community in the city of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Museum Bayerische Metallwarenfabrik"
 site_name: "Museum Bayerische Metallwarenfabrik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum Bayerische Metallwarenfabrik offers a unique glimpse into the world of metalware manufacturing, celebrating the craftsmanship and industrial..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

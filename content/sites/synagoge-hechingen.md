@@ -3,7 +3,7 @@ title: "Synagoge Hechingen"
 site_name: "Synagoge Hechingen"
 date: 2026-01-26
 draft: false
-description: "building in Hechingen, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "The Synagoge Hechingen is a significant religious and cultural landmark situated in the town of Hechingen, located in the Tübingen Government Region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

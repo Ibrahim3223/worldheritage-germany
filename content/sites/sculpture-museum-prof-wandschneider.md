@@ -3,7 +3,7 @@ title: "Sculpture Museum Prof. Wandschneider"
 site_name: "Sculpture Museum Prof. Wandschneider"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sculpture Museum Prof. Wandschneider, located in Plau am See, Germany, stands as a distinguished institution dedicated to the appreciation and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

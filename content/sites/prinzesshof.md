@@ -3,7 +3,7 @@ title: "Prinzesshof"
 site_name: "Prinzesshof"
 date: 2026-01-26
 draft: false
-description: "building in Itzehoe, Germany"
+description: "Prinzesshof, a distinguished palace located in Itzehoe, Germany, offers visitors a glimpse into the architectural elegance and historical significance of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

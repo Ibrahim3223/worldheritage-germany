@@ -3,7 +3,7 @@ title: "Berger Kirche"
 site_name: "Berger Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf, Germany"
+description: "In the heart of Düsseldorf, Germany, the Berger Kirche serves as a serene sanctuary amidst the bustling urban landscape."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

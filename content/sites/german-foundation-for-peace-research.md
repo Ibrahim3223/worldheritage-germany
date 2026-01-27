@@ -3,7 +3,7 @@ title: "German Foundation for Peace Research"
 site_name: "German Foundation for Peace Research"
 date: 2026-01-26
 draft: false
-description: "other organization in Osnabrück, Germany"
+description: "The German Foundation for Peace Research, located in the historic city of Osnabrück, Germany, serves as an important institution dedicated to the promotion..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

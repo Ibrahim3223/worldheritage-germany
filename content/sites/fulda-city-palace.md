@@ -3,7 +3,7 @@ title: "Fulda City Palace"
 site_name: "Fulda City Palace"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Fulda City Palace, a notable museum located in the heart of Fulda, Germany, stands as a significant cultural landmark that attracts visitors from near..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Städtisches Museum Schloss Rheydt"
 site_name: "Städtisches Museum Schloss Rheydt"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Städtisches Museum Schloss Rheydt stands as a significant cultural institution within Mönchengladbach, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

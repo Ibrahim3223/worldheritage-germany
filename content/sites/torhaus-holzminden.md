@@ -3,7 +3,7 @@ title: "Torhaus (Holzminden)"
 site_name: "Torhaus (Holzminden)"
 date: 2026-01-26
 draft: false
-description: "gatehouse in Holzminden"
+description: "The Torhaus in Holzminden, Germany, serves as an intriguing entry point to the region's architectural and historical landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

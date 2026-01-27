@@ -3,7 +3,7 @@ title: "Nassauischer Kunstverein"
 site_name: "Nassauischer Kunstverein"
 date: 2026-01-26
 draft: false
-description: "art museum in Wiesbaden, Germany"
+description: "The Nassauischer Kunstverein, an art museum located in the heart of Wiesbaden, Germany, serves as a vibrant cultural hub that attracts art enthusiasts and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Harry’s klingendes Museum"
 site_name: "Harry’s klingendes Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Schwarmstedt, Germany"
+description: "Harry’s klingendes Museum offers an immersive experience for enthusiasts of music and sound, situated in the quaint town of Schwarmstedt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

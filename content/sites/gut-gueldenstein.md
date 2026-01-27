@@ -3,7 +3,7 @@ title: "Gut Güldenstein"
 site_name: "Gut Güldenstein"
 date: 2026-01-26
 draft: false
-description: "manor house near Harmsdorf, Germany"
+description: "Gut Güldenstein, an elegant manor house located near Harmsdorf in Germany, captures the essence of traditional architectural beauty and cultural significance."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

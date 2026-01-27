@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über die Pulsnitz bei Alte Dorfstraße 26"
 site_name: "Steindeckerbrücke über die Pulsnitz bei Alte Dorfstraße 26"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Steindeckerbrücke, a historic bridge spanning the Pulsnitz River, is located at Alte Dorfstraße 26 in the picturesque Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

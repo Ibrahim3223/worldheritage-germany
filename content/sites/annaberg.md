@@ -3,7 +3,7 @@ title: "Annaberg"
 site_name: "Annaberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Annaberg, a serene nature reserve located in Baindt, Baden-Württemberg, Germany, invites visitors to explore its lush landscapes and diverse ecosystems."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

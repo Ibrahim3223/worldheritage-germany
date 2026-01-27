@@ -3,7 +3,7 @@ title: "Drömlingsee"
 site_name: "Drömlingsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Drömlingsee, located in the Stolpe region of Germany, is a serene lake that offers visitors a tranquil escape into nature."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

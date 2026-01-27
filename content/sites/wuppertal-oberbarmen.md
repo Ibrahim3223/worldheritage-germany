@@ -3,7 +3,7 @@ title: "Wuppertal-Oberbarmen"
 site_name: "Wuppertal-Oberbarmen"
 date: 2026-01-26
 draft: false
-description: "railway station in Wuppertal, Germany"
+description: "Wuppertal-Oberbarmen Railway Station serves as a vital transportation hub in the city of Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

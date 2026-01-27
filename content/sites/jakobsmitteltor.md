@@ -3,7 +3,7 @@ title: "Jakobsmitteltor"
 site_name: "Jakobsmitteltor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "The Jakobsmitteltor in Aachen, Germany, is not just a city gate; it is a significant piece of the architectural and cultural fabric of this historic city."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

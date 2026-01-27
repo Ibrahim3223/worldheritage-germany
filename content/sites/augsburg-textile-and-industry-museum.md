@@ -3,7 +3,7 @@ title: "Augsburg textile and industry museum"
 site_name: "Augsburg textile and industry museum"
 date: 2026-01-26
 draft: false
-description: "museum in Augsburg, Germany"
+description: "The Augsburg Textile and Industry Museum, located in the heart of Augsburg, Germany, offers a captivating glimpse into the world of textile manufacturing..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

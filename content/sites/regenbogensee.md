@@ -3,7 +3,7 @@ title: "Regenbogensee"
 site_name: "Regenbogensee"
 date: 2026-01-26
 draft: false
-description: "Rainbow Lake"
+description: "Regenbogensee, or Rainbow Lake, is a captivating body of water located in the picturesque region of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

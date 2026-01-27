@@ -3,7 +3,7 @@ title: "monument to Leopold of Brunswick-Wolfenbüttel"
 site_name: "monument to Leopold of Brunswick-Wolfenbüttel"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt (Oder), Germany"
+description: "In the heart of Frankfurt (Oder), Germany, stands the monument to Leopold of Brunswick-Wolfenbüttel, a striking commemorative structure that pays homage to..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

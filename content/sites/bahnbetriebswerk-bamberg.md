@@ -3,7 +3,7 @@ title: "Bahnbetriebswerk Bamberg"
 site_name: "Bahnbetriebswerk Bamberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-856 (0) in Bamberg, Bavaria"
+description: "The Bahnbetriebswerk Bamberg is an architectural ensemble that stands as a significant cultural heritage monument in Bamberg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "synagogue of Rülzheim"
 site_name: "synagogue of Rülzheim"
 date: 2026-01-26
 draft: false
-description: "Synagoge in Rülzheim"
+description: "The synagogue of Rülzheim, located in the picturesque Rhineland-Palatinate region of Germany, represents a significant space for cultural heritage and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

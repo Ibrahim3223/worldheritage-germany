@@ -3,7 +3,7 @@ title: "Varel windmill"
 site_name: "Varel windmill"
 date: 2026-01-26
 draft: false
-description: "windmill in Varel, Germany"
+description: "The Varel windmill in Germany stands as a significant example of traditional windmill architecture, embodying the historical agricultural practices of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

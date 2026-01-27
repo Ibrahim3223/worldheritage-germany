@@ -3,7 +3,7 @@ title: "St.-Wendelinus chapel"
 site_name: "St.-Wendelinus chapel"
 date: 2026-01-26
 draft: false
-description: "chapel in Weisenbach, Germany"
+description: "The St.-Wendelinus Chapel, located in the picturesque region of Weisenbach, Germany, is a captivating site that beckons visitors to explore its serene..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

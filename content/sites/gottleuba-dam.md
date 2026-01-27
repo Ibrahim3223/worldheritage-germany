@@ -3,7 +3,7 @@ title: "Gottleuba Dam"
 site_name: "Gottleuba Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Gottleuba Dam, located in the scenic region of Bad Gottleuba-Berggießhübel in Germany, stands as a significant feat of engineering within the country’s..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

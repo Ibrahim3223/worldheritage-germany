@@ -3,7 +3,7 @@ title: "Oppenweher Moorlandschaft"
 site_name: "Oppenweher Moorlandschaft"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Germany"
+description: "Oppenweher Moorlandschaft, a prominent nature reserve located in the Stemwede region of Germany, presents an idyllic landscape characterized by its unique..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

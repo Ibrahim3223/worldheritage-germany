@@ -3,7 +3,7 @@ title: "Gutshaus Federow"
 site_name: "Gutshaus Federow"
 date: 2026-01-26
 draft: false
-description: "building in Federow, Germany"
+description: "Gutshaus Federow, a distinguished manor house located in Kargow, Germany, serves as a remarkable reflection of the region's architectural heritage and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

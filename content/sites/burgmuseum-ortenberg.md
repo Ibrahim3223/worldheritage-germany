@@ -3,7 +3,7 @@ title: "Burgmuseum Ortenberg"
 site_name: "Burgmuseum Ortenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Burgmuseum Ortenberg offers an engaging exploration of local heritage through its diverse exhibits and artifacts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

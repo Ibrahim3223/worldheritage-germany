@@ -3,7 +3,7 @@ title: "Heilenbecker Talsperre"
 site_name: "Heilenbecker Talsperre"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Heilenbecker Talsperre, located in the charming town of Ennepetal in Germany, is a significant dam that plays a crucial role in regional water management."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

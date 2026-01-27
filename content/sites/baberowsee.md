@@ -3,7 +3,7 @@ title: "Baberowsee"
 site_name: "Baberowsee"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Baberowsee is a serene lake located in the Brandenburg region of Germany. Characterized by its tranquil waters and lush surroundings, this lake serves as a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

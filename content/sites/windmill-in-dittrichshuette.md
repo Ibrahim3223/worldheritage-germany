@@ -3,7 +3,7 @@ title: "Windmill in Dittrichshütte"
 site_name: "Windmill in Dittrichshütte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Windmill in Dittrichshütte offers a unique glimpse into the cultural heritage of Germany, situated within the picturesque region of Saalfeld."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

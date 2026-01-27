@@ -3,7 +3,7 @@ title: "Moorgut Karlshof"
 site_name: "Moorgut Karlshof"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Gut in Westerstede im Landkreis Ammerland in Niedersachsen"
+description: "Moorgut Karlshof, located in Westerstede within the Ammerland district of Niedersachsen, Germany, is an architectural ensemble that embodies the cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

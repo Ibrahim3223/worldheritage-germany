@@ -3,7 +3,7 @@ title: "Antikensammlung Kassel"
 site_name: "Antikensammlung Kassel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Antikensammlung Kassel, situated in the heart of Kassel, Germany, is a museum dedicated to the collection and preservation of ancient artifacts."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Mineralogisches Museum Münster"
 site_name: "Mineralogisches Museum Münster"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Mineralogisches Museum Münster, located in the heart of Münster, Germany, is a fascinating destination for those intrigued by the natural world and its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

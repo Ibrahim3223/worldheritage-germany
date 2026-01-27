@@ -3,7 +3,7 @@ title: "Church in Gressow"
 site_name: "Church in Gressow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Gressow is a notable landmark located in the heart of Gägelow, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

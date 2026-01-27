@@ -3,7 +3,7 @@ title: "Village church Reitwein"
 site_name: "Village church Reitwein"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church in Reitwein is not just a church; it is a cultural landmark situated in the serene landscapes of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

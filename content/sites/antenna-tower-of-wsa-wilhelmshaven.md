@@ -3,7 +3,7 @@ title: "Antenna tower of WSA Wilhelmshaven"
 site_name: "Antenna tower of WSA Wilhelmshaven"
 date: 2026-01-26
 draft: false
-description: "tower in Wilhelmshaven, Germany"
+description: "The Antenna Tower of WSA Wilhelmshaven stands as a striking example of modern communication infrastructure within the coastal city of Wilhelmshaven, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

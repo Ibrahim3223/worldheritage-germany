@@ -3,7 +3,7 @@ title: "Stadtkirche St. Jakobus"
 site_name: "Stadtkirche St. Jakobus"
 date: 2026-01-26
 draft: false
-description: "church building in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
+description: "Stadtkirche St. Jakobus is a prominent church building located in the charming town of Brackenheim, nestled within the Heilbronn district of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

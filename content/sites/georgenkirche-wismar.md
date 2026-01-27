@@ -3,7 +3,7 @@ title: "Georgenkirche (Wismar)"
 site_name: "Georgenkirche (Wismar)"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Georgenkirche in Wismar, Germany, stands as a remarkable church building in the heart of Mecklenburg-Vorpommern."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

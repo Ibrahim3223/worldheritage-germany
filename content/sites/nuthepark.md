@@ -3,7 +3,7 @@ title: "Nuthepark"
 site_name: "Nuthepark"
 date: 2026-01-26
 draft: false
-description: "garden in Potsdam, Germany"
+description: "Nuthepark, located in the picturesque region of Potsdam, Germany, is a serene garden that invites visitors to immerse themselves in tranquil surroundings..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

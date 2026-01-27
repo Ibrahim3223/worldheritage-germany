@@ -3,7 +3,7 @@ title: "Hermann-Hesse-Höri-Museum"
 site_name: "Hermann-Hesse-Höri-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Hermann-Hesse-Höri-Museum, located in the picturesque Calw region of Germany, offers visitors a deep dive into the life and works of Hermann Hesse, one..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

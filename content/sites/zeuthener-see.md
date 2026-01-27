@@ -3,7 +3,7 @@ title: "Zeuthener See"
 site_name: "Zeuthener See"
 date: 2026-01-26
 draft: false
-description: "lake situated to the south-east of Berlin, Germany"
+description: "Zeuthener See is a serene lake located to the southeast of Berlin, Germany, offering a tranquil retreat from the bustling city."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "State Museum Nature and Human Oldenburg"
 site_name: "State Museum Nature and Human Oldenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The State Museum Nature and Human Oldenburg is a cultural institution that invites visitors to explore the intricate relationships between humanity and the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

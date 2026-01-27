@@ -3,7 +3,7 @@ title: "Palais Hardenberg"
 site_name: "Palais Hardenberg"
 date: 2026-01-26
 draft: false
-description: "former meeting place of the Prussian Parliament"
+description: "The Palais Hardenberg, a distinguished palace located in the heart of Berlin, holds a significant place in the city’s historical narrative."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

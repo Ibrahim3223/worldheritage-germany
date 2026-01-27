@@ -3,7 +3,7 @@ title: "Fernmeldeturm Wuppertal-Westfalenweg"
 site_name: "Fernmeldeturm Wuppertal-Westfalenweg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Wuppertal-Westfalenweg is an iconic telecommunications tower located in the heart of Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

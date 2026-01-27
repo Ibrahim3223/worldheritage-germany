@@ -3,7 +3,7 @@ title: "Flora (Quedlinburg)"
 site_name: "Flora (Quedlinburg)"
 date: 2026-01-26
 draft: false
-description: "statue in Quedlinburg, Germany"
+description: "In the charming town of Quedlinburg, Germany, visitors will find the captivating statue of Flora, a remarkable piece of artistic expression that adds to the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

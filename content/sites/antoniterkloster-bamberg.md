@@ -3,7 +3,7 @@ title: "Antoniterkloster Bamberg"
 site_name: "Antoniterkloster Bamberg"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "The Antoniterkloster Bamberg, a historic monastery located in Germany, offers visitors a chance to explore a significant chapter of religious and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

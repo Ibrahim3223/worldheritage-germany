@@ -3,7 +3,7 @@ title: "Woterfitzsee"
 site_name: "Woterfitzsee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Woterfitzsee is a serene lake located in the Mecklenburgische Seenplatte District of Germany, a region renowned for its stunning lakes and lush landscapes."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Rheine station"
 site_name: "Rheine station"
 date: 2026-01-26
 draft: false
-description: "railway station in Rheine, Germany"
+description: "Rheine station serves as a vital hub in the heart of Rheine, Germany, connecting travelers to various destinations across the country."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

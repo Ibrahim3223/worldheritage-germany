@@ -3,7 +3,7 @@ title: "Abteiberg Museum"
 site_name: "Abteiberg Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Mönchengladbach, Germany"
+description: "In the heart of Mönchengladbach, Germany, the Abteiberg Museum stands out as a prominent destination for art enthusiasts and cultural explorers alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Gründerzeitmuseum im Gutshaus Mahlsdorf"
 site_name: "Gründerzeitmuseum im Gutshaus Mahlsdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The Gründerzeitmuseum im Gutshaus Mahlsdorf is a unique cultural institution located in the Marzahn-Hellersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

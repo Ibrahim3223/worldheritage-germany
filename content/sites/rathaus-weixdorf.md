@@ -3,7 +3,7 @@ title: "Rathaus Weixdorf"
 site_name: "Rathaus Weixdorf"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Germany"
+description: "Rathaus Weixdorf, the City Hall of Weixdorf, is an architectural and cultural landmark in the Dresden region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

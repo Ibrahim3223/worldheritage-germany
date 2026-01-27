@@ -3,7 +3,7 @@ title: "Galerie Wilhelm Kimmich"
 site_name: "Galerie Wilhelm Kimmich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Galerie Wilhelm Kimmich serves as an intriguing cultural destination in Germany, inviting visitors to explore a diverse array of artistic expressions."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

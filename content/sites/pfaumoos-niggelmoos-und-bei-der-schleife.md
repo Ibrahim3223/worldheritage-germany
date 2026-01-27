@@ -3,7 +3,7 @@ title: "Pfaumoos, Niggelmoos und Bei der Schleife"
 site_name: "Pfaumoos, Niggelmoos und Bei der Schleife"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Pfaumoos, Niggelmoos und Bei der Schleife is a captivating nature reserve located in the scenic Bodnegg region of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

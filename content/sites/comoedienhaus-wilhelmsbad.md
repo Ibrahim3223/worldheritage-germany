@@ -3,7 +3,7 @@ title: "Comoedienhaus Wilhelmsbad"
 site_name: "Comoedienhaus Wilhelmsbad"
 date: 2026-01-26
 draft: false
-description: "theatre in Wilhelmsbad, Hanau, Germany"
+description: "Comoedienhaus Wilhelmsbad is a theatre building located in Hanau, Germany, an area known for its rich cultural offerings and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

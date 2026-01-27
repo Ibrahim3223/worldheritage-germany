@@ -3,7 +3,7 @@ title: "Upper German-Raetian Limes"
 site_name: "Upper German-Raetian Limes"
 date: 2026-01-26
 draft: false
-description: "portion of the Roman limes in Germany"
+description: "The Upper German-Raetian Limes, located in the heart of Germania Superior, serves as a remarkable archaeological site that traces the extensive boundaries..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

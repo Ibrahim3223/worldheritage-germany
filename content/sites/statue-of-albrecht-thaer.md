@@ -3,7 +3,7 @@ title: "statue of Albrecht Thaer"
 site_name: "statue of Albrecht Thaer"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin, Germany"
+description: "The statue of Albrecht Thaer, located in the heart of Berlin's Bezirk Mitte, serves as a tribute to one of Germany's foremost agricultural scientists."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

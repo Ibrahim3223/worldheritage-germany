@@ -3,7 +3,7 @@ title: "Haigerloch nuclear pile"
 site_name: "Haigerloch nuclear pile"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the charming town of Haigerloch, Germany, the Haigerloch nuclear pile serves as a fascinating museum dedicated to the history of atomic energy..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

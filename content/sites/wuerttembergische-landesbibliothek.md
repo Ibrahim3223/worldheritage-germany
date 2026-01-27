@@ -3,7 +3,7 @@ title: "Württembergische Landesbibliothek"
 site_name: "Württembergische Landesbibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Württembergische Landesbibliothek, located in the heart of Stuttgart-Mitte, serves as a vital cultural and educational resource in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Market Church"
 site_name: "Market Church"
 date: 2026-01-26
 draft: false
-description: "church in Hanover, Germany"
+description: "Market Church, located in the heart of Hanover, Germany, is a prominent example of Gothic architecture that attracts both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

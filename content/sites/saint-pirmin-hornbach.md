@@ -3,7 +3,7 @@ title: "Saint Pirmin (Hornbach)"
 site_name: "Saint Pirmin (Hornbach)"
 date: 2026-01-26
 draft: false
-description: "church building in Hornbach, Germany"
+description: "The Saint Pirmin Church in Hornbach, Germany, is a remarkable church building that reflects the region's deep-rooted religious history and architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

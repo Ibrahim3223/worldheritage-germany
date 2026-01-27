@@ -3,7 +3,7 @@ title: "Städtische Galerie im Park Viersen"
 site_name: "Städtische Galerie im Park Viersen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tucked away in the serene landscapes of Viersen, Germany, the Städtische Galerie im Park Viersen serves as a prominent art museum that invites visitors to..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

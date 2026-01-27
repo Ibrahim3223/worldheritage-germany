@@ -3,7 +3,7 @@ title: "Volkswagenwerk Braunschweig"
 site_name: "Volkswagenwerk Braunschweig"
 date: 2026-01-26
 draft: false
-description: "Supplier plant for chassis parts within VW group of companies"
+description: "Volkswagenwerk Braunschweig is an integral part of the Volkswagen Group, serving as a supplier plant for chassis parts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

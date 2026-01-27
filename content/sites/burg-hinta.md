@@ -3,7 +3,7 @@ title: "Burg Hinta"
 site_name: "Burg Hinta"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hinta, a captivating castle located in the Hinte region of Germany, stands as a significant historical landmark that attracts visitors with its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

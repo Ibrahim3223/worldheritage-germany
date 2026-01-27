@@ -3,7 +3,7 @@ title: "Büsch-Denkmal"
 site_name: "Büsch-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Büsch-Denkmal, a significant monument located in Hamburg, Germany, serves as a poignant reminder of the city’s historical and cultural evolution."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

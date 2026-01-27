@@ -3,7 +3,7 @@ title: "Kunstmuseum Bochum"
 site_name: "Kunstmuseum Bochum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunstmuseum Bochum is an engaging cultural institution located in the heart of Bochum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

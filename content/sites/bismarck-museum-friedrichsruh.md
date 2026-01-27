@@ -3,7 +3,7 @@ title: "Bismarck-Museum Friedrichsruh"
 site_name: "Bismarck-Museum Friedrichsruh"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bismarck-Museum Friedrichsruh, located in Aumühle, Germany, serves as a dedicated museum that honors the legacy of Otto von Bismarck, the influential..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

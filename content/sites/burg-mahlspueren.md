@@ -3,7 +3,7 @@ title: "Burg Mahlspüren"
 site_name: "Burg Mahlspüren"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mahlspüren is a castle located in the picturesque region of Mahlspüren im Tal in Germany, offering visitors a glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

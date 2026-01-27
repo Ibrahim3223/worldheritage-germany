@@ -3,7 +3,7 @@ title: "Sophienkirche"
 site_name: "Sophienkirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Sophienkirche, a distinguished church building located in the heart of Berlin’s Bezirk Mitte, stands as an important cultural and architectural landmark."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

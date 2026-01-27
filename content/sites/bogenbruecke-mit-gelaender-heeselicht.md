@@ -3,7 +3,7 @@ title: "Bogenbrücke mit Geländer Heeselicht"
 site_name: "Bogenbrücke mit Geländer Heeselicht"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke mit Geländer Heeselicht is an intriguing bridge located in the picturesque region of Stolpen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

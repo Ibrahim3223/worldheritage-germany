@@ -3,7 +3,7 @@ title: "Mousetrap and Curiosity Museum"
 site_name: "Mousetrap and Curiosity Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mousetrap and Curiosity Museum in Harzgerode, Germany, is a unique destination that invites visitors to explore a delightful collection of fascinating..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Sebastian (Schartau)"
 site_name: "St. Sebastian (Schartau)"
 date: 2026-01-26
 draft: false
-description: "church building in Burg (bei Magdeburg), Saxony-Anhalt, Germany"
+description: "St. Sebastian (Schartau) is a notable church building located in Burg (bei Magdeburg), in the Saxony-Anhalt region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

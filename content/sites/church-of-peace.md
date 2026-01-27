@@ -3,7 +3,7 @@ title: "Church of Peace"
 site_name: "Church of Peace"
 date: 2026-01-26
 draft: false
-description: "church in Potsdam"
+description: "The Church of Peace, located in the charming city of Potsdam, Germany, serves as an architectural and cultural landmark that reflects the historical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

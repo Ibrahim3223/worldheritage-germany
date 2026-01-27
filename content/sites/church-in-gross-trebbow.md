@@ -3,7 +3,7 @@ title: "Church in Groß Trebbow"
 site_name: "Church in Groß Trebbow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Groß Trebbow is a striking example of ecclesiastical architecture located in the tranquil region of Klein Trebbow, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

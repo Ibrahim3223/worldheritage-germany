@@ -3,7 +3,7 @@ title: "Wilhelm Wagenfeld House"
 site_name: "Wilhelm Wagenfeld House"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wilhelm Wagenfeld House, located in the heart of Germany's Mitte district, serves as a unique museum dedicated to the life and work of the influential..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"

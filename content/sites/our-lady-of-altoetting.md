@@ -3,7 +3,7 @@ title: "Our Lady of Altötting"
 site_name: "Our Lady of Altötting"
 date: 2026-01-26
 draft: false
-description: "church building in Altötting, Upper Bavaria, Germany"
+description: "Our Lady of Altötting is a significant chapel located in the heart of Altötting, Upper Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

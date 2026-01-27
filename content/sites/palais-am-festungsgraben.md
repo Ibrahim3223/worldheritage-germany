@@ -3,7 +3,7 @@ title: "Palais am Festungsgraben"
 site_name: "Palais am Festungsgraben"
 date: 2026-01-26
 draft: false
-description: "building in Berlin, Germany"
+description: "Palais am Festungsgraben is a remarkable palace located in the heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

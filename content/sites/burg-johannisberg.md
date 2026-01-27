@@ -3,7 +3,7 @@ title: "Burg Johannisberg"
 site_name: "Burg Johannisberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Johannisberg, a striking castle located in Geisenheim, Germany, captures the imagination with its storied past and architectural elegance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

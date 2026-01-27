@@ -3,7 +3,7 @@ title: "Bogenbrücke Meschwitz 23 (hinter der Alten Schmiede)"
 site_name: "Bogenbrücke Meschwitz 23 (hinter der Alten Schmiede)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke Meschwitz 23, located behind the historic Alte Schmiede in Hochkirch, Germany, serves as a vital connection across the local landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

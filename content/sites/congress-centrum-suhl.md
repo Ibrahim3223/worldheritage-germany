@@ -3,7 +3,7 @@ title: "Congress Centrum Suhl"
 site_name: "Congress Centrum Suhl"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Suhl, Thuringia, Germany"
+description: "Congress Centrum Suhl, located in the heart of Suhl, Thuringia, Germany, is a vibrant multi-purpose hall that serves as a focal point for cultural and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

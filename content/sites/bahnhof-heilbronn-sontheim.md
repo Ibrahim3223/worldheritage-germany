@@ -3,7 +3,7 @@ title: "Bahnhof Heilbronn-Sontheim"
 site_name: "Bahnhof Heilbronn-Sontheim"
 date: 2026-01-26
 draft: false
-description: "railway station in Heilbronn, Germany"
+description: "In the heart of Heilbronn, Germany, Bahnhof Heilbronn-Sontheim serves not only as a vital transportation hub but also as a historical landmark reflecting..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

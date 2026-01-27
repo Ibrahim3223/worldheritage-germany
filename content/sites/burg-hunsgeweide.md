@@ -3,7 +3,7 @@ title: "Burg Hunsgeweide"
 site_name: "Burg Hunsgeweide"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hunsgeweide, a captivating castle located in the Amöneburg region of Germany, draws history enthusiasts and curious travelers alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

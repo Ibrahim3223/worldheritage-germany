@@ -3,7 +3,7 @@ title: "Große Inselkirche"
 site_name: "Große Inselkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Baltrum, Germany"
+description: "The Große Inselkirche, a prominent church building located on the charming island of Baltrum in Germany, serves as both a spiritual sanctuary and a cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

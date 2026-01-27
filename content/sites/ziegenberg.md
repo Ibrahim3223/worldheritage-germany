@@ -3,7 +3,7 @@ title: "Ziegenberg"
 site_name: "Ziegenberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Ziegenberg, a prominent mountain located in the Brandenburg region of Germany, offers visitors a unique opportunity to explore both natural beauty and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mountain"

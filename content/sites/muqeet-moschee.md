@@ -3,7 +3,7 @@ title: "Muqeet-Moschee"
 site_name: "Muqeet-Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Wabern im nordhessischen Schwalm-Eder-Kreis"
+description: "The Muqeet-Moschee, located in Wabern, Niedersachsen, Germany, is a significant place of worship that reflects the rich cultural diversity of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

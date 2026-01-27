@@ -3,7 +3,7 @@ title: "St. Theresia vom Kinde Jesu"
 site_name: "St. Theresia vom Kinde Jesu"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Garath, Germany"
+description: "St. Theresia vom Kinde Jesu, located in the Düsseldorf district of Garath, is a church building that embodies both architectural grace and spiritual..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

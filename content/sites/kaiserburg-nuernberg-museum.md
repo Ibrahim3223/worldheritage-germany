@@ -3,7 +3,7 @@ title: "Kaiserburg Nürnberg museum"
 site_name: "Kaiserburg Nürnberg museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kaiserburg Nürnberg museum stands as a pivotal cultural institution in the heart of Nuremberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

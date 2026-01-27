@@ -3,7 +3,7 @@ title: "Wildpark Diedrichsburg"
 site_name: "Wildpark Diedrichsburg"
 date: 2026-01-26
 draft: false
-description: "Wildpark und Jagdgehege auf dem Gebiet der Stadt Melle (Niedersachsen)"
+description: "Wildpark Diedrichsburg is an engaging zoo located in Melle, Niedersachsen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

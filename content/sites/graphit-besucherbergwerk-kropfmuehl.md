@@ -3,7 +3,7 @@ title: "Graphit-Besucherbergwerk Kropfmühl"
 site_name: "Graphit-Besucherbergwerk Kropfmühl"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Graphit-Besucherbergwerk Kropfmühl in Hauzenberg, Germany, presents a unique opportunity to delve into the fascinating world of graphite mining and its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

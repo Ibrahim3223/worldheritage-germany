@@ -3,7 +3,7 @@ title: "Böhmisches Brauhaus"
 site_name: "Böhmisches Brauhaus"
 date: 2026-01-26
 draft: false
-description: "ehemalige Brauerei in Berlin"
+description: "Böhmisches Brauhaus, located in the heart of Berlin, represents an intriguing chapter in the city’s brewing history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Brewery"

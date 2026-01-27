@@ -3,7 +3,7 @@ title: "Evangelische Kapelle (Klinikum Haar)"
 site_name: "Evangelische Kapelle (Klinikum Haar)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Evangelische Kapelle within the Klinikum Haar in Germany serves as a serene space for reflection and spiritual solace."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

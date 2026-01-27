@@ -3,7 +3,7 @@ title: "Hamburg Hauptbahnhof"
 site_name: "Hamburg Hauptbahnhof"
 date: 2026-01-26
 draft: false
-description: "main railway station for the German city of Hamburg"
+description: "Hamburg Hauptbahnhof, the main railway station of Hamburg, Germany, serves as a vital transportation hub for both locals and travelers."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"

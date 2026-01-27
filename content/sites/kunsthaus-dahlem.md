@@ -3,7 +3,7 @@ title: "Kunsthaus Dahlem"
 site_name: "Kunsthaus Dahlem"
 date: 2026-01-26
 draft: false
-description: "art museum in Berlin, Germany, former atelier of Arno Breker"
+description: "Kunsthaus Dahlem is an art museum located in the Steglitz-Zehlendorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

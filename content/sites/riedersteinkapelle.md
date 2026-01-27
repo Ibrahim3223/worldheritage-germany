@@ -3,7 +3,7 @@ title: "Riedersteinkapelle"
 site_name: "Riedersteinkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel in Germany"
+description: "Perched gracefully in the heart of the Tegernsee region of Germany, Riedersteinkapelle is a chapel of notable significance that invites both spiritual..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

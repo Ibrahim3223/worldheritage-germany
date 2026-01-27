@@ -3,7 +3,7 @@ title: "Markuskirche (Berlin-Steglitz)"
 site_name: "Markuskirche (Berlin-Steglitz)"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Markuskirche, located in the vibrant district of Steglitz-Zehlendorf, Germany, serves as a significant landmark and a welcoming space for worship and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

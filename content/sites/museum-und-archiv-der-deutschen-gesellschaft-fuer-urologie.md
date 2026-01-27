@@ -3,7 +3,7 @@ title: "Museum und Archiv der Deutschen Gesellschaft für Urologie"
 site_name: "Museum und Archiv der Deutschen Gesellschaft für Urologie"
 date: 2026-01-26
 draft: false
-description: "museum in Düsseldorf, Germany"
+description: "The Museum und Archiv der Deutschen Gesellschaft für Urologie, located in Düsseldorf, Germany, offers a unique perspective into a specialized area of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

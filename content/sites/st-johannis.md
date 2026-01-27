@@ -3,7 +3,7 @@ title: "St. Johannis"
 site_name: "St. Johannis"
 date: 2026-01-26
 draft: false
-description: "church on the German island of Föhr"
+description: "St. Johannis, an evocative church building located on the German island of Föhr, invites visitors to explore its serene ambiance and architectural elegance."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

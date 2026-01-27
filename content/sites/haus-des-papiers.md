@@ -3,7 +3,7 @@ title: "Haus des Papiers"
 site_name: "Haus des Papiers"
 date: 2026-01-26
 draft: false
-description: "museum of fine paper art in the Spitteleck in Berlin, Germany"
+description: "In the heart of Berlin, the Haus des Papiers invites art enthusiasts and curious visitors alike to explore the delicate and intricate world of fine paper art."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

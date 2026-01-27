@@ -3,7 +3,7 @@ title: "St. Johannes Baptist (Grotegaste)"
 site_name: "St. Johannes Baptist (Grotegaste)"
 date: 2026-01-26
 draft: false
-description: "church building in Grotegaste, Germany"
+description: "St. Johannes Baptist in Grotegaste, located in the picturesque region of Westoverledingen, Germany, is a notable church building that reflects the spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

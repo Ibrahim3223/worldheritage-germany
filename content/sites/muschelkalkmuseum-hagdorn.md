@@ -3,7 +3,7 @@ title: "Muschelkalkmuseum Hagdorn"
 site_name: "Muschelkalkmuseum Hagdorn"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Muschelkalkmuseum Hagdorn, located in the charming town of Ingelfingen, Germany, presents a unique opportunity to delve into the geological and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

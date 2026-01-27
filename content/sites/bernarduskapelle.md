@@ -3,7 +3,7 @@ title: "Bernarduskapelle"
 site_name: "Bernarduskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Bernarduskapelle, a quaint chapel located in the serene region of Vettelschoß, Germany, is a site that encapsulates the spiritual and cultural essence of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

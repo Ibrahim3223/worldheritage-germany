@@ -3,7 +3,7 @@ title: "Vellager Kirche"
 site_name: "Vellager Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Weener, Germany"
+description: "Vellager Kirche, a notable church building located in Weener, Germany, serves as a point of interest for those exploring the region’s cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

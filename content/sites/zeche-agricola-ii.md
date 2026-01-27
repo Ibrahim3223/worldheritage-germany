@@ -3,7 +3,7 @@ title: "Zeche Agricola II"
 site_name: "Zeche Agricola II"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Agricola II, located in Bochum, Germany, is a significant historical site that represents the region's extensive coal mining heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

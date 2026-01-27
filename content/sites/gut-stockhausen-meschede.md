@@ -3,7 +3,7 @@ title: "Gut Stockhausen (Meschede)"
 site_name: "Gut Stockhausen (Meschede)"
 date: 2026-01-26
 draft: false
-description: "Gebäudeensemble in Meschede"
+description: "Gut Stockhausen in Meschede, Germany, is an architectural ensemble that offers visitors a glimpse into the region's rich cultural history and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

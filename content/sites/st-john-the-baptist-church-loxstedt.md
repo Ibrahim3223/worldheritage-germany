@@ -3,7 +3,7 @@ title: "St.-John-the-Baptist church (Loxstedt)"
 site_name: "St.-John-the-Baptist church (Loxstedt)"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Saxony state, Germany"
+description: "St.-John-the-Baptist Church in Loxstedt, Germany, serves as a notable landmark within the Lower Saxony region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

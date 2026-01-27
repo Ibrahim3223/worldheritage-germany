@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Kastel"
 site_name: "Ehrenfriedhof Kastel"
 date: 2026-01-26
 draft: false
-description: "cemetery in Kastel-Staadt, Germany"
+description: "Ehrenfriedhof Kastel, located in the serene region of Kastel-Staadt, Germany, serves as a poignant reminder of the lives that have shaped this area."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"

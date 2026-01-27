@@ -3,7 +3,7 @@ title: "Aher Kämpe"
 site_name: "Aher Kämpe"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Aher Kämpe is a nature reserve located in the picturesque region of Rinteln, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

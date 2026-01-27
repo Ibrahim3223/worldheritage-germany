@@ -3,7 +3,7 @@ title: "Synagoge Sulzburg"
 site_name: "Synagoge Sulzburg"
 date: 2026-01-26
 draft: false
-description: "building in Sulzburg, Freiburg Government Region, Bade-Württemberg, Germany"
+description: "In the heart of Sulzburg, Germany, lies a significant cultural landmark that tells the story of a community that has shaped the region’s history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Steinbogenbrücke Hirschbach"
 site_name: "Steinbogenbrücke Hirschbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke Hirschbach, a distinguished bridge located in the serene region of Glashütte, Germany, invites visitors to explore its architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

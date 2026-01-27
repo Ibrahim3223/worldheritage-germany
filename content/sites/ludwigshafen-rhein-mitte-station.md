@@ -3,7 +3,7 @@ title: "Ludwigshafen (Rhein) Mitte station"
 site_name: "Ludwigshafen (Rhein) Mitte station"
 date: 2026-01-26
 draft: false
-description: "railway station in Ludwigshafen, Germany"
+description: "Ludwigshafen (Rhein) Mitte station is a pivotal railway hub located in the city of Ludwigshafen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

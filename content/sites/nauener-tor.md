@@ -3,7 +3,7 @@ title: "Nauener Tor"
 site_name: "Nauener Tor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "The Nauener Tor, a striking city gate located in Potsdam, Germany, is a remarkable architectural feature that offers visitors a glimpse into the region's..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

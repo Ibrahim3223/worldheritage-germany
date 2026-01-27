@@ -3,7 +3,7 @@ title: "Selimiye-Moschee Lünen"
 site_name: "Selimiye-Moschee Lünen"
 date: 2026-01-26
 draft: false
-description: "Moschee in Deutschland"
+description: "The Selimiye-Moschee in Lünen, Germany, is an important mosque that serves as a spiritual and cultural hub for the local Muslim community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

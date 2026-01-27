@@ -3,7 +3,7 @@ title: "Centgrafenkapelle"
 site_name: "Centgrafenkapelle"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschützte Kirchenruine in Bürgstadt, Bayern"
+description: "The Centgrafenkapelle, a captivating chapel ruin located in Bürgstadt, Germany, serves as a remarkable reminder of the region's ecclesiastical architecture..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Ishtar Gate"
 site_name: "Ishtar Gate"
 date: 2026-01-26
 draft: false
-description: "eighth gate to the inner city of Babylon"
+description: "The Ishtar Gate, an iconic relic of ancient Babylon, serves as a striking reminder of the architectural and cultural achievements of one of history's most..."
 region: "Hillah"
 country: "Germany"
 heritage_type: "City Gate"

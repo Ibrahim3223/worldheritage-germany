@@ -3,7 +3,7 @@ title: "German Cancer Aid"
 site_name: "German Cancer Aid"
 date: 2026-01-26
 draft: false
-description: "voluntary association"
+description: "In the heart of Bonn, Germany, the German Cancer Aid (Deutsche Krebshilfe) stands as a pivotal foundation dedicated to combating cancer and supporting those..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

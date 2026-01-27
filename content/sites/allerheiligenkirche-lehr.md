@@ -3,7 +3,7 @@ title: "Allerheiligenkirche Lehr"
 site_name: "Allerheiligenkirche Lehr"
 date: 2026-01-26
 draft: false
-description: "church building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Allerheiligenkirche Lehr, located in the heart of Ulm, Germany, presents a unique opportunity to explore a church building that embodies the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

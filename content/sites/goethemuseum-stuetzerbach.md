@@ -3,7 +3,7 @@ title: "Goethemuseum Stützerbach"
 site_name: "Goethemuseum Stützerbach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Goethemuseum Stützerbach is a cultural institution located in the heart of Thuringia, Germany, dedicated to celebrating the life and works of one of the..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

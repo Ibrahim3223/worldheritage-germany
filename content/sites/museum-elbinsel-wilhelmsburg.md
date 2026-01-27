@@ -3,7 +3,7 @@ title: "Museum Elbinsel Wilhelmsburg"
 site_name: "Museum Elbinsel Wilhelmsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum Elbinsel Wilhelmsburg in Hamburg-Mitte offers a unique glimpse into the cultural and historical narratives of the Elbinsel (Elbe Island) region."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

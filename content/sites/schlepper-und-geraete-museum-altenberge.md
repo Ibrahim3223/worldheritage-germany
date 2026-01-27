@@ -3,7 +3,7 @@ title: "Schlepper- und Geräte-Museum Altenberge"
 site_name: "Schlepper- und Geräte-Museum Altenberge"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schlepper- und Geräte-Museum Altenberge serves as a captivating portal into the world of agricultural machinery and technology in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

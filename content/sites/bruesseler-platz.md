@@ -3,7 +3,7 @@ title: "Brüsseler Platz"
 site_name: "Brüsseler Platz"
 date: 2026-01-26
 draft: false
-description: "square and street in district Neustadt/Nord, Cologne, NRW, Germany"
+description: "Brüsseler Platz is a vibrant square situated in the Neustadt-Nord district of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

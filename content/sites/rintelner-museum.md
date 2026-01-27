@@ -3,7 +3,7 @@ title: "Rintelner Museum"
 site_name: "Rintelner Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Rintelner Museum, situated in the charming town of Rinteln, Germany, offers a fascinating glimpse into the local heritage and culture of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

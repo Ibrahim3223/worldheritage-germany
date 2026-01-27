@@ -3,7 +3,7 @@ title: "The New Collection"
 site_name: "The New Collection"
 date: 2026-01-26
 draft: false
-description: "Design Museum"
+description: "The New Collection in Munich is a design museum that invites visitors to explore the innovative world of contemporary design."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

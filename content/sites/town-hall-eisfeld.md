@@ -3,7 +3,7 @@ title: "Town hall Eisfeld"
 site_name: "Town hall Eisfeld"
 date: 2026-01-26
 draft: false
-description: ""
+description: "In the heart of Eisfeld, Germany, the Town Hall stands as a central piece of the town's civic architecture, embodying the spirit of the community it serves."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Goldener Riss"
 site_name: "Goldener Riss"
 date: 2026-01-26
 draft: false
-description: "memorial to the victims of the 2016 Berlin Christmas market attack"
+description: "Goldener Riss, a poignant memorial located in Berlin, Germany, serves as a tribute to the victims of the tragic 2016 Berlin Christmas market attack."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

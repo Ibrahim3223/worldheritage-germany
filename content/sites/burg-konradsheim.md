@@ -3,7 +3,7 @@ title: "Burg Konradsheim"
 site_name: "Burg Konradsheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Konradsheim, located in the serene region of Erftstadt, Germany, is a captivating castle that resonates with historical significance and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

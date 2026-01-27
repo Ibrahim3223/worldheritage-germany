@@ -3,7 +3,7 @@ title: "Ruine Lengenfeld, Donautal"
 site_name: "Ruine Lengenfeld, Donautal"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Ruine Lengenfeld is a captivating castle located in the picturesque region of Hausen im Tal, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

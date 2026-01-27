@@ -3,7 +3,7 @@ title: "Tornowsee"
 site_name: "Tornowsee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Tornowsee is a picturesque lake located in the Brandenburg region of Germany, known for its serene atmosphere and natural beauty."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

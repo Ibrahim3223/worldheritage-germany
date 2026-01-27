@@ -3,7 +3,7 @@ title: "Kellinghusen town hall"
 site_name: "Kellinghusen town hall"
 date: 2026-01-26
 draft: false
-description: "building in Kellinghusen, Germany"
+description: "The Kellinghusen Town Hall, situated in the heart of Kellinghusen, Germany, serves as a pivotal center for local governance and community events."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

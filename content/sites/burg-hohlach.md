@@ -3,7 +3,7 @@ title: "Burg Hohlach"
 site_name: "Burg Hohlach"
 date: 2026-01-26
 draft: false
-description: "castle in Hohlach (Simmersdorf), Middle Franconia, Germany"
+description: "Burg Hohlach, a historic castle located in Simmershofen, Middle Franconia, Germany, stands as a remarkable example of medieval architecture and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

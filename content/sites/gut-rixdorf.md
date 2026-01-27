@@ -3,7 +3,7 @@ title: "Gut Rixdorf"
 site_name: "Gut Rixdorf"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Gut Rixdorf, an intriguing architectural ensemble located in the serene region of Lebrade, Germany, offers visitors a unique glimpse into human settlement..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Kriebstein Castle"
 site_name: "Kriebstein Castle"
 date: 2026-01-26
 draft: false
-description: "rock castle"
+description: "Kriebstein Castle, a notable rock castle situated in the picturesque region of Kriebstein, Germany, presents a captivating glimpse into medieval..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

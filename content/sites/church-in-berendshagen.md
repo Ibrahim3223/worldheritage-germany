@@ -3,7 +3,7 @@ title: "Church in Berendshagen"
 site_name: "Church in Berendshagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Berendshagen is an intriguing example of ecclesiastical architecture located in the picturesque region of Satow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

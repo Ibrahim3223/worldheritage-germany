@@ -3,7 +3,7 @@ title: "Deister-Süntel valley"
 site_name: "Deister-Süntel valley"
 date: 2026-01-26
 draft: false
-description: "valley in Lower Saxony, Germany"
+description: "The Deister-Süntel valley is a captivating natural feature located in Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

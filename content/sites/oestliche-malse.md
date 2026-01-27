@@ -3,7 +3,7 @@ title: "Östliche Malse"
 site_name: "Östliche Malse"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Östliche Malse is a nature reserve located in the picturesque region of Beverstedt, Lower Saxony, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

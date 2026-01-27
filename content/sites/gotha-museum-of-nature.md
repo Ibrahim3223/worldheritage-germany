@@ -3,7 +3,7 @@ title: "Gotha Museum of Nature"
 site_name: "Gotha Museum of Nature"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gotha Museum of Nature, located in the heart of Thuringia, Germany, serves as a captivating destination for both nature enthusiasts and those curious..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

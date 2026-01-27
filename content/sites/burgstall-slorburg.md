@@ -3,7 +3,7 @@ title: "Burgstall Slorburg"
 site_name: "Burgstall Slorburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgstall Slorburg, a remarkable castle located in the tranquil region of Gemünden am Main, Germany, serves as a striking reminder of the medieval..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

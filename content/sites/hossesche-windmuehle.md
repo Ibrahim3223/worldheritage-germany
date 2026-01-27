@@ -3,7 +3,7 @@ title: "Hossesche Windmühle"
 site_name: "Hossesche Windmühle"
 date: 2026-01-26
 draft: false
-description: "nicht mehr existierende Windmühle im Magdeburger Stadtteil Westerhüsen"
+description: "The Hossesche Windmühle, once a prominent feature in the landscape of Magdeburg, Germany, offers a glimpse into the region's agricultural heritage and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

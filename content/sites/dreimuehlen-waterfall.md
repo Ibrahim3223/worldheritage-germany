@@ -3,7 +3,7 @@ title: "Dreimühlen waterfall"
 site_name: "Dreimühlen waterfall"
 date: 2026-01-26
 draft: false
-description: "waterfall in Üxheim, Germany"
+description: "Dreimühlen waterfall, situated in the picturesque region of Üxheim, Germany, is a captivating natural wonder that draws visitors eager to experience its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Waterfall"

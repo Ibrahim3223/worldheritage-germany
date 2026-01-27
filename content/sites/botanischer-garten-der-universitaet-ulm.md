@@ -3,7 +3,7 @@ title: "Botanischer Garten der Universität Ulm"
 site_name: "Botanischer Garten der Universität Ulm"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten der Universität Ulm is a serene oasis in the heart of Ulm, Germany, offering a captivating glimpse into the diverse world of plant life."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

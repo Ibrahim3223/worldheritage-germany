@@ -3,7 +3,7 @@ title: "St. Mauritz Church (Münster)"
 site_name: "St. Mauritz Church (Münster)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Mauritz Church in Münster is a striking example of ecclesiastical architecture that draws visitors from near and far."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

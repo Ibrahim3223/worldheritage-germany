@@ -3,7 +3,7 @@ title: "Roemer- und Pelizaeus-Museum"
 site_name: "Roemer- und Pelizaeus-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hildesheim, Germany, among others with collection of ancient Egypt"
+description: "The Roemer- und Pelizaeus-Museum, located in Hildesheim, Germany, stands as an essential cultural institution that captivates visitors with its extensive..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

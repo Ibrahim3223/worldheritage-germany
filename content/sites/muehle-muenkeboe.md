@@ -3,7 +3,7 @@ title: "Mühle Münkeboe"
 site_name: "Mühle Münkeboe"
 date: 2026-01-26
 draft: false
-description: "Mühle in Ostfriesland, Niedersachsen, Deutschland"
+description: "Mühle Münkeboe stands as a striking example of traditional windmill architecture in the picturesque region of Südbrookmerland, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

@@ -3,7 +3,7 @@ title: "Landshut Residence"
 site_name: "Landshut Residence"
 date: 2026-01-26
 draft: false
-description: "building in Landshut, Lower Bavaria, Germany"
+description: "The Landshut Residence, an architectural marvel located in Landshut, Lower Bavaria, Germany, represents a significant chapter in the region's cultural history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Auferstehungskirche (Dresden)"
 site_name: "Auferstehungskirche (Dresden)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Auferstehungskirche, or Resurrection Church, is an iconic church building located in the heart of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

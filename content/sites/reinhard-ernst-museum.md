@@ -3,7 +3,7 @@ title: "Reinhard Ernst Museum"
 site_name: "Reinhard Ernst Museum"
 date: 2026-01-26
 draft: false
-description: "art museum for abstract art in Wiesbaden, Hesse, Germany"
+description: "The Reinhard Ernst Museum, located in Wiesbaden, Germany, is an essential destination for enthusiasts of abstract art."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

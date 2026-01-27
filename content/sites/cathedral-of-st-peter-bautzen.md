@@ -3,7 +3,7 @@ title: "Cathedral of St Peter, Bautzen"
 site_name: "Cathedral of St Peter, Bautzen"
 date: 2026-01-26
 draft: false
-description: "simultaneum"
+description: "The Cathedral of St Peter in Bautzen, Germany, stands as a significant religious and cultural landmark within the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

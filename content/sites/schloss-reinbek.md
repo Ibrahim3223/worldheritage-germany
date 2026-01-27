@@ -3,7 +3,7 @@ title: "Schloss Reinbek"
 site_name: "Schloss Reinbek"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Schloss Reinbek, a captivating castle located in the charming town of Reinbek, Germany, serves as both a historical monument and a museum."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

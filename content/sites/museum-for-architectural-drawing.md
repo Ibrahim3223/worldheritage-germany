@@ -3,7 +3,7 @@ title: "Museum for Architectural Drawing"
 site_name: "Museum for Architectural Drawing"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum for Architectural Drawing in Berlin is an engaging institution that offers visitors a unique perspective on the art and science of architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

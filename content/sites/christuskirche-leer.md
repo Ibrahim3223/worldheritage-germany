@@ -3,7 +3,7 @@ title: "Christuskirche (Leer)"
 site_name: "Christuskirche (Leer)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche, a prominent church building located in the town of Leer, Germany, serves as both a spiritual center and a landmark of cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

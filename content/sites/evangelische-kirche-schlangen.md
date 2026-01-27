@@ -3,7 +3,7 @@ title: "Evangelische Kirche Schlangen"
 site_name: "Evangelische Kirche Schlangen"
 date: 2026-01-26
 draft: false
-description: "church building in Schlangen, North Rhine-Westphalia, Germany"
+description: "Evangelische Kirche Schlangen is a remarkable church building located in the tranquil town of Schlangen, situated in North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

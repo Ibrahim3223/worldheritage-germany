@@ -3,7 +3,7 @@ title: "Römergrab von Nehren"
 site_name: "Römergrab von Nehren"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Rhineland-Palatinate, Germany"
+description: "The Römergrab von Nehren is an intriguing archaeological site located in the picturesque region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Archaeological Site"

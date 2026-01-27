@@ -3,7 +3,7 @@ title: "Bayertor"
 site_name: "Bayertor"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Bayertor, an impressive tower located in Landsberg am Lech, Germany, is a notable landmark that encapsulates the city's historical essence."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

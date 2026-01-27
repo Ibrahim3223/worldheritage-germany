@@ -3,7 +3,7 @@ title: "Wasserfall Tatzelwurm"
 site_name: "Wasserfall Tatzelwurm"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "Wasserfall Tatzelwurm is a captivating waterfall located in Oberaudorf, Germany, known for its serene beauty and natural charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

@@ -3,7 +3,7 @@ title: "Stephingertor"
 site_name: "Stephingertor"
 date: 2026-01-26
 draft: false
-description: "former city gate in Augsburg"
+description: "The Stephingertor, a prominent city gate in Augsburg, Germany, represents a significant chapter in the history of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

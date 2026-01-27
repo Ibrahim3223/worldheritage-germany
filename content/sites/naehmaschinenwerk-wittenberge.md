@@ -3,7 +3,7 @@ title: "Nähmaschinenwerk Wittenberge"
 site_name: "Nähmaschinenwerk Wittenberge"
 date: 2026-01-26
 draft: false
-description: "factory in Wittenberge, Germany"
+description: "The Nähmaschinenwerk Wittenberge, located in the heart of Wittenberge, Germany, is a significant industrial site that has played a key role in the region's..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"

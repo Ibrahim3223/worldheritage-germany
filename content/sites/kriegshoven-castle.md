@@ -3,7 +3,7 @@ title: "Kriegshoven Castle"
 site_name: "Kriegshoven Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kriegshoven Castle is a fascinating historical site located in the picturesque region of Swisttal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

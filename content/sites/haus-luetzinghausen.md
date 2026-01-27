@@ -3,7 +3,7 @@ title: "Haus Lützinghausen"
 site_name: "Haus Lützinghausen"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Gummersbach, Nordrhein-Westfalen, Deutschland"
+description: "Haus Lützinghausen is an elegant manor house located in Gummersbach, Nordrhein-Westfalen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

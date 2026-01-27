@@ -3,7 +3,7 @@ title: "Bruder-Klaus-Kapelle"
 site_name: "Bruder-Klaus-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Bruder-Klaus-Kapelle, a striking chapel located in Kirchdorf an der Iller, Germany, invites visitors to explore a unique blend of spiritual serenity and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

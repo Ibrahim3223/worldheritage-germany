@@ -3,7 +3,7 @@ title: "Grabbe-Gesellschaft"
 site_name: "Grabbe-Gesellschaft"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "Located in Germany, the Grabbe-Gesellschaft serves as a significant foundation dedicated to the promotion of culture and the arts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Klosterkirche Uetersen"
 site_name: "Klosterkirche Uetersen"
 date: 2026-01-26
 draft: false
-description: "church building in Uetersen, Schleswig-Holstein, Germany"
+description: "The Klosterkirche Uetersen, located in the picturesque town of Uetersen in Schleswig-Holstein, Germany, represents a significant chapter in the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

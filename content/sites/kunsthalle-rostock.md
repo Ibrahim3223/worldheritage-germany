@@ -3,7 +3,7 @@ title: "Kunsthalle Rostock"
 site_name: "Kunsthalle Rostock"
 date: 2026-01-26
 draft: false
-description: "museum of contemporary art in Rostock, Germany"
+description: "Kunsthalle Rostock stands as a prominent institution dedicated to contemporary art in the vibrant city of Rostock, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"

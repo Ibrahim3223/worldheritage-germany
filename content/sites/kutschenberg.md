@@ -3,7 +3,7 @@ title: "Kutschenberg"
 site_name: "Kutschenberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Kutschenberg, located in the picturesque region of Großkmehlen, Germany, is a mountain that invites exploration and appreciation."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Sankt Georgen Graduate School of Philosophy and Theology"
 site_name: "Sankt Georgen Graduate School of Philosophy and Theology"
 date: 2026-01-26
 draft: false
-description: "Jesuit college of higher education in Frankfurt am Main, Germany"
+description: "The Sankt Georgen Graduate School of Philosophy and Theology is a distinguished Jesuit institution located in the vibrant city of Frankfurt am Main, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "University"

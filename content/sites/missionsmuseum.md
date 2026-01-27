@@ -3,7 +3,7 @@ title: "Missionsmuseum"
 site_name: "Missionsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Missionsmuseum, located in the heart of Germany, offers a unique glimpse into the cultural and historical legacy of missions and their impact on societies."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

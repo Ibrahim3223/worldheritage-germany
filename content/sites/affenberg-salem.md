@@ -3,7 +3,7 @@ title: "Affenberg Salem"
 site_name: "Affenberg Salem"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "A visit to Affenberg Salem offers an engaging experience in the heart of Bodenseekreis, Germany, where visitors can immerse themselves in a unique zoo..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

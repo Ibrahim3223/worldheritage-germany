@@ -3,7 +3,7 @@ title: "Westphalian Horse Museum"
 site_name: "Westphalian Horse Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Westphalian Horse Museum in Münster, Germany, offers a unique exploration into the world of equestrian heritage, showcasing the deep-rooted connection..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "German Museum of Books and Writing"
 site_name: "German Museum of Books and Writing"
 date: 2026-01-26
 draft: false
-description: "museum in Leipzig, Saxony, Germany"
+description: "The German Museum of Books and Writing, situated in the vibrant city of Leipzig, Saxony, serves as a fascinating tribute to the world of literature and the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

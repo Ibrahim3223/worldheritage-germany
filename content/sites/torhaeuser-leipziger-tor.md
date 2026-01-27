@@ -3,7 +3,7 @@ title: "Torhäuser Leipziger Tor"
 site_name: "Torhäuser Leipziger Tor"
 date: 2026-01-26
 draft: false
-description: "zwei Torhäuser am heutigen Palaisplatz in Dresden"
+description: "The Torhäuser Leipziger Tor, an architectural landmark in Dresden, Germany, serves as a striking reminder of the city’s storied past."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

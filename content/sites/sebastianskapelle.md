@@ -3,7 +3,7 @@ title: "Sebastianskapelle"
 site_name: "Sebastianskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Sebastianskapelle, a quaint chapel located in the historic region of Ladenburg, Germany, offers visitors a unique glimpse into the profound spiritual..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

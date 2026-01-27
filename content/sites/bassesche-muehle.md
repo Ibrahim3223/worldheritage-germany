@@ -3,7 +3,7 @@ title: "Bassesche Mühle"
 site_name: "Bassesche Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Holtensen, Wennigsen"
+description: "Bassesche Mühle is a captivating windmill located in Holtensen, a district of Wennigsen in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

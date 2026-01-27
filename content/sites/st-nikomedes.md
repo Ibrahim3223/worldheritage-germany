@@ -3,7 +3,7 @@ title: "St. Nikomedes"
 site_name: "St. Nikomedes"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Nikomedes, located in the picturesque region of Steinfurt, Germany, is a church building that serves not only as a place of worship but also as a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

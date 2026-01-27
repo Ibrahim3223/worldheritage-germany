@@ -3,7 +3,7 @@ title: "Schloßkapelle St. Martinus"
 site_name: "Schloßkapelle St. Martinus"
 date: 2026-01-26
 draft: false
-description: "church building in Herten, North Rhine-Westphalia, Germany"
+description: "Schloßkapelle St. Martinus is a significant church building located in Herten, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

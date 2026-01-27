@@ -3,7 +3,7 @@ title: "Neheimer Synagoge"
 site_name: "Neheimer Synagoge"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Neheimer Synagoge, situated in the Arnsberg region of Germany, holds a significant position within the cultural and historical landscape of the area."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

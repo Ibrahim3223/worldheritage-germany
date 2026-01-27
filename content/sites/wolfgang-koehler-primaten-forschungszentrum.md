@@ -3,7 +3,7 @@ title: "Wolfgang-Köhler-Primaten-Forschungszentrum"
 site_name: "Wolfgang-Köhler-Primaten-Forschungszentrum"
 date: 2026-01-26
 draft: false
-description: "deutsches Forschungszentrum"
+description: "The Wolfgang-Köhler-Primaten-Forschungszentrum, located in Leipzig, Germany, is a notable destination dedicated to primate research and conservation."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"

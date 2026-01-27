@@ -3,7 +3,7 @@ title: "Böhmerwold Church"
 site_name: "Böhmerwold Church"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "Böhmerwold Church, located in the serene region of Jemgum, Germany, represents a significant religious and cultural landmark within the community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

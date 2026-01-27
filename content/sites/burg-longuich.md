@@ -3,7 +3,7 @@ title: "Burg Longuich"
 site_name: "Burg Longuich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Longuich, located in the serene region of Longuich, Germany, is a castle that offers a unique glimpse into the architectural and cultural history of..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

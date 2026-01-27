@@ -3,7 +3,7 @@ title: "Church of the Nativity of the Virgin Mary"
 site_name: "Church of the Nativity of the Virgin Mary"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Laer, Germany"
+description: "The Church of the Nativity of the Virgin Mary is a historic church building located in Bad Laer, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

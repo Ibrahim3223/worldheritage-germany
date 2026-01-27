@@ -3,7 +3,7 @@ title: "Vier Steindeckerbrücken im Ort Meschwitz (Flurstücke 24, 33, 59, 61/11
 site_name: "Vier Steindeckerbrücken im Ort Meschwitz (Flurstücke 24, 33, 59, 61/11, 62/1)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Vier Steindeckerbrücken, located in Meschwitz within the Hochkirch region of Germany, is a unique ensemble of bridges that reflects the engineering..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

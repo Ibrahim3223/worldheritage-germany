@@ -3,7 +3,7 @@ title: "Christkönig"
 site_name: "Christkönig"
 date: 2026-01-26
 draft: false
-description: "church building in Saarlouis, Germany"
+description: "Christkönig is a significant church building located in Saarlouis, Germany, that serves as both a place of worship and a notable architectural landmark."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

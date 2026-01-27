@@ -3,7 +3,7 @@ title: "Römermuseum Stettfeld"
 site_name: "Römermuseum Stettfeld"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Römermuseum Stettfeld is a captivating destination located in Ubstadt-Weiher, Germany, that offers visitors a unique glimpse into the region's rich Roman..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Lindelskopf"
 site_name: "Lindelskopf"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lindelskopf Castle, located in the picturesque region of Fischbach bei Dahn, Germany, is a remarkable example of medieval architecture that invites..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

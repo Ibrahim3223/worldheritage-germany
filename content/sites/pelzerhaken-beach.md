@@ -3,7 +3,7 @@ title: "Pelzerhaken Beach"
 site_name: "Pelzerhaken Beach"
 date: 2026-01-26
 draft: false
-description: "beach in Germany"
+description: "Pelzerhaken Beach is a captivating stretch of coastline located in Germany, known for its inviting atmosphere and opportunities for relaxation and recreation."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

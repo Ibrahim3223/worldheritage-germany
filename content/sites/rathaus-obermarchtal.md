@@ -3,7 +3,7 @@ title: "Rathaus Obermarchtal"
 site_name: "Rathaus Obermarchtal"
 date: 2026-01-26
 draft: false
-description: "Rathaus der Gemeinde Obermarchtal im Alb-Donau-Kreis"
+description: "Rathaus Obermarchtal, the city hall of the municipality of Obermarchtal in Germany's Alb-Donau-Kreis, serves as both a functional administrative center and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Wildpark Tannenbusch"
 site_name: "Wildpark Tannenbusch"
 date: 2026-01-26
 draft: false
-description: "ganzjährig geöffneter Tierpark in Dormagen-Delhoven"
+description: "Wildpark Tannenbusch is a captivating zoo located in Dormagen-Delhoven, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

@@ -3,7 +3,7 @@ title: "Burg Klevenow"
 site_name: "Burg Klevenow"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Klevenow, a remarkable manor house located in the scenic region of Süderholz, Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

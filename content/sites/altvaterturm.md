@@ -3,7 +3,7 @@ title: "Altvaterturm"
 site_name: "Altvaterturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Altvaterturm is a remarkable tower located in Lehesten, Germany, that serves not only as an architectural highlight but also as a point of interest for..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

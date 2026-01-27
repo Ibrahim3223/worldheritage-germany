@@ -3,7 +3,7 @@ title: "St. Michael (Dormagen)"
 site_name: "St. Michael (Dormagen)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Michael in Dormagen, Germany, is a church building that invites visitors to explore not only its architectural beauty but also its historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

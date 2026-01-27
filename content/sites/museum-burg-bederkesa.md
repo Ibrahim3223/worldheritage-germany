@@ -3,7 +3,7 @@ title: "Museum Burg Bederkesa"
 site_name: "Museum Burg Bederkesa"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Burg Bederkesa, located in the Geestland region of Germany, is a captivating destination that invites visitors to explore the rich cultural heritage..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

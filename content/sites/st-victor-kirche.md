@@ -3,7 +3,7 @@ title: "St.-Victor-Kirche"
 site_name: "St.-Victor-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Victorbur, Germany"
+description: "St.-Victor-Kirche, located in the serene village of Victorbur in Südbrookmerland, Germany, is an enchanting church building that captivates visitors with..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

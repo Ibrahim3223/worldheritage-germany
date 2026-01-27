@@ -3,7 +3,7 @@ title: "Garten Frühmeßleite 1 in Kronach"
 site_name: "Garten Frühmeßleite 1 in Kronach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-145-411 (1) in Kronach, Bavaria"
+description: "Garten Frühmeßleite 1 in Kronach, Germany, serves as a serene cultural heritage monument, inviting visitors to explore its tranquil landscape and appreciate..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

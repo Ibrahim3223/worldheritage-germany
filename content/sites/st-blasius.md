@@ -3,7 +3,7 @@ title: "St. Blasius"
 site_name: "St. Blasius"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Hamm, Germany"
+description: "St. Blasius Church, located in the district of Hamm in Düsseldorf, Germany, is an intriguing example of ecclesiastical architecture with a rich history that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Phänomenta"
 site_name: "Phänomenta"
 date: 2026-01-26
 draft: false
-description: "science center and museum in Flensburg, Germany"
+description: "Phänomenta is an engaging science center and museum located in the vibrant city of Flensburg, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

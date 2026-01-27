@@ -3,7 +3,7 @@ title: "Brenner Moor"
 site_name: "Brenner Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Brenner Moor, a significant nature reserve in Schleswig-Holstein, Germany, serves as a vital ecological sanctuary and a haven for biodiversity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

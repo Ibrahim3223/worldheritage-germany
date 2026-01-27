@@ -3,7 +3,7 @@ title: "Villengarten Schmalschlägerstraße 17 in Bad Reichenhall"
 site_name: "Villengarten Schmalschlägerstraße 17 in Bad Reichenhall"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-72-114-180 (2) in Bad Reichenhall, Bavaria"
+description: "Tucked away in the serene landscape of Bad Reichenhall, the Villengarten Schmalschlägerstraße 17 offers a glimpse into the enchanting world of historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

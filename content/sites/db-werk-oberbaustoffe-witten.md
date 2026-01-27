@@ -3,7 +3,7 @@ title: "DB Werk Oberbaustoffe Witten"
 site_name: "DB Werk Oberbaustoffe Witten"
 date: 2026-01-26
 draft: false
-description: "factory in Witten, Germany"
+description: "The DB Werk Oberbaustoffe Witten, located in the heart of Germany, is a significant industrial site that serves as a focal point for those interested in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

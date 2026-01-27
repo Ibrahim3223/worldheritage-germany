@@ -3,7 +3,7 @@ title: "Maria vom Frieden"
 site_name: "Maria vom Frieden"
 date: 2026-01-26
 draft: false
-description: "church building in Homburg, Germany"
+description: "Maria vom Frieden, a notable church building located in the Homburg region of Germany, stands as an emblem of the community's spiritual heritage."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

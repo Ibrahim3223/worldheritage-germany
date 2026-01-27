@@ -3,7 +3,7 @@ title: "Ringkirche"
 site_name: "Ringkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Wiesbaden, Germany"
+description: "In the heart of Wiesbaden, Germany, the Ringkirche stands as a striking example of ecclesiastical architecture that captivates both locals and visitors alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

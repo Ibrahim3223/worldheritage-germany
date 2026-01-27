@@ -3,7 +3,7 @@ title: "Bandkeramik-Museum Schwanfeld"
 site_name: "Bandkeramik-Museum Schwanfeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bandkeramik-Museum Schwanfeld, located in the quaint village of Schwanfeld in Germany, offers visitors a unique glimpse into the ancient Neolithic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

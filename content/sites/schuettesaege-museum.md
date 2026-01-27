@@ -3,7 +3,7 @@ title: "Schüttesäge Museum"
 site_name: "Schüttesäge Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schüttesäge Museum in Schiltach, Germany, offers a unique glimpse into the region's industrial past, particularly its significance in the timber industry."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

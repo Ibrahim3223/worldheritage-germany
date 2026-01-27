@@ -3,7 +3,7 @@ title: "Bauernmuseum Lammersdorf"
 site_name: "Bauernmuseum Lammersdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bauernmuseum Lammersdorf presents a fascinating glimpse into rural life and the agricultural practices of Germany, offering visitors an immersive..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

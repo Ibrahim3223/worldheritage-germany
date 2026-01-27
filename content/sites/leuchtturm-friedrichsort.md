@@ -3,7 +3,7 @@ title: "Leuchtturm Friedrichsort"
 site_name: "Leuchtturm Friedrichsort"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Perched along the coast of Schleswig-Holstein, the Leuchtturm Friedrichsort serves as a prominent landmark in the Kiel region of Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

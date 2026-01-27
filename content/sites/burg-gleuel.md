@@ -3,7 +3,7 @@ title: "Burg Gleuel"
 site_name: "Burg Gleuel"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gleuel is a remarkable castle situated in the Gleuel region of Germany. This historic structure is not just an architectural wonder; it embodies the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Burg synagogue"
 site_name: "Burg synagogue"
 date: 2026-01-26
 draft: false
-description: "former synagogue in Burg, Germany"
+description: "The Burg synagogue, located in the town of Burg, Germany, is a poignant reminder of the Jewish community that once thrived in this region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

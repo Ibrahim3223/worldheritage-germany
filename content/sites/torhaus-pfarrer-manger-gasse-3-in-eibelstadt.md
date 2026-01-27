@@ -3,7 +3,7 @@ title: "Torhaus Pfarrer-Manger-Gasse 3 in Eibelstadt"
 site_name: "Torhaus Pfarrer-Manger-Gasse 3 in Eibelstadt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-79-124-74 (2) in Eibelstadt, Bavaria"
+description: "Located in the charming town of Eibelstadt, Germany, the Torhaus Pfarrer-Manger-Gasse 3 serves as a significant cultural heritage monument."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"

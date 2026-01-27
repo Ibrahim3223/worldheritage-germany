@@ -3,7 +3,7 @@ title: "Kleiner Hermann"
 site_name: "Kleiner Hermann"
 date: 2026-01-26
 draft: false
-description: "statue in Paderborn, Germany"
+description: "In the heart of Paderborn, Germany, stands the charming statue known as Kleiner Hermann."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

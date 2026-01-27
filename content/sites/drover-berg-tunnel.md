@@ -3,7 +3,7 @@ title: "Drover-Berg-Tunnel"
 site_name: "Drover-Berg-Tunnel"
 date: 2026-01-26
 draft: false
-description: "Tunnelbauwerk"
+description: "The Drover-Berg-Tunnel, an impressive aqueduct located in Germany, represents a significant feat of engineering within the realm of water management."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Aqueduct"

@@ -3,7 +3,7 @@ title: "Rheinhessisches Fahrradmuseum"
 site_name: "Rheinhessisches Fahrradmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Rheinhessisches Fahrradmuseum in Gau-Algesheim, Germany, is a unique destination dedicated to the history and evolution of bicycles."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Ufa-Kristallpalast, Dresden"
 site_name: "Ufa-Kristallpalast, Dresden"
 date: 2026-01-26
 draft: false
-description: "cinema in Dresden"
+description: "Located in the vibrant city of Dresden, Germany, the Ufa-Kristallpalast is a notable cinema that contributes to the cultural landscape of this historic city."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

@@ -3,7 +3,7 @@ title: "Bausen-Berg"
 site_name: "Bausen-Berg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bausen-Berg is a prominent mountain located in the picturesque Rhineland-Palatinate region of Germany, characterized by its rugged terrain and natural beauty."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

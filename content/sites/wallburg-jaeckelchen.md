@@ -3,7 +3,7 @@ title: "Wallburg Jäckelchen"
 site_name: "Wallburg Jäckelchen"
 date: 2026-01-26
 draft: false
-description: "abgegangene Burg in Nordrhein-Westfalen, Deutschland"
+description: "Wallburg Jäckelchen, a notable hillfort located in Attendorn, Germany, offers a fascinating glimpse into the region's historical past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"

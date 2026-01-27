@@ -3,7 +3,7 @@ title: "Wilhelmsstift. Bibliothek"
 site_name: "Wilhelmsstift. Bibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Wilhelmsstift. Bibliothek, located in the charming city of Tübingen, Germany, serves as a significant cultural and intellectual hub."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

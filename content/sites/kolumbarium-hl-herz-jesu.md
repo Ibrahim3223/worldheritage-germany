@@ -3,7 +3,7 @@ title: "Kolumbarium Hl. Herz Jesu"
 site_name: "Kolumbarium Hl. Herz Jesu"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "Situated in the charming district of Misburg-Anderten, the Kolumbarium Hl. Herz Jesu is a notable church building in Hanover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

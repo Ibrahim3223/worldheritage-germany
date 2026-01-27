@@ -3,7 +3,7 @@ title: "Ritter Dutschmann"
 site_name: "Ritter Dutschmann"
 date: 2026-01-26
 draft: false
-description: "statue in Bautzen, Germany"
+description: "In the historic town of Bautzen, Germany, stands a statue that captures both the imagination and the spirit of the region: the Ritter Dutschmann."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"

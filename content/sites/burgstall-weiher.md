@@ -3,7 +3,7 @@ title: "Burgstall Weiher"
 site_name: "Burgstall Weiher"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgstall Weiher, an archaeological site located in the picturesque region of Rettenberg, Germany, offers visitors a fascinating glimpse into the remnants..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

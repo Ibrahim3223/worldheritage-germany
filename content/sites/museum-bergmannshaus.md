@@ -3,7 +3,7 @@ title: "Museum Bergmannshaus"
 site_name: "Museum Bergmannshaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Bergmannshaus, located in Aldenhoven, Germany, offers visitors a unique glimpse into local history and culture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

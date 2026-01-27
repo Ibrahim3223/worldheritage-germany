@@ -3,7 +3,7 @@ title: "Burghalde"
 site_name: "Burghalde"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Kempten, Bavaria, Germany"
+description: "Burghalde, an intriguing archaeological site located in Kempten, Bavaria, Germany, offers visitors a glimpse into the remnants of a once-prominent castle ruin."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

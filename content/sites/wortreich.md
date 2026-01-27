@@ -3,7 +3,7 @@ title: "Wortreich"
 site_name: "Wortreich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wortreich is a captivating museum located in the town of Bad Hersfeld, Germany. This museum serves as a vibrant hub for culture and education, focusing on..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Twixlum Church"
 site_name: "Twixlum Church"
 date: 2026-01-26
 draft: false
-description: "church building in Twixlum, Germany"
+description: "Twixlum Church, a notable church building located in the serene village of Twixlum in Emden, Germany, invites visitors to explore its architectural charm..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

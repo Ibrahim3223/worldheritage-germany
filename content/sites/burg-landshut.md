@@ -3,7 +3,7 @@ title: "Burg Landshut"
 site_name: "Burg Landshut"
 date: 2026-01-26
 draft: false
-description: "castle in Rhineland-Palatinate, Germany"
+description: "Burg Landshut, a prominent castle located in the scenic region of Bernkastel-Kues in Germany, encapsulates centuries of history and architectural evolution."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

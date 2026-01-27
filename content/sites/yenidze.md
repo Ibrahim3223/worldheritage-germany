@@ -3,7 +3,7 @@ title: "Yenidze"
 site_name: "Yenidze"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Yenidze, an architectural marvel located in Dresden, Germany, presents a unique combination of industrial heritage and striking design."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

@@ -3,7 +3,7 @@ title: "Boekzeteler Meer"
 site_name: "Boekzeteler Meer"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Boekzeteler Meer, a former nature reserve located in the scenic region of Großefehn, Germany, is a place where nature enthusiasts can connect with the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

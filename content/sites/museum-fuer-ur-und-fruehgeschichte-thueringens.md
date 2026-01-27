@@ -3,7 +3,7 @@ title: "Museum für Ur- und Frühgeschichte Thüringens"
 site_name: "Museum für Ur- und Frühgeschichte Thüringens"
 date: 2026-01-26
 draft: false
-description: "museum in Weimar, Germany"
+description: "The Museum für Ur- und Frühgeschichte Thüringens, located in the culturally rich city of Weimar, Germany, presents a captivating exploration of the..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

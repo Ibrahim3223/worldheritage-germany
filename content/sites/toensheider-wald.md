@@ -3,7 +3,7 @@ title: "Tönsheider Wald"
 site_name: "Tönsheider Wald"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Tönsheider Wald, a captivating nature reserve located in the tranquil region of Aukrug, Schleswig-Holstein, Germany, invites nature enthusiasts and avid..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

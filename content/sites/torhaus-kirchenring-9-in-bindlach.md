@@ -3,7 +3,7 @@ title: "Torhaus Kirchenring 9 in Bindlach"
 site_name: "Torhaus Kirchenring 9 in Bindlach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-72-119-16 (2) in Bindlach, Bavaria"
+description: "Torhaus Kirchenring 9, located in the charming village of Bindlach, Bavaria, is not just a gatehouse; it is a cultural heritage monument that encapsulates..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

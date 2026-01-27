@@ -3,7 +3,7 @@ title: "Kesselberg (Bavaria)"
 site_name: "Kesselberg (Bavaria)"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass in Deutschland"
+description: "Kesselberg, located in the District of Bad Tölz-Wolfratshausen in Bavaria, Germany, is a notable mountain pass that draws visitors for its scenic beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

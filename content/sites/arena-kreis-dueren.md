@@ -3,7 +3,7 @@ title: "Arena Kreis Düren"
 site_name: "Arena Kreis Düren"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "The Arena Kreis Düren stands as a notable multi-purpose hall located in the heart of Düren, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

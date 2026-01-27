@@ -3,7 +3,7 @@ title: "Sankt Leonhard"
 site_name: "Sankt Leonhard"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "Sankt Leonhard is a captivating chapel located in the serene region of Balzhausen, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

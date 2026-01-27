@@ -3,7 +3,7 @@ title: "Dorfkirche Pfaffendorf"
 site_name: "Dorfkirche Pfaffendorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Dorfkirche Pfaffendorf, a charming church building located in the Maroldsweisach region of Germany, invites visitors to explore its serene environment..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

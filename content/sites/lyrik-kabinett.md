@@ -3,7 +3,7 @@ title: "Lyrik-Kabinett"
 site_name: "Lyrik-Kabinett"
 date: 2026-01-26
 draft: false
-description: "Lesegesellschaft"
+description: "In the heart of Munich, the Lyrik-Kabinett stands as a focal point for literature enthusiasts and culture seekers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

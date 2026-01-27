@@ -3,7 +3,7 @@ title: "Hotel Römischer Kaiser"
 site_name: "Hotel Römischer Kaiser"
 date: 2026-01-26
 draft: false
-description: "building in Ellingen, Middle Franconia, Germany"
+description: "Hotel Römischer Kaiser, a distinguished palace located in the heart of Ellingen, Middle Franconia, Germany, beckons visitors with its historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

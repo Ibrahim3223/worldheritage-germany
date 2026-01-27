@@ -3,7 +3,7 @@ title: "Michaelsberg Abbey"
 site_name: "Michaelsberg Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine monastery in Bamberg, Bavaria, Germany"
+description: "Michaelsberg Abbey, a former Benedictine monastery located in Bamberg, Bavaria, Germany, is an architectural and cultural landmark that continues to draw..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

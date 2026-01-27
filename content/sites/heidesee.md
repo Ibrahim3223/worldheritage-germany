@@ -3,7 +3,7 @@ title: "Heidesee"
 site_name: "Heidesee"
 date: 2026-01-26
 draft: false
-description: "lake in Saxony-Anhalt, Germany"
+description: "Heidesee, a picturesque lake located in the Halle (Saale) region of Saxony-Anhalt, Germany, presents a serene escape for nature lovers and outdoor enthusiasts."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

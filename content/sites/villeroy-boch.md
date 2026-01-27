@@ -3,7 +3,7 @@ title: "Villeroy & Boch"
 site_name: "Villeroy & Boch"
 date: 2026-01-26
 draft: false
-description: "German manufacturer of ceramics"
+description: "Villeroy & Boch, a prominent German manufacturer of ceramics, stands as a symbol of craftsmanship and innovation in Mettlach, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Factory"

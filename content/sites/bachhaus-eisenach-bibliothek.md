@@ -3,7 +3,7 @@ title: "Bachhaus Eisenach, Bibliothek"
 site_name: "Bachhaus Eisenach, Bibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Bachhaus Eisenach, Bibliothek is a distinguished museum located in Eisenach, Germany, dedicated to the legacy of the renowned composer Johann Sebastian Bach."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

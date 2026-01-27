@@ -3,7 +3,7 @@ title: "Kreuzeskirche"
 site_name: "Kreuzeskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Essen, Germany"
+description: "Kreuzeskirche, a striking church building located in the heart of Essen, Germany, serves as a significant landmark in the region's architectural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

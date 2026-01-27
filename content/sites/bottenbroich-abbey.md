@@ -3,7 +3,7 @@ title: "Bottenbroich Abbey"
 site_name: "Bottenbroich Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Bottenbroich Abbey, located in the Rhein-Erft District of Germany, is a significant monastery that offers visitors an insightful glimpse into monastic life..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

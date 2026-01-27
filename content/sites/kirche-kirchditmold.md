@@ -3,7 +3,7 @@ title: "Kirche Kirchditmold"
 site_name: "Kirche Kirchditmold"
 date: 2026-01-26
 draft: false
-description: "church building in Kassel, Germany"
+description: "Kirche Kirchditmold is a notable church building located in the city of Kassel, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

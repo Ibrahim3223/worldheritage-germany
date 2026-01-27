@@ -3,7 +3,7 @@ title: "Museum im Schloss Elisabethenburg"
 site_name: "Museum im Schloss Elisabethenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Meiningen, Germany"
+description: "Museum im Schloss Elisabethenburg, located in the picturesque town of Meiningen, Germany, offers visitors a unique opportunity to engage with a blend of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

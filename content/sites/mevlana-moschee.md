@@ -3,7 +3,7 @@ title: "Mevlana Moschee"
 site_name: "Mevlana Moschee"
 date: 2026-01-26
 draft: false
-description: "Moschee in Kassel"
+description: "Mevlana Moschee, located in the heart of Kassel, Germany, serves as a significant spiritual and cultural hub for the local Muslim community."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

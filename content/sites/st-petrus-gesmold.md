@@ -3,7 +3,7 @@ title: "St. Petrus (Gesmold)"
 site_name: "St. Petrus (Gesmold)"
 date: 2026-01-26
 draft: false
-description: "church building in Gesmold, Germany"
+description: "St. Petrus in Gesmold is a significant church building located in the charming region of Melle, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Fernmeldeturm Heilbronn"
 site_name: "Fernmeldeturm Heilbronn"
 date: 2026-01-26
 draft: false
-description: "Telecommunications tower in Heilbronn, Germany"
+description: "The Fernmeldeturm Heilbronn is a prominent telecommunications tower located in the city of Heilbronn, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

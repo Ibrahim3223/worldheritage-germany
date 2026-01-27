@@ -3,7 +3,7 @@ title: "Konstablerwache"
 site_name: "Konstablerwache"
 date: 2026-01-26
 draft: false
-description: "town square in Frankfurt, Germany"
+description: "Konstablerwache is a vibrant town square located in the heart of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Square"

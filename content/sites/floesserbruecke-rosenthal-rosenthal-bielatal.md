@@ -3,7 +3,7 @@ title: "Flößerbrücke Rosenthal (Rosenthal-Bielatal)"
 site_name: "Flößerbrücke Rosenthal (Rosenthal-Bielatal)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Flößerbrücke Rosenthal, located in the picturesque region of Rosenthal-Bielatal, Germany, is a bridge that embodies the spirit of architectural utility..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

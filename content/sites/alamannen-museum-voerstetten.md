@@ -3,7 +3,7 @@ title: "Alamannen-Museum Vörstetten"
 site_name: "Alamannen-Museum Vörstetten"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Alamannen-Museum Vörstetten, located in the quaint village of Vörstetten, Germany, invites visitors to explore the fascinating world of the Alamanni..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

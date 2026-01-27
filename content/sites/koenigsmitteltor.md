@@ -3,7 +3,7 @@ title: "Königsmitteltor"
 site_name: "Königsmitteltor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Königsmitteltor, the historic city gate located in Aachen, Germany, serves as a striking reminder of the city’s medieval past and its significance in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Fangelturm Stralendorf"
 site_name: "Fangelturm Stralendorf"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fangelturm Stralendorf is a captivating tower located in the picturesque region of Rom, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Leuchtturm Norderney"
 site_name: "Leuchtturm Norderney"
 date: 2026-01-26
 draft: false
-description: "lighthouse on the island Norderney, Lower Saxony, Germany"
+description: "Located on the serene island of Norderney in Lower Saxony, Germany, Leuchtturm Norderney is a lighthouse that has been guiding mariners for generations."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

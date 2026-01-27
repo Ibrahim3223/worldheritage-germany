@@ -3,7 +3,7 @@ title: "St. Peters Church (Bosau)"
 site_name: "St. Peters Church (Bosau)"
 date: 2026-01-26
 draft: false
-description: "church building in Bosau, Germany"
+description: "St. Peters Church in Bosau, Germany, is a remarkable church building that draws visitors with its architectural charm and serene surroundings."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

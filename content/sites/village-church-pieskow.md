@@ -3,7 +3,7 @@ title: "Village church Pieskow"
 site_name: "Village church Pieskow"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "In the heart of Brandenburg state, Germany, the Village Church of Pieskow stands as a remarkable example of local ecclesiastical architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Zoological Collection Rostock"
 site_name: "Zoological Collection Rostock"
 date: 2026-01-26
 draft: false
-description: "Scientific university collection"
+description: "The Zoological Collection Rostock is a distinctive scientific museum located in Germany that serves as a fascinating repository of biological specimens."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

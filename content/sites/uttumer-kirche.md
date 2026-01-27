@@ -3,7 +3,7 @@ title: "Uttumer Kirche"
 site_name: "Uttumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Germany"
+description: "Uttumer Kirche, a remarkable church building located in the quaint region of Krummhörn, Germany, serves as a significant landmark both for its architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

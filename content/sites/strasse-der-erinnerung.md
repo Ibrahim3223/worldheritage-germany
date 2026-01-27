@@ -3,7 +3,7 @@ title: "Straße der Erinnerung"
 site_name: "Straße der Erinnerung"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Berlin's Bezirk Mitte, the Straße der Erinnerung serves as a poignant reminder of Germany's tumultuous past, inviting visitors to reflect on..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

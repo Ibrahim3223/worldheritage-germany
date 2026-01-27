@@ -3,7 +3,7 @@ title: "Bärendenkmal (Mildensee)"
 site_name: "Bärendenkmal (Mildensee)"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Bärendenkmal, located in Mildensee, Dessau-Roßlau, is a notable monument that embodies a significant cultural aspect of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

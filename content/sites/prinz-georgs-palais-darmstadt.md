@@ -3,7 +3,7 @@ title: "Prinz-Georgs-Palais (Darmstadt)"
 site_name: "Prinz-Georgs-Palais (Darmstadt)"
 date: 2026-01-26
 draft: false
-description: "palace in Darmstadt"
+description: "The Prinz-Georgs-Palais in Darmstadt is a notable palace that captures the essence of German architectural history and royal heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

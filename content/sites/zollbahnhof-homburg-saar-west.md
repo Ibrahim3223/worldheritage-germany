@@ -3,7 +3,7 @@ title: "Zollbahnhof Homburg (Saar) West"
 site_name: "Zollbahnhof Homburg (Saar) West"
 date: 2026-01-26
 draft: false
-description: "railway station in Saarland, Germany"
+description: "Zollbahnhof Homburg (Saar) West is an intriguing railway station situated in the Saarland region of Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Railway Station"

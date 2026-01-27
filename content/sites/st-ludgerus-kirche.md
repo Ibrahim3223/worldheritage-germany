@@ -3,7 +3,7 @@ title: "St.-Ludgerus-Kirche"
 site_name: "St.-Ludgerus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Aurich, Germany"
+description: "St.-Ludgerus-Kirche is a notable church building located in the heart of Aurich, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

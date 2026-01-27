@@ -3,7 +3,7 @@ title: "Rheydt Central Station"
 site_name: "Rheydt Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Mönchengladbach, Germany"
+description: "Rheydt Central Station, located in the heart of Mönchengladbach, Germany, serves as a significant hub in the region's transportation network."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

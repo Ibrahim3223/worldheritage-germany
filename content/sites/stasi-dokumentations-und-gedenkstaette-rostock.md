@@ -3,7 +3,7 @@ title: "Stasi Dokumentations- und Gedenkstätte Rostock"
 site_name: "Stasi Dokumentations- und Gedenkstätte Rostock"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stasi Dokumentations- und Gedenkstätte Rostock is a museum dedicated to preserving the history and memory of the Ministry for State Security, commonly..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

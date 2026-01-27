@@ -3,7 +3,7 @@ title: "The Rennsteig Museum"
 site_name: "The Rennsteig Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rennsteig Museum, located in the quaint town of Großbreitenbach in Germany, serves as an engaging gateway into the cultural and historical narrative of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

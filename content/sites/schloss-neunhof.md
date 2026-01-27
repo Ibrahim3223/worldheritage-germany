@@ -3,7 +3,7 @@ title: "Schloss Neunhof"
 site_name: "Schloss Neunhof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Neunhof, located in the heart of Germany, serves as an intriguing museum that invites visitors to explore its rich cultural heritage and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

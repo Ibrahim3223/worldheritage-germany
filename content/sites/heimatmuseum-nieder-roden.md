@@ -3,7 +3,7 @@ title: "Heimatmuseum Nieder-Roden"
 site_name: "Heimatmuseum Nieder-Roden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Nieder-Roden serves as a cultural hub that connects visitors with the local heritage of Nieder-Roden and its surrounding areas."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

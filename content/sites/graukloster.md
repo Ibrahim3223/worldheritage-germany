@@ -3,7 +3,7 @@ title: "Graukloster"
 site_name: "Graukloster"
 date: 2026-01-26
 draft: false
-description: "monastery in Schleswig"
+description: "Graukloster, an evocative example of monastic life, is located in the historical town of Schleswig, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monastery"

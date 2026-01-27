@@ -3,7 +3,7 @@ title: "Calvarienberg (Gundelsheim)"
 site_name: "Calvarienberg (Gundelsheim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Calvarienberg, an architectural ensemble located in Gundelsheim, Germany, commands attention with its historical and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

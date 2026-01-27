@@ -3,7 +3,7 @@ title: "Staufenberg Castle"
 site_name: "Staufenberg Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Hesse, Germany"
+description: "Staufenberg Castle, perched on a hill in the scenic region of Hesse, Germany, is an intriguing landmark that offers visitors a glimpse into the past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

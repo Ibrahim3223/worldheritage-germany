@@ -3,7 +3,7 @@ title: "Porzellanmuseum München"
 site_name: "Porzellanmuseum München"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Munich, the Porzellanmuseum München is a unique museum dedicated to the art and history of porcelain."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

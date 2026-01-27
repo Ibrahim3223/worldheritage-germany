@@ -3,7 +3,7 @@ title: "Burg Krenkingen"
 site_name: "Burg Krenkingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Krenkingen, a historic castle located in the Waldshut-Tiengen region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

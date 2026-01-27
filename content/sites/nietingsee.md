@@ -3,7 +3,7 @@ title: "Nietingsee"
 site_name: "Nietingsee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Nietingsee, a serene lake situated in the Mecklenburgische Seenplatte District of Germany, offers a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Ort der Begegnung"
 site_name: "Ort der Begegnung"
 date: 2026-01-26
 draft: false
-description: "Skulptur von Dani Karavan"
+description: "Ort der Begegnung, a poignant memorial located in Regensburg, Germany, invites visitors to reflect on the profound themes of remembrance and reconciliation."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

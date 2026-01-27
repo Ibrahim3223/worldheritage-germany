@@ -3,7 +3,7 @@ title: "Walpurgis Hall"
 site_name: "Walpurgis Hall"
 date: 2026-01-26
 draft: false
-description: "hall on the Witches' Dance Floor plateau in the Harz mountains, Germany"
+description: "Perched on the enchanting Witches' Dance Floor plateau in the Harz mountains of Germany, Walpurgis Hall serves as a captivating museum that embodies the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

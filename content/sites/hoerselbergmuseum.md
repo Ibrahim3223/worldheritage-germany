@@ -3,7 +3,7 @@ title: "Hörselbergmuseum"
 site_name: "Hörselbergmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hörselbergmuseum is a captivating museum located in Wutha-Farnroda, Germany. This institution serves as a cultural hub, offering insights into the region's..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Weltenburg Abbey"
 site_name: "Weltenburg Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Weltenburg Abbey, a historic monastery located in the heart of Germany, is a site where spirituality and culture intertwine."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

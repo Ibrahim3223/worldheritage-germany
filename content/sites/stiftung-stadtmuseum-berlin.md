@@ -3,7 +3,7 @@ title: "Stiftung Stadtmuseum Berlin"
 site_name: "Stiftung Stadtmuseum Berlin"
 date: 2026-01-26
 draft: false
-description: "German museum"
+description: "In the heart of Berlin, the Stiftung Stadtmuseum Berlin stands as a multifaceted foundation dedicated to the rich tapestry of the city's cultural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

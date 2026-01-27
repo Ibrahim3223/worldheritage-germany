@@ -3,7 +3,7 @@ title: "Kleingartenanlage Birkenstraße 7 in Neuenmarkt"
 site_name: "Kleingartenanlage Birkenstraße 7 in Neuenmarkt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-143-17 (8) in Neuenmarkt, Bavaria"
+description: "Tucked away in the charming region of Neuenmarkt, Germany, the Kleingartenanlage Birkenstraße 7 serves as a captivating example of a cultural heritage..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

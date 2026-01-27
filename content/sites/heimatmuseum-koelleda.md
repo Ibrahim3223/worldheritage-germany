@@ -3,7 +3,7 @@ title: "Heimatmuseum Kölleda"
 site_name: "Heimatmuseum Kölleda"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Kölleda serves as a vibrant focal point in the small town of Kölleda, Germany, reflecting the local culture, history, and traditions."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

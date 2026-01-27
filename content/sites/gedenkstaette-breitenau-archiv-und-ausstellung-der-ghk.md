@@ -3,7 +3,7 @@ title: "Gedenkstätte Breitenau, Archiv und Ausstellung der GHK"
 site_name: "Gedenkstätte Breitenau, Archiv und Ausstellung der GHK"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gedenkstätte Breitenau, Archiv und Ausstellung der GHK, is a museum located in Germany that serves as a poignant reminder of historical events and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Icon Museum Recklinghausen"
 site_name: "Icon Museum Recklinghausen"
 date: 2026-01-26
 draft: false
-description: "museum in North Rhine-Westphalia, Germany"
+description: "Located in the heart of Recklinghausen, the Icon Museum offers visitors an intriguing glance into the world of religious art, specifically focusing on..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

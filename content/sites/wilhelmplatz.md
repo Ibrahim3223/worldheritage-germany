@@ -3,7 +3,7 @@ title: "Wilhelmplatz"
 site_name: "Wilhelmplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin-Mitte, Germany"
+description: "Wilhelmplatz, a central square located in Berlin-Mitte, Germany, serves as an important urban space that reflects the city's dynamic character and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

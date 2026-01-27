@@ -3,7 +3,7 @@ title: "Bruchwald bei Ehrenburg"
 site_name: "Bruchwald bei Ehrenburg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bruchwald bei Ehrenburg is a captivating nature reserve located in Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Niedermünster"
 site_name: "Niedermünster"
 date: 2026-01-26
 draft: false
-description: "building in Regensburg, Upper Palatinate, Germany"
+description: "Niedermünster, a historic monastery located in the heart of Regensburg, Germany, stands as a defining feature of the city’s rich ecclesiastical heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "German Inland Waterways Museum"
 site_name: "German Inland Waterways Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The German Inland Waterways Museum is a unique cultural establishment located in the region of Homberg/Ruhrort/Baerl, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

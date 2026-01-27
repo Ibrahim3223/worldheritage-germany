@@ -3,7 +3,7 @@ title: "Rathausmann, Dresden"
 site_name: "Rathausmann, Dresden"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the heart of Dresden, Germany, the Rathausmann stands as a striking architectural statue that embodies the city’s rich historical narrative and artistic..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"

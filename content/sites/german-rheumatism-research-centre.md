@@ -3,7 +3,7 @@ title: "German Rheumatism Research Centre"
 site_name: "German Rheumatism Research Centre"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The German Rheumatism Research Centre (Deutsches Rheumatologie-Forschungszentrum) is a pivotal institution located in the vibrant city of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

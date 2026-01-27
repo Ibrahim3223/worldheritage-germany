@@ -3,7 +3,7 @@ title: "Saint Mary of Help Chapel"
 site_name: "Saint Mary of Help Chapel"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Beselich"
+description: "Saint Mary of Help Chapel, located in the serene town of Beselich, Germany, is a captivating example of ecclesiastical architecture within the Roman..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Saint Stephen Westerhever"
 site_name: "Saint Stephen Westerhever"
 date: 2026-01-26
 draft: false
-description: "church building in Westerhever, Schleswig-Holstein state, Germany"
+description: "Saint Stephen Westerhever, a remarkable church building located in the serene village of Westerhever in Schleswig-Holstein, Germany, offers visitors a..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

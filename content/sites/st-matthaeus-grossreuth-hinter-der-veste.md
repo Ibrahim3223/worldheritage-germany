@@ -3,7 +3,7 @@ title: "St. Matthäus (Großreuth hinter der Veste)"
 site_name: "St. Matthäus (Großreuth hinter der Veste)"
 date: 2026-01-26
 draft: false
-description: "church building in Nuremberg, Middle Franconia, Germany"
+description: "St. Matthäus (Großreuth hinter der Veste) is a notable church building situated in the historic city of Nuremberg, Germany, within the picturesque region of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

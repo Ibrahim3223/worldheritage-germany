@@ -3,7 +3,7 @@ title: "Villengarten Im Eichgehölz 15 in München"
 site_name: "Villengarten Im Eichgehölz 15 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-8487 (1) in München, Bavaria"
+description: "Villengarten Im Eichgehölz 15 is a cultural heritage monument located in the heart of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

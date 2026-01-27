@@ -3,7 +3,7 @@ title: "Kastell Holten"
 site_name: "Kastell Holten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kastell Holten is a captivating castle located in the Oberhausen region of Germany, offering visitors a glimpse into the architectural and cultural heritage..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

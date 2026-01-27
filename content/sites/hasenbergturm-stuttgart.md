@@ -3,7 +3,7 @@ title: "Hasenbergturm Stuttgart"
 site_name: "Hasenbergturm Stuttgart"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Perched on the hills of Stuttgart, the Hasenbergturm is a striking tower that offers visitors a unique vantage point to appreciate the surrounding landscape..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

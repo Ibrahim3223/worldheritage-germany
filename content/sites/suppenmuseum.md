@@ -3,7 +3,7 @@ title: "Suppenmuseum"
 site_name: "Suppenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Suppenmuseum, located in Sehmatal, Germany, offers a unique lens into the world of soup, a staple that transcends cultures and generations."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum für Weinkultur"
 site_name: "Museum für Weinkultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Weinkultur, situated in the heart of Deidesheim, Germany, serves as a dedicated space to explore the historical and cultural significance of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

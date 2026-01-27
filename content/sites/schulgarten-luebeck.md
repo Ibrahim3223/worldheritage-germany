@@ -3,7 +3,7 @@ title: "Schulgarten Lübeck"
 site_name: "Schulgarten Lübeck"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Schulgarten Lübeck invites visitors into a world of botanical beauty and tranquility in the heart of Lübeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

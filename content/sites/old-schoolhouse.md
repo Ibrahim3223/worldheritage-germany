@@ -3,7 +3,7 @@ title: "Old Schoolhouse"
 site_name: "Old Schoolhouse"
 date: 2026-01-26
 draft: false
-description: "late 19th century elementary school building in Oberderdingen, Germany"
+description: "The Old Schoolhouse in Oberderdingen, Germany, is an important cultural landmark that reflects the educational practices of the late 19th century."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "School Building"

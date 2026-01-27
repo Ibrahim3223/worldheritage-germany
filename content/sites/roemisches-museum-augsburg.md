@@ -3,7 +3,7 @@ title: "Römisches Museum Augsburg"
 site_name: "Römisches Museum Augsburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römisches Museum Augsburg serves as a compelling portal into the city’s Roman past, showcasing its rich historical narrative within the context of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

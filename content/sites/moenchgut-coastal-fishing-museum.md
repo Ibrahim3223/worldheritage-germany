@@ -3,7 +3,7 @@ title: "Mönchgut Coastal Fishing Museum"
 site_name: "Mönchgut Coastal Fishing Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mönchgut Coastal Fishing Museum is a captivating exploration of the maritime heritage of the Mönchgut region, located on the picturesque island of Rügen..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

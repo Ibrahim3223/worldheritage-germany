@@ -3,7 +3,7 @@ title: "Stadtmuseum Pleystein"
 site_name: "Stadtmuseum Pleystein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Stadtmuseum Pleystein serves as a cultural cornerstone in the heart of Pleystein, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

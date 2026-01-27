@@ -3,7 +3,7 @@ title: "Burg Fritzenburg"
 site_name: "Burg Fritzenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Fritzenburg is a captivating castle located in Warthausen, Germany. This historical structure serves as an intriguing focal point for visitors..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

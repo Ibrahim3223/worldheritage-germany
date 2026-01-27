@@ -3,7 +3,7 @@ title: "Burg Neuhewen"
 site_name: "Burg Neuhewen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuhewen, a historic castle located in the region of Engen, Germany, captivates visitors with its storied past and architectural allure."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

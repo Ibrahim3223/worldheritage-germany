@@ -3,7 +3,7 @@ title: "Mäuseturminsel"
 site_name: "Mäuseturminsel"
 date: 2026-01-26
 draft: false
-description: "island in Germany"
+description: "Mäuseturminsel is an intriguing island located in the heart of Rhineland-Palatinate, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Island"

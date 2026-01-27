@@ -3,7 +3,7 @@ title: "Museum vaterländischer Alterthümer"
 site_name: "Museum vaterländischer Alterthümer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum vaterländischer Alterthümer, located in Kiel, Germany, serves as an important cultural institution that invites visitors to explore the rich..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

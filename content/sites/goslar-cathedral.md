@@ -3,7 +3,7 @@ title: "Goslar Cathedral"
 site_name: "Goslar Cathedral"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "Goslar Cathedral, a significant church building located in the heart of Goslar, Germany, captivates visitors with its architectural elegance and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

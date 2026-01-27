@@ -3,7 +3,7 @@ title: "Burg Hunolstein"
 site_name: "Burg Hunolstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hunolstein stands as a remarkable castle that captures the imagination of visitors with its historical significance and architectural charm."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

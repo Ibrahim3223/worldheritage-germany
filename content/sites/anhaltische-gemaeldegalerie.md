@@ -3,7 +3,7 @@ title: "Anhaltische Gemäldegalerie"
 site_name: "Anhaltische Gemäldegalerie"
 date: 2026-01-26
 draft: false
-description: "art gallery in Georgium, Dessau"
+description: "The Anhaltische Gemäldegalerie is a distinguished art museum located within the picturesque Georgium park in Dessau, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

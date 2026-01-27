@@ -3,7 +3,7 @@ title: "Schlosstheater Ludwigsburg"
 site_name: "Schlosstheater Ludwigsburg"
 date: 2026-01-26
 draft: false
-description: "theater of Ludwigsburg Palace in Ludwisgburg, Germany"
+description: "The Schlosstheater Ludwigsburg stands as a noteworthy cultural landmark within the grounds of Ludwigsburg Palace in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "St. Wolfgang's Church"
 site_name: "St. Wolfgang's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Schneeberg, Erzgebirgskreis, Saxony, Germany"
+description: "St. Wolfgang's Church in Schneeberg, nestled within the Erzgebirgskreis district of Saxony, Germany, is a remarkable example of ecclesiastical architecture..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

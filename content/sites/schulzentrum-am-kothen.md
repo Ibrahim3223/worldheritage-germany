@@ -3,7 +3,7 @@ title: "Schulzentrum am Kothen"
 site_name: "Schulzentrum am Kothen"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Schulzentrum am Kothen, located in Wuppertal, Germany, stands as an architectural structure that embodies the functional elegance of educational buildings."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

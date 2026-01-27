@@ -3,7 +3,7 @@ title: "Burg Hohengenkingen"
 site_name: "Burg Hohengenkingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohengenkingen is a striking castle located in the serene surroundings of Sonnenbühl, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

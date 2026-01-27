@@ -3,7 +3,7 @@ title: "Alexiuskreuz"
 site_name: "Alexiuskreuz"
 date: 2026-01-26
 draft: false
-description: "memorial in Mägdesprung, Harz, Germany"
+description: "A visit to Alexiuskreuz in Mägdesprung, Harzgerode, invites exploration of a poignant memorial that honors significant historical events and figures."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

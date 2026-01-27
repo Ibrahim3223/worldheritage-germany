@@ -3,7 +3,7 @@ title: "Faunbrunnen"
 site_name: "Faunbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Magdeburg, Germany"
+description: "Faunbrunnen, a notable fountain located in the vibrant city of Magdeburg, Germany, is an inviting spot that attracts both locals and visitors."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"

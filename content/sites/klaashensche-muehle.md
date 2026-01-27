@@ -3,7 +3,7 @@ title: "Klaashensche Mühle"
 site_name: "Klaashensche Mühle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Klaashensche Mühle is an iconic windmill located in the serene region of Schweindorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

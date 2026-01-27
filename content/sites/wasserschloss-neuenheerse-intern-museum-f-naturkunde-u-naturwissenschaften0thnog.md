@@ -3,7 +3,7 @@ title: "Wasserschloß Neuenheerse - Intern. Museum f. Naturkunde u. Naturwissens
 site_name: "Wasserschloß Neuenheerse - Intern. Museum f. Naturkunde u. Naturwissenschaften/0thnografica u. Völkerkunde, Heimatmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wasserschloß Neuenheerse, located in the heart of Germany, serves as an intriguing intersection of nature, science, and ethnography."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

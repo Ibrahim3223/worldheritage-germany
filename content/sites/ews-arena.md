@@ -3,7 +3,7 @@ title: "EWS Arena"
 site_name: "EWS Arena"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "EWS Arena is a striking multi-purpose hall located in the town of Göppingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

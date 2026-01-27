@@ -3,7 +3,7 @@ title: "Evangelische Universitätskirche Münster"
 site_name: "Evangelische Universitätskirche Münster"
 date: 2026-01-26
 draft: false
-description: "church building in Münster, Germany"
+description: "The Evangelische Universitätskirche Münster, a prominent church building located in the heart of Münster, Germany, is a significant landmark that embodies..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

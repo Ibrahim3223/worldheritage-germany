@@ -3,7 +3,7 @@ title: "Cumbacher Teiche"
 site_name: "Cumbacher Teiche"
 date: 2026-01-26
 draft: false
-description: "lake in Gotha, Thuringia, Germany"
+description: "Cumbacher Teiche, located in the scenic region of Gotha, Thuringia, Germany, is an enchanting lake that offers visitors a unique blend of natural beauty and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Lake"

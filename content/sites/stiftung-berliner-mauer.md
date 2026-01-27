@@ -3,7 +3,7 @@ title: "Stiftung Berliner Mauer"
 site_name: "Stiftung Berliner Mauer"
 date: 2026-01-26
 draft: false
-description: "heritage institution"
+description: "The Stiftung Berliner Mauer, or the Berlin Wall Foundation, serves as an essential heritage institution dedicated to preserving the memory and significance..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "St. Georg (Ellingen)"
 site_name: "St. Georg (Ellingen)"
 date: 2026-01-26
 draft: false
-description: "Catholic church building in Ellingen"
+description: "St. Georg in Ellingen is a noteworthy Catholic church that reflects the architectural and cultural heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

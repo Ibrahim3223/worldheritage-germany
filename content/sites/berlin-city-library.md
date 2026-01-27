@@ -3,7 +3,7 @@ title: "Berlin City Library"
 site_name: "Berlin City Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Berlin City Library, situated in the heart of Bezirk Mitte, Germany, serves as an essential cultural and educational resource for both locals and visitors."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

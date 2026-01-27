@@ -3,7 +3,7 @@ title: "Osterather Windmühle"
 site_name: "Osterather Windmühle"
 date: 2026-01-26
 draft: false
-description: "stillgelegte Holländerwindmühle im Meerbuscher Stadtteil Osterath"
+description: "The Osterather Windmühle, located in the charming district of Osterath in Meerbusch, Germany, is a striking example of traditional windmill architecture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

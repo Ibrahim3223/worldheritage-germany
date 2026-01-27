@@ -3,7 +3,7 @@ title: "Albertinum"
 site_name: "Albertinum"
 date: 2026-01-26
 draft: false
-description: "art museum in Dresden"
+description: "Albertinum is a prominent art museum located in the heart of Dresden, Germany, serving as a significant cultural institution in the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

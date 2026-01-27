@@ -3,7 +3,7 @@ title: "Burg Naumburg (Gladenbach)"
 site_name: "Burg Naumburg (Gladenbach)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Naumburg, located in the serene region of Gladenbach, Germany, captures the imagination of visitors with its storied past and commanding presence."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Burg Horn"
 site_name: "Burg Horn"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Horn, a captivating castle located in Horn-Bad Meinberg, Germany, invites visitors to explore its storied past and architectural charm."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

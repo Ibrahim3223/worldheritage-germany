@@ -3,7 +3,7 @@ title: "Eulenturm (Kroppenstedt)"
 site_name: "Eulenturm (Kroppenstedt)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Eulenturm in Kroppenstedt, Germany, is a remarkable historical tower that invites visitors to explore its architectural charm and cultural significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

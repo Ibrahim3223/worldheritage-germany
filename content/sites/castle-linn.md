@@ -3,7 +3,7 @@ title: "Castle Linn"
 site_name: "Castle Linn"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Castle Linn in Krefeld, Germany, is a noteworthy architectural and historical landmark that captivates visitors with its storied past and striking presence."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

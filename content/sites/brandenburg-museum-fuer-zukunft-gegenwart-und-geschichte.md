@@ -3,7 +3,7 @@ title: "Brandenburg Museum für Zukunft, Gegenwart und Geschichte"
 site_name: "Brandenburg Museum für Zukunft, Gegenwart und Geschichte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brandenburg Museum für Zukunft, Gegenwart und Geschichte, located in the heart of Potsdam, Germany, serves as a dynamic platform for exploring the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

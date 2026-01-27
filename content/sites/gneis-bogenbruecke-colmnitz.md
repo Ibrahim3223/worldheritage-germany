@@ -3,7 +3,7 @@ title: "Gneis-Bogenbrücke Colmnitz"
 site_name: "Gneis-Bogenbrücke Colmnitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Located in the serene region of Klingenberg, Germany, the Gneis-Bogenbrücke Colmnitz is more than just a bridge; it is a significant structure that connects..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

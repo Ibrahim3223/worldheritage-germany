@@ -3,7 +3,7 @@ title: "Mahnmal Schlachthoframpe"
 site_name: "Mahnmal Schlachthoframpe"
 date: 2026-01-26
 draft: false
-description: "monument in Wiesbaden, Germany"
+description: "Mahnmal Schlachthoframpe stands as a poignant reminder of the Holocaust's impact, located in Wiesbaden, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

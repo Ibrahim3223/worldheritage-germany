@@ -3,7 +3,7 @@ title: "EmslandArena"
 site_name: "EmslandArena"
 date: 2026-01-26
 draft: false
-description: "Mehrzweckhalle in der niedersächsischen Stadt Lingen im Emsland"
+description: "EmslandArena, a modern multi-purpose hall located in Lingen, Germany, serves as a vibrant hub for various events and activities in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

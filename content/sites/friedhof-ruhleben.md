@@ -3,7 +3,7 @@ title: "Friedhof Ruhleben"
 site_name: "Friedhof Ruhleben"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Friedhof Ruhleben stands as a solemn reminder of the past within the vibrant metropolis of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

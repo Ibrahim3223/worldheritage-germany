@@ -3,7 +3,7 @@ title: "Diana-Statue"
 site_name: "Diana-Statue"
 date: 2026-01-26
 draft: false
-description: "demolished statue in Gotha, Germany"
+description: "The Diana-Statue, once a prominent feature in Gotha, Germany, was an artistic tribute that represented both cultural values and aesthetic aspirations of its..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"

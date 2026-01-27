@@ -3,7 +3,7 @@ title: "Bauernmuseum Selfkant"
 site_name: "Bauernmuseum Selfkant"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Bauernmuseum Selfkant is an intriguing museum located in the heart of Germany that offers insights into rural life and agricultural practices."
 region: "Germany"
 country: "Germany"
 heritage_type: "Museum"

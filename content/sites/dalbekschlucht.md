@@ -3,7 +3,7 @@ title: "Dalbekschlucht"
 site_name: "Dalbekschlucht"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Dalbekschlucht, a captivating nature reserve located in the serene Kröppelshagen-Fahrendorf region of Schleswig-Holstein, Germany, offers a unique sanctuary..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

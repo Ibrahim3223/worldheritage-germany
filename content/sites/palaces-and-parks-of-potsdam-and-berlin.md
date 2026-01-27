@@ -3,7 +3,7 @@ title: "Palaces and Parks of Potsdam and Berlin"
 site_name: "Palaces and Parks of Potsdam and Berlin"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Palaces and Parks of Potsdam and Berlin represent a unique cultural landscape that captures the essence of royal ambition and artistic endeavor in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Landscape"

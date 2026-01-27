@@ -3,7 +3,7 @@ title: "Blasiuskapelle, Bergweiler"
 site_name: "Blasiuskapelle, Bergweiler"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "In the serene landscape of Tholey, Germany, the Blasiuskapelle in Bergweiler stands as a historical chapel that invites both contemplation and admiration."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"

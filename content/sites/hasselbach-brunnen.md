@@ -3,7 +3,7 @@ title: "Hasselbach-Brunnen"
 site_name: "Hasselbach-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Magdeburg, Germany"
+description: "In the heart of Magdeburg, Germany, stands the Hasselbach-Brunnen, a fountain that serves as both a refreshing oasis and a delightful point of interest for..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Fountain"

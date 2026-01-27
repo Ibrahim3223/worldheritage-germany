@@ -3,7 +3,7 @@ title: "Kampen lighthouse"
 site_name: "Kampen lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Kampen Lighthouse is an iconic maritime structure located in the charming region of Kampen on the island of Sylt, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

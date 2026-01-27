@@ -3,7 +3,7 @@ title: "Peter-Pauls-Kirche Zingst"
 site_name: "Peter-Pauls-Kirche Zingst"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Located in the picturesque district of Zingst, Germany, Peter-Pauls-Kirche stands as a significant church building within the region of Mecklenburg-Vorpommern."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

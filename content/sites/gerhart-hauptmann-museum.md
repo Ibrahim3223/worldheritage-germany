@@ -3,7 +3,7 @@ title: "Gerhart-Hauptmann-Museum"
 site_name: "Gerhart-Hauptmann-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Gerhart-Hauptmann-Museum, located in the picturesque Western Pomerania-Rügen District of Germany, serves as a significant cultural institution dedicated..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

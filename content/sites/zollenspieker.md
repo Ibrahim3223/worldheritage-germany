@@ -3,7 +3,7 @@ title: "Zollenspieker"
 site_name: "Zollenspieker"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Hamburg, Germany"
+description: "Zollenspieker, a nature reserve located in the Bergedorf district of Hamburg, Germany, is a sanctuary for biodiversity and a serene escape from the bustling..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Alpsee"
 site_name: "Alpsee"
 date: 2026-01-26
 draft: false
-description: "lake in Ostallgäu, Bavaria, Germany"
+description: "Alpsee, located in the picturesque Ostallgäu region of Bavaria, Germany, is a serene lake that captivates visitors with its tranquil waters and scenic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

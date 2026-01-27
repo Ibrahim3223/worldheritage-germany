@@ -3,7 +3,7 @@ title: "Salam Mosque"
 site_name: "Salam Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Iserlohn, Germany"
+description: "Salam Mosque, located in Iserlohn, Germany, serves as a significant spiritual and cultural hub for the local Muslim community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

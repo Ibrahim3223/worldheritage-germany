@@ -3,7 +3,7 @@ title: "Torhaus Schenkenau 1 in Itzgrund"
 site_name: "Torhaus Schenkenau 1 in Itzgrund"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-73-138-52 (2) in Itzgrund, Bavaria"
+description: "In the heart of Bavaria, Germany, lies Torhaus Schenkenau 1, a notable gatehouse that serves as a cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

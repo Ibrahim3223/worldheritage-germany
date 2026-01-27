@@ -3,7 +3,7 @@ title: "Village church Grünow"
 site_name: "Village church Grünow"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church Grünow, a charming church building located in the Brandenburg state of Germany, serves as an intriguing focal point for visitors..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

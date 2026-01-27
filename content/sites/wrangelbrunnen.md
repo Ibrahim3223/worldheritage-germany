@@ -3,7 +3,7 @@ title: "Wrangelbrunnen"
 site_name: "Wrangelbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Berlin-Kreuzberg, Germany"
+description: "In the heart of Berlin's vibrant Friedrichshain-Kreuzberg district, the Wrangelbrunnen stands as a charming reminder of the city's historical commitment to..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Geismühle"
 site_name: "Geismühle"
 date: 2026-01-26
 draft: false
-description: "Turmwindmühle zwischen Krefeld und Meerbusch"
+description: "Geismühle, located in the charming region of Krefeld, Germany, is a distinguished windmill that reflects the agricultural heritage and industrial evolution..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

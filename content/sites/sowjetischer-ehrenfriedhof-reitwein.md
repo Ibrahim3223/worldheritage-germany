@@ -3,7 +3,7 @@ title: "Sowjetischer Ehrenfriedhof Reitwein"
 site_name: "Sowjetischer Ehrenfriedhof Reitwein"
 date: 2026-01-26
 draft: false
-description: "cemetery in Reitwein, Germany"
+description: "The Sowjetischer Ehrenfriedhof Reitwein serves as a solemn reminder of the sacrifices made during times of conflict, specifically honoring Soviet soldiers..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Paul-Arnsberg-Memorial"
 site_name: "Paul-Arnsberg-Memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "The Paul-Arnsberg-Memorial stands as a significant monument in Frankfurt am Main, Germany, honoring the contributions and legacy of Paul Arnsberg, a figure..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

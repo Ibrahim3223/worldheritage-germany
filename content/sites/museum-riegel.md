@@ -3,7 +3,7 @@ title: "Museum Riegel"
 site_name: "Museum Riegel"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Museum Riegel, located in the charming town of Riegel am Kaiserstuhl in Germany, presents an inviting opportunity for visitors to delve into the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

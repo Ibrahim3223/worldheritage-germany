@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Museum, Sammlungen & Geopark Göttinger Zentr
 site_name: "Georg-August-Universität: Museum, Sammlungen & Geopark Göttinger Zentrum Geowissenschaften"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Georg-August-Universität: Museum, Sammlungen & Geopark Göttinger Zentrum Geowissenschaften is a fascinating destination located in Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

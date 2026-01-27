@@ -3,7 +3,7 @@ title: "Keramikmuseum Westerwald"
 site_name: "Keramikmuseum Westerwald"
 date: 2026-01-26
 draft: false
-description: "museum in Höhr-Grenzhausen, Rhineland-Palatinate, Germany"
+description: "Keramikmuseum Westerwald is a captivating haven for lovers of ceramics and cultural history, located in Höhr-Grenzhausen, Rhineland-Palatinate, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kloster Staffelsee, auch Wörth genannt, Seehausen am Staffelsee"
 site_name: "Kloster Staffelsee, auch Wörth genannt, Seehausen am Staffelsee"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kloster Staffelsee, also known as Wörth, is a serene monastery located in the picturesque region of Seehausen am Staffelsee, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

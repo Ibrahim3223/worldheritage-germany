@@ -3,7 +3,7 @@ title: "Gertrudenkapelle"
 site_name: "Gertrudenkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Gertrudenkapelle, located in the charming town of Wolgast, Germany, is an evocative chapel that invites visitors to explore both its serene atmosphere and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

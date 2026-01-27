@@ -3,7 +3,7 @@ title: "Yunus Emre Camii mosque"
 site_name: "Yunus Emre Camii mosque"
 date: 2026-01-26
 draft: false
-description: "mosque"
+description: "Yunus Emre Camii, a prominent mosque located in Esslingen am Neckar, Germany, serves not only as a place of worship but also as a cultural hub for the local..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

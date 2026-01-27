@@ -3,7 +3,7 @@ title: "St. Catherine's church Brandenburg"
 site_name: "St. Catherine's church Brandenburg"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg an der Havel, Germany"
+description: "St. Catherine's Church in Brandenburg an der Havel stands as a significant religious and cultural landmark within this historic city."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

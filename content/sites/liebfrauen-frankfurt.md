@@ -3,7 +3,7 @@ title: "Liebfrauen, Frankfurt"
 site_name: "Liebfrauen, Frankfurt"
 date: 2026-01-26
 draft: false
-description: "roman-catholic church in Frankfurt am Main, Germany"
+description: "Liebfrauen, a Roman Catholic church located in the heart of Frankfurt am Main, Germany, is an architectural and spiritual cornerstone of the city."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

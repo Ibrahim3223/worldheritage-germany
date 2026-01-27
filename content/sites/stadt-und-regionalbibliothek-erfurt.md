@@ -3,7 +3,7 @@ title: "Stadt- und Regionalbibliothek Erfurt"
 site_name: "Stadt- und Regionalbibliothek Erfurt"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Erfurt, Germany, the Stadt- und Regionalbibliothek Erfurt serves as a vital hub for knowledge, culture, and community engagement."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Library"

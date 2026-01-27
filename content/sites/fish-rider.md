@@ -3,7 +3,7 @@ title: "Fish rider"
 site_name: "Fish rider"
 date: 2026-01-26
 draft: false
-description: "sculpture and fountain in Berlin-Wilmersdorf, Germany"
+description: "The Fish Rider is an intriguing fountain located in the Charlottenburg-Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

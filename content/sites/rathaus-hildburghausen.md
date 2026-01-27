@@ -3,7 +3,7 @@ title: "Rathaus Hildburghausen"
 site_name: "Rathaus Hildburghausen"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Rathaus Hildburghausen, located in the heart of Hildburghausen, Germany, serves as a museum and a library that encapsulates the cultural and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bärwalder See"
 site_name: "Bärwalder See"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Bärwalder See, located in the Boxberg region of Germany, is a captivating lake that invites exploration and relaxation."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"

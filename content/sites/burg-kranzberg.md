@@ -3,7 +3,7 @@ title: "Burg Kranzberg"
 site_name: "Burg Kranzberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kranzberg, a captivating castle located in the charming region of Sulzbach-Laufen, Germany, presents a unique glimpse into the architectural history..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Dorfkirche Schermen"
 site_name: "Dorfkirche Schermen"
 date: 2026-01-26
 draft: false
-description: "church in Schermen, Germany"
+description: "Dorfkirche Schermen is a significant church building located in the quaint village of Schermen, Germany, within the Möser region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Neue Gasse"
 site_name: "Neue Gasse"
 date: 2026-01-26
 draft: false
-description: "street in Ellingen, Germany"
+description: "Located in the charming town of Ellingen, Germany, Neue Gasse is an architectural ensemble that captivates visitors with its historical significance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Botanischer Garten der TU Darmstadt"
 site_name: "Botanischer Garten der TU Darmstadt"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten der TU Darmstadt is a serene oasis of botanical diversity situated in the heart of Darmstadt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

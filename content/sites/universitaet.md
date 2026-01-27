@@ -3,7 +3,7 @@ title: "Universität"
 site_name: "Universität"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-624 (0) in Würzburg, Bavaria"
+description: "Universität Würzburg, located in the heart of Bavaria, Germany, stands as a prominent institution of higher learning with a rich cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "University"

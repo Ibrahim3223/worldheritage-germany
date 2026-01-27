@@ -3,7 +3,7 @@ title: "German Ivory Museum Erbach"
 site_name: "German Ivory Museum Erbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The German Ivory Museum Erbach stands as a dedicated institution to the artistry and craftsmanship of ivory carving, showcasing an extensive collection that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

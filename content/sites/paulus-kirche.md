@@ -3,7 +3,7 @@ title: "Paulus-Kirche"
 site_name: "Paulus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Located in the charming district of Steglitz-Zehlendorf, Germany, the Paulus-Kirche stands as a notable church building that captures the essence of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

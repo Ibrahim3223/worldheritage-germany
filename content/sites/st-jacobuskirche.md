@@ -3,7 +3,7 @@ title: "St. Jacobuskirche"
 site_name: "St. Jacobuskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Jacobuskirche, a significant church building located in Zirchow, Germany, serves as a focal point for both the community and visitors intrigued by its..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Eschweiler-Weisweiler railway station"
 site_name: "Eschweiler-Weisweiler railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Eschweiler, Germany"
+description: "Eschweiler-Weisweiler railway station, located in the town of Eschweiler, Germany, serves as a vital transportation hub within the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

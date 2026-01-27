@@ -3,7 +3,7 @@ title: "Baumweg"
 site_name: "Baumweg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Baumweg is a notable nature reserve located in the serene region of Emstek, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

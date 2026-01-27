@@ -3,7 +3,7 @@ title: "Heimerzheim Castle"
 site_name: "Heimerzheim Castle"
 date: 2026-01-26
 draft: false
-description: "castle in North Rhine-Westphalia, Germany"
+description: "Heimerzheim Castle, located in the Swisttal region of North Rhine-Westphalia, Germany, is a captivating structure that offers visitors a glimpse into the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

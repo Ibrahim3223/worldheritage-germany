@@ -3,7 +3,7 @@ title: "Deinster Mühlenbach"
 site_name: "Deinster Mühlenbach"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Deinster Mühlenbach is a serene nature reserve located in Lower Saxony, Germany, that serves as an essential ecological haven within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

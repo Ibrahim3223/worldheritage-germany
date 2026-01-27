@@ -3,7 +3,7 @@ title: "Heine Haus (Hamburg, Germany)"
 site_name: "Heine Haus (Hamburg, Germany)"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Heine Haus, located in the vibrant district of Altona in Hamburg, Germany, serves as a museum dedicated to the legacy of one of Germany's most prominent..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Wallnau / Fehmarn"
 site_name: "Wallnau / Fehmarn"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Wallnau, located on the picturesque island of Fehmarn in Schleswig-Holstein, Germany, represents a vital natural habitat along the Baltic Sea."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

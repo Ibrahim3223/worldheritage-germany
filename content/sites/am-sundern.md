@@ -3,7 +3,7 @@ title: "Am Sundern"
 site_name: "Am Sundern"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
+description: "Am Sundern is a nature reserve located in the picturesque region of Harsewinkel, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

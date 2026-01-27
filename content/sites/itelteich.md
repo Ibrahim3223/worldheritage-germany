@@ -3,7 +3,7 @@ title: "Itelteich"
 site_name: "Itelteich"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Itelteich, located in the picturesque region of Walkenried in Lower Saxony, Germany, presents a fascinating glimpse into the delicate interplay between..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

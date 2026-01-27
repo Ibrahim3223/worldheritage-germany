@@ -3,7 +3,7 @@ title: "Museum of Islamic Art"
 site_name: "Museum of Islamic Art"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The Museum of Islamic Art in Berlin is a pivotal institution dedicated to the preservation and exhibition of Islamic art and culture."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

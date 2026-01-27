@@ -3,7 +3,7 @@ title: "Old Niendorf Cemetery"
 site_name: "Old Niendorf Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hamburg, Germany"
+description: "Old Niendorf Cemetery is a historic burial ground located in the Eimsbüttel district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"

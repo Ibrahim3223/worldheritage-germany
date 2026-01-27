@@ -3,7 +3,7 @@ title: "Stiftung Bundeskanzler-Adenauer-Haus"
 site_name: "Stiftung Bundeskanzler-Adenauer-Haus"
 date: 2026-01-26
 draft: false
-description: "Foundation in Germany"
+description: "In the charming town of Bad Honnef, Germany, the Stiftung Bundeskanzler-Adenauer-Haus serves as a vital link to the nation’s political history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum für bergmännische Volkskunst"
 site_name: "Museum für bergmännische Volkskunst"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum für bergmännische Volkskunst, located in the heart of Schneeberg, Germany, is a fascinating tribute to the region’s mining heritage and the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

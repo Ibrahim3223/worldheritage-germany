@@ -3,7 +3,7 @@ title: "Johanniskirche (Malchin)"
 site_name: "Johanniskirche (Malchin)"
 date: 2026-01-26
 draft: false
-description: "church building in Malchin, Germany"
+description: "The Johanniskirche in Malchin, Germany, is a remarkable church building that serves as a focal point of the community and a significant part of the region's..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

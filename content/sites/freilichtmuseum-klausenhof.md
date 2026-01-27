@@ -3,7 +3,7 @@ title: "Freilichtmuseum Klausenhof"
 site_name: "Freilichtmuseum Klausenhof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Freilichtmuseum Klausenhof is a captivating museum located in Herrischried, Germany, dedicated to showcasing the rich cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

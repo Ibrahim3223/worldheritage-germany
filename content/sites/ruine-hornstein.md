@@ -3,7 +3,7 @@ title: "Ruine Hornstein"
 site_name: "Ruine Hornstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Ruine Hornstein, a remarkable castle located in the Bingen region of Germany, encapsulates centuries of history and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

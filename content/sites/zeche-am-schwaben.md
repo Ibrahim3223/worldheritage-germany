@@ -3,7 +3,7 @@ title: "Zeche Am Schwaben"
 site_name: "Zeche Am Schwaben"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Am Schwaben, located in the heart of Dortmund, Germany, is a historical mine that offers a unique glimpse into the region's rich industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

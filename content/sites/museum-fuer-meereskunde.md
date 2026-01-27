@@ -3,7 +3,7 @@ title: "Museum für Meereskunde"
 site_name: "Museum für Meereskunde"
 date: 2026-01-26
 draft: false
-description: "former museum in Berlin"
+description: "The Museum für Meereskunde, once a prominent institution in Berlin, served as a portal into the depths of the ocean and the mysteries of marine life."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

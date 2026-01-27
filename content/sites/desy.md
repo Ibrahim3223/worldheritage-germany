@@ -3,7 +3,7 @@ title: "DESY"
 site_name: "DESY"
 date: 2026-01-26
 draft: false
-description: "physics research institute in Hamburg, Germany"
+description: "In the vibrant city of Hamburg, Germany, the Deutsches Elektronen-Synchrotron (DESY) stands as a prominent physics research institute, fostering a spirit of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

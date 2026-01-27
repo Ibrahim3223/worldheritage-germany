@@ -3,7 +3,7 @@ title: "Burg Lauenrode"
 site_name: "Burg Lauenrode"
 date: 2026-01-26
 draft: false
-description: "demolished castle in Hannover, Germany"
+description: "Burg Lauenrode, once a prominent castle in the Hanover region of Germany, is a site that evokes a sense of intrigue and curiosity despite its current status..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Zeche Cronenbank"
 site_name: "Zeche Cronenbank"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Cronenbank, located in Witten, Germany, is an important site in the history of mining, particularly in the context of the Ruhr area's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

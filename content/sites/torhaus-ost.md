@@ -3,7 +3,7 @@ title: "Torhaus Ost"
 site_name: "Torhaus Ost"
 date: 2026-01-26
 draft: false
-description: "Östliches Torhaus der Domäne Karthaus in der Bauerschaft Weddern in Dülmen"
+description: "Torhaus Ost, a historic gatehouse located in the quaint region of Dülmen, Germany, stands as a significant architectural remnant in the pastoral landscape..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

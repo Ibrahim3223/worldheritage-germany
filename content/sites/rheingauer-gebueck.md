@@ -3,7 +3,7 @@ title: "Rheingauer Gebück"
 site_name: "Rheingauer Gebück"
 date: 2026-01-26
 draft: false
-description: "natural monument of Hesse, Germany"
+description: "Rheingauer Gebück is a fascinating fortification located in the scenic region of Rheingau-Taunus-Kreis in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Fortification"

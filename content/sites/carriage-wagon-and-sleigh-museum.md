@@ -3,7 +3,7 @@ title: "Carriage, wagon and sleigh museum"
 site_name: "Carriage, wagon and sleigh museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Carriage, Wagon and Sleigh Museum in Germany is a fascinating destination for those intrigued by historical modes of transport."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

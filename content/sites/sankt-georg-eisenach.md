@@ -3,7 +3,7 @@ title: "Sankt Georg (Eisenach)"
 site_name: "Sankt Georg (Eisenach)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the heart of Eisenach, Germany, Sankt Georg is a distinguished church building that embodies the spiritual and architectural heritage of the region."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"

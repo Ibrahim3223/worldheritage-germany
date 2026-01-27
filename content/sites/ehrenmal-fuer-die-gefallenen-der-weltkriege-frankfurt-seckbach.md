@@ -3,7 +3,7 @@ title: "Ehrenmal für die Gefallenen der Weltkriege Frankfurt-Seckbach"
 site_name: "Ehrenmal für die Gefallenen der Weltkriege Frankfurt-Seckbach"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "Ehrenmal für die Gefallenen der Weltkriege, located in Frankfurt am Main, Germany, stands as a poignant monument dedicated to the memory of those who lost..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

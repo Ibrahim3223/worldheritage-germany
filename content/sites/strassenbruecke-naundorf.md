@@ -3,7 +3,7 @@ title: "Straßenbrücke Naundorf"
 site_name: "Straßenbrücke Naundorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke Naundorf is an integral part of Bobritzsch-Hilbersdorf's cultural fabric, serving as both a functional structure and a historical landmark."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

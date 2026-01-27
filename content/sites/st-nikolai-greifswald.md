@@ -3,7 +3,7 @@ title: "St. Nikolai, Greifswald"
 site_name: "St. Nikolai, Greifswald"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "St. Nikolai Church, located in the charming city of Greifswald, Germany, is a remarkable example of a church building that reflects the cultural and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Grabmal der Familie Vibrans"
 site_name: "Grabmal der Familie Vibrans"
 date: 2026-01-26
 draft: false
-description: "tomb"
+description: "Located in the heart of Calvörde, Germany, the Grabmal der Familie Vibrans stands as a poignant reminder of the region's historical and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tomb"

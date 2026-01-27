@@ -3,7 +3,7 @@ title: "Hammermuseum Frankfurt"
 site_name: "Hammermuseum Frankfurt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the vibrant city of Frankfurt, Germany, the Hammermuseum Frankfurt stands as a unique institution dedicated to the exploration and celebration of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

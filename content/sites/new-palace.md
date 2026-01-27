@@ -3,7 +3,7 @@ title: "New Palace"
 site_name: "New Palace"
 date: 2026-01-26
 draft: false
-description: "Palace in Sanssouci, Potsdam, Brandenburg, Germany"
+description: "The New Palace, located in the Brandenburger Vorstadt of Potsdam, Germany, is an architectural marvel that reflects the grandeur of the Prussian monarchy."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

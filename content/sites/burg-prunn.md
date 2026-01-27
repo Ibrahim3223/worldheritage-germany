@@ -3,7 +3,7 @@ title: "Burg Prunn"
 site_name: "Burg Prunn"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched strategically on a hill in Germany, Burg Prunn is a historic castle that offers a glimpse into the architectural and cultural heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

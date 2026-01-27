@@ -3,7 +3,7 @@ title: "New Chambers"
 site_name: "New Chambers"
 date: 2026-01-26
 draft: false
-description: "Guest palace and museum in Sanssouci Park, Potsdam"
+description: "The New Chambers, located within the enchanting Sanssouci Park in Potsdam, Germany, serves as a remarkable intersection of art, history, and architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

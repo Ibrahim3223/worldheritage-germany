@@ -3,7 +3,7 @@ title: "Denkendorfer Erlachsee"
 site_name: "Denkendorfer Erlachsee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Denkendorfer Erlachsee, a nature reserve located in the serene region of Baden-Württemberg, Germany, offers a unique opportunity for nature enthusiasts and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

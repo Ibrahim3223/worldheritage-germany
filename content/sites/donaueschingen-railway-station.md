@@ -3,7 +3,7 @@ title: "Donaueschingen railway station"
 site_name: "Donaueschingen railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Donaueschingen, Germany"
+description: "Donaueschingen railway station serves as a vital link in the extensive German rail network, located in the charming town of Donaueschingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

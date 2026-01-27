@@ -3,7 +3,7 @@ title: "Haus im Schluh"
 site_name: "Haus im Schluh"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus im Schluh is an art museum located in the picturesque region of Worpswede, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

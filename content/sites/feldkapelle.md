@@ -3,7 +3,7 @@ title: "Feldkapelle"
 site_name: "Feldkapelle"
 date: 2026-01-26
 draft: false
-description: "Catholic chapel in Germany"
+description: "Feldkapelle, a quaint Catholic chapel located in the Mechernich region of Germany, provides a serene backdrop for those seeking spiritual solace and a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Silbersee"
 site_name: "Silbersee"
 date: 2026-01-26
 draft: false
-description: "lake in Langenhagen, Lower Saxony, Germany"
+description: "Silbersee, a serene lake located in Langenhagen, Lower Saxony, Germany, invites visitors to experience the tranquility and beauty of nature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

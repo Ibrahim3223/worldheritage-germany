@@ -3,7 +3,7 @@ title: "Franz-Liszt-Denkmal"
 site_name: "Franz-Liszt-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Weimar, Germany"
+description: "The Franz-Liszt-Denkmal is a striking monument located in the culturally vibrant city of Weimar, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

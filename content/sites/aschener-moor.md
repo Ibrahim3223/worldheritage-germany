@@ -3,7 +3,7 @@ title: "Aschener Moor"
 site_name: "Aschener Moor"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Aschener Moor, a former nature reserve in the Diepholz region of Lower Saxony, Germany, presents an intriguing intersection of natural beauty and ecological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

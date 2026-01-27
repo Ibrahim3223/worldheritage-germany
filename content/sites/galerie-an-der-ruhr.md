@@ -3,7 +3,7 @@ title: "Galerie an der Ruhr"
 site_name: "Galerie an der Ruhr"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Galerie an der Ruhr, located in Mülheim an der Ruhr, Germany, serves as a vibrant hub for art enthusiasts and cultural explorers alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

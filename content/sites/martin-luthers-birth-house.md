@@ -3,7 +3,7 @@ title: "Martin Luther's Birth House"
 site_name: "Martin Luther's Birth House"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Martin Luther's Birth House, located in the historic town of Eisleben, Germany, is an essential pilgrimage site for those interested in the life and legacy..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Niederburg"
 site_name: "Burg Niederburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Niederburg is a captivating castle located in the heart of Germany, within the serene region of Niederburg."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

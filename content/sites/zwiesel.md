@@ -3,7 +3,7 @@ title: "Zwiesel"
 site_name: "Zwiesel"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zwiesel is a mountain located in the scenic District of Berchtesgadener Land, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Torhaus West"
 site_name: "Torhaus West"
 date: 2026-01-26
 draft: false
-description: "Westliches Torhaus der Domäne Karthaus in der Bauerschaft Weddern in Dülmen"
+description: "Torhaus West, a historic gatehouse located in Dülmen, Germany, serves as a striking reminder of the region's architectural and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

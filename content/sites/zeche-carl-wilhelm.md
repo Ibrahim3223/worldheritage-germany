@@ -3,7 +3,7 @@ title: "Zeche Carl Wilhelm"
 site_name: "Zeche Carl Wilhelm"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carl Wilhelm, located in Bochum, Germany, is a significant historical mine that provides a glimpse into the region's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

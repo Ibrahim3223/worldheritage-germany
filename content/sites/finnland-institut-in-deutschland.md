@@ -3,7 +3,7 @@ title: "Finnland-Institut in Deutschland"
 site_name: "Finnland-Institut in Deutschland"
 date: 2026-01-26
 draft: false
-description: "Forum finnischer Kultur, Wissenschaft und Wirtschaft in Berlin"
+description: "Located in the vibrant heart of Berlin, the Finnland-Institut in Deutschland serves as a significant cultural institution dedicated to the promotion of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"

@@ -3,7 +3,7 @@ title: "Bartholomäus-Kapelle"
 site_name: "Bartholomäus-Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Bartholomäus-Kapelle, a serene chapel located in the picturesque region of Einbeck, Germany, is a site that attracts those with an appreciation for..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

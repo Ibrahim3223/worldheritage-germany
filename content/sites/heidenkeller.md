@@ -3,7 +3,7 @@ title: "Heidenkeller"
 site_name: "Heidenkeller"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Heidenkeller is a captivating castle located in the picturesque region of Ettenheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

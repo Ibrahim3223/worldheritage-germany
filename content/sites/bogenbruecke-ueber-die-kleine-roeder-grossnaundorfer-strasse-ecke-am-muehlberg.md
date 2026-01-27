@@ -3,7 +3,7 @@ title: "Bogenbrücke über die Kleine Röder Großnaundorfer Straße (Ecke Am M�
 site_name: "Bogenbrücke über die Kleine Röder Großnaundorfer Straße (Ecke Am Mühlberg)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über die Kleine Röder, situated at the intersection of Großnaundorfer Straße and Am Mühlberg, is a significant architectural feature in the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

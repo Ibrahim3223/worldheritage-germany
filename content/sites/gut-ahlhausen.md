@@ -3,7 +3,7 @@ title: "Gut Ahlhausen"
 site_name: "Gut Ahlhausen"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Gut Ahlhausen, an architectural ensemble located in Ennepetal, Germany, is a striking example of heritage architecture that captures the essence of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

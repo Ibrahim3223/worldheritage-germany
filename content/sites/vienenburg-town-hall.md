@@ -3,7 +3,7 @@ title: "Vienenburg town hall"
 site_name: "Vienenburg town hall"
 date: 2026-01-26
 draft: false
-description: "Einzeldenkmal (gemäß § 3 Abs. 2 NDSchG)"
+description: "Vienenburg Town Hall, located in the picturesque Goslar region of Germany, serves as a vital administrative center and an architectural highlight of the town."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

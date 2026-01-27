@@ -3,7 +3,7 @@ title: "Kapelle St. Joseph (Hard)"
 site_name: "Kapelle St. Joseph (Hard)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Hard"
+description: "Kapelle St. Joseph, located in the quaint village of Hard within the Wellheim region of Germany, is a notable chapel that exemplifies the local religious..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Reformierte Kirche Lübeck"
 site_name: "Reformierte Kirche Lübeck"
 date: 2026-01-26
 draft: false
-description: "church building in Lübeck's Old City, Schleswig-Holstein, Germany"
+description: "The Reformierte Kirche Lübeck, a church building situated in Lübeck's Old City, serves as a significant cultural landmark in Schleswig-Holstein, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

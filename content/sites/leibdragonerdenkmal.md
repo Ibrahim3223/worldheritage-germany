@@ -3,7 +3,7 @@ title: "Leibdragonerdenkmal"
 site_name: "Leibdragonerdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Leibdragonerdenkmal, a significant monument located in Karlsruhe, Germany, serves as a poignant reminder of the region's cultural history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Großes Militärwaisenhaus"
 site_name: "Großes Militärwaisenhaus"
 date: 2026-01-26
 draft: false
-description: "building group in Potsdam, Germany, former a large military orphanage"
+description: "The Großes Militärwaisenhaus, located in the historic city of Potsdam, Germany, serves as a striking reminder of the region's rich military heritage and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

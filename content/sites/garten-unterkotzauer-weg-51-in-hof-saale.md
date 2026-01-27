@@ -3,7 +3,7 @@ title: "Garten Unterkotzauer Weg 51 in Hof (Saale)"
 site_name: "Garten Unterkotzauer Weg 51 in Hof (Saale)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-64-000-264 (1) in Hof (Saale), Bavaria"
+description: "Garten Unterkotzauer Weg 51 in Hof (Saale), Bavaria, is a significant cultural heritage monument that encapsulates the essence of the region's gardening..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

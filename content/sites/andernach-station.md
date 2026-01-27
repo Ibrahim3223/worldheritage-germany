@@ -3,7 +3,7 @@ title: "Andernach station"
 site_name: "Andernach station"
 date: 2026-01-26
 draft: false
-description: "railway station in Andernach, Germany"
+description: "Andernach Station serves as a vital transportation hub in the charming town of Andernach, Germany, situated along the scenic banks of the Rhine River."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

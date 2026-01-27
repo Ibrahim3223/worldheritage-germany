@@ -3,7 +3,7 @@ title: "Lion"
 site_name: "Lion"
 date: 2026-01-26
 draft: false
-description: "sculpture by August Gaul in Berlin, Germany"
+description: "In the heart of Berlin, amidst the bustling energy of Bezirk Mitte, stands a remarkable statue created by the artist August Gaul."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

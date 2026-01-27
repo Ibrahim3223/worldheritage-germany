@@ -3,7 +3,7 @@ title: "Frauenhöhle"
 site_name: "Frauenhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Deep within the verdant landscapes of Hausen, Germany, lies Frauenhöhle, an intriguing cave that invites exploration and discovery."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

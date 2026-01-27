@@ -3,7 +3,7 @@ title: "Heidecksburg"
 site_name: "Heidecksburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Heidecksburg, a captivating castle located in the heart of Rudolstadt, Germany, invites visitors to explore its storied past and impressive architecture."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

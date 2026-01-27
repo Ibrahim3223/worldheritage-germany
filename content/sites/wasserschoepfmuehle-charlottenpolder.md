@@ -3,7 +3,7 @@ title: "Wasserschöpfmühle Charlottenpolder"
 site_name: "Wasserschöpfmühle Charlottenpolder"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Charlottenpolder, Bunde"
+description: "The Wasserschöpfmühle Charlottenpolder, located in the charming town of Bunde, Germany, serves as a remarkable example of traditional windmill architecture..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

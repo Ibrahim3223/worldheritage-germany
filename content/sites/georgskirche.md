@@ -3,7 +3,7 @@ title: "Georgskirche"
 site_name: "Georgskirche"
 date: 2026-01-26
 draft: false
-description: "church in Schwieberdingen"
+description: "In the heart of Schwieberdingen, Germany, the Georgskirche stands as a significant church building that reflects the area's historical and cultural essence."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Jakobuskirche (Tübingen)"
 site_name: "Jakobuskirche (Tübingen)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Jakobuskirche, located in the charming town of Tübingen, Germany, serves as an important landmark that draws both locals and visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

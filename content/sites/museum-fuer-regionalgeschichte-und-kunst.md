@@ -3,7 +3,7 @@ title: "Museum für Regionalgeschichte und Kunst"
 site_name: "Museum für Regionalgeschichte und Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Regionalgeschichte und Kunst in Buxtehude, Germany, serves as a significant cultural institution dedicated to preserving and showcasing the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

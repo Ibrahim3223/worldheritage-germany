@@ -3,7 +3,7 @@ title: "Liegnitz Collection"
 site_name: "Liegnitz Collection"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The Liegnitz Collection in Wuppertal, Germany, presents a remarkable opportunity for visitors to engage with a diverse array of historical artifacts and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

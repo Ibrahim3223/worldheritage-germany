@@ -3,7 +3,7 @@ title: "Bad Kissingen"
 site_name: "Bad Kissingen"
 date: 2026-01-26
 draft: false
-description: "town in Bavaria, Germany"
+description: "Bad Kissingen, located in the picturesque Bavarian district of Bad Kissingen, Germany, is a town renowned for its historic spas and wellness culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "World Heritage Site"

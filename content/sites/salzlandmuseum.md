@@ -3,7 +3,7 @@ title: "Salzlandmuseum"
 site_name: "Salzlandmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Salzlandmuseum, located in the town of Schönebeck, Germany, serves as a vital cultural and historical repository, shedding light on the region's unique..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

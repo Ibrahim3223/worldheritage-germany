@@ -3,7 +3,7 @@ title: "Slevogthof"
 site_name: "Slevogthof"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus aus dem 19. Jahrhundert"
+description: "Slevogthof, a striking manor house situated in the charming region of Leinsweiler, Germany, is a captivating representation of 19th-century architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

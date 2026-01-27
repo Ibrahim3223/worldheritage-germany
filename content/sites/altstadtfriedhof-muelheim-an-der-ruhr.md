@@ -3,7 +3,7 @@ title: "Altstadtfriedhof Mülheim an der Ruhr"
 site_name: "Altstadtfriedhof Mülheim an der Ruhr"
 date: 2026-01-26
 draft: false
-description: "cemetery in Mülheim an der Ruhr, Germany"
+description: "The Altstadtfriedhof Mülheim an der Ruhr is not merely a resting place for the departed; it serves as a unique historical site that reflects the cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

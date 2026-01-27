@@ -3,7 +3,7 @@ title: "Grimersum Church"
 site_name: "Grimersum Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Grimersum Church, located in the picturesque region of Krummhörn, Germany, serves as a significant cultural and architectural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

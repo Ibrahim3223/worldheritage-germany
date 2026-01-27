@@ -3,7 +3,7 @@ title: "Kirche am Rockenhof"
 site_name: "Kirche am Rockenhof"
 date: 2026-01-26
 draft: false
-description: "church building in Volksdorf, Germany"
+description: "Kirche am Rockenhof, located in the charming district of Volksdorf in Wandsbek, Germany, is a notable church building that reflects the architectural and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

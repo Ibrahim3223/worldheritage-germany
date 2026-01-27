@@ -3,7 +3,7 @@ title: "Kunstbibliothek Berlin"
 site_name: "Kunstbibliothek Berlin"
 date: 2026-01-26
 draft: false
-description: "art library in Berlin"
+description: "In the heart of Berlin, a city renowned for its rich cultural landscape, the Kunstbibliothek Berlin stands as a vital resource for art enthusiasts and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

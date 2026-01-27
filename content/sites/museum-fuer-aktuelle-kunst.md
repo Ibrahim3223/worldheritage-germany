@@ -3,7 +3,7 @@ title: "Museum für Aktuelle Kunst"
 site_name: "Museum für Aktuelle Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Aktuelle Kunst, located in Durbach, Germany, serves as a contemporary platform for artistic expression and cultural discourse."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

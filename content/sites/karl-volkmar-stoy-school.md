@@ -3,7 +3,7 @@ title: "Karl Volkmar Stoy School"
 site_name: "Karl Volkmar Stoy School"
 date: 2026-01-26
 draft: false
-description: "vocational school in Jena, Germany"
+description: "The Karl Volkmar Stoy School, located in Jena, Germany, is not just an institution of learning but a significant landmark in the region's educational landscape."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "School Building"

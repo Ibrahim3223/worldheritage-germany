@@ -3,7 +3,7 @@ title: "Deutsches Klingenmuseum Solingen"
 site_name: "Deutsches Klingenmuseum Solingen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Klingenmuseum Solingen, situated in the heart of Solingen, Germany, offers a unique insight into the world of blades and cutlery, a craft that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

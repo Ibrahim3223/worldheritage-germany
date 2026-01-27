@@ -3,7 +3,7 @@ title: "Burg Lahr"
 site_name: "Burg Lahr"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lahr, a captivating castle located in the picturesque region of Burglahr, Germany, invites visitors to explore its storied past and impressive..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

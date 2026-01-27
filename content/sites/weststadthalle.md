@@ -3,7 +3,7 @@ title: "Weststadthalle"
 site_name: "Weststadthalle"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Germany"
+description: "Weststadthalle in Bensheim, Germany, is a notable multi-purpose hall that serves as a focal point for community activities and events."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

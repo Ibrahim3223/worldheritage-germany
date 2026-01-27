@@ -3,7 +3,7 @@ title: "gypsy camp Magdeburg Holzweg"
 site_name: "gypsy camp Magdeburg Holzweg"
 date: 2026-01-26
 draft: false
-description: "Nazi internment camp for Romani and Sinti"
+description: "The gypsy camp Magdeburg Holzweg serves as a poignant memorial to the tragic history of Nazi internment camps specifically for the Romani and Sinti..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Aufklärungsturm A"
 site_name: "Aufklärungsturm A"
 date: 2026-01-26
 draft: false
-description: "tower near Klaustorf, Germany"
+description: "Aufklärungsturm A is a notable tower located near Klaustorf in the Ostholstein region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Kunstverein Schwerte e.V."
 site_name: "Kunstverein Schwerte e.V."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunstverein Schwerte e.V., located in the charming town of Schwerte, Germany, serves as a vibrant hub for contemporary art and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

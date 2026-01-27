@@ -3,7 +3,7 @@ title: "Kloster Gnadental"
 site_name: "Kloster Gnadental"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "Kloster Gnadental, a notable monastery located in Neuss, Germany, serves as a significant cultural and historical landmark in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

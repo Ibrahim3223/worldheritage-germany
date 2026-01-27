@@ -3,7 +3,7 @@ title: "Burg Hohenhundersingen"
 site_name: "Burg Hohenhundersingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenhundersingen, a captivating castle located in the Münsingen region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

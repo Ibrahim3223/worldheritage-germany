@@ -3,7 +3,7 @@ title: "Wäscherschloss"
 site_name: "Wäscherschloss"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wäscherschloss, a museum located in the picturesque town of Wäschenbeuren, Germany, invites visitors to delve into its intriguing past and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

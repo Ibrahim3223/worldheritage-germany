@@ -3,7 +3,7 @@ title: "Eversberg War Cemetery"
 site_name: "Eversberg War Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Meschede, Germany"
+description: "The Eversberg War Cemetery, located in Meschede, Germany, stands as a solemn reminder of the sacrifices made during times of conflict."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

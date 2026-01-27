@@ -3,7 +3,7 @@ title: "Brückentor (Traben-Trarbach)"
 site_name: "Brückentor (Traben-Trarbach)"
 date: 2026-01-26
 draft: false
-description: "city gate in Traben-Trarbach, Germany"
+description: "The Brückentor, a prominent city gate in Traben-Trarbach, Germany, serves as a remarkable emblem of the town’s historical significance and architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"

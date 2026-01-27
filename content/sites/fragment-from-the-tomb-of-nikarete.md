@@ -3,7 +3,7 @@ title: "Fragment from the tomb of Nikarete"
 site_name: "Fragment from the tomb of Nikarete"
 date: 2026-01-26
 draft: false
-description: "ancient Greek sculpture"
+description: "The Fragment from the tomb of Nikarete is an ancient Greek sculpture that captivates visitors with its historical depth and artistic merit."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

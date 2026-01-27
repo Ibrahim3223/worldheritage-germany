@@ -3,7 +3,7 @@ title: "Brauhausmuseum"
 site_name: "Brauhausmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brauhausmuseum in Germany offers visitors a unique glimpse into the world of brewing, a craft that has shaped both the culture and economy of the region..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

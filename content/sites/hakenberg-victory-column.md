@@ -3,7 +3,7 @@ title: "Hakenberg Victory Column"
 site_name: "Hakenberg Victory Column"
 date: 2026-01-26
 draft: false
-description: "tower in Brandenburg state"
+description: "The Hakenberg Victory Column is a striking tower located in the picturesque region of Fehrbellin, Germany, in the state of Brandenburg."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

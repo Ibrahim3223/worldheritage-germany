@@ -3,7 +3,7 @@ title: "König-Albert-Denkmal"
 site_name: "König-Albert-Denkmal"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The König-Albert-Denkmal is a striking architectural monument located in Freital, Germany, that honors the legacy of King Albert of Saxony."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

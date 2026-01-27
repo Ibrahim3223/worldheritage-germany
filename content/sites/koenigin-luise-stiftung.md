@@ -3,7 +3,7 @@ title: "Königin-Luise-Stiftung"
 site_name: "Königin-Luise-Stiftung"
 date: 2026-01-26
 draft: false
-description: "Träger von drei Privatschulen in Berlin"
+description: "Königin-Luise-Stiftung, located in the vibrant metropolis of Berlin, Germany, serves as a multifaceted foundation dedicated to education through its..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

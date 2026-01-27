@@ -3,7 +3,7 @@ title: "Nazarethkirche"
 site_name: "Nazarethkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "Nazarethkirche, a prominent church building located in the Südstadt-Bult region of Hannover, Germany, stands as a significant architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

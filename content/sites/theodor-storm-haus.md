@@ -3,7 +3,7 @@ title: "Theodor-Storm-Haus"
 site_name: "Theodor-Storm-Haus"
 date: 2026-01-26
 draft: false
-description: "literary museum in Husum, Schleswig-Holstein, Germany"
+description: "Theodor-Storm-Haus is a literary museum located in the charming town of Husum, Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

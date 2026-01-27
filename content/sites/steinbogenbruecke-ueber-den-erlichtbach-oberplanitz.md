@@ -3,7 +3,7 @@ title: "Steinbogenbrücke über den Erlichtbach Oberplanitz"
 site_name: "Steinbogenbrücke über den Erlichtbach Oberplanitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke über den Erlichtbach in Oberplanitz is a remarkable bridge located in the Zwickau region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

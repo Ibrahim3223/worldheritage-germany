@@ -3,7 +3,7 @@ title: "Aggerbrücke"
 site_name: "Aggerbrücke"
 date: 2026-01-26
 draft: false
-description: "Brücke in Engelskirchen-Loope"
+description: "Aggerbrücke is not merely a bridge; it is a connection to the past and a vital link in the contemporary landscape of Engelskirchen-Loope, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Bridge"

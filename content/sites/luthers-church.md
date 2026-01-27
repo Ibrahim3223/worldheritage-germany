@@ -3,7 +3,7 @@ title: "Luther's church"
 site_name: "Luther's church"
 date: 2026-01-26
 draft: false
-description: "church building in Leer, Germany"
+description: "Luther's Church, located in the town of Leer in Germany, serves as an essential landmark that reflects the region's historical and cultural fabric."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

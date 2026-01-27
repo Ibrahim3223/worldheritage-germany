@@ -3,7 +3,7 @@ title: "Gutskapelle St. Antonius"
 site_name: "Gutskapelle St. Antonius"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Meschede, Germany, the Gutskapelle St. Antonius invites visitors to explore its serene ambiance and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

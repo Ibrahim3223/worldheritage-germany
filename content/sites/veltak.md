@@ -3,7 +3,7 @@ title: "Veltak"
 site_name: "Veltak"
 date: 2026-01-26
 draft: false
-description: "Fabrik in Velten, war in den 1960er Jahren die größte Ofenkachelfabrik Europas"
+description: "Veltak, located in Velten, Germany, is a significant historical site that reflects the industrial heritage of the region."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"

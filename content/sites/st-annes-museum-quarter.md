@@ -3,7 +3,7 @@ title: "St. Anne's Museum Quarter"
 site_name: "St. Anne's Museum Quarter"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "St. Anne's Museum Quarter is an intriguing cultural and historical destination located in Lübeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

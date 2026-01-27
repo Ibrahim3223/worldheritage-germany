@@ -3,7 +3,7 @@ title: "Passendorfer Kirche"
 site_name: "Passendorfer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Germany"
+description: "Passendorfer Kirche is an intriguing church building located in the city of Halle (Saale), Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Branch of the Bochum Museum on Haus Kemnade"
 site_name: "Branch of the Bochum Museum on Haus Kemnade"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Branch of the Bochum Museum on Haus Kemnade serves as a noteworthy cultural institution located in Hattingen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

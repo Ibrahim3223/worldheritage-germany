@@ -3,7 +3,7 @@ title: "Schloss Rossewitz"
 site_name: "Schloss Rossewitz"
 date: 2026-01-26
 draft: false
-description: "building in Laage (Germany)"
+description: "Schloss Rossewitz, a distinguished manor house located in the tranquil region of Laage, Germany, is a remarkable example of heritage architecture that..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

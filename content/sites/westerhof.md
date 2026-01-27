@@ -3,7 +3,7 @@ title: "Westerhof"
 site_name: "Westerhof"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Landgerichtgebäude in Schleswig-Holstein"
+description: "Westerhof, situated in Itzehoe, Germany, is a noteworthy historical courthouse that reflects the region's legal and architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Courthouse"

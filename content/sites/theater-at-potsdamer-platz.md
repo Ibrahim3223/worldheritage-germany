@@ -3,7 +3,7 @@ title: "Theater at Potsdamer Platz"
 site_name: "Theater at Potsdamer Platz"
 date: 2026-01-26
 draft: false
-description: "theatre and cinema in Tiergarten, Berlin, Germany"
+description: "The Theater at Potsdamer Platz serves as a vibrant cultural hub in Berlin, combining the realms of theatre and cinema within the bustling district of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

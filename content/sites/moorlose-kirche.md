@@ -3,7 +3,7 @@ title: "Moorlose Kirche"
 site_name: "Moorlose Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Moorlose Kirche is a notable church building located in the Burglesum region of Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

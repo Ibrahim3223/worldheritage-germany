@@ -3,7 +3,7 @@ title: "Bell Tower of Berlin Olympic Stadium"
 site_name: "Bell Tower of Berlin Olympic Stadium"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Bell Tower of the Berlin Olympic Stadium, an iconic structure in one of the city's most significant historical sites, captures the spirit of athleticism..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tower"

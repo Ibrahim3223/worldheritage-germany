@@ -3,7 +3,7 @@ title: "Kapherr-Mausoleum"
 site_name: "Kapherr-Mausoleum"
 date: 2026-01-26
 draft: false
-description: "Mausoleum of the Barons of Kap-herr in Lockwitz"
+description: "The Kapherr-Mausoleum, located in the charming district of Lockwitz in Dresden, Germany, serves as a notable resting place for the Barons of Kapherr."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

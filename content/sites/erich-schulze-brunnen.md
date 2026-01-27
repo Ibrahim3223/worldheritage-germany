@@ -3,7 +3,7 @@ title: "Erich-Schulze-Brunnen"
 site_name: "Erich-Schulze-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "Erich-Schulze-Brunnen is a captivating fountain situated in the Au-Haidhausen district of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland"
 site_name: "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland"
 date: 2026-01-26
 draft: false
-description: "museum in Bonn, Germany"
+description: "The Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, located in Bonn, Germany, serves as a vital hub for contemporary art and cultural exhibitions."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

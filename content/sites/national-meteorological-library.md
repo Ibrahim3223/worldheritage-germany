@@ -3,7 +3,7 @@ title: "National Meteorological Library"
 site_name: "National Meteorological Library"
 date: 2026-01-26
 draft: false
-description: "Library at the Deutscher Wetterdienst"
+description: "The National Meteorological Library, located in Offenbach am Main, Germany, serves as a vital resource for weather-related knowledge and research."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Library"

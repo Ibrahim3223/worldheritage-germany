@@ -3,7 +3,7 @@ title: "Eigelsteintorburg"
 site_name: "Eigelsteintorburg"
 date: 2026-01-26
 draft: false
-description: "Stadttorburg der mittelalterlichen Stadtmauer von Köln"
+description: "The Eigelsteintorburg, an iconic remnant of Cologne's medieval fortifications, stands as a striking representation of the city’s historical legacy."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

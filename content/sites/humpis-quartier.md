@@ -3,7 +3,7 @@ title: "Humpis-Quartier"
 site_name: "Humpis-Quartier"
 date: 2026-01-26
 draft: false
-description: "museum in Ravensburg, Germany, housed in a medieval complex of houses"
+description: "Humpis-Quartier is a remarkable museum located in the historical town of Ravensburg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Amalienschlösschen"
 site_name: "Amalienschlösschen"
 date: 2026-01-26
 draft: false
-description: "demolished building in Karlsruhe, Germany"
+description: "Amalienschlösschen, once a charming palace located in the city of Karlsruhe, Germany, offers a glimpse into the grand architectural ambitions of the 18th..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Altstadt Spandau"
 site_name: "Altstadt Spandau"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Altstadt Spandau, a historic old town located within Berlin, invites visitors to explore its charming streets and immerse themselves in a captivating blend..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Old Town"

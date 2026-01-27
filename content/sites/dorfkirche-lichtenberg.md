@@ -3,7 +3,7 @@ title: "Dorfkirche Lichtenberg"
 site_name: "Dorfkirche Lichtenberg"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Dorfkirche Lichtenberg, a notable church building located in the heart of Berlin's Lichtenberg district, serves as a significant religious and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

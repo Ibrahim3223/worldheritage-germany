@@ -3,7 +3,7 @@ title: "Namedy Castle"
 site_name: "Namedy Castle"
 date: 2026-01-26
 draft: false
-description: "Rhine valley castle, Germany"
+description: "Namedy Castle, a prominent fixture in the Rhine valley, embodies the architectural grandeur and historical depth characteristic of Germany's storied past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

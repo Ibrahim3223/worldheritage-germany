@@ -3,7 +3,7 @@ title: "Humboldt Forum"
 site_name: "Humboldt Forum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The Humboldt Forum, located in the heart of Berlin, Germany, is a monumental museum that serves as a cultural hub and a platform for dialogue about global..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

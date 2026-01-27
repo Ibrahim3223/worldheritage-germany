@@ -3,7 +3,7 @@ title: "Vaterunser-Kirche"
 site_name: "Vaterunser-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Wilmersdorf"
+description: "Located in the heart of Berlin-Wilmersdorf, the Vaterunser-Kirche is a striking example of ecclesiastical architecture that invites both local residents and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

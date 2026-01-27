@@ -3,7 +3,7 @@ title: "Achterdiekpark"
 site_name: "Achterdiekpark"
 date: 2026-01-26
 draft: false
-description: "park in Oberneuland, Germany"
+description: "Achterdiekpark, located in the peaceful district of Oberneuland, Germany, is a sanctuary for nature lovers and a welcome retreat from urban life."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Park"

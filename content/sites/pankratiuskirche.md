@@ -3,7 +3,7 @@ title: "Pankratiuskirche"
 site_name: "Pankratiuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Heilbronn, Baden-Württemberg, Germany"
+description: "Pankratiuskirche, an integral part of Heilbronn's architectural and cultural landscape, stands as a significant church building in the Baden-Württemberg..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

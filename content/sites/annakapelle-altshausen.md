@@ -3,7 +3,7 @@ title: "Annakapelle Altshausen"
 site_name: "Annakapelle Altshausen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Annakapelle Altshausen stands as a remarkable example of ecclesiastical architecture in Germany, inviting visitors to explore its serene ambiance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

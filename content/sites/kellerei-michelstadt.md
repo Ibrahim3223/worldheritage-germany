@@ -3,7 +3,7 @@ title: "Kellerei Michelstadt"
 site_name: "Kellerei Michelstadt"
 date: 2026-01-26
 draft: false
-description: "Burg im Odenwald, Deutschland"
+description: "Kellerei Michelstadt, located in the picturesque Odenwald region of Germany, is a notable castle that enriches the area’s cultural landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

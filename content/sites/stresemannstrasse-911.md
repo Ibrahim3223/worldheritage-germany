@@ -3,7 +3,7 @@ title: "Stresemannstraße 9–11"
 site_name: "Stresemannstraße 9–11"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Stresemannstraße 9–11, located in the historic town of Quedlinburg, Germany, is an architectural ensemble that showcases the rich cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

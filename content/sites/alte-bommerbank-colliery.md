@@ -3,7 +3,7 @@ title: "Alte Bommerbank Colliery"
 site_name: "Alte Bommerbank Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Alte Bommerbank Colliery, located in Witten, Germany, is a significant site that reflects the region’s rich industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

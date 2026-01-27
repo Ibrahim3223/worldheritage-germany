@@ -3,7 +3,7 @@ title: "Drüsensee"
 site_name: "Drüsensee"
 date: 2026-01-26
 draft: false
-description: "lake in Lehmrade, Schleswig-Holstein, Germany"
+description: "Drüsensee, a picturesque lake located in the region of Lehmrade, Schleswig-Holstein, Germany, presents a serene escape for nature enthusiasts and travelers..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

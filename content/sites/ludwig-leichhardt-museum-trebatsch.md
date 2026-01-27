@@ -3,7 +3,7 @@ title: "Ludwig-Leichhardt-Museum Trebatsch"
 site_name: "Ludwig-Leichhardt-Museum Trebatsch"
 date: 2026-01-26
 draft: false
-description: "museum in Tauche, Brandenburg state, Germany"
+description: "The Ludwig-Leichhardt-Museum in Trebatsch, Germany, offers a unique glimpse into the life and explorations of one of Australia’s most notable explorers,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Rieckhuus"
 site_name: "Rieckhuus"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Rieckhuus, a captivating museum located in the vibrant city of Hamburg, Germany, serves as a significant cultural center that offers insights into local..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

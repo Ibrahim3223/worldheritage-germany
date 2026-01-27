@@ -3,7 +3,7 @@ title: "Rathaus Mölkau"
 site_name: "Rathaus Mölkau"
 date: 2026-01-26
 draft: false
-description: "town hall in Mölkau, Leipzig, Saxony, Germany"
+description: "Rathaus Mölkau, the town hall of Mölkau in Leipzig, Germany, is an architectural and cultural landmark that reflects the essence of local governance and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

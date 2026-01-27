@@ -3,7 +3,7 @@ title: "Pirnaischer Platz"
 site_name: "Pirnaischer Platz"
 date: 2026-01-26
 draft: false
-description: "public square in Dresden, Germany"
+description: "Pirnaischer Platz serves as a vibrant public square located in the heart of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Square"

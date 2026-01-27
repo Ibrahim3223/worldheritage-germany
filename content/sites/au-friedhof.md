@@ -3,7 +3,7 @@ title: "Au-Friedhof"
 site_name: "Au-Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bad Säckingen, Germany"
+description: "Au-Friedhof, located in the charming town of Bad Säckingen, Germany, serves as both a final resting place and a site of historical and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

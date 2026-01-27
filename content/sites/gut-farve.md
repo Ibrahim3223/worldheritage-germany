@@ -3,7 +3,7 @@ title: "Gut Farve"
 site_name: "Gut Farve"
 date: 2026-01-26
 draft: false
-description: "building in Wangels (Germany)"
+description: "Gut Farve, an elegant manor house located in Wangels, Germany, embodies the charm and grandeur of traditional European architecture."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

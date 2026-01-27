@@ -3,7 +3,7 @@ title: "Mickeln House"
 site_name: "Mickeln House"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Mickeln House, a distinguished manor house located in Düsseldorf, Germany, offers a glimpse into the architectural and cultural history of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

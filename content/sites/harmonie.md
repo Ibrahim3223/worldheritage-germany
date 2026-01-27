@@ -3,7 +3,7 @@ title: "Harmonie"
 site_name: "Harmonie"
 date: 2026-01-26
 draft: false
-description: "former multi-purpose hall in Heilbronn, destroyed in World War II"
+description: "In the heart of Heilbronn, Germany, lies a significant yet somber reminder of the past—Harmonie, a former multi-purpose hall."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

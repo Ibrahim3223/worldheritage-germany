@@ -3,7 +3,7 @@ title: "Seehundbrunnen"
 site_name: "Seehundbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Seehundbrunnen, or Seal Fountain, is a charming fountain located in the vibrant city of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

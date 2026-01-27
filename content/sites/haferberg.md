@@ -3,7 +3,7 @@ title: "Haferberg"
 site_name: "Haferberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Haferberg is a notable mountain located in the Hesse region of Germany, characterized by its distinct natural landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

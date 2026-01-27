@@ -3,7 +3,7 @@ title: "Straßenbrücke über die Wisenta Mühltroff"
 site_name: "Straßenbrücke über die Wisenta Mühltroff"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über die Wisenta Mühltroff is a notable bridge located in the Pausa-Mühltroff region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

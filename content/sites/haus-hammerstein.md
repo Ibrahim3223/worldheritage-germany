@@ -3,7 +3,7 @@ title: "Haus Hammerstein"
 site_name: "Haus Hammerstein"
 date: 2026-01-26
 draft: false
-description: "historisches Herrenhaus im Wuppertaler Ortsbezirk Vohwinkel"
+description: "Haus Hammerstein stands as an impressive example of a historic manor house situated in the Wuppertal district of Vohwinkel, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "St. Leonhard (Echlishausen)"
 site_name: "St. Leonhard (Echlishausen)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Leonhard in Echlishausen, a notable church building in the heart of Bavaria, Germany, serves as a poignant reminder of the region's rich cultural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Zweibrücken Central Station"
 site_name: "Zweibrücken Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Zweibrücken, Germany"
+description: "Zweibrücken Central Station, located in the charming city of Zweibrücken in Germany, serves as a pivotal hub for rail travel in the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Railway Station"

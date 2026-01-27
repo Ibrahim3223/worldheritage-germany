@@ -3,7 +3,7 @@ title: "Mönchskirche (Salzwedel)"
 site_name: "Mönchskirche (Salzwedel)"
 date: 2026-01-26
 draft: false
-description: "church building in Salzwedel, Saxony-Anhalt, Germany"
+description: "Mönchskirche, located in the historic town of Salzwedel in Saxony-Anhalt, Germany, is an architectural and cultural landmark that draws visitors with its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

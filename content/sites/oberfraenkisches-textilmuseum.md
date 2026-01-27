@@ -3,7 +3,7 @@ title: "Oberfränkisches Textilmuseum"
 site_name: "Oberfränkisches Textilmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Helmbrechts in Germany, the Oberfränkisches Textilmuseum serves as a gateway to the fascinating world of textiles and their..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

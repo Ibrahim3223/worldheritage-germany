@@ -3,7 +3,7 @@ title: "Grube Ludwig"
 site_name: "Grube Ludwig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Grube Ludwig, located in the serene town of Wald-Michelbach, Germany, is a fascinating museum that invites visitors to explore the rich industrial heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

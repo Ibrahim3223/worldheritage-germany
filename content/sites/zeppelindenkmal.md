@@ -3,7 +3,7 @@ title: "Zeppelindenkmal"
 site_name: "Zeppelindenkmal"
 date: 2026-01-26
 draft: false
-description: "Denkmal am Kornsand im Treburer Ortsteil Geinsheim"
+description: "The Zeppelindenkmal, located in the village of Geinsheim within the municipality of Trebur, Germany, is a striking monument that commemorates the legacy of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

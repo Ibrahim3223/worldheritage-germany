@@ -3,7 +3,7 @@ title: "Steinerne Renne"
 site_name: "Steinerne Renne"
 date: 2026-01-26
 draft: false
-description: "ravine in Hasserode, Germany"
+description: "Steinerne Renne is a captivating waterfall situated in the picturesque region of Wernigerode, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

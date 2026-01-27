@@ -3,7 +3,7 @@ title: "Lieps"
 site_name: "Lieps"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburg-Vorpommern, Germany"
+description: "Lieps is a serene lake located in the picturesque region of Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

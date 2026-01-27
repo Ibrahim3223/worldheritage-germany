@@ -3,7 +3,7 @@ title: "Schwansee"
 site_name: "Schwansee"
 date: 2026-01-26
 draft: false
-description: "lake in Ostallgäu, Bavaria, Germany"
+description: "Schwansee, a serene lake located in the picturesque Ostallgäu region of Bavaria, Germany, offers a tranquil escape into nature's beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

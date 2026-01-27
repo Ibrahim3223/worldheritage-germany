@@ -3,7 +3,7 @@ title: "Rochuskapelle (Ostbevern)"
 site_name: "Rochuskapelle (Ostbevern)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Rochuskapelle in Ostbevern, Germany, is a serene chapel that offers a glimpse into the spiritual heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

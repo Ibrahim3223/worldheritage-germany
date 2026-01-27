@@ -3,7 +3,7 @@ title: "Beelitzer Jagdschirm"
 site_name: "Beelitzer Jagdschirm"
 date: 2026-01-26
 draft: false
-description: "Jagdhütte auf der Pfaueninsel, Berlin-Wannsee"
+description: "Situated in the picturesque landscape of Berlin-Wannsee, the Beelitzer Jagdschirm is a wilderness hut that serves as a quaint retreat for nature enthusiasts..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Wilderness Hut"

@@ -3,7 +3,7 @@ title: "Wohnhaus Nürnberger Straße 26"
 site_name: "Wohnhaus Nürnberger Straße 26"
 date: 2026-01-26
 draft: false
-description: "building in Wendelstein, Middle Franconia, Germany"
+description: "In the heart of Wendelstein, Middle Franconia, Germany, lies Wohnhaus Nürnberger Straße 26, an intriguing factory that captures a slice of the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Factory"

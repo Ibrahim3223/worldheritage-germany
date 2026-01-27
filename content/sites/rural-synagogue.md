@@ -3,7 +3,7 @@ title: "rural synagogue"
 site_name: "rural synagogue"
 date: 2026-01-26
 draft: false
-description: "former german synagogue"
+description: "The rural synagogue in Weimar, Germany, stands as a profound representation of the Jewish heritage that once thrived in this region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

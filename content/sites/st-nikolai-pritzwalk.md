@@ -3,7 +3,7 @@ title: "St. Nikolai Pritzwalk"
 site_name: "St. Nikolai Pritzwalk"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "St. Nikolai Pritzwalk is a notable church building located in the Pritzwalk region of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

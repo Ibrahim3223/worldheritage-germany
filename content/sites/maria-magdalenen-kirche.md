@@ -3,7 +3,7 @@ title: "Maria-Magdalenen-Kirche"
 site_name: "Maria-Magdalenen-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
+description: "Maria-Magdalenen-Kirche, a notable church building located in Brackenheim, Baden-Württemberg, Germany, serves as both a spiritual center and a point of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

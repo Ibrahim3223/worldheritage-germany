@@ -3,7 +3,7 @@ title: "St. John's Church"
 site_name: "St. John's Church"
 date: 2026-01-26
 draft: false
-description: "Lutheran church in Lüneburg, Germany"
+description: "St. John's Church, a prominent Lutheran church located in the historic city of Lüneburg, Germany, serves as both a spiritual haven and a cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

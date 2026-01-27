@@ -3,7 +3,7 @@ title: "Burg Holdersberg"
 site_name: "Burg Holdersberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on a hill in the scenic region of Idstein, Germany, Burg Holdersberg is a castle that captures the imagination with its storied past and enduring..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

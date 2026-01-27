@@ -3,7 +3,7 @@ title: "Weiße Frau Schwarzenberg"
 site_name: "Weiße Frau Schwarzenberg"
 date: 2026-01-26
 draft: false
-description: "monument in Schwarzenberg, Germany"
+description: "The Weiße Frau Schwarzenberg is a striking monument located in the picturesque town of Schwarzenberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

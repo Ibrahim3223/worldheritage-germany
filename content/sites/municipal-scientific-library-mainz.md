@@ -3,7 +3,7 @@ title: "Municipal Scientific Library Mainz"
 site_name: "Municipal Scientific Library Mainz"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Municipal Scientific Library Mainz, located in the heart of Mainz, Germany, serves as a vital resource for scholars, students, and the general public alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Library"

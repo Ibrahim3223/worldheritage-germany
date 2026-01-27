@@ -3,7 +3,7 @@ title: "Karbe Wagner Archive for Regional Historical Research"
 site_name: "Karbe Wagner Archive for Regional Historical Research"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Karbe Wagner Archive for Regional Historical Research is a vital resource for anyone intrigued by the intricate narratives that shape regional history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

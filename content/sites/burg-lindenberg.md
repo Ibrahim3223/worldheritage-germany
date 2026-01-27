@@ -3,7 +3,7 @@ title: "Burg Lindenberg"
 site_name: "Burg Lindenberg"
 date: 2026-01-26
 draft: false
-description: "castle in Pfalz"
+description: "Burg Lindenberg is a striking castle located in the picturesque region of Lindenberg in Germany's Pfalz."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

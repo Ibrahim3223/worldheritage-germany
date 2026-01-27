@@ -3,7 +3,7 @@ title: "Ehemalige Synagogen (Unna)"
 site_name: "Ehemalige Synagogen (Unna)"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Ehemalige Synagogen in Unna, Germany, is a poignant reminder of the Jewish heritage that once thrived in this region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

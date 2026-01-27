@@ -3,7 +3,7 @@ title: "Neanderkirche"
 site_name: "Neanderkirche"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Altstadt, Germany"
+description: "In the heart of Düsseldorf's vibrant Altstadt, the Neanderkirche stands as a significant church building that encapsulates both history and spirituality..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

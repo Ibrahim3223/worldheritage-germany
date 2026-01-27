@@ -3,7 +3,7 @@ title: "Torhaus Kirchstraße 16 in Ostheim vor der Rhön"
 site_name: "Torhaus Kirchstraße 16 in Ostheim vor der Rhön"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-73-153-3 (7) in Ostheim vor der Rhön, Bavaria"
+description: "The Torhaus Kirchstraße 16 in Ostheim vor der Rhön is a striking example of a historical gatehouse, rich in cultural significance and architectural charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

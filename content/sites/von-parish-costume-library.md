@@ -3,7 +3,7 @@ title: "Von Parish Costume Library"
 site_name: "Von Parish Costume Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Von Parish Costume Library in Munich, Germany, serves as a unique repository for the study and appreciation of costume and fashion history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

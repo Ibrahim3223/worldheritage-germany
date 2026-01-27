@@ -3,7 +3,7 @@ title: "Loki-Schmidt-Garten"
 site_name: "Loki-Schmidt-Garten"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Hamburg, Germany"
+description: "Loki-Schmidt-Garten is an enchanting botanical garden located in the vibrant Altona district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

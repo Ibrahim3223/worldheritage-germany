@@ -3,7 +3,7 @@ title: "Eichsfelder Pforte"
 site_name: "Eichsfelder Pforte"
 date: 2026-01-26
 draft: false
-description: "Tal in Deutschland"
+description: "Eichsfelder Pforte is a captivating valley situated in Germany that offers a unique blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Valley"

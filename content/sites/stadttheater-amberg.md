@@ -3,7 +3,7 @@ title: "Stadttheater Amberg"
 site_name: "Stadttheater Amberg"
 date: 2026-01-26
 draft: false
-description: "building in Amberg, Upper Palatinate, Germany"
+description: "Stadttheater Amberg, located in the picturesque town of Amberg in Bavaria, Germany, is a cultural landmark that embodies the spirit of performing arts in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

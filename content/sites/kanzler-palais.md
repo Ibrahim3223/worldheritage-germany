@@ -3,7 +3,7 @@ title: "Kanzler-Palais"
 site_name: "Kanzler-Palais"
 date: 2026-01-26
 draft: false
-description: "building in Fulda (Germany)"
+description: "Kanzler-Palais, located in the heart of Fulda, Germany, is an architectural gem that captures the essence of the region’s rich heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

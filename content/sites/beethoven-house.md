@@ -3,7 +3,7 @@ title: "Beethoven House"
 site_name: "Beethoven House"
 date: 2026-01-26
 draft: false
-description: "museum on and birthplace of Ludwig van Beethoven in Bonn, Germany"
+description: "Beethoven House is a celebrated museum and the birthplace of Ludwig van Beethoven, one of the most influential composers in Western music history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Ruppiner See"
 site_name: "Ruppiner See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Ruppiner See is a picturesque lake located in the Ostprignitz-Ruppin District of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

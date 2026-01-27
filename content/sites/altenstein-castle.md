@@ -3,7 +3,7 @@ title: "Altenstein Castle"
 site_name: "Altenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Maroldsweisach, Bavaria"
+description: "Altenstein Castle, a castle ruin located in Maroldsweisach, Bavaria, presents a fascinating glimpse into the region's medieval past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

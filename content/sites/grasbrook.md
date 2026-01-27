@@ -3,7 +3,7 @@ title: "Grasbrook"
 site_name: "Grasbrook"
 date: 2026-01-26
 draft: false
-description: "former island in Hamburg, Germany"
+description: "Grasbrook, a former island located in Hamburg-Mitte, Germany, encapsulates a unique aspect of the city’s maritime heritage and urban development."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"

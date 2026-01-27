@@ -3,7 +3,7 @@ title: "Aschwardener Mühle"
 site_name: "Aschwardener Mühle"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Schwanewede, Landkreis Osterholz, Niedersachsen"
+description: "Aschwardener Mühle is a captivating windmill located in the quaint region of Schwanewede, Germany, within the Landkreis Osterholz area of Niedersachsen."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

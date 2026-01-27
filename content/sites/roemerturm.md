@@ -3,7 +3,7 @@ title: "Römerturm"
 site_name: "Römerturm"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Römerturm, a historic castle located in Haigerloch, Germany, captures the imagination of visitors with its storied past and impressive architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

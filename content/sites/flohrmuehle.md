@@ -3,7 +3,7 @@ title: "Flohrmühle"
 site_name: "Flohrmühle"
 date: 2026-01-26
 draft: false
-description: "wind mill in Eschede, Lower Saxony, Germany"
+description: "Flohrmühle, an iconic windmill located in Eschede, Lower Saxony, Germany, serves as a remarkable example of traditional milling technology and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

@@ -3,7 +3,7 @@ title: "Kreislauf des Geldes monument (money cycle)"
 site_name: "Kreislauf des Geldes monument (money cycle)"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Kreislauf des Geldes monument, or the Money Cycle, is a captivating fountain located in Aachen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Sacred-Heart-Church"
 site_name: "Sacred-Heart-Church"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Derendorf, Germany"
+description: "Located in the vibrant district of Derendorf in Düsseldorf, Germany, the Sacred-Heart-Church stands as a significant religious and architectural landmark."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

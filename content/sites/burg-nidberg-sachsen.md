@@ -3,7 +3,7 @@ title: "Burg Nidberg (Sachsen)"
 site_name: "Burg Nidberg (Sachsen)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nidberg, a castle located in the Marienberg region of Germany, invites visitors to explore its historical depths and architectural charm."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

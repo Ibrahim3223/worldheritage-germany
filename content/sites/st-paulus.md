@@ -3,7 +3,7 @@ title: "St. Paulus"
 site_name: "St. Paulus"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Paulus is a distinguished church building located in Göttingen, Germany, representing an integral part of the city's architectural and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

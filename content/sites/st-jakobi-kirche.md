@@ -3,7 +3,7 @@ title: "St.-Jakobi-Kirche"
 site_name: "St.-Jakobi-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Peine, Lower Saxony, Germany"
+description: "St.-Jakobi-Kirche, a significant church building located in Peine, Lower Saxony, Germany, stands as a vital part of the town's architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

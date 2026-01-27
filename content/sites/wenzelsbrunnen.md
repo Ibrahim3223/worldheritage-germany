@@ -3,7 +3,7 @@ title: "Wenzelsbrunnen"
 site_name: "Wenzelsbrunnen"
 date: 2026-01-26
 draft: false
-description: "Brunnen mit Statue in Naumburg (Saale)"
+description: "In the heart of Naumburg, Germany, Wenzelsbrunnen stands as a striking focal point, embodying both artistic expression and historical significance."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"

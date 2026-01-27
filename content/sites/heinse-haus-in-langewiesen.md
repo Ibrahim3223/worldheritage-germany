@@ -3,7 +3,7 @@ title: "Heinse-Haus in Langewiesen"
 site_name: "Heinse-Haus in Langewiesen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heinse-Haus in Langewiesen is a notable museum that offers visitors a glimpse into the cultural heritage of the region."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

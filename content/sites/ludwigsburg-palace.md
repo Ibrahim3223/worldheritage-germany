@@ -3,7 +3,7 @@ title: "Ludwigsburg Palace"
 site_name: "Ludwigsburg Palace"
 date: 2026-01-26
 draft: false
-description: "former residence of the dukes and kings of Württemberg"
+description: "Ludwigsburg Palace, a magnificent former residence of the dukes and kings of Württemberg, stands as a symbol of the region's regal past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

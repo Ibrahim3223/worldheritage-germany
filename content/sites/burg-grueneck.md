@@ -3,7 +3,7 @@ title: "Burg Grüneck"
 site_name: "Burg Grüneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grüneck is a remarkable castle located in the charming region of Schliengen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

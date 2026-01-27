@@ -3,7 +3,7 @@ title: "Museum Würth"
 site_name: "Museum Würth"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Museum Würth, located in Künzelsau, Germany, is a vibrant hub that celebrates art and culture through a diverse collection."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

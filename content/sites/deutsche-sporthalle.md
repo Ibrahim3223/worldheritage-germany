@@ -3,7 +3,7 @@ title: "Deutsche Sporthalle"
 site_name: "Deutsche Sporthalle"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Germany"
+description: "The Deutsche Sporthalle, a prominent multi-purpose hall located in the heart of Berlin, is an architectural structure that combines functionality with a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

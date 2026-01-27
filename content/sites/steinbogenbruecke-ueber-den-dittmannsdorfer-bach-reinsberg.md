@@ -3,7 +3,7 @@ title: "Steinbogenbrücke über den Dittmannsdorfer Bach Reinsberg"
 site_name: "Steinbogenbrücke über den Dittmannsdorfer Bach Reinsberg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke über den Dittmannsdorfer Bach, located in the quaint region of Reinsberg, Germany, is a remarkable bridge that captures the essence of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

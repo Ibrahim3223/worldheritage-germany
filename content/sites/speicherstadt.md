@@ -3,7 +3,7 @@ title: "Speicherstadt"
 site_name: "Speicherstadt"
 date: 2026-01-26
 draft: false
-description: "Part of Hamburg"
+description: "Speicherstadt, an iconic architectural ensemble located in the Hamburg-Mitte district of Germany, reflects the city’s rich maritime heritage and economic..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

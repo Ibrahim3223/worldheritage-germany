@@ -3,7 +3,7 @@ title: "Amorsbrunn"
 site_name: "Amorsbrunn"
 date: 2026-01-26
 draft: false
-description: "Kapelle im Spessart"
+description: "Amorsbrunn is a quaint chapel located in the picturesque Spessart region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

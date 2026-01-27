@@ -3,7 +3,7 @@ title: "School of the Cross"
 site_name: "School of the Cross"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "The School of the Cross in Dresden, Germany, serves as a significant educational establishment, reflecting both the historic and cultural evolution of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

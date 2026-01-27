@@ -3,7 +3,7 @@ title: "Zeche Argus"
 site_name: "Zeche Argus"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Argus stands as a significant symbol of Germany's industrial heritage, particularly in the context of the mining industry."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

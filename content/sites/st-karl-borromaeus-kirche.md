@@ -3,7 +3,7 @@ title: "St.-Karl-Borromäus-Kirche"
 site_name: "St.-Karl-Borromäus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Karl-Borromäus-Kirche is an intriguing example of ecclesiastical architecture situated in the Charlottenburg-Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

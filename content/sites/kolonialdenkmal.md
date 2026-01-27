@@ -3,7 +3,7 @@ title: "Kolonialdenkmal"
 site_name: "Kolonialdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Brunswick, Germany"
+description: "In the heart of Brunswick, Germany, lies the Kolonialdenkmal, a striking monument that encapsulates the region's colonial history and its complex narratives."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Nobelstraße 7-13"
 site_name: "Nobelstraße 7-13"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "At the crossroads of culture and history in Plauen, Germany, lies Nobelstraße 7-13, a museum that invites visitors to delve into the fascinating narratives..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Weidmann's garden"
 site_name: "Weidmann's garden"
 date: 2026-01-26
 draft: false
-description: "garden in Leipzig, Germany"
+description: "Weidmann's Garden in Leipzig, Germany, is a serene oasis that invites visitors to explore its lush landscapes and tranquil ambiance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Garden"

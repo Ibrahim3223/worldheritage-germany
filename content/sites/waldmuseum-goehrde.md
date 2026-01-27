@@ -3,7 +3,7 @@ title: "Waldmuseum Göhrde"
 site_name: "Waldmuseum Göhrde"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Waldmuseum Göhrde stands as a notable cultural institution in the heart of Germany, dedicated to preserving and sharing the natural and cultural heritage of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

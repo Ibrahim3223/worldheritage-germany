@@ -3,7 +3,7 @@ title: "Robert-Bosch-Haus"
 site_name: "Robert-Bosch-Haus"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "The Robert-Bosch-Haus in Stuttgart, Germany, is more than just a museum; it is a reflection of the innovative spirit and profound impact of one of Germany's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

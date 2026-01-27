@@ -3,7 +3,7 @@ title: "Friedrich-August-von-Hayek-Foundation"
 site_name: "Friedrich-August-von-Hayek-Foundation"
 date: 2026-01-26
 draft: false
-description: "german foundation"
+description: "The Friedrich-August-von-Hayek-Foundation, located in the charming city of Freiburg im Breisgau, Germany, serves as a significant hub for the exploration of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

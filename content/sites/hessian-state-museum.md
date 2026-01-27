@@ -3,7 +3,7 @@ title: "Hessian State Museum"
 site_name: "Hessian State Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Kassel, Germany"
+description: "The Hessian State Museum, located in the heart of Kassel, Germany, serves as an important cultural institution, showcasing an impressive collection of art..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

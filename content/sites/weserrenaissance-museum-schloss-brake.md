@@ -3,7 +3,7 @@ title: "Weserrenaissance-Museum Schloss Brake"
 site_name: "Weserrenaissance-Museum Schloss Brake"
 date: 2026-01-26
 draft: false
-description: "art museum in Germany"
+description: "The Weserrenaissance-Museum Schloss Brake, located in the charming town of Lemgo, Germany, is a unique art museum that showcases the rich heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

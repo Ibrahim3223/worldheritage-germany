@@ -3,7 +3,7 @@ title: "Schloss Fronberg"
 site_name: "Schloss Fronberg"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Fronberg, an archaeological site located in the Schwandorf region of Germany, offers a fascinating glimpse into the historical landscape of the area."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

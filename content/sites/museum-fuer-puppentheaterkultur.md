@@ -3,7 +3,7 @@ title: "Museum für Puppentheaterkultur"
 site_name: "Museum für Puppentheaterkultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Puppentheaterkultur in Bad Kreuznach, Germany, stands as an intriguing portal into the world of puppetry, a form of art that transcends mere..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

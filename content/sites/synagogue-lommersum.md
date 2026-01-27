@@ -3,7 +3,7 @@ title: "Synagogue Lommersum"
 site_name: "Synagogue Lommersum"
 date: 2026-01-26
 draft: false
-description: "Synagoge in Lommersum"
+description: "Synagogue Lommersum, located in the quaint village of Weilerswist, Germany, serves as a poignant reminder of the Jewish community that once thrived in this..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

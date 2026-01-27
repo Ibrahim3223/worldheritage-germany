@@ -3,7 +3,7 @@ title: "St. Anton (Passau)"
 site_name: "St. Anton (Passau)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Anton in Passau is a notable church building that embodies the architectural and cultural essence of this historic city in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

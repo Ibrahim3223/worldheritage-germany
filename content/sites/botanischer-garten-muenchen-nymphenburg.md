@@ -3,7 +3,7 @@ title: "Botanischer Garten München-Nymphenburg"
 site_name: "Botanischer Garten München-Nymphenburg"
 date: 2026-01-26
 draft: false
-description: "botanical garden and arboretum in Munich, Bavaria, Germany"
+description: "The Botanischer Garten München-Nymphenburg, located in the vibrant city of Munich, Germany, is a remarkable fusion of horticultural beauty and scientific..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Ostermann-Arena"
 site_name: "Ostermann-Arena"
 date: 2026-01-26
 draft: false
-description: "indoor sporting arena in Leverkusen, Germany"
+description: "The Ostermann-Arena, located in Leverkusen, Germany, is a multi-purpose indoor sporting arena that serves as a vibrant hub for athletic events and community..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

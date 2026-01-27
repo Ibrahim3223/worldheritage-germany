@@ -3,7 +3,7 @@ title: "Große Karausche"
 site_name: "Große Karausche"
 date: 2026-01-26
 draft: false
-description: "lake in Schwerin, Mecklenburg-Vorpommern, Germany"
+description: "Große Karausche is a picturesque lake located in the Schwerin region of Mecklenburg-Vorpommern, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

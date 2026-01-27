@@ -3,7 +3,7 @@ title: "Museum Strom und Leben"
 site_name: "Museum Strom und Leben"
 date: 2026-01-26
 draft: false
-description: "archive organization in Recklinghausen, Germany"
+description: "Museum Strom und Leben serves as a cultural institution in Recklinghausen, Germany, dedicated to the preservation and presentation of the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

@@ -3,7 +3,7 @@ title: "Amtshaus Winsen"
 site_name: "Amtshaus Winsen"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in  Winsen (Aller)"
+description: "Amtshaus Winsen, located in the charming town of Winsen an der Aller, Germany, serves not only as a functional city hall but also as a significant cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

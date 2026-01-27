@@ -3,7 +3,7 @@ title: "Synagogue (Bad Neuenahr)"
 site_name: "Synagogue (Bad Neuenahr)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Synagogue of Bad Neuenahr is an architectural structure that embodies the historical and cultural essence of the Jewish community in this German town."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

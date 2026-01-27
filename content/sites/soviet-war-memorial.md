@@ -3,7 +3,7 @@ title: "Soviet War Memorial"
 site_name: "Soviet War Memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Berlin-Buch, Germany"
+description: "The Soviet War Memorial, located in the Pankow district of Berlin-Buch, Germany, serves as a poignant tribute to the Soviet soldiers who lost their lives..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

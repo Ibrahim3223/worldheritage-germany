@@ -3,7 +3,7 @@ title: "Barrack Wilhelmine"
 site_name: "Barrack Wilhelmine"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Barrack Wilhelmine, located in the charming region of Schwanewede, Germany, serves as a significant cultural institution dedicated to preserving and..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

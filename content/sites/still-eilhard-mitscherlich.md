@@ -3,7 +3,7 @@ title: "Still Eilhard Mitscherlich"
 site_name: "Still Eilhard Mitscherlich"
 date: 2026-01-26
 draft: false
-description: "statue at Humboldt University of Berlin"
+description: "The Still Eilhard Mitscherlich statue, located at Humboldt University of Berlin, is a striking homage to one of Germany's influential chemists."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

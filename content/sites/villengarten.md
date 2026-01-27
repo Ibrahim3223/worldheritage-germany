@@ -3,7 +3,7 @@ title: "Villengarten"
 site_name: "Villengarten"
 date: 2026-01-26
 draft: false
-description: "Villengarten in Bavaria, Germany"
+description: "Villengarten, located in Bavaria, Germany, is a tranquil garden that offers visitors a serene escape into nature."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

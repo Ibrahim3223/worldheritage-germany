@@ -3,7 +3,7 @@ title: "Sacred Heart Church (Frankfurt-Fechenheim)"
 site_name: "Sacred Heart Church (Frankfurt-Fechenheim)"
 date: 2026-01-26
 draft: false
-description: "Roman Catholic church in Frankfurt am Main-Fechenheim, Germany (built in 1896)"
+description: "Located in the vibrant district of Fechenheim in Frankfurt am Main, the Sacred Heart Church stands as a notable example of late 19th-century ecclesiastical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

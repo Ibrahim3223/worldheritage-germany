@@ -3,7 +3,7 @@ title: "Württembergische Uhrenfabrik Bürk"
 site_name: "Württembergische Uhrenfabrik Bürk"
 date: 2026-01-26
 draft: false
-description: "Uhrenhersteller"
+description: "The Württembergische Uhrenfabrik Bürk is a significant site within the landscape of German industrial heritage, showcasing the craftsmanship and innovation..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"

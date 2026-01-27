@@ -3,7 +3,7 @@ title: "Gut Grünholz"
 site_name: "Gut Grünholz"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Grünholz is a distinguished manor house located in the serene region of Thumby, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

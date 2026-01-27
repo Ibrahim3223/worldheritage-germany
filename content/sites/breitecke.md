@@ -3,7 +3,7 @@ title: "Breitecke"
 site_name: "Breitecke"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schlitz, Hesse, Germany"
+description: "Breitecke, a serene nature reserve located in Schlitz, Hesse, Germany, offers visitors a tranquil escape into the heart of nature."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

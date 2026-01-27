@@ -3,7 +3,7 @@ title: "Einbecker Brewery"
 site_name: "Einbecker Brewery"
 date: 2026-01-26
 draft: false
-description: "public company"
+description: "Einbecker Brewery, located in the charming town of Einbeck, Germany, is a prominent establishment famed for its beer production and brewing heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

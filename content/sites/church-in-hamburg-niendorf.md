@@ -3,7 +3,7 @@ title: "Church in Hamburg-Niendorf"
 site_name: "Church in Hamburg-Niendorf"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "The Church in Hamburg-Niendorf, a notable church building located in the heart of Hamburg, Germany, serves as a significant point of interest for visitors..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

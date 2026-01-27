@@ -3,7 +3,7 @@ title: "Museum Eisenheim"
 site_name: "Museum Eisenheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Eisenheim is a notable cultural institution located in Oberhausen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

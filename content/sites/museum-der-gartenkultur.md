@@ -3,7 +3,7 @@ title: "Museum der Gartenkultur"
 site_name: "Museum der Gartenkultur"
 date: 2026-01-26
 draft: false
-description: "museum, library, and event location in Illertissen, Bavaria, Germany"
+description: "The Museum der Gartenkultur, located in the picturesque region of Illertissen, Bavaria, Germany, serves as a unique hub for those interested in the art of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

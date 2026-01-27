@@ -3,7 +3,7 @@ title: "Museum Burg Posterstein"
 site_name: "Museum Burg Posterstein"
 date: 2026-01-26
 draft: false
-description: "museum in Thuringia, Germany"
+description: "Museum Burg Posterstein serves as a unique cultural hub in the region of Thuringia, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

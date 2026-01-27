@@ -3,7 +3,7 @@ title: "Otto-Linne-Denkmal"
 site_name: "Otto-Linne-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Hamburg-Nord, Germany"
+description: "In the heart of Hamburg-Nord, the Otto-Linne-Denkmal stands as a significant monument honoring the contributions of a notable figure in the realm of science."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

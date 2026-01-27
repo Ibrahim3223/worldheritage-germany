@@ -3,7 +3,7 @@ title: "Binnenschifffahrtsmuseum"
 site_name: "Binnenschifffahrtsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Binnenschifffahrtsmuseum, located in the charming town of Oderberg, Germany, serves as a vital repository of the region's maritime heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

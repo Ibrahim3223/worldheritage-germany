@@ -3,7 +3,7 @@ title: "Torhalle (Kloster Frauenchiemsee)"
 site_name: "Torhalle (Kloster Frauenchiemsee)"
 date: 2026-01-26
 draft: false
-description: "gate house in Chiemsee, Upper Bavaria, Germany"
+description: "The Torhalle, or Gatehouse, of Kloster Frauenchiemsee, is an architectural landmark situated on Fraueninsel, an island in the picturesque Chiemsee in Upper..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

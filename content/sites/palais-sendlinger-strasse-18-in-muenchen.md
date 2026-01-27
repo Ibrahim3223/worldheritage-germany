@@ -3,7 +3,7 @@ title: "Palais Sendlinger Straße 18 in München"
 site_name: "Palais Sendlinger Straße 18 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-2354 (3) in München, Bavaria"
+description: "In the heart of Munich, Palais Sendlinger Straße 18 stands as a remarkable cultural heritage monument that reflects the city's rich architectural history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

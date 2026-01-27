@@ -3,7 +3,7 @@ title: "Schloss Gerbstedt"
 site_name: "Schloss Gerbstedt"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Schloss Gerbstedt, a captivating manor house located in the heart of Gerbstedt, Germany, invites visitors to explore its historical significance and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

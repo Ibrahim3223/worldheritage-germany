@@ -3,7 +3,7 @@ title: "Benedictine Abbey of Abdinghof, Paderborn"
 site_name: "Benedictine Abbey of Abdinghof, Paderborn"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "The Benedictine Abbey of Abdinghof, situated in the heart of Paderborn, Germany, is a remarkable site that resonates with spiritual and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "St. Korbinian (Freising)"
 site_name: "St. Korbinian (Freising)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "In the heart of Bavaria, Germany, lies St. Korbinian, a chapel that stands as a significant cultural heritage monument in Freising."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Nordenstadt Memorial"
 site_name: "Nordenstadt Memorial"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte zur Erinnerung an die ermordeten Nordenstadter Juden"
+description: "In the quiet town of Nordenstadt, Germany, the Nordenstadt Memorial serves as a poignant reminder of the lives lost during the Holocaust."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Kloster Werl"
 site_name: "Kloster Werl"
 date: 2026-01-26
 draft: false
-description: "monastery in North Rhine-Westphalia, Germany"
+description: "Kloster Werl is a remarkable monastery located in the heart of North Rhine-Westphalia, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

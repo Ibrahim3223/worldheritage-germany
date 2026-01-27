@@ -3,7 +3,7 @@ title: "St. Nicholas church (Rostock)"
 site_name: "St. Nicholas church (Rostock)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Nicholas Church, located in the vibrant city of Rostock, Germany, is an architectural jewel that showcases the city’s ecclesiastical heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

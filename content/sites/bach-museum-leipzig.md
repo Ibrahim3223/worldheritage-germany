@@ -3,7 +3,7 @@ title: "Bach-Museum Leipzig"
 site_name: "Bach-Museum Leipzig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bach-Museum Leipzig is a celebration of one of the most influential composers in Western music history, Johann Sebastian Bach."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

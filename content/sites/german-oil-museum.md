@@ -3,7 +3,7 @@ title: "German Oil Museum"
 site_name: "German Oil Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The German Oil Museum in Wietze stands as a focal point for understanding the historical significance of oil extraction and its impact on the world."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

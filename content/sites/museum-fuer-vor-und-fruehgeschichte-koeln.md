@@ -3,7 +3,7 @@ title: "Museum für Vor- und Frühgeschichte (Köln)"
 site_name: "Museum für Vor- und Frühgeschichte (Köln)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Vor- und Frühgeschichte in Köln is an essential destination for those intrigued by the origins and development of human civilization."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

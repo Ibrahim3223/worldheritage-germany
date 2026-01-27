@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung Rederzhausen"
 site_name: "Abschnittsbefestigung Rederzhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Nestled in the heart of Bavaria, the Abschnittsbefestigung Rederzhausen is a remarkable representation of medieval military architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "St. Servatius-Kirche"
 site_name: "St. Servatius-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Duderstadt, Germany"
+description: "The St. Servatius-Kirche, located in the picturesque town of Duderstadt, Germany, stands as a significant religious and cultural landmark."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

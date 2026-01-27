@@ -3,7 +3,7 @@ title: "Church in Hohendorf"
 site_name: "Church in Hohendorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Hohendorf stands as a notable religious structure in the Wolgast region of Germany, reflecting the area’s cultural and architectural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

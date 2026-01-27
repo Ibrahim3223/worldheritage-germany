@@ -3,7 +3,7 @@ title: "Prime Time Theater"
 site_name: "Prime Time Theater"
 date: 2026-01-26
 draft: false
-description: "Theater in Berlin"
+description: "Prime Time Theater, located in Berlin, Germany, is a compelling venue that contributes to the city’s vibrant cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Schlosstheater Schwetzingen"
 site_name: "Schlosstheater Schwetzingen"
 date: 2026-01-26
 draft: false
-description: "palace theatre in Schwetzingen, Germany"
+description: "Schlosstheater Schwetzingen is not just a theater; it is a cultural landmark that embodies the artistic spirit of the Schwetzingen region in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

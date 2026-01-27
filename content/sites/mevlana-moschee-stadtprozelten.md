@@ -3,7 +3,7 @@ title: "Mevlana-Moschee Stadtprozelten"
 site_name: "Mevlana-Moschee Stadtprozelten"
 date: 2026-01-26
 draft: false
-description: "building in Stadtprozelten, Lower Franconia, Germany"
+description: "The Mevlana-Moschee in Stadtprozelten is an intriguing landmark that reflects the multicultural fabric of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Palace of Nell"
 site_name: "Palace of Nell"
 date: 2026-01-26
 draft: false
-description: "Schloss im Saarland"
+description: "The Palace of Nell, located in the Perl region of Germany, is an architectural marvel that embodies the elegance and history of the Saarland."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Palace"

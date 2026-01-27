@@ -3,7 +3,7 @@ title: "Markbuchener Sattel"
 site_name: "Markbuchener Sattel"
 date: 2026-01-26
 draft: false
-description: "Gebirgspass im Bayerischen Wald"
+description: "The Markbuchener Sattel is a prominent mountain pass located in the picturesque Bavarian Forest of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

@@ -3,7 +3,7 @@ title: "St. George's Chapel"
 site_name: "St. George's Chapel"
 date: 2026-01-26
 draft: false
-description: "Protestant chapel in Bad Schwartau, Germany"
+description: "St. George’s Chapel, a distinguished Protestant chapel located in Bad Schwartau, Germany, is a site of notable architectural and cultural importance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

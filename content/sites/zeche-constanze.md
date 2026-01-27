@@ -3,7 +3,7 @@ title: "Zeche Constanze"
 site_name: "Zeche Constanze"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Constanze, located in Bochum, Germany, is a historical mine that encapsulates the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

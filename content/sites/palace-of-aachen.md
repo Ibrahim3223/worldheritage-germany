@@ -3,7 +3,7 @@ title: "Palace of Aachen"
 site_name: "Palace of Aachen"
 date: 2026-01-26
 draft: false
-description: "Carolingian palace in Aachen, Germany"
+description: "The Palace of Aachen, a remarkable Carolingian edifice in Germany, is a site where history and architecture converge."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"

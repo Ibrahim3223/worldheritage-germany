@@ -3,7 +3,7 @@ title: "Stadtmuseum Leimen"
 site_name: "Stadtmuseum Leimen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Leimen serves as a vital cultural institution within the region of Leimen, Germany, offering visitors an engaging glimpse into the local..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

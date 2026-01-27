@@ -3,7 +3,7 @@ title: "Church of Peace, Löbtau"
 site_name: "Church of Peace, Löbtau"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden"
+description: "The Church of Peace in Löbtau, Dresden, is an architectural and cultural landmark that invites visitors to explore its serene ambiance and historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

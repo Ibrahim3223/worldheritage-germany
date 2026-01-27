@@ -3,7 +3,7 @@ title: "Garten Großheubacher Straße 3 in Miltenberg"
 site_name: "Garten Großheubacher Straße 3 in Miltenberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-76-139-291 (2) in Miltenberg, Bavaria"
+description: "Garten Großheubacher Straße 3 in Miltenberg offers a serene escape into the heart of Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Altfriedstein"
 site_name: "Altfriedstein"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Herrenhaus im Stadtteil Niederlößnitz in Radebeul"
+description: "Altfriedstein, a distinguished manor house located in the charming district of Niederlößnitz, Radebeul, Germany, presents an intriguing glimpse into the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"

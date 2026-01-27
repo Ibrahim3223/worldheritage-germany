@@ -3,7 +3,7 @@ title: "Schlosskirche Meisenheim"
 site_name: "Schlosskirche Meisenheim"
 date: 2026-01-26
 draft: false
-description: "church building in Rhineland-Palatinate, Germany"
+description: "Schlosskirche Meisenheim stands as a remarkable example of ecclesiastical architecture in the town of Meisenheim, located in the picturesque region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

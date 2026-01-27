@@ -3,7 +3,7 @@ title: "Denkmal für die Wiesn-Attentat-Opfer"
 site_name: "Denkmal für die Wiesn-Attentat-Opfer"
 date: 2026-01-26
 draft: false
-description: "monument in Ludwigsvorstadt-Isarvorstadt, Germany"
+description: "Located in the vibrant Ludwigsvorstadt-Isarvorstadt district of Munich, the Denkmal für die Wiesn-Attentat-Opfer serves as a poignant memorial to the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Schwarzenberg Castle"
 site_name: "Schwarzenberg Castle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schwarzenberg Castle, located in the picturesque town of Schwarzenberg in Germany, serves as a significant cultural institution that draws visitors keen to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

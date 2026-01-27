@@ -3,7 +3,7 @@ title: "Schloss Könitz"
 site_name: "Schloss Könitz"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Könitz, located in Unterwellenborn, Germany, is a castle that encapsulates the architectural and historical essence of the region."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

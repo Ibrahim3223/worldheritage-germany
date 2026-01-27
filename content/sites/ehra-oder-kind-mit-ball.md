@@ -3,7 +3,7 @@ title: "Ehra oder Kind mit Ball"
 site_name: "Ehra oder Kind mit Ball"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Ehra oder Kind mit Ball, a striking statue located in Düsseldorf, Germany, captures the imagination with its artistic representation and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

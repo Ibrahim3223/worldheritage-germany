@@ -3,7 +3,7 @@ title: "Wattenmeer-Besucherzentrum Cuxhaven"
 site_name: "Wattenmeer-Besucherzentrum Cuxhaven"
 date: 2026-01-26
 draft: false
-description: "museum in Cuxhaven, Germany"
+description: "The Wattenmeer-Besucherzentrum Cuxhaven serves as a gateway to one of Germany's most unique natural environments: the Wadden Sea."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

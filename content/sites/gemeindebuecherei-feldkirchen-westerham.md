@@ -3,7 +3,7 @@ title: "Gemeindebücherei Feldkirchen-Westerham"
 site_name: "Gemeindebücherei Feldkirchen-Westerham"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Feldkirchen-Westerham serves as a vital educational and cultural resource in the charming region of Feldkirchen-Westerham, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "House for the History of the Ruhr"
 site_name: "House for the History of the Ruhr"
 date: 2026-01-26
 draft: false
-description: "research institute in Bochum, Germany"
+description: "The House for the History of the Ruhr is a notable research institute located in Bochum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

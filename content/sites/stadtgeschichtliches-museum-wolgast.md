@@ -3,7 +3,7 @@ title: "Stadtgeschichtliches Museum (Wolgast)"
 site_name: "Stadtgeschichtliches Museum (Wolgast)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtgeschichtliches Museum in Wolgast, Germany, serves as a vital hub for understanding the region's diverse history and cultural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

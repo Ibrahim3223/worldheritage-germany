@@ -3,7 +3,7 @@ title: "Hauptsynagoge"
 site_name: "Hauptsynagoge"
 date: 2026-01-26
 draft: false
-description: "in Frankfurt"
+description: "The Hauptsynagoge, located in the heart of Frankfurt, Germany, serves as a pivotal center of Jewish life, culture, and spirituality in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

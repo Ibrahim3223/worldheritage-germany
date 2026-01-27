@@ -3,7 +3,7 @@ title: "Schifffahrtsmuseum (Düsseldorf)"
 site_name: "Schifffahrtsmuseum (Düsseldorf)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schifffahrtsmuseum in Düsseldorf serves as a captivating gateway into the world of maritime history, showcasing the intricate relationship between the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

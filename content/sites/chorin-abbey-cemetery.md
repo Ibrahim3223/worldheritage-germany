@@ -3,7 +3,7 @@ title: "Chorin Abbey Cemetery"
 site_name: "Chorin Abbey Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Chorin, Germany"
+description: "Chorin Abbey Cemetery, located in the picturesque village of Chorin, Germany, is a site where tranquility meets history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"

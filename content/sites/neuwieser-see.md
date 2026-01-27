@@ -3,7 +3,7 @@ title: "Neuwieser See"
 site_name: "Neuwieser See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Neuwieser See is a serene lake located in the Elsterheide region of Germany, celebrated for its tranquil waters and natural beauty."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

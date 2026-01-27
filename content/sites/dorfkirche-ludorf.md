@@ -3,7 +3,7 @@ title: "Dorfkirche Ludorf"
 site_name: "Dorfkirche Ludorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Ludorf, a quaint church building located in the picturesque region of Ludorf, Germany, serves as both a spiritual sanctuary and a cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

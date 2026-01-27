@@ -3,7 +3,7 @@ title: "St. Petrus (Wörmlitz)"
 site_name: "St. Petrus (Wörmlitz)"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Germany"
+description: "St. Petrus in Wörmlitz, located in the Halle (Saale) region of Germany, represents a significant cultural and architectural landmark within this..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

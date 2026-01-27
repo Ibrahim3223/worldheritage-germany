@@ -3,7 +3,7 @@ title: "Museum Ostwall"
 site_name: "Museum Ostwall"
 date: 2026-01-26
 draft: false
-description: "museum of modern and contemporary art in Dortmund, Germany"
+description: "Museum Ostwall in Dortmund, Germany, stands as a significant cultural institution dedicated to the appreciation and promotion of modern and contemporary art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hansa-Theater"
 site_name: "Hansa-Theater"
 date: 2026-01-26
 draft: false
-description: "variety theatre in Hamburg, Germany"
+description: "Hansa-Theater, a vibrant theatre building located in the heart of Hamburg, Germany, serves as a focal point for cultural expression and entertainment in the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

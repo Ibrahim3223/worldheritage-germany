@@ -3,7 +3,7 @@ title: "Sulzer Wasserfall"
 site_name: "Sulzer Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Sulzer Wasserfall, a captivating waterfall situated in Germany, offers visitors a stunning display of nature's power and beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

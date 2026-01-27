@@ -3,7 +3,7 @@ title: "Town Hall"
 site_name: "Town Hall"
 date: 2026-01-26
 draft: false
-description: "town hall of Rothenburg ob der Tauber"
+description: "The Town Hall of Rothenburg ob der Tauber is a striking emblem of civic pride and historical significance in one of Germany's best-preserved medieval towns."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

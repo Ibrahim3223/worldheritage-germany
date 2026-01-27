@@ -3,7 +3,7 @@ title: "Evangelische Kirche Grävenwiesbach"
 site_name: "Evangelische Kirche Grävenwiesbach"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Evangelische Kirche Grävenwiesbach is a significant church building located in Grävenwiesbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

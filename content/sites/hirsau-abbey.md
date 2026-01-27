@@ -3,7 +3,7 @@ title: "Hirsau Abbey"
 site_name: "Hirsau Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine abbey in Calw"
+description: "Hirsau Abbey, a former Benedictine monastery located in the picturesque region of Calw, Germany, offers a remarkable glimpse into monastic life and the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

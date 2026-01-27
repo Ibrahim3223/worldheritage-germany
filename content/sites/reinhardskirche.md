@@ -3,7 +3,7 @@ title: "Reinhardskirche"
 site_name: "Reinhardskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Nauheim, Germany"
+description: "Reinhardskirche is an intriguing church building situated in the town of Bad Nauheim, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

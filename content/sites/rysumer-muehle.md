@@ -3,7 +3,7 @@ title: "Rysumer Mühle"
 site_name: "Rysumer Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Ostfriesland, Niedersachsen, Deutschland"
+description: "Rysumer Mühle, an iconic windmill located in the picturesque region of Krummhörn, Germany, represents a significant piece of Ostfriesland's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

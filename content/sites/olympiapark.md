@@ -3,7 +3,7 @@ title: "Olympiapark"
 site_name: "Olympiapark"
 date: 2026-01-26
 draft: false
-description: "urban park in Munich, Bavaria, Germany"
+description: "Olympiapark, an urban park located in the Milbertshofen-Am Hart district of Munich, Bavaria, Germany, is a remarkable blend of green space and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

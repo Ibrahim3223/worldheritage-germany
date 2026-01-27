@@ -3,7 +3,7 @@ title: "Schloss Hundisburg"
 site_name: "Schloss Hundisburg"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Schloss Hundisburg, an elegant manor house situated in the Haldensleben region of Germany, invites visitors to explore its historical significance and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

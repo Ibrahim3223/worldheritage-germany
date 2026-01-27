@@ -3,7 +3,7 @@ title: "Gut Bustedt"
 site_name: "Gut Bustedt"
 date: 2026-01-26
 draft: false
-description: "manor house in Hiddenhausen, Germany"
+description: "In the quaint region of Hiddenhausen, Germany, lies Gut Bustedt, a manor house that embodies the charm and grace of traditional German architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

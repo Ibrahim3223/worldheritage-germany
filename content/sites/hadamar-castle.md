@@ -3,7 +3,7 @@ title: "Hadamar Castle"
 site_name: "Hadamar Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Hesse, Germany"
+description: "Hadamar Castle, located in the picturesque town of Hadamar in the Hesse region of Germany, is a remarkable example of a courthouse that embodies the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

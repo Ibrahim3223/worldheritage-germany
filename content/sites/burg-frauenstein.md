@@ -3,7 +3,7 @@ title: "Burg Frauenstein"
 site_name: "Burg Frauenstein"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Weiding, Bavaria, Germany"
+description: "Burg Frauenstein, an archaeological site situated in Weiding, Bavaria, Germany, is a remarkable remnant of medieval architecture that offers a glimpse into..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

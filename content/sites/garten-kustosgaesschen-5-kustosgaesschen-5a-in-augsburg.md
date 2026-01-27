@@ -3,7 +3,7 @@ title: "Garten Kustosgäßchen 5; Kustosgäßchen 5a in Augsburg"
 site_name: "Garten Kustosgäßchen 5; Kustosgäßchen 5a in Augsburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-61-000-601 (2) in Augsburg, Bavaria"
+description: "Tucked away in the historic city of Augsburg, Germany, the Garten Kustosgäßchen 5 and Kustosgäßchen 5a presents a serene escape into nature amidst the urban..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

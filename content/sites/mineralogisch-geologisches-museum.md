@@ -3,7 +3,7 @@ title: "Mineralogisch-Geologisches Museum"
 site_name: "Mineralogisch-Geologisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mineralogisch-Geologisches Museum in Germany stands as a noteworthy destination for those intrigued by the intricate world of minerals and geology."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

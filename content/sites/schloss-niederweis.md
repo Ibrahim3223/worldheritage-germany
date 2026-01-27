@@ -3,7 +3,7 @@ title: "Schloss Niederweis"
 site_name: "Schloss Niederweis"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Schloss Niederweis, a striking manor house located in the charming village of Niederweis, Germany, offers a glimpse into the architectural and cultural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Manor House"

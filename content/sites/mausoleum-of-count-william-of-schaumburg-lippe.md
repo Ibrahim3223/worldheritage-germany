@@ -3,7 +3,7 @@ title: "mausoleum of Count William of Schaumburg-Lippe"
 site_name: "mausoleum of Count William of Schaumburg-Lippe"
 date: 2026-01-26
 draft: false
-description: "mausoleum at Jagdschloss Baum near Bückeburg, Germany"
+description: "The mausoleum of Count William of Schaumburg-Lippe is a significant historical site located at Jagdschloss Baum near Bückeburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

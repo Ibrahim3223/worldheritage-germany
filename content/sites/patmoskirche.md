@@ -3,7 +3,7 @@ title: "Patmoskirche"
 site_name: "Patmoskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Patmoskirche, a prominent church building located in the Steglitz-Zehlendorf district of Berlin, Germany, serves as both a spiritual sanctuary and a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

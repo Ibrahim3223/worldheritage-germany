@@ -3,7 +3,7 @@ title: "St. Jacob"
 site_name: "St. Jacob"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "St. Jacob Church, located in the quaint village of Gingst, Mecklenburg-Vorpommern, Germany, is a remarkable example of ecclesiastical architecture that..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

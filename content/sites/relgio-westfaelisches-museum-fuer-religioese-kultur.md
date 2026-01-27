@@ -3,7 +3,7 @@ title: "Relígio, Westfälisches Museum für religiöse Kultur"
 site_name: "Relígio, Westfälisches Museum für religiöse Kultur"
 date: 2026-01-26
 draft: false
-description: "museum in Telgte, Germany"
+description: "In the heart of Telgte, Germany, the Relígio, Westfälisches Museum für religiöse Kultur serves as a distinctive space dedicated to the exploration of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

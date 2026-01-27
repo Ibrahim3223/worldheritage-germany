@@ -3,7 +3,7 @@ title: "Fette Henne"
 site_name: "Fette Henne"
 date: 2026-01-26
 draft: false
-description: "water well in Berlin, Germany"
+description: "Fette Henne, located in the vibrant district of Neukölln in Berlin, Germany, is a fascinating water well that captures the essence of the city's historical..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Kirche Zum Guten Hirten"
 site_name: "Kirche Zum Guten Hirten"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Kirche Zum Guten Hirten, an intriguing church building located in the Tempelhof-Schöneberg district of Berlin, Germany, serves as both a spiritual center..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

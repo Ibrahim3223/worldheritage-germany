@@ -3,7 +3,7 @@ title: "Hofkapelle Schlecht"
 site_name: "Hofkapelle Schlecht"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Hofkapelle Schlecht, a captivating chapel located in Aitrach, Germany, invites visitors into its serene embrace of architectural elegance and spiritual..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

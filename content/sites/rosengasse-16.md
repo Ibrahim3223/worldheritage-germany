@@ -3,7 +3,7 @@ title: "Rosengasse 16"
 site_name: "Rosengasse 16"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Wetzlar, Hesse, Germany"
+description: "Located in the picturesque town of Wetzlar, Rosengasse 16 is a cultural heritage monument that reflects the rich history of the Hesse region in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kiln and Ceramics Museum in Velten"
 site_name: "Kiln and Ceramics Museum in Velten"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kiln and Ceramics Museum in Velten is a fascinating destination for those interested in the art and history of ceramics."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

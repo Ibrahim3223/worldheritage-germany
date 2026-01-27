@@ -3,7 +3,7 @@ title: "Hamburg Dammtor station"
 site_name: "Hamburg Dammtor station"
 date: 2026-01-26
 draft: false
-description: "railway halt in Rotherbaum, Hamburg, Germany"
+description: "Hamburg Dammtor station serves as a vital railway hub in the Eimsbüttel district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Railway Station"

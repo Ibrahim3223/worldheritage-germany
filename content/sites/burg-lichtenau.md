@@ -3,7 +3,7 @@ title: "Burg Lichtenau"
 site_name: "Burg Lichtenau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lichtenau, a distinctive castle located in the heart of Germany, presents an intriguing glimpse into the architectural and cultural history of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

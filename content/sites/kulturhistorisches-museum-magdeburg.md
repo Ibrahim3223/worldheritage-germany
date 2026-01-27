@@ -3,7 +3,7 @@ title: "Kulturhistorisches Museum Magdeburg"
 site_name: "Kulturhistorisches Museum Magdeburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kulturhistorisches Museum Magdeburg serves as a vital cultural hub in Germany, captivating visitors with its extensive collections that celebrate the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

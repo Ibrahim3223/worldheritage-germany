@@ -3,7 +3,7 @@ title: "Gemeindebücherei Wiggensbach"
 site_name: "Gemeindebücherei Wiggensbach"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Germany, the Gemeindebücherei Wiggensbach serves as an essential hub for knowledge, culture, and community connection."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Vocational schools J.P.C. Heinrich Mette Quedlinburg"
 site_name: "Vocational schools J.P.C. Heinrich Mette Quedlinburg"
 date: 2026-01-26
 draft: false
-description: "vocational school in Quedlinburg, Germany"
+description: "In the heart of Quedlinburg, Germany, the Vocational Schools J.P.C. Heinrich Mette stand as a significant institution dedicated to vocational education."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

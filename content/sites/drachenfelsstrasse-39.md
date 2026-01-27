@@ -3,7 +3,7 @@ title: "Drachenfelsstraße 39"
 site_name: "Drachenfelsstraße 39"
 date: 2026-01-26
 draft: false
-description: "court building in Königswinter, Germany"
+description: "Drachenfelsstraße 39 is a notable courthouse located in the picturesque town of Königswinter, Germany, known for its vibrant cultural backdrop and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Courthouse"

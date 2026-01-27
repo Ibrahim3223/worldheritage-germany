@@ -3,7 +3,7 @@ title: "Synagoge Untergrombach"
 site_name: "Synagoge Untergrombach"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagoge Untergrombach, located in Bruchsal, Germany, serves as a poignant symbol of the Jewish heritage in the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

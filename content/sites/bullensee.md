@@ -3,7 +3,7 @@ title: "Bullensee"
 site_name: "Bullensee"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Kirchtimke, Lower Saxony, Germany"
+description: "Bullensee, a former nature reserve located in the serene landscape of Kirchtimke, Lower Saxony, Germany, invites visitors to immerse themselves in a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

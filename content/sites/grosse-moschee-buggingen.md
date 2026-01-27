@@ -3,7 +3,7 @@ title: "Große Moschee, Buggingen"
 site_name: "Große Moschee, Buggingen"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Große Moschee in Buggingen is an architectural structure that captures the essence of cultural exchange and religious significance in contemporary Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Burg Heckholzhausen"
 site_name: "Burg Heckholzhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heckholzhausen, a historic castle located in the small district of Heckholzhausen, Germany, is a captivating site that draws visitors interested in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

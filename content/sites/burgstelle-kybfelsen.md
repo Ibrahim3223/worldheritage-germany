@@ -3,7 +3,7 @@ title: "Burgstelle Kybfelsen"
 site_name: "Burgstelle Kybfelsen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgstelle Kybfelsen, a historic castle located in the picturesque region of Günterstal, Germany, serves as a remarkable relic of the past, inviting..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

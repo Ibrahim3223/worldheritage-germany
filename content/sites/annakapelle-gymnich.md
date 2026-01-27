@@ -3,7 +3,7 @@ title: "Annakapelle Gymnich"
 site_name: "Annakapelle Gymnich"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Annakapelle Gymnich, a remarkable church building located in the quaint region of Erftstadt, Germany, invites visitors to explore its serene ambiance and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

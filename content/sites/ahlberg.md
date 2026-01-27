@@ -3,7 +3,7 @@ title: "Ahlberg"
 site_name: "Ahlberg"
 date: 2026-01-26
 draft: false
-description: "mountain in Germany"
+description: "Ahlberg is an intriguing castle situated in the picturesque region of Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

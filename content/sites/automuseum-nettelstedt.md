@@ -3,7 +3,7 @@ title: "Automuseum Nettelstedt"
 site_name: "Automuseum Nettelstedt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Automuseum Nettelstedt is a captivating destination for automotive enthusiasts and history buffs alike, situated in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

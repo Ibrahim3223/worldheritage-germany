@@ -3,7 +3,7 @@ title: "Reichenhain war memorial"
 site_name: "Reichenhain war memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Röderland, Germany"
+description: "The Reichenhain War Memorial, a poignant monument located in Röderland, Germany, serves as a solemn reminder of the sacrifices made during times of conflict."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

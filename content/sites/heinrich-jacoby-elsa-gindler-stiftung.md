@@ -3,7 +3,7 @@ title: "Heinrich Jacoby-Elsa Gindler-Stiftung"
 site_name: "Heinrich Jacoby-Elsa Gindler-Stiftung"
 date: 2026-01-26
 draft: false
-description: "German foundation in Berlin"
+description: "The Heinrich Jacoby-Elsa Gindler-Stiftung stands as a notable foundation in Berlin's Charlottenburg-Wilmersdorf district, dedicated to the promotion of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

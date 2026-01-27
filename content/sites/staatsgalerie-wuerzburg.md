@@ -3,7 +3,7 @@ title: "Staatsgalerie Würzburg"
 site_name: "Staatsgalerie Würzburg"
 date: 2026-01-26
 draft: false
-description: "art museum in Germany"
+description: "In the heart of Würzburg, Germany, the Staatsgalerie Würzburg emerges as a significant cultural institution dedicated to the appreciation and display of art."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

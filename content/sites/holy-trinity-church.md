@@ -3,7 +3,7 @@ title: "Holy-Trinity-Church"
 site_name: "Holy-Trinity-Church"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Derendorf, Germany"
+description: "In the heart of Düsseldorf-Derendorf, the Holy-Trinity-Church stands as an enduring symbol of faith and community."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Laurentiuskirche"
 site_name: "St. Laurentiuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Kosel, Germany"
+description: "St. Laurentiuskirche, an elegant church building located in the town of Kosel, Germany, serves as a significant landmark in the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

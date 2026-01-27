@@ -3,7 +3,7 @@ title: "Thüringer Museum für Elektrotechnik"
 site_name: "Thüringer Museum für Elektrotechnik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thüringer Museum für Elektrotechnik, located in the heart of Erfurt, Germany, is an intriguing destination that explores the evolution of electrical..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Dresdner Energiemuseum"
 site_name: "Dresdner Energiemuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Dresdner Energiemuseum, located in the heart of Dresden, Germany, serves as a captivating destination for those intrigued by the evolution of energy and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

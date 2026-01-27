@@ -3,7 +3,7 @@ title: "G2 Kunsthalle"
 site_name: "G2 Kunsthalle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Leipzig, G2 Kunsthalle serves as a pivotal institution in the contemporary art scene of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Eggeratherhof"
 site_name: "Eggeratherhof"
 date: 2026-01-26
 draft: false
-description: "einer der drei Feldhöfe um Holzweiler, einem Ortsteil von Erkelenz"
+description: "Eggeratherhof, an architectural ensemble located in the quaint village of Holzweiler, is a significant example of regional heritage in Erkelenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "St. Bonifatiuskapelle"
 site_name: "St. Bonifatiuskapelle"
 date: 2026-01-26
 draft: false
-description: "church building in Bonames, Germany"
+description: "St. Bonifatiuskapelle, a striking church building located in Bonames, Germany, is a significant landmark in the Frankfurt-Nord-Ost region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

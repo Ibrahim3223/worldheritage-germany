@@ -3,7 +3,7 @@ title: "Delphinbrunnen"
 site_name: "Delphinbrunnen"
 date: 2026-01-26
 draft: false
-description: "water well in Munich, Germany"
+description: "The Delphinbrunnen, or Dolphin Fountain, stands as a significant landmark in Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

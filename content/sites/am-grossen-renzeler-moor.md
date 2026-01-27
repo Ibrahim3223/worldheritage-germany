@@ -3,7 +3,7 @@ title: "Am Großen Renzeler Moor"
 site_name: "Am Großen Renzeler Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Am Großen Renzeler Moor, a serene nature reserve located in the Kirchdorf region of Lower Saxony, Germany, offers a unique opportunity to immerse oneself in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

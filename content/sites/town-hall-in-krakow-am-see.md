@@ -3,7 +3,7 @@ title: "Town hall in Krakow am See"
 site_name: "Town hall in Krakow am See"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Krakow am See"
+description: "The Town Hall in Krakow am See is a remarkable representation of civic architecture that stands at the heart of this charming German town."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Deutsche AIDS-Stiftung"
 site_name: "Deutsche AIDS-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Deutsche AIDS-Stiftung, located in Bonn, Germany, serves as a pivotal institution in the global fight against HIV/AIDS."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

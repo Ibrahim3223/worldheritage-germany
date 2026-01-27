@@ -3,7 +3,7 @@ title: "Stadtmuseum Neustadt an der Waldnaab"
 site_name: "Stadtmuseum Neustadt an der Waldnaab"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Neustadt an der Waldnaab is a museum that offers a fascinating glimpse into the cultural and historical fabric of Neustadt an der Waldnaab,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

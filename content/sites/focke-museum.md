@@ -3,7 +3,7 @@ title: "Focke Museum"
 site_name: "Focke Museum"
 date: 2026-01-26
 draft: false
-description: "museum of history and the history of art for the city and state of Bremen"
+description: "The Focke Museum, located in the Schwachhausen district of Bremen, Germany, serves as a vital hub for understanding the history and evolution of art within..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

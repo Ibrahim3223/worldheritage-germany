@@ -3,7 +3,7 @@ title: "Theater Waidspeicher"
 site_name: "Theater Waidspeicher"
 date: 2026-01-26
 draft: false
-description: "Theater in Deutschland"
+description: "Theater Waidspeicher, located in Erfurt, Germany, is a distinguished theater building that serves as a vibrant hub for the performing arts in the region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Theatre Building"

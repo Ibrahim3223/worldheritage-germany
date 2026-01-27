@@ -3,7 +3,7 @@ title: "Meinolfuskapelle Büren"
 site_name: "Meinolfuskapelle Büren"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Büren"
+description: "Nestled in the serene town of Büren, Germany, the Meinolfuskapelle is a captivating chapel that reflects the area's spiritual and architectural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

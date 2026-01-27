@@ -3,7 +3,7 @@ title: "Galerie Schloss Bauschlott"
 site_name: "Galerie Schloss Bauschlott"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Germany, Galerie Schloss Bauschlott serves as a captivating museum that attracts art enthusiasts and history buffs alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Haus Ruhrnatur"
 site_name: "Haus Ruhrnatur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus Ruhrnatur serves as an engaging museum dedicated to showcasing the natural and cultural heritage of the Ruhr area in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

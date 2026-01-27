@@ -3,7 +3,7 @@ title: "Westfalenhallen"
 site_name: "Westfalenhallen"
 date: 2026-01-26
 draft: false
-description: "three multi-purpose venues, located in Dortmund, Germany"
+description: "In the heart of Dortmund, Germany, Westfalenhallen serves as a dynamic hub for events and gatherings, showcasing the vibrant spirit of the city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

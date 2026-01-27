@@ -3,7 +3,7 @@ title: "Saint Matthew's Church"
 site_name: "Saint Matthew's Church"
 date: 2026-01-26
 draft: false
-description: "church in Munich, built in the 1950s"
+description: "Saint Matthew's Church, located in the vibrant city of Munich, Germany, serves as a modern architectural marvel and an important spiritual center for locals..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Torhaus Venatoriusstraße 2 in Nürnberg"
 site_name: "Torhaus Venatoriusstraße 2 in Nürnberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-64-000-2018 (2) in Nürnberg, Bavaria"
+description: "Located in the historic city of Nuremberg, Germany, the Torhaus Venatoriusstraße 2 serves as a remarkable example of a gatehouse that captures the essence..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

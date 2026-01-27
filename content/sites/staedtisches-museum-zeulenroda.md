@@ -3,7 +3,7 @@ title: "Städtisches Museum Zeulenroda"
 site_name: "Städtisches Museum Zeulenroda"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Zeulenroda-Triebes, Germany, the Städtisches Museum Zeulenroda offers visitors a glimpse into the rich history and culture of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

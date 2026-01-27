@@ -3,7 +3,7 @@ title: "Herrgottskirche"
 site_name: "Herrgottskirche"
 date: 2026-01-26
 draft: false
-description: "church building and museum in Creglingen, Germany"
+description: "Herrgottskirche, a remarkable church building and museum located in Creglingen, Germany, is a site that invites exploration and reflection."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

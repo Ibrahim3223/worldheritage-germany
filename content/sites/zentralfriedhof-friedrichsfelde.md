@@ -3,7 +3,7 @@ title: "Zentralfriedhof Friedrichsfelde"
 site_name: "Zentralfriedhof Friedrichsfelde"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Zentralfriedhof Friedrichsfelde, located in the Lichtenberg district of Berlin, is a notable cemetery that serves as a park and peaceful retreat within the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

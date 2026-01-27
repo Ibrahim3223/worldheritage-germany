@@ -3,7 +3,7 @@ title: "Burg Klingenstein"
 site_name: "Burg Klingenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Klingenstein is a captivating castle located in Blaustein, Germany, embodying the spirit of medieval architecture and serving as a reflection of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

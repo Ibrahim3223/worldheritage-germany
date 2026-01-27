@@ -3,7 +3,7 @@ title: "Bundesdenkmal des Bundes Deutscher Radfahrer"
 site_name: "Bundesdenkmal des Bundes Deutscher Radfahrer"
 date: 2026-01-26
 draft: false
-description: "monument in Germany"
+description: "The Bundesdenkmal des Bundes Deutscher Radfahrer, a significant monument located in Bad Schmiedeberg, Germany, embodies the spirit of cycling and its..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

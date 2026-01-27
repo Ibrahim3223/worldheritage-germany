@@ -3,7 +3,7 @@ title: "Burg Nagelsberg"
 site_name: "Burg Nagelsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nagelsberg is a historic castle located in the tranquil region of Nagelsberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

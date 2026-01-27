@@ -3,7 +3,7 @@ title: "Maria im Busch"
 site_name: "Maria im Busch"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Maria im Busch, a charming chapel located in Erolzheim, Germany, offers visitors a serene retreat steeped in cultural significance and architectural simplicity."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

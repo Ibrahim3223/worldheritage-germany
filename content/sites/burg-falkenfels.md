@@ -3,7 +3,7 @@ title: "Burg Falkenfels"
 site_name: "Burg Falkenfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Falkenfels, an intriguing archaeological site in Germany, invites visitors to explore its storied past and architectural remnants."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

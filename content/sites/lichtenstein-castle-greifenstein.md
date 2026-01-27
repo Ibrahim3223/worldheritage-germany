@@ -3,7 +3,7 @@ title: "Lichtenstein Castle (Greifenstein)"
 site_name: "Lichtenstein Castle (Greifenstein)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lichtenstein Castle, also known as Greifenstein, stands as a striking example of medieval architecture amidst the serene landscapes of Holzhausen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

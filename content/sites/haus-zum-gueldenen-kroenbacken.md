@@ -3,7 +3,7 @@ title: "Haus zum Güldenen Krönbacken"
 site_name: "Haus zum Güldenen Krönbacken"
 date: 2026-01-26
 draft: false
-description: "Baudenkmal in Erfurt"
+description: "Haus zum Güldenen Krönbacken, an architectural ensemble located in Erfurt, Germany, stands as a remarkable example of historical architecture."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

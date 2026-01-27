@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Heidelberg"
 site_name: "Ehrenfriedhof Heidelberg"
 date: 2026-01-26
 draft: false
-description: "cemetery in Heidelberg, Germany"
+description: "Ehrenfriedhof Heidelberg is a cemetery that offers not only a serene resting place for the deceased but also serves as a poignant reminder of the city's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

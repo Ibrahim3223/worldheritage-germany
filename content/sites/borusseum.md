@@ -3,7 +3,7 @@ title: "Borusseum"
 site_name: "Borusseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Borusseum, located in Dortmund, Germany, is a museum that serves as a cultural hub for sports enthusiasts and history buffs alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Königliches Gymnasium, Alleestraße 32"
 site_name: "Königliches Gymnasium, Alleestraße 32"
 date: 2026-01-26
 draft: false
-description: "school building"
+description: "Königliches Gymnasium, located at Alleestraße 32 in Düsseldorf, Germany, represents a significant piece of the educational and architectural landscape of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

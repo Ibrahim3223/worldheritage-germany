@@ -3,7 +3,7 @@ title: "Carl-Duisberg-Gymnasium"
 site_name: "Carl-Duisberg-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school in Germany"
+description: "Carl-Duisberg-Gymnasium is a notable educational institution located in Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Babelsberg Park"
 site_name: "Babelsberg Park"
 date: 2026-01-26
 draft: false
-description: "park in the city of Potsdam, Germany"
+description: "Babelsberg Park, located in the city of Potsdam, Germany, is a remarkable blend of natural beauty and historical significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

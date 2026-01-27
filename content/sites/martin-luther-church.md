@@ -3,7 +3,7 @@ title: "Martin Luther Church"
 site_name: "Martin Luther Church"
 date: 2026-01-26
 draft: false
-description: "church building in Sankt Ingbert, Germany"
+description: "In the heart of Sankt Ingbert, Germany, the Martin Luther Church stands as a prominent church building with a rich historical and cultural backdrop."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

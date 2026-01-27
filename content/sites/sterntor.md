@@ -3,7 +3,7 @@ title: "Sterntor"
 site_name: "Sterntor"
 date: 2026-01-26
 draft: false
-description: "gate in Bonn"
+description: "The Sterntor, a historical city gate located in Bonn, Germany, serves as a remarkable embodiment of the city's architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

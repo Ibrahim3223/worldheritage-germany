@@ -3,7 +3,7 @@ title: "Gelsenkirchen-Altstadt"
 site_name: "Gelsenkirchen-Altstadt"
 date: 2026-01-26
 draft: false
-description: "quarter of Gelsenkirchen, Germany"
+description: "Gelsenkirchen-Altstadt, a vibrant quarter situated in the heart of Gelsenkirchen, Germany, represents a unique blend of historical charm and contemporary life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"

@@ -3,7 +3,7 @@ title: "Felsentheater (Bad Liebenstein)"
 site_name: "Felsentheater (Bad Liebenstein)"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Felsentheater, located in the picturesque town of Bad Liebenstein, Germany, is a unique cave that offers a fascinating glimpse into the natural beauty and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Cave"

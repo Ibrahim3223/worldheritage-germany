@@ -3,7 +3,7 @@ title: "Berwartstein Castle"
 site_name: "Berwartstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Rhineland-Palatinate, Germany"
+description: "Berwartstein Castle is an intriguing historical site located in Erlenbach bei Dahn, within the scenic region of Rhineland-Palatinate, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

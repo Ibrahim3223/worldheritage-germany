@@ -3,7 +3,7 @@ title: "St. Urban"
 site_name: "St. Urban"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Urban stands as a prominent church building located in Senden, Germany, manifesting the architectural and cultural essence of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

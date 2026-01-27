@@ -3,7 +3,7 @@ title: "Schloss Linden (Hannover)"
 site_name: "Schloss Linden (Hannover)"
 date: 2026-01-26
 draft: false
-description: "building in Hannover (Germany)"
+description: "Schloss Linden, located in the Linden-Limmer district of Hannover, Germany, is a striking example of a manor house that captures the essence of the region’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

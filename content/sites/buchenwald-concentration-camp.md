@@ -3,7 +3,7 @@ title: "Buchenwald concentration camp"
 site_name: "Buchenwald concentration camp"
 date: 2026-01-26
 draft: false
-description: "Nazi concentration camp in Thuringia (1937–1945)"
+description: "Buchenwald concentration camp, located near Weimar in Thuringia, Germany, serves as a profound reminder of one of humanity's darkest chapters."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

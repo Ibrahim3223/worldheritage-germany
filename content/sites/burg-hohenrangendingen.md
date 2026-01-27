@@ -3,7 +3,7 @@ title: "Burg Hohenrangendingen"
 site_name: "Burg Hohenrangendingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the quaint surroundings of Rangendingen, Burg Hohenrangendingen presents a captivating glimpse into the medieval past of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

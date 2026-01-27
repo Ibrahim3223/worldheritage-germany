@@ -3,7 +3,7 @@ title: "KomponistenQuartier Hamburg"
 site_name: "KomponistenQuartier Hamburg"
 date: 2026-01-26
 draft: false
-description: "Group of museum in Hamburg"
+description: "In the vibrant city of Hamburg, the KomponistenQuartier serves as a captivating tribute to the musical heritage that has flourished in this northern German hub."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

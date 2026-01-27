@@ -3,7 +3,7 @@ title: "Usedom"
 site_name: "Usedom"
 date: 2026-01-26
 draft: false
-description: "Baltic Sea island"
+description: "Usedom, an island located in the Baltic Sea, is part of the picturesque Western Pomerania region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"

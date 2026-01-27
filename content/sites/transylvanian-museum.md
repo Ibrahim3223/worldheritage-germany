@@ -3,7 +3,7 @@ title: "Transylvanian Museum"
 site_name: "Transylvanian Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Gundelsheim"
+description: "The Transylvanian Museum in Gundelsheim, Germany, serves as a captivating gateway into the region's cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

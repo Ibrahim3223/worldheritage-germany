@@ -3,7 +3,7 @@ title: "Wohnhausgruppe Hermann-Allmers-Straße"
 site_name: "Wohnhausgruppe Hermann-Allmers-Straße"
 date: 2026-01-26
 draft: false
-description: "Gebäudegruppe in Bremen - Schwachhausen"
+description: "The Wohnhausgruppe Hermann-Allmers-Straße is an architectural ensemble located in the Schwachhausen district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

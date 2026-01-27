@@ -3,7 +3,7 @@ title: "Port des Lumières"
 site_name: "Port des Lumières"
 date: 2026-01-26
 draft: false
-description: "Kunstmuseum innerhalb der Hamburger Hafencity"
+description: "Port des Lumières, located in the heart of Hamburg’s Hafencity, serves as a vibrant hub for art enthusiasts and casual visitors alike."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

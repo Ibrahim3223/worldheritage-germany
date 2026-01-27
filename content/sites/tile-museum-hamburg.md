@@ -3,7 +3,7 @@ title: "Tile museum Hamburg"
 site_name: "Tile museum Hamburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Tile Museum Hamburg offers a unique glimpse into the world of ceramics and tile art, showcasing a fascinating array of historical and contemporary..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

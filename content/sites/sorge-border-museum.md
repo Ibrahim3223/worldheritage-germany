@@ -3,7 +3,7 @@ title: "Sorge Border Museum"
 site_name: "Sorge Border Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sorge Border Museum, located in the picturesque Oberharz am Brocken region of Germany, is a site of profound historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

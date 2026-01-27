@@ -3,7 +3,7 @@ title: "Marksburg"
 site_name: "Marksburg"
 date: 2026-01-26
 draft: false
-description: "Castle in Braubach, Rhineland-Palatinate, Germany"
+description: "Marksburg Castle, a formidable structure rising above the town of Braubach in Rhineland-Palatinate, Germany, is one of the finest examples of medieval..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

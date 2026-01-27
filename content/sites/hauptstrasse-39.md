@@ -3,7 +3,7 @@ title: "Hauptstraße 39"
 site_name: "Hauptstraße 39"
 date: 2026-01-26
 draft: false
-description: "Villa in Neugersdorf"
+description: "Hauptstraße 39, situated in the town of Neugersdorf within the Ebersbach-Neugersdorf region of Germany, is an intriguing landmark that serves as the city hall."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "City Museum Bautzen"
 site_name: "City Museum Bautzen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The City Museum Bautzen is a captivating destination for those seeking to delve into the rich cultural heritage of Bautzen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

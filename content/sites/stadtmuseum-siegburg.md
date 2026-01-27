@@ -3,7 +3,7 @@ title: "Stadtmuseum Siegburg"
 site_name: "Stadtmuseum Siegburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Siegburg serves as a vital cultural hub within the historic town of Siegburg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

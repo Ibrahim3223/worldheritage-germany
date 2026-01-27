@@ -3,7 +3,7 @@ title: "Institut Mathildenhöhe"
 site_name: "Institut Mathildenhöhe"
 date: 2026-01-26
 draft: false
-description: "archive organization in Darmstadt, Germany"
+description: "The Institut Mathildenhöhe in Darmstadt, Germany, serves as a pivotal cultural and intellectual hub, dedicated to the preservation and promotion of the arts..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

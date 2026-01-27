@@ -3,7 +3,7 @@ title: "Mutterturm"
 site_name: "Mutterturm"
 date: 2026-01-26
 draft: false
-description: "heritage-protected building in Landsberg am Lech, Bavaria, Germany"
+description: "Mutterturm, a prominent tower located in the picturesque town of Landsberg am Lech, Bavaria, Germany, serves as a remarkable symbol of the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

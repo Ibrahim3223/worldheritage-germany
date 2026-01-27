@@ -3,7 +3,7 @@ title: "Schlepzig Farm Museum"
 site_name: "Schlepzig Farm Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schlepzig Farm Museum in Germany invites visitors to explore the agricultural heritage and rural life of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

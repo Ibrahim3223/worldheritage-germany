@@ -3,7 +3,7 @@ title: "Altenburg (Reutlingen-Altenburg)"
 site_name: "Altenburg (Reutlingen-Altenburg)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altenburg, a notable castle in the region of Reutlingen-Altenburg, Germany, presents a captivating glimpse into the architectural and cultural heritage of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

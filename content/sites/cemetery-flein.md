@@ -3,7 +3,7 @@ title: "Cemetery, Flein"
 site_name: "Cemetery, Flein"
 date: 2026-01-26
 draft: false
-description: "cemetery in Flein, Baden-Württemberg, Germany"
+description: "Cemetery, Flein, located in the charming village of Flein in Baden-Württemberg, Germany, provides a hauntingly beautiful glimpse into the past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

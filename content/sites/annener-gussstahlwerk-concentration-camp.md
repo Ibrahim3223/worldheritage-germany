@@ -3,7 +3,7 @@ title: "Annener Gußstahlwerk concentration camp"
 site_name: "Annener Gußstahlwerk concentration camp"
 date: 2026-01-26
 draft: false
-description: "subcamp Annen Steelworks of concentration camp Buchenwald in Witten"
+description: "The Annener Gußstahlwerk concentration camp, a subcamp of the infamous Buchenwald concentration camp, is a stark reminder of the dark chapters of human history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

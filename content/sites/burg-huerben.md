@@ -3,7 +3,7 @@ title: "Burg Hürben"
 site_name: "Burg Hürben"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hürben, a captivating castle located in the Hürben district of Giengen, Germany, stands as an intriguing relic of the past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

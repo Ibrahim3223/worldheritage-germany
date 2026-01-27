@@ -3,7 +3,7 @@ title: "Manor in Wendorf"
 site_name: "Manor in Wendorf"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "The Manor in Wendorf, located in the serene region of Kuhlen-Wendorf, Germany, is a striking example of traditional manor house architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

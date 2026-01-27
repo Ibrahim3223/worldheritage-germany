@@ -3,7 +3,7 @@ title: "Berger Tor (Düsseldorf)"
 site_name: "Berger Tor (Düsseldorf)"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Stadttor in Düsseldorf"
+description: "In the heart of Düsseldorf, the Berger Tor stands as a historical remnant of the city’s fortified past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

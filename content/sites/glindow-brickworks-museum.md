@@ -3,7 +3,7 @@ title: "Glindow Brickworks Museum"
 site_name: "Glindow Brickworks Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glindow Brickworks Museum, located in the serene town of Werder (Havel) in Germany, serves as a window into the region's industrial heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Herrenhaus Zühr"
 site_name: "Herrenhaus Zühr"
 date: 2026-01-26
 draft: false
-description: "Historisches Gebäude mit Parkanlage in Mecklenburg-Vorpommern"
+description: "Herrenhaus Zühr, an exquisite manor house located in the heart of Wittenburg, Germany, offers visitors a unique blend of historical intrigue and natural beauty."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

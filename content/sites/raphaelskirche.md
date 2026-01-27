@@ -3,7 +3,7 @@ title: "Raphaelskirche"
 site_name: "Raphaelskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Cleebronn, Heilbronn district, Baden-Württemberg, Germany"
+description: "Raphaelskirche, a remarkable church building located in Cleebronn, Baden-Württemberg, stands as a significant landmark within the Heilbronn district."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

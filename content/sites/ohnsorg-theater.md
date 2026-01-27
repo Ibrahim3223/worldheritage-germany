@@ -3,7 +3,7 @@ title: "Ohnsorg-Theater"
 site_name: "Ohnsorg-Theater"
 date: 2026-01-26
 draft: false
-description: "privately owned theatre in Hamburg, Germany"
+description: "In the vibrant heart of Hamburg, Germany, the Ohnsorg-Theater stands as a notable establishment in the city's cultural landscape."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

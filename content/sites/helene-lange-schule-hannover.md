@@ -3,7 +3,7 @@ title: "Helene-Lange-Schule (Hannover)"
 site_name: "Helene-Lange-Schule (Hannover)"
 date: 2026-01-26
 draft: false
-description: "school in Hannover, Germany"
+description: "Helene-Lange-Schule in Hannover, Germany, is a prominent educational institution located in the Linden-Limmer district."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

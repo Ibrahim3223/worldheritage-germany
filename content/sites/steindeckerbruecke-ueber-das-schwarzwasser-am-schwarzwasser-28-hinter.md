@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über das Schwarzwasser Am Schwarzwasser 28 (hinter)"
 site_name: "Steindeckerbrücke über das Schwarzwasser Am Schwarzwasser 28 (hinter)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über das Schwarzwasser is an intriguing bridge located in the Schmölln-Putzkau region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

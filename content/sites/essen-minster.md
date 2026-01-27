@@ -3,7 +3,7 @@ title: "Essen Minster"
 site_name: "Essen Minster"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "Essen Minster, a prominent cathedral located in the heart of Essen, Germany, serves as a significant religious and cultural site with deep historical roots."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

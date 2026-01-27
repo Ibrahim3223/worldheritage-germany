@@ -3,7 +3,7 @@ title: "Zoo Hoyerswerda"
 site_name: "Zoo Hoyerswerda"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Zoo Hoyerswerda is a fascinating location that invites visitors to explore the intricate relationship between humans and animals."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Zoo"

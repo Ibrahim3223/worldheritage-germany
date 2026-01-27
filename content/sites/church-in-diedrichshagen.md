@@ -3,7 +3,7 @@ title: "Church in Diedrichshagen"
 site_name: "Church in Diedrichshagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Diedrichshagen stands as a significant cultural landmark in the Rüting region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

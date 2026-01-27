@@ -3,7 +3,7 @@ title: "Unity Flag"
 site_name: "Unity Flag"
 date: 2026-01-26
 draft: false
-description: "monument to German reunification in Berlin"
+description: "The Unity Flag is a significant monument located in the heart of Berlin, Germany, representing the spirit of German reunification."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

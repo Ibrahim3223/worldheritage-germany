@@ -3,7 +3,7 @@ title: "Burg Hof am Regen"
 site_name: "Burg Hof am Regen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hof am Regen, a historic castle located in Germany, invites visitors to explore its intriguing past and captivating architectural features."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

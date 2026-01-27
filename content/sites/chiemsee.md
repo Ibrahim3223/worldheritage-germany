@@ -3,7 +3,7 @@ title: "Chiemsee"
 site_name: "Chiemsee"
 date: 2026-01-26
 draft: false
-description: "freshwater lake in Bavaria, Germany"
+description: "Chiemsee, a freshwater lake located in Bavaria, Germany, is a stunning example of the natural beauty and cultural heritage that the region has to offer."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

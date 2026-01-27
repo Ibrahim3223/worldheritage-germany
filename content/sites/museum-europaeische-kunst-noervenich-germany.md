@@ -3,7 +3,7 @@ title: "Museum Europäische Kunst (Nörvenich, Germany)"
 site_name: "Museum Europäische Kunst (Nörvenich, Germany)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Europäische Kunst, located in Nörvenich, Germany, serves as a prominent cultural institution dedicated to the exploration and exhibition of European art."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

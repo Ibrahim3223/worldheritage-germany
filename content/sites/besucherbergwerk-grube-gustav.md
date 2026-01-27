@@ -3,7 +3,7 @@ title: "Besucherbergwerk Grube Gustav"
 site_name: "Besucherbergwerk Grube Gustav"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Germany, Besucherbergwerk Grube Gustav is a unique museum that offers visitors an in-depth look into the region's mining history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

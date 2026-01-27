@@ -3,7 +3,7 @@ title: "Gedenkstätte Bernburg"
 site_name: "Gedenkstätte Bernburg"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "Gedenkstätte Bernburg, a memorial located in the town of Bernburg, Germany, serves as a poignant reminder of the atrocities of the past."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

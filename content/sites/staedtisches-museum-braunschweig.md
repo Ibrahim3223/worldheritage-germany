@@ -3,7 +3,7 @@ title: "Städtisches Museum Braunschweig"
 site_name: "Städtisches Museum Braunschweig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtisches Museum Braunschweig, located in the heart of Brunswick, Germany, invites visitors to explore the rich cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

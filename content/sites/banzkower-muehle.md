@@ -3,7 +3,7 @@ title: "Banzkower Mühle"
 site_name: "Banzkower Mühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in dem mecklenburgischen Dorf Banzkow"
+description: "The Banzkower Mühle, a traditional windmill, stands proudly in the quaint village of Banzkow, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

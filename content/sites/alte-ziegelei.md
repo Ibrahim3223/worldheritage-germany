@@ -3,7 +3,7 @@ title: "Alte Ziegelei"
 site_name: "Alte Ziegelei"
 date: 2026-01-26
 draft: false
-description: "building in Mainz, Germany"
+description: "Alte Ziegelei, a museum located in Mainz, Germany, offers visitors a unique glimpse into the historical and cultural significance of brick production in the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

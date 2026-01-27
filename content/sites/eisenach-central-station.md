@@ -3,7 +3,7 @@ title: "Eisenach Central Station"
 site_name: "Eisenach Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Thuringia, Germany"
+description: "Eisenach Central Station is more than just a transit hub; it is a significant landmark in the heart of Thuringia, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Railway Station"

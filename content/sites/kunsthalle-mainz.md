@@ -3,7 +3,7 @@ title: "Kunsthalle Mainz"
 site_name: "Kunsthalle Mainz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthalle Mainz is a captivating museum located in the Neustadt district of Mainz, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

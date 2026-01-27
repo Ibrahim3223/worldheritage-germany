@@ -3,7 +3,7 @@ title: "St. Katharinen-Kirche"
 site_name: "St. Katharinen-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Neuenkirchen, Lower Saxony, Germany"
+description: "St. Katharinen-Kirche, a significant church building located in Neuenkirchen, Lower Saxony, Germany, invites visitors to explore its storied past and admire..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

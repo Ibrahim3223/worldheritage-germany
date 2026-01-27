@@ -3,7 +3,7 @@ title: "Ponttor"
 site_name: "Ponttor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Ponttor, an iconic city gate located in the heart of Aachen, Germany, serves as a remarkable vestige of the city’s historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

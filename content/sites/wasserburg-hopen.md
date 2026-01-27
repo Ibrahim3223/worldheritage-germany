@@ -3,7 +3,7 @@ title: "Wasserburg Hopen"
 site_name: "Wasserburg Hopen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Wasserburg Hopen, an evocative castle located in the charming region of Lohne, Germany, stands as a significant historical landmark that captures the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

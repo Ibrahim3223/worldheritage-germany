@@ -3,7 +3,7 @@ title: "Gymnasium Bayreuther Straße"
 site_name: "Gymnasium Bayreuther Straße"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Gymnasium Bayreuther Straße, situated in Wuppertal, Germany, is an architectural structure that stands as a notable example of educational edifices in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

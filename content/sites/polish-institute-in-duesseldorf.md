@@ -3,7 +3,7 @@ title: "Polish Institute in Düsseldorf"
 site_name: "Polish Institute in Düsseldorf"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Polish Institute in Düsseldorf serves as a vital cultural hub, fostering a deeper understanding of Polish heritage, art, and identity in Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"

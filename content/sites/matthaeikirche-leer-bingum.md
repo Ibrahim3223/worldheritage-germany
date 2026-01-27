@@ -3,7 +3,7 @@ title: "Matthäikirche (Leer-Bingum)"
 site_name: "Matthäikirche (Leer-Bingum)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Matthäikirche, located in the small village of Bingum in the region of Leer, Germany, is a captivating church that invites visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

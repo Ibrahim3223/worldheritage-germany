@@ -3,7 +3,7 @@ title: "Burg Grimmenstein"
 site_name: "Burg Grimmenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grimmenstein, a remarkable castle located within the picturesque region of Gotha in Germany, offers visitors a glimpse into the architectural and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Castle"

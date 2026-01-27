@@ -3,7 +3,7 @@ title: "Kirche Groß Bünzow"
 site_name: "Kirche Groß Bünzow"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Deutschland"
+description: "Kirche Groß Bünzow is a noteworthy church building located in the peaceful region of Klein Bünzow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

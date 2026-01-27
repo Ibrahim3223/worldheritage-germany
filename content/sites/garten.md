@@ -3,7 +3,7 @@ title: "Garten"
 site_name: "Garten"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-618 (0) in Würzburg, Bavaria"
+description: "Garten, a cultural heritage monument located in the picturesque region of Würzburg, Bavaria, invites visitors to explore its serene landscapes and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

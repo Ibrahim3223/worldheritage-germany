@@ -3,7 +3,7 @@ title: "Town hall Veilsdorf"
 site_name: "Town hall Veilsdorf"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Town Hall of Veilsdorf is a significant civic structure located in the heart of this charming German town."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

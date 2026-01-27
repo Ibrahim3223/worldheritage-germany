@@ -3,7 +3,7 @@ title: "Saarlouis Alter Friedhof"
 site_name: "Saarlouis Alter Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Saarlouis, Germany"
+description: "Saarlouis Alter Friedhof is a cemetery located in the city of Saarlouis, Germany, presenting a serene space that reflects the area's cultural heritage and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Einzeldenkmale der Sachgesamtheit Rittergut Oberrengersdorf: Neues Schlo
 site_name: "Einzeldenkmale der Sachgesamtheit Rittergut Oberrengersdorf: Neues Schloss, Eiskeller, Mausoleum, Torpfeiler, Brücke und gemauerter Teichzulauf im Park (siehe auch Sachgesamtheitsliste - Obj. 09269607) Bergstraße 19"
 date: 2026-01-26
 draft: false
-description: "bridge in Kodersdorf, Germany"
+description: "The Einzeldenkmale der Sachgesamtheit Rittergut Oberrengersdorf is a significant cultural heritage site located at Bergstraße 19 in Kodersdorf, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

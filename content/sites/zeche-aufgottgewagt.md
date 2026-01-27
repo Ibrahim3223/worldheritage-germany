@@ -3,7 +3,7 @@ title: "Zeche Aufgottgewagt"
 site_name: "Zeche Aufgottgewagt"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Aufgottgewagt, located in Witten, Germany, is a significant heritage site that reflects the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

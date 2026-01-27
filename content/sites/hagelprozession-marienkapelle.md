@@ -3,7 +3,7 @@ title: "Hagelprozession Marienkapelle"
 site_name: "Hagelprozession Marienkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Hagelprozession Marienkapelle, located in Ostbevern, Germany, is a significant chapel that serves as a focal point for local heritage and religious..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

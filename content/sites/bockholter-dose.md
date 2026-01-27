@@ -3,7 +3,7 @@ title: "Bockholter Dose"
 site_name: "Bockholter Dose"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bockholter Dose, a serene nature reserve located in the Vrees region of Lower Saxony, Germany, invites visitors to explore its tranquil landscapes and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

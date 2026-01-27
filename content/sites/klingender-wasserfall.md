@@ -3,7 +3,7 @@ title: "Klingender Wasserfall"
 site_name: "Klingender Wasserfall"
 date: 2026-01-26
 draft: false
-description: "waterfall in Germany"
+description: "The Klingender Wasserfall is a striking waterfall located in the heart of Lauf an der Pegnitz, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

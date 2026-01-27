@@ -3,7 +3,7 @@ title: "Friedrichsbau of Heidelberg Castle"
 site_name: "Friedrichsbau of Heidelberg Castle"
 date: 2026-01-26
 draft: false
-description: "Residential palace of Heidelberg Castle"
+description: "The Friedrichsbau of Heidelberg Castle is a remarkable example of Renaissance architecture, serving as the residential palace within the larger complex of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

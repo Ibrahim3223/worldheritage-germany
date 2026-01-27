@@ -3,7 +3,7 @@ title: "Kristallmuseum Viechtach"
 site_name: "Kristallmuseum Viechtach"
 date: 2026-01-26
 draft: false
-description: "museum in Viechtach, Germany"
+description: "Kristallmuseum Viechtach is a unique destination in Viechtach, Germany, dedicated to showcasing the beauty and diversity of crystals."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Dunum Church"
 site_name: "Dunum Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dunum Church, located in the quaint region of Dunum, Germany, serves as a notable example of the architectural and cultural heritage found throughout the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

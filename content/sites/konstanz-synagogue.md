@@ -3,7 +3,7 @@ title: "Konstanz Synagogue"
 site_name: "Konstanz Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Konstanz Synagogue, located in the heart of Constance, Germany, serves as a profound symbol of the Jewish heritage in the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

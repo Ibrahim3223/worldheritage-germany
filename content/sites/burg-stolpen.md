@@ -3,7 +3,7 @@ title: "Burg Stolpen"
 site_name: "Burg Stolpen"
 date: 2026-01-26
 draft: false
-description: "Castle in Saxony, Germany"
+description: "Burg Stolpen, a striking castle located in Saxony, Germany, serves as a vivid reminder of the region’s storied past."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

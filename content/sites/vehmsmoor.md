@@ -3,7 +3,7 @@ title: "Vehmsmoor"
 site_name: "Vehmsmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Nestled in the serene landscapes of Lower Saxony, Germany, Vehmsmoor is a captivating nature reserve that offers a unique glimpse into the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

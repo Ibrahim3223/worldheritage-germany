@@ -3,7 +3,7 @@ title: "Leder- und Gerbermuseum"
 site_name: "Leder- und Gerbermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Mülheim an der Ruhr, Germany"
+description: "The Leder- und Gerbermuseum, located in the city of Mülheim an der Ruhr, Germany, offers a fascinating exploration into the world of leather and tanning."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

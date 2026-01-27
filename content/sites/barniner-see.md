@@ -3,7 +3,7 @@ title: "Barniner See"
 site_name: "Barniner See"
 date: 2026-01-26
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
+description: "Barniner See, located in the picturesque Ludwigslust-Parchim District of Mecklenburg-Vorpommern, Germany, offers a serene escape for nature lovers and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

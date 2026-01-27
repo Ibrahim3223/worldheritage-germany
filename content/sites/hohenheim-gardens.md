@@ -3,7 +3,7 @@ title: "Hohenheim Gardens"
 site_name: "Hohenheim Gardens"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "Hohenheim Gardens, a serene botanical garden located in Stuttgart, Germany, invites visitors to immerse themselves in a world of botanical diversity and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

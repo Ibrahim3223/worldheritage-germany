@@ -3,7 +3,7 @@ title: "Kunsthalle Bielefeld"
 site_name: "Kunsthalle Bielefeld"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "Kunsthalle Bielefeld stands as a prominent art museum in the heart of Bielefeld-Mitte, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Henstedter Dorfmuseum"
 site_name: "Henstedter Dorfmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Syke, Germany, the Henstedter Dorfmuseum offers a fascinating glimpse into the region's rural heritage and traditional lifestyle."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

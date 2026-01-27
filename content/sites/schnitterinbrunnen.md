@@ -3,7 +3,7 @@ title: "Schnitterinbrunnen"
 site_name: "Schnitterinbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "Situated in the vibrant city of Munich, Schnitterinbrunnen is a captivating fountain that encapsulates the charm of urban public art and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

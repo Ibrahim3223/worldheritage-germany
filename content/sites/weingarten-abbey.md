@@ -3,7 +3,7 @@ title: "Weingarten Abbey"
 site_name: "Weingarten Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Weingarten, Germany"
+description: "Weingarten Abbey is a notable monastery located in Weingarten, Germany, renowned for its historical significance and architectural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

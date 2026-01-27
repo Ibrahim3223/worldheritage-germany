@@ -3,7 +3,7 @@ title: "Darmstädter Papiertheatersammlung"
 site_name: "Darmstädter Papiertheatersammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Darmstädter Papiertheatersammlung, located in the heart of Darmstadt, Germany, is a unique museum dedicated to the art of paper theaters."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

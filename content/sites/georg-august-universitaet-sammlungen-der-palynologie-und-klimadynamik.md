@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Sammlungen der Palynologie und Klimadynamik"
 site_name: "Georg-August-Universität: Sammlungen der Palynologie und Klimadynamik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "At the intersection of academic inquiry and public engagement lies the Georg-August-Universität: Sammlungen der Palynologie und Klimadynamik, a museum..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

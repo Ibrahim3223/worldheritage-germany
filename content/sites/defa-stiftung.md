@@ -3,7 +3,7 @@ title: "DEFA-Stiftung"
 site_name: "DEFA-Stiftung"
 date: 2026-01-26
 draft: false
-description: "German foundation for the preservation of DEFA film heritage, founded in 1998"
+description: "In the heart of Berlin lies a unique institution dedicated to preserving a pivotal aspect of German cinematic history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

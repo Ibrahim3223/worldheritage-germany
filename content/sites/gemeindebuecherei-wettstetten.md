@@ -3,7 +3,7 @@ title: "Gemeindebücherei Wettstetten"
 site_name: "Gemeindebücherei Wettstetten"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Wettstetten serves as a vital cultural hub in the heart of Wettstetten, Germany, inviting locals and visitors alike to immerse..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

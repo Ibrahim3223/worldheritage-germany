@@ -3,7 +3,7 @@ title: "Lausitz-Arena"
 site_name: "Lausitz-Arena"
 date: 2026-01-26
 draft: false
-description: "Sportmehrzweckhalle im Sportzentrum Cottbus, Brandenburg, Deutschland"
+description: "Lausitz-Arena, a prominent multi-purpose hall located in Cottbus, Germany, serves as a dynamic hub for sports and cultural events."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

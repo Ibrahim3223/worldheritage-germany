@@ -3,7 +3,7 @@ title: "Deutsches Museum"
 site_name: "Deutsches Museum"
 date: 2026-01-26
 draft: false
-description: "museum of science and technology in Munich, Germany"
+description: "Located in the heart of Munich, Germany, the Deutsches Museum is a premier destination for science and technology enthusiasts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Science Museum"

@@ -3,7 +3,7 @@ title: "Silcher-Museum"
 site_name: "Silcher-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Weinstadt-Schnait, Baden-Württemberg, Germany"
+description: "The Silcher-Museum, located in Weinstadt-Schnait, Baden-Württemberg, Germany, serves as an homage to the life and contributions of Friedrich Silcher, a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

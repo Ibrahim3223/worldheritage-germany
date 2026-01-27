@@ -3,7 +3,7 @@ title: "Simplicissimus-Haus"
 site_name: "Simplicissimus-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Simplicissimus-Haus in Renchen, Germany, is a unique museum dedicated to the legacy of the iconic German satirical magazine "Simplicissimus," which..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

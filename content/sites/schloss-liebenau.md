@@ -3,7 +3,7 @@ title: "Schloss Liebenau"
 site_name: "Schloss Liebenau"
 date: 2026-01-26
 draft: false
-description: "castle in Liebenau"
+description: "Schloss Liebenau, a castle located in the picturesque region of Liebenau, Germany, is a striking example of historical architecture that invites visitors to..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

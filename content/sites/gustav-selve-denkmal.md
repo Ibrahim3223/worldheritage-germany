@@ -3,7 +3,7 @@ title: "Gustav-Selve-Denkmal"
 site_name: "Gustav-Selve-Denkmal"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Gustav-Selve-Denkmal stands as a remarkable architectural structure located in Altena, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

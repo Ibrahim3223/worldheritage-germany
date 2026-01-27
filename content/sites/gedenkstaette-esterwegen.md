@@ -3,7 +3,7 @@ title: "Gedenkstätte Esterwegen"
 site_name: "Gedenkstätte Esterwegen"
 date: 2026-01-26
 draft: false
-description: "memorial for Nazi victims in Germany"
+description: "Gedenkstätte Esterwegen serves as a poignant memorial dedicated to the victims of the Nazi regime in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

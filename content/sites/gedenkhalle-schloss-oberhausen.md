@@ -3,7 +3,7 @@ title: "Gedenkhalle Schloss Oberhausen"
 site_name: "Gedenkhalle Schloss Oberhausen"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte in Oberhausen für die Opfer des Nationalsozialismus"
+description: "The Gedenkhalle Schloss Oberhausen serves as a poignant memorial dedicated to the victims of National Socialism, reflecting a commitment to remembrance and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

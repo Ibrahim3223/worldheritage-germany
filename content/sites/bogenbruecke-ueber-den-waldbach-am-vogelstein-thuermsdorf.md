@@ -3,7 +3,7 @@ title: "Bogenbrücke über den Waldbach am Vogelstein Thürmsdorf"
 site_name: "Bogenbrücke über den Waldbach am Vogelstein Thürmsdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über den Waldbach am Vogelstein Thürmsdorf is not just a bridge; it is a captivating landmark that represents both the architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

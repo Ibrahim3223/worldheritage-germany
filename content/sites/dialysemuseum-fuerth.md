@@ -3,7 +3,7 @@ title: "Dialysemuseum Fürth"
 site_name: "Dialysemuseum Fürth"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Fürth, Germany, lies a unique establishment dedicated to the art and science of dialysis: the Dialysemuseum Fürth."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

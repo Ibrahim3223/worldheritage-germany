@@ -3,7 +3,7 @@ title: "Martin-Luther-Church Zeuthen"
 site_name: "Martin-Luther-Church Zeuthen"
 date: 2026-01-26
 draft: false
-description: "church building in Zeuthen, Germany"
+description: "The Martin-Luther-Church in Zeuthen, Germany, serves as a notable landmark that reflects the region's spiritual and architectural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

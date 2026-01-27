@@ -3,7 +3,7 @@ title: "U.T.-Lichtspiele"
 site_name: "U.T.-Lichtspiele"
 date: 2026-01-26
 draft: false
-description: "former cinema and theatre in Lübeck, Germany"
+description: "U.T.-Lichtspiele, a former cinema and theatre located in Lübeck, Germany, offers visitors a glimpse into the rich cultural fabric of this historic city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

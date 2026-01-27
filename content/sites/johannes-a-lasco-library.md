@@ -3,7 +3,7 @@ title: "Johannes a Lasco Library"
 site_name: "Johannes a Lasco Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the heart of Emden, Germany, the Johannes a Lasco Library stands as a remarkable cultural institution dedicated to the preservation of knowledge and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

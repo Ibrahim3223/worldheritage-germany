@@ -3,7 +3,7 @@ title: "Borsteler Moor"
 site_name: "Borsteler Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Borsteler Moor, a designated nature reserve located in the Landkreis Diepholz region of Lower Saxony, Germany, presents a unique ecosystem that captivates..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

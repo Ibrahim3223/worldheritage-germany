@@ -3,7 +3,7 @@ title: "Haarmannsbrunnen"
 site_name: "Haarmannsbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain and statue in Osnabrück, Germany"
+description: "Haarmannsbrunnen, a striking statue and fountain located in the heart of Osnabrück, Germany, serves as a focal point for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Konradhaus Koblenz"
 site_name: "Konradhaus Koblenz"
 date: 2026-01-26
 draft: false
-description: "theater"
+description: "Konradhaus Koblenz, a distinguished theatre building located in the heart of Koblenz, Germany, serves as a vibrant cultural hub and a focal point for the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

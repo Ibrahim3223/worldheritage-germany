@@ -3,7 +3,7 @@ title: "Atelier"
 site_name: "Atelier"
 date: 2026-01-26
 draft: false
-description: "cinema in Lübeck"
+description: "Atelier, located in the charming city of Lübeck, Germany, is a notable movie theater that is more than just a venue for film screenings; it serves as a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

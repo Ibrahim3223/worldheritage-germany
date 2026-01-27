@@ -3,7 +3,7 @@ title: "St. Mary's Cathedral"
 site_name: "St. Mary's Cathedral"
 date: 2026-01-26
 draft: false
-description: "former cathedral in Hamburg, Germany"
+description: "St. Mary's Cathedral in Hamburg, Germany, is a significant landmark that reflects both the city’s religious heritage and its historical resilience."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

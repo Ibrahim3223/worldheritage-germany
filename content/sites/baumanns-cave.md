@@ -3,7 +3,7 @@ title: "Baumann's Cave"
 site_name: "Baumann's Cave"
 date: 2026-01-26
 draft: false
-description: "cave in Rübeland, Oberharz am Brocken, Saxony-Anhalt, Germany"
+description: "Baumann's Cave, located in the picturesque region of Oberharz am Brocken in Germany, is a significant theatre building that merges natural beauty with..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

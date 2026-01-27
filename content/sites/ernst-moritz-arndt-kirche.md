@@ -3,7 +3,7 @@ title: "Ernst-Moritz-Arndt-Kirche"
 site_name: "Ernst-Moritz-Arndt-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Ernst-Moritz-Arndt-Kirche, located in the Steglitz-Zehlendorf district of Berlin, is a notable church building that embodies the cultural and spiritual..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

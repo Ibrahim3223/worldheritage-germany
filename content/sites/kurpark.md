@@ -3,7 +3,7 @@ title: "Kurpark"
 site_name: "Kurpark"
 date: 2026-01-26
 draft: false
-description: "park in Wiesbaden, Germany"
+description: "Kurpark, located in Wiesbaden, Germany, is a serene park that invites visitors to immerse themselves in its lush landscapes and tranquil atmosphere."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Park"

@@ -3,7 +3,7 @@ title: "Bubenheimer Flesche"
 site_name: "Bubenheimer Flesche"
 date: 2026-01-26
 draft: false
-description: "Teil der preußischen Festung Koblenz"
+description: "The Bubenheimer Flesche is an impressive fortification located in the heart of Rhineland-Palatinate, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"

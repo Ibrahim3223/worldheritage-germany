@@ -3,7 +3,7 @@ title: "St. Florian"
 site_name: "St. Florian"
 date: 2026-01-26
 draft: false
-description: "church building in Wittmund, Germany"
+description: "St. Florian Church, located in the quaint town of Wittmund, Germany, serves as an essential landmark that reflects the town's spiritual and cultural life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

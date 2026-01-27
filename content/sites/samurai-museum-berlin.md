@@ -3,7 +3,7 @@ title: "Samurai Museum Berlin"
 site_name: "Samurai Museum Berlin"
 date: 2026-01-26
 draft: false
-description: "samurai museum in Berlin, Germany"
+description: "The Samurai Museum Berlin invites visitors into the storied world of the samurai, illuminating a significant aspect of Japanese culture within Germany's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

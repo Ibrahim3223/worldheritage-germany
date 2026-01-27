@@ -3,7 +3,7 @@ title: "Christ King"
 site_name: "Christ King"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Oberkassel, Germany"
+description: "Christ King, a distinguished church building located in the Oberkassel district of Düsseldorf, Germany, serves as a focal point of spiritual and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

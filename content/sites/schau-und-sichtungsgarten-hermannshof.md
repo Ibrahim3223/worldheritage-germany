@@ -3,7 +3,7 @@ title: "Schau- und Sichtungsgarten Hermannshof"
 site_name: "Schau- und Sichtungsgarten Hermannshof"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "The Schau- und Sichtungsgarten Hermannshof, located in Weinheim, Germany, offers an intriguing exploration of plant diversity and horticultural excellence..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

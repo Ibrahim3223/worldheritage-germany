@@ -3,7 +3,7 @@ title: "Kunsthalle Kiel"
 site_name: "Kunsthalle Kiel"
 date: 2026-01-26
 draft: false
-description: "art museum in Kiel"
+description: "Kunsthalle Kiel is a notable art museum located in the vibrant city of Kiel, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"

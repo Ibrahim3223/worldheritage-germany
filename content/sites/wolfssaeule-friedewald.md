@@ -3,7 +3,7 @@ title: "Wolfssäule Friedewald"
 site_name: "Wolfssäule Friedewald"
 date: 2026-01-26
 draft: false
-description: "monument in Weinböhla, Germany"
+description: "Wolfssäule Friedewald is a distinguished monument located in the charming region of Weinböhla, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

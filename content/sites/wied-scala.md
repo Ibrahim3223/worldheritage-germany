@@ -3,7 +3,7 @@ title: "Wied-Scala"
 site_name: "Wied-Scala"
 date: 2026-01-26
 draft: false
-description: "cinema in Neitersen, Germany"
+description: "Wied-Scala, a charming movie theater located in Neitersen, Germany, is an inviting destination for film enthusiasts and casual visitors alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Movie Theater"

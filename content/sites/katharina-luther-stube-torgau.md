@@ -3,7 +3,7 @@ title: "Katharina-Luther-Stube Torgau"
 site_name: "Katharina-Luther-Stube Torgau"
 date: 2026-01-26
 draft: false
-description: "museum, place of death of Katharina von Bora in Torgau (Saxony)"
+description: "Katharina-Luther-Stube Torgau is a significant museum located in Torgau, Germany, dedicated to the life and legacy of Katharina von Bora, the wife of Martin..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

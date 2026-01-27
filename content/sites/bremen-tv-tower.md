@@ -3,7 +3,7 @@ title: "Bremen TV tower"
 site_name: "Bremen TV tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Bremen TV Tower, located in the Walle district of Bremen, Germany, is a prominent feature of the city's skyline and a significant landmark in the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"

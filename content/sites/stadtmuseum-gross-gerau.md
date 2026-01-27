@@ -3,7 +3,7 @@ title: "Stadtmuseum Gross-Gerau"
 site_name: "Stadtmuseum Gross-Gerau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Gross-Gerau is a cultural institution located in the heart of Groß-Gerau, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

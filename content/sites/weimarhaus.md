@@ -3,7 +3,7 @@ title: "Weimarhaus"
 site_name: "Weimarhaus"
 date: 2026-01-26
 draft: false
-description: "history museum in Weimar, Germany"
+description: "Weimarhaus serves as a prominent history museum located in the heart of Weimar, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

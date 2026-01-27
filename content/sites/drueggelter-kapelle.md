@@ -3,7 +3,7 @@ title: "Drüggelter Kapelle"
 site_name: "Drüggelter Kapelle"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Möhnesee, Kreis Soest, Nordrhein-Westfalen"
+description: "Drüggelter Kapelle is a notable chapel located in the picturesque Möhnesee region of Nordrhein-Westfalen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

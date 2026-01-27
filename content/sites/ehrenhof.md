@@ -3,7 +3,7 @@ title: "Ehrenhof"
 site_name: "Ehrenhof"
 date: 2026-01-26
 draft: false
-description: "building and garden ensemble in Düsseldorf"
+description: "Ehrenhof, a distinguished architectural ensemble located in Düsseldorf, Germany, captures the imagination with its harmonious blend of building and garden..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

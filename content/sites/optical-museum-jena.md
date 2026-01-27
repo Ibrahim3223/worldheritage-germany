@@ -3,7 +3,7 @@ title: "Optical Museum Jena"
 site_name: "Optical Museum Jena"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Optical Museum Jena is a captivating destination that invites visitors to explore the fascinating world of optics and its profound impact on science and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

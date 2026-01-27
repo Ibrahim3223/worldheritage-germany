@@ -3,7 +3,7 @@ title: "Gustav-Schwab-Museum"
 site_name: "Gustav-Schwab-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Gustav-Schwab-Museum in Gomaringen, Germany, serves as a cultural touchstone, celebrating the life and work of the renowned poet and author Gustav Schwab."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

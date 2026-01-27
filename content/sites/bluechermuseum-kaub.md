@@ -3,7 +3,7 @@ title: "Blüchermuseum Kaub"
 site_name: "Blüchermuseum Kaub"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Kaub, Germany, the Blüchermuseum stands as a tribute to the legacy of a significant figure in Prussian military history."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

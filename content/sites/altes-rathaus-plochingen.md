@@ -3,7 +3,7 @@ title: "Altes Rathaus Plochingen"
 site_name: "Altes Rathaus Plochingen"
 date: 2026-01-26
 draft: false
-description: "Altes Rathaus in Plochingen"
+description: "Altes Rathaus Plochingen, a charming city hall located in the heart of Plochingen, Germany, encapsulates the essence of local governance while reflecting..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

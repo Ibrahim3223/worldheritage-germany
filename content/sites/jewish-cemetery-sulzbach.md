@@ -3,7 +3,7 @@ title: "Jewish cemetery, Sulzbach"
 site_name: "Jewish cemetery, Sulzbach"
 date: 2026-01-26
 draft: false
-description: "cemetery in Sulzbach-Rosenberg, Upper Palatinate, Germany"
+description: "The Jewish cemetery in Sulzbach, located in the quaint town of Sulzbach-Rosenberg in Germany’s Upper Palatinate region, is an evocative site steeped in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

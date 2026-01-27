@@ -3,7 +3,7 @@ title: "Dornheimer Weg bridge"
 site_name: "Dornheimer Weg bridge"
 date: 2026-01-26
 draft: false
-description: "bridge in Darmstadt, Germany"
+description: "The Dornheimer Weg bridge, located in the city of Darmstadt, Germany, serves as both a vital transportation link and an architectural landmark."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"

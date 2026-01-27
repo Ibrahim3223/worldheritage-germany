@@ -3,7 +3,7 @@ title: "Villengarten Heißstraße 7 in Bad Tölz"
 site_name: "Villengarten Heißstraße 7 in Bad Tölz"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-73-112-71 (1) in Bad Tölz, Bavaria"
+description: "In the heart of Bad Tölz, Bavaria, the Villengarten Heißstraße 7 stands as an emblem of cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

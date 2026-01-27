@@ -3,7 +3,7 @@ title: "Fußgängerbrücke über die Zschopau Erdmannsdorf (Augustusburg)"
 site_name: "Fußgängerbrücke über die Zschopau Erdmannsdorf (Augustusburg)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Fußgängerbrücke über die Zschopau in Erdmannsdorf, located in the picturesque region of Augustusburg, Germany, is more than just a means to cross a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

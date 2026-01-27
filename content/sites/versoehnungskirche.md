@@ -3,7 +3,7 @@ title: "Versöhnungskirche"
 site_name: "Versöhnungskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Detmold, Germany"
+description: "Versöhnungskirche, a remarkable church building located in Detmold, Germany, serves not only as a place of worship but also as a symbol of the community's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

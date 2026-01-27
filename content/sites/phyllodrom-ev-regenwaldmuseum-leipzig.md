@@ -3,7 +3,7 @@ title: "Phyllodrom e.V. - Regenwaldmuseum Leipzig"
 site_name: "Phyllodrom e.V. - Regenwaldmuseum Leipzig"
 date: 2026-01-26
 draft: false
-description: "voluntary association"
+description: "In the heart of Wiederitzsch, Germany, Phyllodrom e.V. - Regenwaldmuseum Leipzig invites visitors to explore the fascinating world of tropical rainforests."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

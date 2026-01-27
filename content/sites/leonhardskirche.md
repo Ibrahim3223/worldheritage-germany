@@ -3,7 +3,7 @@ title: "Leonhardskirche"
 site_name: "Leonhardskirche"
 date: 2026-01-26
 draft: false
-description: "church in Stuttgart"
+description: "Leonhardskirche, located in the heart of Stuttgart, Germany, is a distinguished church building that reflects the rich cultural and architectural heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

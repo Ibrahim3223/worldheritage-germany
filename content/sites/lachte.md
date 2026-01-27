@@ -3,7 +3,7 @@ title: "Lachte"
 site_name: "Lachte"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Lachte, a nature reserve located in the heart of Lower Saxony, Germany, is a sanctuary for those looking to immerse themselves in the serene beauty of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

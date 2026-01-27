@@ -3,7 +3,7 @@ title: "Cuvilliés Theatre"
 site_name: "Cuvilliés Theatre"
 date: 2026-01-26
 draft: false
-description: "opera house and theatre in Munich, Germany"
+description: "The Cuvilliés Theatre in Munich, Germany, is a celebrated opera house and theatre that embodies the elegance of 18th-century architecture and the vibrancy..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

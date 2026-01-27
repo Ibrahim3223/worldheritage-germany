@@ -3,7 +3,7 @@ title: "Siechenhaus vor Dassow"
 site_name: "Siechenhaus vor Dassow"
 date: 2026-01-26
 draft: false
-description: "church building in Dassow, Germany"
+description: "Located in the charming region of Dassow, Germany, the Siechenhaus vor Dassow is a notable church building that invites visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

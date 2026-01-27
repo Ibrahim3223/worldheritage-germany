@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-8127-0053 in Böhen"
 site_name: "Cultural heritage D-7-8127-0053 in Böhen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Cultural heritage D-7-8127-0053 in Böhen represents a significant fortification in Bavaria, Germany, embodying the region's storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

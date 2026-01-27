@@ -3,7 +3,7 @@ title: "Daetz-Centrum"
 site_name: "Daetz-Centrum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Daetz-Centrum, located in the quaint town of Lichtenstein, Germany, serves as an engaging museum that delves into the region's cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

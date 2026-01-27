@@ -3,7 +3,7 @@ title: "Alexander Church"
 site_name: "Alexander Church"
 date: 2026-01-26
 draft: false
-description: "German church"
+description: "Alexander Church, a notable church building located in Zweibrücken, Germany, offers a captivating glimpse into the region's spiritual and architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

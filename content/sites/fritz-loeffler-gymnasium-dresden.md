@@ -3,7 +3,7 @@ title: "Fritz Löffler Gymnasium Dresden"
 site_name: "Fritz Löffler Gymnasium Dresden"
 date: 2026-01-26
 draft: false
-description: "gymnasium (school) in Dresden, Germany"
+description: "Fritz Löffler Gymnasium in Dresden, Germany, is not just an educational institution; it is a significant landmark that encapsulates the architectural and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

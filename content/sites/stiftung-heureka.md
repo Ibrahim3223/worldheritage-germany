@@ -3,7 +3,7 @@ title: "Stiftung heureka"
 site_name: "Stiftung heureka"
 date: 2026-01-26
 draft: false
-description: "German non-profit foundation in Berlin"
+description: "Stiftung heureka, a prominent non-profit foundation located in the heart of Berlin's Charlottenburg-Wilmersdorf district, serves as a significant cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

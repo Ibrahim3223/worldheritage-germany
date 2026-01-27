@@ -3,7 +3,7 @@ title: "Burg Hermülheim"
 site_name: "Burg Hermülheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hermülheim, an intriguing castle located in the small town of Hürth, Germany, offers a glimpse into the architectural and cultural nuances of medieval..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

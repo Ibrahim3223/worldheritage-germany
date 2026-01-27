@@ -3,7 +3,7 @@ title: "Quedlinburg railway station"
 site_name: "Quedlinburg railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Quedlinburg, Germany"
+description: "Quedlinburg railway station serves as a vital hub for travelers in the historic town of Quedlinburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Burg Neuhaus (Neuhaus-Schierschnitz)"
 site_name: "Burg Neuhaus (Neuhaus-Schierschnitz)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuhaus, located in the Föritztal region of Germany, presents a fascinating glimpse into the architectural and cultural history of the area."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

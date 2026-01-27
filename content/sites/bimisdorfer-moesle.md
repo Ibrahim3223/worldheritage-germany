@@ -3,7 +3,7 @@ title: "Bimisdorfer Mösle"
 site_name: "Bimisdorfer Mösle"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Bimisdorfer Mösle, located in the picturesque region of Wangen im Allgäu in Baden-Württemberg, Germany, is a prominent nature reserve that exemplifies the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Dorotheenkirche (Nortrup)"
 site_name: "Dorotheenkirche (Nortrup)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the quaint town of Nortrup, Germany, the Dorotheenkirche stands as a notable church building, inviting visitors to explore its cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

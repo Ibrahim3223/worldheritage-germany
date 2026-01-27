@@ -3,7 +3,7 @@ title: "Munich-Aubing water tower"
 site_name: "Munich-Aubing water tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Munich-Aubing water tower stands as a striking example of early 20th-century engineering, serving not only as a functional piece of infrastructure but..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

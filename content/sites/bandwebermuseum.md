@@ -3,7 +3,7 @@ title: "Bandwebermuseum"
 site_name: "Bandwebermuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bandwebermuseum, located in Wuppertal, Germany, is an intriguing institution that invites visitors to explore its curated collections and exhibitions."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

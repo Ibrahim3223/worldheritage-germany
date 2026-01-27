@@ -3,7 +3,7 @@ title: "Wirichsbongardstor"
 site_name: "Wirichsbongardstor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "The Wirichsbongardstor, an iconic city gate in Aachen, Germany, is not merely a historical structure; it serves as a symbol of the city’s rich heritage and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

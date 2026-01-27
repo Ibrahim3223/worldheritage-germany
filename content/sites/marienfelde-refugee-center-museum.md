@@ -3,7 +3,7 @@ title: "Marienfelde Refugee Center Museum"
 site_name: "Marienfelde Refugee Center Museum"
 date: 2026-01-26
 draft: false
-description: "archive organization in Berlin, Germany"
+description: "The Marienfelde Refugee Center Museum, located in Berlin, Germany, serves as a poignant cultural institution that sheds light on the refugee experience in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"

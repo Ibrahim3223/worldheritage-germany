@@ -3,7 +3,7 @@ title: "Torhaus Waldkrankenhaus"
 site_name: "Torhaus Waldkrankenhaus"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-63-000-1527 (4) in Fürth, Bavaria"
+description: "The Torhaus Waldkrankenhaus, an intriguing gatehouse located in Fürth, Bavaria, is a remarkable cultural heritage monument that captures the architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

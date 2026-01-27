@@ -3,7 +3,7 @@ title: "Congress Park Hanau"
 site_name: "Congress Park Hanau"
 date: 2026-01-26
 draft: false
-description: "congress center and multi-purpose events hall in Hanau, Hesse, Germany"
+description: "Congress Park Hanau is a prominent multi-purpose hall situated in the vibrant city of Hanau, located in the Hesse region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

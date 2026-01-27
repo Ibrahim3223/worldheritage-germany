@@ -3,7 +3,7 @@ title: "Rundbogenbrücke über den Haselbach vor Hauptstraße 17"
 site_name: "Rundbogenbrücke über den Haselbach vor Hauptstraße 17"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rundbogenbrücke über den Haselbach vor Hauptstraße 17 is not just a bridge; it is a structural embodiment of the region's historical and cultural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Museum Ravensburger"
 site_name: "Museum Ravensburger"
 date: 2026-01-26
 draft: false
-description: "corporate museum of the Ravensburger publishing house in Ravensburg, Germany"
+description: "Museum Ravensburger, located in the heart of Ravensburg, Germany, offers a fascinating insight into the world of one of the most prominent publishing houses..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

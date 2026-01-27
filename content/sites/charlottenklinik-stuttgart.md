@@ -3,7 +3,7 @@ title: "Charlottenklinik Stuttgart"
 site_name: "Charlottenklinik Stuttgart"
 date: 2026-01-26
 draft: false
-description: "hospital in Germany"
+description: "Charlottenklinik Stuttgart stands as a vital institution in Germany's healthcare landscape, providing essential medical services to the local community and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Museum Georg Schäfer"
 site_name: "Museum Georg Schäfer"
 date: 2026-01-26
 draft: false
-description: "museum in Schweinfurt, Germany"
+description: "Museum Georg Schäfer, located in the heart of Schweinfurt, Germany, serves as a prominent destination for art enthusiasts and cultural travelers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

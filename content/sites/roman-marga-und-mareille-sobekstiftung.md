@@ -3,7 +3,7 @@ title: "Roman, Marga und Mareille Sobek–Stiftung"
 site_name: "Roman, Marga und Mareille Sobek–Stiftung"
 date: 2026-01-26
 draft: false
-description: "Förderung der Erforschung der Krankheit"
+description: "The Roman, Marga und Mareille Sobek–Stiftung is a prominent foundation located in Germany, dedicated to advancing research in the field of disease."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

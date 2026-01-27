@@ -3,7 +3,7 @@ title: "Karlsburg Castle"
 site_name: "Karlsburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Karlsburg Castle, located in the vibrant city of Karlsruhe, Germany, is a striking example of historical architecture that has witnessed the evolution of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

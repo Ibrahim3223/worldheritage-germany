@@ -3,7 +3,7 @@ title: "St. Andreas (Weißenburg in Bayern)"
 site_name: "St. Andreas (Weißenburg in Bayern)"
 date: 2026-01-26
 draft: false
-description: "church in Weißenburg in Bayern, Franconia, Germany"
+description: "St. Andreas in Weißenburg in Bayern is a remarkable church building that embodies the architectural and spiritual heritage of Franconia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

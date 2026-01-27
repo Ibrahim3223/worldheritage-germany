@@ -3,7 +3,7 @@ title: "Tierpark Rheinböllen"
 site_name: "Tierpark Rheinböllen"
 date: 2026-01-26
 draft: false
-description: "wildlife park in Germany"
+description: "Located in the scenic region of Rhineland-Palatinate, Tierpark Rheinböllen offers an inviting escape into the world of wildlife."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Zoo"

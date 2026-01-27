@@ -3,7 +3,7 @@ title: "Hitzacker Archaeological Centre"
 site_name: "Hitzacker Archaeological Centre"
 date: 2026-01-26
 draft: false
-description: "Archaeological open-air museum"
+description: "The Hitzacker Archaeological Centre, located in the charming town of Hitzacker, Germany, serves as a captivating window into the past, showcasing the rich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

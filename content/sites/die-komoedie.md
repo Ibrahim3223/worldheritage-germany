@@ -3,7 +3,7 @@ title: "Die Komödie"
 site_name: "Die Komödie"
 date: 2026-01-26
 draft: false
-description: "Boulevardtheater in der Innenstadt von Frankfurt am Main in Deutschland"
+description: "Die Komödie, a prominent theatre building located in the heart of Frankfurt am Main, Germany, is a vibrant cultural hub that plays a significant role in the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

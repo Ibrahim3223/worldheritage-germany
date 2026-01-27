@@ -3,7 +3,7 @@ title: "Bonn-Bad Godesberg station"
 site_name: "Bonn-Bad Godesberg station"
 date: 2026-01-26
 draft: false
-description: "railway station in Bonn, Germany"
+description: "Bonn-Bad Godesberg station serves as a vital transportation hub in the region of Bad Godesberg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Deutsches Bimsmuseum"
 site_name: "Deutsches Bimsmuseum"
 date: 2026-01-26
 draft: false
-description: "Museum in Kaltenengers bei Koblenz zur Geschichte des Bimsabbaus"
+description: "The Deutsches Bimsmuseum, located in Kaltenengers near Koblenz, offers visitors a unique insight into the history and significance of pumice mining in the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Mendelssohnruhe"
 site_name: "Mendelssohnruhe"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte zum Komponisten Felix Mendelssohn Bartholdy in Frankfurt am Main"
+description: "Mendelssohnruhe is a memorial dedicated to the esteemed composer Felix Mendelssohn Bartholdy, located in the vibrant city of Frankfurt am Main, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

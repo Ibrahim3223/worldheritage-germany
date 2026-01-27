@@ -3,7 +3,7 @@ title: "Schloss Marienfels"
 site_name: "Schloss Marienfels"
 date: 2026-01-26
 draft: false
-description: "palace in Remagen, Germany"
+description: "Schloss Marienfels, a remarkable palace located in the picturesque town of Remagen, Germany, offers visitors a blend of historical elegance and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"

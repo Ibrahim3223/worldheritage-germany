@@ -3,7 +3,7 @@ title: "Landau (Pfalz) Hauptbahnhof"
 site_name: "Landau (Pfalz) Hauptbahnhof"
 date: 2026-01-26
 draft: false
-description: "railway station in Landau in der Pfalz, Germany"
+description: "Landau (Pfalz) Hauptbahnhof serves as a significant hub within Germany’s extensive railway network, catering to both local and regional travelers."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

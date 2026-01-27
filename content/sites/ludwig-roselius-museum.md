@@ -3,7 +3,7 @@ title: "Ludwig Roselius Museum"
 site_name: "Ludwig Roselius Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Bremen"
+description: "The Ludwig Roselius Museum, located in the heart of Bremen, Germany, serves as a fascinating portal into the life and legacy of its namesake, Ludwig Roselius."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

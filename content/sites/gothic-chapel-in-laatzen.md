@@ -3,7 +3,7 @@ title: "Gothic chapel in Laatzen"
 site_name: "Gothic chapel in Laatzen"
 date: 2026-01-26
 draft: false
-description: "chapel in Laatzen, Region Hannover, Germany"
+description: "The Gothic chapel in Laatzen, located in the scenic Region Hannover of Germany, presents a captivating blend of architectural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

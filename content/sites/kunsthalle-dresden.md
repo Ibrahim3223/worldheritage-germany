@@ -3,7 +3,7 @@ title: "Kunsthalle Dresden"
 site_name: "Kunsthalle Dresden"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Kunsthalle Dresden, located in the heart of Dresden, Germany, is a prominent museum dedicated to the preservation and exhibition of contemporary art."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

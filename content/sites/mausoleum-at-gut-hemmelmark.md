@@ -3,7 +3,7 @@ title: "Mausoleum at Gut Hemmelmark"
 site_name: "Mausoleum at Gut Hemmelmark"
 date: 2026-01-26
 draft: false
-description: "Gut Hemmelmark: Mausoleum of Prince Heinrich of Prussia (1862–1929)"
+description: "The Mausoleum at Gut Hemmelmark, located in the picturesque region of Barkelsby, Germany, is a significant cultural landmark that pays homage to Prince..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Mausoleum"

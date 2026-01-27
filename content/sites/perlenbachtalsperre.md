@@ -3,7 +3,7 @@ title: "Perlenbachtalsperre"
 site_name: "Perlenbachtalsperre"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Perlenbachtalsperre, an impressive dam located in Monschau, Germany, serves not only a functional purpose but also adds to the scenic beauty of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

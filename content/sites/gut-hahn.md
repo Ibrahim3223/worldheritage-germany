@@ -3,7 +3,7 @@ title: "Gut Hahn"
 site_name: "Gut Hahn"
 date: 2026-01-26
 draft: false
-description: "manor house in Oldenburg, Lower Saxony"
+description: "Gut Hahn is a distinguished manor house located in the picturesque region of Oldenburg, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

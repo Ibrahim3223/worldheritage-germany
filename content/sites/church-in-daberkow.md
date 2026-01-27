@@ -3,7 +3,7 @@ title: "Church in Daberkow"
 site_name: "Church in Daberkow"
 date: 2026-01-26
 draft: false
-description: "church building in Daberkow, Germany"
+description: "The Church in Daberkow is more than just a place of worship; it is a significant landmark within the quaint village of Daberkow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

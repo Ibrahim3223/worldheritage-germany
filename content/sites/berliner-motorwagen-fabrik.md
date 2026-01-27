@@ -3,7 +3,7 @@ title: "Berliner Motorwagen-Fabrik"
 site_name: "Berliner Motorwagen-Fabrik"
 date: 2026-01-26
 draft: false
-description: "former automobile manufacturer"
+description: "The Berliner Motorwagen-Fabrik, located in Germany, represents a pivotal chapter in the evolution of the automobile industry."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"

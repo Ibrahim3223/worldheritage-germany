@@ -3,7 +3,7 @@ title: "Bammelsburg"
 site_name: "Bammelsburg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Bammelsburg, a striking tower located in the Brunswick region of Germany, invites visitors to explore its architectural significance and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

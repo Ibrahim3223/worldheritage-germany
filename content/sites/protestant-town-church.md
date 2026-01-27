@@ -3,7 +3,7 @@ title: "Protestant Town Church"
 site_name: "Protestant Town Church"
 date: 2026-01-26
 draft: false
-description: "church in Karlsruhe, Germany"
+description: "The Protestant Town Church, located in the heart of Karlsruhe, Germany, stands as a significant landmark both architecturally and culturally."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

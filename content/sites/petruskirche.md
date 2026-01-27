@@ -3,7 +3,7 @@ title: "Petruskirche"
 site_name: "Petruskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "Petruskirche, a prominent church building situated in Halle (Saale), Germany, serves as an important religious and cultural landmark in the region of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

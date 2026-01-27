@@ -3,7 +3,7 @@ title: "Gut Obernfelde"
 site_name: "Gut Obernfelde"
 date: 2026-01-26
 draft: false
-description: "building in Lübbecke, Germany"
+description: "Situated in the historical region of Lübbecke, Germany, Gut Obernfelde is a notable manor house that reflects the architectural and cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

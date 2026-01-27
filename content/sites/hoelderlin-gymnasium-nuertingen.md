@@ -3,7 +3,7 @@ title: "Hölderlin-Gymnasium Nürtingen"
 site_name: "Hölderlin-Gymnasium Nürtingen"
 date: 2026-01-26
 draft: false
-description: "German school"
+description: "Hölderlin-Gymnasium Nürtingen is a prominent educational institution located in the heart of Nürtingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Dusenddüwelswarf"
 site_name: "Dusenddüwelswarf"
 date: 2026-01-26
 draft: false
-description: "artificial dwelling hill"
+description: "Situated in the serene landscape of Eggstedt, Germany, Dusenddüwelswarf is an intriguing artificial dwelling hill that offers a unique glimpse into the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monument"

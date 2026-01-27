@@ -3,7 +3,7 @@ title: "Burg Herrnstein"
 site_name: "Burg Herrnstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Herrnstein, an evocative castle located in the serene landscape of Ruppichteroth, Germany, invites visitors to explore its storied past and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

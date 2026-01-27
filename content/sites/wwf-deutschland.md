@@ -3,7 +3,7 @@ title: "WWF Deutschland"
 site_name: "WWF Deutschland"
 date: 2026-01-26
 draft: false
-description: "local WWF office"
+description: "WWF Deutschland is a prominent foundation located in the heart of Germany, dedicated to the conservation of the natural environment and the promotion of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

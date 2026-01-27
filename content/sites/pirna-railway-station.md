@@ -3,7 +3,7 @@ title: "Pirna railway station"
 site_name: "Pirna railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Pirna, Germany"
+description: "Pirna railway station serves as a vital transportation hub in the picturesque town of Pirna, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

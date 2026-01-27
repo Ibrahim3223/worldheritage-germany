@@ -3,7 +3,7 @@ title: "Goethe House"
 site_name: "Goethe House"
 date: 2026-01-26
 draft: false
-description: "Goethe family residence in Frankfurt am Main"
+description: "Goethe House, the birthplace of the eminent German writer Johann Wolfgang von Goethe, is a cultural institution located in the heart of Frankfurt am Main."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cultural Institution"

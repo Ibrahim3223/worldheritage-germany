@@ -3,7 +3,7 @@ title: "Church in Klink"
 site_name: "Church in Klink"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Klink is a notable religious structure located in the quaint region of Klink, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

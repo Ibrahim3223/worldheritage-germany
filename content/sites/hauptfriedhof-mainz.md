@@ -3,7 +3,7 @@ title: "Hauptfriedhof Mainz"
 site_name: "Hauptfriedhof Mainz"
 date: 2026-01-26
 draft: false
-description: "cemetery in Mainz, Germany"
+description: "Hauptfriedhof Mainz, located in the vibrant city of Mainz, Germany, serves as both a resting place for the departed and a tranquil oasis amidst urban life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

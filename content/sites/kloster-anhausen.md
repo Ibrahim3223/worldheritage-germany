@@ -3,7 +3,7 @@ title: "Kloster Anhausen"
 site_name: "Kloster Anhausen"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kloster Anhausen, a serene monastery located in the heart of Satteldorf, Germany, invites visitors to explore its tranquil grounds and reflect on its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

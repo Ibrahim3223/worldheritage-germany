@@ -3,7 +3,7 @@ title: "Historisches Museum Bremerhaven"
 site_name: "Historisches Museum Bremerhaven"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Historisches Museum Bremerhaven serves as a compelling gateway to the maritime heritage of Bremerhaven, a city that has played a pivotal role in the..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

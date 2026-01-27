@@ -3,7 +3,7 @@ title: "Bauschhof (Berzbuir)"
 site_name: "Bauschhof (Berzbuir)"
 date: 2026-01-26
 draft: false
-description: "Fachwerkkonstruktion mit Schwertungen"
+description: "Bauschhof, located in the Düren region of Germany, offers visitors a glimpse into an important architectural ensemble characterized by its distinct Fachwerk..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

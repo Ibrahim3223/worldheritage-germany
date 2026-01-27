@@ -3,7 +3,7 @@ title: "Bunner Masuren"
 site_name: "Bunner Masuren"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bunner Masuren, located in the serene region of Löningen, Germany, is a distinguished nature reserve that reflects the delicate balance between ecological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

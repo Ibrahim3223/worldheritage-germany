@@ -3,7 +3,7 @@ title: "Neuendorf Flèche"
 site_name: "Neuendorf Flèche"
 date: 2026-01-26
 draft: false
-description: "was built in 1825 as the part of Emperor Franz Fortifications"
+description: "Neuendorf Flèche, a remarkable fortification located in the Rhineland-Palatinate region of Germany, offers visitors a glimpse into the military architecture..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"

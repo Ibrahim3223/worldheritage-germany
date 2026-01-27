@@ -3,7 +3,7 @@ title: "Taranto goddess"
 site_name: "Taranto goddess"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin"
+description: "In the heart of Berlin, the Taranto goddess statue stands as a striking representation of artistic expression and cultural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

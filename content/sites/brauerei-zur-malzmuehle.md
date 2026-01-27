@@ -3,7 +3,7 @@ title: "Brauerei zur Malzmühle"
 site_name: "Brauerei zur Malzmühle"
 date: 2026-01-26
 draft: false
-description: "kölsch brewery in Cologne, Germany"
+description: "In the heart of Cologne's Altstadt-Süd district lies Brauerei zur Malzmühle, a celebrated kölsch brewery that embodies the vibrant brewing culture of this..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"

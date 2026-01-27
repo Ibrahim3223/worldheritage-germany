@@ -3,7 +3,7 @@ title: "Bartholomäuskirche Syke-Barrien"
 site_name: "Bartholomäuskirche Syke-Barrien"
 date: 2026-01-26
 draft: false
-description: "church building in Barrien, Germany"
+description: "Bartholomäuskirche Syke-Barrien is an inviting church building located in the charming village of Barrien, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

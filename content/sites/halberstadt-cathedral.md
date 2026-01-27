@@ -3,7 +3,7 @@ title: "Halberstadt Cathedral"
 site_name: "Halberstadt Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Halberstadt, Germany"
+description: "Halberstadt Cathedral, located in the historical town of Halberstadt, Germany, presents a striking architectural presence that has captured the interest of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

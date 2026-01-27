@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Wildbiologie"
 site_name: "Georg-August-Universität: Wildbiologie"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Georg-August-Universität: Wildbiologie, located in the vibrant city of Göttingen, Germany, serves as a captivating museum dedicated to the field of wildlife..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

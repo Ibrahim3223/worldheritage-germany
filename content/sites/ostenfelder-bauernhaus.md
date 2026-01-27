@@ -3,7 +3,7 @@ title: "Ostenfelder Bauernhaus"
 site_name: "Ostenfelder Bauernhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming region of Husum, Germany, the Ostenfelder Bauernhaus offers visitors an intriguing glimpse into the agricultural heritage of the area."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

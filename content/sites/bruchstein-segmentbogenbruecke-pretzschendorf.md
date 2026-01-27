@@ -3,7 +3,7 @@ title: "Bruchstein-Segmentbogenbrücke Pretzschendorf"
 site_name: "Bruchstein-Segmentbogenbrücke Pretzschendorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bruchstein-Segmentbogenbrücke Pretzschendorf is a remarkable bridge located in the Klingenberg region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

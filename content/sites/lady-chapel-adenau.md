@@ -3,7 +3,7 @@ title: "Lady Chapel Adenau"
 site_name: "Lady Chapel Adenau"
 date: 2026-01-26
 draft: false
-description: "Chapel in Adenau"
+description: "The Lady Chapel in Adenau, Germany, invites visitors into a serene space of worship and reflection, serving as a vital part of the town's religious and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

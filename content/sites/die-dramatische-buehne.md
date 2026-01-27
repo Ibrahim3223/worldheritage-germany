@@ -3,7 +3,7 @@ title: "Die Dramatische Bühne"
 site_name: "Die Dramatische Bühne"
 date: 2026-01-26
 draft: false
-description: "freies Theater in Frankfurt am Main"
+description: "Die Dramatische Bühne, located in the heart of Frankfurt am Main, is a vibrant theatre building that serves as a hub for free theatre productions."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

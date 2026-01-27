@@ -3,7 +3,7 @@ title: "Admiralspalast"
 site_name: "Admiralspalast"
 date: 2026-01-26
 draft: false
-description: "theatre and event venue in Berlin, Germany"
+description: "Admiralspalast is a prominent theatre and event venue located in the heart of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

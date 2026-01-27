@@ -3,7 +3,7 @@ title: "Borkener Paradies"
 site_name: "Borkener Paradies"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Borkener Paradies, a designated nature reserve in Lower Saxony, Germany, presents an inviting landscape for nature enthusiasts and eco-tourists alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

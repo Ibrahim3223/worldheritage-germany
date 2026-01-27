@@ -3,7 +3,7 @@ title: "Zoo Osnabrück"
 site_name: "Zoo Osnabrück"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Zoo Osnabrück is an engaging destination for animal lovers and families alike, located in the vibrant city of Osnabrück, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

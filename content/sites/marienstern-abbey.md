@@ -3,7 +3,7 @@ title: "Marienstern Abbey"
 site_name: "Marienstern Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Brandenburg"
+description: "Marienstern Abbey, a captivating monastery located in the Brandenburg region of Germany, invites visitors to immerse themselves in its tranquil atmosphere..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monastery"

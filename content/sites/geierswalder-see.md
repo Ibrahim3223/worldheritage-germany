@@ -3,7 +3,7 @@ title: "Geierswalder See"
 site_name: "Geierswalder See"
 date: 2026-01-26
 draft: false
-description: "lake in Senftenberg, Brandenburg, Germany"
+description: "Geierswalder See is a captivating lake located in the Senftenberg region of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

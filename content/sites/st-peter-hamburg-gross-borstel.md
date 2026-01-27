@@ -3,7 +3,7 @@ title: "St. Peter (Hamburg-Groß Borstel)"
 site_name: "St. Peter (Hamburg-Groß Borstel)"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "St. Peter in Hamburg-Groß Borstel presents an intriguing opportunity for visitors seeking to explore the spiritual and architectural heritage of Northern..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

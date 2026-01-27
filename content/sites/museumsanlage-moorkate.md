@@ -3,7 +3,7 @@ title: "Museumsanlage Moorkate"
 site_name: "Museumsanlage Moorkate"
 date: 2026-01-26
 draft: false
-description: "museum in Landkreis Osterholz, Germany"
+description: "Museumsanlage Moorkate serves as a vital cultural institution in Hambergen, within the Landkreis Osterholz region of Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

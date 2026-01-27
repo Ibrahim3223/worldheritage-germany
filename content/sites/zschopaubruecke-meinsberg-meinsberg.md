@@ -3,7 +3,7 @@ title: "Zschopaubrücke Meinsberg Meinsberg"
 site_name: "Zschopaubrücke Meinsberg Meinsberg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zschopaubrücke, located in Meinsberg, Germany, is not just a bridge; it is a significant architectural feature that reflects the ingenuity of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

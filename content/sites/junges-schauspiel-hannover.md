@@ -3,7 +3,7 @@ title: "Junges Schauspiel Hannover"
 site_name: "Junges Schauspiel Hannover"
 date: 2026-01-26
 draft: false
-description: "theatre building in Hannover, Germany"
+description: "In the heart of Hannover lies Junges Schauspiel Hannover, a theatre building that serves as a vibrant cultural hub within the city’s Mitte district."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

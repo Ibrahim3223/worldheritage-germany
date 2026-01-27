@@ -3,7 +3,7 @@ title: "Rathaus Machern"
 site_name: "Rathaus Machern"
 date: 2026-01-26
 draft: false
-description: "townhall located in Machern"
+description: "Rathaus Machern, the town hall of Machern, Germany, serves as a central hub of civic life and governance in this vibrant community."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

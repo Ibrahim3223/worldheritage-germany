@@ -3,7 +3,7 @@ title: "Heimatmuseum Stadt und Landkreis Neudek (Augsburg, Německo)"
 site_name: "Heimatmuseum Stadt und Landkreis Neudek (Augsburg, Německo)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Stadt und Landkreis Neudek in Augsburg, Germany, serves as a captivating portal into the region's diverse cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

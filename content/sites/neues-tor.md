@@ -3,7 +3,7 @@ title: "Neues Tor"
 site_name: "Neues Tor"
 date: 2026-01-26
 draft: false
-description: "Stadttor der Berliner Akzisemauer"
+description: "Amidst the bustling heart of Berlin's Bezirk Mitte lies the Neues Tor, a historic city gate that serves as a reminder of the city's storied past."
 region: "Berlin"
 country: "Germany"
 heritage_type: "City Gate"

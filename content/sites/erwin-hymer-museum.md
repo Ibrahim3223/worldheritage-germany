@@ -3,7 +3,7 @@ title: "Erwin Hymer Museum"
 site_name: "Erwin Hymer Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Erwin Hymer Museum, located in Bad Waldsee, Germany, is a unique destination dedicated to the history and evolution of mobile living."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

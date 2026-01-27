@@ -3,7 +3,7 @@ title: "Saint Peter Church (Schweinersdorf)"
 site_name: "Saint Peter Church (Schweinersdorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Upper Bavaria, Germany"
+description: "Saint Peter Church in Schweinersdorf, located in the picturesque region of Upper Bavaria, Germany, is a significant religious structure that embodies the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

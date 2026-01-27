@@ -3,7 +3,7 @@ title: "Worms Synagogue"
 site_name: "Worms Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "Worms Synagogue, located in the historic city of Worms, Germany, is one of the oldest synagogues in Europe, reflecting centuries of Jewish heritage and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

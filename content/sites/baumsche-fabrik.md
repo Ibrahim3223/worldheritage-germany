@@ -3,7 +3,7 @@ title: "Baumsche Fabrik"
 site_name: "Baumsche Fabrik"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Baumsche Fabrik, located in Wuppertal, Germany, is an architectural ensemble that represents a significant chapter in the region's industrial history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

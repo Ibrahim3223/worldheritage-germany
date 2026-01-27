@@ -3,7 +3,7 @@ title: "Museum Schloß Lichtenberg im Odenwald"
 site_name: "Museum Schloß Lichtenberg im Odenwald"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Schloß Lichtenberg im Odenwald is a captivating destination for those interested in exploring the cultural heritage of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Marienkapelle (Wennedach)"
 site_name: "Marienkapelle (Wennedach)"
 date: 2026-01-26
 draft: false
-description: "building in Ochsenhausen, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Marienkapelle, located in the picturesque region of Ochsenhausen, Germany, serves as a captivating site for those interested in religious architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

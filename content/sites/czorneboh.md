@@ -3,7 +3,7 @@ title: "Czorneboh"
 site_name: "Czorneboh"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Czorneboh is a striking mountain located in the Bautzen District of Germany, offering a unique blend of natural beauty and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

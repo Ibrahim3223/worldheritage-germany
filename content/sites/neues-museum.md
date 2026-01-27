@@ -3,7 +3,7 @@ title: "Neues Museum"
 site_name: "Neues Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "As one of Berlin's most renowned cultural institutions, the Neues Museum offers visitors a captivating glimpse into the artistic and historical treasures of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

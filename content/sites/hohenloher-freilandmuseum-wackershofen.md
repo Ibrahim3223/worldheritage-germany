@@ -3,7 +3,7 @@ title: "Hohenloher Freilandmuseum Wackershofen"
 site_name: "Hohenloher Freilandmuseum Wackershofen"
 date: 2026-01-26
 draft: false
-description: "open air museum"
+description: "The Hohenloher Freilandmuseum Wackershofen is a captivating open-air museum located in the Schwäbisch Hall region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

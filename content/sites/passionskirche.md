@@ -3,7 +3,7 @@ title: "Passionskirche"
 site_name: "Passionskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Passionskirche, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany, is a striking church building that captivates visitors with..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

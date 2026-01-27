@@ -3,7 +3,7 @@ title: "Dorfmuseum Markersdorf"
 site_name: "Dorfmuseum Markersdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Markersdorf is a captivating destination located in the town of Markersdorf, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

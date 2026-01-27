@@ -3,7 +3,7 @@ title: "Schwarzenbach Dam"
 site_name: "Schwarzenbach Dam"
 date: 2026-01-26
 draft: false
-description: "dam"
+description: "The Schwarzenbach Dam, located in the serene Forbach region of Germany, is an engineering marvel that serves both functional and aesthetic purposes."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"

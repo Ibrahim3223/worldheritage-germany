@@ -3,7 +3,7 @@ title: "Gut Drült"
 site_name: "Gut Drült"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Gut Drült, an elegant manor house located in the picturesque region of Stoltebüll, Germany, invites visitors to explore its architectural beauty and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

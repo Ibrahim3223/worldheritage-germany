@@ -3,7 +3,7 @@ title: "Max Ernst Museum"
 site_name: "Max Ernst Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Max Ernst Museum, located in the charming town of Brühl, Germany, is a unique destination dedicated to the life and works of one of the most influential..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

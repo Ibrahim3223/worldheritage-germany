@@ -3,7 +3,7 @@ title: "Alexanderplatz"
 site_name: "Alexanderplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Located in the heart of Berlin, Alexanderplatz is a vibrant square that serves as a vital hub for both locals and tourists."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "The Green Zoo Wuppertal"
 site_name: "The Green Zoo Wuppertal"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "The Green Zoo Wuppertal is a unique destination that combines the charm of a traditional zoo with a commitment to conservation and education."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

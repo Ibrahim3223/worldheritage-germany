@@ -3,7 +3,7 @@ title: "Kunsthalle Vierseithof"
 site_name: "Kunsthalle Vierseithof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthalle Vierseithof, a prominent museum located in Germany, serves as a significant cultural institution that invites visitors to explore the depths of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

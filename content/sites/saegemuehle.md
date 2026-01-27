@@ -3,7 +3,7 @@ title: "Sägemühle"
 site_name: "Sägemühle"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-177-56 (0) in Steinwiesen, Bavaria"
+description: "In the heart of Bavaria lies a remarkable cultural heritage monument, the Sägemühle, a museum that encapsulates the region's historical significance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

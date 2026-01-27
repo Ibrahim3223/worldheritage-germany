@@ -3,7 +3,7 @@ title: "Münster Central Cemetery"
 site_name: "Münster Central Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Münster, Germany"
+description: "Münster Central Cemetery, located in the heart of Münster, Germany, serves as both a final resting place and a serene public space."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

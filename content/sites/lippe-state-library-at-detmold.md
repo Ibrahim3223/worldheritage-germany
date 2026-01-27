@@ -3,7 +3,7 @@ title: "Lippe State Library at Detmold"
 site_name: "Lippe State Library at Detmold"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Lippe State Library at Detmold serves as an important cultural institution in Germany, located in the picturesque Detmold Government Region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

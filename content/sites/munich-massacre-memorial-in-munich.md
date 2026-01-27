@@ -3,7 +3,7 @@ title: "Munich massacre memorial in Munich"
 site_name: "Munich massacre memorial in Munich"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Munich massacre memorial in Munich stands as a poignant reminder of a tragic event that unfolded during the 1972 Summer Olympics."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

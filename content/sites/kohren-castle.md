@@ -3,7 +3,7 @@ title: "Kohren Castle"
 site_name: "Kohren Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Frohburg, Saxony, Germany"
+description: "Kohren Castle, a historic structure located in Frohburg, Saxony, Germany, is a captivating site that encapsulates the region's architectural and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

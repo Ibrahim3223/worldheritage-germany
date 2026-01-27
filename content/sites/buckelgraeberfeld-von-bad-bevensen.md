@@ -3,7 +3,7 @@ title: "Buckelgräberfeld von Bad Bevensen"
 site_name: "Buckelgräberfeld von Bad Bevensen"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Bad Bevensen, Germany"
+description: "The Buckelgräberfeld von Bad Bevensen is an intriguing archaeological site located in the charming town of Bad Bevensen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

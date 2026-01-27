@@ -3,7 +3,7 @@ title: "Friedrichswerderscher Friedhof"
 site_name: "Friedrichswerderscher Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Friedrichswerderscher Friedhof, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, is more than just a cemetery; it embodies a significant..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

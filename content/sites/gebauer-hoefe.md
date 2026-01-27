@@ -3,7 +3,7 @@ title: "Gebauer Höfe"
 site_name: "Gebauer Höfe"
 date: 2026-01-26
 draft: false
-description: "Ensemble von historischen Fabrikgebäuden an der Spree in Berlin"
+description: "Located in the vibrant district of Charlottenburg-Wilmersdorf, Gebauer Höfe is an architectural ensemble that showcases a collection of historic factory..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

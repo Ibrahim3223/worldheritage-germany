@@ -3,7 +3,7 @@ title: "Eschweiler-Aue station"
 site_name: "Eschweiler-Aue station"
 date: 2026-01-26
 draft: false
-description: "railway station in Eschweiler, Germany"
+description: "Eschweiler-Aue station is a key railway hub located in Eschweiler, Germany, serving as an important connection point for both local and regional travel."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

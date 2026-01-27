@@ -3,7 +3,7 @@ title: "Gutshaus Boldevitz"
 site_name: "Gutshaus Boldevitz"
 date: 2026-01-26
 draft: false
-description: "building in Parchtitz (Germany)"
+description: "Gutshaus Boldevitz is a remarkable manor house located in the serene region of Parchtitz, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

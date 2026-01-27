@@ -3,7 +3,7 @@ title: "Spatzenbrunnen"
 site_name: "Spatzenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "In the heart of Aachen-Mitte, Germany, lies the Spatzenbrunnen, a captivating fountain that serves as both a historic landmark and a charming spot for visitors."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

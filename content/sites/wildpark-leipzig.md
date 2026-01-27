@@ -3,7 +3,7 @@ title: "Wildpark Leipzig"
 site_name: "Wildpark Leipzig"
 date: 2026-01-26
 draft: false
-description: "zoo in Leipzig, Germany"
+description: "Wildpark Leipzig is a captivating destination for wildlife enthusiasts and families alike."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"

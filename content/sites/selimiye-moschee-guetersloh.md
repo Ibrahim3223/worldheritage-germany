@@ -3,7 +3,7 @@ title: "Selimiye-Moschee (Gütersloh)"
 site_name: "Selimiye-Moschee (Gütersloh)"
 date: 2026-01-26
 draft: false
-description: "Moschee in der ostwestfälischen Kreisstadt Gütersloh"
+description: "Located in the vibrant town of Gütersloh, the Selimiye-Moschee serves as a significant religious and cultural landmark within the region of East Westphalia."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

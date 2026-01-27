@@ -3,7 +3,7 @@ title: "Edith-Haberland-Wagner Stiftung"
 site_name: "Edith-Haberland-Wagner Stiftung"
 date: 2026-01-26
 draft: false
-description: "von Edith Haberland-Wagner (1899–1996) ins Leben gerufene Stiftung"
+description: "The Edith-Haberland-Wagner Stiftung is a distinguished foundation located in Munich, Germany, dedicated to the legacy of Edith Haberland-Wagner, who lived..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

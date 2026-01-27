@@ -3,7 +3,7 @@ title: "Stiftskirche St. Johann Baptist und Petrus"
 site_name: "Stiftskirche St. Johann Baptist und Petrus"
 date: 2026-01-26
 draft: false
-description: "church building in Bonn, Germany"
+description: "Stiftskirche St. Johann Baptist und Petrus, located in the heart of Bonn, Germany, is a remarkable church building that carries the weight of centuries in..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

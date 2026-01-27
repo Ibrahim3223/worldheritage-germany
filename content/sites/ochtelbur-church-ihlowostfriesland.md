@@ -3,7 +3,7 @@ title: "Ochtelbur Church (Ihlow/Ostfriesland)"
 site_name: "Ochtelbur Church (Ihlow/Ostfriesland)"
 date: 2026-01-26
 draft: false
-description: "church building in Ochtelbur, Germany"
+description: "Ochtelbur Church is a noteworthy church building located in the picturesque village of Ochtelbur, within the Ihlow region of Ostfriesland, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

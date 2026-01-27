@@ -3,7 +3,7 @@ title: "Bogenbrücke Waltersdorf"
 site_name: "Bogenbrücke Waltersdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke Waltersdorf is an intriguing bridge located in the picturesque region of Liebstadt, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

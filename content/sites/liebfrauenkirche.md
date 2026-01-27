@@ -3,7 +3,7 @@ title: "Liebfrauenkirche"
 site_name: "Liebfrauenkirche"
 date: 2026-01-26
 draft: false
-description: "Parish church in Trier, Germany"
+description: "In the heart of Trier, Germany, the Liebfrauenkirche stands as a significant ecclesiastical structure and a point of interest for visitors keen on exploring..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

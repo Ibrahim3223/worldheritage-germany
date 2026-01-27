@@ -3,7 +3,7 @@ title: "Einbogenbrücke über die Pließnitz Kleine Seite 38 (bei)"
 site_name: "Einbogenbrücke über die Pließnitz Kleine Seite 38 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Einbogenbrücke über die Pließnitz, an elegant arch bridge located in Bernstadt auf dem Eigen, Germany, serves as an interesting stop for those exploring..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

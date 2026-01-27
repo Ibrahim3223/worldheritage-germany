@@ -3,7 +3,7 @@ title: "Klostermuseum Ochsenhausen"
 site_name: "Klostermuseum Ochsenhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Klostermuseum Ochsenhausen, located in the picturesque town of Ochsenhausen, Germany, invites visitors to explore its rich cultural heritage through a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Evangelische Kirche Alt-Lietzow"
 site_name: "Evangelische Kirche Alt-Lietzow"
 date: 2026-01-26
 draft: false
-description: "church in Berlin Germany"
+description: "The Evangelische Kirche Alt-Lietzow stands as a notable church building in Berlin, Germany, situated within the vibrant Charlottenburg-Wilmersdorf district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

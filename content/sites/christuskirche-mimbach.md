@@ -3,7 +3,7 @@ title: "Christuskirche (Mimbach)"
 site_name: "Christuskirche (Mimbach)"
 date: 2026-01-26
 draft: false
-description: "church building in Blieskastel, Saarland, Germany"
+description: "Christuskirche, located in the tranquil town of Mimbach within the Blieskastel region of Saarland, Germany, is a striking example of ecclesiastical..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

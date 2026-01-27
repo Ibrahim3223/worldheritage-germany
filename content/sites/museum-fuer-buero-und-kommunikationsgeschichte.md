@@ -3,7 +3,7 @@ title: "Museum für Büro- und Kommunikationsgeschichte"
 site_name: "Museum für Büro- und Kommunikationsgeschichte"
 date: 2026-01-26
 draft: false
-description: "communication technics museum in Bamberg, Germany"
+description: "The Museum für Büro- und Kommunikationsgeschichte, located in the heart of Bamberg, Germany, offers an intriguing exploration into the evolution of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

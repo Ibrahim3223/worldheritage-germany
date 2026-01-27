@@ -3,7 +3,7 @@ title: "Glockseeschule Hannover"
 site_name: "Glockseeschule Hannover"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Glockseeschule Hannover is a striking example of educational architecture located in the Döhren-Wülfel district of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

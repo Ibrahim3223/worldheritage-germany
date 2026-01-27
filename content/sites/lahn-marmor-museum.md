@@ -3,7 +3,7 @@ title: "Lahn-Marmor-Museum"
 site_name: "Lahn-Marmor-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Lahn-Marmor-Museum, located in Villmar, Germany, serves as a dedicated space for the exploration and celebration of the unique marble sourced from the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St.-Katharinenkirche"
 site_name: "St.-Katharinenkirche"
 date: 2026-01-26
 draft: false
-description: "church in Trent, Isle of Rügen"
+description: "St.-Katharinenkirche, an evocative church building located in the quaint town of Trent on the Isle of Rügen, Germany, embodies the rich spiritual and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

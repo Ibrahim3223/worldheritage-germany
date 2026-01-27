@@ -3,7 +3,7 @@ title: "Burg Hermannstein"
 site_name: "Burg Hermannstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hermannstein is an impressive castle located in the picturesque region of Waltershausen, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

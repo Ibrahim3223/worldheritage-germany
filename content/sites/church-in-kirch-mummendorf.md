@@ -3,7 +3,7 @@ title: "Church in Kirch Mummendorf"
 site_name: "Church in Kirch Mummendorf"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Kirch Mummendorf, located in the picturesque region of Stepenitztal, Germany, serves as a significant religious and cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

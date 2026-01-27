@@ -3,7 +3,7 @@ title: "Goldener Löwe Eisenach, SPD-Gedenkstätte"
 site_name: "Goldener Löwe Eisenach, SPD-Gedenkstätte"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "Goldener Löwe Eisenach, a significant memorial in the heart of Eisenach, Germany, serves as a poignant reminder of the city's historical and cultural heritage."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Memorial"

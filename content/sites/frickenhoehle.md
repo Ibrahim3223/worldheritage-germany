@@ -3,7 +3,7 @@ title: "Frickenhöhle"
 site_name: "Frickenhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Frickenhöhle, a captivating cave situated in the picturesque region of Farchant, Germany, offers a unique glimpse into the subterranean world beneath the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

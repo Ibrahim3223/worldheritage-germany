@@ -3,7 +3,7 @@ title: "Fugger und Welser Erlebnismuseum"
 site_name: "Fugger und Welser Erlebnismuseum"
 date: 2026-01-26
 draft: false
-description: "museum about the Dynasties of Fugger and Welser in Augsburg"
+description: "The Fugger und Welser Erlebnismuseum, located in the historical city of Augsburg, Germany, offers a unique glimpse into the lives and legacies of two..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

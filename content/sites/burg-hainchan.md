@@ -3,7 +3,7 @@ title: "Burg Hainchan"
 site_name: "Burg Hainchan"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hainchan, a captivating castle located in the quaint region of Netphen, Germany, invites visitors to delve into its storied past and architectural charm."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

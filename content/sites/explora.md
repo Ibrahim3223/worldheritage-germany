@@ -3,7 +3,7 @@ title: "Explora"
 site_name: "Explora"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt, Germany"
+description: "Explora, situated in the vibrant city of Frankfurt, Germany, is a museum that invites visitors to explore a diverse range of exhibits."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

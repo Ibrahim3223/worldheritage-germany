@@ -3,7 +3,7 @@ title: "Teufelsküche"
 site_name: "Teufelsküche"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Teufelsküche, a captivating cave located in the picturesque region of Ehrenkirchen, Germany, is a site where nature’s artistry and geological wonders converge."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

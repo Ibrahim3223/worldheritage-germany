@@ -3,7 +3,7 @@ title: "Kunsthalle Tübingen"
 site_name: "Kunsthalle Tübingen"
 date: 2026-01-26
 draft: false
-description: "German art museum"
+description: "Art transcends borders, and at Kunsthalle Tübingen, this notion takes center stage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

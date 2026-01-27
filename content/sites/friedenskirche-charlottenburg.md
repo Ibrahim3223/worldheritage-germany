@@ -3,7 +3,7 @@ title: "Friedenskirche Charlottenburg"
 site_name: "Friedenskirche Charlottenburg"
 date: 2026-01-26
 draft: false
-description: "Baptist church in Berlin"
+description: "Friedenskirche Charlottenburg stands as a significant landmark in Berlin's Charlottenburg-Wilmersdorf district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

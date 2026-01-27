@@ -3,7 +3,7 @@ title: "Ziestsee"
 site_name: "Ziestsee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Ziestsee is a serene lake located in the Brandenburg region of Germany, offering a picturesque escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

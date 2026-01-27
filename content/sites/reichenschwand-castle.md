@@ -3,7 +3,7 @@ title: "Reichenschwand Castle"
 site_name: "Reichenschwand Castle"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "Reichenschwand Castle is a striking manor house located in the picturesque Landkreis Nürnberger Land of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

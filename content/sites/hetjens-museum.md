@@ -3,7 +3,7 @@ title: "Hetjens-Museum"
 site_name: "Hetjens-Museum"
 date: 2026-01-26
 draft: false
-description: "ceramics museum in Düsseldorf, Germany"
+description: "The Hetjens-Museum is a prominent ceramics museum located in Düsseldorf, Germany, that invites visitors to explore the fascinating world of ceramic art and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

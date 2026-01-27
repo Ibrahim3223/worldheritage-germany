@@ -3,7 +3,7 @@ title: "Delphinbrunnen in Dresden, Germany"
 site_name: "Delphinbrunnen in Dresden, Germany"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "In the heart of Dresden, Germany, the Delphinbrunnen stands as a remarkable water well, blending artistry with functionality."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Fountain"

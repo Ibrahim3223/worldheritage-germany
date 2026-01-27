@@ -3,7 +3,7 @@ title: "Synagoge"
 site_name: "Synagoge"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-78-111-3 (0) in Altenkunstadt, Bavaria"
+description: "Situated in the heart of Altenkunstadt, Germany, the Synagoge serves as a significant cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Fürsteneck (Butschbach)"
 site_name: "Burg Fürsteneck (Butschbach)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Fürsteneck, located in the picturesque region of Butschbach, Germany, is a castle that invites visitors into a realm of medieval charm and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

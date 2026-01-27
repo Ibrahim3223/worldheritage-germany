@@ -3,7 +3,7 @@ title: "Aasee"
 site_name: "Aasee"
 date: 2026-01-26
 draft: false
-description: "lake in Ibbenbüren, Germany"
+description: "Aasee is a picturesque lake located in the town of Ibbenbüren, Germany, serving as a popular destination for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lake"

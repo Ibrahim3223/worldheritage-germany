@@ -3,7 +3,7 @@ title: "Zinnfiguren-Museum Goslar"
 site_name: "Zinnfiguren-Museum Goslar"
 date: 2026-01-26
 draft: false
-description: "museum in Goslar, Germany"
+description: "Tucked away in the historic town of Goslar, Germany, the Zinnfiguren-Museum offers a unique glimpse into the world of tin figures, a captivating art form..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Rektoratsschule Ronsdorf"
 site_name: "Rektoratsschule Ronsdorf"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Rektoratsschule Ronsdorf is a significant educational structure located in Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

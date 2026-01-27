@@ -3,7 +3,7 @@ title: "Ödenburg"
 site_name: "Ödenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Ödenburg, a captivating castle situated in the Tübingen region of Germany, holds a significant place in the heritage of the area."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

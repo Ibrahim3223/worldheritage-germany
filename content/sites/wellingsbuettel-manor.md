@@ -3,7 +3,7 @@ title: "Wellingsbüttel Manor"
 site_name: "Wellingsbüttel Manor"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Wellingsbüttel Manor, a distinguished manor house located in Hamburg, Germany, stands as a remarkable example of the architectural and cultural heritage of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"

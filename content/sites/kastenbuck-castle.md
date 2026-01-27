@@ -3,7 +3,7 @@ title: "Kastenbuck Castle"
 site_name: "Kastenbuck Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kastenbuck Castle, located in the scenic region of Herbolzheim, Germany, is an intriguing landmark that invites exploration and imagination."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

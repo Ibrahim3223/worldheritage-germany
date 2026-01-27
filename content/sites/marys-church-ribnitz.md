@@ -3,7 +3,7 @@ title: "Mary's Church, Ribnitz"
 site_name: "Mary's Church, Ribnitz"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Mary's Church in Ribnitz-Damgarten is a notable example of ecclesiastical architecture that reflects the cultural and historical essence of the region."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

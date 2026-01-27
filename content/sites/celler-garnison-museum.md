@@ -3,7 +3,7 @@ title: "Celler Garnison-Museum"
 site_name: "Celler Garnison-Museum"
 date: 2026-01-26
 draft: false
-description: "military museum in Celle, Germany"
+description: "The Celler Garnison-Museum, located in the historic town of Celle, Germany, offers an insightful glimpse into military history and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

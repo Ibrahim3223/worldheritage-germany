@@ -3,7 +3,7 @@ title: "Martinskirche (Ludwigshafen-Maudach)"
 site_name: "Martinskirche (Ludwigshafen-Maudach)"
 date: 2026-01-26
 draft: false
-description: "church building in Ludwigshafen, Germany"
+description: "Martinskirche, located in the suburb of Maudach in Ludwigshafen, Germany, is a striking church building that serves as a focal point for the local community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

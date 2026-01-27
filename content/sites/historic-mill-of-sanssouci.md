@@ -3,7 +3,7 @@ title: "Historic Mill of Sanssouci"
 site_name: "Historic Mill of Sanssouci"
 date: 2026-01-26
 draft: false
-description: "Reconstruction of a Dutch windmill west of Potsdam's Sanssouci Palace"
+description: "The Historic Mill of Sanssouci, an iconic windmill located just west of the illustrious Sanssouci Palace in Potsdam, Germany, stands as a remarkable..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

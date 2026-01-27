@@ -3,7 +3,7 @@ title: "Museum im Augustiner-Chorherrenstift"
 site_name: "Museum im Augustiner-Chorherrenstift"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the Chiemsee region of Germany, the Museum im Augustiner-Chorherrenstift stands as a significant cultural institution dedicated to preserving the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

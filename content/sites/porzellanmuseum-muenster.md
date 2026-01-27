@@ -3,7 +3,7 @@ title: "Porzellanmuseum Münster"
 site_name: "Porzellanmuseum Münster"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Porzellanmuseum Münster, located in the heart of Münster, Germany, offers an intriguing glimpse into the world of porcelain, showcasing its historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

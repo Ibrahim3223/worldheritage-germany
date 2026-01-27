@@ -3,7 +3,7 @@ title: "Heidetrank Oppidum"
 site_name: "Heidetrank Oppidum"
 date: 2026-01-26
 draft: false
-description: "Celtic oppidum near Oberursel in the Taunus in Germany"
+description: "The Heidetrank Oppidum is a significant archaeological site situated near Oberursel in the Taunus region of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

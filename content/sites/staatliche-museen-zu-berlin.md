@@ -3,7 +3,7 @@ title: "Staatliche Museen zu Berlin"
 site_name: "Staatliche Museen zu Berlin"
 date: 2026-01-26
 draft: false
-description: "group of institutions in Berlin, Germany"
+description: "The Staatliche Museen zu Berlin, a remarkable collective of museums, offers a vibrant reflection of human creativity and cultural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

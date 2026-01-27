@@ -3,7 +3,7 @@ title: "Alte Schanz"
 site_name: "Alte Schanz"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Schanz, a captivating castle located in the picturesque region of Heidenrod, Germany, stands as a significant landmark steeped in history and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

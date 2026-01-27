@@ -3,7 +3,7 @@ title: "Selimiye Mosque"
 site_name: "Selimiye Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Deggendorf. Bavaria, Germany"
+description: "The Selimiye Mosque, located in Deggendorf, Bavaria, Germany, is an architectural emblem of Islamic heritage within a predominantly Christian country."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Museum im Schafstall"
 site_name: "Museum im Schafstall"
 date: 2026-01-26
 draft: false
-description: "Museum in Neuenstadt, Landkreis Heilbronn, Baden-Württemberg, Deutschland"
+description: "Located in the picturesque town of Neuenstadt am Kocher, the Museum im Schafstall serves as an important cultural hub within the Landkreis Heilbronn of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

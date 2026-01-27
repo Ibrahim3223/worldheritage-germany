@@ -3,7 +3,7 @@ title: "Village church Meseberg"
 site_name: "Village church Meseberg"
 date: 2026-01-26
 draft: false
-description: "listed hall church in Meseberg, Gransee, Brandenburg state of Germany"
+description: "The Village Church of Meseberg is a striking example of ecclesiastical architecture located in the picturesque region of Gransee, in Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

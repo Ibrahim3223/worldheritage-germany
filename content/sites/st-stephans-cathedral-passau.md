@@ -3,7 +3,7 @@ title: "St. Stephan's Cathedral, Passau"
 site_name: "St. Stephan's Cathedral, Passau"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "St. Stephan's Cathedral in Passau is an architectural marvel that draws visitors from around the globe."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"

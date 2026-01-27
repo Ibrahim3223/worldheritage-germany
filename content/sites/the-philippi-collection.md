@@ -3,7 +3,7 @@ title: "The Philippi Collection"
 site_name: "The Philippi Collection"
 date: 2026-01-26
 draft: false
-description: "private collection of religious headgear"
+description: "The Philippi Collection, located in the serene town of Tholey, Germany, is an intriguing private museum dedicated to the fascinating world of religious..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "New Castle"
 site_name: "New Castle"
 date: 2026-01-26
 draft: false
-description: "was built in 1490 as the citadel of Ingolstadt Fortress"
+description: "New Castle, located in the heart of Ingolstadt, Germany, is a striking example of late medieval military architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

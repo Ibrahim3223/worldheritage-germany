@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über den Haselbach bei Am Haselbach 19"
 site_name: "Steindeckerbrücke über den Haselbach bei Am Haselbach 19"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über den Haselbach is a notable bridge located in the picturesque Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Krugmann-Häuser"
 site_name: "Krugmann-Häuser"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Krugmann-Häuser, an architectural ensemble located in Meinerzhagen, Germany, represents a significant cultural and historical landmark in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

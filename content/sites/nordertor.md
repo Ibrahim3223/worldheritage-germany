@@ -3,7 +3,7 @@ title: "Nordertor"
 site_name: "Nordertor"
 date: 2026-01-26
 draft: false
-description: "Town gate in Flensburg, Germany"
+description: "The Nordertor, a striking city gate located in Flensburg, Germany, serves not only as a remarkable architectural landmark but also as a symbol of the town's..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "City Gate"

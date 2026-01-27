@@ -3,7 +3,7 @@ title: "Brahms-Haus"
 site_name: "Brahms-Haus"
 date: 2026-01-26
 draft: false
-description: "museum on Johannes Brahms in Heide, Germany"
+description: "Brahms-Haus is a museum dedicated to the life and works of the illustrious composer Johannes Brahms, located in Heide, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

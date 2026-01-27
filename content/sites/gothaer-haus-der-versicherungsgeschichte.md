@@ -3,7 +3,7 @@ title: "Gothaer Haus der Versicherungsgeschichte"
 site_name: "Gothaer Haus der Versicherungsgeschichte"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Gothaer Haus der Versicherungsgeschichte, or Gotha House of Insurance History, is a unique museum located in the heart of Gotha, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

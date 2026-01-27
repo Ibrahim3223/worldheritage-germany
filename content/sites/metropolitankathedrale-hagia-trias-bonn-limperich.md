@@ -3,7 +3,7 @@ title: "Metropolitankathedrale Hagia Trias (Bonn-Limperich)"
 site_name: "Metropolitankathedrale Hagia Trias (Bonn-Limperich)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Metropolitankathedrale Hagia Trias, located in the Beuel district of Bonn-Limperich, Germany, stands as an important ecclesiastical site that reflects..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cathedral"

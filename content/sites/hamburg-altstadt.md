@@ -3,7 +3,7 @@ title: "Hamburg-Altstadt"
 site_name: "Hamburg-Altstadt"
 date: 2026-01-26
 draft: false
-description: "borough of Hamburg in the district of Hamburg-Mitte"
+description: "Hamburg-Altstadt is a vibrant district that encapsulates the essence of Hamburg's rich history and cultural evolution."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Old Town"

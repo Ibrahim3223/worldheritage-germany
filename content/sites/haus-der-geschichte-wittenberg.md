@@ -3,7 +3,7 @@ title: "Haus der Geschichte Wittenberg"
 site_name: "Haus der Geschichte Wittenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Haus der Geschichte Wittenberg is a museum that captures the essence of German history and culture, situated in the historically significant town of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

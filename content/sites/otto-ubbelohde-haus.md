@@ -3,7 +3,7 @@ title: "Otto-Ubbelohde-Haus"
 site_name: "Otto-Ubbelohde-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Otto-Ubbelohde-Haus, a museum located in the scenic Lahntal region of Germany, is a remarkable destination that showcases the life and works of Otto..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

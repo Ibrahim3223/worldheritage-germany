@@ -3,7 +3,7 @@ title: "Kaiserstein (Münchingen)"
 site_name: "Kaiserstein (Münchingen)"
 date: 2026-01-26
 draft: false
-description: "monument in Korntal-Münchingen, Germany"
+description: "The Kaiserstein in Münchingen is a noteworthy monument that stands as a symbol of the region's historical and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

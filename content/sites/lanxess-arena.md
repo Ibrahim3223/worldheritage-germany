@@ -3,7 +3,7 @@ title: "Lanxess Arena"
 site_name: "Lanxess Arena"
 date: 2026-01-26
 draft: false
-description: "music venue and hockey stadium in Cologne, Germany"
+description: "In the heart of Cologne, Germany, lies the Lanxess Arena, a vibrant multi-purpose hall that serves as a hub for sports and entertainment."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

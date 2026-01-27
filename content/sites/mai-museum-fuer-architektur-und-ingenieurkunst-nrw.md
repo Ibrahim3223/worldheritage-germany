@@ -3,7 +3,7 @@ title: "M:AI Museum für Architektur und Ingenieurkunst, NRW"
 site_name: "M:AI Museum für Architektur und Ingenieurkunst, NRW"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The M:AI Museum für Architektur und Ingenieurkunst, located in the vibrant region of North Rhine-Westphalia, Germany, serves as a dynamic platform..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

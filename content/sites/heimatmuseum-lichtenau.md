@@ -3,7 +3,7 @@ title: "Heimatmuseum Lichtenau"
 site_name: "Heimatmuseum Lichtenau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Lichtenau invites visitors to explore the local heritage and culture of Lichtenau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

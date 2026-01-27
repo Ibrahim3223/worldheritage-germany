@@ -3,7 +3,7 @@ title: "Gottlieb-Daimler-Gedächtnisstätte"
 site_name: "Gottlieb-Daimler-Gedächtnisstätte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gottlieb-Daimler-Gedächtnisstätte, a museum dedicated to the pioneering spirit of automotive innovation, is located in Bad Cannstatt, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

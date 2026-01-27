@@ -3,7 +3,7 @@ title: "Bethanien"
 site_name: "Bethanien"
 date: 2026-01-26
 draft: false
-description: "former hospital now used as s cultural center in Berlin, Germany"
+description: "In the heart of Berlin's Friedrichshain-Kreuzberg district lies Bethanien, a unique architectural ensemble that serves as a cultural center and a reminder..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

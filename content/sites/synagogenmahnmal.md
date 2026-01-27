@@ -3,7 +3,7 @@ title: "Synagogenmahnmal"
 site_name: "Synagogenmahnmal"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogenmahnmal, or the Memorial to the Synagogue, stands as a poignant reminder of Nuremberg’s Jewish heritage and the tragic history that befell its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Dömitz Fortress"
 site_name: "Dömitz Fortress"
 date: 2026-01-26
 draft: false
-description: "was built between 1559 and 1565, to secure Mecklenburg's border"
+description: "Dömitz Fortress is a remarkable museum located in the charming town of Dömitz, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

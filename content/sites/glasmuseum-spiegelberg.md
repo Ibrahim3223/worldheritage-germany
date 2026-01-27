@@ -3,7 +3,7 @@ title: "Glasmuseum Spiegelberg"
 site_name: "Glasmuseum Spiegelberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the heart of Germany, Glasmuseum Spiegelberg offers a unique glimpse into the world of glass art and craftsmanship."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

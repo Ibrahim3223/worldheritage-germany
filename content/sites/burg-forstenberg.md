@@ -3,7 +3,7 @@ title: "Burg Forstenberg"
 site_name: "Burg Forstenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Forstenberg, an archaeological site located in the picturesque region of Regenstauf, Germany, invites visitors to explore its historical significance..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

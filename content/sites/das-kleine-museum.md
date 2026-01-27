@@ -3,7 +3,7 @@ title: "Das kleine Museum"
 site_name: "Das kleine Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Bad Weißenstadt, Das kleine Museum offers visitors a unique glimpse into local culture and history through its carefully..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

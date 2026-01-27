@@ -3,7 +3,7 @@ title: "Robert-Werner-Platz 11"
 site_name: "Robert-Werner-Platz 11"
 date: 2026-01-26
 draft: false
-description: "buildings in Radebeul, Germany"
+description: "In the heart of Radebeul, Germany, Robert-Werner-Platz 11 stands as a significant architectural ensemble that reflects the cultural and historical essence..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

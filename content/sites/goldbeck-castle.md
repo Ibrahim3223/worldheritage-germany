@@ -3,7 +3,7 @@ title: "Goldbeck Castle"
 site_name: "Goldbeck Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Brandenburg, Germany"
+description: "Goldbeck Castle, located in the Brandenburg region of Germany, is a striking example of medieval architecture that draws history enthusiasts and casual..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Werdumer Mühle"
 site_name: "Werdumer Mühle"
 date: 2026-01-26
 draft: false
-description: "deutsche Windmühle in Ostfriesland"
+description: "In the tranquil region of Werdum, Germany, the Werdumer Mühle stands as a striking example of traditional windmill architecture, capturing the essence of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

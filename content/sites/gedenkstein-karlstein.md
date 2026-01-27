@@ -3,7 +3,7 @@ title: "Gedenkstein Karlstein"
 site_name: "Gedenkstein Karlstein"
 date: 2026-01-26
 draft: false
-description: "monument in Weinstadt, Germany"
+description: "The Gedenkstein Karlstein stands as a poignant monument in Weinstadt, Germany, serving as a reminder of the region's cultural heritage and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

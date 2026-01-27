@@ -3,7 +3,7 @@ title: "Neckarstrand an der Stadthalle Heidelberg"
 site_name: "Neckarstrand an der Stadthalle Heidelberg"
 date: 2026-01-26
 draft: false
-description: "Strand und Strandbar im Bereich der Altstadt von Heidelberg, Deutschland"
+description: "Located along the picturesque banks of the Neckar River in Heidelberg, Neckarstrand an der Stadthalle offers a vibrant and relaxing escape within the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Beach"

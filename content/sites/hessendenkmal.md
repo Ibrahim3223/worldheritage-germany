@@ -3,7 +3,7 @@ title: "Hessendenkmal"
 site_name: "Hessendenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Frankfurt am Main, Germany"
+description: "The Hessendenkmal, a prominent monument in Frankfurt am Main, Germany, serves as a reminder of the city’s vibrant cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

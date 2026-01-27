@@ -3,7 +3,7 @@ title: "Stiftung Großes Waisenhaus zu Potsdam"
 site_name: "Stiftung Großes Waisenhaus zu Potsdam"
 date: 2026-01-26
 draft: false
-description: "foundation in Potsdam, Brandenburg, Germany"
+description: "The Stiftung Großes Waisenhaus zu Potsdam is an important foundation located in the historic city of Potsdam, Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Sumelocenna-Museum"
 site_name: "Sumelocenna-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sumelocenna-Museum in Rottenburg am Neckar, Germany, offers an intriguing glimpse into the region's past, particularly during the Roman era."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

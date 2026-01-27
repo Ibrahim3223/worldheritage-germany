@@ -3,7 +3,7 @@ title: "Keramik-Museum Berlin"
 site_name: "Keramik-Museum Berlin"
 date: 2026-01-26
 draft: false
-description: "Ceramic art museum"
+description: "Keramik-Museum Berlin is a unique destination for art lovers and those intrigued by the intricate world of ceramic art."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

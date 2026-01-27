@@ -3,7 +3,7 @@ title: "Buch Abbey"
 site_name: "Buch Abbey"
 date: 2026-01-26
 draft: false
-description: "former Cistercian abbey near Leisnig, Germany"
+description: "Buch Abbey, located near the town of Leisnig in Germany, is a captivating former Cistercian abbey that has transitioned into a museum."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Handweberei „Henni Jaensch-Zeymer“"
 site_name: "Handweberei „Henni Jaensch-Zeymer“"
 date: 2026-01-26
 draft: false
-description: "museum in Schwielowsee, Brandenburg state, Germany"
+description: "Handweberei „Henni Jaensch-Zeymer“ is a captivating museum located in Schwielowsee, Brandenburg state, Germany, dedicated to the art of hand weaving."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

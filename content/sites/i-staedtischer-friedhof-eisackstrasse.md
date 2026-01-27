@@ -3,7 +3,7 @@ title: "I. Städtischer Friedhof Eisackstraße"
 site_name: "I. Städtischer Friedhof Eisackstraße"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "I. Städtischer Friedhof Eisackstraße is a cemetery located in Berlin, Germany, that holds a unique place within the city's extensive historical narrative."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

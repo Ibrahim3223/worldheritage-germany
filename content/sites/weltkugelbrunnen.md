@@ -3,7 +3,7 @@ title: "Weltkugelbrunnen"
 site_name: "Weltkugelbrunnen"
 date: 2026-01-26
 draft: false
-description: "water feature on Berlin's Breitscheidplatz"
+description: "The Weltkugelbrunnen, or World Globe Fountain, is an iconic water feature located in Berlin's vibrant Breitscheidplatz, within the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Fountain"

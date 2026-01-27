@@ -3,7 +3,7 @@ title: "Nikolaikirche (Berlin)"
 site_name: "Nikolaikirche (Berlin)"
 date: 2026-01-26
 draft: false
-description: "church in Berlin, Germany"
+description: "In the heart of Berlin’s Bezirk Mitte district lies Nikolaikirche, a church building that is not only one of the city's oldest structures but also a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

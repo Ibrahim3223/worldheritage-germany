@@ -3,7 +3,7 @@ title: "Blankes Flath bei Jeversen"
 site_name: "Blankes Flath bei Jeversen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Blankes Flath bei Jeversen is an enchanting nature reserve located in the picturesque region of Wietze, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

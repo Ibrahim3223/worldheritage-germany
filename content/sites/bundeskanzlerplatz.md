@@ -3,7 +3,7 @@ title: "Bundeskanzlerplatz"
 site_name: "Bundeskanzlerplatz"
 date: 2026-01-26
 draft: false
-description: "square in Bonn, Germany"
+description: "Bundeskanzlerplatz, a prominent square located in the heart of Bonn, Germany, is a significant site that captures the essence of the city’s modern political..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

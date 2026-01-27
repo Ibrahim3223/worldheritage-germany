@@ -3,7 +3,7 @@ title: "Gravestones of Herdentorsfriedhof"
 site_name: "Gravestones of Herdentorsfriedhof"
 date: 2026-01-26
 draft: false
-description: "Gravestones at the Osterholz cemetery in Bremen-Osterholz"
+description: "The Gravestones of Herdentorsfriedhof, located in Osterholz, Bremen, are a poignant reminder of the region's rich history and cultural heritage."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Tomb"

@@ -3,7 +3,7 @@ title: "Christuskirche Unna-Königsborn"
 site_name: "Christuskirche Unna-Königsborn"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche Unna-Königsborn is an iconic religious structure located in the Unna region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

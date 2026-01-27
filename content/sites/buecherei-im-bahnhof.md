@@ -3,7 +3,7 @@ title: "Bücherei im Bahnhof"
 site_name: "Bücherei im Bahnhof"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the charming town of Veitshöchheim, Germany, an intriguing cultural landmark awaits visitors: the Bücherei im Bahnhof."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

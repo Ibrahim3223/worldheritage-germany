@@ -3,7 +3,7 @@ title: "Duchess Anna Amalia Library"
 site_name: "Duchess Anna Amalia Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Duchess Anna Amalia Library, located in the historic heart of Weimar, Germany, is a remarkable research library that serves as a vital hub for literary..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Research Library"

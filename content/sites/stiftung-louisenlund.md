@@ -3,7 +3,7 @@ title: "Stiftung Louisenlund"
 site_name: "Stiftung Louisenlund"
 date: 2026-01-26
 draft: false
-description: "co-ed boarding school in Schleswig-Holstein, Germany"
+description: "Stiftung Louisenlund, located in the serene landscape of Güby, Schleswig-Holstein, Germany, is more than just a park; it is an esteemed co-educational..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Park"

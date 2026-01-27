@@ -3,7 +3,7 @@ title: "Fernmeldeturm Landau"
 site_name: "Fernmeldeturm Landau"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Landau stands as a striking example of modern engineering within the picturesque region of Rhineland-Palatinate, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

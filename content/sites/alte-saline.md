@@ -3,7 +3,7 @@ title: "Alte Saline"
 site_name: "Alte Saline"
 date: 2026-01-26
 draft: false
-description: "building in Bad Reichenhall, Bavaria"
+description: "In the picturesque town of Bad Reichenhall, Bavaria, the Alte Saline stands as a remarkable architectural ensemble that reflects the region's historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Stadttheater Lindau"
 site_name: "Stadttheater Lindau"
 date: 2026-01-26
 draft: false
-description: "theatre in Lindau, Bavaria, Germany"
+description: "Stadttheater Lindau is a remarkable cultural hub situated in the picturesque town of Lindau, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

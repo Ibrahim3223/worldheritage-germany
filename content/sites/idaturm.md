@@ -3,7 +3,7 @@ title: "Idaturm"
 site_name: "Idaturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Idaturm stands as a notable tower in the Bückeburg region of Germany, inviting travelers and historians alike to explore its architectural and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

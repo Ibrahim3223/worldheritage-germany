@@ -3,7 +3,7 @@ title: "Fernmeldeturm Bitburg"
 site_name: "Fernmeldeturm Bitburg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Bitburg is an iconic tower located in the scenic region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

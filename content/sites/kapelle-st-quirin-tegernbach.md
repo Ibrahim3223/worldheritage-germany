@@ -3,7 +3,7 @@ title: "Kapelle St. Quirin (Tegernbach)"
 site_name: "Kapelle St. Quirin (Tegernbach)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Tegernbach"
+description: "Kapelle St. Quirin, a quaint chapel located in the small village of Tegernbach in the Pfaffenhofen an der Ilm district of Germany, stands as a modest yet..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Wallfahrtskirche St. Johannes Baptist"
 site_name: "Wallfahrtskirche St. Johannes Baptist"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Wallfahrtskirche St. Johannes Baptist, located in the serene region of Hirschberg an der Bergstraße, Germany, is a significant religious structure that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Church in Bibow"
 site_name: "Church in Bibow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the tranquil landscape of Bibow, Germany, the Church in Bibow stands as a significant ecclesiastical structure that invites visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

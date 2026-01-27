@@ -3,7 +3,7 @@ title: "Giessen Old Castle"
 site_name: "Giessen Old Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Germany"
+description: "Giessen Old Castle is a notable historical landmark situated in the picturesque town of Giessen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

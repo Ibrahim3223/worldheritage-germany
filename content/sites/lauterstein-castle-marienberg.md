@@ -3,7 +3,7 @@ title: "Lauterstein Castle (Marienberg)"
 site_name: "Lauterstein Castle (Marienberg)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lauterstein Castle, located in the picturesque region of Marienberg, Germany, is an impressive structure that reflects both architectural and historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Dokumentationsstätte Gefangenenhaus Ostertorwache"
 site_name: "Dokumentationsstätte Gefangenenhaus Ostertorwache"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Bremen, Germany, the Dokumentationsstätte Gefangenenhaus Ostertorwache serves as a poignant reminder of the historical complexities..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

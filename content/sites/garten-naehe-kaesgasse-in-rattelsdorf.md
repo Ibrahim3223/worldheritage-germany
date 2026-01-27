@@ -3,7 +3,7 @@ title: "Garten Nähe Käsgasse in Rattelsdorf"
 site_name: "Garten Nähe Käsgasse in Rattelsdorf"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-71-174-16 (3) in Rattelsdorf, Bavaria"
+description: "Located in Rattelsdorf, Germany, the Garten Nähe Käsgasse is an elegant cultural heritage monument recognized for its historical and aesthetic significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

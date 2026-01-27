@@ -3,7 +3,7 @@ title: "Liebfrauen"
 site_name: "Liebfrauen"
 date: 2026-01-26
 draft: false
-description: "church building in Arnsberg, Germany"
+description: "Liebfrauen is a prominent church building located in Arnsberg, Germany, serving as an important landmark in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Burg Schwartzenburg"
 site_name: "Burg Schwartzenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Schwartzenburg is a castle located in the picturesque region of Stolberg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

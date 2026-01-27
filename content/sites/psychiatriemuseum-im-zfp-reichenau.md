@@ -3,7 +3,7 @@ title: "Psychiatriemuseum im ZfP Reichenau"
 site_name: "Psychiatriemuseum im ZfP Reichenau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Psychiatriemuseum im ZfP Reichenau is an intriguing destination that offers a unique exploration of the history of psychiatry in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

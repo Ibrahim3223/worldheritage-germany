@@ -3,7 +3,7 @@ title: "Ehrenfriedhof am Maschsee-Nordufer (Hannover)"
 site_name: "Ehrenfriedhof am Maschsee-Nordufer (Hannover)"
 date: 2026-01-26
 draft: false
-description: "cemetery in Hannover"
+description: "Ehrenfriedhof am Maschsee-Nordufer, located in Hannover, Germany, is a poignant memorial that serves as a reminder of the lives lost in various conflicts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

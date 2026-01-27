@@ -3,7 +3,7 @@ title: "St. Maria Magdalena (Husen)"
 site_name: "St. Maria Magdalena (Husen)"
 date: 2026-01-26
 draft: false
-description: "church building in Lichtenau, Germany"
+description: "St. Maria Magdalena in Lichtenau, Germany, is a captivating example of ecclesiastical architecture that offers visitors a glimpse into the region's..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

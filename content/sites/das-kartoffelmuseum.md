@@ -3,7 +3,7 @@ title: "Das Kartoffelmuseum"
 site_name: "Das Kartoffelmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Munich"
+description: "Das Kartoffelmuseum, located in the heart of Munich, Germany, presents a unique exploration of one of the world’s most important staple foods: the potato."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

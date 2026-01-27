@@ -3,7 +3,7 @@ title: "Textilmuseum der Brennet AG"
 site_name: "Textilmuseum der Brennet AG"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Textilmuseum der Brennet AG in Wehr, Germany, serves as a fascinating exploration of the textile industry and its evolution."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

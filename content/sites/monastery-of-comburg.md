@@ -3,7 +3,7 @@ title: "monastery of Comburg"
 site_name: "monastery of Comburg"
 date: 2026-01-26
 draft: false
-description: "former monastery in Schwaebisch Hall, Baden-Wuerttemberg in Germany"
+description: "The monastery of Comburg, a former monastic complex located in Schwäbisch Hall, Baden-Württemberg, Germany, presents a unique window into monastic life and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

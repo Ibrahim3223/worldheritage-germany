@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche, Hamburg-Harburg"
 site_name: "Dreifaltigkeitskirche, Hamburg-Harburg"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dreifaltigkeitskirche, located in the Harburg district of Hamburg, Germany, is a notable church building that serves as an important religious and cultural..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

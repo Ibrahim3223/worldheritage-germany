@@ -3,7 +3,7 @@ title: "Historisches Stadttheater Weißenhorn"
 site_name: "Historisches Stadttheater Weißenhorn"
 date: 2026-01-26
 draft: false
-description: "theatre in Weißenhorn, Bavaria, Germany"
+description: "The Historisches Stadttheater Weißenhorn, located in the heart of Bavaria, Germany, is a cultural landmark that embodies the traditions of theatrical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Domschatz- und Diözesanmuseum Osnabrück"
 site_name: "Domschatz- und Diözesanmuseum Osnabrück"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Domschatz- und Diözesanmuseum Osnabrück is an essential destination for those looking to delve into the religious and cultural heritage of the Osnabrück..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

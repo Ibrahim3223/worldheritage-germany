@@ -3,7 +3,7 @@ title: "Protestant abbey church"
 site_name: "Protestant abbey church"
 date: 2026-01-26
 draft: false
-description: "church building in Hornbach, Germany"
+description: "The Protestant abbey church in Hornbach, Germany, stands as a significant architectural and cultural landmark, capturing the essence of the region's..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Heidefriedhof"
 site_name: "Heidefriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dresden, Germany"
+description: "Heidefriedhof, located in the heart of Dresden, Germany, serves as a poignant reminder of the city’s historical and cultural narrative."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

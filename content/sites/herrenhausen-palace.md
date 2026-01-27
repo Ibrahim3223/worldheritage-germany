@@ -3,7 +3,7 @@ title: "Herrenhausen Palace"
 site_name: "Herrenhausen Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Hanover, Germany"
+description: "Herrenhausen Palace stands as a significant cultural landmark in Hanover, Germany, representing the grandeur of the 18th century and the ambitions of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

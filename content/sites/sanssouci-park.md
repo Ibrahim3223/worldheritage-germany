@@ -3,7 +3,7 @@ title: "Sanssouci Park"
 site_name: "Sanssouci Park"
 date: 2026-01-26
 draft: false
-description: "park in Potsdam, Germany"
+description: "Sanssouci Park stands as a serene expanse in the western suburbs of Potsdam, Germany, known for its harmonious blend of nature and historical architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

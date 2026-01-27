@@ -3,7 +3,7 @@ title: "Burg Gerstbergerkopf"
 site_name: "Burg Gerstbergerkopf"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gerstbergerkopf is a castle located in the picturesque Dahn region of Germany, a place characterized by its natural beauty and historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

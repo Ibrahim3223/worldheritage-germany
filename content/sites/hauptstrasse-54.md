@@ -3,7 +3,7 @@ title: "Hauptstraße 54"
 site_name: "Hauptstraße 54"
 date: 2026-01-26
 draft: false
-description: "Villa in Großschönau"
+description: "Hauptstraße 54 is a captivating landmark in the town of Großschönau, Germany, serving as the local city hall and a distinctive example of villa architecture."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

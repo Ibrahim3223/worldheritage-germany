@@ -3,7 +3,7 @@ title: "Kloster Dietramszell"
 site_name: "Kloster Dietramszell"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Kloster Dietramszell, a cultural heritage monument located in Bavaria, Germany, captures the essence of the region's historical and architectural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

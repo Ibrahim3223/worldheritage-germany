@@ -3,7 +3,7 @@ title: "Matthäuskirche Frankfurt am Main"
 site_name: "Matthäuskirche Frankfurt am Main"
 date: 2026-01-26
 draft: false
-description: "church building in Frankfurt, Germany"
+description: "Matthäuskirche Frankfurt am Main stands as a significant landmark in the vibrant city of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

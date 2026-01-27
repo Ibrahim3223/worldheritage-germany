@@ -3,7 +3,7 @@ title: "Ehemalige Schule, dann Gemeindekanzlei und Rathaus"
 site_name: "Ehemalige Schule, dann Gemeindekanzlei und Rathaus"
 date: 2026-01-26
 draft: false
-description: "building in Weidenbach, Middle Franconia, Germany"
+description: "The Ehemalige Schule, dann Gemeindekanzlei und Rathaus, located in the quaint town of Weidenbach in Middle Franconia, Germany, serves as an important..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

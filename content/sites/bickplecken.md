@@ -3,7 +3,7 @@ title: "Bickplecken"
 site_name: "Bickplecken"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bickplecken stands as a notable mountain in the Lemgo region of Germany, serving as a natural landmark that draws the attention of hikers, nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

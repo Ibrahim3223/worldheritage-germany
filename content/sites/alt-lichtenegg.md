@@ -3,7 +3,7 @@ title: "Alt-Lichtenegg"
 site_name: "Alt-Lichtenegg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alt-Lichtenegg, a castle located in the picturesque Illmensee region of Germany, invites visitors to explore a significant piece of the country’s..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

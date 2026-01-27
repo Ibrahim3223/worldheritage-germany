@@ -3,7 +3,7 @@ title: "Köln-Mülheim station"
 site_name: "Köln-Mülheim station"
 date: 2026-01-26
 draft: false
-description: "railway station in Mülheim, Germany"
+description: "Köln-Mülheim station serves as a vital connector within the intricate network of Germany's railway system."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Burg Neuenstein (Walting)"
 site_name: "Burg Neuenstein (Walting)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuenstein, located in the picturesque region of Walting, Germany, is a captivating castle that invites history enthusiasts and architectural admirers..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

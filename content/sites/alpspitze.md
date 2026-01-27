@@ -3,7 +3,7 @@ title: "Alpspitze"
 site_name: "Alpspitze"
 date: 2026-01-26
 draft: false
-description: "mountain in Bavaria, Germany"
+description: "Alpspitze, an iconic mountain located in Bavaria, Germany, offers a striking profile that captivates climbers and hikers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

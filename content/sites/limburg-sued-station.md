@@ -3,7 +3,7 @@ title: "Limburg Süd station"
 site_name: "Limburg Süd station"
 date: 2026-01-26
 draft: false
-description: "railway station in Limburg an der Lahn, Germany"
+description: "Limburg Süd station serves as a critical hub in the regional rail network of Germany, specifically within the scenic area of Limburg an der Lahn."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

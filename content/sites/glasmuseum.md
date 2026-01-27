@@ -3,7 +3,7 @@ title: "Glasmuseum"
 site_name: "Glasmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmuseum in Immenhausen, Germany, is a fascinating destination for those intrigued by the artistry and history of glassmaking."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

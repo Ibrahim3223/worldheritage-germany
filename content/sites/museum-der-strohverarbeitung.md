@@ -3,7 +3,7 @@ title: "Museum der Strohverarbeitung"
 site_name: "Museum der Strohverarbeitung"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum der Strohverarbeitung, located in the quaint town of Twistringen, Germany, invites visitors to explore the unique artistry and history of straw..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

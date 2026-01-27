@@ -3,7 +3,7 @@ title: "Heimatmuseum Gerstungen"
 site_name: "Heimatmuseum Gerstungen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Gerstungen, located in the heart of Thuringia, Germany, is a cultural cornerstone that provides a deep insight into the local heritage and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

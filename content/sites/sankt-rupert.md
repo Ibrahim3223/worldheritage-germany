@@ -3,7 +3,7 @@ title: "Sankt Rupert"
 site_name: "Sankt Rupert"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "Sankt Rupert is a remarkable church building located in the heart of Bavaria, Germany, specifically in the town of Freilassing."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

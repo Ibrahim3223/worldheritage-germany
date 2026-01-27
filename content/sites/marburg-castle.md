@@ -3,7 +3,7 @@ title: "Marburg Castle"
 site_name: "Marburg Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Marburg, Hesse, Germany"
+description: "Marburg Castle, located in the picturesque town of Marburg in Hesse, Germany, is a remarkable structure that has witnessed centuries of history unfold."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

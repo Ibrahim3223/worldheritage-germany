@@ -3,7 +3,7 @@ title: "Hagen Open-air Museum"
 site_name: "Hagen Open-air Museum"
 date: 2026-01-26
 draft: false
-description: "open-air museum in Hagen, North Rhine-Westphalia, Germany"
+description: "The Hagen Open-air Museum, located in Hagen, North Rhine-Westphalia, Germany, is a distinctive cultural destination that highlights the rich tradition of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

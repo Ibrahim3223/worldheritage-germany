@@ -3,7 +3,7 @@ title: "Kampa Halle"
 site_name: "Kampa Halle"
 date: 2026-01-26
 draft: false
-description: "Mehrzweckhalle in der ostwestfälischen Stadt Minden"
+description: "Kampa Halle, located in Minden, Germany, serves as a versatile multi-purpose hall that plays an integral role in the cultural and community life of this..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

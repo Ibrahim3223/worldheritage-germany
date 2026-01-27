@@ -3,7 +3,7 @@ title: "Müser-Brauerei"
 site_name: "Müser-Brauerei"
 date: 2026-01-26
 draft: false
-description: "ehemalige Brauerei in Bochum-Langendreer, Nordrhein-Westfalen, Deutschland"
+description: "Müser-Brauerei, located in Bochum-Ost, Germany, represents a significant chapter in the narrative of regional brewing heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

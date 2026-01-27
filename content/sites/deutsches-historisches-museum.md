@@ -3,7 +3,7 @@ title: "Deutsches Historisches Museum"
 site_name: "Deutsches Historisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum of German history in Berlin"
+description: "The Deutsches Historisches Museum (German Historical Museum) stands as a pivotal institution in Berlin, offering a profound exploration of the complex..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

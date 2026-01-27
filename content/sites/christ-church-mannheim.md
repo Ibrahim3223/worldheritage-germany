@@ -3,7 +3,7 @@ title: "Christ Church Mannheim"
 site_name: "Christ Church Mannheim"
 date: 2026-01-26
 draft: false
-description: "church in Mannheim, Germany"
+description: "Christ Church Mannheim is an emblematic church building located in the vibrant city of Mannheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

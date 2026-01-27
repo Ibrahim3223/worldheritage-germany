@@ -3,7 +3,7 @@ title: "Eltendenkmal"
 site_name: "Eltendenkmal"
 date: 2026-01-26
 draft: false
-description: "monument near Hannover, Germany"
+description: "The Eltendenkmal, located in Wennigsen, Germany, is a striking monument that serves as a poignant reminder of the region's historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Burg Montclair"
 site_name: "Burg Montclair"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Montclair, a captivating castle situated in Mettlach, Germany, offers visitors a glimpse into the region's storied past and architectural elegance."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

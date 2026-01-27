@@ -3,7 +3,7 @@ title: "St. Gudula"
 site_name: "St. Gudula"
 date: 2026-01-26
 draft: false
-description: "church building in Rhede"
+description: "St. Gudula, a prominent church building located in Rhede, Germany, serves as a significant landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

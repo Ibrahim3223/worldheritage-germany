@@ -3,7 +3,7 @@ title: "Mobile Welt des Ostens"
 site_name: "Mobile Welt des Ostens"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Mobile Welt des Ostens, located in the town of Calau, Germany, serves as an intriguing museum dedicated to the cultural and historical narratives of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

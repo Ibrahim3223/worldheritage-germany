@@ -3,7 +3,7 @@ title: "Am brennten Buck"
 site_name: "Am brennten Buck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Am brennten Buck is a captivating castle located in the picturesque region of Schliengen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

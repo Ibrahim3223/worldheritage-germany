@@ -3,7 +3,7 @@ title: "Husum danish Church"
 site_name: "Husum danish Church"
 date: 2026-01-26
 draft: false
-description: "church building in Husum, Germany"
+description: "The Husum Danish Church, located in the quaint town of Husum, Germany, stands as a notable example of religious architecture and cultural heritage within..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

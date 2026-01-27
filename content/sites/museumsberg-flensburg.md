@@ -3,7 +3,7 @@ title: "Museumsberg Flensburg"
 site_name: "Museumsberg Flensburg"
 date: 2026-01-26
 draft: false
-description: "artmuseum in Flensburg, Germany"
+description: "Museumsberg Flensburg is an art museum situated in the historic city of Flensburg, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"

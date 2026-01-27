@@ -3,7 +3,7 @@ title: "Christ Church, Neunkirchen (Saar)"
 site_name: "Christ Church, Neunkirchen (Saar)"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Christ Church in Neunkirchen (Saar) is not just a church building; it represents a significant landmark in the cultural and architectural landscape of this..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

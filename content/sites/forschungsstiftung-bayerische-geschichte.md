@@ -3,7 +3,7 @@ title: "Forschungsstiftung Bayerische Geschichte"
 site_name: "Forschungsstiftung Bayerische Geschichte"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Forschungsstiftung Bayerische Geschichte, located in the vibrant city of Munich, Germany, serves as a cornerstone for the exploration and preservation..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

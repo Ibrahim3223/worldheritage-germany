@@ -3,7 +3,7 @@ title: "Museum Lothar Fischer"
 site_name: "Museum Lothar Fischer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum Lothar Fischer stands as a prominent institution dedicated to the appreciation of contemporary art in Neumarkt in der Oberpfalz, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

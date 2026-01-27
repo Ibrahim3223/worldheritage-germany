@@ -3,7 +3,7 @@ title: "Saint Mary Church"
 site_name: "Saint Mary Church"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Saint Mary Church, located in the tranquil region of Neu Boltenhagen in Mecklenburg-Vorpommern, Germany, serves as a remarkable example of ecclesiastical..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

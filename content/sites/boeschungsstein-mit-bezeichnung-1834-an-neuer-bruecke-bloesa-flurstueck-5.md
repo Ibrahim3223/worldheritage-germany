@@ -3,7 +3,7 @@ title: "Böschungsstein mit Bezeichnung 1834 an neuer Brücke Blösa (Flurstück
 site_name: "Böschungsstein mit Bezeichnung 1834 an neuer Brücke Blösa (Flurstück 5)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Böschungsstein mit Bezeichnung 1834 an neuer Brücke Blösa, located in the quaint village of Kubschütz, Germany, is a significant bridge that exemplifies..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

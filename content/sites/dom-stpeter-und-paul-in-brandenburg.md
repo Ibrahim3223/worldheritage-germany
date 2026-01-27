@@ -3,7 +3,7 @@ title: "Dom St.Peter und Paul in Brandenburg"
 site_name: "Dom St.Peter und Paul in Brandenburg"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "Dom St. Peter und Paul in Brandenburg is not merely a religious structure; it is a significant landmark that encapsulates centuries of history and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

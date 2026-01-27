@@ -3,7 +3,7 @@ title: "Lieper Bucht"
 site_name: "Lieper Bucht"
 date: 2026-01-26
 draft: false
-description: "bathing area in Berlin, Germany"
+description: "Lieper Bucht is a captivating bathing area located in the tranquil district of Steglitz-Zehlendorf, Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Beach"

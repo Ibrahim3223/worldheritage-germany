@@ -3,7 +3,7 @@ title: "Baumwerder"
 site_name: "Baumwerder"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Baumwerder is an intriguing island located in the heart of Berlin, Germany, offering a unique glimpse into the natural beauty that can be found amidst the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Island"

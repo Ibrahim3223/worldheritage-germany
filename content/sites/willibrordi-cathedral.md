@@ -3,7 +3,7 @@ title: "Willibrordi Cathedral"
 site_name: "Willibrordi Cathedral"
 date: 2026-01-26
 draft: false
-description: "Protestant church building in Wesel, Germany"
+description: "Willibrordi Cathedral is a striking Protestant church located in Wesel, Germany, serving as a significant landmark both architecturally and historically."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum FLUXUS+"
 site_name: "Museum FLUXUS+"
 date: 2026-01-26
 draft: false
-description: "art museum in Potsdam, Germany"
+description: "Museum FLUXUS+ is an engaging art museum located in the vibrant city of Potsdam, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

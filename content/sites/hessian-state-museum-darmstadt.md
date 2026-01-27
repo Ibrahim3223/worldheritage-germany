@@ -3,7 +3,7 @@ title: "Hessian State Museum Darmstadt"
 site_name: "Hessian State Museum Darmstadt"
 date: 2026-01-26
 draft: false
-description: "German museum (1820-)"
+description: "The Hessian State Museum Darmstadt represents a confluence of art, history, and culture, offering visitors a chance to explore a vast range of exhibits that..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

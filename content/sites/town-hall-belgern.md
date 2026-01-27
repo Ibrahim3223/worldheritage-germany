@@ -3,7 +3,7 @@ title: "Town hall Belgern"
 site_name: "Town hall Belgern"
 date: 2026-01-26
 draft: false
-description: "City hall in Belgern (Saxony)"
+description: "The Town Hall in Belgern, located in the Saxony region of Germany, serves as a focal point for local governance and community engagement."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

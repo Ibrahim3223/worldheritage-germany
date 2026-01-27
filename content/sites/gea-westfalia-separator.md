@@ -3,7 +3,7 @@ title: "GEA Westfalia Separator"
 site_name: "GEA Westfalia Separator"
 date: 2026-01-26
 draft: false
-description: "company"
+description: "The GEA Westfalia Separator, located in Oelde, Germany, is a pivotal factory in the realm of industrial processing."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

@@ -3,7 +3,7 @@ title: "Leonardo library"
 site_name: "Leonardo library"
 date: 2026-01-26
 draft: false
-description: "library in Magdeburg, Germany"
+description: "In the heart of Magdeburg, Germany, the Leonardo library stands as a modern hub of knowledge and community engagement."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

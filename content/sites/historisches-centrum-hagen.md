@@ -3,7 +3,7 @@ title: "Historisches Centrum Hagen"
 site_name: "Historisches Centrum Hagen"
 date: 2026-01-26
 draft: false
-description: "City museum in Germany"
+description: "Historisches Centrum Hagen serves as an essential cultural institution in the heart of Hagen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Johannesstift (Ershausen)"
 site_name: "St. Johannesstift (Ershausen)"
 date: 2026-01-26
 draft: false
-description: "Stiftung in Ershausen, Thüringen"
+description: "St. Johannesstift in Ershausen, Thüringen, is a noteworthy foundation that invites visitors to explore its historical significance and architectural charm."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Foundation"

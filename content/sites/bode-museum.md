@@ -3,7 +3,7 @@ title: "Bode Museum"
 site_name: "Bode Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Berlin"
+description: "The Bode Museum, located in the heart of Berlin, Germany, serves as a vibrant hub for art enthusiasts and history buffs alike."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

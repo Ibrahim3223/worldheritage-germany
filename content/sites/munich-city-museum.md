@@ -3,7 +3,7 @@ title: "Munich City Museum"
 site_name: "Munich City Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the heart of Munich, the Munich City Museum is a vibrant cultural institution that encapsulates the essence of the city’s rich history and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

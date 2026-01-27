@@ -3,7 +3,7 @@ title: "Ausstellungsgebäude Sammlung Goetz"
 site_name: "Ausstellungsgebäude Sammlung Goetz"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Located in the heart of Germany, the Ausstellungsgebäude Sammlung Goetz serves as a notable art museum dedicated to contemporary art."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

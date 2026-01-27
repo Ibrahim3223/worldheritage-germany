@@ -3,7 +3,7 @@ title: "Palace Staufeneck"
 site_name: "Palace Staufeneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the picturesque region of Piding, Germany, Palace Staufeneck captures the imagination with its storied past and architectural charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

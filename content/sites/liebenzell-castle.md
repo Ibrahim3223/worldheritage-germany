@@ -3,7 +3,7 @@ title: "Liebenzell Castle"
 site_name: "Liebenzell Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Liebenzell Castle, a remarkable structure located in the picturesque region of Bad Liebenzell, Germany, invites visitors to explore its storied corridors..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

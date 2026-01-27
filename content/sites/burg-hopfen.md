@@ -3,7 +3,7 @@ title: "Burg Hopfen"
 site_name: "Burg Hopfen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hopfen, a striking castle located in Füssen, Germany, presents an engaging glimpse into the region's storied past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

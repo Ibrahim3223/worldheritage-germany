@@ -3,7 +3,7 @@ title: "Peter und Irene Ludwig Stiftung"
 site_name: "Peter und Irene Ludwig Stiftung"
 date: 2026-01-26
 draft: false
-description: "art foundation in Germany"
+description: "The Peter und Irene Ludwig Stiftung, an esteemed art foundation located in Aachen, Germany, serves as a pivotal cultural institution dedicated to the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

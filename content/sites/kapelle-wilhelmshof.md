@@ -3,7 +3,7 @@ title: "Kapelle Wilhelmshof"
 site_name: "Kapelle Wilhelmshof"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Kapelle Wilhelmshof is an architectural structure situated in the serene region of Plöwen, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"

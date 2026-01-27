@@ -3,7 +3,7 @@ title: "Arrisrieder Moos"
 site_name: "Arrisrieder Moos"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Arrisrieder Moos, a serene nature reserve located in the Kißlegg region of Baden-Württemberg, Germany, is a sanctuary for both wildlife enthusiasts and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

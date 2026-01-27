@@ -3,7 +3,7 @@ title: "Dorfkirche Gübs"
 site_name: "Dorfkirche Gübs"
 date: 2026-01-26
 draft: false
-description: "church building in Biederitz, Germany"
+description: "Dorfkirche Gübs, located in the charming region of Biederitz, Germany, is a notable example of ecclesiastical architecture that tells the story of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Zoo Landau"
 site_name: "Zoo Landau"
 date: 2026-01-26
 draft: false
-description: "zoo in Landau in der Pfalz, Germany"
+description: "Zoo Landau is a prominent destination for animal lovers and families alike, situated in the charming town of Landau in der Pfalz, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

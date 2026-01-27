@@ -3,7 +3,7 @@ title: "Lessinghaus"
 site_name: "Lessinghaus"
 date: 2026-01-26
 draft: false
-description: "museum in Wolfenbüttel"
+description: "Located in the heart of Wolfenbüttel, Germany, Lessinghaus is a museum dedicated to the life and works of the influential German playwright and philosopher..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

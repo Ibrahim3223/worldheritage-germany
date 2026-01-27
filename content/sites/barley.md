@@ -3,7 +3,7 @@ title: "Barley"
 site_name: "Barley"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Barley is a captivating nature reserve located in Lower Saxony, Germany, specifically within the region of Liebenburg."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

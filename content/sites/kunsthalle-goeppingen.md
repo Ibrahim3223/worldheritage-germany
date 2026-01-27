@@ -3,7 +3,7 @@ title: "Kunsthalle Göppingen"
 site_name: "Kunsthalle Göppingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthalle Göppingen, an art museum located in the heart of Göppingen, Germany, offers visitors a chance to immerse themselves in a diverse array of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Altarstein (Saxon Switzerland)"
 site_name: "Altarstein (Saxon Switzerland)"
 date: 2026-01-26
 draft: false
-description: "monument in Sebnitz, Germany"
+description: "Altarstein, located in the picturesque region of Saxon Switzerland, Germany, is a captivating monument that draws visitors into its historical narrative and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Hohnstein Castle"
 site_name: "Hohnstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hohnstein Castle, a striking architectural remnant, rises above the picturesque landscapes of the Hohnstein region in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

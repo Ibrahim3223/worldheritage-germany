@@ -3,7 +3,7 @@ title: "Garz castle"
 site_name: "Garz castle"
 date: 2026-01-26
 draft: false
-description: "castle in Temnitztal, Brandenburg state, Germany"
+description: "Garz Castle, located in the picturesque region of Temnitztal in Brandenburg, Germany, is an architectural gem that offers visitors a glimpse into the past."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

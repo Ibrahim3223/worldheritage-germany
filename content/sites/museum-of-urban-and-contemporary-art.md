@@ -3,7 +3,7 @@ title: "Museum of Urban and Contemporary Art"
 site_name: "Museum of Urban and Contemporary Art"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of Urban and Contemporary Art, located in Munich, Germany, serves as a vibrant platform for contemporary artistic expression and urban culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

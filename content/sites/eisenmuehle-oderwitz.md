@@ -3,7 +3,7 @@ title: "Eisenmühle (Oderwitz)"
 site_name: "Eisenmühle (Oderwitz)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Eisenmühle, located in Oderwitz within the Elstertrebnitz region of Germany, offers an insightful glimpse into local heritage through its museum setting."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Waldnaabtalmuseum in der Burg Neuhaus"
 site_name: "Waldnaabtalmuseum in der Burg Neuhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Waldnaabtalmuseum in der Burg Neuhaus is an intriguing cultural destination located in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Garten Bürgermeister-Mertel-Straße 20 in Kronach"
 site_name: "Garten Bürgermeister-Mertel-Straße 20 in Kronach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-145-451 (1) in Kronach, Bavaria"
+description: "Garten Bürgermeister-Mertel-Straße 20 in Kronach is a serene and captivating garden that serves as a cultural heritage monument in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

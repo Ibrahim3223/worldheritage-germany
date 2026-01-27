@@ -3,7 +3,7 @@ title: "Kapelle Lutter"
 site_name: "Kapelle Lutter"
 date: 2026-01-26
 draft: false
-description: "chapel in Lutter, Germany"
+description: "Kapelle Lutter, a quaint chapel located in the charming town of Lutter in Neustadt am Rübenberge, Germany, serves as both a spiritual haven and a cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

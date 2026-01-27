@@ -3,7 +3,7 @@ title: "Steinholzstraße 3, 4, 5, 6, 7, 8, 9"
 site_name: "Steinholzstraße 3, 4, 5, 6, 7, 8, 9"
 date: 2026-01-26
 draft: false
-description: "group of buildings in Quedlinburg, Germany"
+description: "Steinholzstraße 3, 4, 5, 6, 7, 8, 9 represents an architectural ensemble of significant cultural heritage situated in Quedlinburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

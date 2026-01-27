@@ -3,7 +3,7 @@ title: "St. Mary's Neuruppin"
 site_name: "St. Mary's Neuruppin"
 date: 2026-01-26
 draft: false
-description: "church building in Neuruppin, Germany"
+description: "St. Mary's Neuruppin is a remarkable church building located in the historic town of Neuruppin, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

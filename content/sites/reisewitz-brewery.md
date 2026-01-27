@@ -3,7 +3,7 @@ title: "Reisewitz brewery"
 site_name: "Reisewitz brewery"
 date: 2026-01-26
 draft: false
-description: "German trademark, brewery in Dresden"
+description: "Reisewitz Brewery, located in Dresden, Germany, stands as an emblem of the local brewing tradition, weaving the story of German craftsmanship into each pint..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Brewery"

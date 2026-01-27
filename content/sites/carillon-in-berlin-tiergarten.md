@@ -3,7 +3,7 @@ title: "Carillon in Berlin-Tiergarten"
 site_name: "Carillon in Berlin-Tiergarten"
 date: 2026-01-26
 draft: false
-description: "freestanding 42m-tall tower in Berlin's central Tiergarten park"
+description: "Standing tall amidst the lush greenery of Berlin's Tiergarten, the Carillon is a distinctive structure that captures the spirit of both the natural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tower"

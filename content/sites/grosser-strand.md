@@ -3,7 +3,7 @@ title: "Großer Strand"
 site_name: "Großer Strand"
 date: 2026-01-26
 draft: false
-description: "Strand in Deutschland"
+description: "Großer Strand, located in the scenic region of Mecklenburg-Vorpommern, Germany, is a captivating beach that attracts visitors seeking relaxation and recreation."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

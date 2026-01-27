@@ -3,7 +3,7 @@ title: "Gedenkstätte für Revolutionäre Rote Matrosen"
 site_name: "Gedenkstätte für Revolutionäre Rote Matrosen"
 date: 2026-01-26
 draft: false
-description: "Memorial in Rostock, Germany"
+description: "The Gedenkstätte für Revolutionäre Rote Matrosen, or Memorial for Revolutionary Red Sailors, is a poignant memorial located in Rostock, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Memorial"

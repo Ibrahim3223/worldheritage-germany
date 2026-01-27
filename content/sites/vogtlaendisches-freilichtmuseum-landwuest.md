@@ -3,7 +3,7 @@ title: "Vogtländisches Freilichtmuseum Landwüst"
 site_name: "Vogtländisches Freilichtmuseum Landwüst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Vogtländisches Freilichtmuseum Landwüst stands as a captivating museum located in Markneukirchen, Germany, dedicated to showcasing the region's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

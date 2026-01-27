@@ -3,7 +3,7 @@ title: "ESO Supernova Planetarium & Visitor Centre"
 site_name: "ESO Supernova Planetarium & Visitor Centre"
 date: 2026-01-26
 draft: false
-description: "astronomy center"
+description: "The ESO Supernova Planetarium & Visitor Centre is an exceptional destination for those captivated by the mysteries of the universe."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

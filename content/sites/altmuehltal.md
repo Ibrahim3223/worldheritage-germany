@@ -3,7 +3,7 @@ title: "Altmühltal"
 site_name: "Altmühltal"
 date: 2026-01-26
 draft: false
-description: "valley of the Altmühl"
+description: "Altmühltal, located in Middle Franconia, Germany, is a captivating valley defined by the gentle flow of the Altmühl River."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"

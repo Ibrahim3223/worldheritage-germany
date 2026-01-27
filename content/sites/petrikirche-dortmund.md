@@ -3,7 +3,7 @@ title: "Petrikirche (Dortmund)"
 site_name: "Petrikirche (Dortmund)"
 date: 2026-01-26
 draft: false
-description: "church building in North Rhine-Westphalia, Germany"
+description: "Petrikirche, located in the heart of Dortmund, Germany, is a striking church building that serves as a significant landmark in the region of North..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

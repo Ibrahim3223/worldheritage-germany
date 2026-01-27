@@ -3,7 +3,7 @@ title: "Lehnberg"
 site_name: "Lehnberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Lehnberg, a prominent mountain located in the picturesque region of Thuringia, Germany, offers a remarkable retreat for nature enthusiasts and adventure..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

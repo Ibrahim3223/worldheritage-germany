@@ -3,7 +3,7 @@ title: "Löcknitz Castle"
 site_name: "Löcknitz Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Löcknitz Castle, located in the charming region of Löcknitz, Germany, is an architectural marvel that invites visitors to explore its storied past."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

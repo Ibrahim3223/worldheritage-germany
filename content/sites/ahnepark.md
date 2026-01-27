@@ -3,7 +3,7 @@ title: "Ahnepark"
 site_name: "Ahnepark"
 date: 2026-01-26
 draft: false
-description: "park in Vellmar, Germany"
+description: "Ahnepark is a serene park located in Vellmar, Germany, serving as a green oasis for both locals and visitors."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Park"

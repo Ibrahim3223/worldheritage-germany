@@ -3,7 +3,7 @@ title: "Peetzsee"
 site_name: "Peetzsee"
 date: 2026-01-26
 draft: false
-description: "lake in Oder-Spree District, Brandenburg, Germany"
+description: "Peetzsee, located in the scenic Oder-Spree District of Brandenburg, Germany, offers visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

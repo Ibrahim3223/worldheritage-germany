@@ -3,7 +3,7 @@ title: "Burg Mihlebach"
 site_name: "Burg Mihlebach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mihlebach, an intriguing castle located in the charming region of Mühlenbach, Germany, offers visitors a glimpse into the architectural and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

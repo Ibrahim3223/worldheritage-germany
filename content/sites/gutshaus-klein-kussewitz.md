@@ -3,7 +3,7 @@ title: "Gutshaus Klein Kussewitz"
 site_name: "Gutshaus Klein Kussewitz"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Klein Kussewitz, Gemeinde Bentwisch im Landkreis Rostock"
+description: "Gutshaus Klein Kussewitz is an enchanting manor house located in the quaint village of Klein Kussewitz in the Bentwisch municipality, situated within the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

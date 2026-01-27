@@ -3,7 +3,7 @@ title: "Martin city gate"
 site_name: "Martin city gate"
 date: 2026-01-26
 draft: false
-description: "Das Martinstor ist eins der drei Stadttore in Cochem"
+description: "Perched prominently within the charming town of Cochem, Germany, the Martin City Gate (Das Martinstor) serves as a symbolic entryway that connects both the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Braunschweig Central Station"
 site_name: "Braunschweig Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Brunswick, Germany"
+description: "Braunschweig Central Station, located in the heart of Brunswick, Germany, serves as a vital transportation hub for the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

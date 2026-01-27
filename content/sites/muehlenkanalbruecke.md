@@ -3,7 +3,7 @@ title: "Mühlenkanalbrücke"
 site_name: "Mühlenkanalbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Einbeck, Germany"
+description: "In the charming town of Einbeck, Germany, the Mühlenkanalbrücke stands as a significant aquatic structure that embodies both engineering ingenuity and the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Aqueduct"

@@ -3,7 +3,7 @@ title: "Statue of Albrecht von Roon"
 site_name: "Statue of Albrecht von Roon"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin, Germany"
+description: "The Statue of Albrecht von Roon, located in the heart of Berlin, serves as a striking tribute to one of the Prussian military leaders who played a pivotal..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

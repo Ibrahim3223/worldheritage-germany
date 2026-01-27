@@ -3,7 +3,7 @@ title: "Landarbeitermuseum Suurhusen"
 site_name: "Landarbeitermuseum Suurhusen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Landarbeitermuseum Suurhusen stands as a tribute to the agricultural heritage and rural life of the region of Hinte in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

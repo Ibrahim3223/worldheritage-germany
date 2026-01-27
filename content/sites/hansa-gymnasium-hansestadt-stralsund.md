@@ -3,7 +3,7 @@ title: "Hansa-Gymnasium Hansestadt Stralsund"
 site_name: "Hansa-Gymnasium Hansestadt Stralsund"
 date: 2026-01-26
 draft: false
-description: "school in Stralsund, Mecklenburg-Vorpommern, Germany"
+description: "The Hansa-Gymnasium Hansestadt Stralsund is an important educational institution located in Stralsund, a historical city in the northeastern region of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "School Building"

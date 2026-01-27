@@ -3,7 +3,7 @@ title: "Haus Hove"
 site_name: "Haus Hove"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Haus Hove is an architectural ensemble located in the charming region of Volmarstein, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

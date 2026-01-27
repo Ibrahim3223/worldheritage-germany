@@ -3,7 +3,7 @@ title: "Schloss Waldeck"
 site_name: "Schloss Waldeck"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Waldeck, a captivating museum located in the picturesque region of Waldeck, Germany, offers visitors a unique glimpse into the historical and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

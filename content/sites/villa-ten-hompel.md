@@ -3,7 +3,7 @@ title: "Villa Ten Hompel"
 site_name: "Villa Ten Hompel"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Villa Ten Hompel, located in the vibrant city of Münster, Germany, is a museum that captures the essence of architectural elegance and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

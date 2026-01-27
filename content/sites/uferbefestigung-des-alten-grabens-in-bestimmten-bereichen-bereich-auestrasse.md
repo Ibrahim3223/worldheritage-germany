@@ -3,7 +3,7 @@ title: "Uferbefestigung des Alten Grabens in bestimmten Bereichen (Bereich Auest
 site_name: "Uferbefestigung des Alten Grabens in bestimmten Bereichen (Bereich Auestraße)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Uferbefestigung des Alten Grabens in bestimmten Bereichen (Bereich Auestraße) is an intriguing historical bridge located in the serene region of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

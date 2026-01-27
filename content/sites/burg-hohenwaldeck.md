@@ -3,7 +3,7 @@ title: "Burg Hohenwaldeck"
 site_name: "Burg Hohenwaldeck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenwaldeck, a historic castle located in the picturesque Schliersee region of Germany, invites visitors to explore its storied past and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Französische Friedrichstadtkirche"
 site_name: "Französische Friedrichstadtkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Französische Friedrichstadtkirche, located in the heart of Berlin's Bezirk Mitte, is a striking church building that reflects the city's complex history and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

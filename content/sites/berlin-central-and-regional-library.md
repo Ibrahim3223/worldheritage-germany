@@ -3,7 +3,7 @@ title: "Berlin Central and Regional Library"
 site_name: "Berlin Central and Regional Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Berlin Central and Regional Library, known for its contribution to the cultural fabric of Berlin, is more than just a repository of books; it serves as..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Garten der Erinnerung"
 site_name: "Garten der Erinnerung"
 date: 2026-01-26
 draft: false
-description: "artwork in public space by Dani Karavan in Duisburg, Germany"
+description: "Garten der Erinnerung, located in Duisburg, Germany, is a striking public art installation designed by renowned artist Dani Karavan."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Garden"

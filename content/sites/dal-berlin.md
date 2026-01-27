@@ -3,7 +3,7 @@ title: "Dalí Berlin"
 site_name: "Dalí Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Berlin’s Bezirk Mitte lies a fascinating cultural institution dedicated to the whimsy and genius of one of the 20th century's most iconic..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

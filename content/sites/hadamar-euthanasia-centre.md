@@ -3,7 +3,7 @@ title: "Hadamar Euthanasia Centre"
 site_name: "Hadamar Euthanasia Centre"
 date: 2026-01-26
 draft: false
-description: "Nazi extermination centre in Hesse, Germany (1941-1945)"
+description: "The Hadamar Euthanasia Centre, located in Hadamar, Germany, stands as a stark reminder of one of the darkest chapters in human history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

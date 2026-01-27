@@ -3,7 +3,7 @@ title: "Rathaus Ritterhude"
 site_name: "Rathaus Ritterhude"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Ritterhude"
+description: "Rathaus Ritterhude, the city hall of Ritterhude, Germany, serves as a focal point of administrative and civic life."
 region: "Bremen"
 country: "Germany"
 heritage_type: "City Hall"

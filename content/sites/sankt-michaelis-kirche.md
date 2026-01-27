@@ -3,7 +3,7 @@ title: "Sankt-Michaelis-Kirche"
 site_name: "Sankt-Michaelis-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Schkopau, Germany"
+description: "Located in the historic region of Schkopau, Germany, Sankt-Michaelis-Kirche is an intriguing church building that encapsulates the architectural and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

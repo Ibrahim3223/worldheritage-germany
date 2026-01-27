@@ -3,7 +3,7 @@ title: "New city library Augsburg"
 site_name: "New city library Augsburg"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The New City Library in Augsburg is more than just a repository of books; it is a central hub for knowledge, culture, and community engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

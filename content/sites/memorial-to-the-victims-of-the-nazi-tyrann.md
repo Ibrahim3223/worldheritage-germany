@@ -3,7 +3,7 @@ title: "Memorial to the victims of the Nazi tyrann"
 site_name: "Memorial to the victims of the Nazi tyrann"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Memorial to the Victims of the Nazi Tyranny serves as a poignant reminder of the atrocities committed during one of history's darkest periods."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Noor Mosque"
 site_name: "Noor Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Frankfurt am Main"
+description: "The Noor Mosque, located in the vibrant city of Frankfurt am Main, serves as a significant place of worship and community for Muslims in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

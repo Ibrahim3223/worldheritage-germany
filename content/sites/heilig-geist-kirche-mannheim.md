@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kirche (Mannheim)"
 site_name: "Heilig-Geist-Kirche (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig-Geist-Kirche, located in the vibrant city of Mannheim, Germany, is a church building that stands out not only for its religious significance but also..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

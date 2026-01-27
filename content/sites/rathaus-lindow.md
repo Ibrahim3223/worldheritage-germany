@@ -3,7 +3,7 @@ title: "Rathaus Lindow"
 site_name: "Rathaus Lindow"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Lindow (Mark), Landkreis Ostprignitz-Ruppin, Brandenburg"
+description: "Rathaus Lindow, located in the charming town of Lindow in the district of Ostprignitz-Ruppin, Brandenburg, Germany, is a city hall that reflects both the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

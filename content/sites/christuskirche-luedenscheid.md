@@ -3,7 +3,7 @@ title: "Christuskirche (Lüdenscheid)"
 site_name: "Christuskirche (Lüdenscheid)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche in Lüdenscheid is an esteemed church building that stands as a notable landmark in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

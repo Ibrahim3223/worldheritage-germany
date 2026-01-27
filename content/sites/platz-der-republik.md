@@ -3,7 +3,7 @@ title: "Platz der Republik"
 site_name: "Platz der Republik"
 date: 2026-01-26
 draft: false
-description: "public square in Berlin, Germany"
+description: "Platz der Republik, located in the heart of Berlin's Bezirk Mitte, serves as a significant public square that encapsulates the essence of Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

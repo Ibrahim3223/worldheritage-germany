@@ -3,7 +3,7 @@ title: "Paderborn Cathedral"
 site_name: "Paderborn Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Germany"
+description: "Paderborn Cathedral, officially known as the Cathedral of St. Mary, St."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

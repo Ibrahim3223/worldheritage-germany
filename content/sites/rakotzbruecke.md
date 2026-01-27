@@ -3,7 +3,7 @@ title: "Rakotzbrücke"
 site_name: "Rakotzbrücke"
 date: 2026-01-26
 draft: false
-description: "Folly bridge in Gablenz, Germany"
+description: "Rakotzbrücke, often referred to as the "Devil's Bridge," is an architectural marvel located in Gablenz, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Bridge"

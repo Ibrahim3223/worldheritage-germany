@@ -3,7 +3,7 @@ title: "Residenzschloss Oettingen in Bayern"
 site_name: "Residenzschloss Oettingen in Bayern"
 date: 2026-01-26
 draft: false
-description: "building in Donau-Ries, Swabia, Germany"
+description: "Residenzschloss Oettingen in Bayern stands as an impressive museum within the town of Oettingen in Bayern, in the picturesque region of Donau-Ries, Swabia,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

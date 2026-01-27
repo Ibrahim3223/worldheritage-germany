@@ -3,7 +3,7 @@ title: "Kleine Straßenbrücke mit einem Bogen Grumbach"
 site_name: "Kleine Straßenbrücke mit einem Bogen Grumbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the heart of Wilsdruff, Germany, lies the Kleine Straßenbrücke mit einem Bogen Grumbach, a bridge that embodies the understated elegance of regional..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Dorfstraße 71 (bei)"
 site_name: "Steindeckerbrücke Dorfstraße 71 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Steindeckerbrücke, located at Dorfstraße 71 in Königshain, Germany, stands as an essential point of interest for both history enthusiasts and architecture..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

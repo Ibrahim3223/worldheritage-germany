@@ -3,7 +3,7 @@ title: "Villengarten Hundweilerstraße 2; Nähe Hundweilerstraße in Lindau (Bod
 site_name: "Villengarten Hundweilerstraße 2; Nähe Hundweilerstraße in Lindau (Bodensee)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-7-76-116-382 (2) in Lindau (Bodensee), Bavaria"
+description: "Villengarten Hundweilerstraße 2, located in Lindau (Bodensee), Germany, is not just a garden but an embodiment of cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

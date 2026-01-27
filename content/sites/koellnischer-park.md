@@ -3,7 +3,7 @@ title: "Köllnischer Park"
 site_name: "Köllnischer Park"
 date: 2026-01-26
 draft: false
-description: "public park near the River Spree in Mitte, Berlin, Germany"
+description: "Köllnischer Park, located in the heart of Berlin's Bezirk Mitte, is a public oasis that offers a serene escape from the urban hustle and bustle."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

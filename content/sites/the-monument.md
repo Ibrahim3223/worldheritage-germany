@@ -3,7 +3,7 @@ title: "The Monument"
 site_name: "The Monument"
 date: 2026-01-26
 draft: false
-description: "sculpture by Atelier Van Lieshout"
+description: "The Monument, a striking statue situated in Bezirk Mitte, Germany, invites visitors to engage with contemporary artistic expression in an urban landscape..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

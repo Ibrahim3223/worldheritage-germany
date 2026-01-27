@@ -3,7 +3,7 @@ title: "Ostenfriedhof Dortmund"
 site_name: "Ostenfriedhof Dortmund"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dortmund, Germany"
+description: "Ostenfriedhof Dortmund is a notable cemetery located in Dortmund, Germany, serving as a serene resting place that reflects the region's historical and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Beginenhof Deilinghofen"
 site_name: "Beginenhof Deilinghofen"
 date: 2026-01-26
 draft: false
-description: "Damenstift in Hemer-Deilinghofen"
+description: "Beginenhof Deilinghofen, located in the serene region of Hemer, Germany, is a significant monastic site that invites visitors to explore its spiritual and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

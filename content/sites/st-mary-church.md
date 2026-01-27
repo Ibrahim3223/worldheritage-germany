@@ -3,7 +3,7 @@ title: "St. Mary church"
 site_name: "St. Mary church"
 date: 2026-01-26
 draft: false
-description: "church building in Stendal, Saxony-Anhalt, Germany"
+description: "St. Mary Church, an iconic church building located in the historic town of Stendal, Saxony-Anhalt, Germany, serves as a significant landmark in the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

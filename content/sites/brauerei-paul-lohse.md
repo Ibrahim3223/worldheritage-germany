@@ -3,7 +3,7 @@ title: "Brauerei Paul Lohse"
 site_name: "Brauerei Paul Lohse"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Brauerei Paul Lohse offers a unique glimpse into the vibrant culture surrounding brewing in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Brewery"

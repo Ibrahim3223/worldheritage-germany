@@ -3,7 +3,7 @@ title: "Ehsaan Mosque"
 site_name: "Ehsaan Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Mannheim, Baden-Württemberg, Germany"
+description: "Ehsaan Mosque, located in Mannheim, Baden-Württemberg, Germany, serves as a significant cultural and religious landmark for the local Muslim community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

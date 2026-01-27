@@ -3,7 +3,7 @@ title: "Horner Kirche"
 site_name: "Horner Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bremen, Germany"
+description: "Horner Kirche, a striking church building located in Bremen, Germany, serves not only as a spiritual center but also as a significant architectural landmark..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

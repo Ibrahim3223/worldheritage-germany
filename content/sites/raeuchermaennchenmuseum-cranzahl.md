@@ -3,7 +3,7 @@ title: "Räuchermännchenmuseum Cranzahl"
 site_name: "Räuchermännchenmuseum Cranzahl"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Räuchermännchenmuseum Cranzahl is a unique cultural institution located in Sehmatal, Germany, dedicated to the art of traditional German incense..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

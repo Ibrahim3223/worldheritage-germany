@@ -3,7 +3,7 @@ title: "Heimatmuseum St. Ilgen"
 site_name: "Heimatmuseum St. Ilgen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum St. Ilgen is a cultural institution located in Germany, dedicated to preserving and showcasing the local heritage and history of the St."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

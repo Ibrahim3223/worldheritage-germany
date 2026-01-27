@@ -3,7 +3,7 @@ title: "St.-Stephani-und-Bartholomäi-Kirche"
 site_name: "St.-Stephani-und-Bartholomäi-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Detern, Germany"
+description: "St.-Stephani-und-Bartholomäi-Kirche, located in the quaint town of Detern, Germany, stands as a significant religious and cultural landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

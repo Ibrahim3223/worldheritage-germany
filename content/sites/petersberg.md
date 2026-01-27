@@ -3,7 +3,7 @@ title: "Petersberg"
 site_name: "Petersberg"
 date: 2026-01-26
 draft: false
-description: "mountain in the Siebengebirge mountain range near Bonn, Germany"
+description: "Petersberg, located in the picturesque Königswinter region near Bonn, Germany, is a notable mountain within the Siebengebirge mountain range."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

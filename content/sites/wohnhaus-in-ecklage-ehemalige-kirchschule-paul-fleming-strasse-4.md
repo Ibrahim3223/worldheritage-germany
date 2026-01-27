@@ -3,7 +3,7 @@ title: "Wohnhaus in Ecklage, ehemalige Kirchschule Paul-Fleming-Straße 4"
 site_name: "Wohnhaus in Ecklage, ehemalige Kirchschule Paul-Fleming-Straße 4"
 date: 2026-01-26
 draft: false
-description: "house in Hartenstein, Saxony, Germany"
+description: "The Wohnhaus in Ecklage, located at Paul-Fleming-Straße 4 in Hartenstein, Saxony, Germany, serves as both a museum and a window into the region's historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Naturkundliches Museum (Schweinfurt)"
 site_name: "Naturkundliches Museum (Schweinfurt)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Naturkundliches Museum in Schweinfurt, Germany, serves as a fascinating portal into the natural world, showcasing a diverse collection that reflects the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

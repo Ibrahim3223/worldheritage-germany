@@ -3,7 +3,7 @@ title: "Antikriegshaus Sievershausen"
 site_name: "Antikriegshaus Sievershausen"
 date: 2026-01-26
 draft: false
-description: "building and event venue near Hannover, Germany"
+description: "Antikriegshaus Sievershausen is a notable museum and event venue located in the Lehrte region of Germany, just a short distance from Hannover."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Martinus (Haren)"
 site_name: "St. Martinus (Haren)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "St. Martinus in Haren is a remarkable architectural structure that reflects the rich cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

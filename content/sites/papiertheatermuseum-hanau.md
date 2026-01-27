@@ -3,7 +3,7 @@ title: "Papiertheatermuseum Hanau"
 site_name: "Papiertheatermuseum Hanau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Papiertheatermuseum Hanau stands as a unique destination for culture enthusiasts and families alike, dedicated to the fascinating world of paper theater."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Fachhochschule Augsburg"
 site_name: "Fachhochschule Augsburg"
 date: 2026-01-26
 draft: false
-description: "Universität in Deutschland"
+description: "Fachhochschule Augsburg, located in Germany, is an important educational institution that serves as a hub for innovation, research, and professional..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "University"

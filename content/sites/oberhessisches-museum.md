@@ -3,7 +3,7 @@ title: "Oberhessisches Museum"
 site_name: "Oberhessisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Gießen, Germany"
+description: "The Oberhessisches Museum, located in Gießen, Germany, is a significant cultural institution that showcases the historical and artistic heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

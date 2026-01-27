@@ -3,7 +3,7 @@ title: "St.-Nicolai-Kirche"
 site_name: "St.-Nicolai-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hagenburg, Germany"
+description: "St.-Nicolai-Kirche, located in the picturesque village of Hagenburg, Germany, serves as a focal point for both local residents and visitors exploring the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

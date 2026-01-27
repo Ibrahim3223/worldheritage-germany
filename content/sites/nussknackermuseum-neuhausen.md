@@ -3,7 +3,7 @@ title: "Nussknackermuseum Neuhausen"
 site_name: "Nussknackermuseum Neuhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nussknackermuseum Neuhausen is a unique cultural institution in Germany dedicated to the art and craftsmanship of nutcracker production."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

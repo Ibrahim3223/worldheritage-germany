@@ -3,7 +3,7 @@ title: "Dankeskirche"
 site_name: "Dankeskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Nauheim, Germany"
+description: "In the heart of Bad Nauheim, Germany, the Dankeskirche stands as a striking church building that encapsulates the town's cultural and architectural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Breitscheidplatz"
 site_name: "Breitscheidplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "In the heart of Berlin, Breitscheidplatz serves as a vibrant urban square that encapsulates the city's dynamic spirit and rich history."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

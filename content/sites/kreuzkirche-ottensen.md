@@ -3,7 +3,7 @@ title: "Kreuzkirche (Ottensen)"
 site_name: "Kreuzkirche (Ottensen)"
 date: 2026-01-26
 draft: false
-description: "church building in Ottensen, Germany"
+description: "Kreuzkirche in Ottensen is an architectural gem located in the vibrant Altona district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

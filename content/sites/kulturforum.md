@@ -3,7 +3,7 @@ title: "Kulturforum"
 site_name: "Kulturforum"
 date: 2026-01-26
 draft: false
-description: "collection of cultural buildings in Berlin, Germany"
+description: "Kulturforum is an architectural ensemble located in the heart of Berlin, Germany's Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

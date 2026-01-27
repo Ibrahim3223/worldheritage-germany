@@ -3,7 +3,7 @@ title: "Stephanuskirche"
 site_name: "Stephanuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Munich, Upper Bavaria, Germany"
+description: "Stephanuskirche, a prominent church building located in Munich, Upper Bavaria, Germany, presents a fascinating blend of architectural elegance and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

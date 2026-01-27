@@ -3,7 +3,7 @@ title: "Brandgräberfeld von Mühlen Eichsen"
 site_name: "Brandgräberfeld von Mühlen Eichsen"
 date: 2026-01-26
 draft: false
-description: "archäologische Stätte in Deutschland"
+description: "The Brandgräberfeld von Mühlen Eichsen is an archaeological site located in the Nordwestmecklenburg District of Germany, marking an important chapter in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

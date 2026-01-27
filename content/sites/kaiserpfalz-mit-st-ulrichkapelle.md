@@ -3,7 +3,7 @@ title: "Kaiserpfalz mit St. Ulrichkapelle"
 site_name: "Kaiserpfalz mit St. Ulrichkapelle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kaiserpfalz mit St. Ulrichkapelle, located in the historic town of Goslar, Germany, is a museum that encapsulates the essence of medieval German..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

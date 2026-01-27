@@ -3,7 +3,7 @@ title: "Fernmeldeturm Dissen"
 site_name: "Fernmeldeturm Dissen"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Dissen is an intriguing communication tower located in Dissen am Teutoburger Wald, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

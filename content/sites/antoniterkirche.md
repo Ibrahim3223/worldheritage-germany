@@ -3,7 +3,7 @@ title: "Antoniterkirche"
 site_name: "Antoniterkirche"
 date: 2026-01-26
 draft: false
-description: "church in Cologne-Altstadt-Nord, Germany"
+description: "The Antoniterkirche, located in the Altstadt-Nord district of Cologne, Germany, serves as a striking example of religious architecture with a profound..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

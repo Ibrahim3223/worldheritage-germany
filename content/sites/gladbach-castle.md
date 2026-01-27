@@ -3,7 +3,7 @@ title: "Gladbach Castle"
 site_name: "Gladbach Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Vettweiß, Germany"
+description: "Gladbach Castle, a striking edifice located in the Vettweiß region of Germany, invites visitors to explore its storied past and architectural elegance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

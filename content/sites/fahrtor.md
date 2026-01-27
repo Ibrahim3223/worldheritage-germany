@@ -3,7 +3,7 @@ title: "Fahrtor"
 site_name: "Fahrtor"
 date: 2026-01-26
 draft: false
-description: "Stadttor von Frankfurt am Main"
+description: "Fahrtor, the historic city gate of Frankfurt am Main, is a fascinating landmark that encapsulates the rich heritage of this vibrant German city."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Gate"

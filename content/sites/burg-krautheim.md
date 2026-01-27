@@ -3,7 +3,7 @@ title: "Burg Krautheim"
 site_name: "Burg Krautheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the heart of Krautheim, Burg Krautheim is a striking castle that invites exploration and reflection."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

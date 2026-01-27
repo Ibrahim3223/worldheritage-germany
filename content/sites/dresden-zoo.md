@@ -3,7 +3,7 @@ title: "Dresden Zoo"
 site_name: "Dresden Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Dresden, Germany"
+description: "Dresden Zoo is a vibrant hub of wildlife and conservation, situated in the heart of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"

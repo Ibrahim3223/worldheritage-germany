@@ -3,7 +3,7 @@ title: "Heimatmuseum Hiddensee"
 site_name: "Heimatmuseum Hiddensee"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Hiddensee, located on the picturesque island of Hiddensee in Germany, stands as a captivating institution dedicated to preserving the cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

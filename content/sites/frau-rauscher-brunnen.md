@@ -3,7 +3,7 @@ title: "Frau Rauscher-Brunnen"
 site_name: "Frau Rauscher-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Frankfurt am Main, Germany"
+description: "The Frau Rauscher-Brunnen, a captivating fountain located in the heart of Frankfurt am Main, Germany, presents a unique blend of artistry and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

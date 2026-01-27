@@ -3,7 +3,7 @@ title: "Brunnerswegbrücke"
 site_name: "Brunnerswegbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Brunnerswegbrücke is an intriguing bridge located in Darmstadt, Germany, that serves not only as a functional structure but also as a notable piece of local..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Bridge"

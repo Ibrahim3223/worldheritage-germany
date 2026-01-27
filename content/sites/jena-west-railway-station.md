@@ -3,7 +3,7 @@ title: "Jena West railway station"
 site_name: "Jena West railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Jena, Germany"
+description: "Jena West railway station serves as a vital transit point in the dynamic city of Jena, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Railway Station"

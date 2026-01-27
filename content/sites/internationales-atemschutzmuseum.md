@@ -3,7 +3,7 @@ title: "Internationales Atemschutzmuseum"
 site_name: "Internationales Atemschutzmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Meetzen, Germany"
+description: "The Internationales Atemschutzmuseum in Meetzen, Germany, is a unique institution dedicated to the history and development of respiratory protection systems."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

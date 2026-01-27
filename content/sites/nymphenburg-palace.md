@@ -3,7 +3,7 @@ title: "Nymphenburg Palace"
 site_name: "Nymphenburg Palace"
 date: 2026-01-26
 draft: false
-description: "Baroque palace in Munich, Bavaria, southern Germany"
+description: "Nymphenburg Palace, a stunning example of Baroque architecture, lies in the heart of Munich, Bavaria, southern Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Overbeck-Museum"
 site_name: "Overbeck-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Bremen, Germany"
+description: "The Overbeck-Museum in Vegesack, Bremen, Germany, is a cultural institution that offers a glimpse into the artistic and historical heritage of the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

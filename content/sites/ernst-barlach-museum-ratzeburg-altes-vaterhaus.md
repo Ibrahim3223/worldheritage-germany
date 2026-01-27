@@ -3,7 +3,7 @@ title: "Ernst Barlach Museum Ratzeburg--Altes Vaterhaus"
 site_name: "Ernst Barlach Museum Ratzeburg--Altes Vaterhaus"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Ernst Barlach Museum Ratzeburg, housed in the historic Altes Vaterhaus, invites visitors to explore the profound artistic legacy of Ernst Barlach, an..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

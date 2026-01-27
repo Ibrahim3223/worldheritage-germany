@@ -3,7 +3,7 @@ title: "Castle Caputh"
 site_name: "Castle Caputh"
 date: 2026-01-26
 draft: false
-description: "castle in Caputh near Potsdam, Germany"
+description: "Castle Caputh, a striking structure located in the serene region of Schwielowsee near Potsdam, Germany, is a fascinating museum that tells a story of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Niersteiner Höfe"
 site_name: "Niersteiner Höfe"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Niersteiner Höfe stands as an architectural ensemble in the picturesque region of Laurensberg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

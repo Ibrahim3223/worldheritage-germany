@@ -3,7 +3,7 @@ title: "Höllengrund"
 site_name: "Höllengrund"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "Höllengrund is a captivating valley located in the Großschweidnitz region of Germany, characterized by its serene landscapes and natural beauty."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"

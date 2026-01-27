@@ -3,7 +3,7 @@ title: "Holzschnitt-Museum"
 site_name: "Holzschnitt-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Holzschnitt-Museum in Mössingen, Germany, serves as a dedicated space for the art and craft of woodcut printing, a technique that dates back centuries..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

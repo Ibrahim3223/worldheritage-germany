@@ -3,7 +3,7 @@ title: "Mitterwöhr"
 site_name: "Mitterwöhr"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Mitterwöhr is a captivating island located in Germany that invites visitors to explore its unique landscape and cultural significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"

@@ -3,7 +3,7 @@ title: "Zwochauer See"
 site_name: "Zwochauer See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Zwochauer See is a tranquil lake situated in the scenic region of Wiedemar, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

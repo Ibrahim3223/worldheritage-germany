@@ -3,7 +3,7 @@ title: "Burg Hirschberg"
 site_name: "Burg Hirschberg"
 date: 2026-01-26
 draft: false
-description: "castle in Balingen"
+description: "Burg Hirschberg is a historical castle located in the picturesque region of Heselwangen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

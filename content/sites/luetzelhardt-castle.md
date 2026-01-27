@@ -3,7 +3,7 @@ title: "Lützelhardt Castle"
 site_name: "Lützelhardt Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lützelhardt Castle, a medieval stronghold located in the picturesque region of Seelbach, Germany, offers visitors a glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

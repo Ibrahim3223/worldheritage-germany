@@ -3,7 +3,7 @@ title: "Edebergsee"
 site_name: "Edebergsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Edebergsee, a picturesque lake located in the Plön region of Germany, serves as a serene escape for nature lovers and outdoor enthusiasts alike."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

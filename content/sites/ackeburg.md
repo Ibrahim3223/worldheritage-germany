@@ -3,7 +3,7 @@ title: "Ackeburg"
 site_name: "Ackeburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Ackeburg Castle, located in the scenic region of Falkenstein in Harz, Germany, is a site that captures the imagination of visitors with its storied past and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

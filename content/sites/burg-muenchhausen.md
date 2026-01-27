@@ -3,7 +3,7 @@ title: "Burg Münchhausen"
 site_name: "Burg Münchhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Münchhausen, a striking castle located in the Wachtberg region of Germany, serves as a remarkable example of medieval architecture and a significant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

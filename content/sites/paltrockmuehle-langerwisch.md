@@ -3,7 +3,7 @@ title: "Paltrockmühle Langerwisch"
 site_name: "Paltrockmühle Langerwisch"
 date: 2026-01-26
 draft: false
-description: "zwei Getreidemühlen in Michendorf, Brandenburg, Deutschland"
+description: "Paltrockmühle Langerwisch, an enchanting windmill located in Michendorf, Brandenburg, Germany, captures the essence of traditional milling heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

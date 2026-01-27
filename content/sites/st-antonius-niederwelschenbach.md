@@ -3,7 +3,7 @@ title: "St. Antonius (Niederwelschenbach)"
 site_name: "St. Antonius (Niederwelschenbach)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Niederwelschenbach"
+description: "St. Antonius in Niederwelschenbach is a charming chapel that invites visitors into a space of contemplation and historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

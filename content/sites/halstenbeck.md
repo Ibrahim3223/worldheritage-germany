@@ -3,7 +3,7 @@ title: "Halstenbeck"
 site_name: "Halstenbeck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Halstenbeck Castle, located in the charming region of Ostbevern, Germany, is a captivating site that invites visitors to explore its storied past and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Alter Steinbruch Liekwegen"
 site_name: "Alter Steinbruch Liekwegen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Alter Steinbruch Liekwegen, a nature reserve in Lower Saxony, Germany, offers an inviting escape into the natural world."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

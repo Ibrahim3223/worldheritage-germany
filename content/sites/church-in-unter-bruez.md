@@ -3,7 +3,7 @@ title: "Church in Unter Brüz"
 site_name: "Church in Unter Brüz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Unter Brüz is a noteworthy religious structure located in the serene region of Passow, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

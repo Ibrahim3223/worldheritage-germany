@@ -3,7 +3,7 @@ title: "St. Remigius"
 site_name: "St. Remigius"
 date: 2026-01-26
 draft: false
-description: "church in Homburg-Beeden, Germany"
+description: "St. Remigius in Homburg-Beeden, Germany, is a notable church that embodies both architectural elegance and community significance."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

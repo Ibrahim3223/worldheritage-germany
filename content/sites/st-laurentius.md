@@ -3,7 +3,7 @@ title: "St. Laurentius"
 site_name: "St. Laurentius"
 date: 2026-01-26
 draft: false
-description: "church building in Schönberg, Germany"
+description: "St. Laurentius is an architectural and spiritual cornerstone located in Schönberg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

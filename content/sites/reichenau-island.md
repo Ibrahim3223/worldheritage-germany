@@ -3,7 +3,7 @@ title: "Reichenau Island"
 site_name: "Reichenau Island"
 date: 2026-01-26
 draft: false
-description: "island in Germany"
+description: "Reichenau Island, situated in the serene waters of Lake Constance, is a remarkable destination that invites visitors to explore its rich cultural heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Island"

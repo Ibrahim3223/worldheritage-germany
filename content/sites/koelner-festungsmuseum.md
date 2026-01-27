@@ -3,7 +3,7 @@ title: "Kölner Festungsmuseum"
 site_name: "Kölner Festungsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kölner Festungsmuseum, located in the Marienburg region of Germany, serves as a fascinating exploration of the military history and heritage of the area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bogenbrücke Paschkowitz"
 site_name: "Bogenbrücke Paschkowitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke Paschkowitz, a bridge located in the Mügeln region of Germany, serves as a remarkable example of engineering and design."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Askanischer Platz"
 site_name: "Askanischer Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Askanischer Platz is a square located in the vibrant Friedrichshain-Kreuzberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

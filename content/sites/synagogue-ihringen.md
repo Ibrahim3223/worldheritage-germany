@@ -3,7 +3,7 @@ title: "Synagogue (Ihringen)"
 site_name: "Synagogue (Ihringen)"
 date: 2026-01-26
 draft: false
-description: "building in Ihringen, Freiburg Government Region, Bade-Württemberg, Germany"
+description: "The Synagogue in Ihringen, located in the Freiburg Government Region of Baden-Württemberg, Germany, is a poignant reminder of the Jewish heritage that once..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

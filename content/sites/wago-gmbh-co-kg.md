@@ -3,7 +3,7 @@ title: "WAGO GmbH & Co. KG"
 site_name: "WAGO GmbH & Co. KG"
 date: 2026-01-26
 draft: false
-description: "German manufacturing company"
+description: "WAGO GmbH & Co. KG, located in Minden, Germany, represents a significant player in the manufacturing sector."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

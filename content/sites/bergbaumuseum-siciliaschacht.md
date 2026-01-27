@@ -3,7 +3,7 @@ title: "Bergbaumuseum Siciliaschacht"
 site_name: "Bergbaumuseum Siciliaschacht"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bergbaumuseum Siciliaschacht, located in the heart of Lennestadt, Germany, stands as a fascinating tribute to the region's mining heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

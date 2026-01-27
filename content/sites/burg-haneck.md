@@ -3,7 +3,7 @@ title: "Burg Haneck"
 site_name: "Burg Haneck"
 date: 2026-01-26
 draft: false
-description: "Burgruine in Deutschland"
+description: "Burg Haneck, a castle ruin located in Oestrich-Winkel, Germany, offers visitors a glimpse into the architectural legacy of medieval fortifications."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

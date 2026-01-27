@@ -3,7 +3,7 @@ title: "Christuskirche (Erfurt)"
 site_name: "Christuskirche (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "church building in Erfurt, Germany"
+description: "Christuskirche, a prominent church building in Erfurt, Germany, stands as a significant landmark within the city’s rich historical and cultural landscape."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

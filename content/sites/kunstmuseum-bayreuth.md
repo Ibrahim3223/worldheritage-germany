@@ -3,7 +3,7 @@ title: "Kunstmuseum Bayreuth"
 site_name: "Kunstmuseum Bayreuth"
 date: 2026-01-26
 draft: false
-description: "museum of modern art in Bayreuth, Bavaria, Germany"
+description: "In the heart of Bayreuth, Germany, the Kunstmuseum Bayreuth presents a compelling exploration of modern art, serving as a cultural hub within Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

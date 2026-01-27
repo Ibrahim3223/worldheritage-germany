@@ -3,7 +3,7 @@ title: "Leuchtturm Kiel"
 site_name: "Leuchtturm Kiel"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Leuchtturm Kiel, a prominent lighthouse located in Schleswig-Holstein, Germany, stands as a vital navigational aid along the northern coast of the country."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

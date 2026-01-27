@@ -3,7 +3,7 @@ title: "FCK-Museum"
 site_name: "FCK-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Kaiserslautern, Germany, the FCK-Museum serves as a vibrant homage to the local football club, 1."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

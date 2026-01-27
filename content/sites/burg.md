@@ -3,7 +3,7 @@ title: "Burg"
 site_name: "Burg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-1 (0) in Bamberg, Bavaria"
+description: "Burg, a remarkable castle located in Bavaria, Germany, is a cultural heritage monument that captivates visitors with its historical significance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

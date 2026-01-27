@@ -3,7 +3,7 @@ title: "Burg Hallburg"
 site_name: "Burg Hallburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-174-269 (0) in Volkach, Bavaria"
+description: "Burg Hallburg is a striking castle located in the picturesque region of Volkach, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

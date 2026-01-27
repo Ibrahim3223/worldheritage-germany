@@ -3,7 +3,7 @@ title: "Kastl Abbey"
 site_name: "Kastl Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Kastl Abbey, located in the picturesque region of Kastl, Germany, is a significant monastery that offers visitors a glimpse into the spiritual and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

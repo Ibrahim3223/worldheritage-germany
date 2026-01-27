@@ -3,7 +3,7 @@ title: "Bockwindmühle Liebenburg"
 site_name: "Bockwindmühle Liebenburg"
 date: 2026-01-26
 draft: false
-description: "durch Brand zerstörte Bockwindmühle im Landkreis Goslar"
+description: "The Bockwindmühle Liebenburg is a remarkable windmill located in the picturesque region of Liebenburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

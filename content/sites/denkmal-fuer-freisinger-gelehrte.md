@@ -3,7 +3,7 @@ title: "Denkmal für Freisinger Gelehrte"
 site_name: "Denkmal für Freisinger Gelehrte"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkmal für Freisinger Gelehrte stands as a significant monument in Freising, Germany, celebrating the scholarly contributions of the city's notable..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

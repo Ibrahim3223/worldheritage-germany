@@ -3,7 +3,7 @@ title: "Essen-Stadtkern"
 site_name: "Essen-Stadtkern"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Essen-Stadtkern, the historic heart of Essen, Germany, is a captivating destination for those interested in exploring urban heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"

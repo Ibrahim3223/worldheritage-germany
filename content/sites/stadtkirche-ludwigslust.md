@@ -3,7 +3,7 @@ title: "Stadtkirche Ludwigslust"
 site_name: "Stadtkirche Ludwigslust"
 date: 2026-01-26
 draft: false
-description: "church building in Ludwigslust, Germany"
+description: "Stadtkirche Ludwigslust, located in the heart of Ludwigslust, Germany, serves as a significant example of ecclesiastical architecture and cultural heritage..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

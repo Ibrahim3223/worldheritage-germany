@@ -3,7 +3,7 @@ title: "Mariä Schmerzen"
 site_name: "Mariä Schmerzen"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "Mariä Schmerzen is a distinguished church building located in Winterbach, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

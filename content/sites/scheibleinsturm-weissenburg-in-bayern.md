@@ -3,7 +3,7 @@ title: "Scheibleinsturm (Weißenburg in Bayern)"
 site_name: "Scheibleinsturm (Weißenburg in Bayern)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Scheibleinsturm, an intriguing tower located in Weißenburg in Bayern, Germany, draws visitors with its historical significance and architectural presence."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

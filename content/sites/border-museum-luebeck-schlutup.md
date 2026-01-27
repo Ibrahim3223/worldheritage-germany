@@ -3,7 +3,7 @@ title: "Border museum Lübeck-Schlutup"
 site_name: "Border museum Lübeck-Schlutup"
 date: 2026-01-26
 draft: false
-description: "museum in Germany at the former GDR-FRG border near Lübeck"
+description: "The Border Museum Lübeck-Schlutup is a notable institution located at the former border between East and West Germany, in the region of Lübeck-Schlutup."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

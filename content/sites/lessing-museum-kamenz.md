@@ -3,7 +3,7 @@ title: "Lessing-Museum Kamenz"
 site_name: "Lessing-Museum Kamenz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Lessing-Museum Kamenz offers an engaging glimpse into the life and works of one of Germany's most celebrated playwrights and philosophers, Gotthold..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Friedhof III der Dreifaltigkeitsgemeinde"
 site_name: "Friedhof III der Dreifaltigkeitsgemeinde"
 date: 2026-01-26
 draft: false
-description: "protestant cemetery in Berlin-Mariendorf"
+description: "Friedhof III der Dreifaltigkeitsgemeinde, a notable Protestant cemetery located in the district of Berlin-Mariendorf, offers visitors a serene space rich..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

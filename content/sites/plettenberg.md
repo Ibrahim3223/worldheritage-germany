@@ -3,7 +3,7 @@ title: "Plettenberg"
 site_name: "Plettenberg"
 date: 2026-01-26
 draft: false
-description: "mountain of the Swabian Jura in Baden-Württemberg, Germany"
+description: "Plettenberg, a prominent mountain in the Swabian Jura of Baden-Württemberg, Germany, is a destination that combines natural beauty with cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

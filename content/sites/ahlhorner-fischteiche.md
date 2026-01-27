@@ -3,7 +3,7 @@ title: "Ahlhorner Fischteiche"
 site_name: "Ahlhorner Fischteiche"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ahlhorner Fischteiche, a nature reserve located in the picturesque Großenkneten region of Lower Saxony, Germany, provides a tranquil escape for nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

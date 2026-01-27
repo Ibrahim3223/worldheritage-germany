@@ -3,7 +3,7 @@ title: "Schloss Prebberede"
 site_name: "Schloss Prebberede"
 date: 2026-01-26
 draft: false
-description: "Schloss in Deutschland"
+description: "Schloss Prebberede is a captivating manor house located in the serene region of Prebberede, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

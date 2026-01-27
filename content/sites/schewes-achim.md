@@ -3,7 +3,7 @@ title: "Schewes Achim"
 site_name: "Schewes Achim"
 date: 2026-01-26
 draft: false
-description: "ehemalige Synagoge in der Gluckstraße in Hamburg-Barmbek"
+description: "Schewes Achim, a former synagogue located on Gluckstraße in the Hamburg-Barmbek district, encapsulates the rich cultural and religious history of the Jewish..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Synagogue"

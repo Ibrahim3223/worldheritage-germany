@@ -3,7 +3,7 @@ title: "Andreaskirche (Norden)"
 site_name: "Andreaskirche (Norden)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Andreaskirche in Norden, Germany, is a remarkable church building that reflects the architectural and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Hünfeld"
 site_name: "Amtsgerichtsgebäude Hünfeld"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Hünfeld in Hessen, Hauptstraße 24"
+description: "The Amtsgerichtsgebäude Hünfeld, located at Hauptstraße 24 in the picturesque town of Hünfeld, Germany, serves as a significant courthouse in the region of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

@@ -3,7 +3,7 @@ title: "Altes Moor"
 site_name: "Altes Moor"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Altes Moor, a former nature reserve located in Seevetal, Lower Saxony, Germany, offers visitors a unique glimpse into a vital ecosystem that once thrived in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

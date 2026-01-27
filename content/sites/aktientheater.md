@@ -3,7 +3,7 @@ title: "Aktientheater"
 site_name: "Aktientheater"
 date: 2026-01-26
 draft: false
-description: "former theatre in Heilbronn, Germany"
+description: "The Aktientheater, a former theatre in Heilbronn, Germany, presents a unique opportunity to explore the cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

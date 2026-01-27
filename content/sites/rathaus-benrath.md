@@ -3,7 +3,7 @@ title: "Rathaus Benrath"
 site_name: "Rathaus Benrath"
 date: 2026-01-26
 draft: false
-description: "Verwaltungsgebäude der Stadt Düsseldorf im Stadtteil Benrath"
+description: "Rathaus Benrath serves as the administrative heart of the Benrath district in Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Hall"

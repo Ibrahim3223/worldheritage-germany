@@ -3,7 +3,7 @@ title: "Mitsubishi Electric Halle"
 site_name: "Mitsubishi Electric Halle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Mitsubishi Electric Halle is a prominent multi-purpose hall located in Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

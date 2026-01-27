@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung Unterwindach"
 site_name: "Abschnittsbefestigung Unterwindach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Abschnittsbefestigung Unterwindach is a captivating castle located in Germany, representing a significant piece of the country’s historical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

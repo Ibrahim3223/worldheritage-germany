@@ -3,7 +3,7 @@ title: "Memorial for the Moorish Revival Leipzig Synagogue in Leipzig"
 site_name: "Memorial for the Moorish Revival Leipzig Synagogue in Leipzig"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte in Leipzig"
+description: "The Memorial for the Moorish Revival Leipzig Synagogue stands as a poignant reminder of the Jewish community's historical presence in Leipzig."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"

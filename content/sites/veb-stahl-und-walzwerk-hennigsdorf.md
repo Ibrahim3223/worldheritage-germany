@@ -3,7 +3,7 @@ title: "VEB Stahl- und Walzwerk Hennigsdorf"
 site_name: "VEB Stahl- und Walzwerk Hennigsdorf"
 date: 2026-01-26
 draft: false
-description: "German steel mill"
+description: "VEB Stahl- und Walzwerk Hennigsdorf, a significant steel mill located in Hennigsdorf, Germany, represents a pivotal chapter in the nation’s industrial..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"

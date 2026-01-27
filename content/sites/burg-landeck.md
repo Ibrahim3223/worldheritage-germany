@@ -3,7 +3,7 @@ title: "Burg Landeck"
 site_name: "Burg Landeck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Landeck, a captivating castle located in the picturesque region of Schenklengsfeld, Germany, stands as a remarkable example of medieval architecture..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

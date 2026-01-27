@@ -3,7 +3,7 @@ title: "Museum Herborn"
 site_name: "Museum Herborn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Herborn is a compelling destination situated in Germany, offering visitors a unique glimpse into the region's cultural and historical landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

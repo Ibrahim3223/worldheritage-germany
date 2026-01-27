@@ -3,7 +3,7 @@ title: "Mausoleum Gut Lohne"
 site_name: "Mausoleum Gut Lohne"
 date: 2026-01-26
 draft: false
-description: "mausoleum in Isernhagen, Region Hannover, Germany"
+description: "Mausoleum Gut Lohne, located in Isernhagen, part of the Hannover region in Germany, offers a glimpse into the solemn beauty of memorial architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

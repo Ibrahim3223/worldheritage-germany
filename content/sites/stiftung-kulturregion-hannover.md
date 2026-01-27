@@ -3,7 +3,7 @@ title: "Stiftung Kulturregion Hannover"
 site_name: "Stiftung Kulturregion Hannover"
 date: 2026-01-26
 draft: false
-description: "Stiftung zur Förderung von kulturellen Projekten in der Region Hannover"
+description: "Stiftung Kulturregion Hannover, located in the heart of Hanover, Germany, serves as a vital foundation dedicated to the promotion of cultural projects..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

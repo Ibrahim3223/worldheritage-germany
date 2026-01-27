@@ -3,7 +3,7 @@ title: "Bethanienkirche"
 site_name: "Bethanienkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bethanienkirche, a notable church building situated in the Schleußig district of Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

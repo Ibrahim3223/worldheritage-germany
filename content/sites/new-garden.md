@@ -3,7 +3,7 @@ title: "New Garden"
 site_name: "New Garden"
 date: 2026-01-26
 draft: false
-description: "park"
+description: "New Garden, a tranquil park located in the Nördliche Vorstädte region of Germany, offers a serene escape from the surrounding urban landscape."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

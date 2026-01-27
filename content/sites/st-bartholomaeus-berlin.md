@@ -3,7 +3,7 @@ title: "St. Bartholomäus (Berlin)"
 site_name: "St. Bartholomäus (Berlin)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Bartholomäus, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, is a striking church building that reflects the rich cultural tapestry..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Ascension church"
 site_name: "Ascension church"
 date: 2026-01-26
 draft: false
-description: "church building in Mitte, Germany"
+description: "Ascension Church is an iconic church building located in the heart of Mitte, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

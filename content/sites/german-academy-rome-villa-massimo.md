@@ -3,7 +3,7 @@ title: "German academy Rome Villa Massimo"
 site_name: "German academy Rome Villa Massimo"
 date: 2026-01-26
 draft: false
-description: "academy in Rome, Italy"
+description: "The German Academy Rome Villa Massimo stands as a notable cultural institution in the heart of Italy's capital, Rome."
 region: "Rome"
 country: "Germany"
 heritage_type: "Cultural Institution"

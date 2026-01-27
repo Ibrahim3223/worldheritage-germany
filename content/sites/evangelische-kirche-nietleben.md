@@ -3,7 +3,7 @@ title: "Evangelische Kirche Nietleben"
 site_name: "Evangelische Kirche Nietleben"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "The Evangelische Kirche Nietleben is a striking church building located in Halle (Saale), Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

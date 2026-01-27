@@ -3,7 +3,7 @@ title: "Church in Dargelütz"
 site_name: "Church in Dargelütz"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kirchengebäude in Deutschland"
+description: "The Church in Dargelütz, a former ecclesiastical building located in the tranquil Parchim region of Germany, draws visitors with its historical charm and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

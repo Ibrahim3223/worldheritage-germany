@@ -3,7 +3,7 @@ title: "Vorderasiatisches Museum Berlin"
 site_name: "Vorderasiatisches Museum Berlin"
 date: 2026-01-26
 draft: false
-description: "archaeological museum in Berlin"
+description: "The Vorderasiatisches Museum Berlin, an archaeological museum situated within the vibrant capital of Germany, stands as a significant institution dedicated..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

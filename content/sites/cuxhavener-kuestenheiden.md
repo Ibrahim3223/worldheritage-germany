@@ -3,7 +3,7 @@ title: "Cuxhavener Küstenheiden"
 site_name: "Cuxhavener Küstenheiden"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Cuxhavener Küstenheiden is a remarkable nature reserve located in Lower Saxony, Germany, that showcases the unique coastal heathlands of the Cuxhaven region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

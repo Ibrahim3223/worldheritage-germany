@@ -3,7 +3,7 @@ title: "Zeche Carl Hugo"
 site_name: "Zeche Carl Hugo"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carl Hugo, located in Essen, Germany, is a historical mine that provides visitors with a glimpse into the region’s industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Neresheim Abbey"
 site_name: "Neresheim Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Germany"
+description: "Neresheim Abbey, a serene and contemplative monastery located in the quiet town of Neresheim, Germany, invites visitors to explore its rich heritage and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

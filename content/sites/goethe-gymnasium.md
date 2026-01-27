@@ -3,7 +3,7 @@ title: "Goethe Gymnasium"
 site_name: "Goethe Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school in Berlin-Wilmersdorf"
+description: "Goethe Gymnasium, located in the vibrant district of Charlottenburg-Wilmersdorf in Berlin, is not just a school building; it is a significant educational..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

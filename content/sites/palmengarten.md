@@ -3,7 +3,7 @@ title: "Palmengarten"
 site_name: "Palmengarten"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Frankfurt, Hesse, Germany"
+description: "Palmengarten, located in Frankfurt, Germany, stands as a premier botanical garden and a serene retreat from the hustle and bustle of urban life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

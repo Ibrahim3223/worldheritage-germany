@@ -3,7 +3,7 @@ title: "Gut Wedigenstein"
 site_name: "Gut Wedigenstein"
 date: 2026-01-26
 draft: false
-description: "building in Porta Westfalica, Germany"
+description: "Gut Wedigenstein, a historic manor house located in Porta Westfalica, Germany, stands as a remarkable example of regional architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

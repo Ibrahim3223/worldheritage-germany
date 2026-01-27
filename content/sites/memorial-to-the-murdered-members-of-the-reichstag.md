@@ -3,7 +3,7 @@ title: "Memorial to the Murdered Members of the Reichstag"
 site_name: "Memorial to the Murdered Members of the Reichstag"
 date: 2026-01-26
 draft: false
-description: "memorial in Berlin-Tiergarten, Germany in front of the Reichstag building"
+description: "The Memorial to the Murdered Members of the Reichstag serves as a poignant reminder of the political violence that characterized Germany's turbulent 20th..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

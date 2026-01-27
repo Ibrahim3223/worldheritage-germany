@@ -3,7 +3,7 @@ title: "Zamenhofpark"
 site_name: "Zamenhofpark"
 date: 2026-01-26
 draft: false
-description: "in Berlin"
+description: "Zamenhofpark, located in the vibrant district of Lichtenberg in Berlin, offers a serene escape from the urban bustle."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

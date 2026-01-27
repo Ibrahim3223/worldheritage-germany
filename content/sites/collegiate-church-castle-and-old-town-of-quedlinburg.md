@@ -3,7 +3,7 @@ title: "Collegiate Church, Castle, and Old Town of Quedlinburg"
 site_name: "Collegiate Church, Castle, and Old Town of Quedlinburg"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Collegiate Church, Castle, and Old Town of Quedlinburg represent an extraordinary blend of medieval architecture and rich cultural heritage, drawing..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"

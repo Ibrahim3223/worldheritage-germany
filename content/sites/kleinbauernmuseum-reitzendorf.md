@@ -3,7 +3,7 @@ title: "Kleinbauernmuseum Reitzendorf"
 site_name: "Kleinbauernmuseum Reitzendorf"
 date: 2026-01-26
 draft: false
-description: "local museum near Dresden, Germany"
+description: "In the heart of Germany, just a short distance from the vibrant city of Dresden, lies the Kleinbauernmuseum Reitzendorf—a local museum dedicated to..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

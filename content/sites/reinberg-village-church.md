@@ -3,7 +3,7 @@ title: "Reinberg village church"
 site_name: "Reinberg village church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Reinberg village church, a modest yet significant church building located in Germany, serves as a focal point of the local community and a testament to the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

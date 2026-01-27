@@ -3,7 +3,7 @@ title: "St. Hedwig's Cathedral"
 site_name: "St. Hedwig's Cathedral"
 date: 2026-01-26
 draft: false
-description: "Roman Catholic cathedral in Berlin, Germany"
+description: "St. Hedwig's Cathedral, an iconic Roman Catholic cathedral located in the heart of Berlin, serves not only as a place of worship but also as a symbol of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

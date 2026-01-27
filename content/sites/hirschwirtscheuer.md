@@ -3,7 +3,7 @@ title: "Hirschwirtscheuer"
 site_name: "Hirschwirtscheuer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hirschwirtscheuer, an art museum located in the charming town of Künzelsau, Germany, offers a unique glimpse into the world of contemporary art."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

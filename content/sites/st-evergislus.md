@@ -3,7 +3,7 @@ title: "St. Evergislus"
 site_name: "St. Evergislus"
 date: 2026-01-26
 draft: false
-description: "church building in Brenig, Bornheim, Germany"
+description: "St. Evergislus is a notable church building located in Brenig, a locality within Bornheim, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

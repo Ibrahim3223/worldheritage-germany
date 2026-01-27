@@ -3,7 +3,7 @@ title: "Rathaus Greußen"
 site_name: "Rathaus Greußen"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Thüringen"
+description: "Rathaus Greußen, located in the picturesque town of Greußen in Thüringen, Germany, serves as both an architectural highlight and a vital center of local..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "City Hall"

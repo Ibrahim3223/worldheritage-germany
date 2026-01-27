@@ -3,7 +3,7 @@ title: "Johanniskirche"
 site_name: "Johanniskirche"
 date: 2026-01-26
 draft: false
-description: "church in Flensburg, Germany"
+description: "Johanniskirche, a notable church building located in the coastal town of Flensburg, Germany, is an emblematic structure that reflects the rich architectural..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

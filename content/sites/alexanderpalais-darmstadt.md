@@ -3,7 +3,7 @@ title: "Alexanderpalais (Darmstadt)"
 site_name: "Alexanderpalais (Darmstadt)"
 date: 2026-01-26
 draft: false
-description: "Palais  in Darmstadt"
+description: "The Alexanderpalais in Darmstadt, Germany, is a noteworthy example of architectural elegance and historical significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

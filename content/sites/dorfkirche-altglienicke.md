@@ -3,7 +3,7 @@ title: "Dorfkirche Altglienicke"
 site_name: "Dorfkirche Altglienicke"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Dorfkirche Altglienicke, a distinguished church building located in Berlin’s Treptow-Köpenick district, serves as a quiet yet significant landmark within..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Lindigtmühle"
 site_name: "Lindigtmühle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Lindigtmühle, a museum located in Frohburg, Germany, serves as a fascinating portal into the region's cultural and historical narratives."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kirche Stockelsdorf"
 site_name: "Kirche Stockelsdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Stockelsdorf, Germany"
+description: "Kirche Stockelsdorf is a prominent church building located in the charming town of Stockelsdorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

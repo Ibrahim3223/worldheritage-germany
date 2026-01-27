@@ -3,7 +3,7 @@ title: "Vortaunusmuseum"
 site_name: "Vortaunusmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Vortaunusmuseum, located in Germany, is a cultural institution dedicated to preserving and showcasing the heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

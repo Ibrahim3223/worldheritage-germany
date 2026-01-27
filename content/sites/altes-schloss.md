@@ -3,7 +3,7 @@ title: "Altes Schloss"
 site_name: "Altes Schloss"
 date: 2026-01-26
 draft: false
-description: "building in Bad Berneck im Fichtelgebirge, Upper Franconia, Germany"
+description: "Altes Schloss, located in Bad Berneck im Fichtelgebirge in Upper Franconia, Germany, is a significant archaeological site that offers insights into the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

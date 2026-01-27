@@ -3,7 +3,7 @@ title: "Staatliche Kunsthalle Baden-Baden"
 site_name: "Staatliche Kunsthalle Baden-Baden"
 date: 2026-01-26
 draft: false
-description: "art museum in Baden-Baden, Germany"
+description: "The Staatliche Kunsthalle Baden-Baden, located in the heart of Baden-Baden, Germany, serves as a distinguished art museum that invites visitors to explore a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

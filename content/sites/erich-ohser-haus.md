@@ -3,7 +3,7 @@ title: "Erich-Ohser-Haus"
 site_name: "Erich-Ohser-Haus"
 date: 2026-01-26
 draft: false
-description: "heritage building in Plauen (Vogtl), Germany"
+description: "Erich-Ohser-Haus stands as a prominent cultural institution in Plauen, Germany, dedicated to the life and work of the influential cartoonist Erich Ohser,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

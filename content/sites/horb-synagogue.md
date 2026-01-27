@@ -3,7 +3,7 @@ title: "Horb Synagogue"
 site_name: "Horb Synagogue"
 date: 2026-01-26
 draft: false
-description: "building in Marktzeuln, Upper Franconia, Germany"
+description: "Horb Synagogue, located in Marktzeuln, Upper Franconia, Germany, serves as a poignant reminder of the Jewish heritage and community that once thrived in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

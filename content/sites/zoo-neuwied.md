@@ -3,7 +3,7 @@ title: "Zoo Neuwied"
 site_name: "Zoo Neuwied"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Zoo Neuwied is a captivating destination located in the scenic region of Neuwied, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

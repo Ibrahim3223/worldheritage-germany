@@ -3,7 +3,7 @@ title: "Alter Schloßpark Wrisbergholzen"
 site_name: "Alter Schloßpark Wrisbergholzen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Alter Schloßpark Wrisbergholzen, a notable nature reserve located in the Sibbesse region of Lower Saxony, Germany, offers a serene escape into the natural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Torhaus Klosterstraße 42 in Würzburg"
 site_name: "Torhaus Klosterstraße 42 in Würzburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-63-000-278 (2) in Würzburg, Bavaria"
+description: "Würzburg, a city steeped in history and culture, is home to the Torhaus Klosterstraße 42, an intriguing gatehouse that symbolizes the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"

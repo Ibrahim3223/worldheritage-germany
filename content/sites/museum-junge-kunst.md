@@ -3,7 +3,7 @@ title: "Museum Junge Kunst"
 site_name: "Museum Junge Kunst"
 date: 2026-01-26
 draft: false
-description: "Museum Junge Kunst in Frankfurt (Oder)"
+description: "Museum Junge Kunst stands out as a significant cultural institution in Frankfurt (Oder), Germany, dedicated to contemporary art."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

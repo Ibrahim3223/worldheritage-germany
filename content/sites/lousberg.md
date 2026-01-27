@@ -3,7 +3,7 @@ title: "Lousberg"
 site_name: "Lousberg"
 date: 2026-01-26
 draft: false
-description: "hill in Aachen, Germany"
+description: "Lousberg, a prominent hill located in Aachen, Germany, is more than just an elevation; it is a significant landmark that offers both natural beauty and a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

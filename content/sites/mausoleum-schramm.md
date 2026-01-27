@@ -3,7 +3,7 @@ title: "Mausoleum Schramm"
 site_name: "Mausoleum Schramm"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Reinbek, Schleswig-Holstein"
+description: "The Mausoleum Schramm, an architectural gem located in Reinbek, Schleswig-Holstein, Germany, serves as a poignant reminder of the region's historical and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Mausoleum"

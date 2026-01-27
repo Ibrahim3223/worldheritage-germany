@@ -3,7 +3,7 @@ title: "Statuenmenhir von Gallmersgarten"
 site_name: "Statuenmenhir von Gallmersgarten"
 date: 2026-01-26
 draft: false
-description: "Sandstone stele in the shape of a man from the Neolithic period"
+description: "The Statuenmenhir von Gallmersgarten, an intriguing sandstone stele in the shape of a man, stands as a remarkable artifact from the Neolithic period,..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"

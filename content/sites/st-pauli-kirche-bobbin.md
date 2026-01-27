@@ -3,7 +3,7 @@ title: "St.-Pauli-Kirche Bobbin"
 site_name: "St.-Pauli-Kirche Bobbin"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "St.-Pauli-Kirche Bobbin stands as a noteworthy example of ecclesiastical architecture in the Mecklenburg-Vorpommern region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

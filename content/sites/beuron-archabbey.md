@@ -3,7 +3,7 @@ title: "Beuron Archabbey"
 site_name: "Beuron Archabbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Baden-Württemberg, Germany"
+description: "Perched gracefully in the serene landscape of Baden-Württemberg, Germany, Beuron Archabbey serves as an emblem of monastic life and spiritual refuge."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

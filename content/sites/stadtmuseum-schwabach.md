@@ -3,7 +3,7 @@ title: "Stadtmuseum Schwabach"
 site_name: "Stadtmuseum Schwabach"
 date: 2026-01-26
 draft: false
-description: "museum in Schwabach, Germany"
+description: "The Stadtmuseum Schwabach serves as a window into the rich cultural heritage of Schwabach, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Heimatmuseum Wandsbek"
 site_name: "Heimatmuseum Wandsbek"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "Situated in the vibrant district of Wandsbek in Hamburg, the Heimatmuseum Wandsbek offers visitors a glimpse into the local history and culture of the region."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Gedenkstätte 17. Juni 1953"
 site_name: "Gedenkstätte 17. Juni 1953"
 date: 2026-01-26
 draft: false
-description: "memorial"
+description: "The Gedenkstätte 17. Juni 1953, located in the Steglitz-Zehlendorf district of Berlin, serves as a poignant memorial dedicated to the events surrounding the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

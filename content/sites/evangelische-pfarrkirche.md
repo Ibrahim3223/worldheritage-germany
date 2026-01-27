@@ -3,7 +3,7 @@ title: "Evangelische Pfarrkirche"
 site_name: "Evangelische Pfarrkirche"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Asselheim"
+description: "Located in the verdant heart of Grünstadt, Germany, the Evangelische Pfarrkirche is a significant chapel that embodies the spiritual and cultural essence of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

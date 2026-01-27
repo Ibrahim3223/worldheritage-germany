@@ -3,7 +3,7 @@ title: "Burg Horkenstein"
 site_name: "Burg Horkenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Horkenstein is a remarkable castle located in the Bochum region of Germany, offering visitors a glimpse into the architectural and cultural past of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

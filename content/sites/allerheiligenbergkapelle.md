@@ -3,7 +3,7 @@ title: "Allerheiligenbergkapelle"
 site_name: "Allerheiligenbergkapelle"
 date: 2026-01-26
 draft: false
-description: "church building in Lahnstein, Germany"
+description: "Perched on the outskirts of Lahnstein, Germany, the Allerheiligenbergkapelle is a remarkable church building that encapsulates the spiritual and cultural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Marienbrunnen (Braunschweig)"
 site_name: "Marienbrunnen (Braunschweig)"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "In the heart of Brunswick, Germany, the Marienbrunnen stands as a charming water well that captures the essence of the city's historical and cultural landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

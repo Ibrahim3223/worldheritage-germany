@@ -3,7 +3,7 @@ title: "Amtsgericht Talstraße 48"
 site_name: "Amtsgericht Talstraße 48"
 date: 2026-01-26
 draft: false
-description: "temporäres Gebäude"
+description: "Amtsgericht Talstraße 48 serves as a courthouse located in the Böblingen region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"

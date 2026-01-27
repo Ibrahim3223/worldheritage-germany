@@ -3,7 +3,7 @@ title: "Mettlach abbey"
 site_name: "Mettlach abbey"
 date: 2026-01-26
 draft: false
-description: "ehemalige Klosteranlage, heute Sitz der Fa. Villeroy & Boch"
+description: "Mettlach Abbey, a former monastery located in the picturesque region of Mettlach, Germany, serves as a fascinating example of monastic life and its..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

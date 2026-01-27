@@ -3,7 +3,7 @@ title: "Neuland Lighthouse"
 site_name: "Neuland Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Neuland Lighthouse, located in the picturesque region of Behrensdorf, Schleswig-Holstein, Germany, is a notable maritime structure that has guided..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

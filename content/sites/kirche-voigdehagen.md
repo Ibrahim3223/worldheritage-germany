@@ -3,7 +3,7 @@ title: "Kirche Voigdehagen"
 site_name: "Kirche Voigdehagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kirche Voigdehagen, a striking church building located in the picturesque region of Stralsund, Germany, serves as a significant landmark that embodies the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

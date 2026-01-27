@@ -3,7 +3,7 @@ title: "Dietenberger Weiher"
 site_name: "Dietenberger Weiher"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Dietenberger Weiher, a serene nature reserve located in the picturesque region of Waldburg, Germany, is a sanctuary for wildlife enthusiasts and nature lovers."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

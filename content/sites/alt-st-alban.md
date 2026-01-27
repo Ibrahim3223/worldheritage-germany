@@ -3,7 +3,7 @@ title: "Alt St. Alban"
 site_name: "Alt St. Alban"
 date: 2026-01-26
 draft: false
-description: "church in Cologne-Altstadt-Nord, Germany"
+description: "Alt St. Alban, located in the heart of Cologne's Altstadt-Nord, is a church building that serves as both a spiritual haven and a historical landmark."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

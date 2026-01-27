@@ -3,7 +3,7 @@ title: "Local history museum of the city of Greußen"
 site_name: "Local history museum of the city of Greußen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany lies the Local History Museum of the city of Greußen, a cultural institution that encapsulates the essence of regional heritage and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

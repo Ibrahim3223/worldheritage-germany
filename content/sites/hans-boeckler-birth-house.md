@@ -3,7 +3,7 @@ title: "Hans Böckler birth house"
 site_name: "Hans Böckler birth house"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hans Böckler birth house, located in the quaint town of Trautskirchen, Germany, stands as a significant cultural site dedicated to celebrating the life..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

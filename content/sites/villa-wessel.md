@@ -3,7 +3,7 @@ title: "Villa Wessel"
 site_name: "Villa Wessel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Villa Wessel is a prominent museum located in Iserlohn, Germany, dedicated to preserving and showcasing the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

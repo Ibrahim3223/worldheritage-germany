@@ -3,7 +3,7 @@ title: "Greetsiel Castle"
 site_name: "Greetsiel Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Greetsiel Castle, located in the charming village of Greetsiel, Germany, is a remarkable historical edifice that encapsulates the grandeur of medieval..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

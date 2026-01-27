@@ -3,7 +3,7 @@ title: "Stadtmuseum im Prinz-Max-Palais"
 site_name: "Stadtmuseum im Prinz-Max-Palais"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Karlsruhe, the Stadtmuseum im Prinz-Max-Palais offers a unique opportunity to delve into the cultural heritage of this historic city."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

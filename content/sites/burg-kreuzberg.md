@@ -3,7 +3,7 @@ title: "Burg Kreuzberg"
 site_name: "Burg Kreuzberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kreuzberg is an intriguing castle located in the picturesque region of Rhineland-Palatinate, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

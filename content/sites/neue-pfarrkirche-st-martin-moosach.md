@@ -3,7 +3,7 @@ title: "Neue Pfarrkirche St. Martin (Moosach)"
 site_name: "Neue Pfarrkirche St. Martin (Moosach)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Neue Pfarrkirche St. Martin in Moosach, a district of Munich, Germany, is a significant church building that embodies the spiritual and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Benediktinerinnenkloster St. Nikolaus, Augsburg"
 site_name: "Benediktinerinnenkloster St. Nikolaus, Augsburg"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Located in the heart of Augsburg, the Benediktinerinnenkloster St. Nikolaus is a monastery that embodies the spiritual and cultural legacy of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

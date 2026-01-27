@@ -3,7 +3,7 @@ title: "Gemeindebücherei Langquaid"
 site_name: "Gemeindebücherei Langquaid"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Nestled within the charming landscape of Langquaid, Germany, the Gemeindebücherei Langquaid serves as a notable cultural institution dedicated to the love..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

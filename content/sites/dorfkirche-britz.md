@@ -3,7 +3,7 @@ title: "Dorfkirche Britz"
 site_name: "Dorfkirche Britz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Britz, located in the Neukölln district of Berlin, is a remarkable church building that reflects the architectural and cultural evolution of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

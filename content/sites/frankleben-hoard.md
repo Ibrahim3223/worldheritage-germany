@@ -3,7 +3,7 @@ title: "Frankleben hoard"
 site_name: "Frankleben hoard"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Germany"
+description: "The Frankleben hoard stands as a crucial archaeological site located in Braunsbedra, Germany, offering a unique glimpse into the material culture of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Frankfurt (Main) Ost station"
 site_name: "Frankfurt (Main) Ost station"
 date: 2026-01-26
 draft: false
-description: "railway halt in Frankfurt am Main, Germany"
+description: "Frankfurt (Main) Ost station, located in the vibrant city of Frankfurt am Main, Germany, serves as a key railway halt in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

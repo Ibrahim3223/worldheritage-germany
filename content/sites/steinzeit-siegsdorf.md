@@ -3,7 +3,7 @@ title: "SteinZeit Siegsdorf"
 site_name: "SteinZeit Siegsdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "SteinZeit Siegsdorf stands as a unique attraction in the picturesque region of Siegsdorf, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

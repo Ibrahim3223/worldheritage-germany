@@ -3,7 +3,7 @@ title: "Paula"
 site_name: "Paula"
 date: 2026-01-26
 draft: false
-description: "Windmill in Steinhude, Germany"
+description: "Paula, an iconic windmill located in the charming town of Steinhude within Germany's Wunstorf region, serves as a remarkable representation of traditional..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

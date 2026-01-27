@@ -3,7 +3,7 @@ title: "Fotografie Forum Frankfurt"
 site_name: "Fotografie Forum Frankfurt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fotografie Forum Frankfurt serves as a vibrant hub for photography enthusiasts and art lovers alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

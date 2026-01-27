@@ -3,7 +3,7 @@ title: "Valdemarsmuren"
 site_name: "Valdemarsmuren"
 date: 2026-01-26
 draft: false
-description: "Bestandteil des Danewerks"
+description: "Valdemarsmuren is a remarkable fortification located in Schleswig-Holstein, Germany, recognized as a key component of the Danewerks, a historic defensive..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Fortification"

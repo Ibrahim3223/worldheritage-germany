@@ -3,7 +3,7 @@ title: "Museum Niesky"
 site_name: "Museum Niesky"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Niesky represents a unique cultural institution in Germany that serves as a repository of local history and artistic expression."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

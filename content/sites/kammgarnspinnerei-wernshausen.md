@@ -3,7 +3,7 @@ title: "Kammgarnspinnerei Wernshausen"
 site_name: "Kammgarnspinnerei Wernshausen"
 date: 2026-01-26
 draft: false
-description: "Unternehmen der Textilindustrie im jetzigen Schmalkaldener Ortsteil Wernshausen"
+description: "Kammgarnspinnerei Wernshausen is a remarkable piece of industrial heritage located in the picturesque region of Thuringia, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Factory"

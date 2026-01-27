@@ -3,7 +3,7 @@ title: "Altwiesen"
 site_name: "Altwiesen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Altwiesen is a nature reserve located in the picturesque region of Bodelshausen, Germany, within the state of Baden-Württemberg."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

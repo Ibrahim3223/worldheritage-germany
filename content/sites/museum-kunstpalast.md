@@ -3,7 +3,7 @@ title: "Museum Kunstpalast"
 site_name: "Museum Kunstpalast"
 date: 2026-01-26
 draft: false
-description: "art museum in Düsseldorf"
+description: "Museum Kunstpalast is a prominent art museum located in Düsseldorf, Germany, that serves as a significant cultural institution in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

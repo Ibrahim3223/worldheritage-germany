@@ -3,7 +3,7 @@ title: "Ettal Abbey"
 site_name: "Ettal Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Ettal Abbey, a stunning monastery located in the heart of Bavaria, Germany, serves as both a spiritual haven and a remarkable architectural achievement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

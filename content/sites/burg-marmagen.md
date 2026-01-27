@@ -3,7 +3,7 @@ title: "Burg Marmagen"
 site_name: "Burg Marmagen"
 date: 2026-01-26
 draft: false
-description: "Burg in Nordrhein-Westfalen, Deutschland"
+description: "Burg Marmagen is an intriguing castle located in the scenic region of Nettersheim, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

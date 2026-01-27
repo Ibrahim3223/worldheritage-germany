@@ -3,7 +3,7 @@ title: "Brandenburg-Preussen Museum"
 site_name: "Brandenburg-Preussen Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brandenburg-Preussen Museum, located in the quaint town of Fehrbellin, Germany, offers an intriguing glimpse into the history and culture of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

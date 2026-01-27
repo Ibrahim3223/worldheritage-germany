@@ -3,7 +3,7 @@ title: "Wildpark Potzberg"
 site_name: "Wildpark Potzberg"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Wildpark Potzberg is an engaging zoo located in the scenic region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Zoo"

@@ -3,7 +3,7 @@ title: "Weinbergweg 34 (Bonn)"
 site_name: "Weinbergweg 34 (Bonn)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Weinbergweg 34, located in the Beuel district of Bonn, Germany, is a castle that represents a unique slice of architectural heritage and cultural history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

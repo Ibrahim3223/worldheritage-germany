@@ -3,7 +3,7 @@ title: "Natural history museum Schleusingen"
 site_name: "Natural history museum Schleusingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Natural History Museum in Schleusingen, located in the heart of Thuringia, Germany, offers a unique glimpse into the intricate tapestry of our planet's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Stift Bethlehem"
 site_name: "Stift Bethlehem"
 date: 2026-01-26
 draft: false
-description: "kirchliche Stiftung privaten Rechts"
+description: "Stift Bethlehem is a notable foundation located in Ludwigslust, Germany. This establishment, recognized as a kirchliche Stiftung privaten Rechts, holds..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

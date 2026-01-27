@@ -3,7 +3,7 @@ title: "Villengarten Jacklweg 6; Jacklweg 8 in Kreuth"
 site_name: "Villengarten Jacklweg 6; Jacklweg 8 in Kreuth"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-82-124-27 (1) in Kreuth, Bavaria"
+description: "The Villengarten Jacklweg 6; Jacklweg 8, located in Kreuth, Bavaria, is a cultural heritage monument that invites visitors to explore the beauty of its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

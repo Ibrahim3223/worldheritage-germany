@@ -3,7 +3,7 @@ title: "Bussmühle"
 site_name: "Bussmühle"
 date: 2026-01-26
 draft: false
-description: "wind mill in Krefeld, Germany"
+description: "Bussmühle is a remarkable windmill located in Krefeld, Germany, that not only exemplifies the engineering prowess of historical windmill construction but..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

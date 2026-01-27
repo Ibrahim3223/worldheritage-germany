@@ -3,7 +3,7 @@ title: "Kirchhof II der ev. Kirchengemeinde Mariendorf"
 site_name: "Kirchhof II der ev. Kirchengemeinde Mariendorf"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Nestled amongst the urban landscape of Berlin, Kirchhof II der ev. Kirchengemeinde Mariendorf offers a unique glimpse into the city's historical and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

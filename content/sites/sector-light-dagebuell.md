@@ -3,7 +3,7 @@ title: "Sector light Dagebüll"
 site_name: "Sector light Dagebüll"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Sector light Dagebüll stands as a notable landmark in Schleswig-Holstein, Germany, serving both as a practical navigation aid and a point of interest..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

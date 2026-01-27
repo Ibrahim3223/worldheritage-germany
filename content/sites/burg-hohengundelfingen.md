@@ -3,7 +3,7 @@ title: "Burg Hohengundelfingen"
 site_name: "Burg Hohengundelfingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohengundelfingen is a captivating castle located in the charming region of Gundelfingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

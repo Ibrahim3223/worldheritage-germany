@@ -3,7 +3,7 @@ title: "Villa Rot, Burgrieden"
 site_name: "Villa Rot, Burgrieden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Villa Rot in Burgrieden is a museum that offers a unique glimpse into German culture and heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "ZB MED - Information Centre for Life Sciences"
 site_name: "ZB MED - Information Centre for Life Sciences"
 date: 2026-01-26
 draft: false
-description: "national library in Germany"
+description: "In the heart of North Rhine-Westphalia, Germany, lies ZB MED - Information Centre for Life Sciences, a national library dedicated to the expansive realm of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

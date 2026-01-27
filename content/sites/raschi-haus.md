@@ -3,7 +3,7 @@ title: "Raschi-Haus"
 site_name: "Raschi-Haus"
 date: 2026-01-26
 draft: false
-description: "historical building in Worms, Germany"
+description: "Raschi-Haus, located in the historic city of Worms, Germany, is a significant museum that invites visitors to explore the rich cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

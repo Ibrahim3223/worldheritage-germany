@@ -3,7 +3,7 @@ title: "Langweiler"
 site_name: "Langweiler"
 date: 2026-01-26
 draft: false
-description: "archaeological site in the Merzbach Valley of Western Germany"
+description: "Langweiler, an archaeological site located in the Merzbach Valley of Western Germany, offers a fascinating glimpse into the historical narratives that have..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

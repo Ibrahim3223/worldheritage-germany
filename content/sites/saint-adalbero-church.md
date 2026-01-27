@@ -3,7 +3,7 @@ title: "Saint Adalbero Church"
 site_name: "Saint Adalbero Church"
 date: 2026-01-26
 draft: false
-description: "parish church in Sanderau, Würzburg, Germany"
+description: "Saint Adalbero Church, a notable parish church located in the Sanderau district of Würzburg, Germany, is a remarkable embodiment of community spirit and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

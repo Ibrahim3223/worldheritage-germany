@@ -3,7 +3,7 @@ title: "Stadtmuseum im Augustinerkloster Bad Langensalza"
 site_name: "Stadtmuseum im Augustinerkloster Bad Langensalza"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Stadtmuseum im Augustinerkloster Bad Langensalza offers a captivating glimpse into the cultural and historical narrative of the region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

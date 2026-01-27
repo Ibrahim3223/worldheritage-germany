@@ -3,7 +3,7 @@ title: "Rhine Gorge"
 site_name: "Rhine Gorge"
 date: 2026-01-26
 draft: false
-description: "cultural landscape in the Middle Rhine, part of the World Heritage of UNESCO"
+description: "The Rhine Gorge, a UNESCO World Heritage cultural landscape, is a striking section of the Middle Rhine in Hesse, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cultural Landscape"

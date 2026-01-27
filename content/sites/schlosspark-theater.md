@@ -3,7 +3,7 @@ title: "Schlosspark Theater"
 site_name: "Schlosspark Theater"
 date: 2026-01-26
 draft: false
-description: "theatre and former cinema in Steglitz, Berlin, Germany"
+description: "Schlosspark Theater is a distinguished cultural venue located in the Steglitz-Zehlendorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

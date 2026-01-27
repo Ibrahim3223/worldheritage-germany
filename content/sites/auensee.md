@@ -3,7 +3,7 @@ title: "Auensee"
 site_name: "Auensee"
 date: 2026-01-26
 draft: false
-description: "lake in Aichach-Friedberg, Bavaria, Germany"
+description: "Auensee, a tranquil lake located in the Aichach-Friedberg district of Bavaria, Germany, offers a serene escape from the bustle of everyday life."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

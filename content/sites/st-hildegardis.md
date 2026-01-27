@@ -3,7 +3,7 @@ title: "St. Hildegardis"
 site_name: "St. Hildegardis"
 date: 2026-01-26
 draft: false
-description: "nursing home chapel in Düsseldorf-Garath, Germany"
+description: "St. Hildegardis is a distinguished chapel located in Düsseldorf-Garath, Germany, serving as a spiritual sanctuary within a nursing home."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

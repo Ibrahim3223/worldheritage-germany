@@ -3,7 +3,7 @@ title: "Swj. Marija, kralowna róžowca"
 site_name: "Swj. Marija, kralowna róžowca"
 date: 2026-01-26
 draft: false
-description: "church building in Radibor, Germany"
+description: "Swj. Marija, kralowna różowca, is a captivating church building located in the serene region of Radibor, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

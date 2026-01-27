@@ -3,7 +3,7 @@ title: "Synagogue Beuel"
 site_name: "Synagogue Beuel"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Bonn-Beuel, Germany"
+description: "Synagogue Beuel, located in the district of Beuel in Bonn, Germany, holds a poignant place in the narrative of Jewish heritage in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

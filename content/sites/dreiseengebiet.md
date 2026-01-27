@@ -3,7 +3,7 @@ title: "Dreiseengebiet"
 site_name: "Dreiseengebiet"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dreiseengebiet, located in the picturesque District of Traunstein, Germany, is a serene lake that offers a peaceful retreat for nature lovers and outdoor..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

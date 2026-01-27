@@ -3,7 +3,7 @@ title: "Marx-Engels Forum"
 site_name: "Marx-Engels Forum"
 date: 2026-01-26
 draft: false
-description: "park in Berlin, Germany"
+description: "The Marx-Engels Forum in Berlin is a compelling memorial park that invites reflection on the lives and legacies of two of the most influential thinkers in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

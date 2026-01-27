@@ -3,7 +3,7 @@ title: "Synagoge Bayreuth"
 site_name: "Synagoge Bayreuth"
 date: 2026-01-26
 draft: false
-description: "former opera house, then Redoutenhaus, then synagogue in Bayreuth, Germany"
+description: "The Synagoge Bayreuth stands as a remarkable symbol of resilience and cultural heritage in Bayreuth, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

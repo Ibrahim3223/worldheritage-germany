@@ -3,7 +3,7 @@ title: "Burg Haideck"
 site_name: "Burg Haideck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Haideck, located in the picturesque region of Trochtelfingen, Germany, is a captivating castle that holds a wealth of historical and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

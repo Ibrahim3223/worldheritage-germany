@@ -3,7 +3,7 @@ title: "Langerwehe station"
 site_name: "Langerwehe station"
 date: 2026-01-26
 draft: false
-description: "railway station in Langerwehe, Germany"
+description: "Langerwehe station serves as a vital transportation hub in the small town of Langerwehe, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

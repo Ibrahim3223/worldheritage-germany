@@ -3,7 +3,7 @@ title: "Synagogue of Kaiserslautern"
 site_name: "Synagogue of Kaiserslautern"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue of Kaiserslautern is a significant cultural landmark located in the Rhineland-Palatinate region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Papiertechnische Stiftung (Germany)"
 site_name: "Papiertechnische Stiftung (Germany)"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Munich, Germany"
+description: "Located in the vibrant city of Munich, Germany, the Papiertechnische Stiftung serves as a nonprofit organization dedicated to the promotion and advancement..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

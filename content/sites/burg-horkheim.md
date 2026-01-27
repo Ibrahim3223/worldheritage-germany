@@ -3,7 +3,7 @@ title: "Burg Horkheim"
 site_name: "Burg Horkheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Horkheim, a notable castle located in the Heilbronn region of Germany, represents a significant aspect of the area's historical landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

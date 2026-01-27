@@ -3,7 +3,7 @@ title: "Deutsches Tabakpfeifenmuseum Oberelsbach-Rhön"
 site_name: "Deutsches Tabakpfeifenmuseum Oberelsbach-Rhön"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Tabakpfeifenmuseum Oberelsbach-Rhön offers a unique perspective on the cultural significance of tobacco pipes in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Friedrich III. Denkmal"
 site_name: "Friedrich III. Denkmal"
 date: 2026-01-26
 draft: false
-description: "statue in Aachen, Germany"
+description: "In the heart of Aachen, Germany, the Friedrich III. Denkmal stands as a prominent statue commemorating a significant figure in German history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

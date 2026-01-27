@@ -3,7 +3,7 @@ title: "Bergfeste Dilsberg"
 site_name: "Bergfeste Dilsberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Bergfeste Dilsberg, an impressive castle located in Neckargemünd, Germany, offers visitors a glimpse into the historical significance of medieval..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

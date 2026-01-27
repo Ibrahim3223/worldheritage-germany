@@ -3,7 +3,7 @@ title: "Freilichtmuseum Diesdorf"
 site_name: "Freilichtmuseum Diesdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Freilichtmuseum Diesdorf is a notable museum located in Germany, dedicated to showcasing the agricultural history and rural life of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

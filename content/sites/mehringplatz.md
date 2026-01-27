@@ -3,7 +3,7 @@ title: "Mehringplatz"
 site_name: "Mehringplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Mehringplatz, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, is a noteworthy square that encapsulates the spirit of the city's dynamic..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

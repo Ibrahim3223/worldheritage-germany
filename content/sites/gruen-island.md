@@ -3,7 +3,7 @@ title: "Grün island"
 site_name: "Grün island"
 date: 2026-01-26
 draft: false
-description: "island in the Rhine, Germany"
+description: "Grün Island, a serene isle located in the Rhine River of Germany's Rhineland-Palatinate region, offers a tranquil escape from the bustling urban landscapes..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Island"

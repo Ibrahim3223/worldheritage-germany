@@ -3,7 +3,7 @@ title: "Abtei Grüssau"
 site_name: "Abtei Grüssau"
 date: 2026-01-26
 draft: false
-description: "Abtei der Beuroner Kongregation"
+description: "Abtei Grüssau, a remarkable monastery located in Bad Wimpfen, Germany, is not just a site of religious significance but also a cultural landmark that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Kettenschmiedemuseum Sichtigvor"
 site_name: "Kettenschmiedemuseum Sichtigvor"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kettenschmiedemuseum Sichtigvor invites visitors to delve into the world of traditional chain forging, a craft that has shaped both local industry and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

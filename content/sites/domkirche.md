@@ -3,7 +3,7 @@ title: "Domkirche"
 site_name: "Domkirche"
 date: 2026-01-26
 draft: false
-description: "religious building"
+description: "Domkirche, a prominent church building located in the quaint town of Lampertheim, Germany, serves as a notable religious site with deep cultural roots."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

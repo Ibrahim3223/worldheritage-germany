@@ -3,7 +3,7 @@ title: "Nordkirchen transmitter"
 site_name: "Nordkirchen transmitter"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "In the heart of Nordkirchen, Germany, the Nordkirchen transmitter rises as a prominent structure, a tower that symbolizes the evolution of communication..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

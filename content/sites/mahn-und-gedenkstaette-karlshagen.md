@@ -3,7 +3,7 @@ title: "Mahn- und Gedenkstätte Karlshagen"
 site_name: "Mahn- und Gedenkstätte Karlshagen"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte in Trassenheide auf der Insel Usedom in Mecklenburg-Vorpommern"
+description: "Mahn- und Gedenkstätte Karlshagen, a poignant memorial on the island of Usedom in Mecklenburg-Vorpommern, Germany, serves as a somber reminder of the past."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Memorial"

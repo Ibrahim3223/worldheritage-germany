@@ -3,7 +3,7 @@ title: "Parochialkirche"
 site_name: "Parochialkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Parochialkirche, located in the heart of Berlin, is a notable church building that encapsulates the essence of the city's architectural and cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

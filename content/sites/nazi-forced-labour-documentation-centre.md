@@ -3,7 +3,7 @@ title: "Nazi Forced Labour Documentation Centre"
 site_name: "Nazi Forced Labour Documentation Centre"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nazi Forced Labour Documentation Centre stands as a crucial site of remembrance and education in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

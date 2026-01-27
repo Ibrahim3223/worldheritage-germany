@@ -3,7 +3,7 @@ title: "Bieleboh"
 site_name: "Bieleboh"
 date: 2026-01-26
 draft: false
-description: "mountain in Upper Lusatia"
+description: "Bieleboh, a mountain located in Upper Lusatia in Germany's Beiersdorf region, stands as a prominent natural feature in this diverse landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

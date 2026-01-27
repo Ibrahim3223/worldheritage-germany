@@ -3,7 +3,7 @@ title: "Heimlichleiden"
 site_name: "Heimlichleiden"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heimlichleiden, a serene chapel located in Loiching, Germany, stands as a significant cultural and spiritual landmark."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

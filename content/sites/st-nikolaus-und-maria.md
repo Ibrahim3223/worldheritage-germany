@@ -3,7 +3,7 @@ title: "St. Nikolaus und Maria"
 site_name: "St. Nikolaus und Maria"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Nikolaus und Maria, located in the heart of Bavaria, Germany, represents not only a place of worship but also a significant cultural landmark in the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

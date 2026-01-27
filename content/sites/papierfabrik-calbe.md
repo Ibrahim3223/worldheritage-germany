@@ -3,7 +3,7 @@ title: "Papierfabrik (Calbe)"
 site_name: "Papierfabrik (Calbe)"
 date: 2026-01-26
 draft: false
-description: "ehemalige Papierfabrik in Calbe (Saale)"
+description: "The Papierfabrik in Calbe stands as a notable architectural ensemble that reflects the industrial heritage of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Museum of Natural History Chemnitz"
 site_name: "Museum of Natural History Chemnitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum of Natural History Chemnitz, located in Germany, serves as a captivating hub for those intrigued by the natural world."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

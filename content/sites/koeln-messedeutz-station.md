@@ -3,7 +3,7 @@ title: "Köln Messe/Deutz station"
 site_name: "Köln Messe/Deutz station"
 date: 2026-01-26
 draft: false
-description: "railway station in Germany"
+description: "Köln Messe/Deutz station serves as a pivotal transport hub in the vibrant city of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

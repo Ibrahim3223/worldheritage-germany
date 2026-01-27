@@ -3,7 +3,7 @@ title: "Großwolder Kirche"
 site_name: "Großwolder Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Großwolder Kirche, a prominent church building located in the Westoverledingen region of Germany, is a meaningful site for both the local community and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

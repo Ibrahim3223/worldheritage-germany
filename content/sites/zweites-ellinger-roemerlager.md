@@ -3,7 +3,7 @@ title: "Zweites Ellinger Römerlager"
 site_name: "Zweites Ellinger Römerlager"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "The Zweites Ellinger Römerlager, located in Ellingen, Germany, is an archaeological site that offers a fascinating glimpse into human settlement in the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

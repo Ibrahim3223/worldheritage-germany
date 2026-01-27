@@ -3,7 +3,7 @@ title: "Church in Dersekow"
 site_name: "Church in Dersekow"
 date: 2026-01-26
 draft: false
-description: "church building in Dersekow, Germany"
+description: "The Church in Dersekow is a remarkable example of religious architecture situated in the quaint village of Dersekow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

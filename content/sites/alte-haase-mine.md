@@ -3,7 +3,7 @@ title: "Alte Haase mine"
 site_name: "Alte Haase mine"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Alte Haase mine, located in the picturesque region of Sprockhövel, Germany, is a significant site reflecting the country’s historical relationship with..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

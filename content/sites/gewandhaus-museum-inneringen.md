@@ -3,7 +3,7 @@ title: "Gewandhaus Museum Inneringen"
 site_name: "Gewandhaus Museum Inneringen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gewandhaus Museum Inneringen, located in the quaint municipality of Hettingen, Germany, serves as a significant cultural institution that offers..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

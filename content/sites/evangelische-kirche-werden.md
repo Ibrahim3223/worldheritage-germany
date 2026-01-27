@@ -3,7 +3,7 @@ title: "Evangelische Kirche Werden"
 site_name: "Evangelische Kirche Werden"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Kirche Werden, located in Essen, Germany, is a church building that represents a significant aspect of the region's cultural and religious..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

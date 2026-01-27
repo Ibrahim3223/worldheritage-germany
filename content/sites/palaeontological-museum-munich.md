@@ -3,7 +3,7 @@ title: "Palaeontological Museum, Munich"
 site_name: "Palaeontological Museum, Munich"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Palaeontological Museum in Munich is a prominent institution dedicated to the study of the history of life on Earth, showcasing an impressive collection..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

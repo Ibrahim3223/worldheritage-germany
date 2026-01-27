@@ -3,7 +3,7 @@ title: "Schloss Drachenburg"
 site_name: "Schloss Drachenburg"
 date: 2026-01-26
 draft: false
-description: "19th century villa in Königswinter, Germany"
+description: "Schloss Drachenburg, a striking 19th-century villa located in Königswinter, Germany, captivates visitors with its unique architectural style and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

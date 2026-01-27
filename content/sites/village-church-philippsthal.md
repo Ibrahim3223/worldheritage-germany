@@ -3,7 +3,7 @@ title: "Village church Philippsthal"
 site_name: "Village church Philippsthal"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Village Church Philippsthal, located in the serene Nuthetal region of Brandenburg, Germany, is a church building steeped in cultural significance."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

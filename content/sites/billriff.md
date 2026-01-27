@@ -3,7 +3,7 @@ title: "Billriff"
 site_name: "Billriff"
 date: 2026-01-26
 draft: false
-description: "Strand in Deutschland"
+description: "Billriff, located in the serene region of Lower Saxony, Germany, offers a captivating beach experience for both locals and visitors."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

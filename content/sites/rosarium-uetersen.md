@@ -3,7 +3,7 @@ title: "Rosarium Uetersen"
 site_name: "Rosarium Uetersen"
 date: 2026-01-26
 draft: false
-description: "rose garden in Uetersen, Germany"
+description: "In the heart of Uetersen, Germany, lies the Rosarium Uetersen, a botanical garden that serves as a vibrant celebration of roses."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Zethner See"
 site_name: "Zethner See"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Zethner See, located in the picturesque Mecklenburgische Seenplatte District of Germany, is a serene lake that offers a tranquil retreat into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

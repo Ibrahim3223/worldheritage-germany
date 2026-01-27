@@ -3,7 +3,7 @@ title: "Vicelinkirche"
 site_name: "Vicelinkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Neumünster, Schleswig-Holstein, Germany"
+description: "Vicelinkirche, a prominent church building located in Neumünster, Schleswig-Holstein, Germany, is a significant site that reflects the architectural and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

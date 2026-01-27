@@ -3,7 +3,7 @@ title: "Garten Bei St. Walburg; Walburgiberg 6 in Eichstätt"
 site_name: "Garten Bei St. Walburg; Walburgiberg 6 in Eichstätt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-76-123-252 (3) in Eichstätt, Bavaria"
+description: "Located in the quaint town of Eichstätt in Bavaria, Germany, Garten Bei St. Walburg serves as a serene cultural heritage monument that invites visitors to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

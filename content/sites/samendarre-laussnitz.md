@@ -3,7 +3,7 @@ title: "Samendarre Laußnitz"
 site_name: "Samendarre Laußnitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Samendarre Laußnitz is a bridge that connects the past with the present, standing as an essential piece of infrastructure in the region of Laußnitz,..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

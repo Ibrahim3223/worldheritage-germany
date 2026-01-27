@@ -3,7 +3,7 @@ title: "Skulpturensammlung Dresden"
 site_name: "Skulpturensammlung Dresden"
 date: 2026-01-26
 draft: false
-description: "collection of sculptures over 5 millennia"
+description: "The Skulpturensammlung Dresden, situated in the heart of the historical city of Dresden, Germany, is a remarkable museum dedicated to the art of sculpture."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

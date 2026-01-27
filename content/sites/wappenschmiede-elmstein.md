@@ -3,7 +3,7 @@ title: "Wappenschmiede Elmstein"
 site_name: "Wappenschmiede Elmstein"
 date: 2026-01-26
 draft: false
-description: "historische Schmiede mit Schwanzhammer in Elmstein, Rheinland-Pfalz"
+description: "Wappenschmiede Elmstein, a museum dedicated to the ancient craft of blacksmithing, offers visitors a unique glimpse into a traditional forge located in the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

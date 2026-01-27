@@ -3,7 +3,7 @@ title: "Marmorpalais"
 site_name: "Marmorpalais"
 date: 2026-01-26
 draft: false
-description: "château in Potsdam, Brandenburg, Germany"
+description: "Marmorpalais, a striking château located in Potsdam, Brandenburg, Germany, offers visitors a unique glimpse into the artistic and cultural heritage of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

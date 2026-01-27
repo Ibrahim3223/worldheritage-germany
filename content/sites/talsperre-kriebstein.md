@@ -3,7 +3,7 @@ title: "Talsperre Kriebstein"
 site_name: "Talsperre Kriebstein"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "Talsperre Kriebstein is a remarkable dam located in the serene region of Kriebstein, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Dam"

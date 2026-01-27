@@ -3,7 +3,7 @@ title: "Neues Palais Pillnitz"
 site_name: "Neues Palais Pillnitz"
 date: 2026-01-26
 draft: false
-description: "heritage building in Dresden, Germany"
+description: "In the serene landscape of Dresden, Germany, the Neues Palais Pillnitz emerges as a striking representation of regal architecture and cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

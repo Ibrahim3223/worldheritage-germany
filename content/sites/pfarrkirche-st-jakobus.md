@@ -3,7 +3,7 @@ title: "Pfarrkirche St. Jakobus"
 site_name: "Pfarrkirche St. Jakobus"
 date: 2026-01-26
 draft: false
-description: "roman catholic church building in Alfter, Germany"
+description: "The Pfarrkirche St. Jakobus is a notable Roman Catholic church located in the charming town of Alfter, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Johannes der Täufer (Schalkenbach)"
 site_name: "St. Johannes der Täufer (Schalkenbach)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Johannes der Täufer, a quaint chapel located in the serene village of Schalkenbach, Germany, offers a unique glimpse into the spiritual heritage of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

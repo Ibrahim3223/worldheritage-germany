@@ -3,7 +3,7 @@ title: "Christ-the-King church Lauchhammer"
 site_name: "Christ-the-King church Lauchhammer"
 date: 2026-01-26
 draft: false
-description: "church building in Oberspreewald district, Brandenburg state, Germany"
+description: "The Christ-the-King Church in Lauchhammer, located in the Oberspreewald district of Brandenburg, Germany, invites visitors to explore its architectural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

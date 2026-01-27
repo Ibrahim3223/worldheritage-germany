@@ -3,7 +3,7 @@ title: "Burg Gomadingen"
 site_name: "Burg Gomadingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Tucked away in the tranquil countryside of Gomadingen, Germany, Burg Gomadingen is a captivating castle that invites visitors to explore its storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

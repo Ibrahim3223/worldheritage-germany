@@ -3,7 +3,7 @@ title: "Museum Erdbachium"
 site_name: "Museum Erdbachium"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Erdbachium is a captivating cultural institution located in the heart of Erdbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

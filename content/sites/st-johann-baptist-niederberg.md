@@ -3,7 +3,7 @@ title: "St. Johann Baptist (Niederberg)"
 site_name: "St. Johann Baptist (Niederberg)"
 date: 2026-01-26
 draft: false
-description: "church building in Erftstadt, Germany"
+description: "St. Johann Baptist (Niederberg) is an intriguing church building located in the charming town of Erftstadt, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

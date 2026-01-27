@@ -3,7 +3,7 @@ title: "Wohnhaus"
 site_name: "Wohnhaus"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-62-000-427 (0) in Bayreuth, Bavaria"
+description: "In the heart of Bayreuth, Germany, lies Wohnhaus, an intriguing museum that serves as a cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

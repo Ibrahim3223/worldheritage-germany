@@ -3,7 +3,7 @@ title: "Erich Kästner Museum"
 site_name: "Erich Kästner Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Dresden, the Erich Kästner Museum invites visitors to delve into the life and works of one of Germany's most beloved authors and poets."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

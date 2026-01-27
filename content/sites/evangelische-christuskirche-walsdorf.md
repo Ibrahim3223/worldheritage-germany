@@ -3,7 +3,7 @@ title: "Evangelische Christuskirche Walsdorf"
 site_name: "Evangelische Christuskirche Walsdorf"
 date: 2026-01-26
 draft: false
-description: "church building in Walsdorf, Germany"
+description: "The Evangelische Christuskirche Walsdorf is a notable church building located in the quaint village of Walsdorf, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

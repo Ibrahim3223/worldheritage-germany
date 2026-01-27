@@ -3,7 +3,7 @@ title: "Hanseatisches Oberlandesgericht"
 site_name: "Hanseatisches Oberlandesgericht"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Hamburg"
+description: "The Hanseatisches Oberlandesgericht, located in the vibrant heart of Hamburg, Germany, serves as a significant landmark in the city’s legal framework."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Courthouse"

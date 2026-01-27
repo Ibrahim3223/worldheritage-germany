@@ -3,7 +3,7 @@ title: "Kunstmuseum Singen"
 site_name: "Kunstmuseum Singen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Singen, Germany, the Kunstmuseum Singen presents itself as a cultural hub dedicated to the preservation and exhibition of modern and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

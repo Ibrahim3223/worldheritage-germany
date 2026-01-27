@@ -3,7 +3,7 @@ title: "St. Maria Rosenkranz"
 site_name: "St. Maria Rosenkranz"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Wersten, Germany"
+description: "St. Maria Rosenkranz is a significant church building located in the Wersten district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

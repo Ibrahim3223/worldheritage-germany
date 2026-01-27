@@ -3,7 +3,7 @@ title: "Darmstadtia"
 site_name: "Darmstadtia"
 date: 2026-01-26
 draft: false
-description: "statue in Darmstadt, Germany"
+description: "Darmstadtia is a striking statue located in the heart of Darmstadt, Germany. This captivating piece of art not only enhances the cultural landscape of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

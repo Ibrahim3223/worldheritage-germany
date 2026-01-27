@@ -3,7 +3,7 @@ title: "Library of the Germanisches Nationalmuseum"
 site_name: "Library of the Germanisches Nationalmuseum"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of the Germanisches Nationalmuseum, situated in the historical city of Nuremberg, Germany, serves as a vital resource for scholars, students,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

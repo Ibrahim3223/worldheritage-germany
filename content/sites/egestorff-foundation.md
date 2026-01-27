@@ -3,7 +3,7 @@ title: "Egestorff Foundation"
 site_name: "Egestorff Foundation"
 date: 2026-01-26
 draft: false
-description: "Foundation of the Bremen Evangelical Church"
+description: "The Egestorff Foundation, located in the picturesque region of Osterholz, Germany, serves as a remarkable institution of the Bremen Evangelical Church."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"

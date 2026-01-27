@@ -3,7 +3,7 @@ title: "Gemeindebibliothek Weyhe"
 site_name: "Gemeindebibliothek Weyhe"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebibliothek Weyhe, located in the quaint town of Weyhe, Germany, serves as a vital cultural and educational hub for the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

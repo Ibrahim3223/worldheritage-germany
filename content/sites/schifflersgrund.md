@@ -3,7 +3,7 @@ title: "Schifflersgrund"
 site_name: "Schifflersgrund"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schifflersgrund, located in the heart of Hesse, Germany, is a museum that invites visitors to explore a diverse range of exhibits."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

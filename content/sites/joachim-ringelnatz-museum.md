@@ -3,7 +3,7 @@ title: "Joachim-Ringelnatz-Museum"
 site_name: "Joachim-Ringelnatz-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Cuxhaven, Germany"
+description: "The Joachim-Ringelnatz-Museum in Cuxhaven, Germany, is a dedicated homage to the life and work of the renowned poet and painter, Joachim Ringelnatz."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

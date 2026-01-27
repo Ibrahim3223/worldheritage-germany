@@ -3,7 +3,7 @@ title: "St. Marienkirche"
 site_name: "St. Marienkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "St. Marienkirche, located in the vibrant city of Hannover, Germany, is a striking example of ecclesiastical architecture that draws visitors from around the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

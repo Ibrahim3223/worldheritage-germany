@@ -3,7 +3,7 @@ title: "Heimatstube des Harzklub-ZV Hahnenklee-Bockswiese mit Paul-Lincke-Ecke"
 site_name: "Heimatstube des Harzklub-ZV Hahnenklee-Bockswiese mit Paul-Lincke-Ecke"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatstube des Harzklub-ZV Hahnenklee-Bockswiese mit Paul-Lincke-Ecke is a captivating museum located in the picturesque region of Goslar, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

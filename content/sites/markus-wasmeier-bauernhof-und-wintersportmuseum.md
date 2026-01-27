@@ -3,7 +3,7 @@ title: "Markus Wasmeier Bauernhof- und Wintersportmuseum"
 site_name: "Markus Wasmeier Bauernhof- und Wintersportmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Markus Wasmeier Bauernhof- und Wintersportmuseum is an engaging museum located in the picturesque Schliersee region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

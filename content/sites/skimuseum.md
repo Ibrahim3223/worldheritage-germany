@@ -3,7 +3,7 @@ title: "Skimuseum"
 site_name: "Skimuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Skimuseum in Germany is a captivating destination for enthusiasts of winter sports and cultural history alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

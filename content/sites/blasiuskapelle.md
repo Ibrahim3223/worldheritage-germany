@@ -3,7 +3,7 @@ title: "Blasiuskapelle"
 site_name: "Blasiuskapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Dornburg"
+description: "Blasiuskapelle, a serene chapel located in the quaint region of Dornburg, Germany, is a site of both historical and cultural significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

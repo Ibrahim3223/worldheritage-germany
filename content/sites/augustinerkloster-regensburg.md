@@ -3,7 +3,7 @@ title: "Augustinerkloster Regensburg"
 site_name: "Augustinerkloster Regensburg"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kloster der Augustiner-Eremiten in Regensburg in Bayern"
+description: "Augustinerkloster Regensburg, a former monastery of the Augustinian Hermits, is a significant historical and cultural landmark located in the heart of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

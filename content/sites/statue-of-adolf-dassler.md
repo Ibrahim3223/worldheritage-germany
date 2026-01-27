@@ -3,7 +3,7 @@ title: "Statue of Adolf Dassler"
 site_name: "Statue of Adolf Dassler"
 date: 2026-01-26
 draft: false
-description: "Bronze sculpture in Germany"
+description: "The Statue of Adolf Dassler, an intriguing bronze sculpture located in Herzogenaurach, Germany, commemorates a pivotal figure in the world of sports and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

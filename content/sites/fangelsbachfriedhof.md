@@ -3,7 +3,7 @@ title: "Fangelsbachfriedhof"
 site_name: "Fangelsbachfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Stuttgart, Germany"
+description: "Fangelsbachfriedhof is a cemetery situated in Stuttgart, Germany, that encapsulates the solemn beauty and historical significance of its surroundings."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

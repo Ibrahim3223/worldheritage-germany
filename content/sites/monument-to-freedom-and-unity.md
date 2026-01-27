@@ -3,7 +3,7 @@ title: "Monument to Freedom and Unity"
 site_name: "Monument to Freedom and Unity"
 date: 2026-01-26
 draft: false
-description: "planned national German monument in Berlin"
+description: "In the heart of Berlin, a new chapter in the city's storied narrative is being written with the Monument to Freedom and Unity."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

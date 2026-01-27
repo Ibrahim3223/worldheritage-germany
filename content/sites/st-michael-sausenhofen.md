@@ -3,7 +3,7 @@ title: "St. Michael (Sausenhofen)"
 site_name: "St. Michael (Sausenhofen)"
 date: 2026-01-26
 draft: false
-description: "church building in Dittenheim, Middle Franconia, Germany"
+description: "St. Michael in Sausenhofen, located in the picturesque region of Dittenheim, Germany, serves as a significant landmark of ecclesiastical architecture in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Glass Museum, Passau"
 site_name: "Glass Museum, Passau"
 date: 2026-01-26
 draft: false
-description: "Glass museum in Passau, Germany"
+description: "The Glass Museum in Passau, Germany, serves as a remarkable showcase of the artistry and craftsmanship of glass-making, a significant cultural heritage that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

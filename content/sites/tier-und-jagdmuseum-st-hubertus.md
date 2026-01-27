@@ -3,7 +3,7 @@ title: "Tier- und Jagdmuseum St. Hubertus"
 site_name: "Tier- und Jagdmuseum St. Hubertus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Tier- und Jagdmuseum St. Hubertus is a captivating museum located in Germany, dedicated to showcasing the intertwined themes of wildlife and hunting."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

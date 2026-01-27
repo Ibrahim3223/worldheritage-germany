@@ -3,7 +3,7 @@ title: "Leuchtturm Travemünde"
 site_name: "Leuchtturm Travemünde"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Leuchtturm Travemünde, a prominent lighthouse located in the picturesque coastal district of Travemünde in Schleswig-Holstein, Germany, serves as both a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

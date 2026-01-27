@@ -3,7 +3,7 @@ title: "St. Helena-Kapelle"
 site_name: "St. Helena-Kapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Helena-Kapelle is a notable church building located in the Stadtbezirk Bonn district of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

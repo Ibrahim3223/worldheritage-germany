@@ -3,7 +3,7 @@ title: "Bauhaus Dessau"
 site_name: "Bauhaus Dessau"
 date: 2026-01-26
 draft: false
-description: "building complex in Dessau, Germany"
+description: "Bauhaus Dessau is a landmark of modernist architecture and design, situated in the city of Dessau-Roßlau, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

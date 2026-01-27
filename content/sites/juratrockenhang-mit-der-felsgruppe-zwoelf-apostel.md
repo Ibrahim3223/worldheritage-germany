@@ -3,7 +3,7 @@ title: "Juratrockenhang mit der Felsgruppe \"Zwölf Apostel\""
 site_name: "Juratrockenhang mit der Felsgruppe \"Zwölf Apostel\""
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "The Juratrockenhang mit der Felsgruppe "Zwölf Apostel," located in Bavaria, Germany, presents an intriguing blend of natural beauty and ecological significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

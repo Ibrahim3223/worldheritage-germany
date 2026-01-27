@@ -3,7 +3,7 @@ title: "Freiligrathstraße 8"
 site_name: "Freiligrathstraße 8"
 date: 2026-01-26
 draft: false
-description: "town hall in Oybin"
+description: "Freiligrathstraße 8, located in the charming town of Oybin, Germany, serves as the town hall for this picturesque community."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

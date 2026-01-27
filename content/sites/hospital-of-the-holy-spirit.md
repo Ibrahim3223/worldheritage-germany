@@ -3,7 +3,7 @@ title: "Hospital of the Holy Spirit"
 site_name: "Hospital of the Holy Spirit"
 date: 2026-01-26
 draft: false
-description: "hospital in Hamburg, Germany"
+description: "The Hospital of the Holy Spirit in Hamburg, Germany, stands as a significant historical and cultural establishment within the Wandsbek region."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

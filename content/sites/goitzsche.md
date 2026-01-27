@@ -3,7 +3,7 @@ title: "Goitzsche"
 site_name: "Goitzsche"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Goitzsche, a serene lake located in the Anhalt-Bitterfeld region of Germany, offers visitors a unique blend of natural beauty and cultural significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

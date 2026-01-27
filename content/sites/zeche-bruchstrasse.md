@@ -3,7 +3,7 @@ title: "Zeche Bruchstraße"
 site_name: "Zeche Bruchstraße"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bruchstraße, located in Bochum, Germany, is a significant historical site that encapsulates the industrial heritage of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

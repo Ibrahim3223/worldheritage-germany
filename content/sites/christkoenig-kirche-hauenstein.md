@@ -3,7 +3,7 @@ title: "Christkönig-Kirche (Hauenstein)"
 site_name: "Christkönig-Kirche (Hauenstein)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christkönig-Kirche, located in the town of Hauenstein, Germany, is a church building that reflects the cultural and architectural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

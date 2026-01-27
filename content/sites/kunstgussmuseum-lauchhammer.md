@@ -3,7 +3,7 @@ title: "Kunstgussmuseum Lauchhammer"
 site_name: "Kunstgussmuseum Lauchhammer"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in Lauchhammer, Germany, the Kunstgussmuseum Lauchhammer is a museum dedicated to the art of bronze casting and the rich history associated with..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Dorfkirche Gustow"
 site_name: "Dorfkirche Gustow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Gustow is a church building located in the charming village of Gustow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

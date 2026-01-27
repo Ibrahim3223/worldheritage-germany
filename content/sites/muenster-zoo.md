@@ -3,7 +3,7 @@ title: "Münster Zoo"
 site_name: "Münster Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Münster, Germany"
+description: "Münster Zoo, located in the vibrant city of Münster, Germany, presents an engaging experience for animal lovers and families alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

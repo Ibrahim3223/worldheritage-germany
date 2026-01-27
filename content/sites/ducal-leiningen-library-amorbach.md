@@ -3,7 +3,7 @@ title: "Ducal Leiningen Library Amorbach"
 site_name: "Ducal Leiningen Library Amorbach"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Ducal Leiningen Library in Amorbach, Germany, serves as a significant cultural repository, showcasing a blend of historical relevance and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

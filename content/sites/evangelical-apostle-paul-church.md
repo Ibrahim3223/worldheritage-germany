@@ -3,7 +3,7 @@ title: "Evangelical Apostle Paul Church"
 site_name: "Evangelical Apostle Paul Church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "The Evangelical Apostle Paul Church, located in the dynamic district of Tempelhof-Schöneberg in Berlin, serves as an essential landmark within the city’s..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

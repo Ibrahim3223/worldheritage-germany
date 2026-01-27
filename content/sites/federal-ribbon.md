@@ -3,7 +3,7 @@ title: "Federal Ribbon"
 site_name: "Federal Ribbon"
 date: 2026-01-26
 draft: false
-description: "arrangement of buildings in the government district in Berlin"
+description: "The Federal Ribbon is an architectural ensemble located in the heart of Berlin, Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Erich-Mäder-Glasmuseum"
 site_name: "Erich-Mäder-Glasmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Erich-Mäder-Glasmuseum, located in the picturesque town of Delligsen, Germany, is a captivating destination for enthusiasts of glass artistry and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

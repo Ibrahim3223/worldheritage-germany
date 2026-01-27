@@ -3,7 +3,7 @@ title: "Hohlenfels Castle"
 site_name: "Hohlenfels Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Mudershausen, Rhineland-Palatinate, Germany"
+description: "Hohlenfels Castle, located in the serene landscape of Mudershausen, Rhineland-Palatinate, Germany, presents a captivating glimpse into the medieval past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

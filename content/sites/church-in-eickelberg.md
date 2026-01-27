@@ -3,7 +3,7 @@ title: "Church in Eickelberg"
 site_name: "Church in Eickelberg"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Eickelberg is a remarkable church building located in the picturesque region of Warnow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

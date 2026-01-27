@@ -3,7 +3,7 @@ title: "Großenhain Cottbuser Bahnhof railway station"
 site_name: "Großenhain Cottbuser Bahnhof railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Großenhain, Germany"
+description: "Großenhain Cottbuser Bahnhof railway station serves as a vital transport hub in the town of Großenhain, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

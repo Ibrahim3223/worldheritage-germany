@@ -3,7 +3,7 @@ title: "Englischer Garten"
 site_name: "Englischer Garten"
 date: 2026-01-26
 draft: false
-description: "a large public park in the centre of Munich"
+description: "In the heart of Munich, the Englischer Garten offers a serene escape from the urban hustle, inviting visitors to embrace its expansive green spaces,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

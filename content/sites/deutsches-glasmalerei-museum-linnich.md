@@ -3,7 +3,7 @@ title: "Deutsches Glasmalerei-Museum Linnich"
 site_name: "Deutsches Glasmalerei-Museum Linnich"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Glasmalerei-Museum Linnich is a distinguished museum dedicated to the art of stained glass, situated in the charming town of Linnich, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

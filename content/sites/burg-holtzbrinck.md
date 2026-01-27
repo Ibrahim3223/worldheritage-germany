@@ -3,7 +3,7 @@ title: "Burg Holtzbrinck"
 site_name: "Burg Holtzbrinck"
 date: 2026-01-26
 draft: false
-description: "castle in Altena, Germany"
+description: "Burg Holtzbrinck, a captivating castle located in Altena, Germany, offers visitors a glimpse into the architectural prowess and historical significance of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

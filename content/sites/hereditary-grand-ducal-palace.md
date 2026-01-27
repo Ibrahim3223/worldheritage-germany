@@ -3,7 +3,7 @@ title: "Hereditary Grand Ducal Palace"
 site_name: "Hereditary Grand Ducal Palace"
 date: 2026-01-26
 draft: false
-description: "building in Karlsruhe, Germany"
+description: "The Hereditary Grand Ducal Palace, located in the heart of Karlsruhe, Germany, is a striking example of royal architecture that reflects the city's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

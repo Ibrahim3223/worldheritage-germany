@@ -3,7 +3,7 @@ title: "Babelsberg Palace"
 site_name: "Babelsberg Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Potsdam, Germany"
+description: "Babelsberg Palace, situated in Potsdam, Germany, is an architectural masterpiece that captivates visitors with its unique charm and historical significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Château"

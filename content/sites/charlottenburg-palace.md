@@ -3,7 +3,7 @@ title: "Charlottenburg Palace"
 site_name: "Charlottenburg Palace"
 date: 2026-01-26
 draft: false
-description: "Baroque palace in Berlin, Germany"
+description: "Charlottenburg Palace, a magnificent Baroque palace located in the vibrant heart of Berlin, Germany, offers a unique glimpse into the opulence of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Moyland Castle"
 site_name: "Moyland Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Bedburg-Hau, Germany"
+description: "Moyland Castle, located in Bedburg-Hau, Germany, is an intriguing museum that invites visitors to explore its rich cultural offerings and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

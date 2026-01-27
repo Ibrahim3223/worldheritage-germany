@@ -3,7 +3,7 @@ title: "Deutsches Jagd- und Fischereimuseum"
 site_name: "Deutsches Jagd- und Fischereimuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Munich, Bavaria, Germany"
+description: "The Deutsches Jagd- und Fischereimuseum, located in the heart of Munich, serves as a fascinating insight into the worlds of hunting and fishing, two pivotal..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

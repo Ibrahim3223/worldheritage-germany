@@ -3,7 +3,7 @@ title: "German Allotment Museum"
 site_name: "German Allotment Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The German Allotment Museum, located in the vibrant city of Leipzig, Germany, offers visitors an insightful glimpse into the world of allotment gardening..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

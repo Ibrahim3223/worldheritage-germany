@@ -3,7 +3,7 @@ title: "Forstarbeiterdenkmal"
 site_name: "Forstarbeiterdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Germany"
+description: "The Forstarbeiterdenkmal, a striking monument located in Germany, serves as a poignant reminder of the contributions and sacrifices made by foreign workers..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

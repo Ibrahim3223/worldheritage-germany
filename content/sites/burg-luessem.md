@@ -3,7 +3,7 @@ title: "Burg Lüssem"
 site_name: "Burg Lüssem"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lüssem is a captivating castle located in the Zülpich region of Germany, an area steeped in history and architectural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

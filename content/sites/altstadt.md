@@ -3,7 +3,7 @@ title: "Altstadt"
 site_name: "Altstadt"
 date: 2026-01-26
 draft: false
-description: "quarter of Mainz, Germany"
+description: "Altstadt, the historic old town of Mainz, Germany, serves as a vibrant cultural hub where the past and present converge."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Old Town"

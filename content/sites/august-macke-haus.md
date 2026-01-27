@@ -3,7 +3,7 @@ title: "August-Macke-Haus"
 site_name: "August-Macke-Haus"
 date: 2026-01-26
 draft: false
-description: "art museum in Bonn, Germany"
+description: "The August-Macke-Haus, an art museum located in Bonn, Germany, serves as a significant cultural landmark dedicated to the works of the painter August Macke,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

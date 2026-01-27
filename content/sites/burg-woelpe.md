@@ -3,7 +3,7 @@ title: "Burg Wölpe"
 site_name: "Burg Wölpe"
 date: 2026-01-26
 draft: false
-description: "former castle in Lower Saxony"
+description: "Burg Wölpe, a significant archaeological site located in the picturesque region of Nienburg/Weser in Lower Saxony, Germany, offers a compelling glimpse into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

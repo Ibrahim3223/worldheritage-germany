@@ -3,7 +3,7 @@ title: "St. Mariä Himmelfahrt (Weidesheim)"
 site_name: "St. Mariä Himmelfahrt (Weidesheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Euskirchen, Germany"
+description: "St. Mariä Himmelfahrt in Weidesheim is a compelling example of ecclesiastical architecture located in the Euskirchen region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

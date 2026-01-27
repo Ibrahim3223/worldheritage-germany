@@ -3,7 +3,7 @@ title: "Bornriethmoor"
 site_name: "Bornriethmoor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bornriethmoor, a designated nature reserve in Lower Saxony, Germany, offers a unique glimpse into the rich biodiversity of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

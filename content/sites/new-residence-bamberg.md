@@ -3,7 +3,7 @@ title: "New Residence, Bamberg"
 site_name: "New Residence, Bamberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "The New Residence in Bamberg is a remarkable cultural heritage monument that encapsulates the grandeur of Bavaria’s architectural history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

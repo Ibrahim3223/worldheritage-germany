@@ -3,7 +3,7 @@ title: "Gut Bossigt"
 site_name: "Gut Bossigt"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Gut Bossigt, an architectural heritage monument located in the Wesel region of Germany, offers visitors a glimpse into the grandeur of historical manor houses."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

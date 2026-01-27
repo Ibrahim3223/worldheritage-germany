@@ -3,7 +3,7 @@ title: "Portal zur Geschichte e.V."
 site_name: "Portal zur Geschichte e.V."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Portal zur Geschichte e.V. is an engaging museum located in Bad Gandersheim, Germany, dedicated to exploring and presenting the diverse narratives of history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

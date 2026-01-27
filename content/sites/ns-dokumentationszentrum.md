@@ -3,7 +3,7 @@ title: "NS-Dokumentationszentrum"
 site_name: "NS-Dokumentationszentrum"
 date: 2026-01-26
 draft: false
-description: "organization"
+description: "The NS-Dokumentationszentrum, located in the vibrant Maxvorstadt district of Munich, Germany, serves as a poignant reminder of the Nazi regime's impact on..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

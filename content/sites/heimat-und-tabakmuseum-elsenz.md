@@ -3,7 +3,7 @@ title: "Heimat- und Tabakmuseum Elsenz"
 site_name: "Heimat- und Tabakmuseum Elsenz"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Heimat- und Tabakmuseum Elsenz is a fascinating cultural destination located in the charming town of Eppingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

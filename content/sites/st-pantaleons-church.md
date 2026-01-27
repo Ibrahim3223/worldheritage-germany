@@ -3,7 +3,7 @@ title: "St. Pantaleon's Church"
 site_name: "St. Pantaleon's Church"
 date: 2026-01-26
 draft: false
-description: "church in Cologne"
+description: "St. Pantaleon's Church, an iconic ecclesiastical structure located in the vibrant Altstadt-Süd district of Cologne, Germany, serves as a remarkable example..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

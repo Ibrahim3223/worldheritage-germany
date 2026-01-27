@@ -3,7 +3,7 @@ title: "Altzella Abbey"
 site_name: "Altzella Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Altzella Abbey, located in Nossen, Germany, is a remarkable heritage site that offers visitors a glimpse into the past of monastic life and the cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

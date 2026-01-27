@@ -3,7 +3,7 @@ title: "Gut Oevelgönne: Torhaus"
 site_name: "Gut Oevelgönne: Torhaus"
 date: 2026-01-26
 draft: false
-description: "gate house in Sierksdorf, Germany"
+description: "Gut Oevelgönne: Torhaus is a striking gatehouse located in Sierksdorf, Germany. Positioned within a region known for its rich historical context and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Gatehouse"

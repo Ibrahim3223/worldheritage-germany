@@ -3,7 +3,7 @@ title: "Reisenbach Telecommunication Tower"
 site_name: "Reisenbach Telecommunication Tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Reisenbach Telecommunication Tower is a striking structure located in the serene region of Mudau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Baitul-Jame"
 site_name: "Baitul-Jame"
 date: 2026-01-26
 draft: false
-description: "mosque in Offenbach am Main, Germany"
+description: "In the heart of Offenbach am Main, Germany, the Baitul-Jame Mosque stands as a significant center of worship and community for Muslims in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

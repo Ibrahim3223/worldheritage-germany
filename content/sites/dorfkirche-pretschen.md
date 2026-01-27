@@ -3,7 +3,7 @@ title: "Dorfkirche Pretschen"
 site_name: "Dorfkirche Pretschen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Pretschen is a charming church building located in the Märkische Heide region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

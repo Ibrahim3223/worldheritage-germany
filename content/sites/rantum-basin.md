@@ -3,7 +3,7 @@ title: "Rantum Basin"
 site_name: "Rantum Basin"
 date: 2026-01-26
 draft: false
-description: "lake by Rantum"
+description: "Rantum Basin, located on the picturesque island of Sylt in Germany, is a tranquil lake that serves as a serene escape for nature lovers and a haven for..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

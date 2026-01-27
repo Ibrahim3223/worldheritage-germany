@@ -3,7 +3,7 @@ title: "Deichmühle Haseldorf"
 site_name: "Deichmühle Haseldorf"
 date: 2026-01-26
 draft: false
-description: "Windmühle im Kreis Pinneberg"
+description: "Deichmühle Haseldorf is an iconic windmill located in the picturesque region of Haseldorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

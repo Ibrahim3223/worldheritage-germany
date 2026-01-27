@@ -3,7 +3,7 @@ title: "Maar Museum"
 site_name: "Maar Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Manderscheid, Germany"
+description: "The Maar Museum, located in Manderscheid, Germany, offers visitors a unique glimpse into the cultural heritage and historical narratives of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

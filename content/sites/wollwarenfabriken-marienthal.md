@@ -3,7 +3,7 @@ title: "Wollwarenfabriken Marienthal"
 site_name: "Wollwarenfabriken Marienthal"
 date: 2026-01-26
 draft: false
-description: "ehemalige Textilfabrik in Afferde bei Hameln"
+description: "Wollwarenfabriken Marienthal, located in the region of Hamelin, Germany, is a former textile factory that represents a significant chapter in the industrial..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

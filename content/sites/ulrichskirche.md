@@ -3,7 +3,7 @@ title: "Ulrichskirche"
 site_name: "Ulrichskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Ulrichskirche, a significant church building located in Eberstadt, Germany, serves as a vital part of the local heritage and community life."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

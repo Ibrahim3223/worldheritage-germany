@@ -3,7 +3,7 @@ title: "Katz Castle"
 site_name: "Katz Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Katz Castle, located in Sankt Goarshausen, Germany, presents a striking silhouette against the skyline, commanding attention with its historical presence."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Bamberger Krippenmuseum"
 site_name: "Bamberger Krippenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bamberger Krippenmuseum, located in the historical city of Bamberg, Germany, offers an insightful glance into the artistry and cultural significance of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

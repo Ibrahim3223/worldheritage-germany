@@ -3,7 +3,7 @@ title: "Hochburg"
 site_name: "Hochburg"
 date: 2026-01-26
 draft: false
-description: "castle ruin between the city of Emmendingen and the village of Sexau"
+description: "Hochburg, a striking castle ruin located in the scenic region of Emmendingen, Germany, offers a captivating glimpse into medieval architecture and the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

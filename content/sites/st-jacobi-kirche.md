@@ -3,7 +3,7 @@ title: "St.-Jacobi-Kirche"
 site_name: "St.-Jacobi-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Neustadt in Sachsen, Germany"
+description: "St.-Jacobi-Kirche, located in the charming town of Neustadt in Sachsen, Germany, is a captivating church building that draws visitors not only for its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Gut Stockhausen"
 site_name: "Gut Stockhausen"
 date: 2026-01-26
 draft: false
-description: "manor house in Lübbecke, Germany"
+description: "Gut Stockhausen is a distinguished manor house located in Lübbecke, Germany, offering visitors a glimpse into the architectural and cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

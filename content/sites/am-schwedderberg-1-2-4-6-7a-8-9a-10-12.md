@@ -3,7 +3,7 @@ title: "Am Schwedderberg 1, 2, 4, 6, 7a, 8, 9a, 10, 12"
 site_name: "Am Schwedderberg 1, 2, 4, 6, 7a, 8, 9a, 10, 12"
 date: 2026-01-26
 draft: false
-description: "buildings in Gernrode near Quedlinburg, Germany"
+description: "Am Schwedderberg 1, 2, 4, 6, 7a, 8, 9a, 10, 12 is an architectural ensemble located in Gernrode, near the historic town of Quedlinburg in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

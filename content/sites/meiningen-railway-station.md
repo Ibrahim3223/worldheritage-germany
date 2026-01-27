@@ -3,7 +3,7 @@ title: "Meiningen railway station"
 site_name: "Meiningen railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Germany"
+description: "Meiningen railway station is a significant transportation hub located in the charming town of Meiningen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

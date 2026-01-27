@@ -3,7 +3,7 @@ title: "Schloss Veitshöchheim"
 site_name: "Schloss Veitshöchheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Veitshöchheim is a prominent museum located in the charming town of Veitshöchheim, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

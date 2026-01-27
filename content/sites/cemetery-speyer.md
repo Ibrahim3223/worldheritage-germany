@@ -3,7 +3,7 @@ title: "Cemetery Speyer"
 site_name: "Cemetery Speyer"
 date: 2026-01-26
 draft: false
-description: "cemetery in Speyer"
+description: "Cemetery Speyer, located in the heart of Germany’s historic city of Speyer, is more than just a final resting place; it serves as a poignant reminder of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

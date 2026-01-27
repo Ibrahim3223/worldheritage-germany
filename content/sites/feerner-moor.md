@@ -3,7 +3,7 @@ title: "Feerner Moor"
 site_name: "Feerner Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Feerner Moor is a remarkable nature reserve located in the Dollern region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

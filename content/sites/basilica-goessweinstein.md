@@ -3,7 +3,7 @@ title: "Basilica Gößweinstein"
 site_name: "Basilica Gößweinstein"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-129-2 (0) in Gößweinstein, Bavaria"
+description: "The Basilica Gößweinstein is a remarkable church building located in the quaint town of Gößweinstein, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

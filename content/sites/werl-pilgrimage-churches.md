@@ -3,7 +3,7 @@ title: "Werl Pilgrimage Churches"
 site_name: "Werl Pilgrimage Churches"
 date: 2026-01-26
 draft: false
-description: "Baroque pilgrimage church in Werl, North Rhine-Westphalia, Germany"
+description: "The Werl Pilgrimage Churches, located in the town of Werl in North Rhine-Westphalia, Germany, are a striking example of Baroque church architecture and an..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

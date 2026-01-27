@@ -3,7 +3,7 @@ title: "Grips-Theater"
 site_name: "Grips-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre company and theatre (a former cinema) in Hansaviertel, Berlin, Germany"
+description: "Grips-Theater is a significant cultural venue located in the heart of Berlin's Bezirk Mitte."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Museum Kulturgeschichte der Hand"
 site_name: "Museum Kulturgeschichte der Hand"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum Kulturgeschichte der Hand, located in the charming town of Wolnzach, Germany, is a unique institution dedicated to exploring the cultural history..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

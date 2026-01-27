@@ -3,7 +3,7 @@ title: "Zeppelin Museum Meersburg"
 site_name: "Zeppelin Museum Meersburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Zeppelin Museum Meersburg, located in the picturesque town of Meersburg, Germany, serves as a dedicated homage to the legacy of airship travel,..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

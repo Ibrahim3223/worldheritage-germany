@@ -3,7 +3,7 @@ title: "Russian Chapel, Bad Homburg"
 site_name: "Russian Chapel, Bad Homburg"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Bad Homburg, Hessen"
+description: "The Russian Chapel in Bad Homburg vor der Höhe is a striking architectural landmark situated in the heart of Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

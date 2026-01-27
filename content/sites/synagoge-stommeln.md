@@ -3,7 +3,7 @@ title: "Synagoge Stommeln"
 site_name: "Synagoge Stommeln"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "Synagoge Stommeln, located in Pulheim, Germany, is an important landmark that reflects the rich Jewish heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

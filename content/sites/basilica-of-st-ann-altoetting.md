@@ -3,7 +3,7 @@ title: "Basilica of St. Ann, Altötting"
 site_name: "Basilica of St. Ann, Altötting"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Basilica of St. Ann in Altötting stands as a focal point of spirituality and architectural beauty in southern Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

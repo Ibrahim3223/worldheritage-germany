@@ -3,7 +3,7 @@ title: "Kurschattenbrunnen"
 site_name: "Kurschattenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Bad Wildungen, Germany"
+description: "In the heart of Bad Wildungen, Germany, the Kurschattenbrunnen stands as an inviting fountain that captures the essence of the region's charm."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Fountain"

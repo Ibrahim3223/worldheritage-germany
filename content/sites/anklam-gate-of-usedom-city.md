@@ -3,7 +3,7 @@ title: "Anklam Gate of Usedom City"
 site_name: "Anklam Gate of Usedom City"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "The Anklam Gate of Usedom City stands as a significant architectural feature within the historical landscape of Usedom, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

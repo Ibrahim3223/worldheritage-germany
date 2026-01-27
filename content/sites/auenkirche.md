@@ -3,7 +3,7 @@ title: "Auenkirche"
 site_name: "Auenkirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Wilmersdorf"
+description: "The Auenkirche, situated in the Charlottenburg-Wilmersdorf district of Berlin, is a significant church building that captures the essence of community and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

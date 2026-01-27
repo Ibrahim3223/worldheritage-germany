@@ -3,7 +3,7 @@ title: "The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Sch
 site_name: "The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Palaces of King Ludwig II of Bavaria represent the pinnacle of 19th-century Romantic architecture and are a significant cultural landmark in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"

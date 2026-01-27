@@ -3,7 +3,7 @@ title: "Denkmal für Herzog Ludwig den Reichen"
 site_name: "Denkmal für Herzog Ludwig den Reichen"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkmal für Herzog Ludwig den Reichen, or the Monument for Duke Ludwig the Rich, stands as an impressive testament to the rich historical narrative..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

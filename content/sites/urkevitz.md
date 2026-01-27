@@ -3,7 +3,7 @@ title: "Urkevitz"
 site_name: "Urkevitz"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Urkevitz, an island in Germany's Ummanz region, presents a unique opportunity for travelers seeking a serene escape into nature and a slice of cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"

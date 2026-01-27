@@ -3,7 +3,7 @@ title: "Denkmal für die Märzgefallenen (Mechterstädt)"
 site_name: "Denkmal für die Märzgefallenen (Mechterstädt)"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkmal für die Märzgefallenen, or the Monument for the March Dead, stands as a poignant reminder of a pivotal moment in German history."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

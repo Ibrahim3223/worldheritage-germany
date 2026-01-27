@@ -3,7 +3,7 @@ title: "Leopoldplatz"
 site_name: "Leopoldplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin-Wedding, Germany"
+description: "Leopoldplatz, situated in the vibrant district of Berlin-Wedding, is a significant urban square that encapsulates the dynamic spirit of this multicultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Gemarker Kirche"
 site_name: "Gemarker Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Gemarker Kirche is an intriguing church building located in Wuppertal, Germany. This structure stands as an important landmark within the region, attracting..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

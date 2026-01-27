@@ -3,7 +3,7 @@ title: "Staatspark Wilhelmsbad"
 site_name: "Staatspark Wilhelmsbad"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Staatspark Wilhelmsbad is a public park located in Hanau, Germany, offering visitors a tranquil escape into nature combined with cultural significance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Park"

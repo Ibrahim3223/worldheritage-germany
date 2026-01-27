@@ -3,7 +3,7 @@ title: "Arithmeum"
 site_name: "Arithmeum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Bonn, Germany, Arithmeum is a unique science museum dedicated to the history and development of mathematics and computing."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Science Museum"

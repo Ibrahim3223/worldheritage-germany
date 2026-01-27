@@ -3,7 +3,7 @@ title: "Burg Großbüllesheim"
 site_name: "Burg Großbüllesheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Großbüllesheim, a captivating castle situated in the Euskirchen region of Germany, offers visitors a glimpse into the storied past of medieval..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Burg Linden"
 site_name: "Burg Linden"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Linden, a historical castle located in the Hochdorf region of Germany, offers a glimpse into the architectural and cultural heritage of the area."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

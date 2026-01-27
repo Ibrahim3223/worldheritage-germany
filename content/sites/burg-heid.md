@@ -3,7 +3,7 @@ title: "Burg Heid"
 site_name: "Burg Heid"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heid, a striking castle located in Schillingen, Germany, offers visitors a glimpse into the architectural and historical significance of medieval..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

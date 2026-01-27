@@ -3,7 +3,7 @@ title: "Freiburg Botanical Garden"
 site_name: "Freiburg Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Germany"
+description: "Freiburg Botanical Garden, situated in the charming city of Freiburg im Breisgau, Germany, is more than just a collection of plants; it is a living museum..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

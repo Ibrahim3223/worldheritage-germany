@@ -3,7 +3,7 @@ title: "Neuleiningen Castle"
 site_name: "Neuleiningen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "In the heart of Germany's scenic landscape, Neuleiningen Castle stands as a remarkable example of medieval architecture, inviting visitors to explore its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

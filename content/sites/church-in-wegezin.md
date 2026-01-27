@@ -3,7 +3,7 @@ title: "Church in Wegezin"
 site_name: "Church in Wegezin"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Church in Wegezin is a notable church building located in the serene region of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

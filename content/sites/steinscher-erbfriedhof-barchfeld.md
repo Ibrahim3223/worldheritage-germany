@@ -3,7 +3,7 @@ title: "Steinscher Erbfriedhof Barchfeld"
 site_name: "Steinscher Erbfriedhof Barchfeld"
 date: 2026-01-26
 draft: false
-description: "cemetery"
+description: "Steinscher Erbfriedhof Barchfeld is a cemetery located in the quiet region of Barchfeld-Immelborn, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Cemetery"

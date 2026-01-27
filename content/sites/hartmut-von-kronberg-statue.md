@@ -3,7 +3,7 @@ title: "Hartmut-von-Kronberg-Statue"
 site_name: "Hartmut-von-Kronberg-Statue"
 date: 2026-01-26
 draft: false
-description: "Zinkgussfigur in Kronberg im Taunus"
+description: "The Hartmut-von-Kronberg-Statue is a notable landmark located in the picturesque town of Kronberg im Taunus, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

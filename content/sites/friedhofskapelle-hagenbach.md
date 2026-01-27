@@ -3,7 +3,7 @@ title: "Friedhofskapelle Hagenbach"
 site_name: "Friedhofskapelle Hagenbach"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Friedhofskapelle Hagenbach, located in the serene region of Bad Friedrichshall, Germany, invites visitors to appreciate its architectural elegance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

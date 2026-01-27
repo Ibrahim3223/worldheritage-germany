@@ -3,7 +3,7 @@ title: "Buddenbrookhaus"
 site_name: "Buddenbrookhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Lübeck, Germany"
+description: "In the heart of Lübeck, Germany, lies the Buddenbrookhaus, a museum dedicated to the literary legacy of the renowned German authors Thomas Mann and Heinrich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

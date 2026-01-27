@@ -3,7 +3,7 @@ title: "DDR-Museum Thale"
 site_name: "DDR-Museum Thale"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The DDR-Museum Thale offers visitors a unique exploration into the social and cultural fabric of East Germany during the era of the German Democratic..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

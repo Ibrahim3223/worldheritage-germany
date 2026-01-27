@@ -3,7 +3,7 @@ title: "Castle Reckenberg"
 site_name: "Castle Reckenberg"
 date: 2026-01-26
 draft: false
-description: "Castle in Fürstenberg, Germany"
+description: "Castle Reckenberg, located in Fürstenberg, Germany, is an impressive manor house that captures the essence of historical architecture and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Manor House"

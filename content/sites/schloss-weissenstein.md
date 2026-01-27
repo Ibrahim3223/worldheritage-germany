@@ -3,7 +3,7 @@ title: "Schloss Weißenstein"
 site_name: "Schloss Weißenstein"
 date: 2026-01-26
 draft: false
-description: "castle in Pommersfelden, Bavaria; cultural heritage monument D-4-71-172-31 (0)"
+description: "Schloss Weißenstein, located in the scenic Bavarian countryside of Germany, is a striking palace that offers visitors a glimpse into the opulent..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

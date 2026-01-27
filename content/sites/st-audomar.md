@@ -3,7 +3,7 @@ title: "St. Audomar"
 site_name: "St. Audomar"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Audomar stands prominently in Frechen, Germany, as a compelling example of church architecture and a center for local heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

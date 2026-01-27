@@ -3,7 +3,7 @@ title: "Maria-Magdalenkirche"
 site_name: "Maria-Magdalenkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Maria-Magdalenkirche, located in Lübeck, Germany, is a remarkable church building that stands as a significant part of the region's architectural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

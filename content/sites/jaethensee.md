@@ -3,7 +3,7 @@ title: "Jäthensee"
 site_name: "Jäthensee"
 date: 2026-01-26
 draft: false
-description: "lake in Mirow, Mecklenburg-Vorpommern, Germany"
+description: "Jäthensee, a serene lake located in the picturesque region of Mirow, Mecklenburg-Vorpommern, Germany, invites visitors to immerse themselves in its tranquil..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "St. Sebastian (Heister)"
 site_name: "St. Sebastian (Heister)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Sebastian (Heister) is a charming chapel located in the picturesque region of Unkel, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

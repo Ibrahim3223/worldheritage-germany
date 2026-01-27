@@ -3,7 +3,7 @@ title: "Haus Empte (Kirchspiel)"
 site_name: "Haus Empte (Kirchspiel)"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Haus Empte, a striking manor house located in the picturesque region of Germany, invites visitors to immerse themselves in the elegance of historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

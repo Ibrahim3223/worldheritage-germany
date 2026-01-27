@@ -3,7 +3,7 @@ title: "Gut Deesberg"
 site_name: "Gut Deesberg"
 date: 2026-01-26
 draft: false
-description: "manor house in Bad Oeynhausen, Germany"
+description: "Gut Deesberg is an elegant manor house located in Bad Oeynhausen, Germany. This distinguished estate, set against the backdrop of the region's picturesque..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

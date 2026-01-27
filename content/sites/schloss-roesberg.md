@@ -3,7 +3,7 @@ title: "Schloss Rösberg"
 site_name: "Schloss Rösberg"
 date: 2026-01-26
 draft: false
-description: "Palast in Deutschland"
+description: "Schloss Rösberg, a distinguished palace located in Bornheim, Germany, captures the essence of the region's architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Palace"

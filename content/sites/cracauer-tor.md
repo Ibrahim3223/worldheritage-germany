@@ -3,7 +3,7 @@ title: "Cracauer Tor"
 site_name: "Cracauer Tor"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Tor der Stadtbefestigung der Stadt Magdeburg"
+description: "Cracauer Tor stands as a poignant reminder of the historical fortifications that once encircled the city of Magdeburg in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

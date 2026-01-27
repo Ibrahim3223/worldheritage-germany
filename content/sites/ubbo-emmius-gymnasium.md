@@ -3,7 +3,7 @@ title: "Ubbo-Emmius-Gymnasium"
 site_name: "Ubbo-Emmius-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school in Leer, Germany"
+description: "Ubbo-Emmius-Gymnasium is a prominent school building located in the town of Leer, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

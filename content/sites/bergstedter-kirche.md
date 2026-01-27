@@ -3,7 +3,7 @@ title: "Bergstedter Kirche"
 site_name: "Bergstedter Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Situated in the heart of the Wandsbek district, Bergstedter Kirche is an architectural gem that resonates with both historical significance and spiritual..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

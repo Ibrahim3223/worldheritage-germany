@@ -3,7 +3,7 @@ title: "Augsburg Protestant Cemetery"
 site_name: "Augsburg Protestant Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bavaria, Germany"
+description: "The Augsburg Protestant Cemetery, located in the heart of Bavaria, Germany, serves as a serene final resting place for numerous notable figures and everyday..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

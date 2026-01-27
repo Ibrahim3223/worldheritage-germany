@@ -3,7 +3,7 @@ title: "Rathaus Roßlau"
 site_name: "Rathaus Roßlau"
 date: 2026-01-26
 draft: false
-description: "building in Dessau-Roßlau, Germany"
+description: "Rathaus Roßlau, the City Hall of Dessau-Roßlau, is not just a governmental building; it represents the historical and cultural heartbeat of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

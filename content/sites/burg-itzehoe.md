@@ -3,7 +3,7 @@ title: "Burg Itzehoe"
 site_name: "Burg Itzehoe"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the heart of Itzehoe, Germany, Burg Itzehoe is a striking castle that embodies the region’s medieval heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

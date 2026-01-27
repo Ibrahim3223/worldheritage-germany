@@ -3,7 +3,7 @@ title: "Fernmeldeturm Großhau"
 site_name: "Fernmeldeturm Großhau"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Großhau is a prominent telecommunications tower located in the Hürtgenwald region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Burg Mengen"
 site_name: "Burg Mengen"
 date: 2026-01-26
 draft: false
-description: "castle in Bliesmengen-Bolchen"
+description: "Burg Mengen, a historic castle located in Bliesmengen-Bolchen within the Mandelbachtal region of Germany, captures the essence of medieval architecture and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

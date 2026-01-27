@@ -3,7 +3,7 @@ title: "Stadtkirche St. Jakobi"
 site_name: "Stadtkirche St. Jakobi"
 date: 2026-01-26
 draft: false
-description: "church building in Chemnitz, Saxony, Germany"
+description: "Stadtkirche St. Jakobi, located in the heart of Chemnitz, Saxony, Germany, is not merely a church but a significant landmark that encapsulates centuries of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

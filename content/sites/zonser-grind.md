@@ -3,7 +3,7 @@ title: "Zonser Grind"
 site_name: "Zonser Grind"
 date: 2026-01-26
 draft: false
-description: "nature reserve in North Rhine-Westphalia, Germany"
+description: "Zonser Grind is a serene nature reserve located in Dormagen, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Kalltalsperre"
 site_name: "Kalltalsperre"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "Kalltalsperre, located in the picturesque region of Simmerath, Germany, is an impressive dam that plays a critical role in local water management and the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

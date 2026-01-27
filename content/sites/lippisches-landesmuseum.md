@@ -3,7 +3,7 @@ title: "Lippisches Landesmuseum"
 site_name: "Lippisches Landesmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Lippisches Landesmuseum, located in Detmold, Germany, serves as a significant cultural hub that showcases the rich heritage of the Lippe region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Burg Hundeluft"
 site_name: "Burg Hundeluft"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hundeluft, an intriguing castle located in the region of Coswig, Germany, invites visitors to explore its storied past and architectural charm."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Joseph Haydn-Institut"
 site_name: "Joseph Haydn-Institut"
 date: 2026-01-26
 draft: false
-description: "archive organization in Cologne, Germany"
+description: "The Joseph Haydn-Institut, located in the heart of Cologne, Germany, serves as a vital cultural institution dedicated to the preservation and promotion of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"

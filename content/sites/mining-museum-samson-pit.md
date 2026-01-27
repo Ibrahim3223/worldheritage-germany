@@ -3,7 +3,7 @@ title: "Mining Museum Samson Pit"
 site_name: "Mining Museum Samson Pit"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mining Museum Samson Pit, located in Braunlage, Germany, serves as a vital gateway to understanding the region's mining history and its broader..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

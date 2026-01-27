@@ -3,7 +3,7 @@ title: "Benediktbeuern Abbey"
 site_name: "Benediktbeuern Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Benediktbeuern Abbey is a remarkable example of monastic architecture and spirituality situated in the picturesque region of Benediktbeuern, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

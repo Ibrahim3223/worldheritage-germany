@@ -3,7 +3,7 @@ title: "Schorfheide-Chorin Biosphere Reserve"
 site_name: "Schorfheide-Chorin Biosphere Reserve"
 date: 2026-01-26
 draft: false
-description: "biosphere reserve in Brandenburg, Germany"
+description: "The Schorfheide-Chorin Biosphere Reserve in Brandenburg, Germany, is a remarkable expanse of natural beauty and ecological significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Biosphere Reserve"

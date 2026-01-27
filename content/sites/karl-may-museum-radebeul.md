@@ -3,7 +3,7 @@ title: "Karl May Museum Radebeul"
 site_name: "Karl May Museum Radebeul"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Karl May Museum in Radebeul, Germany, offers a fascinating glimpse into the life and works of one of Germany's most beloved authors, Karl May."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

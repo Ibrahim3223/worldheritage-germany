@@ -3,7 +3,7 @@ title: "Schifferkirche Ahrenshoop"
 site_name: "Schifferkirche Ahrenshoop"
 date: 2026-01-26
 draft: false
-description: "church building in Ahrenshoop, Germany"
+description: "Schifferkirche Ahrenshoop is a captivating church building located in the picturesque village of Ahrenshoop, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

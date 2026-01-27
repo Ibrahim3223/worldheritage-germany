@@ -3,7 +3,7 @@ title: "Burg Heimberg"
 site_name: "Burg Heimberg"
 date: 2026-01-26
 draft: false
-description: "castle in Unterheimbach"
+description: "Burg Heimberg, a striking castle located in the tranquil region of Unterheimbach, Germany, offers visitors a glimpse into the architectural heritage and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

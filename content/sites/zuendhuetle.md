@@ -3,7 +3,7 @@ title: "Zündhütle"
 site_name: "Zündhütle"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Zündhütle, a notable tower located in the Karlsruhe region of Germany, stands out as a significant architectural feature with a storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

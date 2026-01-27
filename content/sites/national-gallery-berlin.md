@@ -3,7 +3,7 @@ title: "National Gallery Berlin"
 site_name: "National Gallery Berlin"
 date: 2026-01-26
 draft: false
-description: "national gallery of Germany at Berlin"
+description: "At the heart of Berlin, the National Gallery serves as a vital institution for art lovers and history enthusiasts alike."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

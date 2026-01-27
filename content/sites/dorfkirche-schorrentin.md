@@ -3,7 +3,7 @@ title: "Dorfkirche Schorrentin"
 site_name: "Dorfkirche Schorrentin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Schorrentin, a charming church building located in the serene region of Neukalen, Germany, serves as a poignant reminder of the area’s..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

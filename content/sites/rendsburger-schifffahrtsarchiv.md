@@ -3,7 +3,7 @@ title: "Rendsburger Schifffahrtsarchiv"
 site_name: "Rendsburger Schifffahrtsarchiv"
 date: 2026-01-26
 draft: false
-description: "museum in Rendsburg, Germany"
+description: "The Rendsburger Schifffahrtsarchiv, located in the heart of Rendsburg, Germany, serves as a vital repository of maritime history, showcasing the evolution..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

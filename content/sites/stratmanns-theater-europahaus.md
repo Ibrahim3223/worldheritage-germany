@@ -3,7 +3,7 @@ title: "Stratmanns Theater Europahaus"
 site_name: "Stratmanns Theater Europahaus"
 date: 2026-01-26
 draft: false
-description: "theatre in Essen, Germany, former town hall"
+description: "Stratmanns Theater Europahaus, located in the heart of Essen, Germany, serves as a vibrant cultural hub, showcasing the performing arts in a setting that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

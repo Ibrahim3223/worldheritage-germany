@@ -3,7 +3,7 @@ title: "Garten Friedrich-Rückert-Straße 13 in Coburg"
 site_name: "Garten Friedrich-Rückert-Straße 13 in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-601 (3) in Coburg, Bavaria"
+description: "Garten Friedrich-Rückert-Straße 13 is a serene garden located in Coburg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

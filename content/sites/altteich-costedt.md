@@ -3,7 +3,7 @@ title: "Altteich Costedt"
 site_name: "Altteich Costedt"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Porta Westfalica, North Rhine-Westphalia, Germany"
+description: "Altteich Costedt, a notable nature reserve situated in Porta Westfalica, North Rhine-Westphalia, Germany, invites visitors to explore its unique landscape..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

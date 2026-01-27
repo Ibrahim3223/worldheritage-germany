@@ -3,7 +3,7 @@ title: "Spicarium"
 site_name: "Spicarium"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Spicarium, located in the Vegesack area of Germany, serves as a unique museum that invites visitors to explore its curated exhibits and collections."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

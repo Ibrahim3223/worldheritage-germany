@@ -3,7 +3,7 @@ title: "Museum Goldener Steig"
 site_name: "Museum Goldener Steig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Goldener Steig is a notable cultural institution located in Waldkirchen, Germany, dedicated to preserving and showcasing the region's unique history..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

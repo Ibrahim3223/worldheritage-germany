@@ -3,7 +3,7 @@ title: "Alter Park"
 site_name: "Alter Park"
 date: 2026-01-26
 draft: false
-description: "park in Berlin, Germany"
+description: "Alter Park is a serene urban oasis located in the Tempelhof-Schöneberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

@@ -3,7 +3,7 @@ title: "Ludwig Forum für Internationale Kunst"
 site_name: "Ludwig Forum für Internationale Kunst"
 date: 2026-01-26
 draft: false
-description: "modern art museum in Aachen, Germany"
+description: "The Ludwig Forum für Internationale Kunst in Aachen, Germany, stands as a significant institution dedicated to modern art, reflecting the vibrant cultural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

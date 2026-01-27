@@ -3,7 +3,7 @@ title: "Mariä Himmelfahrt (Pappenheim)"
 site_name: "Mariä Himmelfahrt (Pappenheim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Mariä Himmelfahrt, located in the charming town of Pappenheim, Germany, is a remarkable church building that encapsulates the spiritual and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

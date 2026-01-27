@@ -3,7 +3,7 @@ title: "Adelssitz Illerbachen"
 site_name: "Adelssitz Illerbachen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Adelssitz Illerbachen, a historic castle located in the Berkheim region of Germany, captures the imagination with its storied past and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

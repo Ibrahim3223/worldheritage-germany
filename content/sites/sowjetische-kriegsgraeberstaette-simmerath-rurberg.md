@@ -3,7 +3,7 @@ title: "Sowjetische Kriegsgräberstätte Simmerath-Rurberg"
 site_name: "Sowjetische Kriegsgräberstätte Simmerath-Rurberg"
 date: 2026-01-26
 draft: false
-description: "cemetery in Simmerath, Germany"
+description: "The Sowjetische Kriegsgräberstätte Simmerath-Rurberg, located in the quaint town of Simmerath, Germany, serves as a poignant reminder of the sacrifices made..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

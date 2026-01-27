@@ -3,7 +3,7 @@ title: "Auf dem Sprengel"
 site_name: "Auf dem Sprengel"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Porta Westfalica, North Rhine-Westphalia, Germany"
+description: "Auf dem Sprengel is a nature reserve located in the scenic region of Porta Westfalica in North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Römerberg"
 site_name: "Römerberg"
 date: 2026-01-26
 draft: false
-description: "square in Frankfurt, Germany"
+description: "Römerberg is more than just a square; it is the very heart of Frankfurt, Germany, pulsating with history and culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Square"

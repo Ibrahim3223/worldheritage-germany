@@ -3,7 +3,7 @@ title: "Stadttheater Aschaffenburg"
 site_name: "Stadttheater Aschaffenburg"
 date: 2026-01-26
 draft: false
-description: "theatre in Aschaffenburg, Bavaria"
+description: "The Stadttheater Aschaffenburg is an iconic theatre located in the heart of Aschaffenburg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

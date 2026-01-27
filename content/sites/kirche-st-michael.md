@@ -3,7 +3,7 @@ title: "Kirche St. Michael"
 site_name: "Kirche St. Michael"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kirche St. Michael is a prominent church building located in Homburg, Germany, known for its architectural charm and cultural significance."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

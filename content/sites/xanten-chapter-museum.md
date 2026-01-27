@@ -3,7 +3,7 @@ title: "Xanten Chapter Museum"
 site_name: "Xanten Chapter Museum"
 date: 2026-01-26
 draft: false
-description: "ecclesiastical museum in Xanten, Germany"
+description: "Located in the charming town of Xanten, Germany, the Xanten Chapter Museum serves as an ecclesiastical museum that invites visitors to explore the rich..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Deutsches Uhrenmuseum Glashütte"
 site_name: "Deutsches Uhrenmuseum Glashütte"
 date: 2026-01-26
 draft: false
-description: "museum about clocks in Glasshütte, Saxony, Germany"
+description: "The Deutsches Uhrenmuseum Glashütte is a unique cultural institution located in the heart of Glashütte, Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Betzenberg"
 site_name: "Betzenberg"
 date: 2026-01-26
 draft: false
-description: "mountain in Kaiserslautern, Germany"
+description: "Betzenberg, a prominent mountain located in Kaiserslautern, Germany, offers a unique blend of natural beauty and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

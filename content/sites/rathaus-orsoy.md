@@ -3,7 +3,7 @@ title: "Rathaus Orsoy"
 site_name: "Rathaus Orsoy"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Orsoy, Rheinberg"
+description: "Rathaus Orsoy stands as a distinguished emblem of local governance in the charming town of Orsoy, located in the Rheinberg district of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Hüttenmuseum Thale"
 site_name: "Hüttenmuseum Thale"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Hüttenmuseum Thale is a significant museum located in the charming town of Thale, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

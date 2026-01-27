@@ -3,7 +3,7 @@ title: "Glasmuseum Rheinbach"
 site_name: "Glasmuseum Rheinbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmuseum Rheinbach is a fascinating destination for those intrigued by the art and history of glassmaking."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

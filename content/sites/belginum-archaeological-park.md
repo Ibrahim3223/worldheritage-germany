@@ -3,7 +3,7 @@ title: "Belginum Archaeological Park"
 site_name: "Belginum Archaeological Park"
 date: 2026-01-26
 draft: false
-description: "Archaeological site near Wederath in Germany"
+description: "Belginum Archaeological Park offers an intriguing glimpse into the ancient past, situated in the serene landscape near Wederath, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

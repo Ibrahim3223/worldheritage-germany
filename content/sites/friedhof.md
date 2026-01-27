@@ -3,7 +3,7 @@ title: "Friedhof"
 site_name: "Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Mainbernheim, Germany"
+description: "Friedhof, a cemetery located in Mainbernheim, Germany, serves as a poignant reminder of the area’s cultural and historical depth."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

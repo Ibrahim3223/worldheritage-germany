@@ -3,7 +3,7 @@ title: "Zoo in der Wingst"
 site_name: "Zoo in der Wingst"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Zoo in der Wingst, located in the quaint village of Wingst, Germany, offers visitors a unique opportunity to explore a diverse collection of wildlife in a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

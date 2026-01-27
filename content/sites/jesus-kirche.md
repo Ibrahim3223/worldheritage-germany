@@ -3,7 +3,7 @@ title: "Jesus-Kirche"
 site_name: "Jesus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "In the heart of Berlin's vibrant Friedrichshain-Kreuzberg district lies the Jesus-Kirche, a church building that embodies the spirit and cultural fabric of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

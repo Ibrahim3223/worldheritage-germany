@@ -3,7 +3,7 @@ title: "Graevenitz-Museum"
 site_name: "Graevenitz-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Graevenitz-Museum, located in Stuttgart, Germany, serves as a vibrant cultural hub that invites visitors to explore the artistic and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Alexander's Church"
 site_name: "St. Alexander's Church"
 date: 2026-01-26
 draft: false
-description: "church in Wildeshausen, Lower Saxony, Germany"
+description: "St. Alexander's Church, located in Wildeshausen, Lower Saxony, Germany, serves as a notable landmark reflecting the spiritual heritage and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

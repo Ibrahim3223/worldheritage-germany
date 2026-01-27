@@ -3,7 +3,7 @@ title: "Sacred Heart Church (Saarbrücken)"
 site_name: "Sacred Heart Church (Saarbrücken)"
 date: 2026-01-26
 draft: false
-description: "church in Saarbrücken"
+description: "Sacred Heart Church, or Herz-Jesu-Kirche, is a striking example of ecclesiastical architecture located in the heart of Saarbrücken, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

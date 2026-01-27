@@ -3,7 +3,7 @@ title: "St. Heinrich"
 site_name: "St. Heinrich"
 date: 2026-01-26
 draft: false
-description: "Listed church building in Hanover, Germany"
+description: "St. Heinrich Church is a remarkable church building located in Hanover, Germany, specifically in the Südstadt-Bult district."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

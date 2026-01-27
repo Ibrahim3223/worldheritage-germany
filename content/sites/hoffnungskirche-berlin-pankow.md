@@ -3,7 +3,7 @@ title: "Hoffnungskirche (Berlin-Pankow)"
 site_name: "Hoffnungskirche (Berlin-Pankow)"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Pankow, Germany"
+description: "Hoffnungskirche, located in the district of Pankow in Berlin, Germany, is a notable church building that stands as a significant landmark within the local..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

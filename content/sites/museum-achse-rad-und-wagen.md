@@ -3,7 +3,7 @@ title: "Museum Achse, Rad und Wagen"
 site_name: "Museum Achse, Rad und Wagen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Achse, Rad und Wagen is a distinctive cultural institution located in Wiehl, Germany, dedicated to the history and evolution of wheels, axles, and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

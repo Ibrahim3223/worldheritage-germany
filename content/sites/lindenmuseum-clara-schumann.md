@@ -3,7 +3,7 @@ title: "Lindenmuseum Clara Schumann"
 site_name: "Lindenmuseum Clara Schumann"
 date: 2026-01-26
 draft: false
-description: "museum in Schmorsdorf, Saxony, Germany"
+description: "The Lindenmuseum Clara Schumann, situated in the tranquil region of Müglitztal, Germany, presents a unique opportunity to delve into the life and legacy of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

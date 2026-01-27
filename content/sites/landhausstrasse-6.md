@@ -3,7 +3,7 @@ title: "Landhausstraße 6"
 site_name: "Landhausstraße 6"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "Landhausstraße 6 is a notable palace located in the vibrant city of Dresden, Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

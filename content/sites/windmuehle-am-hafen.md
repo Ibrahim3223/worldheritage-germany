@@ -3,7 +3,7 @@ title: "Windmühle am Hafen"
 site_name: "Windmühle am Hafen"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Osterholz-Scharmbeck"
+description: "The Windmühle am Hafen, a striking windmill located in Osterholz-Scharmbeck, Germany, serves as a remarkable emblem of traditional milling architecture."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

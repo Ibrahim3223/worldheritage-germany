@@ -3,7 +3,7 @@ title: "Markgrafenkirche Treuchtlingen"
 site_name: "Markgrafenkirche Treuchtlingen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Markgrafenkirche Treuchtlingen is a notable church building located in the heart of Treuchtlingen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

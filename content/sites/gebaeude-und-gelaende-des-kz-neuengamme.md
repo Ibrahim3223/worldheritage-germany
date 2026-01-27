@@ -3,7 +3,7 @@ title: "Gebäude und Gelände des KZ Neuengamme"
 site_name: "Gebäude und Gelände des KZ Neuengamme"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Gebäude und Gelände des KZ Neuengamme serves as a haunting reminder of the past, encapsulating the grim history of the Nazi concentration camp system in..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

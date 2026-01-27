@@ -3,7 +3,7 @@ title: "Burg Neipperg"
 site_name: "Burg Neipperg"
 date: 2026-01-26
 draft: false
-description: "castle in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
+description: "Burg Neipperg is a striking castle situated in Brackenheim, a charming town in the Heilbronn district of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

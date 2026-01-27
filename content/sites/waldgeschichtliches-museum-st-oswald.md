@@ -3,7 +3,7 @@ title: "Waldgeschichtliches Museum St. Oswald"
 site_name: "Waldgeschichtliches Museum St. Oswald"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Waldgeschichtliches Museum St. Oswald, located in the heart of Germany, serves as a window into the forest heritage and its influence on local culture and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

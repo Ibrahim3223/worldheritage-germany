@@ -3,7 +3,7 @@ title: "Burg Häringstein"
 site_name: "Burg Häringstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the scenic region of Ebingen, Germany, Burg Häringstein is a captivating castle that invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

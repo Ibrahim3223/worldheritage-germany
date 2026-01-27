@@ -3,7 +3,7 @@ title: "Church in Cramon"
 site_name: "Church in Cramon"
 date: 2026-01-26
 draft: false
-description: "church in Cramon"
+description: "The Church in Cramon, located in the quaint village of Cramonshagen, Germany, represents a significant religious and cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

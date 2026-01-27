@@ -3,7 +3,7 @@ title: "Berliner Tor (Templin)"
 site_name: "Berliner Tor (Templin)"
 date: 2026-01-26
 draft: false
-description: "city gate in Templin, Brandenburg state, Germany"
+description: "The Berliner Tor, or Berlin Gate, is an iconic city gate located in Templin, a charming town in the Brandenburg state of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

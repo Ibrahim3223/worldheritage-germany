@@ -3,7 +3,7 @@ title: "Winterberg"
 site_name: "Winterberg"
 date: 2026-01-26
 draft: false
-description: "hill in Sprockhövel, Germany"
+description: "Winterberg is a prominent mountain located in Sprockhövel, Germany, and serves as a significant landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

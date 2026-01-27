@@ -3,7 +3,7 @@ title: "Brückturm"
 site_name: "Brückturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Brückturm, an iconic tower located in the historic city of Regensburg, Germany, serves as a remarkable remnant of the city’s medieval fortifications."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

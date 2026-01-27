@@ -3,7 +3,7 @@ title: "Höllpass"
 site_name: "Höllpass"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Höllpass is a notable mountain pass located in the Wunsiedel region of Germany, recognized for its unique geographical characteristics and significance in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

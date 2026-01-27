@@ -3,7 +3,7 @@ title: "Düsseldorf Botanical Garden"
 site_name: "Düsseldorf Botanical Garden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Düsseldorf Botanical Garden serves as an inviting oasis within the vibrant city of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Huguenot Church (Erlangen)"
 site_name: "Huguenot Church (Erlangen)"
 date: 2026-01-26
 draft: false
-description: "church building in Franconia, Germany"
+description: "In the heart of Erlangen, Germany, the Huguenot Church serves as a profound symbol of cultural resilience and religious heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

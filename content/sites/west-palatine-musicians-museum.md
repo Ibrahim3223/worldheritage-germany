@@ -3,7 +3,7 @@ title: "West Palatine Musicians Museum"
 site_name: "West Palatine Musicians Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The West Palatine Musicians Museum, located in Mackenbach, Germany, offers a unique exploration of the region's musical heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

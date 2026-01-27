@@ -3,7 +3,7 @@ title: "Basilica of St. Quirinus"
 site_name: "Basilica of St. Quirinus"
 date: 2026-01-26
 draft: false
-description: "roman-catholic church in Neuss, Northrhine-Westphalia, Germany"
+description: "The Basilica of St. Quirinus is an iconic Roman Catholic church located in Neuss, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cathedral"

@@ -3,7 +3,7 @@ title: "Römermuseum Schwarzenacker"
 site_name: "Römermuseum Schwarzenacker"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römermuseum Schwarzenacker invites visitors to explore the rich heritage of Roman civilization within the context of modern-day Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

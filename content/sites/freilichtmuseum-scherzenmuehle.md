@@ -3,7 +3,7 @@ title: "Freilichtmuseum Scherzenmühle"
 site_name: "Freilichtmuseum Scherzenmühle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Freilichtmuseum Scherzenmühle is an engaging open-air museum located in the picturesque region of Weidenberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

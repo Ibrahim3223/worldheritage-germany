@@ -3,7 +3,7 @@ title: "Hauptstraße 13a"
 site_name: "Hauptstraße 13a"
 date: 2026-01-26
 draft: false
-description: "municipal building in Spitzkunnersdorf"
+description: "Hauptstraße 13a, located in the charming town of Leutersdorf, Germany, serves as the municipal building for the nearby Spitzkunnersdorf."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Old Schleissheim Palace"
 site_name: "Old Schleissheim Palace"
 date: 2026-01-26
 draft: false
-description: "old part of Schleissheim Palace"
+description: "Old Schleissheim Palace, an elegant manor house located in Oberschleißheim, Germany, is a remarkable example of Baroque architecture and a significant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

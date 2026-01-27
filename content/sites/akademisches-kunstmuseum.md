@@ -3,7 +3,7 @@ title: "Akademisches Kunstmuseum"
 site_name: "Akademisches Kunstmuseum"
 date: 2026-01-26
 draft: false
-description: "art museum in Bonn"
+description: "In the heart of Bonn, Germany, lies the Akademisches Kunstmuseum, an art museum that invites visitors to explore a diverse collection of artworks spanning..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

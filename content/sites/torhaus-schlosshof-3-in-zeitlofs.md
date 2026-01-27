@@ -3,7 +3,7 @@ title: "Torhaus Schloßhof 3 in Zeitlofs"
 site_name: "Torhaus Schloßhof 3 in Zeitlofs"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-166-15 (3) in Zeitlofs, Bavaria"
+description: "Torhaus Schloßhof 3 in Zeitlofs is a remarkable cultural heritage monument that serves as a gatehouse, inviting visitors to explore the rich history of this..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

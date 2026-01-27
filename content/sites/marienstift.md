@@ -3,7 +3,7 @@ title: "Marienstift"
 site_name: "Marienstift"
 date: 2026-01-26
 draft: false
-description: "foundation and hospital in Brunswick, Germany"
+description: "Marienstift, a notable foundation and hospital located in Brunswick, Germany, is an institution that intertwines health care with a rich cultural legacy."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

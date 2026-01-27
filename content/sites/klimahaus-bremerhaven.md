@@ -3,7 +3,7 @@ title: "Klimahaus Bremerhaven"
 site_name: "Klimahaus Bremerhaven"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Klimahaus Bremerhaven is an innovative museum located in the maritime city of Bremerhaven, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

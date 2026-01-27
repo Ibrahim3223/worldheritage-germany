@@ -3,7 +3,7 @@ title: "Augustiner-Chorfrauen-Stift (Mannheim)"
 site_name: "Augustiner-Chorfrauen-Stift (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "building in Mannheim, Electorate of Baden, Germany"
+description: "The Augustiner-Chorfrauen-Stift in Mannheim serves as a poignant reminder of the region’s monastic heritage and architectural elegance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

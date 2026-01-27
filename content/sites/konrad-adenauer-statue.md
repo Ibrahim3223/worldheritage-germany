@@ -3,7 +3,7 @@ title: "Konrad Adenauer statue"
 site_name: "Konrad Adenauer statue"
 date: 2026-01-26
 draft: false
-description: "monument in Cologne, Germany"
+description: "In the heart of Cologne, Germany, stands a statue that pays homage to one of the pivotal figures in the nation’s post-war history: Konrad Adenauer."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

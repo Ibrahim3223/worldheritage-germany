@@ -3,7 +3,7 @@ title: "Kaulbach-Villa (Ohlstadt)"
 site_name: "Kaulbach-Villa (Ohlstadt)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kaulbach-Villa, located in the picturesque town of Ohlstadt, Germany, serves as a captivating destination for those interested in art, culture, and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

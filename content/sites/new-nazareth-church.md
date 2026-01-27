@@ -3,7 +3,7 @@ title: "New Nazareth church"
 site_name: "New Nazareth church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "The New Nazareth Church, located in the heart of Berlin’s Bezirk Mitte, is an architectural and cultural landmark that serves as a vital piece of the city’s..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Burgkirchen an der Alz)"
 site_name: "Dreifaltigkeitskirche (Burgkirchen an der Alz)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dreifaltigkeitskirche, located in the tranquil town of Burgkirchen an der Alz in Germany, is a notable example of ecclesiastical architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St. Peter und Paul"
 site_name: "St. Peter und Paul"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Peter und Paul, an elegant church building situated in the serene town of Holdorf, Germany, embodies both spiritual significance and architectural charm."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

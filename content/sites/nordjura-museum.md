@@ -3,7 +3,7 @@ title: "Nordjura museum"
 site_name: "Nordjura museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nordjura Museum, situated in the heart of Weismain, Germany, serves as a captivating destination for those keen to explore the intersections of culture,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

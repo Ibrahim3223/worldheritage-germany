@@ -3,7 +3,7 @@ title: "Winterpalais (Gotha)"
 site_name: "Winterpalais (Gotha)"
 date: 2026-01-26
 draft: false
-description: "demolished palace in Gotha, Thuringia, Germany"
+description: "The Winterpalais in Gotha, Germany, once stood as a prominent palace, a striking example of architectural elegance and historical significance in Thuringia."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"

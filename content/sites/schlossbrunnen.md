@@ -3,7 +3,7 @@ title: "Schlossbrunnen"
 site_name: "Schlossbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Hannover, Germany"
+description: "In the heart of Hannover, Germany, lies the Schlossbrunnen, a fountain that serves as both a refreshing oasis and a significant cultural landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

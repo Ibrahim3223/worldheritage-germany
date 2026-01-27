@@ -3,7 +3,7 @@ title: "Paulanerkloster Amberg"
 site_name: "Paulanerkloster Amberg"
 date: 2026-01-26
 draft: false
-description: "Kloster in Deutschland"
+description: "In the heart of Amberg, Germany, stands the Paulanerkloster, a monastery that offers visitors a glimpse into the rich monastic heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

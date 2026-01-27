@@ -3,7 +3,7 @@ title: "Türelüre-Lißje"
 site_name: "Türelüre-Lißje"
 date: 2026-01-26
 draft: false
-description: "fountain in Aachen, Germany"
+description: "Türelüre-Lißje is a captivating fountain located in the heart of Aachen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

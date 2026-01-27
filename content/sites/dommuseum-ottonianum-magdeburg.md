@@ -3,7 +3,7 @@ title: "Dommuseum Ottonianum Magdeburg"
 site_name: "Dommuseum Ottonianum Magdeburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dommuseum Ottonianum Magdeburg is a captivating museum located in the heart of Magdeburg, Germany, dedicated to preserving and showcasing the rich..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Ofnethöhlen"
 site_name: "Ofnethöhlen"
 date: 2026-01-26
 draft: false
-description: "cave group in Bavaria, Germany"
+description: "Ofnethöhlen, a captivating cave group situated in the heart of Bavaria, Germany, invites adventurers and history enthusiasts alike to explore its ancient..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

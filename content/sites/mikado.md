@@ -3,7 +3,7 @@ title: "Mikado"
 site_name: "Mikado"
 date: 2026-01-26
 draft: false
-description: "library in Aachen, Germany"
+description: "In the heart of Aachen, Germany, the Mikado Library serves as more than just a repository of books; it is a cultural hub that invites visitors to explore..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

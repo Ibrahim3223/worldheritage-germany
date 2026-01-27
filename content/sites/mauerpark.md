@@ -3,7 +3,7 @@ title: "Mauerpark"
 site_name: "Mauerpark"
 date: 2026-01-26
 draft: false
-description: "park in Pankow, Germany"
+description: "Mauerpark, located in the vibrant district of Pankow, Germany, serves as a vital green space that invites both locals and visitors alike to engage with the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

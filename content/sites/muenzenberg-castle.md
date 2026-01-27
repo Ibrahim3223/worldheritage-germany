@@ -3,7 +3,7 @@ title: "Münzenberg Castle"
 site_name: "Münzenberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Münzenberg Castle, an imposing structure located in the heart of Germany, invites visitors to explore its storied past and architectural grandeur."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

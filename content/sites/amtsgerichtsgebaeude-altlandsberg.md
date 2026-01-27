@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Altlandsberg"
 site_name: "Amtsgerichtsgebäude Altlandsberg"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Amtsgerichtsgebäude Altlandsberg, a city hall located in the charming town of Altlandsberg, Germany, serves as a focal point for both local governance..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "City Hall"

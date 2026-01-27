@@ -3,7 +3,7 @@ title: "Tierpark Berlin"
 site_name: "Tierpark Berlin"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Tierpark Berlin is more than just a zoo; it is a vibrant expanse dedicated to the conservation and appreciation of wildlife."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Zoo"

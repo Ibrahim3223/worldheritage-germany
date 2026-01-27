@@ -3,7 +3,7 @@ title: "Schlangenkapelle"
 site_name: "Schlangenkapelle"
 date: 2026-01-26
 draft: false
-description: "building in Stegen, Freiburg Government Region, Bade-Württemberg, Germany"
+description: "Tucked away in the serene landscape of Stegen, Germany, the Schlangenkapelle is a charming chapel that invites visitors to explore both its spiritual..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

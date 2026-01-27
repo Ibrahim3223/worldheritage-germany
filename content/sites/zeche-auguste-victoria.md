@@ -3,7 +3,7 @@ title: "Zeche Auguste Victoria"
 site_name: "Zeche Auguste Victoria"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Auguste Victoria, a notable coal mine situated in Marl, Germany, represents a significant chapter in the industrial history of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "village church Neu Zauche"
 site_name: "village church Neu Zauche"
 date: 2026-01-26
 draft: false
-description: "listed church building in Neu Zauche, Brandenburg state of Germany"
+description: "The village church Neu Zauche is a significant structure located in the tranquil region of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

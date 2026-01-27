@@ -3,7 +3,7 @@ title: "GröschlerHaus"
 site_name: "GröschlerHaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "GröschlerHaus, located in the charming town of Jever, Germany, serves as an intriguing museum that invites visitors to explore the cultural and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

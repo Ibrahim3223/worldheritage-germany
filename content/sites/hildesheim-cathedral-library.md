@@ -3,7 +3,7 @@ title: "Hildesheim cathedral library"
 site_name: "Hildesheim cathedral library"
 date: 2026-01-26
 draft: false
-description: "Library of the Bishopric of Hildesheim (Germany)"
+description: "The Hildesheim Cathedral Library, located in the historic city of Hildesheim, Germany, serves as an important cultural repository for the Bishopric of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

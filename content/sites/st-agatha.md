@@ -3,7 +3,7 @@ title: "St. Agatha"
 site_name: "St. Agatha"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "St. Agatha Church, an architectural structure located in the scenic town of Lennestadt, Germany, serves as a captivating destination for visitors interested..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

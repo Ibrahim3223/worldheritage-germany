@@ -3,7 +3,7 @@ title: "Manor house in Karow"
 site_name: "Manor house in Karow"
 date: 2026-01-26
 draft: false
-description: "Historisches Gebäude mit Parkanlage in Mecklenburg-Vorpommern"
+description: "The Manor House in Karow is a striking historical building set within a picturesque parkland in the Mecklenburg-Vorpommern region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

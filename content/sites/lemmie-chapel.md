@@ -3,7 +3,7 @@ title: "Lemmie chapel"
 site_name: "Lemmie chapel"
 date: 2026-01-26
 draft: false
-description: "chapel in Lemmie, Region Hannover, Germany"
+description: "Lemmie Chapel is an understated yet significant site located in the quaint town of Lemmie, nestled within the Hanover region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

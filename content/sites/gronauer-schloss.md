@@ -3,7 +3,7 @@ title: "Gronauer Schloß"
 site_name: "Gronauer Schloß"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Gronauer Schloß is a captivating castle located in the serene region of Krofdorf-Gleiberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

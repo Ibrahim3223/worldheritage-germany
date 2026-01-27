@@ -3,7 +3,7 @@ title: "Synagoge (Wächtersbach)"
 site_name: "Synagoge (Wächtersbach)"
 date: 2026-01-26
 draft: false
-description: "Synagoge in Wächtersbach"
+description: "The Synagoge in Wächtersbach represents an important cultural and historical site in Germany, reflecting the Jewish heritage and architectural legacy of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

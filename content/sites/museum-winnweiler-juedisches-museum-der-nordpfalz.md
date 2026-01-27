@@ -3,7 +3,7 @@ title: "Museum Winnweiler - Jüdisches Museum der Nordpfalz"
 site_name: "Museum Winnweiler - Jüdisches Museum der Nordpfalz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the serene town of Winnweiler, the Museum Winnweiler - Jüdisches Museum der Nordpfalz serves as a vital custodian of the Jewish history and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

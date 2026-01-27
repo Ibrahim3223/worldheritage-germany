@@ -3,7 +3,7 @@ title: "Zeche Altena"
 site_name: "Zeche Altena"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Altena, located in the heart of Witten, Germany, is a significant historical site that provides a window into the industrial past of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

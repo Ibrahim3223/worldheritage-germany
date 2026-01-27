@@ -3,7 +3,7 @@ title: "Straßenbrücke über den Oelsabach Oelsa"
 site_name: "Straßenbrücke über den Oelsabach Oelsa"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über den Oelsabach Oelsa is more than just a crossing over the Oelsabach River; it represents an essential piece of Germany's..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

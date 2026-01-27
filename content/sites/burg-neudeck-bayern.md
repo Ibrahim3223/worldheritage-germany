@@ -3,7 +3,7 @@ title: "Burg Neudeck, Bayern"
 site_name: "Burg Neudeck, Bayern"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neudeck, located in the picturesque region of Bad Birnbach, Germany, serves as a captivating example of medieval architecture and history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

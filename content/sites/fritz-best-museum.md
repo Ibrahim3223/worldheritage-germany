@@ -3,7 +3,7 @@ title: "Fritz Best-Museum"
 site_name: "Fritz Best-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fritz Best-Museum, situated in Germany, serves as a cultural hub dedicated to the exploration and celebration of heritage through its diverse array of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

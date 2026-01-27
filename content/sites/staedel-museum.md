@@ -3,7 +3,7 @@ title: "Städel Museum"
 site_name: "Städel Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Frankfurt, Germany"
+description: "The Städel Museum, an esteemed art museum located in the heart of Frankfurt, Germany, is a cultural landmark that attracts art enthusiasts from around the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

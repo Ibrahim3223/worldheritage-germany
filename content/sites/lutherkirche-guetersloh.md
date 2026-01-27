@@ -3,7 +3,7 @@ title: "Lutherkirche, Gütersloh"
 site_name: "Lutherkirche, Gütersloh"
 date: 2026-01-26
 draft: false
-description: "church building in Gütersloh, Germany"
+description: "The Lutherkirche in Gütersloh, Germany, stands as a significant landmark within the region, reflecting the area’s religious heritage and architectural nuances."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

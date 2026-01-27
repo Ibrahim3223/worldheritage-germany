@@ -3,7 +3,7 @@ title: "Kunsthaus Essen"
 site_name: "Kunsthaus Essen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunsthaus Essen is a prominent museum located in Essen, Germany, dedicated to showcasing a diverse collection of art and cultural artifacts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Saint Peter Church"
 site_name: "Saint Peter Church"
 date: 2026-01-26
 draft: false
-description: "church building in Goch, Germany"
+description: "Saint Peter Church, located in the charming town of Goch, Germany, is a remarkable church building that serves as both a place of worship and a historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

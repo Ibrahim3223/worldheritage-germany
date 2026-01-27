@@ -3,7 +3,7 @@ title: "Curiosche Windmühle"
 site_name: "Curiosche Windmühle"
 date: 2026-01-26
 draft: false
-description: "demolished windmill in Magdeburg, Germany"
+description: "Curiosche Windmühle, once a prominent windmill located in the heart of Magdeburg, Germany, serves as a poignant reminder of the region's agricultural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

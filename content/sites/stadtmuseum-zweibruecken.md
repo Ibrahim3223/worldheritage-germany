@@ -3,7 +3,7 @@ title: "Stadtmuseum Zweibrücken"
 site_name: "Stadtmuseum Zweibrücken"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Zweibrücken serves as a vibrant portal into the cultural and historical narrative of Zweibrücken, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

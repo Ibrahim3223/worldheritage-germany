@@ -3,7 +3,7 @@ title: "Sankt Ingbert station"
 site_name: "Sankt Ingbert station"
 date: 2026-01-26
 draft: false
-description: "railway station in Sankt Ingbert, Germany"
+description: "Sankt Ingbert station serves as a vital transportation hub in the heart of Sankt Ingbert, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Railway Station"

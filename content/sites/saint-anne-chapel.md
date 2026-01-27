@@ -3,7 +3,7 @@ title: "Saint Anne Chapel"
 site_name: "Saint Anne Chapel"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Husen"
+description: "Saint Anne Chapel, located in the quaint village of Husen in Lichtenau, Germany, is a serene example of ecclesiastical architecture that invites visitors to..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

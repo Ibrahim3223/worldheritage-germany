@@ -3,7 +3,7 @@ title: "Manningaburg"
 site_name: "Manningaburg"
 date: 2026-01-26
 draft: false
-description: "Burg in Pewsum, einem Ortsteil der Gemeinde Krummhörn"
+description: "Manningaburg, a distinguished manor house located in Pewsum, a charming district of Krummhörn, Germany, offers visitors a unique glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

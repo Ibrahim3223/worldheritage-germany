@@ -3,7 +3,7 @@ title: "Alter Kurpark (Bad Soden)"
 site_name: "Alter Kurpark (Bad Soden)"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "Alter Kurpark in Bad Soden am Taunus is a serene retreat that invites visitors to experience the charm of a historical park while embracing the natural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Park"

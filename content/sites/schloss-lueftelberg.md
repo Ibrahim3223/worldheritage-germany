@@ -3,7 +3,7 @@ title: "Schloss Lüftelberg"
 site_name: "Schloss Lüftelberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Lüftelberg, a remarkable castle located in Meckenheim, Germany, offers an intriguing glimpse into the region's architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

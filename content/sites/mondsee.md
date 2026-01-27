@@ -3,7 +3,7 @@ title: "Mondsee"
 site_name: "Mondsee"
 date: 2026-01-26
 draft: false
-description: "lake in Speyer"
+description: "Mondsee is a serene lake located in the Rhineland-Palatinate region of Germany, specifically within the city limits of Speyer."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

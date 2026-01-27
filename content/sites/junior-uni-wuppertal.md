@@ -3,7 +3,7 @@ title: "Junior-Uni Wuppertal"
 site_name: "Junior-Uni Wuppertal"
 date: 2026-01-26
 draft: false
-description: "Schule in Deutschland"
+description: "Junior-Uni Wuppertal stands as an innovative educational institution located in the heart of Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

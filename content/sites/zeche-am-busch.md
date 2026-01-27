@@ -3,7 +3,7 @@ title: "Zeche Am Busch"
 site_name: "Zeche Am Busch"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Am Busch, located in Dortmund, Germany, is a significant heritage site that speaks volumes about the region's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

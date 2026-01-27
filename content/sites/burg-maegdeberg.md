@@ -3,7 +3,7 @@ title: "Burg Mägdeberg"
 site_name: "Burg Mägdeberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mägdeberg, a striking castle situated in the Mühlhausen-Ehingen region of Germany, captures the imagination of visitors with its historical charm and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

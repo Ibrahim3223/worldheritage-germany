@@ -3,7 +3,7 @@ title: "Fridolinsmünster Bad Säckingen"
 site_name: "Fridolinsmünster Bad Säckingen"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "Fridolinsmünster Bad Säckingen, a prominent cathedral located in the historic town of Bad Säckingen, Germany, is a remarkable example of ecclesiastical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"

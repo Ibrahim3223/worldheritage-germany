@@ -3,7 +3,7 @@ title: "Burg Kirnberg"
 site_name: "Burg Kirnberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kirnberg, a fascinating castle located in the scenic region of Orsingen-Nenzingen, Germany, offers visitors a glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

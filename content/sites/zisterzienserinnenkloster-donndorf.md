@@ -3,7 +3,7 @@ title: "Zisterzienserinnenkloster Donndorf"
 site_name: "Zisterzienserinnenkloster Donndorf"
 date: 2026-01-26
 draft: false
-description: "former monastery in Germany"
+description: "The Zisterzienserinnenkloster Donndorf, a former monastery located in the picturesque Roßleben-Wiehe region of Germany, offers visitors a unique glimpse..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

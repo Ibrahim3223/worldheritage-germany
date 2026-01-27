@@ -3,7 +3,7 @@ title: "Haseldorf manor"
 site_name: "Haseldorf manor"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Haseldorf Manor, a striking example of a traditional manor house, is located in the quaint village of Haseldorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

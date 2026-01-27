@@ -3,7 +3,7 @@ title: "Große Burghöhle"
 site_name: "Große Burghöhle"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "In the heart of Hemer, Germany, lies the Große Burghöhle, a remarkable cave that draws visitors with its intriguing natural formations and geological..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Torhaus Marktplatz 10 in Lonnerstadt"
 site_name: "Torhaus Marktplatz 10 in Lonnerstadt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-72-139-1 (3) in Lonnerstadt, Bavaria"
+description: "Torhaus Marktplatz 10 stands as a remarkable gatehouse in the heart of Lonnerstadt, a quaint town in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

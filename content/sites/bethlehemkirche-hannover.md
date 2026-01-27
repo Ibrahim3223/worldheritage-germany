@@ -3,7 +3,7 @@ title: "Bethlehemkirche Hannover"
 site_name: "Bethlehemkirche Hannover"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "Bethlehemkirche Hannover is a notable church building located in the Linden-Limmer district of Hanover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

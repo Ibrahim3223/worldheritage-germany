@@ -3,7 +3,7 @@ title: "Wilhelminenbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 site_name: "Wilhelminenbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Wilhelminenbrücke, located in the town of Großenhain, Germany, is an iconic bridge that holds both functional and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

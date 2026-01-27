@@ -3,7 +3,7 @@ title: "Garten Hainstraße 39 in Bamberg"
 site_name: "Garten Hainstraße 39 in Bamberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-256 (5) in Bamberg, Bavaria"
+description: "Garten Hainstraße 39 in Bamberg, Germany, is a culturally significant garden that embodies the region's rich heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

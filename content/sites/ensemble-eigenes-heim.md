@@ -3,7 +3,7 @@ title: "Ensemble Eigenes Heim"
 site_name: "Ensemble Eigenes Heim"
 date: 2026-01-26
 draft: false
-description: "Gebäudeensemble in Fürth"
+description: "In the heart of Fürth, Germany, lies the Ensemble Eigenes Heim, a striking architectural ensemble that captures the essence of early 20th-century design."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

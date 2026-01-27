@@ -3,7 +3,7 @@ title: "Danevirke Museum"
 site_name: "Danevirke Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Danevirke Museum is a compelling destination for those interested in the intersection of history and culture in Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

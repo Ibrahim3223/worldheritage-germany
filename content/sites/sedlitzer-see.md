@@ -3,7 +3,7 @@ title: "Sedlitzer See"
 site_name: "Sedlitzer See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Sedlitzer See is a serene lake located in the Senftenberg region of Germany, offering a tranquil escape from the bustle of everyday life."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

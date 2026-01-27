@@ -3,7 +3,7 @@ title: "Kapelle Jarmshagen"
 site_name: "Kapelle Jarmshagen"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Kapelle Jarmshagen is a charming chapel located in the serene region of Wackerow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Chapel"

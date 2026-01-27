@@ -3,7 +3,7 @@ title: "Leuchtturm List West"
 site_name: "Leuchtturm List West"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Leuchtturm List West, located in the enchanting region of List auf Sylt, Germany, is a remarkable lighthouse that captivates visitors with its historical..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

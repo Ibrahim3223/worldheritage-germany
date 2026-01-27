@@ -3,7 +3,7 @@ title: "Pfinzingschloss"
 site_name: "Pfinzingschloss"
 date: 2026-01-26
 draft: false
-description: "manor house in Germany"
+description: "Pfinzingschloss, a captivating manor house located in Feucht, Germany, offers visitors a glimpse into the architectural and cultural heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

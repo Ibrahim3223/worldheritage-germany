@@ -3,7 +3,7 @@ title: "Kreuzkirche (Berlin-Schmargendorf)"
 site_name: "Kreuzkirche (Berlin-Schmargendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Kreuzkirche, a distinctive church building located in the Charlottenburg-Wilmersdorf district of Berlin, Germany, serves not only as a place of worship but..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

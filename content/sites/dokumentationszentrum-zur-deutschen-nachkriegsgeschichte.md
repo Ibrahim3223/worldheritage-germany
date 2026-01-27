@@ -3,7 +3,7 @@ title: "Dokumentationszentrum zur deutschen Nachkriegsgeschichte"
 site_name: "Dokumentationszentrum zur deutschen Nachkriegsgeschichte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dokumentationszentrum zur deutschen Nachkriegsgeschichte, located in Germany, serves as a poignant reminder of the complexities and challenges faced by..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

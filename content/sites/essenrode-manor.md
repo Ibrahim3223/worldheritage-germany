@@ -3,7 +3,7 @@ title: "Essenrode Manor"
 site_name: "Essenrode Manor"
 date: 2026-01-26
 draft: false
-description: "baroque mansion in Lehre, Lower Saxony"
+description: "Essenrode Manor, a stunning baroque mansion located in Lehre, Lower Saxony, is an architectural marvel that captures the essence of Germany's historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Historisches Rathaus Hessisch Lichtenau"
 site_name: "Historisches Rathaus Hessisch Lichtenau"
 date: 2026-01-26
 draft: false
-description: "City Hall (Hessisch Lichtenau)"
+description: "The Historisches Rathaus Hessisch Lichtenau, an emblematic city hall located in the heart of Hessisch Lichtenau, Germany, offers visitors a glimpse into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

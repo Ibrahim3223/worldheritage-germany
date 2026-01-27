@@ -3,7 +3,7 @@ title: "Burg Bocksberg"
 site_name: "Burg Bocksberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Bocksberg, an archaeological site located in the Laugna region of Germany, is a remarkable castle that invites visitors to explore its historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

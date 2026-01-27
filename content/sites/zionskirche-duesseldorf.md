@@ -3,7 +3,7 @@ title: "Zionskirche (Düsseldorf)"
 site_name: "Zionskirche (Düsseldorf)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Zionskirche, located in Düsseldorf, Germany, is a striking example of a church building that captures the essence of both spiritual significance and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Timber-framed synagogue of Detmold"
 site_name: "Timber-framed synagogue of Detmold"
 date: 2026-01-26
 draft: false
-description: "Detmold synagogue (1742–1905)"
+description: "The Timber-framed Synagogue of Detmold, located in the charming town of Detmold, Germany, is a historical chapel that stands as a reminder of the profound..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

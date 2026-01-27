@@ -3,7 +3,7 @@ title: "German Central Library of Pharmacy"
 site_name: "German Central Library of Pharmacy"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The German Central Library of Pharmacy, located in Stuttgart, Germany, is a distinctive institution dedicated to the advancement of pharmaceutical knowledge..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Carl Bosch Museum Heidelberg"
 site_name: "Carl Bosch Museum Heidelberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Carl Bosch Museum in Heidelberg is a unique establishment dedicated to the life and contributions of one of Germany's most influential scientists and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

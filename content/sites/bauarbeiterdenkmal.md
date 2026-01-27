@@ -3,7 +3,7 @@ title: "Bauarbeiterdenkmal"
 site_name: "Bauarbeiterdenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Wiesbaden, Germany"
+description: "The Bauarbeiterdenkmal, a monument situated in Wiesbaden, Germany, serves as a poignant reminder of the contributions of laborers to the development and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

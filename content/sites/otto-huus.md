@@ -3,7 +3,7 @@ title: "Otto-Huus"
 site_name: "Otto-Huus"
 date: 2026-01-26
 draft: false
-description: "Otto Haus in Emden, Deutschland"
+description: "Otto-Huus, located in the port city of Emden, Germany, serves as a vibrant museum dedicated to the life and works of the beloved German artist, Otto."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

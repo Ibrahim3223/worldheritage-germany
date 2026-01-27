@@ -3,7 +3,7 @@ title: "Garten Herzog-Albrecht-Straße 12; Herzog-Albrecht-Straße 14; Pfaffenst
 site_name: "Garten Herzog-Albrecht-Straße 12; Herzog-Albrecht-Straße 14; Pfaffensteiner Weg 12 in Regensburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-3-62-000-1525 (2) in Regensburg, Bavaria"
+description: "Tucked away in the heart of Regensburg, a city renowned for its medieval architecture and rich history, lies the serene Garten Herzog-Albrecht-Straße 12;..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Ensemble Fehrbelliner Straße 47–49"
 site_name: "Ensemble Fehrbelliner Straße 47–49"
 date: 2026-01-26
 draft: false
-description: "Gebäude-Ensemble im Berliner Ortsteil Mitte"
+description: "Ensemble Fehrbelliner Straße 47–49 is an architectural ensemble located in the heart of Berlin's Bezirk Mitte, a district known for its vibrant cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

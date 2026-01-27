@@ -3,7 +3,7 @@ title: "Modeon"
 site_name: "Modeon"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall and event venue in Marktoberdorf, Bavaria, Germany"
+description: "Modeon, located in Marktoberdorf, Bavaria, is a notable art museum that serves as a multi-purpose hall and event venue."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

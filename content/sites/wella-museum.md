@@ -3,7 +3,7 @@ title: "Wella Museum"
 site_name: "Wella Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wella Museum, situated in the charming city of Darmstadt, Germany, serves as a dedicated space to explore the fascinating history of one of the world’s..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

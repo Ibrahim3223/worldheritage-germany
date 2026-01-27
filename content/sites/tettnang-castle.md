@@ -3,7 +3,7 @@ title: "Tettnang Castle"
 site_name: "Tettnang Castle"
 date: 2026-01-26
 draft: false
-description: "building in Tettnang, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Tettnang Castle, located in the picturesque town of Tettnang in Germany’s Baden-Württemberg region, offers a fascinating glimpse into the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

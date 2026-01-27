@@ -3,7 +3,7 @@ title: "Metallhandwerksmuseum"
 site_name: "Metallhandwerksmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Metallhandwerksmuseum, located in the enchanting region of Steinbach-Hallenberg, Germany, serves as a vital repository of the metalworking heritage that..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

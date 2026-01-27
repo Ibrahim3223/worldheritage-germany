@@ -3,7 +3,7 @@ title: "Garten Kaulbachstraße 13 in München"
 site_name: "Garten Kaulbachstraße 13 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-3297 (2) in München, Bavaria"
+description: "Nestled in the vibrant city of Munich, the Garten Kaulbachstraße 13 offers a serene escape into a beautifully designed green space that reflects the area’s..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

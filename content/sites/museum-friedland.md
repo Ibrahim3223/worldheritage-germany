@@ -3,7 +3,7 @@ title: "Museum Friedland"
 site_name: "Museum Friedland"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Friedland offers visitors an opportunity to explore the historical and cultural narratives tied to the region of Friedland in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

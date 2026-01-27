@@ -3,7 +3,7 @@ title: "Schloss Auerose"
 site_name: "Schloss Auerose"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Auerose, a stunning manor house located in the serene region of Neu Kosenow, Germany, invites visitors to explore its elegant architecture and rich..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

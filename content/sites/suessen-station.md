@@ -3,7 +3,7 @@ title: "Süßen station"
 site_name: "Süßen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Süßen, Germany"
+description: "Süßen station is a significant railway hub located in the town of Süßen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

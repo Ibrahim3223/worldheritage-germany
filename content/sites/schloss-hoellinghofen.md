@@ -3,7 +3,7 @@ title: "Schloß Höllinghofen"
 site_name: "Schloß Höllinghofen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloß Höllinghofen presents a unique opportunity for visitors to explore a significant cultural institution in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

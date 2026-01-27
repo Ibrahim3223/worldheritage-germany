@@ -3,7 +3,7 @@ title: "Catholic Church St. Anna, Ratingen Lintorf"
 site_name: "Catholic Church St. Anna, Ratingen Lintorf"
 date: 2026-01-26
 draft: false
-description: "church building in Ratingen, Germany"
+description: "The Catholic Church St. Anna in Ratingen Lintorf is a significant landmark that embodies the spiritual and architectural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

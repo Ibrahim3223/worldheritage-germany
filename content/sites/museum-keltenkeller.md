@@ -3,7 +3,7 @@ title: "Museum KeltenKeller"
 site_name: "Museum KeltenKeller"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum KeltenKeller, located in the picturesque region of Biebertal, Germany, offers visitors a unique exploration of Celtic culture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

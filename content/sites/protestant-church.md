@@ -3,7 +3,7 @@ title: "Protestant Church"
 site_name: "Protestant Church"
 date: 2026-01-26
 draft: false
-description: "church in Bexbach, Germany"
+description: "In the heart of Bexbach, Germany, the Protestant Church stands as a serene place of worship and community gathering."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

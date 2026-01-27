@@ -3,7 +3,7 @@ title: "Industriemuseum Lauf"
 site_name: "Industriemuseum Lauf"
 date: 2026-01-26
 draft: false
-description: "museum in Bavaria, Germany"
+description: "Industriemuseum Lauf invites visitors into the heart of Bavarian industrial heritage, showcasing the region's pivotal role in the evolution of manufacturing."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

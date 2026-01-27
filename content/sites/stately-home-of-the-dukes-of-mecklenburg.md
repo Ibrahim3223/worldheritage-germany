@@ -3,7 +3,7 @@ title: "Stately home of the Dukes of Mecklenburg"
 site_name: "Stately home of the Dukes of Mecklenburg"
 date: 2026-01-26
 draft: false
-description: "former stately home now museum in Ratzeburg, Schleswig-Holstein, Germany"
+description: "The Stately Home of the Dukes of Mecklenburg is a remarkable museum located in the picturesque town of Ratzeburg, nestled in the Schleswig-Holstein region..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

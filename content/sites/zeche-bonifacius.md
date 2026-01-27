@@ -3,7 +3,7 @@ title: "Zeche Bonifacius"
 site_name: "Zeche Bonifacius"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bonifacius, located in Essen, Germany, is a site of profound historical significance, representing a pivotal chapter in the evolution of the coal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

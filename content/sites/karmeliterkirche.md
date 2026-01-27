@@ -3,7 +3,7 @@ title: "Karmeliterkirche"
 site_name: "Karmeliterkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt (Mainz), Germany"
+description: "In the heart of Mainz’s Altstadt lies the Karmeliterkirche, a church building that embodies the architectural and cultural essence of its surroundings."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

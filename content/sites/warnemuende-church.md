@@ -3,7 +3,7 @@ title: "Warnemünde Church"
 site_name: "Warnemünde Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Situated in the charming coastal town of Warnemünde, Germany, Warnemünde Church is an architectural and cultural landmark that draws visitors from near and far."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

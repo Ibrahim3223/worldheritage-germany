@@ -3,7 +3,7 @@ title: "Dorfkirche Berlin-Blankenfelde"
 site_name: "Dorfkirche Berlin-Blankenfelde"
 date: 2026-01-26
 draft: false
-description: "church building in Pankow, Germany"
+description: "The Dorfkirche Berlin-Blankenfelde is a notable church building located in the Pankow district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Sammlung Goetz"
 site_name: "Sammlung Goetz"
 date: 2026-01-26
 draft: false
-description: "museum in Munich"
+description: "Situated in the vibrant district of Bogenhausen, Sammlung Goetz is an esteemed art museum in Munich that serves as a vital cultural institution within the city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

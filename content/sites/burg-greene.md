@@ -3,7 +3,7 @@ title: "Burg Greene"
 site_name: "Burg Greene"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Greene, a captivating castle located in the Einbeck region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

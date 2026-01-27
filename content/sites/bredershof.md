@@ -3,7 +3,7 @@ title: "Bredershof"
 site_name: "Bredershof"
 date: 2026-01-26
 draft: false
-description: "building in Königswinter, Germany"
+description: "Bredershof, an architectural ensemble located in Königswinter, Germany, represents a unique blend of historical and cultural significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

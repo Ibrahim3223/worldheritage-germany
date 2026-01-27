@@ -3,7 +3,7 @@ title: "Stadtmuseum Pirna"
 site_name: "Stadtmuseum Pirna"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Pirna serves as a cultural touchstone in the heart of Pirna, Germany, inviting visitors to explore the rich history of this charming town."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

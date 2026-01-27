@@ -3,7 +3,7 @@ title: "Herzenbergkapelle"
 site_name: "Herzenbergkapelle"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "The Herzenbergkapelle, located in the town of Hadamar, Germany, is a captivating national heritage site that invites visitors to explore its architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

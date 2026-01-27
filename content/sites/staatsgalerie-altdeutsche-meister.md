@@ -3,7 +3,7 @@ title: "Staatsgalerie Altdeutsche Meister"
 site_name: "Staatsgalerie Altdeutsche Meister"
 date: 2026-01-26
 draft: false
-description: "museum in Augsburg"
+description: "The Staatsgalerie Altdeutsche Meister, located in Augsburg, Germany, is a distinguished museum dedicated to showcasing the masterpieces of early German art."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

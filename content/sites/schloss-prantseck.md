@@ -3,7 +3,7 @@ title: "Schloss Prantseck"
 site_name: "Schloss Prantseck"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Schloss Prantseck, a striking manor house located in Bad Aibling, Bavaria, Germany, embodies the elegance and cultural heritage of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

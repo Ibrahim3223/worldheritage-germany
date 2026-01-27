@@ -3,7 +3,7 @@ title: "Städtische Galerie Delmenhorst"
 site_name: "Städtische Galerie Delmenhorst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtische Galerie Delmenhorst stands as an inviting art museum located in the heart of Delmenhorst, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

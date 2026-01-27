@@ -3,7 +3,7 @@ title: "Alter Friedhof Bonn"
 site_name: "Alter Friedhof Bonn"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bonn, Germany"
+description: "Alter Friedhof Bonn, a historic cemetery located in the heart of Bonn, Germany, offers a serene and contemplative space that reflects the cultural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

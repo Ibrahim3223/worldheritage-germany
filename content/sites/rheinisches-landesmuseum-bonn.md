@@ -3,7 +3,7 @@ title: "Rheinisches Landesmuseum Bonn"
 site_name: "Rheinisches Landesmuseum Bonn"
 date: 2026-01-26
 draft: false
-description: "museum in Bonn, Germany"
+description: "The Rheinisches Landesmuseum Bonn stands as a cultural cornerstone in Bonn, Germany, inviting visitors to explore its diverse collections that span various..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

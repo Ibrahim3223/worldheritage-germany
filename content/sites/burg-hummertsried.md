@@ -3,7 +3,7 @@ title: "Burg Hummertsried"
 site_name: "Burg Hummertsried"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hummertsried, a captivating castle located in the serene region of Eberhardzell, Germany, invites visitors to explore its historic charm and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

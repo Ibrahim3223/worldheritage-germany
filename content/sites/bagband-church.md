@@ -3,7 +3,7 @@ title: "Bagband Church"
 site_name: "Bagband Church"
 date: 2026-01-26
 draft: false
-description: "church building in Grossefehn, Germany"
+description: "Bagband Church, located in the tranquil region of Großefehn, Germany, is a notable church building that captures the essence of local architecture and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

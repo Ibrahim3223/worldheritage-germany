@@ -3,7 +3,7 @@ title: "Ruhlaer Uhrenmuseum"
 site_name: "Ruhlaer Uhrenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ruhlaer Uhrenmuseum, located in the heart of Thuringia, Germany, offers a fascinating dive into the world of horology."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Money Museum of the Deutsche Bundesbank"
 site_name: "Money Museum of the Deutsche Bundesbank"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Money Museum of the Deutsche Bundesbank in Frankfurt is a fascinating destination for those interested in the intricacies of currency and financial history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

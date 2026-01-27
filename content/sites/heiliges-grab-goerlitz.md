@@ -3,7 +3,7 @@ title: "Heiliges Grab Görlitz"
 site_name: "Heiliges Grab Görlitz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heiliges Grab Görlitz, a remarkable chapel located in the historic town of Görlitz, Germany, serves as a unique cultural and architectural landmark."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"

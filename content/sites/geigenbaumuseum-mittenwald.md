@@ -3,7 +3,7 @@ title: "Geigenbaumuseum Mittenwald"
 site_name: "Geigenbaumuseum Mittenwald"
 date: 2026-01-26
 draft: false
-description: "museum in Mittenwald, Germany"
+description: "The Geigenbaumuseum Mittenwald serves as a vibrant tribute to the art of violin making in the picturesque town of Mittenwald, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

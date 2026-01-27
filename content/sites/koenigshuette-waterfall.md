@@ -3,7 +3,7 @@ title: "Königshütte Waterfall"
 site_name: "Königshütte Waterfall"
 date: 2026-01-26
 draft: false
-description: "waterfall"
+description: "Königshütte Waterfall, located in the scenic Oberharz am Brocken region of Germany, offers an enchanting experience for nature lovers and outdoor enthusiasts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

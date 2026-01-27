@@ -3,7 +3,7 @@ title: "Kluskapelle"
 site_name: "Kluskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Kluskapelle, a modest yet striking chapel located in the Marsberg region of Germany, invites visitors to explore its serene environment and spiritual..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Fürstenbergsches Haus"
 site_name: "Fürstenbergsches Haus"
 date: 2026-01-26
 draft: false
-description: "former building in Dresden, Saxony, Germany"
+description: "In the heart of Dresden, Germany, lies the Fürstenbergsches Haus, a former palace that holds a pivotal place in the city's architectural narrative."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

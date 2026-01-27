@@ -3,7 +3,7 @@ title: "Steindeckerbrücke hinter Keula 25 (bei sogenannter Arche)"
 site_name: "Steindeckerbrücke hinter Keula 25 (bei sogenannter Arche)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located behind Keula 25 near the so-called Arche in Wittichenau, Germany, is more than just a bridge; it is a point of connection for..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Geologisch-Paläontologisches Museum Hamburg"
 site_name: "Geologisch-Paläontologisches Museum Hamburg"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg"
+description: "The Geologisch-Paläontologisches Museum Hamburg serves as a vital resource for those intrigued by the natural sciences, particularly geology and paleontology."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

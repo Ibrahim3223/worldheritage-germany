@@ -3,7 +3,7 @@ title: "Nordfriesland Museum Husum"
 site_name: "Nordfriesland Museum Husum"
 date: 2026-01-26
 draft: false
-description: "museum in Husum, North Frisia"
+description: "The Nordfriesland Museum Husum serves as a cultural cornerstone in the quaint town of Husum, located in the North Frisia region of Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

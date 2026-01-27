@@ -3,7 +3,7 @@ title: "Stiftung Flucht, Vertreibung, Versöhnung"
 site_name: "Stiftung Flucht, Vertreibung, Versöhnung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stiftung Flucht, Vertreibung, Versöhnung, or Foundation for Flight, Expulsion, and Reconciliation, serves as a profound space for reflection and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

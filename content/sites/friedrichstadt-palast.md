@@ -3,7 +3,7 @@ title: "Friedrichstadt-Palast"
 site_name: "Friedrichstadt-Palast"
 date: 2026-01-26
 draft: false
-description: "revue theatre in Berlin"
+description: "Friedrichstadt-Palast stands as one of Berlin's premier revue theatres, located in the vibrant Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

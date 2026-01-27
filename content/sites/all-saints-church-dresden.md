@@ -3,7 +3,7 @@ title: "All Saints Church, Dresden"
 site_name: "All Saints Church, Dresden"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden, Saxony, Germany"
+description: "All Saints Church, located in the vibrant city of Dresden, Germany, is a remarkable church building that captures the essence of the region’s architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

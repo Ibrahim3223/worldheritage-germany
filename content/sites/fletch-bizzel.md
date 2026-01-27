@@ -3,7 +3,7 @@ title: "Fletch Bizzel"
 site_name: "Fletch Bizzel"
 date: 2026-01-26
 draft: false
-description: "theatre in North Rhine-Westphalia, Germany"
+description: "Fletch Bizzel, an iconic theatre building located in Dortmund, Germany, serves as an important cultural hub within the North Rhine-Westphalia region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Nibelungenbrücke Worms"
 site_name: "Nibelungenbrücke Worms"
 date: 2026-01-26
 draft: false
-description: "Straßenbrücke über den Rhein in Worms"
+description: "The Nibelungenbrücke Worms, an iconic bridge spanning the Rhine River, serves as a vital transportation link while simultaneously embodying the region's..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Bridge"

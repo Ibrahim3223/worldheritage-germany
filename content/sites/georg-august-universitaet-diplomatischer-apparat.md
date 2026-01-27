@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Diplomatischer Apparat"
 site_name: "Georg-August-Universität: Diplomatischer Apparat"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "The Georg-August-Universität: Diplomatischer Apparat stands as a distinguished museum in the academic city of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

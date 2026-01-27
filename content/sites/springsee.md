@@ -3,7 +3,7 @@ title: "Springsee"
 site_name: "Springsee"
 date: 2026-01-26
 draft: false
-description: "lake in Brandenburg, Germany"
+description: "Springsee, a serene lake located in the picturesque region of Brandenburg, Germany, offers a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

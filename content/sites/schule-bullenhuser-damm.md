@@ -3,7 +3,7 @@ title: "Schule Bullenhuser Damm"
 site_name: "Schule Bullenhuser Damm"
 date: 2026-01-26
 draft: false
-description: "school building in Hamburg"
+description: "Schule Bullenhuser Damm, located in the Hamburg-Mitte district of Germany, is more than just a school building; it is a site of profound historical..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"

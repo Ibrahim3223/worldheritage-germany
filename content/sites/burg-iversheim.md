@@ -3,7 +3,7 @@ title: "Burg Iversheim"
 site_name: "Burg Iversheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Iversheim is a captivating castle located in the picturesque region of Bad Münstereifel, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

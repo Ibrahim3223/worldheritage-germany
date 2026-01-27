@@ -3,7 +3,7 @@ title: "Bodenseeufer auf Gemarkung Markelfingen"
 site_name: "Bodenseeufer auf Gemarkung Markelfingen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Located in the serene region of Radolfzell am Bodensee in Germany, Bodenseeufer auf Gemarkung Markelfingen is a nature reserve that embodies the tranquil..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

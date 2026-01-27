@@ -3,7 +3,7 @@ title: "Kirnbergkapelle"
 site_name: "Kirnbergkapelle"
 date: 2026-01-26
 draft: false
-description: "church building in Antdorf (Germany)"
+description: "Kirnbergkapelle is a charming chapel located in the quaint village of Antdorf, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

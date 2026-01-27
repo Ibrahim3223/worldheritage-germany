@@ -3,7 +3,7 @@ title: "Dürener Tor (Nideggen)"
 site_name: "Dürener Tor (Nideggen)"
 date: 2026-01-26
 draft: false
-description: "Stadttor von Nideggen"
+description: "Dürener Tor, located in the charming town of Nideggen, Germany, serves as a significant historical landmark that reflects the architectural and cultural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

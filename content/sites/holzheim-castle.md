@@ -3,7 +3,7 @@ title: "Holzheim Castle"
 site_name: "Holzheim Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Langerwehe, Germany"
+description: "Holzheim Castle, located in the Langerwehe region of Germany, is an architectural relic that reflects the historical narratives of the area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

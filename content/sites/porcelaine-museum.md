@@ -3,7 +3,7 @@ title: "Porcelaine Museum"
 site_name: "Porcelaine Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Rödental, Germany"
+description: "The Porcelaine Museum, located in Rödental, Germany, is a unique institution dedicated to the art and history of porcelain production."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

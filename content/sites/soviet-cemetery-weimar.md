@@ -3,7 +3,7 @@ title: "Soviet Cemetery Weimar"
 site_name: "Soviet Cemetery Weimar"
 date: 2026-01-26
 draft: false
-description: "cemetery in Weimar, Germany"
+description: "The Soviet Cemetery in Weimar, Germany, serves as a poignant reminder of the complex history that marked the 20th century."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Cemetery"

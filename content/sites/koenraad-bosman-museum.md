@@ -3,7 +3,7 @@ title: "Koenraad-Bosman-Museum"
 site_name: "Koenraad-Bosman-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Rees, Germany"
+description: "The Koenraad-Bosman-Museum, located in Rees, Germany, stands as an important cultural institution that showcases a diverse collection of art."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Freiburg Minster"
 site_name: "Freiburg Minster"
 date: 2026-01-26
 draft: false
-description: "roman-catholic cathedral in Freiburg im Breisgau, Baden-Württemberg, Germany"
+description: "Freiburg Minster, an impressive Roman Catholic cathedral located in the heart of Freiburg im Breisgau, is a striking embodiment of Gothic architecture and a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cathedral"

@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Münzkabinett der Universität Göttingen"
 site_name: "Georg-August-Universität: Münzkabinett der Universität Göttingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Münzkabinett der Universität Göttingen is a captivating museum located within the historic Georg-August-Universität in Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Village Church in Buchholz"
 site_name: "Village Church in Buchholz"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "The Village Church in Buchholz, located in the picturesque region of Ziesendorf, Germany, serves as a significant cultural and architectural landmark for..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

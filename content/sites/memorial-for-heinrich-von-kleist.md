@@ -3,7 +3,7 @@ title: "Memorial for Heinrich von Kleist"
 site_name: "Memorial for Heinrich von Kleist"
 date: 2026-01-26
 draft: false
-description: "sculpture by Gottlieb Elster"
+description: "The Memorial for Heinrich von Kleist in Frankfurt (Oder) stands as a significant monument honoring one of Germany’s most influential playwrights and poets."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Ernst-Thälmann Memorial in Weimar"
 site_name: "Ernst-Thälmann Memorial in Weimar"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Weimar"
+description: "The Ernst-Thälmann Memorial in Weimar is a significant statue that captures the essence of the political and cultural history of Germany during the 20th..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"

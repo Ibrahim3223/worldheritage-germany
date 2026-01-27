@@ -3,7 +3,7 @@ title: "Berlin’s Huguenot museum"
 site_name: "Berlin’s Huguenot museum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "Berlin’s Huguenot Museum offers a fascinating glimpse into the history of the Huguenots, a group of French Protestants who fled religious persecution in the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

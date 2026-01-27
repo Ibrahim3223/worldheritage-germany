@@ -3,7 +3,7 @@ title: "Theaterruine St. Pauli"
 site_name: "Theaterruine St. Pauli"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Theaterruine St. Pauli, located in Dresden, Germany, is a striking remnant of a once-thriving theatre that offers a glimpse into the city’s rich cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

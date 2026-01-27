@@ -3,7 +3,7 @@ title: "St-Thomas-Kirche"
 site_name: "St-Thomas-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Damshagen, Germany"
+description: "St-Thomas-Kirche, located in the quaint village of Damshagen, Germany, is a remarkable church building that serves as a focal point for the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

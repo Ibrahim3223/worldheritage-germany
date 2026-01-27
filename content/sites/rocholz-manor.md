@@ -3,7 +3,7 @@ title: "Rocholz manor"
 site_name: "Rocholz manor"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Rocholz Manor, an architectural ensemble situated in the town of Gevelsberg in Germany, presents a compelling exploration of the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

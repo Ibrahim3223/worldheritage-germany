@@ -3,7 +3,7 @@ title: "Raußmühle"
 site_name: "Raußmühle"
 date: 2026-01-26
 draft: false
-description: "building in Eppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Raußmühle, a museum located in Eppingen, Germany, invites visitors to explore the region's cultural heritage through its well-preserved structure and exhibits."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kügelgenhaus – Museum der Dresdner Romantik"
 site_name: "Kügelgenhaus – Museum der Dresdner Romantik"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kügelgenhaus – Museum der Dresdner Romantik is a remarkable cultural institution located in the heart of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

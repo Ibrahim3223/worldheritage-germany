@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Humanembryologische Sammlung"
 site_name: "Georg-August-Universität: Humanembryologische Sammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "The Georg-August-Universität: Humanembryologische Sammlung in Göttingen, Germany, offers visitors an intriguing glimpse into the complexities of human..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

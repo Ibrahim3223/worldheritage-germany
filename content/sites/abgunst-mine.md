@@ -3,7 +3,7 @@ title: "Abgunst Mine"
 site_name: "Abgunst Mine"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Abgunst Mine, located in the industrial heart of Essen, Germany, is a significant heritage site that represents the country's rich mining history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

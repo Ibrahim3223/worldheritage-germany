@@ -3,7 +3,7 @@ title: "Burg Lindweiler"
 site_name: "Burg Lindweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Lindweiler, an imposing castle located in the picturesque region of Blankenheim, Germany, serves as a captivating focal point for history enthusiasts..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

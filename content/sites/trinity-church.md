@@ -3,7 +3,7 @@ title: "Trinity Church"
 site_name: "Trinity Church"
 date: 2026-01-26
 draft: false
-description: "church in Iserlohn"
+description: "Trinity Church, located in the heart of Iserlohn, Germany, serves as a significant landmark that reflects the area's spiritual and architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

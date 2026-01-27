@@ -3,7 +3,7 @@ title: "Gerberbastei"
 site_name: "Gerberbastei"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Gerberbastei, a striking tower located in Bautzen, Germany, is a remarkable architectural landmark that offers a glimpse into the region's rich..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

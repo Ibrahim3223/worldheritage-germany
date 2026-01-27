@@ -3,7 +3,7 @@ title: "Gethsemanekirche"
 site_name: "Gethsemanekirche"
 date: 2026-01-26
 draft: false
-description: "church in Frankfurt (Main)"
+description: "Gethsemanekirche, located in the vibrant city of Frankfurt, Germany, is a church that encapsulates the essence of religious and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

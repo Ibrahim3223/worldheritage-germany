@@ -3,7 +3,7 @@ title: "Die Katakombe Frankfurt"
 site_name: "Die Katakombe Frankfurt"
 date: 2026-01-26
 draft: false
-description: "Theater in der Innenstadt von Frankfurt am Main"
+description: "Die Katakombe Frankfurt, a distinguished theatre building situated in the heart of Frankfurt am Main, is a compelling venue that encapsulates the artistic..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

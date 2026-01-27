@@ -3,7 +3,7 @@ title: "Burgstall Klingenberg"
 site_name: "Burgstall Klingenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burgstall Klingenberg, a castle located in the scenic region of Talheim, Germany, invites visitors to explore the remnants of its storied past amid a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

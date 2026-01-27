@@ -3,7 +3,7 @@ title: "Windmühle Escher"
 site_name: "Windmühle Escher"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Escher, Auetal"
+description: "In the quaint village of Escher, located in the Auetal region of Germany, the Windmühle Escher stands as a remarkable example of traditional windmill..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

@@ -3,7 +3,7 @@ title: "Evangelische Kirche (Zaisenhausen)"
 site_name: "Evangelische Kirche (Zaisenhausen)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Kirche in Zaisenhausen is an architectural and cultural landmark that embodies the spirit of the region's religious heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

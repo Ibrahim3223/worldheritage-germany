@@ -3,7 +3,7 @@ title: "Synagogue in Potsdam"
 site_name: "Synagogue in Potsdam"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Potsdam, Germany"
+description: "The Synagogue in Potsdam represents a poignant chapter in the city's rich Jewish heritage, serving as a reminder of both the cultural vibrancy that once..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Synagogue"

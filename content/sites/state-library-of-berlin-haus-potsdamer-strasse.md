@@ -3,7 +3,7 @@ title: "State Library of Berlin (Haus Potsdamer Straße)"
 site_name: "State Library of Berlin (Haus Potsdamer Straße)"
 date: 2026-01-26
 draft: false
-description: "library building in Berlin"
+description: "The State Library of Berlin, officially known as Haus Potsdamer Straße, serves as a cornerstone of cultural and intellectual life in the heart of Germany’s..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

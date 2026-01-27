@@ -3,7 +3,7 @@ title: "Fedderwarden battery"
 site_name: "Fedderwarden battery"
 date: 2026-01-26
 draft: false
-description: "fortification near Fedderwardersiel, Germany"
+description: "The Fedderwarden battery, located near Fedderwardersiel in the Butjadingen region of Germany, is an intriguing historical fortification that provides..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fortification"

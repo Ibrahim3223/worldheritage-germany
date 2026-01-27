@@ -3,7 +3,7 @@ title: "Grassi Museum"
 site_name: "Grassi Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Grassi Museum in Leipzig, Germany, is an important cultural institution that showcases a diverse collection of art and artifacts, enriching visitors'..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kunstsammlungen der Städtischen Museen Zwickau"
 site_name: "Kunstsammlungen der Städtischen Museen Zwickau"
 date: 2026-01-26
 draft: false
-description: "German museum"
+description: "The Kunstsammlungen der Städtischen Museen Zwickau is a notable cultural institution located in the heart of Zwickau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

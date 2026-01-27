@@ -3,7 +3,7 @@ title: "Palais Thurn und Taxis"
 site_name: "Palais Thurn und Taxis"
 date: 2026-01-26
 draft: false
-description: "building"
+description: "The Palais Thurn und Taxis, an impressive palace located in the heart of Frankfurt, Germany, is a captivating site that reflects the grandeur of European..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

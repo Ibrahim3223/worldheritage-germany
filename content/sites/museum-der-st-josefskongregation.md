@@ -3,7 +3,7 @@ title: "Museum der St. Josefskongregation"
 site_name: "Museum der St. Josefskongregation"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der St. Josefskongregation, located in Germany, is a compelling destination for those intrigued by the intersection of faith, culture, and history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

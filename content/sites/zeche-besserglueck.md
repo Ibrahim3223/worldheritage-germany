@@ -3,7 +3,7 @@ title: "Zeche Besserglück"
 site_name: "Zeche Besserglück"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Besserglück, located in Bochum, Germany, is an important historical mine that played a significant role in the region’s industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

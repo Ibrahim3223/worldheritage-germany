@@ -3,7 +3,7 @@ title: "Zwei Steindeckerbrücken Lerchenweg 12 (bei)"
 site_name: "Zwei Steindeckerbrücken Lerchenweg 12 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zwei Steindeckerbrücken, located at Lerchenweg 12 in the picturesque region of Weißenberg, Germany, is a remarkable bridge that exemplifies the region's..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

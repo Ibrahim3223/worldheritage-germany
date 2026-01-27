@@ -3,7 +3,7 @@ title: "St. Ägidius"
 site_name: "St. Ägidius"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Ägidius is a remarkable church building located in the picturesque region of Wittislingen, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

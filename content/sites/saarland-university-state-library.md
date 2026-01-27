@@ -3,7 +3,7 @@ title: "Saarland University & State Library"
 site_name: "Saarland University & State Library"
 date: 2026-01-26
 draft: false
-description: "university library"
+description: "Saarland University & State Library, located in Saarbrücken, Germany, serves as a vital hub for academic pursuit and public knowledge."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"

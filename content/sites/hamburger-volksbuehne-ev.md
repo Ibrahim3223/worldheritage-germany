@@ -3,7 +3,7 @@ title: "Hamburger Volksbühne e.V."
 site_name: "Hamburger Volksbühne e.V."
 date: 2026-01-26
 draft: false
-description: "voluntary association"
+description: "In the vibrant cultural landscape of Hamburg, the Hamburger Volksbühne e.V. emerges as a significant cultural institution dedicated to the arts and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cultural Institution"

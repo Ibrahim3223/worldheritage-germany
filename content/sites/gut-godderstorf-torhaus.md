@@ -3,7 +3,7 @@ title: "Gut Godderstorf: Torhaus"
 site_name: "Gut Godderstorf: Torhaus"
 date: 2026-01-26
 draft: false
-description: "building in Neukirchen, Germany"
+description: "The Gut Godderstorf: Torhaus, located in Neukirchen, Germany, serves as a remarkable example of a historical gatehouse that captures the essence of the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Gatehouse"

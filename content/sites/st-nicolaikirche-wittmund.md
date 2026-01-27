@@ -3,7 +3,7 @@ title: "St. Nicolaikirche (Wittmund)"
 site_name: "St. Nicolaikirche (Wittmund)"
 date: 2026-01-26
 draft: false
-description: "church building in Wittmund, Germany"
+description: "The St. Nicolaikirche in Wittmund, Germany, is more than just a church building; it stands as a vital part of the community's historical and cultural fabric."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Amtsgericht Lübben"
 site_name: "Amtsgericht Lübben"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Lübben, Brandenburg"
+description: "Situated in the heart of Lübben, Brandenburg, the Amtsgericht Lübben serves as a notable courthouse with a rich context in the region's legal history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"

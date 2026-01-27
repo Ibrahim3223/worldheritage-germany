@@ -3,7 +3,7 @@ title: "Flottbektal"
 site_name: "Flottbektal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Hamburg, Germany"
+description: "Flottbektal, a distinguished nature reserve located in the Altona region of Hamburg, Germany, serves as a sanctuary for both wildlife and nature enthusiasts."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

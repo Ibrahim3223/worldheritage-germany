@@ -3,7 +3,7 @@ title: "Zoo Palast"
 site_name: "Zoo Palast"
 date: 2026-01-26
 draft: false
-description: "cinema in Charlottenburg, Berlin, Germany"
+description: "In the heart of Charlottenburg, Berlin, the Zoo Palast stands as a prominent landmark in the city’s cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

@@ -3,7 +3,7 @@ title: "Synagoge Baisingen"
 site_name: "Synagoge Baisingen"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "Synagoge Baisingen, located in the quaint region of Rottenburg am Neckar, Germany, is a significant monument that reflects the historical Jewish presence in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

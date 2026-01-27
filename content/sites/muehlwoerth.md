@@ -3,7 +3,7 @@ title: "Mühlwörth"
 site_name: "Mühlwörth"
 date: 2026-01-26
 draft: false
-description: "island in Germany"
+description: "Mühlwörth is an intriguing island located within the serene landscape of Seehausen am Staffelsee, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Island"

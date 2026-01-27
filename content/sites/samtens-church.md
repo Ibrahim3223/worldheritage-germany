@@ -3,7 +3,7 @@ title: "Samtens Church"
 site_name: "Samtens Church"
 date: 2026-01-26
 draft: false
-description: "church building in Samtens, Germany"
+description: "Samtens Church is a notable church building located in the small town of Samtens, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

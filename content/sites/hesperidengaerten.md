@@ -3,7 +3,7 @@ title: "Hesperidengärten"
 site_name: "Hesperidengärten"
 date: 2026-01-26
 draft: false
-description: "park in Germany"
+description: "The Hesperidengärten, a cherished park in Nuremberg, Germany, offers a serene escape filled with lush greenery and carefully curated landscapes."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

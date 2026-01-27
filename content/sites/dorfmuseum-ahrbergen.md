@@ -3,7 +3,7 @@ title: "Dorfmuseum Ahrbergen"
 site_name: "Dorfmuseum Ahrbergen"
 date: 2026-01-26
 draft: false
-description: "museum in Ahrbergen, Germany"
+description: "Dorfmuseum Ahrbergen is a captivating museum located in the quaint village of Ahrbergen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

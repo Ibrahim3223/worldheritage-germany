@@ -3,7 +3,7 @@ title: "St. Georg, Lübeck"
 site_name: "St. Georg, Lübeck"
 date: 2026-01-26
 draft: false
-description: "church building in Lübeck, Germany"
+description: "In the heart of Lübeck, Germany, the Church of St. Georg stands as a significant landmark that reflects the city’s rich ecclesiastical heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

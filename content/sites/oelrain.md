@@ -3,7 +3,7 @@ title: "Ölrain"
 site_name: "Ölrain"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Ölrain, a prominent mountain located in Bavaria, Germany, offers an inviting escape into nature for outdoor enthusiasts and cultural explorers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

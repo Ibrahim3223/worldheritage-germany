@@ -3,7 +3,7 @@ title: "Kapelle Zur Not Gottes"
 site_name: "Kapelle Zur Not Gottes"
 date: 2026-01-26
 draft: false
-description: "church building in Auerbach"
+description: "Kapelle Zur Not Gottes, a charming chapel situated in Auerbach, Germany, offers visitors a glimpse into the spiritual and architectural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

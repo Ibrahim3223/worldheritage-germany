@@ -3,7 +3,7 @@ title: "Georg-August-Universität Göttingen. Central Custody"
 site_name: "Georg-August-Universität Göttingen. Central Custody"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "The Georg-August-Universität Göttingen is not only a museum but also an integral part of Germany's academic heritage, situated in the historic town of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Billetal"
 site_name: "Billetal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Billetal, a distinguished nature reserve located in Aumühle, Schleswig-Holstein, Germany, is a sanctuary for those seeking a blend of natural beauty and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

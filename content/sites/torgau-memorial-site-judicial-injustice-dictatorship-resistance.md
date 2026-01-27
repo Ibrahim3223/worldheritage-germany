@@ -3,7 +3,7 @@ title: "Torgau memorial site. Judicial injustice – dictatorship – resistance
 site_name: "Torgau memorial site. Judicial injustice – dictatorship – resistance"
 date: 2026-01-26
 draft: false
-description: "permanent exhibition in Hartenfels Castle Torgau (Saxony)"
+description: "The Torgau memorial site, located within the historic Hartenfels Castle in Torgau, Germany, serves as a poignant reminder of the struggles against judicial..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

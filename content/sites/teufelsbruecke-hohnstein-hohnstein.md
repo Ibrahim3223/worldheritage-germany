@@ -3,7 +3,7 @@ title: "Teufelsbrücke Hohnstein Hohnstein"
 site_name: "Teufelsbrücke Hohnstein Hohnstein"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Teufelsbrücke Hohnstein, an iconic bridge located in the picturesque region of Hohnstein, Germany, captures the essence of both engineering ingenuity..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

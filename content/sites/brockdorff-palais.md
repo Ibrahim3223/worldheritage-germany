@@ -3,7 +3,7 @@ title: "Brockdorff-Palais"
 site_name: "Brockdorff-Palais"
 date: 2026-01-26
 draft: false
-description: "building in Glückstadt, Germany"
+description: "The Brockdorff-Palais, situated in the charming town of Glückstadt, Germany, is a historical palace that reflects the architectural and cultural heritage of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

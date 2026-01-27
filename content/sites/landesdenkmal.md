@@ -3,7 +3,7 @@ title: "Landesdenkmal"
 site_name: "Landesdenkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Wiesbaden, Germany"
+description: "The Landesdenkmal, a significant memorial located in Wiesbaden, Germany, invites visitors to reflect upon its historical and cultural importance."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

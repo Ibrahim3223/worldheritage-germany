@@ -3,7 +3,7 @@ title: "Walkenried Abbey"
 site_name: "Walkenried Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Located in the heart of Germany's picturesque Harz region, Walkenried Abbey is a remarkable monument of medieval monastic life and architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

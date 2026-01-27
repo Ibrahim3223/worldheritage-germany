@@ -3,7 +3,7 @@ title: "Dorfkirche Döbbelin"
 site_name: "Dorfkirche Döbbelin"
 date: 2026-01-26
 draft: false
-description: "evangelische Kirche des Dorfes Döbbelin in der Altmark, Stendal, Sachsen-Anhalt"
+description: "Dorfkirche Döbbelin, located in the serene Altmark region of Stendal, Sachsen-Anhalt, is an evocative site that speaks volumes of the rich ecclesiastical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

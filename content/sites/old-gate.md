@@ -3,7 +3,7 @@ title: "Old Gate"
 site_name: "Old Gate"
 date: 2026-01-26
 draft: false
-description: "medieval west city gate of Speyer"
+description: "The Old Gate, a striking medieval tower, is a prominent landmark in the historic city of Speyer, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

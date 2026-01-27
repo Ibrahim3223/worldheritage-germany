@@ -3,7 +3,7 @@ title: "Schlosskirche"
 site_name: "Schlosskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Schlosskirche, located in the charming town of Neustrelitz, Germany, is a remarkable church building that holds a significant place in the cultural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

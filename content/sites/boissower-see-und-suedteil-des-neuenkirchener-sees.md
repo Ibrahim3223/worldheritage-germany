@@ -3,7 +3,7 @@ title: "Boissower See und Südteil des Neuenkirchener Sees"
 site_name: "Boissower See und Südteil des Neuenkirchener Sees"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
+description: "The Boissower See und Südteil des Neuenkirchener Sees, situated in the serene landscape of Mecklenburg-Vorpommern, Germany, offers a unique glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

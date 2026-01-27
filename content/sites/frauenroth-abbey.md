@@ -3,7 +3,7 @@ title: "Frauenroth abbey"
 site_name: "Frauenroth abbey"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-117-10 (0) in Burkardroth, Bavaria"
+description: "Frauenroth Abbey, a significant cultural heritage monument located in the tranquil region of Burkardroth, Bavaria, stands as a testament to the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

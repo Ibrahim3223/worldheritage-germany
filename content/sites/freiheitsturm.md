@@ -3,7 +3,7 @@ title: "Freiheitsturm"
 site_name: "Freiheitsturm"
 date: 2026-01-26
 draft: false
-description: "tower in Burg, Germany"
+description: "The Freiheitsturm, a striking museum located in Burg, Germany, is a captivating destination that draws visitors with its unique architectural presence and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

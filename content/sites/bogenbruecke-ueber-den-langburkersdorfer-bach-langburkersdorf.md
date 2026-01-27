@@ -3,7 +3,7 @@ title: "Bogenbrücke über den Langburkersdorfer Bach Langburkersdorf"
 site_name: "Bogenbrücke über den Langburkersdorfer Bach Langburkersdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke über den Langburkersdorfer Bach, a striking bridge located in Neustadt in Sachsen, Germany, serves as a functional piece of infrastructure..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

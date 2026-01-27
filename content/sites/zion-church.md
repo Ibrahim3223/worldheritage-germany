@@ -3,7 +3,7 @@ title: "Zion Church"
 site_name: "Zion Church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Zion Church, an intriguing and significant church building located in the heart of Berlin's Bezirk Mitte, represents a compelling blend of history, culture,..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "townhall Weißer Hirsch"
 site_name: "townhall Weißer Hirsch"
 date: 2026-01-26
 draft: false
-description: "heritage building in Dresden, Germany"
+description: "In the heart of Dresden, Germany, the townhall Weißer Hirsch serves as a notable landmark, reflecting both the architectural elegance and the rich cultural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

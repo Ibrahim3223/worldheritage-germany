@@ -3,7 +3,7 @@ title: "St. Alban's Abbey"
 site_name: "St. Alban's Abbey"
 date: 2026-01-26
 draft: false
-description: "former abbey in Mainz, Germany"
+description: "St. Alban's Abbey, a former monastery located in Mainz, Germany, presents a fascinating glimpse into the region's ecclesiastical heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

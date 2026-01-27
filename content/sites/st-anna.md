@@ -3,7 +3,7 @@ title: "St. Anna"
 site_name: "St. Anna"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Anna is a striking church building located in the heart of Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bieketurm"
 site_name: "Bieketurm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Bieketurm, a prominent tower located in Attendorn, Germany, represents an intriguing piece of the region's architectural and historical narrative."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Old Synagogue (Erfurt)"
 site_name: "Old Synagogue (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "medieval synagogue building"
+description: "The Old Synagogue in Erfurt, Germany, stands as a remarkable example of medieval Jewish architecture and culture."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"

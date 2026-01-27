@@ -3,7 +3,7 @@ title: "Weissenhäuser Brök"
 site_name: "Weissenhäuser Brök"
 date: 2026-01-26
 draft: false
-description: "Strand in Deutschland"
+description: "Weissenhäuser Brök, located along the stunning coastline of Schleswig-Holstein in Germany, invites visitors to experience the serene beauty of its beach."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

@@ -3,7 +3,7 @@ title: "Baudenkmalensemble Südliche Wallbebauung"
 site_name: "Baudenkmalensemble Südliche Wallbebauung"
 date: 2026-01-26
 draft: false
-description: "Wikimedia list article"
+description: "The Baudenkmalensemble Südliche Wallbebauung presents a striking architectural ensemble that captures the essence of Wolfenbüttel, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

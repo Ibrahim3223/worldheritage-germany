@@ -3,7 +3,7 @@ title: "Burg Niederhaus"
 site_name: "Burg Niederhaus"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched elegantly amidst the scenic landscape of Ederheim, Burg Niederhaus is a castle that encapsulates the essence of Germany's medieval architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

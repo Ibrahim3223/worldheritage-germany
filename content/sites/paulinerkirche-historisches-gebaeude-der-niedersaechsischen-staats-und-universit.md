@@ -3,7 +3,7 @@ title: "Paulinerkirche - Historisches Gebäude der Niedersächsischen Staats- un
 site_name: "Paulinerkirche - Historisches Gebäude der Niedersächsischen Staats- und Universitätsbibliothek"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "The Paulinerkirche, a historic building housing the Niedersächsische Staats- und Universitätsbibliothek, stands as a significant cultural landmark in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

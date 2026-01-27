@@ -3,7 +3,7 @@ title: "Deutsches Pressemuseum im Ullsteinhaus"
 site_name: "Deutsches Pressemuseum im Ullsteinhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutsches Pressemuseum im Ullsteinhaus, located in the Tempelhof-Schöneberg district of Berlin, serves as a significant cultural institution dedicated..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

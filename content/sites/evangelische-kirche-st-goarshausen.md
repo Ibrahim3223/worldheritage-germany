@@ -3,7 +3,7 @@ title: "Evangelische Kirche (St. Goarshausen)"
 site_name: "Evangelische Kirche (St. Goarshausen)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelische Kirche in St. Goarshausen, Germany, stands as a significant religious site, reflecting the historical and cultural heritage of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

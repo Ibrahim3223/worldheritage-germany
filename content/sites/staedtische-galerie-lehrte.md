@@ -3,7 +3,7 @@ title: "Städtische Galerie Lehrte"
 site_name: "Städtische Galerie Lehrte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Städtische Galerie Lehrte is a fascinating museum located in the heart of Lehrte, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

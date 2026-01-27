@@ -3,7 +3,7 @@ title: "Church in Boltenhagen"
 site_name: "Church in Boltenhagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Boltenhagen stands as an emblem of community and faith within this charming coastal town in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

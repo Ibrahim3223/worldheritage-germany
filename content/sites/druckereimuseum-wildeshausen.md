@@ -3,7 +3,7 @@ title: "Druckereimuseum Wildeshausen"
 site_name: "Druckereimuseum Wildeshausen"
 date: 2026-01-26
 draft: false
-description: "museum in Wildeshausen, Germany"
+description: "Druckereimuseum Wildeshausen is a dedicated institution that celebrates the art and science of printing, located in the charming town of Wildeshausen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

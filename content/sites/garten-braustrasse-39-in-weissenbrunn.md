@@ -3,7 +3,7 @@ title: "Garten Braustraße 39 in Weißenbrunn"
 site_name: "Garten Braustraße 39 in Weißenbrunn"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-185-29 (1) in Weißenbrunn, Bavaria"
+description: "Garten Braustraße 39 in Weißenbrunn is a noteworthy cultural heritage monument located in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

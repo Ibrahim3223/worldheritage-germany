@@ -3,7 +3,7 @@ title: "Glasmuseum Hadamar"
 site_name: "Glasmuseum Hadamar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Glasmuseum Hadamar is a captivating destination for anyone interested in the intricate world of glass art and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

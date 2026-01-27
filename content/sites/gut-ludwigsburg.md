@@ -3,7 +3,7 @@ title: "Gut Ludwigsburg"
 site_name: "Gut Ludwigsburg"
 date: 2026-01-26
 draft: false
-description: "manor house in Waabs, Germany"
+description: "Gut Ludwigsburg, an elegant manor house located in the Waabs region of Germany, offers a glimpse into the architectural and cultural history of the area."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

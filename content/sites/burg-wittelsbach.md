@@ -3,7 +3,7 @@ title: "Burg Wittelsbach"
 site_name: "Burg Wittelsbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Wittelsbach is an evocative castle located in the Aichach region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Europäisches Hansemuseum"
 site_name: "Europäisches Hansemuseum"
 date: 2026-01-26
 draft: false
-description: "museum of the Hanseatic League in Lübeck"
+description: "The Europäisches Hansemuseum, located in Lübeck's Old City, serves as a vital portal into the world of the Hanseatic League, a medieval trading alliance..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

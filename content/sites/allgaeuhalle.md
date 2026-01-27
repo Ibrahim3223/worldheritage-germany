@@ -3,7 +3,7 @@ title: "Allgäuhalle"
 site_name: "Allgäuhalle"
 date: 2026-01-26
 draft: false
-description: "Veranstaltungshalle in Kempten (Allgäu) in Bayern"
+description: "Allgäuhalle is a notable multi-purpose hall located in Kempten, Bavaria. This venue plays a significant role in the cultural and social fabric of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

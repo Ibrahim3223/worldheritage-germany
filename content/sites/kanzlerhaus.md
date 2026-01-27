@@ -3,7 +3,7 @@ title: "Kanzlerhaus"
 site_name: "Kanzlerhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kanzlerhaus, located in the historical town of Wolfenbüttel, Germany, serves as a captivating museum that offers visitors a glimpse into the rich cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

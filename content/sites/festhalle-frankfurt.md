@@ -3,7 +3,7 @@ title: "Festhalle Frankfurt"
 site_name: "Festhalle Frankfurt"
 date: 2026-01-26
 draft: false
-description: "multi-purpose arena located in Frankfurt, Germany"
+description: "Festhalle Frankfurt is a prominent multi-purpose hall located in the heart of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

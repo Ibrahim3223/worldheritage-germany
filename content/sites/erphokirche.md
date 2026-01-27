@@ -3,7 +3,7 @@ title: "Erphokirche"
 site_name: "Erphokirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Erphokirche is a notable church building located in the Münster-Mitte district of Germany, distinguished by its historical and architectural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

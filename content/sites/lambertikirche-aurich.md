@@ -3,7 +3,7 @@ title: "Lambertikirche Aurich"
 site_name: "Lambertikirche Aurich"
 date: 2026-01-26
 draft: false
-description: "church building in Aurich, Germany"
+description: "In the heart of Aurich, Germany, the Lambertikirche stands as a significant landmark that embodies the historical and architectural essence of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

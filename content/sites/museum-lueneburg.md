@@ -3,7 +3,7 @@ title: "Museum Lüneburg"
 site_name: "Museum Lüneburg"
 date: 2026-01-26
 draft: false
-description: "museum in Lüneburg, Germany"
+description: "Museum Lüneburg, located in the heart of the historic town of Lüneburg, Germany, is a noteworthy destination for those interested in exploring the cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Botanischer Garten Augsburg"
 site_name: "Botanischer Garten Augsburg"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten Augsburg is a verdant sanctuary located in the heart of Augsburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

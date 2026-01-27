@@ -3,7 +3,7 @@ title: "Museum für Bodenschätzung"
 site_name: "Museum für Bodenschätzung"
 date: 2026-01-26
 draft: false
-description: "museum in Eickendorf, Germany"
+description: "The Museum für Bodenschätzung, located in the quaint village of Eickendorf in Bördeland, Germany, serves as a unique cultural institution dedicated to the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Stadtkirche Wittenberg"
 site_name: "Stadtkirche Wittenberg"
 date: 2026-01-26
 draft: false
-description: "civic church of Lutherstadt Wittenberg, Germany"
+description: "In the heart of Lutherstadt Wittenberg, the Stadtkirche Wittenberg stands as a significant civic church, intertwining the threads of history, culture, and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

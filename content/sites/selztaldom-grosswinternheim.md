@@ -3,7 +3,7 @@ title: "Selztaldom Großwinternheim"
 site_name: "Selztaldom Großwinternheim"
 date: 2026-01-26
 draft: false
-description: "Protestant church in Ingelheim, Rhineland-Palatinate, Germany"
+description: "The Selztaldom Großwinternheim is a prominent Protestant church located in Ingelheim am Rhein, Rhineland-Palatinate, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

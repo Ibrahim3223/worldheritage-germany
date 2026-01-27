@@ -3,7 +3,7 @@ title: "Brücke über den Mühlgrundbach Schöna"
 site_name: "Brücke über den Mühlgrundbach Schöna"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über den Mühlgrundbach Schöna, a striking bridge located in the Reinhardtsdorf-Schöna region of Germany, stands as an architectural highlight..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

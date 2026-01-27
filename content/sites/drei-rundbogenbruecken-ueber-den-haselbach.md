@@ -3,7 +3,7 @@ title: "Drei Rundbogenbrücken über den Haselbach"
 site_name: "Drei Rundbogenbrücken über den Haselbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Drei Rundbogenbrücken über den Haselbach, a remarkable set of three arch bridges, stands as an impressive example of engineering and architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

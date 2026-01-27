@@ -3,7 +3,7 @@ title: "Greifenstein Castle"
 site_name: "Greifenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Greifenstein Castle, an imposing structure from the medieval era, stands prominently in the Lichtenstein region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

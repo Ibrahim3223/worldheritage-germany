@@ -3,7 +3,7 @@ title: "St. Lukas"
 site_name: "St. Lukas"
 date: 2026-01-26
 draft: false
-description: "Evangelical Lutheran church in Munich"
+description: "St. Lukas, an Evangelical Lutheran church situated in the heart of Munich, is a striking example of ecclesiastical architecture that draws visitors into..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "NRW Forum"
 site_name: "NRW Forum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The NRW Forum in Düsseldorf stands as a notable institution within Germany's vibrant art scene."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

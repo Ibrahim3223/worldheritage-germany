@@ -3,7 +3,7 @@ title: "Kettenschmiedemuseum Fröndenberg"
 site_name: "Kettenschmiedemuseum Fröndenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kettenschmiedemuseum Fröndenberg is a unique museum that invites visitors to explore the fascinating world of chain-making, a craft that has played an..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

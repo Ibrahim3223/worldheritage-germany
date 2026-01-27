@@ -3,7 +3,7 @@ title: "St. Petri, Volzendorf"
 site_name: "St. Petri, Volzendorf"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "St. Petri in Volzendorf is a charming chapel located in the scenic region of Lemgow, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

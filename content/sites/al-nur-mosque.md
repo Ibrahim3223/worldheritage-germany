@@ -3,7 +3,7 @@ title: "Al-Nur mosque"
 site_name: "Al-Nur mosque"
 date: 2026-01-26
 draft: false
-description: "Moschee im Berliner Ortsteil Neukölln"
+description: "Al-Nur Mosque, located in the vibrant district of Neukölln, Germany, serves as a significant cultural and religious landmark in the heart of Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

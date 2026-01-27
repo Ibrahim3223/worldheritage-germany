@@ -3,7 +3,7 @@ title: "Essmannsche Geschäftshäuser, Düsseldorf"
 site_name: "Essmannsche Geschäftshäuser, Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "Wohn- und Geschäftshäuser in Düsseldorf"
+description: "Düsseldorf, a vibrant and culturally rich city along the banks of the Rhine River, is renowned for its blend of contemporary art, fashion, and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

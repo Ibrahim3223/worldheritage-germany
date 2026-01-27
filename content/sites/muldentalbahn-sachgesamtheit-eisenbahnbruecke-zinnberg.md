@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zinnberg"
 site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zinnberg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn, a remarkable heritage railway, includes the impressive Eisenbahnbrücke Zinnberg, located in the charming region of Penig, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

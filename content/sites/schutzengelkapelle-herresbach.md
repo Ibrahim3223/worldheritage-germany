@@ -3,7 +3,7 @@ title: "Schutzengelkapelle (Herresbach)"
 site_name: "Schutzengelkapelle (Herresbach)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Herresbach"
+description: "The Schutzengelkapelle, or the Chapel of the Guardian Angels, is an inviting spiritual retreat located in the quaint village of Herresbach, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

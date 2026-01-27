@@ -3,7 +3,7 @@ title: "Mausoleum in the Gadow Castle Park"
 site_name: "Mausoleum in the Gadow Castle Park"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Lanz, Prignitz district, Brandenburg"
+description: "The Mausoleum in the Gadow Castle Park is an evocative historical site located in Lanz, within the Prignitz district of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mausoleum"

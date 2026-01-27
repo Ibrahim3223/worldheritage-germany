@@ -3,7 +3,7 @@ title: "Katharinenkapelle Ahrbrück"
 site_name: "Katharinenkapelle Ahrbrück"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Ahrbrück"
+description: "The Katharinenkapelle Ahrbrück serves as a significant spiritual landmark in the small town of Ahrbrück, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

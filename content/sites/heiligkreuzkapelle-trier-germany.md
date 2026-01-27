@@ -3,7 +3,7 @@ title: "Heiligkreuzkapelle (Trier, Germany)"
 site_name: "Heiligkreuzkapelle (Trier, Germany)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Heiligkreuzkapelle in Trier, Germany, presents a serene and spiritual space that draws visitors seeking both history and tranquility."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"

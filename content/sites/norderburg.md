@@ -3,7 +3,7 @@ title: "Norderburg"
 site_name: "Norderburg"
 date: 2026-01-26
 draft: false
-description: "building in Dornum (Germany)"
+description: "Norderburg, a striking manor house located in Dornum, Germany, is a remarkable example of the region's architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

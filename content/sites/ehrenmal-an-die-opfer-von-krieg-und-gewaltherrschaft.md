@@ -3,7 +3,7 @@ title: "Ehrenmal an die Opfer von Krieg und Gewaltherrschaft"
 site_name: "Ehrenmal an die Opfer von Krieg und Gewaltherrschaft"
 date: 2026-01-26
 draft: false
-description: "monument in Freital, Germany"
+description: "In the heart of Freital, Germany, stands the Ehrenmal an die Opfer von Krieg und Gewaltherrschaft, a solemn monument dedicated to the victims of war and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

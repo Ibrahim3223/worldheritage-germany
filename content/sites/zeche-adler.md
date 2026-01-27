@@ -3,7 +3,7 @@ title: "Zeche Adler"
 site_name: "Zeche Adler"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Adler, located in the heart of Essen, Germany, is a significant historical mining site that offers visitors a glimpse into the industrial heritage of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

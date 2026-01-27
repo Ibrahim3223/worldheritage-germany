@@ -3,7 +3,7 @@ title: "Alte Aproche Colliery"
 site_name: "Alte Aproche Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Alte Aproche Colliery, located in Essen, Germany, is a significant site that reflects the rich industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

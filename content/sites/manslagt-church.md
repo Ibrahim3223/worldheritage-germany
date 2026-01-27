@@ -3,7 +3,7 @@ title: "Manslagt Church"
 site_name: "Manslagt Church"
 date: 2026-01-26
 draft: false
-description: "church building in Manslagt, Germany"
+description: "Manslagt Church, located in the serene region of Krummhörn, Germany, offers visitors a glimpse into the architectural and cultural heritage of the area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

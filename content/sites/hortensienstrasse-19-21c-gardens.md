@@ -3,7 +3,7 @@ title: "Hortensienstraße 19-21C gardens"
 site_name: "Hortensienstraße 19-21C gardens"
 date: 2026-01-26
 draft: false
-description: "garden in Steglitz-Zehlendorf, Germany"
+description: "The Hortensienstraße 19-21C gardens in Steglitz-Zehlendorf, Germany, offer a serene escape from the urban bustle, where visitors can immerse themselves in..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Garden"

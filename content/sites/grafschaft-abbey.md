@@ -3,7 +3,7 @@ title: "Grafschaft Abbey"
 site_name: "Grafschaft Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Grafschaft Abbey, an evocative monastery located in the picturesque region of Schmallenberg, Germany, offers visitors a unique glimpse into the monastic..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

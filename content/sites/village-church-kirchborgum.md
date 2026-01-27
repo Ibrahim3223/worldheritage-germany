@@ -3,7 +3,7 @@ title: "Village church Kirchborgum"
 site_name: "Village church Kirchborgum"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Saxony state, Germany"
+description: "The Village Church Kirchborgum, a captivating church building located in the Weener region of Lower Saxony, Germany, serves as a significant cultural monument."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

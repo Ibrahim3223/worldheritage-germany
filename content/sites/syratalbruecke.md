@@ -3,7 +3,7 @@ title: "Syratalbrücke"
 site_name: "Syratalbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Syratalbrücke, an intriguing bridge located in Plauen, Germany, represents not only a functional structure but also an integral part of the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Bridge"

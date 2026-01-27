@@ -3,7 +3,7 @@ title: "Zieselsmaar"
 site_name: "Zieselsmaar"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Zieselsmaar is a captivating lake located in the Rhein-Erft District of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Rellinger Kirche"
 site_name: "Rellinger Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Rellingen, Schleswig-Holstein, Germany"
+description: "Rellinger Kirche, located in the charming town of Rellingen in Schleswig-Holstein, Germany, is a significant church building that captures the essence of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Gedenkstätte Geschlossener Jugendwerkhof Torgau"
 site_name: "Gedenkstätte Geschlossener Jugendwerkhof Torgau"
 date: 2026-01-26
 draft: false
-description: "Museum and memorial in Torgau (Saxony)"
+description: "The Gedenkstätte Geschlossener Jugendwerkhof Torgau serves as a poignant reminder of Germany's complex past, particularly in relation to youth re-education..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

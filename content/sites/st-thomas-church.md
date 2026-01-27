@@ -3,7 +3,7 @@ title: "St. Thomas Church"
 site_name: "St. Thomas Church"
 date: 2026-01-26
 draft: false
-description: "Lutheran church in Leipzig, Germany"
+description: "St. Thomas Church, located in the vibrant city of Leipzig, Germany, serves not only as a place of worship but also as a significant cultural landmark."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bargeburer Kirche"
 site_name: "Bargeburer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bargeburer Kirche, located in the charming town of Norden, Germany, is an intriguing church building that draws visitors with its architectural simplicity..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

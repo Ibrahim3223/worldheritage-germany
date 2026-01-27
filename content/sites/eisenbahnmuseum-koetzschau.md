@@ -3,7 +3,7 @@ title: "Eisenbahnmuseum Kötzschau"
 site_name: "Eisenbahnmuseum Kötzschau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Eisenbahnmuseum Kötzschau, located in the small town of Kötzschau, Germany, is a significant destination for those interested in the history of rail..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

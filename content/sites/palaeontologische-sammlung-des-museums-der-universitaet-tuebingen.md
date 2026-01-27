@@ -3,7 +3,7 @@ title: "Paläontologische Sammlung des Museums der Universität Tübingen"
 site_name: "Paläontologische Sammlung des Museums der Universität Tübingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Paläontologische Sammlung des Museums der Universität Tübingen offers an intriguing glimpse into the ancient world through its extensive collection of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

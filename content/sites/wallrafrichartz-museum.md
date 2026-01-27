@@ -3,7 +3,7 @@ title: "Wallraf–Richartz Museum"
 site_name: "Wallraf–Richartz Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Cologne, Germany"
+description: "The Wallraf–Richartz Museum in Cologne, Germany, stands as a prominent institution dedicated to the preservation and exhibition of Western art."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

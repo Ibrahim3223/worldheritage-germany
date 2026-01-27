@@ -3,7 +3,7 @@ title: "Marienstraße 7–10"
 site_name: "Marienstraße 7–10"
 date: 2026-01-26
 draft: false
-description: "buildings in Stralsund, Germany"
+description: "Marienstraße 7–10 is an architectural ensemble located in the picturesque city of Stralsund, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

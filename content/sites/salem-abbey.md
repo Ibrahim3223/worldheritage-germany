@@ -3,7 +3,7 @@ title: "Salem Abbey"
 site_name: "Salem Abbey"
 date: 2026-01-26
 draft: false
-description: "building in Salem, Tübingen Government Region, Baden-Württemberg, Germany"
+description: "Salem Abbey, located in the picturesque region of Baden-Württemberg, Germany, is a remarkable monastery that invites visitors to explore its historical and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

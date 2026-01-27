@@ -3,7 +3,7 @@ title: "Leibniz Institute for Astrophysics Potsdam"
 site_name: "Leibniz Institute for Astrophysics Potsdam"
 date: 2026-01-26
 draft: false
-description: "research facility for astrophysics"
+description: "The Leibniz Institute for Astrophysics Potsdam (AIP) is a cornerstone in the global landscape of astrophysical research, situated in the historic city of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

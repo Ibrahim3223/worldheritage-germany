@@ -3,7 +3,7 @@ title: "City Church Konkordien Mannheim"
 site_name: "City Church Konkordien Mannheim"
 date: 2026-01-26
 draft: false
-description: "church building in Mannheim, Württemberg-Baden, Germany"
+description: "The City Church Konkordien Mannheim stands as a notable religious and cultural landmark in the heart of Mannheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

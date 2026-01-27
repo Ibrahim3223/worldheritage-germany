@@ -3,7 +3,7 @@ title: "Heimatmuseum Wanfried"
 site_name: "Heimatmuseum Wanfried"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Wanfried serves as a cultural repository in Germany, aiming to preserve the local heritage and present the historical narrative of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

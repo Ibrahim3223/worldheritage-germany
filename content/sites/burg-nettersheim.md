@@ -3,7 +3,7 @@ title: "Burg Nettersheim"
 site_name: "Burg Nettersheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nettersheim is a captivating castle located in the serene region of Nettersheim, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

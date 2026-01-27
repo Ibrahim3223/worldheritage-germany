@@ -3,7 +3,7 @@ title: "Burg Lauenstein"
 site_name: "Burg Lauenstein"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-152-32 (0) in Ludwigsstadt, Bavaria"
+description: "Burg Lauenstein, a cultural heritage monument in Ludwigsstadt, Bavaria, invites visitors to explore a site steeped in local history and tradition."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

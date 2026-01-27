@@ -3,7 +3,7 @@ title: "Stadtmuseum Warleberger Hof"
 site_name: "Stadtmuseum Warleberger Hof"
 date: 2026-01-26
 draft: false
-description: "museum in Kiel, Germany"
+description: "Situated in the vibrant port city of Kiel, Germany, the Stadtmuseum Warleberger Hof serves as a captivating portal into the region's past."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Cultural heritage D-6-6020-0166 in Aschaffenburg"
 site_name: "Cultural heritage D-6-6020-0166 in Aschaffenburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Aschaffenburg, Lower Franconia, Bavaria, Germany"
+description: "The Cultural Heritage D-6-6020-0166 in Aschaffenburg represents a significant historical fortification that exemplifies the military architecture of its time."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

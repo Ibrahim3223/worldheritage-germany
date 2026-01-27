@@ -3,7 +3,7 @@ title: "Alt-Segeberger Bürgerhaus"
 site_name: "Alt-Segeberger Bürgerhaus"
 date: 2026-01-26
 draft: false
-description: "house in Bad Segeberg, Germany"
+description: "The Alt-Segeberger Bürgerhaus, located in the heart of Bad Segeberg, Germany, serves as a cultural and historical museum that offers visitors a glimpse into..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

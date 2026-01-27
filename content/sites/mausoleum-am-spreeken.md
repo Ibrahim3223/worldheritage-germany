@@ -3,7 +3,7 @@ title: "Mausoleum am Spreeken"
 site_name: "Mausoleum am Spreeken"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Schwanewede"
+description: "The Mausoleum am Spreeken, located in Schwanewede, Germany, is an intriguing architectural site that invites exploration and reflection."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Mausoleum"

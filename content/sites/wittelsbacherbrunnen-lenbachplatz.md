@@ -3,7 +3,7 @@ title: "Wittelsbacherbrunnen (Lenbachplatz)"
 site_name: "Wittelsbacherbrunnen (Lenbachplatz)"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "In the bustling heart of Munich, the Wittelsbacherbrunnen stands as a serene water well, inviting both locals and travelers to pause and appreciate its charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

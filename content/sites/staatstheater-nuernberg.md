@@ -3,7 +3,7 @@ title: "Staatstheater Nürnberg"
 site_name: "Staatstheater Nürnberg"
 date: 2026-01-26
 draft: false
-description: "theatre and opera house in Nuremberg, Germany"
+description: "Staatstheater Nürnberg, an eminent theatre building located in the heart of Nuremberg, Germany, serves as a vibrant cultural hub that plays a significant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

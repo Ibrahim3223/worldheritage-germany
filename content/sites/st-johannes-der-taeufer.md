@@ -3,7 +3,7 @@ title: "St. Johannes der Täufer"
 site_name: "St. Johannes der Täufer"
 date: 2026-01-26
 draft: false
-description: "church building in Warendorf, Germany"
+description: "St. Johannes der Täufer, a notable church building located in Warendorf, Germany, stands as a significant religious and cultural landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

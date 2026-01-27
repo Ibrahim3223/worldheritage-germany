@@ -3,7 +3,7 @@ title: "Burg Layen"
 site_name: "Burg Layen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Layen, a historic castle located in the enchanting region of Rümmelsheim, Germany, captivates visitors with its architectural charm and historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

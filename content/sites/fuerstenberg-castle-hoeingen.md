@@ -3,7 +3,7 @@ title: "Fürstenberg Castle (Höingen)"
 site_name: "Fürstenberg Castle (Höingen)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Fürstenberg Castle, located in the quaint village of Höingen in the Ense region of Germany, presents a captivating glimpse into the architectural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

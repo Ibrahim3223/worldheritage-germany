@@ -3,7 +3,7 @@ title: "Memmert"
 site_name: "Memmert"
 date: 2026-01-26
 draft: false
-description: "East Frisian island"
+description: "Memmert is an East Frisian island located in the North Sea, offering visitors a unique blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

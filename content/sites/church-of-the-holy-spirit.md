@@ -3,7 +3,7 @@ title: "Church of the Holy Spirit"
 site_name: "Church of the Holy Spirit"
 date: 2026-01-26
 draft: false
-description: "Danish church in Flensburg, Germany"
+description: "The Church of the Holy Spirit, located in Flensburg, Germany, is a remarkable example of Danish ecclesiastical architecture."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

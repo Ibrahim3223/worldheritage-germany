@@ -3,7 +3,7 @@ title: "Tonbergbaumuseum Siershahn"
 site_name: "Tonbergbaumuseum Siershahn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Tonbergbaumuseum Siershahn is a unique cultural institution located in Siershahn, Germany, dedicated to the preservation and exhibition of the region's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schneverdingen town hall"
 site_name: "Schneverdingen town hall"
 date: 2026-01-26
 draft: false
-description: "town hall in Schneverdingen, Germany"
+description: "Schneverdingen Town Hall is a central landmark in the charming town of Schneverdingen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

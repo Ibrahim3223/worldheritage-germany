@@ -3,7 +3,7 @@ title: "Ahrschleife bei Altenahr"
 site_name: "Ahrschleife bei Altenahr"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Rheinland-Pfalz, Germany"
+description: "Ahrschleife bei Altenahr is a captivating nature reserve located in the heart of Rheinland-Pfalz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

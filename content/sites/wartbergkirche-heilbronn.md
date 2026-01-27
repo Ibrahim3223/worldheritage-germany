@@ -3,7 +3,7 @@ title: "Wartbergkirche (Heilbronn)"
 site_name: "Wartbergkirche (Heilbronn)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Wartbergkirche, a notable church building located in Heilbronn, Germany, captures the essence of the region's architectural and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

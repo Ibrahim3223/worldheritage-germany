@@ -3,7 +3,7 @@ title: "Museum des Kapitalismus"
 site_name: "Museum des Kapitalismus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the vibrant heart of Kreuzberg, Germany, the Museum des Kapitalismus offers a unique lens through which to explore the complexities of capitalism."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

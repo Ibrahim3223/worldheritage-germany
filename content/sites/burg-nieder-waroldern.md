@@ -3,7 +3,7 @@ title: "Burg Nieder-Waroldern"
 site_name: "Burg Nieder-Waroldern"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nieder-Waroldern, a castle located in the picturesque region of Nieder-Waroldern, Germany, invites visitors to explore its historical and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Staatliches Museum Schwerin"
 site_name: "Staatliches Museum Schwerin"
 date: 2026-01-26
 draft: false
-description: "art gallery and museum in Schwerin, Mecklenburg-Vorpommern, Germany"
+description: "The Staatliches Museum Schwerin, located in the heart of Schwerin, Mecklenburg-Vorpommern, Germany, stands as a prominent art museum that invites visitors..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

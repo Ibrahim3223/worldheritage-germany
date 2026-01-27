@@ -3,7 +3,7 @@ title: "Stadtkirche Goldberg"
 site_name: "Stadtkirche Goldberg"
 date: 2026-01-26
 draft: false
-description: "church building in Goldberg, Germany"
+description: "Stadtkirche Goldberg is a notable church building located in the charming town of Goldberg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Alte Bürg"
 site_name: "Alte Bürg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Bürg, a historic castle located in Möckmühl, Germany, presents a captivating glimpse into the architectural and cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

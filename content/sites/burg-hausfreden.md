@@ -3,7 +3,7 @@ title: "Burg Hausfreden"
 site_name: "Burg Hausfreden"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Lower Saxony, Germany"
+description: "Burg Hausfreden, a captivating archaeological site located in the heart of Lower Saxony, Germany, serves as a window into the region's medieval past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

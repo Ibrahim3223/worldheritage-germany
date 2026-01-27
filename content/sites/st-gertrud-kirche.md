@@ -3,7 +3,7 @@ title: "St.-Gertrud-Kirche"
 site_name: "St.-Gertrud-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Gertrud-Kirche, located in the historic city of Lübeck, Germany, is a captivating church building that reflects the architectural and cultural heritage..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

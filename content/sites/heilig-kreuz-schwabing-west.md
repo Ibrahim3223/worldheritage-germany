@@ -3,7 +3,7 @@ title: "Heilig Kreuz (Schwabing-West)"
 site_name: "Heilig Kreuz (Schwabing-West)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig Kreuz, the Chapel of the Holy Cross, is a notable religious structure located in the vibrant district of Schwabing-West in Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

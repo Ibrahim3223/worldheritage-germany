@@ -3,7 +3,7 @@ title: "Torhaus"
 site_name: "Torhaus"
 date: 2026-01-26
 draft: false
-description: "city gate in Muhr am See, Middle Franconia, Germany"
+description: "The Torhaus, a historic city gate located in Muhr am See, Germany, serves as a remarkable reminder of the region’s architectural and cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

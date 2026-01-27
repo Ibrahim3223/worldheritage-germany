@@ -3,7 +3,7 @@ title: "Hüttenhohl"
 site_name: "Hüttenhohl"
 date: 2026-01-26
 draft: false
-description: "gap in Germany"
+description: "Hüttenhohl is a mountain pass located in Germany, serving as a vital connection through the region's rugged terrain."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

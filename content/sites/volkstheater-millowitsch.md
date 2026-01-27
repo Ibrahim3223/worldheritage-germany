@@ -3,7 +3,7 @@ title: "Volkstheater Millowitsch"
 site_name: "Volkstheater Millowitsch"
 date: 2026-01-26
 draft: false
-description: "theatre"
+description: "Volkstheater Millowitsch is a prominent theatre located in the Neustadt-Süd district of Germany, known for its cultural significance and vibrant performances."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

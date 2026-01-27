@@ -3,7 +3,7 @@ title: "Elztalmuseum"
 site_name: "Elztalmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Elztalmuseum, situated in the charming town of Waldkirch, Germany, serves as a portal to the region's rich cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

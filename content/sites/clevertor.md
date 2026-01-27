@@ -3,7 +3,7 @@ title: "Clevertor"
 site_name: "Clevertor"
 date: 2026-01-26
 draft: false
-description: "former city gate in Hannover, Germany"
+description: "Clevertor is a significant city gate located in Hannover, Germany, representing an important historical landmark of the city."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Old Lighthouse Borkum"
 site_name: "Old Lighthouse Borkum"
 date: 2026-01-26
 draft: false
-description: "former lighthouse and church steeple in Borkum, Germany"
+description: "The Old Lighthouse Borkum serves as a distinguished landmark on the island of Borkum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

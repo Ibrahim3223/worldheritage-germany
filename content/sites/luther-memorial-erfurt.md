@@ -3,7 +3,7 @@ title: "Luther memorial Erfurt"
 site_name: "Luther memorial Erfurt"
 date: 2026-01-26
 draft: false
-description: "Memorial for Martin Luther in Erfurt"
+description: "The Luther Memorial in Erfurt serves as a poignant tribute to Martin Luther, a pivotal figure in the Protestant Reformation."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

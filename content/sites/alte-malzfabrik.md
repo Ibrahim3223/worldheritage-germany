@@ -3,7 +3,7 @@ title: "Alte Malzfabrik"
 site_name: "Alte Malzfabrik"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "Alte Malzfabrik, located in Mülheim an der Ruhr, Germany, is an intriguing factory site that encapsulates the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

@@ -3,7 +3,7 @@ title: "Syker Vorwerk"
 site_name: "Syker Vorwerk"
 date: 2026-01-26
 draft: false
-description: "art museum in Syke, Germany"
+description: "In the heart of Syke, Germany, lies Syker Vorwerk, an art museum that serves as a cultural hub for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

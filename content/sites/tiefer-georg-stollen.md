@@ -3,7 +3,7 @@ title: "Tiefer Georg-Stollen"
 site_name: "Tiefer Georg-Stollen"
 date: 2026-01-26
 draft: false
-description: "Wasserlösungsstollen im Harz"
+description: "Tiefer Georg-Stollen, located in the picturesque region of Bad Grund, Germany, serves as a remarkable example of historical engineering in the realm of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Water Drainage Gallery"

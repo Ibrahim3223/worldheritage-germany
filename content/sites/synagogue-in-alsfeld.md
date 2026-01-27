@@ -3,7 +3,7 @@ title: "Synagogue in Alsfeld"
 site_name: "Synagogue in Alsfeld"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Synagogue in Alsfeld is a notable architectural structure that captures the essence of Jewish heritage in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

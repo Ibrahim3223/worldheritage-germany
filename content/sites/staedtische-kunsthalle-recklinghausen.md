@@ -3,7 +3,7 @@ title: "Städtische Kunsthalle Recklinghausen"
 site_name: "Städtische Kunsthalle Recklinghausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtische Kunsthalle Recklinghausen is a noteworthy museum located in the heart of Recklinghausen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "part of D-1-72-116-230 in Berchtesgaden in Bavaria, Germany"
 site_name: "part of D-1-72-116-230 in Berchtesgaden in Bavaria, Germany"
 date: 2026-01-26
 draft: false
-description: "Villengarten in Bavaria, Germany"
+description: "In the picturesque region of Berchtesgaden, Bavaria, Germany, lies a serene garden area known as part of D-1-72-116-230."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Antoniterkloster Memmingen"
 site_name: "Antoniterkloster Memmingen"
 date: 2026-01-26
 draft: false
-description: "German monestary"
+description: "The Antoniterkloster Memmingen stands as a significant monument in the heart of Memmingen, Germany, reflecting the rich history and religious heritage of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

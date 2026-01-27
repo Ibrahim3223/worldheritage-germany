@@ -3,7 +3,7 @@ title: "Banater Schaufenster"
 site_name: "Banater Schaufenster"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Banater Schaufenster, located in Germany, serves as an engaging museum that invites visitors to explore the cultural heritage of the Banat region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Lutherkirche"
 site_name: "Lutherkirche"
 date: 2026-01-26
 draft: false
-description: "church in Worms, Germany"
+description: "In the heart of Worms, Germany, stands the Lutherkirche, a significant church building that serves as a focal point for both religious practice and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

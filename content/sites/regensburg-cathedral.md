@@ -3,7 +3,7 @@ title: "Regensburg Cathedral"
 site_name: "Regensburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Germany"
+description: "Regensburg Cathedral, an iconic church building in Germany, stands as an emblem of the city’s rich cultural heritage and architectural splendor."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

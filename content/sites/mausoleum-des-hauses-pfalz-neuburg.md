@@ -3,7 +3,7 @@ title: "Mausoleum des Hauses Pfalz-Neuburg"
 site_name: "Mausoleum des Hauses Pfalz-Neuburg"
 date: 2026-01-26
 draft: false
-description: "zwölfeckiger Zentralbau am Chor der Hofkirche St. Andreas in Düsseldorf"
+description: "The Mausoleum des Hauses Pfalz-Neuburg is a striking architectural landmark located in Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mausoleum"

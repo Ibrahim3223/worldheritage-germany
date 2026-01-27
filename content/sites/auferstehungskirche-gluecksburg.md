@@ -3,7 +3,7 @@ title: "Auferstehungskirche (Glücksburg)"
 site_name: "Auferstehungskirche (Glücksburg)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the charming town of Glücksburg, Germany, the Auferstehungskirche is a captivating example of ecclesiastical architecture that draws visitors not..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

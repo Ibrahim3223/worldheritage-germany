@@ -3,7 +3,7 @@ title: "Burg Grimburg"
 site_name: "Burg Grimburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grimburg is an emblematic castle located in the serene region of Grimburg, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

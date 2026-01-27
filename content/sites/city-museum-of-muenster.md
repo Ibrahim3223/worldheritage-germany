@@ -3,7 +3,7 @@ title: "City Museum of Münster"
 site_name: "City Museum of Münster"
 date: 2026-01-26
 draft: false
-description: "museum in Münster, Germany"
+description: "The City Museum of Münster is a vibrant cultural institution located in the heart of Münster, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

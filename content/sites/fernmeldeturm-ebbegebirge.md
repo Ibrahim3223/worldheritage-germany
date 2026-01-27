@@ -3,7 +3,7 @@ title: "Fernmeldeturm Ebbegebirge"
 site_name: "Fernmeldeturm Ebbegebirge"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Ebbegebirge, located in the scenic region of Herscheid, Germany, is a prominent telecommunications tower that stands as a remarkable..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

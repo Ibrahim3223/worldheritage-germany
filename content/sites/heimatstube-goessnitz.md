@@ -3,7 +3,7 @@ title: "Heimatstube Gößnitz"
 site_name: "Heimatstube Gößnitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatstube Gößnitz offers a unique glimpse into the cultural and historical landscape of this German town."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

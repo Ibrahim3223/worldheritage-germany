@@ -3,7 +3,7 @@ title: "Augustinerkloster Lauingen"
 site_name: "Augustinerkloster Lauingen"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Nestled within the historic town of Lauingen in Germany, the Augustinerkloster Lauingen stands as a testament to the enduring legacy of monastic life in the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

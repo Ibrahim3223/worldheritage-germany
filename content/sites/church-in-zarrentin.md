@@ -3,7 +3,7 @@ title: "Church in Zarrentin"
 site_name: "Church in Zarrentin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Zarrentin, located in the picturesque town of Zarrentin am Schaalsee in Germany, represents a significant landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

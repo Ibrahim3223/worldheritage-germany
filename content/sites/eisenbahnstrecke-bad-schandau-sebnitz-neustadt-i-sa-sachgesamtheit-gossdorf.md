@@ -3,7 +3,7 @@ title: "Eisenbahnstrecke Bad Schandau -Sebnitz -Neustadt i. Sa. (Sachgesamtheit)
 site_name: "Eisenbahnstrecke Bad Schandau -Sebnitz -Neustadt i. Sa. (Sachgesamtheit) Goßdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

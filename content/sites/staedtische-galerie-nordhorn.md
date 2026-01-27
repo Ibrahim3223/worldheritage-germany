@@ -3,7 +3,7 @@ title: "Städtische Galerie Nordhorn"
 site_name: "Städtische Galerie Nordhorn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Städtische Galerie Nordhorn serves as a dynamic cultural hub in the heart of Nordhorn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

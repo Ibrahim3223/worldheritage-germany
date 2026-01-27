@@ -3,7 +3,7 @@ title: "St. Pankraz"
 site_name: "St. Pankraz"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Pankraz, a striking church building in Bavaria, Germany, captures the essence of religious architecture and cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

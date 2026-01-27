@@ -3,7 +3,7 @@ title: "Altes Palais (Hannover)"
 site_name: "Altes Palais (Hannover)"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Gebäude in Hannover"
+description: "The Altes Palais in Hannover, Germany, is a historic palace that offers a glimpse into the architectural and cultural evolution of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

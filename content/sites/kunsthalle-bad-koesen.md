@@ -3,7 +3,7 @@ title: "Kunsthalle Bad Kösen"
 site_name: "Kunsthalle Bad Kösen"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Kösen, Germany"
+description: "Kunsthalle Bad Kösen stands as a significant cultural institution in the town of Bad Kösen, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Art Museum"

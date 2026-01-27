@@ -3,7 +3,7 @@ title: "Village Church in Dambeck"
 site_name: "Village Church in Dambeck"
 date: 2026-01-26
 draft: false
-description: "church building in Bobitz, Mecklenburg-Hither Pomerania, Germany"
+description: "The Village Church in Dambeck is a remarkable church building located within the charming region of Bobitz in Mecklenburg-Vorpommern, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

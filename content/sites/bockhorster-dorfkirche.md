@@ -3,7 +3,7 @@ title: "Bockhorster Dorfkirche"
 site_name: "Bockhorster Dorfkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bockhorster Dorfkirche stands as a significant religious structure in the charming region of Versmold, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

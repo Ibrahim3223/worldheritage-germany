@@ -3,7 +3,7 @@ title: "Harrys Depot"
 site_name: "Harrys Depot"
 date: 2026-01-26
 draft: false
-description: "theatre in Baden-Württemberg, Germany"
+description: "Harry's Depot, a distinguished theatre building located in Freiburg im Breisgau, Germany, serves as a cultural landmark within the vibrant artistic scene of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

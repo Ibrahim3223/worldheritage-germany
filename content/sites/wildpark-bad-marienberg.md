@@ -3,7 +3,7 @@ title: "Wildpark Bad Marienberg"
 site_name: "Wildpark Bad Marienberg"
 date: 2026-01-26
 draft: false
-description: "ein Wildpark"
+description: "Wildpark Bad Marienberg presents an engaging opportunity to experience the diverse wildlife of Germany within a beautiful natural setting."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

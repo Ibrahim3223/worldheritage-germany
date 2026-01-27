@@ -3,7 +3,7 @@ title: "Der Zansen"
 site_name: "Der Zansen"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Der Zansen, located in the picturesque Mecklenburgische Seenplatte District of Germany, is a serene lake that embodies the natural beauty of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Mauritianum"
 site_name: "Mauritianum"
 date: 2026-01-26
 draft: false
-description: "natural history museum in Germany"
+description: "Located in the heart of Altenburg, Germany, the Mauritianum serves as a captivating natural history museum that invites visitors to explore the wonders of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

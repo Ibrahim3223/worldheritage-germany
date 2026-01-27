@@ -3,7 +3,7 @@ title: "Burg Kempen"
 site_name: "Burg Kempen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kempen is an intriguing historical castle located in the charming region of Kempen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

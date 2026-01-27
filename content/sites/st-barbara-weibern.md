@@ -3,7 +3,7 @@ title: "St. Barbara (Weibern)"
 site_name: "St. Barbara (Weibern)"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "St. Barbara in Weibern is a captivating parish church that serves as a focal point for the local community."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

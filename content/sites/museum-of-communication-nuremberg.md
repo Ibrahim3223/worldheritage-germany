@@ -3,7 +3,7 @@ title: "Museum of Communication Nuremberg"
 site_name: "Museum of Communication Nuremberg"
 date: 2026-01-26
 draft: false
-description: "museum in Nuremberg, Germany"
+description: "The Museum of Communication Nuremberg is a vital cultural institution located in the heart of Nuremberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

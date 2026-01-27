@@ -3,7 +3,7 @@ title: "Externsteine"
 site_name: "Externsteine"
 date: 2026-01-26
 draft: false
-description: "rock formation in Germany"
+description: "Perched in the serene landscape of Horn-Bad Meinberg, Externsteine offers visitors a unique glimpse into a rock formation that is both an archaeological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Imperia"
 site_name: "Imperia"
 date: 2026-01-26
 draft: false
-description: "Statue by Peter Lenk in the harbour of Konstanz, Germany"
+description: "Imperia is an impressive statue located in the harbor of Konstanz, Germany, that captures the imagination of visitors with its striking design and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"

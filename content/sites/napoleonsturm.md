@@ -3,7 +3,7 @@ title: "Napoleonsturm"
 site_name: "Napoleonsturm"
 date: 2026-01-26
 draft: false
-description: "building in Dessau-Roßlau, Saxony-Anhalt, Germany"
+description: "In the heart of Dessau-Roßlau, Germany, the Napoleonsturm stands as a striking symbol of historical significance and architectural intrigue."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

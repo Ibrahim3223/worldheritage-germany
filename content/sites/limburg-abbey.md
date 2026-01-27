@@ -3,7 +3,7 @@ title: "Limburg Abbey"
 site_name: "Limburg Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Limburg Abbey, a historic monastery located in the Bad Dürkheim region of Germany, is a place where spirituality and history converge."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7530-0073 in Gablingen"
 site_name: "Cultural heritage D-7-7530-0073 in Gablingen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Gablingen, Augsburg, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7530-0073 in Gablingen is an intriguing fortification that encapsulates the historical essence of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

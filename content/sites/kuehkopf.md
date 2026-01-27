@@ -3,7 +3,7 @@ title: "Kühkopf"
 site_name: "Kühkopf"
 date: 2026-01-26
 draft: false
-description: "island in the Rhine river"
+description: "Kühkopf, an island situated within the meandering currents of the Rhine River in Hesse, Germany, is a unique natural oasis that captivates both nature..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Island"

@@ -3,7 +3,7 @@ title: "Wittumspalais"
 site_name: "Wittumspalais"
 date: 2026-01-26
 draft: false
-description: "building in Weimar, Germany"
+description: "Wittumspalais, located in the culturally rich city of Weimar, Germany, is a historic palace that reflects the grandeur of its era."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Cyriakuskapelle Lindenberg"
 site_name: "Cyriakuskapelle Lindenberg"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Cyriakuskapelle Lindenberg is a serene chapel located in the quaint region of Lindenberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Himmelreich cave"
 site_name: "Himmelreich cave"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Himmelreich Cave, located in the picturesque region of Walkenried, Germany, is a fascinating natural formation that offers a peek into the subterranean..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Zugspitze"
 site_name: "Zugspitze"
 date: 2026-01-26
 draft: false
-description: "highest peak of the Wetterstein Mountains (Eastern Alps)"
+description: "Zugspitze, the highest peak of the Wetterstein Mountains and a prominent feature of the Eastern Alps, rises majestically to the height of 2,962 meters..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

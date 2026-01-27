@@ -3,7 +3,7 @@ title: "Einzeldenkmal der Sachgesamtheit Eisenbahn Löbau-Zittau: Eisenbahnbrüc
 site_name: "Einzeldenkmal der Sachgesamtheit Eisenbahn Löbau-Zittau: Eisenbahnbrücke (siehe auch Sachgesamtheitsliste - Obj. 09302439) Zur Bleiche (Strecke zwischen Herrnhut und Ruppersdorf)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnbrücke, part of the Einzeldenkmal der Sachgesamtheit Eisenbahn Löbau-Zittau, is a significant structure located in the Herrnhut region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

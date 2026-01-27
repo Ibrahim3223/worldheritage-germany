@@ -3,7 +3,7 @@ title: "Jugendstilforum"
 site_name: "Jugendstilforum"
 date: 2026-01-26
 draft: false
-description: "art museum in Bad Nauheim, Hesse"
+description: "Situated in the charming town of Bad Nauheim, Germany, the Jugendstilforum presents a unique opportunity to explore the artistic movement known as..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

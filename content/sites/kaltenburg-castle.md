@@ -3,7 +3,7 @@ title: "Kaltenburg Castle"
 site_name: "Kaltenburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kaltenburg Castle, a remarkable historical structure located in Giengen an der Brenz, Germany, is a testament to medieval architecture and the region's rich..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

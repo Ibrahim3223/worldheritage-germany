@@ -3,7 +3,7 @@ title: "Stifter und der Wald - Museum im Rosenberger Gut"
 site_name: "Stifter und der Wald - Museum im Rosenberger Gut"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stifter und der Wald - Museum im Rosenberger Gut is a notable cultural institution located in Germany, dedicated to the exploration and celebration of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

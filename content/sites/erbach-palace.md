@@ -3,7 +3,7 @@ title: "Erbach Palace"
 site_name: "Erbach Palace"
 date: 2026-01-26
 draft: false
-description: "a palace in Erbach im Odeneald"
+description: "Erbach Palace, located in the charming town of Erbach im Odenwald, Germany, serves as a fascinating museum that captures the essence of the region's history..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

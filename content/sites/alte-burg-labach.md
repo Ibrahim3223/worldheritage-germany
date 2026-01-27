@@ -3,7 +3,7 @@ title: "Alte Burg Labach"
 site_name: "Alte Burg Labach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg Labach, a historical castle located in the Saarwellingen region of Germany, invites visitors with its enchanting presence and storied past."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

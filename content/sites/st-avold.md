@@ -3,7 +3,7 @@ title: "St. Avold"
 site_name: "St. Avold"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "St. Avold is a nature reserve located in Lower Saxony, Germany, specifically within the region of Salzhemmendorf."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Brandenburgisches Landeshauptarchiv"
 site_name: "Brandenburgisches Landeshauptarchiv"
 date: 2026-01-26
 draft: false
-description: "archive in Germany"
+description: "The Brandenburgisches Landeshauptarchiv, located in the heart of Potsdam, Germany, serves as a vital repository of regional history and culture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

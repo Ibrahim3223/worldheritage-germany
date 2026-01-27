@@ -3,7 +3,7 @@ title: "Palais Vitzthum-Rutowski"
 site_name: "Palais Vitzthum-Rutowski"
 date: 2026-01-26
 draft: false
-description: "Palais in der Kreuzgasse in Dresden (1719-1786)"
+description: "The Palais Vitzthum-Rutowski stands as a remarkable example of the Baroque architectural style within the historical context of Dresden, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

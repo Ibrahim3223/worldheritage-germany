@@ -3,7 +3,7 @@ title: "Church of Our Lady"
 site_name: "Church of Our Lady"
 date: 2026-01-26
 draft: false
-description: "Lutheran church in Dresden, Germany"
+description: "The Church of Our Lady, located in Dresden, Germany, stands as a notable example of Protestant church architecture, embodying both historical significance..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

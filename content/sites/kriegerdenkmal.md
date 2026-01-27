@@ -3,7 +3,7 @@ title: "Kriegerdenkmal"
 site_name: "Kriegerdenkmal"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Deutschland"
+description: "The Kriegerdenkmal, a prominent monument located in Bad Homburg vor der Höhe, Germany, serves as a poignant reminder of the sacrifices made during times of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

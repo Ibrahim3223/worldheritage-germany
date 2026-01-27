@@ -3,7 +3,7 @@ title: "St. Wenzel"
 site_name: "St. Wenzel"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "St. Wenzel, a prominent church building located in Halle (Saale), Saxony-Anhalt, Germany, serves as a significant landmark in the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum Peter Gehring"
 site_name: "Museum Peter Gehring"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Peter Gehring, located in the vibrant city of Munich, Germany, serves as an intriguing cultural institution that attracts visitors with its unique..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

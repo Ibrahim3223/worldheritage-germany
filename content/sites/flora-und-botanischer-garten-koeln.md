@@ -3,7 +3,7 @@ title: "Flora und Botanischer Garten Köln"
 site_name: "Flora und Botanischer Garten Köln"
 date: 2026-01-26
 draft: false
-description: "Cologne Botanical Garden"
+description: "In the heart of Cologne, the Flora und Botanischer Garten Köln invites visitors to explore a serene oasis of botanical wonders."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

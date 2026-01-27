@@ -3,7 +3,7 @@ title: "Church in Ziethen"
 site_name: "Church in Ziethen"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Church in Ziethen is a striking example of religious architecture situated in the quaint village of Ziethen, located in the Mecklenburg-Vorpommern..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

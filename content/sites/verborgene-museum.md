@@ -3,7 +3,7 @@ title: "Verborgene Museum"
 site_name: "Verborgene Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Verborgene Museum, located in the vibrant city of Berlin, offers a unique glimpse into the world of art and culture that many visitors may not initially..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

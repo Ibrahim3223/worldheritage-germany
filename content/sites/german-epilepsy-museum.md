@@ -3,7 +3,7 @@ title: "German Epilepsy Museum"
 site_name: "German Epilepsy Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Kehl, Germany"
+description: "The German Epilepsy Museum, located in Kehl, Germany, offers a unique and insightful exploration into the history and understanding of epilepsy."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

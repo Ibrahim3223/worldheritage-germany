@@ -3,7 +3,7 @@ title: "Stover Windmühle"
 site_name: "Stover Windmühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Stover, Drage"
+description: "In the quaint village of Stover, nestled within the lush landscapes of Drage, Germany, stands the Stover Windmühle, a historical windmill that captures the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Windmill"

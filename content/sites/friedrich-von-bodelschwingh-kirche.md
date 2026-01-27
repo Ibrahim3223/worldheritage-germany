@@ -3,7 +3,7 @@ title: "Friedrich-von-Bodelschwingh-Kirche"
 site_name: "Friedrich-von-Bodelschwingh-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Friedrich-von-Bodelschwingh-Kirche is a remarkable church building located in the historic city of Lübeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

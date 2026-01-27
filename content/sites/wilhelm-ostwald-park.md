@@ -3,7 +3,7 @@ title: "Wilhelm Ostwald Park"
 site_name: "Wilhelm Ostwald Park"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wilhelm Ostwald Park is a museum located in Großbothen, Germany, dedicated to the life and works of the renowned chemist and philosopher Wilhelm Ostwald."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

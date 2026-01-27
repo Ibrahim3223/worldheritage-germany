@@ -3,7 +3,7 @@ title: "Vierzehn-Nothelfer-Kapelle"
 site_name: "Vierzehn-Nothelfer-Kapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Meschede, Hochsauerlandkreis, Nordrhein-Westfalen"
+description: "The Vierzehn-Nothelfer-Kapelle, located in the serene town of Meschede in the Hochsauerlandkreis region of North Rhine-Westphalia, Germany, offers a glimpse..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

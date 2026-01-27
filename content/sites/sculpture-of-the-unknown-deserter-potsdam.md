@@ -3,7 +3,7 @@ title: "Sculpture of the Unknown Deserter, Potsdam"
 site_name: "Sculpture of the Unknown Deserter, Potsdam"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Potsdam, Germany, the Sculpture of the Unknown Deserter stands as a poignant monument that invites contemplation on the complexities of war..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

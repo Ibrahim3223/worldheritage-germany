@@ -3,7 +3,7 @@ title: "Ju-52-Museum"
 site_name: "Ju-52-Museum"
 date: 2026-01-26
 draft: false
-description: "Aviation museum in Wunstorf, Germany"
+description: "The Ju-52-Museum in Wunstorf, Germany, is a captivating destination for aviation enthusiasts and history buffs alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

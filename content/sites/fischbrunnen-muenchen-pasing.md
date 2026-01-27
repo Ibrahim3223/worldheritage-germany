@@ -3,7 +3,7 @@ title: "Fischbrunnen (München-Pasing)"
 site_name: "Fischbrunnen (München-Pasing)"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "The Fischbrunnen, located in München-Pasing, is a notable fountain that serves as a unique reminder of the region's historical connection to water resources."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Gochsheim Castle"
 site_name: "Gochsheim Castle"
 date: 2026-01-26
 draft: false
-description: "sad irons"
+description: "Gochsheim Castle, located in the heart of Kraichtal, Germany, is a museum dedicated to the fascinating history of sad irons."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

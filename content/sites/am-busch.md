@@ -3,7 +3,7 @@ title: "Am Busch"
 site_name: "Am Busch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Am Busch is a serene nature reserve located in the Börger region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

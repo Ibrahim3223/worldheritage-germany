@@ -3,7 +3,7 @@ title: "Beecker Flachsmuseum"
 site_name: "Beecker Flachsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Beecker Flachsmuseum, located in Wegberg, Germany, is a unique cultural institution dedicated to the history and significance of flax processing."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

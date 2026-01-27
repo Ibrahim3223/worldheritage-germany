@@ -3,7 +3,7 @@ title: "Forst- und Jagdmuseum Ferdinand von Raesfeld"
 site_name: "Forst- und Jagdmuseum Ferdinand von Raesfeld"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Forst- und Jagdmuseum Ferdinand von Raesfeld offers a unique glimpse into the rich heritage of forestry and hunting in Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

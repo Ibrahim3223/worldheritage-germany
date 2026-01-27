@@ -3,7 +3,7 @@ title: "Solabasilika und Propstei"
 site_name: "Solabasilika und Propstei"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Solabasilika und Propstei is a remarkable museum located in Germany, reflecting the country's deep cultural heritage and commitment to preserving its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

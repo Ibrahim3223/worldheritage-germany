@@ -3,7 +3,7 @@ title: "St. Jacobi (Church : Greifswald, Germany)"
 site_name: "St. Jacobi (Church : Greifswald, Germany)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Jacobi, located in the historic town of Greifswald, Germany, serves as a significant cultural and architectural landmark."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

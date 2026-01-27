@@ -3,7 +3,7 @@ title: "St. Peter's Cathedral"
 site_name: "St. Peter's Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral of the Roman Catholic Diocese of Osnabrück"
+description: "St. Peter's Cathedral, located in the heart of Osnabrück, Germany, serves as the principal church of the Roman Catholic Diocese of Osnabrück."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

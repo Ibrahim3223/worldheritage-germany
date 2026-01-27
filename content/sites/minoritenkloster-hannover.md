@@ -3,7 +3,7 @@ title: "Minoritenkloster Hannover"
 site_name: "Minoritenkloster Hannover"
 date: 2026-01-26
 draft: false
-description: "former monastery in Hannover, Germany"
+description: "In the heart of Hanover, the Minoritenkloster Hannover stands as a remarkable reminder of the city’s historical and spiritual landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

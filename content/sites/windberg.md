@@ -3,7 +3,7 @@ title: "Windberg"
 site_name: "Windberg"
 date: 2026-01-26
 draft: false
-description: "hill in the borough of Freital, Germany"
+description: "Windberg, a notable hill in the borough of Freital, Germany, offers visitors a unique blend of natural beauty and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

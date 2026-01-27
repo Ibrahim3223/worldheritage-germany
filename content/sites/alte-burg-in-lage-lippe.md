@@ -3,7 +3,7 @@ title: "Alte Burg in Lage (Lippe)"
 site_name: "Alte Burg in Lage (Lippe)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg in Lage (Lippe) invites visitors to explore a significant piece of German history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Heimatmuseum Moringen"
 site_name: "Heimatmuseum Moringen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Heimatmuseum Moringen serves as a cultural anchor in the heart of Moringen, Germany, offering visitors a glimpse into the region's historical narrative."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

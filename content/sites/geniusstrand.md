@@ -3,7 +3,7 @@ title: "Geniusstrand"
 site_name: "Geniusstrand"
 date: 2026-01-26
 draft: false
-description: "former beach in Wilhelmshaven, Germany"
+description: "Geniusstrand, a former beach located in Wilhelmshaven, Germany, offers a unique perspective on coastal life and the interplay between nature and human activity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

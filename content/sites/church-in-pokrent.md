@@ -3,7 +3,7 @@ title: "Church in Pokrent"
 site_name: "Church in Pokrent"
 date: 2026-01-26
 draft: false
-description: "church building in Pokrent, Mecklenburg-Vorpommern, Germany"
+description: "The Church in Pokrent, located in the serene region of Mecklenburg-Vorpommern, Germany, is a notable example of ecclesiastical architecture that reflects..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

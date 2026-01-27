@@ -3,7 +3,7 @@ title: "Friedrich-Wilhelm-Weber-Museum"
 site_name: "Friedrich-Wilhelm-Weber-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Driburg, Germany"
+description: "The Friedrich-Wilhelm-Weber-Museum, located in Bad Driburg, Germany, serves as a significant cultural institution dedicated to the life and works of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Brauhaus am Kreuzberg"
 site_name: "Brauhaus am Kreuzberg"
 date: 2026-01-26
 draft: false
-description: "German brewery"
+description: "Brauhaus am Kreuzberg is a notable brewery located in the charming region of Hallerndorf, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

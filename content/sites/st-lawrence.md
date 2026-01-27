@@ -3,7 +3,7 @@ title: "St. Lawrence"
 site_name: "St. Lawrence"
 date: 2026-01-26
 draft: false
-description: "church building in Nuremberg, Germany"
+description: "St. Lawrence Church, or Lorenzkirche, is a stunning example of Gothic architecture situated in the heart of Nuremberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

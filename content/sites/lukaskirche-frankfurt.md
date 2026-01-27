@@ -3,7 +3,7 @@ title: "Lukaskirche (Frankfurt)"
 site_name: "Lukaskirche (Frankfurt)"
 date: 2026-01-26
 draft: false
-description: "church building in Frankfurt, Germany"
+description: "In the heart of Frankfurt, the Lukaskirche stands as an emblem of architectural elegance and spiritual heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

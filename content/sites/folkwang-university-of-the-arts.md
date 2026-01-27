@@ -3,7 +3,7 @@ title: "Folkwang University of the Arts"
 site_name: "Folkwang University of the Arts"
 date: 2026-01-26
 draft: false
-description: "German university for music, theater, dance, design, and academic studies"
+description: "Folkwang University of the Arts is a distinguished institution located in Dortmund, Germany, dedicated to the disciplines of music, theater, dance, design,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"

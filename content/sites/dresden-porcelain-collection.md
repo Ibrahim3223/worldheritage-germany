@@ -3,7 +3,7 @@ title: "Dresden Porcelain Collection"
 site_name: "Dresden Porcelain Collection"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dresden Porcelain Collection, situated in the heart of Dresden, Germany, is a remarkable museum dedicated to one of the most exquisite forms of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

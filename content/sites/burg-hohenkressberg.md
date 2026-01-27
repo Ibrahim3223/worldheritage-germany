@@ -3,7 +3,7 @@ title: "Burg Hohenkressberg"
 site_name: "Burg Hohenkressberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenkressberg is a remarkable castle located in the heart of Kreßberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Schloss Metternich"
 site_name: "Schloss Metternich"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Schloss Metternich, a striking manor house located in the picturesque Bad Neuenahr-Ahrweiler region of Germany, is a destination that invites visitors to..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

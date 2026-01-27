@@ -3,7 +3,7 @@ title: "Langenfelder Wasserfall"
 site_name: "Langenfelder Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Niedersachsen"
+description: "Langenfelder Wasserfall, located in the picturesque Hessisch Oldendorf region of Germany, is a captivating natural feature that draws visitors with its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

@@ -3,7 +3,7 @@ title: "Rathaus Pößneck"
 site_name: "Rathaus Pößneck"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Rathaus Pößneck, located in the historic town of Pößneck, Germany, serves as a captivating museum that offers visitors a glimpse into the region's cultural..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

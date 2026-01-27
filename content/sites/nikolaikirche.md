@@ -3,7 +3,7 @@ title: "Nikolaikirche"
 site_name: "Nikolaikirche"
 date: 2026-01-26
 draft: false
-description: "church in Flensburg, Germany"
+description: "The Nikolaikirche, located in the vibrant city of Flensburg, Germany, serves as a significant landmark and a vital part of the city’s cultural heritage."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

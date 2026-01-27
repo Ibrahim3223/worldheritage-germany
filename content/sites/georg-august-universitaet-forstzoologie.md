@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Forstzoologie"
 site_name: "Georg-August-Universität: Forstzoologie"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Georg-August-Universität: Forstzoologie, located in the heart of Göttingen, Germany, serves as a fascinating repository of knowledge dedicated to the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

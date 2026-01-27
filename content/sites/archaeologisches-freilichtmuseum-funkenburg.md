@@ -3,7 +3,7 @@ title: "Archäologisches Freilichtmuseum Funkenburg"
 site_name: "Archäologisches Freilichtmuseum Funkenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Archäologisches Freilichtmuseum Funkenburg, located in Westgreußen, Germany, serves as a captivating portal to the past, offering visitors an engaging..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

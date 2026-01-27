@@ -3,7 +3,7 @@ title: "Couven-Gymnasium"
 site_name: "Couven-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "secondary school in Aachen, Germany"
+description: "Couven-Gymnasium, located in the heart of Aachen, Germany, serves as a significant cultural institution that embodies the educational spirit of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"

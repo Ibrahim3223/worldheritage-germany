@@ -3,7 +3,7 @@ title: "Church of Reconciliation"
 site_name: "Church of Reconciliation"
 date: 2026-01-26
 draft: false
-description: "church in Leipzig, Germany"
+description: "The Church of Reconciliation, located in Gohlis, Germany, is an important religious structure that reflects the spiritual heritage of Leipzig."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

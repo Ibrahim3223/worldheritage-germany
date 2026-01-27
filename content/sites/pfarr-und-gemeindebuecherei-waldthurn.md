@@ -3,7 +3,7 @@ title: "Pfarr- und Gemeindebücherei Waldthurn"
 site_name: "Pfarr- und Gemeindebücherei Waldthurn"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the quaint town of Waldthurn, Germany, lies a captivating library that serves as a cultural and informational hub for the community."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

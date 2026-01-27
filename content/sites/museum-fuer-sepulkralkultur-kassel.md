@@ -3,7 +3,7 @@ title: "Museum für Sepulkralkultur, Kassel"
 site_name: "Museum für Sepulkralkultur, Kassel"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum für Sepulkralkultur, located in the heart of Kassel, Germany, is a unique institution dedicated to the cultural history of death and burial..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schloss Aldingen"
 site_name: "Schloss Aldingen"
 date: 2026-01-26
 draft: false
-description: "building in Remseck am Neckar (Germany)"
+description: "Schloss Aldingen, a distinguished manor house located in the town of Remseck am Neckar, Germany, presents a remarkable glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

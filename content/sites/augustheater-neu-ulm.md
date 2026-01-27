@@ -3,7 +3,7 @@ title: "AuGuSTheater Neu-Ulm"
 site_name: "AuGuSTheater Neu-Ulm"
 date: 2026-01-26
 draft: false
-description: "building in Neu-Ulm, Swabia, Germany"
+description: "The AuGuSTheater Neu-Ulm is a prominent cultural venue located in the city of Neu-Ulm, in the picturesque region of Swabia, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

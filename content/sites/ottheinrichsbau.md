@@ -3,7 +3,7 @@ title: "Ottheinrichsbau"
 site_name: "Ottheinrichsbau"
 date: 2026-01-26
 draft: false
-description: "German Renaissance palace building of Heidelberg Castle"
+description: "Ottheinrichsbau, a stunning example of German Renaissance architecture, is part of the historic Heidelberg Castle complex, located in the picturesque city..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

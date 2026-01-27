@@ -3,7 +3,7 @@ title: "New Schleissheim Palace"
 site_name: "New Schleissheim Palace"
 date: 2026-01-26
 draft: false
-description: "part of Schleissheim Palace"
+description: "New Schleissheim Palace, located in Oberschleißheim, Germany, is a striking example of Baroque architecture and an integral part of the larger Schleissheim..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

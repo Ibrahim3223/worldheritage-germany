@@ -3,7 +3,7 @@ title: "Fernmeldeturm Lamstedt"
 site_name: "Fernmeldeturm Lamstedt"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Lamstedt, a striking communication tower located in the quaint region of Lamstedt, Germany, stands as a noteworthy landmark in the landscape..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

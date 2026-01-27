@@ -3,7 +3,7 @@ title: "St. Augustinus"
 site_name: "St. Augustinus"
 date: 2026-01-26
 draft: false
-description: "church building in Ellingen, Middle Franconia, Germany"
+description: "St. Augustinus, a distinguished church building located in the heart of Ellingen, Germany, represents an essential part of the region's ecclesiastical heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

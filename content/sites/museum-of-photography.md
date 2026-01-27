@@ -3,7 +3,7 @@ title: "Museum of Photography"
 site_name: "Museum of Photography"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin"
+description: "Berlin is a city where history and innovation intersect, offering a dynamic cultural landscape that attracts art lovers from around the world."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

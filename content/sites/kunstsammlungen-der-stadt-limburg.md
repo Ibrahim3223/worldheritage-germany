@@ -3,7 +3,7 @@ title: "Kunstsammlungen der Stadt Limburg"
 site_name: "Kunstsammlungen der Stadt Limburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstsammlungen der Stadt Limburg is a distinguished museum located in the heart of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

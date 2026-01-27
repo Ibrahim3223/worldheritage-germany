@@ -3,7 +3,7 @@ title: "Zeche Auguste"
 site_name: "Zeche Auguste"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Auguste, a historic mine located in Witten, Germany, is a significant relic of the region's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

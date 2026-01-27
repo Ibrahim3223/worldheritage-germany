@@ -3,7 +3,7 @@ title: "Tuchmuseum Lennep"
 site_name: "Tuchmuseum Lennep"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tuchmuseum Lennep is a captivating museum located in Remscheid, Germany, dedicated to the history and artistry of textiles."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

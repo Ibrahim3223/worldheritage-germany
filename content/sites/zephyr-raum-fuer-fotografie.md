@@ -3,7 +3,7 @@ title: "ZEPHYR – raum für fotografie!"
 site_name: "ZEPHYR – raum für fotografie!"
 date: 2026-01-26
 draft: false
-description: "museum in Mannheim, Germany"
+description: "Located in the vibrant city of Mannheim, Germany, ZEPHYR – raum für fotografie! is an engaging museum dedicated to the art and culture of photography."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

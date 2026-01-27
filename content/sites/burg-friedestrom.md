@@ -3,7 +3,7 @@ title: "Burg Friedestrom"
 site_name: "Burg Friedestrom"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Friedestrom, located in the charming region of Dormagen, Germany, is a striking castle that holds a significant place in the landscape of historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

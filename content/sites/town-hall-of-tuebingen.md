@@ -3,7 +3,7 @@ title: "Town hall of Tübingen"
 site_name: "Town hall of Tübingen"
 date: 2026-01-26
 draft: false
-description: "building in Tübingen, Germany"
+description: "The Town Hall of Tübingen, located in the heart of this historic German city, serves not only as a municipal building but also as a symbol of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

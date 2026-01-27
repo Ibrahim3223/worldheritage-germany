@@ -3,7 +3,7 @@ title: "Reclam-Museum"
 site_name: "Reclam-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Leipzig, Saxony, Germany"
+description: "The Reclam-Museum in Leipzig, Germany, offers visitors a unique glimpse into the world of literature and publishing, specifically focusing on the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

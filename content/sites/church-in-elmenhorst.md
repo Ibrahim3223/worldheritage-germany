@@ -3,7 +3,7 @@ title: "Church in Elmenhorst"
 site_name: "Church in Elmenhorst"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Elmenhorst is an understated yet significant landmark located in the quaint region of Kalkhorst, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

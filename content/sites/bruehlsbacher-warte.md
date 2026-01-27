@@ -3,7 +3,7 @@ title: "Brühlsbacher Warte"
 site_name: "Brühlsbacher Warte"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Perched prominently in the Wetzlar region of Germany, the Brühlsbacher Warte is a historic tower that offers visitors a glimpse into the architectural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

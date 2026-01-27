@@ -3,7 +3,7 @@ title: "Weissenau Abbey"
 site_name: "Weissenau Abbey"
 date: 2026-01-26
 draft: false
-description: "former monastery near Ravensburg, Germany, now used as a hospital"
+description: "Weissenau Abbey, a former monastery located near Ravensburg in Germany, carries a profound legacy that intertwines spirituality and community health."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

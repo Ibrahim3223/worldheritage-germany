@@ -3,7 +3,7 @@ title: "Cologne Central Mosque"
 site_name: "Cologne Central Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque"
+description: "The Cologne Central Mosque stands as a prominent symbol of the Islamic faith in one of Germany's most vibrant cities."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "St. Wiperti"
 site_name: "St. Wiperti"
 date: 2026-01-26
 draft: false
-description: "church building in Quedlinburg, Saxony-Anhalt, Germany"
+description: "St. Wiperti is a remarkable church building located in the historic town of Quedlinburg, Saxony-Anhalt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

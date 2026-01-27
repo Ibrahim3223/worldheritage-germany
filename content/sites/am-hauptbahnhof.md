@@ -3,7 +3,7 @@ title: "Am Hauptbahnhof"
 site_name: "Am Hauptbahnhof"
 date: 2026-01-26
 draft: false
-description: "square in Frankfurt am Main, Germany"
+description: "Am Hauptbahnhof is a vibrant square situated in the heart of Frankfurt am Main, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Square"

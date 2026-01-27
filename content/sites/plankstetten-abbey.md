@@ -3,7 +3,7 @@ title: "Plankstetten Abbey"
 site_name: "Plankstetten Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Plankstetten Abbey, a serene monastery located in Germany, offers visitors a unique glimpse into monastic life and spirituality."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

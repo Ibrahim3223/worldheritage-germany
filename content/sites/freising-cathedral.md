@@ -3,7 +3,7 @@ title: "Freising Cathedral"
 site_name: "Freising Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "Freising Cathedral, an impressive architectural marvel located in the historical town of Freising, Germany, serves as a significant spiritual and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"

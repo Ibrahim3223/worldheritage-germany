@@ -3,7 +3,7 @@ title: "Canisianum"
 site_name: "Canisianum"
 date: 2026-01-26
 draft: false
-description: "church in Saarlouis, Germany"
+description: "Canisianum, located in Saarlouis, Germany, is a church building that holds a significant place in the cultural and architectural landscape of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

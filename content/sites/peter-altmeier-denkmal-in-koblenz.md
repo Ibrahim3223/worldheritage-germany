@@ -3,7 +3,7 @@ title: "Peter-Altmeier-Denkmal in Koblenz"
 site_name: "Peter-Altmeier-Denkmal in Koblenz"
 date: 2026-01-26
 draft: false
-description: "monument in Koblenz, Germany"
+description: "The Peter-Altmeier-Denkmal is a significant monument located in the charming city of Koblenz, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

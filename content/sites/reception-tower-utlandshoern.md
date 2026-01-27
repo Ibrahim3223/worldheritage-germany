@@ -3,7 +3,7 @@ title: "Reception Tower Utlandshörn"
 site_name: "Reception Tower Utlandshörn"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Reception Tower Utlandshörn is a striking example of architectural ingenuity located in the Norden region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

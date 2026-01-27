@@ -3,7 +3,7 @@ title: "Kranich Museum"
 site_name: "Kranich Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kranich Museum, an art museum located in the picturesque region of Saal, Germany, offers a unique glimpse into the world of artistic expression."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Dorfkirche Neuenklitsche"
 site_name: "Dorfkirche Neuenklitsche"
 date: 2026-01-26
 draft: false
-description: "church building in Jerichow, Saxony-Anhalt, Germany"
+description: "Dorfkirche Neuenklitsche, a notable church building located in the quaint region of Jerichow, Saxony-Anhalt, Germany, embodies a rich cultural narrative..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

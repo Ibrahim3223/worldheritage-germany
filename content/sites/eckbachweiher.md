@@ -3,7 +3,7 @@ title: "Eckbachweiher"
 site_name: "Eckbachweiher"
 date: 2026-01-26
 draft: false
-description: "lake in Rhineland-Palatinate, Germany"
+description: "Eckbachweiher is a serene lake located in the picturesque region of Rhineland-Palatinate, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lake"

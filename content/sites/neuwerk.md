@@ -3,7 +3,7 @@ title: "Neuwerk"
 site_name: "Neuwerk"
 date: 2026-01-26
 draft: false
-description: "Wadden Sea island on the German North Sea coast"
+description: "Neuwerk, a serene island located in the Wadden Sea off the coast of Hamburg, Germany, offers an intriguing escape into a unique landscape that is both..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

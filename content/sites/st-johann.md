@@ -3,7 +3,7 @@ title: "St. Johann"
 site_name: "St. Johann"
 date: 2026-01-26
 draft: false
-description: "church building in Osnabrück, Lower Saxony, Germany"
+description: "St. Johann, a significant church building located in the heart of Osnabrück, Germany, serves as a captivating point of interest for both history enthusiasts..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

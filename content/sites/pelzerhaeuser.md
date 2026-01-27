@@ -3,7 +3,7 @@ title: "Pelzerhäuser"
 site_name: "Pelzerhäuser"
 date: 2026-01-26
 draft: false
-description: "buildings and museum in Emden, Germany"
+description: "Pelzerhäuser, situated in Emden, Germany, is an engaging museum that showcases a captivating blend of cultural heritage and local history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

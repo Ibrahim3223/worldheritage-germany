@@ -3,7 +3,7 @@ title: "Burg Hütting"
 site_name: "Burg Hütting"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hütting is a captivating castle located in the serene countryside of Rennertshofen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

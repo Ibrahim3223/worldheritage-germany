@@ -3,7 +3,7 @@ title: "Altarm der Schwentine"
 site_name: "Altarm der Schwentine"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "The Altarm der Schwentine is a unique nature reserve located in Schönkirchen, Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

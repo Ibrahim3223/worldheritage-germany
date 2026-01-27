@@ -3,7 +3,7 @@ title: "Burg Katzenelnbogen"
 site_name: "Burg Katzenelnbogen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Katzenelnbogen, a notable castle located in the picturesque region of Katzenelnbogen, Germany, stands as a remarkable example of medieval architecture..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

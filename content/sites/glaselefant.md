@@ -3,7 +3,7 @@ title: "Glaselefant"
 site_name: "Glaselefant"
 date: 2026-01-26
 draft: false
-description: "landmark in Germany"
+description: "The Glaselefant, a distinguished museum located in Hamm, Germany, serves as a notable landmark that attracts visitors interested in cultural heritage and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

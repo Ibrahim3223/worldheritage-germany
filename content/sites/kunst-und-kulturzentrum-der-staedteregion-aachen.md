@@ -3,7 +3,7 @@ title: "Kunst- und Kulturzentrum der StädteRegion Aachen"
 site_name: "Kunst- und Kulturzentrum der StädteRegion Aachen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunst- und Kulturzentrum der StädteRegion Aachen, located in the charming town of Monschau, Germany, is a vibrant museum dedicated to showcasing the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

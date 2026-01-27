@@ -3,7 +3,7 @@ title: "Aegidienkirche"
 site_name: "Aegidienkirche"
 date: 2026-01-26
 draft: false
-description: "church ruin in Hannover, Germany"
+description: "Aegidienkirche, a significant church ruin located in the heart of Hannover, Germany, presents visitors with a compelling glimpse into the past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

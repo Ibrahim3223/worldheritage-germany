@@ -3,7 +3,7 @@ title: "Reiff-Museum Aachen"
 site_name: "Reiff-Museum Aachen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Reiff-Museum Aachen, located in the historic city of Aachen, Germany, serves as a cultural hub dedicated to the exploration of regional history and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

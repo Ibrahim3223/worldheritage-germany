@@ -3,7 +3,7 @@ title: "Bauernhausmuseum Gebersheim"
 site_name: "Bauernhausmuseum Gebersheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bauernhausmuseum Gebersheim offers a unique glimpse into traditional rural life in Germany, showcasing the history and culture of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

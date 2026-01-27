@@ -3,7 +3,7 @@ title: "Harburg Castle"
 site_name: "Harburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Harburg Castle is an impressive monument of medieval architecture and a significant cultural site located in the Schwaben region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

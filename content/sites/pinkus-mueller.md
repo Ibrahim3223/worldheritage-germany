@@ -3,7 +3,7 @@ title: "Pinkus Müller"
 site_name: "Pinkus Müller"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Pinkus Müller, a distinguished brewery located in Germany, holds an esteemed place in the country's rich brewing heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

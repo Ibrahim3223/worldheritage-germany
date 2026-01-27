@@ -3,7 +3,7 @@ title: "Flugplatzmuseum Cottbus"
 site_name: "Flugplatzmuseum Cottbus"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Flugplatzmuseum Cottbus serves as a captivating homage to aviation history, drawing enthusiasts and curious visitors alike to explore the skies through a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

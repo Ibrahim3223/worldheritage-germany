@@ -3,7 +3,7 @@ title: "Nahverkehrsmuseum Dortmund"
 site_name: "Nahverkehrsmuseum Dortmund"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nahverkehrsmuseum Dortmund serves as a captivating homage to the evolution of public transportation in Germany, particularly focusing on the intricate..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Pyrmont Castle"
 site_name: "Pyrmont Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Rhineland-Palatinate"
+description: "Pyrmont Castle, located in the scenic region of Roes in Rhineland-Palatinate, Germany, is a captivating museum that offers visitors a glimpse into the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "SAP Arena"
 site_name: "SAP Arena"
 date: 2026-01-26
 draft: false
-description: "multi-function venue in the German city of Mannheim"
+description: "The SAP Arena, located in Mannheim, Germany, serves as a dynamic multi-purpose venue that caters to a wide array of events, from sports to concerts."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

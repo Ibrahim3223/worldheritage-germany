@@ -3,7 +3,7 @@ title: "St. Albertus Magnus"
 site_name: "St. Albertus Magnus"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Golzheim, Germany"
+description: "St. Albertus Magnus is a prominent church building located in the Golzheim district of Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

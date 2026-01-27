@@ -3,7 +3,7 @@ title: "SieMatic"
 site_name: "SieMatic"
 date: 2026-01-26
 draft: false
-description: "German kitchen manufacturer"
+description: "In the heart of Löhne, Germany, SieMatic stands as a prominent figure in the realm of kitchen manufacturing."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

@@ -3,7 +3,7 @@ title: "Ruinenberg"
 site_name: "Ruinenberg"
 date: 2026-01-26
 draft: false
-description: "Hill between Potsdam-Bornstedt and Potsdamer Jägervorstadt"
+description: "Ruinenberg, an architectural ensemble located in the picturesque region of Potsdam, Germany, offers visitors an intriguing glimpse into the historical and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Goldener Turm"
 site_name: "Goldener Turm"
 date: 2026-01-26
 draft: false
-description: "tower in Regensburg, Germany"
+description: "The Goldener Turm, or Golden Tower, is a striking historical landmark located in the heart of Regensburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

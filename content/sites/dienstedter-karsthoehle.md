@@ -3,7 +3,7 @@ title: "Dienstedter Karsthöhle"
 site_name: "Dienstedter Karsthöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Nestled in the heart of Germany, the Dienstedter Karsthöhle is a captivating cave that offers visitors a glimpse into the unique geological formations and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Cave"

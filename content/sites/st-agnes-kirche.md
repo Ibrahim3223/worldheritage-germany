@@ -3,7 +3,7 @@ title: "St.-Agnes-Kirche"
 site_name: "St.-Agnes-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Kreuzberg, Germany"
+description: "St.-Agnes-Kirche, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, is a remarkable church building that captures the essence of urban..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

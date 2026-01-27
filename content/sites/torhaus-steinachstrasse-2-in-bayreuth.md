@@ -3,7 +3,7 @@ title: "Torhaus Steinachstraße 2 in Bayreuth"
 site_name: "Torhaus Steinachstraße 2 in Bayreuth"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-62-000-410 (1) in Bayreuth, Bavaria"
+description: "In the heart of Bayreuth, Germany, the Torhaus Steinachstraße 2 serves as a striking embodiment of the region’s rich architectural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "Laboe Naval Memorial"
 site_name: "Laboe Naval Memorial"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Laboe Naval Memorial, located in the picturesque coastal town of Laboe, Germany, serves as a poignant reminder of the sacrifices made during maritime..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monument"

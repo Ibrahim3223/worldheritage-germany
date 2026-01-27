@@ -3,7 +3,7 @@ title: "Burg Moosburg (Federsee)"
 site_name: "Burg Moosburg (Federsee)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Moosburg, located in the picturesque region of Moosburg, Germany, is a captivating castle that invites visitors to explore its storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

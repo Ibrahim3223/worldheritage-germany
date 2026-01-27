@@ -3,7 +3,7 @@ title: "Burg Dreieichenhain"
 site_name: "Burg Dreieichenhain"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Dreieichenhain, a historic castle located in the region of Dreieich, Germany, invites visitors to explore its storied past and architectural beauty."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

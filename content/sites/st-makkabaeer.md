@@ -3,7 +3,7 @@ title: "St. Makkabäer"
 site_name: "St. Makkabäer"
 date: 2026-01-26
 draft: false
-description: "monastery in Cologne, Germany"
+description: "St. Makkabäer, a serene monastery located in the heart of Cologne, Germany, invites visitors to explore its tranquil surroundings and spiritual heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

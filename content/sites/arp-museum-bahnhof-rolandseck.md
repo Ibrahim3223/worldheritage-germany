@@ -3,7 +3,7 @@ title: "Arp Museum Bahnhof Rolandseck"
 site_name: "Arp Museum Bahnhof Rolandseck"
 date: 2026-01-26
 draft: false
-description: "art museum in Rolandseck, Germany"
+description: "The Arp Museum Bahnhof Rolandseck, located in the serene town of Rolandseck, Germany, offers a unique blend of contemporary art and historical context."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

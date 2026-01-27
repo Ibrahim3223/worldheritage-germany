@@ -3,7 +3,7 @@ title: "industry park Schöneweide"
 site_name: "industry park Schöneweide"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Industry Park Schöneweide is a distinctive museum located in Berlin, Germany, that offers insight into the area's industrial heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

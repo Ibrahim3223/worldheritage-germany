@@ -3,7 +3,7 @@ title: "Mainau"
 site_name: "Mainau"
 date: 2026-01-26
 draft: false
-description: "inland island"
+description: "Mainau, an enchanting island park located in the Constance region of Germany, offers visitors a harmonious blend of nature and cultural allure."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Park"

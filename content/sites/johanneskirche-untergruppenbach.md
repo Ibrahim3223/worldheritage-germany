@@ -3,7 +3,7 @@ title: "Johanneskirche (Untergruppenbach)"
 site_name: "Johanneskirche (Untergruppenbach)"
 date: 2026-01-26
 draft: false
-description: "church building in Baden-Württemberg, Germany"
+description: "Johanneskirche, located in Untergruppenbach, Germany, is a remarkable church building that represents the spiritual and cultural fabric of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

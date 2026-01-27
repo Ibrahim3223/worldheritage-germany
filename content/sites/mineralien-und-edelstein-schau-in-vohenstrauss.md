@@ -3,7 +3,7 @@ title: "Mineralien- und Edelstein-Schau in Vohenstrauß"
 site_name: "Mineralien- und Edelstein-Schau in Vohenstrauß"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mineralien- und Edelstein-Schau in Vohenstrauß is a fascinating museum that invites visitors to explore the captivating world of minerals and gemstones."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

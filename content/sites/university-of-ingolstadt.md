@@ -3,7 +3,7 @@ title: "University of Ingolstadt"
 site_name: "University of Ingolstadt"
 date: 2026-01-26
 draft: false
-description: "former university in Ingolstadt, Bavaria (1472–1800)"
+description: "The University of Ingolstadt, a prominent educational institution in Bavaria, Germany, played a crucial role in shaping German intellectual life from its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "University"

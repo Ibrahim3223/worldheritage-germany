@@ -3,7 +3,7 @@ title: "Ruhe-Christi-Kapelle"
 site_name: "Ruhe-Christi-Kapelle"
 date: 2026-01-26
 draft: false
-description: "building in Hechingen, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "The Ruhe-Christi-Kapelle, a serene chapel located in Hechingen, Germany, offers visitors a unique glimpse into the spiritual heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "St. Pankratius"
 site_name: "St. Pankratius"
 date: 2026-01-26
 draft: false
-description: "church in Gütersloh, Germany"
+description: "St. Pankratius is an important church building located in Gütersloh, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

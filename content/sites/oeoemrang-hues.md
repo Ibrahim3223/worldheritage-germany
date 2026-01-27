@@ -3,7 +3,7 @@ title: "Öömrang Hüs"
 site_name: "Öömrang Hüs"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Öömrang Hüs, located in the picturesque village of Nebel, Germany, serves as a cultural touchstone for visitors interested in the heritage and traditions of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

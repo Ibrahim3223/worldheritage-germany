@@ -3,7 +3,7 @@ title: "Schilksee beach"
 site_name: "Schilksee beach"
 date: 2026-01-26
 draft: false
-description: "beach in Schilksee"
+description: "Schilksee Beach, situated in the picturesque region of Kiel, Germany, offers a serene coastal retreat that invites both relaxation and recreation."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"

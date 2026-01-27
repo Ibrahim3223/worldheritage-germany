@@ -3,7 +3,7 @@ title: "Eulenspiegelturm"
 site_name: "Eulenspiegelturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "In the heart of Bernburg, Germany, the Eulenspiegelturm stands as a prominent tower, drawing visitors with its historical significance and architectural charm."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

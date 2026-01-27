@@ -3,7 +3,7 @@ title: "Sankt Peter Frankfurt"
 site_name: "Sankt Peter Frankfurt"
 date: 2026-01-26
 draft: false
-description: "church in Hesse, Germany"
+description: "Sankt Peter Frankfurt is a historic church located in the heart of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

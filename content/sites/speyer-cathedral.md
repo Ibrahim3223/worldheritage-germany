@@ -3,7 +3,7 @@ title: "Speyer Cathedral"
 site_name: "Speyer Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Speyer, Germany"
+description: "Speyer Cathedral, a prominent Catholic cathedral located in the heart of Speyer, Germany, is an architectural marvel with a rich heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

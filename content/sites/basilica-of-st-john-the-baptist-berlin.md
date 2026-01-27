@@ -3,7 +3,7 @@ title: "Basilica of St. John the Baptist, Berlin"
 site_name: "Basilica of St. John the Baptist, Berlin"
 date: 2026-01-26
 draft: false
-description: "parish church in Berlin, Germany"
+description: "The Basilica of St. John the Baptist in Berlin stands as a prominent parish church in the vibrant Neukölln district, reflecting both the architectural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cathedral"

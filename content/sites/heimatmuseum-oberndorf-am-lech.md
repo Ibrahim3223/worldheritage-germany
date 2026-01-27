@@ -3,7 +3,7 @@ title: "Heimatmuseum Oberndorf am Lech"
 site_name: "Heimatmuseum Oberndorf am Lech"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany lies the Heimatmuseum Oberndorf am Lech, a museum dedicated to preserving the cultural and historical heritage of this quaint town."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Arnstadt central station"
 site_name: "Arnstadt central station"
 date: 2026-01-26
 draft: false
-description: "railway station in Thuringia, Germany"
+description: "Arnstadt Central Station serves as a vital junction in the heart of Thuringia, Germany, reflecting the region's robust railway heritage."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Railway Station"

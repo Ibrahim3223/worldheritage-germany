@@ -3,7 +3,7 @@ title: "Altes Rathaus Kommern"
 site_name: "Altes Rathaus Kommern"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Mechernich"
+description: "Altes Rathaus Kommern, located in the municipality of Mechernich in Germany, stands as an important symbol of local governance and community heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Hall"

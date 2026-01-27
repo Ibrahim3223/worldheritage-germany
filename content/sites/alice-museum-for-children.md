@@ -3,7 +3,7 @@ title: "Alice Museum For Children"
 site_name: "Alice Museum For Children"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "In the heart of Berlin, the Alice Museum for Children presents an engaging environment designed specifically for younger audiences."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

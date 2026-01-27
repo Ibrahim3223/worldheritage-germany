@@ -3,7 +3,7 @@ title: "Alhauser Hammer"
 site_name: "Alhauser Hammer"
 date: 2026-01-26
 draft: false
-description: "wassergetriebenes Hammerwerk"
+description: "Alhauser Hammer is a remarkable architectural ensemble located in Ennepetal, Germany, known for its historical significance as a water-driven hammer mill."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

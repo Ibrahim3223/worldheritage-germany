@@ -3,7 +3,7 @@ title: "Klötznersches Haus"
 site_name: "Klötznersches Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Eisenberg, Thuringia, Germany"
+description: "Klötznersches Haus, located in the quaint town of Eisenberg in Thuringia, Germany, serves as a significant cultural institution and museum that showcases..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

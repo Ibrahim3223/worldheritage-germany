@@ -3,7 +3,7 @@ title: "Vogelsanghalle Stralsund"
 site_name: "Vogelsanghalle Stralsund"
 date: 2026-01-26
 draft: false
-description: "Mehrzweckhalle in der Gemeinde Kramerhof nahe der Stadt Stralsund"
+description: "Vogelsanghalle Stralsund, located in the scenic Kramerhof region near the historic city of Stralsund, serves as a versatile multi-purpose hall that caters..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

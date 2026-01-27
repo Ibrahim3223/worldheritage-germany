@@ -3,7 +3,7 @@ title: "Kirche Herzkamp"
 site_name: "Kirche Herzkamp"
 date: 2026-01-26
 draft: false
-description: "church in Sprockhövel, North Rhine-Westphalia, Germany"
+description: "Kirche Herzkamp is a church building located in Sprockhövel, a town in North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

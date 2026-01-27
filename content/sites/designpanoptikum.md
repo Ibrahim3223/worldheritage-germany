@@ -3,7 +3,7 @@ title: "Designpanoptikum"
 site_name: "Designpanoptikum"
 date: 2026-01-26
 draft: false
-description: "surrealist museum of industrial objects in Berlin, Germany"
+description: "In the heart of Berlin, a unique museum awaits those with an appreciation for the bizarre and the unconventional."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

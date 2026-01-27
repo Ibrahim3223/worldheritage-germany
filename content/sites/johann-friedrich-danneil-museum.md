@@ -3,7 +3,7 @@ title: "Johann-Friedrich-Danneil-Museum"
 site_name: "Johann-Friedrich-Danneil-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Johann-Friedrich-Danneil-Museum in Salzwedel, Germany, serves as a vibrant hub for cultural exploration and historical inquiry."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

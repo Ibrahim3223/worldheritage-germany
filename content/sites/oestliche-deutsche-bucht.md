@@ -3,7 +3,7 @@ title: "Östliche Deutsche Bucht"
 site_name: "Östliche Deutsche Bucht"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Germany"
+description: "The Östliche Deutsche Bucht, a distinguished Naturschutzgebiet (nature reserve), is located within the exclusive economic zone of Germany."
 region: "Exclusive economic zone of Germany"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

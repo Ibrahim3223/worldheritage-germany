@@ -3,7 +3,7 @@ title: "St. Maria in Jerusalem"
 site_name: "St. Maria in Jerusalem"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt-Nord, Germany"
+description: "St. Maria in Jerusalem, located in the vibrant Altstadt-Nord region of Germany, is a remarkable church building that captures the attention of visitors with..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

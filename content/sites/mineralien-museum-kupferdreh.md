@@ -3,7 +3,7 @@ title: "Mineralien-Museum Kupferdreh"
 site_name: "Mineralien-Museum Kupferdreh"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mineralien-Museum Kupferdreh, located in the vibrant city of Essen, Germany, is a unique institution dedicated to the exploration and appreciation of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

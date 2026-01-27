@@ -3,7 +3,7 @@ title: "Passau State Library"
 site_name: "Passau State Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Passau State Library, located in the picturesque city of Passau, Germany, serves as a cultural and intellectual hub that invites visitors to explore its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

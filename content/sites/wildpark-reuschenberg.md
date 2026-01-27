@@ -3,7 +3,7 @@ title: "Wildpark Reuschenberg"
 site_name: "Wildpark Reuschenberg"
 date: 2026-01-26
 draft: false
-description: "Tierpark im Reuschenberger Wald in Leverkusen-Küppersteg"
+description: "Wildpark Reuschenberg, located in the picturesque region of Leverkusen, Germany, serves as a delightful escape into nature, showcasing a variety of animal..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

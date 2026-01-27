@@ -3,7 +3,7 @@ title: "Atlanticum"
 site_name: "Atlanticum"
 date: 2026-01-26
 draft: false
-description: "former museum in Bremerhaven, Germany"
+description: "Atlanticum, a former museum located in Bremerhaven, Germany, was a unique venue that offered insights into the maritime history of the region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

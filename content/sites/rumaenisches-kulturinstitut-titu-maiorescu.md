@@ -3,7 +3,7 @@ title: "Rumänisches Kulturinstitut Titu Maiorescu"
 site_name: "Rumänisches Kulturinstitut Titu Maiorescu"
 date: 2026-01-26
 draft: false
-description: "kulturelle Einrichtung im Berliner Bezirk Mitte"
+description: "The Rumänisches Kulturinstitut Titu Maiorescu serves as an important cultural institution in Berlin, situated in the vibrant district of Mitte."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"

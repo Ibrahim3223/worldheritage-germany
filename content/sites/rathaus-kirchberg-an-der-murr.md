@@ -3,7 +3,7 @@ title: "Rathaus Kirchberg an der Murr"
 site_name: "Rathaus Kirchberg an der Murr"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Kirchberg an der Murr im Rems-Murr-Kreis in Baden-Württemberg"
+description: "Rathaus Kirchberg an der Murr serves as the heart of municipal governance in this charming town located in Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

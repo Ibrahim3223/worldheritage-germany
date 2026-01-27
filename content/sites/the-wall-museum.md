@@ -3,7 +3,7 @@ title: "The Wall Museum"
 site_name: "The Wall Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wall Museum, located in the vibrant Friedrichshain-Kreuzberg region of Berlin, Germany, presents an in-depth exploration of one of the most significant..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

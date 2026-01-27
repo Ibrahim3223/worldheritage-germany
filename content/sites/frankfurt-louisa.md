@@ -3,7 +3,7 @@ title: "Frankfurt-Louisa"
 site_name: "Frankfurt-Louisa"
 date: 2026-01-26
 draft: false
-description: "railway station in Frankfurt, Germany"
+description: "Frankfurt-Louisa is a railway station located in the vibrant city of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

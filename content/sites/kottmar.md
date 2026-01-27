@@ -3,7 +3,7 @@ title: "Kottmar"
 site_name: "Kottmar"
 date: 2026-01-26
 draft: false
-description: "mountain in Saxony, Germany"
+description: "Kottmar is a striking mountain located in the Görlitz District of Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

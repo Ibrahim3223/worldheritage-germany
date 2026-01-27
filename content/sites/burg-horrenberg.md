@@ -3,7 +3,7 @@ title: "Burg Horrenberg"
 site_name: "Burg Horrenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Horrenberg is an intriguing castle located in the Dielheim region of Germany, a site that invites visitors to delve into the storied past of medieval..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

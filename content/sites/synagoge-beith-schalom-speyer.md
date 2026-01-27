@@ -3,7 +3,7 @@ title: "Synagoge Beith-Schalom (Speyer)"
 site_name: "Synagoge Beith-Schalom (Speyer)"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagoge Beith-Schalom in Speyer, Germany, is not merely a place of worship; it is a symbol of resilience and cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

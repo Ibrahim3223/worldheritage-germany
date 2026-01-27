@@ -3,7 +3,7 @@ title: "Brüskenheide"
 site_name: "Brüskenheide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Warendorf district, North Rhine-Westphalia, Germany"
+description: "Brüskenheide, located in the Warendorf district of North Rhine-Westphalia, Germany, is a designated nature reserve that exemplifies the region's commitment..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Stadtgeschichtliches Museum im Alten Gymnasium"
 site_name: "Stadtgeschichtliches Museum im Alten Gymnasium"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtgeschichtliches Museum im Alten Gymnasium stands as a significant cultural institution in Germany, dedicated to preserving and showcasing the rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

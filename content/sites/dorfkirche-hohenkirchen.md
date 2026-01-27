@@ -3,7 +3,7 @@ title: "Dorfkirche Hohenkirchen"
 site_name: "Dorfkirche Hohenkirchen"
 date: 2026-01-26
 draft: false
-description: "Evangelical Lutheran Church in Hohenkirchen"
+description: "Dorfkirche Hohenkirchen is an Evangelical Lutheran Church located in the picturesque village of Hohenkirchen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

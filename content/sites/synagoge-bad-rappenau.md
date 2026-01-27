@@ -3,7 +3,7 @@ title: "Synagoge Bad Rappenau"
 site_name: "Synagoge Bad Rappenau"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "In the heart of Bad Rappenau, Germany, the Synagoge Bad Rappenau stands as a significant representation of Jewish architectural heritage and community history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

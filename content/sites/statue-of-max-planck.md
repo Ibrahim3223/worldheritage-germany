@@ -3,7 +3,7 @@ title: "Statue of Max Planck"
 site_name: "Statue of Max Planck"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "In the bustling heart of Berlin, the Statue of Max Planck stands as a tribute to one of the most influential physicists of the 20th century."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

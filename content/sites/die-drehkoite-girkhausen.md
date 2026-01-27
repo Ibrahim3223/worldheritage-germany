@@ -3,7 +3,7 @@ title: "Die Drehkoite Girkhausen"
 site_name: "Die Drehkoite Girkhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Die Drehkoite Girkhausen is an intriguing museum located in Germany, offering visitors a unique perspective on local culture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

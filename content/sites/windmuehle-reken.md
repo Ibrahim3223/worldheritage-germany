@@ -3,7 +3,7 @@ title: "Windmühle Reken"
 site_name: "Windmühle Reken"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Windmühle Reken, located in the quaint town of Reken, Germany, is a museum dedicated to the preservation and celebration of traditional windmill heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

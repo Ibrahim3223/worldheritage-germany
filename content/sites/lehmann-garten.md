@@ -3,7 +3,7 @@ title: "Lehmann-Garten"
 site_name: "Lehmann-Garten"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Lehmann-Garten is a botanical garden located in Templin, Germany, serving as a vibrant sanctuary for plant lovers and nature enthusiasts alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Münzkabinett der TUI AG"
 site_name: "Münzkabinett der TUI AG"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Münzkabinett der TUI AG, located in Hanover, Germany, is a unique museum that showcases a fascinating collection of coins and medals."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

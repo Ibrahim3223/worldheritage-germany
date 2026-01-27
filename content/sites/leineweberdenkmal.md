@@ -3,7 +3,7 @@ title: "Leineweberdenkmal"
 site_name: "Leineweberdenkmal"
 date: 2026-01-26
 draft: false
-description: "memorial and fontain with statue in Bielefeld, Germany"
+description: "Located in the vibrant city of Bielefeld, Germany, the Leineweberdenkmal serves as both a memorial and a fountain, intricately linking the past with the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

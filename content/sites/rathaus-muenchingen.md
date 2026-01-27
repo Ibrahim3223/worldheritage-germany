@@ -3,7 +3,7 @@ title: "Rathaus Münchingen"
 site_name: "Rathaus Münchingen"
 date: 2026-01-26
 draft: false
-description: "Rathaus Münchingen (Korntal-Münchingen)"
+description: "Rathaus Münchingen, the City Hall of Korntal-Münchingen, serves as both a functional administrative building and a symbol of communal pride."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Osterkirche (Berlin)"
 site_name: "Osterkirche (Berlin)"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "The Osterkirche, an evocative church building in Berlin, serves as a significant landmark within the Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

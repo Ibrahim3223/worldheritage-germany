@@ -3,7 +3,7 @@ title: "Feldkapelle (Nassenbeuren)"
 site_name: "Feldkapelle (Nassenbeuren)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Feldkapelle in Nassenbeuren is a quaint chapel located in the Mindelheim region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

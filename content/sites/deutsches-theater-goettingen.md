@@ -3,7 +3,7 @@ title: "Deutsches Theater Göttingen"
 site_name: "Deutsches Theater Göttingen"
 date: 2026-01-26
 draft: false
-description: "theatre in Göttingen, Lower Saxony, Germany"
+description: "The Deutsches Theater Göttingen stands as a distinguished cultural landmark in the vibrant university town of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

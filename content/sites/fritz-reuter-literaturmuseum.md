@@ -3,7 +3,7 @@ title: "Fritz-Reuter-Literaturmuseum"
 site_name: "Fritz-Reuter-Literaturmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Stavenhagen"
+description: "The Fritz-Reuter-Literaturmuseum, located in the charming town of Stavenhagen, Germany, serves as a dedicated homage to one of the most celebrated authors..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

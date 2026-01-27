@@ -3,7 +3,7 @@ title: "Auflandeteich Groß Bülten-Adenstedt"
 site_name: "Auflandeteich Groß Bülten-Adenstedt"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Auflandeteich Groß Bülten-Adenstedt is a captivating nature reserve situated in the picturesque region of Ilsede, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

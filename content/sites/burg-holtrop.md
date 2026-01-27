@@ -3,7 +3,7 @@ title: "Burg Holtrop"
 site_name: "Burg Holtrop"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Holtrop is an impressive castle situated in the Bergheim region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

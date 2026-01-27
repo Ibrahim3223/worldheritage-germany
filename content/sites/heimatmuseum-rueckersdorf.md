@@ -3,7 +3,7 @@ title: "Heimatmuseum Rückersdorf"
 site_name: "Heimatmuseum Rückersdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Rückersdorf serves as a gateway to the cultural heritage of Germany, inviting visitors to explore the local history and traditions that shaped..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

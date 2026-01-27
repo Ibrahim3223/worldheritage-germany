@@ -3,7 +3,7 @@ title: "Museum Hofmühle Immenstadt"
 site_name: "Museum Hofmühle Immenstadt"
 date: 2026-01-26
 draft: false
-description: "museum in Immenstadt, Bavaria, Germany"
+description: "Museum Hofmühle Immenstadt offers a unique glimpse into the cultural landscape of Bavaria, Germany, situated within the charming town of Immenstadt im Allgäu."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Archäologischer Garten"
 site_name: "Archäologischer Garten"
 date: 2026-01-26
 draft: false
-description: "archaeological site in Innenstadt, Germany"
+description: "The Archäologischer Garten in Frankfurt is a unique archaeological site that offers a glimpse into the region's ancient past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

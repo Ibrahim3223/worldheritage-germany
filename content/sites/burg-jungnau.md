@@ -3,7 +3,7 @@ title: "Burg Jungnau"
 site_name: "Burg Jungnau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Jungnau is a captivating castle located in the serene region of Jungnau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

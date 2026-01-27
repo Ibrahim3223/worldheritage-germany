@@ -3,7 +3,7 @@ title: "Haus zur Münze"
 site_name: "Haus zur Münze"
 date: 2026-01-26
 draft: false
-description: "Town hall of the city of Worms"
+description: "Haus zur Münze, the city hall of Worms, Germany, stands as a central figure in the city's administrative landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

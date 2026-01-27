@@ -3,7 +3,7 @@ title: "Ravensberg Land"
 site_name: "Ravensberg Land"
 date: 2026-01-26
 draft: false
-description: "cultural landscape in the district of Ostwestfalen-Lippe, Germany"
+description: "Ravensberg Land, a remarkable cultural landscape located in the district of Ostwestfalen-Lippe in North Rhine-Westphalia, Germany, invites visitors to..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

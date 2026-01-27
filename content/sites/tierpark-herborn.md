@@ -3,7 +3,7 @@ title: "Tierpark Herborn"
 site_name: "Tierpark Herborn"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Tierpark Herborn is a charming zoo located in the picturesque town of Herborn, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

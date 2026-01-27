@@ -3,7 +3,7 @@ title: "Eichstätt Cathedral"
 site_name: "Eichstätt Cathedral"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "Eichstätt Cathedral, a prominent example of ecclesiastical architecture, serves as a vital center of worship and community in Eichstätt, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"

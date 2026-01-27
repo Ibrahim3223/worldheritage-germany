@@ -3,7 +3,7 @@ title: "Windmühle Westervesede"
 site_name: "Windmühle Westervesede"
 date: 2026-01-26
 draft: false
-description: "building in Scheeßel"
+description: "Windmühle Westervesede is a remarkable windmill situated in the quaint town of Scheeßel, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

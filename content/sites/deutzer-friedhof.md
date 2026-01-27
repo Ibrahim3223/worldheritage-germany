@@ -3,7 +3,7 @@ title: "Deutzer Friedhof"
 site_name: "Deutzer Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Poll, Germany"
+description: "Deutzer Friedhof, a cemetery located in the Poll district of Germany, offers a unique blend of tranquility and historical resonance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

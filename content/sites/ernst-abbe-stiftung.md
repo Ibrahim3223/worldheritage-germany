@@ -3,7 +3,7 @@ title: "Ernst-Abbe-Stiftung"
 site_name: "Ernst-Abbe-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation in Jena, Germany"
+description: "In the heart of Jena, Germany, the Ernst-Abbe-Stiftung embodies the spirit of philanthropy and education."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Foundation"

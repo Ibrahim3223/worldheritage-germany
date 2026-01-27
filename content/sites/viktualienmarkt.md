@@ -3,7 +3,7 @@ title: "Viktualienmarkt"
 site_name: "Viktualienmarkt"
 date: 2026-01-26
 draft: false
-description: "daily food market and a square in the center of Munich, Germany"
+description: "Viktualienmarkt is a bustling square in the heart of Munich, Germany, serving as a vibrant daily food market that showcases the region's culinary delights."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

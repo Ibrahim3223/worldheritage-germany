@@ -3,7 +3,7 @@ title: "Schulgarten Wegenerstraße 17 in München"
 site_name: "Schulgarten Wegenerstraße 17 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-7942 (1) in München, Bavaria"
+description: "Schulgarten Wegenerstraße 17 in München is a remarkable cultural heritage monument nestled in the heart of Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

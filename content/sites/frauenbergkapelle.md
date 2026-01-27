@@ -3,7 +3,7 @@ title: "Frauenbergkapelle"
 site_name: "Frauenbergkapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Frauenbergkapelle, a charming church building situated in the heart of Germany, offers visitors a unique glimpse into the architectural and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

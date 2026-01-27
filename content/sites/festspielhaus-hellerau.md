@@ -3,7 +3,7 @@ title: "Festspielhaus Hellerau"
 site_name: "Festspielhaus Hellerau"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Festspielhaus Hellerau, located in the vibrant city of Dresden, Germany, is an architectural marvel and cultural hotspot that has significantly shaped the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

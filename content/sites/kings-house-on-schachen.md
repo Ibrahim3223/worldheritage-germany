@@ -3,7 +3,7 @@ title: "King's House on Schachen"
 site_name: "King's House on Schachen"
 date: 2026-01-26
 draft: false
-description: "alpine chalet of Ludwig II of Bavaria, Germany"
+description: "King's House on Schachen, an alpine chalet in the Garmisch-Partenkirchen region of Germany, is a striking emblem of Bavarian architectural elegance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chalet"

@@ -3,7 +3,7 @@ title: "Zwirnsee"
 site_name: "Zwirnsee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburg-Vorpommern, Germany"
+description: "Zwirnsee, a picturesque lake located in the Mecklenburg-Vorpommern region of Germany, offers a serene escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

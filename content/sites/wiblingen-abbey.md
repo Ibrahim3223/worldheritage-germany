@@ -3,7 +3,7 @@ title: "Wiblingen Abbey"
 site_name: "Wiblingen Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Wiblingen Abbey, a striking monastery located in Wiblingen, Germany, invites visitors to immerse themselves in the serene atmosphere of its historical and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

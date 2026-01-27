@@ -3,7 +3,7 @@ title: "Zum Guten Hirten"
 site_name: "Zum Guten Hirten"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Situated in the tranquil region of Südbrookmerland, Germany, Zum Guten Hirten is a church building that serves as a significant landmark within the community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

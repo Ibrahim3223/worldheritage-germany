@@ -3,7 +3,7 @@ title: "Federsgarten"
 site_name: "Federsgarten"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-73 (0) in Coburg, Bavaria"
+description: "Federsgarten, located in the picturesque town of Coburg, Bavaria, is a remarkable cultural heritage monument that invites visitors to explore its lush..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "National"
 site_name: "National"
 date: 2026-01-26
 draft: false
-description: "former cinema in Lübeck"
+description: "The National movie theater, a former cinematic landmark in Lübeck, Germany, offers a glimpse into the rich cultural fabric of this historic city known for..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

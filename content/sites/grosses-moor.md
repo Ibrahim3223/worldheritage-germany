@@ -3,7 +3,7 @@ title: "Großes Moor"
 site_name: "Großes Moor"
 date: 2026-01-26
 draft: false
-description: "lake in the Rostock district in Mecklenburg-Vorpommern, Germany"
+description: "In the heart of Mecklenburg-Vorpommern, Germany, lies Großes Moor, a serene lake that offers a peaceful retreat and an opportunity to connect with nature."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Museum der Göttinger Chemie"
 site_name: "Museum der Göttinger Chemie"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum der Göttinger Chemie, located in the heart of Göttingen, Germany, is an intriguing destination for anyone fascinated by the world of chemistry..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

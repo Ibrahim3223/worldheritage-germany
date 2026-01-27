@@ -3,7 +3,7 @@ title: "Öhrenstein"
 site_name: "Öhrenstein"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Öhrenstein, a prominent mountain located in the Hochsauerlandkreis region of Germany, offers visitors a unique opportunity to experience the natural beauty..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

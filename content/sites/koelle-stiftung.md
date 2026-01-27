@@ -3,7 +3,7 @@ title: "Kölle-Stiftung"
 site_name: "Kölle-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation in Hannover, Germany"
+description: "Kölle-Stiftung, located in the heart of Hanover, Germany, represents an important cultural and philanthropic institution within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

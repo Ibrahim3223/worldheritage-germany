@@ -3,7 +3,7 @@ title: "Marienkirche (Woquard)"
 site_name: "Marienkirche (Woquard)"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Germany"
+description: "Marienkirche in Woquard, located in the picturesque region of Krummhörn in Germany, is a compelling destination for those interested in ecclesiastical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

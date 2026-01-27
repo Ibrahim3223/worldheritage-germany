@@ -3,7 +3,7 @@ title: "Library of the Evangelical Monastery of St. Augustine's in Erfurt"
 site_name: "Library of the Evangelical Monastery of St. Augustine's in Erfurt"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of the Evangelical Monastery of St. Augustine's in Erfurt stands as a significant institution within Germany's rich literary and religious heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Library"

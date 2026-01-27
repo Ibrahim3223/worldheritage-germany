@@ -3,7 +3,7 @@ title: "Burg Kinzweiler"
 site_name: "Burg Kinzweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kinzweiler, a captivating castle located in the heart of Eschweiler, Germany, invites visitors to explore its historical significance and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

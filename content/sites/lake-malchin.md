@@ -3,7 +3,7 @@ title: "Lake Malchin"
 site_name: "Lake Malchin"
 date: 2026-01-26
 draft: false
-description: "lake of Mecklenburg-Western Pomerania, Germany"
+description: "Lake Malchin, located in the picturesque region of Mecklenburg-Western Pomerania, Germany, is a captivating destination for nature enthusiasts and those..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

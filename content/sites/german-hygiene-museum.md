@@ -3,7 +3,7 @@ title: "German Hygiene Museum"
 site_name: "German Hygiene Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden"
+description: "The German Hygiene Museum, located in the heart of Dresden, offers a unique exploration of human health, hygiene, and the body—concepts that are as relevant..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hofsee"
 site_name: "Hofsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Hofsee, a serene lake located in the picturesque region of Kargow, Germany, offers a tranquil escape into nature's embrace."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

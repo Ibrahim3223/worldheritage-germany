@@ -3,7 +3,7 @@ title: "Deutsches Zweirad- und NSU-Museum"
 site_name: "Deutsches Zweirad- und NSU-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Neckarsulm, Germany, the Deutsches Zweirad- und NSU-Museum stands as a dedicated homage to the evolution of two-wheeled vehicles and the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

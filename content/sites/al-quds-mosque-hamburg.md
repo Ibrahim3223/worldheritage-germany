@@ -3,7 +3,7 @@ title: "Al-Quds Mosque Hamburg"
 site_name: "Al-Quds Mosque Hamburg"
 date: 2026-01-26
 draft: false
-description: "former mosque in Germany"
+description: "Al-Quds Mosque in Hamburg represents a significant chapter in the narrative of Islamic architecture and community in Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"

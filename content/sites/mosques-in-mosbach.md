@@ -3,7 +3,7 @@ title: "Mosques in Mosbach"
 site_name: "Mosques in Mosbach"
 date: 2026-01-26
 draft: false
-description: "mosque in Mosbach, Germany"
+description: "In the heart of Mosbach, Germany, lies a mosque that serves as a focal point for the local Muslim community and reflects the multicultural fabric of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

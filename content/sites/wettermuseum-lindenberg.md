@@ -3,7 +3,7 @@ title: "Wettermuseum Lindenberg"
 site_name: "Wettermuseum Lindenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wettermuseum Lindenberg, located in the municipality of Tauche, Germany, serves as an intriguing exploration into the realms of meteorology and climate..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

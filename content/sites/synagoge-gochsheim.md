@@ -3,7 +3,7 @@ title: "Synagoge (Gochsheim)"
 site_name: "Synagoge (Gochsheim)"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagoge in Gochsheim is a significant cultural landmark located in the charming region of Kraichtal, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Trias Museum an der Ochsenfurt"
 site_name: "Trias Museum an der Ochsenfurt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Trias Museum an der Ochsenfurt is a captivating destination for those interested in the geological and paleontological history of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

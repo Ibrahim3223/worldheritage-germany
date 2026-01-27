@@ -3,7 +3,7 @@ title: "Dorfkirche Marienfelde"
 site_name: "Dorfkirche Marienfelde"
 date: 2026-01-26
 draft: false
-description: "church building in Tempelhof-Schöneberg, Germany"
+description: "Dorfkirche Marienfelde, a striking church building located in the Tempelhof-Schöneberg district of Berlin, serves as a notable landmark within the community."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

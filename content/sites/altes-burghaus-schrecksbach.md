@@ -3,7 +3,7 @@ title: "Altes Burghaus Schrecksbach"
 site_name: "Altes Burghaus Schrecksbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Altes Burghaus Schrecksbach is a captivating castle located in the region of Schrecksbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Clemenskapelle"
 site_name: "Clemenskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Clemenskapelle is a charming chapel located in the historic town of Eisenach, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Chapel"

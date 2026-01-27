@@ -3,7 +3,7 @@ title: "Palais Marienstraße 24"
 site_name: "Palais Marienstraße 24"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "In the heart of Dresden, Saxony, lies the Palais Marienstraße 24, an architectural gem that speaks volumes of the city’s rich historical tapestry."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

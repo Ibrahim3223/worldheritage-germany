@@ -3,7 +3,7 @@ title: "Cölner Hofbräu Früh"
 site_name: "Cölner Hofbräu Früh"
 date: 2026-01-26
 draft: false
-description: "German beer brewery"
+description: "Cölner Hofbräu Früh is not merely a brewery; it is a cornerstone of German beer culture and a significant establishment within the vibrant city of Cologne."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"

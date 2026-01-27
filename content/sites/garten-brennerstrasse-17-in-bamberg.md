@@ -3,7 +3,7 @@ title: "Garten Brennerstraße 17 in Bamberg"
 site_name: "Garten Brennerstraße 17 in Bamberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-63 (14) in Bamberg, Bavaria"
+description: "In the heart of Bamberg, Germany, lies Garten Brennerstraße 17, a garden that serves as a cultural heritage monument symbolizing the region’s rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

@@ -3,7 +3,7 @@ title: "Philipp Reis Memorial"
 site_name: "Philipp Reis Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Frankfurt am Main, Germany"
+description: "The Philipp Reis Memorial, located in the heart of Frankfurt am Main, Germany, is a tribute to one of the pioneers of telecommunication and a significant..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

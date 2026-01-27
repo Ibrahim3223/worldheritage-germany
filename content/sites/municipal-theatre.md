@@ -3,7 +3,7 @@ title: "Municipal Theatre"
 site_name: "Municipal Theatre"
 date: 2026-01-26
 draft: false
-description: "former theatre in Bremen, Germany (2nd of that name, 1843-1944)"
+description: "The Municipal Theatre in Bremen, Germany, represents a notable chapter in the country's cultural heritage."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"

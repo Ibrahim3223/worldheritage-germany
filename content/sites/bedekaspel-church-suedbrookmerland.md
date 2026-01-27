@@ -3,7 +3,7 @@ title: "Bedekaspel Church (Südbrookmerland)"
 site_name: "Bedekaspel Church (Südbrookmerland)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bedekaspel Church, located in the picturesque region of Südbrookmerland, Germany, is a significant religious and cultural site that offers visitors a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "ufaFabrik"
 site_name: "ufaFabrik"
 date: 2026-01-26
 draft: false
-description: "cultural centre in a former film copying facility in Tempelhof, Berlin, Germany"
+description: "Located in the vibrant district of Tempelhof-Schöneberg in Berlin, ufaFabrik is a remarkable cultural center that has transformed a former film copying..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

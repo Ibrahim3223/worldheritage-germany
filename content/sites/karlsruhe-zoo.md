@@ -3,7 +3,7 @@ title: "Karlsruhe Zoo"
 site_name: "Karlsruhe Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Karlsruhe, Germany"
+description: "Karlsruhe Zoo, located in the heart of Karlsruhe, Germany, serves as a vibrant sanctuary for a myriad of animal species while providing an engaging and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

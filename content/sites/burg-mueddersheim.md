@@ -3,7 +3,7 @@ title: "Burg Müddersheim"
 site_name: "Burg Müddersheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Müddersheim is a notable castle situated in the picturesque region of Vettweiß, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

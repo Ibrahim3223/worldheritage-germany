@@ -3,7 +3,7 @@ title: "Johannes-Nepomuk-Kapelle"
 site_name: "Johannes-Nepomuk-Kapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Arnsberg"
+description: "Situated in the heart of Arnsberg, Germany, the Johannes-Nepomuk-Kapelle is a captivating chapel that draws both spiritual seekers and architecture..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

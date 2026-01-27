@@ -3,7 +3,7 @@ title: "Museum of Ancient Shipbuilding"
 site_name: "Museum of Ancient Shipbuilding"
 date: 2026-01-26
 draft: false
-description: "maritime museum in Mainz, Germany"
+description: "The Museum of Ancient Shipbuilding in Mainz, Germany, is a remarkable destination for maritime enthusiasts and history aficionados alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Neue Synagoge Bochum"
 site_name: "Neue Synagoge Bochum"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Neue Synagoge Bochum stands as a significant symbol of the Jewish community's historical and cultural presence in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

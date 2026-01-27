@@ -3,7 +3,7 @@ title: "Luise"
 site_name: "Luise"
 date: 2026-01-26
 draft: false
-description: "motor ship, now museum in Göhren, Germany"
+description: "The Luise, a captivating museum located in the charming Ostseebad Göhren, Germany, offers visitors a unique glimpse into maritime history."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

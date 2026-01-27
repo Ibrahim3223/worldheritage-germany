@@ -3,7 +3,7 @@ title: "Friedhofskapelle Düsseldorf-Gerresheim"
 site_name: "Friedhofskapelle Düsseldorf-Gerresheim"
 date: 2026-01-26
 draft: false
-description: "chapel in Düsseldorf, Germany"
+description: "In the heart of Düsseldorf lies the Friedhofskapelle Düsseldorf-Gerresheim, a chapel that serves as both a serene space for reflection and an architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

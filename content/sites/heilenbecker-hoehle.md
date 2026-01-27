@@ -3,7 +3,7 @@ title: "Heilenbecker Höhle"
 site_name: "Heilenbecker Höhle"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Heilenbecker Höhle, a captivating cave located in the Ennepetal region of Germany, invites exploration into its geological wonders and natural beauty."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"

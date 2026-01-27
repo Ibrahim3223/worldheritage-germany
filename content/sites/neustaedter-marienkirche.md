@@ -3,7 +3,7 @@ title: "Neustädter Marienkirche"
 site_name: "Neustädter Marienkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bielefeld, Germany"
+description: "The Neustädter Marienkirche, a striking church building located in Bielefeld, Germany, is a significant landmark that encapsulates the city's architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

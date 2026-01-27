@@ -3,7 +3,7 @@ title: "Lapmaster Wolters GmbH"
 site_name: "Lapmaster Wolters GmbH"
 date: 2026-01-26
 draft: false
-description: "German company"
+description: "Lapmaster Wolters GmbH, located in the heart of Rendsburg, Germany, represents a significant part of the industrial landscape in the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Factory"

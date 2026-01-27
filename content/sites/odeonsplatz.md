@@ -3,7 +3,7 @@ title: "Odeonsplatz"
 site_name: "Odeonsplatz"
 date: 2026-01-26
 draft: false
-description: "square in Munich, Germany"
+description: "Odeonsplatz, situated in the Maxvorstadt district of Munich, Germany, serves as a vibrant confluence of history, culture, and architectural grandeur."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

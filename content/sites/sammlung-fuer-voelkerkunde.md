@@ -3,7 +3,7 @@ title: "Sammlung für Völkerkunde"
 site_name: "Sammlung für Völkerkunde"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "Located in the vibrant university town of Göttingen, Germany, the Sammlung für Völkerkunde is a museum dedicated to ethnology and cultural anthropology."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

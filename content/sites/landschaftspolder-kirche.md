@@ -3,7 +3,7 @@ title: "Landschaftspolder Kirche"
 site_name: "Landschaftspolder Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bunde, Germany"
+description: "Landschaftspolder Kirche is a church building located in the quaint town of Bunde, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

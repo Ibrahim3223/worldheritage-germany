@@ -3,7 +3,7 @@ title: "German Museum of Technology"
 site_name: "German Museum of Technology"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The German Museum of Technology, located in Berlin's Friedrichshain-Kreuzberg district, offers an engaging exploration of Germany’s industrial and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

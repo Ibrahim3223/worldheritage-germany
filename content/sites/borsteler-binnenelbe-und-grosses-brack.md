@@ -3,7 +3,7 @@ title: "Borsteler Binnenelbe und Großes Brack"
 site_name: "Borsteler Binnenelbe und Großes Brack"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Borsteler Binnenelbe und Großes Brack, a distinguished nature reserve located in Lower Saxony, Germany, is a remarkable destination for nature enthusiasts..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

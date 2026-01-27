@@ -3,7 +3,7 @@ title: "Ore Mountain Museum"
 site_name: "Ore Mountain Museum"
 date: 2026-01-26
 draft: false
-description: "ore mountain museum"
+description: "The Ore Mountain Museum, located in the heart of Annaberg-Buchholz, Germany, serves as a focal point for understanding the region's rich mining heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

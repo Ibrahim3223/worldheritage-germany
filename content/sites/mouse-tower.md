@@ -3,7 +3,7 @@ title: "Mouse Tower"
 site_name: "Mouse Tower"
 date: 2026-01-26
 draft: false
-description: "tower on island in the Rhine, Bingen am Rhein, Germany"
+description: "The Mouse Tower, a historic structure located on an island in the Rhine River at Bingen am Rhein, Germany, captures the imagination with its storied past..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

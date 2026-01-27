@@ -3,7 +3,7 @@ title: "Hans Körnig Museum"
 site_name: "Hans Körnig Museum"
 date: 2026-01-26
 draft: false
-description: "former art museum for Hans Koernig"
+description: "The Hans Körnig Museum, located in the culturally rich city of Dresden, Germany, is a notable destination for art enthusiasts and history lovers alike."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

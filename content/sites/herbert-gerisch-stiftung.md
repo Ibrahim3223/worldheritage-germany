@@ -3,7 +3,7 @@ title: "Herbert-Gerisch-Stiftung"
 site_name: "Herbert-Gerisch-Stiftung"
 date: 2026-01-26
 draft: false
-description: "sculpture garden"
+description: "The Herbert-Gerisch-Stiftung in Neumünster, Germany, is a distinguished space dedicated to the appreciation of contemporary sculpture, blending art with the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

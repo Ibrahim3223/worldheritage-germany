@@ -3,7 +3,7 @@ title: "Sandelsches Museum"
 site_name: "Sandelsches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sandelsches Museum, located in the quaint town of Kirchberg an der Jagst in Germany, invites visitors to explore a rich narrative centered around the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

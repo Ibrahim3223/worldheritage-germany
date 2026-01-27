@@ -3,7 +3,7 @@ title: "Lonauer Wasserfall"
 site_name: "Lonauer Wasserfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Lonauer Wasserfall, located in Herzberg am Harz, Germany, offers visitors a captivating glimpse into the natural beauty that characterizes this region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

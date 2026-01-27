@@ -3,7 +3,7 @@ title: "St.Mary's church Bernau"
 site_name: "St.Mary's church Bernau"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "St. Mary’s Church in Bernau bei Berlin is a striking example of ecclesiastical architecture that invites visitors to explore its historical and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Wolfgangskapelle"
 site_name: "Wolfgangskapelle"
 date: 2026-01-26
 draft: false
-description: "building in Neudenau, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "Tucked away in the serene landscape of Neudenau, Germany, the Wolfgangskapelle is a captivating chapel that stands out for its architectural charm and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

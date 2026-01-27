@@ -3,7 +3,7 @@ title: "Zinnschützweiher"
 site_name: "Zinnschützweiher"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Zinnschützweiher, a serene lake located in Germany, offers a tranquil retreat for nature enthusiasts and those seeking a peaceful escape from the hustle and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

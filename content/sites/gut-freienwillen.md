@@ -3,7 +3,7 @@ title: "Gut Freienwillen"
 site_name: "Gut Freienwillen"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Freienwillen is a distinguished manor house located in Langballig, Germany. This elegant structure serves as a testament to the architectural and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

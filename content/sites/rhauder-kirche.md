@@ -3,7 +3,7 @@ title: "Rhauder Kirche"
 site_name: "Rhauder Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Rhauderfehn, Germany"
+description: "Rhauder Kirche, located in the quaint town of Rhauderfehn in Germany, is a remarkable example of religious architecture that captures the essence of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

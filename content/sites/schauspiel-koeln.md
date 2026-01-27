@@ -3,7 +3,7 @@ title: "Schauspiel Köln"
 site_name: "Schauspiel Köln"
 date: 2026-01-26
 draft: false
-description: "municipal drama theatre in Cologne, Germany"
+description: "Schauspiel Köln stands as a prominent cultural institution in the heart of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

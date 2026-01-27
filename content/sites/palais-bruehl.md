@@ -3,7 +3,7 @@ title: "Palais Brühl"
 site_name: "Palais Brühl"
 date: 2026-01-26
 draft: false
-description: "demolished building in Schießgasse 10, Dresden, Saxony, Germany"
+description: "Palais Brühl, once a notable palace in Dresden, Germany, is steeped in a rich history that reflects the grandeur of the Baroque era."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

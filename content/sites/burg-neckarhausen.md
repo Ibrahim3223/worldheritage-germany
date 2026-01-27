@@ -3,7 +3,7 @@ title: "Burg Neckarhausen"
 site_name: "Burg Neckarhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neckarhausen, a remarkable castle located in Horb am Neckar, Germany, serves as a striking reminder of the region's medieval heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

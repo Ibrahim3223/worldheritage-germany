@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Hauptstraße 4a (vor)"
 site_name: "Steindeckerbrücke Hauptstraße 4a (vor)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located at Hauptstraße 4a in Hochkirch, Germany, is not just a bridge; it is a significant structure that connects the past with the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

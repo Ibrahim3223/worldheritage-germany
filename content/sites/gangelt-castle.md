@@ -3,7 +3,7 @@ title: "Gangelt Castle"
 site_name: "Gangelt Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Gangelt Castle, a castle located in the charming region of Gangelt, Germany, invites visitors to explore its storied past and architectural grandeur."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

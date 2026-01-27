@@ -3,7 +3,7 @@ title: "Berg Brauerei"
 site_name: "Berg Brauerei"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Berg Brauerei, located in Germany, is a significant brewery that plays a pivotal role in the country's rich brewing tradition."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

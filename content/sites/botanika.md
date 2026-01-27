@@ -3,7 +3,7 @@ title: "Botanika"
 site_name: "Botanika"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "Botanika, a botanical garden located in Horn-Lehe, Germany, invites visitors into a world of plant diversity and ecological beauty."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Botanical Garden"

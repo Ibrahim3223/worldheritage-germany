@@ -3,7 +3,7 @@ title: "Pilsum Cross Church"
 site_name: "Pilsum Cross Church"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in der Krummhörn, Landkreis Aurich, Niedersachsen"
+description: "Pilsum Cross Church, or Pilsumer Kreuzkirche, is a significant church building located in the picturesque region of Krummhörn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

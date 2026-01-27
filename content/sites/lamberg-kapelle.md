@@ -3,7 +3,7 @@ title: "Lamberg-Kapelle"
 site_name: "Lamberg-Kapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Nestled within the historic region of Passau, Germany, the Lamberg-Kapelle is a chapel that invites reflection and appreciation for its serene ambiance and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

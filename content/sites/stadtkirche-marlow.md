@@ -3,7 +3,7 @@ title: "Stadtkirche Marlow"
 site_name: "Stadtkirche Marlow"
 date: 2026-01-26
 draft: false
-description: "church building in Marlow, Germany"
+description: "Stadtkirche Marlow, a prominent church building located in the picturesque town of Marlow, Germany, serves as a vital landmark for both residents and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

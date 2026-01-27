@@ -3,7 +3,7 @@ title: "Monument to the X-ray and Radium Martyrs of All Nations"
 site_name: "Monument to the X-ray and Radium Martyrs of All Nations"
 date: 2026-01-26
 draft: false
-description: "Monument in the garden of St George’s Hospital in Hamburg"
+description: "The Monument to the X-ray and Radium Martyrs of All Nations stands as a poignant reminder of the sacrifices made by the pioneers of radiation therapy."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Monument"

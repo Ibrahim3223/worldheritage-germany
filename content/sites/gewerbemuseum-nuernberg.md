@@ -3,7 +3,7 @@ title: "Gewerbemuseum Nürnberg"
 site_name: "Gewerbemuseum Nürnberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Gewerbemuseum Nürnberg, located in the historical city of Nuremberg, Germany, serves as a vital cultural institution dedicated to the exploration and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

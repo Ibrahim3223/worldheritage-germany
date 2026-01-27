@@ -3,7 +3,7 @@ title: "Burg Hardenberg"
 site_name: "Burg Hardenberg"
 date: 2026-01-26
 draft: false
-description: "castle in Velbert"
+description: "Burg Hardenberg, a captivating castle located in Velbert, Germany, is a historical landmark that invites visitors to explore its storied past and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

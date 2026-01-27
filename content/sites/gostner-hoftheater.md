@@ -3,7 +3,7 @@ title: "Gostner Hoftheater"
 site_name: "Gostner Hoftheater"
 date: 2026-01-26
 draft: false
-description: "theatre in Nuremberg, Germany"
+description: "The Gostner Hoftheater, a distinguished theatre building located in the heart of Nuremberg, Germany, is a cultural cornerstone that has long served as a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

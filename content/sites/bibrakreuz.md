@@ -3,7 +3,7 @@ title: "Bibrakreuz"
 site_name: "Bibrakreuz"
 date: 2026-01-26
 draft: false
-description: "monument in Thale, Germany"
+description: "Bibrakreuz is a notable monument located in Thale, Germany, steeped in cultural significance and history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

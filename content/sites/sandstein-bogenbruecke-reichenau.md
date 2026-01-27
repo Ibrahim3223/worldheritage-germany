@@ -3,7 +3,7 @@ title: "Sandstein-Bogenbrücke Reichenau"
 site_name: "Sandstein-Bogenbrücke Reichenau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Sandstein-Bogenbrücke Reichenau is an architectural marvel situated in the Hartmannsdorf-Reichenau region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

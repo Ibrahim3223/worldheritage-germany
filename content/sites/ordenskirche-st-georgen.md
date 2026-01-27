@@ -3,7 +3,7 @@ title: "Ordenskirche St. Georgen"
 site_name: "Ordenskirche St. Georgen"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "The Ordenskirche St. Georgen, located in the heart of Bayreuth, Germany, is an architectural and cultural landmark that invites visitors to explore its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

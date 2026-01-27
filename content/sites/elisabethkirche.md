@@ -3,7 +3,7 @@ title: "Elisabethkirche"
 site_name: "Elisabethkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Elisabethkirche is a notable church building located in the vibrant Eimsbüttel district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

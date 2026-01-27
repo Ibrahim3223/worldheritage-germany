@@ -3,7 +3,7 @@ title: "Hanskalbsand"
 site_name: "Hanskalbsand"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Hanskalbsand is an intriguing island located in the region of Jork, Germany. This relatively small landmass serves as a testament to the unique natural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

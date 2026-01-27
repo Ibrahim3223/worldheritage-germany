@@ -3,7 +3,7 @@ title: "Selkefall"
 site_name: "Selkefall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "Selkefall is a captivating waterfall located in the picturesque region of Harzgerode, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

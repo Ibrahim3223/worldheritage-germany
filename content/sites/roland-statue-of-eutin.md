@@ -3,7 +3,7 @@ title: "Roland statue of Eutin"
 site_name: "Roland statue of Eutin"
 date: 2026-01-26
 draft: false
-description: "statue in Eutin, Germany"
+description: "In the heart of Eutin, Germany, stands the Roland statue, a striking emblem of the town’s historical legacy and cultural identity."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Statue"

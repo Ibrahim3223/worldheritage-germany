@@ -3,7 +3,7 @@ title: "Internationale Spitzensammlung Nordhalben"
 site_name: "Internationale Spitzensammlung Nordhalben"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Internationale Spitzensammlung Nordhalben is a unique museum dedicated to the art of lace-making, located in Germany's scenic northern Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

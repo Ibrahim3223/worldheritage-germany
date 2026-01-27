@@ -3,7 +3,7 @@ title: "Seeweiher"
 site_name: "Seeweiher"
 date: 2026-01-26
 draft: false
-description: "lake in Hesse, Germany"
+description: "Seeweiher, a serene lake located in the Hesse region of Germany, offers visitors a tranquil retreat away from the hustle and bustle of urban life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Lake"

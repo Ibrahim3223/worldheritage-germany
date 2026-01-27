@@ -3,7 +3,7 @@ title: "Haus der Geschichten"
 site_name: "Haus der Geschichten"
 date: 2026-01-26
 draft: false
-description: "deutsche Organisation"
+description: "Haus der Geschichten in Marienheide, Germany, serves as an engaging museum dedicated to the exploration of stories and narratives that shape culture and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

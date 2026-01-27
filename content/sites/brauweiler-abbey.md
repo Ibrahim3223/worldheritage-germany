@@ -3,7 +3,7 @@ title: "Brauweiler Abbey"
 site_name: "Brauweiler Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine monastery"
+description: "Brauweiler Abbey, a former Benedictine monastery located in the town of Pulheim, Germany, offers a unique glimpse into the monastic life that has shaped..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

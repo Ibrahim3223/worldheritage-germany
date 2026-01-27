@@ -3,7 +3,7 @@ title: "Alt-Trauchburg Castle"
 site_name: "Alt-Trauchburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alt-Trauchburg Castle, located in the picturesque region of Weitnau, Germany, stands as an archaeological site that invites visitors to explore its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

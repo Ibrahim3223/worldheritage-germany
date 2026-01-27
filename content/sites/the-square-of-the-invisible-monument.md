@@ -3,7 +3,7 @@ title: "The Square Of The Invisible Monument"
 site_name: "The Square Of The Invisible Monument"
 date: 2026-01-26
 draft: false
-description: "public square in Saarbrücken, Germany"
+description: "The Square of the Invisible Monument, located in the heart of Saarbrücken, Germany, is a unique public square that invites visitors to contemplate and..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monument"

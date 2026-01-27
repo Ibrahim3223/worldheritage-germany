@@ -3,7 +3,7 @@ title: "Schwind-Pavillon, Rüdigsdorf"
 site_name: "Schwind-Pavillon, Rüdigsdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schwind-Pavillon in Rüdigsdorf, Germany, is a captivating museum that offers visitors a glimpse into the region's cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

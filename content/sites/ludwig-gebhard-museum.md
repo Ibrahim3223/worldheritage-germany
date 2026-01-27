@@ -3,7 +3,7 @@ title: "Ludwig Gebhard Museum"
 site_name: "Ludwig Gebhard Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ludwig Gebhard Museum, located in the quaint village of Tiefenbach, Germany, offers a unique insight into the cultural and historical narratives that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

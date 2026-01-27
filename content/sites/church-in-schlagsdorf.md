@@ -3,7 +3,7 @@ title: "Church in Schlagsdorf"
 site_name: "Church in Schlagsdorf"
 date: 2026-01-26
 draft: false
-description: "church in Schlagsdorf, Germany"
+description: "The Church in Schlagsdorf is a prominent religious structure located in the charming village of Schlagsdorf, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

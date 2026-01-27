@@ -3,7 +3,7 @@ title: "Laurentius Church"
 site_name: "Laurentius Church"
 date: 2026-01-26
 draft: false
-description: "church building in Dagebüll, Germany"
+description: "Laurentius Church, located in the charming village of Dagebüll, Germany, is a remarkable example of ecclesiastical architecture that reflects the rich..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

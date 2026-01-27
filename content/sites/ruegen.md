@@ -3,7 +3,7 @@ title: "Rügen"
 site_name: "Rügen"
 date: 2026-01-26
 draft: false
-description: "island in the Baltic Sea off the Pomeranian coast of Germany"
+description: "Rügen, Germany's largest island, is a striking destination located in the Baltic Sea, off the Pomeranian coast."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"

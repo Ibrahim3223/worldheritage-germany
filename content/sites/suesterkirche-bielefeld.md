@@ -3,7 +3,7 @@ title: "Süsterkirche (Bielefeld)"
 site_name: "Süsterkirche (Bielefeld)"
 date: 2026-01-26
 draft: false
-description: "church building in Bielefeld, Germany"
+description: "Süsterkirche, a striking church building located in the heart of Bielefeld, Germany, is a significant site that captures the essence of the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

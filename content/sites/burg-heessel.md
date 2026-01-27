@@ -3,7 +3,7 @@ title: "Burg Heeßel"
 site_name: "Burg Heeßel"
 date: 2026-01-26
 draft: false
-description: "former castle in Lower Saxony"
+description: "Burg Heeßel, an archaeological site located in the charming town of Burgdorf, Germany, offers a glimpse into the remnants of a former castle that once..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

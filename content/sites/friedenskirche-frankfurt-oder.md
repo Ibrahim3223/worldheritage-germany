@@ -3,7 +3,7 @@ title: "Friedenskirche Frankfurt (Oder)"
 site_name: "Friedenskirche Frankfurt (Oder)"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg, Germany"
+description: "Friedenskirche Frankfurt (Oder) is an intriguing church building located in Brandenburg, Germany, within the historic city of Frankfurt (Oder)."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

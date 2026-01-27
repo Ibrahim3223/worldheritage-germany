@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zwickauer Mulde Rochsbu
 site_name: "Muldentalbahn (Sachgesamtheit); Eisenbahnbrücke Zwickauer Mulde Rochsburg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn, particularly the Eisenbahnbrücke Zwickauer Mulde in Rochsburg, represents a significant chapter in the history of German engineering and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

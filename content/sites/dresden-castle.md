@@ -3,7 +3,7 @@ title: "Dresden Castle"
 site_name: "Dresden Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Dresden, Germany"
+description: "Dresden Castle, located in the heart of Dresden, Germany, is a remarkable palace that has stood through centuries of change, embodying the region’s evolving..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

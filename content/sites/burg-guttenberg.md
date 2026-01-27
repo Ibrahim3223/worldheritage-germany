@@ -3,7 +3,7 @@ title: "Burg Guttenberg"
 site_name: "Burg Guttenberg"
 date: 2026-01-26
 draft: false
-description: "castle in Baden-Württemberg, Germany"
+description: "Burg Guttenberg, a captivating castle located in Haßmersheim, Baden-Württemberg, Germany, offers a fascinating glimpse into the region's medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

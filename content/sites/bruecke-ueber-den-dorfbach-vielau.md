@@ -3,7 +3,7 @@ title: "Brücke über den Dorfbach Vielau"
 site_name: "Brücke über den Dorfbach Vielau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über den Dorfbach Vielau is not just a simple bridge; it is an intriguing piece of infrastructure that connects the past with the present in..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

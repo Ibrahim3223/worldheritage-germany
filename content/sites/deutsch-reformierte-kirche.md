@@ -3,7 +3,7 @@ title: "Deutsch Reformierte Kirche"
 site_name: "Deutsch Reformierte Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Deutsch Reformierte Kirche, located in the heart of Frankfurt, Germany, offers visitors a unique glimpse into the rich religious and cultural tapestry..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

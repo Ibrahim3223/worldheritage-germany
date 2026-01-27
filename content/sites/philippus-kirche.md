@@ -3,7 +3,7 @@ title: "Philippus-Kirche"
 site_name: "Philippus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "The Philippus-Kirche, a noteworthy church building located in the Tempelhof-Schöneberg district of Berlin, Germany, is an architectural and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

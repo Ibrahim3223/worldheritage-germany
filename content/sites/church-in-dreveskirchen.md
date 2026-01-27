@@ -3,7 +3,7 @@ title: "Church in Dreveskirchen"
 site_name: "Church in Dreveskirchen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Dreveskirchen, located in the quaint region of Blowatz, Germany, serves as a significant cultural and spiritual landmark."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

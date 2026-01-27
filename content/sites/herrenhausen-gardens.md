@@ -3,7 +3,7 @@ title: "Herrenhausen Gardens"
 site_name: "Herrenhausen Gardens"
 date: 2026-01-26
 draft: false
-description: "park in Hanover, Germany"
+description: "Herrenhausen Gardens, located in Hanover, Germany, is a premier botanical garden that offers visitors a serene and picturesque retreat amidst its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

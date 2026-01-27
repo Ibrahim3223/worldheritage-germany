@@ -3,7 +3,7 @@ title: "Rönn windmill"
 site_name: "Rönn windmill"
 date: 2026-01-26
 draft: false
-description: "windmill in Osterholz-Scharmbeck, Germany"
+description: "The Rönn windmill, located in Osterholz-Scharmbeck, Germany, is a fascinating example of traditional windmill architecture."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

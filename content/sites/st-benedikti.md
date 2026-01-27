@@ -3,7 +3,7 @@ title: "St. Benedikti"
 site_name: "St. Benedikti"
 date: 2026-01-26
 draft: false
-description: "church building in Quedlinburg, Saxony-Anhalt, Germany"
+description: "Located in the heart of Quedlinburg, Germany, St. Benedikti is a distinguished church building that offers visitors a glimpse into the architectural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

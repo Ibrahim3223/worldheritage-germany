@@ -3,7 +3,7 @@ title: "Sausenburg Castle"
 site_name: "Sausenburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Sausenburg Castle, an imposing structure situated in the scenic region of Kandern, Germany, is a remarkable site that invites visitors to explore its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

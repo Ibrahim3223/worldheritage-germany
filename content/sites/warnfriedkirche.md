@@ -3,7 +3,7 @@ title: "Warnfriedkirche"
 site_name: "Warnfriedkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Osteel, Germany, the Warnfriedkirche stands as an enduring symbol of the region's spiritual and architectural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

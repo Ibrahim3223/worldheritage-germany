@@ -3,7 +3,7 @@ title: "Maria Rosenkranz Church"
 site_name: "Maria Rosenkranz Church"
 date: 2026-01-26
 draft: false
-description: "Roman Catholic church in Frankfurt am Main-Seckbach, Germany (built in 1953)"
+description: "Maria Rosenkranz Church, a Roman Catholic church located in the Seckbach district of Frankfurt am Main, Germany, serves as a significant landmark within the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

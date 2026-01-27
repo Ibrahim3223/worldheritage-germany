@@ -3,7 +3,7 @@ title: "Saints Peter and Paul Church"
 site_name: "Saints Peter and Paul Church"
 date: 2026-01-26
 draft: false
-description: "church building in Dittenheim, Middle Franconia, Germany"
+description: "Saints Peter and Paul Church, located in the charming village of Dittenheim in Middle Franconia, Germany, is a remarkable example of ecclesiastical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

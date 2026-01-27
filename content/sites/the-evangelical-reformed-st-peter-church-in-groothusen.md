@@ -3,7 +3,7 @@ title: "The Evangelical Reformed St. Peter Church in Groothusen"
 site_name: "The Evangelical Reformed St. Peter Church in Groothusen"
 date: 2026-01-26
 draft: false
-description: "church building in Lower Saxony, Germany"
+description: "The Evangelical Reformed St. Peter Church in Groothusen is a remarkable church building located in the picturesque region of Krummhörn, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum for Communication Berlin"
 site_name: "Museum for Communication Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin"
+description: "The Museum for Communication Berlin is an engaging cultural institution that delves into the intricate world of communication, showcasing its evolution and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

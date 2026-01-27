@@ -3,7 +3,7 @@ title: "Wildpark Neuhaus"
 site_name: "Wildpark Neuhaus"
 date: 2026-01-26
 draft: false
-description: "Wildpark in Deutschland"
+description: "Wildpark Neuhaus, located in the picturesque Holzminden region of Germany, serves as a sanctuary for a variety of animal species and presents an engaging..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

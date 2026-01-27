@@ -3,7 +3,7 @@ title: "Brauerei-Museum Felsenkeller"
 site_name: "Brauerei-Museum Felsenkeller"
 date: 2026-01-26
 draft: false
-description: "former museum in Germany"
+description: "Located in the picturesque town of Monschau in Germany, the Brauerei-Museum Felsenkeller offers a unique glimpse into the brewing traditions of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

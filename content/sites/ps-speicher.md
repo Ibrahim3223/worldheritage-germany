@@ -3,7 +3,7 @@ title: "PS Speicher"
 site_name: "PS Speicher"
 date: 2026-01-26
 draft: false
-description: "museum in Einbeck, Germany"
+description: "PS Speicher is a remarkable museum located in the heart of Einbeck, Germany. This cultural institution offers visitors an immersive experience into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Kunstmuseen Krefeld"
 site_name: "Kunstmuseen Krefeld"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Krefeld, Germany, the Kunstmuseen Krefeld invites visitors to explore a remarkable collection of art that reflects both local and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

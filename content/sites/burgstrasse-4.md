@@ -3,7 +3,7 @@ title: "Burgstraße 4"
 site_name: "Burgstraße 4"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Burgstraße 4, located in the picturesque town of Runkel, Germany, serves as a notable example of a courthouse that embodies the architectural and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

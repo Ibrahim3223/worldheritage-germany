@@ -3,7 +3,7 @@ title: "Frankfurt-Mainkur"
 site_name: "Frankfurt-Mainkur"
 date: 2026-01-26
 draft: false
-description: "railway halt in Frankfurt, Germany"
+description: "Frankfurt-Mainkur is a railway halt situated in the bustling city of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

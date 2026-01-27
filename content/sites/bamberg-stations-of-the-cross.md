@@ -3,7 +3,7 @@ title: "Bamberg stations of the cross"
 site_name: "Bamberg stations of the cross"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-1159 (0) in Bamberg, Bavaria"
+description: "The Bamberg stations of the cross are an extraordinary architectural ensemble located in the heart of Bamberg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

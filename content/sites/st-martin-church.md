@@ -3,7 +3,7 @@ title: "St. Martin Church"
 site_name: "St. Martin Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Martin Church is a notable church building located in the Marzahn-Hellersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

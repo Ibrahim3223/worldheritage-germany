@@ -3,7 +3,7 @@ title: "St. Pauli in Braunschweig"
 site_name: "St. Pauli in Braunschweig"
 date: 2026-01-26
 draft: false
-description: "church building in Brunswick, Germany"
+description: "St. Pauli in Braunschweig is a notable church building that contributes to the rich ecclesiastical heritage of Brunswick, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

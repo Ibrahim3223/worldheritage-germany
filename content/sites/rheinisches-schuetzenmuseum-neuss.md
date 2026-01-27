@@ -3,7 +3,7 @@ title: "Rheinisches Schützenmuseum Neuss"
 site_name: "Rheinisches Schützenmuseum Neuss"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rheinisches Schützenmuseum Neuss, located in the heart of Neuss, Germany, serves as an intriguing gateway into the region's historical traditions of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

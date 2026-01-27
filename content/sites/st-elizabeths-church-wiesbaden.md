@@ -3,7 +3,7 @@ title: "St. Elizabeth's Church Wiesbaden"
 site_name: "St. Elizabeth's Church Wiesbaden"
 date: 2026-01-26
 draft: false
-description: "Russian Orthodox church"
+description: "St. Elizabeth's Church in Wiesbaden, Germany, is a distinguished example of Russian Orthodox architecture that serves as a cultural landmark in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

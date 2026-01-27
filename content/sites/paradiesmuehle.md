@@ -3,7 +3,7 @@ title: "Paradiesmühle"
 site_name: "Paradiesmühle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Paradiesmühle, located in the charming town of Lügde, Germany, serves as a captivating museum that invites visitors to explore the nuances of local heritage..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

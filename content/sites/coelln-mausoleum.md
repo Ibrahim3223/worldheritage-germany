@@ -3,7 +3,7 @@ title: "Cölln mausoleum"
 site_name: "Cölln mausoleum"
 date: 2026-01-26
 draft: false
-description: "mausoleum in Hannover, Germany"
+description: "The Cölln mausoleum stands as a poignant reminder of Hannover's historical landscape, offering visitors a glimpse into the city’s cultural and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

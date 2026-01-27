@@ -3,7 +3,7 @@ title: "Schwarzmiss"
 site_name: "Schwarzmiss"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Schwarzmiss is an intriguing mountain pass located in the scenic Baden-Württemberg region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

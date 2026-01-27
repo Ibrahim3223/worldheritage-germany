@@ -3,7 +3,7 @@ title: "Burg Naumburg"
 site_name: "Burg Naumburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Naumburg, a historic castle situated in the Bärenbach region of Germany, invites visitors to explore its storied past and architectural allure."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

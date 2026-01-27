@@ -3,7 +3,7 @@ title: "jewellery museum Pforzheim"
 site_name: "jewellery museum Pforzheim"
 date: 2026-01-26
 draft: false
-description: "German jewellery-museum"
+description: "The jewellery museum Pforzheim stands as a prominent cultural institution in Germany, dedicated to the art and history of jewellery design."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Hohenbrücker Windmühle"
 site_name: "Hohenbrücker Windmühle"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Brandenburg"
+description: "The Hohenbrücker Windmühle, a remarkable windmill located in the Märkische Heide region of Germany, stands as a fascinating example of traditional milling..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

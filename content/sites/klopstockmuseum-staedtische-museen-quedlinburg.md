@@ -3,7 +3,7 @@ title: "Klopstockmuseum (Städtische Museen Quedlinburg)"
 site_name: "Klopstockmuseum (Städtische Museen Quedlinburg)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Klopstockmuseum, located in the historic town of Quedlinburg, Germany, serves as a dedicated homage to the life and works of the notable poet Friedrich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

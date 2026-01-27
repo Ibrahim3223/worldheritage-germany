@@ -3,7 +3,7 @@ title: "Uber Arena"
 site_name: "Uber Arena"
 date: 2026-01-26
 draft: false
-description: "venue in Berlin"
+description: "Located in the vibrant heart of Berlin, Uber Arena serves as a dynamic multi-purpose venue that caters to a diverse array of events."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

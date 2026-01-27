@@ -3,7 +3,7 @@ title: "Kathedrale Maria Schutz und St. Andreas"
 site_name: "Kathedrale Maria Schutz und St. Andreas"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "The Kathedrale Maria Schutz und St. Andreas, located in the vibrant city of Munich, Germany, stands as an important religious and cultural landmark."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"

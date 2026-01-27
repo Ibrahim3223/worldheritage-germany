@@ -3,7 +3,7 @@ title: "Aukirche"
 site_name: "Aukirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Aukirche, a notable church building located in the Heilbronn region of Germany, is a captivating site for those interested in religious architecture and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

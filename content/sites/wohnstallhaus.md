@@ -3,7 +3,7 @@ title: "Wohnstallhaus"
 site_name: "Wohnstallhaus"
 date: 2026-01-26
 draft: false
-description: "Museum in Neudorf in Bayern"
+description: "The Wohnstallhaus, located in Neudorf, Bayern, Germany, serves as a captivating museum that showcases the region's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Sieben-Schmerzen-Madonna"
 site_name: "Sieben-Schmerzen-Madonna"
 date: 2026-01-26
 draft: false
-description: "Statue aus Sandstein in Ostbevern in Nordrhein-Westfalen"
+description: "In the quaint town of Ostbevern, Germany, you will find the Sieben-Schmerzen-Madonna, a striking sandstone statue that holds profound cultural and religious..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

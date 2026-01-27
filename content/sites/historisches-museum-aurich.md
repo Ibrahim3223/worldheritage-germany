@@ -3,7 +3,7 @@ title: "Historisches Museum Aurich"
 site_name: "Historisches Museum Aurich"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Historisches Museum Aurich, located in the heart of Aurich, Germany, serves as a gateway to the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Dämeritzsee"
 site_name: "Dämeritzsee"
 date: 2026-01-26
 draft: false
-description: "lake in Treptow-Köpenick, Brandenburg, Germany"
+description: "Dämeritzsee, a picturesque lake located in the Treptow-Köpenick district of Brandenburg, Germany, presents a serene escape for nature enthusiasts and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"

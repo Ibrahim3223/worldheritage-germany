@@ -3,7 +3,7 @@ title: "Lutherkirche (Bochum)"
 site_name: "Lutherkirche (Bochum)"
 date: 2026-01-26
 draft: false
-description: "church building in Bochum, Germany"
+description: "Lutherkirche in Bochum, Germany, stands as a significant religious and cultural landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

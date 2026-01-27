@@ -3,7 +3,7 @@ title: "Leuchtturm Ellerholzhöft"
 site_name: "Leuchtturm Ellerholzhöft"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Hamburg, Germany"
+description: "The Leuchtturm Ellerholzhöft, a lighthouse located in the heart of Hamburg, Germany, is a remarkable maritime structure that has guided seafarers safely..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

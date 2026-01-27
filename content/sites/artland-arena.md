@@ -3,7 +3,7 @@ title: "Artland-Arena"
 site_name: "Artland-Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall"
+description: "Artland-Arena, located in Quakenbrück, Germany, serves as a dynamic hub for various events, from sports to concerts, embodying the spirit of community and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

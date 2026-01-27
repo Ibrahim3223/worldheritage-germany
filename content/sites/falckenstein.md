@@ -3,7 +3,7 @@ title: "Falckenstein"
 site_name: "Falckenstein"
 date: 2026-01-26
 draft: false
-description: "Sandstrand, Campingplatz und Jugendlager an der Kieler Förde"
+description: "Falckenstein, a picturesque beach located along the scenic Kieler Förde in Germany, captivates visitors with its serene sandstrand and vibrant atmosphere."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Beach"

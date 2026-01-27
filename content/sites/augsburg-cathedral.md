@@ -3,7 +3,7 @@ title: "Augsburg Cathedral"
 site_name: "Augsburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral"
+description: "Augsburg Cathedral, a striking example of Gothic architecture, is not only a religious site but also a cornerstone of historical and cultural significance..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

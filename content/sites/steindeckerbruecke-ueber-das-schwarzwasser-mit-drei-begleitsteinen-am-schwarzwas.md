@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über das Schwarzwasser mit drei Begleitsteinen Am Sc
 site_name: "Steindeckerbrücke über das Schwarzwasser mit drei Begleitsteinen Am Schwarzwasser 24 (hinter)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über das Schwarzwasser, a bridge of notable significance in the Schmölln-Putzkau region of Germany, connects the historical and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

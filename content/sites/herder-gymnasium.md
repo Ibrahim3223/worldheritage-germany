@@ -3,7 +3,7 @@ title: "Herder-Gymnasium"
 site_name: "Herder-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school in Berlin"
+description: "Herder-Gymnasium, set within the vibrant district of Charlottenburg-Wilmersdorf in Berlin, is more than just an educational institution; it is a cornerstone..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

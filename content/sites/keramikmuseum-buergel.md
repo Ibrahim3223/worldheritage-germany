@@ -3,7 +3,7 @@ title: "Keramikmuseum Bürgel"
 site_name: "Keramikmuseum Bürgel"
 date: 2026-01-26
 draft: false
-description: "Museum for History of Pottery Producers in Bürgel"
+description: "Keramikmuseum Bürgel serves as a fascinating portal into the world of pottery production in Bürgel, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

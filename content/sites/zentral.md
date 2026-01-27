@@ -3,7 +3,7 @@ title: "Zentral"
 site_name: "Zentral"
 date: 2026-01-26
 draft: false
-description: "theatre and former cinema in Lübeck, Germany"
+description: "In the heart of Lübeck, Germany, the Zentral Theatre stands as a vibrant hub of culture and entertainment, merging the charm of a historic cinema with the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

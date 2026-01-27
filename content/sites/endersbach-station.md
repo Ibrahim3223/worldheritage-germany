@@ -3,7 +3,7 @@ title: "Endersbach station"
 site_name: "Endersbach station"
 date: 2026-01-26
 draft: false
-description: "railway station in Weinstadt, Germany"
+description: "Endersbach station, located in the charming town of Weinstadt, Germany, serves as a vital junction in the regional railway network."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

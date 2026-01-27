@@ -3,7 +3,7 @@ title: "Christophoruskirche, Schierstein"
 site_name: "Christophoruskirche, Schierstein"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christophoruskirche in Schierstein, Wiesbaden, is a church that captures the essence of community and spirituality in this quaint German town."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

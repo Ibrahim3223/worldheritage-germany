@@ -3,7 +3,7 @@ title: "Beverner Wald"
 site_name: "Beverner Wald"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Beverner Wald, a prominent nature reserve located in Bremervörde, Lower Saxony, Germany, invites visitors into a serene landscape rich in biodiversity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

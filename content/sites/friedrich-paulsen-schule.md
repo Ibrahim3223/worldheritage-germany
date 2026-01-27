@@ -3,7 +3,7 @@ title: "Friedrich-Paulsen-Schule"
 site_name: "Friedrich-Paulsen-Schule"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "The Friedrich-Paulsen-Schule is a notable educational institution situated in Niebüll, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "School Building"

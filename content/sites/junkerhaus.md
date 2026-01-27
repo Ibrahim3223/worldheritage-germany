@@ -3,7 +3,7 @@ title: "Junkerhaus"
 site_name: "Junkerhaus"
 date: 2026-01-26
 draft: false
-description: "house created by Karl Junker"
+description: "In the heart of Lemgo, Germany, the Junkerhaus serves as a captivating museum dedicated to the unique vision of artist Karl Junker."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

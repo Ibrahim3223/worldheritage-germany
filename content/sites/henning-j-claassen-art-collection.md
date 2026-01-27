@@ -3,7 +3,7 @@ title: "Henning J. Claassen art collection"
 site_name: "Henning J. Claassen art collection"
 date: 2026-01-26
 draft: false
-description: "museum of Modern Art in Lüneburg, Germany"
+description: "The Henning J. Claassen art collection is a distinguished modern art museum located in Lüneburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

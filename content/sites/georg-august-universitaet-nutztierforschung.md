@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Nutztierforschung"
 site_name: "Georg-August-Universität: Nutztierforschung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the historic city of Göttingen, Germany, the Georg-August-Universität: Nutztierforschung is a museum dedicated to the research of livestock and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

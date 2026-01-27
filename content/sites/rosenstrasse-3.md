@@ -3,7 +3,7 @@ title: "Rosenstraße 3"
 site_name: "Rosenstraße 3"
 date: 2026-01-26
 draft: false
-description: "house in Hirschfelde"
+description: "Rosenstraße 3, located in the town of Zittau, Germany, is a significant landmark that reflects the architectural and cultural heritage of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

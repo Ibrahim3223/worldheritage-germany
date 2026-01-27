@@ -3,7 +3,7 @@ title: "Altes Brauhaus (Kempten)"
 site_name: "Altes Brauhaus (Kempten)"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Gebäude in Kempten, Bayern"
+description: "Altes Brauhaus in Kempten, Germany, is a fascinating brewery that offers a glimpse into the region's rich brewing heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

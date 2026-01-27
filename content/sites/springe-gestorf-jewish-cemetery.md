@@ -3,7 +3,7 @@ title: "Springe-Gestorf Jewish Cemetery"
 site_name: "Springe-Gestorf Jewish Cemetery"
 date: 2026-01-26
 draft: false
-description: "Jewish cemetery in Gestorf near Springe, Germany"
+description: "The Springe-Gestorf Jewish Cemetery, located in Gestorf near Springe, Germany, is a poignant memorial that serves as a testament to the Jewish community..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

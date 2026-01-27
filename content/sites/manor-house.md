@@ -3,7 +3,7 @@ title: "Manor house"
 site_name: "Manor house"
 date: 2026-01-26
 draft: false
-description: "manor house in Eisenhammer an der Roth near Roth, Germany"
+description: "The Manor House in Eisenhammer an der Roth, located near Roth, Germany, serves as an intriguing portal into the region's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

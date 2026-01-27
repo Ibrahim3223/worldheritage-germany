@@ -3,7 +3,7 @@ title: "Tram Museum Kassel"
 site_name: "Tram Museum Kassel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Tram Museum Kassel invites visitors to explore the fascinating world of public transportation, focusing on the historical and cultural significance of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Villengarten Eichstätter Straße 19 in Weißenburg in Bayern"
 site_name: "Villengarten Eichstätter Straße 19 in Weißenburg in Bayern"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-77-177-129 (1) in Weißenburg in Bayern, Bavaria"
+description: "The Villengarten Eichstätter Straße 19 in Weißenburg in Bayern is a captivating garden that serves as a cultural heritage monument, reflecting the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

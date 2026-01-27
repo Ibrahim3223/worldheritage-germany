@@ -3,7 +3,7 @@ title: "Aquädukt"
 site_name: "Aquädukt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Gammelsbach, Hesse, Germany"
+description: "The Aquädukt in Gammelsbach, Hesse, Germany, stands as a remarkable cultural heritage monument, showcasing the ingenuity of ancient engineering."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Aqueduct"

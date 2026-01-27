@@ -3,7 +3,7 @@ title: "ShUM Sites of Speyer, Worms and Mainz"
 site_name: "ShUM Sites of Speyer, Worms and Mainz"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The ShUM Sites of Speyer, Worms, and Mainz form a significant architectural ensemble in Germany, recognized as a UNESCO World Heritage site."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

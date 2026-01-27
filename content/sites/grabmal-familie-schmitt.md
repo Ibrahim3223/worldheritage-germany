@@ -3,7 +3,7 @@ title: "Grabmal Familie Schmitt"
 site_name: "Grabmal Familie Schmitt"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Darmstadt"
+description: "The Grabmal Familie Schmitt, located in Darmstadt, Germany, is a significant cultural monument that reflects the area's historical and artistic heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"

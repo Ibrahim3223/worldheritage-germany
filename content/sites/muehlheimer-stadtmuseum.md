@@ -3,7 +3,7 @@ title: "Mühlheimer Stadtmuseum"
 site_name: "Mühlheimer Stadtmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mühlheimer Stadtmuseum serves as a portal to the cultural heritage of Mühlheim, Germany, inviting visitors to explore its historical narratives and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

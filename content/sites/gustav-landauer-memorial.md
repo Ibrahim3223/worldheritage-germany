@@ -3,7 +3,7 @@ title: "Gustav Landauer Memorial"
 site_name: "Gustav Landauer Memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Hadern, Germany"
+description: "The Gustav Landauer Memorial, located in Hadern, Germany, serves as a poignant reminder of the life and ideals of its namesake, a prominent figure in the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

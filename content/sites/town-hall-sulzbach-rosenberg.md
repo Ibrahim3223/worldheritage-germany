@@ -3,7 +3,7 @@ title: "Town hall Sulzbach-Rosenberg"
 site_name: "Town hall Sulzbach-Rosenberg"
 date: 2026-01-26
 draft: false
-description: "town hall in Sulzbach-Rosenberg, Upper Palatinate, Germany"
+description: "The Town Hall of Sulzbach-Rosenberg, situated in the picturesque region of Upper Palatinate in Germany, serves as an emblem of the town’s civic pride and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

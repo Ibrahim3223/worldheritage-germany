@@ -3,7 +3,7 @@ title: "Brentano-Haus"
 site_name: "Brentano-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Brentano-Haus is a museum located in Oestrich-Winkel, Germany, dedicated to preserving the legacy of the Brentano family and their contributions to German..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

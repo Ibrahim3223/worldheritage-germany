@@ -3,7 +3,7 @@ title: "St. Emmeram's Abbey"
 site_name: "St. Emmeram's Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Regensburg, Bavaria"
+description: "St. Emmeram's Abbey is a significant historical monastery located in Regensburg, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

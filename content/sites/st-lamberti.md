@@ -3,7 +3,7 @@ title: "St. Lamberti"
 site_name: "St. Lamberti"
 date: 2026-01-26
 draft: false
-description: "church in Münster, Germany"
+description: "St. Lamberti is a prominent church building located in the heart of Münster, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

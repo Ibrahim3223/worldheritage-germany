@@ -3,7 +3,7 @@ title: "Barkenkuhlen im Ipweger Moor"
 site_name: "Barkenkuhlen im Ipweger Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Barkenkuhlen im Ipweger Moor is a nature reserve located in the picturesque region of Rastede, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

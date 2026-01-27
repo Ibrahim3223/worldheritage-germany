@@ -3,7 +3,7 @@ title: "Alte Universität"
 site_name: "Alte Universität"
 date: 2026-01-26
 draft: false
-description: "timber framed house"
+description: "In the heart of Eppingen, Germany, the Alte Universität stands as a fascinating museum housed within a charming timber-framed building."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

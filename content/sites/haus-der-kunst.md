@@ -3,7 +3,7 @@ title: "Haus der Kunst"
 site_name: "Haus der Kunst"
 date: 2026-01-26
 draft: false
-description: "art museum in Munich, Germany"
+description: "Haus der Kunst is a renowned art museum located in Munich, Germany, dedicated to showcasing contemporary art and culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

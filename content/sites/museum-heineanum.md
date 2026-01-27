@@ -3,7 +3,7 @@ title: "Museum Heineanum"
 site_name: "Museum Heineanum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Heineanum serves as a fascinating cultural institution in Halberstadt, Germany, dedicated to the exploration and preservation of both natural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

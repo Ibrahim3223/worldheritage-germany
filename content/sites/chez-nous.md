@@ -3,7 +3,7 @@ title: "Chez Nous"
 site_name: "Chez Nous"
 date: 2026-01-26
 draft: false
-description: "theater in Germany"
+description: "Chez Nous is an intriguing theatre building located in the Charlottenburg-Wilmersdorf district of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

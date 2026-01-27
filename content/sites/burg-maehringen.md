@@ -3,7 +3,7 @@ title: "Burg Mähringen"
 site_name: "Burg Mähringen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mähringen, a striking castle located in the heart of Mähringen, Germany, offers travelers a unique glimpse into the architectural and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

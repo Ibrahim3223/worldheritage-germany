@@ -3,7 +3,7 @@ title: "Carlshütte"
 site_name: "Carlshütte"
 date: 2026-01-26
 draft: false
-description: "former company in Büdelsdorf, Germany"
+description: "Carlshütte, located in the town of Büdelsdorf, Germany, is a historic factory site that reflects the industrial heritage of the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Factory"

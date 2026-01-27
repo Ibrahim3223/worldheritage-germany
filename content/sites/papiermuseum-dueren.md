@@ -3,7 +3,7 @@ title: "Papiermuseum Düren"
 site_name: "Papiermuseum Düren"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Papiermuseum Düren, located in the heart of Düren, Germany, offers an intriguing look into the world of paper production and its historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

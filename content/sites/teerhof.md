@@ -3,7 +3,7 @@ title: "Teerhof"
 site_name: "Teerhof"
 date: 2026-01-26
 draft: false
-description: "peninsula opposite the city centre of Bremen, Germany"
+description: "Situated on a peninsula directly opposite the city center of Bremen, Teerhof is an archaeological site that offers a glimpse into the historical layers of..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Archaeological Site"

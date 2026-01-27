@@ -3,7 +3,7 @@ title: "Stiftung Friedehorst Bremen"
 site_name: "Stiftung Friedehorst Bremen"
 date: 2026-01-26
 draft: false
-description: "diakonische Stiftung des kirchlichen Rechts in Bremen-Lesum"
+description: "Stiftung Friedehorst Bremen is an influential foundation located in the picturesque district of Burglesum in Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Foundation"

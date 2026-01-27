@@ -3,7 +3,7 @@ title: "Stadtmuseum Oldenburg"
 site_name: "Stadtmuseum Oldenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Oldenburg, Germany, the Stadtmuseum Oldenburg serves as a cultural hub that encapsulates the rich heritage and evolving narrative of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

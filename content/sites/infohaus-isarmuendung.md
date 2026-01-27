@@ -3,7 +3,7 @@ title: "Infohaus Isarmündung"
 site_name: "Infohaus Isarmündung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Infohaus Isarmündung is a unique museum located in Moos, Germany, that offers visitors a glimpse into the region's rich cultural and environmental heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

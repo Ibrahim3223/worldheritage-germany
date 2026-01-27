@@ -3,7 +3,7 @@ title: "Mausoleum of the Opel family"
 site_name: "Mausoleum of the Opel family"
 date: 2026-01-26
 draft: false
-description: "Mausoleum in Rüsselsheim, Deutschland"
+description: "The Mausoleum of the Opel family in Rüsselsheim am Main, Germany, serves as a poignant monument to one of the region's most influential families."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mausoleum"

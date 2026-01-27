@@ -3,7 +3,7 @@ title: "Carl Philipp Emanuel Bach Museum"
 site_name: "Carl Philipp Emanuel Bach Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "The Carl Philipp Emanuel Bach Museum in Hamburg, Germany, is a sanctuary dedicated to one of the most influential composers of the Classical period."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

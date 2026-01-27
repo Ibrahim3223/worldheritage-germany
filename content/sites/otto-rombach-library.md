@@ -3,7 +3,7 @@ title: "Otto-Rombach-Library"
 site_name: "Otto-Rombach-Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Otto-Rombach Library, located in Bietigheim-Bissingen, Germany, serves as a cornerstone for the community's access to knowledge and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

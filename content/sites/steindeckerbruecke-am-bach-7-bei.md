@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Am Bach 7 (bei)"
 site_name: "Steindeckerbrücke Am Bach 7 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located in the charming region of Panschwitz-Kuckau, Germany, serves as both a functional roadway and a testament to the engineering..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

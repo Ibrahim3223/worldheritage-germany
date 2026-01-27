@@ -3,7 +3,7 @@ title: "The Socialists' Memorial"
 site_name: "The Socialists' Memorial"
 date: 2026-01-26
 draft: false
-description: "Memorial at Zentralfriedhof Friedrichsfelde"
+description: "The Socialists' Memorial, located within the expansive grounds of the Zentralfriedhof Friedrichsfelde in Lichtenberg, Germany, serves as a poignant reminder..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

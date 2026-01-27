@@ -3,7 +3,7 @@ title: "St. Nikolai (Hamburg-Harvestehude)"
 site_name: "St. Nikolai (Hamburg-Harvestehude)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Nikolai is a prominent church building located in the Eimsbüttel district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Feldhofhöhle"
 site_name: "Feldhofhöhle"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Feldhofhöhle, located in the picturesque region of Balve, Germany, is an intriguing cave that offers visitors a glimpse into the natural beauty and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"

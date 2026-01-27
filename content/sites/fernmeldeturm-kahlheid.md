@@ -3,7 +3,7 @@ title: "Fernmeldeturm Kahlheid"
 site_name: "Fernmeldeturm Kahlheid"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Kahlheid is a prominent telecommunications tower located in the picturesque Rhineland-Palatinate region of Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Tower"

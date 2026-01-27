@@ -3,7 +3,7 @@ title: "Textil- und Rennsportmuseum"
 site_name: "Textil- und Rennsportmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Hohenstein-Ernstthal, Germany"
+description: "The Textil- und Rennsportmuseum, located in Hohenstein-Ernstthal, Germany, serves as a compelling destination for those intrigued by the intertwining..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

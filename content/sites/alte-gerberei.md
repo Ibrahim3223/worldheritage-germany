@@ -3,7 +3,7 @@ title: "Alte Gerberei"
 site_name: "Alte Gerberei"
 date: 2026-01-26
 draft: false
-description: "Museum and Technical Monument in Ohrdruf, Thuringia, Germany"
+description: "Alte Gerberei, a museum and technical monument located in Ohrdruf, Thuringia, Germany, offers a fascinating glimpse into the region's industrial heritage."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

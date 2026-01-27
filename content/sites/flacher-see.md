@@ -3,7 +3,7 @@ title: "Flacher See"
 site_name: "Flacher See"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Flacher See, located in the picturesque Mecklenburgische Seenplatte District of Mecklenburg-Vorpommern, Germany, is a serene lake that invites visitors to..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

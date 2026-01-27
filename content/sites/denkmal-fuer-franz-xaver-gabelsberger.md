@@ -3,7 +3,7 @@ title: "Denkmal für Franz Xaver Gabelsberger"
 site_name: "Denkmal für Franz Xaver Gabelsberger"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Denkmal für Franz Xaver Gabelsberger, a striking memorial located in the heart of Munich, Germany, commemorates the contributions of Franz Xaver..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

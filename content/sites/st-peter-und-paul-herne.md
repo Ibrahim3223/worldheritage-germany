@@ -3,7 +3,7 @@ title: "St. Peter und Paul (Herne)"
 site_name: "St. Peter und Paul (Herne)"
 date: 2026-01-26
 draft: false
-description: "church building in Herne, Germany"
+description: "St. Peter und Paul Church in Herne, Germany, is a notable religious structure that encapsulates the cultural and spiritual ethos of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Dreieinigkeitskirche"
 site_name: "Dreieinigkeitskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Zeulenroda, Germany"
+description: "Dreieinigkeitskirche, located in the town of Zeulenroda-Triebes, Germany, is a prominent church building that captures the essence of local heritage and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

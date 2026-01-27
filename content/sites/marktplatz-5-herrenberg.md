@@ -3,7 +3,7 @@ title: "Marktplatz 5 (Herrenberg)"
 site_name: "Marktplatz 5 (Herrenberg)"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Herrenberg"
+description: "Marktplatz 5 in Herrenberg represents a pivotal point in the town’s civic life, serving as the home of the city hall."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

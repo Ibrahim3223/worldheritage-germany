@@ -3,7 +3,7 @@ title: "Breeser Grund"
 site_name: "Breeser Grund"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Breeser Grund, a serene nature reserve located in Lower Saxony, Germany, presents a unique opportunity for visitors to immerse themselves in the tranquil..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

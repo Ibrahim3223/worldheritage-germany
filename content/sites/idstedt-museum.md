@@ -3,7 +3,7 @@ title: "Idstedt Museum"
 site_name: "Idstedt Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the quaint village of Idstedt, Germany, the Idstedt Museum offers a unique opportunity to immerse oneself in local heritage and history."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

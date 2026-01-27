@@ -3,7 +3,7 @@ title: "Kirche Zarnekow"
 site_name: "Kirche Zarnekow"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Kirche Zarnekow is a striking church building located in the picturesque region of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Fahnenmonument in Halle"
 site_name: "Fahnenmonument in Halle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Fahnenmonument in Halle (Saale), Germany, is an architectural structure that stands as a notable landmark within the city."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Monument"

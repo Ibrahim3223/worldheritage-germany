@@ -3,7 +3,7 @@ title: "Emmauskirche (Mannheim)"
 site_name: "Emmauskirche (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Emmauskirche stands as a notable church building in Mannheim, Germany, reflecting the city's rich cultural and architectural landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

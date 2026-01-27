@@ -3,7 +3,7 @@ title: "Holy Spirit Church"
 site_name: "Holy Spirit Church"
 date: 2026-01-26
 draft: false
-description: "church building in Wacken, Schleswig-Holstein, Germany"
+description: "Holy Spirit Church, situated in the quaint village of Wacken in Schleswig-Holstein, Germany, is a remarkable example of a traditional church building that..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

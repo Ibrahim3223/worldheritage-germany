@@ -3,7 +3,7 @@ title: "Heimensteinhöhle"
 site_name: "Heimensteinhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Heimensteinhöhle, located in the picturesque Baden-Württemberg region of Germany, is a fascinating cave that invites exploration and curiosity."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

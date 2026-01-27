@@ -3,7 +3,7 @@ title: "Heimatmuseum Schliersee"
 site_name: "Heimatmuseum Schliersee"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Schliersee invites visitors to immerse themselves in the cultural heritage of Germany, offering an insightful glimpse into the local history..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

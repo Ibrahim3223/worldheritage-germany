@@ -3,7 +3,7 @@ title: "Frillensee (Grainau)"
 site_name: "Frillensee (Grainau)"
 date: 2026-01-26
 draft: false
-description: "lake of Bavaria"
+description: "Frillensee, located in the scenic region of Grainau, Germany, is a picturesque lake that captivates visitors with its serene environment and natural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

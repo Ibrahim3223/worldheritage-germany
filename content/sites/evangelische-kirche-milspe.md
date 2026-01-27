@@ -3,7 +3,7 @@ title: "Evangelische Kirche Milspe"
 site_name: "Evangelische Kirche Milspe"
 date: 2026-01-26
 draft: false
-description: "church building in Ennepetal, Germany"
+description: "Evangelische Kirche Milspe stands as a significant church building in the heart of Ennepetal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

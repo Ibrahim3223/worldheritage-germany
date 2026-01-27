@@ -3,7 +3,7 @@ title: "Library of Otto Schäfer"
 site_name: "Library of Otto Schäfer"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of Otto Schäfer, located in the charming city of Schweinfurt, Germany, is a significant cultural institution that invites visitors to explore..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

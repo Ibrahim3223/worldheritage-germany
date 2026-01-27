@@ -3,7 +3,7 @@ title: "Grafschaftsdenkmal"
 site_name: "Grafschaftsdenkmal"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Situated in the heart of Bielefeld, Germany, the Grafschaftsdenkmal is an architectural monument that embodies the region's historical and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

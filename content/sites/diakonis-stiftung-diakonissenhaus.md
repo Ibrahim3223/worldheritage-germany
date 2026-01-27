@@ -3,7 +3,7 @@ title: "Diakonis – Stiftung Diakonissenhaus"
 site_name: "Diakonis – Stiftung Diakonissenhaus"
 date: 2026-01-26
 draft: false
-description: "foundation in Detmold, Germany"
+description: "Diakonis – Stiftung Diakonissenhaus, located in Detmold, Germany, serves as a significant foundation intertwined with the region's cultural and social fabric."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

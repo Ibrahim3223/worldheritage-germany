@@ -3,7 +3,7 @@ title: "Hamburger Bahnhof"
 site_name: "Hamburger Bahnhof"
 date: 2026-01-26
 draft: false
-description: "museum of contemporary art located in a former railway station in Berlin-Moabit"
+description: "Hamburger Bahnhof, an art museum situated in a former railway station in Berlin-Moabit, is a dynamic venue that showcases contemporary art in a unique setting."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

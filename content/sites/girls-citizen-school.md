@@ -3,7 +3,7 @@ title: "Girls Citizen School"
 site_name: "Girls Citizen School"
 date: 2026-01-26
 draft: false
-description: "museum, former school"
+description: "The Girls Citizen School in Schleswig-Holstein, Germany, offers visitors a unique blend of educational heritage and cultural insight."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

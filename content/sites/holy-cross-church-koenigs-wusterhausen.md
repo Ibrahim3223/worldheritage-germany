@@ -3,7 +3,7 @@ title: "Holy-Cross church Königs Wusterhausen"
 site_name: "Holy-Cross church Königs Wusterhausen"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Holy-Cross Church in Königs Wusterhausen is a notable church building located in the Brandenburg state of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

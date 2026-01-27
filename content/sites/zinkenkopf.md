@@ -3,7 +3,7 @@ title: "Zinkenkopf"
 site_name: "Zinkenkopf"
 date: 2026-01-26
 draft: false
-description: "mountain in the Berchtesgaden Alps in Bavaria"
+description: "Zinkenkopf, a prominent mountain located in the picturesque Berchtesgaden Alps of Bavaria, Germany, invites adventurers and nature enthusiasts alike to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

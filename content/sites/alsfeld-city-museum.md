@@ -3,7 +3,7 @@ title: "Alsfeld City Museum"
 site_name: "Alsfeld City Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Alsfeld City Museum, located in the heart of Alsfeld, Germany, serves as a vital repository of local history and culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

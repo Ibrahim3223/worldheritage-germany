@@ -3,7 +3,7 @@ title: "Donaueschingen court library"
 site_name: "Donaueschingen court library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Donaueschingen Court Library, located in the enchanting town of Donaueschingen, Germany, offers a unique glimpse into a significant cultural institution..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

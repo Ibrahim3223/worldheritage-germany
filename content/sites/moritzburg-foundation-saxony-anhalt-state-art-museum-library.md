@@ -3,7 +3,7 @@ title: "Moritzburg Foundation, Saxony-Anhalt State Art Museum, library"
 site_name: "Moritzburg Foundation, Saxony-Anhalt State Art Museum, library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Moritzburg Foundation, known formally as the Saxony-Anhalt State Art Museum and library, is a significant cultural institution located in the city of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

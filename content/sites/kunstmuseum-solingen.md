@@ -3,7 +3,7 @@ title: "Kunstmuseum Solingen"
 site_name: "Kunstmuseum Solingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstmuseum Solingen is a prominent art museum located in Solingen, Germany, dedicated to showcasing a diverse collection of artworks."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

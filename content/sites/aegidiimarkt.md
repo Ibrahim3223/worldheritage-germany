@@ -3,7 +3,7 @@ title: "Aegidiimarkt"
 site_name: "Aegidiimarkt"
 date: 2026-01-26
 draft: false
-description: "Gebäudekomplex an der Aegidiistraße in Münster"
+description: "Aegidiimarkt is a captivating architectural ensemble located in the heart of Münster, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

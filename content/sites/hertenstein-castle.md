@@ -3,7 +3,7 @@ title: "Hertenstein Castle"
 site_name: "Hertenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hertenstein Castle, a remarkable structure located in the picturesque region of Blaufelden, Germany, captures the imagination of visitors with its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

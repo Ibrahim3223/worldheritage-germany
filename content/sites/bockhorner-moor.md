@@ -3,7 +3,7 @@ title: "Bockhorner Moor"
 site_name: "Bockhorner Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bockhorner Moor, a designated nature reserve located in Lower Saxony, Germany, encompasses a unique ecosystem that serves as a sanctuary for diverse flora..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

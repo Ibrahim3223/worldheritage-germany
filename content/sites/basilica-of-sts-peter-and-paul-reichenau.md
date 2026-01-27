@@ -3,7 +3,7 @@ title: "Basilica of Sts. Peter and Paul, Reichenau"
 site_name: "Basilica of Sts. Peter and Paul, Reichenau"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Basilica of Sts. Peter and Paul, located on the idyllic Reichenau Island in Germany, is a remarkable church building that encapsulates a significant..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

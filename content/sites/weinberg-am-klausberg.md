@@ -3,7 +3,7 @@ title: "Weinberg am Klausberg"
 site_name: "Weinberg am Klausberg"
 date: 2026-01-26
 draft: false
-description: "vinayard in Potsdam, Germany"
+description: "Weinberg am Klausberg, located in the historic city of Potsdam, Germany, is a remarkable vineyard that encapsulates the essence of local viticulture and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Vineyard"

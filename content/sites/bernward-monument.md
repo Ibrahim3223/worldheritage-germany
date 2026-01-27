@@ -3,7 +3,7 @@ title: "Bernward Monument"
 site_name: "Bernward Monument"
 date: 2026-01-26
 draft: false
-description: "statue in Hildesheim, Germany"
+description: "The Bernward Monument stands proudly in Hildesheim, Germany, serving as a poignant reminder of the city's medieval heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

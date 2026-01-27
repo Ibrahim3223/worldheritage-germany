@@ -3,7 +3,7 @@ title: "Schloss Brandenstein"
 site_name: "Schloss Brandenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Brandenstein, a distinguished manor house located in the picturesque region of Ranis, Germany, offers visitors a glimpse into the architectural..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Manor House"

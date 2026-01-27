@@ -3,7 +3,7 @@ title: "Church of the Holy Cross"
 site_name: "Church of the Holy Cross"
 date: 2026-01-26
 draft: false
-description: "church in Leverkusen, Germany"
+description: "The Church of the Holy Cross in Leverkusen, Germany, stands as an important religious and cultural landmark within the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

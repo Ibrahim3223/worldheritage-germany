@@ -3,7 +3,7 @@ title: "St. Marien (Plau am See)"
 site_name: "St. Marien (Plau am See)"
 date: 2026-01-26
 draft: false
-description: "church building in Plau am See, Mecklenburg-Vorpommern, Germany"
+description: "St. Marien in Plau am See stands as a significant cultural landmark in the tranquil region of Mecklenburg-Vorpommern, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

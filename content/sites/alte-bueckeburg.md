@@ -3,7 +3,7 @@ title: "Alte Bückeburg"
 site_name: "Alte Bückeburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Bückeburg is a captivating castle located in Lower Saxony, Germany. This historic site, with its impressive architecture and rich cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

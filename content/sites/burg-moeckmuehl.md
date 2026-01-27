@@ -3,7 +3,7 @@ title: "Burg Möckmühl"
 site_name: "Burg Möckmühl"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched within the verdant landscapes of Heilbronn, Burg Möckmühl is a striking castle that captures the imagination with its storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Adventkirche"
 site_name: "Adventkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Pankow, Germany"
+description: "Adventkirche, located in the Pankow district of Berlin, Germany, is a notable church building that reflects both the architectural and cultural influences..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

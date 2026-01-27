@@ -3,7 +3,7 @@ title: "Mondpalast"
 site_name: "Mondpalast"
 date: 2026-01-26
 draft: false
-description: "Volkstheater des Ruhrgebiets in Herne-Wanne"
+description: "Mondpalast is a vibrant theater building located in Herne, Germany, specifically in the district of Wanne."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Memorial Hailfingen-Tailfingen concentration camp"
 site_name: "Memorial Hailfingen-Tailfingen concentration camp"
 date: 2026-01-26
 draft: false
-description: "war memorial in Hailfingen, Germany"
+description: "In the quiet town of Tailfingen, Germany, the Memorial Hailfingen-Tailfingen concentration camp stands as a poignant reminder of the atrocities of war and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Rottenbuch Radio Tower"
 site_name: "Rottenbuch Radio Tower"
 date: 2026-01-26
 draft: false
-description: "wooden cellphone transmission tower in Germany"
+description: "The Rottenbuch Radio Tower, a striking wooden cellphone transmission tower located in the Peiting region of Germany, serves as an interesting intersection..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

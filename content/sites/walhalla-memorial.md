@@ -3,7 +3,7 @@ title: "Walhalla memorial"
 site_name: "Walhalla memorial"
 date: 2026-01-26
 draft: false
-description: "Memorial in Donaustauf, Bavaria"
+description: "Perched on a hillside overlooking the serene Danube River, the Walhalla Memorial in Donaustauf, Bavaria, is a site that pays homage to the significant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

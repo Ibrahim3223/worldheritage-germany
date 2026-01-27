@@ -3,7 +3,7 @@ title: "Bundesplatz"
 site_name: "Bundesplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Bundesplatz is a prominent square located in the heart of Berlin, Germany, within the Charlottenburg-Wilmersdorf district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

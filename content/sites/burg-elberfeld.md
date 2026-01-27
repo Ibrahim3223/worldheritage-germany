@@ -3,7 +3,7 @@ title: "Burg Elberfeld"
 site_name: "Burg Elberfeld"
 date: 2026-01-26
 draft: false
-description: "demolished castle in Wuppertal, Germany"
+description: "Burg Elberfeld, a historical archaeological site located in Wuppertal, Germany, offers a glimpse into the region's medieval past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Town hall in Zeitz"
 site_name: "Town hall in Zeitz"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Saxony-Anhalt: town hall in Zeitz, Germany"
+description: "The Town Hall in Zeitz is a striking cultural heritage monument located in the heart of Saxony-Anhalt, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

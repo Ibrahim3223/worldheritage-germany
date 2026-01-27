@@ -3,7 +3,7 @@ title: "Burg Neu-Dernbach"
 site_name: "Burg Neu-Dernbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neu-Dernbach is an intriguing castle located in the charming region of Bad Endbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

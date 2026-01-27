@@ -3,7 +3,7 @@ title: "Dr. Erich-Bloch and Lebenheim Library"
 site_name: "Dr. Erich-Bloch and Lebenheim Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Dr. Erich-Bloch and Lebenheim Library, located in the picturesque city of Constance, Germany, serves as a beacon of knowledge and culture within the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

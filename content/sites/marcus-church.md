@@ -3,7 +3,7 @@ title: "Marcus Church"
 site_name: "Marcus Church"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Lower Saxony, Germany"
+description: "In the heart of Hanover's Vahrenwald-List district lies the Marcus Church, a striking example of ecclesiastical architecture that invites both the faithful..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

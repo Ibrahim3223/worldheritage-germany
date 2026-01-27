@@ -3,7 +3,7 @@ title: "St. Oswald (Hörlbach)"
 site_name: "St. Oswald (Hörlbach)"
 date: 2026-01-26
 draft: false
-description: "church building in Ellingen, Middle Franconia, Germany"
+description: "St. Oswald (Hörlbach) is a remarkable church building located in the quaint town of Ellingen, situated in Middle Franconia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

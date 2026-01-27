@@ -3,7 +3,7 @@ title: "Burg Neuenriet"
 site_name: "Burg Neuenriet"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuenriet, a captivating castle located in Altenriet, Germany, invites visitors to explore its historical significance and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

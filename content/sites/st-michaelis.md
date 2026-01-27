@@ -3,7 +3,7 @@ title: "St. Michaelis"
 site_name: "St. Michaelis"
 date: 2026-01-26
 draft: false
-description: "church building in Mitte, Germany"
+description: "St. Michaelis, a prominent church building located in the heart of Mitte, Germany, is not only an architectural marvel but also a significant cultural landmark."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

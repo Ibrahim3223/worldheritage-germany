@@ -3,7 +3,7 @@ title: "Anklamer Tor"
 site_name: "Anklamer Tor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "The Anklamer Tor, a historic city gate located in the Friedland region of Germany, serves as a fascinating portal into the architectural and cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

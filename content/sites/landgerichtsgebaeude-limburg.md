@@ -3,7 +3,7 @@ title: "Landgerichtsgebäude Limburg"
 site_name: "Landgerichtsgebäude Limburg"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Landgerichtsgebäude Limburg, located in the heart of Germany, represents an essential piece of the country's legal and architectural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

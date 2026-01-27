@@ -3,7 +3,7 @@ title: "Saint Liudger Church"
 site_name: "Saint Liudger Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Saint Liudger Church, a distinguished church building located in Germany, serves as an important religious and cultural site."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

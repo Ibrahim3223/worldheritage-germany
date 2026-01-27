@@ -3,7 +3,7 @@ title: "Vocational School Burgstraße"
 site_name: "Vocational School Burgstraße"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Vocational School Burgstraße, located in the Hamburg-Mitte district, is a significant educational institution that showcases the architectural and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"

@@ -3,7 +3,7 @@ title: "Burg Hohenstein"
 site_name: "Burg Hohenstein"
 date: 2026-01-26
 draft: false
-description: "castle in Taunus"
+description: "Burg Hohenstein, a castle steeped in the history of Germany, offers a captivating glimpse into the architectural and cultural heritage of the Taunus region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

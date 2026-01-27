@@ -3,7 +3,7 @@ title: "Deutz Abbey"
 site_name: "Deutz Abbey"
 date: 2026-01-26
 draft: false
-description: "former monastery in Cologne, Germany"
+description: "Deutz Abbey, a former monastery located in the vibrant city of Cologne, Germany, offers visitors a unique glimpse into monastic life and the architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Agroneum"
 site_name: "Agroneum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Agroneum is a museum located in the serene landscape of Alt Schwerin, Germany. This establishment serves as a vibrant hub for those interested in the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

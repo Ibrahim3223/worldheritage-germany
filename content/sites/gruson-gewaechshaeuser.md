@@ -3,7 +3,7 @@ title: "Gruson-Gewächshäuser"
 site_name: "Gruson-Gewächshäuser"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Gruson-Gewächshäuser, located in the heart of Magdeburg, Germany, is an enchanting botanical garden that serves as a sanctuary for plant lovers and a haven..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

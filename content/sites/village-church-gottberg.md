@@ -3,7 +3,7 @@ title: "Village church Gottberg"
 site_name: "Village church Gottberg"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "Located in the charming region of Märkisch Linden, the Village Church Gottberg stands as a serene embodiment of the area's spiritual and architectural heritage."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

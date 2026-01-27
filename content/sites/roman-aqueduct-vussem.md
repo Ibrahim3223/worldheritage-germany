@@ -3,7 +3,7 @@ title: "Roman aqueduct Vussem"
 site_name: "Roman aqueduct Vussem"
 date: 2026-01-26
 draft: false
-description: "bridge"
+description: "The Roman aqueduct Vussem is a remarkable vestige of ancient engineering that stretches across the landscape of Mechernich, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Bridge"

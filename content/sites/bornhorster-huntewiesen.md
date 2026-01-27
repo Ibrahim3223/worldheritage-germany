@@ -3,7 +3,7 @@ title: "Bornhorster Huntewiesen"
 site_name: "Bornhorster Huntewiesen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "The Bornhorster Huntewiesen is a significant nature reserve located in Lower Saxony, Germany, near the town of Elsfleth."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

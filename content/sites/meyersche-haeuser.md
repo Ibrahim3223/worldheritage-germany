@@ -3,7 +3,7 @@ title: "Meyer'sche Häuser"
 site_name: "Meyer'sche Häuser"
 date: 2026-01-26
 draft: false
-description: "4 architectural ensembles in Leipzig, Saxony, Germany"
+description: "The Meyer'sche Häuser, an intriguing architectural ensemble located in Leipzig, Germany, offers a unique glimpse into the city's rich cultural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

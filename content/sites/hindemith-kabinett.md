@@ -3,7 +3,7 @@ title: "Hindemith Kabinett"
 site_name: "Hindemith Kabinett"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt am Main, Germany"
+description: "Hindemith Kabinett, located in the heart of Frankfurt am Main, Germany, serves as a dedicated museum celebrating the life and work of the renowned composer..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

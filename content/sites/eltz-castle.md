@@ -3,7 +3,7 @@ title: "Eltz Castle"
 site_name: "Eltz Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Germany"
+description: "Eltz Castle, an iconic structure located in Wierschem, Germany, is more than just a picturesque fortress; it is a museum that encapsulates centuries of..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Münchner Kaiserburg"
 site_name: "Münchner Kaiserburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Münchner Kaiserburg, an esteemed museum located in the heart of Munich, Germany, serves as a portal to the cultural and historical narratives of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

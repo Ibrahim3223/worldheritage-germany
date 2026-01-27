@@ -3,7 +3,7 @@ title: "Ballhaus Naunynstrasse"
 site_name: "Ballhaus Naunynstrasse"
 date: 2026-01-26
 draft: false
-description: "theatre in Kreuzberg, Berlin, Germany"
+description: "Ballhaus Naunynstrasse is an important cultural venue located in the vibrant Friedrichshain-Kreuzberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Cathedral of Trier"
 site_name: "Cathedral of Trier"
 date: 2026-01-26
 draft: false
-description: "Roman-Catholic cathedral in Trier, Germany"
+description: "The Cathedral of Trier, a Roman-Catholic house of worship, stands as a prominent fixture in the city of Trier, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

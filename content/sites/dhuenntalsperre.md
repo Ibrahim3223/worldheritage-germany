@@ -3,7 +3,7 @@ title: "Dhünntalsperre"
 site_name: "Dhünntalsperre"
 date: 2026-01-26
 draft: false
-description: "reservoir in Germany"
+description: "The Dhünntalsperre, an impressive dam located in Wermelskirchen, Germany, serves as both a critical water reservoir and a serene recreational area."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

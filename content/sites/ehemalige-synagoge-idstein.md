@@ -3,7 +3,7 @@ title: "Ehemalige Synagoge Idstein"
 site_name: "Ehemalige Synagoge Idstein"
 date: 2026-01-26
 draft: false
-description: "Fachwerkhaus in Idstein, ehemals Synagoge"
+description: "The Ehemalige Synagoge Idstein stands as a poignant symbol of the Jewish heritage in Germany, located in the charming town of Idstein."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

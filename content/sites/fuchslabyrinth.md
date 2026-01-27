@@ -3,7 +3,7 @@ title: "Fuchslabyrinth"
 site_name: "Fuchslabyrinth"
 date: 2026-01-26
 draft: false
-description: "Höhle in Deutschland"
+description: "Fuchslabyrinth, a captivating cave located in Landkreis Schwäbisch Hall, Germany, invites visitors to explore its intricate passages and unique geological..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Museum für Soziale Hygiene"
 site_name: "Museum für Soziale Hygiene"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Soziale Hygiene, located in the historic city of Nuremberg, Germany, serves as an essential institution dedicated to understanding social..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Askanian Gymnasium"
 site_name: "Askanian Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school in Berlin"
+description: "Askanian Gymnasium, located in the vibrant city of Berlin, Germany, is an educational institution that plays a vital role in the academic landscape of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

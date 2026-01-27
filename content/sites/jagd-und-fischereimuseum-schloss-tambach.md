@@ -3,7 +3,7 @@ title: "Jagd- und Fischereimuseum Schloss Tambach"
 site_name: "Jagd- und Fischereimuseum Schloss Tambach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Jagd- und Fischereimuseum Schloss Tambach is a museum dedicated to the rich tradition of hunting and fishing in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bülk Lighthouse"
 site_name: "Bülk Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Bülk Lighthouse, located in the scenic region of Rendsburg-Eckernförde, Germany, is an iconic maritime structure that has guided seafarers safely through..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Arkonaplatz"
 site_name: "Arkonaplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Berlin-Mitte, Germany"
+description: "Arkonaplatz is a public square located in the vibrant district of Berlin-Mitte, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

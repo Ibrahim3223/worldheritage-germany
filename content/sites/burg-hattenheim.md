@@ -3,7 +3,7 @@ title: "Burg Hattenheim"
 site_name: "Burg Hattenheim"
 date: 2026-01-26
 draft: false
-description: "Kulturdenkmal in Eltville, Hessen"
+description: "Burg Hattenheim, a remarkable castle located in the scenic region of Hattenheim, Germany, serves as an enduring symbol of the region's medieval heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

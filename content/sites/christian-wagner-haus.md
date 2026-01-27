@@ -3,7 +3,7 @@ title: "Christian-Wagner-Haus"
 site_name: "Christian-Wagner-Haus"
 date: 2026-01-26
 draft: false
-description: "Poets' Museum in Warmbronn near Leonberg, Germany"
+description: "The Christian-Wagner-Haus, located in Warmbronn near Leonberg, Germany, serves as a museum dedicated to the life and works of poets, providing an intimate..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

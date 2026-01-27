@@ -3,7 +3,7 @@ title: "Kinder- und Jugendmuseum München"
 site_name: "Kinder- und Jugendmuseum München"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kinder- und Jugendmuseum München, located in the vibrant Ludwigsvorstadt-Isarvorstadt district of Munich, is a unique establishment dedicated to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

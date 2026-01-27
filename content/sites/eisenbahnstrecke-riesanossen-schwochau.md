@@ -3,7 +3,7 @@ title: "Eisenbahnstrecke Riesa–Nossen Schwochau"
 site_name: "Eisenbahnstrecke Riesa–Nossen Schwochau"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnstrecke Riesa–Nossen Schwochau represents an intriguing chapter in Germany's railway history, particularly within the region of Lommatzsch."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

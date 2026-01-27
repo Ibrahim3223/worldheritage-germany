@@ -3,7 +3,7 @@ title: "Wilhelm-Raabe-Schule (Hannover)"
 site_name: "Wilhelm-Raabe-Schule (Hannover)"
 date: 2026-01-26
 draft: false
-description: "school in Hannover, Germany"
+description: "The Wilhelm-Raabe-Schule in Hannover, Germany, stands as a significant landmark in the realm of education and architecture within the Südstadt-Bult district."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

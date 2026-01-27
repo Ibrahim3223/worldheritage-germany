@@ -3,7 +3,7 @@ title: "Alt-Tannenburg"
 site_name: "Alt-Tannenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alt-Tannenburg, a castle steeped in the history of Nentershausen, Germany, offers visitors a glimpse into medieval architecture and the stories of the past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

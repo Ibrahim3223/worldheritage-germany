@@ -3,7 +3,7 @@ title: "Keppgrund"
 site_name: "Keppgrund"
 date: 2026-01-26
 draft: false
-description: "valley in Dresden, Germany"
+description: "Keppgrund, a picturesque valley located in the vibrant city of Dresden, Germany, offers visitors a unique blend of natural beauty and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"

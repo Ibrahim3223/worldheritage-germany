@@ -3,7 +3,7 @@ title: "Bergische Synagoge"
 site_name: "Bergische Synagoge"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Bergische Synagoge, located in Wuppertal, Germany, is an important place of worship and community heritage that reflects the Jewish presence in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

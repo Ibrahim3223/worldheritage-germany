@@ -3,7 +3,7 @@ title: "Burg Gerkendahl"
 site_name: "Burg Gerkendahl"
 date: 2026-01-26
 draft: false
-description: "castle in Iserlohn, Germany"
+description: "Burg Gerkendahl, a captivating castle located in Iserlohn, Germany, stands as a remarkable representation of medieval architecture and history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

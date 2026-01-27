@@ -3,7 +3,7 @@ title: "Grimme-Denkmal"
 site_name: "Grimme-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "The Grimme-Denkmal, an intriguing monument located in the serene region of Olsberg, Germany, invites visitors to reflect on the cultural narratives and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

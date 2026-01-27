@@ -3,7 +3,7 @@ title: "Rathaus Schrobenhausen"
 site_name: "Rathaus Schrobenhausen"
 date: 2026-01-26
 draft: false
-description: "town hall in Schrobenhausen, Upper Bavaria, Germany"
+description: "Rathaus Schrobenhausen, the town hall of Schrobenhausen in Upper Bavaria, Germany, serves as an architectural and cultural landmark that reflects the town's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

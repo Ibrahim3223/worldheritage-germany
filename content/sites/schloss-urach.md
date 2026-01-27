@@ -3,7 +3,7 @@ title: "Schloss Urach"
 site_name: "Schloss Urach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Schloss Urach is a striking castle located in Bad Urach, Germany, offering visitors a glimpse into the medieval past of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

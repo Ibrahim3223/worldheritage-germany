@@ -3,7 +3,7 @@ title: "Synagogue Freudental"
 site_name: "Synagogue Freudental"
 date: 2026-01-26
 draft: false
-description: "building in Freudental, Germany"
+description: "The Synagogue Freudental, located in the quaint town of Freudental, Germany, offers visitors a profound glimpse into the region's Jewish heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

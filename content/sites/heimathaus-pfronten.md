@@ -3,7 +3,7 @@ title: "Heimathaus Pfronten"
 site_name: "Heimathaus Pfronten"
 date: 2026-01-26
 draft: false
-description: "house in Pfronten, Germany"
+description: "Heimathaus Pfronten serves as a cultural hub in Pfronten, Germany, encapsulating the essence of the region's heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

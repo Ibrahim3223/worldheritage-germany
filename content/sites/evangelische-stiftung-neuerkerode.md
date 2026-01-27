@@ -3,7 +3,7 @@ title: "Evangelische Stiftung Neuerkerode"
 site_name: "Evangelische Stiftung Neuerkerode"
 date: 2026-01-26
 draft: false
-description: "social services provider in Niedersachsen, Germany"
+description: "Evangelische Stiftung Neuerkerode is a significant social services provider located in the quaint region of Niedersachsen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

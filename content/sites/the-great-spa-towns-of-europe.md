@@ -3,7 +3,7 @@ title: "The Great Spa Towns of Europe"
 site_name: "The Great Spa Towns of Europe"
 date: 2026-01-26
 draft: false
-description: "transnational UNESCO World Heritage site"
+description: "The Great Spa Towns of Europe represent a unique blend of health, leisure, and architectural beauty, reflecting centuries of cultural and social development."
 region: "Germany"
 country: "Germany"
 heritage_type: "Group Of Settlements"

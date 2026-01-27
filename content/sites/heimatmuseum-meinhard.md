@@ -3,7 +3,7 @@ title: "Heimatmuseum Meinhard"
 site_name: "Heimatmuseum Meinhard"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Meinhard serves as a captivating portal into the local culture and heritage of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

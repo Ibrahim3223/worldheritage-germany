@@ -3,7 +3,7 @@ title: "Fastnachtsmuseum Narrenburg"
 site_name: "Fastnachtsmuseum Narrenburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Fastnachtsmuseum Narrenburg in Hettingen, Germany, is a unique destination that invites visitors to delve into the vibrant cultural tradition of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

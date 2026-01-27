@@ -3,7 +3,7 @@ title: "Schlosspark Ellingen"
 site_name: "Schlosspark Ellingen"
 date: 2026-01-26
 draft: false
-description: "park in Ellingen, Germany"
+description: "Schlosspark Ellingen is a captivating public park located in the charming town of Ellingen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Park"

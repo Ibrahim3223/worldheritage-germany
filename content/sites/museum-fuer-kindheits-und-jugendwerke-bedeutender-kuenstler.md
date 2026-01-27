@@ -3,7 +3,7 @@ title: "Museum für Kindheits- und Jugendwerke bedeutender Künstler"
 site_name: "Museum für Kindheits- und Jugendwerke bedeutender Künstler"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Kindheits- und Jugendwerke bedeutender Künstler is a unique cultural establishment located in Halle, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

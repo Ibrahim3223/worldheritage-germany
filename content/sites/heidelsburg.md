@@ -3,7 +3,7 @@ title: "Heidelsburg"
 site_name: "Heidelsburg"
 date: 2026-01-26
 draft: false
-description: "former castle in Germany"
+description: "Heidelsburg, a former castle located in Germany, captivates visitors with its storied past and architectural grandeur."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

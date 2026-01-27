@@ -3,7 +3,7 @@ title: "Battenbergturm"
 site_name: "Battenbergturm"
 date: 2026-01-26
 draft: false
-description: "tower in Germany"
+description: "Battenbergturm, a striking tower located in Rees, Germany, serves as a poignant reminder of the region’s architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

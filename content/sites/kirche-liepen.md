@@ -3,7 +3,7 @@ title: "Kirche Liepen"
 site_name: "Kirche Liepen"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Kirche Liepen stands as a remarkable example of ecclesiastical architecture in the Mecklenburg-Vorpommern region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

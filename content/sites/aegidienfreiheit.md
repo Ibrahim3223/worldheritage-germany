@@ -3,7 +3,7 @@ title: "Aegidienfreiheit"
 site_name: "Aegidienfreiheit"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Aegidienfreiheit is an intriguing old town located in Brunswick, Germany, characterized by its unique blend of historical architecture and vibrant community..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Old Town"

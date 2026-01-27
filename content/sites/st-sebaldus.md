@@ -3,7 +3,7 @@ title: "St. Sebaldus"
 site_name: "St. Sebaldus"
 date: 2026-01-26
 draft: false
-description: "church building in Nuremberg, Germany"
+description: "St. Sebaldus Church, a prominent church building located in Nuremberg, Germany, is an architectural marvel that stands as a significant landmark within the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

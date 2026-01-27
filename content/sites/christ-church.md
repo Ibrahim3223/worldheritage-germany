@@ -3,7 +3,7 @@ title: "Christ Church"
 site_name: "Christ Church"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Oberbilk, Germany"
+description: "Christ Church in Düsseldorf-Oberbilk is a remarkable church building that serves as both a spiritual sanctuary and a cultural landmark in the heart of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Burg Rolandseck"
 site_name: "Burg Rolandseck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Rising from the banks of the Rhine in Rolandswerth, Burg Rolandseck commands attention with its storied presence."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

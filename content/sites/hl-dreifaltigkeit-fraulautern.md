@@ -3,7 +3,7 @@ title: "Hl. Dreifaltigkeit (Fraulautern)"
 site_name: "Hl. Dreifaltigkeit (Fraulautern)"
 date: 2026-01-26
 draft: false
-description: "church building in Saarlouis, Germany"
+description: "The Hl. Dreifaltigkeit, or Holy Trinity Church, located in the Saarlouis region of Germany, is a significant church building that captures the essence of..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

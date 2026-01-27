@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kirche"
 site_name: "Herz-Jesu-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Münster, Germany"
+description: "Herz-Jesu-Kirche, located in the vibrant city of Münster, Germany, is a remarkable church building that embodies both the spiritual and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

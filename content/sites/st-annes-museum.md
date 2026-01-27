@@ -3,7 +3,7 @@ title: "St. Anne's Museum"
 site_name: "St. Anne's Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Lübeck, Germany"
+description: "St. Anne's Museum, located in the historic Old City of Lübeck, Germany, serves as a compelling venue for art enthusiasts and history aficionados alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

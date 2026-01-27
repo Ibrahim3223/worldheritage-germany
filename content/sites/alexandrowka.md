@@ -3,7 +3,7 @@ title: "Alexandrowka"
 site_name: "Alexandrowka"
 date: 2026-01-26
 draft: false
-description: "Russian architectural ensemble in Potsdam, Germany"
+description: "Located in the picturesque city of Potsdam, Germany, Alexandrowka is an intriguing architectural ensemble that reflects a unique blend of Russian and German..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

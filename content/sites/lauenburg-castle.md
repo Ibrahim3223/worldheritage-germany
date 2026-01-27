@@ -3,7 +3,7 @@ title: "Lauenburg Castle"
 site_name: "Lauenburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Lauenburg Castle, a remarkable castle located in Thale, Germany, offers visitors a glimpse into the architectural prowess and historical significance of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

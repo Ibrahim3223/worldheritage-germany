@@ -3,7 +3,7 @@ title: "Upper Church St. Nikolai"
 site_name: "Upper Church St. Nikolai"
 date: 2026-01-26
 draft: false
-description: "church building in Cottbus, Germany"
+description: "Upper Church St. Nikolai is a remarkable church building located in the vibrant city of Cottbus, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

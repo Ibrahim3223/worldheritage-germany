@@ -3,7 +3,7 @@ title: "Von der Heydt Museum"
 site_name: "Von der Heydt Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Wuppertal, Germany"
+description: "The Von der Heydt Museum, located in the vibrant district of Elberfeld in Wuppertal, Germany, serves as a prominent art museum that captivates visitors with..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

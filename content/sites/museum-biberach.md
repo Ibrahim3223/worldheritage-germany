@@ -3,7 +3,7 @@ title: "Museum Biberach"
 site_name: "Museum Biberach"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Museum Biberach, located in the charming town of Biberach an der Riss, Germany, serves as a cultural hub that showcases the region's historical and artistic..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

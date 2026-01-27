@@ -3,7 +3,7 @@ title: "Sylt"
 site_name: "Sylt"
 date: 2026-01-26
 draft: false
-description: "German island in the North Sea"
+description: "Located in the North Sea, Sylt is Germany's largest island and a prominent destination in the Nordfriesland district."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"

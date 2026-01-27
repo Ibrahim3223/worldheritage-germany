@@ -3,7 +3,7 @@ title: "Protestant church Nünschweiler"
 site_name: "Protestant church Nünschweiler"
 date: 2026-01-26
 draft: false
-description: "Protestant church of Nünschweiler"
+description: "In the heart of Germany's Nünschweiler region stands the Protestant church, a structure that captures the essence of local heritage and spiritual life."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Alte Brennerei Schwake"
 site_name: "Alte Brennerei Schwake"
 date: 2026-01-26
 draft: false
-description: "arts centre and cinema in Ennigerloh, Germany, a former destillery"
+description: "Alte Brennerei Schwake is an architectural ensemble located in Ennigerloh, Germany, that has transformed from its historical roots as a distillery into a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

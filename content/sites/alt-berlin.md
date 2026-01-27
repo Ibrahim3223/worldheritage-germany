@@ -3,7 +3,7 @@ title: "Alt-Berlin"
 site_name: "Alt-Berlin"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Alt-Berlin, located in the Bezirk Mitte of Berlin, Germany, is a captivating old town that serves as a reminder of the city’s rich history and cultural..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Old Town"

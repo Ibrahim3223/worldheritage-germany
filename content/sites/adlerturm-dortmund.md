@@ -3,7 +3,7 @@ title: "Adlerturm Dortmund"
 site_name: "Adlerturm Dortmund"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Adlerturm Dortmund, a prominent tower located in the heart of Germany's Dortmund, serves as a striking reminder of the city's storied past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

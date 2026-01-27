@@ -3,7 +3,7 @@ title: "Hinterlandmuseum Biedenkopf Castle"
 site_name: "Hinterlandmuseum Biedenkopf Castle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hinterlandmuseum Biedenkopf Castle is an intriguing museum located in the historic town of Biedenkopf, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Uhrenmuseum in Putbus"
 site_name: "Uhrenmuseum in Putbus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Uhrenmuseum in Putbus stands as a unique cultural institution dedicated to the art and history of clockmaking."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

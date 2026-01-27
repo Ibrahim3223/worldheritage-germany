@@ -3,7 +3,7 @@ title: "Uhrenmuseum Bad Grund"
 site_name: "Uhrenmuseum Bad Grund"
 date: 2026-01-26
 draft: false
-description: "clock museum"
+description: "In the heart of Bad Grund, Germany, the Uhrenmuseum offers a fascinating glimpse into the intricate world of timekeeping."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

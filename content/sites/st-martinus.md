@@ -3,7 +3,7 @@ title: "St. Martinus"
 site_name: "St. Martinus"
 date: 2026-01-26
 draft: false
-description: "church building in Qualburg, Bedburg-Hau, North Rhine-Westphalia, Germany"
+description: "St. Martinus Church, located in the quaint village of Qualburg in Bedburg-Hau, North Rhine-Westphalia, Germany, serves as a striking example of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

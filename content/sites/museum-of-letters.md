@@ -3,7 +3,7 @@ title: "Museum of Letters"
 site_name: "Museum of Letters"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The Museum of Letters in Berlin presents an intriguing exploration of the world of written communication, showcasing the evolution of letters, scripts, and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

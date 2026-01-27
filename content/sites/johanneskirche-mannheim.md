@@ -3,7 +3,7 @@ title: "Johanneskirche (Mannheim)"
 site_name: "Johanneskirche (Mannheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Mannheim, Electorate of Baden, Germany"
+description: "Johanneskirche, an architectural landmark in Mannheim, Germany, offers a remarkable glimpse into the city's rich cultural and religious heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Fernmeldeturm Beckum"
 site_name: "Fernmeldeturm Beckum"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Beckum is an intriguing tower located in the town of Beckum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Lindenbrauerei"
 site_name: "Lindenbrauerei"
 date: 2026-01-26
 draft: false
-description: "Braustätte in Unna"
+description: "Lindenbrauerei, located in the heart of Unna, Germany, is more than just a brewery; it represents a significant aspect of the region's cultural and social..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

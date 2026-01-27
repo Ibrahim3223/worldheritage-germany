@@ -3,7 +3,7 @@ title: "Noor ud Din Mosque"
 site_name: "Noor ud Din Mosque"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Noor ud Din Mosque, located in Darmstadt, Germany, is an architectural structure that reflects the rich cultural tapestry of Islamic heritage in Europe."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

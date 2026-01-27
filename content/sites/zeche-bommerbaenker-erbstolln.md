@@ -3,7 +3,7 @@ title: "Zeche Bommerbänker Erbstolln"
 site_name: "Zeche Bommerbänker Erbstolln"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bommerbänker Erbstolln is a significant site located in Witten, Germany, that reflects the region's rich industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

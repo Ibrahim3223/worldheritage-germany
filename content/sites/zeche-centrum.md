@@ -3,7 +3,7 @@ title: "Zeche Centrum"
 site_name: "Zeche Centrum"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Centrum, located in Bochum, Germany, represents a significant chapter in the narrative of the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

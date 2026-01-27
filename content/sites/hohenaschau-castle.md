@@ -3,7 +3,7 @@ title: "Hohenaschau Castle"
 site_name: "Hohenaschau Castle"
 date: 2026-01-26
 draft: false
-description: "palace in Bavaria, Germany"
+description: "Hohenaschau Castle, a striking palace in Bavaria, Germany, captivates visitors with its rich history and impressive architecture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Beatlemania Hamburg"
 site_name: "Beatlemania Hamburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Beatlemania Hamburg captures the essence of a vibrant chapter in music history, serving as a dedicated museum to one of the world’s most iconic bands: The..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "St. Mary`s church (Prenzlau)"
 site_name: "St. Mary`s church (Prenzlau)"
 date: 2026-01-26
 draft: false
-description: "church building in Uckermark district, Brandenburg state, Germany"
+description: "St. Mary’s Church in Prenzlau is a remarkable example of ecclesiastical architecture located in the Uckermark district of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

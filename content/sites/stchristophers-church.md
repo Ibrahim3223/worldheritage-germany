@@ -3,7 +3,7 @@ title: "St.Christopher's church"
 site_name: "St.Christopher's church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin-Siemensstadt"
+description: "St. Christopher's Church, located in the Siemensstadt district of Berlin, Germany, is a remarkable example of early 20th-century ecclesiastical architecture."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Burg Hohenberg an der Eger"
 site_name: "Burg Hohenberg an der Eger"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Burg Hohenberg an der Eger, located in the picturesque region of Hohenberg an der Eger in Bavaria, Germany, is a striking example of a medieval castle that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

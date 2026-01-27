@@ -3,7 +3,7 @@ title: "Gemeindebücherei Burgthann"
 site_name: "Gemeindebücherei Burgthann"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Burgthann is more than just a library; it's a community hub that serves as a vital resource for residents and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

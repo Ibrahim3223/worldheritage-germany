@@ -3,7 +3,7 @@ title: "Edelhofkapelle (Hannover)"
 site_name: "Edelhofkapelle (Hannover)"
 date: 2026-01-26
 draft: false
-description: "Listed church building in Hannover-Ricklingen, Germany"
+description: "Edelhofkapelle, located in the Ricklingen district of Hannover, Germany, is a remarkable chapel that serves as a spiritual haven and a point of interest for..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

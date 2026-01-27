@@ -3,7 +3,7 @@ title: "Große Synagoge"
 site_name: "Große Synagoge"
 date: 2026-01-26
 draft: false
-description: "demolished synagogue in Erfurt, Germany"
+description: "The Große Synagoge in Erfurt, Germany, once stood as a significant symbol of Jewish heritage and community life, reflecting centuries of cultural and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"

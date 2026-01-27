@@ -3,7 +3,7 @@ title: "State Library of Ansbach"
 site_name: "State Library of Ansbach"
 date: 2026-01-26
 draft: false
-description: "Regional Library of the Free State of Bavaria"
+description: "The State Library of Ansbach, located in the heart of Ansbach, Germany, serves as a vital cultural institution within the Free State of Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

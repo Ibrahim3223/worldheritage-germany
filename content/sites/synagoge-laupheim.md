@@ -3,7 +3,7 @@ title: "Synagoge Laupheim"
 site_name: "Synagoge Laupheim"
 date: 2026-01-26
 draft: false
-description: "synagogue in Laupheim, Germany"
+description: "The Synagoge Laupheim stands as an important cultural and historical landmark in Laupheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

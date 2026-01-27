@@ -3,7 +3,7 @@ title: "Schneeberg"
 site_name: "Schneeberg"
 date: 2026-01-26
 draft: false
-description: "highest mountain of the Fichtel Mountains in Bavaria, Germany"
+description: "High above the quaint landscapes of Bavaria, Germany, Schneeberg rises as the highest mountain in the Fichtel Mountains, offering visitors a unique blend of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Redeemer church Bad Kissingen"
 site_name: "Redeemer church Bad Kissingen"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Kissingen, Bavaria"
+description: "The Redeemer Church in Bad Kissingen, Bavaria, stands as a significant landmark within this charming spa town."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

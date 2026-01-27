@@ -3,7 +3,7 @@ title: "Alt-Leher Schule"
 site_name: "Alt-Leher Schule"
 date: 2026-01-26
 draft: false
-description: "building ensemble in Bremerhaven, Germany"
+description: "In the heart of Bremerhaven, Germany, lies the Alt-Leher Schule, an architectural ensemble that encapsulates the history of educational architecture in the..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

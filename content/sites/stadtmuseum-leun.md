@@ -3,7 +3,7 @@ title: "Stadtmuseum Leun"
 site_name: "Stadtmuseum Leun"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Leun serves as a cultural hub in the heart of Germany, inviting visitors to explore the rich heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Gemäldegalerie Alte Meister"
 site_name: "Gemäldegalerie Alte Meister"
 date: 2026-01-26
 draft: false
-description: "art gallery in Dresden, Germany"
+description: "The Gemäldegalerie Alte Meister in Dresden, Germany, is a distinguished art museum that showcases a remarkable collection of European masterpieces."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

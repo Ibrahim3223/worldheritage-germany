@@ -3,7 +3,7 @@ title: "Prinzengarten Ettenheim"
 site_name: "Prinzengarten Ettenheim"
 date: 2026-01-26
 draft: false
-description: "garden in Ettenheim, Germany"
+description: "The Prinzengarten Ettenheim is a striking garden located in the charming town of Ettenheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

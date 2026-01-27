@@ -3,7 +3,7 @@ title: "Hockenheimring Motor-Sport-Museum"
 site_name: "Hockenheimring Motor-Sport-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Hockenheimring Motor-Sport-Museum, located in the vibrant town of Hockenheim, Germany, is a must-visit for motorsport enthusiasts and history buffs alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

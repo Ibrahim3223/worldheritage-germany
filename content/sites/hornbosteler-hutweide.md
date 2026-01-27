@@ -3,7 +3,7 @@ title: "Hornbosteler Hutweide"
 site_name: "Hornbosteler Hutweide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "In the heart of Lower Saxony, Germany, lies Hornbosteler Hutweide, a designated nature reserve that showcases the region's ecological diversity and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

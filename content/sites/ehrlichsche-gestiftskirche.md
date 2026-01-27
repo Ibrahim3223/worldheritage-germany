@@ -3,7 +3,7 @@ title: "Ehrlichsche Gestiftskirche"
 site_name: "Ehrlichsche Gestiftskirche"
 date: 2026-01-26
 draft: false
-description: "former church in Dresden, Germany"
+description: "Ehrlichsche Gestiftskirche, a former church located in the heart of Dresden, Germany, is a remarkable example of architectural and cultural evolution in the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

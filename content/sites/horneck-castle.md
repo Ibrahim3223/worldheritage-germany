@@ -3,7 +3,7 @@ title: "Horneck Castle"
 site_name: "Horneck Castle"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Horneck Castle, situated in the picturesque town of Gundelsheim in Germany, is a remarkable historical site that invites visitors to explore its storied..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

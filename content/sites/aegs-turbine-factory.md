@@ -3,7 +3,7 @@ title: "AEG’s Turbine factory"
 site_name: "AEG’s Turbine factory"
 date: 2026-01-26
 draft: false
-description: "factory in Berlin"
+description: "The AEG Turbine Factory, an iconic structure in Berlin's Bezirk Mitte, is a significant landmark that reflects the industrial heritage of the city."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"

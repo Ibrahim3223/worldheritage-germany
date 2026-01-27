@@ -3,7 +3,7 @@ title: "Salzmuseum"
 site_name: "Salzmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Salzmuseum, located in Bad Sooden-Allendorf, Germany, serves as an intriguing portal into the cultural heritage of salt production."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

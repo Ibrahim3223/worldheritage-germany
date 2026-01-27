@@ -3,7 +3,7 @@ title: "BMW Park"
 site_name: "BMW Park"
 date: 2026-01-26
 draft: false
-description: "indoor arena located in Sendling-Westpark in Munich, Bavaria, Germany"
+description: "BMW Park is a prominent multi-purpose hall located in the vibrant district of Sendling-Westpark in Munich, Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Burg Emmershausen"
 site_name: "Burg Emmershausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Emmershausen, an archaeological site located in Emmershausen, Germany, invites visitors into the depths of medieval history through its castle remnants."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

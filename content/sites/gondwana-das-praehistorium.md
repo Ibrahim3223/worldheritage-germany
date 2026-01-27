@@ -3,7 +3,7 @@ title: "Gondwana – Das Praehistorium"
 site_name: "Gondwana – Das Praehistorium"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Gondwana – Das Praehistorium is a captivating museum located in Schiffweiler, Germany, dedicated to exploring the ancient world of the Gondwana supercontinent."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

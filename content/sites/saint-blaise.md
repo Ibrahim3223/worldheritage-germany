@@ -3,7 +3,7 @@ title: "Saint Blaise"
 site_name: "Saint Blaise"
 date: 2026-01-26
 draft: false
-description: "church building in Muehlhausen, Thuringia, Germany"
+description: "Saint Blaise, a historic church building located in Mühlhausen, Thuringia, Germany, is a noteworthy example of ecclesiastical architecture that draws..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"

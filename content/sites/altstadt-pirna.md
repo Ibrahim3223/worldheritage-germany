@@ -3,7 +3,7 @@ title: "Altstadt (Pirna)"
 site_name: "Altstadt (Pirna)"
 date: 2026-01-26
 draft: false
-description: "quarter of Pirna, Germany"
+description: "Altstadt (Pirna), located in the picturesque region of Saxony, Germany, offers visitors a captivating glimpse into the architectural and cultural heritage..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Old Town"

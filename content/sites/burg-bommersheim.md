@@ -3,7 +3,7 @@ title: "Burg Bommersheim"
 site_name: "Burg Bommersheim"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Bommersheim, an archaeological site located in the picturesque region of Bommersheim, Germany, offers a fascinating glimpse into the past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

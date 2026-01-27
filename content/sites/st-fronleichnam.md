@@ -3,7 +3,7 @@ title: "St. Fronleichnam"
 site_name: "St. Fronleichnam"
 date: 2026-01-26
 draft: false
-description: "church building in Homburg, Germany"
+description: "St. Fronleichnam is a prominent church building located in Homburg, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

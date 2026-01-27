@@ -3,7 +3,7 @@ title: "Potsdamer Platz"
 site_name: "Potsdamer Platz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Potsdamer Platz, a vibrant square located in the heart of Berlin, Germany, is more than just a meeting point; it is a symbol of the city’s resilience and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

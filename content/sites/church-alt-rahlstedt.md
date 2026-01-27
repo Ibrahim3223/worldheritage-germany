@@ -3,7 +3,7 @@ title: "Church Alt-Rahlstedt"
 site_name: "Church Alt-Rahlstedt"
 date: 2026-01-26
 draft: false
-description: "church building in Rahlstedt, Germany"
+description: "The Church Alt-Rahlstedt, a notable church building located in the Wandsbek district of Hamburg, Germany, invites visitors to explore its serene ambiance..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

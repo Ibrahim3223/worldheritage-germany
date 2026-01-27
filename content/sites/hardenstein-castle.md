@@ -3,7 +3,7 @@ title: "Hardenstein Castle"
 site_name: "Hardenstein Castle"
 date: 2026-01-26
 draft: false
-description: "ruined castle in North Rhine-Westphalia, Germany"
+description: "Hardenstein Castle, a captivating site in North Rhine-Westphalia, Germany, represents the remnants of a medieval stronghold with a storied past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

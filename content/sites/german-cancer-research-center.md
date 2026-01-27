@@ -3,7 +3,7 @@ title: "German Cancer Research Center"
 site_name: "German Cancer Research Center"
 date: 2026-01-26
 draft: false
-description: "national cancer research center in Heidelberg, Germany"
+description: "In the heart of Heidelberg, Germany, the German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ) stands as a leading institution in the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

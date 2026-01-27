@@ -3,7 +3,7 @@ title: "St. Matthäikirche"
 site_name: "St. Matthäikirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Matthäikirche, located in the historic city of Lübeck, Germany, is a striking example of church architecture that reflects the rich cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

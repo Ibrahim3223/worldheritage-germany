@@ -3,7 +3,7 @@ title: "Brömserhof"
 site_name: "Brömserhof"
 date: 2026-01-26
 draft: false
-description: "building in Lübeck, Germany"
+description: "In the heart of Lübeck's Old City lies the Brömserhof, an architectural marvel that captures the essence of German heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

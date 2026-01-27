@@ -3,7 +3,7 @@ title: "Weser-Ems Halle"
 site_name: "Weser-Ems Halle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall and arena complex in Oldenburg, Germany"
+description: "The Weser-Ems Halle, located in the vibrant city of Oldenburg, Germany, serves as a dynamic multi-purpose hall and arena complex."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

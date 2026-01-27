@@ -3,7 +3,7 @@ title: "Niedernhausen station"
 site_name: "Niedernhausen station"
 date: 2026-01-26
 draft: false
-description: "railway station in Niedernhausen, Germany"
+description: "Niedernhausen station serves as a vital transportation hub in the charming town of Niedernhausen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

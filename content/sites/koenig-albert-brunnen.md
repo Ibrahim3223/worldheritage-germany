@@ -3,7 +3,7 @@ title: "König-Albert-Brunnen"
 site_name: "König-Albert-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain with sculptures in Plauen, Germany"
+description: "The König-Albert-Brunnen is a distinguished fountain located in the heart of Plauen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

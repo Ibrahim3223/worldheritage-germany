@@ -3,7 +3,7 @@ title: "Landwirtschafts- und Heimatmuseum Karben"
 site_name: "Landwirtschafts- und Heimatmuseum Karben"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Landwirtschafts- und Heimatmuseum Karben offers visitors a unique glimpse into the agricultural practices and local heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

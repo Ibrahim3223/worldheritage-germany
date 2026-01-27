@@ -3,7 +3,7 @@ title: "Dorfkirche Dambeck (Salzwedel)"
 site_name: "Dorfkirche Dambeck (Salzwedel)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Dambeck, located in the charming village of Dambeck in Germany, is a noteworthy example of ecclesiastical architecture that has served its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

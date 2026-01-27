@@ -3,7 +3,7 @@ title: "Barnim Panorama"
 site_name: "Barnim Panorama"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Barnim Panorama is a distinctive museum located in Wandlitz, Germany, that offers a unique glimpse into the cultural and natural history of the Barnim region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

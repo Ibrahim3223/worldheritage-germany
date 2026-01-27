@@ -3,7 +3,7 @@ title: "Palace of Justice"
 site_name: "Palace of Justice"
 date: 2026-01-26
 draft: false
-description: "former courthouse complex in Nuremberg, Germany"
+description: "The Palace of Justice in Nuremberg, Germany, is a significant landmark that played a pivotal role in the aftermath of World War II."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"

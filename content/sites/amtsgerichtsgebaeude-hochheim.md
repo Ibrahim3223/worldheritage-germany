@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Hochheim"
 site_name: "Amtsgerichtsgebäude Hochheim"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Situated in the charming town of Hochheim am Main, Germany, the Amtsgerichtsgebäude Hochheim serves as a notable courthouse with a significant role in the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

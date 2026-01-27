@@ -3,7 +3,7 @@ title: "Forsthaus"
 site_name: "Forsthaus"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-72-143-10 (0) in Goldkronach, Bavaria"
+description: "Forsthaus, located in the quaint town of Goldkronach in Bavaria, Germany, is a remarkable cultural heritage monument that showcases the region's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

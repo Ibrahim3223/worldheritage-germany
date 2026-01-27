@@ -3,7 +3,7 @@ title: "Museum am Modersohn-Haus"
 site_name: "Museum am Modersohn-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum am Modersohn-Haus is a notable destination for art enthusiasts, showcasing the profound impact of Worpswede, Germany, on the art world."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

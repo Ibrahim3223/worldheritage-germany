@@ -3,7 +3,7 @@ title: "Hürth-Kalscheuren station"
 site_name: "Hürth-Kalscheuren station"
 date: 2026-01-26
 draft: false
-description: "railway station in Hürth, Germany"
+description: "Hürth-Kalscheuren station serves as a vital transportation hub in the region of Hürth, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

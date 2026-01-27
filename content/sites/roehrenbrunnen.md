@@ -3,7 +3,7 @@ title: "Röhrenbrunnen"
 site_name: "Röhrenbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Aachen, Germany"
+description: "The Röhrenbrunnen, a distinguished fountain located in the heart of Aachen, Germany, serves as a captivating emblem of the city’s rich cultural narrative."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

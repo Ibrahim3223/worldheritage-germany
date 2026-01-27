@@ -3,7 +3,7 @@ title: "Stadtkirche Friedberg"
 site_name: "Stadtkirche Friedberg"
 date: 2026-01-26
 draft: false
-description: "church building in Friedberg, Germany"
+description: "Stadtkirche Friedberg, located in the charming town of Friedberg, Germany, is a significant church building that reflects the historical and cultural fabric..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

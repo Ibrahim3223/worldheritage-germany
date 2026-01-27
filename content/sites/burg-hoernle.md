@@ -3,7 +3,7 @@ title: "Burg Hörnle"
 site_name: "Burg Hörnle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hörnle, a captivating castle located in the Wutach region of Germany, stands as a remarkable example of medieval architecture and historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

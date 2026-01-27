@@ -3,7 +3,7 @@ title: "Internationale Bachakademie Stuttgart"
 site_name: "Internationale Bachakademie Stuttgart"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Internationale Bachakademie Stuttgart represents a significant cultural foundation dedicated to the exploration and promotion of the works of Johann..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

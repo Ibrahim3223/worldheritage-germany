@@ -3,7 +3,7 @@ title: "Johanneskirche (Bad Tölz)"
 site_name: "Johanneskirche (Bad Tölz)"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Johanneskirche in Bad Tölz stands as a prominent church building in the heart of Germany, inviting visitors to explore its serene atmosphere and spiritual..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

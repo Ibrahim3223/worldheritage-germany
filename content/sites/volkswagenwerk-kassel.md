@@ -3,7 +3,7 @@ title: "Volkswagenwerk Kassel"
 site_name: "Volkswagenwerk Kassel"
 date: 2026-01-26
 draft: false
-description: "Volkswagen factory near Kassel, Germany"
+description: "Volkswagenwerk Kassel, located in Baunatal, Germany, is a significant industrial site that plays a crucial role in the automotive landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Factory"

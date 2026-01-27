@@ -3,7 +3,7 @@ title: "Schiller-Denkmal München"
 site_name: "Schiller-Denkmal München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-4425 (2) in München, Bavaria"
+description: "In the heart of Munich's Altstadt-Lehel district stands the Schiller-Denkmal, a striking statue that honors one of Germany's most beloved poets and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

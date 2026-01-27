@@ -3,7 +3,7 @@ title: "Roman"
 site_name: "Roman"
 date: 2026-01-26
 draft: false
-description: "statue by Israel von der Milla"
+description: "The city of Erfurt, located in the heart of Germany, is home to a variety of historical and cultural treasures, one of which is the Roman statue by the..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"

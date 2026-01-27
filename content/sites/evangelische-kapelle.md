@@ -3,7 +3,7 @@ title: "Evangelische Kapelle"
 site_name: "Evangelische Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Evangelische Kapelle, an emblematic chapel located in the picturesque region of Bad Berleburg, Germany, serves as a serene spiritual haven."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

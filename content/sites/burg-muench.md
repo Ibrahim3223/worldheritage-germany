@@ -3,7 +3,7 @@ title: "Burg Münch"
 site_name: "Burg Münch"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Münch, a captivating castle located in the heart of Münchenbernsdorf, Germany, invites visitors to explore its storied past and architectural charm."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

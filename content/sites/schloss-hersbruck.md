@@ -3,7 +3,7 @@ title: "Schloss Hersbruck"
 site_name: "Schloss Hersbruck"
 date: 2026-01-26
 draft: false
-description: "local court in Germany"
+description: "Schloss Hersbruck, an intriguing castle located in the heart of Hersbruck, Germany, serves as a prominent landmark showcasing the region's historical and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

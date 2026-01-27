@@ -3,7 +3,7 @@ title: "Dreikönigskapelle"
 site_name: "Dreikönigskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Dreikönigskapelle, or the Chapel of the Three Kings, is a notable heritage site situated in the heart of Memmingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

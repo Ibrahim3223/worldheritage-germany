@@ -3,7 +3,7 @@ title: "Pelzfach-Museum der Reichsmessestadt Leipzig"
 site_name: "Pelzfach-Museum der Reichsmessestadt Leipzig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Pelzfach-Museum der Reichsmessestadt Leipzig invites visitors to explore the unique heritage of fur trade and craftsmanship in the heart of Leipzig,..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

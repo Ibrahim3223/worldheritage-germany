@@ -3,7 +3,7 @@ title: "Burg Moritzstein"
 site_name: "Burg Moritzstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Moritzstein, an impressive castle located in the Wenings region of Germany, stands as a notable structure steeped in history and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

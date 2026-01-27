@@ -3,7 +3,7 @@ title: "Boxenstop Tübingen"
 site_name: "Boxenstop Tübingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the vibrant city of Tübingen, Germany, Boxenstop Tübingen is a museum that invites visitors to explore a unique collection dedicated to the world..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

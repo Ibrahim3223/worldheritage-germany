@@ -3,7 +3,7 @@ title: "Haus Anger"
 site_name: "Haus Anger"
 date: 2026-01-26
 draft: false
-description: "manor house in Ratingen, Germany"
+description: "Haus Anger is a captivating manor house located in Ratingen, Germany, that serves as a remarkable reminder of the region's architectural and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

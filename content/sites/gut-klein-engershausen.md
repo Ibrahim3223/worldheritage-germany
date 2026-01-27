@@ -3,7 +3,7 @@ title: "Gut Klein-Engershausen"
 site_name: "Gut Klein-Engershausen"
 date: 2026-01-26
 draft: false
-description: "Herrensitz in Preußisch Oldendorf-Engershausen, Nordrhein-Westfalen"
+description: "Gut Klein-Engershausen is a striking manor house located in Preußisch Oldendorf, Nordrhein-Westfalen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Burg Momberg"
 site_name: "Burg Momberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Momberg, a captivating castle located in Germany's Momberg region, encapsulates the allure of medieval architecture and the charm of historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

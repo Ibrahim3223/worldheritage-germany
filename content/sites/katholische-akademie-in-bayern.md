@@ -3,7 +3,7 @@ title: "Katholische Akademie in Bayern"
 site_name: "Katholische Akademie in Bayern"
 date: 2026-01-26
 draft: false
-description: "Katholische Akademie in München"
+description: "The Katholische Akademie in Bayern, located in the vibrant city of Munich, stands as a significant foundation dedicated to the exploration and understanding..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Luisenpark"
 site_name: "Luisenpark"
 date: 2026-01-26
 draft: false
-description: "garden in Mannheim"
+description: "Luisenpark, a prominent botanical garden located in Mannheim, Germany, offers a serene escape into nature amidst the urban landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Windbergstraße 22"
 site_name: "Windbergstraße 22"
 date: 2026-01-26
 draft: false
-description: "building, former town hall, in Dresden-Coschütz"
+description: "Windbergstraße 22, located in the Dresden-Coschütz district, is a significant structure that reflects the administrative history of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

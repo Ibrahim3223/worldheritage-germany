@@ -3,7 +3,7 @@ title: "Dortmund-Lütgendortmund station"
 site_name: "Dortmund-Lütgendortmund station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dortmund, Germany"
+description: "Dortmund-Lütgendortmund station serves as a pivotal node in the German railway network, connecting the bustling city of Dortmund with various regional..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

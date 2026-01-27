@@ -3,7 +3,7 @@ title: "Dorfkirche Sylbitz"
 site_name: "Dorfkirche Sylbitz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Sylbitz is a quaint church building located in the Petersberg region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

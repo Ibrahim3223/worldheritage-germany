@@ -3,7 +3,7 @@ title: "Diana with Jumping Antilope"
 site_name: "Diana with Jumping Antilope"
 date: 2026-01-26
 draft: false
-description: "sculpture"
+description: "Diana with Jumping Antilope is a striking statue that captivates visitors with its elegant depiction of the Roman goddess of hunting, Diana, alongside a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

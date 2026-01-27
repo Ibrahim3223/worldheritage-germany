@@ -3,7 +3,7 @@ title: "Stadtpark und Botanischer Garten Gütersloh"
 site_name: "Stadtpark und Botanischer Garten Gütersloh"
 date: 2026-01-26
 draft: false
-description: "park and botanical garden in Gütersloh, Germany"
+description: "Stadtpark und Botanischer Garten Gütersloh serves as a serene oasis within the vibrant city of Gütersloh, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

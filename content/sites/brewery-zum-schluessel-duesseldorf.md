@@ -3,7 +3,7 @@ title: "Brewery „Zum Schlüssel“, Düsseldorf"
 site_name: "Brewery „Zum Schlüssel“, Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "trademark"
+description: "Located in the vibrant city of Düsseldorf, Brewery „Zum Schlüssel“ is a cornerstone of local brewing culture and heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Brewery"

@@ -3,7 +3,7 @@ title: "Amtsgericht Bensheim"
 site_name: "Amtsgericht Bensheim"
 date: 2026-01-26
 draft: false
-description: "Gerichtsgebäude in Bensheim, Hessen"
+description: "Amtsgericht Bensheim, a notable courthouse located in the heart of Bensheim, Hessen, represents a significant part of the region's judicial system and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Courthouse"

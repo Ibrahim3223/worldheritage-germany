@@ -3,7 +3,7 @@ title: "Electoral castle Boppard"
 site_name: "Electoral castle Boppard"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Electoral Castle Boppard, a historic edifice located in the picturesque town of Boppard, Germany, stands as a striking example of medieval architecture."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

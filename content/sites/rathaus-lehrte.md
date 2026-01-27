@@ -3,7 +3,7 @@ title: "Rathaus Lehrte"
 site_name: "Rathaus Lehrte"
 date: 2026-01-26
 draft: false
-description: "building in Lehrte near Hannover, Germany"
+description: "Rathaus Lehrte is not just a city hall; it symbolizes the civic heart of Lehrte, a town located just northeast of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

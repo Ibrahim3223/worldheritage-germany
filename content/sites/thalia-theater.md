@@ -3,7 +3,7 @@ title: "Thalia Theater"
 site_name: "Thalia Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Hamburg"
+description: "Thalia Theater, situated in the heart of Hamburg, Germany, is a significant cultural establishment that has captivated audiences for generations."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

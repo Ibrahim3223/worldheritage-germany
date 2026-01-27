@@ -3,7 +3,7 @@ title: "Dalum-Wietmarscher Moor"
 site_name: "Dalum-Wietmarscher Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Dalum-Wietmarscher Moor, a nature reserve located in the scenic region of Geeste in Lower Saxony, Germany, offers a tranquil escape into a unique ecological..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

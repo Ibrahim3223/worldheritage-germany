@@ -3,7 +3,7 @@ title: "Zwei Brückenpfeiler der Schmalspurbahn und Verladerampe Löbauer Straß
 site_name: "Zwei Brückenpfeiler der Schmalspurbahn und Verladerampe Löbauer Straße (Auestraße)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Zwei Brückenpfeiler der Schmalspurbahn und Verladerampe Löbauer Straße (Auestraße) stands as an intriguing relic of historical transportation..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

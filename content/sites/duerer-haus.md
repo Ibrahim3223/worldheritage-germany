@@ -3,7 +3,7 @@ title: "Dürer-Haus"
 site_name: "Dürer-Haus"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Dürer-Haus, located in Wuppertal, Germany, serves as a significant school building that embodies the spirit of education and artistic heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

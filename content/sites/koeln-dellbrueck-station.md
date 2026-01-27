@@ -3,7 +3,7 @@ title: "Köln-Dellbrück station"
 site_name: "Köln-Dellbrück station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dellbrück, Germany"
+description: "Köln-Dellbrück station, located in the suburb of Dellbrück in Germany, serves as a vital junction in the country’s extensive railway network."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

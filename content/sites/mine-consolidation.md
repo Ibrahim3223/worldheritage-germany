@@ -3,7 +3,7 @@ title: "mine Consolidation"
 site_name: "mine Consolidation"
 date: 2026-01-26
 draft: false
-description: "mine in Germany"
+description: "The mine Consolidation in Gelsenkirchen, Germany, serves as a significant chapter in the narrative of the country's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

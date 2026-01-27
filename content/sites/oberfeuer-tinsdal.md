@@ -3,7 +3,7 @@ title: "Oberfeuer Tinsdal"
 site_name: "Oberfeuer Tinsdal"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Hamburg, Germany"
+description: "Oberfeuer Tinsdal is a notable lighthouse located in the Altona district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Wendisches Museum"
 site_name: "Wendisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Cottbus, Germany"
+description: "In the heart of Cottbus, Germany, lies the Wendisches Museum, a cultural institution dedicated to preserving and showcasing the heritage of the Sorbian..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

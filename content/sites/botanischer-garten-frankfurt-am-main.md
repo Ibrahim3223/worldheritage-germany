@@ -3,7 +3,7 @@ title: "Botanischer Garten Frankfurt am Main"
 site_name: "Botanischer Garten Frankfurt am Main"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten Frankfurt am Main offers a serene escape into nature amid the bustling urban landscape of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

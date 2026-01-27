@@ -3,7 +3,7 @@ title: "Besucherzentrum Hans Eisenmann Haus"
 site_name: "Besucherzentrum Hans Eisenmann Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Besucherzentrum Hans Eisenmann Haus is a museum located in Germany that serves as a significant cultural institution, showcasing the life and legacy of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

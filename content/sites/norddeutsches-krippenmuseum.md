@@ -3,7 +3,7 @@ title: "Norddeutsches Krippenmuseum"
 site_name: "Norddeutsches Krippenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Norddeutsches Krippenmuseum, located in Güstrow, Germany, is a unique cultural institution dedicated to the art of nativity scenes."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

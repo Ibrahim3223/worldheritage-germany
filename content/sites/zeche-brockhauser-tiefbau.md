@@ -3,7 +3,7 @@ title: "Zeche Brockhauser Tiefbau"
 site_name: "Zeche Brockhauser Tiefbau"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Brockhauser Tiefbau, located in Bochum, Germany, represents a significant chapter in the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

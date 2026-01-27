@@ -3,7 +3,7 @@ title: "Harrys Hamburger Hafenbasar"
 site_name: "Harrys Hamburger Hafenbasar"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the vibrant port city of Hamburg, Harrys Hamburger Hafenbasar is a unique museum that provides visitors with a glimpse into the rich maritime..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

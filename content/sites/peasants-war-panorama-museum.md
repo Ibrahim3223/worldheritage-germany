@@ -3,7 +3,7 @@ title: "Peasants' War Panorama Museum"
 site_name: "Peasants' War Panorama Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Peasants' War Panorama Museum in Bad Frankenhausen, Germany, invites visitors to explore a dramatic period in European history through a unique artistic..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

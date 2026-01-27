@@ -3,7 +3,7 @@ title: "Altenburg Castle"
 site_name: "Altenburg Castle"
 date: 2026-01-26
 draft: false
-description: "site of a castle in Hesse, Germany"
+description: "Altenburg Castle is an intriguing heritage site located in the picturesque region of Neuental, Hesse, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

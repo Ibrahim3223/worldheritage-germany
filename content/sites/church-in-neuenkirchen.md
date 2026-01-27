@@ -3,7 +3,7 @@ title: "Church in Neuenkirchen"
 site_name: "Church in Neuenkirchen"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "The Church in Neuenkirchen serves as an iconic symbol of spiritual heritage within the picturesque landscape of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

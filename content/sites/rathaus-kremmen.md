@@ -3,7 +3,7 @@ title: "Rathaus Kremmen"
 site_name: "Rathaus Kremmen"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Kremmen, Landkreis Oberhavel, Brandenburg"
+description: "Rathaus Kremmen, the city hall of Kremmen in the Oberhavel district of Brandenburg, Germany, stands as a focal point in the town’s administrative and civic..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

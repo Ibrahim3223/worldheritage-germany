@@ -3,7 +3,7 @@ title: "Bade~museum norderney/Galerie Hans Trimborn"
 site_name: "Bade~museum norderney/Galerie Hans Trimborn"
 date: 2026-01-26
 draft: false
-description: "museum in Norderney, Germany"
+description: "The Bade~museum norderney/Galerie Hans Trimborn is a unique cultural institution located on the island of Norderney, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

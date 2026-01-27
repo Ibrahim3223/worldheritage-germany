@@ -3,7 +3,7 @@ title: "Burgplatz"
 site_name: "Burgplatz"
 date: 2026-01-26
 draft: false
-description: "town square in Essen, Germany"
+description: "Burgplatz, a vibrant town square located in the heart of Essen, Germany, serves as a focal point for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Square"

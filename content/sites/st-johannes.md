@@ -3,7 +3,7 @@ title: "St. Johannes"
 site_name: "St. Johannes"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Germany"
+description: "St. Johannes is a notable church building located in Halle (Saale), Germany, serving as a significant landmark within the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

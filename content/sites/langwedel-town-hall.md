@@ -3,7 +3,7 @@ title: "Langwedel town hall"
 site_name: "Langwedel town hall"
 date: 2026-01-26
 draft: false
-description: "town hall of Langwedel, Lower Saxony, Germany"
+description: "Langwedel Town Hall, located in the charming village of Langwedel in Lower Saxony, Germany, serves as a central hub for local governance and community..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

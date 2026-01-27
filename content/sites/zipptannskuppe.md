@@ -3,7 +3,7 @@ title: "Zipptannskuppe"
 site_name: "Zipptannskuppe"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zipptannskuppe rises prominently in the Thuringia region of Germany, offering visitors a chance to experience the beauty and majesty of one of the area’s..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Gut Jersbek: Torhaus mit Nebenbauten"
 site_name: "Gut Jersbek: Torhaus mit Nebenbauten"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Jersbek, Schleswig-Holstein"
+description: "Located in the serene region of Schleswig-Holstein, Gut Jersbek: Torhaus mit Nebenbauten is a remarkable gatehouse that encapsulates the architectural..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Gatehouse"

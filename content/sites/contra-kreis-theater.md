@@ -3,7 +3,7 @@ title: "Contra-Kreis-Theater"
 site_name: "Contra-Kreis-Theater"
 date: 2026-01-26
 draft: false
-description: "oldest privately owned theater in Bonn, Germany"
+description: "The Contra-Kreis-Theater, located in Bonn, Germany, holds the distinction of being the oldest privately owned theater in the city."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

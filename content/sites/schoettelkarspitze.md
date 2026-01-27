@@ -3,7 +3,7 @@ title: "Schöttelkarspitze"
 site_name: "Schöttelkarspitze"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Schöttelkarspitze, a prominent mountain located in the stunning Bavarian region of Germany, rises majestically at coordinates 47.494166666, 11.328333333."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

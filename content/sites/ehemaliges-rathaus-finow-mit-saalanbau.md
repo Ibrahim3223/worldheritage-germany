@@ -3,7 +3,7 @@ title: "Ehemaliges Rathaus Finow mit Saalanbau"
 site_name: "Ehemaliges Rathaus Finow mit Saalanbau"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Eberswalde, Brandenburg in Eberswalde"
+description: "Ehemaliges Rathaus Finow mit Saalanbau, or the former Town Hall of Finow with hall extension, is a notable architectural site located in Eberswalde,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

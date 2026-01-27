@@ -3,7 +3,7 @@ title: "Schubartstube"
 site_name: "Schubartstube"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schubartstube, located in the charming town of Blaubeuren, Germany, is a museum that offers visitors a unique glimpse into the local culture and heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

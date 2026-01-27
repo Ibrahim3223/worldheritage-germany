@@ -3,7 +3,7 @@ title: "Fehn- und Schiffahrtsmuseum"
 site_name: "Fehn- und Schiffahrtsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fehn- und Schiffahrtsmuseum in Rhauderfehn, Germany, offers a unique glimpse into the region’s maritime history and the significance of the fehn landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

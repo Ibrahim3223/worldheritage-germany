@@ -3,7 +3,7 @@ title: "Schloss Stedten"
 site_name: "Schloss Stedten"
 date: 2026-01-26
 draft: false
-description: "building in Erfurt (Germany)"
+description: "Schloss Stedten, a captivating manor house located in Erfurt, Germany, invites visitors to explore its charming architecture and rich cultural backdrop."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Opernplatz"
 site_name: "Opernplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Frankfurt, Germany"
+description: "Opernplatz, a lively public square in the heart of Frankfurt, Germany, serves as both a cultural hub and a historical touchstone for visitors and locals alike."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Square"

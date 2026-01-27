@@ -3,7 +3,7 @@ title: "Fragrance Museum"
 site_name: "Fragrance Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Cologne, Germany"
+description: "In the heart of Cologne, Germany, the Fragrance Museum offers a unique exploration of the world of scents, illuminating the intricate relationship between..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

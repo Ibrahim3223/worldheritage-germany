@@ -3,7 +3,7 @@ title: "Klippelgasse 2"
 site_name: "Klippelgasse 2"
 date: 2026-01-26
 draft: false
-description: "Upper Lusatian house in Obercunnersdorf"
+description: "Klippelgasse 2, located in the picturesque region of Kottmar in Germany, is an intriguing museum situated in the charming village of Obercunnersdorf."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Christ-Königs-Denkmal"
 site_name: "Christ-Königs-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Düren, Germany"
+description: "The Christ-Königs-Denkmal, located in Düren, Germany, is an evocative monument embodying the region's cultural and historical significance."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

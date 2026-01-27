@@ -3,7 +3,7 @@ title: "Dornhaldenfriedhof"
 site_name: "Dornhaldenfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Stuttgart, Germany"
+description: "Dornhaldenfriedhof, located in the vibrant city of Stuttgart, Germany, is a cemetery that encapsulates the region's rich history and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

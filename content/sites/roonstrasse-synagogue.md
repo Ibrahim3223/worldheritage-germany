@@ -3,7 +3,7 @@ title: "Roonstrasse Synagogue"
 site_name: "Roonstrasse Synagogue"
 date: 2026-01-26
 draft: false
-description: "synagogue in Cologne"
+description: "The Roonstrasse Synagogue, located in the Neustadt-Süd district of Cologne, Germany, is a significant place of worship that reflects the enduring Jewish..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Synagogue"

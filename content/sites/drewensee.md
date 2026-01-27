@@ -3,7 +3,7 @@ title: "Drewensee"
 site_name: "Drewensee"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Drewensee, a picturesque lake located in the Mecklenburgische Seenplatte District of Germany, is a serene destination that attracts nature lovers, outdoor..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

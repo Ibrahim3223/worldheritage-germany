@@ -3,7 +3,7 @@ title: "Psychiatriemuseum Haina"
 site_name: "Psychiatriemuseum Haina"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Psychiatriemuseum Haina offers a unique lens through which to explore the often-overlooked narratives surrounding mental health and psychiatric care."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

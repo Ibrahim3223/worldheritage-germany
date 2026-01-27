@@ -3,7 +3,7 @@ title: "Jan-Wellem-Chapel"
 site_name: "Jan-Wellem-Chapel"
 date: 2026-01-26
 draft: false
-description: "chapel in Düsseldorf-Hamm, Germany"
+description: "The Jan-Wellem-Chapel, located in Düsseldorf-Hamm, Germany, is an intriguing site that combines architectural beauty with a rich cultural backdrop."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

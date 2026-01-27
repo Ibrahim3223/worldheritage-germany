@@ -3,7 +3,7 @@ title: "Werkstatt-Museum Karl-Mayer-Haus"
 site_name: "Werkstatt-Museum Karl-Mayer-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Werkstatt-Museum Karl-Mayer-Haus is a captivating destination that invites visitors to explore the intricate world of textile production in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

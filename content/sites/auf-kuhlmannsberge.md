@@ -3,7 +3,7 @@ title: "Auf Kuhlmannsberge"
 site_name: "Auf Kuhlmannsberge"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Auf Kuhlmannsberge is a serene nature reserve located in the picturesque region of Aerzen, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

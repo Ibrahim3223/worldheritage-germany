@@ -3,7 +3,7 @@ title: "Stolpe church"
 site_name: "Stolpe church"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "Stolpe Church, located in the Steglitz-Zehlendorf district of Germany, is a remarkable architectural gem that reflects the historical and cultural evolution..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

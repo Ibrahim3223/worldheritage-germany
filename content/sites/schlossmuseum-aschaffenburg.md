@@ -3,7 +3,7 @@ title: "Schlossmuseum Aschaffenburg"
 site_name: "Schlossmuseum Aschaffenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schlossmuseum Aschaffenburg, located in the heart of Aschaffenburg, Germany, serves as a significant cultural institution that showcases an extensive..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

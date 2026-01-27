@@ -3,7 +3,7 @@ title: "Wachturm"
 site_name: "Wachturm"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-124-23 (0) in Kasendorf, Bavaria"
+description: "The Wachturm, a notable cultural heritage monument located in the small town of Kasendorf, Bavaria, is a castle that holds significant historical value."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

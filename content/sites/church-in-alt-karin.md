@@ -3,7 +3,7 @@ title: "Church in Alt Karin"
 site_name: "Church in Alt Karin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Alt Karin is a notable landmark located in the region of Carinerland, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

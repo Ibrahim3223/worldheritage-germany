@@ -3,7 +3,7 @@ title: "St.-Matthias-Kirche"
 site_name: "St.-Matthias-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Sondershausen, Germany"
+description: "St.-Matthias-Kirche, located in the heart of Sondershausen, Germany, is a striking example of ecclesiastical architecture that offers a glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

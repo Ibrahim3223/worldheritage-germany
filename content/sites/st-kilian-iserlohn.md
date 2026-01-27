@@ -3,7 +3,7 @@ title: "St. Kilian (Iserlohn)"
 site_name: "St. Kilian (Iserlohn)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Kilian in Iserlohn, Germany, is more than just a church building; it is a significant landmark that reflects the region's religious heritage and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

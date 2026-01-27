@@ -3,7 +3,7 @@ title: "Schack Collection"
 site_name: "Schack Collection"
 date: 2026-01-26
 draft: false
-description: "Art museum and art collection in Munich"
+description: "The Schack Collection in Munich is a distinguished art museum that offers a unique glimpse into the rich cultural heritage of Germany through its extensive..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

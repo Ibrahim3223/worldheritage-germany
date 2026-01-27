@@ -3,7 +3,7 @@ title: "Königshof"
 site_name: "Königshof"
 date: 2026-01-26
 draft: false
-description: "building in Glückstadt, Germany"
+description: "Königshof, located in the picturesque town of Glückstadt, Germany, is a distinguished palace that reflects the architectural and cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

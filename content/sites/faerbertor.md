@@ -3,7 +3,7 @@ title: "Färbertor"
 site_name: "Färbertor"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Tor durch die Nürnberger Stadtmauer"
+description: "Färbertor, a historic city gate in Nuremberg, Germany, is an intriguing remnant of the medieval fortifications that once surrounded this vibrant city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

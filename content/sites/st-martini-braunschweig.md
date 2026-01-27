@@ -3,7 +3,7 @@ title: "St. Martini (Braunschweig)"
 site_name: "St. Martini (Braunschweig)"
 date: 2026-01-26
 draft: false
-description: "church building in Brunswick, Germany"
+description: "St. Martini Church in Brunswick, Germany, stands as a remarkable example of medieval ecclesiastical architecture and serves as a significant cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

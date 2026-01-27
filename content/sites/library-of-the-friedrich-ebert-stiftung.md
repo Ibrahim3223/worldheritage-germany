@@ -3,7 +3,7 @@ title: "library of the Friedrich-Ebert-Stiftung"
 site_name: "library of the Friedrich-Ebert-Stiftung"
 date: 2026-01-26
 draft: false
-description: "Research and trade union library in Bonn (Germany)"
+description: "The library of the Friedrich-Ebert-Stiftung stands as a notable institution in Bonn, Germany, dedicated to the preservation and dissemination of knowledge..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

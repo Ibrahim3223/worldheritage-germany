@@ -3,7 +3,7 @@ title: "Gut Neuhof"
 site_name: "Gut Neuhof"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus im Ortsteil Heimsen der Stadt Petershagen im Kreis Minden-Lübbecke"
+description: "Gut Neuhof, a distinguished manor house located in the quaint village of Heimsen within the city of Petershagen, Germany, embodies the essence of historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Kirche im Diakoniewerk"
 site_name: "Kirche im Diakoniewerk"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "The Kirche im Diakoniewerk is an architectural and spiritual landmark located in Halle (Saale), Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

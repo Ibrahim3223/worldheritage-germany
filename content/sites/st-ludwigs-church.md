@@ -3,7 +3,7 @@ title: "St Ludwig's Church"
 site_name: "St Ludwig's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Celle, Germany"
+description: "St Ludwig's Church, an architectural landmark in Celle, Germany, invites visitors to explore both its spiritual atmosphere and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

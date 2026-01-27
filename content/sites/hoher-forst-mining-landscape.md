@@ -3,7 +3,7 @@ title: "Hoher Forst Mining Landscape"
 site_name: "Hoher Forst Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Hoher Forst Mining Landscape, located in Germany, is a significant cultural landscape recognized as part of a World Heritage site."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

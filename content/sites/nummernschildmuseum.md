@@ -3,7 +3,7 @@ title: "Nummernschildmuseum"
 site_name: "Nummernschildmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nummernschildmuseum in Großolbersdorf, Germany, invites visitors to explore the fascinating world of vehicle registration plates."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

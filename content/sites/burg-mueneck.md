@@ -3,7 +3,7 @@ title: "Burg Müneck"
 site_name: "Burg Müneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Müneck, a captivating castle located in the picturesque region of Ammerbuch, Germany, invites visitors to delve into its storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

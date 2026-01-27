@@ -3,7 +3,7 @@ title: "Rhododendron-Park Bremen"
 site_name: "Rhododendron-Park Bremen"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Rhododendron-Park Bremen is a botanical garden located in the Horn-Lehe district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Botanical Garden"

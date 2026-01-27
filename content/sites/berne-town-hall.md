@@ -3,7 +3,7 @@ title: "Berne town hall"
 site_name: "Berne town hall"
 date: 2026-01-26
 draft: false
-description: "two buildings in Berne, Lower Saxony"
+description: "Berne Town Hall, located in the heart of Lower Saxony, Germany, serves as a vital hub for local governance and a symbol of civic pride for the community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

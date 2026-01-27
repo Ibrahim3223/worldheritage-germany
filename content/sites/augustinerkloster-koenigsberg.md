@@ -3,7 +3,7 @@ title: "Augustinerkloster Königsberg"
 site_name: "Augustinerkloster Königsberg"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Augustinerkloster Königsberg, a significant monastery located in the charming region of Königsberg in Bayern, Germany, invites visitors to explore its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

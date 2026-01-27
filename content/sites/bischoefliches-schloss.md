@@ -3,7 +3,7 @@ title: "Bischöfliches Schloss"
 site_name: "Bischöfliches Schloss"
 date: 2026-01-26
 draft: false
-description: "Schloss in Dirmstein, Landkreis Bad Dürkheim, Rheinland-Pfalz"
+description: "The Bischöfliches Schloss, or the Bishop's Palace, located in Dirmstein, Germany, is an architectural ensemble that reflects the historical and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

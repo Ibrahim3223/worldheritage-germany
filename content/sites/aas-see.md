@@ -3,7 +3,7 @@ title: "Aas See"
 site_name: "Aas See"
 date: 2026-01-26
 draft: false
-description: "lake in Schleswig-Holstein, Germany"
+description: "Aas See is a serene lake located in the heart of Schleswig-Holstein, Germany, providing a tranquil escape into nature for both locals and visitors."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

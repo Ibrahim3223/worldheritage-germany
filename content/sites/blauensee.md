@@ -3,7 +3,7 @@ title: "Blauensee"
 site_name: "Blauensee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Blauensee, located within the serene region of Waldburg in Baden-Württemberg, Germany, is a nature reserve that offers visitors a tranquil escape into a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Rysum Church"
 site_name: "Rysum Church"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Germany"
+description: "Rysum Church, situated in the quaint region of Krummhörn, Germany, stands as a significant example of the architectural and cultural heritage of the area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

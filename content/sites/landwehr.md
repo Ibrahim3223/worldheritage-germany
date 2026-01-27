@@ -3,7 +3,7 @@ title: "Landwehr"
 site_name: "Landwehr"
 date: 2026-01-26
 draft: false
-description: "Römerwall in Maisborn"
+description: "The Landwehr, located in Maisborn, Germany, represents a significant element of the Roman Limes, the ancient frontier that delineated the boundaries of the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Roman Limes"

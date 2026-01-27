@@ -3,7 +3,7 @@ title: "Kohlosseum"
 site_name: "Kohlosseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kohlosseum, located in Wesselburen, Germany, serves as a noteworthy cultural institution that invites visitors to explore its diverse exhibits and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

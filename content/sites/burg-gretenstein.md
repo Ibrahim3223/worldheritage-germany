@@ -3,7 +3,7 @@ title: "Burg Gretenstein"
 site_name: "Burg Gretenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gretenstein is a captivating castle located in Villmar, Germany. With its storied past and architectural charm, this historic site invites visitors to..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

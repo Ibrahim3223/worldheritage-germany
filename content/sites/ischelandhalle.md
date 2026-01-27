@@ -3,7 +3,7 @@ title: "Ischelandhalle"
 site_name: "Ischelandhalle"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Hagen, Germany"
+description: "Ischelandhalle is a prominent multi-purpose hall located in Hagen, Germany. This versatile venue plays an essential role in the local community, hosting a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

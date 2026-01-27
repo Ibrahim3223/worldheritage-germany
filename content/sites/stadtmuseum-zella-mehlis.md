@@ -3,7 +3,7 @@ title: "Stadtmuseum Zella-Mehlis"
 site_name: "Stadtmuseum Zella-Mehlis"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Zella-Mehlis offers an engaging exploration of the cultural heritage and historical narratives of Zella-Mehlis, a town in the heart of..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

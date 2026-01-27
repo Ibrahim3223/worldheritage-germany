@@ -3,7 +3,7 @@ title: "Lübecker Eisenbahntor"
 site_name: "Lübecker Eisenbahntor"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Stadttor in Lübeck"
+description: "The Lübecker Eisenbahntor, an iconic element of Lübeck's Old City, is a striking city gate that reflects the rich heritage of this historic Hanseatic town..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

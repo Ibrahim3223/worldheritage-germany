@@ -3,7 +3,7 @@ title: "Lenkwerk"
 site_name: "Lenkwerk"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Lenkwerk, located in the vibrant city of Bielefeld, Germany, is a unique museum that invites visitors to explore the rich cultural and historical narratives..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

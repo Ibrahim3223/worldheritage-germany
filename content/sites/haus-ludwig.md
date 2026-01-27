@@ -3,7 +3,7 @@ title: "Haus Ludwig"
 site_name: "Haus Ludwig"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Haus Ludwig, located in Saarlouis, Germany, is a museum that invites visitors to explore a unique array of historical and cultural exhibitions."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

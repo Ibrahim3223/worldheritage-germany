@@ -3,7 +3,7 @@ title: "Synagogue in Auerbach"
 site_name: "Synagogue in Auerbach"
 date: 2026-01-26
 draft: false
-description: "profanierte Synagoge in Auerbach in Bensheim in Hessen"
+description: "The Synagogue in Auerbach is a poignant reminder of the Jewish heritage that once thrived in this region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "Garnisonsmuseum"
 site_name: "Garnisonsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Garnisonsmuseum, located in the historic city of Nuremberg, Germany, serves as an important cultural institution, offering insights into military history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

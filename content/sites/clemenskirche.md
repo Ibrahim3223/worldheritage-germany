@@ -3,7 +3,7 @@ title: "Clemenskirche"
 site_name: "Clemenskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Clemenskirche, located in the heart of Münster-Mitte, Germany, is a church building that serves as a significant landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

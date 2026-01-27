@@ -3,7 +3,7 @@ title: "Kassel Apollo"
 site_name: "Kassel Apollo"
 date: 2026-01-26
 draft: false
-description: "statue"
+description: "Kassel Apollo is a striking statue that stands as an emblem of artistic expression and cultural heritage in Kassel, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "Galerie am Ratswall"
 site_name: "Galerie am Ratswall"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Galerie am Ratswall is an engaging art museum located in Bitterfeld-Wolfen, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

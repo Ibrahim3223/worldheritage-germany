@@ -3,7 +3,7 @@ title: "Statue of Hans Karl von Winterfeldt"
 site_name: "Statue of Hans Karl von Winterfeldt"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "In the heart of Berlin lies the Statue of Hans Karl von Winterfeldt, a significant monument that pays homage to one of the city’s prominent military figures."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

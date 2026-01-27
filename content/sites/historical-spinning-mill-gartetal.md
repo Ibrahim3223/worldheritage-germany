@@ -3,7 +3,7 @@ title: "Historical spinning mill Gartetal"
 site_name: "Historical spinning mill Gartetal"
 date: 2026-01-26
 draft: false
-description: "museum in Germany, district Göttingen, Germany"
+description: "The Historical Spinning Mill Gartetal is a captivating museum located in the Gleichen district of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

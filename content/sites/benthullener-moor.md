@@ -3,7 +3,7 @@ title: "Benthullener Moor"
 site_name: "Benthullener Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Benthullener Moor, a designated nature reserve in Lower Saxony, Germany, serves as a remarkable example of the region's ecological diversity."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

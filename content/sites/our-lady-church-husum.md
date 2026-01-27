@@ -3,7 +3,7 @@ title: "Our Lady Church Husum"
 site_name: "Our Lady Church Husum"
 date: 2026-01-26
 draft: false
-description: "church building in Husum, North Germany"
+description: "Our Lady Church in Husum, Germany, is a significant church building that reflects the cultural heritage of the region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

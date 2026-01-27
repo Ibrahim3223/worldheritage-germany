@@ -3,7 +3,7 @@ title: "Königsstein"
 site_name: "Königsstein"
 date: 2026-01-26
 draft: false
-description: "memorial in Freising, Germany"
+description: "Königsstein is a poignant memorial located in the city of Freising, Germany. This monument serves as a significant reminder of the region's historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Icon museum of Frankfurt"
 site_name: "Icon museum of Frankfurt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Icon Museum of Frankfurt is a distinctive cultural institution located in the heart of Germany's financial capital."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

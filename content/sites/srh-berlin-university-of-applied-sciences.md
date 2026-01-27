@@ -3,7 +3,7 @@ title: "SRH Berlin University of Applied Sciences"
 site_name: "SRH Berlin University of Applied Sciences"
 date: 2026-01-26
 draft: false
-description: "Private university in Germany"
+description: "In the heart of Berlin, the SRH Berlin University of Applied Sciences presents a significant opportunity for students seeking a modern educational..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "University"

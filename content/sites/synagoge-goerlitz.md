@@ -3,7 +3,7 @@ title: "Synagoge Görlitz"
 site_name: "Synagoge Görlitz"
 date: 2026-01-26
 draft: false
-description: "synagogue in Görlitz"
+description: "The Synagoge Görlitz is a remarkable site that serves as a significant cultural and historical landmark within the town of Görlitz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

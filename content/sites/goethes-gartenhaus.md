@@ -3,7 +3,7 @@ title: "Goethes Gartenhaus"
 site_name: "Goethes Gartenhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Goethes Gartenhaus, located in the city of Weimar, Germany, is a museum dedicated to the life and work of one of Germany's most illustrious literary..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

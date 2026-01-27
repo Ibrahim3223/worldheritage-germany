@@ -3,7 +3,7 @@ title: "Burgruine Adelburg"
 site_name: "Burgruine Adelburg"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Germany"
+description: "Burgruine Adelburg, an archaeological site located in Seubersdorf in der Oberpfalz, Germany, presents a captivating glimpse into the remnants of a medieval..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

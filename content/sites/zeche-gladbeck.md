@@ -3,7 +3,7 @@ title: "Zeche Gladbeck"
 site_name: "Zeche Gladbeck"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Gladbeck, located in Bottrop, Germany, is a significant site reflective of the country's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

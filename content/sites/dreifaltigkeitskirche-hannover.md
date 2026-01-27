@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Hannover)"
 site_name: "Dreifaltigkeitskirche (Hannover)"
 date: 2026-01-26
 draft: false
-description: "church in Hannover, Germany"
+description: "The Dreifaltigkeitskirche, or Holy Trinity Church, is an architectural and spiritual landmark located in Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

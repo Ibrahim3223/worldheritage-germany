@@ -3,7 +3,7 @@ title: "Fanny & Felix Mendelssohn Museum"
 site_name: "Fanny & Felix Mendelssohn Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg"
+description: "The Fanny & Felix Mendelssohn Museum offers a fascinating glimpse into the lives and legacies of two pivotal figures in classical music."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

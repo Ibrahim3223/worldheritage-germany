@@ -3,7 +3,7 @@ title: "St. Remberti"
 site_name: "St. Remberti"
 date: 2026-01-26
 draft: false
-description: "church building in Schwachhausen, Germany"
+description: "St. Remberti is a striking church building located in the Schwachhausen district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Diakonische Stiftung Ummeln"
 site_name: "Diakonische Stiftung Ummeln"
 date: 2026-01-26
 draft: false
-description: "betreibt Einrichtungen und Dienste der Behindertenhilfe und der Jugendhilfe"
+description: "Diakonische Stiftung Ummeln is a prominent foundation located in North Rhine-Westphalia, Germany, dedicated to providing essential services in the fields of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

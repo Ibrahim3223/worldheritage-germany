@@ -3,7 +3,7 @@ title: "Hohlenstein-Stadel"
 site_name: "Hohlenstein-Stadel"
 date: 2026-01-26
 draft: false
-description: "cave in the Swabian Jura"
+description: "Hohlenstein-Stadel, located in the Swabian Jura region of Germany, is a fascinating cave that offers a unique glimpse into prehistoric life."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

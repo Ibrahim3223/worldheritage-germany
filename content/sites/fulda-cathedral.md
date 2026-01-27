@@ -3,7 +3,7 @@ title: "Fulda Cathedral"
 site_name: "Fulda Cathedral"
 date: 2026-01-26
 draft: false
-description: "church in Fulda, Germany"
+description: "Fulda Cathedral, a prominent architectural and cultural landmark in the heart of Germany, is a site that draws visitors with its striking presence and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cathedral"

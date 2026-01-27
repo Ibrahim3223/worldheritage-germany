@@ -3,7 +3,7 @@ title: "Dresden Elbe Valley"
 site_name: "Dresden Elbe Valley"
 date: 2026-01-26
 draft: false
-description: "cultural landscape in Saxony in Germany"
+description: "The Dresden Elbe Valley, a UNESCO World Heritage Site, is a cultural landscape that reflects the rich historical and artistic heritage of Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

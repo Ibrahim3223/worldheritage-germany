@@ -3,7 +3,7 @@ title: "Instrumentarium (Museum)"
 site_name: "Instrumentarium (Museum)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Nothweiler, Germany, the Instrumentarium Museum invites visitors to explore a unique collection dedicated to the art and science of musical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

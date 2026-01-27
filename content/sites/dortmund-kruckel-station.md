@@ -3,7 +3,7 @@ title: "Dortmund-Kruckel station"
 site_name: "Dortmund-Kruckel station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dortmund, Germany"
+description: "Dortmund-Kruckel station serves as a significant node in the railway network of Dortmund, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

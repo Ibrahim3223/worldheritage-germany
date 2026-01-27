@@ -3,7 +3,7 @@ title: "Dairy in the New Garden"
 site_name: "Dairy in the New Garden"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "Dairy in the New Garden, located in the Nördliche Vorstädte region of Germany, is more than just a brewery; it is a focal point of local culture and community."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Brewery"

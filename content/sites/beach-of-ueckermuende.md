@@ -3,7 +3,7 @@ title: "Beach of Ueckermünde"
 site_name: "Beach of Ueckermünde"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Beach of Ueckermünde, located in the picturesque town of Ueckermünde in Germany, offers a serene escape into nature and the refreshing embrace of the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Beach"

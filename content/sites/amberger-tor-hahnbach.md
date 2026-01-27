@@ -3,7 +3,7 @@ title: "Amberger Tor (Hahnbach)"
 site_name: "Amberger Tor (Hahnbach)"
 date: 2026-01-26
 draft: false
-description: "building in Hahnbach, Upper Palatinate, Germany"
+description: "The Amberger Tor, a historic gatehouse located in Hahnbach, Germany, serves as a striking reminder of the region's architectural heritage and medieval past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "Einsiedelner Kapelle"
 site_name: "Einsiedelner Kapelle"
 date: 2026-01-26
 draft: false
-description: "chapel in Rastatt, Germany"
+description: "Einsiedelner Kapelle, a serene chapel located in the picturesque Rastatt region of Germany, invites visitors to explore its tranquil ambiance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

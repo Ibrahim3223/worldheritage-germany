@@ -3,7 +3,7 @@ title: "Liebfrauenkirche (Worms)"
 site_name: "Liebfrauenkirche (Worms)"
 date: 2026-01-26
 draft: false
-description: "church building in Worms, Germany"
+description: "The Liebfrauenkirche in Worms, Germany, is a striking church building that encapsulates centuries of religious devotion and architectural evolution."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

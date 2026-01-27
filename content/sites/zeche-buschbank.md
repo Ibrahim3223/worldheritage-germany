@@ -3,7 +3,7 @@ title: "Zeche Buschbank"
 site_name: "Zeche Buschbank"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Buschbank is a historical mine located in Sprockhövel, Germany, that offers an intriguing glimpse into the region's industrial past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

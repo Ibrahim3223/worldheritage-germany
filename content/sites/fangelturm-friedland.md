@@ -3,7 +3,7 @@ title: "Fangelturm (Friedland)"
 site_name: "Fangelturm (Friedland)"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fangelturm, located in the quaint town of Friedland, Germany, is an intriguing historical tower that captures the imagination of visitors with its unique..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"

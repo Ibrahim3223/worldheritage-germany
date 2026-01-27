@@ -3,7 +3,7 @@ title: "Rothschönberger Stolln (Sachgesamtheit); 3. Lichtloch und 5. Lichtloch 
 site_name: "Rothschönberger Stolln (Sachgesamtheit); 3. Lichtloch und 5. Lichtloch Reinsberg (Sachsen)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rothschönberger Stolln, located in the quaint region of Reinsberg, Germany, presents a unique opportunity to explore the intersection of engineering and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "Burg Milseburg"
 site_name: "Burg Milseburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Milseburg, a striking castle located in the Kleinsassen region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

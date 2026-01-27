@@ -3,7 +3,7 @@ title: "Egelsbergmühle"
 site_name: "Egelsbergmühle"
 date: 2026-01-26
 draft: false
-description: "Turmwindmühle in Nordrhein-Westfalen"
+description: "The Egelsbergmühle, a striking windmill located in Krefeld, Germany, stands as a remarkable example of traditional German milling technology."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Windmill"

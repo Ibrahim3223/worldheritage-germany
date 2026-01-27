@@ -3,7 +3,7 @@ title: "Tatarenturm"
 site_name: "Tatarenturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "In the heart of Magdeburg, Germany, the Tatarenturm stands as an intriguing reminder of the city’s medieval past."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

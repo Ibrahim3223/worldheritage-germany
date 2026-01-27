@@ -3,7 +3,7 @@ title: "Brauerei Keesmann"
 site_name: "Brauerei Keesmann"
 date: 2026-01-26
 draft: false
-description: "Brauerei in Bamberg, Bayern"
+description: "Brauerei Keesmann, a notable brewery located in the historic city of Bamberg, Bavaria, Germany, offers a unique glimpse into the world of traditional German..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

@@ -3,7 +3,7 @@ title: "Straßenbrücke über den Krebsbach Schrebitz"
 site_name: "Straßenbrücke über den Krebsbach Schrebitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über den Krebsbach Schrebitz is a striking bridge located in the picturesque region of Saxony, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

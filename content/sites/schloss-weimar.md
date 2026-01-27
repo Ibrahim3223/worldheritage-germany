@@ -3,7 +3,7 @@ title: "Schloss Weimar"
 site_name: "Schloss Weimar"
 date: 2026-01-26
 draft: false
-description: "art museum and palace in Weimar, Germany"
+description: "Schloss Weimar, an art museum and palace located in the heart of Weimar, Germany, is a cultural landmark that attracts art enthusiasts, history buffs, and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

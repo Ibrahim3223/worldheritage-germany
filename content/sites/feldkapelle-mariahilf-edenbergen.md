@@ -3,7 +3,7 @@ title: "Feldkapelle Mariahilf Edenbergen"
 site_name: "Feldkapelle Mariahilf Edenbergen"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Feldkapelle Mariahilf Edenbergen is a chapel located in the quaint town of Gersthofen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

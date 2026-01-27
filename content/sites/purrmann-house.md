@@ -3,7 +3,7 @@ title: "Purrmann house"
 site_name: "Purrmann house"
 date: 2026-01-26
 draft: false
-description: "house in Speyer"
+description: "The Purrmann House, an intriguing museum located in Speyer, Germany, invites visitors to explore the life and works of the renowned painter Hans Purrmann."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Fürstlich Waldburg-Zeilsches Gesamtarchiv Schloss Zeil"
 site_name: "Fürstlich Waldburg-Zeilsches Gesamtarchiv Schloss Zeil"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fürstlich Waldburg-Zeilsches Gesamtarchiv Schloss Zeil is a significant museum located in Germany that serves as a repository of history and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

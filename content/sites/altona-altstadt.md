@@ -3,7 +3,7 @@ title: "Altona-Altstadt"
 site_name: "Altona-Altstadt"
 date: 2026-01-26
 draft: false
-description: "one of 14 quarters in the district of Altona, Hamburg, Germany"
+description: "Altona-Altstadt, a captivating old town within the district of Altona in Hamburg, Germany, is a unique fusion of historical significance and vibrant urban life."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Old Town"

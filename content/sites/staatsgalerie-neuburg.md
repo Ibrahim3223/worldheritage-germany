@@ -3,7 +3,7 @@ title: "Staatsgalerie Neuburg"
 site_name: "Staatsgalerie Neuburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the historical town of Neuburg an der Donau, the Staatsgalerie Neuburg is an art museum that invites visitors to explore a collection rich in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

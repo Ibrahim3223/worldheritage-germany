@@ -3,7 +3,7 @@ title: "Jungmannschule"
 site_name: "Jungmannschule"
 date: 2026-01-26
 draft: false
-description: "school in Eckernförde, Germany"
+description: "Jungmannschule, located in the coastal town of Eckernförde, Germany, is not just a school building; it stands as a vital emblem of the region's commitment..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "School Building"

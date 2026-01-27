@@ -3,7 +3,7 @@ title: "Wilhelmskirche"
 site_name: "Wilhelmskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Kreuznach, Germany"
+description: "The Wilhelmskirche, a remarkable tower located in the picturesque town of Bad Kreuznach, Germany, is not just a striking architectural feature; it embodies..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

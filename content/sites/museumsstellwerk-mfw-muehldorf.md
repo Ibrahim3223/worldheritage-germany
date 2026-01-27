@@ -3,7 +3,7 @@ title: "Museumsstellwerk Mfw Mühldorf"
 site_name: "Museumsstellwerk Mfw Mühldorf"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in Mühldorf am Inn, Germany, the Museumsstellwerk Mfw Mühldorf is an intriguing museum that showcases the region's cultural and historical narrative."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

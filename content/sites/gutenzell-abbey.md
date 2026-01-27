@@ -3,7 +3,7 @@ title: "Gutenzell Abbey"
 site_name: "Gutenzell Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Gutenzell Abbey is a monastery situated in the tranquil region of Gutenzell-Hürbel, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

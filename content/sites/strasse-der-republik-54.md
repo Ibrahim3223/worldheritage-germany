@@ -3,7 +3,7 @@ title: "Straße der Republik 54"
 site_name: "Straße der Republik 54"
 date: 2026-01-26
 draft: false
-description: "town hall in Niederoderwitz"
+description: "Located in the heart of Niederoderwitz, Germany, Straße der Republik 54 serves as the town hall for this quaint community."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "St. Maria- und Nikolaus-Kirche"
 site_name: "St. Maria- und Nikolaus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Maria- und Nikolaus-Kirche, located in the tranquil region of Westoverledingen, Germany, stands as a noteworthy example of ecclesiastical architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

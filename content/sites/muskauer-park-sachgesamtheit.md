@@ -3,7 +3,7 @@ title: "Muskauer Park (Sachgesamtheit)"
 site_name: "Muskauer Park (Sachgesamtheit)"
 date: 2026-01-26
 draft: false
-description: "heritage site in Bad Muskau, Germany"
+description: "Muskauer Park, a UNESCO World Heritage Site located in Bad Muskau, Germany, is a stunning example of 19th-century landscape architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Heritage Site"

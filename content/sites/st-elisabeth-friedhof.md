@@ -3,7 +3,7 @@ title: "St. Elisabeth-Friedhof"
 site_name: "St. Elisabeth-Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Mitte, Berlin Germany"
+description: "St. Elisabeth-Friedhof, located in the Bezirk Mitte district of Berlin, Germany, serves as both a resting place and a cultural landmark that encapsulates..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

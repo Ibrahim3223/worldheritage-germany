@@ -3,7 +3,7 @@ title: "Gedenkstätte Schacht Schermen"
 site_name: "Gedenkstätte Schacht Schermen"
 date: 2026-01-26
 draft: false
-description: "Gedenkstätte für zehn polnische Opfer des nationalsozialistischen Regimes"
+description: "Gedenkstätte Schacht Schermen serves as a poignant memorial dedicated to the memory of ten Polish victims of the Nazi regime."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

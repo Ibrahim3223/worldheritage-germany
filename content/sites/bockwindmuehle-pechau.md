@@ -3,7 +3,7 @@ title: "Bockwindmühle Pechau"
 site_name: "Bockwindmühle Pechau"
 date: 2026-01-26
 draft: false
-description: "Bockwindmühle im Magdeburger Stadtteil Pechau"
+description: "In the heart of Magdeburg, Germany, the Bockwindmühle Pechau stands as a striking example of traditional windmill architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

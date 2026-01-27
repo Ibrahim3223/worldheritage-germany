@@ -3,7 +3,7 @@ title: "Geschichtsmuseum Lüdenscheid"
 site_name: "Geschichtsmuseum Lüdenscheid"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Geschichtsmuseum Lüdenscheid serves as a vital cultural hub in the heart of Lüdenscheid, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

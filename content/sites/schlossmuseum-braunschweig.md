@@ -3,7 +3,7 @@ title: "Schlossmuseum Braunschweig"
 site_name: "Schlossmuseum Braunschweig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schlossmuseum Braunschweig, located in the historic city of Brunswick, Germany, serves as a prominent cultural institution dedicated to preserving and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

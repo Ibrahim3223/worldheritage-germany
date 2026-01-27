@@ -3,7 +3,7 @@ title: "Friedrich-Ebert-Schule"
 site_name: "Friedrich-Ebert-Schule"
 date: 2026-01-26
 draft: false
-description: "school in Uetersen, Germany"
+description: "Friedrich-Ebert-Schule, located in Uetersen, Germany, is not just an educational institution but also a reflection of the community's commitment to learning..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

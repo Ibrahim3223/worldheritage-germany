@@ -3,7 +3,7 @@ title: "Palais Biron"
 site_name: "Palais Biron"
 date: 2026-01-26
 draft: false
-description: "building in Baden-Baden, Germany"
+description: "Palais Biron, located in the spa town of Baden-Baden, Germany, is a remarkable palace that captures the elegance and grandeur of its era."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

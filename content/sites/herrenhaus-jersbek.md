@@ -3,7 +3,7 @@ title: "Herrenhaus Jersbek"
 site_name: "Herrenhaus Jersbek"
 date: 2026-01-26
 draft: false
-description: "Gutshof und Herrenhaus in Schleswig-Holstein"
+description: "Herrenhaus Jersbek, a distinguished manor house located in the picturesque region of Schleswig-Holstein, Germany, serves as an intriguing portal into the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"

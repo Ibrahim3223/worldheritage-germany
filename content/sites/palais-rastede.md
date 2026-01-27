@@ -3,7 +3,7 @@ title: "Palais Rastede"
 site_name: "Palais Rastede"
 date: 2026-01-26
 draft: false
-description: "building in Rastede, Germany"
+description: "Palais Rastede is an illustrious palace located in the charming town of Rastede, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Yara Brunsbüttel"
 site_name: "Yara Brunsbüttel"
 date: 2026-01-26
 draft: false
-description: "chemical factory in Brunsbüttel, Germany"
+description: "Yara Brunsbüttel represents a significant chapter in Germany’s industrial landscape, situated in the bustling region of Brunsbüttel."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

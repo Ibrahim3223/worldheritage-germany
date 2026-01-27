@@ -3,7 +3,7 @@ title: "Village church Hammelspring"
 site_name: "Village church Hammelspring"
 date: 2026-01-26
 draft: false
-description: "listed hall church in Hammelspring, Templin, Brandenburg state of Germany"
+description: "The Village Church of Hammelspring, located in the quaint village of Hammelspring in Templin, Brandenburg, Germany, is a significant architectural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

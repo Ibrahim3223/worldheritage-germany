@@ -3,7 +3,7 @@ title: "Roman settlement Tegelberg"
 site_name: "Roman settlement Tegelberg"
 date: 2026-01-26
 draft: false
-description: "archaeological site and museum in Schwangau, Germany"
+description: "The Roman settlement Tegelberg, located in the picturesque region of Schwangau, Germany, offers a fascinating glimpse into the ancient world."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

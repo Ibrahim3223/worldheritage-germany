@@ -3,7 +3,7 @@ title: "Library at the Church administrative office of the Evangelical-Lutheran 
 site_name: "Library at the Church administrative office of the Evangelical-Lutheran Church Hanover"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library at the Church Administrative Office of the Evangelical-Lutheran Church Hanover is a significant cultural institution located in the heart of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

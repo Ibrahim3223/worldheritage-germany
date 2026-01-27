@@ -3,7 +3,7 @@ title: "Princely Abbey of Corvey"
 site_name: "Princely Abbey of Corvey"
 date: 2026-01-26
 draft: false
-description: "abbey in North Rhine-Westphalia, Germany"
+description: "The Princely Abbey of Corvey, located in Höxter, North Rhine-Westphalia, Germany, is an extraordinary site that reflects the rich history and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Royal Palace"

@@ -3,7 +3,7 @@ title: "Mahnmal für die Sinti im Altwarmbüchener Moor (Hannover)"
 site_name: "Mahnmal für die Sinti im Altwarmbüchener Moor (Hannover)"
 date: 2026-01-26
 draft: false
-description: "Mahnmal in Hannover"
+description: "The Mahnmal für die Sinti im Altwarmbüchener Moor stands as a poignant memorial located in the Bothfeld-Vahrenheide district of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

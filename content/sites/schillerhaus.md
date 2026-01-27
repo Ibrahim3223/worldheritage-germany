@@ -3,7 +3,7 @@ title: "Schillerhaus"
 site_name: "Schillerhaus"
 date: 2026-01-26
 draft: false
-description: "building in Leipzig, Germany"
+description: "Schillerhaus, located in the charming district of Gohlis, Leipzig, Germany, is more than just a museum; it is a cultural landmark that captures the essence..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

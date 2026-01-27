@@ -3,7 +3,7 @@ title: "Burg Neuenstein (Saasen)"
 site_name: "Burg Neuenstein (Saasen)"
 date: 2026-01-26
 draft: false
-description: "Castle in Hesse, Germany"
+description: "Burg Neuenstein, located in the picturesque region of Hesse, Germany, is a remarkable castle that offers visitors a glimpse into the architectural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

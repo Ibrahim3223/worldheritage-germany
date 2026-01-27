@@ -3,7 +3,7 @@ title: "Eisenbahnbrücke über die Spree (am Kilometer 1,732)"
 site_name: "Eisenbahnbrücke über die Spree (am Kilometer 1,732)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnbrücke über die Spree, located in the picturesque region of Schirgiswalde-Kirschau, Germany, is more than just a bridge; it represents a vital..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

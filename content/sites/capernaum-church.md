@@ -3,7 +3,7 @@ title: "Capernaum Church"
 site_name: "Capernaum Church"
 date: 2026-01-26
 draft: false
-description: "church building in Mitte, Germany"
+description: "Capernaum Church is a notable church building located in the Bezirk Mitte district of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

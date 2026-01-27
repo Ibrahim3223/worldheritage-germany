@@ -3,7 +3,7 @@ title: "Heimatmuseum Pfaffenhausen"
 site_name: "Heimatmuseum Pfaffenhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Pfaffenhausen is a cultural institution located in Germany, dedicated to preserving and showcasing the local heritage and traditions of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Orgelzentrum Valley"
 site_name: "Orgelzentrum Valley"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Orgelzentrum Valley is a distinctive museum located in the scenic Valley region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

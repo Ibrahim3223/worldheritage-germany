@@ -3,7 +3,7 @@ title: "Castra Novaesium"
 site_name: "Castra Novaesium"
 date: 2026-01-26
 draft: false
-description: "Roman fort"
+description: "Castra Novaesium is a remarkable archaeological site located in Germania Inferior, a region that played a pivotal role in the Roman Empire’s northern frontier."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

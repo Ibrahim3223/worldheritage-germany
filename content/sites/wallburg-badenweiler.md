@@ -3,7 +3,7 @@ title: "Wallburg Badenweiler"
 site_name: "Wallburg Badenweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Wallburg Badenweiler is a historical castle located in the picturesque region of Badenweiler, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

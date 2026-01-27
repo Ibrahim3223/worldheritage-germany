@@ -3,7 +3,7 @@ title: "Hatzumer Sand"
 site_name: "Hatzumer Sand"
 date: 2026-01-26
 draft: false
-description: "island"
+description: "Hatzumer Sand, an intriguing island located in the Moormerland region of Germany, offers a unique blend of natural beauty and cultural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Island"

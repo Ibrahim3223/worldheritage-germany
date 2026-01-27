@@ -3,7 +3,7 @@ title: "Burg Montfort"
 site_name: "Burg Montfort"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Montfort, an impressive castle located in the Hallgarten region of Germany, is a captivating site that draws visitors eager to explore its historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

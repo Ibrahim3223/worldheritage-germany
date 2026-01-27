@@ -3,7 +3,7 @@ title: "E.T.A.-Hoffmann-Theater"
 site_name: "E.T.A.-Hoffmann-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Bamberg, Germany"
+description: "The E.T.A.-Hoffmann-Theater, located in the heart of Bamberg, Germany, is a significant cultural landmark that showcases the city’s dedication to the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

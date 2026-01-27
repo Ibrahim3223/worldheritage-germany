@@ -3,7 +3,7 @@ title: "Bjelorussisches Museum"
 site_name: "Bjelorussisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bjelorussisches Museum, situated in Germany, offers a unique glimpse into the cultural and historical narratives surrounding Belarus."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

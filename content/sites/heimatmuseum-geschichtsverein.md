@@ -3,7 +3,7 @@ title: "Heimatmuseum Geschichtsverein"
 site_name: "Heimatmuseum Geschichtsverein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum Geschichtsverein serves as a vital cultural institution in Germany, dedicated to preserving and showcasing the region's history and heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

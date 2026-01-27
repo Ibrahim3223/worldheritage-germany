@@ -3,7 +3,7 @@ title: "Stuttgart Collegiate Church"
 site_name: "Stuttgart Collegiate Church"
 date: 2026-01-26
 draft: false
-description: "collegiate church in Stuttgart, Germany"
+description: "Stuttgart Collegiate Church, located in the heart of Stuttgart-Mitte, is a remarkable example of ecclesiastical architecture that appeals to both history..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

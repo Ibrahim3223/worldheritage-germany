@@ -3,7 +3,7 @@ title: "Wendelinuskapellen von Budenheim"
 site_name: "Wendelinuskapellen von Budenheim"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "The Wendelinuskapellen von Budenheim is a captivating chapel situated in the quaint town of Budenheim, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

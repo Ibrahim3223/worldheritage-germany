@@ -3,7 +3,7 @@ title: "Perlachturm"
 site_name: "Perlachturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Perlachturm, a prominent tower located in the heart of Augsburg, Germany, serves as a striking landmark that captures the essence of the city's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

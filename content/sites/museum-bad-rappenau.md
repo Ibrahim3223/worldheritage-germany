@@ -3,7 +3,7 @@ title: "Museum Bad Rappenau"
 site_name: "Museum Bad Rappenau"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Rappenau"
+description: "Museum Bad Rappenau serves as a cultural hub in the charming town of Bad Rappenau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

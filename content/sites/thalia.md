@@ -3,7 +3,7 @@ title: "Thalia"
 site_name: "Thalia"
 date: 2026-01-26
 draft: false
-description: "cinema in Dresden, Germany"
+description: "Thalia, a prominent cinema located in Dresden, Germany, offers a unique blend of cultural entertainment and historical ambiance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

@@ -3,7 +3,7 @@ title: "Christuskirche (Dessau)"
 site_name: "Christuskirche (Dessau)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Christuskirche in Dessau, Germany, is a striking church building that invites visitors to explore its architectural beauty and spiritual significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

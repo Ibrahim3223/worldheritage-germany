@@ -3,7 +3,7 @@ title: "Leibniz-Ausstellung im Leibnizhaus"
 site_name: "Leibniz-Ausstellung im Leibnizhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Leibniz-Ausstellung im Leibnizhaus offers a unique glimpse into the life and works of one of Germany's most prominent philosophers, mathematicians, and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

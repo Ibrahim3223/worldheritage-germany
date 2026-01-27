@@ -3,7 +3,7 @@ title: "St. Bernward's Church, Hildesheim"
 site_name: "St. Bernward's Church, Hildesheim"
 date: 2026-01-26
 draft: false
-description: "church building in Hildesheim, Germany"
+description: "St. Bernward's Church in Hildesheim is a remarkable church building that embodies the historical and architectural significance of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

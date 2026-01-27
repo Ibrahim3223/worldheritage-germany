@@ -3,7 +3,7 @@ title: "Albert-Schumann-Theater"
 site_name: "Albert-Schumann-Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre and cinema in Frankfurt am Main, Germany"
+description: "The Albert-Schumann-Theater, located in the vibrant city of Frankfurt am Main, Germany, is a cultural landmark that provides a fascinating glimpse into the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Movie Theater"

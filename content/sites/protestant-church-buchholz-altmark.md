@@ -3,7 +3,7 @@ title: "Protestant Church Buchholz (Altmark)"
 site_name: "Protestant Church Buchholz (Altmark)"
 date: 2026-01-26
 draft: false
-description: "church building in Stendal, Saxony-Anhalt, Germany"
+description: "The Protestant Church Buchholz (Altmark) is a significant religious structure located in the Stendal region of Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

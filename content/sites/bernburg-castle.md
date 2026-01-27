@@ -3,7 +3,7 @@ title: "Bernburg Castle"
 site_name: "Bernburg Castle"
 date: 2026-01-26
 draft: false
-description: "castle and museum in Saxony-Anhalt, Germany"
+description: "Bernburg Castle, a remarkable museum located in the heart of Saxony-Anhalt, Germany, provides visitors with a unique opportunity to explore medieval..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

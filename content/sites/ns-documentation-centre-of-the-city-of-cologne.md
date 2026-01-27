@@ -3,7 +3,7 @@ title: "NS Documentation Centre of the City of Cologne"
 site_name: "NS Documentation Centre of the City of Cologne"
 date: 2026-01-26
 draft: false
-description: "NS Documentation Centre - Cologne"
+description: "The NS Documentation Centre of the City of Cologne offers visitors a profound exploration of the historical and social implications of National Socialism,..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

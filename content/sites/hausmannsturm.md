@@ -3,7 +3,7 @@ title: "Hausmannsturm"
 site_name: "Hausmannsturm"
 date: 2026-01-26
 draft: false
-description: "tower in Dresden"
+description: "In the heart of Dresden, Germany, the Hausmannsturm stands as a distinctive landmark, captivating visitors with its historical significance and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Judaica-Museum"
 site_name: "Judaica-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Judaica-Museum in Germany is a vital institution dedicated to the preservation and exhibition of Jewish culture and heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

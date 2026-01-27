@@ -3,7 +3,7 @@ title: "Müglitztalbahn (Sachgesamtheit); Brücke Schlottwitz"
 site_name: "Müglitztalbahn (Sachgesamtheit); Brücke Schlottwitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Müglitztalbahn, specifically the Brücke Schlottwitz, serves as a striking example of early railway engineering nestled within the picturesque region of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

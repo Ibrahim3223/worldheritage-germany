@@ -3,7 +3,7 @@ title: "Nikolaikapelle (Obermarsberg)"
 site_name: "Nikolaikapelle (Obermarsberg)"
 date: 2026-01-26
 draft: false
-description: "church building in Marsberg, Germany"
+description: "Nestled in the charming town of Marsberg in Germany, Nikolaikapelle (Obermarsberg) is an intriguing church building that reflects the region's rich cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

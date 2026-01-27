@@ -3,7 +3,7 @@ title: "Palais Hartleben"
 site_name: "Palais Hartleben"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Braunfels"
+description: "Palais Hartleben is an architectural gem located in the quaint town of Braunfels, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

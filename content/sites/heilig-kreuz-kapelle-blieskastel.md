@@ -3,7 +3,7 @@ title: "Heilig-Kreuz-Kapelle (Blieskastel)"
 site_name: "Heilig-Kreuz-Kapelle (Blieskastel)"
 date: 2026-01-26
 draft: false
-description: "chapel in Blieskastel, Germany"
+description: "The Heilig-Kreuz-Kapelle, or Holy Cross Chapel, is a serene place of worship located in Blieskastel, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Chapel"

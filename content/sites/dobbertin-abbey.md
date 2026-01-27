@@ -3,7 +3,7 @@ title: "Dobbertin Abbey"
 site_name: "Dobbertin Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Dobbertin Abbey, a historic monastery located in the serene region of Dobbertin, Germany, is an architectural marvel steeped in centuries of tradition and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Gut Roest"
 site_name: "Gut Roest"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Roest is a distinguished manor house located in Kappeln, Germany. As one of the notable examples of historic architecture in the region, this manor..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

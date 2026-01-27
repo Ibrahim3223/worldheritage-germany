@@ -3,7 +3,7 @@ title: "Sichtungsgarten Weihenstephan"
 site_name: "Sichtungsgarten Weihenstephan"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Freising, Germany"
+description: "Sichtungsgarten Weihenstephan, located in the District of Freising, Germany, is a notable botanical garden that serves as a living repository of plant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

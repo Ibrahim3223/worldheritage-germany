@@ -3,7 +3,7 @@ title: "Museum Kellinghusen"
 site_name: "Museum Kellinghusen"
 date: 2026-01-26
 draft: false
-description: "Museum in Schleswig-Holstein"
+description: "Museum Kellinghusen, located in the charming town of Kellinghusen in Schleswig-Holstein, Germany, is a captivating destination for those interested in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

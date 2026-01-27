@@ -3,7 +3,7 @@ title: "Vorgarten Alfred-Sauerteig-Anlage 1 in Coburg"
 site_name: "Vorgarten Alfred-Sauerteig-Anlage 1 in Coburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-855 (1) in Coburg, Bavaria"
+description: "In the heart of Coburg, Bavaria, lies the Vorgarten Alfred-Sauerteig-Anlage 1, a garden that epitomizes the region's cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

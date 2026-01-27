@@ -3,7 +3,7 @@ title: "Goethe-Nationalmuseum"
 site_name: "Goethe-Nationalmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Goethe-Nationalmuseum, located in the heart of Weimar, Germany, stands as a prominent institution dedicated to honoring the life and works of one of..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

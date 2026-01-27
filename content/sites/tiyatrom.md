@@ -3,7 +3,7 @@ title: "Tiyatrom"
 site_name: "Tiyatrom"
 date: 2026-01-26
 draft: false
-description: "vorwiegend türkischsprachiges Theater in Berlin-Kreuzberg"
+description: "Tiyatrom is a unique cultural institution located in the vibrant Kreuzberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

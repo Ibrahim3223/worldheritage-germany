@@ -3,7 +3,7 @@ title: "Wollspinnerei Blunck"
 site_name: "Wollspinnerei Blunck"
 date: 2026-01-26
 draft: false
-description: "Wollspinnerei in Bad Segeberg"
+description: "The Wollspinnerei Blunck, located in the charming town of Bad Segeberg, Germany, presents a captivating glimpse into the world of wool spinning and textile..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

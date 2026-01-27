@@ -3,7 +3,7 @@ title: "Gebrüder-Lachner-Museum"
 site_name: "Gebrüder-Lachner-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Rain (Lech), Bavaria, Germany"
+description: "The Gebrüder-Lachner-Museum, located in Rain, Bavaria, Germany, is a tribute to the cultural heritage of the region, specifically celebrating the Lachner..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

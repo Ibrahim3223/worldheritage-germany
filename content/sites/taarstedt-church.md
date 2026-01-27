@@ -3,7 +3,7 @@ title: "Taarstedt church"
 site_name: "Taarstedt church"
 date: 2026-01-26
 draft: false
-description: "church building in Taarstedt, Germany"
+description: "Taarstedt Church, located in the serene village of Taarstedt, Germany, is a captivating example of ecclesiastical architecture that invites visitors to..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

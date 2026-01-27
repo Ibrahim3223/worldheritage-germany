@@ -3,7 +3,7 @@ title: "Palais Lüttichau"
 site_name: "Palais Lüttichau"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "Palais Lüttichau, located in Dresden, Saxony, is a distinguished example of the region’s architectural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

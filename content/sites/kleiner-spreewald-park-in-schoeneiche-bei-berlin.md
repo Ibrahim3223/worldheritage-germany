@@ -3,7 +3,7 @@ title: "Kleiner Spreewald Park in Schöneiche bei Berlin"
 site_name: "Kleiner Spreewald Park in Schöneiche bei Berlin"
 date: 2026-01-26
 draft: false
-description: "park in Schöneiche bei Berlin, Germany"
+description: "Kleiner Spreewald Park in Schöneiche bei Berlin is a serene retreat located just a stone's throw from the bustling capital of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

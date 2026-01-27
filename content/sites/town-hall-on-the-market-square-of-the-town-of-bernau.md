@@ -3,7 +3,7 @@ title: "town hall on the market square of the town of Bernau"
 site_name: "town hall on the market square of the town of Bernau"
 date: 2026-01-26
 draft: false
-description: "building in Bernau bei Berlin, Brandenburg, Germany"
+description: "The town hall on the market square of Bernau bei Berlin stands as a central figure in this picturesque town, reflecting both its historical significance and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "City Hall"

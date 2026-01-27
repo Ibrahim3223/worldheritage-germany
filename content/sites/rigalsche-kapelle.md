@@ -3,7 +3,7 @@ title: "Rigal’sche Kapelle"
 site_name: "Rigal’sche Kapelle"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Bonn"
+description: "Rigal’sche Kapelle, a quaint chapel located in the Bad Godesberg district of Bonn, Germany, serves as a serene place of worship and reflection amidst a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

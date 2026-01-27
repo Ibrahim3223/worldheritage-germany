@@ -3,7 +3,7 @@ title: "Loquard Church"
 site_name: "Loquard Church"
 date: 2026-01-26
 draft: false
-description: "church building in Loquard, Germany"
+description: "In the heart of Loquard, Germany, the Loquard Church stands as a remarkable example of ecclesiastical architecture, inviting visitors to explore its storied..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

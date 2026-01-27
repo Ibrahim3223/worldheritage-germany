@@ -3,7 +3,7 @@ title: "Burg Friesack"
 site_name: "Burg Friesack"
 date: 2026-01-26
 draft: false
-description: "castle in Friesack, Germany"
+description: "Burg Friesack is a captivating castle located in the heart of Friesack, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

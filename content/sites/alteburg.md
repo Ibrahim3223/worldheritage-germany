@@ -3,7 +3,7 @@ title: "Alteburg"
 site_name: "Alteburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the scenic Biebergemünd region of Germany, Alteburg is a castle that embodies the medieval architecture and historical significance of the area."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Südliche Weinstraße Wildlife Park"
 site_name: "Südliche Weinstraße Wildlife Park"
 date: 2026-01-26
 draft: false
-description: "100 ha large area with about 400 animals from 15 European speciese"
+description: "The Südliche Weinstraße Wildlife Park, located in Silz, Rhineland-Palatinate, Germany, offers an immersive experience into the natural world, set within a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

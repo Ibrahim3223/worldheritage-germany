@@ -3,7 +3,7 @@ title: "Abschnittsbefestigung Andechs"
 site_name: "Abschnittsbefestigung Andechs"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Abschnittsbefestigung Andechs, a striking castle located in the scenic region of Andechs, Germany, offers a fascinating glimpse into the architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

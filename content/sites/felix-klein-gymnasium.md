@@ -3,7 +3,7 @@ title: "Felix-Klein-Gymnasium"
 site_name: "Felix-Klein-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Felix-Klein-Gymnasium is an essential institution located in Göttingen, Germany, characterized by its role as an educational facility that contributes to..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "School Building"

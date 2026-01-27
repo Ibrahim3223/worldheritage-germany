@@ -3,7 +3,7 @@ title: "Wendener Hütte"
 site_name: "Wendener Hütte"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wendener Hütte, located in the town of Wenden, Germany, serves as a captivating museum that invites visitors to explore the region’s cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

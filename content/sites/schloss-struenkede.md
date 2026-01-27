@@ -3,7 +3,7 @@ title: "Schloss Strünkede"
 site_name: "Schloss Strünkede"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloss Strünkede, located in the dynamic city of Herne, Germany, is a must-visit destination for those with an appreciation for history and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

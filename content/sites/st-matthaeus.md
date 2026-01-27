@@ -3,7 +3,7 @@ title: "St. Matthäus"
 site_name: "St. Matthäus"
 date: 2026-01-26
 draft: false
-description: "church building in Niederkassel, Germany"
+description: "St. Matthäus, located in the serene town of Niederkassel, Germany, is not just a place of worship; it represents a vital piece of the cultural and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

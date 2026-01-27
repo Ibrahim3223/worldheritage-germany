@@ -3,7 +3,7 @@ title: "Anatomieturm Jena"
 site_name: "Anatomieturm Jena"
 date: 2026-01-26
 draft: false
-description: "ruinenhafter Rundturm an der Stadtmauer Jena"
+description: "The Anatomieturm Jena, a historic tower located in the city of Jena, Germany, is an intriguing remnant of the region's architectural heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Burg Kittenberg"
 site_name: "Burg Kittenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kittenberg is a castle located in the picturesque region of Gleisweiler, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

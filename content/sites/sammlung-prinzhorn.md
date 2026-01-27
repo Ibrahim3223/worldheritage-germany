@@ -3,7 +3,7 @@ title: "Sammlung Prinzhorn"
 site_name: "Sammlung Prinzhorn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Heidelberg, Germany, the Sammlung Prinzhorn offers a unique glimpse into the intersection of art and mental health."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

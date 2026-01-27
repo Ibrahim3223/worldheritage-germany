@@ -3,7 +3,7 @@ title: "Stralau Gate"
 site_name: "Stralau Gate"
 date: 2026-01-26
 draft: false
-description: "former city gate of Berlin"
+description: "Stralau Gate, located in the Friedrichshain-Kreuzberg district of Berlin, is an evocative remnant of the city's storied past."
 region: "Berlin"
 country: "Germany"
 heritage_type: "City Gate"

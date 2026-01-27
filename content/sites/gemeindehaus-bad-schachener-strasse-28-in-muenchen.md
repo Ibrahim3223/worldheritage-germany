@@ -3,7 +3,7 @@ title: "Gemeindehaus Bad-Schachener-Straße 28 in München"
 site_name: "Gemeindehaus Bad-Schachener-Straße 28 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-7921 (1) in München, Bavaria"
+description: "Located in the heart of Munich, the Gemeindehaus Bad-Schachener-Straße 28 is more than just a city hall; it is a cultural heritage monument that..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Schloss Grünsberg"
 site_name: "Schloss Grünsberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "Schloss Grünsberg, a remarkable manor house located in Altdorf bei Nürnberg, Germany, is a cultural heritage monument that captivates visitors with its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

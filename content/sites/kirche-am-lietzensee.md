@@ -3,7 +3,7 @@ title: "Kirche am Lietzensee"
 site_name: "Kirche am Lietzensee"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Kirche am Lietzensee, a serene church building located in the Charlottenburg-Wilmersdorf district of Berlin, serves as a poignant piece of the city's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

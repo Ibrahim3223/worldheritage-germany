@@ -3,7 +3,7 @@ title: "Kreismuseum Zons"
 site_name: "Kreismuseum Zons"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Dormagen, Germany, Kreismuseum Zons serves as a cultural hub that immerses visitors in the region's historical narrative."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

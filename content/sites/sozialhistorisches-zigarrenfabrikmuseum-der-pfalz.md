@@ -3,7 +3,7 @@ title: "Sozialhistorisches Zigarrenfabrikmuseum der Pfalz"
 site_name: "Sozialhistorisches Zigarrenfabrikmuseum der Pfalz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sozialhistorisches Zigarrenfabrikmuseum der Pfalz, located in Rödersheim-Gronau, Germany, presents a captivating exploration of the tobacco industry’s..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

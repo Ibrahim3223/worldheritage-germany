@@ -3,7 +3,7 @@ title: "Windmühle Lechtingen"
 site_name: "Windmühle Lechtingen"
 date: 2026-01-26
 draft: false
-description: "Holländerwindmühle in Wallenhorst in Niedersachsen"
+description: "Windmühle Lechtingen, a captivating windmill located in the quaint region of Wallenhorst, Niedersachsen, Germany, serves as a remarkable example of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

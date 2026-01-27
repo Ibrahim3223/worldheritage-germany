@@ -3,7 +3,7 @@ title: "Staatsgalerie Stuttgart"
 site_name: "Staatsgalerie Stuttgart"
 date: 2026-01-26
 draft: false
-description: "art museum in Stuttgart, Germany"
+description: "In the heart of Stuttgart lies the Staatsgalerie Stuttgart, an art museum that serves as a pillar of cultural heritage in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

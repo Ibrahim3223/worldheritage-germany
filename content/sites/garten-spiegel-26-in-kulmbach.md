@@ -3,7 +3,7 @@ title: "Garten Spiegel 26 in Kulmbach"
 site_name: "Garten Spiegel 26 in Kulmbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-77-128-309 (1) in Kulmbach, Bavaria"
+description: "Step into the serene surroundings of Garten Spiegel 26 in Kulmbach, a cultural heritage monument that encapsulates the essence of Bavarian gardening tradition."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

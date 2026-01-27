@@ -3,7 +3,7 @@ title: "Burg Castle"
 site_name: "Burg Castle"
 date: 2026-01-26
 draft: false
-description: "Castle in Solingen, NRW, Germany"
+description: "Burg Castle, located in the historical city of Solingen in North Rhine-Westphalia, Germany, is a striking example of medieval architecture that captures the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

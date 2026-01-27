@@ -3,7 +3,7 @@ title: "German Literature Archive Marbach"
 site_name: "German Literature Archive Marbach"
 date: 2026-01-26
 draft: false
-description: "literature archive in Marbach am Neckar, Baden-Württemberg, Germany (1955-)"
+description: "The German Literature Archive Marbach, located in the charming town of Marbach am Neckar in Baden-Württemberg, Germany, serves as a vital center for the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

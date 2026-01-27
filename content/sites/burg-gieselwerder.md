@@ -3,7 +3,7 @@ title: "Burg Gieselwerder"
 site_name: "Burg Gieselwerder"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gieselwerder, a remarkable castle located in the serene region of Gieselwerder, Germany, invites visitors to explore its storied past and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

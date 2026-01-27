@@ -3,7 +3,7 @@ title: "Burgruine Buchberg"
 site_name: "Burgruine Buchberg"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burgruine Buchberg is a remarkable archaeological site located in the picturesque region of Willmering, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

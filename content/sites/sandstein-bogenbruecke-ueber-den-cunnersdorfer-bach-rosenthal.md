@@ -3,7 +3,7 @@ title: "Sandstein-Bogenbrücke über den Cunnersdorfer Bach Rosenthal"
 site_name: "Sandstein-Bogenbrücke über den Cunnersdorfer Bach Rosenthal"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Sandstein-Bogenbrücke über den Cunnersdorfer Bach Rosenthal is a captivating bridge located in the picturesque region of Rosenthal-Bielatal, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

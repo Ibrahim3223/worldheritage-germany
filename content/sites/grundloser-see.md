@@ -3,7 +3,7 @@ title: "Grundloser See"
 site_name: "Grundloser See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Nestled in the scenic District of Rosenheim, Grundloser See is a picturesque lake in Germany that captivates both locals and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

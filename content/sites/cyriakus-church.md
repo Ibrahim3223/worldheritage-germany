@@ -3,7 +3,7 @@ title: "Cyriakus church"
 site_name: "Cyriakus church"
 date: 2026-01-26
 draft: false
-description: "church building in Brunswick, Germany"
+description: "Cyriakus Church, located in the vibrant city of Brunswick, Germany, stands as a remarkable example of ecclesiastical architecture and community heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

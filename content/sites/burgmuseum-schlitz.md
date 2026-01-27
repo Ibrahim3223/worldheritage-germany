@@ -3,7 +3,7 @@ title: "Burgmuseum Schlitz"
 site_name: "Burgmuseum Schlitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Burgmuseum Schlitz serves as a captivating portal into the historical narrative of the region, offering visitors a unique glimpse into the cultural heritage..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

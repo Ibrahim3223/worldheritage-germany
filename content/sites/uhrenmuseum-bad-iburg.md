@@ -3,7 +3,7 @@ title: "Uhrenmuseum Bad Iburg"
 site_name: "Uhrenmuseum Bad Iburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Uhrenmuseum Bad Iburg is a fascinating museum located in Bad Iburg, Germany, dedicated to the intricate art and science of horology."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

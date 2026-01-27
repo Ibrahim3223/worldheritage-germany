@@ -3,7 +3,7 @@ title: "Olaf-Gulbransson-Museum Tegernsee"
 site_name: "Olaf-Gulbransson-Museum Tegernsee"
 date: 2026-01-26
 draft: false
-description: "building in Tegernsee, Upper Bavaria, Germany"
+description: "The Olaf-Gulbransson-Museum in Tegernsee, Germany, serves as a dedicated space for the vibrant works of Olaf Gulbransson, a notable figure in the world of art."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

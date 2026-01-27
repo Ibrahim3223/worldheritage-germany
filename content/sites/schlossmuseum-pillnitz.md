@@ -3,7 +3,7 @@ title: "Schlossmuseum Pillnitz"
 site_name: "Schlossmuseum Pillnitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schlossmuseum Pillnitz, located in Dresden, Germany, is a captivating museum that invites visitors to explore a wealth of cultural heritage and artistic..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

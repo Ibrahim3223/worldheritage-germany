@@ -3,7 +3,7 @@ title: "Bansee"
 site_name: "Bansee"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bansee is a nature reserve located in the heart of Hademstorf, Germany, within the picturesque region of Lower Saxony."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

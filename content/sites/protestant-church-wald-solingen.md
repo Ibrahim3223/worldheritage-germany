@@ -3,7 +3,7 @@ title: "Protestant Church (Wald, Solingen)"
 site_name: "Protestant Church (Wald, Solingen)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Protestant Church in Wald, Solingen is a striking example of ecclesiastical architecture that not only serves as a place of worship but also as a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

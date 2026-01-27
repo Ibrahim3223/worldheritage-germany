@@ -3,7 +3,7 @@ title: "Söflingen Abbey"
 site_name: "Söflingen Abbey"
 date: 2026-01-26
 draft: false
-description: "church building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Söflingen Abbey, an evocative monastery located in Ulm, Germany, is a striking example of ecclesiastical architecture and spiritual heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

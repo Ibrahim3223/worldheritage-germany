@@ -3,7 +3,7 @@ title: "Church Welle"
 site_name: "Church Welle"
 date: 2026-01-26
 draft: false
-description: "church in Saxony-Anhalt, Germany"
+description: "Church Welle, located in the heart of Welle, Saxony-Anhalt, Germany, is a notable example of ecclesiastical architecture reflective of the region's..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

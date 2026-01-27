@@ -3,7 +3,7 @@ title: "Zoologischer Garten Neunkirchen"
 site_name: "Zoologischer Garten Neunkirchen"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Zoologischer Garten Neunkirchen, located in the picturesque town of Neunkirchen, Germany, is a vibrant destination for animal lovers and families alike."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Zoo"

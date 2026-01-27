@@ -3,7 +3,7 @@ title: "Kapelle zum heiligen Kreuz"
 site_name: "Kapelle zum heiligen Kreuz"
 date: 2026-01-26
 draft: false
-description: "church building in Heusenstamm"
+description: "The Kapelle zum heiligen Kreuz, a quaint chapel located in the heart of Heusenstamm, Germany, serves as both a spiritual haven and a landmark of local heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Schafsbrücke Clausnitz"
 site_name: "Schafsbrücke Clausnitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Schafsbrücke Clausnitz is a historical bridge located in the serene Rechenberg-Bienenmühle region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

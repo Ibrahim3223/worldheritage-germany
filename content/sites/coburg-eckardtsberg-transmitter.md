@@ -3,7 +3,7 @@ title: "Coburg-Eckardtsberg transmitter"
 site_name: "Coburg-Eckardtsberg transmitter"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Coburg-Eckardtsberg transmitter is a notable communications tower located in the region of Coburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

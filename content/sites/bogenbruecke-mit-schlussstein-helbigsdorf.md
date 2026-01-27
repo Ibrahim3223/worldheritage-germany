@@ -3,7 +3,7 @@ title: "Bogenbrücke mit Schlussstein Helbigsdorf"
 site_name: "Bogenbrücke mit Schlussstein Helbigsdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke mit Schlussstein Helbigsdorf is a notable bridge located in the Wilsdruff region of Germany, inviting visitors to explore both its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

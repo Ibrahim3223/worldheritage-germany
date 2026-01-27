@@ -3,7 +3,7 @@ title: "Gutshaus Quassel"
 site_name: "Gutshaus Quassel"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Lübtheen im Landkreis Ludwigslust-Parchim (Mecklenburg-Vorpommern)"
+description: "Gutshaus Quassel, a distinguished manor house located in the tranquil region of Lübtheen in Mecklenburg-Vorpommern, Germany, provides visitors with a unique..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

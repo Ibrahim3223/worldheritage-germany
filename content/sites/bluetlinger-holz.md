@@ -3,7 +3,7 @@ title: "Blütlinger Holz"
 site_name: "Blütlinger Holz"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Blütlinger Holz, a nature reserve located in the tranquil region of Wustrow, Germany, offers visitors a serene escape into the natural beauty of Lower Saxony."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

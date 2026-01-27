@@ -3,7 +3,7 @@ title: "Matthäuskirche"
 site_name: "Matthäuskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Matthäuskirche, a notable church building located in the charming city of Pforzheim, Germany, serves as both a spiritual hub and a remarkable example of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

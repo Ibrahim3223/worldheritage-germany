@@ -3,7 +3,7 @@ title: "Gandersumer Kirche"
 site_name: "Gandersumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Gandersumer Kirche stands as a significant example of religious architecture in the Moormerland region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

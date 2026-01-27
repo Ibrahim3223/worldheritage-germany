@@ -3,7 +3,7 @@ title: "Zwei Steindeckerbrücken Weißenberger Straße 16 (neben)"
 site_name: "Zwei Steindeckerbrücken Weißenberger Straße 16 (neben)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Zwei Steindeckerbrücken, located at Weißenberger Straße 16 in the quaint town of Weißenberg, Germany, offers visitors a glimpse into the region's..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

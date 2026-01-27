@@ -3,7 +3,7 @@ title: "Brücke über die Rachel Clausnitz"
 site_name: "Brücke über die Rachel Clausnitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über die Rachel Clausnitz is an impressive bridge located in the scenic region of Rechenberg-Bienenmühle, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

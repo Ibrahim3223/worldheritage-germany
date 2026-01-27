@@ -3,7 +3,7 @@ title: "New synagogue"
 site_name: "New synagogue"
 date: 2026-01-26
 draft: false
-description: "building in Eppingen, Stuttgart Government Region, Bade-Württemberg, Germany"
+description: "The New Synagogue in Eppingen, situated in the Stuttgart Government Region of Baden-Württemberg, Germany, stands as a significant cultural and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

@@ -3,7 +3,7 @@ title: "St. Jacobi Werther"
 site_name: "St. Jacobi Werther"
 date: 2026-01-26
 draft: false
-description: "church building in Werther, Germany"
+description: "St. Jacobi Werther is a distinguished church building located in the charming town of Werther, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

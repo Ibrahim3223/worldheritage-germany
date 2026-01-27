@@ -3,7 +3,7 @@ title: "Stadtmuseum Langen im Alten Rathaus"
 site_name: "Stadtmuseum Langen im Alten Rathaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Langen im Alten Rathaus is a museum located in the heart of Langen, Germany, offering visitors a unique glimpse into the local culture and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

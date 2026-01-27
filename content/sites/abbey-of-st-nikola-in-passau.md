@@ -3,7 +3,7 @@ title: "Abbey of St. Nikola in Passau"
 site_name: "Abbey of St. Nikola in Passau"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Abbey of St. Nikola in Passau stands as a significant religious and cultural landmark in this historic German city."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

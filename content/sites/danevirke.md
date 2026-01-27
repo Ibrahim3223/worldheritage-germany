@@ -3,7 +3,7 @@ title: "Danevirke"
 site_name: "Danevirke"
 date: 2026-01-26
 draft: false
-description: "system of Danish fortifications in Schleswig-Holstein, Germany"
+description: "Danevirke is a remarkable archaeological site located in Schleswig-Holstein, Germany, where the remnants of a historic system of Danish fortifications can..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Archaeological Site"

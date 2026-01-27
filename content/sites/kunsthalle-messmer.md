@@ -3,7 +3,7 @@ title: "Kunsthalle Messmer"
 site_name: "Kunsthalle Messmer"
 date: 2026-01-26
 draft: false
-description: "museum in Baden-Württemberg, Germany"
+description: "Kunsthalle Messmer, located in the charming town of Riegel am Kaiserstuhl in Baden-Württemberg, Germany, is a cultural institution that serves as a vibrant..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

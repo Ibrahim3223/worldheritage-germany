@@ -3,7 +3,7 @@ title: "Garten Schulstraße 3 in Oberthulba"
 site_name: "Garten Schulstraße 3 in Oberthulba"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-139-74 (2) in Oberthulba, Bavaria"
+description: "Garten Schulstraße 3 in Oberthulba is a noteworthy cultural heritage monument located in the picturesque region of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

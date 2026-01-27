@@ -3,7 +3,7 @@ title: "Güstrow City Museum"
 site_name: "Güstrow City Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Güstrow City Museum stands as a cultural institution in the heart of Güstrow, Germany, offering visitors a window into the city's historical and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Basilica of SS. Peter and Alexander"
 site_name: "Basilica of SS. Peter and Alexander"
 date: 2026-01-26
 draft: false
-description: "church in Aschaffenburg, Bavaria, Germany"
+description: "The Basilica of SS. Peter and Alexander serves as a significant landmark in Aschaffenburg, a city located in the heart of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

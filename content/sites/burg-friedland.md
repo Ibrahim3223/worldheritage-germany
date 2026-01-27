@@ -3,7 +3,7 @@ title: "Burg Friedland"
 site_name: "Burg Friedland"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Friedland, a remarkable castle in Germany, presents an intriguing glimpse into the architectural and historical narrative of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

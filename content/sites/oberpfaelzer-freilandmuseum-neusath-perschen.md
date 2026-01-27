@@ -3,7 +3,7 @@ title: "Oberpfälzer Freilandmuseum Neusath-Perschen"
 site_name: "Oberpfälzer Freilandmuseum Neusath-Perschen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Oberpfälzer Freilandmuseum Neusath-Perschen offers a unique glimpse into the agricultural and rural life of the Upper Palatinate region in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

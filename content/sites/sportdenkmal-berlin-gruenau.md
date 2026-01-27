@@ -3,7 +3,7 @@ title: "Sportdenkmal Berlin-Grünau"
 site_name: "Sportdenkmal Berlin-Grünau"
 date: 2026-01-26
 draft: false
-description: "former memorial in Berlin-Grünau"
+description: "Sportdenkmal Berlin-Grünau is a poignant memorial located in the Berlin-Grünau district of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

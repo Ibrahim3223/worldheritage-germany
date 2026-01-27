@@ -3,7 +3,7 @@ title: "Büchnerhaus"
 site_name: "Büchnerhaus"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "Büchnerhaus is a museum located in the quaint district of Goddelau, Germany, dedicated to the life and works of the renowned playwright and revolutionary..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

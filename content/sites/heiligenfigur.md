@@ -3,7 +3,7 @@ title: "Heiligenfigur"
 site_name: "Heiligenfigur"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-75-174-145 (0) in Volkach, Bavaria"
+description: "The Heiligenfigur, a striking statue located in the charming town of Volkach in Bavaria, Germany, serves as a cultural heritage monument and a fascinating..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

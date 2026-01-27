@@ -3,7 +3,7 @@ title: "Museum Obermünster"
 site_name: "Museum Obermünster"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Obermünster, located in Germany, serves as a portal into the heart of the region’s cultural and historical narrative."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

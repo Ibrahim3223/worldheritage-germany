@@ -3,7 +3,7 @@ title: "Ammer Saddle"
 site_name: "Ammer Saddle"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "The Ammer Saddle, a notable mountain pass in the District of Garmisch-Partenkirchen, Germany, is a captivating destination that provides access to the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain Pass"

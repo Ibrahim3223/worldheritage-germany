@@ -3,7 +3,7 @@ title: "Brückturm-Museum"
 site_name: "Brückturm-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Brückturm-Museum in Germany serves as a focal point for those intrigued by the historical narratives that shape the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Haus Schwickering (Rorup)"
 site_name: "Haus Schwickering (Rorup)"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Haus Schwickering, located in the charming village of Rorup in Germany, is a captivating manor house that embodies the architectural elegance and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

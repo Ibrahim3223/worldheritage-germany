@@ -3,7 +3,7 @@ title: "Neue Welt"
 site_name: "Neue Welt"
 date: 2026-01-26
 draft: false
-description: "entertainment venue in Neukölln, Berlin, Germany"
+description: "Located in the vibrant district of Neukölln, Berlin, the Neue Welt offers a unique blend of entertainment and cultural experience within the city's dynamic..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Movie Theater"

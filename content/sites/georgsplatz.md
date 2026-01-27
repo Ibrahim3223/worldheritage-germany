@@ -3,7 +3,7 @@ title: "Georgsplatz"
 site_name: "Georgsplatz"
 date: 2026-01-26
 draft: false
-description: "Buildings in Wennigsen, Germany"
+description: "Georgsplatz, an architectural ensemble situated in the charming town of Wennigsen, Germany, offers a unique glimpse into the region's cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

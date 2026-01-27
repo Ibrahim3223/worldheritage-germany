@@ -3,7 +3,7 @@ title: "St. Martinus (Bedburdyck)"
 site_name: "St. Martinus (Bedburdyck)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Martinus in Bedburdyck, Germany, is a remarkable church building that exemplifies the region's ecclesiastical architecture and cultural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Ahrensburg Castle"
 site_name: "Ahrensburg Castle"
 date: 2026-01-26
 draft: false
-description: "château in Germany"
+description: "Ahrensburg Castle, a striking château located in the charming town of Ahrensburg, Germany, serves as a captivating representation of the region's..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Castle"

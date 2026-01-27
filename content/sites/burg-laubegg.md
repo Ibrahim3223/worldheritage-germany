@@ -3,7 +3,7 @@ title: "Burg Laubegg"
 site_name: "Burg Laubegg"
 date: 2026-01-26
 draft: false
-description: "castle in Bodman-Ludwigshafen"
+description: "Burg Laubegg, a captivating castle located in the picturesque region of Bodman-Ludwigshafen, Germany, offers visitors a glimpse into the architectural and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

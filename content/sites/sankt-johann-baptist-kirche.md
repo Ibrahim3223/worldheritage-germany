@@ -3,7 +3,7 @@ title: "Sankt-Johann-Baptist-Kirche"
 site_name: "Sankt-Johann-Baptist-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Magdeburg, Germany"
+description: "Sankt-Johann-Baptist-Kirche, located in the heart of Magdeburg, Germany, is a striking representation of the region's religious heritage and architectural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

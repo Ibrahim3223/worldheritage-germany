@@ -3,7 +3,7 @@ title: "Murgtalsperre Kirschbaumwasen"
 site_name: "Murgtalsperre Kirschbaumwasen"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Murgtalsperre Kirschbaumwasen is a remarkable dam located in Forbach, Germany, showcasing the intersection of engineering and natural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Dam"

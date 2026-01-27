@@ -3,7 +3,7 @@ title: "Alte Steinkuhle Colliery"
 site_name: "Alte Steinkuhle Colliery"
 date: 2026-01-26
 draft: false
-description: "mine in Bochum, Germany"
+description: "Located in the industrial heart of Bochum, Germany, the Alte Steinkuhle Colliery is a significant site that symbolizes the region's rich mining heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

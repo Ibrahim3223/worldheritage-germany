@@ -3,7 +3,7 @@ title: "Burg Kempe"
 site_name: "Burg Kempe"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Roßwein, Saxony, Germany"
+description: "Burg Kempe, a captivating castle ruin located in Roßwein, Saxony, Germany, invites visitors to explore its storied past and architectural remnants."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Gemeindehaus Appenzeller Straße 2 in München"
 site_name: "Gemeindehaus Appenzeller Straße 2 in München"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-62-000-7943 (2) in München, Bavaria"
+description: "The Gemeindehaus Appenzeller Straße 2 stands as a significant cultural heritage monument in the heart of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

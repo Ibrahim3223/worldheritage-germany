@@ -3,7 +3,7 @@ title: "Hohenecken Castle"
 site_name: "Hohenecken Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hohenecken Castle, a historic castle located in the Hohenecken region of Germany, invites visitors to explore its storied past and architectural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

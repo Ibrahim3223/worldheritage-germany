@@ -3,7 +3,7 @@ title: "Steina Dam"
 site_name: "Steina Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Steina Dam, located in the picturesque Harz region of Germany, serves as a crucial infrastructure project that harmonizes with the stunning landscapes..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"

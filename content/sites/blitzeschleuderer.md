@@ -3,7 +3,7 @@ title: "Blitzeschleuderer"
 site_name: "Blitzeschleuderer"
 date: 2026-01-26
 draft: false
-description: "statue in Düsseldorf, Germany"
+description: "In the heart of Düsseldorf, Germany, the Blitzeschleuderer stands as a striking testament to the city’s artistic heritage and cultural identity."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

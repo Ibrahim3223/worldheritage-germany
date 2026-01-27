@@ -3,7 +3,7 @@ title: "Dom- und St. Magnifriedhof"
 site_name: "Dom- und St. Magnifriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Brunswick, Germany"
+description: "Dom- und St. Magnifriedhof, located in Brunswick, Germany, is a cemetery that resonates with historical significance and cultural depth."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

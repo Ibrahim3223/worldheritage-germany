@@ -3,7 +3,7 @@ title: "Altes Komödienhaus (Aachen)"
 site_name: "Altes Komödienhaus (Aachen)"
 date: 2026-01-26
 draft: false
-description: "school building"
+description: "The Altes Komödienhaus, located in the city of Aachen, Germany, is a notable example of a school building that reflects the educational values and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

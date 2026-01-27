@@ -3,7 +3,7 @@ title: "Postweiher"
 site_name: "Postweiher"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Postweiher serves as a tranquil lake located in the picturesque region of Rhineland-Palatinate, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Lake"

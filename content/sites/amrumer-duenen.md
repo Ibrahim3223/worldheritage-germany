@@ -3,7 +3,7 @@ title: "Amrumer Dünen"
 site_name: "Amrumer Dünen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Amrumer Dünen is a captivating nature reserve located in the Norddorf region of Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

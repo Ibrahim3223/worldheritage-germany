@@ -3,7 +3,7 @@ title: "Kunstgewerbeschule Erfurt"
 site_name: "Kunstgewerbeschule Erfurt"
 date: 2026-01-26
 draft: false
-description: "former school in Erfurt, Germany"
+description: "Kunstgewerbeschule Erfurt, a notable former school building located in the heart of Erfurt, Germany, offers visitors a glimpse into the architectural and..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "School Building"

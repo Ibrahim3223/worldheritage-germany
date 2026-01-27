@@ -3,7 +3,7 @@ title: "St. Urbanus"
 site_name: "St. Urbanus"
 date: 2026-01-26
 draft: false
-description: "church building in Wurster Nordseeküste, Germany"
+description: "St. Urbanus is a remarkable church building located in the Wurster Nordseeküste region of Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

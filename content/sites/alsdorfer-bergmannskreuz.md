@@ -3,7 +3,7 @@ title: "Alsdorfer Bergmannskreuz"
 site_name: "Alsdorfer Bergmannskreuz"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Alsdorfer Bergmannskreuz memorial, located in Simmerath, Germany, serves as a poignant reminder of the region's mining heritage and the cultural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

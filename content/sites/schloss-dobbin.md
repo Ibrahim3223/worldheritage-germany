@@ -3,7 +3,7 @@ title: "Schloss Dobbin"
 site_name: "Schloss Dobbin"
 date: 2026-01-26
 draft: false
-description: "Adelssitz im Landkreis Rostock"
+description: "Schloss Dobbin, located in the Dobbin-Linstow region of Germany, is a striking manor house that embodies the elegance of historical aristocratic architecture."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

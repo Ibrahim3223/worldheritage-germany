@@ -3,7 +3,7 @@ title: "Statue of Helmuth von Moltke the Elder"
 site_name: "Statue of Helmuth von Moltke the Elder"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin-Tiergarten"
+description: "The Statue of Helmuth von Moltke the Elder is a significant landmark situated in Berlin-Tiergarten, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

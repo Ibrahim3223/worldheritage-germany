@@ -3,7 +3,7 @@ title: "Tannenberg-Kapelle"
 site_name: "Tannenberg-Kapelle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Tannenberg-Kapelle, located in the serene region of Haltern am See, Germany, is an architectural structure that draws visitors with its unique charm and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

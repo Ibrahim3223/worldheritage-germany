@@ -3,7 +3,7 @@ title: "Freie Universität Berlin, E-Medien"
 site_name: "Freie Universität Berlin, E-Medien"
 date: 2026-01-26
 draft: false
-description: "University in Berlin"
+description: "Freie Universität Berlin, E-Medien, represents a significant institution within Germany's academic landscape, situated in the vibrant capital city of Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "University"

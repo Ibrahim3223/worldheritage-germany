@@ -3,7 +3,7 @@ title: "St. Maria Magdalena"
 site_name: "St. Maria Magdalena"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "St. Maria Magdalena Church, located in the picturesque region of Neuenkirchen in Mecklenburg-Vorpommern, Germany, is a striking example of ecclesiastical..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

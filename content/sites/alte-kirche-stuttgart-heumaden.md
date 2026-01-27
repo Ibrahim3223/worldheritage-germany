@@ -3,7 +3,7 @@ title: "Alte Kirche (Stuttgart-Heumaden)"
 site_name: "Alte Kirche (Stuttgart-Heumaden)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Alte Kirche in Stuttgart-Heumaden is an enduring symbol of the region's rich cultural and architectural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

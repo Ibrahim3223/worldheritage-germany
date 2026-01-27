@@ -3,7 +3,7 @@ title: "Museum Eckernförde"
 site_name: "Museum Eckernförde"
 date: 2026-01-26
 draft: false
-description: "museum in Eckernförde"
+description: "Museum Eckernförde invites visitors to explore a world of cultural heritage within Germany's charming coastal town of Eckernförde."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

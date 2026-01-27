@@ -3,7 +3,7 @@ title: "Parish Community Center Holy Ghost"
 site_name: "Parish Community Center Holy Ghost"
 date: 2026-01-26
 draft: false
-description: "church building in Wolfsburg, Germany"
+description: "The Parish Community Center Holy Ghost, located in the city of Wolfsburg, Germany, serves as both a spiritual sanctuary and a communal hub for residents."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

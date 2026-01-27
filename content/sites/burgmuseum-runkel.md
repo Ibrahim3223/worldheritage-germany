@@ -3,7 +3,7 @@ title: "Burgmuseum Runkel"
 site_name: "Burgmuseum Runkel"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Burgmuseum Runkel is a captivating museum located in the picturesque town of Runkel, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

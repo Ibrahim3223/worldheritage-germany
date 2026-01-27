@@ -3,7 +3,7 @@ title: "St. Georgen (Parchim)"
 site_name: "St. Georgen (Parchim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Georgen in Parchim, Germany, is a notable church building that stands as a key landmark within the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

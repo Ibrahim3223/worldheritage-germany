@@ -3,7 +3,7 @@ title: "Barigauer Turm"
 site_name: "Barigauer Turm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Barigauer Turm, a striking tower located in Germany, invites visitors to explore its historical and architectural significance."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Tower"

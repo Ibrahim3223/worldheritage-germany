@@ -3,7 +3,7 @@ title: "Husarendenkmal"
 site_name: "Husarendenkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Wiesental, Waghäusel, Germany"
+description: "The Husarendenkmal is a striking monument located in Wiesental, Waghäusel, Germany, that pays homage to the bravery and valor of the Hussars, a light..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

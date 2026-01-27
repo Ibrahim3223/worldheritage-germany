@@ -3,7 +3,7 @@ title: "Evangelischer Waldfriedhof Altenböddeken"
 site_name: "Evangelischer Waldfriedhof Altenböddeken"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bad Wünnenberg, Germany"
+description: "The Evangelischer Waldfriedhof Altenböddeken is a serene and contemplative cemetery located in Bad Wünnenberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

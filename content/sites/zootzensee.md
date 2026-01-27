@@ -3,7 +3,7 @@ title: "Zootzensee"
 site_name: "Zootzensee"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Zootzensee, a picturesque lake located in Germany, presents a serene retreat for nature enthusiasts and those seeking tranquility."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

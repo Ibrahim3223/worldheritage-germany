@@ -3,7 +3,7 @@ title: "Carl-Fuhlrott-Gymnasium"
 site_name: "Carl-Fuhlrott-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school in Wuppertal, Germany"
+description: "Carl-Fuhlrott-Gymnasium, located in the vibrant city of Wuppertal, Germany, serves as more than just an educational institution; it is a significant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

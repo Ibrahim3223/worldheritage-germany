@@ -3,7 +3,7 @@ title: "Church of St. Andrew"
 site_name: "Church of St. Andrew"
 date: 2026-01-26
 draft: false
-description: "church in the German city of Düsseldorf"
+description: "The Church of St. Andrew, a prominent church building located in the heart of Düsseldorf, serves as both a spiritual center and a significant landmark..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

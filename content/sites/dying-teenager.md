@@ -3,7 +3,7 @@ title: "Dying teenager"
 site_name: "Dying teenager"
 date: 2026-01-26
 draft: false
-description: "monument in Bremen-Mitte, Germany"
+description: "In the heart of Bremen-Mitte, Germany, lies the poignant statue known as the Dying Teenager."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"

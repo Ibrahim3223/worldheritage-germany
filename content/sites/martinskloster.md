@@ -3,7 +3,7 @@ title: "Martinskloster"
 site_name: "Martinskloster"
 date: 2026-01-26
 draft: false
-description: "Monastery in Trier"
+description: "Martinskloster is a significant monastery located in the historic city of Trier, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Monastery"

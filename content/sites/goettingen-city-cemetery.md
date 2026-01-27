@@ -3,7 +3,7 @@ title: "Göttingen City Cemetery"
 site_name: "Göttingen City Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Göttingen, Germany"
+description: "Göttingen City Cemetery serves as a serene and contemplative space within the vibrant city of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cemetery"

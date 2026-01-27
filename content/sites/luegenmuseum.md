@@ -3,7 +3,7 @@ title: "Lügenmuseum"
 site_name: "Lügenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Lügenmuseum, or "Museum of Lies," is a unique museum located in Radebeul, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

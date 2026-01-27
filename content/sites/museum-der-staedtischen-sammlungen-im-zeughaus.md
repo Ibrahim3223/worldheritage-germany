@@ -3,7 +3,7 @@ title: "Museum der städtischen Sammlungen im Zeughaus"
 site_name: "Museum der städtischen Sammlungen im Zeughaus"
 date: 2026-01-26
 draft: false
-description: "museum in Lutherstadt Wittenberg, Germany"
+description: "The Museum der städtischen Sammlungen im Zeughaus serves as a cultural cornerstone in Lutherstadt Wittenberg, Germany, a town renowned for its pivotal role..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

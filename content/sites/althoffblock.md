@@ -3,7 +3,7 @@ title: "Althoffblock"
 site_name: "Althoffblock"
 date: 2026-01-26
 draft: false
-description: "Wohnanlage in Dortmund"
+description: "In the heart of Dortmund, Germany, the Althoffblock presents an architectural ensemble that merges residential living with historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

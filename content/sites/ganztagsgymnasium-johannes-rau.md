@@ -3,7 +3,7 @@ title: "Ganztagsgymnasium Johannes Rau"
 site_name: "Ganztagsgymnasium Johannes Rau"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Ganztagsgymnasium Johannes Rau, located in Wuppertal, Germany, is not just an educational institution; it is an architectural structure that embodies a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

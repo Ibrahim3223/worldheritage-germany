@@ -3,7 +3,7 @@ title: "Dechen Cave"
 site_name: "Dechen Cave"
 date: 2026-01-26
 draft: false
-description: "show cave in Germany"
+description: "Dechen Cave, an intriguing archaeological site located in Iserlohn, Germany, invites visitors to explore its stunning subterranean beauty and rich cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

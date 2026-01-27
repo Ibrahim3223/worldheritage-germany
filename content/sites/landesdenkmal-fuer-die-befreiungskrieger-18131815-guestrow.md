@@ -3,7 +3,7 @@ title: "Landesdenkmal für die Befreiungskrieger 1813–1815 (Güstrow)"
 site_name: "Landesdenkmal für die Befreiungskrieger 1813–1815 (Güstrow)"
 date: 2026-01-26
 draft: false
-description: "memorial in Güstrow, Germany"
+description: "The Landesdenkmal für die Befreiungskrieger 1813–1815 in Güstrow, Germany, stands as a significant memorial dedicated to the soldiers who fought for..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"

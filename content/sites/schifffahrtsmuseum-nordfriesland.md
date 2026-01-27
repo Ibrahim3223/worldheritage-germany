@@ -3,7 +3,7 @@ title: "Schifffahrtsmuseum Nordfriesland"
 site_name: "Schifffahrtsmuseum Nordfriesland"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schifffahrtsmuseum Nordfriesland, located in the charming town of Husum, Germany, serves as a key institution dedicated to maritime heritage."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

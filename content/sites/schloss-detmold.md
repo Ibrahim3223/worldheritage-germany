@@ -3,7 +3,7 @@ title: "Schloss Detmold"
 site_name: "Schloss Detmold"
 date: 2026-01-26
 draft: false
-description: "German palace"
+description: "Schloss Detmold, a distinguished German palace, serves as both a museum and a cultural landmark in the heart of Detmold, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

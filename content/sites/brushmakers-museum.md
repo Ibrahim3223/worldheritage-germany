@@ -3,7 +3,7 @@ title: "Brushmakers' Museum"
 site_name: "Brushmakers' Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Brushmakers' Museum in Ramberg, Germany, is a unique destination that immerses visitors in the fascinating world of brush-making, a craft that has..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

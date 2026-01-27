@@ -3,7 +3,7 @@ title: "Leuchtturm Arngast"
 site_name: "Leuchtturm Arngast"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "Leuchtturm Arngast, located in the Friesland region of Lower Saxony, Germany, is a significant lighthouse that has stood as a guiding light for maritime..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

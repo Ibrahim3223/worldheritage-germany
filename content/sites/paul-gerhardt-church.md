@@ -3,7 +3,7 @@ title: "Paul Gerhardt church"
 site_name: "Paul Gerhardt church"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Schöneberg"
+description: "In the vibrant district of Tempelhof-Schöneberg, the Paul Gerhardt Church stands as a significant landmark, embodying both the architectural and spiritual..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

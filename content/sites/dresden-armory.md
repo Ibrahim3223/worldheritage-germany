@@ -3,7 +3,7 @@ title: "Dresden Armory"
 site_name: "Dresden Armory"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden, Germany"
+description: "The Dresden Armory, located in the heart of Dresden, Germany, serves as a remarkable institution that showcases an extraordinary collection of historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

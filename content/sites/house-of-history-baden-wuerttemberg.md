@@ -3,7 +3,7 @@ title: "House of History Baden-Württemberg"
 site_name: "House of History Baden-Württemberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The House of History Baden-Württemberg is an engaging museum located in Stuttgart, Germany, dedicated to showcasing the rich and diverse history of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

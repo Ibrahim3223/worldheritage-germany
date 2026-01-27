@@ -3,7 +3,7 @@ title: "Achteinhalb"
 site_name: "Achteinhalb"
 date: 2026-01-26
 draft: false
-description: "cinema in Saarbrücken, Germany"
+description: "In the heart of Saarbrücken, Germany, Achteinhalb serves as a vibrant cultural hub for cinema enthusiasts."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Movie Theater"

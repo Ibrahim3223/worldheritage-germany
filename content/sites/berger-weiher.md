@@ -3,7 +3,7 @@ title: "Berger Weiher"
 site_name: "Berger Weiher"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Berger Weiher is a captivating nature reserve located in Kressbronn am Bodensee, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

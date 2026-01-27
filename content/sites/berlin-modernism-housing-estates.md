@@ -3,7 +3,7 @@ title: "Berlin Modernism Housing Estates"
 site_name: "Berlin Modernism Housing Estates"
 date: 2026-01-26
 draft: false
-description: "six subsidized housing estates"
+description: "Berlin, a city known for its dynamic history and cultural evolution, is home to the Berlin Modernism Housing Estates, a remarkable architectural ensemble..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

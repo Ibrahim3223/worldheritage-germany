@@ -3,7 +3,7 @@ title: "Muskau Park"
 site_name: "Muskau Park"
 date: 2026-01-26
 draft: false
-description: "landscape park in the Upper Lusatia region of Germany and Poland"
+description: "Muskau Park, located in the Upper Lusatia region of Germany and Poland, is an exquisite landscape park that harmoniously blends natural beauty with human..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

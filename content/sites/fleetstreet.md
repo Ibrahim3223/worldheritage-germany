@@ -3,7 +3,7 @@ title: "Fleetstreet"
 site_name: "Fleetstreet"
 date: 2026-01-26
 draft: false
-description: "Theatre in Hamburg"
+description: "Fleetstreet, located in the heart of Hamburg-Mitte, is a distinguished theatre building that serves as a vibrant hub for the performing arts in Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

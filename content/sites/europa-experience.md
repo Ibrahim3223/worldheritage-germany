@@ -3,7 +3,7 @@ title: "Europa Experience"
 site_name: "Europa Experience"
 date: 2026-01-26
 draft: false
-description: "permanent exhibition in the European House Berlin"
+description: "In the heart of Berlin, a vibrant city known for its rich history and cultural diversity, lies the Europa Experience."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

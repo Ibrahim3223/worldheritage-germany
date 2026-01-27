@@ -3,7 +3,7 @@ title: "Rheinisches Fastnachtsmuseum Koblenz"
 site_name: "Rheinisches Fastnachtsmuseum Koblenz"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Rheinisches Fastnachtsmuseum in Koblenz offers a vibrant insight into the unique traditions of Carnaval in the Rhineland—a festival characterized by..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

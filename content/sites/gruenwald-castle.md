@@ -3,7 +3,7 @@ title: "Grünwald Castle"
 site_name: "Grünwald Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Grünwald Castle, located in the picturesque region of Grünwald, Germany, is a striking representation of medieval architecture and a notable historical site."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

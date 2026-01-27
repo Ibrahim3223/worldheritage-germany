@@ -3,7 +3,7 @@ title: "Ländliches Heimatmuseum"
 site_name: "Ländliches Heimatmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ländliches Heimatmuseum is a captivating institution located in Germany that invites visitors to explore the cultural heritage and traditions of rural life."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

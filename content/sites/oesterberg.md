@@ -3,7 +3,7 @@ title: "Österberg"
 site_name: "Österberg"
 date: 2026-01-26
 draft: false
-description: "Stadtteil in Tübingen"
+description: "Österberg, a prominent mountain located in the Tübingen region of Germany, is more than just a geographical feature; it serves as a vital landmark that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

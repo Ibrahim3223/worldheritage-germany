@@ -3,7 +3,7 @@ title: "Basaltpark"
 site_name: "Basaltpark"
 date: 2026-01-26
 draft: false
-description: "rekultivierter ehemaliger Steinbruch im Westerwald als Freilichtmuseum"
+description: "Basaltpark, located in Bad Marienberg, Germany, is a remarkable open-air museum that showcases the history and transformation of a former basalt quarry in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

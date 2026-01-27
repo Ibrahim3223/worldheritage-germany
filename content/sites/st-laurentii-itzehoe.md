@@ -3,7 +3,7 @@ title: "St. Laurentii, Itzehoe"
 site_name: "St. Laurentii, Itzehoe"
 date: 2026-01-26
 draft: false
-description: "church building in Itzehoe, Germany"
+description: "St. Laurentii in Itzehoe, Germany, is a notable church building that exemplifies the architectural and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

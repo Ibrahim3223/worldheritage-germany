@@ -3,7 +3,7 @@ title: "Cathedral Hill in Erfurt"
 site_name: "Cathedral Hill in Erfurt"
 date: 2026-01-26
 draft: false
-description: "Cathedral Hill in Germany"
+description: "Cathedral Hill in Erfurt, Germany, is a remarkable architectural ensemble that captures the essence of the city’s historical significance."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

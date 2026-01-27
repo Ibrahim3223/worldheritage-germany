@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Flutbrücke"
 site_name: "Muldentalbahn (Sachgesamtheit); Flutbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn, particularly its Flutbrücke, serves not only as a functional bridge but also as an emblem of the region's rich industrial heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

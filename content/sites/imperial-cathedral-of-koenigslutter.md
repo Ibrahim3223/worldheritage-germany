@@ -3,7 +3,7 @@ title: "Imperial cathedral of Königslutter"
 site_name: "Imperial cathedral of Königslutter"
 date: 2026-01-26
 draft: false
-description: "church in Königslutter, Lower Saxony, Germany"
+description: "The Imperial Cathedral of Königslutter, located in the charming town of Königslutter am Elm in Lower Saxony, Germany, is a remarkable church building that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

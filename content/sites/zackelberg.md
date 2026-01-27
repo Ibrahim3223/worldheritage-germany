@@ -3,7 +3,7 @@ title: "Zackelberg"
 site_name: "Zackelberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zackelberg, a notable mountain located in the heart of Saxony-Anhalt, Germany, offers visitors a unique blend of natural beauty and cultural significance."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Mountain"

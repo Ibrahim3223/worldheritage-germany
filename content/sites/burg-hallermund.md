@@ -3,7 +3,7 @@ title: "Burg Hallermund"
 site_name: "Burg Hallermund"
 date: 2026-01-26
 draft: false
-description: "former castle near Springe, Germany"
+description: "Burg Hallermund, a captivating former castle located near the town of Springe in Germany, invites visitors to explore its storied past and architectural charm."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

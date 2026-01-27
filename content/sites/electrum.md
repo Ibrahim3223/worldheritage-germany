@@ -3,7 +3,7 @@ title: "Electrum"
 site_name: "Electrum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "Electrum is a museum located in Hamburg, Germany, within the Harburg region. It serves as an engaging space for visitors to explore a variety of exhibitions..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

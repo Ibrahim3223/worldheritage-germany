@@ -3,7 +3,7 @@ title: "Schuttern Abbey"
 site_name: "Schuttern Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Germany"
+description: "Schuttern Abbey, an esteemed monastery situated in the quaint village of Friesenheim in Germany, is a site that encapsulates centuries of monastic tradition."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

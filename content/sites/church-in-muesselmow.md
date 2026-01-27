@@ -3,7 +3,7 @@ title: "Church in Müsselmow"
 site_name: "Church in Müsselmow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Müsselmow, located in the tranquil region of Kuhlen-Wendorf, Germany, is a noteworthy example of ecclesiastical architecture that reflects the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

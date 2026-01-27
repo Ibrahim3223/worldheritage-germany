@@ -3,7 +3,7 @@ title: "Bühne der Kulturen"
 site_name: "Bühne der Kulturen"
 date: 2026-01-26
 draft: false
-description: "intercultural theatre in Cologne, Germany"
+description: "In the vibrant district of Ehrenfeld, Cologne, the Bühne der Kulturen stands as a dynamic intercultural theatre that reflects the rich diversity of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

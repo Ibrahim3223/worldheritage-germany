@@ -3,7 +3,7 @@ title: "Steinbruchstraße 12 (Oerlinghausen)"
 site_name: "Steinbruchstraße 12 (Oerlinghausen)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Steinbruchstraße 12 in Oerlinghausen, Germany, is an architectural structure that serves as a chapel, offering visitors a unique glimpse into the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

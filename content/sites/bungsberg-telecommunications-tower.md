@@ -3,7 +3,7 @@ title: "Bungsberg telecommunications tower"
 site_name: "Bungsberg telecommunications tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Bungsberg telecommunications tower, located in the picturesque region of Schleswig-Holstein, Germany, stands as a prominent feature of the local landscape."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"

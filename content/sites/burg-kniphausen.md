@@ -3,7 +3,7 @@ title: "Burg Kniphausen"
 site_name: "Burg Kniphausen"
 date: 2026-01-26
 draft: false
-description: "castle in Wilhelmshaven, Lower Saxony, Germany"
+description: "Burg Kniphausen, a castle located in Wilhelmshaven, Lower Saxony, Germany, serves as a remarkable example of historical architecture and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Korkenziehermuseum-"
 site_name: "Korkenziehermuseum-"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Vogtsburg im Kaiserstuhl, Germany, lies the Korkenziehermuseum, a unique museum dedicated to the fascinating world of corkscrews."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

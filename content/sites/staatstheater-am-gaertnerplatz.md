@@ -3,7 +3,7 @@ title: "Staatstheater am Gärtnerplatz"
 site_name: "Staatstheater am Gärtnerplatz"
 date: 2026-01-26
 draft: false
-description: "opera house in Munich, Bavaria, Germany"
+description: "Staatstheater am Gärtnerplatz, located in Munich, Bavaria, is an opera house that holds a significant place in the cultural landscape of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

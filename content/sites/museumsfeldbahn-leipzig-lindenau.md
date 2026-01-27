@@ -3,7 +3,7 @@ title: "Museumsfeldbahn Leipzig-Lindenau"
 site_name: "Museumsfeldbahn Leipzig-Lindenau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museumsfeldbahn Leipzig-Lindenau serves as a captivating destination for enthusiasts of railway history and technology."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

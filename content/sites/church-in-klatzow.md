@@ -3,7 +3,7 @@ title: "Church in Klatzow"
 site_name: "Church in Klatzow"
 date: 2026-01-26
 draft: false
-description: "church building in Altentreptow, Germany"
+description: "The Church in Klatzow, a notable structure located in the quaint town of Altentreptow, Germany, serves as both a spiritual haven and a testament to the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

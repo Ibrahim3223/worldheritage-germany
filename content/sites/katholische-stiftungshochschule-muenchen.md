@@ -3,7 +3,7 @@ title: "Katholische Stiftungshochschule München"
 site_name: "Katholische Stiftungshochschule München"
 date: 2026-01-26
 draft: false
-description: "staatlich anerkannte Hochschule mit Standorten in München und Benediktbeuern"
+description: "Katholische Stiftungshochschule München, located in Munich, Germany, serves as a prominent foundation dedicated to higher education."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

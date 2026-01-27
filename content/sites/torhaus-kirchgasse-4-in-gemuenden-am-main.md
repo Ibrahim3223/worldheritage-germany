@@ -3,7 +3,7 @@ title: "Torhaus Kirchgasse 4 in Gemünden am Main"
 site_name: "Torhaus Kirchgasse 4 in Gemünden am Main"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-77-131-1 (1) in Gemünden am Main, Bavaria"
+description: "Torhaus Kirchgasse 4 is a captivating gateway to the historical heart of Gemünden am Main, a charming town situated in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

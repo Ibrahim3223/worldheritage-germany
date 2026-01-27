@@ -3,7 +3,7 @@ title: "Burgwall Quadenschönfeld"
 site_name: "Burgwall Quadenschönfeld"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "The Burgwall Quadenschönfeld, a significant hill fort located in the Möllenbeck region of Germany, serves as a testament to the intricate history of ancient..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

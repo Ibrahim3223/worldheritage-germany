@@ -3,7 +3,7 @@ title: "Burg Mietinten"
 site_name: "Burg Mietinten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mietinten, a striking castle located in the quaint region of Mietingen, Germany, captivates visitors with its historical presence and architectural beauty."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

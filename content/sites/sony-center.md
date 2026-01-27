@@ -3,7 +3,7 @@ title: "Sony Center"
 site_name: "Sony Center"
 date: 2026-01-26
 draft: false
-description: "ensemble of buildings in Berlin, Germany"
+description: "The Sony Center, an architectural ensemble located in Berlin’s Bezirk Mitte, captivates visitors with its innovative design and vibrant atmosphere."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

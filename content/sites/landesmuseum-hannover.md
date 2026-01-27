@@ -3,7 +3,7 @@ title: "Landesmuseum Hannover"
 site_name: "Landesmuseum Hannover"
 date: 2026-01-26
 draft: false
-description: "museum in Hannover"
+description: "The Landesmuseum Hannover is a prominent cultural institution located in the heart of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

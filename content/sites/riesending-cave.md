@@ -3,7 +3,7 @@ title: "Riesending cave"
 site_name: "Riesending cave"
 date: 2026-01-26
 draft: false
-description: "pit cave"
+description: "Riesending Cave, located in the scenic region of Bischofswiesen, Germany, offers an intriguing glimpse into the subterranean wonders of the Earth."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

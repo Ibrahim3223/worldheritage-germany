@@ -3,7 +3,7 @@ title: "Busmannkapelle"
 site_name: "Busmannkapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Busmannkapelle, a charming chapel located in the vibrant city of Dresden, Germany, offers a serene escape from the bustling urban life."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Dobergmuseum"
 site_name: "Dobergmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in Bünde, Germany, Dobergmuseum serves as a notable repository of cultural heritage, offering visitors a glimpse into the historical narratives that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

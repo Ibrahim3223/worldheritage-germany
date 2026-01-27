@@ -3,7 +3,7 @@ title: "Hanau West"
 site_name: "Hanau West"
 date: 2026-01-26
 draft: false
-description: "railway halt in Hanau, Germany"
+description: "Hanau West, a railway halt situated in the vibrant city of Hanau, Germany, serves as a crucial junction within the region's transport network."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

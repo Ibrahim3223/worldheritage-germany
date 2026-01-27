@@ -3,7 +3,7 @@ title: "equestrian statue of Frederick the Great"
 site_name: "equestrian statue of Frederick the Great"
 date: 2026-01-26
 draft: false
-description: "monument in Berlin, Germany"
+description: "The equestrian statue of Frederick the Great, an iconic monument located in the heart of Berlin, Germany, stands as a striking representation of one of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

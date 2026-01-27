@@ -3,7 +3,7 @@ title: "Oberpfälzer Fischereimuseum"
 site_name: "Oberpfälzer Fischereimuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Oberpfälzer Fischereimuseum, located in the charming town of Tirschenreuth, Germany, offers a deep dive into the world of fishing and its cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

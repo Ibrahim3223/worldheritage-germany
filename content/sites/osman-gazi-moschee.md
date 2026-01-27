@@ -3,7 +3,7 @@ title: "Osman-Gazi-Moschee"
 site_name: "Osman-Gazi-Moschee"
 date: 2026-01-26
 draft: false
-description: "mosque in Güglingen, Heilbronn district, Baden-Württemberg, Germany"
+description: "The Osman-Gazi-Moschee, located in Güglingen, Baden-Württemberg, is a notable place of worship that underscores the diverse cultural tapestry of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

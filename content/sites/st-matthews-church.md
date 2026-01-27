@@ -3,7 +3,7 @@ title: "St. Matthew's Church"
 site_name: "St. Matthew's Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Matthew's Church is an architectural landmark situated in Hamburg-Nord, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

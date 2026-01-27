@@ -3,7 +3,7 @@ title: "Thurant Castle"
 site_name: "Thurant Castle"
 date: 2026-01-26
 draft: false
-description: "Castle ruins above the village of Alken on the Moselle"
+description: "Perched high above the village of Alken on the Moselle River, Thurant Castle invites visitors to explore its storied ruins and immerse themselves in the..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

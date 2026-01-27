@@ -3,7 +3,7 @@ title: "All Saints Waterfalls"
 site_name: "All Saints Waterfalls"
 date: 2026-01-26
 draft: false
-description: "German waterfalls"
+description: "All Saints Waterfalls, located in the serene region of Oppenau, Germany, presents a captivating natural spectacle that attracts visitors from near and far."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

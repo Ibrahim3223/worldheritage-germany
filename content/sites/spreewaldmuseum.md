@@ -3,7 +3,7 @@ title: "Spreewaldmuseum"
 site_name: "Spreewaldmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Spreewaldmuseum in Lübbenau/Spreewald offers an immersive look into the cultural heritage of the Spreewald region, renowned for its unique landscape of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

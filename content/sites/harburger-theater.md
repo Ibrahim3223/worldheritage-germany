@@ -3,7 +3,7 @@ title: "Harburger Theater"
 site_name: "Harburger Theater"
 date: 2026-01-26
 draft: false
-description: "Theatre in Hamburg"
+description: "The Harburger Theater, located in the vibrant city of Hamburg, Germany, serves as a prominent venue for theatrical productions, showcasing a vibrant mix of..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Theatre Building"

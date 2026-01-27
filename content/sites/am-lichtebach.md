@@ -3,7 +3,7 @@ title: "Am Lichtebach"
 site_name: "Am Lichtebach"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Gütersloh, North Rhine-Westphalia, Germany"
+description: "Am Lichtebach is a serene nature reserve located in Gütersloh, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

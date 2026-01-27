@@ -3,7 +3,7 @@ title: "Evangelisch-reformierte Kirche"
 site_name: "Evangelisch-reformierte Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Evangelisch-reformierte Kirche, located in the quaint region of Blumenthal, Germany, is not just a church building; it is a significant landmark that..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

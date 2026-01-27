@@ -3,7 +3,7 @@ title: "Museum im Ursula-Stift und Schmiede am Stift"
 site_name: "Museum im Ursula-Stift und Schmiede am Stift"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum im Ursula-Stift und Schmiede am Stift offers visitors a unique glimpse into the cultural and historical fabric of Gerstetten, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

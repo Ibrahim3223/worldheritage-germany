@@ -3,7 +3,7 @@ title: "St. Cyriakus"
 site_name: "St. Cyriakus"
 date: 2026-01-26
 draft: false
-description: "church building in Gernrode, Saxony-Anhalt, Germany"
+description: "St. Cyriakus is a remarkable church building located in Gernrode, Saxony-Anhalt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

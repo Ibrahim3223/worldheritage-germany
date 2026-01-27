@@ -3,7 +3,7 @@ title: "Granitz Hunting Lodge"
 site_name: "Granitz Hunting Lodge"
 date: 2026-01-26
 draft: false
-description: "castle on Rugia"
+description: "Granitz Hunting Lodge, an impressive museum located on the picturesque island of Rügen in Germany, stands as a remarkable example of historic architecture..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

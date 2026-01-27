@@ -3,7 +3,7 @@ title: "Historisches Glasapparatemuseum Cursdorf"
 site_name: "Historisches Glasapparatemuseum Cursdorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Historisches Glasapparatemuseum Cursdorf, located in the quaint village of Cursdorf in Germany, is a unique museum dedicated to the historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

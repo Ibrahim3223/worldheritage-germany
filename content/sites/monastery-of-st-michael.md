@@ -3,7 +3,7 @@ title: "Monastery of St. Michael"
 site_name: "Monastery of St. Michael"
 date: 2026-01-26
 draft: false
-description: "building in Heidelberg, Karlsruhe Government Region, Bade-Württemberg, Germany"
+description: "The Monastery of St. Michael, a significant religious site located in Heidelberg, Germany, invites visitors to explore its historical significance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

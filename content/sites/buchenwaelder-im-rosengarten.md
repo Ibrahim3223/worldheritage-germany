@@ -3,7 +3,7 @@ title: "Buchenwälder im Rosengarten"
 site_name: "Buchenwälder im Rosengarten"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Buchenwälder im Rosengarten, located in the picturesque region of Rosengarten in Lower Saxony, Germany, is a nature reserve that offers a sanctuary for..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

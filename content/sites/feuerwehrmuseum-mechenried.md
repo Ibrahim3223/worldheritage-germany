@@ -3,7 +3,7 @@ title: "Feuerwehrmuseum Mechenried"
 site_name: "Feuerwehrmuseum Mechenried"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Feuerwehrmuseum Mechenried offers visitors a unique glimpse into the world of firefighting through the ages."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

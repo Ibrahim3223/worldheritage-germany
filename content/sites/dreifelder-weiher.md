@@ -3,7 +3,7 @@ title: "Dreifelder Weiher"
 site_name: "Dreifelder Weiher"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dreifelder Weiher presents a tranquil escape, inviting visitors to explore its serene waters and surrounding landscapes."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Lake"

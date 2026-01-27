@@ -3,7 +3,7 @@ title: "Friedhof Garmisch"
 site_name: "Friedhof Garmisch"
 date: 2026-01-26
 draft: false
-description: "cemetery in Garmisch-Partenkirchen, Germany"
+description: "Friedhof Garmisch, a serene cemetery located in the charming town of Garmisch-Partenkirchen, Germany, provides a unique reflection of the region's history..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

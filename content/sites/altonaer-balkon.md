@@ -3,7 +3,7 @@ title: "Altonaer Balkon"
 site_name: "Altonaer Balkon"
 date: 2026-01-26
 draft: false
-description: "park and observation point in Hamburg-Altona, Germany"
+description: "Altonaer Balkon is a serene park and observation point located in Hamburg-Altona, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Park"

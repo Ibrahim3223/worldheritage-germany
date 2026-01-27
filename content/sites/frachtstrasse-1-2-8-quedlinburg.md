@@ -3,7 +3,7 @@ title: "Frachtstraße 1, 2, 8 (Quedlinburg)"
 site_name: "Frachtstraße 1, 2, 8 (Quedlinburg)"
 date: 2026-01-26
 draft: false
-description: "Complex of buildings in Germany"
+description: "Frachtstraße 1, 2, 8 in Quedlinburg stands as a remarkable architectural ensemble, showcasing the historic character of this charming German town."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

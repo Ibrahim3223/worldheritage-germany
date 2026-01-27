@@ -3,7 +3,7 @@ title: "St. Georg"
 site_name: "St. Georg"
 date: 2026-01-26
 draft: false
-description: "church building in Rees, Germany"
+description: "St. Georg is a distinguished church building located in the heart of Rees, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

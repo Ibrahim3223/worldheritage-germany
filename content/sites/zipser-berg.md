@@ -3,7 +3,7 @@ title: "Zipser Berg"
 site_name: "Zipser Berg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zipser Berg, located in the picturesque Pegnitz region of Germany, is a mountain that offers visitors a unique blend of natural beauty and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Archaeological Border complex of Hedeby and the Danevirke"
 site_name: "Archaeological Border complex of Hedeby and the Danevirke"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Archaeological Border Complex of Hedeby and the Danevirke stands as a remarkable testament to the strategic and cultural significance of trade and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Group"

@@ -3,7 +3,7 @@ title: "Kreis- und Universitätsmuseum Helmstedt"
 site_name: "Kreis- und Universitätsmuseum Helmstedt"
 date: 2026-01-26
 draft: false
-description: "museum in Helmstedt, Germany"
+description: "The Kreis- und Universitätsmuseum Helmstedt serves as a crucial cultural institution in the heart of Helmstedt, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

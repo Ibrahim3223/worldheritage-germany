@@ -3,7 +3,7 @@ title: "Kehdinger Küstenschiffahrts-Museum"
 site_name: "Kehdinger Küstenschiffahrts-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kehdinger Küstenschiffahrts-Museum, located in Wischhafen, Germany, serves as a significant repository of maritime history, celebrating the rich..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Liudgerikirche"
 site_name: "Liudgerikirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hesel, Germany"
+description: "Liudgerikirche is a distinguished church building located in the quaint town of Hesel, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

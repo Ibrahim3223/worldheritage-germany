@@ -3,7 +3,7 @@ title: "Grürmannshöhle"
 site_name: "Grürmannshöhle"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Grürmannshöhle, located in Iserlohn, Germany, is a remarkable natural cave that offers visitors a unique glimpse into the subterranean world."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"

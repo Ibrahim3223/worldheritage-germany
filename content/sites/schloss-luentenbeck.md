@@ -3,7 +3,7 @@ title: "Schloss Lüntenbeck"
 site_name: "Schloss Lüntenbeck"
 date: 2026-01-26
 draft: false
-description: "château"
+description: "Schloss Lüntenbeck, a captivating manor house located in the city of Wuppertal, Germany, serves as a striking example of the region's architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Manor House"

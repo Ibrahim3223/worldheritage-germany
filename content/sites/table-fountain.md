@@ -3,7 +3,7 @@ title: "Table fountain"
 site_name: "Table fountain"
 date: 2026-01-26
 draft: false
-description: "fountain in Hannover, Germany"
+description: "The Table Fountain in Hannover, Germany, serves as an elegant focal point within the bustling district of Mitte."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

@@ -3,7 +3,7 @@ title: "Villa"
 site_name: "Villa"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-72-113-70 (0) in Bad Brückenau, Bavaria"
+description: "Villa, a cultural heritage monument located in the tranquil town of Bad Brückenau in Bavaria, Germany, invites visitors to explore its rich history and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

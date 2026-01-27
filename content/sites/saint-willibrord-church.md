@@ -3,7 +3,7 @@ title: "Saint Willibrord Church"
 site_name: "Saint Willibrord Church"
 date: 2026-01-26
 draft: false
-description: "church building in Neetze, Lower Saxony, Germany"
+description: "Saint Willibrord Church, located in the quaint village of Neetze in Lower Saxony, Germany, is a significant landmark that draws visitors intrigued by its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

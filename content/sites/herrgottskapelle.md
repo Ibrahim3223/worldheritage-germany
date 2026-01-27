@@ -3,7 +3,7 @@ title: "Herrgottskapelle"
 site_name: "Herrgottskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Located in the quaint region of Holzheim, Germany, Herrgottskapelle is a chapel that draws visitors with its serene ambiance and spiritual significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

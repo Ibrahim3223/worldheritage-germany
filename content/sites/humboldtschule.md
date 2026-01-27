@@ -3,7 +3,7 @@ title: "Humboldtschule"
 site_name: "Humboldtschule"
 date: 2026-01-26
 draft: false
-description: "school in Hannover, Germany"
+description: "Humboldtschule is an educational institution located in the vibrant district of Linden-Limmer in Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

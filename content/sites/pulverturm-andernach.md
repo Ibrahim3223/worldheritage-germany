@@ -3,7 +3,7 @@ title: "Pulverturm, Andernach"
 site_name: "Pulverturm, Andernach"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Pulverturm in Andernach is a striking historical tower that serves as a reminder of the region's medieval fortifications."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

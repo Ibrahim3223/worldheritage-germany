@@ -3,7 +3,7 @@ title: "Gemeindebücherei Wennigsen"
 site_name: "Gemeindebücherei Wennigsen"
 date: 2026-01-26
 draft: false
-description: "library in Wennigsen, Germany"
+description: "In the quaint town of Wennigsen, Germany, the Gemeindebücherei Wennigsen stands as a community cornerstone, offering a wealth of knowledge and resources to..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

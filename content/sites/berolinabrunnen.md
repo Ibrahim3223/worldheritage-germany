@@ -3,7 +3,7 @@ title: "Berolinabrunnen"
 site_name: "Berolinabrunnen"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "Berolinabrunnen, a charming water well located in the vibrant Schwabing-Freimann district of Germany, provides a refreshing oasis amidst the urban landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

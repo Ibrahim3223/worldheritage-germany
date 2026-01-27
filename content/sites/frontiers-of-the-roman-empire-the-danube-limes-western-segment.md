@@ -3,7 +3,7 @@ title: "Frontiers of the Roman Empire – The Danube Limes (Western Segment)"
 site_name: "Frontiers of the Roman Empire – The Danube Limes (Western Segment)"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany, Austria and Slovakia"
+description: "The Frontiers of the Roman Empire – The Danube Limes (Western Segment) represents a significant chapter in the annals of Roman history, marking the northern..."
 region: "Germany"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

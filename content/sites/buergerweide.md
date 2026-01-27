@@ -3,7 +3,7 @@ title: "Bürgerweide"
 site_name: "Bürgerweide"
 date: 2026-01-26
 draft: false
-description: "public square in Findorff, Germany"
+description: "Bürgerweide is a vibrant public square located in the Findorff district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Square"

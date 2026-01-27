@@ -3,7 +3,7 @@ title: "Burg Jesberg"
 site_name: "Burg Jesberg"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Burg Jesberg is a captivating castle located in the scenic region of Jesberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

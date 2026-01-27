@@ -3,7 +3,7 @@ title: "Steinbogenbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 site_name: "Steinbogenbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke, located in the town of Großenhain, Germany, is a bridge that reflects both the engineering prowess and the historical context of its time."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

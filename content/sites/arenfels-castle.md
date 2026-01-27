@@ -3,7 +3,7 @@ title: "Arenfels Castle"
 site_name: "Arenfels Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Rheinland-Pfalz, Germany"
+description: "Arenfels Castle, situated in the picturesque region of Bad Hönningen in Rheinland-Pfalz, Germany, commands attention with its imposing presence and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

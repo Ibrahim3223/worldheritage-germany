@@ -3,7 +3,7 @@ title: "German Maritime Museum"
 site_name: "German Maritime Museum"
 date: 2026-01-26
 draft: false
-description: "Maritime museum in Bremerhaven"
+description: "The German Maritime Museum, situated in the heart of Bremerhaven, offers an in-depth exploration of maritime history and culture in Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

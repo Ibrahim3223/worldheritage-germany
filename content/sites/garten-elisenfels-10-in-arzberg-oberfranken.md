@@ -3,7 +3,7 @@ title: "Garten Elisenfels 10 in Arzberg (Oberfranken)"
 site_name: "Garten Elisenfels 10 in Arzberg (Oberfranken)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-79-112-82 (1) in Arzberg (Oberfranken), Bavaria"
+description: "Garten Elisenfels 10 in Arzberg (Oberfranken) is a captivating cultural heritage monument that invites visitors to explore its serene garden setting."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

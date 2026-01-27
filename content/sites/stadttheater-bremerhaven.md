@@ -3,7 +3,7 @@ title: "Stadttheater Bremerhaven"
 site_name: "Stadttheater Bremerhaven"
 date: 2026-01-26
 draft: false
-description: "theatre in Bremerhaven, Germany"
+description: "Stadttheater Bremerhaven, located in the heart of Germany's coastal city of Bremerhaven, serves as a significant cultural venue that embodies the spirit of..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Theatre Building"

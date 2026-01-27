@@ -3,7 +3,7 @@ title: "Celtis Gymnasium"
 site_name: "Celtis Gymnasium"
 date: 2026-01-26
 draft: false
-description: "secondary school in Schweinfurt, Germany"
+description: "Celtis Gymnasium, a notable secondary school situated in Schweinfurt, Germany, serves as a vibrant center for education and community engagement."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "School Building"

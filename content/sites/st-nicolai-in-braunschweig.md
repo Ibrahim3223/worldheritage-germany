@@ -3,7 +3,7 @@ title: "St. Nicolai in Braunschweig"
 site_name: "St. Nicolai in Braunschweig"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Braunschweig"
+description: "St. Nicolai in Braunschweig is a significant church building that holds a prominent place in the cultural and architectural fabric of Brunswick, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Heilig Kreuz"
 site_name: "Heilig Kreuz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Heilig Kreuz, a church building located in Gelsenkirchen, Germany, serves as a significant point of interest for both locals and travelers alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

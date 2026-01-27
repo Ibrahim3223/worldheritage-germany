@@ -3,7 +3,7 @@ title: "Ostfriesisches Landesmuseum Emden"
 site_name: "Ostfriesisches Landesmuseum Emden"
 date: 2026-01-26
 draft: false
-description: "museum in East Frisia, Germany"
+description: "Located in the heart of Emden, Germany, the Ostfriesisches Landesmuseum Emden serves as a vital cultural institution dedicated to the heritage and history..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

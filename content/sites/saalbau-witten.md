@@ -3,7 +3,7 @@ title: "Saalbau Witten"
 site_name: "Saalbau Witten"
 date: 2026-01-26
 draft: false
-description: "cultural centre in Witten"
+description: "Located in the heart of Witten, Germany, Saalbau Witten serves as a vibrant cultural centre that plays a vital role in the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

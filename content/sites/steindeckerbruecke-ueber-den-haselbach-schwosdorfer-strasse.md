@@ -3,7 +3,7 @@ title: "Steindeckerbrücke über den Haselbach Schwosdorfer Straße"
 site_name: "Steindeckerbrücke über den Haselbach Schwosdorfer Straße"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke über den Haselbach Schwosdorfer Straße is a notable bridge located in the picturesque Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

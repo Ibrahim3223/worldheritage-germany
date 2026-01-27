@@ -3,7 +3,7 @@ title: "St.-Ansgari-Kirche"
 site_name: "St.-Ansgari-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hage, Germany"
+description: "St.-Ansgari-Kirche is a notable church building located in Hage, Germany, offering visitors a glimpse into the architectural and cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

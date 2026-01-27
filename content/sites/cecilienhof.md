@@ -3,7 +3,7 @@ title: "Cecilienhof"
 site_name: "Cecilienhof"
 date: 2026-01-26
 draft: false
-description: "historic Prussian palace and museum in Potsdam, Germany"
+description: "Cecilienhof, a historic Prussian palace located in Potsdam, Germany, serves as a remarkable reminder of a pivotal era in European history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

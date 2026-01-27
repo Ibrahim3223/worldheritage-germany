@@ -3,7 +3,7 @@ title: "Gleiberg Castle"
 site_name: "Gleiberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle ruins in Hesse, Germany"
+description: "Gleiberg Castle, the imposing remnants of a medieval fortress, is located in the charming region of Wettenberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

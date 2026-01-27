@@ -3,7 +3,7 @@ title: "Oder Dam"
 site_name: "Oder Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Oder Dam, located in the Göttingen district of Germany, is an essential feat of engineering that plays a significant role in the region's water..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Dam"

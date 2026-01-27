@@ -3,7 +3,7 @@ title: "Burg Leineck"
 site_name: "Burg Leineck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Leineck, a striking castle located in the picturesque region of Alfdorf, Germany, presents an intriguing glimpse into the architectural and historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Ernst-August-Denkmal"
 site_name: "Ernst-August-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Hannover, Germany"
+description: "The Ernst-August-Denkmal, a prominent monument situated in the heart of Hannover, Germany, serves as both a historical landmark and a symbol of the city’s..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

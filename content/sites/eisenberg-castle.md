@@ -3,7 +3,7 @@ title: "Eisenberg Castle"
 site_name: "Eisenberg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Eisenberg Castle, an archaeological site located in the picturesque region of Eisenberg, Germany, captivates visitors with its historical depth and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

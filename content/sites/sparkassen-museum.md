@@ -3,7 +3,7 @@ title: "Sparkassen-Museum"
 site_name: "Sparkassen-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the heart of Eisenach, Germany, the Sparkassen-Museum serves as a fascinating exploration of the history of banking and finance."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

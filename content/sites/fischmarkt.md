@@ -3,7 +3,7 @@ title: "Fischmarkt"
 site_name: "Fischmarkt"
 date: 2026-01-26
 draft: false
-description: "square in Erfurt, Germany"
+description: "Fischmarkt, located in the heart of Erfurt, Germany, serves as a vibrant square that encapsulates the essence of the city's rich cultural heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Square"

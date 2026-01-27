@@ -3,7 +3,7 @@ title: "Rheinsberg Palace"
 site_name: "Rheinsberg Palace"
 date: 2026-01-26
 draft: false
-description: "palace in Rheinsberg, Brandenburg, Germany"
+description: "Rheinsberg Palace, located in the picturesque region of Rheinsberg, Brandenburg, Germany, is a remarkable example of royal architecture that captures the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

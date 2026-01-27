@@ -3,7 +3,7 @@ title: "Altenburg Castle (Thüringen)"
 site_name: "Altenburg Castle (Thüringen)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Altenburg Castle, located in the picturesque region of Thüringen, Germany, is a remarkable museum that showcases the rich history and cultural heritage of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

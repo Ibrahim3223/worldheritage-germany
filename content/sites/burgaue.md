@@ -3,7 +3,7 @@ title: "Burgaue"
 site_name: "Burgaue"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Sachsen, Germany"
+description: "Burgaue is a nature reserve located in the Leipzig region of Sachsen, Germany. This protected area serves as a vital habitat for a diverse array of flora..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

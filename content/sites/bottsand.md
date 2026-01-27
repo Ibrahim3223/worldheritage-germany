@@ -3,7 +3,7 @@ title: "Bottsand"
 site_name: "Bottsand"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Bottsand is a nature reserve located in Wendtorf, Schleswig-Holstein, Germany, offering a unique opportunity to connect with the natural world."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

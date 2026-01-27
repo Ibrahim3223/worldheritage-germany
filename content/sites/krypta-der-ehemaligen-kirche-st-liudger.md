@@ -3,7 +3,7 @@ title: "Krypta der ehemaligen Kirche St. Liudger"
 site_name: "Krypta der ehemaligen Kirche St. Liudger"
 date: 2026-01-26
 draft: false
-description: "ehemalige Krypta, heutige Gedächtnisstätte in Leer"
+description: "The Krypta der ehemaligen Kirche St. Liudger is a poignant memorial located in the quaint town of Leer, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

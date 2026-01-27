@@ -3,7 +3,7 @@ title: "Tierpark Bad Pyrmont"
 site_name: "Tierpark Bad Pyrmont"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Tierpark Bad Pyrmont offers a unique blend of animal encounters and a serene woodland setting, making it a notable destination for families and nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

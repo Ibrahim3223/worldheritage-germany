@@ -3,7 +3,7 @@ title: "International Theatre Institute"
 site_name: "International Theatre Institute"
 date: 2026-01-26
 draft: false
-description: "World Organisation of the Performing Arts"
+description: "The International Theatre Institute (ITI) serves as the world’s leading organization dedicated to the promotion and support of the performing arts."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"

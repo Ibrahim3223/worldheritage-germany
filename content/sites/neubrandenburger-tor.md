@@ -3,7 +3,7 @@ title: "Neubrandenburger Tor"
 site_name: "Neubrandenburger Tor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "The Neubrandenburger Tor stands as a significant historical landmark in the region of Friedland, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

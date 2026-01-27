@@ -3,7 +3,7 @@ title: "Garten Hofgarten 1; Hofgarten 1a in Eichstätt"
 site_name: "Garten Hofgarten 1; Hofgarten 1a in Eichstätt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-76-123-687 (2) in Eichstätt, Bavaria"
+description: "The Garten Hofgarten 1; Hofgarten 1a in Eichstätt, Germany, stands as a cultural heritage monument that reflects the historical and aesthetic values of its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

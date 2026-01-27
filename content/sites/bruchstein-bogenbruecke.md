@@ -3,7 +3,7 @@ title: "Bruchstein-Bogenbrücke"
 site_name: "Bruchstein-Bogenbrücke"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the serene landscape of Dorfhain, Germany, the Bruchstein-Bogenbrücke stands as a remarkable example of engineering and historical significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

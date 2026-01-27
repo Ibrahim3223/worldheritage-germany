@@ -3,7 +3,7 @@ title: "Georg Kolbe Museum"
 site_name: "Georg Kolbe Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Georg Kolbe Museum in Berlin is a tribute to the life and work of one of Germany's most significant sculptors."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schmöckwitz village church"
 site_name: "Schmöckwitz village church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin"
+description: "Schmöckwitz village church, located in the Treptow-Köpenick district of Berlin, serves as a serene landmark amidst the urban tapestry of Germany's capital."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

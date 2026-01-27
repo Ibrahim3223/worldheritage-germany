@@ -3,7 +3,7 @@ title: "Affen- und Vogelpark Eckenhagen"
 site_name: "Affen- und Vogelpark Eckenhagen"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Affen- und Vogelpark Eckenhagen is a captivating zoo located in the picturesque region of Reichshof, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

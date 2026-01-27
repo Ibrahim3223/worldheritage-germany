@@ -3,7 +3,7 @@ title: "Leopold-Hoesch-Museum"
 site_name: "Leopold-Hoesch-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Düren, Germany"
+description: "The Leopold-Hoesch-Museum, located in the heart of Düren, Germany, serves as a vibrant cultural hub dedicated to the appreciation of art in its many forms."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

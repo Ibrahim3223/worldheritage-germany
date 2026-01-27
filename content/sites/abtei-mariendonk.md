@@ -3,7 +3,7 @@ title: "Abtei Mariendonk"
 site_name: "Abtei Mariendonk"
 date: 2026-01-26
 draft: false
-description: "Kloster der Benediktinerinnen"
+description: "Abtei Mariendonk, a serene monastery located in the tranquil region of Grefrath, Germany, invites visitors to explore its spiritual and architectural heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

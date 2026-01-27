@@ -3,7 +3,7 @@ title: "Burg Großer Felsen"
 site_name: "Burg Großer Felsen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the picturesque region of Orsingen-Nenzingen, Burg Großer Felsen is a castle that captures the imagination with its historical significance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

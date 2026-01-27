@@ -3,7 +3,7 @@ title: "Princess Pauline Foundation"
 site_name: "Princess Pauline Foundation"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Princess Pauline Foundation, located in North Rhine-Westphalia, Germany, is an essential institution dedicated to promoting cultural and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

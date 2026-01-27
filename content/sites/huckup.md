@@ -3,7 +3,7 @@ title: "Huckup"
 site_name: "Huckup"
 date: 2026-01-26
 draft: false
-description: "statue and memorial in Hildesheim, Germany"
+description: "Huckup, a notable monument located in Hildesheim, Germany, serves as both a statue and a memorial, encapsulating the essence of the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "St.-Andreas-Kirche"
 site_name: "St.-Andreas-Kirche"
 date: 2026-01-26
 draft: false
-description: "demolished church in Berlin-Friedrichshain, Germany"
+description: "St.-Andreas-Kirche once held a prominent place in the landscape of Berlin-Friedrichshain, Germany, as a significant church building that was not only a..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

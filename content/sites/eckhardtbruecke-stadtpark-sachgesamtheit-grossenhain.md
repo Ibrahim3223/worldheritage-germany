@@ -3,7 +3,7 @@ title: "Eckhardtbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 site_name: "Eckhardtbrücke; Stadtpark (Sachgesamtheit) Großenhain"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eckhardtbrücke, a pivotal architectural feature in Großenhain, Germany, offers visitors a glimpse into the region’s engineering prowess and historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

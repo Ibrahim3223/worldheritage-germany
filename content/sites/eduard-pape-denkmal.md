@@ -3,7 +3,7 @@ title: "Eduard-Pape-Denkmal"
 site_name: "Eduard-Pape-Denkmal"
 date: 2026-01-26
 draft: false
-description: "former monument in Brilon, Germany"
+description: "The Eduard-Pape-Denkmal, a former monument located in Brilon, Germany, invites visitors to explore a piece of cultural heritage that reflects the historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

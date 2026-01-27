@@ -3,7 +3,7 @@ title: "Jubiläumssäule"
 site_name: "Jubiläumssäule"
 date: 2026-01-26
 draft: false
-description: "Monument at the Schloßplatz in Stuttgart"
+description: "In the heart of Stuttgart, the Jubiläumssäule stands as an enduring symbol of history and culture, drawing visitors from around the globe."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Bürresheim Castle"
 site_name: "Bürresheim Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Bürresheim Castle, situated in the picturesque region of Sankt Johann, Germany, is a remarkable museum that showcases the architectural grandeur and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

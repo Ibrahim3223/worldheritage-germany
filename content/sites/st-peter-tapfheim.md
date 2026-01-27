@@ -3,7 +3,7 @@ title: "St. Peter (Tapfheim)"
 site_name: "St. Peter (Tapfheim)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Peter in Tapfheim is a remarkable church building that serves as a focal point for the local community in this quaint German village."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

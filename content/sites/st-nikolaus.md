@@ -3,7 +3,7 @@ title: "St. Nikolaus"
 site_name: "St. Nikolaus"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "St. Nikolaus is a notable church building located in Halle (Saale), a city in the Saxony-Anhalt region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Moritzmonument, Dresden"
 site_name: "Moritzmonument, Dresden"
 date: 2026-01-26
 draft: false
-description: "monument in Dresden, Germany"
+description: "In the heart of Dresden, Germany, stands the Moritzmonument—a distinguished monument that commemorates significant historical events and figures."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

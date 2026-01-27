@@ -3,7 +3,7 @@ title: "Geislingen (Steige) station"
 site_name: "Geislingen (Steige) station"
 date: 2026-01-26
 draft: false
-description: "railway station in Geislingen an der Steige, Germany"
+description: "Geislingen (Steige) station serves as an important junction within the German rail network, located in the town of Geislingen an der Steige."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

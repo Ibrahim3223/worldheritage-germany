@@ -3,7 +3,7 @@ title: "Krummbek Manor"
 site_name: "Krummbek Manor"
 date: 2026-01-26
 draft: false
-description: "building"
+description: "Krummbek Manor, a distinguished manor house located in the Lasbek region of Germany, offers visitors an opportunity to explore the architectural beauty and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"

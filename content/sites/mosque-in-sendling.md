@@ -3,7 +3,7 @@ title: "Mosque in Sendling"
 site_name: "Mosque in Sendling"
 date: 2026-01-26
 draft: false
-description: "mosque"
+description: "The Mosque in Sendling serves as a significant religious and cultural site within the bustling urban landscape of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

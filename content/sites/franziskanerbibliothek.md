@@ -3,7 +3,7 @@ title: "Franziskanerbibliothek"
 site_name: "Franziskanerbibliothek"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Franziskanerbibliothek, a distinguished library located in Brandenburg an der Havel, Germany, serves as a cultural and intellectual hub within the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

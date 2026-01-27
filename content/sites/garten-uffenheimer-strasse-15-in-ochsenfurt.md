@@ -3,7 +3,7 @@ title: "Garten Uffenheimer Straße 15 in Ochsenfurt"
 site_name: "Garten Uffenheimer Straße 15 in Ochsenfurt"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-79-170-191 (1) in Ochsenfurt, Bavaria"
+description: "Garten Uffenheimer Straße 15 in Ochsenfurt is a notable cultural heritage monument located in the historic town of Ochsenfurt, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Garden"

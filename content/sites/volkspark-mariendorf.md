@@ -3,7 +3,7 @@ title: "Volkspark Mariendorf"
 site_name: "Volkspark Mariendorf"
 date: 2026-01-26
 draft: false
-description: "urban park"
+description: "Volkspark Mariendorf is an urban park located in the Tempelhof-Schöneberg district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

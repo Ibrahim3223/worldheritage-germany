@@ -3,7 +3,7 @@ title: "Kunsthaus Kaufbeuren"
 site_name: "Kunsthaus Kaufbeuren"
 date: 2026-01-26
 draft: false
-description: "art museum in Kaufbeuren, Bavaria, Germany"
+description: "Kunsthaus Kaufbeuren, located in the charming town of Kaufbeuren in Bavaria, Germany, serves as a vibrant center for contemporary art."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

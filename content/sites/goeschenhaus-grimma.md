@@ -3,7 +3,7 @@ title: "Göschenhaus Grimma"
 site_name: "Göschenhaus Grimma"
 date: 2026-01-26
 draft: false
-description: "museum in Grimma, Saxony, Germany"
+description: "Göschenhaus Grimma, located in the charming town of Grimma in Saxony, Germany, offers a unique glimpse into the cultural heritage of the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

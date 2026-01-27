@@ -3,7 +3,7 @@ title: "Torhaus Fürstenweg 1 in Eggolsheim"
 site_name: "Torhaus Fürstenweg 1 in Eggolsheim"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-123-79 (3) in Eggolsheim, Bavaria"
+description: "Torhaus Fürstenweg 1 in Eggolsheim is a remarkable cultural heritage monument that encapsulates the historical essence of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

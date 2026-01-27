@@ -3,7 +3,7 @@ title: "Museum SchPIRA"
 site_name: "Museum SchPIRA"
 date: 2026-01-26
 draft: false
-description: "museum in Speyer, Rhineland-Palatinate, Germany (2010-)"
+description: "Museum SchPIRA in Speyer, Germany, is a cultural institution that enriches the landscape of heritage and history within the Rhineland-Palatinate region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

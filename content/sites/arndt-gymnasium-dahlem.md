@@ -3,7 +3,7 @@ title: "Arndt-Gymnasium Dahlem"
 site_name: "Arndt-Gymnasium Dahlem"
 date: 2026-01-26
 draft: false
-description: "school in Berlin-Dahlem"
+description: "Arndt-Gymnasium Dahlem is a notable educational institution located in the charming district of Dahlem, within the Steglitz-Zehlendorf region of Berlin,..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

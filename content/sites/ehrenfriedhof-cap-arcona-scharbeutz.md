@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Cap-Arcona Scharbeutz"
 site_name: "Ehrenfriedhof Cap-Arcona Scharbeutz"
 date: 2026-01-26
 draft: false
-description: "cemetery in Scharbeutz, Germany"
+description: "Ehrenfriedhof Cap-Arcona Scharbeutz serves as a solemn reminder of the past, located in the serene region of Scharbeutz, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Cemetery"

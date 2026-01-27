@@ -3,7 +3,7 @@ title: "Barrelpäule"
 site_name: "Barrelpäule"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Halle, North Rhine-Westphalia, Germany"
+description: "Barrelpäule is a captivating nature reserve located in Halle, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

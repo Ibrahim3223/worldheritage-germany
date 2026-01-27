@@ -3,7 +3,7 @@ title: "Fernmeldeturm Kaiserslautern"
 site_name: "Fernmeldeturm Kaiserslautern"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Kaiserslautern, a striking tower located in Rhineland-Palatinate, Germany, serves as both a functional telecommunications tower and a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Fürstenfeld Abbey"
 site_name: "Fürstenfeld Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Fürstenfeld Abbey, an impressive monastery located in the region of Fürstenfeldbruck, Germany, serves as a focal point of cultural and spiritual heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Gemeindeheimatmuseum Harsum"
 site_name: "Gemeindeheimatmuseum Harsum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Harsum, Germany, the Gemeindeheimatmuseum Harsum serves as a cultural repository, showcasing the rich history and traditions of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

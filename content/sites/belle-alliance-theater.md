@@ -3,7 +3,7 @@ title: "Belle-Alliance-Theater"
 site_name: "Belle-Alliance-Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre in Berlin, Germany"
+description: "The Belle-Alliance-Theater, a former theatre building located in Berlin, Germany, is a notable structure that encapsulates the artistic heritage of the city."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

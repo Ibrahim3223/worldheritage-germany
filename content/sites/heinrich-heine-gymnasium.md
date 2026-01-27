@@ -3,7 +3,7 @@ title: "Heinrich-Heine-Gymnasium"
 site_name: "Heinrich-Heine-Gymnasium"
 date: 2026-01-26
 draft: false
-description: "Public high school in Hamburg"
+description: "The Heinrich-Heine-Gymnasium, located in Hamburg, Germany, serves as a significant public high school that plays an essential role in the educational..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "School Building"

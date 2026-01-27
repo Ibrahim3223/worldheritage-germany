@@ -3,7 +3,7 @@ title: "Hanseatic City of Lübeck"
 site_name: "Hanseatic City of Lübeck"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Hanseatic City of Lübeck, located in the northern part of Germany, is a UNESCO World Heritage site that embodies the spirit of maritime trade and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Urban Area"

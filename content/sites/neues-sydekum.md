@@ -3,7 +3,7 @@ title: "Neues Sydekum"
 site_name: "Neues Sydekum"
 date: 2026-01-26
 draft: false
-description: "building in Germany"
+description: "The Neues Sydekum Mosque, located in the picturesque town of Hann. Münden, Germany, serves as a significant architectural and cultural landmark within the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Rhine Water Fountain"
 site_name: "Rhine Water Fountain"
 date: 2026-01-26
 draft: false
-description: "water fountain in Munich, Germany"
+description: "The Rhine Water Fountain, located in the heart of Munich, Germany, is a modern marvel that serves as both a functional water source and a striking piece of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

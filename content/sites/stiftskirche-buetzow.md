@@ -3,7 +3,7 @@ title: "Stiftskirche Bützow"
 site_name: "Stiftskirche Bützow"
 date: 2026-01-26
 draft: false
-description: "church building in Bützow, Germany"
+description: "Stiftskirche Bützow is a remarkable church building located in the charming town of Bützow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

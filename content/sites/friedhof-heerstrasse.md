@@ -3,7 +3,7 @@ title: "Friedhof Heerstraße"
 site_name: "Friedhof Heerstraße"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin-Westend, Germany"
+description: "Friedhof Heerstraße, located in the Charlottenburg-Wilmersdorf district of Berlin, is a cemetery that serves as a poignant reminder of the city's historical..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

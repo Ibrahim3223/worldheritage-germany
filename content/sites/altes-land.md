@@ -3,7 +3,7 @@ title: "Altes Land"
 site_name: "Altes Land"
 date: 2026-01-26
 draft: false
-description: "landscape in northern Germany"
+description: "Altes Land, located in northern Germany, is a remarkable cultural landscape that reflects the unique agricultural heritage and traditional practices of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

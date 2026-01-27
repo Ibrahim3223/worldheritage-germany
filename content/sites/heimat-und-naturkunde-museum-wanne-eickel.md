@@ -3,7 +3,7 @@ title: "Heimat- und Naturkunde-Museum Wanne-Eickel"
 site_name: "Heimat- und Naturkunde-Museum Wanne-Eickel"
 date: 2026-01-26
 draft: false
-description: "museum in Herne, Germany"
+description: "The Heimat- und Naturkunde-Museum Wanne-Eickel serves as a unique cultural institution in the city of Herne, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

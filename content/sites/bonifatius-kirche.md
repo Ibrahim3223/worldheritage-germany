@@ -3,7 +3,7 @@ title: "Bonifatius-Kirche"
 site_name: "Bonifatius-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Dortmund"
+description: "The Bonifatius-Kirche in Dortmund, Germany, stands as a significant landmark within the local community, reflecting the architectural and cultural fabric of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

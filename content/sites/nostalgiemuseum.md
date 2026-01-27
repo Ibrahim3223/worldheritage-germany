@@ -3,7 +3,7 @@ title: "N’Ostalgiemuseum"
 site_name: "N’Ostalgiemuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The N’Ostalgiemuseum in Leipzig, Germany, offers visitors a unique exploration of nostalgia and memory, particularly centered around the cultural artifacts..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

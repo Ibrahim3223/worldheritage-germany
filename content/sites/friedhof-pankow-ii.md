@@ -3,7 +3,7 @@ title: "Friedhof Pankow II"
 site_name: "Friedhof Pankow II"
 date: 2026-01-26
 draft: false
-description: "cemetery in Pankow, Germany"
+description: "Friedhof Pankow II, located in the vibrant district of Pankow, Germany, serves as a poignant reminder of the region's historical and cultural landscape."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

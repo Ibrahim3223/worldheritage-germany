@@ -3,7 +3,7 @@ title: "Brauselay"
 site_name: "Brauselay"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Rheinland-Pfalz, Germany"
+description: "Brauselay is a notable nature reserve situated in the scenic Cochem region of Rheinland-Pfalz, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

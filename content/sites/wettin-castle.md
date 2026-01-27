@@ -3,7 +3,7 @@ title: "Wettin Castle"
 site_name: "Wettin Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Wettin Castle, located in the scenic region of Wettin-Löbejün, Germany, is a striking example of medieval architecture that draws visitors from near and far."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

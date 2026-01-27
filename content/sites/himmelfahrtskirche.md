@@ -3,7 +3,7 @@ title: "Himmelfahrtskirche"
 site_name: "Himmelfahrtskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Dresden, Saxony, Germany"
+description: "In the heart of Dresden, Germany, the Himmelfahrtskirche stands as a significant church building that reflects the city’s architectural and cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Museum Veste Otzberg - sehen, hören, schmecken"
 site_name: "Museum Veste Otzberg - sehen, hören, schmecken"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Veste Otzberg - sehen, hören, schmecken is a unique cultural institution located in Germany that offers a multifaceted exploration of the senses."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

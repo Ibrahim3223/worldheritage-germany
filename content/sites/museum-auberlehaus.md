@@ -3,7 +3,7 @@ title: "Museum Auberlehaus"
 site_name: "Museum Auberlehaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Auberlehaus, located in the heart of Trossingen, Germany, is a cultural institution that invites visitors to explore local heritage and artistic..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

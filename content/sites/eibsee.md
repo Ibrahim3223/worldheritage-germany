@@ -3,7 +3,7 @@ title: "Eibsee"
 site_name: "Eibsee"
 date: 2026-01-26
 draft: false
-description: "lake in Grainau municipality, Bavaria, Germany"
+description: "Eibsee, a picturesque lake located in the Grainau municipality of Bavaria, Germany, offers visitors a serene escape into nature."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

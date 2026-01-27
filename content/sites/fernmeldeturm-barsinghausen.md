@@ -3,7 +3,7 @@ title: "Fernmeldeturm Barsinghausen"
 site_name: "Fernmeldeturm Barsinghausen"
 date: 2026-01-26
 draft: false
-description: "communication tower in Lower Saxony"
+description: "The Fernmeldeturm Barsinghausen is a striking communication tower located in Lauenau, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Buchholz Mining Landscape"
 site_name: "Buchholz Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Buchholz Mining Landscape, located in Germany, is a remarkable cultural landscape that offers a glimpse into the historical significance of mining in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Landscape"

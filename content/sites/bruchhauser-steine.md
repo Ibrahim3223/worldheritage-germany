@@ -3,7 +3,7 @@ title: "Bruchhauser Steine"
 site_name: "Bruchhauser Steine"
 date: 2026-01-26
 draft: false
-description: "rock formation in Germany"
+description: "The Bruchhauser Steine, located in the Olsberg region of Germany, is an archaeological site notable for its striking rock formations."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

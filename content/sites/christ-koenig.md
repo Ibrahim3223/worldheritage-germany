@@ -3,7 +3,7 @@ title: "Christ König"
 site_name: "Christ König"
 date: 2026-01-26
 draft: false
-description: "church building in Wuppertal, Germany"
+description: "Christ König is a notable church building located in Wuppertal, Germany, serving as an important landmark in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

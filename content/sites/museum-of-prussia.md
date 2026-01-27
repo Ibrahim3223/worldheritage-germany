@@ -3,7 +3,7 @@ title: "Museum of Prussia"
 site_name: "Museum of Prussia"
 date: 2026-01-26
 draft: false
-description: "museum in Minden"
+description: "The Museum of Prussia, located in Minden, Germany, serves as a captivating homage to the cultural and historical heritage of the Prussian state."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

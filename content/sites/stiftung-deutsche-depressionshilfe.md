@@ -3,7 +3,7 @@ title: "Stiftung Deutsche Depressionshilfe"
 site_name: "Stiftung Deutsche Depressionshilfe"
 date: 2026-01-26
 draft: false
-description: "German charitable organization"
+description: "In the heart of Leipzig, Germany, the Stiftung Deutsche Depressionshilfe serves as a vital resource dedicated to raising awareness and providing support for..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"

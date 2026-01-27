@@ -3,7 +3,7 @@ title: "Harkort’sche Fabrik"
 site_name: "Harkort’sche Fabrik"
 date: 2026-01-26
 draft: false
-description: "factory"
+description: "Harkort’sche Fabrik, a historical factory located in Hagen, Germany, serves as a compelling representation of the industrial heritage that shaped the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

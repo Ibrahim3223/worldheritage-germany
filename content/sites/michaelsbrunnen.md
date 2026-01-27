@@ -3,7 +3,7 @@ title: "Michaelsbrunnen"
 site_name: "Michaelsbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain and memorial in Mettingen"
+description: "In the quaint town of Mettingen, Germany, lies Michaelsbrunnen, a captivating fountain that serves both as a functional water source and a commemorative..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

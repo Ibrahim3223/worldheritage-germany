@@ -3,7 +3,7 @@ title: "Kaiserin-Augusta-Denkmal in Koblenz"
 site_name: "Kaiserin-Augusta-Denkmal in Koblenz"
 date: 2026-01-26
 draft: false
-description: "monument in Koblenz, Germany"
+description: "The Kaiserin-Augusta-Denkmal in Koblenz is a striking monument that commemorates Empress Augusta of Germany, a significant figure in the country's history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Marienfelde refugee transit camp"
 site_name: "Marienfelde refugee transit camp"
 date: 2026-01-26
 draft: false
-description: "refugee transit camp"
+description: "The Marienfelde refugee transit camp serves as a poignant memorial to the complex history of migration and displacement in Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

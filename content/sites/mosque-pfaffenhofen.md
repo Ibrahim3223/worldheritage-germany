@@ -3,7 +3,7 @@ title: "Mosque Pfaffenhofen"
 site_name: "Mosque Pfaffenhofen"
 date: 2026-01-26
 draft: false
-description: "mosque in Pfaffenhofen, Germany"
+description: "The Mosque Pfaffenhofen, located in the charming town of Pfaffenhofen an der Ilm, is an important religious and cultural landmark in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

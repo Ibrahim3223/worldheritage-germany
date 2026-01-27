@@ -3,7 +3,7 @@ title: "Bethanienkirche, Berlin"
 site_name: "Bethanienkirche, Berlin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bethanienkirche, located in the vibrant district of Pankow, Berlin, is more than just a church; it embodies a significant aspect of the city’s spiritual and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

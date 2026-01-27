@@ -3,7 +3,7 @@ title: "Kunsthalle in Emden"
 site_name: "Kunsthalle in Emden"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Kunsthalle in Emden is a distinguished art museum situated in the heart of Emden, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

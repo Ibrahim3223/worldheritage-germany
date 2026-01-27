@@ -3,7 +3,7 @@ title: "Burg Herzogenstein"
 site_name: "Burg Herzogenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Herzogenstein is a captivating castle located in the scenic region of Dörscheid, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

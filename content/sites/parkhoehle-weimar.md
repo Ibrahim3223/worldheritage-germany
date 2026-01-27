@@ -3,7 +3,7 @@ title: "Parkhöhle Weimar"
 site_name: "Parkhöhle Weimar"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Parkhöhle Weimar, a unique museum located in the historic city of Weimar, Germany, invites visitors to explore the fascinating world of its exhibits."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

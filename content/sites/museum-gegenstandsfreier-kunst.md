@@ -3,7 +3,7 @@ title: "Museum gegenstandsfreier Kunst"
 site_name: "Museum gegenstandsfreier Kunst"
 date: 2026-01-26
 draft: false
-description: "Otterndorf, Germany"
+description: "In the charming town of Otterndorf, Germany, the Museum gegenstandsfreier Kunst presents a unique exploration of abstract art."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

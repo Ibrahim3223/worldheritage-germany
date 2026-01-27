@@ -3,7 +3,7 @@ title: "Glyptothek"
 site_name: "Glyptothek"
 date: 2026-01-26
 draft: false
-description: "archaeological museum in Munich"
+description: "Located in the heart of Munich, the Glyptothek is a prominent archaeological museum that showcases an impressive collection of ancient sculptures and artifacts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

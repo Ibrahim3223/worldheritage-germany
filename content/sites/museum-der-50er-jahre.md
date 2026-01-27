@@ -3,7 +3,7 @@ title: "Museum der 50er Jahre"
 site_name: "Museum der 50er Jahre"
 date: 2026-01-26
 draft: false
-description: "museum in Bremerhaven, Germany"
+description: "The Museum der 50er Jahre in Bremerhaven, Germany, is a captivating exploration of a transformative decade that shaped modern culture and design."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

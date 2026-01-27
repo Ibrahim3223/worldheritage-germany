@@ -3,7 +3,7 @@ title: "Carl-Julius-Weber-Gedenkstube"
 site_name: "Carl-Julius-Weber-Gedenkstube"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Carl-Julius-Weber-Gedenkstube is an intriguing museum located in the charming town of Langenburg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

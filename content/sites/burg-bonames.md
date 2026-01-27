@@ -3,7 +3,7 @@ title: "Burg Bonames"
 site_name: "Burg Bonames"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Bonames, an archaeological site located in the Frankfurt-Nord-Ost region of Germany, offers a glimpse into the medieval past through the remnants of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "St. Brictius (Euenheim)"
 site_name: "St. Brictius (Euenheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Euskirchen, Germany"
+description: "St. Brictius (Euenheim) is a remarkable church building located in the charming town of Euskirchen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

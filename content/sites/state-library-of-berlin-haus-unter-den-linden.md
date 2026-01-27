@@ -3,7 +3,7 @@ title: "State Library of Berlin (Haus Unter den Linden)"
 site_name: "State Library of Berlin (Haus Unter den Linden)"
 date: 2026-01-26
 draft: false
-description: "library building"
+description: "The State Library of Berlin (Haus Unter den Linden) is an architectural and cultural landmark situated in the heart of the Bezirk Mitte district of Berlin,..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

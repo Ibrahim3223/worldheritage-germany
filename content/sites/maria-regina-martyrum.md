@@ -3,7 +3,7 @@ title: "Maria Regina Martyrum"
 site_name: "Maria Regina Martyrum"
 date: 2026-01-26
 draft: false
-description: "catholic church in Berlin, Germany"
+description: "Maria Regina Martyrum, a distinguished Catholic church located in the Charlottenburg-Wilmersdorf district of Berlin, serves as both a spiritual sanctuary..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

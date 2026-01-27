@@ -3,7 +3,7 @@ title: "Historisches Museum Schloss Gifhorn"
 site_name: "Historisches Museum Schloss Gifhorn"
 date: 2026-01-26
 draft: false
-description: "museum in Gifhorn, Germany"
+description: "The Historisches Museum Schloss Gifhorn is a notable cultural institution situated in the town of Gifhorn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

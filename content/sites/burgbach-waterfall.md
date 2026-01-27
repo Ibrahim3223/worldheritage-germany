@@ -3,7 +3,7 @@ title: "Burgbach Waterfall"
 site_name: "Burgbach Waterfall"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "Burgbach Waterfall, located in the picturesque region of Bad Rippoldsau-Schapbach in Germany, is a captivating natural attraction that draws visitors from..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

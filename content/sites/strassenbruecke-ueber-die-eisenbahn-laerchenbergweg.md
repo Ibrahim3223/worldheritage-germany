@@ -3,7 +3,7 @@ title: "Straßenbrücke über die Eisenbahn Lärchenbergweg"
 site_name: "Straßenbrücke über die Eisenbahn Lärchenbergweg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke über die Eisenbahn Lärchenbergweg, located in the quaint community of Dürrhennersdorf, Germany, is a fascinating example of regional..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

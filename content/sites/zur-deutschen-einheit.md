@@ -3,7 +3,7 @@ title: "Zur Deutschen Einheit"
 site_name: "Zur Deutschen Einheit"
 date: 2026-01-26
 draft: false
-description: "square in Munic"
+description: "Zur Deutschen Einheit is a significant square located in the vibrant city of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

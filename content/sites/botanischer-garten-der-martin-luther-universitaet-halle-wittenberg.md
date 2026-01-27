@@ -3,7 +3,7 @@ title: "Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg"
 site_name: "Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "The Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg, located in the historic city of Halle (Saale), Germany, serves as a vibrant sanctuary..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Rex am Ring"
 site_name: "Rex am Ring"
 date: 2026-01-26
 draft: false
-description: "cinema in Cologne, Germany"
+description: "Rex am Ring is more than just a movie theater; it represents a cultural hub within the vibrant city of Cologne, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Movie Theater"

@@ -3,7 +3,7 @@ title: "St Remigius' Church, Bonn"
 site_name: "St Remigius' Church, Bonn"
 date: 2026-01-26
 draft: false
-description: "church building in Bonn"
+description: "St. Remigius' Church is a prominent church building located in Bonn, Germany, that holds a significant place in the region's cultural and spiritual life."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

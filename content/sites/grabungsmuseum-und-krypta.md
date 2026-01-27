@@ -3,7 +3,7 @@ title: "Grabungsmuseum und Krypta"
 site_name: "Grabungsmuseum und Krypta"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Grabungsmuseum und Krypta, located in Germany, offers visitors a unique glimpse into the historical and cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

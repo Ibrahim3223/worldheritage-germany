@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-8228-0022 in Durach"
 site_name: "Cultural heritage D-7-8228-0022 in Durach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Cultural heritage D-7-8228-0022 in Durach represents an intriguing chapter in Bavaria's storied past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

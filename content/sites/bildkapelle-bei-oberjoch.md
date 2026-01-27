@@ -3,7 +3,7 @@ title: "Bildkapelle bei Oberjoch"
 site_name: "Bildkapelle bei Oberjoch"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Deutschland"
+description: "The Bildkapelle bei Oberjoch is a notable chapel located in the picturesque region of Bad Hindelang, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

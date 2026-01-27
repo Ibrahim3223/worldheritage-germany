@@ -3,7 +3,7 @@ title: "Heimatmuseum Lampertheim"
 site_name: "Heimatmuseum Lampertheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Lampertheim serves as a cultural touchstone within its community, inviting visitors to explore the local heritage of this charming region in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Steinbogenbrücke über die Striegis Wegefarth"
 site_name: "Steinbogenbrücke über die Striegis Wegefarth"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke über die Striegis in Oberschöna, Germany, is a remarkable bridge that captures the essence of engineering and design in a serene landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

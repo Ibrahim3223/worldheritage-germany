@@ -3,7 +3,7 @@ title: "Museum Schloss Ortenburg"
 site_name: "Museum Schloss Ortenburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Schloss Ortenburg, located in the picturesque landscape of Germany, offers a fascinating glimpse into the region's cultural heritage and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

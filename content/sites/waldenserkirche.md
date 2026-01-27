@@ -3,7 +3,7 @@ title: "Waldenserkirche"
 site_name: "Waldenserkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Nordhausen, Nordheim, Heilbronn district, Germany"
+description: "Waldenserkirche, an important church building located in Nordhausen, Nordheim, within the Heilbronn district of Germany, serves as a significant cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

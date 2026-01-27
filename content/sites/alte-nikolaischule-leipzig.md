@@ -3,7 +3,7 @@ title: "Alte Nikolaischule (Leipzig)"
 site_name: "Alte Nikolaischule (Leipzig)"
 date: 2026-01-26
 draft: false
-description: "school in Leipzig"
+description: "Alte Nikolaischule, located in the heart of Leipzig, Germany, is a significant educational institution with a rich heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "School Building"

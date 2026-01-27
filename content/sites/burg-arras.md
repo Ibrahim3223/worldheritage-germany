@@ -3,7 +3,7 @@ title: "Burg Arras"
 site_name: "Burg Arras"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Arras, a historic castle turned museum, is a captivating destination that offers visitors a unique glimpse into the architectural and cultural heritage..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

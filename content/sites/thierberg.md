@@ -3,7 +3,7 @@ title: "Thierberg"
 site_name: "Thierberg"
 date: 2026-01-26
 draft: false
-description: "mountain in Germany"
+description: "Thierberg, a prominent mountain located in the Vogtlandkreis region of Germany, invites adventurers and nature enthusiasts alike to explore its scenic..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

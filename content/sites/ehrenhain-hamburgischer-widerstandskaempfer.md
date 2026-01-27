@@ -3,7 +3,7 @@ title: "Ehrenhain Hamburgischer Widerstandskämpfer"
 site_name: "Ehrenhain Hamburgischer Widerstandskämpfer"
 date: 2026-01-26
 draft: false
-description: "Gräber- und Gedenkstätte auf dem Hamburger Friedhof Ohlsdorf"
+description: "In the heart of Hamburg-Nord, the Ehrenhain Hamburgischer Widerstandskämpfer serves as a solemn memorial dedicated to the courageous individuals who..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Memorial"

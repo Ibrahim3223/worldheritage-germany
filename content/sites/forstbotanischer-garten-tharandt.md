@@ -3,7 +3,7 @@ title: "Forstbotanischer Garten Tharandt"
 site_name: "Forstbotanischer Garten Tharandt"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Forstbotanischer Garten Tharandt, located in the picturesque region of Tharandt, Germany, is a botanical garden that serves as a living repository of plant..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

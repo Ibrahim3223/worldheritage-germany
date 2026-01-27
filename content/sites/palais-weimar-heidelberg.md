@@ -3,7 +3,7 @@ title: "Palais Weimar (Heidelberg)"
 site_name: "Palais Weimar (Heidelberg)"
 date: 2026-01-26
 draft: false
-description: "Barockbauwerk"
+description: "Palais Weimar, located in the historic city of Heidelberg, Germany, is an exemplary representation of Baroque architecture and a site of cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

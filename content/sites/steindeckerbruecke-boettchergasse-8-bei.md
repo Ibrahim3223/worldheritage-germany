@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Böttchergasse 8 (bei)"
 site_name: "Steindeckerbrücke Böttchergasse 8 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located at Böttchergasse 8 in the Schirgiswalde-Kirschau region of Germany, exemplifies the functional beauty of bridge architecture..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

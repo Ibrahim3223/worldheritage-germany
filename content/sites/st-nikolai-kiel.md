@@ -3,7 +3,7 @@ title: "St. Nikolai, Kiel"
 site_name: "St. Nikolai, Kiel"
 date: 2026-01-26
 draft: false
-description: "church building in Altstadt (Kiel), Germany"
+description: "St. Nikolai Church, situated in the heart of Kiel's Altstadt, is a notable church building that captures the essence of the city’s architectural and..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

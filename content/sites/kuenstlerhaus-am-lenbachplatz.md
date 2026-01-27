@@ -3,7 +3,7 @@ title: "Künstlerhaus am Lenbachplatz"
 site_name: "Künstlerhaus am Lenbachplatz"
 date: 2026-01-26
 draft: false
-description: "building in Old Town, Upper Bavaria, Germany"
+description: "Künstlerhaus am Lenbachplatz, located in the heart of Munich, is a captivating foundation that serves as a cultural hub for art enthusiasts and history..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

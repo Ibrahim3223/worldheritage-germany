@@ -3,7 +3,7 @@ title: "Ökologisch-Botanischer Garten der Universität Bayreuth"
 site_name: "Ökologisch-Botanischer Garten der Universität Bayreuth"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Ökologisch-Botanischer Garten der Universität Bayreuth, or the Ecological-Botanical Garden of the University of Bayreuth, serves as a vital center for..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

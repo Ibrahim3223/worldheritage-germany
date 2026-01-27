@@ -3,7 +3,7 @@ title: "Burg Mühlenbach"
 site_name: "Burg Mühlenbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mühlenbach is a captivating castle located in the Heusweiler region of Germany, a structure that holds both architectural intrigue and cultural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

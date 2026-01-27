@@ -3,7 +3,7 @@ title: "Schiller house (Bauerbach)"
 site_name: "Schiller house (Bauerbach)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schiller House in Bauerbach stands as a museum dedicated to the literary legacy of Friedrich Schiller, one of Germany's most renowned poets and playwrights."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

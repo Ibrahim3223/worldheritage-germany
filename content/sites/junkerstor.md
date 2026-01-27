@@ -3,7 +3,7 @@ title: "Junkerstor"
 site_name: "Junkerstor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "Junkerstor, the remarkable city gate of Aachen, Germany, serves as a significant historical landmark that offers insights into the region's architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

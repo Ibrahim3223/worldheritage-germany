@@ -3,7 +3,7 @@ title: "Lietzensee"
 site_name: "Lietzensee"
 date: 2026-01-26
 draft: false
-description: "lake in Berlin-Charlottenburg"
+description: "Lietzensee, a picturesque lake situated in the heart of Berlin's Charlottenburg-Wilmersdorf district, offers a serene escape from the bustling city life."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Lake"

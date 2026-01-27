@@ -3,7 +3,7 @@ title: "Lighthouse Moritzburg"
 site_name: "Lighthouse Moritzburg"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Saxony, Germany"
+description: "Lighthouse Moritzburg, a notable maritime structure located in the picturesque region of Saxony, Germany, serves as a unique landmark that captures the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

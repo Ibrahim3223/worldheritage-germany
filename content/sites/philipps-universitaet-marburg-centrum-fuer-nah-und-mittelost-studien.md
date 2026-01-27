@@ -3,7 +3,7 @@ title: "Philipps-Universität Marburg Centrum für Nah- und Mittelost-Studien"
 site_name: "Philipps-Universität Marburg Centrum für Nah- und Mittelost-Studien"
 date: 2026-01-26
 draft: false
-description: "academic department"
+description: "The Philipps-Universität Marburg Centrum für Nah- und Mittelost-Studien, located in the heart of Germany, serves as a vital academic institution dedicated..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "University"

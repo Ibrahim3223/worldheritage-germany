@@ -3,7 +3,7 @@ title: "Zeche Brassert"
 site_name: "Zeche Brassert"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Brassert, located in Marl, Germany, stands as a notable reminder of the region’s industrial past, specifically its significance in the coal mining sector."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

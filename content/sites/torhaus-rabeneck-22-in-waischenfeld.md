@@ -3,7 +3,7 @@ title: "Torhaus Rabeneck 22 in Waischenfeld"
 site_name: "Torhaus Rabeneck 22 in Waischenfeld"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-72-197-51 (1) in Waischenfeld, Bavaria"
+description: "Torhaus Rabeneck 22, located in the picturesque town of Waischenfeld, Bavaria, serves as a striking representation of historical architecture and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

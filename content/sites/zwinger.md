@@ -3,7 +3,7 @@ title: "Zwinger"
 site_name: "Zwinger"
 date: 2026-01-26
 draft: false
-description: "palace in Dresden, eastern Germany"
+description: "The Zwinger is a remarkable palace located in Dresden, Germany, celebrated for its stunning architecture and cultural significance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

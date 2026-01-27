@@ -3,7 +3,7 @@ title: "Schloss Güterfelde"
 site_name: "Schloss Güterfelde"
 date: 2026-01-26
 draft: false
-description: "Schloss in Stahnsdorf, Landkreis Potsdam-Mittelmark, Brandenburg"
+description: "Schloss Güterfelde, located in Stahnsdorf within the Landkreis Potsdam-Mittelmark region of Brandenburg, Germany, is an intriguing manor house that..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Manor House"

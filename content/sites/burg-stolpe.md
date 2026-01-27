@@ -3,7 +3,7 @@ title: "Burg Stolpe"
 site_name: "Burg Stolpe"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Burg Stolpe, a historic tower located in the Angermünde region of Germany, offers visitors a unique glimpse into the architectural and cultural heritage of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

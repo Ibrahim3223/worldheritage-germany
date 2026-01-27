@@ -3,7 +3,7 @@ title: "Thüringer Orgelmuseum Bechstedtstraß"
 site_name: "Thüringer Orgelmuseum Bechstedtstraß"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Thüringer Orgelmuseum Bechstedtstraß is a unique cultural institution located in the picturesque region of Thuringia, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

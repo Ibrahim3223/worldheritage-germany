@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Döhlen 8 (bei)"
 site_name: "Steindeckerbrücke Döhlen 8 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke Döhlen 8 is a significant bridge located in the quaint region of Kubschütz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

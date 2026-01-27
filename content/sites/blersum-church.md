@@ -3,7 +3,7 @@ title: "Blersum Church"
 site_name: "Blersum Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the picturesque region of Wittmund, Germany, Blersum Church stands as a significant landmark, drawing visitors with its historic charm and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

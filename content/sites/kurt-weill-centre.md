@@ -3,7 +3,7 @@ title: "Kurt Weill Centre"
 site_name: "Kurt Weill Centre"
 date: 2026-01-26
 draft: false
-description: "museum in Dessau, Germany"
+description: "The Kurt Weill Centre in Dessau, Germany, serves as a memorial to the influential composer Kurt Weill, whose works bridged the worlds of classical music and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

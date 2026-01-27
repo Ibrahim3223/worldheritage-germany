@@ -3,7 +3,7 @@ title: "St. Augustine's Monastery"
 site_name: "St. Augustine's Monastery"
 date: 2026-01-26
 draft: false
-description: "church and Monastery complex"
+description: "St. Augustine's Monastery in Erfurt, Germany, is a striking representation of monastic architecture and a significant site for those interested in the..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monastery"

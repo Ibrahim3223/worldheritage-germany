@@ -3,7 +3,7 @@ title: "Dionysiuskirche"
 site_name: "Dionysiuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bremerhaven-Wulsdorf, Germany"
+description: "Dionysiuskirche is a significant church building located in the Wulsdorf district of Bremerhaven, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

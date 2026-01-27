@@ -3,7 +3,7 @@ title: "Stadtmuseum Sulzbach-Rosenberg"
 site_name: "Stadtmuseum Sulzbach-Rosenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Nestled within the historical town of Sulzbach-Rosenberg, the Stadtmuseum Sulzbach-Rosenberg offers visitors a captivating glimpse into the cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

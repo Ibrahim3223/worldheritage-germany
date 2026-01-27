@@ -3,7 +3,7 @@ title: "Gut Kaden"
 site_name: "Gut Kaden"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Kaden is a distinguished manor house located in the tranquil region of Alveslohe, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Manor House"

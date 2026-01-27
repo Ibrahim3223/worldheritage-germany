@@ -3,7 +3,7 @@ title: "Rosenmüller Cave"
 site_name: "Rosenmüller Cave"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Rosenmüller Cave, located in the picturesque Wiesenttal region of Germany, offers visitors a fascinating glimpse into the natural beauty and geological..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

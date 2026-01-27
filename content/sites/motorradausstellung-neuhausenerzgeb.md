@@ -3,7 +3,7 @@ title: "Motorradausstellung Neuhausen/Erzgeb."
 site_name: "Motorradausstellung Neuhausen/Erzgeb."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Motorradausstellung Neuhausen/Erzgeb. is a specialized museum dedicated to the history and evolution of motorcycles, located in the town of Neuhausen in..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

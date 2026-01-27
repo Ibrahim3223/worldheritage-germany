@@ -3,7 +3,7 @@ title: "Opelwerk Brandenburg"
 site_name: "Opelwerk Brandenburg"
 date: 2026-01-26
 draft: false
-description: "Ehemaliges Werk der Adam Opel AG in Brandenburg an der Havel"
+description: "Opelwerk Brandenburg, a former factory of the Adam Opel AG, lies within the historical landscapes of Brandenburg an der Havel."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"

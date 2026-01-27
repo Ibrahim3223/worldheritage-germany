@@ -3,7 +3,7 @@ title: "Denkmal"
 site_name: "Denkmal"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-1-84-136-3 (0) in Ottobrunn, Bavaria"
+description: "Denkmal, a cultural heritage monument located in the town of Ottobrunn, Bavaria, serves as a significant symbol of the region's historical and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

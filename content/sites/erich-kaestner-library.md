@@ -3,7 +3,7 @@ title: "Erich Kästner library"
 site_name: "Erich Kästner library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Erich Kästner Library, located in the serene region of Oberschwarzach, Germany, stands as a vital cultural resource for local residents and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

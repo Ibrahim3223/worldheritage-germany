@@ -3,7 +3,7 @@ title: "Zwei-Welten-Säule"
 site_name: "Zwei-Welten-Säule"
 date: 2026-01-26
 draft: false
-description: "monument in Gotha, Germany"
+description: "The Zwei-Welten-Säule, a striking monument located in Gotha, Germany, serves as a significant cultural landmark that invites visitors to explore the..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monument"

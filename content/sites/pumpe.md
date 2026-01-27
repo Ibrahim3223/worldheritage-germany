@@ -3,7 +3,7 @@ title: "Pumpe"
 site_name: "Pumpe"
 date: 2026-01-26
 draft: false
-description: "cultural center and cinema in Kiel, Germany"
+description: "Pumpe, a cultural center and cinema, is located in the heart of Kiel, Germany, within the vibrant Altstadt district."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Movie Theater"

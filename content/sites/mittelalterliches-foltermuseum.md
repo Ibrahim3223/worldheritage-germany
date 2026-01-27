@@ -3,7 +3,7 @@ title: "Mittelalterliches Foltermuseum"
 site_name: "Mittelalterliches Foltermuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Rüdesheim, Germany"
+description: "In the heart of Rüdesheim am Rhein, Germany, the Mittelalterliches Foltermuseum invites visitors to explore the darker chapters of medieval history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

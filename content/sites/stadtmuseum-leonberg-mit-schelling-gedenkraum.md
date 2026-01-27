@@ -3,7 +3,7 @@ title: "Stadtmuseum Leonberg mit Schelling-Gedenkraum"
 site_name: "Stadtmuseum Leonberg mit Schelling-Gedenkraum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Stadtmuseum Leonberg mit Schelling-Gedenkraum serves as a crucial cultural institution in the heart of Germany, offering visitors an insightful glimpse..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

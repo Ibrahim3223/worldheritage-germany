@@ -3,7 +3,7 @@ title: "Reformed Church (Campen)"
 site_name: "Reformed Church (Campen)"
 date: 2026-01-26
 draft: false
-description: "church building in Krummhörn, Lower Saxony, Germany"
+description: "The Reformed Church in Campen is a significant architectural and cultural landmark located in the picturesque region of Krummhörn, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

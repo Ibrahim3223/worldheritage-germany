@@ -3,7 +3,7 @@ title: "St. Martin (Blomberg)"
 site_name: "St. Martin (Blomberg)"
 date: 2026-01-26
 draft: false
-description: "church building in Blomberg, Germany"
+description: "St. Martin in Blomberg, Germany, is a church building that captures the essence of European ecclesiastical architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

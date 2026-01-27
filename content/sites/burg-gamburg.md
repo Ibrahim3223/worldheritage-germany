@@ -3,7 +3,7 @@ title: "Burg Gamburg"
 site_name: "Burg Gamburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gamburg, a castle located in the picturesque region of Werbach, Germany, stands as a remarkable example of medieval architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

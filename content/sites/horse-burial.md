@@ -3,7 +3,7 @@ title: "Horse burial"
 site_name: "Horse burial"
 date: 2026-01-26
 draft: false
-description: "Horse burial near Pasewalk, Germany"
+description: "The Horse Burial site near Pasewalk, Germany, is an intriguing archaeological location that offers a glimpse into the ancient customs surrounding equine..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Archaeological Site"

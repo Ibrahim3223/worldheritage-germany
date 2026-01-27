@@ -3,7 +3,7 @@ title: "Tuch und Technik Textilmuseum Neumünster"
 site_name: "Tuch und Technik Textilmuseum Neumünster"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Tuch und Technik Textilmuseum Neumünster serves as a fascinating portal into the world of textiles and their intricate history."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

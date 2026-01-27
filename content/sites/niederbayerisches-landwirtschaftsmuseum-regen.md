@@ -3,7 +3,7 @@ title: "Niederbayerisches Landwirtschaftsmuseum Regen"
 site_name: "Niederbayerisches Landwirtschaftsmuseum Regen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Niederbayerisches Landwirtschaftsmuseum Regen stands as a unique cultural institution in Germany, dedicated to the exploration and celebration of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

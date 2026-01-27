@@ -3,7 +3,7 @@ title: "Cultural heritage D-6-6225-0287 in Würzburg"
 site_name: "Cultural heritage D-6-6225-0287 in Würzburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Würzburg, Lower Franconia, Bavaria, Germany"
+description: "Cultural heritage D-6-6225-0287 in Würzburg represents a significant fortification that encapsulates the historical and architectural essence of this..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

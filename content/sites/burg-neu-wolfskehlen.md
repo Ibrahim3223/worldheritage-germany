@@ -3,7 +3,7 @@ title: "Burg Neu-Wolfskehlen"
 site_name: "Burg Neu-Wolfskehlen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neu-Wolfskehlen, a historic castle located in Riedstadt, Germany, invites visitors to explore its storied past and architectural charm."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

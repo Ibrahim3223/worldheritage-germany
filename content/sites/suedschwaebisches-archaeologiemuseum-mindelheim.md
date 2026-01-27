@@ -3,7 +3,7 @@ title: "Südschwäbisches Archäologiemuseum Mindelheim"
 site_name: "Südschwäbisches Archäologiemuseum Mindelheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Südschwäbisches Archäologiemuseum Mindelheim, located in the heart of Mindelheim, Germany, serves as a vital institution preserving and showcasing the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

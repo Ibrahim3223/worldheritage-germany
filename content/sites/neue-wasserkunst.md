@@ -3,7 +3,7 @@ title: "Neue Wasserkunst"
 site_name: "Neue Wasserkunst"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Neue Wasserkunst, a striking architectural structure located in Bautzen, Germany, serves as a fascinating example of historical engineering and design."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

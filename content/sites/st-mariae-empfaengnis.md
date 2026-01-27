@@ -3,7 +3,7 @@ title: "St. Mariä Empfängnis"
 site_name: "St. Mariä Empfängnis"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Stadtmitte, Germany"
+description: "St. Mariä Empfängnis is a prominent church building located in the bustling area of Stadtmitte, Düsseldorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

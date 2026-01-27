@@ -3,7 +3,7 @@ title: "Ulm Minster"
 site_name: "Ulm Minster"
 date: 2026-01-26
 draft: false
-description: "Gothic church in Germany"
+description: "Ulm Minster, the tallest church in Germany, captivates visitors with its stunning Gothic architecture and historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

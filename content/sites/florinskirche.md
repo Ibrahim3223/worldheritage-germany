@@ -3,7 +3,7 @@ title: "Florinskirche"
 site_name: "Florinskirche"
 date: 2026-01-26
 draft: false
-description: "church in Koblenz, Germany"
+description: "The Florinskirche, a historic church building located in Koblenz, Germany, is an architectural and cultural landmark that captures the essence of the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

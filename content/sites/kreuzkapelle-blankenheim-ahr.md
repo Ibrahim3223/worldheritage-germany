@@ -3,7 +3,7 @@ title: "Kreuzkapelle Blankenheim (Ahr)"
 site_name: "Kreuzkapelle Blankenheim (Ahr)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Ahr"
+description: "In the serene region of Ahr, Germany, the Kreuzkapelle Blankenheim stands as a quaint chapel that invites visitors into its tranquil embrace."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

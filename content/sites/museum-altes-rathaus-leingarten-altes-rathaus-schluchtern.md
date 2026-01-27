@@ -3,7 +3,7 @@ title: "Museum Altes Rathaus Leingarten - Altes Rathaus Schluchtern"
 site_name: "Museum Altes Rathaus Leingarten - Altes Rathaus Schluchtern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Altes Rathaus Leingarten, also known as Altes Rathaus Schluchtern, is a captivating institution located in the region of Leingarten, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

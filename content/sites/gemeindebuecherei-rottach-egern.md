@@ -3,7 +3,7 @@ title: "Gemeindebücherei Rottach-Egern"
 site_name: "Gemeindebücherei Rottach-Egern"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "In the picturesque town of Rottach-Egern, Germany, the Gemeindebücherei Rottach-Egern serves as a cornerstone of community culture, knowledge, and lifelong..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

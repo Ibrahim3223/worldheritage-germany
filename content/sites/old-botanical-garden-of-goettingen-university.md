@@ -3,7 +3,7 @@ title: "Old Botanical Garden of Göttingen University"
 site_name: "Old Botanical Garden of Göttingen University"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Göttingen, Germany"
+description: "The Old Botanical Garden of Göttingen University is a serene oasis of biodiversity located in the heart of Göttingen, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Botanical Garden"

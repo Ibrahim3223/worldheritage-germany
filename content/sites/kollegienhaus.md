@@ -3,7 +3,7 @@ title: "Kollegienhaus"
 site_name: "Kollegienhaus"
 date: 2026-01-26
 draft: false
-description: "courthouse in Berlin, Germany"
+description: "Kollegienhaus is a distinguished courthouse located in the vibrant city of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"

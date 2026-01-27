@@ -3,7 +3,7 @@ title: "Pfarrgarten Saxdorf"
 site_name: "Pfarrgarten Saxdorf"
 date: 2026-01-26
 draft: false
-description: "Garten in Brandenburg"
+description: "The Pfarrgarten Saxdorf, located in the picturesque region of Uebigau-Wahrenbrück in Germany, invites visitors to experience the tranquility and charm of a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Garden"

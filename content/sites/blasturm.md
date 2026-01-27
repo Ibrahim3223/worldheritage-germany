@@ -3,7 +3,7 @@ title: "Blasturm"
 site_name: "Blasturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Towering over the landscape of Gunzenhausen, Blasturm serves as a striking example of medieval architecture and a historical landmark that intrigues both..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

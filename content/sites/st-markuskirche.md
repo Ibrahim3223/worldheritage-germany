@@ -3,7 +3,7 @@ title: "St. Markuskirche"
 site_name: "St. Markuskirche"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Chemnitz-Sonnnenberg, Saxony, Germany"
+description: "St. Markuskirche, located in the Sonnenberg district of Chemnitz, Saxony, Germany, stands as a prominent cultural heritage monument that reflects the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

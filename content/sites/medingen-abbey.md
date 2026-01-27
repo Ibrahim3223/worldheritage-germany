@@ -3,7 +3,7 @@ title: "Medingen Abbey"
 site_name: "Medingen Abbey"
 date: 2026-01-26
 draft: false
-description: "convent in Lower Saxony, Germany"
+description: "Medingen Abbey, a prominent museum located in Bad Bevensen, Germany, offers visitors a unique glimpse into the religious and cultural heritage of Lower Saxony."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

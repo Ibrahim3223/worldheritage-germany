@@ -3,7 +3,7 @@ title: "Borkum Riff"
 site_name: "Borkum Riff"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Situated off the northwest coast of Germany, Borkum Riff is a notable nature reserve in Lower Saxony, recognized for its ecological significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

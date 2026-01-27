@@ -3,7 +3,7 @@ title: "Dorfkirche Mühlen Eichsen"
 site_name: "Dorfkirche Mühlen Eichsen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Mühlen Eichsen, a charming church building located in the serene village of Mühlen Eichsen, Germany, offers visitors a unique glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Kirchenruine Käcklitz"
 site_name: "Kirchenruine Käcklitz"
 date: 2026-01-26
 draft: false
-description: "church building in Hohenberg-Krusemark, Saxony-Anhalt, Germany"
+description: "Kirchenruine Käcklitz is a striking remnant of ecclesiastical architecture located in Hohenberg-Krusemark, Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

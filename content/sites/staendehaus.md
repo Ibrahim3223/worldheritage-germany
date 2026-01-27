@@ -3,7 +3,7 @@ title: "Ständehaus"
 site_name: "Ständehaus"
 date: 2026-01-26
 draft: false
-description: "library in Karlsruhe, Germany"
+description: "The Ständehaus, located in the heart of Karlsruhe, Germany, serves as a crucial repository of knowledge and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

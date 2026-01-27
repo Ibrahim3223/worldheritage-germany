@@ -3,7 +3,7 @@ title: "Zeller See"
 site_name: "Zeller See"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Zeller See, located in the scenic region of Kißlegg, Germany, is a captivating nature reserve that offers a serene escape into the natural beauty of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

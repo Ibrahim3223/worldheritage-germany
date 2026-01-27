@@ -3,7 +3,7 @@ title: "Orangery Palace"
 site_name: "Orangery Palace"
 date: 2026-01-26
 draft: false
-description: "Palace in the Sanssouci Park of Potsdam, Germany"
+description: "Orangery Palace, located in the picturesque Sanssouci Park of Potsdam, Germany, serves as a stunning reminder of the grandeur of the 18th century."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

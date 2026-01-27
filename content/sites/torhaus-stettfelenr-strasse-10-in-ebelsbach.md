@@ -3,7 +3,7 @@ title: "Torhaus StettfeLenr Straße 10 in Ebelsbach"
 site_name: "Torhaus StettfeLenr Straße 10 in Ebelsbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-74-129-5 (2) in Ebelsbach, Bavaria"
+description: "Torhaus StettfeLenr Straße 10, located in the quaint town of Ebelsbach, Germany, is an exceptional cultural heritage monument that holds significant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

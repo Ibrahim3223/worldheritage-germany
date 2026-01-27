@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7428-0482 in Lauingen (Donau)"
 site_name: "Cultural heritage D-7-7428-0482 in Lauingen (Donau)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Lauingen, Dillingen, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7428-0482 in Lauingen (Donau) is a notable fortification that reveals the architectural and historical narrative of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Fortification"

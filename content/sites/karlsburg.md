@@ -3,7 +3,7 @@ title: "Karlsburg"
 site_name: "Karlsburg"
 date: 2026-01-26
 draft: false
-description: "village in Schleswig-Holstein"
+description: "Karlsburg, a distinguished manor house located in the quaint village of Winnemark, Schleswig-Holstein, presents a unique glimpse into the region's..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

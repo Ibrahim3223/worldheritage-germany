@@ -3,7 +3,7 @@ title: "Statue of Karl Friedrich Schinkel"
 site_name: "Statue of Karl Friedrich Schinkel"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin, Germany"
+description: "In the heart of Berlin, Germany, stands the Statue of Karl Friedrich Schinkel, a prominent tribute to one of the most influential architects and artists of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

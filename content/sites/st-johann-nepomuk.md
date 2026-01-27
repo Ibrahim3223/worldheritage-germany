@@ -3,7 +3,7 @@ title: "St. Johann Nepomuk"
 site_name: "St. Johann Nepomuk"
 date: 2026-01-26
 draft: false
-description: "chapel in Boos, Bavaria, Germany"
+description: "St. Johann Nepomuk is a captivating chapel located in the serene village of Boos, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

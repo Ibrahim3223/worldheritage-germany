@@ -3,7 +3,7 @@ title: "Rathaus Liebenwalde"
 site_name: "Rathaus Liebenwalde"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Liebenwalde, Landkreis Oberhavel, Brandenburg"
+description: "Rathaus Liebenwalde, the city hall located in the heart of Liebenwalde, Germany, serves as both a functional government building and a historical landmark."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

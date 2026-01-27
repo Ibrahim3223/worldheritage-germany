@@ -3,7 +3,7 @@ title: "Beltringharder Koog"
 site_name: "Beltringharder Koog"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Beltringharder Koog is a remarkable nature reserve located in the Husum region of Schleswig-Holstein, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

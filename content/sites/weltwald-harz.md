@@ -3,7 +3,7 @@ title: "WeltWald Harz"
 site_name: "WeltWald Harz"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "WeltWald Harz is a captivating botanical garden located in the picturesque region of Bad Grund, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

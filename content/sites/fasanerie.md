@@ -3,7 +3,7 @@ title: "Fasanerie"
 site_name: "Fasanerie"
 date: 2026-01-26
 draft: false
-description: "building and museum in Detmold, Germany"
+description: "Fasanerie, located in the heart of Detmold, Germany, serves as a fascinating museum that encapsulates the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

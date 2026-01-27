@@ -3,7 +3,7 @@ title: "Holy Trinity church (Zerbst/Anhalt)"
 site_name: "Holy Trinity church (Zerbst/Anhalt)"
 date: 2026-01-26
 draft: false
-description: "church building in Saxony-Anhalt, Germany"
+description: "The Holy Trinity Church in Zerbst, Saxony-Anhalt, Germany, stands as a significant landmark within the region, reflecting the architectural and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

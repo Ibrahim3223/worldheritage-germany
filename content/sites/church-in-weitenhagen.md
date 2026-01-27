@@ -3,7 +3,7 @@ title: "Church in Weitenhagen"
 site_name: "Church in Weitenhagen"
 date: 2026-01-26
 draft: false
-description: "church building in Weitenhagen, Germany"
+description: "The Church in Weitenhagen, located in the serene village of Weitenhagen, Germany, is an architectural and cultural landmark that reflects the community's..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

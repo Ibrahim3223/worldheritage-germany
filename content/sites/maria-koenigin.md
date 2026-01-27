@@ -3,7 +3,7 @@ title: "Maria Königin"
 site_name: "Maria Königin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Maria Königin, located in the heart of Lüdenscheid, Germany, is a church building that serves as both a place of worship and a significant focal point for..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

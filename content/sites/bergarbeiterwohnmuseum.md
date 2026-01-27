@@ -3,7 +3,7 @@ title: "Bergarbeiterwohnmuseum"
 site_name: "Bergarbeiterwohnmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Lünen-Brambauer, Germany"
+description: "The Bergarbeiterwohnmuseum, located in Lünen-Brambauer, Germany, offers a unique glimpse into the lives of coal miners and their families during a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

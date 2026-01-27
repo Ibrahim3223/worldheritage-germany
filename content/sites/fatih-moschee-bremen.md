@@ -3,7 +3,7 @@ title: "Fatih-Moschee, Bremen"
 site_name: "Fatih-Moschee, Bremen"
 date: 2026-01-26
 draft: false
-description: "Moschee in Bremen-Gröpelingen"
+description: "The Fatih-Moschee in Bremen's Gröpelingen district represents an important cultural and religious site within Germany, reflecting the growing Islamic..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Mosque"

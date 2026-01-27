@@ -3,7 +3,7 @@ title: "Bomann-Museum"
 site_name: "Bomann-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bomann-Museum, located in the historic town of Celle, Germany, serves as a cultural repository that reflects the region's history and heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Fichtelberg"
 site_name: "Fichtelberg"
 date: 2026-01-26
 draft: false
-description: "mountain of the Ore Mountains in Saxony, Germany"
+description: "Fichtelberg, the majestic mountain located in the Ore Mountains of Saxony, Germany, is a captivating destination for nature enthusiasts and adventure..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

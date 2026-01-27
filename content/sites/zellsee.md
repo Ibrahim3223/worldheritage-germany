@@ -3,7 +3,7 @@ title: "Zellsee"
 site_name: "Zellsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Zellsee, a picturesque lake located in the heart of Germany, presents an inviting escape for visitors seeking tranquility and natural beauty."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

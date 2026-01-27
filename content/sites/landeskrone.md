@@ -3,7 +3,7 @@ title: "Landeskrone"
 site_name: "Landeskrone"
 date: 2026-01-26
 draft: false
-description: "hill in Görlitz, Germany"
+description: "Landeskrone, a prominent mountain located in the Görlitz region of Germany, serves as a natural landmark that attracts both locals and visitors alike."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Mountain"

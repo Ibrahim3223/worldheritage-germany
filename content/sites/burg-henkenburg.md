@@ -3,7 +3,7 @@ title: "Burg Henkenburg"
 site_name: "Burg Henkenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Henkenburg stands as a captivating castle located in the serene Burgrieden region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

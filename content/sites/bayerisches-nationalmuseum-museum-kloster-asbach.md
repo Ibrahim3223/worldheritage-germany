@@ -3,7 +3,7 @@ title: "Bayerisches Nationalmuseum / Museum Kloster Asbach"
 site_name: "Bayerisches Nationalmuseum / Museum Kloster Asbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Bayerisches Nationalmuseum and Museum Kloster Asbach represent a significant cultural hub in Germany, inviting visitors to explore the country's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

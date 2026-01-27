@@ -3,7 +3,7 @@ title: "President Friedrich Ebert Memorial"
 site_name: "President Friedrich Ebert Memorial"
 date: 2026-01-26
 draft: false
-description: "Museum in Baden-Württemberg"
+description: "The President Friedrich Ebert Memorial is a museum dedicated to the life and legacy of Friedrich Ebert, Germany's first democratically elected president..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

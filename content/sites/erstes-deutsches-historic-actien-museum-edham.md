@@ -3,7 +3,7 @@ title: "Erstes Deutsches Historic-Actien-Museum (EDHAM)"
 site_name: "Erstes Deutsches Historic-Actien-Museum (EDHAM)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Erstes Deutsches Historic-Actien-Museum (EDHAM) is a prominent cultural institution located in Kürnbach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

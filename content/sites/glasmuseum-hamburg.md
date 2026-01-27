@@ -3,7 +3,7 @@ title: "Glasmuseum Hamburg"
 site_name: "Glasmuseum Hamburg"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "Glasmuseum Hamburg is a distinctive art museum located in the vibrant district of Hamburg-Nord, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Art Museum"

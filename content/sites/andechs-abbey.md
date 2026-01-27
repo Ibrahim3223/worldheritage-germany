@@ -3,7 +3,7 @@ title: "Andechs Abbey"
 site_name: "Andechs Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Andechs Abbey, an iconic monastery located in the picturesque Andechs region of Germany, holds a significant place in both religious and cultural life."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

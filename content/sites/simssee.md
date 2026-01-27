@@ -3,7 +3,7 @@ title: "Simssee"
 site_name: "Simssee"
 date: 2026-01-26
 draft: false
-description: "lake in Rosenheim district, Bavaria, Germany"
+description: "Simssee is a picturesque lake located in the District of Rosenheim, within Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

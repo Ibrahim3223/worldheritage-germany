@@ -3,7 +3,7 @@ title: "St. Leonhard (Burgau)"
 site_name: "St. Leonhard (Burgau)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Leonhard in Burgau is a captivating chapel located in Bavaria, Germany, that offers visitors a glimpse into the region's cultural and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

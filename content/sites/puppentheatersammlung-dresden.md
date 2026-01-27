@@ -3,7 +3,7 @@ title: "Puppentheatersammlung Dresden"
 site_name: "Puppentheatersammlung Dresden"
 date: 2026-01-26
 draft: false
-description: "Collection of 18th-20th century theater puppets in Dresden, Germany"
+description: "In the heart of Dresden, Germany, lies the Puppentheatersammlung Dresden, a captivating museum dedicated to the art of puppetry."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

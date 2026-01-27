@@ -3,7 +3,7 @@ title: "Kammergericht"
 site_name: "Kammergericht"
 date: 2026-01-26
 draft: false
-description: "courthouse in Berlin-Schöneberg, Germany"
+description: "The Kammergericht, located in the vibrant district of Tempelhof-Schöneberg, is a notable courthouse in Berlin, Germany, renowned for its historical..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Courthouse"

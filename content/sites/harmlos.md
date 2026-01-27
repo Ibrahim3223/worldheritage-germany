@@ -3,7 +3,7 @@ title: "Harmlos"
 site_name: "Harmlos"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschützte Statue in München"
+description: "Harmlos is an intriguing statue located in Munich, Germany, that captures the attention of both locals and visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

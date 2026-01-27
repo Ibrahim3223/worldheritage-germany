@@ -3,7 +3,7 @@ title: "Bahndammgelände Krusenbusch"
 site_name: "Bahndammgelände Krusenbusch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Beneath the serene skies of Lower Saxony, the Bahndammgelände Krusenbusch emerges as a vital nature reserve that encapsulates the ecological diversity of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Bustedter Wiesen"
 site_name: "Bustedter Wiesen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Hiddenhausen, North Rhine-Westphalia, Germany"
+description: "Bustedter Wiesen, a serene nature reserve located in Hiddenhausen, North Rhine-Westphalia, Germany, offers an immersive experience for nature enthusiasts..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

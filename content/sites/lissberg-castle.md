@@ -3,7 +3,7 @@ title: "Lissberg Castle"
 site_name: "Lissberg Castle"
 date: 2026-01-26
 draft: false
-description: "Burgruine in Deutschland"
+description: "Lissberg Castle, a captivating ruin located in the Ortenberg region of Germany, invites visitors to explore its storied past and architectural remains."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

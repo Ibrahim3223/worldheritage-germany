@@ -3,7 +3,7 @@ title: "Donauschwäbisches Zentralmuseum"
 site_name: "Donauschwäbisches Zentralmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Ulm, Germany, the Donauschwäbisches Zentralmuseum serves as a vital cultural institution dedicated to preserving and showcasing the heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

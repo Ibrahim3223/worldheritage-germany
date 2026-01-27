@@ -3,7 +3,7 @@ title: "Knoblauchhaus"
 site_name: "Knoblauchhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Tucked away in the heart of Bezirk Mitte, Knoblauchhaus is a museum that invites visitors to explore the cultural and historical narratives of Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

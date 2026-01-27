@@ -3,7 +3,7 @@ title: "Burg Mellnau"
 site_name: "Burg Mellnau"
 date: 2026-01-26
 draft: false
-description: "Castle ruin in Germany"
+description: "Perched on a hill in Germany's Wetter region, Burg Mellnau offers a glimpse into the storied past of medieval fortifications."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

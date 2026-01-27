@@ -3,7 +3,7 @@ title: "New Synagogue (Dresden)"
 site_name: "New Synagogue (Dresden)"
 date: 2026-01-26
 draft: false
-description: "Synagogue in Dresden"
+description: "The New Synagogue in Dresden stands as a significant symbol of Jewish heritage in Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

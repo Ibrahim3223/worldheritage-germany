@@ -3,7 +3,7 @@ title: "St. Martin (Stotzheim)"
 site_name: "St. Martin (Stotzheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Euskirchen, Germany"
+description: "St. Martin (Stotzheim) is a captivating church building located in the picturesque region of Euskirchen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

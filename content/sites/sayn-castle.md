@@ -3,7 +3,7 @@ title: "Sayn Castle"
 site_name: "Sayn Castle"
 date: 2026-01-26
 draft: false
-description: "castle ruins in Bendorf, Germany"
+description: "Sayn Castle, located in the picturesque town of Bendorf, Germany, offers a captivating glimpse into the past through its imposing ruins."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

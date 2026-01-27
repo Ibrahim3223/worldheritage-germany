@@ -3,7 +3,7 @@ title: "Straßenbrücke Malkwitz (Wermsdorf)"
 site_name: "Straßenbrücke Malkwitz (Wermsdorf)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Straßenbrücke Malkwitz, located in the serene region of Wermsdorf, Germany, represents a significant piece of engineering history."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

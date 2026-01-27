@@ -3,7 +3,7 @@ title: "Wallgraben-Theater"
 site_name: "Wallgraben-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Baden-Württemberg, Germany"
+description: "The Wallgraben-Theater, located in the vibrant city of Freiburg im Breisgau, Germany, offers an inviting glimpse into the world of performing arts."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Theatre Building"

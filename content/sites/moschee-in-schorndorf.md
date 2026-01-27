@@ -3,7 +3,7 @@ title: "Moschee in Schorndorf"
 site_name: "Moschee in Schorndorf"
 date: 2026-01-26
 draft: false
-description: "Ditib Türkisch Islamische Gemeinde zu Schorndorf"
+description: "In the heart of Schorndorf, the Moschee in Schorndorf serves as a cultural and spiritual hub for the local Muslim community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

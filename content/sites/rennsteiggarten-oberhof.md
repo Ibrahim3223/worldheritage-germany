@@ -3,7 +3,7 @@ title: "Rennsteiggarten Oberhof"
 site_name: "Rennsteiggarten Oberhof"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Rennsteiggarten Oberhof presents an extraordinary opportunity to explore the diverse flora of Germany, situated in the picturesque town of Oberhof."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Botanical Garden"

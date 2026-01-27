@@ -3,7 +3,7 @@ title: "Buddenturm"
 site_name: "Buddenturm"
 date: 2026-01-26
 draft: false
-description: "medieval tower in Münster"
+description: "In the heart of Münster, Germany, the Buddenturm stands as a remarkable medieval tower, steeped in history and architectural significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

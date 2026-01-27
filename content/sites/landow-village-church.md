@@ -3,7 +3,7 @@ title: "Landow Village Church"
 site_name: "Landow Village Church"
 date: 2026-01-26
 draft: false
-description: "church in Landow, Germany"
+description: "Landow Village Church, located in the quaint village of Landow in Germany, is a notable church building that draws the attention of history enthusiasts and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

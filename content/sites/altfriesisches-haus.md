@@ -3,7 +3,7 @@ title: "Altfriesisches Haus"
 site_name: "Altfriesisches Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Altfriesisches Haus is a prominent museum located on the scenic island of Sylt, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

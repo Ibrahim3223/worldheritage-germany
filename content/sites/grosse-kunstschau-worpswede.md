@@ -3,7 +3,7 @@ title: "Große Kunstschau Worpswede"
 site_name: "Große Kunstschau Worpswede"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany's Worpswede, the Große Kunstschau stands as a prominent art museum, inviting visitors into a world of creativity and cultural..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

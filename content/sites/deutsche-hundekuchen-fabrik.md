@@ -3,7 +3,7 @@ title: "Deutsche Hundekuchen-Fabrik"
 site_name: "Deutsche Hundekuchen-Fabrik"
 date: 2026-01-26
 draft: false
-description: "former factory in Hannover, Germany"
+description: "In the heart of Hannover, Germany, lies the Deutsche Hundekuchen-Fabrik, a former factory that encapsulates the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Factory"

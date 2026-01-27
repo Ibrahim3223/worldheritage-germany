@@ -3,7 +3,7 @@ title: "Brücke Museum"
 site_name: "Brücke Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "The Brücke Museum, located in the Steglitz-Zehlendorf district of Berlin, Germany, is a testament to the vibrant and revolutionary art movement known as..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

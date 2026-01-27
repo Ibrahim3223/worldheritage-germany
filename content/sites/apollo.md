@@ -3,7 +3,7 @@ title: "Apollo"
 site_name: "Apollo"
 date: 2026-01-26
 draft: false
-description: "cinema in Linden-Nord, Hanover, Lower Saxony, Germany"
+description: "Apollo is not just a movie theater; it is a cultural landmark situated in the Linden-Limmer district of Hanover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

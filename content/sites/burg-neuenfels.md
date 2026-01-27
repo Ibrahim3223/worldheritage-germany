@@ -3,7 +3,7 @@ title: "Burg Neuenfels"
 site_name: "Burg Neuenfels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuenfels stands as a remarkable castle in the heart of Müllheim im Markgräflerland, Germany, inviting travelers to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Dorfkirche Dahlen"
 site_name: "Dorfkirche Dahlen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Dorfkirche Dahlen, located in the quaint region of Stendal, Germany, is a remarkable example of ecclesiastical architecture that reflects the spiritual..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

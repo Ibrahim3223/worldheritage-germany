@@ -3,7 +3,7 @@ title: "Genovevahöhle"
 site_name: "Genovevahöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Genovevahöhle, located in the picturesque Rhineland-Palatinate region of Germany, is a captivating cave that draws visitors with its unique geological..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Scientific regional library Lörrach"
 site_name: "Scientific regional library Lörrach"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Scientific Regional Library Lörrach is more than just a repository of books; it serves as a vibrant hub for knowledge and culture in the region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

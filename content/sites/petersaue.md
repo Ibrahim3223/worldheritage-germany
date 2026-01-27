@@ -3,7 +3,7 @@ title: "Petersaue"
 site_name: "Petersaue"
 date: 2026-01-26
 draft: false
-description: "island in Germany"
+description: "Petersaue is an intriguing island located in the Wiesbaden region of Germany. This unique landmass offers visitors a chance to explore both the natural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Island"

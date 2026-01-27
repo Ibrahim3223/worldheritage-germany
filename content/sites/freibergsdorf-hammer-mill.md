@@ -3,7 +3,7 @@ title: "Freibergsdorf Hammer Mill"
 site_name: "Freibergsdorf Hammer Mill"
 date: 2026-01-26
 draft: false
-description: "einziger erhaltener Eisenhammer im Freiberger Bergrevier"
+description: "In the heart of Freiberg, Germany, the Freibergsdorf Hammer Mill stands as a remarkable piece of industrial heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

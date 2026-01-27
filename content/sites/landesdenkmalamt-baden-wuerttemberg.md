@@ -3,7 +3,7 @@ title: "Landesdenkmalamt Baden Württemberg"
 site_name: "Landesdenkmalamt Baden Württemberg"
 date: 2026-01-26
 draft: false
-description: "archive organization in Esslingen am Neckar, Germany"
+description: "The Landesdenkmalamt Baden Württemberg is a significant cultural institution situated in the historical town of Esslingen am Neckar, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cultural Institution"

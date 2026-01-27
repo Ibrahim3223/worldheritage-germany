@@ -3,7 +3,7 @@ title: "Adventskirche"
 site_name: "Adventskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Adventskirche, a notable church building located in the Eimsbüttel district of Hamburg, Germany, stands out not only for its architectural features but also..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

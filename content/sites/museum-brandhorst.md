@@ -3,7 +3,7 @@ title: "Museum Brandhorst"
 site_name: "Museum Brandhorst"
 date: 2026-01-26
 draft: false
-description: "museum in Munich, Germany"
+description: "Museum Brandhorst is a distinguished art museum located in the vibrant district of Maxvorstadt, Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

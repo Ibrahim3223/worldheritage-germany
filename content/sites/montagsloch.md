@@ -3,7 +3,7 @@ title: "Montagsloch"
 site_name: "Montagsloch"
 date: 2026-01-26
 draft: false
-description: "memorial in Essen, Germany"
+description: "Montagsloch is a memorial located in Essen, Germany, that provides a poignant reminder of the past and serves as a place of reflection amid the hustle and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

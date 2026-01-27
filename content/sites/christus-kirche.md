@@ -3,7 +3,7 @@ title: "Christus-Kirche"
 site_name: "Christus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Berlin-Kreuzberg"
+description: "The Christus-Kirche, an evocative church building located in Berlin's lively Friedrichshain-Kreuzberg district, offers visitors a glimpse into the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

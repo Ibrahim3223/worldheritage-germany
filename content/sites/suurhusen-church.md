@@ -3,7 +3,7 @@ title: "Suurhusen Church"
 site_name: "Suurhusen Church"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Suurhusen Church is a prominent church building located in Hinte, Germany, distinguished not only by its architectural features but also by its cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

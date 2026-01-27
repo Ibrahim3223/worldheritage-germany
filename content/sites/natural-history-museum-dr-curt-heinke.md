@@ -3,7 +3,7 @@ title: "Natural History Museum ‘Dr Curt Heinke’"
 site_name: "Natural History Museum ‘Dr Curt Heinke’"
 date: 2026-01-26
 draft: false
-description: "museum in Zittau, Saxony, Germany"
+description: "The Natural History Museum ‘Dr Curt Heinke’ in Zittau, Saxony, is a captivating destination for anyone interested in the natural world."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

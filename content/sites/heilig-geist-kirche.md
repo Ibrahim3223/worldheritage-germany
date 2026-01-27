@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kirche"
 site_name: "Heilig-Geist-Kirche"
 date: 2026-01-26
 draft: false
-description: "church in Munich"
+description: "Heilig-Geist-Kirche, a significant church building located in the heart of Munich, Germany, serves as a vibrant symbol of the city’s rich cultural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

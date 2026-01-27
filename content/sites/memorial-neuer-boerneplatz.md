@@ -3,7 +3,7 @@ title: "Memorial Neuer Börneplatz"
 site_name: "Memorial Neuer Börneplatz"
 date: 2026-01-26
 draft: false
-description: "Holocaust memorial in Germany"
+description: "The Memorial Neuer Börneplatz in Frankfurt, Germany, serves as a poignant reminder of the Holocaust and a place of reflection for visitors."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "Botanischer Garten der Technischen Universität Dresden"
 site_name: "Botanischer Garten der Technischen Universität Dresden"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten der Technischen Universität Dresden offers visitors an enchanting escape into the world of plant diversity and botanical science."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "St.-Georg-Kirche"
 site_name: "St.-Georg-Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Georg-Kirche, an evocative church building located in the Wittmund region of Germany, invites visitors to explore its architectural beauty and spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

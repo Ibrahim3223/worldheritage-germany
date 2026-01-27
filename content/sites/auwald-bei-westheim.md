@@ -3,7 +3,7 @@ title: "Auwald bei Westheim"
 site_name: "Auwald bei Westheim"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Auwald bei Westheim is a remarkable nature reserve located in Bavaria, Germany. This protected area highlights the ecological diversity and environmental..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Kunstgesch. Seminar und Kunstsammlung der Uni
 site_name: "Georg-August-Universität: Kunstgesch. Seminar und Kunstsammlung der Universität"
 date: 2026-01-26
 draft: false
-description: "museum in Göttingen, Germany"
+description: "In the heart of Göttingen, Germany, lies the Georg-August-Universität: Kunstgesch."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

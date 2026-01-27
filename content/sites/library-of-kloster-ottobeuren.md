@@ -3,7 +3,7 @@ title: "Library of Kloster Ottobeuren"
 site_name: "Library of Kloster Ottobeuren"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of Kloster Ottobeuren is a remarkable institution located in the charming town of Ottobeuren, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

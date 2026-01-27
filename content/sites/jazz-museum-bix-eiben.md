@@ -3,7 +3,7 @@ title: "Jazz-Museum Bix Eiben"
 site_name: "Jazz-Museum Bix Eiben"
 date: 2026-01-26
 draft: false
-description: "museum (1987-2013) in Hamburg"
+description: "The Jazz-Museum Bix Eiben served as a vibrant homage to the world of jazz, encapsulating the genre's essence and evolution across several decades."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

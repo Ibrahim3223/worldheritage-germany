@@ -3,7 +3,7 @@ title: "Körnerpark"
 site_name: "Körnerpark"
 date: 2026-01-26
 draft: false
-description: "park in Berlin, Germany"
+description: "Körnerpark is a serene park located in the vibrant district of Neukölln, Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

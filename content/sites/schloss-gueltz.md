@@ -3,7 +3,7 @@ title: "Schloss Gültz"
 site_name: "Schloss Gültz"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Gültz in Mecklenburg-Vorpommern"
+description: "Schloss Gültz is an impressive manor house located in the serene region of Gültz, Germany, within the state of Mecklenburg-Vorpommern."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Ernst Schering Foundation"
 site_name: "Ernst Schering Foundation"
 date: 2026-01-26
 draft: false
-description: "nonprofit organization in Berlin, Germany"
+description: "The Ernst Schering Foundation, a prominent nonprofit organization located in Berlin, Germany, serves as a dynamic hub for cultural and scientific exchange."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

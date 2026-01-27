@@ -3,7 +3,7 @@ title: "Burg Nehren"
 site_name: "Burg Nehren"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Nehren, a historic castle located in the quaint town of Nehren, Germany, offers travelers a captivating glimpse into the architectural and cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

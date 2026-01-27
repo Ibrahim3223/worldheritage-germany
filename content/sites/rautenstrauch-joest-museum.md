@@ -3,7 +3,7 @@ title: "Rautenstrauch-Joest Museum"
 site_name: "Rautenstrauch-Joest Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Cologne"
+description: "The Rautenstrauch-Joest Museum, located in the heart of Cologne's Altstadt-Süd, serves as a significant cultural institution dedicated to showcasing the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

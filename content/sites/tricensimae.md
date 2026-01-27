@@ -3,7 +3,7 @@ title: "Tricensimae"
 site_name: "Tricensimae"
 date: 2026-01-26
 draft: false
-description: "Late Roman fortress"
+description: "In the heart of Xanten, Germany, lies Tricensimae, a museum that encapsulates the essence of a Late Roman fortress, offering visitors a window into the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

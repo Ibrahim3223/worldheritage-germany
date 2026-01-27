@@ -3,7 +3,7 @@ title: "Staatliche Kunstsammlungen Dresden"
 site_name: "Staatliche Kunstsammlungen Dresden"
 date: 2026-01-26
 draft: false
-description: "complex of 15 world famous Museums in Dresden, Germany"
+description: "The Staatliche Kunstsammlungen Dresden represents a remarkable confluence of artistry and history, showcasing an extensive collection of fine art across a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

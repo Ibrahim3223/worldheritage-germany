@@ -3,7 +3,7 @@ title: "Wittdün lighthouse"
 site_name: "Wittdün lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "The Wittdün Lighthouse, located in the charming village of Wittdün auf Amrum, Germany, is a key navigational aid that has guided mariners safely through the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

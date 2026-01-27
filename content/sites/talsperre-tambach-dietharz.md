@@ -3,7 +3,7 @@ title: "Talsperre Tambach-Dietharz"
 site_name: "Talsperre Tambach-Dietharz"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Talsperre Tambach-Dietharz is an impressive architectural structure located in the picturesque region of Tambach-Dietharz, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Dam"

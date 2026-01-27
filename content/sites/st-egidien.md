@@ -3,7 +3,7 @@ title: "St. Egidien"
 site_name: "St. Egidien"
 date: 2026-01-26
 draft: false
-description: "church building in Nuremberg, Middle Franconia, Germany"
+description: "St. Egidien, a historic church building located in the heart of Nuremberg, Germany, represents an essential component of the region's architectural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

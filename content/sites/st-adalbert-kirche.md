@@ -3,7 +3,7 @@ title: "St. Adalbert-Kirche"
 site_name: "St. Adalbert-Kirche"
 date: 2026-01-26
 draft: false
-description: "filial church"
+description: "St. Adalbert-Kirche, a filial church situated in the Bezirk Mitte region of Germany, embodies the spiritual heritage and architectural history that permeate..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Höllentalspitzen"
 site_name: "Höllentalspitzen"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "The Höllentalspitzen, a striking mountain range located in Bavaria, Germany, invites adventurers and nature lovers to explore its rugged terrain and soaring..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

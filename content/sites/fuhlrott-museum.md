@@ -3,7 +3,7 @@ title: "Fuhlrott-Museum"
 site_name: "Fuhlrott-Museum"
 date: 2026-01-26
 draft: false
-description: "former museum in Wuppertal, Germany"
+description: "The Fuhlrott-Museum, once a prominent cultural institution in Wuppertal, Germany, has a rich legacy in the realm of natural history and archaeology."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

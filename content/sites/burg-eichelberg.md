@@ -3,7 +3,7 @@ title: "Burg Eichelberg"
 site_name: "Burg Eichelberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Eichelberg is an archaeological site located in the serene region of Hasselbach, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Archaeological Site"

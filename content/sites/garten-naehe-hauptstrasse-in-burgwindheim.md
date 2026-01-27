@@ -3,7 +3,7 @@ title: "Garten Nähe Hauptstraße in Burgwindheim"
 site_name: "Garten Nähe Hauptstraße in Burgwindheim"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-71-122-6 (9) in Burgwindheim, Bavaria"
+description: "The Garten Nähe Hauptstraße in Burgwindheim is an exquisite example of a cultural heritage garden, showcasing the unique landscape design and horticultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

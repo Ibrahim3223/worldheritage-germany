@@ -3,7 +3,7 @@ title: "Schloss Johannisburg"
 site_name: "Schloss Johannisburg"
 date: 2026-01-26
 draft: false
-description: "palace in Aschaffenburg, Germany"
+description: "Schloss Johannisburg, a striking palace located in Aschaffenburg, Germany, is a remarkable museum that encapsulates the grandeur of historical architecture..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

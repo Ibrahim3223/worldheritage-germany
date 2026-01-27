@@ -3,7 +3,7 @@ title: "Straßenbrücke über einen Wasserlauf (bei Gasthof Schwimmer, Ebersdorf
 site_name: "Straßenbrücke über einen Wasserlauf (bei Gasthof Schwimmer, Ebersdorfer Weg 2 und gegenüber Steinweg 15)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the heart of Großschweidnitz, Germany, lies an intriguing structure that serves both functional and historical purposes: the Straßenbrücke über einen..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

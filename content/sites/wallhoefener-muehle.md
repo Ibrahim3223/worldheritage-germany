@@ -3,7 +3,7 @@ title: "Wallhöfener Mühle"
 site_name: "Wallhöfener Mühle"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Vollersode"
+description: "Wallhöfener Mühle, a charming windmill located in Vollersode, Germany, serves as a remarkable representation of traditional milling technology and rural life."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

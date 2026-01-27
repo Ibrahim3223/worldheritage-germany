@@ -3,7 +3,7 @@ title: "Old chapel in Leegebruch"
 site_name: "Old chapel in Leegebruch"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "The Old Chapel in Leegebruch, situated in the Brandenburg state of Germany, offers visitors a reflective glimpse into the architectural and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"

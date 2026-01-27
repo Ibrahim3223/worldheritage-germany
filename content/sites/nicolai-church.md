@@ -3,7 +3,7 @@ title: "Nicolai Church"
 site_name: "Nicolai Church"
 date: 2026-01-26
 draft: false
-description: "church building in Dortmund Innenstadt-West (district), Germany"
+description: "Nicolai Church, an architectural gem in the heart of Dortmund’s Innenstadt-West district, stands as a remarkable representation of the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Diana (Museumsinsel)"
 site_name: "Diana (Museumsinsel)"
 date: 2026-01-26
 draft: false
-description: "bronze sculpture of Diana"
+description: "In the heart of Berlin, amid the architectural grandeur of Museumsinsel (Museum Island), stands the bronze statue of Diana, a striking representation of the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

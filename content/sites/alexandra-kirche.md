@@ -3,7 +3,7 @@ title: "Alexandra-Kirche"
 site_name: "Alexandra-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Ems, Rhineland-Palatinate, Germany"
+description: "The Alexandra-Kirche, a prominent church building located in the picturesque town of Bad Ems in Rhineland-Palatinate, Germany, offers visitors a glimpse..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

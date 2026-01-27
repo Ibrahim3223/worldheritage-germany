@@ -3,7 +3,7 @@ title: "Synagoge Gelsenkirchen"
 site_name: "Synagoge Gelsenkirchen"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagoge Gelsenkirchen stands as a poignant symbol of the Jewish heritage in Germany, situated in the heart of Gelsenkirchen."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

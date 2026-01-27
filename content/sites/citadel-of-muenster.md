@@ -3,7 +3,7 @@ title: "Citadel of Münster"
 site_name: "Citadel of Münster"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "The Citadel of Münster, a prominent castle located in Germany, serves as a compelling destination for history enthusiasts and architecture aficionados alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

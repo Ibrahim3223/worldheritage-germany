@@ -3,7 +3,7 @@ title: "Burg Trechow"
 site_name: "Burg Trechow"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Trechow, a distinguished manor house located in the serene region of Bernitt, Germany, offers a glimpse into the architectural and cultural heritage of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

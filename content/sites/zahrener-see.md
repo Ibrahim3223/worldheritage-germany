@@ -3,7 +3,7 @@ title: "Zahrener See"
 site_name: "Zahrener See"
 date: 2026-01-26
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
+description: "Zahrener See, a serene lake located in the Ludwigslust-Parchim District of Mecklenburg-Vorpommern, Germany, serves as a tranquil retreat for nature lovers..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

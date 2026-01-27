@@ -3,7 +3,7 @@ title: "Schleswig-Holsteinisches Landwirtschaftsmuseum Meldorf"
 site_name: "Schleswig-Holsteinisches Landwirtschaftsmuseum Meldorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schleswig-Holsteinisches Landwirtschaftsmuseum Meldorf serves as a vibrant homage to the agricultural heritage of Germany's northern region."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Friedberg"
 site_name: "Amtsgerichtsgebäude Friedberg"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Located in the heart of Friedberg, Germany, the Amtsgerichtsgebäude Friedberg is an essential landmark that embodies the architectural and cultural heritage..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Courthouse"

@@ -3,7 +3,7 @@ title: "Zehentstadel Heroldingen"
 site_name: "Zehentstadel Heroldingen"
 date: 2026-01-26
 draft: false
-description: "former barn in Harburg, Bavaria, Germany"
+description: "Zehentstadel Heroldingen is a distinctive museum located in the picturesque region of Harburg in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

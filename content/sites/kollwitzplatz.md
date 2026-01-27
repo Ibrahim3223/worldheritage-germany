@@ -3,7 +3,7 @@ title: "Kollwitzplatz"
 site_name: "Kollwitzplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin, Germany"
+description: "Kollwitzplatz, a vibrant square located in the Pankow district of Berlin, serves as a focal point for both locals and visitors seeking a blend of culture..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

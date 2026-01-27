@@ -3,7 +3,7 @@ title: "Erstes Deutsches Bananenmuseum"
 site_name: "Erstes Deutsches Bananenmuseum"
 date: 2026-01-26
 draft: false
-description: "former museum in Sierksdorf, Germany"
+description: "The Erstes Deutsches Bananenmuseum, located in Sierksdorf, Germany, once served as a unique institution dedicated to the captivating fruit that has become a..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

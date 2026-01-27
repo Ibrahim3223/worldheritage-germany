@@ -3,7 +3,7 @@ title: "berlin modern"
 site_name: "berlin modern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Berlin is a city that vibrates with creativity, innovation, and a commitment to modernity."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

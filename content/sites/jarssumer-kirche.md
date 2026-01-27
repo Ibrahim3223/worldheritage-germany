@@ -3,7 +3,7 @@ title: "Jarßumer Kirche"
 site_name: "Jarßumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Emden, Germany"
+description: "The Jarßumer Kirche, a striking church building located in Emden, Germany, offers visitors a glimpse into the region's religious and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

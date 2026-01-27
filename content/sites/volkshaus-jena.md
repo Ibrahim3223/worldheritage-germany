@@ -3,7 +3,7 @@ title: "Volkshaus Jena"
 site_name: "Volkshaus Jena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose event location in Jena, Germany"
+description: "Located in the vibrant city of Jena, Germany, the Volkshaus Jena serves as a multi-purpose hall that caters to a diverse array of events."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

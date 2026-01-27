@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Am Bach 2 (bei)"
 site_name: "Steindeckerbrücke Am Bach 2 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Steindeckerbrücke Am Bach 2 is a bridge located in the picturesque region of Panschwitz-Kuckau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

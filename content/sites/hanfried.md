@@ -3,7 +3,7 @@ title: "Hanfried"
 site_name: "Hanfried"
 date: 2026-01-26
 draft: false
-description: "monument in Jena"
+description: "Hanfried is a striking statue located in Jena, Germany, that serves as a cultural landmark in the region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Statue"

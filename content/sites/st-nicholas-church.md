@@ -3,7 +3,7 @@ title: "St. Nicholas Church"
 site_name: "St. Nicholas Church"
 date: 2026-01-26
 draft: false
-description: "church in Leipzig, Germany"
+description: "St. Nicholas Church, located in the vibrant city of Leipzig, Germany, is a significant ecclesiastical structure that intertwines with the city’s rich..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

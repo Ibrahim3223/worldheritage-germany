@@ -3,7 +3,7 @@ title: "Burg Neuweiler"
 site_name: "Burg Neuweiler"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Neuweiler, a captivating castle located in the scenic Blankenheim region of Germany, offers a unique glimpse into the architectural and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

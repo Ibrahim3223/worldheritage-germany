@@ -3,7 +3,7 @@ title: "Alter Katholischer Friedhof"
 site_name: "Alter Katholischer Friedhof"
 date: 2026-01-26
 draft: false
-description: "heritage cemetery in Dresden, Germany"
+description: "Alter Katholischer Friedhof, a heritage cemetery located in Dresden, Germany, serves as a poignant reminder of the city’s rich cultural history and its past..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

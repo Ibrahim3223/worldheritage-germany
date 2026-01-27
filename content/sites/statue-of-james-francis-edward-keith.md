@@ -3,7 +3,7 @@ title: "Statue of James Francis Edward Keith"
 site_name: "Statue of James Francis Edward Keith"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "In the heart of Berlin, Germany, stands the Statue of James Francis Edward Keith, a notable figure from the 18th century."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

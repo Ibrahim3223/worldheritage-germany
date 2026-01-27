@@ -3,7 +3,7 @@ title: "Neustädter Hof- und Stadtkirche St. Johannis"
 site_name: "Neustädter Hof- und Stadtkirche St. Johannis"
 date: 2026-01-26
 draft: false
-description: "church in Hanover, Germany"
+description: "The Neustädter Hof- und Stadtkirche St. Johannis stands as a prominent feature in the heart of Hanover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

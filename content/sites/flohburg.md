@@ -3,7 +3,7 @@ title: "Flohburg"
 site_name: "Flohburg"
 date: 2026-01-26
 draft: false
-description: "museum in Nordhausen, Germany"
+description: "Flohburg, located in Nordhausen, Germany, serves as a captivating museum that invites visitors to explore the rich cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

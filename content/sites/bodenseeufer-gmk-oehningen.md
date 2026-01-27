@@ -3,7 +3,7 @@ title: "Bodenseeufer (Gmk. Öhningen)"
 site_name: "Bodenseeufer (Gmk. Öhningen)"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Bodenseeufer, located in Öhningen, Germany, is a designated nature reserve that offers a remarkable blend of natural beauty and ecological diversity."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

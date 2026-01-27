@@ -3,7 +3,7 @@ title: "Museum für Natur und Umwelt Lübeck"
 site_name: "Museum für Natur und Umwelt Lübeck"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Museum für Natur und Umwelt Lübeck stands as an intriguing cultural institution in Lübeck's Old City, Germany, where the realms of natural history and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

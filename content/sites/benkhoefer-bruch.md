@@ -3,7 +3,7 @@ title: "Benkhöfer Bruch"
 site_name: "Benkhöfer Bruch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Hüllhorst, North Rhine-Westphalia, Germany"
+description: "Benkhöfer Bruch, a designated nature reserve located in Hüllhorst, North Rhine-Westphalia, Germany, is a testament to the region's commitment to..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

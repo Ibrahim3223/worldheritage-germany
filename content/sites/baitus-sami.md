@@ -3,7 +3,7 @@ title: "Baitus Sami"
 site_name: "Baitus Sami"
 date: 2026-01-26
 draft: false
-description: "mosque in Hanover, Germany"
+description: "Baitus Sami, a prominent mosque located in Hanover, Germany, serves as a significant cultural and spiritual hub for the local Muslim community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mosque"

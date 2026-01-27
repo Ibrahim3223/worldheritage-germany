@@ -3,7 +3,7 @@ title: "Brauerei Anderten"
 site_name: "Brauerei Anderten"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Brauerei Anderten, located in the vibrant region of Hanover, Germany, is an architectural structure that encapsulates the essence of German brewing culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Brewery"

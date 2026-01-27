@@ -3,7 +3,7 @@ title: "Nobistor"
 site_name: "Nobistor"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Stadttor Altonas"
+description: "In the heart of Hamburg, Germany, lies Nobistor, a historic city gate that encapsulates the essence of Altona’s past."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "City Gate"

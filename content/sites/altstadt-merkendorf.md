@@ -3,7 +3,7 @@ title: "Altstadt Merkendorf"
 site_name: "Altstadt Merkendorf"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Altstadt Merkendorf is a compelling architectural ensemble that represents a significant chapter in the urban development of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

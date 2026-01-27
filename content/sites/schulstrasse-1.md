@@ -3,7 +3,7 @@ title: "Schulstraße 1"
 site_name: "Schulstraße 1"
 date: 2026-01-26
 draft: false
-description: "former school building and gymnasium, later municipal building in Neueibau"
+description: "Schulstraße 1, located in the quaint region of Kottmar, Germany, serves as a remarkable reflection of the area's historical evolution."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

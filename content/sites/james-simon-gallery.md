@@ -3,7 +3,7 @@ title: "James Simon Gallery"
 site_name: "James Simon Gallery"
 date: 2026-01-26
 draft: false
-description: "visitor center and art museum in Berlin"
+description: "The James Simon Gallery, located in the heart of Berlin, serves as a pivotal entry point to the museum island, a UNESCO World Heritage site."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

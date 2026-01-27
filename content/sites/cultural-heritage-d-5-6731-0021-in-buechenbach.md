@@ -3,7 +3,7 @@ title: "Cultural heritage D-5-6731-0021 in Büchenbach"
 site_name: "Cultural heritage D-5-6731-0021 in Büchenbach"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Landkreis Roth in Bavaria, Germany"
+description: "Cultural heritage D-5-6731-0021 in Büchenbach stands as a noteworthy example of fortification architecture in Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

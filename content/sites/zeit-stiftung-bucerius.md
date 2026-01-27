@@ -3,7 +3,7 @@ title: "ZEIT-Stiftung Bucerius"
 site_name: "ZEIT-Stiftung Bucerius"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "In the heart of Hamburg, Germany, the ZEIT-Stiftung Bucerius stands as a prominent foundation dedicated to the advancement of culture, education, and social..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

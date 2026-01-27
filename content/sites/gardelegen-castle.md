@@ -3,7 +3,7 @@ title: "Gardelegen Castle"
 site_name: "Gardelegen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Gardelegen Castle is an intriguing historical landmark located in the town of Gardelegen in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

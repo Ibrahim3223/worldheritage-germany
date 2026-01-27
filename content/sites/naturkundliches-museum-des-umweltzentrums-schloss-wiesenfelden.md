@@ -3,7 +3,7 @@ title: "Naturkundliches Museum des Umweltzentrums Schloss Wiesenfelden"
 site_name: "Naturkundliches Museum des Umweltzentrums Schloss Wiesenfelden"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Naturkundliches Museum des Umweltzentrums Schloss Wiesenfelden is a unique museum located in Germany that serves as a gateway to understanding the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

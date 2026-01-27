@@ -3,7 +3,7 @@ title: "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Manag
 site_name: "Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System"
 date: 2026-01-26
 draft: false
-description: "World Heritage Site in Lower Saxony"
+description: "The Mines of Rammelsberg, Historic Town of Goslar, and Upper Harz Water Management System form a UNESCO World Heritage Site located in Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

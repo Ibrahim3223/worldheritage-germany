@@ -3,7 +3,7 @@ title: "Alter Elbpark"
 site_name: "Alter Elbpark"
 date: 2026-01-26
 draft: false
-description: "park in Hamburg-Mitte, Germany"
+description: "Alter Elbpark, located in the heart of Hamburg-Mitte, offers visitors an inviting green space that harmonizes natural beauty and urban life within Germany's..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Park"

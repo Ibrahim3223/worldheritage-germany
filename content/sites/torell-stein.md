@@ -3,7 +3,7 @@ title: "Torell-Stein"
 site_name: "Torell-Stein"
 date: 2026-01-26
 draft: false
-description: "monument in Helbersdorf, Germany"
+description: "Torell-Stein is a distinctive monument located in Helbersdorf, Germany, that captures the essence of the region's cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

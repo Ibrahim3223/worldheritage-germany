@@ -3,7 +3,7 @@ title: "Stiftsmuseum der Stadt Aschaffenburg"
 site_name: "Stiftsmuseum der Stadt Aschaffenburg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-61-000-292 (0) in Aschaffenburg, Bavaria"
+description: "The Stiftsmuseum der Stadt Aschaffenburg stands as an important cultural institution within the Bavarian city of Aschaffenburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

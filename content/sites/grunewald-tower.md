@@ -3,7 +3,7 @@ title: "Grunewald Tower"
 site_name: "Grunewald Tower"
 date: 2026-01-26
 draft: false
-description: "observation tower in Berlin"
+description: "Grunewald Tower, an observation tower located in the Charlottenburg-Wilmersdorf district of Berlin, offers visitors a unique vantage point to appreciate..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Technikmuseum Magdeburg"
 site_name: "Technikmuseum Magdeburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Technikmuseum Magdeburg is a captivating destination located in the heart of Magdeburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

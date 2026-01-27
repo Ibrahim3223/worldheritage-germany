@@ -3,7 +3,7 @@ title: "Friedrichshain-Kreuzberg Museum"
 site_name: "Friedrichshain-Kreuzberg Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Friedrichshain-Kreuzberg Museum serves as a critical lens into the vibrant cultural landscape of one of Berlin’s most eclectic districts."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schmiede- und Schlossermuseum Schwalbach"
 site_name: "Schmiede- und Schlossermuseum Schwalbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schmiede- und Schlossermuseum Schwalbach is a unique cultural institution located in the quaint town of Schwalbach, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

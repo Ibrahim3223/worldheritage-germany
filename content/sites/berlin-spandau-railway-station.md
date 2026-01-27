@@ -3,7 +3,7 @@ title: "Berlin-Spandau railway station"
 site_name: "Berlin-Spandau railway station"
 date: 2026-01-26
 draft: false
-description: "railway station situated in the Spandau district of Berlin, Germany"
+description: "Berlin-Spandau railway station serves as a vital transport hub in the Spandau district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Railway Station"

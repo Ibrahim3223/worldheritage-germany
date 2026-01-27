@@ -3,7 +3,7 @@ title: "Alte Sorge-Schleife"
 site_name: "Alte Sorge-Schleife"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Alte Sorge-Schleife, located in the picturesque Erfde area of Schleswig-Holstein, Germany, is a designated nature reserve that offers a tranquil escape into..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

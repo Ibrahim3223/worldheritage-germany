@@ -3,7 +3,7 @@ title: "Museum Tabakspeicher"
 site_name: "Museum Tabakspeicher"
 date: 2026-01-26
 draft: false
-description: "museum in Nordhausen, Germany"
+description: "The Museum Tabakspeicher, located in Nordhausen, Germany, offers visitors a unique glimpse into the region's cultural heritage through its focused exhibits."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Brücke über die Löbau Riegelstraße (Straße von Nechern nach Brießn
 site_name: "Brücke über die Löbau Riegelstraße (Straße von Nechern nach Brießnitz/Gröditz)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Brücke über die Löbau Riegelstraße, located in the Weißenberg region of Germany, serves as a critical infrastructure piece connecting the areas from..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

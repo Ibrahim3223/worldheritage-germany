@@ -3,7 +3,7 @@ title: "Schwörstadt station"
 site_name: "Schwörstadt station"
 date: 2026-01-26
 draft: false
-description: "railway station in Schwörstadt, Germany"
+description: "Schwörstadt station, located in the small town of Schwörstadt, Germany, serves as a vital transit point within the regional railway network."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Railway Station"

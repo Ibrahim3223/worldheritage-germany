@@ -3,7 +3,7 @@ title: "Burgtor"
 site_name: "Burgtor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "Burgtor, a prominent city gate located in Lübeck's Old City, is a remarkable architectural landmark that embodies the historical essence of this UNESCO..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

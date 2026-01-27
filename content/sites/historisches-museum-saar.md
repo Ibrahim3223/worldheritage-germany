@@ -3,7 +3,7 @@ title: "Historisches Museum Saar"
 site_name: "Historisches Museum Saar"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Historisches Museum Saar, located in Saarbrücken, Germany, is a cultural institution dedicated to preserving the rich history of the Saar region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

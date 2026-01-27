@@ -3,7 +3,7 @@ title: "Altenburg"
 site_name: "Altenburg"
 date: 2026-01-26
 draft: false
-description: "castle in Hesse, Germany"
+description: "Altenburg Castle, a striking edifice located in Niedenstein, Hesse, Germany, invites visitors to explore its rich history and architectural beauty."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

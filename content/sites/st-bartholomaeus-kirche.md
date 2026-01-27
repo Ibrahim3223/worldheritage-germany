@@ -3,7 +3,7 @@ title: "St.-Bartholomäus-Kirche"
 site_name: "St.-Bartholomäus-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Dornum, Germany"
+description: "St.-Bartholomäus-Kirche is a remarkable church building located in the quaint town of Dornum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

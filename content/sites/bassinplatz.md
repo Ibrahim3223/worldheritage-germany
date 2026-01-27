@@ -3,7 +3,7 @@ title: "Bassinplatz"
 site_name: "Bassinplatz"
 date: 2026-01-26
 draft: false
-description: "square in Potsdam, Germany"
+description: "Bassinplatz, located in the heart of Potsdam, Germany, is a vibrant square that serves as a focal point for both locals and visitors."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Square"

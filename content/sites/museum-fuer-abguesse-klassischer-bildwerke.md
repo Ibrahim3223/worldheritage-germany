@@ -3,7 +3,7 @@ title: "Museum für Abgüsse Klassischer Bildwerke"
 site_name: "Museum für Abgüsse Klassischer Bildwerke"
 date: 2026-01-26
 draft: false
-description: "archaeological Museum in Munich"
+description: "The Museum für Abgüsse Klassischer Bildwerke, located in the vibrant Maxvorstadt district of Munich, is a distinguished archaeological museum that offers..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Abenteuermuseum"
 site_name: "Abenteuermuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Abenteuermuseum, located in Germany, invites visitors to explore the wonders of adventure through its unique exhibits and engaging experiences."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

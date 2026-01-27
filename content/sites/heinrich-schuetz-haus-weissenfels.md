@@ -3,7 +3,7 @@ title: "Heinrich-Schütz-Haus (Weißenfels)"
 site_name: "Heinrich-Schütz-Haus (Weißenfels)"
 date: 2026-01-26
 draft: false
-description: "museum in Weissenfels, Germany"
+description: "Heinrich-Schütz-Haus in Weißenfels, Germany, serves as a dedicated museum celebrating the life and works of one of the most important composers of the early..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Erlöserkirche (Hanover)"
 site_name: "Erlöserkirche (Hanover)"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "Erlöserkirche (Church of the Redeemer) in Hanover's Linden-Limmer district is a distinctive church building that captures the essence of spiritual..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

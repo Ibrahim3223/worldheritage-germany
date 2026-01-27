@@ -3,7 +3,7 @@ title: "Freizeitpark Wisseler See"
 site_name: "Freizeitpark Wisseler See"
 date: 2026-01-26
 draft: false
-description: "campsite in Kreis Kleve, Germany"
+description: "Freizeitpark Wisseler See serves as a vibrant beachside retreat located in the picturesque region of Kalkar, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Beach"

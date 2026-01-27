@@ -3,7 +3,7 @@ title: "Deutsches Künstlertheater"
 site_name: "Deutsches Künstlertheater"
 date: 2026-01-26
 draft: false
-description: "former theater in Berlin, Germany"
+description: "The Deutsches Künstlertheater, a notable theatre building located in the vibrant Tiergarten district of Berlin, invites visitors to explore its significant..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

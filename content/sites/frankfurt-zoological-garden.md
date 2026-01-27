@@ -3,7 +3,7 @@ title: "Frankfurt Zoological Garden"
 site_name: "Frankfurt Zoological Garden"
 date: 2026-01-26
 draft: false
-description: "zoo in Frankfurt, Germany"
+description: "Frankfurt Zoological Garden, located in the heart of Frankfurt, Germany, is a vibrant sanctuary for wildlife and a beloved destination for visitors of all ages."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

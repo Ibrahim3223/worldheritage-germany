@@ -3,7 +3,7 @@ title: "Dessau Central Station"
 site_name: "Dessau Central Station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dessau-Roßlau, Germany"
+description: "Dessau Central Station serves as a vital transportation hub in Dessau-Roßlau, Germany, linking travelers to various destinations across the country."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"

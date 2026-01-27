@@ -3,7 +3,7 @@ title: "Saxon Switzerland National Park"
 site_name: "Saxon Switzerland National Park"
 date: 2026-01-26
 draft: false
-description: "national park in Saxony, Germany"
+description: "Saxon Switzerland National Park is a captivating expanse of natural beauty located in the Saxony region of Germany, renowned for its dramatic sandstone..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "National Park"

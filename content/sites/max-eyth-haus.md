@@ -3,7 +3,7 @@ title: "Max-Eyth-Haus"
 site_name: "Max-Eyth-Haus"
 date: 2026-01-26
 draft: false
-description: "school"
+description: "Max-Eyth-Haus, located in Kirchheim unter Teck, Germany, serves as a unique museum that highlights the educational and cultural history of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

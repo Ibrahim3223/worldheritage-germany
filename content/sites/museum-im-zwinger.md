@@ -3,7 +3,7 @@ title: "Museum im Zwinger"
 site_name: "Museum im Zwinger"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum im Zwinger, located in the historic town of Goslar, Germany, serves as a cultural cornerstone that highlights the region's rich artistic heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Martin-Opitz-Library"
 site_name: "Martin-Opitz-Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Martin-Opitz-Library, located in the city of Herne, Germany, serves as a vital resource for literature and culture in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Wrackmuseum Cuxhaven"
 site_name: "Wrackmuseum Cuxhaven"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Wrackmuseum Cuxhaven is a unique museum located in Cuxhaven, Germany, that focuses on the fascinating world of shipwrecks and maritime history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

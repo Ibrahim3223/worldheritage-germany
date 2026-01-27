@@ -3,7 +3,7 @@ title: "Diözesanmuseum Paderborn"
 site_name: "Diözesanmuseum Paderborn"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Diözesanmuseum Paderborn, situated in the city of Paderborn, Germany, offers a remarkable glimpse into the religious and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

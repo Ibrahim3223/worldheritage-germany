@@ -3,7 +3,7 @@ title: "St. Reinoldi"
 site_name: "St. Reinoldi"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Reinoldi is a notable church building located in the heart of Dortmund, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

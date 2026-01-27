@@ -3,7 +3,7 @@ title: "Rathaus Poststraße 1"
 site_name: "Rathaus Poststraße 1"
 date: 2026-01-26
 draft: false
-description: "house in Wilkau-Haßlau, Germany"
+description: "In the heart of Wilkau-Haßlau, Germany, the Rathaus Poststraße 1 serves as a striking emblem of civic pride and architectural elegance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

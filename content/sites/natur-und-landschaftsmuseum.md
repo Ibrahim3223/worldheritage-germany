@@ -3,7 +3,7 @@ title: "Natur- und Landschaftsmuseum"
 site_name: "Natur- und Landschaftsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Natur- und Landschaftsmuseum in Bad Münstereifel, Germany, offers visitors an immersive experience into the natural world and the landscapes that define..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

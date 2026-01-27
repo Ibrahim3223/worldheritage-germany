@@ -3,7 +3,7 @@ title: "Bissendorfer Moor"
 site_name: "Bissendorfer Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bissendorfer Moor, a serene nature reserve located in Lower Saxony, Germany, offers an enchanting escape into the heart of the Wedemark region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

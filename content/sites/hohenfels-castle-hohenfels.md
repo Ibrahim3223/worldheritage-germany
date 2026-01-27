@@ -3,7 +3,7 @@ title: "Hohenfels Castle (Hohenfels)"
 site_name: "Hohenfels Castle (Hohenfels)"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Hohenfels Castle, located in the picturesque region of Hohenfels, Germany, is an impressive fortress that captures the imagination of visitors with its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

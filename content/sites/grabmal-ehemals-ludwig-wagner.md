@@ -3,7 +3,7 @@ title: "Grabmal ehemals Ludwig Wagner"
 site_name: "Grabmal ehemals Ludwig Wagner"
 date: 2026-01-26
 draft: false
-description: "Grabmal in Darmstadt"
+description: "In the heart of Darmstadt, Germany, lies the Grabmal ehemals Ludwig Wagner, a distinctive tomb that serves as a poignant reminder of the city's historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tomb"

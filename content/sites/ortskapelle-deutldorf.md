@@ -3,7 +3,7 @@ title: "Ortskapelle Deutldorf"
 site_name: "Ortskapelle Deutldorf"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Deutldorf"
+description: "Ortskapelle Deutldorf, a quaint chapel located in the Hohenkammer region of Germany, serves as a remarkable focal point for both the local community and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

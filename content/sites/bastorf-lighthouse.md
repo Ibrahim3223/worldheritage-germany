@@ -3,7 +3,7 @@ title: "Bastorf Lighthouse"
 site_name: "Bastorf Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
+description: "Perched on the rolling hills of Mecklenburg-Western Pomerania, the Bastorf Lighthouse stands as a historic sentinel along Germany's picturesque coastline."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

@@ -3,7 +3,7 @@ title: "Freilichtmuseum auf der Insel"
 site_name: "Freilichtmuseum auf der Insel"
 date: 2026-01-26
 draft: false
-description: "open air museum in Stade, Germany"
+description: "Freilichtmuseum auf der Insel, located in Stade, Germany, is a captivating open-air museum that invites visitors to explore the historical and cultural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

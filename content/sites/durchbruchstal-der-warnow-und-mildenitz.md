@@ -3,7 +3,7 @@ title: "Durchbruchstal der Warnow und Mildenitz"
 site_name: "Durchbruchstal der Warnow und Mildenitz"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
+description: "The Durchbruchstal der Warnow und Mildenitz, located in the picturesque region of Mecklenburg-Vorpommern, Germany, is a remarkable nature reserve that..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

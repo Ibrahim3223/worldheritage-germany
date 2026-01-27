@@ -3,7 +3,7 @@ title: "Burg Hammerstein"
 site_name: "Burg Hammerstein"
 date: 2026-01-26
 draft: false
-description: "castle in Südschwarzwald"
+description: "Burg Hammerstein, a captivating castle situated in the scenic Südschwarzwald region of Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Ägidienkurie (Naumburg)"
 site_name: "Ägidienkurie (Naumburg)"
 date: 2026-01-26
 draft: false
-description: "church building in Naumburg (Saale), Saxony-Anhalt, Germany"
+description: "The Ägidienkurie, a quaint chapel located in the heart of Naumburg, Germany, offers visitors a glimpse into the rich ecclesiastical heritage of the region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Chapel"

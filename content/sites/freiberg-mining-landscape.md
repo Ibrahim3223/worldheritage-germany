@@ -3,7 +3,7 @@ title: "Freiberg Mining Landscape"
 site_name: "Freiberg Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Freiberg Mining Landscape, a UNESCO World Heritage site located in the heart of Germany, tells a compelling story of human ingenuity and the pursuit of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cultural Landscape"

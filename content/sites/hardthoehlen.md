@@ -3,7 +3,7 @@ title: "Hardthöhlen"
 site_name: "Hardthöhlen"
 date: 2026-01-26
 draft: false
-description: "caves in Wuppertal, Germany"
+description: "Deep within the heart of Wuppertal, Germany, lies the enigmatic Hardthöhlen cave system, a natural wonder that draws explorers and nature enthusiasts alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Harz Roller-Canary Museum"
 site_name: "Harz Roller-Canary Museum"
 date: 2026-01-26
 draft: false
-description: "museum about the canary breed of the Harz Roller in Sankt Andreasberg"
+description: "The Harz Roller-Canary Museum, located in the quaint town of Sankt Andreasberg, Germany, serves as a dedicated space to explore the unique heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

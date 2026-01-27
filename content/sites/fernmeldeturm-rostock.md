@@ -3,7 +3,7 @@ title: "Fernmeldeturm Rostock"
 site_name: "Fernmeldeturm Rostock"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Rostock is an iconic telecommunications tower located in the vibrant city of Rostock, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Tower"

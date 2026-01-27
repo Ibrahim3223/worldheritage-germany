@@ -3,7 +3,7 @@ title: "Foundations of the Sparkasse Holstein"
 site_name: "Foundations of the Sparkasse Holstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Foundations of the Sparkasse Holstein offers a compelling glimpse into the cultural and financial history of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

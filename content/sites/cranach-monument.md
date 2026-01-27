@@ -3,7 +3,7 @@ title: "Cranach Monument"
 site_name: "Cranach Monument"
 date: 2026-01-26
 draft: false
-description: "monument in Eisenach"
+description: "The Cranach Monument, located in Eisenach, Germany, is a significant cultural landmark that pays homage to the renowned Renaissance artist Lucas Cranach the..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "Gatersleben Castle"
 site_name: "Gatersleben Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Gatersleben Castle, a notable structure located in the Seeland region of Germany, captures the essence of medieval architecture and history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

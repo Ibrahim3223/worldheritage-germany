@@ -3,7 +3,7 @@ title: "Old Bach-monument Leipzig"
 site_name: "Old Bach-monument Leipzig"
 date: 2026-01-26
 draft: false
-description: "memorial in Leipzig"
+description: "The Old Bach-monument in Leipzig is more than just a memorial; it is a tribute to one of the most illustrious figures in the world of classical music,..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Memorial"

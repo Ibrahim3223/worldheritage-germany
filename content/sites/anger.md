@@ -3,7 +3,7 @@ title: "Anger"
 site_name: "Anger"
 date: 2026-01-26
 draft: false
-description: "street in Erfurt, Germany"
+description: "Anger is a notable square located in the heart of Erfurt, Germany. This urban space, with its vibrant atmosphere, serves as a cultural and social hub,..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Zeche Bruchkamp & Steinknapp"
 site_name: "Zeche Bruchkamp & Steinknapp"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Bruchkamp & Steinknapp, located in the heart of Essen, Germany, represents a vital chapter in the region's industrial history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

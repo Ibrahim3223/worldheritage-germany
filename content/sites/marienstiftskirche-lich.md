@@ -3,7 +3,7 @@ title: "Marienstiftskirche, Lich"
 site_name: "Marienstiftskirche, Lich"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "Marienstiftskirche in Lich is a remarkable church building that exemplifies the spiritual heritage of Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

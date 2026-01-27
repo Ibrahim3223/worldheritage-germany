@@ -3,7 +3,7 @@ title: "Lindau Lighthouse"
 site_name: "Lindau Lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Germany"
+description: "The Lindau Lighthouse, a distinctive maritime landmark, stands proudly on the shores of Lake Constance in Germany, guiding vessels safely to port."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Lighthouse"

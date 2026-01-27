@@ -3,7 +3,7 @@ title: "Öffentliche Evangelische Gemeindebücherei Solingen Dorp"
 site_name: "Öffentliche Evangelische Gemeindebücherei Solingen Dorp"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Öffentliche Evangelische Gemeindebücherei Solingen Dorp serves as a vital cultural hub within the region of Solingen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Library"

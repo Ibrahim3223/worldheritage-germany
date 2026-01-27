@@ -3,7 +3,7 @@ title: "Dortmund-Derne station"
 site_name: "Dortmund-Derne station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dortmund, Germany"
+description: "Dortmund-Derne station serves as a critical junction within the extensive German railway network, facilitating both local and regional travel."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

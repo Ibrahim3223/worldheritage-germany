@@ -3,7 +3,7 @@ title: "St. Nicolai protestant church"
 site_name: "St. Nicolai protestant church"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Schmiedeberg, Saxony-Anhalt, Germany"
+description: "St. Nicolai Protestant Church, situated in the charming town of Bad Schmiedeberg in Saxony-Anhalt, Germany, is more than just a religious structure; it is a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

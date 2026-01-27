@@ -3,7 +3,7 @@ title: "Scharwenka Kulturforum"
 site_name: "Scharwenka Kulturforum"
 date: 2026-01-26
 draft: false
-description: "cultural center, musicians museum and archive in Brandenburg, Germany"
+description: "The Scharwenka Kulturforum serves as a vibrant cultural center in Bad Saarow, Germany, dedicated to the celebration of music and the arts."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

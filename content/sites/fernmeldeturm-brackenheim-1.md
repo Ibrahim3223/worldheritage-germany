@@ -3,7 +3,7 @@ title: "Fernmeldeturm Brackenheim 1"
 site_name: "Fernmeldeturm Brackenheim 1"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Fernmeldeturm Brackenheim 1 is a notable telecommunications tower located in the picturesque region of Cleebronn, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

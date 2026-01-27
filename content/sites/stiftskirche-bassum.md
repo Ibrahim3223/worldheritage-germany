@@ -3,7 +3,7 @@ title: "Stiftskirche Bassum"
 site_name: "Stiftskirche Bassum"
 date: 2026-01-26
 draft: false
-description: "church building in Bassum, Germany"
+description: "Stiftskirche Bassum, a prominent church building located in the town of Bassum, Germany, stands as a significant landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

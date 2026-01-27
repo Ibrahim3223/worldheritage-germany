@@ -3,7 +3,7 @@ title: "Hute in Bühren"
 site_name: "Hute in Bühren"
 date: 2026-01-26
 draft: false
-description: "Silvopasture in Bühren, district Göttingen, Lower Saxony, Germany"
+description: "Hute in Bühren, situated in the district of Göttingen, Lower Saxony, is a cultural landscape that reflects the harmonious relationship between agriculture..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cultural Landscape"

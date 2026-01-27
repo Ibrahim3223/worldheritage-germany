@@ -3,7 +3,7 @@ title: "Belvedere on the Pfingstberg"
 site_name: "Belvedere on the Pfingstberg"
 date: 2026-01-26
 draft: false
-description: "World Heritage Site in Germany"
+description: "Belvedere on the Pfingstberg is a distinguished palace located in the northern suburbs of Potsdam, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

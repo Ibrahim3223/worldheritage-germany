@@ -3,7 +3,7 @@ title: "Marburger Kunstverein"
 site_name: "Marburger Kunstverein"
 date: 2026-01-26
 draft: false
-description: "voluntary association"
+description: "Marburger Kunstverein, located in the heart of Marburg, Germany, is an art museum that embodies a unique blend of contemporary creativity and local culture."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

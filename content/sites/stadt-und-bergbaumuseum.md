@@ -3,7 +3,7 @@ title: "Stadt- und Bergbaumuseum"
 site_name: "Stadt- und Bergbaumuseum"
 date: 2026-01-26
 draft: false
-description: "Freiberg, Germany"
+description: "In the heart of Freiberg, Germany, the Stadt- und Bergbaumuseum serves as a significant cultural institution dedicated to the exploration of mining history..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

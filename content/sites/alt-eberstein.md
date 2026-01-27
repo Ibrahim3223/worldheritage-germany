@@ -3,7 +3,7 @@ title: "Alt Eberstein"
 site_name: "Alt Eberstein"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Baden-Baden. Germany"
+description: "Alt Eberstein, a remarkable castle ruin located in the scenic region of Baden-Baden, Germany, stands as a monument to the area's rich medieval heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

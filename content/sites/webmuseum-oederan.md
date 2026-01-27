@@ -3,7 +3,7 @@ title: "Webmuseum Oederan"
 site_name: "Webmuseum Oederan"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Webmuseum Oederan is an intriguing museum located in the charming town of Oederan, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

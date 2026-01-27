@@ -3,7 +3,7 @@ title: "Ehrenmal Buer"
 site_name: "Ehrenmal Buer"
 date: 2026-01-26
 draft: false
-description: "monument in Gelsenkirchen, Germany"
+description: "Ehrenmal Buer is a prominent monument located in the heart of Gelsenkirchen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

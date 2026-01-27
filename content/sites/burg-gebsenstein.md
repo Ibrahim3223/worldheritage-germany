@@ -3,7 +3,7 @@ title: "Burg Gebsenstein"
 site_name: "Burg Gebsenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Gebsenstein, a captivating castle located in the picturesque region of Hilzingen, Germany, invites visitors to explore its storied past and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

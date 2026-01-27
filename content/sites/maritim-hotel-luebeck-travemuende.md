@@ -3,7 +3,7 @@ title: "Maritim Hotel Lübeck-Travemünde"
 site_name: "Maritim Hotel Lübeck-Travemünde"
 date: 2026-01-26
 draft: false
-description: "building in Lübeck, Schleswig-Holstein, Germany"
+description: "The Maritim Hotel Lübeck-Travemünde is more than just a place to rest; it is an iconic structure in the coastal town of Travemünde, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

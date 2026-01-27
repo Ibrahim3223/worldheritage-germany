@@ -3,7 +3,7 @@ title: "Attendorner Feuerwehr-Museum e.V."
 site_name: "Attendorner Feuerwehr-Museum e.V."
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Attendorner Feuerwehr-Museum e.V. stands as an important cultural institution in Germany, dedicated to preserving the history of fire services and their..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Museum Pfalzgalerie Kaiserslautern"
 site_name: "Museum Pfalzgalerie Kaiserslautern"
 date: 2026-01-26
 draft: false
-description: "art museum in Kaiserslautern, Germany"
+description: "Located in the heart of Kaiserslautern, Germany, the Museum Pfalzgalerie Kaiserslautern stands as a prominent institution dedicated to the appreciation and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

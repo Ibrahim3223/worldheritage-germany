@@ -3,7 +3,7 @@ title: "Barkenhoff"
 site_name: "Barkenhoff"
 date: 2026-01-26
 draft: false
-description: "art museum in Worpswede"
+description: "Barkenhoff, an art museum located in the picturesque village of Worpswede, Germany, serves as a significant cultural hub for both art enthusiasts and casual..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Moselle Valley"
 site_name: "Moselle Valley"
 date: 2026-01-26
 draft: false
-description: "geographical region in Belgium, France, Germany and Luxembourg"
+description: "The Moselle Valley is a quintessential geographical region that weaves through parts of Belgium, France, Germany, and Luxembourg, characterized by its..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Valley"

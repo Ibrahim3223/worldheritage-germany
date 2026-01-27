@@ -3,7 +3,7 @@ title: "Franziskus als Friedensbote"
 site_name: "Franziskus als Friedensbote"
 date: 2026-01-26
 draft: false
-description: "Skulptur des Bildhauers Martin Mayer in München (1979)"
+description: "In the heart of Munich, the statue of *Franziskus als Friedensbote* serves as a poignant representation of peace and harmony, created by the renowned..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

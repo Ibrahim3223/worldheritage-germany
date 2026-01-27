@@ -3,7 +3,7 @@ title: "German Huguenot Museum in Bad Karlshafen"
 site_name: "German Huguenot Museum in Bad Karlshafen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The German Huguenot Museum in Bad Karlshafen serves as a poignant reminder of the Huguenot diaspora and the cultural exchange that followed their settlement..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

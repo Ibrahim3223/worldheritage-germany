@@ -3,7 +3,7 @@ title: "Frankfurt (Main) Süd"
 site_name: "Frankfurt (Main) Süd"
 date: 2026-01-26
 draft: false
-description: "railway halt in Frankfurt, Germany"
+description: "Frankfurt (Main) Süd railway station serves as a vital junction within the bustling transit network of Frankfurt, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

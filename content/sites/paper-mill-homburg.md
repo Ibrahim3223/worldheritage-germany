@@ -3,7 +3,7 @@ title: "Paper Mill Homburg"
 site_name: "Paper Mill Homburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Paper Mill Homburg is a captivating museum located in Triefenstein, Germany, dedicated to the art and science of papermaking."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

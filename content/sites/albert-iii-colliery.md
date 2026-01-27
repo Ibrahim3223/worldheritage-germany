@@ -3,7 +3,7 @@ title: "Albert III Colliery"
 site_name: "Albert III Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Albert III Colliery, located in Bochum, Germany, is a noteworthy site that reflects the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

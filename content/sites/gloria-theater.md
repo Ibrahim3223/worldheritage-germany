@@ -3,7 +3,7 @@ title: "Gloria-Theater"
 site_name: "Gloria-Theater"
 date: 2026-01-26
 draft: false
-description: "theatre in Cologne, Germany"
+description: "The Gloria-Theater, a notable theatre building located in Cologne, Germany, serves as both a cultural hub and a significant landmark in the city's vibrant..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

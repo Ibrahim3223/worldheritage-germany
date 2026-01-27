@@ -3,7 +3,7 @@ title: "Bauerngarten"
 site_name: "Bauerngarten"
 date: 2026-01-26
 draft: false
-description: "peasant garden and cultural monument in Postfeld, Schleswig-Holstein, Germany"
+description: "Bauerngarten, a charming peasant garden and cultural monument located in Postfeld, Schleswig-Holstein, Germany, represents an enduring connection to..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Garden"

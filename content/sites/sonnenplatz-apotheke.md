@@ -3,7 +3,7 @@ title: "Sonnenplatz-Apotheke"
 site_name: "Sonnenplatz-Apotheke"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Sonnenplatz-Apotheke is a distinguished museum located in Tauberbischofsheim, Germany, offering visitors an insightful look into the history of pharmacy and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

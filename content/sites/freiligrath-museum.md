@@ -3,7 +3,7 @@ title: "Freiligrath Museum"
 site_name: "Freiligrath Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Rüdesheim am Rhein, Germany"
+description: "The Freiligrath Museum in Rüdesheim am Rhein, Germany, serves as an important cultural and historical site dedicated to the life and works of the poet..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

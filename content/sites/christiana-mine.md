@@ -3,7 +3,7 @@ title: "Christiana mine"
 site_name: "Christiana mine"
 date: 2026-01-26
 draft: false
-description: "North Rhine-Westphalia"
+description: "The Christiana mine, located in Witten, North Rhine-Westphalia, Germany, is a notable historical site that reflects the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

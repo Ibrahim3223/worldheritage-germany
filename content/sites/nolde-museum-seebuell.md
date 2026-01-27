@@ -3,7 +3,7 @@ title: "Nolde Museum Seebüll"
 site_name: "Nolde Museum Seebüll"
 date: 2026-01-26
 draft: false
-description: "museum in Seebüll"
+description: "The Nolde Museum Seebüll is a distinguished art museum located in the serene village of Seebüll, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"

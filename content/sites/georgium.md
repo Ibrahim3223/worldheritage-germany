@@ -3,7 +3,7 @@ title: "Georgium"
 site_name: "Georgium"
 date: 2026-01-26
 draft: false
-description: "castle and sculpture garden in Dessau, Germany"
+description: "Georgium, located in Dessau, Germany, is a captivating park that seamlessly combines nature, art, and history."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Park"

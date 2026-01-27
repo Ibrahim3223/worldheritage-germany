@@ -3,7 +3,7 @@ title: "Kirchkapelle Gessin"
 site_name: "Kirchkapelle Gessin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kirchkapelle Gessin is a historical church building located in the idyllic region of Basedow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

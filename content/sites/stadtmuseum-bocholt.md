@@ -3,7 +3,7 @@ title: "Stadtmuseum Bocholt"
 site_name: "Stadtmuseum Bocholt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Bocholt, Germany, the Stadtmuseum Bocholt presents an inviting opportunity to delve into the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

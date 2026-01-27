@@ -3,7 +3,7 @@ title: "Jesuitenkolleg Erfurt"
 site_name: "Jesuitenkolleg Erfurt"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kloster in Deutschland"
+description: "The Jesuitenkolleg Erfurt, a historic monastery located in the heart of Erfurt, Germany, invites visitors to explore its rich heritage and architectural beauty."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Monastery"

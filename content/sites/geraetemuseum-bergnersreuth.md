@@ -3,7 +3,7 @@ title: "Gerätemuseum Bergnersreuth"
 site_name: "Gerätemuseum Bergnersreuth"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Arzberg, Germany, the Gerätemuseum Bergnersreuth offers a unique glimpse into the region's cultural heritage through its diverse collection..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

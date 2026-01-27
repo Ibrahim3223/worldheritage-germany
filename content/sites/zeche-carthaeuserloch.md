@@ -3,7 +3,7 @@ title: "Zeche Carthäuserloch"
 site_name: "Zeche Carthäuserloch"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Carthäuserloch, located in the city of Witten in Germany, is an important historical site that offers a glimpse into the region's extensive mining..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

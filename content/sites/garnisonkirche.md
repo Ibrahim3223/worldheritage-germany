@@ -3,7 +3,7 @@ title: "Garnisonkirche"
 site_name: "Garnisonkirche"
 date: 2026-01-26
 draft: false
-description: "former church building in Hannover, Germany"
+description: "Garnisonkirche, a former church building located in the heart of Hannover, Germany, offers a glimpse into the architectural and cultural history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

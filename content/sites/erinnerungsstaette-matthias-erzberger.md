@@ -3,7 +3,7 @@ title: "Erinnerungsstätte Matthias Erzberger"
 site_name: "Erinnerungsstätte Matthias Erzberger"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Münsingen, Germany, the Erinnerungsstätte Matthias Erzberger serves as an insightful museum dedicated to the life and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

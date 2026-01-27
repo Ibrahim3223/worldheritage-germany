@@ -3,7 +3,7 @@ title: "Zoo Mainz"
 site_name: "Zoo Mainz"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Zoo Mainz offers a unique opportunity to engage with the animal kingdom in a setting that promotes education and conservation."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

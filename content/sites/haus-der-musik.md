@@ -3,7 +3,7 @@ title: "Haus der Musik"
 site_name: "Haus der Musik"
 date: 2026-01-26
 draft: false
-description: "museum in Stuttgart, Germany"
+description: "Haus der Musik in Stuttgart, Germany, is a vibrant museum dedicated to the exploration of sound and music."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

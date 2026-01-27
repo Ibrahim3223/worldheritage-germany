@@ -3,7 +3,7 @@ title: "Bilal-Moschee (Aachen)"
 site_name: "Bilal-Moschee (Aachen)"
 date: 2026-01-26
 draft: false
-description: "Moschee in Aachen"
+description: "The Bilal Mosque in Aachen is a significant place of worship that reflects the Islamic faith's presence in Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Osterkirche"
 site_name: "Osterkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Osterkirche, a prominent church building located in the Wandsbek region of Germany, serves as a significant cultural and architectural landmark."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

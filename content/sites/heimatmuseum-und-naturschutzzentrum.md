@@ -3,7 +3,7 @@ title: "Heimatmuseum und Naturschutzzentrum"
 site_name: "Heimatmuseum und Naturschutzzentrum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Heimatmuseum und Naturschutzzentrum serves as an engaging portal into the cultural and natural heritage of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

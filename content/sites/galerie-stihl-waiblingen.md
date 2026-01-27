@@ -3,7 +3,7 @@ title: "Galerie Stihl Waiblingen"
 site_name: "Galerie Stihl Waiblingen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Galerie Stihl Waiblingen is a prominent art museum located in the charming town of Waiblingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

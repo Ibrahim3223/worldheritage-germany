@@ -3,7 +3,7 @@ title: "Neues Palais (Detmold)"
 site_name: "Neues Palais (Detmold)"
 date: 2026-01-26
 draft: false
-description: "palace in Detmold, Germany"
+description: "The Neues Palais in Detmold is a striking example of German architectural grandeur, standing as a symbol of the region's royal history and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Erdöl-Erdgas-Museum Twist"
 site_name: "Erdöl-Erdgas-Museum Twist"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Erdöl-Erdgas-Museum Twist is an intriguing destination that invites visitors to explore the fascinating world of oil and gas extraction."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

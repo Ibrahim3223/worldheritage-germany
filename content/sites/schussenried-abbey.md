@@ -3,7 +3,7 @@ title: "Schussenried Abbey"
 site_name: "Schussenried Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery i Germany"
+description: "Schussenried Abbey, located in Bad Schussenried, Germany, is an intriguing blend of religious heritage and cultural history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

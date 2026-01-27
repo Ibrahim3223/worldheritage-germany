@@ -3,7 +3,7 @@ title: "Rudolf-Breitscheid-Straße 4, Amtsgericht"
 site_name: "Rudolf-Breitscheid-Straße 4, Amtsgericht"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Verwaltungsgebäude in Ruhland, Brandenburg"
+description: "Situated in the heart of Ruhland, Brandenburg, Rudolf-Breitscheid-Straße 4 is not just a functioning courthouse; it is a historical edifice reflecting the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Courthouse"

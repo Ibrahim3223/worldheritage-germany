@@ -3,7 +3,7 @@ title: "Castra of Gunzenhausen"
 site_name: "Castra of Gunzenhausen"
 date: 2026-01-26
 draft: false
-description: "Roman fort"
+description: "The Castra of Gunzenhausen is an evocative remnant of Roman military architecture, nestled within the historical heartland of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castrum"

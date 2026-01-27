@@ -3,7 +3,7 @@ title: "Catholic Holy Cross Church, Münster"
 site_name: "Catholic Holy Cross Church, Münster"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Catholic Holy Cross Church in Münster stands as a significant landmark in the heart of Germany, reflecting the city's rich cultural history and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

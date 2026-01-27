@@ -3,7 +3,7 @@ title: "Dichterhaus Brückner-Kühner"
 site_name: "Dichterhaus Brückner-Kühner"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dichterhaus Brückner-Kühner, a museum located in Kassel, Germany, serves as a poignant reminder of the country's literary heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

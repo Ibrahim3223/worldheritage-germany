@@ -3,7 +3,7 @@ title: "Reformierte Kirche"
 site_name: "Reformierte Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Emden, Lower Saxony, Germany"
+description: "The Reformierte Kirche in Emden, Germany, stands as a notable church building that reflects the profound cultural and historical narratives of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

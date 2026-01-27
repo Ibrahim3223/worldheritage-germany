@@ -3,7 +3,7 @@ title: "Abbey and Altenmünster of Lorsch"
 site_name: "Abbey and Altenmünster of Lorsch"
 date: 2026-01-26
 draft: false
-description: "UNESCO World Heritage Abbey of Lorsch in Germany"
+description: "The Abbey and Altenmünster of Lorsch is a UNESCO World Heritage site located in the charming town of Lorsch, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

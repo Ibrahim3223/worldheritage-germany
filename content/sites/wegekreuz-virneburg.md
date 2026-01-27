@@ -3,7 +3,7 @@ title: "Wegekreuz Virneburg"
 site_name: "Wegekreuz Virneburg"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the tranquil landscape of Langenfeld, Germany, the Wegekreuz Virneburg stands as a remarkable monument that invites visitors to reflect on the region's..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

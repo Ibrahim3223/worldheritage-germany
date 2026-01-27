@@ -3,7 +3,7 @@ title: "Derker Tor"
 site_name: "Derker Tor"
 date: 2026-01-26
 draft: false
-description: "Stadttor in Brilon"
+description: "Derker Tor, an impressive gatehouse located in the historic town of Brilon, Germany, represents an intriguing blend of architectural beauty and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Gatehouse"

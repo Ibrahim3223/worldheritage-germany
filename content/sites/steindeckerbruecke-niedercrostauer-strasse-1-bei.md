@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Niedercrostauer Straße 1 (bei)"
 site_name: "Steindeckerbrücke Niedercrostauer Straße 1 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located at Niedercrostauer Straße 1 in Schirgiswalde-Kirschau, Germany, is an intriguing structure that offers visitors a glimpse..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

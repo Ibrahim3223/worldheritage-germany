@@ -3,7 +3,7 @@ title: "Petrus church"
 site_name: "Petrus church"
 date: 2026-01-26
 draft: false
-description: "church in Kiel"
+description: "In the heart of Kiel, Germany, the Petrus Church stands as an architectural and cultural landmark, inviting both locals and travelers to explore its storied..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

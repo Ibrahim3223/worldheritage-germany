@@ -3,7 +3,7 @@ title: "Oberlausitzer Heide - und Teichlandschaft Biosphere Reserve"
 site_name: "Oberlausitzer Heide - und Teichlandschaft Biosphere Reserve"
 date: 2026-01-26
 draft: false
-description: "biosphere reserve in Saxony, Germany"
+description: "The Oberlausitzer Heide - und Teichlandschaft Biosphere Reserve is a tranquil expanse in Saxony, Germany, characterized by its diverse ecosystems and rich..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Biosphere Reserve"

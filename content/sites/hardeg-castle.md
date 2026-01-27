@@ -3,7 +3,7 @@ title: "Hardeg Castle"
 site_name: "Hardeg Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hardeg Castle, located in the picturesque region of Hardegsen, Germany, is an intriguing and historical site that captures the imagination of visitors with..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

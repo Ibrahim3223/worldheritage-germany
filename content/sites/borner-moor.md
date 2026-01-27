@@ -3,7 +3,7 @@ title: "Borner Moor"
 site_name: "Borner Moor"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Borner Moor is a nature reserve situated in the scenic region of Hagen im Bremischen, Lower Saxony, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

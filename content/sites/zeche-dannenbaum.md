@@ -3,7 +3,7 @@ title: "Zeche Dannenbaum"
 site_name: "Zeche Dannenbaum"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Dannenbaum, located in Bochum, Germany, serves as a striking representation of the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

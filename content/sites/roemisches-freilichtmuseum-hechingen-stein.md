@@ -3,7 +3,7 @@ title: "Römisches Freilichtmuseum Hechingen-Stein"
 site_name: "Römisches Freilichtmuseum Hechingen-Stein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römisches Freilichtmuseum Hechingen-Stein, situated in the charming town of Hechingen, Germany, offers a captivating glimpse into the Roman era through..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

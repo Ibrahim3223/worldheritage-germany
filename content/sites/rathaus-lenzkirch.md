@@ -3,7 +3,7 @@ title: "Rathaus Lenzkirch"
 site_name: "Rathaus Lenzkirch"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Rathaus Lenzkirch serves as a focal point for the local community and is a symbol of civic pride in the charming town of Lenzkirch, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

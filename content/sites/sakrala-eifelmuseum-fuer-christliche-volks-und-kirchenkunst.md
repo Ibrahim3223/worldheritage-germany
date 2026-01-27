@@ -3,7 +3,7 @@ title: "SAKRALA – Eifelmuseum für christliche Volks- und Kirchenkunst"
 site_name: "SAKRALA – Eifelmuseum für christliche Volks- und Kirchenkunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The SAKRALA – Eifelmuseum für christliche Volks- und Kirchenkunst serves as a unique cultural institution located in Simmerath, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

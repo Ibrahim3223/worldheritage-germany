@@ -3,7 +3,7 @@ title: "Hanover Zoo"
 site_name: "Hanover Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Hanover, Germany"
+description: "Hanover Zoo, located in the heart of Hanover, Germany, is a vibrant sanctuary that serves as a gateway to the animal kingdom."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

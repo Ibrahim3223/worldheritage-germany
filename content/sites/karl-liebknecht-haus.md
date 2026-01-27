@@ -3,7 +3,7 @@ title: "Karl-Liebknecht-Haus"
 site_name: "Karl-Liebknecht-Haus"
 date: 2026-01-26
 draft: false
-description: "office block in Berlin, Germany"
+description: "In the heart of Berlin’s Bezirk Mitte, the Karl-Liebknecht-Haus stands not merely as an office block, but as a monument echoing the multifaceted history of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Factory"

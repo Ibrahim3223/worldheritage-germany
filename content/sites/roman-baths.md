@@ -3,7 +3,7 @@ title: "Roman Baths"
 site_name: "Roman Baths"
 date: 2026-01-26
 draft: false
-description: "North-east of Charlottenhof Palace in Sanssouci Park, Potsdam"
+description: "The Roman Baths, located in the scenic Brandenburger Vorstadt region of Potsdam, Germany, represent a fascinating blend of architectural elegance and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

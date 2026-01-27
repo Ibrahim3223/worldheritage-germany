@@ -3,7 +3,7 @@ title: "Fernmeldeturm Marburg"
 site_name: "Fernmeldeturm Marburg"
 date: 2026-01-26
 draft: false
-description: "Sendeanlage in Marburg"
+description: "Perched strategically in the heart of Marburg, Germany, the Fernmeldeturm Marburg is a prominent communications tower that captures both the skyline and the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

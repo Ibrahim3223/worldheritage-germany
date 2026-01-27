@@ -3,7 +3,7 @@ title: "Landgraf-Philipp-Denkmal"
 site_name: "Landgraf-Philipp-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Kassel, Germany"
+description: "The Landgraf-Philipp-Denkmal, located in Kassel, Germany, stands as a prominent monument that reflects the historical significance of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "St. Nicolaus (Büschdorf)"
 site_name: "St. Nicolaus (Büschdorf)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Nicolaus Church, located in Büschdorf, Halle (Saale), Germany, represents a significant piece of the region's ecclesiastical architecture and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

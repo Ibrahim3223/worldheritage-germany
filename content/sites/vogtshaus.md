@@ -3,7 +3,7 @@ title: "Vogtshaus"
 site_name: "Vogtshaus"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Vogtshaus, located in the heart of Böblingen, Germany, serves as a museum dedicated to preserving and showcasing the local heritage and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

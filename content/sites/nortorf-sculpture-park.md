@@ -3,7 +3,7 @@ title: "Nortorf Sculpture Park"
 site_name: "Nortorf Sculpture Park"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Nortorf Sculpture Park, located in the Rendsburg-Eckernförde region of Germany, serves as an intriguing intersection of nature and art, inviting..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

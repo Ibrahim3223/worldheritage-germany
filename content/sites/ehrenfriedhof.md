@@ -3,7 +3,7 @@ title: "Ehrenfriedhof"
 site_name: "Ehrenfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Heilbronn, Germany"
+description: "Ehrenfriedhof is a notable cemetery located in Heilbronn, Germany, offering a serene space for reflection and a glimpse into the region's cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

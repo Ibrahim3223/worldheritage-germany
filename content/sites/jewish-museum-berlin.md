@@ -3,7 +3,7 @@ title: "Jewish Museum Berlin"
 site_name: "Jewish Museum Berlin"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin"
+description: "The Jewish Museum Berlin is a remarkable architectural ensemble that serves as a profound tribute to the history, culture, and contributions of Jewish life..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

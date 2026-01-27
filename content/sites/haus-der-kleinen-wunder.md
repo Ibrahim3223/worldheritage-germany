@@ -3,7 +3,7 @@ title: "Haus der kleinen Wunder"
 site_name: "Haus der kleinen Wunder"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The Haus der kleinen Wunder, located in the serene region of Bischofsheim in der Rhön, Germany, is a museum that invites visitors to explore the enchanting..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Derneburg Castle"
 site_name: "Derneburg Castle"
 date: 2026-01-26
 draft: false
-description: "château in Germany"
+description: "Derneburg Castle, located in the Holle region of Germany, is an enchanting château that functions as an art museum, drawing visitors who are interested in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

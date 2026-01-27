@@ -3,7 +3,7 @@ title: "Burg Mettenberg"
 site_name: "Burg Mettenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mettenberg is an intriguing castle located in the serene region of Rot an der Rot, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

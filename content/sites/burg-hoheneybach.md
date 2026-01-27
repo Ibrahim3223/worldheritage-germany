@@ -3,7 +3,7 @@ title: "Burg Hoheneybach"
 site_name: "Burg Hoheneybach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hoheneybach is a captivating castle located in the picturesque region of Geislingen an der Steige in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

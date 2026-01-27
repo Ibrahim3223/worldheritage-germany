@@ -3,7 +3,7 @@ title: "Congresshalle"
 site_name: "Congresshalle"
 date: 2026-01-26
 draft: false
-description: "Concert hall in Saarbrücken, Germany,"
+description: "In the heart of Saarbrücken, Germany, lies the Congresshalle, a prominent multi-purpose hall that serves as a cultural hub for the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

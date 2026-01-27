@@ -3,7 +3,7 @@ title: "Museum Helgoland"
 site_name: "Museum Helgoland"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Helgoland serves as a cultural touchstone in the small German archipelago of Heligoland, an area renowned for its unique history and vibrant marine..."
 region: "Heligoland"
 country: "Germany"
 heritage_type: "Museum"

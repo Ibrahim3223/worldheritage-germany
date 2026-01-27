@@ -3,7 +3,7 @@ title: "Stellwerk Köln-Dünnwald"
 site_name: "Stellwerk Köln-Dünnwald"
 date: 2026-01-26
 draft: false
-description: "Museum für Signal- und Fernmeldetechnik im Eisenbahnwesen"
+description: "Stellwerk Köln-Dünnwald in Cologne, Germany, is a distinctive museum dedicated to the fascinating field of signal and telecommunications technology within..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

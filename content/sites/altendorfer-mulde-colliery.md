@@ -3,7 +3,7 @@ title: "Altendorfer Mulde Colliery"
 site_name: "Altendorfer Mulde Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Altendorfer Mulde Colliery, located in Essen, Germany, represents a critical chapter in the story of the nation’s industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

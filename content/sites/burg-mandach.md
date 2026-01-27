@@ -3,7 +3,7 @@ title: "Burg Mandach"
 site_name: "Burg Mandach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mandach is a captivating castle located in the picturesque region of Ühlingen-Birkendorf, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

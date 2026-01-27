@@ -3,7 +3,7 @@ title: "Wiederau transmitter"
 site_name: "Wiederau transmitter"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Wiederau transmitter, an architectural tower located in Pegau, Germany, stands as a significant landmark within the realm of communication technology."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

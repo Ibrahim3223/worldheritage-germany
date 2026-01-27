@@ -3,7 +3,7 @@ title: "Haus Gartlage"
 site_name: "Haus Gartlage"
 date: 2026-01-26
 draft: false
-description: "building in Osnabrück, Germany"
+description: "Haus Gartlage is a distinguished manor house located in the charming city of Osnabrück, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

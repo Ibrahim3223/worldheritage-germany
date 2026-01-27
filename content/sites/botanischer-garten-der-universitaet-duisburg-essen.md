@@ -3,7 +3,7 @@ title: "Botanischer Garten der Universität Duisburg-Essen"
 site_name: "Botanischer Garten der Universität Duisburg-Essen"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten der Universität Duisburg-Essen is a serene sanctuary of flora that invites visitors to explore the intricate world of plants."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

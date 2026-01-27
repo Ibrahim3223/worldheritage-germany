@@ -3,7 +3,7 @@ title: "Unicorn Cave"
 site_name: "Unicorn Cave"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Unicorn Cave, located in the picturesque region of Herzberg am Harz, Germany, is an intriguing natural wonder that captivates visitors with its unique..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"

@@ -3,7 +3,7 @@ title: "Königliches Schauspielhaus"
 site_name: "Königliches Schauspielhaus"
 date: 2026-01-26
 draft: false
-description: "former theater in Potsdam, Germany"
+description: "The Königliches Schauspielhaus, a former theater building located in the historic city of Potsdam, Germany, holds a prominent place in the cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Theatre Building"

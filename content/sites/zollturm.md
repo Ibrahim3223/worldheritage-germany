@@ -3,7 +3,7 @@ title: "Zollturm"
 site_name: "Zollturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "In the heart of Rheinberg, Germany, the Zollturm stands as a historic tower that draws visitors interested in the architectural and cultural narratives of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

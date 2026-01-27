@@ -3,7 +3,7 @@ title: "Scharfrichterhaus"
 site_name: "Scharfrichterhaus"
 date: 2026-01-26
 draft: false
-description: "arts centre and cinema in Passau, Germany"
+description: "Scharfrichterhaus, located in the picturesque city of Passau, Germany, serves as an arts center and cinema, enriching the local cultural landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Movie Theater"

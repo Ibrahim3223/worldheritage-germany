@@ -3,7 +3,7 @@ title: "St. Anne's Church"
 site_name: "St. Anne's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Annaberg-Buchholz, Saxony, Germany"
+description: "St. Anne's Church, located in the town of Annaberg-Buchholz in Saxony, Germany, is an architecturally significant church building that reflects the region's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

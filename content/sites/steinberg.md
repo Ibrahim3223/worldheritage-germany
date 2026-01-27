@@ -3,7 +3,7 @@ title: "Steinberg"
 site_name: "Steinberg"
 date: 2026-01-26
 draft: false
-description: "mountain in Lower Bavaria"
+description: "In the heart of Bavaria, Germany, lies Steinberg, a prominent mountain that captures the spirit of the region's natural beauty and cultural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

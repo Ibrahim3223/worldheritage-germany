@@ -3,7 +3,7 @@ title: "Amtsgericht am Sachsenplatz, Dresden"
 site_name: "Amtsgericht am Sachsenplatz, Dresden"
 date: 2026-01-26
 draft: false
-description: "court in Dresden, Saxony, Germany"
+description: "The Amtsgericht am Sachsenplatz in Dresden is not only a functional courthouse but also an integral part of the city's architectural and civic landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Courthouse"

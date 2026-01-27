@@ -3,7 +3,7 @@ title: "Kloster Glindfeld"
 site_name: "Kloster Glindfeld"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Kloster der Augustinerinnen bei Medebach"
+description: "Kloster Glindfeld, located in the quaint town of Medebach, Germany, is an evocative remnant of monastic life that offers a glimpse into the spiritual and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

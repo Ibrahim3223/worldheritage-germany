@@ -3,7 +3,7 @@ title: "St. Antonius Einsiedler"
 site_name: "St. Antonius Einsiedler"
 date: 2026-01-26
 draft: false
-description: "church building in Finnentrop, Germany"
+description: "St. Antonius Einsiedler stands as a noteworthy example of ecclesiastical architecture in Finnentrop, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

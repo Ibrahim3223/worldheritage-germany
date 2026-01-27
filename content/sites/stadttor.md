@@ -3,7 +3,7 @@ title: "Stadttor"
 site_name: "Stadttor"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-79-124-47 (0) in Eibelstadt, Bavaria"
+description: "The Stadttor, a cultural heritage monument in the quaint town of Eibelstadt, Bavaria, serves as an iconic representation of the region's historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"

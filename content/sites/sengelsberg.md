@@ -3,7 +3,7 @@ title: "Sengelsberg"
 site_name: "Sengelsberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Sengelsberg, located in the beautiful region of Hesse, Germany, is an inviting mountain known for its serene landscapes and outdoor recreational opportunities."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Prinz-Albrecht-Palais"
 site_name: "Prinz-Albrecht-Palais"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Stadtpalais in der Berliner Friedrichstadt"
+description: "Prinz-Albrecht-Palais, once a prominent palace in the vibrant Friedrichstadt district of Berlin, represents a significant chapter in the city's..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Palace"

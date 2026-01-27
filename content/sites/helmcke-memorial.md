@@ -3,7 +3,7 @@ title: "Helmcke memorial"
 site_name: "Helmcke memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Hannover, Germany"
+description: "The Helmcke Memorial, located in Hannover, Germany, serves as a poignant reminder of the historical and cultural narratives that shaped the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

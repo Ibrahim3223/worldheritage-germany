@@ -3,7 +3,7 @@ title: "Theater Saarbrücken"
 site_name: "Theater Saarbrücken"
 date: 2026-01-26
 draft: false
-description: "State Theatre and Operaof Saarland in Saarbrücken, Germany"
+description: "Theater Saarbrücken, the State Theatre and Opera of Saarland, is a cultural epicenter in the heart of Saarbrücken, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Theatre Building"

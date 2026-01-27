@@ -3,7 +3,7 @@ title: "St. Martini (Halberstadt)"
 site_name: "St. Martini (Halberstadt)"
 date: 2026-01-26
 draft: false
-description: "church building in Halberstadt, Saxony-Anhalt, Germany"
+description: "St. Martini Church, located in Halberstadt, Germany, is a significant landmark that reflects the rich ecclesiastical heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

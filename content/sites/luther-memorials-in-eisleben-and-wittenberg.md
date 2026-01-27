@@ -3,7 +3,7 @@ title: "Luther Memorials in Eisleben and Wittenberg"
 site_name: "Luther Memorials in Eisleben and Wittenberg"
 date: 2026-01-26
 draft: false
-description: "group of buildings"
+description: "The Luther Memorials in Eisleben and Wittenberg represent a critical chapter in the history of Christianity and Western thought."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Group Of Structures Or Buildings"

@@ -3,7 +3,7 @@ title: "St Stephen's Church, Tangermünde"
 site_name: "St Stephen's Church, Tangermünde"
 date: 2026-01-26
 draft: false
-description: "church building in Tangermünde, Saxony-Anhalt, Germany"
+description: "St Stephen's Church in Tangermünde is a significant ecclesiastical structure located in Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

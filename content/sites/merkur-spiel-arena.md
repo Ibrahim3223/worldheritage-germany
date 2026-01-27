@@ -3,7 +3,7 @@ title: "Merkur Spiel-Arena"
 site_name: "Merkur Spiel-Arena"
 date: 2026-01-26
 draft: false
-description: "stadium in the city of Düsseldorf, North Rhine-Westphalia, Germany"
+description: "Merkur Spiel-Arena, located in Düsseldorf, North Rhine-Westphalia, is a prominent multi-purpose hall that serves as a hub for a variety of events, from..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

@@ -3,7 +3,7 @@ title: "Museum unter Wasser"
 site_name: "Museum unter Wasser"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum unter Wasser, located in Ludwigshafen am Bodensee, Germany, offers a unique opportunity to delve into the underwater world and explore the interplay..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

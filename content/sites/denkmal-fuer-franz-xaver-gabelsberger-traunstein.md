@@ -3,7 +3,7 @@ title: "Denkmal für Franz Xaver Gabelsberger (Traunstein)"
 site_name: "Denkmal für Franz Xaver Gabelsberger (Traunstein)"
 date: 2026-01-26
 draft: false
-description: "monument"
+description: "In the heart of Traunstein, Germany, the Denkmal für Franz Xaver Gabelsberger stands as a tribute to the pioneering spirit of one of the region's notable..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

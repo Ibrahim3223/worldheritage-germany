@@ -3,7 +3,7 @@ title: "Villa Hügel"
 site_name: "Villa Hügel"
 date: 2026-01-26
 draft: false
-description: "villa in Essen, Germany"
+description: "Villa Hügel, located in Essen, Germany, is a remarkable museum that serves as a window into the opulent lifestyle of one of Germany's most influential..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

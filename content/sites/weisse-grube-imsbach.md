@@ -3,7 +3,7 @@ title: "Weiße Grube Imsbach"
 site_name: "Weiße Grube Imsbach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Weiße Grube Imsbach is a notable museum located in the heart of Imsbach, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

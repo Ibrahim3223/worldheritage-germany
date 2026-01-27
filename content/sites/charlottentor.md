@@ -3,7 +3,7 @@ title: "Charlottentor"
 site_name: "Charlottentor"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Tor der Stadtbefestigung der Stadt Magdeburg"
+description: "Charlottentor, once a prominent city gate of Magdeburg, Germany, embodies the historical essence of this city."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

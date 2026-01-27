@@ -3,7 +3,7 @@ title: "Werk Pleitenberg"
 site_name: "Werk Pleitenberg"
 date: 2026-01-26
 draft: false
-description: "Teil der preußischen Festung Koblenz"
+description: "Werk Pleitenberg is a vital piece of the historic fortifications that comprise the Prussian fortress of Koblenz, located in the picturesque region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fortification"

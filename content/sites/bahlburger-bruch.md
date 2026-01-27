@@ -3,7 +3,7 @@ title: "Bahlburger Bruch"
 site_name: "Bahlburger Bruch"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bahlburger Bruch is a nature reserve located in Lower Saxony, Germany, specifically in the region of Garstedt."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

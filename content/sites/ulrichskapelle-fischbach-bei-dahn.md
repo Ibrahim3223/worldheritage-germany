@@ -3,7 +3,7 @@ title: "Ulrichskapelle (Fischbach bei Dahn)"
 site_name: "Ulrichskapelle (Fischbach bei Dahn)"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Ulrichskapelle, a serene chapel located in Fischbach bei Dahn, Germany, invites visitors to explore its tranquil surroundings and reflect on its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Prinzregentenplatz in Augsburg"
 site_name: "Prinzregentenplatz in Augsburg"
 date: 2026-01-26
 draft: false
-description: "place in Prinzregentenplatz in Augsburg"
+description: "Prinzregentenplatz is a central square located in the heart of Augsburg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

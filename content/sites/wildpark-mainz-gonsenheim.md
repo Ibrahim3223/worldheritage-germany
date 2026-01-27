@@ -3,7 +3,7 @@ title: "Wildpark Mainz-Gonsenheim"
 site_name: "Wildpark Mainz-Gonsenheim"
 date: 2026-01-26
 draft: false
-description: "Wildpark im Mainzer Stadtteil Gonsenheim"
+description: "Wildpark Mainz-Gonsenheim offers an engaging experience for visitors of all ages, situated in the vibrant city of Mainz, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Zoo"

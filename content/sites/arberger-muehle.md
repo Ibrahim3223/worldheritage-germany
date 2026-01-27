@@ -3,7 +3,7 @@ title: "Arberger Mühle"
 site_name: "Arberger Mühle"
 date: 2026-01-26
 draft: false
-description: "windmill in Bremen, Germany"
+description: "Arberger Mühle is a striking windmill located in the Hemelingen district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

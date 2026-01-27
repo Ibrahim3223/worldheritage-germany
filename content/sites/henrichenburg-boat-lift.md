@@ -3,7 +3,7 @@ title: "Henrichenburg boat lift"
 site_name: "Henrichenburg boat lift"
 date: 2026-01-26
 draft: false
-description: "boat lift"
+description: "The Henrichenburg boat lift, located in the charming town of Waltrop, Germany, stands as a remarkable feat of engineering that has captured the imagination..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

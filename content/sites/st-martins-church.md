@@ -3,7 +3,7 @@ title: "St. Martin's Church"
 site_name: "St. Martin's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Landshut, Bavaria, Germany"
+description: "St. Martin's Church, situated in the charming town of Landshut, Bavaria, Germany, is a remarkable example of Gothic architecture that captures the essence..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

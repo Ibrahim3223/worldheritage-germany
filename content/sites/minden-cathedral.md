@@ -3,7 +3,7 @@ title: "Minden Cathedral"
 site_name: "Minden Cathedral"
 date: 2026-01-26
 draft: false
-description: "church in Minden, Germany"
+description: "Minden Cathedral, a prominent church located in Minden, Germany, serves as an important religious and cultural landmark within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

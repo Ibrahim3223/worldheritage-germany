@@ -3,7 +3,7 @@ title: "Moritzkirche"
 site_name: "Moritzkirche"
 date: 2026-01-26
 draft: false
-description: "late-Gothic church in Halle (Saale), Saxony-Anhalt, Germany"
+description: "Moritzkirche, a stunning late-Gothic church located in Halle (Saale), Saxony-Anhalt, Germany, is a remarkable example of medieval architecture that draws..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

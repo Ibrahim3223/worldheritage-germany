@@ -3,7 +3,7 @@ title: "Gedenkstein Altes Gewerkschaftshaus Hannover"
 site_name: "Gedenkstein Altes Gewerkschaftshaus Hannover"
 date: 2026-01-26
 draft: false
-description: "memorial stone in Hannover, Germany"
+description: "Gedenkstein Altes Gewerkschaftshaus Hannover is a poignant memorial located in the heart of Hanover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

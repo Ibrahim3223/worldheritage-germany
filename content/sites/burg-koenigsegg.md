@@ -3,7 +3,7 @@ title: "Burg Königsegg"
 site_name: "Burg Königsegg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Königsegg, a remarkable castle situated in Guggenhausen, Germany, invites visitors to explore its historical significance and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

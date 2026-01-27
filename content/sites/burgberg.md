@@ -3,7 +3,7 @@ title: "Burgberg"
 site_name: "Burgberg"
 date: 2026-01-26
 draft: false
-description: "hill in Hesse, Germany."
+description: "Burgberg, an impressive hill in Hesse, Germany, serves as the site for an intriguing castle that captures the imagination of history enthusiasts and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

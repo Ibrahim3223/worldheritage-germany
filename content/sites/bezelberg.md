@@ -3,7 +3,7 @@ title: "Bezelberg"
 site_name: "Bezelberg"
 date: 2026-01-26
 draft: false
-description: "mountain in Saxony, Germany"
+description: "Bezelberg, a mountain located in the heart of Saxony, Germany, presents an intriguing destination for outdoor enthusiasts and history buffs alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

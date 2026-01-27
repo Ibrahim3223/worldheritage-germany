@@ -3,7 +3,7 @@ title: "Baindt Abbey"
 site_name: "Baindt Abbey"
 date: 2026-01-26
 draft: false
-description: "monastery"
+description: "Baindt Abbey, situated in the quaint town of Baindt, Germany, offers a serene glimpse into monastic life and the spiritual heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

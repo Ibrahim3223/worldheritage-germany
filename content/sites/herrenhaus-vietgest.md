@@ -3,7 +3,7 @@ title: "Herrenhaus Vietgest"
 site_name: "Herrenhaus Vietgest"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Herrenhaus Vietgest is a striking manor house located in the Lalendorf region of Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Synagogue of Müllheim"
 site_name: "Synagogue of Müllheim"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The Synagogue of Müllheim, located in the quaint town of Müllheim im Markgräflerland, Germany, serves as a significant site of Jewish heritage and culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

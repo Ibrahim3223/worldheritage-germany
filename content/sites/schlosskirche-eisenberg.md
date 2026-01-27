@@ -3,7 +3,7 @@ title: "Schlosskirche Eisenberg"
 site_name: "Schlosskirche Eisenberg"
 date: 2026-01-26
 draft: false
-description: "church building in Germany"
+description: "Schlosskirche Eisenberg, a prominent church building located in the picturesque region of Eisenberg, Germany, invites travelers to explore its historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

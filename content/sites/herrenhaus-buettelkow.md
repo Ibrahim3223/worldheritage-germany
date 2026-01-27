@@ -3,7 +3,7 @@ title: "Herrenhaus Büttelkow"
 site_name: "Herrenhaus Büttelkow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Mecklenburg-Vorpommern"
+description: "Herrenhaus Büttelkow is an elegant manor house situated in the serene region of Biendorf, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

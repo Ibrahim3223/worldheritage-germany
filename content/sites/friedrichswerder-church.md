@@ -3,7 +3,7 @@ title: "Friedrichswerder Church"
 site_name: "Friedrichswerder Church"
 date: 2026-01-26
 draft: false
-description: "Neo-Gothic church in Berlin"
+description: "Friedrichswerder Church is a remarkable neo-Gothic edifice located in the Bezirk Mitte district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

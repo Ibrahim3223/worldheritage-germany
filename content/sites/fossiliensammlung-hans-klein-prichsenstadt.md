@@ -3,7 +3,7 @@ title: "Fossiliensammlung Hans Klein, Prichsenstadt"
 site_name: "Fossiliensammlung Hans Klein, Prichsenstadt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fossiliensammlung Hans Klein in Prichsenstadt is a unique museum that invites visitors to delve into the captivating world of paleontology."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Deutsches Brauereimuseum"
 site_name: "Deutsches Brauereimuseum"
 date: 2026-01-26
 draft: false
-description: "former museum in Munich, Germany"
+description: "The Deutsches Brauereimuseum, located in the vibrant city of Munich, Germany, represents a significant chapter in the narrative of brewing culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

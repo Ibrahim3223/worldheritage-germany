@@ -3,7 +3,7 @@ title: "Brüderkirche"
 site_name: "Brüderkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Brüderkirche, a notable church building located in the heart of Altenburg, Germany, serves as a significant landmark that draws visitors with its..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

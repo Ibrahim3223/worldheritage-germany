@@ -3,7 +3,7 @@ title: "Marienkirche Hanau"
 site_name: "Marienkirche Hanau"
 date: 2026-01-26
 draft: false
-description: "church building in Hanau, Germany"
+description: "Marienkirche Hanau is a notable church building located in the heart of Hanau, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Czech Centre in Berlin"
 site_name: "Czech Centre in Berlin"
 date: 2026-01-26
 draft: false
-description: ""
+description: "In the heart of Berlin, the Czech Centre serves as a vibrant cultural institution that fosters a deeper understanding of Czech culture and heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"

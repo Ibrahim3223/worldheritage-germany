@@ -3,7 +3,7 @@ title: "Leuchtturm Obereversand"
 site_name: "Leuchtturm Obereversand"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
+description: "The Leuchtturm Obereversand, located in the picturesque region of Wurster Nordseeküste in Lower Saxony, Germany, stands as a prominent lighthouse guiding..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

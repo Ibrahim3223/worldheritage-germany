@@ -3,7 +3,7 @@ title: "Pulverturm, Leutkirch im Allgäu"
 site_name: "Pulverturm, Leutkirch im Allgäu"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Pulverturm in Leutkirch im Allgäu is a striking tower that embodies the historical and architectural heritage of this charming German town."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Schloss Lembeck"
 site_name: "Schloss Lembeck"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Schloss Lembeck, a magnificent castle located in the charming town of Dorsten, Germany, offers visitors a glimpse into the past while serving as a vital..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "St. Alban (Stillnau)"
 site_name: "St. Alban (Stillnau)"
 date: 2026-01-26
 draft: false
-description: "church in Stillnau"
+description: "St. Alban (Stillnau) is a church building located in the quaint area of Stillnau, in Bissingen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

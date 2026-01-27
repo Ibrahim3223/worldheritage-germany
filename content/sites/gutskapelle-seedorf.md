@@ -3,7 +3,7 @@ title: "Gutskapelle Seedorf"
 site_name: "Gutskapelle Seedorf"
 date: 2026-01-26
 draft: false
-description: "church building in Jerichow, Saxony-Anhalt, Germany"
+description: "The Gutskapelle Seedorf, located in the picturesque region of Jerichow in Saxony-Anhalt, Germany, serves as a vital piece of the area's cultural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Chapel"

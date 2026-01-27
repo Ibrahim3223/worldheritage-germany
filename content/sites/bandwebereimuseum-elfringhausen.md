@@ -3,7 +3,7 @@ title: "Bandwebereimuseum Elfringhausen"
 site_name: "Bandwebereimuseum Elfringhausen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the historic town of Hattingen in Germany, the Bandwebereimuseum Elfringhausen serves as a dedicated homage to the textile industry, particularly..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

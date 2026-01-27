@@ -3,7 +3,7 @@ title: "Park an der Ilm"
 site_name: "Park an der Ilm"
 date: 2026-01-26
 draft: false
-description: "Park in Weimar, Germany"
+description: "Park an der Ilm is a serene English garden situated in Weimar, Germany, that invites visitors to experience the harmonious balance between nature and design."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "English Garden"

@@ -3,7 +3,7 @@ title: "Großer Tiergarten"
 site_name: "Großer Tiergarten"
 date: 2026-01-26
 draft: false
-description: "park in Berlin, Germany"
+description: "Großer Tiergarten, an expansive park located in the heart of Berlin, Germany, serves as both a serene escape and a vibrant cultural hub."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Park"

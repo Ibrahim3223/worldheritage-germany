@@ -3,7 +3,7 @@ title: "Burg Kleinvernich"
 site_name: "Burg Kleinvernich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kleinvernich, located in the charming region of Weilerswist, Germany, presents an intriguing glimpse into the country's medieval heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

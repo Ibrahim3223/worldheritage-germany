@@ -3,7 +3,7 @@ title: "Schloss Demerthin"
 site_name: "Schloss Demerthin"
 date: 2026-01-26
 draft: false
-description: "renaissance castle in Brandenburg, Germany"
+description: "Schloss Demerthin, a captivating Renaissance castle located in the serene region of Gumtow, Germany, is a remarkable testament to the architectural and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

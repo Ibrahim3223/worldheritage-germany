@@ -3,7 +3,7 @@ title: "Eisenbahnbrücke Durchwehna"
 site_name: "Eisenbahnbrücke Durchwehna"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Eisenbahnbrücke Durchwehna is a remarkable bridge located in Laußig, Germany, serving as an essential part of the region's infrastructure."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Bridge"

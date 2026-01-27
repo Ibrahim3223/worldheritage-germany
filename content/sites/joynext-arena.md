@@ -3,7 +3,7 @@ title: "Joynext Arena"
 site_name: "Joynext Arena"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in the Dresden district of Friedrichstadt"
+description: "Joynext Arena, located in the vibrant district of Friedrichstadt in Dresden, Germany, serves as a multi-purpose hall that plays a pivotal role in the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

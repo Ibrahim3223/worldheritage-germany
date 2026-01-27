@@ -3,7 +3,7 @@ title: "Forest Museum Oberlausitz"
 site_name: "Forest Museum Oberlausitz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Forest Museum Oberlausitz serves as a captivating gateway to understanding the deep-rooted connections between humanity and nature within the enchanting..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Farrenpoint"
 site_name: "Farrenpoint"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Farrenpoint, located in the picturesque region of Bad Feilnbach, Germany, is a mountain that offers an intriguing blend of natural beauty and outdoor adventure."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

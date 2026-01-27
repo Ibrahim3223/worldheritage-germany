@@ -3,7 +3,7 @@ title: "Stadthalle Weißenfels"
 site_name: "Stadthalle Weißenfels"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Weißenfels, Germany"
+description: "Stadthalle Weißenfels, a prominent multi-purpose hall located in the heart of Weißenfels, Germany, serves as a cultural and social hub for the region."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

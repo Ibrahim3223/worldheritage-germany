@@ -3,7 +3,7 @@ title: "Hallertauer Hopfen- und Heimatmuseum"
 site_name: "Hallertauer Hopfen- und Heimatmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Hallertauer Hopfen- und Heimatmuseum is a unique cultural institution located in Geisenfeld, Germany, dedicated to the history and significance of hop..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

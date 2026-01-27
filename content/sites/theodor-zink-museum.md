@@ -3,7 +3,7 @@ title: "Theodor-Zink-Museum"
 site_name: "Theodor-Zink-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Kaiserslautern, Germany"
+description: "The Theodor-Zink-Museum, located in the heart of Kaiserslautern, Germany, offers a window into the region's vibrant cultural history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

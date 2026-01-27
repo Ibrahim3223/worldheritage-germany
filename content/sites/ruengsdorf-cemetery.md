@@ -3,7 +3,7 @@ title: "Rüngsdorf Cemetery"
 site_name: "Rüngsdorf Cemetery"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bonn, Germany"
+description: "Rüngsdorf Cemetery, located in the charming district of Bad Godesberg in Bonn, Germany, serves as a poignant reminder of the lives that have shaped the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

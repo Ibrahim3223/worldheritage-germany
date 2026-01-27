@@ -3,7 +3,7 @@ title: "Memorial and Education Centre Andreasstrasse"
 site_name: "Memorial and Education Centre Andreasstrasse"
 date: 2026-01-26
 draft: false
-description: "Stasi Prison Museum"
+description: "The Memorial and Education Centre Andreasstrasse serves as a poignant reminder of a tumultuous chapter in German history, specifically focusing on the..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

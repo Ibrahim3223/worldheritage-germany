@@ -3,7 +3,7 @@ title: "Eschbach Dam"
 site_name: "Eschbach Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Eschbach Dam, located in the scenic region of Remscheid, Germany, is a remarkable feat of engineering that not only serves a vital purpose but also..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

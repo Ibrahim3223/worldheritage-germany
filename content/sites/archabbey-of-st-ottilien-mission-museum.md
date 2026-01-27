@@ -3,7 +3,7 @@ title: "Archabbey of St. Ottilien Mission Museum"
 site_name: "Archabbey of St. Ottilien Mission Museum"
 date: 2026-01-26
 draft: false
-description: "museum in St. Ottilien near Eresing, Bavaria, Germany"
+description: "The Archabbey of St. Ottilien Mission Museum serves as a captivating entry point into the world of Benedictine monastic life and missionary work."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

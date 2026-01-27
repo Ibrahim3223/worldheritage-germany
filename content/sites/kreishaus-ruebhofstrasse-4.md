@@ -3,7 +3,7 @@ title: "Kreishaus Rübhofstraße 4"
 site_name: "Kreishaus Rübhofstraße 4"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Osterholz-Scharmbeck"
+description: "Kreishaus Rübhofstraße 4, located in the heart of Osterholz-Scharmbeck, serves as a central hub for local governance and community activities."
 region: "Bremen"
 country: "Germany"
 heritage_type: "City Hall"

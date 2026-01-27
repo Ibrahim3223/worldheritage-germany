@@ -3,7 +3,7 @@ title: "Mainz Römisches Theater station"
 site_name: "Mainz Römisches Theater station"
 date: 2026-01-26
 draft: false
-description: "railway station in Mainz, Germany"
+description: "In the heart of Mainz, Germany, the Mainz Römisches Theater station serves as a pivotal junction in the city's robust railway network."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Railway Station"

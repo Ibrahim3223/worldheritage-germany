@@ -3,7 +3,7 @@ title: "Edelburg"
 site_name: "Edelburg"
 date: 2026-01-26
 draft: false
-description: "manor house and human settlement in Germany"
+description: "Edelburg is a striking manor house located in Hemer, Germany, that captures the essence of historical architecture and human settlement in this picturesque..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

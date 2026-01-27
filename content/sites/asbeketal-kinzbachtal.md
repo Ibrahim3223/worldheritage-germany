@@ -3,7 +3,7 @@ title: "Asbeketal-Kinzbachtal"
 site_name: "Asbeketal-Kinzbachtal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Germany"
+description: "Asbeketal-Kinzbachtal is a prominent nature reserve located in the Herford region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

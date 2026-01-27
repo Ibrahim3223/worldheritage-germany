@@ -3,7 +3,7 @@ title: "Zeche Braut in Fleckessiepen"
 site_name: "Zeche Braut in Fleckessiepen"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Braut in Fleckessiepen, located in the heart of Essen, Germany, is a significant historical site that highlights the industrial heritage of the Ruhr area."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

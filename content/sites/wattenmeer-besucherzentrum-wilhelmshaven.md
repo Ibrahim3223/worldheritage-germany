@@ -3,7 +3,7 @@ title: "Wattenmeer Besucherzentrum Wilhelmshaven"
 site_name: "Wattenmeer Besucherzentrum Wilhelmshaven"
 date: 2026-01-26
 draft: false
-description: "museum in Wilhelmshaven, Germany"
+description: "The Wattenmeer Besucherzentrum Wilhelmshaven serves as a pivotal gateway to understanding the unique ecosystems and cultural heritage of the Wadden Sea, a..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

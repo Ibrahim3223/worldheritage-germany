@@ -3,7 +3,7 @@ title: "Windmühle (Weimar)"
 site_name: "Windmühle (Weimar)"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Weimar"
+description: "The Windmühle in Weimar is more than just a functional windmill; it represents a significant piece of the region's industrial heritage."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Windmill"

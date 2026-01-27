@@ -3,7 +3,7 @@ title: "Kapelle St. Ulrich (Egling a.d.Paar)"
 site_name: "Kapelle St. Ulrich (Egling a.d.Paar)"
 date: 2026-01-26
 draft: false
-description: "building in Egling an der Paar (Germany)"
+description: "Kapelle St. Ulrich, located in the tranquil setting of Egling an der Paar in Germany, offers visitors a unique glimpse into the region's spiritual heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

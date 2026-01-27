@@ -3,7 +3,7 @@ title: "Martin-Gropius-Bau"
 site_name: "Martin-Gropius-Bau"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Located in the vibrant district of Friedrichshain-Kreuzberg, Martin-Gropius-Bau is a prominent museum in Berlin that offers a dynamic platform for the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

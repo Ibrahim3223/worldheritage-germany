@@ -3,7 +3,7 @@ title: "Pankow village church"
 site_name: "Pankow village church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Pankow village church, located in the Pankow district of Berlin, Germany, is a noteworthy example of ecclesiastical architecture that reflects the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

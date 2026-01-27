@@ -3,7 +3,7 @@ title: "Hallohkapelle"
 site_name: "Hallohkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Hallohkapelle, a serene chapel located in the picturesque region of Meschede, Germany, serves as a significant spiritual and cultural landmark."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

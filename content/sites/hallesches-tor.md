@@ -3,7 +3,7 @@ title: "Hallesches Tor"
 site_name: "Hallesches Tor"
 date: 2026-01-26
 draft: false
-description: "former city gate in Berlin, Germany"
+description: "Hallesches Tor, a significant historical landmark in Berlin, Germany, serves as a poignant reminder of the city's rich past and architectural evolution."
 region: "Berlin"
 country: "Germany"
 heritage_type: "City Gate"

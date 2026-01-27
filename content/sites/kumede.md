@@ -3,7 +3,7 @@ title: "Kumede"
 site_name: "Kumede"
 date: 2026-01-26
 draft: false
-description: "theatre in Cologne, North Rhine-Westphalia, Germany"
+description: "Kumede is a distinguished theatre building located in the Altstadt-Süd district of Cologne, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Ellerhoop-Thiensen Arboretum"
 site_name: "Ellerhoop-Thiensen Arboretum"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Ellerhoop-Thiensen Arboretum is a botanical garden located in the charming village of Ellerhoop, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

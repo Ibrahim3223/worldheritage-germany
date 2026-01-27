@@ -3,7 +3,7 @@ title: "Reichenbach Priory"
 site_name: "Reichenbach Priory"
 date: 2026-01-26
 draft: false
-description: "abbey in Baiersbronn, Baden-Württemberg, Germany"
+description: "Reichenbach Priory, located in the picturesque town of Baiersbronn in Baden-Württemberg, Germany, is an exceptional example of a historical monastery that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

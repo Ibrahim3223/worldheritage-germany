@@ -3,7 +3,7 @@ title: "Palais für aktuelle Kunst"
 site_name: "Palais für aktuelle Kunst"
 date: 2026-01-26
 draft: false
-description: "building and art museum in Glückstadt, Germany"
+description: "The Palais für aktuelle Kunst, located in the charming town of Glückstadt, Germany, serves as a vibrant canvas for contemporary art, showcasing innovative..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

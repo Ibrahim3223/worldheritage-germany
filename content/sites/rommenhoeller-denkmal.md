@@ -3,7 +3,7 @@ title: "Rommenhöller-Denkmal"
 site_name: "Rommenhöller-Denkmal"
 date: 2026-01-26
 draft: false
-description: "monument in Bad Driburg, Germany"
+description: "The Rommenhöller-Denkmal, a notable monument located in Bad Driburg, Germany, stands as a significant marker in the landscape of cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

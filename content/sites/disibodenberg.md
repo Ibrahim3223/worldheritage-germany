@@ -3,7 +3,7 @@ title: "Disibodenberg"
 site_name: "Disibodenberg"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Disibodenberg, a historic abbey located in Odernheim am Glan, Germany, offers a glimpse into the monastic life that shaped much of medieval Europe."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

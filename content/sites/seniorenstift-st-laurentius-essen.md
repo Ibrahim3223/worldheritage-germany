@@ -3,7 +3,7 @@ title: "Seniorenstift St. Laurentius Essen"
 site_name: "Seniorenstift St. Laurentius Essen"
 date: 2026-01-26
 draft: false
-description: "Seniorenheim in Essen, Nordrhein-Westfalen"
+description: "In the heart of Essen, Nordrhein-Westfalen, Seniorenstift St. Laurentius stands as a significant foundation dedicated to providing care and support for the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

@@ -3,7 +3,7 @@ title: "Burg Hohenkarpfen"
 site_name: "Burg Hohenkarpfen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hohenkarpfen, an intriguing castle located in Hausen ob Verena, Germany, invites visitors to immerse themselves in a landscape steeped in history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

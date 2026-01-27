@@ -3,7 +3,7 @@ title: "Stephanuskirche (Wolfsburg)"
 site_name: "Stephanuskirche (Wolfsburg)"
 date: 2026-01-26
 draft: false
-description: "church in Wolfsburg, Germany"
+description: "Stephanuskirche, a church building located in the modern city of Wolfsburg, Germany, presents a fascinating study in both architecture and community..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

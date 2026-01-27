@@ -3,7 +3,7 @@ title: "Richard-Strauss-Brunnen"
 site_name: "Richard-Strauss-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Germany"
+description: "The Richard-Strauss-Brunnen is a celebrated fountain located in the heart of Altstadt-Lehel in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

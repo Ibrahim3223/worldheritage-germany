@@ -3,7 +3,7 @@ title: "Friedländer Tor"
 site_name: "Friedländer Tor"
 date: 2026-01-26
 draft: false
-description: "city gate in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
+description: "The Friedländer Tor is a striking example of historical architecture, representing one of the city gates of Neubrandenburg, located in the picturesque..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Gate"

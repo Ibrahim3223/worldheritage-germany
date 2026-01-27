@@ -3,7 +3,7 @@ title: "Zickelburg"
 site_name: "Zickelburg"
 date: 2026-01-26
 draft: false
-description: "mountain in the Westerwald mountain range, Germany"
+description: "Zickelburg is a prominent mountain located in the Westerwald mountain range of Germany, specifically within the picturesque region of Bad Honnef."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

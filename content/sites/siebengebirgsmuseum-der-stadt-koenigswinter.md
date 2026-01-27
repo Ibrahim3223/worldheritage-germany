@@ -3,7 +3,7 @@ title: "Siebengebirgsmuseum der Stadt Königswinter"
 site_name: "Siebengebirgsmuseum der Stadt Königswinter"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Siebengebirgsmuseum der Stadt Königswinter offers a profound insight into the cultural heritage of the region surrounding the picturesque town of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

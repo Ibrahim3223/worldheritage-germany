@@ -3,7 +3,7 @@ title: "Burg Linzenich"
 site_name: "Burg Linzenich"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Linzenich, a striking castle located in the Zülpich region of Germany, invites travelers to explore its storied past and architectural beauty."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Suermondt-Ludwig-Museum"
 site_name: "Suermondt-Ludwig-Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Aachen, Germany"
+description: "The Suermondt-Ludwig-Museum, located in the heart of Aachen, Germany, is a distinguished art museum that showcases a diverse collection of artworks spanning..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

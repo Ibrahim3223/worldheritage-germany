@@ -3,7 +3,7 @@ title: "Osthofentor"
 site_name: "Osthofentor"
 date: 2026-01-26
 draft: false
-description: "city gate and museum in Germany"
+description: "Osthofentor, a compelling combination of museum and historical city gate, invites visitors to explore the rich heritage of Soest, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Luisentempel"
 site_name: "Luisentempel"
 date: 2026-01-26
 draft: false
-description: "monument in Harzgerode, Saxony-Anhalt, Germany"
+description: "Luisentempel stands as an evocative monument in Harzgerode, Saxony-Anhalt, Germany, reflecting both the architectural and cultural heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

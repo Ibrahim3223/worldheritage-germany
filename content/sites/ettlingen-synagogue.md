@@ -3,7 +3,7 @@ title: "Ettlingen Synagogue"
 site_name: "Ettlingen Synagogue"
 date: 2026-01-26
 draft: false
-description: "German synagogue"
+description: "Ettlingen Synagogue, located in the serene town of Ettlingen, Germany, is a significant site that reflects the historical presence of Jewish communities in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

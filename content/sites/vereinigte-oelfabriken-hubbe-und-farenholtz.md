@@ -3,7 +3,7 @@ title: "Vereinigte Ölfabriken Hubbe und Farenholtz"
 site_name: "Vereinigte Ölfabriken Hubbe und Farenholtz"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Industrieunternehmen und Fabrik in Magdeburg"
+description: "The Vereinigte Ölfabriken Hubbe und Farenholtz, located in the vibrant region of Magdeburg, Germany, is a historical factory that offers a glimpse into the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"

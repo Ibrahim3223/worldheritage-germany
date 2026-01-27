@@ -3,7 +3,7 @@ title: "Jahrtausendturm"
 site_name: "Jahrtausendturm"
 date: 2026-01-26
 draft: false
-description: "tower in Magdeburg"
+description: "The Jahrtausendturm, or Millennium Tower, rises proudly in Magdeburg, Germany, symbolizing the intersection of history, science, and architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

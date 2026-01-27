@@ -3,7 +3,7 @@ title: "Würzburg Residence with the Court Gardens and Residence Square"
 site_name: "Würzburg Residence with the Court Gardens and Residence Square"
 date: 2026-01-26
 draft: false
-description: "World Heritage site in Germany"
+description: "The Würzburg Residence with the Court Gardens and Residence Square stands as a remarkable architectural ensemble in Würzburg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

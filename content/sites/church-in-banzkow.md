@@ -3,7 +3,7 @@ title: "Church in Banzkow"
 site_name: "Church in Banzkow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Banzkow is a prominent religious structure situated in the quaint town of Banzkow in Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Allersberg (Rothsee)"
 site_name: "Allersberg (Rothsee)"
 date: 2026-01-26
 draft: false
-description: "railway halt in the district of Roth, Middle Franconia, Germany"
+description: "Allersberg (Rothsee) is a quaint railway halt located in the picturesque district of Roth, in Middle Franconia, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Haus am Horn"
 site_name: "Haus am Horn"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Haus am Horn, an iconic architectural structure located in Weimar, Germany, serves as a significant cultural touchstone that embodies the principles of..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

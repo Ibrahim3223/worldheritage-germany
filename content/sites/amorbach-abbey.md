@@ -3,7 +3,7 @@ title: "Amorbach Abbey"
 site_name: "Amorbach Abbey"
 date: 2026-01-26
 draft: false
-description: "former Benedictine monastery in Amorbach, Bavaria"
+description: "Amorbach Abbey is a former Benedictine monastery located in the charming town of Amorbach, Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Städtische Galerie im Schlosspark Strünkede"
 site_name: "Städtische Galerie im Schlosspark Strünkede"
 date: 2026-01-26
 draft: false
-description: "Herne, Arnsberg, Germany"
+description: "In the heart of Herne, Germany, the Städtische Galerie im Schlosspark Strünkede serves as a prominent cultural institution dedicated to the promotion and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "ZF-Arena Friedrichshafen"
 site_name: "ZF-Arena Friedrichshafen"
 date: 2026-01-26
 draft: false
-description: "multi purpose arena in Friedrichshafen"
+description: "The ZF-Arena Friedrichshafen serves as a significant cultural and recreational hub in the heart of Friedrichshafen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

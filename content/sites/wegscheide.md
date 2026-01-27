@@ -3,7 +3,7 @@ title: "Wegscheide"
 site_name: "Wegscheide"
 date: 2026-01-26
 draft: false
-description: "mountain pass in Odenwald, Germany"
+description: "Wegscheide is a noteworthy mountain pass located in the Odenwald region of Germany, specifically within the Fürth district."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

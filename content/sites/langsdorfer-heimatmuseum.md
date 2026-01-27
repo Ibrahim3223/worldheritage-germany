@@ -3,7 +3,7 @@ title: "Langsdorfer Heimatmuseum"
 site_name: "Langsdorfer Heimatmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Germany, the Langsdorfer Heimatmuseum serves as a vital cultural institution, dedicated to preserving and showcasing the unique..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

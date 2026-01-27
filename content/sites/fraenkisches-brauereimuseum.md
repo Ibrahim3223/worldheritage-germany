@@ -3,7 +3,7 @@ title: "Fränkisches Brauereimuseum"
 site_name: "Fränkisches Brauereimuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the heart of Bamberg, Germany, the Fränkisches Brauereimuseum stands as a remarkable tribute to the region's storied brewing tradition."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

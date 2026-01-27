@@ -3,7 +3,7 @@ title: "Europäisches Spargelmuseum"
 site_name: "Europäisches Spargelmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "In the charming town of Schrobenhausen, Germany, visitors will find the Europäisches Spargelmuseum, a unique museum dedicated to the cultural and culinary..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

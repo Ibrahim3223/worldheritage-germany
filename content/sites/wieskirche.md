@@ -3,7 +3,7 @@ title: "Wieskirche"
 site_name: "Wieskirche"
 date: 2026-01-26
 draft: false
-description: "Roman Catholic church in the municipality of Steingaden, Bavaria, Germany"
+description: "Wieskirche, also known as the Wies Church, is a striking example of Baroque architecture and an important pilgrimage site located in the municipality of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

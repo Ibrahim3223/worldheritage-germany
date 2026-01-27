@@ -3,7 +3,7 @@ title: "Loch Castle"
 site_name: "Loch Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Loch Castle, located in the picturesque region of Nittendorf, Germany, is a striking representation of medieval architecture and a fascinating glimpse into..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Deutschordensmuseum"
 site_name: "Deutschordensmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Deutschordensmuseum, located in the charming town of Bad Mergentheim, Germany, is a museum dedicated to the history and legacy of the Teutonic Order."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

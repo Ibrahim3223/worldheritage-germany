@@ -3,7 +3,7 @@ title: "Baggersee Greffener Mark"
 site_name: "Baggersee Greffener Mark"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
+description: "Baggersee Greffener Mark is a nature reserve located in Harsewinkel, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

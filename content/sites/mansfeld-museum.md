@@ -3,7 +3,7 @@ title: "Mansfeld-Museum"
 site_name: "Mansfeld-Museum"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Mansfeld-Museum in Hettstedt, Germany, is a unique cultural institution dedicated to preserving and showcasing the history and heritage of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

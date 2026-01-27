@@ -3,7 +3,7 @@ title: "Rathaus Undingen"
 site_name: "Rathaus Undingen"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Rathaus Undingen serves as a focal point for the community of Sonnenbühl, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

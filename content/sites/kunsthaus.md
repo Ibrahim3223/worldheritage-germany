@@ -3,7 +3,7 @@ title: "Kunsthaus"
 site_name: "Kunsthaus"
 date: 2026-01-26
 draft: false
-description: "art museum in Stade, Germany"
+description: "Kunsthaus, an art museum located in Stade, Germany, serves as a vital cultural institution, showcasing a diverse array of artistic expressions that reflect..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

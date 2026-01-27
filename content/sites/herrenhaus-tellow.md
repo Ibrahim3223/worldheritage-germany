@@ -3,7 +3,7 @@ title: "Herrenhaus Tellow"
 site_name: "Herrenhaus Tellow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Herrenhaus Tellow, a historic manor house located in the tranquil region of Warnkenhagen, Germany, offers a glimpse into the architectural and cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

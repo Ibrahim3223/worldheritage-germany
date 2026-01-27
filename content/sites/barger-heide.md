@@ -3,7 +3,7 @@ title: "Barger Heide"
 site_name: "Barger Heide"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Located in the picturesque Stade region of Lower Saxony, Germany, Barger Heide is a notable nature reserve (Naturschutzgebiet) that offers visitors a serene..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

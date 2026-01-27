@@ -3,7 +3,7 @@ title: "Lingen (Ems) station"
 site_name: "Lingen (Ems) station"
 date: 2026-01-26
 draft: false
-description: "railway station in Lingen, Germany"
+description: "Lingen (Ems) station serves as a vital transportation hub in the charming town of Lingen, located in the Lower Saxony region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

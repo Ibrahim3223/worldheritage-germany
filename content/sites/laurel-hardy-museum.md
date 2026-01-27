@@ -3,7 +3,7 @@ title: "Laurel & Hardy Museum"
 site_name: "Laurel & Hardy Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Laurel & Hardy Museum, located in Germany, is a dedicated homage to the iconic comedy duo, Stan Laurel and Oliver Hardy."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

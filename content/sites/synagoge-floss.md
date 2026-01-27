@@ -3,7 +3,7 @@ title: "Synagoge (Floß)"
 site_name: "Synagoge (Floß)"
 date: 2026-01-26
 draft: false
-description: "synagogue in Floß, Upper Palatinate, Germany"
+description: "The Synagoge in Floß serves as a poignant reminder of the Jewish heritage in the region of Upper Palatinate, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Synagogue"

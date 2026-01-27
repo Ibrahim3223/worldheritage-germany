@@ -3,7 +3,7 @@ title: "Hoyerberg transmitter"
 site_name: "Hoyerberg transmitter"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Hoyerberg transmitter stands as a prominent tower located in the Lindau region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

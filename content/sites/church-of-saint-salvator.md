@@ -3,7 +3,7 @@ title: "Church of Saint Salvator"
 site_name: "Church of Saint Salvator"
 date: 2026-01-26
 draft: false
-description: "church in Munich, Germany"
+description: "The Church of Saint Salvator, located in the heart of Munich, Germany, serves as a significant landmark within the city’s vibrant cultural landscape."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

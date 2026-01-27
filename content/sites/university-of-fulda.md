@@ -3,7 +3,7 @@ title: "University of Fulda"
 site_name: "University of Fulda"
 date: 2026-01-26
 draft: false
-description: "former university"
+description: "The University of Fulda, located in the eastern part of Germany, is an institution that has played a significant role in the educational landscape of the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "University"

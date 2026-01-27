@@ -3,7 +3,7 @@ title: "Grenzau Castle"
 site_name: "Grenzau Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Grenzau Castle, a striking historical structure located in the Höhr-Grenzhausen region of Germany, offers visitors an intriguing glimpse into the past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

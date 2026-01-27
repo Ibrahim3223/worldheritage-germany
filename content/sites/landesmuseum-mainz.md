@@ -3,7 +3,7 @@ title: "Landesmuseum Mainz"
 site_name: "Landesmuseum Mainz"
 date: 2026-01-26
 draft: false
-description: "museum in Mainz, Germany"
+description: "The Landesmuseum Mainz serves as a cultural cornerstone in the heart of Mainz, Germany, offering visitors an in-depth exploration of the region's history..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

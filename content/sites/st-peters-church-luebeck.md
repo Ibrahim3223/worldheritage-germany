@@ -3,7 +3,7 @@ title: "St. Peter's Church (Lübeck)"
 site_name: "St. Peter's Church (Lübeck)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Peter's Church in Lübeck is a striking example of Gothic architecture, marking its presence in the heart of Lübeck's Old City."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

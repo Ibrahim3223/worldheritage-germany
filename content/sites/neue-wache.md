@@ -3,7 +3,7 @@ title: "Neue Wache"
 site_name: "Neue Wache"
 date: 2026-01-26
 draft: false
-description: "historical building in Berlin, Germany"
+description: "Located in the heart of Berlin, Neue Wache serves as a poignant memorial, dedicated to the victims of war and tyranny."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

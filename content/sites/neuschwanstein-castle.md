@@ -3,7 +3,7 @@ title: "Neuschwanstein Castle"
 site_name: "Neuschwanstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Bavaria, Germany, Europe"
+description: "Neuschwanstein Castle, an iconic palace in Bavaria, Germany, stands as a symbol of romantic architecture and a testament to King Ludwig II’s artistic vision."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

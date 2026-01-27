@@ -3,7 +3,7 @@ title: "Tabakmuseum Mahlberg"
 site_name: "Tabakmuseum Mahlberg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Mahlberg, Germany, lies the Tabakmuseum, a museum dedicated to the intriguing world of tobacco and its intricate journey from plant to product."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

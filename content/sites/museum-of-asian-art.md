@@ -3,7 +3,7 @@ title: "Museum of Asian Art"
 site_name: "Museum of Asian Art"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin, Germany"
+description: "In the heart of Berlin, the Museum of Asian Art stands as a significant institution dedicated to showcasing the diverse and intricate art from the Asian..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Gscheid"
 site_name: "Gscheid"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Gscheid is a notable mountain pass located in the scenic region of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

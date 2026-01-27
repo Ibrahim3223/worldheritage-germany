@@ -3,7 +3,7 @@ title: "Museumsstiftung Lüneburg"
 site_name: "Museumsstiftung Lüneburg"
 date: 2026-01-26
 draft: false
-description: "archive organization in Lüneburg, Germany"
+description: "In the heart of Lüneburg, Germany, the Museumsstiftung Lüneburg stands as a vital cultural institution dedicated to preserving and showcasing the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cultural Institution"

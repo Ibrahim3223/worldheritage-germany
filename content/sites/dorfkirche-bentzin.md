@@ -3,7 +3,7 @@ title: "Dorfkirche Bentzin"
 site_name: "Dorfkirche Bentzin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Bentzin serves as a striking example of church architecture in the quaint village of Bentzin, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

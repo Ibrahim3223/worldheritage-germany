@@ -3,7 +3,7 @@ title: "Struckmeier-Brunnen"
 site_name: "Struckmeier-Brunnen"
 date: 2026-01-26
 draft: false
-description: "Listed fountain in Hannover, Germany"
+description: "In the charming district of Südstadt-Bult in Hannover, Germany, the Struckmeier-Brunnen stands as a noteworthy example of urban infrastructure that marries..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

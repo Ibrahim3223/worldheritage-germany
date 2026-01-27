@@ -3,7 +3,7 @@ title: "Dessau-Wörlitz Garden Realm"
 site_name: "Dessau-Wörlitz Garden Realm"
 date: 2026-01-26
 draft: false
-description: "cultural landscape"
+description: "The Dessau-Wörlitz Garden Realm, a UNESCO World Heritage Site, is a stunning cultural landscape located in Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "World Heritage Site"

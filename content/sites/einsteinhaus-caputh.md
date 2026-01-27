@@ -3,7 +3,7 @@ title: "Einsteinhaus Caputh"
 site_name: "Einsteinhaus Caputh"
 date: 2026-01-26
 draft: false
-description: "from 1929 to 1932 house of Albert Einstein"
+description: "Einsteinhaus Caputh is a significant memorial located in the picturesque region of Schwielowsee, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

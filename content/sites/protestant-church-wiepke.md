@@ -3,7 +3,7 @@ title: "Protestant Church (Wiepke)"
 site_name: "Protestant Church (Wiepke)"
 date: 2026-01-26
 draft: false
-description: "church building in Gardelegen, Altmarkkreis Salzwedel, Saxony-Anhalt, Germany"
+description: "The Protestant Church in Wiepke is a notable church building located in the town of Gardelegen, situated in the Altmarkkreis Salzwedel region of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

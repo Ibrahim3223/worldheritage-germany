@@ -3,7 +3,7 @@ title: "Dithmarscher Landesmuseum"
 site_name: "Dithmarscher Landesmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Dithmarscher Landesmuseum, located in the heart of Meldorf, Germany, serves as a vital cultural institution dedicated to preserving and showcasing the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Ballhof"
 site_name: "Ballhof"
 date: 2026-01-26
 draft: false
-description: "theater in Hanover, Germany"
+description: "In the heart of Hanover, Germany, the Ballhof stands as a significant cultural landmark, inviting theatre enthusiasts and curious visitors alike to immerse..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Pomeranian State Museum"
 site_name: "Pomeranian State Museum"
 date: 2026-01-26
 draft: false
-description: "public museum primarily dedicated to Pomeranian history and arts"
+description: "The Pomeranian State Museum, located in the historic city of Greifswald, Germany, serves as a public institution that specializes in the history and arts of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"

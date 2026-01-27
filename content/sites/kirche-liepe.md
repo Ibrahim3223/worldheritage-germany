@@ -3,7 +3,7 @@ title: "Kirche Liepe"
 site_name: "Kirche Liepe"
 date: 2026-01-26
 draft: false
-description: "church building in Mecklenburg-Vorpommern, Germany"
+description: "Situated in the serene landscape of Mecklenburg-Vorpommern, Kirche Liepe is a significant church building located in the small locality of Rankwitz."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

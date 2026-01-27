@@ -3,7 +3,7 @@ title: "Ehemalige Produktionshallen, ehemalige Spinnerei- und Webereihallen"
 site_name: "Ehemalige Produktionshallen, ehemalige Spinnerei- und Webereihallen"
 date: 2026-01-26
 draft: false
-description: "Gebäude in Düren, Nordrhein-Westfalen, Deutschland"
+description: "The Ehemalige Produktionshallen, or former production halls, located in Düren, North Rhine-Westphalia, Germany, offer a glimpse into the region's industrial..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Factory"

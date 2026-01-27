@@ -3,7 +3,7 @@ title: "Carl-Loewe-Museum"
 site_name: "Carl-Loewe-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Löbejün, Saxony-Anhalt, Germany"
+description: "The Carl-Loewe-Museum, located in Löbejün, Saxony-Anhalt, Germany, is dedicated to the life and works of the notable composer and poet Carl Loewe."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

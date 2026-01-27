@@ -3,7 +3,7 @@ title: "Burg Geldern"
 site_name: "Burg Geldern"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geldern, an imposing castle located in the charming region of Geldern, Germany, captures the imagination of history enthusiasts and casual visitors..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

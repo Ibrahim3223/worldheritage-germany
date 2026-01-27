@@ -3,7 +3,7 @@ title: "Maisinger See"
 site_name: "Maisinger See"
 date: 2026-01-26
 draft: false
-description: "lake in Bavaria, Germany"
+description: "Maisinger See, a serene lake in Bavaria, Germany, invites visitors to immerse themselves in its tranquil waters and the lush landscapes that surround it."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

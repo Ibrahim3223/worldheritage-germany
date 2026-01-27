@@ -3,7 +3,7 @@ title: "Great Tower Neuwerk"
 site_name: "Great Tower Neuwerk"
 date: 2026-01-26
 draft: false
-description: "former beacon, watchtower and lighthouse in Germany"
+description: "Perched on the Elbe River’s banks, the Great Tower Neuwerk stands as a historical lighthouse, once serving as a beacon and watchtower."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"

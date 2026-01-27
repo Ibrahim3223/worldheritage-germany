@@ -3,7 +3,7 @@ title: "St.-Peter-Kirche in Altentreptow"
 site_name: "St.-Peter-Kirche in Altentreptow"
 date: 2026-01-26
 draft: false
-description: "church building in Altentreptow, Germany"
+description: "St.-Peter-Kirche in Altentreptow is a significant church building that stands as a focal point in the cultural and historical landscape of northeastern Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

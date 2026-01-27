@@ -3,7 +3,7 @@ title: "Burg Mühlenbach (Koblenz)"
 site_name: "Burg Mühlenbach (Koblenz)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Mühlenbach, a captivating castle located in the picturesque region of Koblenz, Germany, offers visitors a glimpse into the storied past of medieval..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

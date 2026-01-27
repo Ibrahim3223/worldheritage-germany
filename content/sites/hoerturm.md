@@ -3,7 +3,7 @@ title: "Hörturm"
 site_name: "Hörturm"
 date: 2026-01-26
 draft: false
-description: "former water tower in Brandenburg, Germany"
+description: "Situated in the heart of Brandenburg, Germany, the Hörturm is a striking former water tower that captures the architectural essence of the region."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Tower"

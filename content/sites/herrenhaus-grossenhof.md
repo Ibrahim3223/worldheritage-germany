@@ -3,7 +3,7 @@ title: "Herrenhaus Großenhof"
 site_name: "Herrenhaus Großenhof"
 date: 2026-01-26
 draft: false
-description: "Fachwerkgutshaus in der Gemeinde Warnow (Mecklenburg-Vorpommern)"
+description: "Herrenhaus Großenhof, a distinguished manor house located in the serene region of Warnow in Mecklenburg-Vorpommern, Germany, captures the essence of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

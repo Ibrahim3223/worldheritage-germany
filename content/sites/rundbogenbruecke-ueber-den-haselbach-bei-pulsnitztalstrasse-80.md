@@ -3,7 +3,7 @@ title: "Rundbogenbrücke über den Haselbach bei Pulsnitztalstraße 80"
 site_name: "Rundbogenbrücke über den Haselbach bei Pulsnitztalstraße 80"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Rundbogenbrücke über den Haselbach bei Pulsnitztalstraße 80 is a striking bridge located in the picturesque Haselbachtal region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

@@ -3,7 +3,7 @@ title: "St. Elisabeth"
 site_name: "St. Elisabeth"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Elisabeth is a notable church building located in the historic city of Freiburg im Breisgau, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

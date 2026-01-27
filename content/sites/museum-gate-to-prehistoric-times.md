@@ -3,7 +3,7 @@ title: "Museum Gate to prehistoric times"
 site_name: "Museum Gate to prehistoric times"
 date: 2026-01-26
 draft: false
-description: "Ice Age Museum in Brügge"
+description: "The Museum Gate to Prehistoric Times in Brügge, Germany, is an immersive Ice Age museum that invites visitors to explore the fascinating world of..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

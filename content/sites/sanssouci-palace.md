@@ -3,7 +3,7 @@ title: "Sanssouci Palace"
 site_name: "Sanssouci Palace"
 date: 2026-01-26
 draft: false
-description: "Palace in Brandenburg, Germany"
+description: "Sanssouci Palace is a remarkable structure located in Brandenburg, Germany, and serves as a significant example of 18th-century architecture and design."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Palace"

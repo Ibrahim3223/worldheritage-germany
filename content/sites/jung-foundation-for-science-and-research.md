@@ -3,7 +3,7 @@ title: "Jung Foundation for Science and Research"
 site_name: "Jung Foundation for Science and Research"
 date: 2026-01-26
 draft: false
-description: "other organization in Hamburg, Germany"
+description: "The Jung Foundation for Science and Research serves as a prominent institution in Hamburg, Germany, dedicated to the promotion and support of scientific..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Foundation"

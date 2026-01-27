@@ -3,7 +3,7 @@ title: "Leuphana University of Lüneburg"
 site_name: "Leuphana University of Lüneburg"
 date: 2026-01-26
 draft: false
-description: "public university in Lüneburg, Lower Saxony, Germany"
+description: "Leuphana University of Lüneburg, located in the historic city of Lüneburg, Germany, serves as an innovative educational institution dedicated to fostering..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

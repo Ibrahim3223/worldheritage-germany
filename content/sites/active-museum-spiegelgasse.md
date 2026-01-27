@@ -3,7 +3,7 @@ title: "Active Museum Spiegelgasse"
 site_name: "Active Museum Spiegelgasse"
 date: 2026-01-26
 draft: false
-description: "museum focused on German-Jewish history in Wiesbaden, Germany"
+description: "Active Museum Spiegelgasse is a vital institution dedicated to preserving and exploring the German-Jewish history of Wiesbaden, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Gymnasium Sedanstraße"
 site_name: "Gymnasium Sedanstraße"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Gymnasium Sedanstraße is an architectural structure located in Wuppertal, Germany, that serves as a vital educational institution in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "School Building"

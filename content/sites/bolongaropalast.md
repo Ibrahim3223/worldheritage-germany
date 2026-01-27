@@ -3,7 +3,7 @@ title: "Bolongaropalast"
 site_name: "Bolongaropalast"
 date: 2026-01-26
 draft: false
-description: "palace in Frankfurt, Germany"
+description: "Bolongaropalast, an exquisite palace located in Frankfurt-West, Germany, offers a glimpse into the architectural elegance and cultural richness of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

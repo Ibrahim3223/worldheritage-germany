@@ -3,7 +3,7 @@ title: "Frankenburger Mühle"
 site_name: "Frankenburger Mühle"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Frankenburger Mühle, located in the quaint region of Lilienthal in Germany, is a captivating windmill that captures the essence of traditional German..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Windmill"

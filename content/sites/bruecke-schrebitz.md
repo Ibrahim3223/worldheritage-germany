@@ -3,7 +3,7 @@ title: "Brücke Schrebitz"
 site_name: "Brücke Schrebitz"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Brücke Schrebitz is a captivating bridge located in the Saxony region of Germany, attracting visitors who are keen on exploring the architectural ingenuity..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

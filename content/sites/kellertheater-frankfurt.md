@@ -3,7 +3,7 @@ title: "Kellertheater Frankfurt"
 site_name: "Kellertheater Frankfurt"
 date: 2026-01-26
 draft: false
-description: "freies Theater in Frankfurt am Main"
+description: "The Kellertheater Frankfurt is a vibrant theatre building located in the heart of Frankfurt am Main, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Frühlinghauser Höhle"
 site_name: "Frühlinghauser Höhle"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Frühlinghauser Höhle, located in the picturesque region of Balve, Germany, is a captivating cave that draws visitors intrigued by its natural beauty and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cave"

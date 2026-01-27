@@ -3,7 +3,7 @@ title: "Amalienhof"
 site_name: "Amalienhof"
 date: 2026-01-26
 draft: false
-description: "Schloss in Sulzfeld"
+description: "Amalienhof, a distinguished manor house located in the charming town of Sulzfeld, Germany, offers visitors a glimpse into the elegance of historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Manor House"

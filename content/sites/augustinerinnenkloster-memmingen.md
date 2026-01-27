@@ -3,7 +3,7 @@ title: "Augustinerinnenkloster Memmingen"
 site_name: "Augustinerinnenkloster Memmingen"
 date: 2026-01-26
 draft: false
-description: "building in Memmingen, Swabia, Germany"
+description: "The Augustinerinnenkloster Memmingen, a significant cultural and historical site in Swabia, Germany, is a monastery that invites visitors to reflect on..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

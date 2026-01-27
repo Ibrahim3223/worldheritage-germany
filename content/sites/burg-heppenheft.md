@@ -3,7 +3,7 @@ title: "Burg Heppenheft"
 site_name: "Burg Heppenheft"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Heppenheft, located in Niederwallmenach, Germany, is an intriguing castle that encapsulates the historical essence of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

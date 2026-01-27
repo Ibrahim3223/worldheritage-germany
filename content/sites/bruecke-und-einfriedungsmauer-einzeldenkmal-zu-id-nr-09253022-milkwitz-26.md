@@ -3,7 +3,7 @@ title: "Brücke und Einfriedungsmauer (Einzeldenkmal zu ID-Nr. 09253022) Milkwit
 site_name: "Brücke und Einfriedungsmauer (Einzeldenkmal zu ID-Nr. 09253022) Milkwitz 26"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "In the heart of Radibor, Germany, lies the Brücke und Einfriedungsmauer, a bridge that serves not only as a vital transportation link but also as a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

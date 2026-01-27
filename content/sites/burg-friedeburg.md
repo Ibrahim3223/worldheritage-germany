@@ -3,7 +3,7 @@ title: "Burg Friedeburg"
 site_name: "Burg Friedeburg"
 date: 2026-01-26
 draft: false
-description: "Festungsanlage in Ostfriesland, Niedersachsen, Deutschland"
+description: "Burg Friedeburg, a prominent historical castle located in the picturesque region of Ostfriesland, Niedersachsen, Germany, offers visitors a glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

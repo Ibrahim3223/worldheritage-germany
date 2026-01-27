@@ -3,7 +3,7 @@ title: "Steinbogenbrücke über die Bobritzsch Niederbobritzsch"
 site_name: "Steinbogenbrücke über die Bobritzsch Niederbobritzsch"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steinbogenbrücke über die Bobritzsch, situated in the picturesque region of Bobritzsch-Hilbersdorf, Germany, is a remarkable example of historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

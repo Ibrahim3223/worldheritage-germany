@@ -3,7 +3,7 @@ title: "Library of the Eberswalde University for Sustainable Development"
 site_name: "Library of the Eberswalde University for Sustainable Development"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Library of the Eberswalde University for Sustainable Development is more than just a repository of books; it represents a commitment to knowledge and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "St. Paul's Church, Frankfurt am Main"
 site_name: "St. Paul's Church, Frankfurt am Main"
 date: 2026-01-26
 draft: false
-description: "church in Frankfurt/Main, Germany"
+description: "St. Paul's Church, located in the heart of Frankfurt am Main, is a significant church building that holds a prominent place in both the city's skyline and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

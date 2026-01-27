@@ -3,7 +3,7 @@ title: "Behnbrunnen"
 site_name: "Behnbrunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Hamburg-Altona, Germany"
+description: "Behnbrunnen, a charming fountain located in Hamburg-Altona, Germany, serves as a delightful focal point in this vibrant district, known for its rich history..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Fountain"

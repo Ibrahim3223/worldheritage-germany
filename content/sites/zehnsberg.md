@@ -3,7 +3,7 @@ title: "Zehnsberg"
 site_name: "Zehnsberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zehnsberg, a prominent mountain located in the picturesque region of Thuringia, Germany, invites visitors to explore its natural landscapes and enjoy the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

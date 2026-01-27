@@ -3,7 +3,7 @@ title: "Pfalz"
 site_name: "Pfalz"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-126-159 (0) in Forchheim, Bavaria"
+description: "Pfalz, an archaeological site located in the Forchheim region of Bavaria, Germany, serves as a significant cultural heritage monument, designated as..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

@@ -3,7 +3,7 @@ title: "Burg Krummesse"
 site_name: "Burg Krummesse"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Krummesse, a captivating castle located in the Lübeck region of Germany, invites visitors to explore its storied past and architectural charm."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Gemeindebücherei Kirchlengern"
 site_name: "Gemeindebücherei Kirchlengern"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Gemeindebücherei Kirchlengern serves as a vital community hub within the quaint town of Kirchlengern, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

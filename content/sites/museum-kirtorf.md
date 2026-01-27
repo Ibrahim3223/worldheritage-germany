@@ -3,7 +3,7 @@ title: "Museum Kirtorf"
 site_name: "Museum Kirtorf"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Kirtorf serves as a cultural hub in the heart of Kirtorf, Germany, offering a unique glimpse into the local history and heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

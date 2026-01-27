@@ -3,7 +3,7 @@ title: "Schlosskirche or Domkirche"
 site_name: "Schlosskirche or Domkirche"
 date: 2026-01-26
 draft: false
-description: "second Berliner Dom (1747–1894)"
+description: "The Schlosskirche, also known as the Domkirche, stands as a remarkable testament to Berlin's architectural and cultural heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cathedral"

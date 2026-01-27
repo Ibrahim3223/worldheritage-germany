@@ -3,7 +3,7 @@ title: "St.Mary's church Beeskow"
 site_name: "St.Mary's church Beeskow"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "St. Mary's Church in Beeskow is a remarkable church building located in the Brandenburg state of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

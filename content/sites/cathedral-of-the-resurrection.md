@@ -3,7 +3,7 @@ title: "Cathedral of the Resurrection"
 site_name: "Cathedral of the Resurrection"
 date: 2026-01-26
 draft: false
-description: "Berlin"
+description: "The Cathedral of the Resurrection, located in the Charlottenburg-Wilmersdorf district of Berlin, is a striking example of contemporary ecclesiastical..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cathedral"

@@ -3,7 +3,7 @@ title: "Lüttge Garden"
 site_name: "Lüttge Garden"
 date: 2026-01-26
 draft: false
-description: "garden in Hamburg, Germany"
+description: "Lüttge Garden, located in the vibrant city of Hamburg, Germany, offers a serene escape from the urban bustle."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Garden"

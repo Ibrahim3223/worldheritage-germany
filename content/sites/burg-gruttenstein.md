@@ -3,7 +3,7 @@ title: "Burg Gruttenstein"
 site_name: "Burg Gruttenstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched gracefully on a hillside, Burg Gruttenstein is a striking castle located in the picturesque town of Bad Reichenhall, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

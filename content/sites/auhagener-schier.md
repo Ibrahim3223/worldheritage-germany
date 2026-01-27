@@ -3,7 +3,7 @@ title: "Auhagener Schier"
 site_name: "Auhagener Schier"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Auhagener Schier, a designated nature reserve located in the picturesque region of Auhagen, Lower Saxony, Germany, offers a serene escape for nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

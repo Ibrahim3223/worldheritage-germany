@@ -3,7 +3,7 @@ title: "St. Vitus (Gammelsdorf)"
 site_name: "St. Vitus (Gammelsdorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Bavaria, Germany"
+description: "St. Vitus in Gammelsdorf is an enchanting church building located in the heart of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Modelleisenbahn Faszination Gotthardbahn"
 site_name: "Modelleisenbahn Faszination Gotthardbahn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Modelleisenbahn Faszination Gotthardbahn, a museum located in Germany, is a captivating destination for railway enthusiasts and curious travelers alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

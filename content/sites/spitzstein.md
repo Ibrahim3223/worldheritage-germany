@@ -3,7 +3,7 @@ title: "Spitzstein"
 site_name: "Spitzstein"
 date: 2026-01-26
 draft: false
-description: "mountain in the Chiemgau Alps at the border Tyrol / Bavaria"
+description: "Spitzstein is a prominent mountain located in the Chiemgau Alps, straddling the border between Tyrol in Austria and Bavaria in Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Dietersbachtal"
 site_name: "Dietersbachtal"
 date: 2026-01-26
 draft: false
-description: "valley south-east of Oberstdorf in the Allgäu Alps in Bavaria, Germany"
+description: "Dietersbachtal, a picturesque valley in the Allgäu Alps, lies southeast of the charming town of Oberstdorf, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"

@@ -3,7 +3,7 @@ title: "Church of the Holy Spirit, Heidelberg"
 site_name: "Church of the Holy Spirit, Heidelberg"
 date: 2026-01-26
 draft: false
-description: "church in Heidelberg"
+description: "The Church of the Holy Spirit in Heidelberg is a notable example of ecclesiastical architecture in Germany, captivating visitors with its historical..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

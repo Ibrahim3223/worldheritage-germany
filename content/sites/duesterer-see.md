@@ -3,7 +3,7 @@ title: "Düsterer See"
 site_name: "Düsterer See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Düsterer See is a serene lake located in the region of Krackow, Germany. This body of water offers a tranquil escape for nature enthusiasts and those..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

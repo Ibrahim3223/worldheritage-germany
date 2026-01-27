@@ -3,7 +3,7 @@ title: "Staatliche Kunsthalle Karlsruhe"
 site_name: "Staatliche Kunsthalle Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "museum in Karlsruhe, Germany"
+description: "The Staatliche Kunsthalle Karlsruhe, located in the heart of Karlsruhe, Germany, is a prominent art museum that showcases a diverse collection of European..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

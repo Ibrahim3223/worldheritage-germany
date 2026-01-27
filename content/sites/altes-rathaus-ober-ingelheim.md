@@ -3,7 +3,7 @@ title: "Altes Rathaus Ober-Ingelheim"
 site_name: "Altes Rathaus Ober-Ingelheim"
 date: 2026-01-26
 draft: false
-description: "Rathaus in Ingelheim am Rhein"
+description: "The Altes Rathaus Ober-Ingelheim, or the Old Town Hall of Ober-Ingelheim, is a striking municipal building that carries the weight of cultural heritage in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "City Hall"

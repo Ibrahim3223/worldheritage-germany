@@ -3,7 +3,7 @@ title: "St. John's church (Eberswalde)"
 site_name: "St. John's church (Eberswalde)"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "St. John's Church, located in Eberswalde, Germany, is a striking example of ecclesiastical architecture that captures the essence of Brandenburg's rich..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

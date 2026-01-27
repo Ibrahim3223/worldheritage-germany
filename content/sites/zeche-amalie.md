@@ -3,7 +3,7 @@ title: "Zeche Amalie"
 site_name: "Zeche Amalie"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Amalie, located in Essen, Germany, is a significant heritage site that reflects the industrial history of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

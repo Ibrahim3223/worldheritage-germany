@@ -3,7 +3,7 @@ title: "Burg Jossa"
 site_name: "Burg Jossa"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Jossa is a captivating castle located in the picturesque region of Seeheim-Jugenheim, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

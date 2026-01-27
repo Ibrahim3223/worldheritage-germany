@@ -3,7 +3,7 @@ title: "Church in Massow"
 site_name: "Church in Massow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Massow stands as a significant landmark within the tranquil surroundings of Massow, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

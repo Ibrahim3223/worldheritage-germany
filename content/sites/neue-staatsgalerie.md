@@ -3,7 +3,7 @@ title: "Neue Staatsgalerie"
 site_name: "Neue Staatsgalerie"
 date: 2026-01-26
 draft: false
-description: "art museum in Stuttgart, Germany"
+description: "The Neue Staatsgalerie in Stuttgart, Germany, is a prominent art museum that captivates visitors with its diverse collection and striking architecture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

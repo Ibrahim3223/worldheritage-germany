@@ -3,7 +3,7 @@ title: "Richard-Strauss-Institut"
 site_name: "Richard-Strauss-Institut"
 date: 2026-01-26
 draft: false
-description: "research institute, museum and archive in Garmisch-Partenkirchen"
+description: "The Richard-Strauss-Institut, located in the picturesque town of Garmisch-Partenkirchen, Germany, serves as a vital hub for those captivated by the life and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

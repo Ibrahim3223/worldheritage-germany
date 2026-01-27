@@ -3,7 +3,7 @@ title: "Haus Mallinckrodt"
 site_name: "Haus Mallinckrodt"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Haus Mallinckrodt is an architectural ensemble located in Ende, Germany, recognized as an architectural heritage monument."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

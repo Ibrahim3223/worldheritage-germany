@@ -3,7 +3,7 @@ title: "German Games Museum"
 site_name: "German Games Museum"
 date: 2026-01-26
 draft: false
-description: "games museum in Chemnitz, Germany"
+description: "The German Games Museum, located in Chemnitz, Kappel, is a unique establishment dedicated to the world of games."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

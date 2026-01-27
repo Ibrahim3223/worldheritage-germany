@@ -3,7 +3,7 @@ title: "Leipzig Zoological Garden"
 site_name: "Leipzig Zoological Garden"
 date: 2026-01-26
 draft: false
-description: "zoological garden northwest of downtown Leipzig"
+description: "Leipzig Zoological Garden, located northwest of downtown Leipzig, Germany, is a celebrated zoological garden that captivates visitors with its diverse array..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Zoo"

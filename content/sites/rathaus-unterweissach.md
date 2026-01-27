@@ -3,7 +3,7 @@ title: "Rathaus Unterweissach"
 site_name: "Rathaus Unterweissach"
 date: 2026-01-26
 draft: false
-description: "Rathaus Unterweissach in Weissach im Tal"
+description: "Rathaus Unterweissach, the city hall located in Weissach im Tal, Germany, represents an important civic and cultural center within the community."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

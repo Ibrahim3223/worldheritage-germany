@@ -3,7 +3,7 @@ title: "Historisches Kaufhaus"
 site_name: "Historisches Kaufhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Historisches Kaufhaus, located in Nordenham, Germany, is a distinctive museum that invites visitors to engage with the region’s cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

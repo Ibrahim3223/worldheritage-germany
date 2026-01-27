@@ -3,7 +3,7 @@ title: "Basilika St. Margareta"
 site_name: "Basilika St. Margareta"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf, Germany"
+description: "Basilika St. Margareta stands as a significant ecclesiastical structure in Düsseldorf, Germany, embodying a rich cultural and spiritual heritage."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

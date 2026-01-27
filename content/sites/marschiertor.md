@@ -3,7 +3,7 @@ title: "Marschiertor"
 site_name: "Marschiertor"
 date: 2026-01-26
 draft: false
-description: "city gate of Aachen, Germany"
+description: "The Marschiertor, an impressive city gate in Aachen, Germany, stands as a striking reminder of the city's storied past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "City Gate"

@@ -3,7 +3,7 @@ title: "Museum am Maxplatz mit Info-Zentrum der Stadt Rehau"
 site_name: "Museum am Maxplatz mit Info-Zentrum der Stadt Rehau"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany, the Museum am Maxplatz mit Info-Zentrum der Stadt Rehau serves as a captivating portal into the cultural and historical essence of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "CongressPark Wolfsburg"
 site_name: "CongressPark Wolfsburg"
 date: 2026-01-26
 draft: false
-description: "events venue and congress centre in Wolfsburg, Lower Saxony, Germany"
+description: "CongressPark Wolfsburg stands as a pivotal multi-purpose venue in the heart of Wolfsburg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

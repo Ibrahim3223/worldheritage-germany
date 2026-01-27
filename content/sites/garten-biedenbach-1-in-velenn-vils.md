@@ -3,7 +3,7 @@ title: "Garten Biedenbach 1 in VeLenn (Vils)"
 site_name: "Garten Biedenbach 1 in VeLenn (Vils)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-2-74-183-31 (2) in Velden (Vils), Bavaria"
+description: "Garten Biedenbach 1 in VeLenn (Vils) is not merely a garden; it is a cultural heritage monument that reflects the historical and aesthetic values of Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

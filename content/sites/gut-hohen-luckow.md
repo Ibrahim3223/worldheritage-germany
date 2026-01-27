@@ -3,7 +3,7 @@ title: "Gut Hohen Luckow"
 site_name: "Gut Hohen Luckow"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus in Deutschland"
+description: "Gut Hohen Luckow is a striking manor house located in the charming region of Satow, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

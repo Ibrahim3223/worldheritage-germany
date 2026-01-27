@@ -3,7 +3,7 @@ title: "Liebesdenkmal"
 site_name: "Liebesdenkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Leipzig, Germany"
+description: "In the heart of Leipzig, Germany, the Liebesdenkmal emerges as a poignant memorial dedicated to love and remembrance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

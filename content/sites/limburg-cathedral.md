@@ -3,7 +3,7 @@ title: "Limburg Cathedral"
 site_name: "Limburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "roman-catholic cathedral in Limburg, Germany"
+description: "Limburg Cathedral, a striking Roman Catholic cathedral located in the charming town of Limburg an der Lahn, Germany, is an architectural marvel that draws..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Cathedral"

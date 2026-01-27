@@ -3,7 +3,7 @@ title: "Kapelle (Everloh)"
 site_name: "Kapelle (Everloh)"
 date: 2026-01-26
 draft: false
-description: "chapel in Everloh near Hannover, Lower Saxony, Germany"
+description: "Tucked away in the tranquil region of Gehrden, near Hannover, Germany, the Kapelle in Everloh invites visitors to explore its serene ambiance and historical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Rumanian Library (Freiburg im Breisgau)"
 site_name: "Rumanian Library (Freiburg im Breisgau)"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Rumanian Library in Freiburg im Breisgau serves as a cultural cornerstone, offering a bridge between literature and the vibrant heritage of the Romanian..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

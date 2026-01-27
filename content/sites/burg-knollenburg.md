@@ -3,7 +3,7 @@ title: "Burg Knollenburg"
 site_name: "Burg Knollenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Knollenburg is a remarkable castle located in the picturesque region of Dischingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

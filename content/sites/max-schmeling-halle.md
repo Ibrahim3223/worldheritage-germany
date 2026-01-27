@@ -3,7 +3,7 @@ title: "Max-Schmeling-Halle"
 site_name: "Max-Schmeling-Halle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Max-Schmeling-Halle is a prominent multi-purpose hall located in the vibrant city of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

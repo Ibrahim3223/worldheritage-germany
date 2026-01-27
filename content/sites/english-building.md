@@ -3,7 +3,7 @@ title: "English building"
 site_name: "English building"
 date: 2026-01-26
 draft: false
-description: "Palace building in Heidelberg Castle"
+description: "The English building, a significant part of Heidelberg Castle, is a striking representation of the European palace architecture that reflects the grandeur..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Palace"

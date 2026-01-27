@@ -3,7 +3,7 @@ title: "Genscher-Haus"
 site_name: "Genscher-Haus"
 date: 2026-01-26
 draft: false
-description: "Geburtshaus von Hans-Dietrich Genscher in Halle (Saale)"
+description: "Genscher-Haus, located in the heart of Halle (Saale), Germany, serves as a museum dedicated to the life and legacy of Hans-Dietrich Genscher, a prominent..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

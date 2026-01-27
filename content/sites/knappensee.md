@@ -3,7 +3,7 @@ title: "Knappensee"
 site_name: "Knappensee"
 date: 2026-01-26
 draft: false
-description: "reservoir in Saxony, Germany"
+description: "Knappensee is a picturesque reservoir located in the heart of Saxony, Germany, within the charming region of Wittichenau."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Lake"

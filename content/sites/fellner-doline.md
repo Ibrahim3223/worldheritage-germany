@@ -3,7 +3,7 @@ title: "Fellner-Doline"
 site_name: "Fellner-Doline"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Fellner-Doline, located in the picturesque region of Gößweinstein, Germany, is a captivating natural wonder that draws visitors eager to explore its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

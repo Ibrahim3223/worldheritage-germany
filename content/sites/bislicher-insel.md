@@ -3,7 +3,7 @@ title: "Bislicher Insel"
 site_name: "Bislicher Insel"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Germany"
+description: "Bislicher Insel is a captivating nature reserve located in the Wesel region of Germany, serving as a vital refuge for both wildlife and visitors seeking a..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

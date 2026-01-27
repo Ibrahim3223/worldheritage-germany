@@ -3,7 +3,7 @@ title: "Dambecker See"
 site_name: "Dambecker See"
 date: 2026-01-26
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
+description: "Dambecker See, located in the Mecklenburgische Seenplatte District of Germany, is a serene lake that captivates visitors with its tranquil beauty and..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

@@ -3,7 +3,7 @@ title: "Academy of the Konrad-Adenauer-Stiftung"
 site_name: "Academy of the Konrad-Adenauer-Stiftung"
 date: 2026-01-26
 draft: false
-description: "Berlin Sitz der weltweit tätigen Konrad-Adenauer-Stiftung"
+description: "The Academy of the Konrad-Adenauer-Stiftung, located in the heart of Berlin, is not just a foundation but a hub of intellectual discourse and political..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

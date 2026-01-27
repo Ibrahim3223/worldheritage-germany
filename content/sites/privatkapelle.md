@@ -3,7 +3,7 @@ title: "Privatkapelle"
 site_name: "Privatkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Privatkapelle, a serene chapel located in Germany, offers visitors a profound glimpse into the region’s spiritual and architectural heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

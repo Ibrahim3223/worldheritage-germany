@@ -3,7 +3,7 @@ title: "Blindenmuseum"
 site_name: "Blindenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Hannover, Germany"
+description: "The Blindenmuseum in Hannover, Germany, offers a unique insight into the experiences and contributions of blind and visually impaired individuals throughout..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

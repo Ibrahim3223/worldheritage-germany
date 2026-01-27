@@ -3,7 +3,7 @@ title: "Deutschhaus Mainz"
 site_name: "Deutschhaus Mainz"
 date: 2026-01-26
 draft: false
-description: "historical building in Mainz, Germany"
+description: "In the heart of Mainz, Germany, the Deutschhaus stands as a significant historical palace that encapsulates the rich narrative of the region's past."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Burg Hohenfels"
 site_name: "Burg Hohenfels"
 date: 2026-01-26
 draft: false
-description: "castle in Sipplingen"
+description: "Burg Hohenfels, a striking castle situated in Sipplingen, Germany, offers a glimpse into the architectural and cultural heritage of the region."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

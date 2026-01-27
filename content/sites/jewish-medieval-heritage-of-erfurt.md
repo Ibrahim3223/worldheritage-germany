@@ -3,7 +3,7 @@ title: "Jewish-Medieval Heritage of Erfurt"
 site_name: "Jewish-Medieval Heritage of Erfurt"
 date: 2026-01-26
 draft: false
-description: "medieval Jewish buildings in Erfurt, Germany"
+description: "The Jewish-Medieval Heritage of Erfurt showcases a remarkable collection of medieval Jewish buildings in Germany's Thuringia region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

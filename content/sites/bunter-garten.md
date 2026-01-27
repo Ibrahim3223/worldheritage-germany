@@ -3,7 +3,7 @@ title: "Bunter Garten"
 site_name: "Bunter Garten"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "Bunter Garten, located in Mönchengladbach, Germany, is a serene botanical garden that invites visitors to explore the beauty and diversity of plant life."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Botanical Garden"

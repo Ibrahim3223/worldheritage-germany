@@ -3,7 +3,7 @@ title: "St. Johannes, Munich"
 site_name: "St. Johannes, Munich"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Johannes, a distinctive church building located in Munich, Germany, serves as both a spiritual hub and a historical landmark."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

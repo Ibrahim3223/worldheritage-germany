@@ -3,7 +3,7 @@ title: "Auferstehungskirche"
 site_name: "Auferstehungskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "The Auferstehungskirche, or Resurrection Church, is an intriguing church building located in the Döhren-Wülfel district of Hannover, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

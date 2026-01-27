@@ -3,7 +3,7 @@ title: "Thomaskirche (Meiendorf)"
 site_name: "Thomaskirche (Meiendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "The Thomaskirche (Meiendorf) is a significant church building located in the Wandsbek district of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

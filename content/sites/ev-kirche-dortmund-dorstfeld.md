@@ -3,7 +3,7 @@ title: "Ev. Kirche Dortmund-Dorstfeld"
 site_name: "Ev. Kirche Dortmund-Dorstfeld"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Ev. Kirche Dortmund-Dorstfeld, located in the vibrant city of Dortmund, Germany, serves as a significant landmark within the local community."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

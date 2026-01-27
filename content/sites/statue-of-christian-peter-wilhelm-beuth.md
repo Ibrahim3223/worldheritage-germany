@@ -3,7 +3,7 @@ title: "statue of Christian Peter Wilhelm Beuth"
 site_name: "statue of Christian Peter Wilhelm Beuth"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin, Germany"
+description: "In the heart of Berlin, Germany, stands a tribute to a significant figure in the nation’s cultural and industrial history: the statue of Christian Peter..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

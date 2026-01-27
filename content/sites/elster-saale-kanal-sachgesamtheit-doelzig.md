@@ -3,7 +3,7 @@ title: "Elster-Saale-Kanal (Sachgesamtheit) Dölzig"
 site_name: "Elster-Saale-Kanal (Sachgesamtheit) Dölzig"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Elster-Saale-Kanal, located in Dölzig, Germany, stands as a significant structure within the region of Schkeuditz."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

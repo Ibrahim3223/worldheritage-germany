@@ -3,7 +3,7 @@ title: "Friedhof Bergedorf"
 site_name: "Friedhof Bergedorf"
 date: 2026-01-26
 draft: false
-description: "cemetery in Bergedorf, Germany"
+description: "Friedhof Bergedorf, a cemetery located in the historic district of Bergedorf, Germany, provides a serene environment for reflection and remembrance."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Cemetery"

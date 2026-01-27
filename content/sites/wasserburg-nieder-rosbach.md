@@ -3,7 +3,7 @@ title: "Wasserburg Nieder-Rosbach"
 site_name: "Wasserburg Nieder-Rosbach"
 date: 2026-01-26
 draft: false
-description: "Burg in Hessen, Deutschland"
+description: "Wasserburg Nieder-Rosbach is a fascinating castle located in the quaint town of Rosbach vor der Höhe in Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

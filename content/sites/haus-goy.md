@@ -3,7 +3,7 @@ title: "Haus Goy"
 site_name: "Haus Goy"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Haus Goy is an intriguing manor house located in Bochum, Germany, that encapsulates the essence of historical architecture and cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

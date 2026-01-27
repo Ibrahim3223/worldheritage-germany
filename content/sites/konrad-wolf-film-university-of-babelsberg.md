@@ -3,7 +3,7 @@ title: "Konrad Wolf Film University of Babelsberg"
 site_name: "Konrad Wolf Film University of Babelsberg"
 date: 2026-01-26
 draft: false
-description: "film school in Potsdam, Germany"
+description: "The Konrad Wolf Film University of Babelsberg, located in the historic city of Potsdam, Germany, is a prominent institution in the realm of film education."
 region: "Berlin"
 country: "Germany"
 heritage_type: "University"

@@ -3,7 +3,7 @@ title: "St. Sebald"
 site_name: "St. Sebald"
 date: 2026-01-26
 draft: false
-description: "chapel in Helfenbrunn"
+description: "St. Sebald is a captivating chapel located in Helfenbrunn, within the Kirchdorf an der Amper region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

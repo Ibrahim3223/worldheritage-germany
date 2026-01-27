@@ -3,7 +3,7 @@ title: "Käthe Kollwitz Museum"
 site_name: "Käthe Kollwitz Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin"
+description: "The Käthe Kollwitz Museum in Berlin is a poignant homage to one of Germany's most significant artists, Käthe Kollwitz, whose works transcend time and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

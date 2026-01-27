@@ -3,7 +3,7 @@ title: "Bürgerpark"
 site_name: "Bürgerpark"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dudeldorf, Germany"
+description: "Bürgerpark is a cemetery located in the tranquil town of Dudeldorf, Germany. This serene site serves as a significant cultural and historical landmark,..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Cemetery"

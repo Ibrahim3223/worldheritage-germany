@@ -3,7 +3,7 @@ title: "Wassertor"
 site_name: "Wassertor"
 date: 2026-01-26
 draft: false
-description: "city gate in Wismar"
+description: "Wassertor, a prominent city gate located in the historic town of Wismar, Germany, serves as a striking reminder of the city’s medieval past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Gate"

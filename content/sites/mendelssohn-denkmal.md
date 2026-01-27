@@ -3,7 +3,7 @@ title: "Mendelssohn-Denkmal"
 site_name: "Mendelssohn-Denkmal"
 date: 2026-01-26
 draft: false
-description: "statue in Leipzig, Germany"
+description: "The Mendelssohn-Denkmal in Leipzig, Germany, is a striking statue that commemorates the renowned composer Felix Mendelssohn Bartholdy."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"

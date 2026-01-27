@@ -3,7 +3,7 @@ title: "Städtische Galerie Böblingen"
 site_name: "Städtische Galerie Böblingen"
 date: 2026-01-26
 draft: false
-description: "museum in Böblingen (Germany)"
+description: "The Städtische Galerie Böblingen offers a unique gateway into the art and culture of Germany, set against the backdrop of Böblingen, a town known for its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Duve-Brunnen"
 site_name: "Duve-Brunnen"
 date: 2026-01-26
 draft: false
-description: "fountain in Hannover, Germany"
+description: "In the heart of Hannover, Germany, the Duve-Brunnen fountain stands as a captivating focal point that reflects the city's blend of historical significance..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Fountain"

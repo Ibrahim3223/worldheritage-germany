@@ -3,7 +3,7 @@ title: "Adelspalast"
 site_name: "Adelspalast"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-1134 (0) in Bamberg, Bavaria"
+description: "The Adelspalast, a stunning cultural heritage monument located in the heart of Bamberg, Bavaria, offers visitors an opportunity to explore a remarkable..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"

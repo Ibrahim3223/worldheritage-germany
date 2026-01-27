@@ -3,7 +3,7 @@ title: "Lambertuskapelle"
 site_name: "Lambertuskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "The Lambertuskapelle, a quaint chapel located in Treuchtlingen, Germany, serves as a serene reminder of the region's spiritual heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

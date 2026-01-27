@@ -3,7 +3,7 @@ title: "Rimberg"
 site_name: "Rimberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Rimberg, a historic hillfort located in the picturesque region of Caldern, Germany, invites visitors to explore its storied past and architectural remnants."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Hillfort"

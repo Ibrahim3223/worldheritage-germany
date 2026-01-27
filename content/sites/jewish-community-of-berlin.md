@@ -3,7 +3,7 @@ title: "Jewish Community of Berlin"
 site_name: "Jewish Community of Berlin"
 date: 2026-01-26
 draft: false
-description: "Jewish Community"
+description: "The Jewish Community of Berlin serves as a pivotal institution in the heart of Germany’s capital, reflecting the enduring legacy and cultural vibrancy of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Library"

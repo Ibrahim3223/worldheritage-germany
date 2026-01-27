@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirchhof II"
 site_name: "Dreifaltigkeitskirchhof II"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin-Kreuzberg, Germany"
+description: "Dreifaltigkeitskirchhof II, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, is a cemetery that offers visitors a unique glimpse into..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

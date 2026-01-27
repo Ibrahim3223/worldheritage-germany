@@ -3,7 +3,7 @@ title: "Kurpfälzisches Museum"
 site_name: "Kurpfälzisches Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Heidelberg, Germany"
+description: "The Kurpfälzisches Museum, located in the historic city of Heidelberg, Germany, stands as a vibrant cultural institution dedicated to the visual arts."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

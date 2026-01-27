@@ -3,7 +3,7 @@ title: "St. Georg (Nördlingen)"
 site_name: "St. Georg (Nördlingen)"
 date: 2026-01-26
 draft: false
-description: "church building in Nördlingen, Swabia, Germany"
+description: "St. Georg in Nördlingen is a remarkable church building that stands as a significant landmark in the heart of Swabia, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Äulemer Kreuz"
 site_name: "Äulemer Kreuz"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "The Äulemer Kreuz is a mountain pass located in Germany, serving as a vital route that connects various regions."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

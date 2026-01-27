@@ -3,7 +3,7 @@ title: "Verden (Aller) railway station"
 site_name: "Verden (Aller) railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Verden an der Aller, Germany"
+description: "Verden (Aller) railway station serves as a crucial transport hub in the town of Verden an der Aller, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

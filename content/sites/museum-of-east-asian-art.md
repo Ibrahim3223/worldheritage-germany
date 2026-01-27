@@ -3,7 +3,7 @@ title: "Museum of East-Asian Art"
 site_name: "Museum of East-Asian Art"
 date: 2026-01-26
 draft: false
-description: "museum in Cologne"
+description: "The Museum of East-Asian Art in Cologne, Germany, invites visitors to explore the diverse and intricate artistic traditions of East Asia."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

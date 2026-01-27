@@ -3,7 +3,7 @@ title: "Halloren Schokoladenmuseum"
 site_name: "Halloren Schokoladenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Halloren Schokoladenmuseum, located in Halle (Saale), Germany, is a unique destination for chocolate enthusiasts and history buffs alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

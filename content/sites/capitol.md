@@ -3,7 +3,7 @@ title: "Capitol"
 site_name: "Capitol"
 date: 2026-01-26
 draft: false
-description: "theatre and event venue in Offenbach, Germany, originally a synagogue"
+description: "The Capitol in Offenbach am Main is more than just a performance venue; it is a historic site that has transitioned from its original purpose as a synagogue..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Synagogue"

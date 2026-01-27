@@ -3,7 +3,7 @@ title: "Deutsches Stuhlmuseum Eimbeckhausen"
 site_name: "Deutsches Stuhlmuseum Eimbeckhausen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Stuhlmuseum Eimbeckhausen, located in the charming town of Bad Münder am Deister, Germany, serves as a fascinating homage to the art and craft..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

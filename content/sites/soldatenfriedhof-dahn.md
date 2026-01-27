@@ -3,7 +3,7 @@ title: "Soldatenfriedhof Dahn"
 site_name: "Soldatenfriedhof Dahn"
 date: 2026-01-26
 draft: false
-description: "cemetery in Dahn, Germany"
+description: "Soldatenfriedhof Dahn serves as a poignant memorial and cemetery located in Dahn, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cemetery"

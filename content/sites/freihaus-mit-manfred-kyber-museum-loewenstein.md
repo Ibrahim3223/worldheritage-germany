@@ -3,7 +3,7 @@ title: "Freihaus mit Manfred-Kyber-Museum Löwenstein"
 site_name: "Freihaus mit Manfred-Kyber-Museum Löwenstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Freihaus mit Manfred-Kyber-Museum Löwenstein is a significant cultural institution located in the quaint town of Löwenstein, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

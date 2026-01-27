@@ -3,7 +3,7 @@ title: "Gunzenhauser Museum"
 site_name: "Gunzenhauser Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Chemnitz, Germany"
+description: "The Gunzenhauser Museum in Chemnitz, Germany, is a prominent art museum that showcases a diverse collection of modern and contemporary artworks."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "GFZ Helmholtz Centre for Geosciences"
 site_name: "GFZ Helmholtz Centre for Geosciences"
 date: 2026-01-26
 draft: false
-description: "Scientific research center for Earth sciences"
+description: "The GFZ Helmholtz Centre for Geosciences in Potsdam, Germany, serves as a pivotal research institution dedicated to the study of Earth sciences."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

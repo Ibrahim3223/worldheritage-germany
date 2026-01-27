@@ -3,7 +3,7 @@ title: "Potsdam central station"
 site_name: "Potsdam central station"
 date: 2026-01-26
 draft: false
-description: "central railway station in Potsdam, Germany"
+description: "Potsdam Central Station is a vital transportation hub located in the heart of Potsdam, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Railway Station"

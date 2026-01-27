@@ -3,7 +3,7 @@ title: "Arboretum Lohbrügge"
 site_name: "Arboretum Lohbrügge"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "Arboretum Lohbrügge, located in the Bergedorf region of Germany, offers a unique experience for nature lovers and those interested in botanical collections."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

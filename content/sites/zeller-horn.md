@@ -3,7 +3,7 @@ title: "Zeller Horn"
 site_name: "Zeller Horn"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Zeller Horn, located in the Zollernalbkreis region of Germany, is a mountain that offers both adventure and a serene connection to nature."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

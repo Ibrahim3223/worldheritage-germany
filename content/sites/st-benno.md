@@ -3,7 +3,7 @@ title: "St. Benno"
 site_name: "St. Benno"
 date: 2026-01-26
 draft: false
-description: "church building in Hanover, Germany"
+description: "St. Benno Church, a notable church building located in the Linden-Limmer district of Hanover, Germany, captures the attention of both locals and visitors..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

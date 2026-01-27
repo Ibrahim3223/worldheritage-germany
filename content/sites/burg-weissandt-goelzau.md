@@ -3,7 +3,7 @@ title: "Burg Weißandt-Gölzau"
 site_name: "Burg Weißandt-Gölzau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Weißandt-Gölzau, a captivating castle located in the Südliches Anhalt region of Germany, presents a striking example of medieval architecture and a..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

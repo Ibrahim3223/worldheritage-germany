@@ -3,7 +3,7 @@ title: "Kunstmuseum Erlangen"
 site_name: "Kunstmuseum Erlangen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Kunstmuseum Erlangen is an art museum located in the historic city of Erlangen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

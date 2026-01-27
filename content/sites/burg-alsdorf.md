@@ -3,7 +3,7 @@ title: "Burg Alsdorf"
 site_name: "Burg Alsdorf"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Alsdorf, located in the charming region of Alsdorf, Germany, is an intriguing castle that invites visitors to explore its historic walls and the..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "book burning memorial at Bebelplatz"
 site_name: "book burning memorial at Bebelplatz"
 date: 2026-01-26
 draft: false
-description: "memorial at the Bebelplatz in Berlin, Germany"
+description: "In the heart of Berlin, the Bebelplatz serves as a solemn reminder of the dangers of censorship and the fragility of intellectual freedom."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

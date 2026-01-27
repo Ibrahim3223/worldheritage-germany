@@ -3,7 +3,7 @@ title: "Museum Haus Hansestadt Danzig"
 site_name: "Museum Haus Hansestadt Danzig"
 date: 2026-01-26
 draft: false
-description: "museum in Lüneck"
+description: "Museum Haus Hansestadt Danzig is an intriguing cultural institution located in the historic city of Lübeck, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

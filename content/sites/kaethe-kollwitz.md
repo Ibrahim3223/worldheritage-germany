@@ -3,7 +3,7 @@ title: "Käthe Kollwitz"
 site_name: "Käthe Kollwitz"
 date: 2026-01-26
 draft: false
-description: "sculpture in Berlin, Germany"
+description: "Käthe Kollwitz is a significant monument located in the Pankow district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

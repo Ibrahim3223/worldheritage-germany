@@ -3,7 +3,7 @@ title: "Museum Kurhaus Kleve"
 site_name: "Museum Kurhaus Kleve"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Kurhaus Kleve invites visitors into a world where art and culture converge, offering a unique perspective on various artistic expressions."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

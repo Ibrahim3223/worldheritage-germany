@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kapelle (Papenburg-Bokel)"
 site_name: "Heilig-Geist-Kapelle (Papenburg-Bokel)"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Heilig-Geist-Kapelle, located in the serene surroundings of Papenburg-Bokel, Germany, is an architectural structure that invites visitors to explore its..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

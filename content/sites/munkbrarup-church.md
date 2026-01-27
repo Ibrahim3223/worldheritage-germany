@@ -3,7 +3,7 @@ title: "Munkbrarup Church"
 site_name: "Munkbrarup Church"
 date: 2026-01-26
 draft: false
-description: "church building in Munkbrarup, Germany"
+description: "Munkbrarup Church is a notable church building located in the tranquil village of Munkbrarup, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Church Building"

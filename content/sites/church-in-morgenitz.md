@@ -3,7 +3,7 @@ title: "Church in Morgenitz"
 site_name: "Church in Morgenitz"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Morgenitz, located in the serene region of Mellenthin, Germany, is a captivating site that reflects the architectural and spiritual traditions..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

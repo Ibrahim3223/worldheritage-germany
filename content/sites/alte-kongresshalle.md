@@ -3,7 +3,7 @@ title: "Alte Kongresshalle"
 site_name: "Alte Kongresshalle"
 date: 2026-01-26
 draft: false
-description: "convention and multi-purpose hall in Munich, Germany"
+description: "The Alte Kongresshalle, a striking multi-purpose hall located in the Schwanthalerhöhe district of Munich, Germany, is a significant venue that has played..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

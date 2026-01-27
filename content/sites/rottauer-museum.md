@@ -3,7 +3,7 @@ title: "Rottauer Museum"
 site_name: "Rottauer Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Rottauer Museum in Germany serves as a pivotal cultural hub, showcasing an array of exhibits that illuminate the region's history and artistic endeavors."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

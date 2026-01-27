@@ -3,7 +3,7 @@ title: "Wilhelm-Busch-Stätte Hattorf"
 site_name: "Wilhelm-Busch-Stätte Hattorf"
 date: 2026-01-26
 draft: false
-description: "museum in Hattorf am Harz, Lower Saxony, Germany"
+description: "The Wilhelm-Busch-Stätte Hattorf serves as a captivating homage to one of Germany's most beloved literary figures, Wilhelm Busch, known for his humorous..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

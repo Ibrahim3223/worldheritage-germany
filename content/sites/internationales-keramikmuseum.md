@@ -3,7 +3,7 @@ title: "Internationales Keramikmuseum"
 site_name: "Internationales Keramikmuseum"
 date: 2026-01-26
 draft: false
-description: "Weiden in der Oberpfalz, Germany"
+description: "The Internationales Keramikmuseum, located in Weiden in der Oberpfalz, Germany, is a renowned institution dedicated to the art and science of ceramics."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

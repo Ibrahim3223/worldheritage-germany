@@ -3,7 +3,7 @@ title: "Charlottenhof"
 site_name: "Charlottenhof"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Essen, Germany"
+description: "Charlottenhof, an architectural ensemble located in Essen, Germany, stands as a remarkable representation of design and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

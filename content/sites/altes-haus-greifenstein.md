@@ -3,7 +3,7 @@ title: "Altes Haus Greifenstein"
 site_name: "Altes Haus Greifenstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany, Altes Haus Greifenstein serves as a captivating museum that encapsulates the essence of local culture and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

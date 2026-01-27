@@ -3,7 +3,7 @@ title: "St. Johann Baptist"
 site_name: "St. Johann Baptist"
 date: 2026-01-26
 draft: false
-description: "church building in Bad Honnef, Germany"
+description: "St. Johann Baptist Church, located in the charming town of Bad Honnef, Germany, is a striking example of ecclesiastical architecture that draws visitors for..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "STATT-Museum"
 site_name: "STATT-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The STATT-Museum, located in Germany, serves as a cultural hub that invites visitors to explore the local heritage through its curated exhibits."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

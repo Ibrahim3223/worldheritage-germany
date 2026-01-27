@@ -3,7 +3,7 @@ title: "Alter Ringelstein"
 site_name: "Alter Ringelstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alter Ringelstein, a captivating castle located in the heart of Moorgrund, Germany, presents a remarkable opportunity for history enthusiasts and..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Kocherburg"
 site_name: "Kocherburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kocherburg is a remarkable castle located in Unterkochen, Germany. This historical edifice, with its intriguing architecture and storied past, provides..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

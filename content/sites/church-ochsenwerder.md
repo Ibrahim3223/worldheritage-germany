@@ -3,7 +3,7 @@ title: "Church Ochsenwerder"
 site_name: "Church Ochsenwerder"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg-Ochsenwerder, Germany"
+description: "Church Ochsenwerder, an evocative church building located in the charming district of Bergedorf, Hamburg, Germany, serves as both a spiritual haven and a..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

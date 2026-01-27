@@ -3,7 +3,7 @@ title: "Partwitzer See"
 site_name: "Partwitzer See"
 date: 2026-01-26
 draft: false
-description: "lake in Bautzen District, Brandenburg, Germany"
+description: "Partwitzer See is a picturesque lake located in the Bautzen District of Brandenburg, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

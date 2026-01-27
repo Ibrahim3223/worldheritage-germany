@@ -3,7 +3,7 @@ title: "Palais Kap-herr"
 site_name: "Palais Kap-herr"
 date: 2026-01-26
 draft: false
-description: "demolished building in Dresden, Germany"
+description: "Palais Kap-herr, once a prominent palace in Dresden, Germany, holds a significant place in the architectural and cultural narrative of the city."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Palace"

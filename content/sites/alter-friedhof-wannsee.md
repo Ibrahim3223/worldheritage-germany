@@ -3,7 +3,7 @@ title: "Alter Friedhof Wannsee"
 site_name: "Alter Friedhof Wannsee"
 date: 2026-01-26
 draft: false
-description: "cemetery in Steglitz-Zehlendorf, Germany"
+description: "Alter Friedhof Wannsee, located in the district of Steglitz-Zehlendorf in Germany, serves not only as a cemetery but also as a site of reflection on the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

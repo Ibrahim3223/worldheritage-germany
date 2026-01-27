@@ -3,7 +3,7 @@ title: "Alter Südfriedhof"
 site_name: "Alter Südfriedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Munich, Germany"
+description: "Alter Südfriedhof, a cemetery in Munich, Germany, serves as a poignant reminder of the city's historical and cultural lineage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"

@@ -3,7 +3,7 @@ title: "Open Air Museum Frelsdorfer Brink"
 site_name: "Open Air Museum Frelsdorfer Brink"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Open Air Museum Frelsdorfer Brink is a captivating destination located in the quaint region of Beverstedt, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

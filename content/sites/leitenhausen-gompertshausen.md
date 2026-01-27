@@ -3,7 +3,7 @@ title: "Leitenhausen (Gompertshausen)"
 site_name: "Leitenhausen (Gompertshausen)"
 date: 2026-01-26
 draft: false
-description: "human settlement in Germany"
+description: "Leitenhausen, located in the quaint region of Gompertshausen, Germany, is a memorial site that captures the essence of human settlement in this picturesque..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

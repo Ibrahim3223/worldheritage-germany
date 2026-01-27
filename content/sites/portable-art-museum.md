@@ -3,7 +3,7 @@ title: "Portable Art Museum"
 site_name: "Portable Art Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Düren"
+description: "The Portable Art Museum in Düren, Germany, offers a unique and immersive experience for art enthusiasts and casual visitors alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

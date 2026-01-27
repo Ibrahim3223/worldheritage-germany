@@ -3,7 +3,7 @@ title: "Mahnmal am Bahnhof Fischerhof (Hannover)"
 site_name: "Mahnmal am Bahnhof Fischerhof (Hannover)"
 date: 2026-01-26
 draft: false
-description: "Memorial for all persecutees of National Socialism in Hanover"
+description: "The Mahnmal am Bahnhof Fischerhof, situated in the Linden-Limmer district of Hannover, Germany, serves as a poignant memorial dedicated to the victims of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

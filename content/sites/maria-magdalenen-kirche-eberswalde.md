@@ -3,7 +3,7 @@ title: "Maria-Magdalenen-Kirche (Eberswalde)"
 site_name: "Maria-Magdalenen-Kirche (Eberswalde)"
 date: 2026-01-26
 draft: false
-description: "church building in Brandenburg state, Germany"
+description: "In the heart of Eberswalde, Germany, lies the Maria-Magdalenen-Kirche, a noteworthy church building that serves as both a place of worship and a historical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

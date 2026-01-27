@@ -3,7 +3,7 @@ title: "Bauernhofmuseum Kirchanschöring"
 site_name: "Bauernhofmuseum Kirchanschöring"
 date: 2026-01-26
 draft: false
-description: "museum in Kirchanschöring, Bavaria, Germany"
+description: "Bauernhofmuseum Kirchanschöring is an evocative museum located in the heart of Bavaria, Germany, dedicated to preserving and showcasing the agricultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

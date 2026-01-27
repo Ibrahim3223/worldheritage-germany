@@ -3,7 +3,7 @@ title: "Bust of Dr. Bircher-Benner Bad Homburg"
 site_name: "Bust of Dr. Bircher-Benner Bad Homburg"
 date: 2026-01-26
 draft: false
-description: "national heritage site"
+description: "In the serene town of Bad Homburg vor der Höhe, Germany, the Bust of Dr. Bircher-Benner stands as a notable monument, commemorating the legacy of a pivotal..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

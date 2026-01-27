@@ -3,7 +3,7 @@ title: "Lutherhaus Wittenberg"
 site_name: "Lutherhaus Wittenberg"
 date: 2026-01-26
 draft: false
-description: "museum in Wittenberg"
+description: "The Lutherhaus Wittenberg, located in the heart of Lutherstadt Wittenberg, Germany, serves as a pivotal museum dedicated to the life and legacy of Martin..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

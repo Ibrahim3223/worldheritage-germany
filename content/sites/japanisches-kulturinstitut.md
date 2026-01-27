@@ -3,7 +3,7 @@ title: "Japanisches Kulturinstitut"
 site_name: "Japanisches Kulturinstitut"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Japanisches Kulturinstitut, a prominent cultural institution located in Neustadt-Süd, Germany, serves as a vital link between Germany and Japanese culture."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cultural Institution"

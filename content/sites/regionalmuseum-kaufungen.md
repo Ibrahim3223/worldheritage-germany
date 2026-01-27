@@ -3,7 +3,7 @@ title: "Regionalmuseum Kaufungen"
 site_name: "Regionalmuseum Kaufungen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Regionalmuseum Kaufungen is a significant cultural institution located in Germany, dedicated to preserving and showcasing the rich heritage of the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

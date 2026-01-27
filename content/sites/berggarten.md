@@ -3,7 +3,7 @@ title: "Berggarten"
 site_name: "Berggarten"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Hannover, Germany"
+description: "Berggarten, a beautiful botanical garden located in Hannover, Germany, invites visitors to explore an impressive collection of plant species from around the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

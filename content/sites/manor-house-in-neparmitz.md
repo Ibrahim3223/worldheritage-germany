@@ -3,7 +3,7 @@ title: "Manor house in Neparmitz"
 site_name: "Manor house in Neparmitz"
 date: 2026-01-26
 draft: false
-description: "Gutshof und Herrenhaus auf der Insel Rügen"
+description: "The Manor House in Neparmitz, located in the picturesque region of Poseritz on the island of Rügen, Germany, holds a special place in the cultural landscape..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

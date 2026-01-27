@@ -3,7 +3,7 @@ title: "Burg Hausdorp"
 site_name: "Burg Hausdorp"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hausdorp, a historic castle located in the picturesque region of Lohmar, Germany, invites visitors to explore its storied past and architectural charm."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

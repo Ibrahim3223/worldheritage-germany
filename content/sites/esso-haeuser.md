@@ -3,7 +3,7 @@ title: "Esso-Häuser"
 site_name: "Esso-Häuser"
 date: 2026-01-26
 draft: false
-description: "former building group in Hamburg, Germany"
+description: "Esso-Häuser, an architectural ensemble located in the heart of Hamburg-Mitte, Germany, represents a significant chapter in the city’s urban development."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

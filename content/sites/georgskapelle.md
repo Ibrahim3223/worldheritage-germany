@@ -3,7 +3,7 @@ title: "Georgskapelle"
 site_name: "Georgskapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Georgskapelle, a quaint chapel located in the Stadtbezirk Bonn region of Germany, is a remarkable site that embodies the spiritual and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

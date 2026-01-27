@@ -3,7 +3,7 @@ title: "Alte Veste"
 site_name: "Alte Veste"
 date: 2026-01-26
 draft: false
-description: "castle near Fürth, Germany"
+description: "Alte Veste, a historic castle located near Fürth in Germany, is a site that encapsulates the architectural and cultural legacy of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

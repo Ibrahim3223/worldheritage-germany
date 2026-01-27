@@ -3,7 +3,7 @@ title: "Maria-Hilf-Kapelle Valepp"
 site_name: "Maria-Hilf-Kapelle Valepp"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Valepp"
+description: "Maria-Hilf-Kapelle Valepp is a charming chapel located in the serene Valepp region of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Graphic Art Collection of the City of Nuremberg"
 site_name: "Graphic Art Collection of the City of Nuremberg"
 date: 2026-01-26
 draft: false
-description: "Graphische Sammlung Teil der Kunstsammlungen der Stadt Nürnberg"
+description: "The Graphic Art Collection of the City of Nuremberg is a distinguished art museum dedicated to the preservation and exhibition of graphic arts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

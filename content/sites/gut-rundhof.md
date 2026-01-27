@@ -3,7 +3,7 @@ title: "Gut Rundhof"
 site_name: "Gut Rundhof"
 date: 2026-01-26
 draft: false
-description: "manor house"
+description: "Gut Rundhof is an esteemed manor house located in the serene region of Stangheck, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Manor House"

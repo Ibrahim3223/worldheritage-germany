@@ -3,7 +3,7 @@ title: "Prinz Albrecht von Preußen Memorial"
 site_name: "Prinz Albrecht von Preußen Memorial"
 date: 2026-01-26
 draft: false
-description: "statue in Berlin, Germany"
+description: "The Prinz Albrecht von Preußen Memorial is a notable monument located in the heart of Berlin, Germany, specifically within the district of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

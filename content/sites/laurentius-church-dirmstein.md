@@ -3,7 +3,7 @@ title: "Laurentius Church (Dirmstein)"
 site_name: "Laurentius Church (Dirmstein)"
 date: 2026-01-26
 draft: false
-description: "church building in Dirmstein, Germany"
+description: "Laurentius Church, located in the quaint village of Dirmstein, Germany, is an architectural and cultural landmark that reflects the historical essence of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

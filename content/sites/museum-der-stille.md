@@ -3,7 +3,7 @@ title: "Museum der Stille"
 site_name: "Museum der Stille"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Bezirk Mitte, Germany, the Museum der Stille presents an intriguing exploration of the intersection between art and contemplation."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

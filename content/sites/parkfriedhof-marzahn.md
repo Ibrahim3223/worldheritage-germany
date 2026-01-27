@@ -3,7 +3,7 @@ title: "Parkfriedhof Marzahn"
 site_name: "Parkfriedhof Marzahn"
 date: 2026-01-26
 draft: false
-description: "cemetery in Berlin, Germany"
+description: "Parkfriedhof Marzahn is a significant memorial site located in the Marzahn-Hellersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

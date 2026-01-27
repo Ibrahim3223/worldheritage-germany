@@ -3,7 +3,7 @@ title: "Veterinärmedizinhistorisches Museum der Tierärztlichen Hochschule Hann
 site_name: "Veterinärmedizinhistorisches Museum der Tierärztlichen Hochschule Hannover"
 date: 2026-01-26
 draft: false
-description: "museum in Hannover, Germany"
+description: "The Veterinärmedizinhistorisches Museum der Tierärztlichen Hochschule Hannover is a unique institution located in Hannover, Germany, dedicated to the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

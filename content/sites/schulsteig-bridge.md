@@ -3,7 +3,7 @@ title: "Schulsteig bridge"
 site_name: "Schulsteig bridge"
 date: 2026-01-26
 draft: false
-description: "bridge in Bispingen-Haverbeck"
+description: "The Schulsteig Bridge in Bispingen-Haverbeck, Germany, is a remarkable structure that stands out with its elegant architecture and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Bridge"

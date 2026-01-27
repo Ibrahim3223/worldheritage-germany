@@ -3,7 +3,7 @@ title: "Blankes Flat"
 site_name: "Blankes Flat"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Blankes Flat is a noteworthy nature reserve located in the Neustadt am Rübenberge region of Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

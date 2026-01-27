@@ -3,7 +3,7 @@ title: "Art Collections Chemnitz"
 site_name: "Art Collections Chemnitz"
 date: 2026-01-26
 draft: false
-description: "museums in Chemnitz, Germany"
+description: "Art Collections Chemnitz stands as a significant cultural institution within the vibrant city of Chemnitz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Würzburger Stein"
 site_name: "Würzburger Stein"
 date: 2026-01-26
 draft: false
-description: "Vineyard"
+description: "Würzburger Stein, a prominent cultural landscape located in the heart of Germany's Franconian wine region, is a striking testament to centuries of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Landscape"

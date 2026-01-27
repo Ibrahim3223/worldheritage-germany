@@ -3,7 +3,7 @@ title: "Rathaus (Eningen unter Achalm)"
 site_name: "Rathaus (Eningen unter Achalm)"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Rathaus in Eningen unter Achalm serves as the city hall and is a significant landmark for both locals and visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Hall"

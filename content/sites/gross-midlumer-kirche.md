@@ -3,7 +3,7 @@ title: "Groß Midlumer Kirche"
 site_name: "Groß Midlumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the tranquil region of Hinte, Germany, the Groß Midlumer Kirche serves as a significant landmark and a place of spiritual gathering for the local..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

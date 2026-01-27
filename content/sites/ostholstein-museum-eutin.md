@@ -3,7 +3,7 @@ title: "Ostholstein-Museum Eutin"
 site_name: "Ostholstein-Museum Eutin"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Ostholstein-Museum Eutin is an esteemed art museum located in the quaint town of Eutin, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Art Museum"

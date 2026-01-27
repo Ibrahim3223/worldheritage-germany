@@ -3,7 +3,7 @@ title: "Altenberg Abbey, Odenthal"
 site_name: "Altenberg Abbey, Odenthal"
 date: 2026-01-26
 draft: false
-description: "former Cistercian monastery in Odenthal"
+description: "Altenberg Abbey is a remarkable former Cistercian monastery located in Odenthal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

@@ -3,7 +3,7 @@ title: "Christuskirche, Hamburg-Wandsbek"
 site_name: "Christuskirche, Hamburg-Wandsbek"
 date: 2026-01-26
 draft: false
-description: "German church"
+description: "Christuskirche, located in the Wandsbek district of Hamburg, Germany, is a striking example of a German church building that encapsulates both religious and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

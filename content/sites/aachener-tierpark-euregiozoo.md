@@ -3,7 +3,7 @@ title: "Aachener Tierpark Euregiozoo"
 site_name: "Aachener Tierpark Euregiozoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Aachen, Germany"
+description: "The Aachener Tierpark Euregiozoo, located in the heart of Aachen-Mitte, Germany, is a captivating destination for animal lovers and families alike."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Zoo"

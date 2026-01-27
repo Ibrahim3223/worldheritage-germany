@@ -3,7 +3,7 @@ title: "Zeche Clarenberg"
 site_name: "Zeche Clarenberg"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Clarenberg, a significant site in the mining history of Dortmund, Germany, offers an insight into the industrial heritage that shaped this region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

@@ -3,7 +3,7 @@ title: "Striegisbrücke Niederstriegis"
 site_name: "Striegisbrücke Niederstriegis"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Striegisbrücke Niederstriegis is a remarkable bridge located in the Roßwein region of Germany, embodying the country’s rich engineering heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

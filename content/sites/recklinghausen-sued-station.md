@@ -3,7 +3,7 @@ title: "Recklinghausen Süd station"
 site_name: "Recklinghausen Süd station"
 date: 2026-01-26
 draft: false
-description: "railway station in Recklinghausen, Germany"
+description: "Recklinghausen Süd station serves as a vital hub in the German railway network, located in the heart of Recklinghausen, a city known for its rich industrial..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

@@ -3,7 +3,7 @@ title: "Museum Quintana"
 site_name: "Museum Quintana"
 date: 2026-01-26
 draft: false
-description: "museum in Künzing, Germany"
+description: "Museum Quintana, located in the quaint region of Künzing, Germany, offers visitors an insightful glimpse into the local heritage and culture."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

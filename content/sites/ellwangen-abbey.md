@@ -3,7 +3,7 @@ title: "Ellwangen Abbey"
 site_name: "Ellwangen Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey in Ellwangen (Jagst), Germany, and principality of the Holy Roman Empire"
+description: "Ellwangen Abbey is a serene and historic monastery located in the town of Ellwangen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

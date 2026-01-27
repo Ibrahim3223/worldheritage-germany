@@ -3,7 +3,7 @@ title: "Ludwig Galerie Schloss Oberhausen"
 site_name: "Ludwig Galerie Schloss Oberhausen"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Ludwig Galerie Schloss Oberhausen serves as a prominent cultural establishment situated within the historic walls of a former castle in Oberhausen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

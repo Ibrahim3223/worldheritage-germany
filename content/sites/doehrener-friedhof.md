@@ -3,7 +3,7 @@ title: "Döhrener Friedhof"
 site_name: "Döhrener Friedhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Döhren-Wülfel, Germany"
+description: "Döhrener Friedhof, located in the Döhren-Wülfel district of Germany, presents an intriguing blend of serene beauty and historical significance."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

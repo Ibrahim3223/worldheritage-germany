@@ -3,7 +3,7 @@ title: "Kronach"
 site_name: "Kronach"
 date: 2026-01-26
 draft: false
-description: "railway halt in the district of Kronach, Upper Franconia, Germany"
+description: "Kronach, a quaint town in Upper Franconia, Germany, is not only known for its historical significance but also for its charming railway station, which..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

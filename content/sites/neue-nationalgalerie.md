@@ -3,7 +3,7 @@ title: "Neue Nationalgalerie"
 site_name: "Neue Nationalgalerie"
 date: 2026-01-26
 draft: false
-description: "art museum in Berlin, Germany"
+description: "The Neue Nationalgalerie, located in Berlin's Bezirk Mitte, is a distinguished art museum that captivates visitors with its modernist architecture and..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Augsburg Ice Hockey Museum"
 site_name: "Augsburg Ice Hockey Museum"
 date: 2026-01-26
 draft: false
-description: "German sports museum in Augsburg, Bavaria, Germany"
+description: "The Augsburg Ice Hockey Museum in Germany is a unique tribute to the enduring spirit and history of ice hockey, a sport that captivates fans across the globe."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

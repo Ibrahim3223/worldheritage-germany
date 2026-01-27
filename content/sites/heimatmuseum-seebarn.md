@@ -3,7 +3,7 @@ title: "Heimatmuseum Seebarn"
 site_name: "Heimatmuseum Seebarn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatmuseum Seebarn invites visitors to explore a museum that encapsulates the cultural heritage and historical narratives of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

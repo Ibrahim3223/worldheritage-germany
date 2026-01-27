@@ -3,7 +3,7 @@ title: "Mevlana mosque, berlin"
 site_name: "Mevlana mosque, berlin"
 date: 2026-01-26
 draft: false
-description: "Mosque"
+description: "The Mevlana Mosque, located in the Friedrichshain-Kreuzberg district of Berlin, serves as a significant cultural and religious center for the Muslim..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Mosque"

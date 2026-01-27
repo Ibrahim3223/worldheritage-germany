@@ -3,7 +3,7 @@ title: "Askanisches Gymnasium"
 site_name: "Askanisches Gymnasium"
 date: 2026-01-26
 draft: false
-description: "school building in Berlin"
+description: "The Askanisches Gymnasium stands as an important educational establishment in the heart of Berlin's Friedrichshain-Kreuzberg region."
 region: "Berlin"
 country: "Germany"
 heritage_type: "School Building"

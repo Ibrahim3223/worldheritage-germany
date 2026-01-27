@@ -3,7 +3,7 @@ title: "Haidhausen-Museum"
 site_name: "Haidhausen-Museum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Haidhausen-Museum is a noteworthy destination that offers visitors an insightful glimpse into the cultural and historical fabric of Au-Haidhausen, a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

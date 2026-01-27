@@ -3,7 +3,7 @@ title: "Beisheim Center"
 site_name: "Beisheim Center"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the heart of Berlin's Bezirk Mitte district lies the Beisheim Center, an architectural ensemble that encapsulates contemporary design and urban..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

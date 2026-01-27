@@ -3,7 +3,7 @@ title: "Hodenhagen Castle"
 site_name: "Hodenhagen Castle"
 date: 2026-01-26
 draft: false
-description: "former castle in Lower Saxony"
+description: "Hodenhagen Castle, a former castle located in the picturesque region of Lower Saxony, Germany, invites visitors to explore its storied past and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

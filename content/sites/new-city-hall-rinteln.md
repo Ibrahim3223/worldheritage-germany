@@ -3,7 +3,7 @@ title: "New city hall, Rinteln"
 site_name: "New city hall, Rinteln"
 date: 2026-01-26
 draft: false
-description: "listed building in Rinteln, Lower Saxony, Germany"
+description: "The New City Hall in Rinteln, Germany, is a significant landmark that offers a glimpse into the architectural and civic evolution of this charming town in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

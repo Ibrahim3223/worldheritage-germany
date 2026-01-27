@@ -3,7 +3,7 @@ title: "Bruder-Konrad-Kapelle"
 site_name: "Bruder-Konrad-Kapelle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Bruder-Konrad-Kapelle, located in Aitrach, Germany, is an architectural structure that embodies the spiritual essence of its surroundings."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

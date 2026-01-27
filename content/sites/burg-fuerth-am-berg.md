@@ -3,7 +3,7 @@ title: "Burg Fürth am Berg"
 site_name: "Burg Fürth am Berg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Burg Fürth am Berg is a striking cultural heritage monument located in Bavaria, Germany, that invites visitors to explore its storied past and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

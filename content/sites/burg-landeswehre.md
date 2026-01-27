@@ -3,7 +3,7 @@ title: "Burg Landeswehre"
 site_name: "Burg Landeswehre"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Landeswehre, a historic castle located in the Meiningen region of Germany, invites visitors to explore its storied past and architectural intrigue."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Castle"

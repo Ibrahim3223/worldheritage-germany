@@ -3,7 +3,7 @@ title: "Burg Megling"
 site_name: "Burg Megling"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Megling, a captivating castle located in the picturesque region of Gars, Germany, offers visitors an intriguing glimpse into the architectural and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

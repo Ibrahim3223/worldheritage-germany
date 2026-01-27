@@ -3,7 +3,7 @@ title: "Burg Kranenburg"
 site_name: "Burg Kranenburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kranenburg is an enchanting castle located in the serene region of Kranenburg, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

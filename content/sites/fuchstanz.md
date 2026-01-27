@@ -3,7 +3,7 @@ title: "Fuchstanz"
 site_name: "Fuchstanz"
 date: 2026-01-26
 draft: false
-description: "mountain pass"
+description: "Fuchstanz is a notable mountain pass located in Germany's Hochtaunuskreis region, offering travelers a unique intersection of natural beauty and historical..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain Pass"

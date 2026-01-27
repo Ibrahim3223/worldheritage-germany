@@ -3,7 +3,7 @@ title: "Museum in der Majolika-Manufaktur"
 site_name: "Museum in der Majolika-Manufaktur"
 date: 2026-01-26
 draft: false
-description: "Museum in Karlsruhe"
+description: "The Museum in der Majolika-Manufaktur, located in Karlsruhe, Germany, offers a fascinating glimpse into the world of pottery and ceramics."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

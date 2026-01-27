@@ -3,7 +3,7 @@ title: "Künstlerhaus Marktoberdorf"
 site_name: "Künstlerhaus Marktoberdorf"
 date: 2026-01-26
 draft: false
-description: "art museum in Germany"
+description: "The Künstlerhaus Marktoberdorf stands as a significant cultural institution in Germany, dedicated to the appreciation and promotion of artistic expression."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

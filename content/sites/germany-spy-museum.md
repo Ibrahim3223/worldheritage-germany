@@ -3,7 +3,7 @@ title: "Germany Spy Museum"
 site_name: "Germany Spy Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Berlin"
+description: "In the heart of Berlin, the Germany Spy Museum invites visitors to delve into the world of espionage and intelligence gathering, showcasing the secretive..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

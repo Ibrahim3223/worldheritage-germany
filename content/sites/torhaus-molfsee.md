@@ -3,7 +3,7 @@ title: "Torhaus Molfsee"
 site_name: "Torhaus Molfsee"
 date: 2026-01-26
 draft: false
-description: "house in the open-air museum Molfsee"
+description: "Torhaus Molfsee, a striking gatehouse located in the open-air museum of Molfsee, Germany, serves as a portal into the architectural and cultural traditions..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Gatehouse"

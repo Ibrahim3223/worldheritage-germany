@@ -3,7 +3,7 @@ title: "Burg Esesfeld"
 site_name: "Burg Esesfeld"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Esesfeld is a historically significant hillfort located in the Itzehoe region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Hillfort"

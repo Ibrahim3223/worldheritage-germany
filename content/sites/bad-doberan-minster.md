@@ -3,7 +3,7 @@ title: "Bad Doberan Minster"
 site_name: "Bad Doberan Minster"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bad Doberan Minster, an architectural marvel located in the heart of Bad Doberan, Germany, is a significant church building that attracts visitors with its..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

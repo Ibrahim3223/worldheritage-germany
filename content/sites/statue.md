@@ -3,7 +3,7 @@ title: "Statue"
 site_name: "Statue"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-76-145-60 (0) in Kronach, Bavaria"
+description: "In the heart of Kronach, Bavaria, stands a cultural heritage monument that captures both the imagination and the spirit of the region—the Statue."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Statue"

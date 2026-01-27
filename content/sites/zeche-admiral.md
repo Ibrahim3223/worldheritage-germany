@@ -3,7 +3,7 @@ title: "Zeche Admiral"
 site_name: "Zeche Admiral"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Admiral, located in Dortmund, Germany, is a significant site that reflects the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

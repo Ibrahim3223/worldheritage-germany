@@ -3,7 +3,7 @@ title: "EMAG Zerbst Maschinenfabrik GmbH"
 site_name: "EMAG Zerbst Maschinenfabrik GmbH"
 date: 2026-01-26
 draft: false
-description: "company in Zerbst, Germany"
+description: "EMAG Zerbst Maschinenfabrik GmbH, located in the historic town of Zerbst, Germany, is a factory with a significant legacy in the field of manufacturing."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Factory"

@@ -3,7 +3,7 @@ title: "Burg Leinstetten"
 site_name: "Burg Leinstetten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Set against the backdrop of the serene town of Dornhan in Germany, Burg Leinstetten is a captivating castle that invites visitors to explore its storied..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

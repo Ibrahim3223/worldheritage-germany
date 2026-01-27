@@ -3,7 +3,7 @@ title: "Haus Rechen"
 site_name: "Haus Rechen"
 date: 2026-01-26
 draft: false
-description: "nicht erhaltenes Herrenhaus in Bochum"
+description: "Haus Rechen, a former manor house located in Bochum, Germany, offers a glimpse into the region's historical architecture and cultural evolution."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Manor House"

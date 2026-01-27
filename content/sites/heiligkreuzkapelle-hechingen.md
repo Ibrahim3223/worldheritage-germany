@@ -3,7 +3,7 @@ title: "Heiligkreuzkapelle Hechingen"
 site_name: "Heiligkreuzkapelle Hechingen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Heiligkreuzkapelle Hechingen, a charming chapel located in the heart of Hechingen, Germany, offers visitors a glimpse into the region's architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

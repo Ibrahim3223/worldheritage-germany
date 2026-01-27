@@ -3,7 +3,7 @@ title: "Albert Mooren fountain"
 site_name: "Albert Mooren fountain"
 date: 2026-01-26
 draft: false
-description: "fountain in Düsseldorf, Germany"
+description: "The Albert Mooren fountain in Düsseldorf is more than just a water feature; it is an embodiment of the city’s artistic spirit and a gathering point for..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

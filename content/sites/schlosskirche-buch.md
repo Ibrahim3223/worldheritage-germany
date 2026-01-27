@@ -3,7 +3,7 @@ title: "Schlosskirche Buch"
 site_name: "Schlosskirche Buch"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin"
+description: "Schlosskirche Buch is a notable church building located in the Pankow district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

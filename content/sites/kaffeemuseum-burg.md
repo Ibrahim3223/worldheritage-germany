@@ -3,7 +3,7 @@ title: "Kaffeemuseum Burg"
 site_name: "Kaffeemuseum Burg"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg, Germany"
+description: "In the vibrant heart of Hamburg, the Kaffeemuseum Burg offers an inviting exploration into the world of coffee."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

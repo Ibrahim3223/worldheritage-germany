@@ -3,7 +3,7 @@ title: "Dorfmuseum Tündern"
 site_name: "Dorfmuseum Tündern"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Tündern, located in Germany, offers a unique glimpse into the region's cultural heritage and traditional rural life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

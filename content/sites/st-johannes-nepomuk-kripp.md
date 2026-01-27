@@ -3,7 +3,7 @@ title: "St. Johannes Nepomuk (Kripp)"
 site_name: "St. Johannes Nepomuk (Kripp)"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "St. Johannes Nepomuk in Kripp, Germany, is an engaging parish church that offers visitors a glimpse into the spiritual and architectural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

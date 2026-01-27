@@ -3,7 +3,7 @@ title: "Liboriuskapelle"
 site_name: "Liboriuskapelle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Liboriuskapelle, a remarkable chapel located in Salzkotten, Germany, serves as a striking example of architectural craftsmanship and cultural heritage."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Chapel"

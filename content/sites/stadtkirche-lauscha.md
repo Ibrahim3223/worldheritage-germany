@@ -3,7 +3,7 @@ title: "Stadtkirche Lauscha"
 site_name: "Stadtkirche Lauscha"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Stadtkirche Lauscha, an inviting church building located in the enchanting town of Lauscha, Germany, stands as a significant landmark reflecting the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

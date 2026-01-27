@@ -3,7 +3,7 @@ title: "Brauerei"
 site_name: "Brauerei"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-63-000-813 (0) in Coburg, Bavaria"
+description: "The Brauerei in Coburg, Bavaria, represents a significant cultural heritage monument in Germany's rich brewing history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Brewery"

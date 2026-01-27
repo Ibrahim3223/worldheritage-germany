@@ -3,7 +3,7 @@ title: "St. Rupert"
 site_name: "St. Rupert"
 date: 2026-01-26
 draft: false
-description: "church building in Schwanthalerhöhe, Upper Bavaria, Germany"
+description: "St. Rupert is a distinguished church building situated in Schwanthalerhöhe, a vibrant district in Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Tuchmacher-Museum Bramsche"
 site_name: "Tuchmacher-Museum Bramsche"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Tuchmacher-Museum Bramsche invites visitors to delve into the intricate world of traditional craftsmanship, specifically focusing on the art of textile..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Bogenbrücke der Alten Böhmischen Glasstraße Ulbersdorf"
 site_name: "Bogenbrücke der Alten Böhmischen Glasstraße Ulbersdorf"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Bogenbrücke der Alten Böhmischen Glasstraße, or the Arch Bridge of the Old Bohemian Glass Road, is a remarkable structure situated in the picturesque..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

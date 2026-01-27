@@ -3,7 +3,7 @@ title: "St Katharinen in Stralsund"
 site_name: "St Katharinen in Stralsund"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "In the heart of Stralsund, Germany, the St. Katharinen Monastery stands as a compelling site of historical and architectural significance."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monastery"

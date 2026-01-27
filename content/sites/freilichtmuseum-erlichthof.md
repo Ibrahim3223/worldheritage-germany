@@ -3,7 +3,7 @@ title: "Freilichtmuseum Erlichthof"
 site_name: "Freilichtmuseum Erlichthof"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Freilichtmuseum Erlichthof is a captivating museum located in Rietschen, Germany, dedicated to showcasing the traditional rural life of the region through..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

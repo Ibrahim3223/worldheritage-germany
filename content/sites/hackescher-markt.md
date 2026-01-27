@@ -3,7 +3,7 @@ title: "Hackescher Markt"
 site_name: "Hackescher Markt"
 date: 2026-01-26
 draft: false
-description: "public square in Berlin-Mitte, Germany"
+description: "Hackescher Markt is a vibrant public square located in the heart of Berlin-Mitte, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Eichsfelder Heimatmuseum"
 site_name: "Eichsfelder Heimatmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Eichsfelder Heimatmuseum is a prominent cultural institution located in Heilbad Heiligenstadt, Germany, dedicated to preserving and showcasing the heritage..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

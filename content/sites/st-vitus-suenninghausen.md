@@ -3,7 +3,7 @@ title: "St. Vitus (Sünninghausen)"
 site_name: "St. Vitus (Sünninghausen)"
 date: 2026-01-26
 draft: false
-description: "church building in Oelde, Germany"
+description: "St. Vitus (Sünninghausen) is a striking church building located in Oelde, Germany, that invites visitors to explore its historical and architectural..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

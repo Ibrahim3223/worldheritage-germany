@@ -3,7 +3,7 @@ title: "Dorfkirche Parchen"
 site_name: "Dorfkirche Parchen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Dorfkirche Parchen, a quaint church building located in the Genthin region of Germany, invites visitors to explore its serene atmosphere and historical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

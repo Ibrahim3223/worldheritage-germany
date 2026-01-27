@@ -3,7 +3,7 @@ title: "St. Hubert Chapel"
 site_name: "St. Hubert Chapel"
 date: 2026-01-26
 draft: false
-description: "chapel in Düsseldorf-Angermund, Germany"
+description: "St. Hubert Chapel, located in the tranquil district of Düsseldorf-Angermund, Germany, offers visitors a serene glimpse into the region's spiritual heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

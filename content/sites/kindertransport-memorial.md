@@ -3,7 +3,7 @@ title: "Kindertransport memorial"
 site_name: "Kindertransport memorial"
 date: 2026-01-26
 draft: false
-description: "Bronzeskulptur am Südausgang des Bahnhofs Hamburg Dammtor"
+description: "The Kindertransport memorial in Hamburg serves as a poignant reminder of the lives affected by the Holocaust and the bravery shown by those who rescued..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Memorial"

@@ -3,7 +3,7 @@ title: "East Prussian Regional Museum"
 site_name: "East Prussian Regional Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Lüneburg"
+description: "The East Prussian Regional Museum, located in the historic town of Lüneburg, Germany, serves as a vibrant cultural hub that showcases the art, history, and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

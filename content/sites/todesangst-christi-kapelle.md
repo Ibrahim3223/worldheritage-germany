@@ -3,7 +3,7 @@ title: "Todesangst-Christi-Kapelle"
 site_name: "Todesangst-Christi-Kapelle"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "The Todesangst-Christi-Kapelle, a striking chapel located in Germany, embodies an intriguing blend of spiritual purpose and architectural finesse."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

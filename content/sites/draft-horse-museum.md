@@ -3,7 +3,7 @@ title: "Draft Horse Museum"
 site_name: "Draft Horse Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Draft Horse Museum in Lütau, Germany, invites visitors to explore the fascinating world of draft horses and their significant role in agricultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

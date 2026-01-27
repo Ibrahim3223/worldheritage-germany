@@ -3,7 +3,7 @@ title: "Wildpark Poing"
 site_name: "Wildpark Poing"
 date: 2026-01-26
 draft: false
-description: "Wildpark in Deutschland"
+description: "Wildpark Poing, located in the picturesque region of Poing, Germany, is more than just a zoo; it is a sanctuary for wildlife that invites visitors to..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Zoo"

@@ -3,7 +3,7 @@ title: "Plauen (Vogtl) ob Bf railway station"
 site_name: "Plauen (Vogtl) ob Bf railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Plauen, Germany"
+description: "Plauen (Vogtl) ob Bf railway station, located in the heart of Plauen, Germany, serves as a vital hub in the region's transport network."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

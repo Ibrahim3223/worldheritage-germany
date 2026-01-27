@@ -3,7 +3,7 @@ title: "Karl Gebhardt watch collection"
 site_name: "Karl Gebhardt watch collection"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Karl Gebhardt watch collection in Nuremberg, Germany, offers a fascinating insight into the intricate world of horology through its diverse array of..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

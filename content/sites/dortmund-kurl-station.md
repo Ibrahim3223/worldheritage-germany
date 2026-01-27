@@ -3,7 +3,7 @@ title: "Dortmund-Kurl station"
 site_name: "Dortmund-Kurl station"
 date: 2026-01-26
 draft: false
-description: "railway station in Dortmund, Germany"
+description: "Dortmund-Kurl station serves as a vital point in the extensive German railway network, connecting the quaint suburb of Kurl to larger urban centers."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Railway Station"

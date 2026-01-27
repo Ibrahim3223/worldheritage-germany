@@ -3,7 +3,7 @@ title: "museumslandschaft hessen kassel - Torwache am Hessischen Landesmuseum"
 site_name: "museumslandschaft hessen kassel - Torwache am Hessischen Landesmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The museumslandschaft hessen kassel - Torwache am Hessischen Landesmuseum represents a unique intersection of art, culture, and history in Kassel, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

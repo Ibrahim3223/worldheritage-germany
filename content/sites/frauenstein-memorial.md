@@ -3,7 +3,7 @@ title: "Frauenstein memorial"
 site_name: "Frauenstein memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Schwangau, Germany"
+description: "The Frauenstein memorial in Schwangau, Germany, stands as a poignant tribute to remembrance and reflection."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

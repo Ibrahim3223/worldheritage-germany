@@ -3,7 +3,7 @@ title: "Friedhofshalle und Gedenkstätte der jüdischen Gemeinde, Düsseldorf"
 site_name: "Friedhofshalle und Gedenkstätte der jüdischen Gemeinde, Düsseldorf"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the heart of Düsseldorf, the Friedhofshalle und Gedenkstätte der jüdischen Gemeinde serves as a poignant reminder of the Jewish community's history and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Memorial"

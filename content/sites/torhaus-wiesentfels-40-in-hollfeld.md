@@ -3,7 +3,7 @@ title: "Torhaus Wiesentfels 40 in Hollfeld"
 site_name: "Torhaus Wiesentfels 40 in Hollfeld"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-72-154-77 (2) in Hollfeld, Bavaria"
+description: "Torhaus Wiesentfels 40, located in the heart of Hollfeld, Bavaria, is a remarkable gatehouse that serves as a cultural heritage monument, designated as..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Gatehouse"

@@ -3,7 +3,7 @@ title: "Kirche Sietow"
 site_name: "Kirche Sietow"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Located in the quaint village of Sietow, Germany, Kirche Sietow stands as a notable example of the region's ecclesiastical architecture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

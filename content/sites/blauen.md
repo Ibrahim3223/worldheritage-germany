@@ -3,7 +3,7 @@ title: "Blauen"
 site_name: "Blauen"
 date: 2026-01-26
 draft: false
-description: "mountain of the Black Forest, Germany"
+description: "Blauen, a prominent mountain located in the Black Forest region of Germany, captivates visitors with its natural beauty and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

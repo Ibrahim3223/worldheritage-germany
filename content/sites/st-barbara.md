@@ -3,7 +3,7 @@ title: "St. Barbara"
 site_name: "St. Barbara"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Barbara, located in the vibrant city of Dortmund, Germany, is a remarkable church building that stands as an important part of the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

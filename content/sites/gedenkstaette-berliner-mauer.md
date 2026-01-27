@@ -3,7 +3,7 @@ title: "Gedenkstätte Berliner Mauer"
 site_name: "Gedenkstätte Berliner Mauer"
 date: 2026-01-26
 draft: false
-description: "Berlin Wall Memorial (Gedenkstätte Berliner Mauer)"
+description: "The Gedenkstätte Berliner Mauer, or Berlin Wall Memorial, serves as a poignant reminder of a divided city and an era marked by stark contrasts."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

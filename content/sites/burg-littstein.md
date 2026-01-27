@@ -3,7 +3,7 @@ title: "Burg Littstein"
 site_name: "Burg Littstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the scenic region of Bad Urach, Burg Littstein is a captivating castle that invites visitors to explore its historical significance and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

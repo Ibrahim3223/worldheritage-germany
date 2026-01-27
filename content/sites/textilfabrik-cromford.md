@@ -3,7 +3,7 @@ title: "Textilfabrik Cromford"
 site_name: "Textilfabrik Cromford"
 date: 2026-01-26
 draft: false
-description: "museum in Ratingen, Germany, first factory in continental Europe"
+description: "Textilfabrik Cromford, located in Ratingen, Germany, is a remarkable museum that holds the distinction of being the first factory in continental Europe."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

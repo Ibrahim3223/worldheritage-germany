@@ -3,7 +3,7 @@ title: "Bait ul-Ghafur Mosque"
 site_name: "Bait ul-Ghafur Mosque"
 date: 2026-01-26
 draft: false
-description: "Mosque in Ginsheim, Germany"
+description: "Bait ul-Ghafur Mosque stands as a significant place of worship located in Ginsheim, Germany, within the region of Gustavsburg."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

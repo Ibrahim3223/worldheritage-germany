@@ -3,7 +3,7 @@ title: "Burgwall Feldberg"
 site_name: "Burgwall Feldberg"
 date: 2026-01-26
 draft: false
-description: "hill fort"
+description: "Burgwall Feldberg is an intriguing hillfort located in the scenic Feldberger Seenlandschaft region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

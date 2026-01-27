@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Döhlen 6 (bei)"
 site_name: "Steindeckerbrücke Döhlen 6 (bei)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke Döhlen 6 stands as a notable bridge in the picturesque region of Kubschütz, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

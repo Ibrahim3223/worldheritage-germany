@@ -3,7 +3,7 @@ title: "Dieksbeck"
 site_name: "Dieksbeck"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Dieksbeck, located in the serene region of Bienenbüttel in Lower Saxony, Germany, is a nature reserve that invites visitors to immerse themselves in the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

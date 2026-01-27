@@ -3,7 +3,7 @@ title: "Christuskirche und Altes Pfarrhaus"
 site_name: "Christuskirche und Altes Pfarrhaus"
 date: 2026-01-26
 draft: false
-description: "building ensemble in Bremerhaven, Germany"
+description: "In the heart of Bremerhaven lies an architectural ensemble that captures the essence of German historical and cultural heritage: the Christuskirche und..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

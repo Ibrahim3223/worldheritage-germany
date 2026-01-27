@@ -3,7 +3,7 @@ title: "Museum Frauenkultur"
 site_name: "Museum Frauenkultur"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Frauenkultur in Fürth, Germany, is a unique institution dedicated to the exploration and celebration of women's contributions to culture and society."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

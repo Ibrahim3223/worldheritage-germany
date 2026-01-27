@@ -3,7 +3,7 @@ title: "Landschaftsgarten in Lauf an der Pegnitz"
 site_name: "Landschaftsgarten in Lauf an der Pegnitz"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "The Landschaftsgarten in Lauf an der Pegnitz represents a serene escape into the heart of Bavaria, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

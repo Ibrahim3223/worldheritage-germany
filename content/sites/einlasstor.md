@@ -3,7 +3,7 @@ title: "Einlasstor"
 site_name: "Einlasstor"
 date: 2026-01-26
 draft: false
-description: "building in Old Town, Upper Bavaria, Germany"
+description: "The Einlasstor, a historic city gate located in the heart of Altstadt-Lehel, is a remarkable example of medieval architecture that has witnessed the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Gate"

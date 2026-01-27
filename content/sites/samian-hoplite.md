@@ -3,7 +3,7 @@ title: "Samian Hoplite"
 site_name: "Samian Hoplite"
 date: 2026-01-26
 draft: false
-description: "ancient Greek statue, preserved in parts, today at the Antikensammlung Berlin"
+description: "The Samian Hoplite is a striking representation of ancient Greek artistry and martial culture, preserved in parts and currently housed at the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

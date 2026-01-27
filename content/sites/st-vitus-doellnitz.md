@@ -3,7 +3,7 @@ title: "St. Vitus (Döllnitz)"
 site_name: "St. Vitus (Döllnitz)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Vitus in Döllnitz is more than just a church; it is an emblematic structure that speaks to the spiritual and cultural life of its community in Schkopau,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

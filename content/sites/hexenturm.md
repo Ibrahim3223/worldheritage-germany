@@ -3,7 +3,7 @@ title: "Hexenturm"
 site_name: "Hexenturm"
 date: 2026-01-26
 draft: false
-description: "tower in Burg, Germany"
+description: "Hexenturm, located in the quaint town of Burg, Germany, is a museum that captures the attention of history enthusiasts and curious travelers alike."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

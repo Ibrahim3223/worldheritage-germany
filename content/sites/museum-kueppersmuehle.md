@@ -3,7 +3,7 @@ title: "Museum Küppersmühle"
 site_name: "Museum Küppersmühle"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Küppersmühle is an art museum located in Duisburg-Mitte, Germany, which serves as a vital cultural hub within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

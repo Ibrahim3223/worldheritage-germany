@@ -3,7 +3,7 @@ title: "Varnhagensche library"
 site_name: "Varnhagensche library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Varnhagensche Library, located in Iserlohn, Germany, is a notable cultural institution that offers a sanctuary for book lovers and history enthusiasts..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Library"

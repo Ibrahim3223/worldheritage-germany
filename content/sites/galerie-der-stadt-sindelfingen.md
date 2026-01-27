@@ -3,7 +3,7 @@ title: "Galerie der Stadt Sindelfingen"
 site_name: "Galerie der Stadt Sindelfingen"
 date: 2026-01-26
 draft: false
-description: "Museum für zeitgenössische Kunst"
+description: "The Galerie der Stadt Sindelfingen serves as a vibrant hub for contemporary art within the historical backdrop of Sindelfingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

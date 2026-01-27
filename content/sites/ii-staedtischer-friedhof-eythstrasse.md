@@ -3,7 +3,7 @@ title: "II. Städtischer Friedhof Eythstraße"
 site_name: "II. Städtischer Friedhof Eythstraße"
 date: 2026-01-26
 draft: false
-description: "cemetery in Tempelhof-Schöneberg, Germany"
+description: "The II. Städtischer Friedhof Eythstraße, located in the Tempelhof-Schöneberg district of Berlin, is a significant cemetery that reflects the changing tides..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cemetery"

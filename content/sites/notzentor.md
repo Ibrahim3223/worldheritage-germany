@@ -3,7 +3,7 @@ title: "Notzentor"
 site_name: "Notzentor"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Stadttor der oberschwäbischen Stadt Memmingen"
+description: "The Notzentor, a former city gate located in the heart of Memmingen, Germany, serves as a remarkable remnant of the city’s historical fortifications."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "City Gate"

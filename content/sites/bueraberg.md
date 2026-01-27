@@ -3,7 +3,7 @@ title: "Büraberg"
 site_name: "Büraberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Büraberg, a prominent mountain located in Hesse, Germany, serves as a captivating natural landmark that attracts visitors with its serene landscapes and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mountain"

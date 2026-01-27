@@ -3,7 +3,7 @@ title: "Westwallmuseum Konz"
 site_name: "Westwallmuseum Konz"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Westwallmuseum Konz offers a unique glimpse into the historical significance of Germany’s West Wall, an impressive line of fortifications constructed..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

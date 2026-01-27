@@ -3,7 +3,7 @@ title: "Hochdorf Chieftain's Grave"
 site_name: "Hochdorf Chieftain's Grave"
 date: 2026-01-26
 draft: false
-description: "burial chamber and museum"
+description: "The Hochdorf Chieftain's Grave is an intriguing archaeological site located in Eberdingen, Germany, that offers a unique glimpse into the funerary practices..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

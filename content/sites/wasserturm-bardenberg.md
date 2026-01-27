@@ -3,7 +3,7 @@ title: "Wasserturm Bardenberg"
 site_name: "Wasserturm Bardenberg"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Wasserturm Bardenberg is a striking tower located in the quaint town of Würselen, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "St. Hubertus"
 site_name: "St. Hubertus"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "St. Hubertus, a remarkable church building located in the charming town of Schmallenberg, Germany, encapsulates the essence of ecclesiastical architecture..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

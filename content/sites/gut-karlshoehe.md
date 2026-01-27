@@ -3,7 +3,7 @@ title: "Gut Karlshöhe"
 site_name: "Gut Karlshöhe"
 date: 2026-01-26
 draft: false
-description: "building in Hamburg, Germany"
+description: "Gut Karlshöhe is an architectural ensemble located in Hamburg, Germany, that presents an intriguing glimpse into the region's historical and cultural landscape."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

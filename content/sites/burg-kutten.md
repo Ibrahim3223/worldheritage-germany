@@ -3,7 +3,7 @@ title: "Burg Kutten"
 site_name: "Burg Kutten"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kutten, a captivating castle located in the picturesque region of Wiggensbach, Germany, invites visitors to explore its storied past and architectural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

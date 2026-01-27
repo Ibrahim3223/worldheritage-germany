@@ -3,7 +3,7 @@ title: "Alte Kirche"
 site_name: "Alte Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Emden, Lower Saxony, Germany"
+description: "The Alte Kirche, a notable church building located in Emden, Lower Saxony, Germany, serves as a significant landmark within the region's rich cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

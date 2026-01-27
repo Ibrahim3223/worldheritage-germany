@@ -3,7 +3,7 @@ title: "Liebig Museum"
 site_name: "Liebig Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Liebig Museum, situated in Giessen, Germany, serves as a captivating destination for those interested in the intersection of science and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

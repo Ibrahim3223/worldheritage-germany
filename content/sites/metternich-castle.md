@@ -3,7 +3,7 @@ title: "Metternich Castle"
 site_name: "Metternich Castle"
 date: 2026-01-26
 draft: false
-description: "ruins of castle in Beilstein"
+description: "Metternich Castle, located in the scenic village of Beilstein in Germany, is a captivating ruin that offers a glimpse into the region's medieval past."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

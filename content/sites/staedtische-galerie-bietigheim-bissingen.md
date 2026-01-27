@@ -3,7 +3,7 @@ title: "Städtische Galerie Bietigheim-Bissingen"
 site_name: "Städtische Galerie Bietigheim-Bissingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Städtische Galerie Bietigheim-Bissingen is a notable art museum located in the heart of Bietigheim-Bissingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

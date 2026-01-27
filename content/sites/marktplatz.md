@@ -3,7 +3,7 @@ title: "Marktplatz"
 site_name: "Marktplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Heidelberg, Germany"
+description: "Marktplatz, a vibrant public square in Heidelberg, Germany, is a focal point of social and cultural life in this picturesque city."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Square"

@@ -3,7 +3,7 @@ title: "Evangelischer Pfarrhof Wegenstedt"
 site_name: "Evangelischer Pfarrhof Wegenstedt"
 date: 2026-01-26
 draft: false
-description: "timber framed house"
+description: "The Evangelischer Pfarrhof Wegenstedt is an intriguing architectural ensemble located in the quaint village of Wegenstedt, in the Calvörde region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

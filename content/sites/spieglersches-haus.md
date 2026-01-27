@@ -3,7 +3,7 @@ title: "Spiegler’sches Haus"
 site_name: "Spiegler’sches Haus"
 date: 2026-01-26
 draft: false
-description: "building in Dresden, Saxony, Germany"
+description: "Spiegler’sches Haus, a distinguished manor house located in the heart of Dresden, Germany, serves as a captivating example of the region's architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Asselersand"
 site_name: "Asselersand"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Asselersand, a designated nature reserve located in the Drochtersen region of Lower Saxony, Germany, is a sanctuary for wildlife and a retreat for nature..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

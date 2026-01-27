@@ -3,7 +3,7 @@ title: "Birgelener Pützchen"
 site_name: "Birgelener Pützchen"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Birgelener Pützchen, a serene chapel located in the Wassenberg region of Germany, serves as a quiet sanctuary for visitors seeking a moment of reflection..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

@@ -3,7 +3,7 @@ title: "Rheinisches Malermuseum"
 site_name: "Rheinisches Malermuseum"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Rheinisches Malermuseum, located in the vibrant city of Bonn, Germany, is a prominent art museum that showcases a diverse collection of artworks."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Alerds-Stiftung"
 site_name: "Alerds-Stiftung"
 date: 2026-01-26
 draft: false
-description: "foundation in Brunswick, Germany"
+description: "Alerds-Stiftung, located in the historic city of Brunswick, Germany, represents a significant cultural and philanthropic institution dedicated to enhancing..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

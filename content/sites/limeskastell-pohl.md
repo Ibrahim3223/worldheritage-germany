@@ -3,7 +3,7 @@ title: "Limeskastell Pohl"
 site_name: "Limeskastell Pohl"
 date: 2026-01-26
 draft: false
-description: "reconstructed Roman fort and watchtower in Rhineland-Palatinate, Germany"
+description: "The Limeskastell Pohl invites visitors to explore a reconstructed Roman fort and watchtower that stands as a remarkable acknowledgment of the ancient Roman..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castrum"

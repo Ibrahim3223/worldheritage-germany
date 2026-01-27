@@ -3,7 +3,7 @@ title: "Steindeckerbrücke Dorfstraße 117 (gegenüber)"
 site_name: "Steindeckerbrücke Dorfstraße 117 (gegenüber)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Steindeckerbrücke, located at Dorfstraße 117 (gegenüber) in the tranquil region of Königshain, Germany, is a captivating bridge that serves as both a..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

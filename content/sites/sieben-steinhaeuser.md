@@ -3,7 +3,7 @@ title: "Sieben Steinhäuser"
 site_name: "Sieben Steinhäuser"
 date: 2026-01-26
 draft: false
-description: "group of five dolmens on the Lüneburg Heath, Germany"
+description: "The Sieben Steinhäuser, a captivating archaeological site located in Osterheide, Germany, invites visitors to explore a remarkable group of five dolmens set..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Archaeological Site"

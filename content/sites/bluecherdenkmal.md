@@ -3,7 +3,7 @@ title: "Blücherdenkmal"
 site_name: "Blücherdenkmal"
 date: 2026-01-26
 draft: false
-description: "Denkmal in Rostock"
+description: "In the heart of Rostock, Germany, the Blücherdenkmal stands as a prominent monument honoring the legacy of one of Prussia's most notable military leaders."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"

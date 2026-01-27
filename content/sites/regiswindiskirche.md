@@ -3,7 +3,7 @@ title: "Regiswindiskirche"
 site_name: "Regiswindiskirche"
 date: 2026-01-26
 draft: false
-description: "church in Lauffen am Neckar, Heilbronn district, Baden-Württemberg, Germany"
+description: "Regiswindiskirche, a notable church building in Lauffen am Neckar, Germany, offers visitors a glimpse into the architectural and cultural heritage of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

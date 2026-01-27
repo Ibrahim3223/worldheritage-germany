@@ -3,7 +3,7 @@ title: "Heisterburg"
 site_name: "Heisterburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Heisterburg, a notable hillfort located in the Rodenberg region of Germany, stands as a remarkable remnant of medieval military architecture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Hillfort"

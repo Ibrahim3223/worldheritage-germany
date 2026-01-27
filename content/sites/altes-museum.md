@@ -3,7 +3,7 @@ title: "Altes Museum"
 site_name: "Altes Museum"
 date: 2026-01-26
 draft: false
-description: "antiquities museum in Berlin, Germany"
+description: "The Altes Museum, located in Berlin's Bezirk Mitte, is a prominent antiquities museum that offers visitors an insightful glimpse into the art and artifacts..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

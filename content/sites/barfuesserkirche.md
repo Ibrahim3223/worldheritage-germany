@@ -3,7 +3,7 @@ title: "Barfüßerkirche"
 site_name: "Barfüßerkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Erfurt, Thuringia, Germany"
+description: "Barfüßerkirche, located in the heart of Erfurt, Thuringia, Germany, is a church building that reflects the intricate history and architectural evolution of..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

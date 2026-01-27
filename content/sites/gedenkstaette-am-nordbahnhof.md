@@ -3,7 +3,7 @@ title: "Gedenkstätte am Nordbahnhof"
 site_name: "Gedenkstätte am Nordbahnhof"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Gedenkstätte am Nordbahnhof stands as a poignant memorial located in Stuttgart, Germany, dedicated to the memory of those who suffered during a dark chapter..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Memorial"

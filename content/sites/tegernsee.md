@@ -3,7 +3,7 @@ title: "Tegernsee"
 site_name: "Tegernsee"
 date: 2026-01-26
 draft: false
-description: "lake in urban municipality Tegernsee, Bavaria, Germany"
+description: "Tegernsee, a picturesque lake located in the urban municipality of the same name in Bavaria, Germany, offers an enticing blend of natural beauty and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Lake"

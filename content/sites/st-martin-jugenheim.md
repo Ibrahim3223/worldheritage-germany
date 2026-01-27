@@ -3,7 +3,7 @@ title: "St. Martin (Jugenheim)"
 site_name: "St. Martin (Jugenheim)"
 date: 2026-01-26
 draft: false
-description: "church building in Rhineland-Palatinate, Germany"
+description: "St. Martin in Jugenheim is an embodiment of spiritual and architectural heritage nestled within the picturesque landscapes of Rhineland-Palatinate, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

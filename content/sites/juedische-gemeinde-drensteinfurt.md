@@ -3,7 +3,7 @@ title: "Jüdische Gemeinde Drensteinfurt"
 site_name: "Jüdische Gemeinde Drensteinfurt"
 date: 2026-01-26
 draft: false
-description: "deutsche Organisation"
+description: "The Jüdische Gemeinde Drensteinfurt stands as a significant monument to the Jewish heritage in Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Synagogue"

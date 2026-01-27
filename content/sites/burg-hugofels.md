@@ -3,7 +3,7 @@ title: "Burg Hugofels"
 site_name: "Burg Hugofels"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hugofels, a remarkable castle situated in Immenstadt im Allgäu, Germany, offers a captivating glimpse into the region's medieval past."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

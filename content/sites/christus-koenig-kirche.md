@@ -3,7 +3,7 @@ title: "Christus-König-Kirche"
 site_name: "Christus-König-Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
+description: "The Christus-König-Kirche, located in the picturesque town of Brackenheim in Germany's Heilbronn district, is a notable church building that reflects the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

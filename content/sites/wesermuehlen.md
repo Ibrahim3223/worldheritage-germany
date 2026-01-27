@@ -3,7 +3,7 @@ title: "Wesermühlen"
 site_name: "Wesermühlen"
 date: 2026-01-26
 draft: false
-description: "Wassermühlen an der Weser in Hameln"
+description: "Wesermühlen, located in the historic town of Hamelin, Germany, is a remarkable architectural ensemble that highlights the region's rich industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

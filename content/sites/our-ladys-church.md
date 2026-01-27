@@ -3,7 +3,7 @@ title: "Our Lady's Church"
 site_name: "Our Lady's Church"
 date: 2026-01-26
 draft: false
-description: "church building in Hesse, Germany"
+description: "Our Lady's Church, a prominent church building located in the quaint town of Frankenberg, Hesse, Germany, serves as both a place of worship and a..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

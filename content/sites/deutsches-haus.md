@@ -3,7 +3,7 @@ title: "Deutsches Haus"
 site_name: "Deutsches Haus"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall in Flensburg, Germany"
+description: "Deutsches Haus, situated in the vibrant city of Flensburg, Germany, serves as a dynamic multi-purpose hall that encapsulates the essence of community..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

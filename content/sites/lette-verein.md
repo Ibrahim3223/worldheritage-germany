@@ -3,7 +3,7 @@ title: "Lette-Verein"
 site_name: "Lette-Verein"
 date: 2026-01-26
 draft: false
-description: "German group of schools for applied arts in Berlin, founded in 1866"
+description: "Located in the vibrant city of Berlin, Lette-Verein is a noteworthy institution dedicated to the applied arts."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Foundation"

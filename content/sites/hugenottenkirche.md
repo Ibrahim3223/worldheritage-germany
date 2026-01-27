@@ -3,7 +3,7 @@ title: "Hugenottenkirche"
 site_name: "Hugenottenkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Usingen, Germany"
+description: "In the charming town of Usingen, Germany, the Hugenottenkirche stands as a significant marker of cultural heritage and architectural beauty."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

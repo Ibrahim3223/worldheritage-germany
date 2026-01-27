@@ -3,7 +3,7 @@ title: "Schlosskirche Putbus"
 site_name: "Schlosskirche Putbus"
 date: 2026-01-26
 draft: false
-description: "church building in Putbus, Germany"
+description: "Schlosskirche Putbus, a distinguished church building located in the charming town of Putbus, Germany, serves as a remarkable site for visitors interested..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

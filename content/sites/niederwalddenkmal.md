@@ -3,7 +3,7 @@ title: "Niederwalddenkmal"
 site_name: "Niederwalddenkmal"
 date: 2026-01-26
 draft: false
-description: "monument commemorating the founding of Germany"
+description: "The Niederwalddenkmal stands as a striking monument in Rüdesheim am Rhein, Germany, commemorating the founding of the German Empire in the 19th century."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

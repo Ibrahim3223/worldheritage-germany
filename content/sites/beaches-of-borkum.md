@@ -3,7 +3,7 @@ title: "Beaches of Borkum"
 site_name: "Beaches of Borkum"
 date: 2026-01-26
 draft: false
-description: "Strände der Nordseeinsel Borkum"
+description: "The Beaches of Borkum invite visitors to experience the serene beauty of the North Sea."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Beach"

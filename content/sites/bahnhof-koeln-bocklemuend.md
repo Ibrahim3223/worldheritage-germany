@@ -3,7 +3,7 @@ title: "Bahnhof Köln-Bocklemünd"
 site_name: "Bahnhof Köln-Bocklemünd"
 date: 2026-01-26
 draft: false
-description: "railway station in Bocklemünd/Mengenich, Germany"
+description: "Bahnhof Köln-Bocklemünd serves as a vital railway station situated in the Bocklemünd/Mengenich area of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Railway Station"

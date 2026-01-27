@@ -3,7 +3,7 @@ title: "Kenzingen Castle"
 site_name: "Kenzingen Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Kenzingen Castle, located in the quaint town of Kenzingen, Germany, is an intriguing example of historical architecture set against the backdrop of the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

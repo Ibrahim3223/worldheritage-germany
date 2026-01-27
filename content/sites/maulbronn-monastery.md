@@ -3,7 +3,7 @@ title: "Maulbronn Monastery"
 site_name: "Maulbronn Monastery"
 date: 2026-01-26
 draft: false
-description: "monastery in Germany"
+description: "Maulbronn Monastery is a remarkable testament to monastic architectural tradition in Germany, located in the town of Maulbronn."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

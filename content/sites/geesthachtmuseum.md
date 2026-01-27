@@ -3,7 +3,7 @@ title: "GeesthachtMuseum!"
 site_name: "GeesthachtMuseum!"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the charming town of Geesthacht, Germany, GeesthachtMuseum! is an essential destination for those interested in the cultural and historical..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

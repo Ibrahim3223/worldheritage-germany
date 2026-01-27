@@ -3,7 +3,7 @@ title: "Düppler Mühle"
 site_name: "Düppler Mühle"
 date: 2026-01-26
 draft: false
-description: "former windmill in Magdeburg, Saxony-Anhalt, Germany"
+description: "Düppler Mühle, a former windmill located in Magdeburg, Saxony-Anhalt, Germany, is a captivating site that reflects the agricultural and industrial history..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Windmill"

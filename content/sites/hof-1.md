@@ -3,7 +3,7 @@ title: "Hof 1"
 site_name: "Hof 1"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Hof 1, an impressive tower located in the heart of Germany, offers visitors a unique glimpse into the architectural prowess of its time and the cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Halbendorfer See"
 site_name: "Halbendorfer See"
 date: 2026-01-26
 draft: false
-description: "lake"
+description: "Halbendorfer See is a serene lake situated in the Schleife region of Germany, offering visitors a tranquil escape into nature."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

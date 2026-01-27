@@ -3,7 +3,7 @@ title: "Ehrenmal der Luftwaffe"
 site_name: "Ehrenmal der Luftwaffe"
 date: 2026-01-26
 draft: false
-description: "monument in Fürstenfeldbruck, Germany"
+description: "The Ehrenmal der Luftwaffe, located in Fürstenfeldbruck, Germany, is a poignant monument dedicated to the memory of those who served in the Luftwaffe during..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"

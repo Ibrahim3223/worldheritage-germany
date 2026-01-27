@@ -3,7 +3,7 @@ title: "Welf family mausoleum"
 site_name: "Welf family mausoleum"
 date: 2026-01-26
 draft: false
-description: "Mausoleum of the noble family \"House of Welf\""
+description: "The Welf family mausoleum, a significant site located in the Herrenhausen-Stöcken region of Germany, stands as the final resting place for the illustrious..."House of Welf\""
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mausoleum"

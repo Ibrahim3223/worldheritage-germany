@@ -3,7 +3,7 @@ title: "Gedenkstätte Langer Gang"
 site_name: "Gedenkstätte Langer Gang"
 date: 2026-01-26
 draft: false
-description: "memorial in Schwarzenbach an der Saale, Bavaria, Germany"
+description: "Gedenkstätte Langer Gang serves as an evocative memorial in Schwarzenbach an der Saale, Bavaria, Germany, inviting visitors to reflect on the poignant..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Memorial"

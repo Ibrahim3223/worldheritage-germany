@@ -3,7 +3,7 @@ title: "Deutsches Theater München"
 site_name: "Deutsches Theater München"
 date: 2026-01-26
 draft: false
-description: "theatre in Munich, Bavaria, Germany"
+description: "Deutsches Theater München, located in the vibrant city of Munich, Germany, is a prominent institution in the realm of performing arts."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Theatre Building"

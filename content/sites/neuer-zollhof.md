@@ -3,7 +3,7 @@ title: "Neuer Zollhof"
 site_name: "Neuer Zollhof"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "In the heart of Düsseldorf, the Neuer Zollhof stands as an iconic architectural ensemble that reflects the innovative spirit of modern design."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

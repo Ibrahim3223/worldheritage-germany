@@ -3,7 +3,7 @@ title: "Church in Neuburg"
 site_name: "Church in Neuburg"
 date: 2026-01-26
 draft: false
-description: "church building in Neuburg, Germany"
+description: "The Church in Neuburg, located in the picturesque town of Neuburg, Germany, is a remarkable site that invites visitors to explore its historical and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

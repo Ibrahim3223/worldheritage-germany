@@ -3,7 +3,7 @@ title: "Revierwasserlaufanstalt (Sachgesamtheit) Cämmerswalde"
 site_name: "Revierwasserlaufanstalt (Sachgesamtheit) Cämmerswalde"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Revierwasserlaufanstalt (Sachgesamtheit) Cämmerswalde is an intriguing bridge located in the Neuhausen region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

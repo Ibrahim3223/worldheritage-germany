@@ -3,7 +3,7 @@ title: "Riedkapelle"
 site_name: "Riedkapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "Riedkapelle, a quaint chapel located in the small town of Benningen, Germany, offers visitors a serene escape into the heart of spirituality and local culture."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

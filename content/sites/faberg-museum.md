@@ -3,7 +3,7 @@ title: "Fabergé Museum"
 site_name: "Fabergé Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Baden-Baden"
+description: "The Fabergé Museum, located in the charming spa town of Baden-Baden, Germany, is a remarkable institution dedicated to the exquisite works of the famed..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "St.-Jakobi-Kirche (Stralsund)"
 site_name: "St.-Jakobi-Kirche (Stralsund)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St.-Jakobi-Kirche, an impressive church building located in the heart of Stralsund, Germany, holds a prominent place in the city’s architectural and..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

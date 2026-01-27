@@ -3,7 +3,7 @@ title: "Burg Neuenberg"
 site_name: "Burg Neuenberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched in the scenic landscape of Lindlar, Germany, Burg Neuenberg offers an intriguing glimpse into the architectural and cultural heritage of the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

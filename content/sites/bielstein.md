@@ -3,7 +3,7 @@ title: "Bielstein"
 site_name: "Bielstein"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bielstein, a prominent mountain located in Augustdorf, Germany, is an intriguing destination for outdoor enthusiasts and those seeking to immerse themselves..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mountain"

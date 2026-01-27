@@ -3,7 +3,7 @@ title: "Reutiner Bucht"
 site_name: "Reutiner Bucht"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bavaria, Germany"
+description: "Reutiner Bucht, a captivating nature reserve located in the picturesque region of Lindau, Germany, offers visitors a serene escape into the natural beauty..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

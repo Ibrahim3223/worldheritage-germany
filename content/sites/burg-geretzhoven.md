@@ -3,7 +3,7 @@ title: "Burg Geretzhoven"
 site_name: "Burg Geretzhoven"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Geretzhoven is a captivating castle located in the Bergheim region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

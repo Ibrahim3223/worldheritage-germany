@@ -3,7 +3,7 @@ title: "Natureum Niederelbe"
 site_name: "Natureum Niederelbe"
 date: 2026-01-26
 draft: false
-description: "museum in northern Germany"
+description: "Natureum Niederelbe offers visitors a unique opportunity to explore the natural heritage of northern Germany, set against the backdrop of the picturesque..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

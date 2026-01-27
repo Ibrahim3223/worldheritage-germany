@@ -3,7 +3,7 @@ title: "St. Nikolai (Lübbenau)"
 site_name: "St. Nikolai (Lübbenau)"
 date: 2026-01-26
 draft: false
-description: "church building in Lübbenau, Brandenburg state, Germany"
+description: "St. Nikolai Church, located in the quaint town of Lübbenau in the Brandenburg state of Germany, is a prominent church building that reflects the cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

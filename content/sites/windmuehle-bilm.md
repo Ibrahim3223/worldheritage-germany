@@ -3,7 +3,7 @@ title: "Windmühle Bilm"
 site_name: "Windmühle Bilm"
 date: 2026-01-26
 draft: false
-description: "Windmühle in Bilm, Sehnde"
+description: "Windmühle Bilm, a charming windmill located in the Sehnde region of Germany, represents a significant piece of the country’s agricultural and industrial..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

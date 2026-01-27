@@ -3,7 +3,7 @@ title: "Leibniz-Institute for Food Systems Biology at the Technical University o
 site_name: "Leibniz-Institute for Food Systems Biology at the Technical University of Munich"
 date: 2026-01-26
 draft: false
-description: "facility in Freising, Germany"
+description: "The Leibniz-Institute for Food Systems Biology at the Technical University of Munich stands as a pivotal institution in the realm of food systems research."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"

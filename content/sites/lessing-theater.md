@@ -3,7 +3,7 @@ title: "Lessing Theater"
 site_name: "Lessing Theater"
 date: 2026-01-26
 draft: false
-description: "former theatre in Berlin, Germany"
+description: "The Lessing Theater, a former theatre building located in the heart of Berlin, Germany, embodies the city's dynamic theatrical heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

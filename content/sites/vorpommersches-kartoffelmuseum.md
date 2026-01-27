@@ -3,7 +3,7 @@ title: "Vorpommersches Kartoffelmuseum"
 site_name: "Vorpommersches Kartoffelmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Vorpommersches Kartoffelmuseum, located in the quaint region of Tribsees, Germany, serves as an engaging homage to the humble potato, a staple food that..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

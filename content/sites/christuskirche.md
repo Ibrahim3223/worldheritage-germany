@@ -3,7 +3,7 @@ title: "Christuskirche"
 site_name: "Christuskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Hannover, Germany"
+description: "Christuskirche, an iconic church building located in Hannover, Germany, serves as a significant religious and cultural landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

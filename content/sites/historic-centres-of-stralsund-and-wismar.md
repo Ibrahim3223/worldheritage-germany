@@ -3,7 +3,7 @@ title: "Historic Centres of Stralsund and Wismar"
 site_name: "Historic Centres of Stralsund and Wismar"
 date: 2026-01-26
 draft: false
-description: "old town"
+description: "The Historic Centres of Stralsund and Wismar, located in northern Germany, are two remarkable urban areas that showcase a unique blend of medieval..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Urban Area"

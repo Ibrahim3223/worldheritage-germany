@@ -3,7 +3,7 @@ title: "Kuhfluchtwasserfälle"
 site_name: "Kuhfluchtwasserfälle"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "The Kuhfluchtwasserfälle, a stunning waterfall located in Germany, offers a captivating natural spectacle that enchants visitors from near and far."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Waterfall"

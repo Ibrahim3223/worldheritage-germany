@@ -3,7 +3,7 @@ title: "Hohler Stein (bei Schambach)"
 site_name: "Hohler Stein (bei Schambach)"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Hohler Stein, located in the serene region of Böhmfeld, Germany, is a captivating cave that offers a unique glimpse into the natural wonders beneath the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

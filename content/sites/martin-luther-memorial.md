@@ -3,7 +3,7 @@ title: "Martin Luther memorial"
 site_name: "Martin Luther memorial"
 date: 2026-01-26
 draft: false
-description: "monument with statue in Hannover, Germany"
+description: "The Martin Luther memorial stands as an important monument in Hannover, Germany, commemorating the life and impact of one of history's most influential..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

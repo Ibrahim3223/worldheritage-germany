@@ -3,7 +3,7 @@ title: "Annaberg-Frohnau Mining Landscape"
 site_name: "Annaberg-Frohnau Mining Landscape"
 date: 2026-01-26
 draft: false
-description: "part of a World Heritage site in Germany"
+description: "The Annaberg-Frohnau Mining Landscape, located in Germany, represents a significant chapter in the story of European industrial heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cultural Landscape"

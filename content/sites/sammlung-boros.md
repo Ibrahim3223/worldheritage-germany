@@ -3,7 +3,7 @@ title: "Sammlung Boros"
 site_name: "Sammlung Boros"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Sammlung Boros is a unique art museum located in the heart of Berlin, Germany. It is housed in a converted World War II bunker, which adds a layer of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

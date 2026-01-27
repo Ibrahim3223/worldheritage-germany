@@ -3,7 +3,7 @@ title: "Stadtgottesacker"
 site_name: "Stadtgottesacker"
 date: 2026-01-26
 draft: false
-description: "cemetery in Halle (Saale), Saxony-Anhalt, Germany, established in 1557"
+description: "Stadtgottesacker, located in Halle (Saale), Saxony-Anhalt, Germany, serves as a poignant reminder of the region’s historical and cultural tapestry,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"

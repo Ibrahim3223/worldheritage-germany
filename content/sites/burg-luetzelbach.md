@@ -3,7 +3,7 @@ title: "Burg Lützelbach"
 site_name: "Burg Lützelbach"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "In the heart of Germany's Lützel-Wiebelsbach region lies Burg Lützelbach, a historical castle that offers a glimpse into medieval architecture and the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Museum of the Germans from Bessarabia and Dobruja"
 site_name: "Museum of the Germans from Bessarabia and Dobruja"
 date: 2026-01-26
 draft: false
-description: "Local history museum of the Germans from Bessarabia and Dobruja"
+description: "The Museum of the Germans from Bessarabia and Dobruja, located in Stuttgart, Germany, serves as a poignant tribute to a unique cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

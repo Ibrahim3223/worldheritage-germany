@@ -3,7 +3,7 @@ title: "Ryd Abbey"
 site_name: "Ryd Abbey"
 date: 2026-01-26
 draft: false
-description: "former Cistercian monastery"
+description: "Ryd Abbey, a former Cistercian monastery located in Glücksburg, Germany, invites visitors to explore its serene grounds and reflect on its historical..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Monastery"

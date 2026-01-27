@@ -3,7 +3,7 @@ title: "Herrenhaus Mallin"
 site_name: "Herrenhaus Mallin"
 date: 2026-01-26
 draft: false
-description: "manor house in Penzlin, Germany"
+description: "Herrenhaus Mallin is a remarkable manor house located in the Penzlin region of Germany, offering visitors a glimpse into the architectural and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Manor House"

@@ -3,7 +3,7 @@ title: "Mittelmoselmuseum"
 site_name: "Mittelmoselmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Mittelmoselmuseum, located in the picturesque town of Traben-Trarbach, Germany, serves as a fascinating portal into the cultural heritage of the Mosel..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Museum"

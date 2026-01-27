@@ -3,7 +3,7 @@ title: "Waggonfabrik Fuchs"
 site_name: "Waggonfabrik Fuchs"
 date: 2026-01-26
 draft: false
-description: "German coach & wagon builders"
+description: "Waggonfabrik Fuchs, located in the heart of Heidelberg, Germany, is a significant site that captures the essence of Germany's industrial heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Factory"

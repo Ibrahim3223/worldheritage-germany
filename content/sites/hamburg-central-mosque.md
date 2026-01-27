@@ -3,7 +3,7 @@ title: "Hamburg Central Mosque"
 site_name: "Hamburg Central Mosque"
 date: 2026-01-26
 draft: false
-description: "Mosque in Hamburg, Germany"
+description: "The Hamburg Central Mosque stands as a significant cultural and religious landmark in the heart of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"

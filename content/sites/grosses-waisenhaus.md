@@ -3,7 +3,7 @@ title: "Großes Waisenhaus"
 site_name: "Großes Waisenhaus"
 date: 2026-01-26
 draft: false
-description: "Großes Waisenhaus Beatae Mariae Virginis in Braunschweig"
+description: "Großes Waisenhaus, also known as the Beatae Mariae Virginis, is a significant foundation located in Braunschweig, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

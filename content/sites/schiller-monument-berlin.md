@@ -3,7 +3,7 @@ title: "Schiller Monument (Berlin)"
 site_name: "Schiller Monument (Berlin)"
 date: 2026-01-26
 draft: false
-description: "sculpture in Berlin, Germany"
+description: "The Schiller Monument in Berlin is a significant sculpture that pays homage to the celebrated German poet, playwright, and philosopher Friedrich Schiller."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"

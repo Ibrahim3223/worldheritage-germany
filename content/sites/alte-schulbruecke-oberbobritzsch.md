@@ -3,7 +3,7 @@ title: "Alte Schulbrücke Oberbobritzsch"
 site_name: "Alte Schulbrücke Oberbobritzsch"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Alte Schulbrücke Oberbobritzsch is a striking bridge situated in the Bobritzsch-Hilbersdorf region of Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

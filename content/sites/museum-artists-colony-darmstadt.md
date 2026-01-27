@@ -3,7 +3,7 @@ title: "Museum artists colony Darmstadt"
 site_name: "Museum artists colony Darmstadt"
 date: 2026-01-26
 draft: false
-description: "museum in Hesse, Germany"
+description: "The Museum artists colony Darmstadt stands as a significant cultural institution in Hesse, Germany, dedicated to the legacy of the artists and craftsmen who..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

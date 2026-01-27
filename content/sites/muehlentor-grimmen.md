@@ -3,7 +3,7 @@ title: "Mühlentor (Grimmen)"
 site_name: "Mühlentor (Grimmen)"
 date: 2026-01-26
 draft: false
-description: "Stadttor in Grimmen (Mecklenburg-Vorpommern)"
+description: "The Mühlentor, a historic city gate located in Grimmen, Mecklenburg-Vorpommern, Germany, serves as a striking reminder of the region's medieval past."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

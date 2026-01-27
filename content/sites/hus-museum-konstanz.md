@@ -3,7 +3,7 @@ title: "Hus-Museum Konstanz"
 site_name: "Hus-Museum Konstanz"
 date: 2026-01-26
 draft: false
-description: "Museum in Deutschland"
+description: "The Hus-Museum Konstanz serves as a poignant reminder of the profound influence of Jan Hus, a pivotal figure in the history of religious reform and the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

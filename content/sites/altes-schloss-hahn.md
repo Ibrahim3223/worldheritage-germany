@@ -3,7 +3,7 @@ title: "Altes Schloss (Hahn)"
 site_name: "Altes Schloss (Hahn)"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Located in the picturesque region of Lebach, Germany, the Altes Schloss (Old Castle) offers a captivating glimpse into the architectural and historical..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Grossherzoglich-Hessische Porzellansammlung"
 site_name: "Grossherzoglich-Hessische Porzellansammlung"
 date: 2026-01-26
 draft: false
-description: "Darmstadt, Germany"
+description: "The Grossherzoglich-Hessische Porzellansammlung in Darmstadt, Germany, is an exquisite museum dedicated to the art of porcelain."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

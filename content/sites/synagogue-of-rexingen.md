@@ -3,7 +3,7 @@ title: "synagogue of Rexingen"
 site_name: "synagogue of Rexingen"
 date: 2026-01-26
 draft: false
-description: "synagogue"
+description: "The synagogue of Rexingen, located in the town of Horb am Neckar, Germany, serves as a poignant reminder of the rich Jewish heritage that once thrived in..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Synagogue"

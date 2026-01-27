@@ -3,7 +3,7 @@ title: "Russian Orthodox Chapel"
 site_name: "Russian Orthodox Chapel"
 date: 2026-01-26
 draft: false
-description: "church building in Weimar, Germany"
+description: "In the heart of Weimar, Germany, the Russian Orthodox Chapel stands as a unique example of ecclesiastical architecture that reflects a blend of cultural..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

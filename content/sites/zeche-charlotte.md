@@ -3,7 +3,7 @@ title: "Zeche Charlotte"
 site_name: "Zeche Charlotte"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Charlotte, located in the heart of Witten, Germany, is a former coal mine that embodies the industrial heritage of the Ruhr region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

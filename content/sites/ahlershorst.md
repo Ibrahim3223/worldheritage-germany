@@ -3,7 +3,7 @@ title: "Ahlershorst"
 site_name: "Ahlershorst"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Ahlershorst is a captivating nature reserve located in Lower Saxony, Germany, specifically within the Geestland region."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

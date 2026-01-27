@@ -3,7 +3,7 @@ title: "Betzenberg Wildlife Park"
 site_name: "Betzenberg Wildlife Park"
 date: 2026-01-26
 draft: false
-description: "zoo in Kaiserslautern, Germany"
+description: "Betzenberg Wildlife Park, located in Kaiserslautern, Germany, offers an engaging experience for visitors of all ages, blending education with the natural world."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Zoo"

@@ -3,7 +3,7 @@ title: "Brahms-Museum"
 site_name: "Brahms-Museum"
 date: 2026-01-26
 draft: false
-description: "museum on Johannes Brahms in Hamburg"
+description: "The Brahms-Museum in Hamburg is a captivating tribute to one of the most significant composers of the 19th century, Johannes Brahms."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

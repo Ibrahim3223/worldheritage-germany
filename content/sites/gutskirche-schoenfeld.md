@@ -3,7 +3,7 @@ title: "Gutskirche Schönfeld"
 site_name: "Gutskirche Schönfeld"
 date: 2026-01-26
 draft: false
-description: "church building in Bismark, Saxony-Anhalt, Germany"
+description: "Gutshirche Schönfeld stands as an integral piece of the architectural and cultural heritage of Bismark, Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Fischerbuberl-Brunnen"
 site_name: "Fischerbuberl-Brunnen"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "In the heart of Au-Haidhausen, Germany, lies the Fischerbuberl-Brunnen, a charming fountain that serves as a local landmark and a refreshing oasis."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

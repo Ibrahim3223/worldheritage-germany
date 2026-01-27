@@ -3,7 +3,7 @@ title: "PSD Bank Nürnberg ARENA"
 site_name: "PSD Bank Nürnberg ARENA"
 date: 2026-01-26
 draft: false
-description: "multi-purpose hall"
+description: "The PSD Bank Nürnberg ARENA stands as a dynamic multi-purpose hall located in the heart of Nuremberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

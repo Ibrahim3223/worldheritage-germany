@@ -3,7 +3,7 @@ title: "Altensteiner Park"
 site_name: "Altensteiner Park"
 date: 2026-01-26
 draft: false
-description: "park in Germany"
+description: "Altensteiner Park, situated in the picturesque region of Bad Liebenwerda, Germany, serves as a tranquil retreat for nature enthusiasts and history buffs alike."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Park"

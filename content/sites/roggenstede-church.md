@@ -3,7 +3,7 @@ title: "Roggenstede Church"
 site_name: "Roggenstede Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Roggenstede Church, located in the quaint region of Dornum, Germany, is a remarkable site that resonates with spiritual significance and architectural charm."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

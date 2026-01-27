@@ -3,7 +3,7 @@ title: "Museum Abtei Liesborn"
 site_name: "Museum Abtei Liesborn"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Museum Abtei Liesborn is a pivotal cultural institution located in the tranquil region of Wadersloh, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Church in Redefin"
 site_name: "Church in Redefin"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Redefin, a notable church building in Germany, invites visitors to explore its architectural and cultural significance within the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "St.-Petri-Kirche (Aurich-Oldendorf)"
 site_name: "St.-Petri-Kirche (Aurich-Oldendorf)"
 date: 2026-01-26
 draft: false
-description: "church building in Aurich-Oldendorf, Germany"
+description: "St.-Petri-Kirche, located in the quaint village of Aurich-Oldendorf in Germany's Großefehn region, stands as a remarkable example of ecclesiastical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

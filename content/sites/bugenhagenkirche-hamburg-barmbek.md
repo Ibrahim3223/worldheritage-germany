@@ -3,7 +3,7 @@ title: "Bugenhagenkirche, Hamburg-Barmbek"
 site_name: "Bugenhagenkirche, Hamburg-Barmbek"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Bugenhagenkirche, located in the Hamburg-Nord district of Germany, is a notable church building that serves as a spiritual and architectural landmark in the..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

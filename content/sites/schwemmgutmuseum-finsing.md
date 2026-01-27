@@ -3,7 +3,7 @@ title: "Schwemmgutmuseum Finsing"
 site_name: "Schwemmgutmuseum Finsing"
 date: 2026-01-26
 draft: false
-description: "former museum in the hydroelectric power station Neufinsing, Bavaria, Germany"
+description: "The Schwemmgutmuseum Finsing, located in Bavaria, Germany, presents a unique intersection of industrial history and cultural exploration."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

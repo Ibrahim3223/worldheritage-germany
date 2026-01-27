@@ -3,7 +3,7 @@ title: "Lindenkapelle (Bad Lippspringe)"
 site_name: "Lindenkapelle (Bad Lippspringe)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Bad Lippspringe"
+description: "The Lindenkapelle, located in Bad Lippspringe, Germany, is a chapel that represents an integral part of the local heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Chapel"

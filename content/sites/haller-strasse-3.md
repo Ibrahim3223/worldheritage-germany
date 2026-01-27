@@ -3,7 +3,7 @@ title: "Haller Straße 3"
 site_name: "Haller Straße 3"
 date: 2026-01-26
 draft: false
-description: "house in Wüstenrot"
+description: "Haller Straße 3, located in the quaint town of Wüstenrot, Germany, serves as a museum that offers visitors a glimpse into the region's cultural heritage."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

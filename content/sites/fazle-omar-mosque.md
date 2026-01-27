@@ -3,7 +3,7 @@ title: "Fazle Omar Mosque"
 site_name: "Fazle Omar Mosque"
 date: 2026-01-26
 draft: false
-description: "a mosque in Hamburg"
+description: "The Fazle Omar Mosque, located in Hamburg's Eimsbüttel district, serves as an important religious and cultural landmark for the Muslim community in the city."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Mosque"

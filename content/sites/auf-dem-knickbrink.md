@@ -3,7 +3,7 @@ title: "Auf dem Knickbrink"
 site_name: "Auf dem Knickbrink"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Auf dem Knickbrink is a captivating nature reserve located in the serene region of Rinteln, Lower Saxony, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

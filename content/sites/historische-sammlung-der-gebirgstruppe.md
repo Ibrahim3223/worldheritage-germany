@@ -3,7 +3,7 @@ title: "Historische Sammlung der Gebirgstruppe"
 site_name: "Historische Sammlung der Gebirgstruppe"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Historische Sammlung der Gebirgstruppe, a museum located in Germany, offers an immersive glimpse into the military heritage of the Alpine troops, known..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

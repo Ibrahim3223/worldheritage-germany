@@ -3,7 +3,7 @@ title: "E.T.A. Hoffmann-Haus"
 site_name: "E.T.A. Hoffmann-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Bamberg, Germany"
+description: "The E.T.A. Hoffmann-Haus in Bamberg, Germany, invites visitors to delve into the world of one of Germany's most influential writers and composers."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

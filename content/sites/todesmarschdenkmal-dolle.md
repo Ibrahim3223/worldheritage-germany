@@ -3,7 +3,7 @@ title: "Todesmarschdenkmal Dolle"
 site_name: "Todesmarschdenkmal Dolle"
 date: 2026-01-26
 draft: false
-description: "Denkmal an unbekannte Opfer des Konzentrationslagers Mittelbau-Dora"
+description: "The Todesmarschdenkmal Dolle serves as a solemn reminder of the atrocities committed during World War II, specifically honoring the unknown victims of the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

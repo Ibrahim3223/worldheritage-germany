@@ -3,7 +3,7 @@ title: "Marienkirche (Berlin-Mitte)"
 site_name: "Marienkirche (Berlin-Mitte)"
 date: 2026-01-26
 draft: false
-description: "church in Berlin"
+description: "Marienkirche, located in the heart of Berlin-Mitte, serves as both an architectural wonder and a significant cultural landmark."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

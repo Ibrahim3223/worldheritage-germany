@@ -3,7 +3,7 @@ title: "Burg Kräheneck"
 site_name: "Burg Kräheneck"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Kräheneck, located in the scenic region of Reusten, Germany, is a captivating castle that draws visitors with its historical allure and picturesque..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

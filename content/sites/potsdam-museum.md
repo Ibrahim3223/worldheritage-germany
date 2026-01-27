@@ -3,7 +3,7 @@ title: "Potsdam Museum"
 site_name: "Potsdam Museum"
 date: 2026-01-26
 draft: false
-description: "Potsdam's city museum established in 1909"
+description: "The Potsdam Museum, established in 1909, serves as a vibrant window into the history and culture of Potsdam, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

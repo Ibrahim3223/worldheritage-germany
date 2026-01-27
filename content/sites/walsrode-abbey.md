@@ -3,7 +3,7 @@ title: "Walsrode Abbey"
 site_name: "Walsrode Abbey"
 date: 2026-01-26
 draft: false
-description: "lutheran women's convent in Walsrode, Germany"
+description: "Walsrode Abbey, a significant cultural landmark located in the town of Walsrode, Germany, serves as a captivating museum and a prominent example of Lutheran..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

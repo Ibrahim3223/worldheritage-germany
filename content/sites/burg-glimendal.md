@@ -3,7 +3,7 @@ title: "Burg Glimendal"
 site_name: "Burg Glimendal"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Glimendal, a striking castle located in the serene region of Martinsthal, Germany, presents a captivating glimpse into the architectural grandeur of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

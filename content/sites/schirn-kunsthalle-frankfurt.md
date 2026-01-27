@@ -3,7 +3,7 @@ title: "Schirn Kunsthalle Frankfurt"
 site_name: "Schirn Kunsthalle Frankfurt"
 date: 2026-01-26
 draft: false
-description: "art museum in Frankfurt, Germany"
+description: "Art enthusiasts and casual visitors alike will find a compelling reason to explore the Schirn Kunsthalle Frankfurt, a prominent art museum located in the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Art Museum"

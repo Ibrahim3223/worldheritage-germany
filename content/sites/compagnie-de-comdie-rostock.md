@@ -3,7 +3,7 @@ title: "Compagnie de Comédie Rostock"
 site_name: "Compagnie de Comédie Rostock"
 date: 2026-01-26
 draft: false
-description: "Theater in Deutschland"
+description: "The Compagnie de Comédie Rostock is a distinguished theatre building located in the vibrant city of Rostock, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Theatre Building"

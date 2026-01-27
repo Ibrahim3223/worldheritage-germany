@@ -3,7 +3,7 @@ title: "Ehrenhain"
 site_name: "Ehrenhain"
 date: 2026-01-26
 draft: false
-description: "German memorial"
+description: "Ehrenhain is a poignant memorial located in Bad Schwartau, Germany, dedicated to honoring lives affected by conflict and loss."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"

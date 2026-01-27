@@ -3,7 +3,7 @@ title: "Midlumer Kirche"
 site_name: "Midlumer Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Midlum, municipality of Jemgum, East Frisia, Germany"
+description: "Midlumer Kirche is a noteworthy church building located in the picturesque municipality of Jemgum, East Frisia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

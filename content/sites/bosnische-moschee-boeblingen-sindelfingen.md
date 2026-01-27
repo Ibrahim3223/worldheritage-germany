@@ -3,7 +3,7 @@ title: "Bosnische Moschee Böblingen-Sindelfingen"
 site_name: "Bosnische Moschee Böblingen-Sindelfingen"
 date: 2026-01-26
 draft: false
-description: "Moschee und islamisches Kulturzentrum"
+description: "The Bosnische Moschee Böblingen-Sindelfingen serves as a vibrant center for the Islamic community in the Sindelfingen region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

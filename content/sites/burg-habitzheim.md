@@ -3,7 +3,7 @@ title: "Burg Habitzheim"
 site_name: "Burg Habitzheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Habitzheim is a remarkable castle located in the picturesque region of Otzberg, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "Individual monuments of cemetery Alter Johannisfriedhof, Leipzig"
 site_name: "Individual monuments of cemetery Alter Johannisfriedhof, Leipzig"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Saxony, former cemetery in Leipzig, Germany"
+description: "The Individual monuments of cemetery Alter Johannisfriedhof in Leipzig offer a profound glimpse into the city's historical and cultural narrative."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Park"

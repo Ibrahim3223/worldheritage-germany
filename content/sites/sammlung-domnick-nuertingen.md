@@ -3,7 +3,7 @@ title: "Sammlung Domnick Nürtingen"
 site_name: "Sammlung Domnick Nürtingen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Sammlung Domnick Nürtingen is a distinguished museum located in the heart of Nürtingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

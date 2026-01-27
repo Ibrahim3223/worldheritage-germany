@@ -3,7 +3,7 @@ title: "Sanssouci Picture Gallery"
 site_name: "Sanssouci Picture Gallery"
 date: 2026-01-26
 draft: false
-description: "art museum in Sanssouci, Potsdam"
+description: "The Sanssouci Picture Gallery is an art museum located in the historic grounds of Sanssouci Park in Potsdam, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Stiftung zur Akkreditierung von Studiengängen in Deutschland"
 site_name: "Stiftung zur Akkreditierung von Studiengängen in Deutschland"
 date: 2026-01-26
 draft: false
-description: "foundation"
+description: "The Stiftung zur Akkreditierung von Studiengängen in Deutschland, or the Foundation for the Accreditation of Study Programs in Germany, is a notable..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

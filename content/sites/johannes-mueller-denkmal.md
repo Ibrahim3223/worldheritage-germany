@@ -3,7 +3,7 @@ title: "Johannes-Müller-Denkmal"
 site_name: "Johannes-Müller-Denkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Koblenz, Germany"
+description: "The Johannes-Müller-Denkmal stands as a prominent memorial in Koblenz, Germany, honoring the contributions of the esteemed mathematician and astronomer..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

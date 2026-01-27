@@ -3,7 +3,7 @@ title: "St. Andreas"
 site_name: "St. Andreas"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Andreas stands as a prominent church building in Homburg, Germany, drawing visitors not only for its religious significance but also for its..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

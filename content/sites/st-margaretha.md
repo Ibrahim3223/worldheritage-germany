@@ -3,7 +3,7 @@ title: "St. Margaretha"
 site_name: "St. Margaretha"
 date: 2026-01-26
 draft: false
-description: "church building in Libur, Germany"
+description: "St. Margaretha, a prominent church building located in Libur, Germany, is a remarkable site that reflects the intricate blend of faith and architectural..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Bohlberg"
 site_name: "Bohlberg"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Bohlberg is a distinguished nature reserve located in Lower Saxony, Germany, within the Grünenplan region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

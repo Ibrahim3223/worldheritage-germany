@@ -3,7 +3,7 @@ title: "Karl-Friedrich-Gedächtniskirche"
 site_name: "Karl-Friedrich-Gedächtniskirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Karl-Friedrich-Gedächtniskirche, a significant church building located in Karlsruhe, Germany, serves as both a spiritual sanctuary and a historical landmark."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

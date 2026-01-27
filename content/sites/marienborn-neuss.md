@@ -3,7 +3,7 @@ title: "Marienborn Neuss"
 site_name: "Marienborn Neuss"
 date: 2026-01-26
 draft: false
-description: "architectural structure"
+description: "Marienborn Neuss is an architectural monument located in the scenic region of Neuss, Germany, an area known for its rich cultural heritage and historical..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

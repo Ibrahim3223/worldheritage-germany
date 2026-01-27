@@ -3,7 +3,7 @@ title: "Brandenburger Tor (Altentreptow)"
 site_name: "Brandenburger Tor (Altentreptow)"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "The Brandenburger Tor in Altentreptow is not just a city gate; it is a significant historical landmark that marks the entrance to the town’s rich cultural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

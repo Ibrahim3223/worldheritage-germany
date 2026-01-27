@@ -3,7 +3,7 @@ title: "Juffernberg"
 site_name: "Juffernberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Juffernberg, located in the picturesque region of North Rhine-Westphalia, Germany, is a mountain that invites exploration and offers a unique connection to..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mountain"

@@ -3,7 +3,7 @@ title: "Wolfsschluchthöhle"
 site_name: "Wolfsschluchthöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "Wolfsschluchthöhle, an intriguing cave located in the Lenningen region of Germany, invites explorers to delve into a world shaped by natural forces."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cave"

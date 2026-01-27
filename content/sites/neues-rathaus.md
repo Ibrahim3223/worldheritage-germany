@@ -3,7 +3,7 @@ title: "Neues Rathaus"
 site_name: "Neues Rathaus"
 date: 2026-01-26
 draft: false
-description: "denkmalgeschütztes Gebäude in Magdeburg in Sachsen-Anhalt"
+description: "The Neues Rathaus, or New Town Hall, located in Magdeburg, Germany, is a striking example of civic architecture that reflects the rich history and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

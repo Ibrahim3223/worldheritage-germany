@@ -3,7 +3,7 @@ title: "Herbringhauser Dam"
 site_name: "Herbringhauser Dam"
 date: 2026-01-26
 draft: false
-description: "dam in Germany"
+description: "The Herbringhauser Dam, located in Wuppertal, Germany, is a remarkable example of engineering and design that plays a crucial role in the region's water..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Dam"

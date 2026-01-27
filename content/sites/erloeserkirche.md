@@ -3,7 +3,7 @@ title: "Erlöserkirche"
 site_name: "Erlöserkirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Erlöserkirche, a distinguished church building located in the Lichtenberg district of Germany, invites visitors from all walks of life to explore its..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Collegiate Church"
 site_name: "Collegiate Church"
 date: 2026-01-26
 draft: false
-description: "church in Neustadt on the Wine Route"
+description: "The Collegiate Church in Neustadt an der Weinstraße is a significant religious structure located in the heart of Germany's renowned Wine Route."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

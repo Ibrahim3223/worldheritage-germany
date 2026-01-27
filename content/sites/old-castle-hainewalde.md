@@ -3,7 +3,7 @@ title: "old castle Hainewalde"
 site_name: "old castle Hainewalde"
 date: 2026-01-26
 draft: false
-description: "old castle in Hainewalde"
+description: "Old Castle Hainewalde, a striking gatehouse situated in the quaint region of Hainewalde, Germany, envelops visitors in an atmosphere of historical allure."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Gatehouse"

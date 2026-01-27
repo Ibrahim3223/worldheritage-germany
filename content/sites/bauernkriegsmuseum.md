@@ -3,7 +3,7 @@ title: "Bauernkriegsmuseum"
 site_name: "Bauernkriegsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bauernkriegsmuseum, located in Böblingen, Germany, offers a unique insight into a pivotal moment in European history: the Peasants' War."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

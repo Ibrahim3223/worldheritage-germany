@@ -3,7 +3,7 @@ title: "Hohenwarte Dam"
 site_name: "Hohenwarte Dam"
 date: 2026-01-26
 draft: false
-description: "dam on the Saale in Germany"
+description: "The Hohenwarte Dam, an impressive structure situated on the Saale River in Germany, is more than just a functional water management system; it is a..."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Dam"

@@ -3,7 +3,7 @@ title: "Monument of victory Leipzig"
 site_name: "Monument of victory Leipzig"
 date: 2026-01-26
 draft: false
-description: "former monument in Leipzig, Germany"
+description: "The Monument of Victory in Leipzig is an iconic site that reflects the city's historic significance and cultural heritage."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

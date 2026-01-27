@@ -3,7 +3,7 @@ title: "Kloster St. Marienberg"
 site_name: "Kloster St. Marienberg"
 date: 2026-01-26
 draft: false
-description: "museum and former monastery in Helmstedt, Germany"
+description: "Kloster St. Marienberg, located in Helmstedt, Germany, is a captivating museum that holds deep cultural significance and serves as a former monastery."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

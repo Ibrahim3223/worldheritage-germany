@@ -3,7 +3,7 @@ title: "Ortskapelle"
 site_name: "Ortskapelle"
 date: 2026-01-26
 draft: false
-description: "Bauwerk in Deutschland"
+description: "In the serene surroundings of Ettringen, Germany, the Ortskapelle stands as a modest yet significant chapel that reflects the spiritual heritage and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

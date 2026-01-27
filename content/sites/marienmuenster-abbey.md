@@ -3,7 +3,7 @@ title: "Marienmünster abbey"
 site_name: "Marienmünster abbey"
 date: 2026-01-26
 draft: false
-description: "Ehemaliges Kloster in Deutschland"
+description: "Marienmünster Abbey, an impressive former monastery located in the charming region of Marienmünster, Germany, offers visitors a glimpse into the monastic..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

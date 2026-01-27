@@ -3,7 +3,7 @@ title: "Skulpturenpark Waldfrieden"
 site_name: "Skulpturenpark Waldfrieden"
 date: 2026-01-26
 draft: false
-description: "sculpture garden"
+description: "Skulpturenpark Waldfrieden is a unique sculpture garden located in Wuppertal, Germany, offering a serene space where art meets nature."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Oldenburger Wallkino"
 site_name: "Oldenburger Wallkino"
 date: 2026-01-26
 draft: false
-description: "former cinema in Oldenburg, Lower Saxony, Germany"
+description: "Oldenburger Wallkino, a former cinema located in the heart of Oldenburg, Lower Saxony, Germany, offers a unique glimpse into the region's cinematic past."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Movie Theater"

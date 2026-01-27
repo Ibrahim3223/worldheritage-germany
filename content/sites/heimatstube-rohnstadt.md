@@ -3,7 +3,7 @@ title: "Heimatstube Rohnstadt"
 site_name: "Heimatstube Rohnstadt"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Heimatstube Rohnstadt serves as a cultural and historical focal point in the heart of Germany, offering visitors an insight into local heritage and traditions."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "evangelische"
 site_name: "evangelische"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-61-000-398 (0) in Bamberg, Bavaria"
+description: "In the heart of Bamberg, Germany, the **Evangelische Chapel** stands as a cultural heritage monument, reflecting the profound historical influences and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

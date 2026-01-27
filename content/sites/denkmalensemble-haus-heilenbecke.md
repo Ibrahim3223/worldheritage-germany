@@ -3,7 +3,7 @@ title: "Denkmalensemble Haus Heilenbecke"
 site_name: "Denkmalensemble Haus Heilenbecke"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Denkmalensemble Haus Heilenbecke is an architectural ensemble located in Ennepetal, Germany, that encapsulates the rich cultural and historical narrative of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

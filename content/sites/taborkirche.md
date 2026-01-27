@@ -3,7 +3,7 @@ title: "Taborkirche"
 site_name: "Taborkirche"
 date: 2026-01-26
 draft: false
-description: "church building in Leipzig, Saxony, Germany"
+description: "Taborkirche, a notable church building located in Leipzig, Saxony, Germany, serves as a captivating point of interest for history enthusiasts and..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"

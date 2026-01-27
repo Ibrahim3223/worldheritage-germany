@@ -3,7 +3,7 @@ title: "Dörpsee, Emkendorf"
 site_name: "Dörpsee, Emkendorf"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Dörpsee, located in the serene region of Schleswig-Holstein, Germany, is a picturesque lake that offers visitors a tranquil escape into nature."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lake"

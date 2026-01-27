@@ -3,7 +3,7 @@ title: "Europa-Rosarium"
 site_name: "Europa-Rosarium"
 date: 2026-01-26
 draft: false
-description: "rose garden in Sangerhausen, Saxony-Anhalt, Germany"
+description: "In the heart of Sangerhausen, Saxony-Anhalt, lies the Europa-Rosarium, a botanical garden dedicated to the enchanting and diverse world of roses."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Botanical Garden"

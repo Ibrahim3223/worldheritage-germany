@@ -3,7 +3,7 @@ title: "Roter Turm"
 site_name: "Roter Turm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Roter Turm, a prominent tower located in the quaint town of Kamenz, Germany, stands as a significant architectural feature that captures the essence of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Tower"

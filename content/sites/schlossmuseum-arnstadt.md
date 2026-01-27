@@ -3,7 +3,7 @@ title: "Schlossmuseum Arnstadt"
 site_name: "Schlossmuseum Arnstadt"
 date: 2026-01-26
 draft: false
-description: "museum in Arnstadt, Germany"
+description: "Schlossmuseum Arnstadt invites visitors to explore a unique intersection of history and culture in the charming town of Arnstadt, Germany."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

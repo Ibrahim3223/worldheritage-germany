@@ -3,7 +3,7 @@ title: "Arenbergische Waldkapelle"
 site_name: "Arenbergische Waldkapelle"
 date: 2026-01-26
 draft: false
-description: "Kapelle in Deutschland"
+description: "Arenbergische Waldkapelle, a quaint chapel located in the serene landscape of Hellenthal, Germany, invites visitors to explore its spiritual significance..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

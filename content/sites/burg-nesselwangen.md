@@ -3,7 +3,7 @@ title: "Burg Nesselwangen"
 site_name: "Burg Nesselwangen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched on the rolling hills of Nesselwangen, Burg Nesselwangen captivates visitors with its historic charm and architectural presence."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

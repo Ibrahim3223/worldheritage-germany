@@ -3,7 +3,7 @@ title: "Brandmoorwiesen"
 site_name: "Brandmoorwiesen"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Brandmoorwiesen, a tranquil nature reserve situated in Garbsen, Lower Saxony, Germany, offers a serene retreat for nature enthusiasts, bird watchers, and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

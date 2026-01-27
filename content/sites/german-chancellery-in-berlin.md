@@ -3,7 +3,7 @@ title: "German Chancellery in Berlin"
 site_name: "German Chancellery in Berlin"
 date: 2026-01-26
 draft: false
-description: "building in Berlin in which the German chancellery resides"
+description: "The German Chancellery in Berlin is not just a seat of political power; it is an architectural ensemble that reflects the complexities of modern Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

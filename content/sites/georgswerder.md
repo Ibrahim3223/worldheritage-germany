@@ -3,7 +3,7 @@ title: "Georgswerder"
 site_name: "Georgswerder"
 date: 2026-01-26
 draft: false
-description: "river island in Hamburg, Germany"
+description: "Georgswerder is a unique river island situated in the vibrant city of Hamburg, Germany."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Island"

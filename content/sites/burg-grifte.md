@@ -3,7 +3,7 @@ title: "Burg Grifte"
 site_name: "Burg Grifte"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Grifte is a captivating castle located in the scenic region of Grifte, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

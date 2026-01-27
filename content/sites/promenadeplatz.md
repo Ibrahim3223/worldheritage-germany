@@ -3,7 +3,7 @@ title: "Promenadeplatz"
 site_name: "Promenadeplatz"
 date: 2026-01-26
 draft: false
-description: "square in Munich"
+description: "Promenadeplatz is a prominent square located in the heart of Munich, Germany. This vibrant public space serves as a hub of activity, drawing locals and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

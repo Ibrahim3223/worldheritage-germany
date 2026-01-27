@@ -3,7 +3,7 @@ title: "Wipfelsfurt"
 site_name: "Wipfelsfurt"
 date: 2026-01-26
 draft: false
-description: "valley"
+description: "Wipfelsfurt, a captivating valley in Germany, invites travelers to explore its serene landscapes and immerse themselves in the natural beauty of the region."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Valley"

@@ -3,7 +3,7 @@ title: "Wassermühle Lassan"
 site_name: "Wassermühle Lassan"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Wassermühle Lassan is a museum located in the quaint town of Lassan, Germany. This unique establishment offers visitors a fascinating glimpse into the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

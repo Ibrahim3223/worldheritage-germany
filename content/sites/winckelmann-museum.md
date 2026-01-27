@@ -3,7 +3,7 @@ title: "Winckelmann Museum"
 site_name: "Winckelmann Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Winckelmann Museum is a significant cultural institution located in Stendal, Germany, dedicated to the exploration and celebration of classical..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Schleißheim State Gallery"
 site_name: "Schleißheim State Gallery"
 date: 2026-01-26
 draft: false
-description: "art museum"
+description: "The Schleißheim State Gallery, an art museum located in Oberschleißheim, Germany, serves as a remarkable venue for art enthusiasts and casual visitors alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

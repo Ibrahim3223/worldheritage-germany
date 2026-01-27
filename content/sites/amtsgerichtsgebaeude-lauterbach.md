@@ -3,7 +3,7 @@ title: "Amtsgerichtsgebäude Lauterbach"
 site_name: "Amtsgerichtsgebäude Lauterbach"
 date: 2026-01-26
 draft: false
-description: ""
+description: "The Amtsgerichtsgebäude Lauterbach is more than just a courthouse; it is a symbol of the legal and cultural fabric of Lauterbach, a town in Germany known..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

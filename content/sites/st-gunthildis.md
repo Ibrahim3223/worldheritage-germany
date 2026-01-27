@@ -3,7 +3,7 @@ title: "St. Gunthildis"
 site_name: "St. Gunthildis"
 date: 2026-01-26
 draft: false
-description: "new church building in Suffersheim near Weißenburg in Bayern, Germany"
+description: "St. Gunthildis Chapel, a serene place of worship located in Suffersheim near Weißenburg in Bayern, Germany, serves as a captivating example of contemporary..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

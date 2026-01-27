@@ -3,7 +3,7 @@ title: "Gebrüder-Heinrich-Stift"
 site_name: "Gebrüder-Heinrich-Stift"
 date: 2026-01-26
 draft: false
-description: "former social foundation in Luckenwalde"
+description: "Located in the heart of Luckenwalde, Germany, Gebrüder-Heinrich-Stift is a significant former social foundation that reflects the region's commitment to..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Foundation"

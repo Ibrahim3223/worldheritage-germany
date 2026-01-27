@@ -3,7 +3,7 @@ title: "Hörschbach"
 site_name: "Hörschbach"
 date: 2026-01-26
 draft: false
-description: "river in Germany"
+description: "Hörschbach, a captivating waterfall located in the picturesque region of Baden-Württemberg, Germany, is a natural wonder that draws visitors eager to..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

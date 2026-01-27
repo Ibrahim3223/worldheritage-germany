@@ -3,7 +3,7 @@ title: "The PhotoBookMuseum"
 site_name: "The PhotoBookMuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Cologne, Germany"
+description: "The PhotoBookMuseum in Cologne, Germany, presents a unique exploration of the art and culture of photobooks, offering an engaging experience for photography..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

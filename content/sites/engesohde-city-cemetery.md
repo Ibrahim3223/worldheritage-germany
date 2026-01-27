@@ -3,7 +3,7 @@ title: "Engesohde city cemetery"
 site_name: "Engesohde city cemetery"
 date: 2026-01-26
 draft: false
-description: "Listed cemetery in Hanover, Germany"
+description: "Engesohde city cemetery, located in the Südstadt-Bult region of Hanover, Germany, is a significant site that offers visitors a glimpse into the cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

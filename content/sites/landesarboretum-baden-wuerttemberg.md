@@ -3,7 +3,7 @@ title: "Landesarboretum Baden-Württemberg"
 site_name: "Landesarboretum Baden-Württemberg"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Landesarboretum Baden-Württemberg is a captivating botanical garden located in the Stuttgart region of Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Botanical Garden"

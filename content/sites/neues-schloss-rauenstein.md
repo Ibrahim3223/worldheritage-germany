@@ -3,7 +3,7 @@ title: "Neues Schloss Rauenstein"
 site_name: "Neues Schloss Rauenstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Frankenblick, Germany, the Neues Schloss Rauenstein is a museum that invites visitors to explore its cultural and historical..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

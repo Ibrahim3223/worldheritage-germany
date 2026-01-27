@@ -3,7 +3,7 @@ title: "Knauf-Museum Iphofen"
 site_name: "Knauf-Museum Iphofen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Knauf-Museum Iphofen offers an intriguing glimpse into the intersection of art, culture, and history in the charming town of Iphofen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Reformation Church"
 site_name: "Reformation Church"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin-Moabit, Germany"
+description: "The Reformation Church, located in the vibrant district of Berlin-Moabit, Germany, serves as a significant religious and cultural landmark in the heart of..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

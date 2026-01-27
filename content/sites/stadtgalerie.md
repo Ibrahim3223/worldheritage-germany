@@ -3,7 +3,7 @@ title: "Stadtgalerie"
 site_name: "Stadtgalerie"
 date: 2026-01-26
 draft: false
-description: "Art gallery in Kiel, Germany"
+description: "The Stadtgalerie, an art museum located in the heart of Kiel, Germany, serves as a vibrant cultural hub that invites visitors to engage with contemporary..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Art Museum"

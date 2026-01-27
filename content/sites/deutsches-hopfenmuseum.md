@@ -3,7 +3,7 @@ title: "Deutsches Hopfenmuseum"
 site_name: "Deutsches Hopfenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Hopfenmuseum, located in Wolnzach, Germany, is a captivating destination for those interested in the art and science of hop cultivation."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

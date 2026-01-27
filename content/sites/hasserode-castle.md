@@ -3,7 +3,7 @@ title: "Hasserode Castle"
 site_name: "Hasserode Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Hasserode Castle, perched on a hill overlooking the picturesque town of Wernigerode, is a striking example of medieval architecture that captures the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Castle"

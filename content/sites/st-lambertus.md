@@ -3,7 +3,7 @@ title: "St. Lambertus"
 site_name: "St. Lambertus"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Altstadt, Germany"
+description: "St. Lambertus, a prominent church building located in Düsseldorf's Altstadt, is a striking example of ecclesiastical architecture that tells the story of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

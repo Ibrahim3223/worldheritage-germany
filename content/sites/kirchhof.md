@@ -3,7 +3,7 @@ title: "Kirchhof"
 site_name: "Kirchhof"
 date: 2026-01-26
 draft: false
-description: "cemetery in Radebeul, Germany"
+description: "In the heart of Radebeul, Germany, lies Kirchhof, a cemetery that serves as an important site of reflection and remembrance."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Cemetery"

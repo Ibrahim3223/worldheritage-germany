@@ -3,7 +3,7 @@ title: "VW tower"
 site_name: "VW tower"
 date: 2026-01-26
 draft: false
-description: "tower in Hannover, Germany"
+description: "The VW Tower, located in the heart of Hannover, Germany, serves as an iconic structure that captures the spirit of both the city and the renowned automotive..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Tower"

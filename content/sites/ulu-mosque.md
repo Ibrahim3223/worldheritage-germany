@@ -3,7 +3,7 @@ title: "Ulu Mosque"
 site_name: "Ulu Mosque"
 date: 2026-01-26
 draft: false
-description: "mosque in Lahr/Schwarzwald, Germany"
+description: "The Ulu Mosque is an intriguing cultural landmark located in Lahr/Schwarzwald, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mosque"

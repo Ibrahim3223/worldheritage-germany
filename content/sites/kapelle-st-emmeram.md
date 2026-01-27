@@ -3,7 +3,7 @@ title: "Kapelle St. Emmeram"
 site_name: "Kapelle St. Emmeram"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Kapelle St. Emmeram, a quaint chapel located in the Bogenhausen district of Germany, offers a unique glimpse into the region's spiritual heritage and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

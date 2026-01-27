@@ -3,7 +3,7 @@ title: "ZBW - Leibniz Information Centre for Economics"
 site_name: "ZBW - Leibniz Information Centre for Economics"
 date: 2026-01-26
 draft: false
-description: "world's largest library of economics"
+description: "Nestled in the vibrant city of Hamburg, Germany, the ZBW - Leibniz Information Centre for Economics serves as the world's largest library dedicated to the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Foundation"

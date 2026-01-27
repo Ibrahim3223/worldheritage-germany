@@ -3,7 +3,7 @@ title: "Mainzer Straße 28/30"
 site_name: "Mainzer Straße 28/30"
 date: 2026-01-26
 draft: false
-description: "building in Rolandswerth, Germany"
+description: "Mainzer Straße 28/30 is an architectural ensemble located in the quaint district of Rolandswerth, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

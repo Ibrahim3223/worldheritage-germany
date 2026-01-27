@@ -3,7 +3,7 @@ title: "Niederdeutsche Bühne Kiel"
 site_name: "Niederdeutsche Bühne Kiel"
 date: 2026-01-26
 draft: false
-description: "Theater in Deutschland"
+description: "The Niederdeutsche Bühne Kiel is a prominent theatre located in the vibrant city of Kiel, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Theatre Building"

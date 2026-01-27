@@ -3,7 +3,7 @@ title: "Langenwerder"
 site_name: "Langenwerder"
 date: 2026-01-26
 draft: false
-description: "island in Mecklenburg-Vorpommern, Germany"
+description: "Langenwerder, an island located in Mecklenburg-Vorpommern, Germany, is a unique and serene destination for travelers seeking tranquility amidst nature."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Island"

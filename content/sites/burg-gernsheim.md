@@ -3,7 +3,7 @@ title: "Burg Gernsheim"
 site_name: "Burg Gernsheim"
 date: 2026-01-26
 draft: false
-description: "demolished castle in Gernsheim, Hesse, Germany"
+description: "Burg Gernsheim is a historical castle site located in Gernsheim, Hesse, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

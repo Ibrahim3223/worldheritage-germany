@@ -3,7 +3,7 @@ title: "Bartholomäuskirche Markgröningen"
 site_name: "Bartholomäuskirche Markgröningen"
 date: 2026-01-26
 draft: false
-description: "church building in Markgröningen, Baden-Württemberg, Germany"
+description: "Bartholomäuskirche Markgröningen is a striking church building located in the charming town of Markgröningen, situated in the picturesque region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

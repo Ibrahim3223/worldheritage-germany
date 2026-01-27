@@ -3,7 +3,7 @@ title: "Ahrweilerplatz"
 site_name: "Ahrweilerplatz"
 date: 2026-01-26
 draft: false
-description: "public square in Düren, Germany"
+description: "Ahrweilerplatz is a public square situated in the heart of Düren, Germany. This vibrant space serves as a central hub for both locals and visitors, offering..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Square"

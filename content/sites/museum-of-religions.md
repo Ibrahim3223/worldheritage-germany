@@ -3,7 +3,7 @@ title: "Museum of Religions"
 site_name: "Museum of Religions"
 date: 2026-01-26
 draft: false
-description: "Part of the Philipps-Universität Marburg"
+description: "The Museum of Religions, located in the historic town of Marburg, Germany, offers a unique glimpse into the diverse world of religious beliefs and practices."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

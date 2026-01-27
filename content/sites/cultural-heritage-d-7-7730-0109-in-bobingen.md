@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7730-0109 in Bobingen"
 site_name: "Cultural heritage D-7-7730-0109 in Bobingen"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bobingen, Augsburg, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7730-0109 in Bobingen is a significant fortification that represents an essential chapter in the region's historical narrative."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

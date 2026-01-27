@@ -3,7 +3,7 @@ title: "Barbarakapelle"
 site_name: "Barbarakapelle"
 date: 2026-01-26
 draft: false
-description: "chapel"
+description: "In the heart of the Karlsbad region of Germany lies the Barbarakapelle, a small yet significant chapel that embodies the spiritual and architectural essence..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

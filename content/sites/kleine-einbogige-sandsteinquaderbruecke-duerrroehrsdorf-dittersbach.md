@@ -3,7 +3,7 @@ title: "Kleine einbogige Sandsteinquaderbrücke Dürrröhrsdorf-Dittersbach"
 site_name: "Kleine einbogige Sandsteinquaderbrücke Dürrröhrsdorf-Dittersbach"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Kleine einbogige Sandsteinquaderbrücke Dürrröhrsdorf-Dittersbach is a remarkable bridge located in the quaint village of Dürrröhrsdorf-Dittersbach, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

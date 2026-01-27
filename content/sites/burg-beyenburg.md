@@ -3,7 +3,7 @@ title: "Burg Beyenburg"
 site_name: "Burg Beyenburg"
 date: 2026-01-26
 draft: false
-description: "ehemalige Burganlage an der Wupper"
+description: "Burg Beyenburg, located in the vibrant region of Wuppertal, Germany, offers visitors an intriguing glimpse into the remnants of a historical fortress that..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

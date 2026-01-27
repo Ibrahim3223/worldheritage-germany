@@ -3,7 +3,7 @@ title: "Enderttor"
 site_name: "Enderttor"
 date: 2026-01-26
 draft: false
-description: ""
+description: "Enderttor, a historic city gate located in the charming region of Cochem, Germany, serves as a remarkable entry point into the town's rich heritage."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"

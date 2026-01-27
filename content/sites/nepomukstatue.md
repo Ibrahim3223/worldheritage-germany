@@ -3,7 +3,7 @@ title: "Nepomukstatue"
 site_name: "Nepomukstatue"
 date: 2026-01-26
 draft: false
-description: "Statue in Heilbronn, Baden-Württemberg"
+description: "In the heart of Heilbronn, Germany, stands the Nepomukstatue, a remarkable statue that not only adds to the city's aesthetic charm but also serves as a..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Statue"

@@ -3,7 +3,7 @@ title: "part of D-5-76-143-204 in Roth in Bavaria, Germany"
 site_name: "part of D-5-76-143-204 in Roth in Bavaria, Germany"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-5-76-143-204 (1) in Roth, Bavaria"
+description: "In the heart of Roth, Bavaria, lies a notable cultural heritage monument known as part of D-5-76-143-204."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

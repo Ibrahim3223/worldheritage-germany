@@ -3,7 +3,7 @@ title: "Schill-Denkmal"
 site_name: "Schill-Denkmal"
 date: 2026-01-26
 draft: false
-description: "memorial in Stralsund, Germany"
+description: "The Schill-Denkmal, a notable memorial located in Stralsund, Germany, pays homage to a significant figure in the annals of German history."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Statue"

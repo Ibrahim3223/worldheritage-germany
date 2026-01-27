@@ -3,7 +3,7 @@ title: "Harzweg"
 site_name: "Harzweg"
 date: 2026-01-26
 draft: false
-description: "street with buildings in Quedlinburg, Germany"
+description: "The Harzweg, located in the historic town of Quedlinburg, Germany, is a significant architectural ensemble that reflects the rich cultural heritage of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

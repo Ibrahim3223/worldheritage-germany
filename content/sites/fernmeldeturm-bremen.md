@@ -3,7 +3,7 @@ title: "Fernmeldeturm Bremen"
 site_name: "Fernmeldeturm Bremen"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Fernmeldeturm Bremen is an iconic telecommunications tower located in the heart of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"

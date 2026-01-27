@@ -3,7 +3,7 @@ title: "Lutherkirche (Erfurt)"
 site_name: "Lutherkirche (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "church building in Erfurt, Germany"
+description: "Lutherkirche, located in the heart of Erfurt, Germany, is a significant church building that encapsulates the spiritual and cultural heritage of the region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Church Building"

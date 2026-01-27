@@ -3,7 +3,7 @@ title: "Kriegssoll"
 site_name: "Kriegssoll"
 date: 2026-01-26
 draft: false
-description: "memorial in Fehmarn, Germany"
+description: "Kriegssoll, situated in the picturesque region of Fehmarn, Germany, is a memorial that serves as a poignant reminder of the events that have shaped the..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Memorial"

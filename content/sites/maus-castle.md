@@ -3,7 +3,7 @@ title: "Maus Castle"
 site_name: "Maus Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Germany"
+description: "Maus Castle, an imposing structure located in Sankt Goarshausen, Germany, captures the imagination of visitors with its storied past and architectural splendor."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Castle"

@@ -3,7 +3,7 @@ title: "St. Kastor (Dausenau)"
 site_name: "St. Kastor (Dausenau)"
 date: 2026-01-26
 draft: false
-description: "church building in Dausenau, Germany"
+description: "St. Kastor in Dausenau is a remarkable church building situated in the picturesque region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

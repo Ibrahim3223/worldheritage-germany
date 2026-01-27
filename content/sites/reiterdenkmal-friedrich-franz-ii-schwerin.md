@@ -3,7 +3,7 @@ title: "Reiterdenkmal Friedrich Franz II. (Schwerin)"
 site_name: "Reiterdenkmal Friedrich Franz II. (Schwerin)"
 date: 2026-01-26
 draft: false
-description: "monument in Schwerin, Germany"
+description: "The Reiterdenkmal Friedrich Franz II. in Schwerin, Germany, is an evocative monument that commemorates Friedrich Franz II, the Grand Duke of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

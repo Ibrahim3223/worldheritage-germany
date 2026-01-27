@@ -3,7 +3,7 @@ title: "Ratsschulbibliothek Zwickau"
 site_name: "Ratsschulbibliothek Zwickau"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Ratsschulbibliothek Zwickau, located in the heart of Zwickau, Germany, is more than just a library; it is a repository of knowledge and a hub of..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Library"

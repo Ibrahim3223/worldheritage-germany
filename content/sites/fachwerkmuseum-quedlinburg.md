@@ -3,7 +3,7 @@ title: "Fachwerkmuseum (Quedlinburg)"
 site_name: "Fachwerkmuseum (Quedlinburg)"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Fachwerkmuseum in Quedlinburg invites visitors to explore the fascinating world of half-timbered architecture and the cultural history of this..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

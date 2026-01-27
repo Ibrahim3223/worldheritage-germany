@@ -3,7 +3,7 @@ title: "Köpplerhöfchen"
 site_name: "Köpplerhöfchen"
 date: 2026-01-26
 draft: false
-description: "ehemalige Hofanlage in der Frankfurter Altstadt"
+description: "In the heart of Frankfurt, Germany, lies a remarkable architectural ensemble known as Köpplerhöfchen."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

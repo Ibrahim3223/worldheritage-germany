@@ -3,7 +3,7 @@ title: "Galileo Wissenswelt"
 site_name: "Galileo Wissenswelt"
 date: 2026-01-26
 draft: false
-description: "museum in Fehmarn, Germany"
+description: "Galileo Wissenswelt, located in the picturesque region of Fehmarn, Germany, serves as a captivating museum dedicated to the wonders of science and technology."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

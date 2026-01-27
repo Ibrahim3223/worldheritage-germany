@@ -3,7 +3,7 @@ title: "Münzkabinett"
 site_name: "Münzkabinett"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden, Germany"
+description: "The Münzkabinett, located in the heart of Dresden, Germany, is a museum dedicated to the art and history of numismatics."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Römermuseum Obernburg"
 site_name: "Römermuseum Obernburg"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Römermuseum Obernburg, situated in the charming town of Obernburg am Main in Germany, serves as a vital cultural hub that showcases the region's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

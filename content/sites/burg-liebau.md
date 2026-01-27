@@ -3,7 +3,7 @@ title: "Burg Liebau"
 site_name: "Burg Liebau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Liebau, a striking castle located in the picturesque region of Pöhl, Germany, serves as an evocative reminder of the medieval past that shaped the area."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

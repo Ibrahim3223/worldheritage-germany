@@ -3,7 +3,7 @@ title: "Großräschener See"
 site_name: "Großräschener See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Großräschener See is an expansive lake located in the charming town of Großräschen, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

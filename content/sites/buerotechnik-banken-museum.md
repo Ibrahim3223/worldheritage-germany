@@ -3,7 +3,7 @@ title: "Bürotechnik- & Banken-Museum"
 site_name: "Bürotechnik- & Banken-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the quaint town of Stuhr, Germany, the Bürotechnik- & Banken-Museum offers a unique glimpse into the historical evolution of office technology..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

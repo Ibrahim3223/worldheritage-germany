@@ -3,7 +3,7 @@ title: "St. Gertraud"
 site_name: "St. Gertraud"
 date: 2026-01-26
 draft: false
-description: "church building in Halle (Saale), Saxony-Anhalt, Germany"
+description: "St. Gertraud Church, located in Halle (Saale), Saxony-Anhalt, Germany, is a prominent religious structure that encapsulates the architectural and cultural..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

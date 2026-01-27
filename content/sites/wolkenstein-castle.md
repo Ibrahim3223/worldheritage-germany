@@ -3,7 +3,7 @@ title: "Wolkenstein Castle"
 site_name: "Wolkenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Franconian Switzerland"
+description: "Wolkenstein Castle, an archaeological site located in the scenic region of Ebermannstadt, Germany, offers a unique glimpse into medieval history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

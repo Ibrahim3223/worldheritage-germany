@@ -3,7 +3,7 @@ title: "Haus für Medienkunst Oldenburg"
 site_name: "Haus für Medienkunst Oldenburg"
 date: 2026-01-26
 draft: false
-description: "art gallery in the city of Oldenburg, Lower Saxony, Germany"
+description: "In the heart of Oldenburg, Lower Saxony, the Haus für Medienkunst Oldenburg serves as a vibrant hub for contemporary art and media culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

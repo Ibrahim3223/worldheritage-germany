@@ -3,7 +3,7 @@ title: "Marienkirche"
 site_name: "Marienkirche"
 date: 2026-01-26
 draft: false
-description: "church in Dortmund, Germany"
+description: "Marienkirche, located in the heart of Dortmund, Germany, is a striking church building that reflects the rich cultural and religious heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

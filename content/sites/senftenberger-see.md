@@ -3,7 +3,7 @@ title: "Senftenberger See"
 site_name: "Senftenberger See"
 date: 2026-01-26
 draft: false
-description: "lake in Oberspreewald-Lausitz District, Brandenburg, Germany"
+description: "Senftenberger See, located in the Oberspreewald-Lausitz District of Brandenburg, Germany, is an expansive and striking lake that captivates both nature..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

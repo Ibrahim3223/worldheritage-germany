@@ -3,7 +3,7 @@ title: "Zeche Berneck"
 site_name: "Zeche Berneck"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "Zeche Berneck is not merely a mine; it is a significant part of Bochum's industrial heritage, reflecting the region's historical relationship with coal mining."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

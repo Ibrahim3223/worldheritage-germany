@@ -3,7 +3,7 @@ title: "Open air museum Ammerländer Bauernhaus"
 site_name: "Open air museum Ammerländer Bauernhaus"
 date: 2026-01-26
 draft: false
-description: "Open air museum in Lower Saxony, Germany"
+description: "The Open Air Museum Ammerländer Bauernhaus, located in the charming region of Bad Zwischenahn, Germany, offers visitors a unique exploration of rural life..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

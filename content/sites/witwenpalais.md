@@ -3,7 +3,7 @@ title: "Witwenpalais"
 site_name: "Witwenpalais"
 date: 2026-01-26
 draft: false
-description: "building in Eutin, Germany"
+description: "Witwenpalais, a distinguished palace located in Eutin, Germany, stands as a significant cultural landmark in the region."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Palace"

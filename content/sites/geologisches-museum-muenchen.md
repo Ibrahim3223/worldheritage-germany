@@ -3,7 +3,7 @@ title: "Geologisches Museum München"
 site_name: "Geologisches Museum München"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Geologisches Museum München, located in the vibrant city of Munich, Germany, serves as a vital hub for understanding Earth's geological history and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

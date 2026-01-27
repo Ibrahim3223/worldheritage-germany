@@ -3,7 +3,7 @@ title: "Seifersdorfer Tal"
 site_name: "Seifersdorfer Tal"
 date: 2026-01-26
 draft: false
-description: "Landscape garden in Saxony"
+description: "Seifersdorfer Tal, located in the picturesque Wachau region of Germany, is a remarkable landscape garden that captures the essence of Saxony's natural beauty."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Valley"

@@ -3,7 +3,7 @@ title: "Heinsener Klippen"
 site_name: "Heinsener Klippen"
 date: 2026-01-26
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
+description: "Heinsener Klippen, a former nature reserve located in the Bevern region of Lower Saxony, Germany, offers a serene escape into the natural world."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

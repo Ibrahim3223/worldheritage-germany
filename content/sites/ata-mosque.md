@@ -3,7 +3,7 @@ title: "Ata Mosque"
 site_name: "Ata Mosque"
 date: 2026-01-26
 draft: false
-description: "Mosque in Florsheim am Main, Germany"
+description: "Ata Mosque, located in Flörsheim am Main, Germany, serves as an important religious and cultural hub for the local Muslim community."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Mosque"

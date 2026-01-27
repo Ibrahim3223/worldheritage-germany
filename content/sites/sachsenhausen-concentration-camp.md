@@ -3,7 +3,7 @@ title: "Sachsenhausen concentration camp"
 site_name: "Sachsenhausen concentration camp"
 date: 2026-01-26
 draft: false
-description: "Nazi concentration camp in Oranienburg, Germany (1936-1945)"
+description: "Sachsenhausen concentration camp, located in Oranienburg, Germany, is a somber memorial that serves as a stark reminder of the atrocities committed during..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

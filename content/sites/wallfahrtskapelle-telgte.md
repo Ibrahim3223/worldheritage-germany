@@ -3,7 +3,7 @@ title: "Wallfahrtskapelle Telgte"
 site_name: "Wallfahrtskapelle Telgte"
 date: 2026-01-26
 draft: false
-description: "church building in Telgte, Germany"
+description: "The Wallfahrtskapelle Telgte is more than just a church building; it is a site of spiritual significance and local devotion located in the charming town of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

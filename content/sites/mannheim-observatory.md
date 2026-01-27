@@ -3,7 +3,7 @@ title: "Mannheim Observatory"
 site_name: "Mannheim Observatory"
 date: 2026-01-26
 draft: false
-description: "former observatory in Mannheim, Germany"
+description: "The Mannheim Observatory, once a prominent astronomical facility, stands as a reminder of humanity's enduring quest to understand the cosmos."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

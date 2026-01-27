@@ -3,7 +3,7 @@ title: "Brunswick Palace"
 site_name: "Brunswick Palace"
 date: 2026-01-26
 draft: false
-description: "Palace in Lower Saxony, Germany"
+description: "Brunswick Palace, located in the heart of Brunswick, Germany, is an impressive museum that captures the cultural and historical essence of Lower Saxony."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

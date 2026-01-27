@@ -3,7 +3,7 @@ title: "Dreifaltigkeitskirche (Collinghorst)"
 site_name: "Dreifaltigkeitskirche (Collinghorst)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Dreifaltigkeitskirche, located in the town of Collinghorst in the Rhauderfehn region of Germany, stands as a prominent example of ecclesiastical..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

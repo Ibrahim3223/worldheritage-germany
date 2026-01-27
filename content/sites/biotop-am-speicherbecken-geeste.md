@@ -3,7 +3,7 @@ title: "Biotop am Speicherbecken Geeste"
 site_name: "Biotop am Speicherbecken Geeste"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Biotop am Speicherbecken Geeste is a captivating nature reserve located in the Lower Saxony region of Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

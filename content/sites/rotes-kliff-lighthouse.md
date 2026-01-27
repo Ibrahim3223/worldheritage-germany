@@ -3,7 +3,7 @@ title: "Rotes Kliff lighthouse"
 site_name: "Rotes Kliff lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
+description: "Perched along the rugged coastline of Sylt in Schleswig-Holstein, the Rotes Kliff lighthouse serves as a significant landmark and guiding light for..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Lighthouse"

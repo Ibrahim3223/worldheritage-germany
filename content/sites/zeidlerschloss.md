@@ -3,7 +3,7 @@ title: "Zeidlerschloss"
 site_name: "Zeidlerschloss"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Landkreis Nürnberger Land, Bavaria, Germany"
+description: "Zeidlerschloss, a distinguished manor house located in Feucht, Bavaria, stands as a notable cultural heritage monument in the Landkreis Nürnberger Land."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

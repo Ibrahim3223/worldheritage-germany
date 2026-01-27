@@ -3,7 +3,7 @@ title: "Borstenbachtal"
 site_name: "Borstenbachtal"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Bad Oeynhausen, North Rhine-Westphalia, Germany"
+description: "Borstenbachtal is a serene nature reserve located in Bad Oeynhausen, North Rhine-Westphalia, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

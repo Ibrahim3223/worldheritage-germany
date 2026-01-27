@@ -3,7 +3,7 @@ title: "Hirschbach Falls"
 site_name: "Hirschbach Falls"
 date: 2026-01-26
 draft: false
-description: "Wasserfall in Deutschland"
+description: "Hirschbach Falls, a remarkable waterfall located in the Sankt Peter region of Germany, captivates visitors with its natural beauty and serene environment."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Waterfall"

@@ -3,7 +3,7 @@ title: "Käthe Kollwitz Museum Köln"
 site_name: "Käthe Kollwitz Museum Köln"
 date: 2026-01-26
 draft: false
-description: "museum in Cologne"
+description: "The Käthe Kollwitz Museum Köln is a dedicated space celebrating the life and work of one of Germany's most significant artists, Käthe Kollwitz."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Art Museum"

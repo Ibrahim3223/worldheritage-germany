@@ -3,7 +3,7 @@ title: "DDR-Museum Pforzheim"
 site_name: "DDR-Museum Pforzheim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The DDR-Museum Pforzheim offers visitors an intriguing exploration of life in East Germany during the era of the German Democratic Republic (GDR)."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

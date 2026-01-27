@@ -3,7 +3,7 @@ title: "Gardelegen massacre"
 site_name: "Gardelegen massacre"
 date: 2026-01-26
 draft: false
-description: "German war crime - massacre near the town Gardelegen in Saxony-Anhalt, Germany"
+description: "The Gardelegen massacre memorial stands as a somber reminder of one of the darkest chapters in human history, commemorating the tragic events that took..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Memorial"

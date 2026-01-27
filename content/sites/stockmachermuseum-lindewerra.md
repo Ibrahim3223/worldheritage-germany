@@ -3,7 +3,7 @@ title: "Stockmachermuseum Lindewerra"
 site_name: "Stockmachermuseum Lindewerra"
 date: 2026-01-26
 draft: false
-description: "museum in Lindewerra, Germany"
+description: "The Stockmachermuseum Lindewerra is a unique cultural institution located in the small village of Lindewerra, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

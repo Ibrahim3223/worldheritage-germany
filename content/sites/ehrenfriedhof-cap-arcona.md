@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Cap Arcona"
 site_name: "Ehrenfriedhof Cap Arcona"
 date: 2026-01-26
 draft: false
-description: "cemetery in Neustadt in Holstein, Germany"
+description: "Ehrenfriedhof Cap Arcona, situated in the charming coastal town of Neustadt in Holstein, Germany, serves as a poignant reminder of the past."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Cemetery"

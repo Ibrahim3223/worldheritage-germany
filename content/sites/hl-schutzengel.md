@@ -3,7 +3,7 @@ title: "Hl. Schutzengel"
 site_name: "Hl. Schutzengel"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "In the heart of Essen, Germany, lies the Hl. Schutzengel, a church that serves as both a spiritual sanctuary and a focal point of community life."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Schaubühne am Lehniner Platz"
 site_name: "Schaubühne am Lehniner Platz"
 date: 2026-01-26
 draft: false
-description: "theatre in the Wilmersdorf district of Berlin, Germany"
+description: "Schaubühne am Lehniner Platz is a prominent theatre located in the vibrant Wilmersdorf district of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Altendorfer Bank Colliery"
 site_name: "Altendorfer Bank Colliery"
 date: 2026-01-26
 draft: false
-description: "mine"
+description: "The Altendorfer Bank Colliery, located in Essen, Germany, is a significant site that encapsulates the industrial heritage of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"

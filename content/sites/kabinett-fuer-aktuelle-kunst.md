@@ -3,7 +3,7 @@ title: "Kabinett für aktuelle Kunst"
 site_name: "Kabinett für aktuelle Kunst"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The Kabinett für aktuelle Kunst, an art museum located in the vibrant city of Bremerhaven, Germany, serves as a contemporary platform for artistic expression."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Art Museum"

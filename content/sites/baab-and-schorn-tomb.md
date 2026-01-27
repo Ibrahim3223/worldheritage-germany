@@ -3,7 +3,7 @@ title: "Baab and Schorn tomb"
 site_name: "Baab and Schorn tomb"
 date: 2026-01-26
 draft: false
-description: "tomb of the merchant families Baab and Schorn in Dießen am Ammersee, Germany"
+description: "The Baab and Schorn tomb, located in Dießen am Ammersee, Germany, is a poignant reminder of the region's merchant heritage."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tomb"

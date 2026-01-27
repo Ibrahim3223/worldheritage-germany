@@ -3,7 +3,7 @@ title: "Church of the Holy Spirit (Rostock)"
 site_name: "Church of the Holy Spirit (Rostock)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church of the Holy Spirit in Rostock is a striking ecclesiastical structure that serves as a reminder of the city’s historical and architectural..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"

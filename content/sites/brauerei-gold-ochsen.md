@@ -3,7 +3,7 @@ title: "Brauerei Gold Ochsen"
 site_name: "Brauerei Gold Ochsen"
 date: 2026-01-26
 draft: false
-description: "German brewery"
+description: "Brauerei Gold Ochsen, located in the vibrant city of Ulm, Germany, is more than just a brewery; it is a significant part of the region's cultural identity."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

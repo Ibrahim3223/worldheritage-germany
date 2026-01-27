@@ -3,7 +3,7 @@ title: "Nietzsche Archive"
 site_name: "Nietzsche Archive"
 date: 2026-01-26
 draft: false
-description: "building in Weimar, Germany"
+description: "The Nietzsche Archive in Weimar, Germany, serves as a significant cultural institution dedicated to the life and works of the influential philosopher..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

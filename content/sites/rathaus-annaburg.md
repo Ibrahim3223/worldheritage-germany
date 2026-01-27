@@ -3,7 +3,7 @@ title: "Rathaus Annaburg"
 site_name: "Rathaus Annaburg"
 date: 2026-01-26
 draft: false
-description: "Rathaus der Stadt Annaburg in Sachsen-Anhalt"
+description: "Located in the heart of Annaburg, Germany, the Rathaus Annaburg serves not only as a functional city hall but also as a significant landmark within the..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

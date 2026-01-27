@@ -3,7 +3,7 @@ title: "Dokumentationszentrum Alltagskultur der DDR"
 site_name: "Dokumentationszentrum Alltagskultur der DDR"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Dokumentationszentrum Alltagskultur der DDR, located in Eisenhüttenstadt, Germany, offers a unique glimpse into the everyday life of East Germany during..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

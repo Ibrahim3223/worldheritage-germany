@@ -3,7 +3,7 @@ title: "Zum Göttlichen Erlöser"
 site_name: "Zum Göttlichen Erlöser"
 date: 2026-01-26
 draft: false
-description: "church building in Rath/Heumar, Germany"
+description: "Zum Göttlichen Erlöser, an intriguing church building located in the Rath/Heumar region of Germany, serves as both a spiritual haven and a cultural landmark."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

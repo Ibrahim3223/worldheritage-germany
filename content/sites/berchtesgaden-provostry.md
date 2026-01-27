@@ -3,7 +3,7 @@ title: "Berchtesgaden Provostry"
 site_name: "Berchtesgaden Provostry"
 date: 2026-01-26
 draft: false
-description: "monastery in Bavaria"
+description: "The Berchtesgaden Provostry is a remarkable monastery located in the Bavarian Circle of Germany, renowned for its serene ambiance and historical significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

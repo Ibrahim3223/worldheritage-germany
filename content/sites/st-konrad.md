@@ -3,7 +3,7 @@ title: "St. Konrad"
 site_name: "St. Konrad"
 date: 2026-01-26
 draft: false
-description: "church building in Speyer, Germany"
+description: "St. Konrad, a significant church building located in Speyer, Germany, serves as a focal point for both local worshippers and visitors intrigued by its..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

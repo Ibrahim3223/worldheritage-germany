@@ -3,7 +3,7 @@ title: "Heilige Familie"
 site_name: "Heilige Familie"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Heilige Familie, a notable church building in Düsseldorf, Germany, stands as a significant landmark within the region’s architectural and spiritual..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

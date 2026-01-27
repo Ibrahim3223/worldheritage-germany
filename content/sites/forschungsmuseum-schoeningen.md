@@ -3,7 +3,7 @@ title: "Forschungsmuseum Schöningen"
 site_name: "Forschungsmuseum Schöningen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Forschungsmuseum Schöningen is an intriguing museum located in the town of Schöningen, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

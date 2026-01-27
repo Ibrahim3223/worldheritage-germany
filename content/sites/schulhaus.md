@@ -3,7 +3,7 @@ title: "Schulhaus"
 site_name: "Schulhaus"
 date: 2026-01-26
 draft: false
-description: "school building in Kirchheim an der Weinstraße, Germany"
+description: "Schulhaus, a distinguished school building located in Kirchheim an der Weinstraße, Germany, represents a pivotal element in the region's educational landscape."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "School Building"

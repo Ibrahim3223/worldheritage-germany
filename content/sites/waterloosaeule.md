@@ -3,7 +3,7 @@ title: "Waterloosäule"
 site_name: "Waterloosäule"
 date: 2026-01-26
 draft: false
-description: "victory column in Hannover, Germany"
+description: "In the heart of Hannover, Germany, the Waterloosäule stands as a remarkable victory column that captures both the historical and cultural essence of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

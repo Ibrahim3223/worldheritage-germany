@@ -3,7 +3,7 @@ title: "Deutsches Baumschulmuseum"
 site_name: "Deutsches Baumschulmuseum"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Deutsches Baumschulmuseum, located in the town of Pinneberg, Germany, serves as a unique repository dedicated to the art and science of tree nursery..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

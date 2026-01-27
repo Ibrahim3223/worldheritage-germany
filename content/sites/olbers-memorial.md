@@ -3,7 +3,7 @@ title: "Olbers memorial"
 site_name: "Olbers memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Bremen, Germany"
+description: "In the heart of Bremen, Germany, stands the Olbers memorial, a statue that pays homage to the renowned astronomer and physician Heinrich Wilhelm Olbers."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Statue"

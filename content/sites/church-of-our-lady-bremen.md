@@ -3,7 +3,7 @@ title: "Church of Our Lady (Bremen)"
 site_name: "Church of Our Lady (Bremen)"
 date: 2026-01-26
 draft: false
-description: "church building in Mitte, Germany"
+description: "The Church of Our Lady, located in the heart of Bremen, Germany, is a significant church building that embodies the historical and cultural essence of the..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Church Building"

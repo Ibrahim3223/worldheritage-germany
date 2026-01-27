@@ -3,7 +3,7 @@ title: "Galerie Neue Meister"
 site_name: "Galerie Neue Meister"
 date: 2026-01-26
 draft: false
-description: "art museum in Dresden, Germany"
+description: "The Galerie Neue Meister, located in the heart of Dresden, Germany, serves as a prominent destination for art enthusiasts and history buffs alike."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

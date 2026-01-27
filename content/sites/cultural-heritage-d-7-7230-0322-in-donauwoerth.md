@@ -3,7 +3,7 @@ title: "Cultural heritage D-7-7230-0322 in Donauwörth"
 site_name: "Cultural heritage D-7-7230-0322 in Donauwörth"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Donauwörth, Donau-Ries, Swabia, Bavaria, Germany"
+description: "Cultural heritage D-7-7230-0322 in Donauwörth is a captivating example of a fortification that highlights the region's historical significance in Bavaria,..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fortification"

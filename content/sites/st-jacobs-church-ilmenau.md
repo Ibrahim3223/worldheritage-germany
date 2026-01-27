@@ -3,7 +3,7 @@ title: "St. Jacob's Church (Ilmenau)"
 site_name: "St. Jacob's Church (Ilmenau)"
 date: 2026-01-26
 draft: false
-description: "Church building in Thuringia, Germany"
+description: "St. Jacob's Church in Ilmenau, Germany, serves as a significant landmark with deep-rooted cultural and historical value."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Church Building"

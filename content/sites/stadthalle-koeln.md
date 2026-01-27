@@ -3,7 +3,7 @@ title: "Stadthalle Köln"
 site_name: "Stadthalle Köln"
 date: 2026-01-26
 draft: false
-description: "architectural structure in Germany"
+description: "Stadthalle Köln is an architectural structure located in the Mülheim district of Germany, serving as a multi-purpose hall that caters to a variety of..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Multi-Purpose Hall"

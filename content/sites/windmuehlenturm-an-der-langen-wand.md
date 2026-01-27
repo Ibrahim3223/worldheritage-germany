@@ -3,7 +3,7 @@ title: "Windmühlenturm an der Langen Wand"
 site_name: "Windmühlenturm an der Langen Wand"
 date: 2026-01-26
 draft: false
-description: "Windmill tower in Bad Nauheim"
+description: "Windmühlenturm an der Langen Wand, located in the historic town of Bad Nauheim, Germany, is a captivating example of a traditional windmill tower."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Tower"

@@ -3,7 +3,7 @@ title: "Bromberg"
 site_name: "Bromberg"
 date: 2026-01-26
 draft: false
-description: "mountain"
+description: "Bromberg, a mountain located in the Böblingen district of Germany, presents an inviting destination for outdoor enthusiasts and those seeking a connection..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain"

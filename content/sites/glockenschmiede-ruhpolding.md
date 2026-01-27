@@ -3,7 +3,7 @@ title: "Glockenschmiede Ruhpolding"
 site_name: "Glockenschmiede Ruhpolding"
 date: 2026-01-26
 draft: false
-description: "Museum in Germany"
+description: "The Glockenschmiede Ruhpolding is a captivating museum situated in the picturesque town of Ruhpolding, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

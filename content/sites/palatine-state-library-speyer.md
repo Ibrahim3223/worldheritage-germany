@@ -3,7 +3,7 @@ title: "Palatine state library Speyer"
 site_name: "Palatine state library Speyer"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Palatine State Library in Speyer, Germany, is a significant repository of knowledge and cultural heritage, inviting visitors to explore its extensive..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

@@ -3,7 +3,7 @@ title: "Bernd-Eichinger-Platz"
 site_name: "Bernd-Eichinger-Platz"
 date: 2026-01-26
 draft: false
-description: "public square in Maxvorstadt, Germany"
+description: "Bernd-Eichinger-Platz, a public square located in the vibrant Maxvorstadt district of Munich, Germany, serves as a focal point for both locals and visitors..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Square"

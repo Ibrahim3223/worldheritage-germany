@@ -3,7 +3,7 @@ title: "Brand (Landkreis Celle)"
 site_name: "Brand (Landkreis Celle)"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Brand, located in Landkreis Celle within the Uetze region of Lower Saxony, Germany, is a serene nature reserve that offers a unique glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

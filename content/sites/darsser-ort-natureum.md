@@ -3,7 +3,7 @@ title: "Darßer Ort Natureum"
 site_name: "Darßer Ort Natureum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the picturesque region of Mecklenburg-Vorpommern, the Darßer Ort Natureum serves as a vital hub for understanding the unique natural environment..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

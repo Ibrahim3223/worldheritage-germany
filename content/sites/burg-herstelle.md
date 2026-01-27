@@ -3,7 +3,7 @@ title: "Burg Herstelle"
 site_name: "Burg Herstelle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Herstelle, a captivating castle located in the scenic region of Beverungen, Germany, invites travelers to explore its storied past and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

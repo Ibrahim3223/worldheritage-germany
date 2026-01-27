@@ -3,7 +3,7 @@ title: "Burg Eversberg"
 site_name: "Burg Eversberg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Eversberg, a remarkable castle located in Meschede, Germany, stands as a captivating reminder of the region's historical significance and architectural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

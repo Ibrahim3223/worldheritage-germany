@@ -3,7 +3,7 @@ title: "Alte Burg Lispenhausen"
 site_name: "Alte Burg Lispenhausen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Alte Burg Lispenhausen, a captivating castle located in the serene region of Lispenhausen, Germany, invites visitors to explore its storied past and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Castle"

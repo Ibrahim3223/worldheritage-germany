@@ -3,7 +3,7 @@ title: "Kalbe Castle"
 site_name: "Kalbe Castle"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Saxony-Anhalt, Germany"
+description: "Kalbe Castle, a castle ruin located in the picturesque region of Kalbe (Milde), Germany, serves as a fascinating landmark steeped in the narratives of the past."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

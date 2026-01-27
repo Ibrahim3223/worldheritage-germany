@@ -3,7 +3,7 @@ title: "Dorfkapelle Starkenhofen"
 site_name: "Dorfkapelle Starkenhofen"
 date: 2026-01-26
 draft: false
-description: "building in Bad Wurzach, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "Dorfkapelle Starkenhofen is a charming chapel located in the picturesque region of Bad Wurzach, in the Tübingen Government Region of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

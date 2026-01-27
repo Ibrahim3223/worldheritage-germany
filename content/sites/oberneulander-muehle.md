@@ -3,7 +3,7 @@ title: "Oberneulander Mühle"
 site_name: "Oberneulander Mühle"
 date: 2026-01-26
 draft: false
-description: "windmill in Bremen, Germany"
+description: "Oberneulander Mühle is an intriguing historical museum located in Oberneuland, a district of Bremen, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Museum"

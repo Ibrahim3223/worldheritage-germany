@@ -3,7 +3,7 @@ title: "Herbergsmuseum"
 site_name: "Herbergsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Blankenburg (Harz), Germany"
+description: "The Herbergsmuseum, located in the picturesque town of Blankenburg in the Harz region of Germany, offers visitors a unique glimpse into local history and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

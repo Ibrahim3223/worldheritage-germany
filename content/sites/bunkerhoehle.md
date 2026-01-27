@@ -3,7 +3,7 @@ title: "Bunkerhöhle"
 site_name: "Bunkerhöhle"
 date: 2026-01-26
 draft: false
-description: "cave"
+description: "Located in the heart of Iserlohn, Germany, the Bunkerhöhle is a fascinating cave that offers visitors a glimpse into the geological and historical wonders..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cave"

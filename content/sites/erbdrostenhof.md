@@ -3,7 +3,7 @@ title: "Erbdrostenhof"
 site_name: "Erbdrostenhof"
 date: 2026-01-26
 draft: false
-description: "palace"
+description: "Erbdrostenhof, a distinguished palace located in the heart of Münster-Mitte, Germany, offers visitors a glimpse into the opulent architectural style and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Palace"

@@ -3,7 +3,7 @@ title: "Großbernsau Castle"
 site_name: "Großbernsau Castle"
 date: 2026-01-26
 draft: false
-description: "castle ruin in Overath"
+description: "Großbernsau Castle, a captivating ruin located in Overath, Germany, offers a glimpse into the region's medieval past."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

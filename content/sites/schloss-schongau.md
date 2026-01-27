@@ -3,7 +3,7 @@ title: "Schloss Schongau"
 site_name: "Schloss Schongau"
 date: 2026-01-26
 draft: false
-description: "Castle of Schongau"
+description: "Schloss Schongau, a distinguished manor house located in the picturesque region of Germany, offers visitors a glimpse into the architectural and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

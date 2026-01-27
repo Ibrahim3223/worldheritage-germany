@@ -3,7 +3,7 @@ title: "Gustav Adolf Memorial"
 site_name: "Gustav Adolf Memorial"
 date: 2026-01-26
 draft: false
-description: "monument in Lützen, Germany"
+description: "The Gustav Adolf Memorial, situated in Lützen, Germany, serves as a poignant reminder of the region's historical significance during the Thirty Years' War."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Monument"

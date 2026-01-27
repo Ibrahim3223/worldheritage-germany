@@ -3,7 +3,7 @@ title: "Krankenhauskapelle"
 site_name: "Krankenhauskapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Krankenhauskapelle, a church building located in Halle (Saale), Germany, stands out not only as a place of worship but also as a significant piece of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

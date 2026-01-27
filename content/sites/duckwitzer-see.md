@@ -3,7 +3,7 @@ title: "Duckwitzer See"
 site_name: "Duckwitzer See"
 date: 2026-01-26
 draft: false
-description: "lake in Rostock District, Mecklenburg-Vorpommern, Germany"
+description: "Duckwitzer See is a picturesque lake located in the Rostock District of Mecklenburg-Vorpommern, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lake"

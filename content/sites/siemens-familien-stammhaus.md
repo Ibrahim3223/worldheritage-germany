@@ -3,7 +3,7 @@ title: "Siemens-Familien-Stammhaus"
 site_name: "Siemens-Familien-Stammhaus"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Siemens-Familien-Stammhaus, located in the historical region of Goslar, Germany, serves as a captivating museum that allows visitors to explore the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

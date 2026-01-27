@@ -3,7 +3,7 @@ title: "Church in Möllenhagen"
 site_name: "Church in Möllenhagen"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Church in Möllenhagen is a notable religious structure located in the charming region of Möllenhagen, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

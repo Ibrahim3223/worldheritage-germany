@@ -3,7 +3,7 @@ title: "Duisburg Zoo"
 site_name: "Duisburg Zoo"
 date: 2026-01-26
 draft: false
-description: "zoo in Duisburg, North Rhine-Westphalia, Germany"
+description: "Duisburg Zoo, located in the heart of Duisburg, North Rhine-Westphalia, Germany, offers a unique glimpse into the diverse world of wildlife."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

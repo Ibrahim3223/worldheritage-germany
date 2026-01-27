@@ -3,7 +3,7 @@ title: "Fritz Reuter Memorial"
 site_name: "Fritz Reuter Memorial"
 date: 2026-01-26
 draft: false
-description: "memorial in Stavenhagen"
+description: "The Fritz Reuter Memorial, located in Stavenhagen, Germany, serves as a tribute to one of the country's most celebrated authors."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Monument"

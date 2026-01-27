@@ -3,7 +3,7 @@ title: "Neuburg Abbey"
 site_name: "Neuburg Abbey"
 date: 2026-01-26
 draft: false
-description: "Benedictine monastery in Baden-Württemberg, Germany"
+description: "Located in the charming region of Heidelberg, Germany, Neuburg Abbey is a Benedictine monastery known for its brewing traditions and historical significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

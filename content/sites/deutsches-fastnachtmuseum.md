@@ -3,7 +3,7 @@ title: "Deutsches Fastnachtmuseum"
 site_name: "Deutsches Fastnachtmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Kitzingen, Germany"
+description: "The Deutsches Fastnachtmuseum, located in Kitzingen, Germany, serves as a vibrant homage to the country’s carnival traditions."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

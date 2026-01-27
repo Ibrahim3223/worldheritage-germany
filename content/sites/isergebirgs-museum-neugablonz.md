@@ -3,7 +3,7 @@ title: "Isergebirgs-Museum Neugablonz"
 site_name: "Isergebirgs-Museum Neugablonz"
 date: 2026-01-26
 draft: false
-description: "museum in Kaufbeuren, Germany"
+description: "The Isergebirgs-Museum Neugablonz is a fascinating cultural institution located in Kaufbeuren, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

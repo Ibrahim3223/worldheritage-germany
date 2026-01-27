@@ -3,7 +3,7 @@ title: "Town hall Artern"
 site_name: "Town hall Artern"
 date: 2026-01-26
 draft: false
-description: "Rathaus im Kyffhäuserkreis, Thüringen"
+description: "The Town Hall of Artern, known locally as Rathaus im Kyffhäuserkreis, is a significant civic structure located in the heart of Artern, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "City Hall"

@@ -3,7 +3,7 @@ title: "Tierpark und Fossilium Bochum"
 site_name: "Tierpark und Fossilium Bochum"
 date: 2026-01-26
 draft: false
-description: "zoo"
+description: "Tierpark und Fossilium Bochum offers a unique blend of zoological wonders and geological intrigue, situated in the vibrant city of Bochum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Zoo"

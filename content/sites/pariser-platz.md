@@ -3,7 +3,7 @@ title: "Pariser Platz"
 site_name: "Pariser Platz"
 date: 2026-01-26
 draft: false
-description: "town square in Berlin, Germany"
+description: "Pariser Platz is a prominent town square located in the heart of Berlin, Germany, specifically within the Bezirk Mitte district."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

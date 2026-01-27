@@ -3,7 +3,7 @@ title: "Sammlung Falckenberg"
 site_name: "Sammlung Falckenberg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Sammlung Falckenberg, located in Hamburg, Germany, is a unique museum that immerses visitors in contemporary art and cultural dialogue."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

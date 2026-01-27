@@ -3,7 +3,7 @@ title: "EXPOSEEUM"
 site_name: "EXPOSEEUM"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "EXPOSEEUM is a museum located in Döhren-Wülfel, Germany, offering visitors a unique opportunity to explore various exhibitions that reflect the cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

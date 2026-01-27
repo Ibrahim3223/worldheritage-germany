@@ -3,7 +3,7 @@ title: "Ehrenfriedhof Barmen"
 site_name: "Ehrenfriedhof Barmen"
 date: 2026-01-26
 draft: false
-description: "cemetery in Wuppertal, Germany"
+description: "Ehrenfriedhof Barmen is a distinguished cemetery located in the vibrant city of Wuppertal, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Cemetery"

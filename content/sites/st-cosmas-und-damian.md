@@ -3,7 +3,7 @@ title: "St. Cosmas und Damian"
 site_name: "St. Cosmas und Damian"
 date: 2026-01-26
 draft: false
-description: "roman catholic church in Bergheim, Northrhine-Westfalia, Germany"
+description: "St. Cosmas und Damian is a captivating Roman Catholic church located in the town of Bergheim, North Rhine-Westphalia, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

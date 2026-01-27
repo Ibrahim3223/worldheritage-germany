@@ -3,7 +3,7 @@ title: "Melanchthonkirche"
 site_name: "Melanchthonkirche"
 date: 2026-01-26
 draft: false
-description: "church in Hannover, Germany"
+description: "The Melanchthonkirche, located in the Südstadt-Bult district of Hannover, Germany, is a remarkable church building that stands as an emblem of the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

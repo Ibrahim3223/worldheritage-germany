@@ -3,7 +3,7 @@ title: "Schloßmuseum Wilhelmshöhe"
 site_name: "Schloßmuseum Wilhelmshöhe"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Schloßmuseum Wilhelmshöhe, located in the picturesque city of Kassel, Germany, offers visitors a captivating exploration of art, culture, and history."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

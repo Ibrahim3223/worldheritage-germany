@@ -3,7 +3,7 @@ title: "Städtische Galerie Karlsruhe"
 site_name: "Städtische Galerie Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "Städtische Galerie Karlsruhe is a prominent museum located in the heart of Karlsruhe, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

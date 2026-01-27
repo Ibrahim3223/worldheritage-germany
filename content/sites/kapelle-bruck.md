@@ -3,7 +3,7 @@ title: "Kapelle Bruck"
 site_name: "Kapelle Bruck"
 date: 2026-01-26
 draft: false
-description: "catholic chapel in Bruck, Germany"
+description: "Tucked away in the charming region of Neuburg an der Donau, the Kapelle Bruck serves as a serene testament to the cultural and spiritual heritage of Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

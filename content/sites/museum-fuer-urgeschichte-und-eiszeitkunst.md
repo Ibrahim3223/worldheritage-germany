@@ -3,7 +3,7 @@ title: "Museum für Urgeschichte und Eiszeitkunst"
 site_name: "Museum für Urgeschichte und Eiszeitkunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Museum für Urgeschichte und Eiszeitkunst, situated in Blaubeuren, Germany, serves as a crucial portal into the prehistoric past, showcasing the..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

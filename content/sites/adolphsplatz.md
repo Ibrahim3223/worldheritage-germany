@@ -3,7 +3,7 @@ title: "Adolphsplatz"
 site_name: "Adolphsplatz"
 date: 2026-01-26
 draft: false
-description: "square"
+description: "Adolphsplatz is an intriguing square located in the heart of Hamburg-Mitte, Germany's vibrant and historic urban center."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Square"

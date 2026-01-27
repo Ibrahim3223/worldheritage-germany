@@ -3,7 +3,7 @@ title: "Quadrat Bottrop"
 site_name: "Quadrat Bottrop"
 date: 2026-01-26
 draft: false
-description: "museum in Bottrop, Germany"
+description: "Quadrat Bottrop is a dynamic museum located in the heart of Bottrop, Germany, offering a glimpse into the cultural and historical narrative of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

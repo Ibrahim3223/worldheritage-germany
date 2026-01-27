@@ -3,7 +3,7 @@ title: "Jagdschloss Grunewald"
 site_name: "Jagdschloss Grunewald"
 date: 2026-01-26
 draft: false
-description: "hunting lodge and art museum"
+description: "Nestled within the serene landscape of Steglitz-Zehlendorf in Germany, Jagdschloss Grunewald serves as both a hunting lodge and an art museum, combining the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Art Museum"

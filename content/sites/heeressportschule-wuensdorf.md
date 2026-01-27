@@ -3,7 +3,7 @@ title: "Heeressportschule Wünsdorf"
 site_name: "Heeressportschule Wünsdorf"
 date: 2026-01-26
 draft: false
-description: "Sports School of the German Army (1924-1945)"
+description: "Heeressportschule Wünsdorf, located in Zossen, Germany, is an architectural ensemble with a captivating history that reflects the complex narrative of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

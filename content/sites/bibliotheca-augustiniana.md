@@ -3,7 +3,7 @@ title: "Bibliotheca Augustiniana"
 site_name: "Bibliotheca Augustiniana"
 date: 2026-01-26
 draft: false
-description: "archive organization in Wurzburg, Germany"
+description: "The Bibliotheca Augustiniana, situated in the heart of Würzburg, Germany, serves as a vital cultural institution that preserves and archives invaluable..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Cultural Institution"

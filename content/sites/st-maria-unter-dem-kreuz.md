@@ -3,7 +3,7 @@ title: "St. Maria unter dem Kreuz"
 site_name: "St. Maria unter dem Kreuz"
 date: 2026-01-26
 draft: false
-description: "church in Düsseldorf-Unterrath, Germany"
+description: "St. Maria unter dem Kreuz, a church located in Düsseldorf-Unterrath, Germany, serves as both a spiritual haven and a significant landmark within the local..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

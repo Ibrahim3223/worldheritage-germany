@@ -3,7 +3,7 @@ title: "Schloss"
 site_name: "Schloss"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-74-129-42 (0) in Gößweinstein, Bavaria"
+description: "Schloss, located in the picturesque region of Gößweinstein, Germany, is a remarkable castle that reflects the rich cultural heritage of Bavaria."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

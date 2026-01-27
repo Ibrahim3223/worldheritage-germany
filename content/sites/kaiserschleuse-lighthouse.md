@@ -3,7 +3,7 @@ title: "Kaiserschleuse lighthouse"
 site_name: "Kaiserschleuse lighthouse"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Free Hanseatic City of Bremen, Germany"
+description: "The Kaiserschleuse lighthouse, located in the Free Hanseatic City of Bremen, Germany, is a remarkable structure that serves as both a navigational aid and a..."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Lighthouse"

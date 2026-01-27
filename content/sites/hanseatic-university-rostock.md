@@ -3,7 +3,7 @@ title: "Hanseatic University Rostock"
 site_name: "Hanseatic University Rostock"
 date: 2026-01-26
 draft: false
-description: "higher Institution in Rostock, Germany"
+description: "The Hanseatic University Rostock, located in the picturesque coastal city of Rostock, Germany, stands as a significant educational institution with a..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "University"

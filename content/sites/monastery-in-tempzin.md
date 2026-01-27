@@ -3,7 +3,7 @@ title: "Monastery in Tempzin"
 site_name: "Monastery in Tempzin"
 date: 2026-01-26
 draft: false
-description: "former monastery"
+description: "The Monastery in Tempzin, located in the serene region of Kloster Tempzin, Germany, offers visitors an intriguing glimpse into the architectural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

@@ -3,7 +3,7 @@ title: "Westerhuser Kirche"
 site_name: "Westerhuser Kirche"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Westerhuser Kirche is a captivating church building located in Hinte, Germany, that invites visitors to explore its unique architectural character and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

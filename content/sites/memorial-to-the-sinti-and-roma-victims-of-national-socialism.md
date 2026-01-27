@@ -3,7 +3,7 @@ title: "Memorial to the Sinti and Roma victims of National Socialism"
 site_name: "Memorial to the Sinti and Roma victims of National Socialism"
 date: 2026-01-26
 draft: false
-description: "memorial designed by Dani Karavan in Berlin, Germany"
+description: "The Memorial to the Sinti and Roma victims of National Socialism stands as a poignant reminder of the atrocities faced by the Sinti and Roma people during..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"

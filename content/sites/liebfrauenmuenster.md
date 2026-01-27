@@ -3,7 +3,7 @@ title: "Liebfrauenmünster"
 site_name: "Liebfrauenmünster"
 date: 2026-01-26
 draft: false
-description: "parish church"
+description: "Liebfrauenmünster, a notable parish church located in Ingolstadt, Germany, is a striking example of Gothic architecture that draws visitors from near and far."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

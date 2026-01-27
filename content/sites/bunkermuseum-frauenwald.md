@@ -3,7 +3,7 @@ title: "Bunkermuseum Frauenwald"
 site_name: "Bunkermuseum Frauenwald"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Bunkermuseum Frauenwald offers a unique glimpse into an often overlooked aspect of 20th-century history."
 region: "Thuringia"
 country: "Germany"
 heritage_type: "Museum"

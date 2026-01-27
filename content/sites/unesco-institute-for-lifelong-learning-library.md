@@ -3,7 +3,7 @@ title: "UNESCO Institute for Lifelong Learning Library"
 site_name: "UNESCO Institute for Lifelong Learning Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The UNESCO Institute for Lifelong Learning Library, located in Hamburg, Germany, serves as a vital resource for those passionate about education and..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Library"

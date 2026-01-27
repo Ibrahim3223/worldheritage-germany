@@ -3,7 +3,7 @@ title: "Ohmbachsee"
 site_name: "Ohmbachsee"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Ohmbachsee is a picturesque lake located in the scenic region of Rhineland-Palatinate, Germany."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Lake"

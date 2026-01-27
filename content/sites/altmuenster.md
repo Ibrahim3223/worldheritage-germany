@@ -3,7 +3,7 @@ title: "Altmünster"
 site_name: "Altmünster"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Altmünster, a serene monastery located in the Rhineland-Palatinate region of Germany, offers visitors a unique glimpse into the spiritual and cultural..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

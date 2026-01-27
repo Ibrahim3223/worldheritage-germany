@@ -3,7 +3,7 @@ title: "Schloss Unterbruck"
 site_name: "Schloss Unterbruck"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Bavaria, Germany"
+description: "Schloss Unterbruck, a distinguished manor house located in the Kastl region of Bavaria, Germany, serves as a fascinating cultural heritage monument."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Manor House"

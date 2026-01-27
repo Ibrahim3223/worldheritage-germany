@@ -3,7 +3,7 @@ title: "Kavaliershaus"
 site_name: "Kavaliershaus"
 date: 2026-01-26
 draft: false
-description: "building in Steglitz-Zehlendorf, Germany"
+description: "Kavaliershaus, located in the district of Steglitz-Zehlendorf in Germany, is a distinctive architectural structure that captures the attention of both..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Building"

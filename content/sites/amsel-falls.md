@@ -3,7 +3,7 @@ title: "Amsel Falls"
 site_name: "Amsel Falls"
 date: 2026-01-26
 draft: false
-description: "waterfall in Lohmen in Germany"
+description: "Amsel Falls is a captivating waterfall located in the picturesque region of Lohmen, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Waterfall"

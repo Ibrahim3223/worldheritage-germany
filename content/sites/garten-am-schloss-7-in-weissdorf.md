@@ -3,7 +3,7 @@ title: "Garten Am Schloß 7 in Weißdorf"
 site_name: "Garten Am Schloß 7 in Weißdorf"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-4-75-184-24 (1) in Weißdorf, Bavaria"
+description: "Located in the picturesque region of Weißdorf, Bavaria, Garten Am Schloß 7 is a cultural heritage monument that offers visitors a unique glimpse into..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Garden"

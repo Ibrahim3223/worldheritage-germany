@@ -3,7 +3,7 @@ title: "Burg Göffingen"
 site_name: "Burg Göffingen"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Göffingen is a captivating castle situated in the serene region of Unlingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

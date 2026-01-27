@@ -3,7 +3,7 @@ title: "MAC Museum Art & Cars"
 site_name: "MAC Museum Art & Cars"
 date: 2026-01-26
 draft: false
-description: "Kunst- und Automobilmuseum in Singen (Hohentwiel)"
+description: "The MAC Museum Art & Cars in Singen, Germany, represents a unique intersection of artistic expression and automotive history."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

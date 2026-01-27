@@ -3,7 +3,7 @@ title: "Haus Reck"
 site_name: "Haus Reck"
 date: 2026-01-26
 draft: false
-description: "architectural heritage monument"
+description: "Haus Reck, an architectural ensemble located in Pelkum, Germany, represents a significant piece of the region's cultural heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

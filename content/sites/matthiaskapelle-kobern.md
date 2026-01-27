@@ -3,7 +3,7 @@ title: "Matthiaskapelle Kobern"
 site_name: "Matthiaskapelle Kobern"
 date: 2026-01-26
 draft: false
-description: "roman catholic church building in Kobern-Gondorf, Germany"
+description: "Matthiaskapelle Kobern is a Roman Catholic chapel that stands in the charming village of Kobern-Gondorf, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

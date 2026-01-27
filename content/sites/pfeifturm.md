@@ -3,7 +3,7 @@ title: "Pfeifturm"
 site_name: "Pfeifturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Pfeifturm, an iconic tower located in the heart of Ingolstadt, Germany, serves as a fascinating focal point that captures the essence of the city’s..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

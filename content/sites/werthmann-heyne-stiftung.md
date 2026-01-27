@@ -3,7 +3,7 @@ title: "Werthmann-Heyne-Stiftung"
 site_name: "Werthmann-Heyne-Stiftung"
 date: 2026-01-26
 draft: false
-description: "Skulpturensammlung der abstrakt-informellen Kunstrichtung"
+description: "The Werthmann-Heyne-Stiftung, located in Düsseldorf, Germany, is a remarkable foundation dedicated to the abstract-informal art movement."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Foundation"

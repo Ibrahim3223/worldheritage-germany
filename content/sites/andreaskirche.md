@@ -3,7 +3,7 @@ title: "Andreaskirche"
 site_name: "Andreaskirche"
 date: 2026-01-26
 draft: false
-description: "church building in Steglitz-Zehlendorf, Germany"
+description: "The Andreaskirche, located in the district of Steglitz-Zehlendorf, Germany, stands as a noteworthy example of ecclesiastical architecture in the region."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

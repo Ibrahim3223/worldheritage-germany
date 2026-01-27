@@ -3,7 +3,7 @@ title: "Graduate School Lübeck"
 site_name: "Graduate School Lübeck"
 date: 2026-01-26
 draft: false
-description: "Hochschule in Lübeck"
+description: "Graduate School Lübeck, located in the heart of Lübeck, Germany, is an institution that plays a pivotal role in the higher education landscape of the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "University"

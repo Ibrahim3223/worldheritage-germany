@@ -3,7 +3,7 @@ title: "St. Leonhard"
 site_name: "St. Leonhard"
 date: 2026-01-26
 draft: false
-description: "Gothic Roman-Catholic church in Frankfurt am Main, Germany"
+description: "St. Leonhard is a prominent Gothic Roman-Catholic church located in the heart of Frankfurt am Main, Germany."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

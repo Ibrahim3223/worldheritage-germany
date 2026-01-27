@@ -3,7 +3,7 @@ title: "Dorfmuseum Dachwig"
 site_name: "Dorfmuseum Dachwig"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Germany lies the Dorfmuseum Dachwig, a museum dedicated to preserving and presenting the cultural heritage of the Dachwig region."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"

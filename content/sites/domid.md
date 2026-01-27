@@ -3,7 +3,7 @@ title: "DOMiD"
 site_name: "DOMiD"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the vibrant city of Cologne, Germany, the DOMiD stands out as a significant cultural institution dedicated to documenting and celebrating the history and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

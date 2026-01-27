@@ -3,7 +3,7 @@ title: "Gymnasium Walsrode"
 site_name: "Gymnasium Walsrode"
 date: 2026-01-26
 draft: false
-description: "gymnasium in Wlasrode, Lower Saxony"
+description: "Gymnasium Walsrode, located in the charming town of Walsrode in Lower Saxony, Germany, represents a significant institution in the educational landscape of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "School Building"

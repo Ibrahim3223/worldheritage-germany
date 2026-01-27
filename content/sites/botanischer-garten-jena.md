@@ -3,7 +3,7 @@ title: "Botanischer Garten Jena"
 site_name: "Botanischer Garten Jena"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Jena, Germany"
+description: "The Botanischer Garten Jena is a botanical garden located in the heart of Jena, Germany."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Botanical Garden"

@@ -3,7 +3,7 @@ title: "Schwanenburg"
 site_name: "Schwanenburg"
 date: 2026-01-26
 draft: false
-description: "castle in Kleve, Germany"
+description: "Schwanenburg, a captivating castle located in the heart of Kleve, Germany, invites visitors to explore its storied past and architectural grandeur."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Castle"

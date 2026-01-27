@@ -3,7 +3,7 @@ title: "Burg Granheim"
 site_name: "Burg Granheim"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Granheim is a striking castle located in the picturesque region of Ehingen, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

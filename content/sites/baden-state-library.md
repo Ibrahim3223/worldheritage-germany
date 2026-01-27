@@ -3,7 +3,7 @@ title: "Baden State Library"
 site_name: "Baden State Library"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Baden State Library, located in Karlsruhe, Germany, is more than just a library; it is a vital cultural institution that serves as a repository of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

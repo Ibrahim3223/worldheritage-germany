@@ -3,7 +3,7 @@ title: "Berger memorial"
 site_name: "Berger memorial"
 date: 2026-01-26
 draft: false
-description: "observation tower in Witten"
+description: "The Berger Memorial, an observation tower located in Witten, Germany, invites visitors to explore both the landscape and the historical significance of this..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"

@@ -3,7 +3,7 @@ title: "St. Sebastianus (Bad Bodendorf)"
 site_name: "St. Sebastianus (Bad Bodendorf)"
 date: 2026-01-26
 draft: false
-description: "Kirchengebäude in Sinzig"
+description: "St. Sebastianus is an intriguing church building situated in Bad Bodendorf, Germany, within the municipality of Sinzig."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

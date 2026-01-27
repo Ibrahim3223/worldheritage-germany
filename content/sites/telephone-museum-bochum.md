@@ -3,7 +3,7 @@ title: "Telephone museum Bochum"
 site_name: "Telephone museum Bochum"
 date: 2026-01-26
 draft: false
-description: "museum in Bochum"
+description: "In the heart of Bochum, Germany, the Telephone Museum invites visitors to explore the evolution of communication technology through a historical lens."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

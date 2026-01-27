@@ -3,7 +3,7 @@ title: "Botanischer Garten Kiel"
 site_name: "Botanischer Garten Kiel"
 date: 2026-01-26
 draft: false
-description: "garden in Germany"
+description: "The Botanischer Garten Kiel, located in the vibrant city of Kiel, Germany, is an enchanting escape for nature lovers and a valuable resource for botanical..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Botanical Garden"

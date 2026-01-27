@@ -3,7 +3,7 @@ title: "Grimmwelt Kassel"
 site_name: "Grimmwelt Kassel"
 date: 2026-01-26
 draft: false
-description: "museum in Kassel, Hesse, Germany"
+description: "Grimmwelt Kassel serves as a dedicated homage to the illustrious brothers Jacob and Wilhelm Grimm, renowned for their monumental contributions to folklore..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

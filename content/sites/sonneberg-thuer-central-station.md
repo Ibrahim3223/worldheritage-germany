@@ -3,7 +3,7 @@ title: "Sonneberg (Thür) Central Station"
 site_name: "Sonneberg (Thür) Central Station"
 date: 2026-01-26
 draft: false
-description: "railway halt in Sonneberg, Germany"
+description: "Sonneberg (Thür) Central Station serves as a pivotal transport hub in the charming town of Sonneberg, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

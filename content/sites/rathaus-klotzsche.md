@@ -3,7 +3,7 @@ title: "Rathaus Klotzsche"
 site_name: "Rathaus Klotzsche"
 date: 2026-01-26
 draft: false
-description: "Gebäude im Dresdner Stadtteil Klotzsche"
+description: "Rathaus Klotzsche, the city hall of Klotzsche, a district in Dresden, Germany, serves as a focal point for local governance and community activities."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

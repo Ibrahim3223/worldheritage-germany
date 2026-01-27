@@ -3,7 +3,7 @@ title: "Sabrodter See"
 site_name: "Sabrodter See"
 date: 2026-01-26
 draft: false
-description: "lake in Germany"
+description: "Sabrodter See is a picturesque lake situated in the Elsterheide region of Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Lake"

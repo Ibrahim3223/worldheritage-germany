@@ -3,7 +3,7 @@ title: "Zwiesel (Bay) railway station"
 site_name: "Zwiesel (Bay) railway station"
 date: 2026-01-26
 draft: false
-description: "railway station in Zwiesel, Germany"
+description: "The Zwiesel (Bay) railway station in Germany serves as a vital hub in the scenic region of Zwiesel."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Railway Station"

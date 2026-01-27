@@ -3,7 +3,7 @@ title: "Agnes-Miegel-Haus"
 site_name: "Agnes-Miegel-Haus"
 date: 2026-01-26
 draft: false
-description: "museum in Bad Nenndort, Germany"
+description: "The Agnes-Miegel-Haus, located in Bad Nenndorf, Germany, serves as a museum dedicated to the life and works of one of Germany's prominent literary figures,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

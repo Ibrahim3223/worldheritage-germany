@@ -3,7 +3,7 @@ title: "Altshauser Weiher"
 site_name: "Altshauser Weiher"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
+description: "Altshauser Weiher is a serene nature reserve located in the heart of Baden-Württemberg, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

@@ -3,7 +3,7 @@ title: "Ardorf Protestant Church"
 site_name: "Ardorf Protestant Church"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "The Ardorf Protestant Church, located in the serene region of Wittmund, Germany, serves as a significant landmark for both locals and visitors alike."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

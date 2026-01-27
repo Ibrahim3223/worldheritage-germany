@@ -3,7 +3,7 @@ title: "Jan-Wellem-Denkmal (Düsseldorf)"
 site_name: "Jan-Wellem-Denkmal (Düsseldorf)"
 date: 2026-01-26
 draft: false
-description: "statue in Düsseldorf, Germany"
+description: "The Jan-Wellem-Denkmal, an iconic statue located in Düsseldorf, Germany, pays homage to one of the most significant figures in the city’s history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"

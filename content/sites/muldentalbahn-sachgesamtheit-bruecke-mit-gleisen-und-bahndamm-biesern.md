@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit); Brücke mit Gleisen und Bahndamm Biesern
 site_name: "Muldentalbahn (Sachgesamtheit); Brücke mit Gleisen und Bahndamm Biesern"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn, particularly the Brücke mit Gleisen und Bahndamm in Biesern, is an important heritage site that stands as a representation of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

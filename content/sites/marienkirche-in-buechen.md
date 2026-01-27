@@ -3,7 +3,7 @@ title: "Marienkirche in Büchen"
 site_name: "Marienkirche in Büchen"
 date: 2026-01-26
 draft: false
-description: "church building in Büchen, Germany"
+description: "The Marienkirche in Büchen, Germany, is more than just a church building; it is a significant landmark that encapsulates the spiritual and cultural essence..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Kieve Gord"
 site_name: "Kieve Gord"
 date: 2026-01-26
 draft: false
-description: "Slavic Gord"
+description: "Kieve Gord, a remarkable hillfort located in the Kieve region of Germany, presents a fascinating glimpse into the past of Slavic culture."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Hillfort"

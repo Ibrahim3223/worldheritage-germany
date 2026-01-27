@@ -3,7 +3,7 @@ title: "Hemberg-Museum Iserlohn"
 site_name: "Hemberg-Museum Iserlohn"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Hemberg-Museum Iserlohn is a distinctive museum located in the city of Iserlohn, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

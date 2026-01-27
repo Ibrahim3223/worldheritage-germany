@@ -3,7 +3,7 @@ title: "Schiller-Nationalmuseum"
 site_name: "Schiller-Nationalmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Baden-Württemberg, Germany"
+description: "The Schiller-Nationalmuseum, located in Marbach am Neckar, Germany, offers a profound insight into the life and works of the renowned German playwright and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "De Vrouw Johanna"
 site_name: "De Vrouw Johanna"
 date: 2026-01-26
 draft: false
-description: "windmill"
+description: "De Vrouw Johanna is a remarkable windmill located in Emden, Germany, that captures the essence of traditional windmill architecture and its significance in..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Windmill"

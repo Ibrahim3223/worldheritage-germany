@@ -3,7 +3,7 @@ title: "Silent Heroes Memorial"
 site_name: "Silent Heroes Memorial"
 date: 2026-01-26
 draft: false
-description: "Memorial"
+description: "The Silent Heroes Memorial in Berlin is a poignant tribute to the unsung individuals who risked their lives to save others during one of history's darkest..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Museum"

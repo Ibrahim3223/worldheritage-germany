@@ -3,7 +3,7 @@ title: "Kanu museum Augsburg"
 site_name: "Kanu museum Augsburg"
 date: 2026-01-26
 draft: false
-description: "museum"
+description: "The Kanu Museum in Augsburg is a distinctive cultural institution dedicated to the world of canoeing and kayaking."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

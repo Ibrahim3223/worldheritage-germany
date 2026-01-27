@@ -3,7 +3,7 @@ title: "Deutsches Hirtenmuseum"
 site_name: "Deutsches Hirtenmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Hersbruck, Germany, lies the Deutsches Hirtenmuseum, a museum dedicated to shepherd culture and its historical significance."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

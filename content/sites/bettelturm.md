@@ -3,7 +3,7 @@ title: "Bettelturm"
 site_name: "Bettelturm"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "Bettelturm, an evocative tower located in Germany, invites visitors to explore its storied past and architectural charm."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

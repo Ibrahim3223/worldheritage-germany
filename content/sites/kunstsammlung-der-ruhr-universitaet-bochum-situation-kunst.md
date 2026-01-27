@@ -3,7 +3,7 @@ title: "Kunstsammlung der Ruhr-Universität Bochum: Situation Kunst"
 site_name: "Kunstsammlung der Ruhr-Universität Bochum: Situation Kunst"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Kunstsammlung der Ruhr-Universität Bochum: Situation Kunst offers visitors a unique glimpse into contemporary art within a scholarly context."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

@@ -3,7 +3,7 @@ title: "Oberpfälzer Künstlerhaus"
 site_name: "Oberpfälzer Künstlerhaus"
 date: 2026-01-26
 draft: false
-description: "art museum in Schwandorf, Germany"
+description: "The Oberpfälzer Künstlerhaus is an art museum located in Schwandorf, Germany, dedicated to the promotion and exhibition of contemporary art."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Art Museum"

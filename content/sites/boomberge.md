@@ -3,7 +3,7 @@ title: "Boomberge"
 site_name: "Boomberge"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
+description: "Boomberge, located in Harsewinkel, North Rhine-Westphalia, Germany, is a serene nature reserve that offers visitors a unique opportunity to connect with the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

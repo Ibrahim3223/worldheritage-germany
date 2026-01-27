@@ -3,7 +3,7 @@ title: "Schiefermuseum Steinach/Thüringen"
 site_name: "Schiefermuseum Steinach/Thüringen"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Schiefermuseum Steinach/Thüringen is a distinctive museum located in the town of Steinach, Germany, that pays homage to the region's rich slate mining..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

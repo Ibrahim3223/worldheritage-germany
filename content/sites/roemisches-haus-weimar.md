@@ -3,7 +3,7 @@ title: "Römisches Haus, Weimar"
 site_name: "Römisches Haus, Weimar"
 date: 2026-01-26
 draft: false
-description: "building in Weimar, Germany"
+description: "Römisches Haus in Weimar, Germany, presents a striking example of architectural elegance and historical significance in a city renowned for its cultural..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Building"

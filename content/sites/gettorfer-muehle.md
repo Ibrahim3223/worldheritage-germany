@@ -3,7 +3,7 @@ title: "Gettorfer Mühle"
 site_name: "Gettorfer Mühle"
 date: 2026-01-26
 draft: false
-description: "wind mill in Gettorf, Germany"
+description: "Gettorfer Mühle is an intriguing windmill located in the charming town of Gettorf, Germany."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Windmill"

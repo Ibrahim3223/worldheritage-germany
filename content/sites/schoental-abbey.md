@@ -3,7 +3,7 @@ title: "Schöntal Abbey"
 site_name: "Schöntal Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Schöntal Abbey, located in the serene Schöntal region of Germany, is not merely a site of historical interest but a cultural landmark that invites..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

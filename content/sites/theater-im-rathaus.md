@@ -3,7 +3,7 @@ title: "Theater im Rathaus"
 site_name: "Theater im Rathaus"
 date: 2026-01-26
 draft: false
-description: "Theatre in Essen, Germany"
+description: "The Theater im Rathaus, located in the vibrant city of Essen, Germany, offers visitors an engaging space for the performing arts."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Theatre Building"

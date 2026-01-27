@@ -3,7 +3,7 @@ title: "Vinetamuseum (Altes Rathaus)"
 site_name: "Vinetamuseum (Altes Rathaus)"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument in Barth, Mecklenburg-Vorpommern, Germany"
+description: "Vinetamuseum, located in the historic Altes Rathaus (Old Town Hall) of Barth, offers an immersive glimpse into the cultural heritage of the region of..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

@@ -3,7 +3,7 @@ title: "Asamkirche"
 site_name: "Asamkirche"
 date: 2026-01-26
 draft: false
-description: "Filial church in Munich, Germany"
+description: "Asamkirche, an architectural marvel located in the heart of Munich, Germany, is a filially significant church that reflects the rich cultural and religious..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"

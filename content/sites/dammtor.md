@@ -3,7 +3,7 @@ title: "Dammtor"
 site_name: "Dammtor"
 date: 2026-01-26
 draft: false
-description: "city gate"
+description: "Dammtor is a distinguished city gate located in Barth, Germany, that serves as a significant historical landmark and a representation of the region's..."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

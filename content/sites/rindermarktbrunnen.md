@@ -3,7 +3,7 @@ title: "Rindermarktbrunnen"
 site_name: "Rindermarktbrunnen"
 date: 2026-01-26
 draft: false
-description: "water well"
+description: "In the heart of Munich's Altstadt-Lehel district lies the Rindermarktbrunnen, a charming fountain that serves as both a water well and a focal point for the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"

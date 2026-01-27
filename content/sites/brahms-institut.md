@@ -3,7 +3,7 @@ title: "Brahms-Institut"
 site_name: "Brahms-Institut"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "The Brahms-Institut, located in Lübeck, Germany, serves as a dedicated museum and library that honors the legacy of the esteemed composer Johannes Brahms."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

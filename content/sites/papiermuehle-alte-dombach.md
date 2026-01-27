@@ -3,7 +3,7 @@ title: "Papiermühle Alte Dombach"
 site_name: "Papiermühle Alte Dombach"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Papiermühle Alte Dombach is a distinctive museum located in Bergisch Gladbach, Germany, dedicated to the art of papermaking."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

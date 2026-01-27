@@ -3,7 +3,7 @@ title: "Iris-Jörg"
 site_name: "Iris-Jörg"
 date: 2026-01-26
 draft: false
-description: "museum ship built in 1956"
+description: "The Iris-Jörg, a museum ship located in Wischhafen, Germany, offers visitors a unique glimpse into maritime history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

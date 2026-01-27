@@ -3,7 +3,7 @@ title: "Bremerhaven Radar Tower"
 site_name: "Bremerhaven Radar Tower"
 date: 2026-01-26
 draft: false
-description: "tower"
+description: "The Bremerhaven Radar Tower is an iconic structure that stands prominently in the maritime city of Bremerhaven, Germany."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"

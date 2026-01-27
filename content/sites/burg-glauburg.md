@@ -3,7 +3,7 @@ title: "Burg Glauburg"
 site_name: "Burg Glauburg"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Perched strategically on a hill, Burg Glauburg is a castle that reveals the layered history of the region and offers an intriguing glimpse into Germany's..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Castle"

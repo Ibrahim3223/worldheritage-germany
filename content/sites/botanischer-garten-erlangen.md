@@ -3,7 +3,7 @@ title: "Botanischer Garten Erlangen"
 site_name: "Botanischer Garten Erlangen"
 date: 2026-01-26
 draft: false
-description: "botanical garden"
+description: "The Botanischer Garten Erlangen is a captivating botanical garden located in the heart of Erlangen, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Botanical Garden"

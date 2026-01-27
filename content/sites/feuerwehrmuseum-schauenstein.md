@@ -3,7 +3,7 @@ title: "Feuerwehrmuseum Schauenstein"
 site_name: "Feuerwehrmuseum Schauenstein"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the heart of Germany, Feuerwehrmuseum Schauenstein is a unique museum dedicated to the rich history and culture of firefighting."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Museum"

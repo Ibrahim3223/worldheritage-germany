@@ -3,7 +3,7 @@ title: "Schloss Bückeburg"
 site_name: "Schloss Bückeburg"
 date: 2026-01-26
 draft: false
-description: "château in Bückeburg, Germany"
+description: "Schloss Bückeburg, a striking château located in the town of Bückeburg, Germany, serves as a captivating destination for those interested in history,..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

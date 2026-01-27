@@ -3,7 +3,7 @@ title: "Botanischer Garten der Ruhr-Universität Bochum"
 site_name: "Botanischer Garten der Ruhr-Universität Bochum"
 date: 2026-01-26
 draft: false
-description: "botanical garden in Germany"
+description: "The Botanischer Garten der Ruhr-Universität Bochum is a captivating botanical garden located in Bochum, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Botanical Garden"

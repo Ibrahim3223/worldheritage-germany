@@ -3,7 +3,7 @@ title: "ZKM Center for Art and Media Karlsruhe"
 site_name: "ZKM Center for Art and Media Karlsruhe"
 date: 2026-01-26
 draft: false
-description: "cultural institution in Karlsruhe, Germany"
+description: "The ZKM Center for Art and Media Karlsruhe, located in the heart of Karlsruhe, Germany, serves as a dynamic hub for contemporary art and media."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

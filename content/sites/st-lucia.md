@@ -3,7 +3,7 @@ title: "St. Lucia"
 site_name: "St. Lucia"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "St. Lucia is not just a church building; it is an integral part of the Harsewinkel landscape in Germany, offering visitors a glimpse into the region's..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Uthörn"
 site_name: "Uthörn"
 date: 2026-01-26
 draft: false
-description: "German island"
+description: "Uthörn is a captivating island located in the List auf Sylt region of Germany. This German island is part of the North Frisian Islands and is recognized for..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Island"

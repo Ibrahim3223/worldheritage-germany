@@ -3,7 +3,7 @@ title: "Küstenmuseum Wilhelmshaven"
 site_name: "Küstenmuseum Wilhelmshaven"
 date: 2026-01-26
 draft: false
-description: "museum in Wilhelmshaven, Germany"
+description: "Küstenmuseum Wilhelmshaven, located in the bustling port city of Wilhelmshaven, Germany, serves as an insightful portal into maritime history and coastal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Museum"

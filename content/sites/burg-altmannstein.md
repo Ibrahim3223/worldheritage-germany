@@ -3,7 +3,7 @@ title: "Burg Altmannstein"
 site_name: "Burg Altmannstein"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Altmannstein, located in the heart of Germany, is an archaeological site that invites visitors to explore a fragment of the past."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Archaeological Site"

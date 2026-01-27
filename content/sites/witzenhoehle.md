@@ -3,7 +3,7 @@ title: "Witzenhöhle"
 site_name: "Witzenhöhle"
 date: 2026-01-26
 draft: false
-description: "cave in Germany"
+description: "The Witzenhöhle, located in the scenic Wiesenttal region of Germany, is a captivating cave that has intrigued visitors and researchers alike."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cave"

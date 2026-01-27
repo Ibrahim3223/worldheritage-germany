@@ -3,7 +3,7 @@ title: "Dorfmuseum Wagenschwend"
 site_name: "Dorfmuseum Wagenschwend"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Dorfmuseum Wagenschwend offers an engaging glimpse into the local culture and heritage of the Limbach region in Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

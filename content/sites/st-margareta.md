@@ -3,7 +3,7 @@ title: "St. Margareta"
 site_name: "St. Margareta"
 date: 2026-01-26
 draft: false
-description: "church building in Königswinter, Germany"
+description: "St. Margareta is a church building located in the picturesque town of Königswinter, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

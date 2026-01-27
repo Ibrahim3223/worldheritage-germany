@@ -3,7 +3,7 @@ title: "Festung Peitz"
 site_name: "Festung Peitz"
 date: 2026-01-26
 draft: false
-description: "fortress"
+description: "Festung Peitz, located in the small town of Peitz, Germany, serves as a significant cultural and historical landmark."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

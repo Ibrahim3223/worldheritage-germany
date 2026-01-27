@@ -3,7 +3,7 @@ title: "St. Nicolas Church"
 site_name: "St. Nicolas Church"
 date: 2026-01-26
 draft: false
-description: "Lutheran church building in Stendal, Saxony-Anhalt, Germany"
+description: "St. Nicolas Church, a prominent Lutheran church located in the historic town of Stendal, Saxony-Anhalt, Germany, stands as a significant example of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Ehemaliges Amtsgerichtgebäude"
 site_name: "Ehemaliges Amtsgerichtgebäude"
 date: 2026-01-26
 draft: false
-description: "Amtsgebäude in Lich im Landkreis Gießen, Hessen"
+description: "The Ehemaliges Amtsgerichtgebäude, or the former courthouse, holds a prominent place in the architectural and cultural landscape of Lich, a charming town in..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Courthouse"

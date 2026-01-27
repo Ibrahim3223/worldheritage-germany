@@ -3,7 +3,7 @@ title: "Morat-Institut"
 site_name: "Morat-Institut"
 date: 2026-01-26
 draft: false
-description: "arts foundation in Freiburg, Germany"
+description: "The Morat-Institut, an esteemed art museum located in Freiburg im Breisgau, Germany, serves as a prominent arts foundation dedicated to the appreciation and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Art Museum"

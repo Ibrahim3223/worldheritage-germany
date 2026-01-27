@@ -3,7 +3,7 @@ title: "Weberstraße 2"
 site_name: "Weberstraße 2"
 date: 2026-01-26
 draft: false
-description: "Upper Lusatian house in Spitzkunnersdorf"
+description: "Weberstraße 2, situated in the quaint village of Spitzkunnersdorf in the region of Upper Lusatia, Germany, is more than just a city hall."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

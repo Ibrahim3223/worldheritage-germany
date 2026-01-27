@@ -3,7 +3,7 @@ title: "Plastinarium"
 site_name: "Plastinarium"
 date: 2026-01-26
 draft: false
-description: "German museum of corpse plastination"
+description: "The Plastinarium in Guben, Germany, invites visitors into an extraordinary exploration of the human body through the art of plastination."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

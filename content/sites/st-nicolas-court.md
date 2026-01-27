@@ -3,7 +3,7 @@ title: "St. Nicolas Court"
 site_name: "St. Nicolas Court"
 date: 2026-01-26
 draft: false
-description: "medieval monument group in Bardowick, Lüneburg district, Lower Saxony, Germany"
+description: "St. Nicolas Court, located in the historic region of Bardowick in Lower Saxony, Germany, is an architectural ensemble that offers a glimpse into the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Architectural Ensemble"

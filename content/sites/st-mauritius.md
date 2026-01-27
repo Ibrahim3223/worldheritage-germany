@@ -3,7 +3,7 @@ title: "St. Mauritius"
 site_name: "St. Mauritius"
 date: 2026-01-26
 draft: false
-description: "church building in Mülheim-Kärlich, Germany"
+description: "St. Mauritius, located in Mülheim-Kärlich, Germany, is a church building that serves as a significant religious and cultural landmark in the region."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Church Building"

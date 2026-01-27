@@ -3,7 +3,7 @@ title: "Theaterdiscounter"
 site_name: "Theaterdiscounter"
 date: 2026-01-26
 draft: false
-description: "Freies Theater unweit des Alexanderplatzes in Berlin-Mitte"
+description: "Theaterdiscounter is a dynamic theatre building located in the Bezirk Mitte area of Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

@@ -3,7 +3,7 @@ title: "Mühle Döbra (Liebstadt)"
 site_name: "Mühle Döbra (Liebstadt)"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "Mühle Döbra, located in the charming region of Liebstadt, Germany, is an intriguing bridge that invites visitors to explore its historical and architectural..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

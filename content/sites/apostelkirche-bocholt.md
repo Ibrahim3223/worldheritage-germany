@@ -3,7 +3,7 @@ title: "Apostelkirche (Bocholt)"
 site_name: "Apostelkirche (Bocholt)"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Apostelkirche, located in Bocholt, Germany, is a distinguished church building that captures the architectural and cultural essence of its region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

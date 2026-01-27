@@ -3,7 +3,7 @@ title: "Vogthaus"
 site_name: "Vogthaus"
 date: 2026-01-26
 draft: false
-description: "timber-framed house in Ravensburg, Germany, formerly a museum"
+description: "Vogthaus, located in the historic city of Ravensburg, Germany, is a fascinating example of timber-framed architecture that reflects the unique cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

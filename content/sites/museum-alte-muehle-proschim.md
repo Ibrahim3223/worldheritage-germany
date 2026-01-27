@@ -3,7 +3,7 @@ title: "Museum Alte Mühle, Proschim"
 site_name: "Museum Alte Mühle, Proschim"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "Located in the quaint village of Proschim, Germany, the Museum Alte Mühle serves as a unique cultural hub that encapsulates the history and traditions of..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"

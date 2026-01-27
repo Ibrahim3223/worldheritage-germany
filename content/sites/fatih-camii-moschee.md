@@ -3,7 +3,7 @@ title: "Fatih-Camii-Moschee"
 site_name: "Fatih-Camii-Moschee"
 date: 2026-01-26
 draft: false
-description: "building in Weißenburg in Bayern, Middle Franconia, Germany"
+description: "The Fatih-Camii-Moschee, a striking mosque located in Weißenburg in Bayern, Germany, serves as a significant cultural and architectural landmark within the..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Mosque"

@@ -3,7 +3,7 @@ title: "Mainau Castle"
 site_name: "Mainau Castle"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Mainau Castle, an enchanting landmark in the Constance region of Germany, offers visitors a remarkable glimpse into the architectural and cultural heritage..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

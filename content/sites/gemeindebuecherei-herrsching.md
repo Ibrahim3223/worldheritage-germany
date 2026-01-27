@@ -3,7 +3,7 @@ title: "Gemeindebücherei Herrsching"
 site_name: "Gemeindebücherei Herrsching"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Gemeindebücherei Herrsching, located in the charming town of Herrsching am Ammersee in Germany, serves as a vital resource for the community, providing..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Library"

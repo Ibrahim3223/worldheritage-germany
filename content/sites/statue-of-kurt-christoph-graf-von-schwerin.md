@@ -3,7 +3,7 @@ title: "Statue of Kurt Christoph Graf von Schwerin"
 site_name: "Statue of Kurt Christoph Graf von Schwerin"
 date: 2026-01-26
 draft: false
-description: "Statue in Berlin, Germany"
+description: "The Statue of Kurt Christoph Graf von Schwerin, located in the heart of Berlin, Germany, is a notable tribute to a significant military figure in Prussian..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Statue"

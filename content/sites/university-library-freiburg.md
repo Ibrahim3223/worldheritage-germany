@@ -3,7 +3,7 @@ title: "University Library Freiburg"
 site_name: "University Library Freiburg"
 date: 2026-01-26
 draft: false
-description: "library in the University of Freiburg, Germany"
+description: "The University Library Freiburg, located in the historic city of Freiburg im Breisgau, Germany, serves as an essential academic hub for students and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Library"

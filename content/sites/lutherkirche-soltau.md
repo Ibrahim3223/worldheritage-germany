@@ -3,7 +3,7 @@ title: "Lutherkirche Soltau"
 site_name: "Lutherkirche Soltau"
 date: 2026-01-26
 draft: false
-description: "church in Soltau"
+description: "Lutherkirche Soltau is a church building located in the heart of Soltau, Germany, which serves as a significant marker of the region's cultural and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

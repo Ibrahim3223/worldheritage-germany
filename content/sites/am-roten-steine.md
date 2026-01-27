@@ -3,7 +3,7 @@ title: "Am roten Steine"
 site_name: "Am roten Steine"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Am roten Steine, a designated nature reserve located in the Hildesheim region of Lower Saxony, Germany, offers a unique opportunity to engage with the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

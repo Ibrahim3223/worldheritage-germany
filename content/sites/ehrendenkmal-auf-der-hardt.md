@@ -3,7 +3,7 @@ title: "Ehrendenkmal Auf der Hardt"
 site_name: "Ehrendenkmal Auf der Hardt"
 date: 2026-01-26
 draft: false
-description: "Kriegerdenkmal in Ennepetal, Nordrhein-Westfalen, Deutschland"
+description: "The Ehrendenkmal Auf der Hardt stands as a poignant monument in Ennepetal, Nordrhein-Westfalen, Germany, dedicated to honoring the sacrifices of those who..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"

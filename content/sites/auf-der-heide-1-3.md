@@ -3,7 +3,7 @@ title: "Auf der Heide 1, 3"
 site_name: "Auf der Heide 1, 3"
 date: 2026-01-26
 draft: false
-description: "town hall Jonsdorf"
+description: "Auf der Heide 1, 3, located in the quaint town of Jonsdorf, Germany, serves as the town hall and is a vital hub for local governance and community events."
 region: "Saxony"
 country: "Germany"
 heritage_type: "City Hall"

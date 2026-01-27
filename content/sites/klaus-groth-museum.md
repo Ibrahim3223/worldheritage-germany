@@ -3,7 +3,7 @@ title: "Klaus-Groth-Museum"
 site_name: "Klaus-Groth-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Heide, Germany"
+description: "The Klaus-Groth-Museum, situated in Heide, Germany, offers visitors a unique glimpse into the literary world of its namesake, the renowned poet and writer..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

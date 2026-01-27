@@ -3,7 +3,7 @@ title: "Town hall in Schönwald"
 site_name: "Town hall in Schönwald"
 date: 2026-01-26
 draft: false
-description: "Administration building in Schönwald in Bavaria"
+description: "In the heart of Schönwald, a quaint town in Bavaria, lies an important civic landmark—the Town Hall."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "City Hall"

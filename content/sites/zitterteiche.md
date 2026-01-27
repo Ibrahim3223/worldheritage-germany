@@ -3,7 +3,7 @@ title: "Zitterteiche"
 site_name: "Zitterteiche"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Zitterteiche, a remarkable nature reserve located in the serene region of Lower Saxony, Germany, offers a tranquil escape into the heart of nature."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

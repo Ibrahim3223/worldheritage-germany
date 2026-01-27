@@ -3,7 +3,7 @@ title: "Georg-August-Universität: Anthropologische Sammlung"
 site_name: "Georg-August-Universität: Anthropologische Sammlung"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Georg-August-Universität: Anthropologische Sammlung stands as a vital institution in Göttingen, Germany, dedicated to the study and exhibition of..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

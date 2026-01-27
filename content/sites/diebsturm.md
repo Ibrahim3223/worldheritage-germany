@@ -3,7 +3,7 @@ title: "Diebsturm"
 site_name: "Diebsturm"
 date: 2026-01-26
 draft: false
-description: "Turm in Deutschland"
+description: "Diebsturm, an impressive structure located in Bad Säckingen, Germany, captures the interest of both history buffs and casual visitors alike."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Tower"

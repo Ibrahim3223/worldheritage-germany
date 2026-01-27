@@ -3,7 +3,7 @@ title: "Kremper Tor"
 site_name: "Kremper Tor"
 date: 2026-01-26
 draft: false
-description: "city gate in Neustadt in Holstein, Germany"
+description: "Kremper Tor is a significant historical landmark situated in Neustadt in Holstein, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "City Gate"

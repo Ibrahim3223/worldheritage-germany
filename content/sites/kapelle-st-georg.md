@@ -3,7 +3,7 @@ title: "Kapelle St. Georg"
 site_name: "Kapelle St. Georg"
 date: 2026-01-26
 draft: false
-description: "church in Germany"
+description: "The Kapelle St. Georg, a modest yet historically significant chapel located in Sengenthal, Germany, offers visitors a glimpse into the spiritual and..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

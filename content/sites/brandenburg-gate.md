@@ -3,7 +3,7 @@ title: "Brandenburg Gate"
 site_name: "Brandenburg Gate"
 date: 2026-01-26
 draft: false
-description: "triumphal arch in Berlin, Germany"
+description: "The Brandenburg Gate, an iconic symbol of Berlin, stands as a remarkable triumphal arch that has witnessed the city's tumultuous history and transformation."
 region: "Berlin"
 country: "Germany"
 heritage_type: "City Gate"

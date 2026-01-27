@@ -3,7 +3,7 @@ title: "Telemann-Museum"
 site_name: "Telemann-Museum"
 date: 2026-01-26
 draft: false
-description: "museum in Hamburg"
+description: "The Telemann-Museum, located in the heart of Hamburg-Mitte, serves as a dedicated homage to one of Germany's most celebrated composers, Georg Philipp Telemann."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Museum"

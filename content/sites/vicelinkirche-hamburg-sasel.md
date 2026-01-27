@@ -3,7 +3,7 @@ title: "Vicelinkirche (Hamburg-Sasel)"
 site_name: "Vicelinkirche (Hamburg-Sasel)"
 date: 2026-01-26
 draft: false
-description: "church building in Hamburg, Germany"
+description: "Vicelinkirche, located in the Wandsbek district of Hamburg, Germany, is a remarkable church building that serves as a focal point for both spiritual..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Church Building"

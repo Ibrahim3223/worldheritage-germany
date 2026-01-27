@@ -3,7 +3,7 @@ title: "Molenfeuer Sassnitz"
 site_name: "Molenfeuer Sassnitz"
 date: 2026-01-26
 draft: false
-description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
+description: "Molenfeuer Sassnitz stands as a notable lighthouse in the picturesque region of Mecklenburg-Western Pomerania, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Lighthouse"

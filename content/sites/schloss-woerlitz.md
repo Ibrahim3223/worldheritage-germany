@@ -3,7 +3,7 @@ title: "Schloss Wörlitz"
 site_name: "Schloss Wörlitz"
 date: 2026-01-26
 draft: false
-description: "castle in Wörlitz, Saxony-Anhalt, formerly owned by Dukes of Anhalt"
+description: "Schloss Wörlitz, a distinguished example of a *maison de plaisance*, stands as an elegant reminder of 18th-century European aristocracy."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Maison De Plaisance"

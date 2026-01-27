@@ -3,7 +3,7 @@ title: "Augustiner-Eremiten-Kloster"
 site_name: "Augustiner-Eremiten-Kloster"
 date: 2026-01-26
 draft: false
-description: "Baden, Austria"
+description: "The Augustiner-Eremiten-Kloster, located in Einbeck, Germany, is a monastery that offers visitors a glimpse into the serene world of religious life and..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"

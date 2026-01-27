@@ -3,7 +3,7 @@ title: "Ottobeuren Abbey"
 site_name: "Ottobeuren Abbey"
 date: 2026-01-26
 draft: false
-description: "abbey"
+description: "Ottobeuren Abbey, a remarkable monastery located in the charming town of Ottobeuren, Germany, offers visitors a profound glimpse into the monastic life and..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Monastery"

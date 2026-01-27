@@ -3,7 +3,7 @@ title: "Church of St Augustine of Canterbury, Wiesbaden"
 site_name: "Church of St Augustine of Canterbury, Wiesbaden"
 date: 2026-01-26
 draft: false
-description: "church building in Wiesbaden, Germany"
+description: "The Church of St Augustine of Canterbury in Wiesbaden, Germany, stands as an architectural landmark that captures the essence of the city’s cultural and..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

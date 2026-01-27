@@ -3,7 +3,7 @@ title: "Niederdonk Chapel"
 site_name: "Niederdonk Chapel"
 date: 2026-01-26
 draft: false
-description: "Chapel in Meerbusch, Germany"
+description: "Niederdonk Chapel, located in the charming town of Meerbusch, Germany, offers visitors a serene glimpse into the region's religious architecture and local..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Chapel"

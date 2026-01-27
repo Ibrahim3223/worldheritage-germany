@@ -3,7 +3,7 @@ title: "Tauberfränkisches Landschaftsmuseum"
 site_name: "Tauberfränkisches Landschaftsmuseum"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "In the heart of Tauberbischofsheim, Germany, lies the Tauberfränkisches Landschaftsmuseum, a museum that serves as a gateway to the region's cultural..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"

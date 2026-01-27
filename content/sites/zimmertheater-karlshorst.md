@@ -3,7 +3,7 @@ title: "Zimmertheater Karlshorst"
 site_name: "Zimmertheater Karlshorst"
 date: 2026-01-26
 draft: false
-description: "Theater in Deutschland"
+description: "Zimmertheater Karlshorst, located in the vibrant Lichtenberg district of Berlin, is a unique theatre building that serves as a cultural hub for the local..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Theatre Building"

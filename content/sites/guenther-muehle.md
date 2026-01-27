@@ -3,7 +3,7 @@ title: "Günther-Mühle"
 site_name: "Günther-Mühle"
 date: 2026-01-26
 draft: false
-description: "Bockwindmühle in Neundorf auf dem Eigen in der Oberlausitz"
+description: "Günther-Mühle, a traditional windmill located in the picturesque region of Herrnhut, Germany, offers visitors a unique glimpse into the historical..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Windmill"

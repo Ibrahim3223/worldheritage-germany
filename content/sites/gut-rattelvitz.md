@@ -3,7 +3,7 @@ title: "Gut Rattelvitz"
 site_name: "Gut Rattelvitz"
 date: 2026-01-26
 draft: false
-description: "Herrenhaus im Ortsteil Rattelvitz der Gemeinde Gingst"
+description: "Gut Rattelvitz is a remarkable manor house located in the tranquil region of Gingst, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Manor House"

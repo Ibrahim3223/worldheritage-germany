@@ -3,7 +3,7 @@ title: "Braunkohlenwerk Puschwitz"
 site_name: "Braunkohlenwerk Puschwitz"
 date: 2026-01-26
 draft: false
-description: "Bergbaubetrieb im Lausitzer Braunkohlerevier bei Puschwitz in Sachsen"
+description: "Braunkohlenwerk Puschwitz is a significant site within the Lausitz brown coal district in Germany, representing an integral part of the region's industrial..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Factory"

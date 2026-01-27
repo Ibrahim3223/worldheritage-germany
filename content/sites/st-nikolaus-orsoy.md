@@ -3,7 +3,7 @@ title: "St. Nikolaus (Orsoy)"
 site_name: "St. Nikolaus (Orsoy)"
 date: 2026-01-26
 draft: false
-description: "church building in Rheinberg, Germany"
+description: "St. Nikolaus in Orsoy is a church building located in the charming town of Rheinberg, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

@@ -3,7 +3,7 @@ title: "Jesuit Church"
 site_name: "Jesuit Church"
 date: 2026-01-26
 draft: false
-description: "church in Mannheim, Germany"
+description: "The Jesuit Church, an architectural and spiritual landmark in Mannheim, Germany, stands as a prominent example of Baroque ecclesiastical design."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

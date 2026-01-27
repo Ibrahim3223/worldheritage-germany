@@ -3,7 +3,7 @@ title: "Heimat- und Palitzschmuseum Prohlis"
 site_name: "Heimat- und Palitzschmuseum Prohlis"
 date: 2026-01-26
 draft: false
-description: "museum in Dresden"
+description: "Located in the heart of Dresden, the Heimat- und Palitzschmuseum Prohlis is a unique museum that provides insight into the local heritage and culture of the..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

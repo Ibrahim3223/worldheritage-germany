@@ -3,7 +3,7 @@ title: "Benediktinerkloster Belecke"
 site_name: "Benediktinerkloster Belecke"
 date: 2026-01-26
 draft: false
-description: "ehemaliges Benediktinerkloster in Warstein-Belecke"
+description: "The Benediktinerkloster Belecke, located in the town of Warstein, Germany, is a site that reflects the spiritual and architectural heritage of the..."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monastery"

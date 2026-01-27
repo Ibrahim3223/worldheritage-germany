@@ -3,7 +3,7 @@ title: "Insel Hombroich Foundation"
 site_name: "Insel Hombroich Foundation"
 date: 2026-01-26
 draft: false
-description: "German art foundation"
+description: "The Insel Hombroich Foundation is a compelling convergence of art, nature, and architecture, located in the Neuss region of Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Foundation"

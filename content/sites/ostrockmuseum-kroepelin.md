@@ -3,7 +3,7 @@ title: "Ostrockmuseum Kröpelin"
 site_name: "Ostrockmuseum Kröpelin"
 date: 2026-01-26
 draft: false
-description: "museum in Germany"
+description: "The Ostrockmuseum Kröpelin is a unique cultural institution located in the quaint town of Kröpelin, Germany."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Museum"

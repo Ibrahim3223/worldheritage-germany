@@ -3,7 +3,7 @@ title: "Burg Grumbach"
 site_name: "Burg Grumbach"
 date: 2026-01-26
 draft: false
-description: "Castle in Germany"
+description: "Burg Grumbach, an evocative castle situated in the heart of Germany, invites visitors to explore its storied walls and immerse themselves in the essence of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

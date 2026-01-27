@@ -3,7 +3,7 @@ title: "Museum unter Tage"
 site_name: "Museum unter Tage"
 date: 2026-01-26
 draft: false
-description: "museum in Bochum, Germany"
+description: "Museum unter Tage, located in Bochum, Germany, is an art museum that offers visitors a unique perspective on the intersection of art and history."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

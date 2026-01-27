@@ -3,7 +3,7 @@ title: "Museum Judengasse"
 site_name: "Museum Judengasse"
 date: 2026-01-26
 draft: false
-description: "museum in Frankfurt am Main, Germany"
+description: "Museum Judengasse in Frankfurt am Main is a significant cultural institution dedicated to the history of the Jewish community in the region."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Museum"

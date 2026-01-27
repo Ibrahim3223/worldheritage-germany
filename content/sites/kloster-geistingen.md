@@ -3,7 +3,7 @@ title: "Kloster Geistingen"
 site_name: "Kloster Geistingen"
 date: 2026-01-26
 draft: false
-description: "Monastery in Germany"
+description: "Kloster Geistingen, located in the serene region of Hennef, Germany, is a remarkable monastery that offers a tranquil escape imbued with historical and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monastery"

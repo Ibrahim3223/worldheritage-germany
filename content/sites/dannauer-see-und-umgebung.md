@@ -3,7 +3,7 @@ title: "Dannauer See und Umgebung"
 site_name: "Dannauer See und Umgebung"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
+description: "Situated in the serene expanse of Schleswig-Holstein, Germany, Dannauer See und Umgebung is a prominent nature reserve that captures the essence of the..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

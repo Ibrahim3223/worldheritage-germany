@@ -3,7 +3,7 @@ title: "Simultaneous Church Gau-Odernheim"
 site_name: "Simultaneous Church Gau-Odernheim"
 date: 2026-01-26
 draft: false
-description: "church building in Gau-Odernheim, Germany"
+description: "The Simultaneous Church in Gau-Odernheim stands as a remarkable example of religious architecture that illustrates the unique coexistence of different..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"

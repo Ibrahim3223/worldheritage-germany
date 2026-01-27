@@ -3,7 +3,7 @@ title: "Stummsche Kapelle"
 site_name: "Stummsche Kapelle"
 date: 2026-01-26
 draft: false
-description: "church building in Neunkirchen, Germany"
+description: "Stummsche Kapelle, a church building located in the town of Neunkirchen, Germany, stands as a serene landmark in the heart of the region."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Church Building"

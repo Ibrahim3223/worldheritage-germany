@@ -3,7 +3,7 @@ title: "Burg Hirschau"
 site_name: "Burg Hirschau"
 date: 2026-01-26
 draft: false
-description: "castle"
+description: "Burg Hirschau, a captivating castle located in the Tübingen region of Germany, offers a glimpse into the architectural and historical intricacies of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Castle"

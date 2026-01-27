@@ -3,7 +3,7 @@ title: "Die Schmiere (Frankfurt)"
 site_name: "Die Schmiere (Frankfurt)"
 date: 2026-01-26
 draft: false
-description: "Theater in Deutschland"
+description: "Die Schmiere, a notable theatre building located in the heart of Frankfurt, Germany, serves as a vibrant hub for performing arts enthusiasts."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Theatre Building"

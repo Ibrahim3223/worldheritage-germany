@@ -3,7 +3,7 @@ title: "St.-Paulus-Dom"
 site_name: "St.-Paulus-Dom"
 date: 2026-01-26
 draft: false
-description: "cathedral in Münster, Germany"
+description: "St.-Paulus-Dom, also known as the Cathedral of St. Paul, is a remarkable cathedral located in the heart of Münster, Germany."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Cathedral"

@@ -3,7 +3,7 @@ title: "Burgruine Bloßenstaufen"
 site_name: "Burgruine Bloßenstaufen"
 date: 2026-01-26
 draft: false
-description: "castle ruin"
+description: "Burgruine Bloßenstaufen, an archaeological site located in Syrgenstein, Germany, represents a poignant remnant of a bygone era."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Archaeological Site"

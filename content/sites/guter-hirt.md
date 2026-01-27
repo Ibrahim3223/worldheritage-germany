@@ -3,7 +3,7 @@ title: "Guter Hirt"
 site_name: "Guter Hirt"
 date: 2026-01-26
 draft: false
-description: "church building in Hildesheim, Germany"
+description: "Guter Hirt is a noteworthy church building located in Hildesheim, Germany, serving as an important religious and cultural landmark in the region."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

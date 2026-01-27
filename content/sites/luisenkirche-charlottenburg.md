@@ -3,7 +3,7 @@ title: "Luisenkirche, Charlottenburg"
 site_name: "Luisenkirche, Charlottenburg"
 date: 2026-01-26
 draft: false
-description: "Protestant church, now in Berlin"
+description: "Located in the vibrant district of Charlottenburg-Wilmersdorf, Luisenkirche is a striking example of Protestant architecture in Berlin, Germany."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

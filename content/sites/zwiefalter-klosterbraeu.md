@@ -3,7 +3,7 @@ title: "Zwiefalter Klosterbräu"
 site_name: "Zwiefalter Klosterbräu"
 date: 2026-01-26
 draft: false
-description: "Baden-Württembergische Brauerei"
+description: "Nestled in the charming landscapes of Baden-Württemberg, Zwiefalter Klosterbräu stands as a significant cultural and historical landmark in the region of..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Brewery"

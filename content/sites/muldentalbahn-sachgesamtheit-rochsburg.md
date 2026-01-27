@@ -3,7 +3,7 @@ title: "Muldentalbahn (Sachgesamtheit) Rochsburg"
 site_name: "Muldentalbahn (Sachgesamtheit) Rochsburg"
 date: 2026-01-26
 draft: false
-description: "bridge in Germany"
+description: "The Muldentalbahn (Sachgesamtheit) Rochsburg is a notable bridge located in the quaint town of Lunzenau, Germany."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Bridge"

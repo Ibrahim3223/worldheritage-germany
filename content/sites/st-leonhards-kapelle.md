@@ -3,7 +3,7 @@ title: "St.-Leonhards-Kapelle"
 site_name: "St.-Leonhards-Kapelle"
 date: 2026-01-26
 draft: false
-description: "building in Scheer, Tübingen Government Region, Bade-Württemberg, Germany"
+description: "The St.-Leonhards-Kapelle, located in the quaint town of Scheer within the Tübingen Government Region of Baden-Württemberg, Germany, is a serene chapel that..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Chapel"

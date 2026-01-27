@@ -3,7 +3,7 @@ title: "Savignyplatz"
 site_name: "Savignyplatz"
 date: 2026-01-26
 draft: false
-description: "square in Berlin"
+description: "Savignyplatz is a prominent square located in the vibrant district of Charlottenburg-Wilmersdorf, Berlin."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Square"

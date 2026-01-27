@@ -3,7 +3,7 @@ title: "Wolfsschlucht"
 site_name: "Wolfsschlucht"
 date: 2026-01-26
 draft: false
-description: "mountain pass near Baden-Baden, Germany"
+description: "Wolfsschlucht, a picturesque mountain pass located near Baden-Baden, Germany, offers a unique blend of natural beauty and cultural significance."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Mountain Pass"

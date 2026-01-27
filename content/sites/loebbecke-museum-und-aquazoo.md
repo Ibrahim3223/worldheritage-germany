@@ -3,7 +3,7 @@ title: "Löbbecke Museum und Aquazoo"
 site_name: "Löbbecke Museum und Aquazoo"
 date: 2026-01-26
 draft: false
-description: "museum and aquarium in Düsseldorf, Germany"
+description: "The Löbbecke Museum und Aquazoo, located in Düsseldorf, Germany, is a unique fusion of museum and aquarium experiences."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Museum"

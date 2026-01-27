@@ -3,7 +3,7 @@ title: "Kirche zum Heilsbronnen"
 site_name: "Kirche zum Heilsbronnen"
 date: 2026-01-26
 draft: false
-description: "church building in Berlin, Germany"
+description: "Kirche zum Heilsbronnen, a church building located in the vibrant district of Tempelhof-Schöneberg in Berlin, Germany, stands as a significant landmark that..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Church Building"

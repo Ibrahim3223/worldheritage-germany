@@ -3,7 +3,7 @@ title: "Riepster Kirche"
 site_name: "Riepster Kirche"
 date: 2026-01-26
 draft: false
-description: "church building in Riepe, Germany"
+description: "Riepster Kirche, located in the tranquil village of Riepe within the Ihlow region of Germany, is a remarkable example of ecclesiastical architecture that..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"

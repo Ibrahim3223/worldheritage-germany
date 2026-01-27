@@ -3,7 +3,7 @@ title: "Appelhorn"
 site_name: "Appelhorn"
 date: 2026-01-26
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
+description: "Located in the picturesque region of Lower Saxony, Germany, Appelhorn is a designated nature reserve that offers an inviting escape into the tranquility of..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Naturschutzgebiet"

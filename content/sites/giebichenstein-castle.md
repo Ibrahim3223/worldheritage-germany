@@ -3,7 +3,7 @@ title: "Giebichenstein Castle"
 site_name: "Giebichenstein Castle"
 date: 2026-01-26
 draft: false
-description: "castle in Halle, Saxony-Anhalt, Germany"
+description: "Giebichenstein Castle, a remarkable historic fortress, sits majestically above the banks of the Saale River in Halle (Saale), Saxony-Anhalt, Germany."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Castle"

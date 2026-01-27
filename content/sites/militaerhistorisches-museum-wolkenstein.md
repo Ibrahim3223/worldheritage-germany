@@ -3,7 +3,7 @@ title: "Militärhistorisches Museum Wolkenstein"
 site_name: "Militärhistorisches Museum Wolkenstein"
 date: 2026-01-26
 draft: false
-description: "museum in Saxony, Germany"
+description: "The Militärhistorisches Museum Wolkenstein, located in the picturesque region of Saxony, Germany, serves as a significant repository of military history,..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Museum"

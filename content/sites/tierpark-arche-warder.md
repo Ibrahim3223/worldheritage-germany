@@ -3,7 +3,7 @@ title: "Tierpark Arche Warder"
 site_name: "Tierpark Arche Warder"
 date: 2026-01-26
 draft: false
-description: "zoo in Germany"
+description: "Tierpark Arche Warder, located in the Rendsburg-Eckernförde region of Germany, is a unique zoo that serves not just as a home for wildlife but also as an..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

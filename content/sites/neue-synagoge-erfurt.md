@@ -3,7 +3,7 @@ title: "Neue Synagoge (Erfurt)"
 site_name: "Neue Synagoge (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "New synagogue on the site of the Große Synagoge torched by Nazis in 1938"
+description: "The Neue Synagoge in Erfurt serves as a poignant reminder of the city’s Jewish heritage and the resilience of its community."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"

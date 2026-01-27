@@ -3,7 +3,7 @@ title: "Torhaus Hauptstraße 171 in Miltenberg"
 site_name: "Torhaus Hauptstraße 171 in Miltenberg"
 date: 2026-01-26
 draft: false
-description: "cultural heritage monument D-6-76-139-124 (1) in Miltenberg, Bavaria"
+description: "Torhaus Hauptstraße 171 in Miltenberg is a striking gatehouse that serves as a crucial cultural heritage monument in Bavaria, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Gatehouse"

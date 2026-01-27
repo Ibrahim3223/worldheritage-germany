@@ -3,7 +3,7 @@ title: "Benediktinerinnenkloster Neuburg an der Donau"
 site_name: "Benediktinerinnenkloster Neuburg an der Donau"
 date: 2026-01-26
 draft: false
-description: "human settlement"
+description: "Benediktinerinnenkloster Neuburg an der Donau, a Benedictine monastery located in the charming town of Neuburg an der Donau, Germany, offers visitors a..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monastery"

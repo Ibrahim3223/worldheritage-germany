@@ -3,7 +3,7 @@ title: "SS. Peter and Paul's Church, Göttingen"
 site_name: "SS. Peter and Paul's Church, Göttingen"
 date: 2026-01-26
 draft: false
-description: "former church in Göttingen"
+description: "SS. Peter and Paul's Church in Göttingen serves as a remarkable symbol of the city's historical and cultural landscape."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Church Building"

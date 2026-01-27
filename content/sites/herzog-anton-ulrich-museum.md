@@ -3,7 +3,7 @@ title: "Herzog Anton Ulrich Museum"
 site_name: "Herzog Anton Ulrich Museum"
 date: 2026-01-26
 draft: false
-description: "art museum in Braunschweig, Germany"
+description: "The Herzog Anton Ulrich Museum, located in Braunschweig, Germany, is a prominent art museum that holds a significant place in the cultural landscape of the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Art Museum"

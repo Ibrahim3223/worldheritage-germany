@@ -3,7 +3,7 @@ title: "Akademie Schloss Solitude"
 site_name: "Akademie Schloss Solitude"
 date: 2026-01-26
 draft: false
-description: "Foundation in Germany"
+description: "Akademie Schloss Solitude is a distinguished foundation located in Stuttgart, Germany, that serves as a cultural and artistic haven for individuals seeking..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Foundation"

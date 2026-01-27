@@ -3,7 +3,7 @@ title: "Worms Cathedral"
 site_name: "Worms Cathedral"
 date: 2026-01-26
 draft: false
-description: "cathedral in Germany"
+description: "Worms Cathedral, officially known as the Cathedral of St. Peter, is a remarkable Catholic cathedral located in the heart of Worms, Germany."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Catholic Cathedral"

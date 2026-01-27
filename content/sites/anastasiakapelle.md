@@ -3,7 +3,7 @@ title: "Anastasiakapelle"
 site_name: "Anastasiakapelle"
 date: 2026-01-26
 draft: false
-description: "church"
+description: "Anastasiakapelle, a quaint chapel located in the serene region of Benediktbeuern, Germany, invites visitors to explore its spiritual and architectural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Chapel"

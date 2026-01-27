@@ -3,7 +3,7 @@ title: "Town hall Markt 1 Schildau"
 site_name: "Town hall Markt 1 Schildau"
 date: 2026-01-26
 draft: false
-description: "Old town hall in Schildau (Saxony)"
+description: "In the heart of Schildau, Germany, the Town Hall at Markt 1 stands as an important civic structure, embodying the historical and cultural essence of this..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "City Hall"

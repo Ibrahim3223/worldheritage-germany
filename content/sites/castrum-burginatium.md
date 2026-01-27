@@ -3,7 +3,7 @@ title: "Castrum Burginatium"
 site_name: "Castrum Burginatium"
 date: 2026-01-26
 draft: false
-description: "castrum"
+description: "Castrum Burginatium is an archaeological site located in the region of Germania Inferior, Germany."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Archaeological Site"

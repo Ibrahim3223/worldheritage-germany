@@ -3,7 +3,7 @@ title: "Cusanusstift"
 site_name: "Cusanusstift"
 date: 2026-01-26
 draft: false
-description: "library in Germany"
+description: "Located in the heart of Germany, the Cusanusstift is not merely a library; it is a sanctuary of knowledge and a cornerstone of cultural heritage."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "Library"
