@@ -78,7 +78,16 @@
       "Bash(git show:*)",
       "Bash(git ls-tree:*)",
       "Bash(gh run list:*)",
-      "Bash(head:*)"
+      "Bash(head:*)",
+      "Bash(if [ -d \"data/content_backup\" ])",
+      "Bash(then ls \"data/content_backup\")",
+      "Bash(else echo \"Directory not found\")",
+      "Bash(if [ -f \"logs/worldheritage.log\" ])",
+      "Bash(then tail -100 logs/worldheritage.log)",
+      "Bash(else echo \"File not found\")",
+      "Bash(git rm:*)",
+      "Bash(del nul)",
+      "Bash(git merge:*)"
     ]
   }
 }
