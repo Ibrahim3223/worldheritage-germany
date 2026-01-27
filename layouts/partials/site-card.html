@@ -62,14 +62,14 @@
 
     <p class="text-sm text-stone mb-3">📍 {{ $locationText }}</p>
 
-    <p class="card-text line-clamp-4 overflow-hidden mb-4">
+    <p class="card-text line-clamp-3 overflow-hidden mb-4">
       {{- $excerpt := "" -}}
       {{- if .Summary -}}
         {{- $plain := .Summary | plainify -}}
         {{- $cleaned := replaceRE "(?i)^\\s*overview\\s*[:\\.]?\\s*" "" $plain -}}
-        {{- $excerpt = $cleaned | strings.TrimSpace | truncate 200 -}}
+        {{- $excerpt = $cleaned | strings.TrimSpace | truncate 150 -}}
       {{- else if .Description -}}
-        {{- $excerpt = .Description | truncate 200 -}}
+        {{- $excerpt = .Description | truncate 150 -}}
       {{- else -}}
         {{- $excerpt = printf "Explore this %s in Germany's rich cultural landscape." (.Params.heritage_type | lower) -}}
       {{- end -}}
