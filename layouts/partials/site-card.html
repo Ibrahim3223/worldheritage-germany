@@ -64,27 +64,18 @@
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
       {{ $excerpt := "" }}
-      {{ if .Content }}
-        {{/* Extract content after Overview heading */}}
-        {{ $content := .Content | plainify }}
-        {{/* Remove everything up to and including ## Overview heading */}}
-        {{ $content = replaceRE "(?s).*?##\\s*Overview\\s*\n+" "" $content }}
-        {{/* Remove any remaining headings and content after them */}}
-        {{ $content = replaceRE "(?s)##.*" "" $content }}
-        {{/* Clean up extra whitespace */}}
-        {{ $content = replaceRE "\\s+" " " $content }}
-        {{ $content = strings.TrimSpace $content }}
-        {{/* Take first 200 characters to get full sentences */}}
-        {{ if gt (len $content) 20 }}
-          {{ $excerpt = $content | truncate 200 }}
-        {{ end }}
-      {{ end }}
-      {{ if and $excerpt (gt (len $excerpt) 20) }}
-        {{ $excerpt }}
+      {{ if .Summary }}
+        {{/* Use Hugo's built-in summary (first 70 words or up to <!--more-->) */}}
+        {{ $excerpt = .Summary | plainify | truncate 200 }}
       {{ else if .Description }}
-        {{ .Description | truncate 200 }}
-      {{ else if .Summary }}
-        {{ .Summary | plainify | truncate 200 }}
+        {{ $excerpt = .Description | truncate 200 }}
+      {{ else if .Content }}
+        {{/* Fallback: get first paragraph from content */}}
+        {{ $content := .Content | plainify | truncate 300 }}
+        {{ $excerpt = $content | truncate 200 }}
+      {{ end }}
+      {{ if $excerpt }}
+        {{ $excerpt }}
       {{ else }}
         Explore this {{ .Params.heritage_type | lower }} in Germany's rich cultural landscape.
       {{ end }}
