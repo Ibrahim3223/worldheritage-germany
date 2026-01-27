@@ -67,21 +67,13 @@
       {{ if .Description }}
         {{ $excerpt = .Description | truncate 200 }}
       {{ else if .Content }}
-        {{/* Get content after Overview heading */}}
-        {{ $content := .Content }}
-        {{/* Find Overview heading and get content after it */}}
-        {{ $overviewIndex := strings.Index $content "Overview" }}
-        {{ if gt $overviewIndex 0 }}
-          {{/* Get content after "Overview" */}}
-          {{ $afterOverview := substr $content (add $overviewIndex 8) }}
-          {{/* Convert to plain text and clean up */}}
-          {{ $plain := $afterOverview | plainify }}
-          {{/* Take first 200 chars */}}
-          {{ $excerpt = strings.TrimSpace $plain | truncate 200 }}
-        {{ else }}
-          {{/* No Overview heading, use first paragraph */}}
-          {{ $excerpt = .Content | plainify | strings.TrimSpace | truncate 200 }}
-        {{ end }}
+        {{/* Remove everything up to ## Overview heading */}}
+        {{ $afterOverview := replaceRE "(?s)^.*?##\\s*Overview\\s*" "" .Content }}
+        {{/* Remove any remaining headings */}}
+        {{ $beforeNext := replaceRE "(?s)##.*$" "" $afterOverview }}
+        {{/* Convert to plain text */}}
+        {{ $plain := $beforeNext | plainify }}
+        {{ $excerpt = $plain | truncate 200 }}
       {{ end }}
       {{ if $excerpt }}
         {{ $excerpt }}
