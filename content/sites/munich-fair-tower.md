@@ -3,7 +3,7 @@ title: "Munich Fair Tower"
 site_name: "Munich Fair Tower"
 date: 2026-01-26
 draft: false
-description: "The Munich Fair Tower, known locally as the \"Messe Turm,\" is an iconic structure located in the Trudering-Riem district of Munich, Germany."Messe Turm," is an iconic structure located in the Trudering-Riem district of Munich, Germany."
+description: "The Munich Fair Tower, known locally as the \"Messe Turm,\" is an iconic structure located in the Trudering-Riem district of Munich, Germany."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Tower"

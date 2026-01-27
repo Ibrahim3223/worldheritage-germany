@@ -3,7 +3,7 @@ title: "Der gescheiterte Varus"
 site_name: "Der gescheiterte Varus"
 date: 2026-01-26
 draft: false
-description: "In the heart of Haltern am See, Germany, stands the statue known as \"Der gescheiterte Varus,\" a striking monument that captures both the imagination and the..."Der gescheiterte Varus," a striking monument that captures both the imagination and the..."
+description: "In the heart of Haltern am See, Germany, stands the statue known as \"Der gescheiterte Varus,\" a striking monument that captures both the imagination and the..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Statue"

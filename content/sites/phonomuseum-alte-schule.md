@@ -3,7 +3,7 @@ title: "Phonomuseum \"Alte Schule\""
 site_name: "Phonomuseum \"Alte Schule\""
 date: 2026-01-26
 draft: false
-description: "Phonomuseum \"Alte Schule\" is an intriguing museum located in Holzdorf, Germany, dedicated to the preservation and presentation of phonographs and sound..."Alte Schule" is an intriguing museum located in Holzdorf, Germany, dedicated to the preservation and presentation of phonographs and sound..."
+description: "Phonomuseum \"Alte Schule\" is an intriguing museum located in Holzdorf, Germany, dedicated to the preservation and presentation of phonographs and sound..."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Museum"

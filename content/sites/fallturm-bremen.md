@@ -3,7 +3,7 @@ title: "Fallturm Bremen"
 site_name: "Fallturm Bremen"
 date: 2026-01-26
 draft: false
-description: "The Fallturm Bremen, or \"Drop Tower,\" is a striking scientific structure located within the grounds of the University of Bremen in Germany's Horn-Lehe district."Drop Tower," is a striking scientific structure located within the grounds of the University of Bremen in Germany's Horn-Lehe district."
+description: "The Fallturm Bremen, or \"Drop Tower,\" is a striking scientific structure located within the grounds of the University of Bremen in Germany's Horn-Lehe district."
 region: "Bremen"
 country: "Germany"
 heritage_type: "Tower"

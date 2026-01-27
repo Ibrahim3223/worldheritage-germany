@@ -3,7 +3,7 @@ title: "Märchenbrunnen (Wuppertal)"
 site_name: "Märchenbrunnen (Wuppertal)"
 date: 2026-01-26
 draft: false
-description: "In the heart of Wuppertal, Germany, the Märchenbrunnen, or \"Fairy Tale Fountain,\" serves as a charming monument that captures the imagination of visitors..."Fairy Tale Fountain," serves as a charming monument that captures the imagination of visitors..."
+description: "In the heart of Wuppertal, Germany, the Märchenbrunnen, or \"Fairy Tale Fountain,\" serves as a charming monument that captures the imagination of visitors..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"

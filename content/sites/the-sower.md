@@ -3,7 +3,7 @@ title: "The Sower"
 site_name: "The Sower"
 date: 2026-01-26
 draft: false
-description: "In the heart of Frankfurt, Germany, lies \"The Sower,\" a striking monument that captures the essence of labor and dedication through its intricate design."The Sower," a striking monument that captures the essence of labor and dedication through its intricate design."
+description: "In the heart of Frankfurt, Germany, lies \"The Sower,\" a striking monument that captures the essence of labor and dedication through its intricate design."
 region: "Hesse"
 country: "Germany"
 heritage_type: "Monument"

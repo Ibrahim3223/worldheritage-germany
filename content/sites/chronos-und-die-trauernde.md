@@ -3,7 +3,7 @@ title: "Chronos und die Trauernde"
 site_name: "Chronos und die Trauernde"
 date: 2026-01-26
 draft: false
-description: "In the heart of Germany, the statue known as \"Chronos und die Trauernde\" in Radebeul captures the essence of time intertwined with human emotion."Chronos und die Trauernde" in Radebeul captures the essence of time intertwined with human emotion."
+description: "In the heart of Germany, the statue known as \"Chronos und die Trauernde\" in Radebeul captures the essence of time intertwined with human emotion."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"
