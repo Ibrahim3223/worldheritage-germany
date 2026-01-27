@@ -64,15 +64,24 @@
 
     <p class="card-text line-clamp-4 overflow-hidden mb-4">
       {{ $excerpt := "" }}
-      {{ if .Summary }}
-        {{/* Use Hugo's built-in summary (first 70 words or up to <!--more-->) */}}
-        {{ $excerpt = .Summary | plainify | truncate 200 }}
-      {{ else if .Description }}
+      {{ if .Description }}
         {{ $excerpt = .Description | truncate 200 }}
       {{ else if .Content }}
-        {{/* Fallback: get first paragraph from content */}}
-        {{ $content := .Content | plainify | truncate 300 }}
-        {{ $excerpt = $content | truncate 200 }}
+        {{/* Get content after Overview heading */}}
+        {{ $content := .Content }}
+        {{/* Find Overview heading and get content after it */}}
+        {{ $overviewIndex := strings.Index $content "Overview" }}
+        {{ if gt $overviewIndex 0 }}
+          {{/* Get content after "Overview" */}}
+          {{ $afterOverview := substr $content (add $overviewIndex 8) }}
+          {{/* Convert to plain text and clean up */}}
+          {{ $plain := $afterOverview | plainify }}
+          {{/* Take first 200 chars */}}
+          {{ $excerpt = strings.TrimSpace $plain | truncate 200 }}
+        {{ else }}
+          {{/* No Overview heading, use first paragraph */}}
+          {{ $excerpt = .Content | plainify | strings.TrimSpace | truncate 200 }}
+        {{ end }}
       {{ end }}
       {{ if $excerpt }}
         {{ $excerpt }}
